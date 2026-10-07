@@ -1,0 +1,227 @@
+{
+  "search_metadata": {
+    "id": "6ac69ce17223f4978e341011",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Rzyok6Zr1AG-IZuvUpZaucrUp2p8mWgR1asLNGVYwas/6ac69ce17223f4978e341011.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Rzyok6Zr1AG-IZuvUpZaucrUp2p8mWgR1asLNGVYwas/6ac69ce17223f4978e341011.md",
+    "created_at": "2026-10-07 19:26:25 UTC",
+    "processed_at": "2026-10-07 19:26:25 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Python+Developer&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/Rzyok6Zr1AG-IZuvUpZaucrUp2p8mWgR1asLNGVYwas/6ac69ce17223f4978e341011.html",
+    "prettify_html_file": "https://serpapi.com/searches/Rzyok6Zr1AG-IZuvUpZaucrUp2p8mWgR1asLNGVYwas/6ac69ce17223f4978e341011.prettify",
+    "total_time_taken": 6.96
+  },
+  "search_parameters": {
+    "q": "Python Developer",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMFkzZUVwcVUwVTFkbTlvVkVKMldGWTVhR3M0VG5BMlVsbFhaRlJDY2tKaVNVOXJMVEIxYUd4bllVOXZUMDB3TjJoc1JYUlhhWFJzUTFaYVdGVkpTRjlPVm1wdVFWbDVhRWxUWDB4UlEzbFpkVlJvUms1RlRGaDRaelIzY0UwNU1GSndhekpCVVdKRE4xUnlSamczWWw4ekxYQm9SRlZ6T1dKMVkwRndUVTB5TFhNeFYyTk5iMFo0Um5OMWFTMDVWMDVzY1dSWmNWQjVkMGhPUW5wU0xXVldhbFJWYjFGeE1HWlFhak56TUdvNVNGTm5ZMGhVWVMxeFRHZFFlbWw1V1VneVl6Tk5lVTUxU0cxTloyOUpSWFJ5T0VocWJsaE1hRWd4ZWtsQ2Nrb3lNVUZyUmxaZk1tMTVUa2xRYldWS2Qyd3pWM1pKZUMxUFpsQk5jbmwwU1hGdU56TjJUamhyWlhSU1RWZFFWME5DZVVOSVpYRmlkM2x1TjNZMVRVWmtOM2xmVG5jNWVFbHFNRGhXYkZwUU4ySmxjVVpHTlhaTWMycFJYekJHVGtKMVREQTJhalpxYjBoalQxSTVRV0ZQVFhGaVMwbHRabWhVTkdkRFdXOXpSM0J4U2xOMk1GVkJkUzB5VDJwSFpFWXpXakozVkY5Mk5GVktRVVJvT1ZsMFZubEZTM1JDV2xOSVZFMXplVloyVm1aVGNVWkVkR1E1VEhnMWRrZFljMXB4TkcxQ1dEY3hTazVwVldKT1pIVXpTSFIzU0VzeVNGRkVRV055YUdkR1NGaDJUbVJYV1c1MmVEVjZkamhSTTB0T05IZERaR1JVTTJrNWFXY1NGelJLZWtkaGRsaEJTVXRwYkRKeWIxQnFkR2xRYjFGdkdpSkJSSE55T1daVVoxUXRXRkJrZUVWR01XNXFTWEpSWmtSS1gyUm5OWE5DTmtWbiIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Developer with Python, Microservice & AWS in Bangalore",
+      "company_name": "Quest Global",
+      "location": "Bengaluru, Karnataka",
+      "via": "Quest Global",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=YJgBb00GJ3FQH-v-AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x3NPQrCQBBAYWw9gtUUYiEhEcFGK0WwEFGxsAyTZdhdXXfCzsSfzjt4FU_kSTQ2r3t83Xenu13SlQLXlODm1cHuoY5jBhtvEgulqzcEA5gfD-AjLDBaDJwIPs8XnLgCIUzGAUdYMdtAvZlTrWVaFCIht6Ko3uSGLwVHqvhe_CZpU4rDRHVApXI8Gd3zOtphf9-QKKwCVxj-ILVgk5oM1pgiKp7xCy9mf0a3AAAA&shmds=v1_ARwrE21g2_te_QXIe4Yi0kYu13aj4aDh3XTeKWiycArbXnuSfw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=YJgBb00GJ3FQH-v-AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69ce17223f4978e341011/images/Ca7wxoChIoyQ8MNyDXgmMvJufvzYNidaumBELYJaZpU.png",
+      "extensions": [
+        "4 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://careers.quest-global.com/global/en/job/P-123163/Developer-with-Python-Microservice-AWS-in-Bangalore",
+      "job_title": "Developer with Python, Microservice & AWS in Bangalore",
+      "description": "Job Requirements \nRole Summary\n\nDeveloper with hands-on experience in Python, Microservice & AWS\n\nKey Requirements\n\nStrong software engineering fundamentals3 to 6 total years of experience Strong experience in Python and Microservices developmentGood understanding of system design conceptsBasic understanding of AWS servicesNice to have-GenAIMust-have Skills & Experience\n\nStrong experience in Python and Microservices developmentBasic understanding of AWS services\n\nWork Experience \nKey Requirements\n\nStrong software engineering fundamentalsStrong experience in Python and Microservices developmentGood understanding of system design conceptsBasic understanding of AWS servicesNice to have-GenAI",
+      "apply_options": [
+        {
+          "title": "Quest Global",
+          "link": "https://careers.quest-global.com/global/en/job/P-123163/Developer-with-Python-Microservice-AWS-in-Bangalore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/lead-senior-cloud-native-developer-aws-with-java-gen-ai-epam-systems-JV_IC2940587_KO0,55_KE56,68.htm?jl=1010154949078&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/developer-with-python-microservice-aws-in-bangalore/quest-global/19533714?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/in-manager-java-full-stack-developer-with-react-data-analytics-advisory-bangalore-pwc-bengaluru-bangalore-66412812?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/0jE26u0JFSMvOo0LKEzY88QcRKYWyBYSLLoxJOSFEo7D2z2ID7Yu3w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/developer-with-python-microservice-aws-in-bangalore-at-quest-global-4473237328?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/3125629063747168377?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/developer-with-python-microservice-aws-in-bangalore-quest-global-bengaluru-karnataka--t7xk-806655516?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEZXZlbG9wZXIgd2l0aCBQeXRob24sIE1pY3Jvc2VydmljZSBcdTAwMjYgQVdTIGluIEJhbmdhbG9yZSIsImNvbXBhbnlfbmFtZSI6IlF1ZXN0IEdsb2JhbCIsImh0aWRvY2lkIjoiWUpnQmIwMEdKM0ZRSC12LUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTa3RrWjFkaWMzbDZiblpFVTFSTmVqaHVSbXd5U2pkZlIyd3RZV1UyWjNKMlMwcFViakptV0ZKdVNqZFlRMDVTTWs5S1JGaDFOR2RLT0V0Mk0yUk1PRVZaV1U5dVRWWTJjVWh3Y0RCMVNubHNlRXhNZDJadFRsOW5TMmxGUmtaQlpEVnRkREpEWTJWek1WVllkMFJyWkcxQ1dHRkVNRWx4V1c5RmRreEhORVZYWW1sdVExWVNGelUxZWtkaGNqTk1TMTlwYkd0a1ZWQjZVR1p3TWtGakdpSkJSSE55T1daUmMzSmhiMlJLTFhSd1ZXcHFiRmcxZW00NWVrSTFjMGhrZG5KbiIsImZjdiI6IjMiLCJmY19pZCI6IllKZ0JiMDBHSjNGUUgtdi1BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Python Developer | Jobs In India",
+      "company_name": "DigitalXNode",
+      "location": "Anywhere",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=2_DNIyHieq-UCbm6AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWLMQrCQBAAsc0TrLawEsmJYKF2EhAVxNIubOJyd3rehtuNRLDwD_Y-zpcYYZhqJvsMssXxoY4jFHSnwA0leMKOK4Ft7Dl7hO_rDReuQAhT7aBvN8w20HDlVBtZGiMSciuK6uu85pvhSBV3pp_kr1IcJmoCKpWz-bTLm2jHo8JbrxhOBz4T-AhrihZDm9oJ7DFFVLziD3mUlgmhAAAA&shmds=v1_ARwrE23PSiEfOJLU67v88AvOYbowSLmIwWcPJoP2_4N6eUlOWw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=2_DNIyHieq-UCbm6AAAAAA%3D%3D",
+      "extensions": [
+        "11 days ago",
+        "₹9L–₹21L a year",
+        "Work from home",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobleads.com/in/job/python-developer-jobs-in-india--bengaluru--e5e8f00e6406c467ac491b0d079958209",
+      "job_title": "Python Developer | Jobs In India",
+      "description": "Company OverviewWe at DigitalXnode work closely with our clients and recruit best fitted talent for our clients across Industries, Sectors and Segments.\n\nJob SummaryWe are looking for experienced Python Developers to support our client's technology and data-focused projects in India. The role is suited to developers with strong Python fundamentals, a solid understanding of data structures and object-oriented programming, and the ability to solve complex technical problems.\n\nThe selected resource will work on large-scale data processing pipelines that support the development and training of machine learning algorithms. The role also involves writing quality code, reviewing existing implementations, debugging issues and working with the wider engineering team to improve technical solutions.\n\nThis is a remote opportunity. Resources may be engaged on a full-time, part-time or contractual basis depending on project requirements and availability.\n\nKey ResponsibilitiesDesign, develop and maintain Python-based solutions for large-scale data processing requirements.Build and support data pipelines used for preparing and processing data for machine learning algorithms.Write clean, maintainable and efficient Python code.Participate in code reviews and contribute to improving code quality and development practices.Identify technical issues, debug Python code and troubleshoot application-related problems.Analyse problems and implement practical solutions based on project requirements.Work with relevant Python libraries, frameworks and tools used in data processing and machine learning projects.Stay informed about relevant developments in Python technologies and evaluate their applicability to ongoing work.Collaborate with developers and other project stakeholders to deliver assigned work within agreed timelines.Required Technical SkillsStrong hands-on programming experience with Python.Good understanding of data structures and algorithms.Strong knowledge of Object-Oriented Programming (OOP) and related design concepts.Strong analytical and problem-solving skills.Experience working with Python development tools, libraries and frameworks.Working knowledge of data processing concepts.Ability to debug, troubleshoot and improve Python applications.Preferred Technical SkillsExperience with NumPy, SciPy, Pandas and Dask.Exposure to NLP libraries such as spaCy and NLTK.Working with machine learning libraries such as scikit-learn and PyTorch.Building or supporting data processing pipelines.Basic experience with HTML, CSS and JavaScript for frontend development.Working knowledge of SQL and NoSQL database technologies.Required Skills4+ years of relevant Python development experience.Strong problem-solving and analytical abilities.Good written and verbal communication skills.Ability to work independently as well as collaboratively with a project team.Attention to code quality and maintainability.Willingness to learn and work with evolving technologies and project requirements.AI ExperienceExperience working on data processing pipelines that support machine learning algorithms will be relevant.Exposure to machine learning libraries such as scikit-learn or PyTorch will be an advantage.Experience with NLP libraries or machine learning workflows may be useful depending on the client project.Managerial ExperienceNot Mandatory. This is primarily an individual contributor role. Previous team-handling experience is not required. The candidate should be able to collaborate effectively with developers and other technical stakeholders.\n\nOperational ExperienceExperience developing and maintaining Python applications or services.Experience debugging code and troubleshooting technical issues.Ability to participate in code reviews and follow development quality practices.Exposure to data processing, data management or machine learning workflows will be useful.Ability to manage assigned development work and deliver within agreed timelines.QualificationsBachelor's degree in Computer Science, Software Engineering or a related field is preferred.Relevant practical experience and demonstrated Python development capability will also be considered.CertificationsRelevant certifications in Python, data science, machine learning or cloud technologies may be an advantage but are not mandatory.\n\nExperience3+ years of relevant experience in Python development. Candidates should have strong hands-on Python programming skills along with knowledge of data structures, OOP and problem-solving.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/python-developer-jobs-in-india--bengaluru--e5e8f00e6406c467ac491b0d079958209?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyIHwgSm9icyBJbiBJbmRpYSIsImNvbXBhbnlfbmFtZSI6IkRpZ2l0YWxYTm9kZSIsImh0aWRvY2lkIjoiMl9ETkl5SGllcS1VQ2JtNkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTak5aVDI1a2JWUk9PR2syTUhGMGFEVTJUa2wyV1haRFJWSXlWR0Z5YnpoVFgyZFpkRE40UkU5U1FYaHBkemhTZVRkUk1VcERYMjlWTTNwek5XMWFTME5YUlVoelJVbHBRMGhzWjFSdmVDMVdkREF6VmpOV1pVWXdSbEZyYkdaWlEwcFdZM1JtUlhObk1ERjFWbEpoZEZCWk1Xa3pUM1JmU1dGbWVIbDVaV05TVUhGc1pXY1NGelUxZWtkaGNqTk1TMTlwYkd0a1ZWQjZVR1p3TWtGakdpSkJSSE55T1daVVptd3dia2gwZGpOM2VWOHlPRXRmVlZweVlYWjNjV0ZxZVc1UiIsImZjdiI6IjMiLCJmY19pZCI6IjJfRE5JeUhpZXEtVUNibTZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Specialist System Engineering (Python Developer, IMS packet core/Telecom experience)",
+      "company_name": "AT&T",
+      "location": "Bengaluru, Karnataka",
+      "via": "AT&T Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=JvkNbbtMj9TtYmH0AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMMUoEQRBFMd0jiEFForJMi2CyRooiIoIwky-1zaen3Z6qpqtWZjPv4K08hidxTF7yeG_1c7Ka-oqYuWRz6o_mmOhJUhagZUl08X70UYUe8YmiFW1NL289VY57OEVtCAMKok6EedEZEnFJv1_f9KE7MnCLIy2DZ9VUcHo3ulfbhGBWumTOnmO31EEFO53DEtk_tjZyQy3s2N7cXs9dlXR1dj-cD5SFHiCJy6Ed1vTKTdh5z38MKPYQzQAAAA&shmds=v1_ARwrE20F9Lmgl8brec-BVjPBrCVOzNkvg5CuGpeqgInQ2TrhAQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=JvkNbbtMj9TtYmH0AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69ce17223f4978e341011/images/A9xBQe4_O2s5NtpK5rN7O_rytbHVNtnNgZZCglPLaLg.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.att.jobs/job/bengaluru/specialist-system-engineering-python-developer-ims-packet-core-telecom-experience/117/100160033504",
+      "job_title": "Specialist System Engineering (Python Developer, IMS packet core/Telecom experience)",
+      "description": "Job Responsibilities \n\nDesign and implement Generative AI solutions to automate cloud operations, security analysis, vulnerability triage, and infrastructure management workflows. \n\nDevelop AI-powered assistants and copilots leveraging enterprise data, automation platforms, and cloud-native services to improve operational efficiency and decision-making. \n\nCloud Security Design and Implementation: Develop and implement robust security architectures for IMS and VoIP applications hosted on Azure public cloud as well as private cloud implementations (e.g. using Red Hat OpenShift), ensuring compliance with AT&T and industry standards as well as regulatory requirements. \n\nSecurity Monitoring and Incident Response: Utilize security tools (cloud-native and otherwise) to monitor cloud environments for potential threats, respond to security incidents, and conduct thorough investigations to mitigate risks. \n\nRisk Assessment and Vulnerability Management: Perform regular security assessments, including penetration testing, malware scans, and vulnerability scans, to identify and address potential security gaps in cloud infrastructures.  Includes working with vendor(s) in identifying, analyzing, and defining mitigation/remediation plans. \n\nAccess Management: Implement and manage identity access management (IAM) policies to control user and non-user access to cloud resources, ensuring that only authorized personnel and systems have appropriate access levels. \n\nAutomation and Scripting: Utilize various methods to automate the scanning and compilation/analysis of scan results concerning the cloud infrastructure. \n\n\n\nJob Qualifications / Required Qualifications \n\nBachelor’s degree in Computer Science, Engineering, IT, Telecommunications, or equivalent experience.  \n\n5+ years of experience in Python development \n\nIaaC development using Terraform \n\nAzure devops pipelines or github actions development \n\nAzure marketplace extensions development \n\nAnsible playbooks development \n\nBasic shell scripting \n\nVersion control using git \n\n\n\nPreferred Qualifications \n\nCloud platforms: RedHat Openshift, Azure \n\nKubernetes \n\nTelecommunication: 5G/EPC/IMS/VoIP \n\nNetworking concepts \n\n \n\nAdditional Job Information \n\nThis is an offshore role that requires daily collaboration with U.S. stakeholders, including overlapping work hours to ensure effective partnership and meet business needs. \n\n \n\n\n\nWeekly Hours:\n\n40\n\nTime Type:\n\nRegular\n\nLocation:\n\nIND:KA:Bangalore / Epip Area, Hoodi Village, Whitefield Rd - Eqp: Plot 111/112, Epip Area, Hoodi Village, Whitefield Road\nAT&T and its subsidiaries are committed to equal employment opportunity. All hiring, promotion, and other employment decisions remain merit-based and free from discrimination on the basis of race, color, religion, religious creed, national origin, ancestry, age, sex, sexual orientation, gender, gender identity, gender expression, physical disability, mental disability, pregnancy, medical condition, genetic information, marital status, citizenship status, military status, veteran status, or any other characteristic protected by federal, state, or local laws. In addition, AT&T will provide reasonable accommodations to qualified individuals with disabilities. AT&T is a fair chance employer and does not initiate a background check until an offer is made. Click here to learn more or request an application accommodation here.",
+      "apply_options": [
+        {
+          "title": "AT&T Careers",
+          "link": "https://www.att.jobs/job/bengaluru/specialist-system-engineering-python-developer-ims-packet-core-telecom-experience/117/100160033504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/specialist-system-engineering-python-automation-at-t-bengaluru-bangalore-66193108?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-3584724098719959040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010253416075&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/specialist-system-engineering-python-developer-ims-packet-core-telecom-experience-att-bengaluru--ss-in-ovhll7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Levels.fyi",
+          "link": "https://www.levels.fyi/jobs?jobId=109238514477867718&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/specialist-system-engineering-python-developer-ims-packet-core-telecom-experience-at-at-t-4461407163?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/48a53e76-9313-4527-a6c9-1a235c82c090?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTcGVjaWFsaXN0IFN5c3RlbSBFbmdpbmVlcmluZyAoUHl0aG9uIERldmVsb3BlciwgSU1TIHBhY2tldCBjb3JlL1RlbGVjb20gZXhwZXJpZW5jZSkiLCJjb21wYW55X25hbWUiOiJBVFx1MDAyNlQiLCJodGlkb2NpZCI6Ikp2a05iYnRNajlUdFltSDBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBzemEyVlNlVWQwUzBWSGVFUm1aMEpFVURaeVRITjBVRWh6VEhFdFIyTXpUVmRIVGxSVFFsbG1PRU54V0dReVZIRlZNa2hNVGpGM2QwcFdaRjgyTkMxblkzbFBkbEJQYURsc1VqSm9kSGxsTlhRMVQwTjZYemgzY3pFdFJVWnFVVk5pZEdZMFRuVlJSR1JJU0Zwd1QyNHdNbDlUV1VObmVVUlFUMVpOZFVsb2NUUmxUbU1TRnpVMWVrZGhjak5NUzE5cGJHdGtWVkI2VUdad01rRmpHaUpCUkhOeU9XWlVkRjh6VEU1aVUxZEZlRkpQYkd4dldrRTBZbUZ1Wkc1clNIUjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJKdmtOYmJ0TWo5VHRZbUgwQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Back-End Developer - Python Developer",
+      "company_name": "Vontier",
+      "location": "Bengaluru, Karnataka",
+      "via": "Vontier Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=CQub_MU4s4r3hVWWAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_02MMQrCQBBFsc0RbJxaTFYEG-2CwcJGEGzDJA67a9aZZXcjsfMOnsGLeRJjZ_OL93g_e0-y6kRsJUCJbZdXfIEd3cmJpwA5HB_JCP-hz_MFV2kgEobWwOj2ItrRdGtS8nGjVIyu0DFhsm3Ryk0JUyODGqP4mzoaDOQdJqpX6-VQeNbz2Vk42fHeMpTEGl0f-gUcMDAm7PAL8Zzj7qgAAAA&shmds=v1_ARwrE21XeD2WuhHbbSij5Zx4h9TaFKbMMA96fPmoUgdd9uaUsw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=CQub_MU4s4r3hVWWAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAASFBMVEX___8Ao5sAn5ao2NVlwLsAm5Kk1tPY7ux8y8dpxL_D5-VWvbc_tK7j9fT7___t-fma0c214N6X1dIlrabS7uyK0c1LuLJyx8NtGGBnAAAA4ElEQVRIie3V2w6DIBAE0AEE71rU6v__aU1q6VKx2X1tmUeyJyE6YYGcnD9IfzPv-Ou5xj1HXPk6mawOsdUlbI8x68KRtypE11ew0MeEIbfQRLYCiJLKTgDRKyLngQ8xUqlGPsSgyHVT8gpimKns-RDo6CdaBBAtkbYRQNRUegFERUpkJwHci0vkXQDhqNwEMK58IYBY6F9ZBTCWobgMmK48ByYrz4KpyvNgXHld8iGwflSeDfdnjVTBCyC2SFZ8GFVez4oPo8orCYQ5Sx5EQ_bDaQV8zeJMnPfSycn55TwABk8H3dBlHUEAAAAASUVORK5CYII.png",
+      "extensions": [
+        "19 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://careers.vontier.com/us/en/job/DRI007048/Senior-Back-End-Developer-Python-Developer",
+      "job_title": "Senior Back-End Developer - Python Developer",
+      "description": "About the Role\n\nAt Driivz, AI-augmented development is how we work — not an experiment, not a bonus skill. Our BackEnd team builds and ships complex features using agentic AI tools as a core part of the development loop: from research and architecture through implementation, testing, and code review.\n\nYou'll join a team building a white-label EV charging platform used by 40+ global brands. The app handles real-time charging sessions, multi-gateway payments, geolocation, and operator-branded experiences — all in a multi-module Kotlin codebase undergoing active MVI and Compose migrations.\n\nAs a Senior Back End Developer (Python), you'll own the full delivery lifecycle: designing and shipping complex new features, driving legacy-to-modern migrations and contributing to platform and build system health — all with AI as your co-pilot.\n\nINTRODUCTION and WHAT YOU WILL DO (Job Responsibilities)Driivz, a Vontier company, powers the e-mobility revolution with a market-leading, end-to-end EV Charging and Energy Management platform for global charge point operators and electric mobility service providers. \n\nWe offer a scalable, integrated SaaS solution that enables our clients to efficiently manage their networks and provide EV drivers with exceptional charging experience. \n\nOperating in over 35 countries in the US, Europe and Asia, we enable hundreds of millions of events for millions of EV drivers and manage more than 160,000 public chargers (100,000s in roaming). \n\nOur customers include global industry leaders such as EVgo, Volvo Group, Shell, Circle K, Mer, Recharge, Kople, ESB, CEZ, MOL Group, ST1, and eMobility Power. \n\nJoin our team to work alongside the most brilliant and disruptive minds that are focused on leading the eMobility industry and building a greener world.\n\nFor more information, please visit http://www.driivz.com\n\nWHO YOU ARE (Qualifications)Design and build agentic services and AI-augmented platform capabilities - context and harness engineering, plus tool and MCP integrations that connect LLMs to core systems.Own reliability end to end: build the evals, guardrails, and observability that make those systems measurable and production-grade, not just demos.Enhance core capabilities in LOB areas such as Billing and CRM - including through AI-augmented workflows and services.What should you have?\n\nExperienced Backend Developer.Proven Python experience (Min 5+ Years).Proven AI Engineering experience (Context/Harness engineering, Tools, MCP, etc).Experience making agentic/LLM systems reliable in production - evaluation suites, guardrails, and observability.Proven experience with Microservices Architecture.Proven experience in SaaS multitenant high throughput systems.Proven experience with a Relational Databases (MySQL/Postgres, etc.)Experience with Docker.Team player with extensive experience working in teams.Advantages:\n\nAgent orchestration frameworks (LangChain/LangGraph, etc.) - and comfort building directly on LLM primitives when lighter-weight suits the problem better.Python AI/web frameworks: FastAPI, FastMCP, Pydantic.Retrieval and vector search (pgvector or similar).Familiarity with LLM observability and evaluation tooling (OpenTelemetry, Langfuse, or equivalent). Kubernetes or similar container orchestration, beyond Docker.Public cloud, AWS preferred.Event-driven architecture (Kafka, CDC/streaming).Big-data / analytics warehouses (Snowflake, Redshift).Java/Kotlin (Spring Boot) - you'll integrate closely with our JVM platform.#LI-MK1\n\nDriivz, a Vontier company, powers the e-mobility revolution with a market-leading, end-to-end EV Charging and Energy Management platform for global charge point operators and electric mobility service providers. \n\nWe offer a scalable, integrated SaaS solution that enables our clients to efficiently manage their networks and provide EV drivers with exceptional charging experience. \n\nOperating in over 35 countries in the US, Europe and Asia, we enable hundreds of millions of events for millions of EV drivers and manage more than 160,000 public chargers (100,000s in roaming). \n\nOur customers include global industry leaders such as EVgo, Volvo Group, Shell, Circle K, Mer, Recharge, Kople, ESB, CEZ, MOL Group, ST1, and eMobility Power. \n\nWHO IS VONTIER\nVontier (NYSE: VNT) is a global technology company powering the way the world moves. We empower businesses in the transport sector to adapt to a fast-changing landscape by uniting productivity, automation and multi-energy technologies.\n\nOur smart, connected solutions serve roadside convenience retail stores, fleet operators, and auto repair technicians. From integrated payments and EV charging software to carwash technology and retail automation, we help customers stay productive and prepared for a rapidly evolving industry.\n\nWith decades of expertise and a balanced portfolio, Vontier enables businesses to navigate complexity, unlock growth, and build a cleaner, safer future. Driven by continuous improvement and the dedication of Team Vontier, we empower businesses to think bigger, act boldly, and thrive on the road ahead. Learn more at www.vontier.com\n\nAt Vontier, we empower you to steer your career in the direction of success with a dynamic, innovative, and inclusive environment.\n\nOur commitment to personal growth, work-life balance, and collaboration fuels a culture where your contributions drive meaningful change. We provide the roadmap for continuous learning, allowing creativity to flourish and ideas to accelerate into impactful solutions that contribute to a sustainable future.\n\nJoin our community of passionate people working together to navigate challenges and seize new opportunities. At Vontier, you are not on this journey alone, we are committed to equipping you with the tools and support you need to fuel your innovation, lead with impact, and thrive both personally and professionally.\n\nTogether, let’s power the way the world moves!",
+      "apply_options": [
+        {
+          "title": "Vontier Jobs",
+          "link": "https://careers.vontier.com/us/en/job/DRI007048/Senior-Back-End-Developer-Python-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent Zone Consultant",
+          "link": "https://www.talentzoneconsultant.com/job-openings-for-senior-software-developer-bangalore-1372691.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/senior-python-developer-risk-analytics-1661079?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/senior-back-end-developer-python-developer-vontier-JV_KO0,42_KE43,50.htm?jl=1010186627334&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Instahyre",
+          "link": "https://www.instahyre.com/job-441800-senior-python-developer-l6-at-target-in-india-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/vwfkQmf90QHt-b1KzuJRZVjZUJLB0cKGMv9b4wmF0t-JKwtC7uQJow?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/rjdp/-75804676324194508?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5887229817?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQmFjay1FbmQgRGV2ZWxvcGVyIC0gUHl0aG9uIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlZvbnRpZXIiLCJodGlkb2NpZCI6IkNRdWJfTVU0czRyM2hWV1dBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzJWQk4xQldhRzgxZEVoVlpuWTJhbnBrVDJkNVNWaGZZMVY1UzBsMVh6QldWbEpZVjFoa2RUTlNORmN6YUhZeGVGTlJUamN5U2xwYVVHRlRiM1J3Y1c1V00ydzJRa290ZGxwWk4wZG5RbGhWYkc1NmNUbGtTbUZRVkdnNVlrNUZSVEpRTmw5NlluQjZVRkZtYlZSSGVYZDRaelE0ZW1OaU1qTXRPR0ZYZFc5QlpHeDRlbGdTRnpVMWVrZGhjak5NUzE5cGJHdGtWVkI2VUdad01rRmpHaUpCUkhOeU9XWlNTbkpqTUZocFNFOUtPWEZOWkhwNFkzb3pNMDk1V0c4MVNrOW4iLCJmY3YiOiIzIiwiZmNfaWQiOiJDUXViX01VNHM0cjNoVldXQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Infosys hiring freshers Java python developer SAP Testing AI ML",
+      "company_name": "Confidential",
+      "location": "Bengaluru, Karnataka",
+      "via": "OLX India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=nQZuN7sDKPjfO2QCAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLPW7CQBBAYaX1EVJNkQpFNopEk1SQIjI_UqSkSIfGZry7sMysdsYWdNwh5-EynATcvOp7xfWp-Ku5Ez0r-JADO-gyqaessMQBIZ3NC8OOBoqSKMPP_Bt-SW2k8xo2a7hd_mEvDShhbj089JeIi_T84c2SvleVaiydGlpoy1aOlTA1cqoek47ZqsdMKaLR9m02PZWJ3eTlU7gLO2ILGCEwLIgdxj73r7DCzGh4wDuY-CjNwAAAAA&shmds=v1_ARwrE22xRI_4ai9DR1erZTEc-11Do_dLVP_Lc0DCsnvv_uqmmQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=nQZuN7sDKPjfO2QCAAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.olx.in/item/it-engineer-developer-c56-full-time-in-majestic-bengaluru-iid-1857828040",
+      "job_title": "Infosys hiring freshers Java python developer SAP Testing AI ML",
+      "description": "Greetings from Infosys LTD \n\nHiring freshers and experienced with good CGPA \n\nJava developer \nPython developer \nSAP basis Abap\nFull stack developer \nML \nMM\nDevOps Engineer\nBusiness Analyst \nSystem Engineer \nSystem Admin \nHR specialist \n\nFor further procedure send your details \n\nThanks and Regards \nHR Infosys",
+      "apply_options": [
+        {
+          "title": "OLX India",
+          "link": "https://www.olx.in/item/it-engineer-developer-c56-full-time-in-majestic-bengaluru-iid-1857828040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Open Job Network",
+          "link": "https://openjobnet.com/infosys-hiring-product-developer-freshers/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJbmZvc3lzIGhpcmluZyBmcmVzaGVycyBKYXZhIHB5dGhvbiBkZXZlbG9wZXIgU0FQIFRlc3RpbmcgQUkgTUwiLCJjb21wYW55X25hbWUiOiJDb25maWRlbnRpYWwiLCJodGlkb2NpZCI6Im5RWnVON3NES1BqZk8yUUNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU20xQ2JYTlljVFJ4VWxCcFVHNWxXVzB5VmtOUVV6Uk1WRVZpVGtaU1lrcHBWVGRvYkZCcVNVdG9jWGh6TkhCTGVHNUtaVjk0ZFROSldGTXpiMFZvYjBOcmFGZFVhblpFTlRFMlkzQldOMTl4ZVdnM1VqVndUVlpuYWt4VVQxaElkRmxDVWtGd04waG9WM05SZEdGeWRFOWZWbUZ4Y1VWU00yNTJlRzAzU1hWVmRuVktjVmNTRnpVMWVrZGhjak5NUzE5cGJHdGtWVkI2VUdad01rRmpHaUpCUkhOeU9XWlVTM0EwVEZaNlJuaEtNM0ozYTJnellsaG1TVUpIWTNoRFRUQm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJuUVp1TjdzREtQamZPMlFDQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV1SURDcUlEUVVwcFZEUjBTekJhVkVOVVowcHBkRlJRTjNkME5USXdUM2hUWkVGWU4zaHFlR2xSZUdFd1pUbERMVE5PY1VKNmEwSjRkVU5HV2sxdlpYbDRUMWxPZEMxS1ZtNDBNV2hwUXpGeWVYWndSR3N6YUhrNWIweFZTR3BsWVhaWmRUVkVUbUZYU0ZWSGVFZGtibFJMVlhCaVJqRnhSamxPTW1Gd2J6bHlOa1JXYlVSUk9VUkVkVFJsTUhoc01HUndhWGxpZWxabGQwOWZNblJOT0VwWGQxZ3dZbkpQZDB0Q2JVVk9NMDU2WlRnM1NITjRUak4yU2xoU1prSkdhbVUzVGs1blZHd3pWVVpDVXpCQ2RESjFjWE00VGtwRU9IRXlOVzVzYldkM2IyOTZiMHgyVkhONWFWZENWMkZSYTBSMk9GWnJWa0kyYldRd1ZDMDVPV000YVRNeWNtcFlUbXR6VTJaWFJXdDZUbGRWYlZwTlJWaGxXbGs1TlZOUlIyaHNRVWgzV0RCNmJIQmlYMGRWYUdaVVpVeEdlR1ZwYUd0dVdqUnlhMnB3YmtWamJtZzVkRU5zT1VJNGVXMURlbTVGVG1sd2NqTldOeTA0Y1VSa1UwVkpXVTlSYzJ0WFVIZ3dZVVo0T0ZCeFluRXRUWFJIVkRreFNHMUlVQzF0U1c1blUwRjVNRzVXYXpBdGIyYzBOa1ZQVkU5WlkxQkVRblYxYkcxMlpVSkdUVkptYW5kSFVSSVhOVFY2UjJGeU0weExYMmxzYTJSVlVIcFFabkF5UVdNYUlrRkVjM0k1WmxGM1gySnNNelpQVUROT2NUTnRUVkZwYzBkM1MxWktjemxGVTNjIiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkV1SURDcUlEUVVwcFZEUjBTekJhVkVOVVowcHBkRlJRTjNkME5USXdUM2hUWkVGWU4zaHFlR2xSZUdFd1pUbERMVE5PY1VKNmEwSjRkVU5HV2sxdlpYbDRUMWxPZEMxS1ZtNDBNV2hwUXpGeWVYWndSR3N6YUhrNWIweFZTR3BsWVhaWmRUVkVUbUZYU0ZWSGVFZGtibFJMVlhCaVJqRnhSamxPTW1Gd2J6bHlOa1JXYlVSUk9VUkVkVFJsTUhoc01HUndhWGxpZWxabGQwOWZNblJOT0VwWGQxZ3dZbkpQZDB0Q2JVVk9NMDU2WlRnM1NITjRUak4yU2xoU1prSkdhbVUzVGs1blZHd3pWVVpDVXpCQ2RESjFjWE00VGtwRU9IRXlOVzVzYldkM2IyOTZiMHgyVkhONWFWZENWMkZSYTBSMk9GWnJWa0kyYldRd1ZDMDVPV000YVRNeWNtcFlUbXR6VTJaWFJXdDZUbGRWYlZwTlJWaGxXbGs1TlZOUlIyaHNRVWgzV0RCNmJIQmlYMGRWYUdaVVpVeEdlR1ZwYUd0dVdqUnlhMnB3YmtWamJtZzVkRU5zT1VJNGVXMURlbTVGVG1sd2NqTldOeTA0Y1VSa1UwVkpXVTlSYzJ0WFVIZ3dZVVo0T0ZCeFluRXRUWFJIVkRreFNHMUlVQzF0U1c1blUwRjVNRzVXYXpBdGIyYzBOa1ZQVkU5WlkxQkVRblYxYkcxMlpVSkdUVkptYW5kSFVSSVhOVFY2UjJGeU0weExYMmxzYTJSVlVIcFFabkF5UVdNYUlrRkVjM0k1WmxGM1gySnNNelpQVUROT2NUTnRUVkZwYzBkM1MxWktjemxGVTNjIiwiZmN2IjoiMyJ9&q=Python+Developer"
+  }
+}

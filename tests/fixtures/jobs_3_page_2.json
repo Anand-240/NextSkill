@@ -1,0 +1,296 @@
+{
+  "search_metadata": {
+    "id": "6ac69cfb703f17c28ca431b6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Zp6cXUc1jb8q4kwtMgzuPp54k3k8cHeiJSd454mrzr8/6ac69cfb703f17c28ca431b6.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Zp6cXUc1jb8q4kwtMgzuPp54k3k8cHeiJSd454mrzr8/6ac69cfb703f17c28ca431b6.md",
+    "created_at": "2026-10-07 19:26:51 UTC",
+    "processed_at": "2026-10-07 19:26:51 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Marketing+Intern&uule=w+CAIQICIfUHVuZSBEaXZpc2lvbixNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/Zp6cXUc1jb8q4kwtMgzuPp54k3k8cHeiJSd454mrzr8/6ac69cfb703f17c28ca431b6.html",
+    "prettify_html_file": "https://serpapi.com/searches/Zp6cXUc1jb8q4kwtMgzuPp54k3k8cHeiJSd454mrzr8/6ac69cfb703f17c28ca431b6.prettify",
+    "total_time_taken": 1.0
+  },
+  "search_parameters": {
+    "q": "Marketing Intern",
+    "engine": "google_jobs",
+    "location_requested": "Pune, India",
+    "location_used": "Pune Division,Maharashtra,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVzd0RDb3dEUVVwcFZEUjBTMmhsTUhRNWVuTmlNUzFtYnpsaGVrSkhiRmR5YzA5d01tdzJNVWxmYzNkbE0xOUNMWGRTVmpSd1kzSm1XVVY1UWpObVUwNDRXbkpFY2xCVFdVaFZWM00wVTFFeWVrcHFXbU5vY2pGc2NFdG9kMlIwT1VSdGF6WnFiRms1ZDBOeGQwWkNiazU1TURsbVNWbFJSRmRFZG5WU2RXVk5Ta3hpT1V4NmFYVkxVMUo1TVZwTE4xSktTbE0wUkhKSWQxRjFUbXRKUmpSd1NERXliVTV4UjFSMFlYcGpNMEl6T1cxR1RuQnZkMVZDTjNGekxUQk1ZbXhqWDJzNGJYQmlVelUyUkVaMFVtNWZaelJOTlZoTWNteHBiRWxHUkdSS2VrSXdiRXBQZVZKT2NqQmhRMVpFYlVSVFpsQk9jMUJyTTFsRVdIVktkRk56Tm5WQmNVODFURWxRUjFRNE1GZEhMWGs1ZWtselZuVm9jak5UT1ZReVRqVjFOamxIZEVNelkySlhhazQwWDAxcmVteENRVjlYWDBjNVFWZFRjVE00WTFwR05YcHpWWEZtVkVGaWJETmZaRXBpZERoRGFYbHRkSE4zY1dkaU0yRlJWVkpzWWpKR2RHWnZORFZPYldwWllYa3pTVEJvYzNSQ2FIRXdVRGhoZVhOVU5YcFljVWRXU0cxNmNGZHNYMTgwRWhjdFducEhZWE4yU1U5T1Yza3dMV3RRYzJWdFIyOUJieG9pUVVSemNqbG1VMkpQT0cwM1ZHNUVTVW8xVmxkdGJrdHdRbXA0V1ZSWlowaHZadyIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Digital Marketing Internship in Pune, Pimpri-Chinchwad, Wakad",
+      "company_name": "Adex Media Hub",
+      "location": "Pimpri-Chinchwad, Maharashtra",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=NcALvQPg2V-lDDqoAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_2XOPW7CQBBAYdH6CFRTR-BFkWigQkRKKCy5CiUa26Pdic3samcQLrlD7sRBOAk_Lc3rPukV10nx-8WeDQeoMPdkLB52YpRFAydggfokNIOajynzfBtY2nDGbgZ77LGD2-Uf_mIDSpjbAFHgO0Y_0HQdzJKunFMdSq-Gxm3ZxqOLQk0c3QPpMwcNmCkNaHT4XC7GMon_cJuORqioY4SfU_PaeBuo8CFRg2W8A5GHEAfJAAAA&shmds=v1_ARwrE22tFKa4VQNhuU7k6ZpEwIUGlQk4vJ7W7SWlblvKZxT5fA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=NcALvQPg2V-lDDqoAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69cfb703f17c28ca431b6/images/p96-rKTBhJPLv_M0h9tMyiq5paYgtSiEn7tDCFbIz-I.jpeg",
+      "extensions": [
+        "21 days ago",
+        "Internship"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/digital-marketing-internship-in-pune-pimpri-chinchwad-wakad-at-adex-media-hub-4468314750",
+      "job_title": "Digital Marketing Internship in Pune, Pimpri-Chinchwad, Wakad",
+      "description": "We’re Hiring | Digital Marketing Intern\n\nCompany: LeadsZone\n\nRole: Digital Marketing Intern\n\nJob Type: Full-Time Internship\n\nDuration: 3 Months\n\nLocation: Pune / Pimpri-Chinchwad\n\nStipend: ₹3,000/month\n\nAbout LeadsZone\n\nLeadsZone is a growing CRM & AI platform focused on helping businesses manage leads, customers, sales processes, and business operations more efficiently.\n\nWe are looking for a creative, enthusiastic, and motivated Digital Marketing Intern to join our team and gain hands-on experience in digital marketing, content creation, and social media marketing.\n\nSelected Intern's Day-to-day Responsibilities Include\n\n\n\n Assist in planning and executing digital marketing campaigns. Manage social media platforms such as LinkedIn, Instagram, and other relevant channels. Create engaging content for social media, blogs, and marketing campaigns. Assist in developing social media posts, captions, creatives, and promotional content. Conduct market and competitor research to identify trends and opportunities. Track and monitor social media and campaign performance. Assist in preparing basic marketing reports and analyzing campaign results. Collaborate with the Sales and Business Development teams on marketing initiatives. Stay updated with digital marketing trends, tools, and best practices.\n\nApply Now!\n\nIf you are passionate about digital marketing, have a creative mindset, and want to gain real-world experience while working with a growing CRM & AI company, we’d love to hear from you.\n\nJoin LeadsZone and start building your digital marketing career!\n\nAbout Company: At Adexmediahub, our mission is to revolutionize the digital marketing sphere by providing cutting-edge solutions that drive success for our clients. We aim to be the driving force behind your brand's online presence, enhancing visibility, engagement, and, ultimately, profitability.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/digital-marketing-internship-in-pune-pimpri-chinchwad-wakad-at-adex-media-hub-4468314750?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaWdpdGFsIE1hcmtldGluZyBJbnRlcm5zaGlwIGluIFB1bmUsIFBpbXByaS1DaGluY2h3YWQsIFdha2FkIiwiY29tcGFueV9uYW1lIjoiQWRleCBNZWRpYSBIdWIiLCJodGlkb2NpZCI6Ik5jQUx2UVBnMlYtbEREcW9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURzlPWlhSU1dGcGtkRWRMZVRBM05scGtjRGxJY2pOcGFHbzVUelF0UjFKdVdWcHVPRXBzVEU4eFJreHROamhFWDNwQ2R6bGhiVnB5WmxFMlFsQktNMVZxVjFkWlFtNDBMV1JWY0ROMVNuUnBUV3A2UjFaZmNWZDBTVVpyWWpoUVNXTlpOM014ZUdKak9UTlZaa2xxYkdGeWFsOU5lRmN3TmxOU1FsOUthazB4U2tNeFVHd1NGeTAxZWtkaGIyRmFUbkF5Ym0xMGExQTJZUzFYZDBGakdpSkJSSE55T1daVGRISlBjR0ZRY1RSSGJVTjJka1pxT0d4S1NXVjRSVXBhVm5abiIsImZjdiI6IjMiLCJmY19pZCI6Ik5jQUx2UVBnMlYtbEREcW9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Brand Marketing Intern",
+      "company_name": "HaystackAnalytics",
+      "location": "Navi Mumbai, Maharashtra",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=1itylv7xF-k1ghp_AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXOsQ3CMBBAUdFmBKqrEdgIiQYqaIAirBBdjGWbOOfId6CkYwdqlmMSTPO7J_3qM6v0MSPdoMbcWQnk4EJiM8H39YZ7aoEtZuMhEZxSctHO915k4J3WzFE5FpRglEm9TmTbNOqC-J-GPWY7RBTbbLbrUQ3kFqszToWY7kAYpyIZAsEVnwHqR99iWJaT4pC9ZPwBG9DmDqAAAAA&shmds=v1_ARwrE22Y79EMUklH2_XZ1ydDOeAfyydDpMx9r2WzVlDJV_gxuA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=1itylv7xF-k1ghp_AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69cfb703f17c28ca431b6/images/9Zs9gh3WeRkizpfUcc_bKH66GVKcasH2umT_dhkTQXE.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/brand-marketing-intern-haystackanalytics-navi-mumbai--fj-2398050405",
+      "job_title": "Brand Marketing Intern",
+      "description": "Position Overview\nWe are looking for a proactive and organized Marketing Activation Intern to support the execution of offline marketing activations, events, branding initiatives, and marketing production. The role will involve extensive vendor coordination, negotiation, budgeting, printing and production management, along with on-ground event execution.\nKey Responsibilities\n● Coordinate with vendors, agencies, production partners, and event teams for marketing activations and events.\n● Manage printing, branding, promotional materials, production, logistics, and event setups.\n\n\n● Source vendors, obtain quotations, compare costs, and support vendor negotiations and commercial discussions.\n\n\n● Maintain activation budgets, expense trackers, timelines, quotations, and MIS using MS Excel.\n\n\n● Coordinate with internal teams including Marketing, Sales, Finance, and Logistics to ensure timely execution.\n\n\n● Follow up with vendors and stakeholders to ensure quality, timelines, and deliverables are met.\n\n\n● Support offline brand activations, events, conferences, CMEs, RTMs, and other marketing initiatives, including on-ground execution.\n\n\n● Assist in managing multiple activations simultaneously and resolving execution-related issues.\n\n\nrequired Skills\n● Good vendor coordination and management skills.\n● Good communication and interpersonal skills.\n\n\n● Strong knowledge of MS Excel and data tracking.\n\n\n● Ability to manage multiple tasks and deadlines.\n\n\n● Attention to detail and ability to work under pressure.\n\n\n● Basic understanding of event production, branding, printing, logistics, and marketing activations is an advantage.\n\n\nEligibility\n● Bachelor’s degree or pursuing a degree in BMM, Mass Media, Marketing, Event Management, Communications, Business Administration, or a related field.\n● Freshers are welcome to apply.\n\n\n● Prior internship or exposure to event management, vendor coordination, marketing activations, or production will be preferred.\n\n\n● Willingness to travel and participate in on-ground events and activations\n\n\nStipend - 8,000 - 10,000\n\n\nNOTE- \n\n\nApply only if you can join immediately.Have your own LaptopYou are from Navi Mumbai or ready to relocate to Navi Mumbai",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/brand-marketing-intern-haystackanalytics-navi-mumbai--fj-2398050405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/brand-marketing-intern-at-haystackanalytics-4473637088?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4112-164b3bc716995355502eada5ddcfa442?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/ubisoft-india-brand-marketing-intern-navi-mumbai-5e7db6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCcmFuZCBNYXJrZXRpbmcgSW50ZXJuIiwiY29tcGFueV9uYW1lIjoiSGF5c3RhY2tBbmFseXRpY3MiLCJodGlkb2NpZCI6IjFpdHlsdjd4Ri1rMWdocF9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTekZEUm01NVUwNHdUVUpoTTA5cldXZHhWa3RvZVhCSVVDMHdWMDlVTUU5WFkwd3lRMVZSYUdOZmRGTjRRM2xqY3poTGIxWk1lbVJxTTB4b1pDMDRSa3d6VHpCb2FGRjJORGRoVGt3d1gyMHROVFF3U2s0MmJtOW5RbkZTUVhnMFIzQkpjRTFvWTE5WGRHZFpVMHB4UmsxNFNsUm9SMlZST1RWaFdHWklkMmxvUXpkVlZGb1NGeTAxZWtkaGIyRmFUbkF5Ym0xMGExQTJZUzFYZDBGakdpSkJSSE55T1daVE5XaFNhMlJ1Y3pCNmVsOHhPR3hGTTJkRE0xTldXblpGWTBwQiIsImZjdiI6IjMiLCJmY19pZCI6IjFpdHlsdjd4Ri1rMWdocF9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Social Media Marketing Intern",
+      "company_name": "upGrad",
+      "location": "Hinjawadi, Maharashtra",
+      "via": "MyInternships.in",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=MpzzqCHidqSQXwGUAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQ7CMAwAxdonMHlGqEFIMMADCkMnHlCZ1EpTgh3FRnTkDwz8j5dQlpvudNVnUe0v4iMmaKmPCC2WG1nkAGc2Kgzf1xtGuYISFj-AMDQiIdHyOJhlPTinmuqghhZ97eXuhOkqk5sj_aPTAQvlhEbddreZ6sxhBY_cFOwhMpwij_jEPq7n-ayiDlbwB6omySOaAAAA&shmds=v1_ARwrE22ggp2LJQ6UTxQx5DRqqbSclOrb5klYnlGm4HER_KfZrg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=MpzzqCHidqSQXwGUAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAeCAMAAABOrS0HAAAAbFBMVEX////xanLtHjHuLDztEyrxZm/tAB7tCybuIzXtGy/sAAD5xsnuJTf71Nb83+HuKDn2pqrtABn6z9HvRVH85OX+9/fycnrwU17xW2X97O3zeYD0iY/zgIf3sLT4uLvsAA/1m6DwTVjvOUf0j5RVAcRvAAABa0lEQVQ4je2R226EIBCGR5hlQEQBD6uugrrv/44FbZOmaW/2pknT/0Icfr7MCeBff1pd3b9ATYMgcvf6B/uI4w/ZkEkiVjnzvX9nxderfsrftmJF3W3Emiv/5byXns4LLPAO8MAGbljMUXADtWh4fjIUY6+JFfEA07rouAcwjXDzeIEqg4rDTUpsVSMgKLnkHBnWyEmWU0m7HaXoe9Fgi5U8QZZBlkHWw6owrIo9AepSiNJrVHpY+xAmqJFMQLVCr76ALM1qIrVpzEa3tw0mkHKLaxvLyNFvLIfvpbL9A2xTHlK2j5y65IwXmH61U08TFHqrctie4CAxaNnkUnHzYyU8LMjxsR2Mf4BbYuDJ0BtRjWY7KwIdJcUDVQIPIRTl3Q5OIdFOzmsXE2hKJsoKnYaRlHAH3c7BzbP3ds09dsu8nsuqt+URwNquszZP1yyznVKYup0ftbbh8/JveUqvaBT7a2Cw62vgv35fb3VQFx7LutSSAAAAAElFTkSuQmCC24",
+      "extensions": [
+        "₹25K a month",
+        "Internship"
+      ],
+      "source_link": "https://myinternships.in/internships/upgrad-is-hiring-social-media-marketing-intern-pune-aec64a",
+      "job_title": "Social Media Marketing Intern",
+      "description": "upGrad is hiring a Social Media Marketing Intern in Pune — a verified Marketing internship for 2026 freshers and final-year students (0-1 years of experience). You will work on real marketing projects using SEO, Google Ads, Meta Ads alongside experienced mentors. This is a 3-month in-office at Pune programme. Verified opening — applications reviewed on a rolling basis, so apply early. Responsibilities: Contribute to live marketing projects at upGrad; Build, test and document solutions using SEO, Google Ads, Meta Ads, Social Media; Collaborate with cross-functional teams and present your work; Apply feedback to ship production-quality output. Requirements: Pursuing or recently completed B.E./B.Tech/B.Sc/BCA/MCA/MBA (relevant discipline) or equivalent; Working knowledge of SEO, Google Ads, Meta Ads; Strong fundamentals, curiosity and problem-solving skills; Good communication and eagerness to learn.",
+      "apply_options": [
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/upgrad-is-hiring-social-media-marketing-intern-pune-aec64a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2NpYWwgTWVkaWEgTWFya2V0aW5nIEludGVybiIsImNvbXBhbnlfbmFtZSI6InVwR3JhZCIsImh0aWRvY2lkIjoiTXB6enFDSGlkcVNRWHdHVUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFUnlXRGh3WkZCMWIweE5UMlpTYzJwWmEzbHFZVEpUTTBaME5rd3dWREZ6WlhaWlYyWnRVV2Q2Y0dWallsOU9kMFpXUzBoeWQwSldYMGh2WkUwMFppMWFOVVJuZFhreGQzUlRaVTFVWjJWTldXTlZiM1l6ZEhKSlZHRk9kM0JQYkU0ek1FRXdjVEo2VEc4MWRFWmpkRUkyYzIweVZtTXhSSGxWVUVOR1lrSnNlbTFNVmtrU0Z5MDFla2RoYjJGYVRuQXlibTEwYTFBMllTMVhkMEZqR2lKQlJITnlPV1pVWTJKMk5tbFJVMkp5U1VOV05HOWFXa2hmTkVoWlIwZHpUM2hSIiwiZmN2IjoiMyIsImZjX2lkIjoiTXB6enFDSGlkcVNRWHdHVUFBQUFBQT09In0="
+    },
+    {
+      "title": "Growth Marketing Internship",
+      "company_name": "Leo Technosoft Pvt Ltd",
+      "location": "Pune, Maharashtra",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=qnEjoUm-Gk8QiGQjAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXOsQ3CMBBAUdFmBKqrAcUIQQMDREhBSkEfOeawDeHO8h2Qkh1YgNmYhND87km_-EyKdZX5qQEONl9RI3nYk2ImCTHB9_WGC3cgaLMLwAQVs-9xuguqSbbGiPSlF7UaXen4Zpiw48GMSP5pJdiMqbeK7WqzHMpEfjavkeGILhALnxWah0KtJ4gEzZ1wMb6MykrQbH8fFZbxowAAAA&shmds=v1_ARwrE20IuWWK_YEmHey-GVsR4_a5C8WEZmQ-bSRJLE9feaHz0g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=qnEjoUm-Gk8QiGQjAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69cfb703f17c28ca431b6/images/vMX6e85an8nGDzS2D9PRy3hOe835vYVtq-9g70RkaR8.jpeg",
+      "extensions": [
+        "22 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010265073351",
+      "job_title": "Growth Marketing Internship",
+      "description": "Growth Marketing Intern (Paid Internship)\n\nCompany: Leotechnosoft Pvt. Ltd.\n\nLocation: Magarpatta City, Pune\n\nDuration: 3 Months (Paid Internship)\n\nWorking Hours: Flexible but 9 hours working mandatory including- lunch, tea /coffee break for 1 hour only \n\nWork Mode- Onsite (Work from office)\n\nAbout the Internship\n\nLeotechnosoft is seeking enthusiastic and driven Growth Marketing Interns who are eager to gain hands-on experience in marketing, branding, and business growth initiatives. This\n\ninternship offers an excellent opportunity to work on real-time projects and develop practical skills in a professional environment.\n\nThis internship is intended for students, fresh graduates, or individuals seeking practical industry exposure. It is designed to provide valuable learning opportunities and real-world experience in Growth Marketing while helping candidates build industry-relevant skills and knowledge. Min 6 Months of internship will also be considered \n\nKey Responsibilities\n\n· Assist in planning and executing marketing campaigns.\n\n· Support digital marketing and social media initiatives.\n\n· Conduct market research and competitor analysis.\n\n· Assist with lead generation and customer engagement activities.\n\n· Create and manage marketing content across various platforms.\n\n· Monitor campaign performance and prepare reports.\n\n· Support branding and promotional activities to drive business growth.\n\n· Collaborate with internal teams on marketing and communication projects.\n\nEligibility Criteria\n\n· Students recently completed a degree in Marketing, Mass Communication, Business Administration, Digital Marketing, or related fields.\n\n· Strong understanding of marketing concepts and communication principles.\n\n· Good verbal and written communication skills.\n\n· Creative mindset with a willingness to learn and adapt.\n\n· Basic knowledge of social media platforms and digital marketing trends.\n\n· Ability to work independently and as part of a team.\n\nPreferred Skills\n\n· Marketing Fundamentals\n\n· Mass Communication\n\n· Content Creation and Writing\n\n· Social Media Marketing\n\n· Market Research\n\n· Digital Marketing Basics\n\n· Communication and Presentation Skills\n\n· Analytical and Problem-Solving Skills\n\nWhat You Will Gain\n\n· Hands-on exposure to Growth Marketing strategies.\n\n· Practical industry experience in a corporate environment.\n\n· Opportunity to work on live business projects.\n\n· Professional guidance and mentorship.\n\n· Internship Completion Certificate upon successful completion of the internship.\n\nIf you are passionate about marketing and looking to gain practical industry experience, we encourage you to apply and grow with LeoTechnosoft.\n\nCompany Details:\n\nhttps://leotechnosoft.net/about-us/\n\nInterested Candidate's to share updated CV on [redacted]\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010265073351&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJHcm93dGggTWFya2V0aW5nIEludGVybnNoaXAiLCJjb21wYW55X25hbWUiOiJMZW8gVGVjaG5vc29mdCBQdnQgTHRkIiwiaHRpZG9jaWQiOiJxbkVqb1VtLUdrOFFpR1FqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1dvd2FrVkNjMWxpTFVjelFVWXphams0YVdndFowRTVkbGR4U0hsdFFWSm9hbmM0U21wcGExUjZkR3RGWkZsb2JUQnhWV04wTFd0eGF6TnlNamRJZDNKSlZFNUZjVGRPT0MxcGRFaENVbEJIVDB4cWIzTTNNRGRZZEhKb09HNWxNVmg0VGpSVU1GTmZabVF4VUZOQk1XZERMVkpOTkVoRVRuTmxiMjAwUmxseFlucDFZbFlTRnkwMWVrZGhiMkZhVG5BeWJtMTBhMUEyWVMxWGQwRmpHaUpCUkhOeU9XWlJSbTg0ZUdkT1ZrVTVUa1ZrT0RkT1VEUlNUbE5GVGxaWE5GSm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJxbkVqb1VtLUdrOFFpR1FqQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Sales and Marketing Internship in Pune",
+      "company_name": "Mosambi Media",
+      "location": "Pune, Maharashtra",
+      "via": "Foundit",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=sG6HUuS1kk0UKJXPAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_zWOMQrCQBBFsc0RrAZLkawINlpYikVA8ABhEofd1c3MsjNCSu_gDTyaJzEWNr96j_er96w6XDCRAvIVGix3ssgeTmxUWEPMEBnODyb4PF9wkw6UsPQBhOEo4hPN98Es68451VR7NbTY170MTpg6Gd0k6W9aDVgoJzRqN9v1WGf2y0UjikMXoaFrxH9sNV2ZYNRgBb-b7YuIpQAAAA&shmds=v1_ARwrE21hq0p0Q78rulA9-LozvSkIwUgr_tsoPn9cS_DaH2IXPg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=sG6HUuS1kk0UKJXPAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.foundit.in/job/sales-and-marketing-internship-in-pune-mosambi-media-pune-65896636",
+      "job_title": "Sales and Marketing Internship in Pune",
+      "description": "Are you a dynamic and driven individual looking to kickstart your career in sales and marketing Mosambi Media is seeking a sales and marketing intern who is passionate about community management, self-learning, social media marketing, Instagram marketing, effective communication, and MS Excel.\n\nSelected Intern's Day-to-day Responsibilities Include\n\n\n\n Assist with creating and implementing social media marketing strategies to increase brand awareness and engagement. Manage and grow our online community by responding to comments and messages in a timely manner. Help with data analysis and reporting using MS Excel to track campaign performance and identify areas for improvement. Collaborate with the marketing team to develop creative content for Instagram and other social media platforms. Conduct market research to identify trends and opportunities for growth within the industry. Support the sales team by generating leads and following up on customer inquiries. Assist with organizing and attending events to promote our products and services.\n\nIf you are eager to learn, have a strong work ethic, and are ready to dive into the world of sales and marketing, apply now to join our enthusiastic team at Mosambi Media!\n\nAbout Company: Mosambi Media is one of India's biggest gifting small businesses which is all up to make you and your loved ones happy. Certain photos needn't be just preserved in a traditional photo album and hence we have better alternatives for it. We provide high-quality mini, big faux polaroids, Spotify play cards, memory calendars, photo booth strips, star maps, card games, and boarding passes suitable for every gifting need of yours. Our vision is to have as many gifting options for you to you never run out of options to gift your dear ones. By buying from Mosambi, you are supporting the cause of a Make in India. We welcome you with all our passion and enthusiasm.",
+      "apply_options": [
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/sales-and-marketing-internship-in-pune-mosambi-media-pune-65896636?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/3024982893136270151?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/sales-and-marketing-internship-in-pune-pimpri-chinchwad-hybrid--pune-district--ecf7c91259bf046c832aaa72296379c33?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/company/ktm-energy-experts-careers?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4112-05b5d00f8cac561993cf3561cba0ba86?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/1738602999791484928?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/342140958/sales-and-marketing-internship-in-pimpri-chinchwad-pune?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ecom.jobs",
+          "link": "https://www.ecom.jobs/jobs/sales-and-marketing-internship-in-pune-mosambi-media-46317276?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTYWxlcyBhbmQgTWFya2V0aW5nIEludGVybnNoaXAgaW4gUHVuZSIsImNvbXBhbnlfbmFtZSI6Ik1vc2FtYmkgTWVkaWEiLCJodGlkb2NpZCI6InNHNkhVdVMxa2swVUtKWFBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUREU1ZFV3eWFGSmFabmhOT0V0cVp6WlFZMlJ0UmxJMlUycHpWbkJPTVRrMFFXUXRTbVJxVEVabVlYaG1SRXh4YzFsdFJHWkZNRFV3ZEZaWlQwcHRUVmxWY2xkNkxVWnBaMk5oWjFwS05YUkdPVkJQTjI5NlZEaERNVUo2ZERoT1RtWkxlWGRGV0ZWek1IQjNXVm90ZFVocVZXbHRiSHB4WlMwd1ZWWjFja0ZWYWxGR1EyUVNGeTAxZWtkaGIyRmFUbkF5Ym0xMGExQTJZUzFYZDBGakdpSkJSSE55T1daUmEyOTRSa1JqYzNkSVExZG1jWHBCZWxsUmFsaHNiQzF6Tm5wbiIsImZjdiI6IjMiLCJmY19pZCI6InNHNkhVdVMxa2swVUtKWFBBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Influencer Marketing Internship in Pune",
+      "company_name": "FirstCry.com (BrainBees Solutions Ltd.)",
+      "location": "Pune, Maharashtra",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=OfNwGidv1xvjSuApAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_zWOMQrCQBAAsc0TrLZUkUQEG7WQCEpAQfABcsY1d3ruht0NaOcffI-f8SXGwma6GSZ5d5JFQefYIJUosHVyRQtUQUGGQupDDYFg1xDC5_mCCx9B0UnpgQnWzFXE7syb1TrNMtWYVmrOQpmWfMuY8Mj3rJX0h4N6J1hHZ3gYT0b3tKZqMF8FUVvK42dALxcXKEdU2HNsLDApbOyU9v8bw3ayzTj1Ju4LCYxIjMAAAAA&shmds=v1_ARwrE22KVOOki5cpidgRKAx7Ah6O39936yFTcVairBkt7SHY5w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=OfNwGidv1xvjSuApAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69cfb703f17c28ca431b6/images/McoO4BDavre6wO_5vnKCRslzbZ3dRfys2LYEXV8_IcI.jpeg",
+      "extensions": [
+        "₹9.2L–₹17.2L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/firstcry-com-brainbees-solutions-ltd-influencer-marketing-internship-in-pune-pune-maharashtra-0-to-1-years-1331595",
+      "job_title": "Influencer Marketing Internship in Pune",
+      "description": "Selected Interns Day-to-day Responsibilities Include Identified and evaluated influencers aligned with FirstCrys target audience, assisted in outreach and onboarding, and supported end-to-end execution of influencer marketing campaigns. Coordinated campaign deliverables, timelines, and content approvals with influencers to ensure alignment with brand objectives and performance goals. Maintained strong influencer relationships while managing contracts, payments, campaign documentation, and updating influencer databases for seamless operations.About Company: FirstCry is Asias largest online shopping portal for kids and baby products with more than 90,000 products and over 9 lakh happy customers. The company has been growing rapidly since its inception in 2010, from 4 members to more than 1200 employees, and the trend continues. Headquartered in Pune, the company also has a presence in Delhi, Bangalore, and Mumbai. The company is also expanding the franchise route, with more than 350 stores opened across various states in India, making it the second-largest player in offline stores.",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/firstcry-com-brainbees-solutions-ltd-influencer-marketing-internship-in-pune-pune-maharashtra-0-to-1-years-1331595?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJbmZsdWVuY2VyIE1hcmtldGluZyBJbnRlcm5zaGlwIGluIFB1bmUiLCJjb21wYW55X25hbWUiOiJGaXJzdENyeS5jb20gKEJyYWluQmVlcyBTb2x1dGlvbnMgTHRkLikiLCJodGlkb2NpZCI6Ik9mTndHaWR2MXh2alN1QXBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTV0ZyU1haeFlWVjVSRkJuVFZGcVFsbEdWbkZaUzIxVlR6UjVVRzFFUm13MmNGRlJUM1JDUTJka0xURlBSVXB6VTJWak9WVnZUV1JvZWxodVl6azJNVmxUTVZSTU0xWjBSbUptVmpGQ1RVNVNhVUpIVURkaVEzRkpOMWxmVldOUE5VUkpTVUYxYnpOYWFIcHRNVGRWVGxsT1ZXeFNRbk5DUTBsRVlucDNhbmxKUzNGNVgwNFNGeTAxZWtkaGIyRmFUbkF5Ym0xMGExQTJZUzFYZDBGakdpSkJSSE55T1daU1JqWklVekEwUjNCNVltTkRZVFZGVFdOd05FcG9kalY2Y1c1biIsImZjdiI6IjMiLCJmY19pZCI6Ik9mTndHaWR2MXh2alN1QXBBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Digital Marketing Intern",
+      "company_name": "Padviram Private Limited",
+      "location": "Pune, Maharashtra (+1 other)",
+      "via": "TCS ION",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=_lcFVrGw_1u2h4uXAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBAAsfUJVluL5lSw0VYQQSE_CJtkuVu97IXbNaT0Dz7Av_kSYzPNMDDzz2y-PbFnwwg3zA8yFg8XMcoC39cb7qkGJcxNgCRwTslHWhyDWa8H51Rj4dXQuCma1LkkVKfRTZH-UWnATH1Eo2q334xFL365LrEdOGMHZeZhUnDljo1aYIHyKbSaTqYONVjGH1fYNe-iAAAA&shmds=v1_ARwrE22k9wROlkjRF0g8iDfQgXc1utcJNAiR6okEjot_n2OclA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=_lcFVrGw_1u2h4uXAAAAAA%3D%3D",
+      "extensions": [
+        "20 days ago",
+        "Internship"
+      ],
+      "source_link": "https://www.tcsion.com/jobs/Padviram-Private-Limited/Digital-Marketing-Intern-22953/",
+      "job_title": "Digital Marketing Intern",
+      "description": "Padviram Private Limited is looking for enthusiastic, creative, and career-focused candidates for the position of **Digital Marketing Intern**. This internship is designed for students, freshers, and aspiring digital marketers who want to gain practical industry experience and develop job-ready skills. The selected candidates will get an opportunity to work on real-time digital marketing activities under professional guidance.\n\n\n\nDuring the internship, candidates will be involved in **Social Media Marketing, Content Creation, SEO, Keyword Research, Google Ads, Meta Ads, Lead Generation, Website Promotion, Email Marketing, and Digital Campaign Management**. Interns will also learn how to create engaging social media content, support advertising campaigns, monitor campaign performance, conduct competitor research, and prepare basic marketing reports.\n\n\n\nThis role provides hands-on exposure to **Google and Meta platforms** along with practical experience in handling digital marketing projects. Candidates will have opportunities to improve their communication, creativity, analytical thinking, and marketing skills.\n\n\n\nThe internship is suitable for candidates pursuing or recently completing **BBA, BCA, B.Com, MBA, MCA, Digital Marketing, or related courses**. Candidates with basic knowledge of Canva, Excel, social media platforms, or digital marketing will have an added advantage.\n\n\n\nSuccessful interns may receive an **Internship Certificate** and, based on performance and available opportunities, may be considered for further career or placement opportunities with Padviram.",
+      "apply_options": [
+        {
+          "title": "TCS ION",
+          "link": "https://www.tcsion.com/jobs/Padviram-Private-Limited/Digital-Marketing-Intern-22953/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/digital-marketing-intern-unlockdiscounts-bengaluru-bangalore-34758925?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "HR Software For Growing Businesses | Freshteam",
+          "link": "https://leapfinance.freshteam.com/jobs/ekkNf64Y84aM/digital-marketing-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/digital-marketing-intern-bvm-global-school-bengaluru-karnataka--t7xk-846923067?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/HwQhpjQ_rX3bI7_uMgS2jcT5DDTbZBTV8Sytkt7b7nEf9tvWKIY8Ug?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Digital-Marketing-Intern-Bengaluru-Bangalore-Vikgol-xahu1u2U?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Prosple India",
+          "link": "https://in.prosple.com/graduate-employers/leap/jobs-internships/digital-marketing-intern-0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/marketing-digital-marketing-intern-job-in-hirelink-private-limited-kudlu-gate-bangalore-0-to-0-years-1789795051-8368094-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaWdpdGFsIE1hcmtldGluZyBJbnRlcm4iLCJjb21wYW55X25hbWUiOiJQYWR2aXJhbSBQcml2YXRlIExpbWl0ZWQiLCJodGlkb2NpZCI6Il9sY0ZWckd3XzF1Mmg0dVhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbEZHY0hoc1NXeFJjMmxUVmxoak9XTXlZbGR5YzFwSlMycHlTVTF1VkROVFREaDBTbTlXZGxOYVJVbG5RMkY0Ym1wc2MyWmhXbWxDWTJVek5VTndVa3h0VlZaNVZHMXJVMVJKV0U1ZmJFNXVkR1EwY0dVMVpVZGpaelpNTmpNdE5XMXNiMnhsUjJsMGVqSnlSR3cyUnpSdE1WRk5hREJYTUV4dFFWUkRVRmxOUkVWd2FIb1NGeTAxZWtkaGIyRmFUbkF5Ym0xMGExQTJZUzFYZDBGakdpSkJSSE55T1daVVVVMWhPRzgwVDA5TVozTnZVVW80VEdjM1YwSXdWSFI2UzJWQiIsImZjdiI6IjMiLCJmY19pZCI6Il9sY0ZWckd3XzF1Mmg0dVhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Digital Marketing Intern",
+      "company_name": "WebConstructive Digital Solutions",
+      "location": "Goregaon, Maharashtra",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=e9lvBXsqeLpojx-VAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_zWOMQ7CMBAERZsnUF2NUAxINKEECVFQUVBGF-tkG4wv8l1QSv7AN3gVL8EpaLZZ7cxWn1m1PgQXFCOcMd9JQ3JwSko5wff1hht3IITZeuAER2YXab7zqr00xojE2omiBltbfhhO1PFoykimaMVjpj6iUrvZrsa6T27RXKnbcxLNg9XwJPj7LxwHDaWBMJkyOeS0LLcKBMVrxh_7FtOHrwAAAA&shmds=v1_ARwrE21RXn-OnOmrB17oS8VjOlcOWW7tjMN9vmKaek-PXDSGLw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=e9lvBXsqeLpojx-VAAAAAA%3D%3D",
+      "extensions": [
+        "8 days ago",
+        "Internship"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/LNlMqGgWpNf42v7YgAxtF5ld7JmRqc2t8xe5WWMpV8hfk5KWs-KN4w",
+      "job_title": "Digital Marketing Intern",
+      "description": "Digital Marketing Intern\n\nWebConstructive Digital Solutions is looking for a motivated and enthusiastic Digital Marketing Intern to join our team in Goregaon East, Mumbai.\n\nThis is a hands-on internship where you will get practical exposure to SEO, Google Ads, social media marketing, content marketing, Google Analytics, and other digital marketing activities while working on real client projects.\n\nResponsibilities:\n\nAssist with SEO activities including keyword research, on-page SEO, internal linking, and basic technical SEOAssist in managing and optimizing Google Business Profiles and Local SEO activitiesSupport Google Ads and Meta Ads campaign management and monitoringConduct competitor and market researchAssist with social media content planning and publishingHelp create content briefs, website content ideas, and basic marketing creativesMonitor website performance using Google Search Console and Google AnalyticsAssist with preparing weekly and monthly performance reportsTrack campaign performance, leads, keywords, traffic, and other important metricsStay updated with the latest digital marketing and SEO trendsUse AI tools such as ChatGPT and other marketing tools to improve research and productivityRequirements:\n\nFreshers and candidates pursuing or recently completed a course in Digital Marketing, Marketing, or a related field can applyBasic understanding of SEO and digital marketing conceptsGood communication and research skillsBasic knowledge of Google Sheets/ExcelWillingness to learn and work on real client projectsAnalytical mindset and attention to detailKnowledge of Google Ads, Meta Ads, Google Analytics, or Search Console will be an advantageBasic Canva knowledge is a plusWhat You’ll Learn:\n\nPractical SEO and Local SEOGoogle Ads and Meta AdsGoogle Analytics and Search ConsoleSocial Media MarketingContent MarketingLead generation and campaign optimizationDigital marketing reporting and analyticsWorking on real client campaigns and websitesInternship Details:\n\nJob Type: Full-time Internship\nLocation: Goregaon East, Mumbai\nWork Mode: In-office\nDuration: 6 Months\nStipend: ₹8,000 per month (after one month training)\n\nCandidates who demonstrate strong performance during the internship may be considered for a full-time digital marketing executive position.\n\nIf you are serious about building a career in digital marketing and want practical experience rather than just theoretical training, we would love to hear from you.\n\nPay: Up to ₹6,000.00 per month\n\nApplication Question(s):\n\nAre you comfortable working from our Goregaon East, Mumbai office?Do you have any practical experience with SEO or Google Ads?How soon can you join?Have you completed any Digital Marketing course?Are you comfortable committing to a minimum 1-year tenure with the company, with a performance appraisal after 6 months internship?Work Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/LNlMqGgWpNf42v7YgAxtF5ld7JmRqc2t8xe5WWMpV8hfk5KWs-KN4w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaWdpdGFsIE1hcmtldGluZyBJbnRlcm4iLCJjb21wYW55X25hbWUiOiJXZWJDb25zdHJ1Y3RpdmUgRGlnaXRhbCBTb2x1dGlvbnMiLCJodGlkb2NpZCI6ImU5bHZCWHNxZUxwb2p4LVZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbEphYkRsbmJEWjNXSHBOWW14amRGUmhPWEp3YWtWRU0xUTFha0p0VEhBeVN5MXlkbFZSYVcxdlprUm1ZVkJVY2tOcWFYTm1USGxrTkZvekxUZHhkRVZTWlZwRE4yaHNXRmxPYWpOeVp6SmpYMnRrTmpoZlQwcEZhVTlJUlhWRVNtUkhiVEZZWTNGUGVYRTRVR0paZERSdE5rZGpSVGxpZGtSWWF6SllWRmRuUlVOR2JrY1NGeTAxZWtkaGIyRmFUbkF5Ym0xMGExQTJZUzFYZDBGakdpSkJSSE55T1daU1ZVTm1ibk55TWpCdllsUkthMmxEYmtwdWIwOXdjemRpUzJOMyIsImZjdiI6IjMiLCJmY19pZCI6ImU5bHZCWHNxZUxwb2p4LVZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Hiring Interns for Content Creation",
+      "company_name": "MOJO VIBE",
+      "location": "Mumbai, Maharashtra",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=NskX_Jzfqx3zvyx4AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWLMQrCQBBFsc0RrKYWyYpgo1YG0QghnW2YhHV3QzITdkZI6R2svZwncW0-vMf72WeRHa8hBnJQktpIAg-OUHACUiiiRQ1M8H29oecWxGLsPCRzYXaDXR686iR7Y0SG3ImmvMs7Hg2TbXk26ST_acRjtNOAapvtbjPnE7kVVPWthnt5OkMgqJ5ji2ENFaYUxWvEH8Y9bp6gAAAA&shmds=v1_ARwrE223umnTSn7aogqMxWYZVTRmCGDfLVneP2lKBDKevo8i_Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=NskX_Jzfqx3zvyx4AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69cfb703f17c28ca431b6/images/EC7IsMnVSC5IpjyYhJGNWoOT5q_5OVb2xPkGFAGvo1Y.jpeg",
+      "extensions": [
+        "1 day ago",
+        "Contractor"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/hiring-interns-for-content-creation-at-mojo-vibe-4474078347",
+      "job_title": "Hiring Interns for Content Creation",
+      "description": "Company Description Mojo Vibe is a BBQ-focused brand built around the idea that cookouts are about connection, shared stories, and memorable experiences. The company is dedicated to creating feel-good moments where great food and a relaxed atmosphere come together. Mojo Vibe emphasizes sustainable practices, ensuring that each grill session is enjoyable and environmentally responsible. With a grill at the center and bold flavors in every bite, the brand aims to make every gathering unforgettable. At Mojo Vibe, it’s not just a BBQ; it’s a vibe that brings people together.\nRole Description This is a contract, on-site role based in Mumbai for interns focused on content creation. Interns will assist in developing engaging written and visual content for social media, websites, meta and google that reflect Mojo Vibe’s brand personality and values. Day-to-day tasks may include brainstorming content ideas, drafting posts and captions, capturing photos or short videos during events or BBQ sessions, and collaborating with the marketing team to maintain a consistent brand voice. Interns will also support in basic editing, scheduling content, and monitoring audience interactions to help grow community engagement. The role offers hands-on experience in content creation within a lifestyle and food-oriented brand environment.\nQualifications\n \nAbility to create clear, engaging written content for social media, blogs, and promotional materials.Basic skills in photography or videography and familiarity with creating short-form visual content.Interest in branding, digital marketing, and storytelling for lifestyle or food-related topics.Attention to detail in editing, proofreading, and organizing content assets.Comfort working on-site in Mumbai during events, BBQ sessions, and content shoots.Strong communication skills and ability to collaborate with cross-functional teams.Enthusiasm for learning, creativity, and a proactive approach to trying new content ideas.Currently pursuing or recently completed studies in Media, Communications, Marketing, Design, or a related field is preferred but not mandatory.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/hiring-interns-for-content-creation-at-mojo-vibe-4474078347?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/hiring-interns-for-content-creation-mojo-vibe-mumbai-city--fj-2400836410?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJIaXJpbmcgSW50ZXJucyBmb3IgQ29udGVudCBDcmVhdGlvbiIsImNvbXBhbnlfbmFtZSI6Ik1PSk8gVklCRSIsImh0aWRvY2lkIjoiTnNrWF9KemZxeDN6dnl4NEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFREUmZPREZ2WVRjdFNWZHNiMDVKYmpaWVdXTnFTbk00WldwT2FteEhaRGhsU2pCWVZtdGxhbFJVY0Zoa1EyWkpNRWxXZGxFMWFEQXdjREpqU1VWa05GRXhUVzV6ZVZodWRrZ3RVMnhzVlUxSGN6Z3hhbGhUWTNodmNGUkJNR2xQTm5WRE16aGtPRmd6WjFsSmJVa3lVUzFsUW5OSVR6UXhMVXB4UjFKd1NqaFRaVVJMY3pJU0Z5MDFla2RoYjJGYVRuQXlibTEwYTFBMllTMVhkMEZqR2lKQlJITnlPV1pUTjJneVRUQlFlVzh0VTE5alUxRkJjMFpyU2xGUFIwWjBaa3BCIiwiZmN2IjoiMyIsImZjX2lkIjoiTnNrWF9KemZxeDN6dnl4NEFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0RDb3dEUVVwcFZEUjBTbTg1UVZWeGVrTnhNalpYU0ROUFNHMDVWbXg1ZEd0MFQwbERlSFZmY1ROek1ua3RVRFpDVTFCcVUxVnBXSFowY1dwbFFUSlpNa3A2TlRsdVRXTjRMVVZaZWpCNFpEWnlUREJSWlhZNVVtRmpSalJwTTBKdWJHczVNbTlQY2w5bVRFZDFZakJVVFhGNFl6Sk9SVGhIVFRKSFVHZDRhMk5hTUdaNFptRnlZbFZ5TTFSV1JqUTVZamhQUVZjNWRHZFllRlJrZVRaQ1MyaDVTSHAxUVhWZldGRktNbTFrZWpCSVkzTjBOMDQwZFdObmIwODBiMkZHU1U5MllrWnBUMTh4Y0ZsbFJVSkJZMWRpTUhjMGVUSlRjbE5qVlRaTGVYQjBiSEJ4TTFkc2ExTnljMlV5UzNaNVkzZE5iRlZZTkhCRlQySkVPVlo2WTJobFNHdFBOVnBhWWt4TmRXaFRkMlo1TW1KMU5YVktTbXd5V1ZKdmFUVnBVRXBsWDBKYVRIaFRjRWhRVXpGemNHUkdOVzR0ZDNCSVNUZEZlRWxwYW5wNldURjNYM2x1WWtGTWJVTlNha05qVGtSV2NIcGlOa0YzVmpOUk1rODJOSFUzUzB4U2QyRk5ObGM0T0RGTlp6bHVRemRNYjJWUFJHMDRRV2xhUTFjMlJESlRaazFmY3pKT1JVUnJhbTk1RWhjdE5YcEhZVzloV2s1d01tNXRkR3RRTm1FdFYzZEJZeG9pUVVSemNqbG1Vek5sZDJReWRHSlZibW80ZGxJM2RHRTBXVGhYYzJONlZXcGpVUSIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&next_page_token=eyJmYyI6IkVzd0RDb3dEUVVwcFZEUjBTbTg1UVZWeGVrTnhNalpYU0ROUFNHMDVWbXg1ZEd0MFQwbERlSFZmY1ROek1ua3RVRFpDVTFCcVUxVnBXSFowY1dwbFFUSlpNa3A2TlRsdVRXTjRMVVZaZWpCNFpEWnlUREJSWlhZNVVtRmpSalJwTTBKdWJHczVNbTlQY2w5bVRFZDFZakJVVFhGNFl6Sk9SVGhIVFRKSFVHZDRhMk5hTUdaNFptRnlZbFZ5TTFSV1JqUTVZamhQUVZjNWRHZFllRlJrZVRaQ1MyaDVTSHAxUVhWZldGRktNbTFrZWpCSVkzTjBOMDQwZFdObmIwODBiMkZHU1U5MllrWnBUMTh4Y0ZsbFJVSkJZMWRpTUhjMGVUSlRjbE5qVlRaTGVYQjBiSEJ4TTFkc2ExTnljMlV5UzNaNVkzZE5iRlZZTkhCRlQySkVPVlo2WTJobFNHdFBOVnBhWWt4TmRXaFRkMlo1TW1KMU5YVktTbXd5V1ZKdmFUVnBVRXBsWDBKYVRIaFRjRWhRVXpGemNHUkdOVzR0ZDNCSVNUZEZlRWxwYW5wNldURjNYM2x1WWtGTWJVTlNha05qVGtSV2NIcGlOa0YzVmpOUk1rODJOSFUzUzB4U2QyRk5ObGM0T0RGTlp6bHVRemRNYjJWUFJHMDRRV2xhUTFjMlJESlRaazFmY3pKT1JVUnJhbTk1RWhjdE5YcEhZVzloV2s1d01tNXRkR3RRTm1FdFYzZEJZeG9pUVVSemNqbG1Vek5sZDJReWRHSlZibW80ZGxJM2RHRTBXVGhYYzJONlZXcGpVUSIsImZjdiI6IjMifQ%3D%3D&q=Marketing+Intern"
+  }
+}

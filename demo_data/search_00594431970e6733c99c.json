@@ -1,0 +1,451 @@
+{
+  "search_metadata": {
+    "id": "6ac6a2847ec029b47ec6d926",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3MA9YjlPexMnIUv5WtIL3fO6Y2r-yhNFQQ-qikNhxUI/6ac6a2847ec029b47ec6d926.json",
+    "markdown_endpoint": "https://serpapi.com/searches/3MA9YjlPexMnIUv5WtIL3fO6Y2r-yhNFQQ-qikNhxUI/6ac6a2847ec029b47ec6d926.md",
+    "created_at": "2026-10-07 19:50:28 UTC",
+    "processed_at": "2026-10-07 19:50:28 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Tableau+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/3MA9YjlPexMnIUv5WtIL3fO6Y2r-yhNFQQ-qikNhxUI/6ac6a2847ec029b47ec6d926.html",
+    "total_time_taken": 3.87
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Tableau full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 3790383,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Learn Tableau in Under 2 hours | Dashboards, Relationships, Visualizations + Mini Project",
+      "link": "https://www.youtube.com/watch?v=j8FSP8XuFyk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=j8FSP8XuFyk",
+      "video_id": "j8FSP8XuFyk",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 454843,
+      "length": "1:30:10",
+      "description": "Take my Full Tableau Course Here: https://www.analystbuilder.com/courses/tableau-for-data-visualization Download Tableau: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/j8FSP8XuFyk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDrRypm_s6p2mGUq0X0797RJMyQUQ"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO",
+      "link": "https://www.youtube.com/watch?v=K3pXnbniUcM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=K3pXnbniUcM",
+      "video_id": "K3pXnbniUcM",
+      "channel": {
+        "name": "Data with Baraa",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1215803,
+      "length": "20:47:05",
+      "description": "Spent 2 years creating a 21-hour, high-quality course that covers everything about Tableau using visual learning. The best part?",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/K3pXnbniUcM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAkFzdXLSIbkHO6-NL_d3tNwqo64w"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Tableau Full Course - Learn Tableau in 6 Hours | Tableau Training for Beginners | Edureka",
+      "link": "https://www.youtube.com/watch?v=aHaOIvR00So",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aHaOIvR00So",
+      "video_id": "aHaOIvR00So",
+      "channel": {
+        "name": "edureka!",
+        "link": "https://www.youtube.com/@edurekaIN",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/fkoY1WFQrc9eK6FwzrZVi-hZFBdpCUfSYPy6k9VSVP4H1Cqo_0pwIgpgOn-uCRgFPlz_AtGGog=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 3799472,
+      "length": "6:00:14",
+      "description": "Edureka Tableau Certification Training (Use Code \"YOUTUBE20\"): https://www.edureka.co/tableau-certification-training ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/aHaOIvR00So/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCrKKHR6rtr1yssefEpMIiJboC2pA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Tableau Full Course - Learn Tableau In 6 Hours | Tableau Training for Beginners | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=HGMrIZq5dq0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HGMrIZq5dq0",
+      "video_id": "HGMrIZq5dq0",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 72280,
+      "length": "5:34:49",
+      "description": "\"  Microsoft Azure - Data Analyst Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HGMrIZq5dq0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCK5o-hjDg17ry7fzU2fubbt4xVEQ"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Tableau Training Full Course 2026 | Master Tableau from Basics to Advanced | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=l4hp3CAPKY0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l4hp3CAPKY0",
+      "video_id": "l4hp3CAPKY0",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 3w ago",
+      "views": 28812,
+      "length": "6:07:22",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/l4hp3CAPKY0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAOd5U6ms0t-vnfvawHZbCRdidWlw"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Tableau Basics Full Course Tutorial (6+ Hours)",
+      "link": "https://www.youtube.com/watch?v=sUVJawClpq0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sUVJawClpq0",
+      "video_id": "sUVJawClpq0",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "link": "https://www.youtube.com/@learnskillsdaily",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WwrBREpkRbdALebIg_xlBFBSwc7H8_tBcqgjLSP4fpZkMcPp3hSledFRan866itfUwsEKg-AUQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 63751,
+      "length": "6:40:12",
+      "description": "Tableau Basics Full Course Tutorial (6+ Hours) Get Ad-Free Training by becoming a member today!",
+      "extensions": [
+        "CC",
+        "Beginner"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/sUVJawClpq0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDrgM1VbQ2PzAvVIVrblsGEmITbdg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Tableau for Data Science and Data Visualization - Crash Course Tutorial",
+      "link": "https://www.youtube.com/watch?v=TPMlZxRRaBQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TPMlZxRRaBQ",
+      "video_id": "TPMlZxRRaBQ",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 927927,
+      "length": "28:42",
+      "description": "Learn to use Tableau to produce high quality, interactive data visualizations! Tableau can help you see and understand your data.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TPMlZxRRaBQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvcgB_iM58rfJwQYMjo78camr0TQ"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Tableau Full Course 2026 [FREE] | Tableau Tutorial For Beginners | Tableau Course | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=T8vElTWEhaM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=T8vElTWEhaM",
+      "video_id": "T8vElTWEhaM",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 9mo ago",
+      "views": 4095,
+      "length": "10:23:47",
+      "description": "Data Analyst Masters Program (Discount Code - YTBE15) ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/T8vElTWEhaM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCsEKRh6Nw6Ch1nOZn3ZtScXE4ZIg"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Tableau Desktop Crash Course | Learn Tableau from a Tableau Visionary",
+      "link": "https://www.youtube.com/watch?v=-Aj8IlC0IEA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-Aj8IlC0IEA",
+      "video_id": "-Aj8IlC0IEA",
+      "channel": {
+        "name": "Just Tim",
+        "link": "https://www.youtube.com/@TableauTim",
+        "thumbnail": "https://yt3.ggpht.com/SQiPPPPyXckKYVd4-mdZMd0SSbpIQNGIVngCIla9HhnlPXNZqoLTbOIMskNnb-m_Z0cywQ1reL8=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 323486,
+      "length": "3:44:08",
+      "description": "Future-proof your career https://n1d.io ------- | Sign up to Playfair+ http://bit.ly/4lgOeio - Discount code: TableauTim - Good for 10% ...",
+      "extensions": [
+        "Professional Training",
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAfFJ2Ngm_288FoOQEc5rGrTAKBqA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Tableau Training Full Course 2026 | Master Tableau from Basics to Advanced | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=YBJKpTO5gPE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YBJKpTO5gPE",
+      "video_id": "YBJKpTO5gPE",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3w ago",
+      "views": 6585,
+      "length": "6:06:47",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/YBJKpTO5gPE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCZtCcFySp0ce3E4L373yMjOIkCxw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Tableau Full Course 2026 | Tableau Tutorial For Beginners | Tableau Developer Training | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=9iKwAqf8OdM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9iKwAqf8OdM",
+      "video_id": "9iKwAqf8OdM",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 2007,
+      "length": "6:57:05",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9iKwAqf8OdM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBTn2fuMcaogL8cxkA-2x1QknQbcw"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Tableau Full Course 2026 [FREE] | Tableau Tutorial For Beginners | Tableau Training | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=hODSe9c5r18",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hODSe9c5r18",
+      "video_id": "hODSe9c5r18",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 5116,
+      "length": "10:43:59",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hODSe9c5r18/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDYP2-VKv6vCWAyeg2FvHF0lQ5u7A"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Tableau Full Course 2025 (LEARN Tableau in 11 Hours) | Tableau Tutorial For Beginners | Intellipaat",
+      "link": "https://www.youtube.com/watch?v=OqNMnxxQ_Bw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OqNMnxxQ_Bw",
+      "video_id": "OqNMnxxQ_Bw",
+      "channel": {
+        "name": "Intellipaat",
+        "link": "https://www.youtube.com/@Intellipaat",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0UrFW02_vRoTxrCcv4H6vSDXFwUPcafCf3oXIA6yMFUsVtIvE8EZdS2UMzbdscI7ifON_U7DHQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 1y ago",
+      "views": 52357,
+      "length": "11:18:18",
+      "description": "Enroll for the Tableau Course: https://intellipaat.com/tableau-training/ Here's the link to the datasets used in this Tableau full ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OqNMnxxQ_Bw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZD4dCsTpDoIevVH02h107Jmr-rg"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Tableau Desktop Tutorial: 4 Hours of Beginner to Advanced Tableau Training",
+      "link": "https://www.youtube.com/watch?v=wFCiKvBgiwg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wFCiKvBgiwg",
+      "video_id": "wFCiKvBgiwg",
+      "channel": {
+        "name": "Simon Sez IT",
+        "link": "https://www.youtube.com/@SimonSezIT",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5n5ruLbcevwzMRUwDYTpV-MMWyhH9IdJFU2lby8CC8Ls=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 131381,
+      "length": "4:02:14",
+      "description": "Download the free course exercise files to follow along ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wFCiKvBgiwg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5GMCbkMfU8nZcdHJND1kfhZydRA"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Tableau Basics for Beginners - Tableau in Two Minutes",
+      "link": "https://www.youtube.com/watch?v=jEgVto5QME8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jEgVto5QME8",
+      "video_id": "jEgVto5QME8",
+      "channel": {
+        "name": "Penguin Analytics",
+        "link": "https://www.youtube.com/@penguinanalytics1984",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lEB1VocMDXkO_GWYEY0LnUdhoQY8GJ-sk5mJESe1TosA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 2112881,
+      "length": "23:03",
+      "description": "In this longer-format training video, we walk through everything you need to build your first dashboard, from connecting to data, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jEgVto5QME8/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyAzKDEwDw==&rs=AOn4CLA1BFjunLeZXzdLEekEEqow1QwQHw"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Tableau Full Course 2026 [FREE] | Tableau Data Visualization Course | Tableau Tutorial | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=xc0KEwQ8was",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xc0KEwQ8was",
+      "video_id": "xc0KEwQ8was",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 1681,
+      "length": "7:29:18",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xc0KEwQ8was/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAfijghyCA6oFuIRGknzxC4fOiyNg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Tableau For Data Science 2026 | Tableau For Data Visualization | Tableau Tutorial | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=Wh4sCCZjOwo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Wh4sCCZjOwo",
+      "video_id": "Wh4sCCZjOwo",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 298139,
+      "length": "7:24:47",
+      "description": "... video is an updated and complete Tableau Full Course In 8 Hours. This Tableau Tutorial is designed to guide you right from the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Wh4sCCZjOwo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCV_RYWWb8CofU1hOoLZ237DpuIXg"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Tableau Full Course with Project – Master Data Visualization in 3 Hours (Beginner Level) – 2026",
+      "link": "https://www.youtube.com/watch?v=GbszEsOY3wo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GbszEsOY3wo",
+      "video_id": "GbszEsOY3wo",
+      "channel": {
+        "name": "WsCube Tech",
+        "link": "https://www.youtube.com/@wscubetech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4FfycrkxlH3gF9HMpPqAmChY3kIH5gWdVNuYjqBGd5j0SpF-ALs6sVSfCQ-5qPyZYgJ79H0QKfA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 388216,
+      "length": "3:00:24",
+      "description": "Tableau Full Course with Project – Master Data Visualization in 3 Hours (Beginner Level) – 2026 Become a Data Analyst with ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/GbszEsOY3wo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCKEXbJ3dgUv4E4qNa-GRSK43ud5Q"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Learn Tableau Full Course For Free | Intellipaat",
+      "link": "https://www.youtube.com/watch?v=onILBqYitrA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=onILBqYitrA",
+      "video_id": "onILBqYitrA",
+      "channel": {
+        "name": "Intellipaat",
+        "link": "https://www.youtube.com/@Intellipaat",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0UrFW02_vRoTxrCcv4H6vSDXFwUPcafCf3oXIA6yMFUsVtIvE8EZdS2UMzbdscI7ifON_U7DHQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 7284,
+      "length": "11:39:39",
+      "description": "In this video, Learn Tableau Full Course For Free and master data visualization from basics to advanced concepts in a structured, ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/onILBqYitrA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbiFswh2mjhUHsPcSNMy_dGnGeUA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Tableau Full Course 2026 | Tableau Tutorial For Beginners | Tableau Developer Course | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=7j78DF41hfY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7j78DF41hfY",
+      "video_id": "7j78DF41hfY",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 754,
+      "length": "8:32:38",
+      "description": "Data Analyst Masters Program (Discount Code - YTBE15) ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7j78DF41hfY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDjRVIAB_f4bbJNgITgloxW_T3fiw"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Tableau+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Tableau%20full%20course%20for%20beginners&sp=EgIYAkgUggELajhGU1A4WHVGeWuCAQtLM3BYbmJuaVVjTYIBC2FIYU9JdlIwMFNvggELSEdNcklacTVkcTCCAQtsNGhwM0NBUEtZMIIBC3NVVkphd0NscHEwggELVFBNbFp4UlJhQlGCAQtUOHZFbFRXRWhhTYIBCy1BajhJbEMwSUVBggELWUJKS3BUTzVnUEWCAQs5aUt3QXFmOE9kTYIBC2hPRFNlOWM1cjE4ggELT3FOTW54eFFfQneCAQt3RkNpS3ZCZ2l3Z4IBC2pFZ1Z0bzVRTUU4ggELeGMwS0V3UTh3YXOCAQtXaDRzQ0Naak93b4IBC0dic3pFc09ZM3dvggELb25JTEJxWWl0ckGCAQs3ajc4REY0MWhmWbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELajhGU1A4WHVGeWuCAQtLM3BYbmJuaVVjTYIBC2FIYU9JdlIwMFNvggELSEdNcklacTVkcTCCAQtsNGhwM0NBUEtZMIIBC3NVVkphd0NscHEwggELVFBNbFp4UlJhQlGCAQtUOHZFbFRXRWhhTYIBCy1BajhJbEMwSUVBggELWUJKS3BUTzVnUEWCAQs5aUt3QXFmOE9kTYIBC2hPRFNlOWM1cjE4ggELT3FOTW54eFFfQneCAQt3RkNpS3ZCZ2l3Z4IBC2pFZ1Z0bzVRTUU4ggELeGMwS0V3UTh3YXOCAQtXaDRzQ0Naak93b4IBC0dic3pFc09ZM3dvggELb25JTEJxWWl0ckGCAQs3ajc4REY0MWhmWbIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Tableau+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Tableau+full+course+for+beginners&sp=EgIYAkgUggELajhGU1A4WHVGeWuCAQtLM3BYbmJuaVVjTYIBC2FIYU9JdlIwMFNvggELSEdNcklacTVkcTCCAQtsNGhwM0NBUEtZMIIBC3NVVkphd0NscHEwggELVFBNbFp4UlJhQlGCAQtUOHZFbFRXRWhhTYIBCy1BajhJbEMwSUVBggELWUJKS3BUTzVnUEWCAQs5aUt3QXFmOE9kTYIBC2hPRFNlOWM1cjE4ggELT3FOTW54eFFfQneCAQt3RkNpS3ZCZ2l3Z4IBC2pFZ1Z0bzVRTUU4ggELeGMwS0V3UTh3YXOCAQtXaDRzQ0Naak93b4IBC0dic3pFc09ZM3dvggELb25JTEJxWWl0ckGCAQs3ajc4REY0MWhmWbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELajhGU1A4WHVGeWuCAQtLM3BYbmJuaVVjTYIBC2FIYU9JdlIwMFNvggELSEdNcklacTVkcTCCAQtsNGhwM0NBUEtZMIIBC3NVVkphd0NscHEwggELVFBNbFp4UlJhQlGCAQtUOHZFbFRXRWhhTYIBCy1BajhJbEMwSUVBggELWUJKS3BUTzVnUEWCAQs5aUt3QXFmOE9kTYIBC2hPRFNlOWM1cjE4ggELT3FOTW54eFFfQneCAQt3RkNpS3ZCZ2l3Z4IBC2pFZ1Z0bzVRTUU4ggELeGMwS0V3UTh3YXOCAQtXaDRzQ0Naak93b4IBC0dic3pFc09ZM3dvggELb25JTEJxWWl0ckGCAQs3ajc4REY0MWhmWbIBBgoECBQQAg%3D%3D"
+  }
+}

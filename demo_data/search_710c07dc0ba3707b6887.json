@@ -1,0 +1,703 @@
+{
+  "search_metadata": {
+    "id": "6ac6a04ce396eb5184737cf7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/k5XWZS8tm8BSXzFopCdRhOeIA5JZzhHqtZWBhLnMokM/6ac6a04ce396eb5184737cf7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/k5XWZS8tm8BSXzFopCdRhOeIA5JZzhHqtZWBhLnMokM/6ac6a04ce396eb5184737cf7.md",
+    "created_at": "2026-10-07 19:41:00 UTC",
+    "processed_at": "2026-10-07 19:41:00 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Tableau+full+course+for+beginners&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/k5XWZS8tm8BSXzFopCdRhOeIA5JZzhHqtZWBhLnMokM/6ac6a04ce396eb5184737cf7.html",
+    "total_time_taken": 2.59
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Tableau full course for beginners",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 4284589,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Tableau Full Course - Learn Tableau in 6 Hours | Tableau Training for Beginners | Edureka",
+      "link": "https://www.youtube.com/watch?v=aHaOIvR00So",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aHaOIvR00So",
+      "video_id": "aHaOIvR00So",
+      "channel": {
+        "name": "edureka!",
+        "link": "https://www.youtube.com/@edurekaIN",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/fkoY1WFQrc9eK6FwzrZVi-hZFBdpCUfSYPy6k9VSVP4H1Cqo_0pwIgpgOn-uCRgFPlz_AtGGog=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 3799472,
+      "length": "6:00:14",
+      "description": "Edureka Tableau Certification Training (Use Code \"YOUTUBE20\"): https://www.edureka.co/tableau-certification-training ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/aHaOIvR00So/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtNgAv6bYJzWnb5DlRKhPsPLQL5g",
+        "rich": "https://i.ytimg.com/an_webp/aHaOIvR00So/mqdefault_6s.webp?du=3000&sqp=CNyqmtYG&rs=AOn4CLAwPdQo5QnCGpk7clUkkYlWfhFkpw"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Learn Tableau in Under 2 hours | Dashboards, Relationships, Visualizations + Mini Project",
+      "link": "https://www.youtube.com/watch?v=j8FSP8XuFyk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=j8FSP8XuFyk",
+      "video_id": "j8FSP8XuFyk",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 454834,
+      "length": "1:30:10",
+      "description": "Take my Full Tableau Course Here: https://www.analystbuilder.com/courses/tableau-for-data-visualization Download Tableau: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/j8FSP8XuFyk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5VbjZHsYiQY2Itk5Ul1BvMUGLOw",
+        "rich": "https://i.ytimg.com/an_webp/j8FSP8XuFyk/mqdefault_6s.webp?du=3000&sqp=CNC4mtYG&rs=AOn4CLCAiyGpEZBj6vCOGbEaj6_24-jHUA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Learn Tableau in 15 minutes and create your first report (FREE Sample Files)",
+      "link": "https://www.youtube.com/watch?v=tNLp_JVipoQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tNLp_JVipoQ",
+      "video_id": "tNLp_JVipoQ",
+      "channel": {
+        "name": "Chandoo",
+        "link": "https://www.youtube.com/@chandoo_",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_wMqn3mAO7vDs1s74bHiFXXv24ckFsv2mnV1US8mS_w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 945784,
+      "length": "16:11",
+      "description": "Do you want to learn Tableau? In this video, learn all the basics you need to start using Tableau straightaway. We are going to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tNLp_JVipoQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC84QIx7bRxoaP2lDfofmqRY-ukvA",
+        "rich": "https://i.ytimg.com/an_webp/tNLp_JVipoQ/mqdefault_6s.webp?du=3000&sqp=COybmtYG&rs=AOn4CLDTDW6y6f3LLgrl6At8TCWl9YUAIw"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Stop watching endless tutorials (This is how to learn Tableau fast in 7 MINUTES)",
+      "link": "https://www.youtube.com/watch?v=n_mVK49hXB0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=n_mVK49hXB0",
+      "video_id": "n_mVK49hXB0",
+      "channel": {
+        "name": "Mo Chen",
+        "link": "https://www.youtube.com/@mo-chen",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/IBFVxGLOQjpvl2y38TMqvalSq0llMz87qpDVZnK0Faw7d_PWSElx6R0UlBoKVEfdszMoBHP7Uq0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 101950,
+      "length": "6:52",
+      "description": "Tableau Fundamentals by DataCamp: https://datacamp.pxf.io/K0O9g9 Data Analyst in Tableau by DataCamp: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/n_mVK49hXB0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmwrAexa5KSWzqJlUdfUlNrrWysg",
+        "rich": "https://i.ytimg.com/an_webp/n_mVK49hXB0/mqdefault_6s.webp?du=3000&sqp=CK2zmtYG&rs=AOn4CLA6TBV03ncVP4tFWc3aGKnWpFfUcQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO",
+      "link": "https://www.youtube.com/watch?v=K3pXnbniUcM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=K3pXnbniUcM",
+      "video_id": "K3pXnbniUcM",
+      "channel": {
+        "name": "Data with Baraa",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1215776,
+      "length": "20:47:05",
+      "description": "Spent 2 years creating a 21-hour, high-quality course that covers everything about Tableau using visual learning. The best part?",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/K3pXnbniUcM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4q-WGcU1CjQyYrluwTxtXnGZsig",
+        "rich": "https://i.ytimg.com/an_webp/K3pXnbniUcM/mqdefault_6s.webp?du=3000&sqp=CNGlmtYG&rs=AOn4CLDLjUJDA96VhF8UZBL_B2-B4JyXrw"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "How to Install Tableau and Create First Visualization | Tableau Tutorials for Beginners",
+      "link": "https://www.youtube.com/watch?v=6xv1KvCMF1Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xv1KvCMF1Q",
+      "video_id": "6xv1KvCMF1Q",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1048654,
+      "length": "17:04",
+      "description": "Check out my Full Tableau Course Here: https://www.analystbuilder.com/courses/tableau-for-data-visualization This is our first of ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6xv1KvCMF1Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpTPrwxk6e0geTWI7CNM-2Hm-unw",
+        "rich": "https://i.ytimg.com/an_webp/6xv1KvCMF1Q/mqdefault_6s.webp?du=3000&sqp=CPS1mtYG&rs=AOn4CLBpEi9yxna32A2yyKcbmRfGGZJa9Q"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Tableau Desktop Crash Course | Learn Tableau from a Tableau Visionary",
+      "link": "https://www.youtube.com/watch?v=-Aj8IlC0IEA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-Aj8IlC0IEA",
+      "video_id": "-Aj8IlC0IEA",
+      "channel": {
+        "name": "Just Tim",
+        "link": "https://www.youtube.com/@TableauTim",
+        "thumbnail": "https://yt3.ggpht.com/SQiPPPPyXckKYVd4-mdZMd0SSbpIQNGIVngCIla9HhnlPXNZqoLTbOIMskNnb-m_Z0cywQ1reL8=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 323486,
+      "length": "3:44:08",
+      "description": "Future-proof your career https://n1d.io ------- | Sign up to Playfair+ http://bit.ly/4lgOeio - Discount code: TableauTim - Good for 10% ...",
+      "extensions": [
+        "Professional Training",
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApPRPllH-U-fWqnNxX441AZ22qqQ",
+        "rich": "https://i.ytimg.com/an_webp/-Aj8IlC0IEA/mqdefault_6s.webp?du=3000&sqp=CMCcmtYG&rs=AOn4CLBnIjuPhlV_2MjpXPLNTpT629N7yg"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Tableau Full Course - Learn Tableau In 6 Hours | Tableau Training for Beginners | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=HGMrIZq5dq0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HGMrIZq5dq0",
+      "video_id": "HGMrIZq5dq0",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 72280,
+      "length": "5:34:49",
+      "description": "\"  Microsoft Azure - Data Analyst Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HGMrIZq5dq0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT_24Lod7W2y0hSwfCfcs76HfYbw"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "What is Tableau? | Tableau Overview | Tableau in 5 Mins | Tableau For Beginners | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=NLCzpPRCc7U",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NLCzpPRCc7U",
+      "video_id": "NLCzpPRCc7U",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 358254,
+      "length": "5:11",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "extensions": [
+        "2 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/NLCzpPRCc7U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX0g9PboUJPo2q4X1zJnd_vN5n8g",
+        "rich": "https://i.ytimg.com/an_webp/NLCzpPRCc7U/mqdefault_6s.webp?du=3000&sqp=CKatmtYG&rs=AOn4CLB9pIqvvMkSj-hxp9NNSdMwIDcbQA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Tableau Training Full Course 2026 | Master Tableau from Basics to Advanced | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=l4hp3CAPKY0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l4hp3CAPKY0",
+      "video_id": "l4hp3CAPKY0",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 3w ago",
+      "views": 28812,
+      "length": "6:07:22",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/l4hp3CAPKY0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw_HLW3I6p1oEbE2hXu--lAPaxew",
+        "rich": "https://i.ytimg.com/an_webp/l4hp3CAPKY0/mqdefault_6s.webp?du=3000&sqp=CPWrmtYG&rs=AOn4CLALoFGZgO8CEGYOdxhZH78qkwsqIg"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 2,
+      "title": "Tableau Ultimate Course",
+      "link": "https://www.youtube.com/playlist?list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v",
+      "channel": {
+        "name": "Data with Baraa",
+        "link": "https://www.youtube.com/@DataWithBaraa"
+      },
+      "videos": [
+        {
+          "title": "Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO",
+          "length": "20:47:05",
+          "link": "https://www.youtube.com/watch?v=K3pXnbniUcM&list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v"
+        },
+        {
+          "title": "Complete Roadmap To Master Tableau",
+          "length": "3:55",
+          "link": "https://www.youtube.com/watch?v=_TT1D3tH1_c&list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v"
+        }
+      ],
+      "video_count": 142,
+      "thumbnail": "https://i.ytimg.com/vi/K3pXnbniUcM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC5ooE9iCLJFoPmbkF098nIDFDggg"
+    },
+    {
+      "position_on_page": 7,
+      "title": "Tableau",
+      "link": "https://www.youtube.com/playlist?list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK",
+      "channel": {
+        "name": "TutorialsPoint",
+        "link": "https://www.youtube.com/@TutorialsPoint_"
+      },
+      "videos": [
+        {
+          "title": "Introduction to Tableau | How Tableau Works | Tableau Courses",
+          "length": "4:27",
+          "link": "https://www.youtube.com/watch?v=gWZtNdMko1k&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK"
+        },
+        {
+          "title": "Tableau - Download Desktop",
+          "length": "1:32",
+          "link": "https://www.youtube.com/watch?v=6Tg2T14uNyg&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK"
+        }
+      ],
+      "video_count": 87,
+      "thumbnail": "https://i.ytimg.com/vi/gWZtNdMko1k/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYRCBQKGUwDw==&rs=AOn4CLDHMktLeUdHGbCu0UNp9hNqB-EAfA"
+    },
+    {
+      "position_on_page": 8,
+      "title": "Tableau Training Videos | Tableau Tutorial Videos | Data Visualisation using Tableau | Edureka",
+      "link": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOH7ni13w776zP_X9ny3Eksv",
+      "channel": {
+        "name": "edureka!",
+        "link": "https://www.youtube.com/@edurekaIN"
+      },
+      "videos": [
+        {
+          "title": "Tableau Full Course - Learn Tableau in 6 Hours | Tableau Training for Beginners | Edureka",
+          "length": "6:00:14",
+          "link": "https://www.youtube.com/watch?v=aHaOIvR00So&list=PL9ooVrP1hQOH7ni13w776zP_X9ny3Eksv"
+        },
+        {
+          "title": "Introduction to Tableau | How Tableau Works | Tableau Training | Tableau Certification | Edureka",
+          "length": "3:21",
+          "link": "https://www.youtube.com/watch?v=VUVqj7YsWmU&list=PL9ooVrP1hQOH7ni13w776zP_X9ny3Eksv"
+        }
+      ],
+      "video_count": 56,
+      "thumbnail": "https://i.ytimg.com/vi/aHaOIvR00So/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDJZ4Dh8GhIU1dr7wHCyqlLIwBNNA"
+    },
+    {
+      "position_on_page": 9,
+      "title": "Tableau Course For Beginners - WsCube Tech",
+      "link": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGd-xNpPg6Hd3t1iLiExnOYC",
+      "channel": {
+        "name": "WsCube Tech",
+        "link": "https://www.youtube.com/@wscubetech"
+      },
+      "videos": [
+        {
+          "title": "What is Tableau? Features, Advantages, and Disadvantages Explained - Tableau Ep.1",
+          "length": "5:39",
+          "link": "https://www.youtube.com/watch?v=YfxgATurF2Q&list=PLjVLYmrlmjGd-xNpPg6Hd3t1iLiExnOYC"
+        },
+        {
+          "title": "How To Download & Install Tableau - FREE (Tableau Desktop vs Public) Ep 2",
+          "length": "9:09",
+          "link": "https://www.youtube.com/watch?v=3EMC66Q9WBs&list=PLjVLYmrlmjGd-xNpPg6Hd3t1iLiExnOYC"
+        }
+      ],
+      "video_count": 23,
+      "thumbnail": "https://i.ytimg.com/vi/YfxgATurF2Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC9DQax7_BmfreF4b833qLwKTcEDw"
+    },
+    {
+      "position_on_page": 12,
+      "title": "Tableau Tutorial for Beginners | Tableau Training Courses | Learn Tableau",
+      "link": "https://www.youtube.com/playlist?list=PLS1QulWo1RIbn2s-Nr5h11rtsAdAlt6kc",
+      "channel": {
+        "name": "ProgrammingKnowledge",
+        "link": "https://www.youtube.com/@ProgrammingKnowledge"
+      },
+      "videos": [
+        {
+          "title": "Tableau Tutorial for Beginners 1 - Getting Started with Tableau",
+          "length": "10:04",
+          "link": "https://www.youtube.com/watch?v=Ftc9nPKvv3Y&list=PLS1QulWo1RIbn2s-Nr5h11rtsAdAlt6kc"
+        },
+        {
+          "title": "Tableau Tutorial for Beginners 2 - Tableau Products | Types of Tableau Products",
+          "length": "10:00",
+          "link": "https://www.youtube.com/watch?v=MLQ9K8Y44OY&list=PLS1QulWo1RIbn2s-Nr5h11rtsAdAlt6kc"
+        }
+      ],
+      "video_count": 42,
+      "thumbnail": "https://i.ytimg.com/vi/Ftc9nPKvv3Y/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC9fP1xrRKEUCrzeob51H6tM0Liwg"
+    },
+    {
+      "position_on_page": 13,
+      "title": "Tableau Playlist [2026 Updated] | Tableau Tutorial For Beginners | Data Analytics With Tableau | Tableau Projects | Tableau Training | Simplilearn",
+      "link": "https://www.youtube.com/playlist?list=PLEiEAq2VkUUJEvrsey26P-Bj4Vk6BLBVC",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial"
+      },
+      "videos": [
+        {
+          "title": "Introduction To Tableau 2026 | What Is Tableau? | Tableau Training For Beginners | Simplilearn",
+          "length": "13:27",
+          "link": "https://www.youtube.com/watch?v=SSq5NwsUNGI&list=PLEiEAq2VkUUJEvrsey26P-Bj4Vk6BLBVC"
+        },
+        {
+          "title": "Tableau For Data Science 2026 | Tableau For Data Visualization | Tableau Tutorial | Simplilearn",
+          "length": "7:24:47",
+          "link": "https://www.youtube.com/watch?v=Wh4sCCZjOwo&list=PLEiEAq2VkUUJEvrsey26P-Bj4Vk6BLBVC"
+        }
+      ],
+      "video_count": 48,
+      "thumbnail": "https://i.ytimg.com/vi/SSq5NwsUNGI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD70bmcl3YmPAkgF-q9Lt9CkR51fw"
+    },
+    {
+      "position_on_page": 14,
+      "title": "Tableau Tutorial Playlist (2026)",
+      "link": "https://www.youtube.com/playlist?list=PLSwH4ViBDl2QxJvc3VMbTome3psJIuaTG",
+      "channel": {
+        "name": "Amit Thinks",
+        "link": "https://www.youtube.com/@Amit.Thinks"
+      },
+      "videos": [
+        {
+          "title": "Tableau Introduction and Features for Data Analysis and Business Intelligence | Amit Thinks | 2025",
+          "length": "8:12",
+          "link": "https://www.youtube.com/watch?v=003U-V_M3gQ&list=PLSwH4ViBDl2QxJvc3VMbTome3psJIuaTG"
+        },
+        {
+          "title": "How to install Tableau Desktop in Windows 10 | Updated 2026 | Amit Thinks",
+          "length": "3:30",
+          "link": "https://www.youtube.com/watch?v=nce3gFii3_g&list=PLSwH4ViBDl2QxJvc3VMbTome3psJIuaTG"
+        }
+      ],
+      "video_count": 35,
+      "thumbnail": "https://i.ytimg.com/vi/003U-V_M3gQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDv_Z7cu4OKwgcZ39h4IF6xNgpN9g"
+    },
+    {
+      "position_on_page": 15,
+      "title": "Tableau Dashboard",
+      "link": "https://www.youtube.com/playlist?list=PLO9LeSU_vHCU_DHaLzEvsLxFdmB3Qcao_",
+      "channel": {
+        "name": "Data Tutorials",
+        "link": "https://www.youtube.com/@datatutorials1"
+      },
+      "videos": [
+        {
+          "title": "Tableau Dashboard from Start to End (Part 1)| HR Dashboard | Beginner to Pro | Tableau Project",
+          "length": "36:44",
+          "link": "https://www.youtube.com/watch?v=oAIubTqg-Kw&list=PLO9LeSU_vHCU_DHaLzEvsLxFdmB3Qcao_&pp=0gcJCQIF0aJEHMZM"
+        },
+        {
+          "title": "Tableau Dashboard from Start to End (Part 2)| HR Dashboard | Beginner to Pro | Tableau Project",
+          "length": "36:15",
+          "link": "https://www.youtube.com/watch?v=oTyCZVnNVZA&list=PLO9LeSU_vHCU_DHaLzEvsLxFdmB3Qcao_"
+        }
+      ],
+      "video_count": 29,
+      "thumbnail": "https://i.ytimg.com/vi/oAIubTqg-Kw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBNfHjJIoBPAAXztyaqMuINP2zpKQ"
+    },
+    {
+      "position_on_page": 18,
+      "title": "Tableau complete course for beginners in Tamil | Insight Antony",
+      "link": "https://www.youtube.com/playlist?list=PLfFzKoN6KlbRATPAuTCATjFt1-IrtQDu3",
+      "channel": {
+        "name": "Insight Antony",
+        "link": "https://www.youtube.com/@InsightAntony"
+      },
+      "videos": [
+        {
+          "title": "Sets in Tableau Explained in Tamil | Insight Antony",
+          "length": "5:38",
+          "link": "https://www.youtube.com/watch?v=QdWSJI1tfnc&list=PLfFzKoN6KlbRATPAuTCATjFt1-IrtQDu3"
+        },
+        {
+          "title": "Groups in Tableau Explained in Tamil | Insight Antony",
+          "length": "6:38",
+          "link": "https://www.youtube.com/watch?v=u7Ox0MuRu9E&list=PLfFzKoN6KlbRATPAuTCATjFt1-IrtQDu3"
+        }
+      ],
+      "video_count": 8,
+      "thumbnail": "https://i.ytimg.com/vi/QdWSJI1tfnc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA1xwPamnagjB2EhHGZvNBEMddYKQ"
+    },
+    {
+      "position_on_page": 21,
+      "title": "Tableau Course in hindi | CloudyML | Data Science | Data Analytics",
+      "link": "https://www.youtube.com/playlist?list=PLsR_0x6BuM-FGRtu8C0XlbVYR8gc8r2v9",
+      "channel": {
+        "name": "CloudyML",
+        "link": "https://www.youtube.com/@CloudyML"
+      },
+      "videos": [
+        {
+          "title": "V-1 : What is Tableau ? | Tableau Course(Hindi)",
+          "length": "6:42",
+          "link": "https://www.youtube.com/watch?v=vBHVI1KNIp0&list=PLsR_0x6BuM-FGRtu8C0XlbVYR8gc8r2v9"
+        },
+        {
+          "title": "V-2 : Tableau Installation | Tableau Course(Hindi)",
+          "length": "9:09",
+          "link": "https://www.youtube.com/watch?v=kKy3nSXpULg&list=PLsR_0x6BuM-FGRtu8C0XlbVYR8gc8r2v9"
+        }
+      ],
+      "video_count": 27,
+      "thumbnail": "https://i.ytimg.com/vi/vBHVI1KNIp0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCAX3r5mjosnLxdP1oVj65JtaZjaQ"
+    }
+  ],
+  "shorts_results": [
+    {
+      "position_on_page": 19,
+      "shorts": [
+        {
+          "title": "Tableau Full Course 2024!",
+          "link": "https://www.youtube.com/shorts/djZV7j1ysZk",
+          "thumbnail": "https://i.ytimg.com/vi/djZV7j1ysZk/frame0.jpg",
+          "views_original": "496 views",
+          "views": 496,
+          "video_id": "djZV7j1ysZk"
+        },
+        {
+          "title": "Tableau Full Course Part 1",
+          "link": "https://www.youtube.com/shorts/pRSPPMA_kGY",
+          "thumbnail": "https://i.ytimg.com/vi/pRSPPMA_kGY/frame0.jpg",
+          "views_original": "385 views",
+          "views": 385,
+          "video_id": "pRSPPMA_kGY"
+        },
+        {
+          "title": "Tableau Complete Tutorial 2024 , For Beginners #tableau #powerbi #excel",
+          "link": "https://www.youtube.com/shorts/8tZQKW71cKg",
+          "thumbnail": "https://i.ytimg.com/vi/8tZQKW71cKg/frame0.jpg",
+          "views_original": "1.4K views",
+          "views": 1400,
+          "video_id": "8tZQKW71cKg"
+        },
+        {
+          "title": "Tableau Full Course | Introduction to Tableau | How Tableau works | Tableau Courses | Edu4Sure",
+          "link": "https://www.youtube.com/shorts/nJektvDRJtM",
+          "thumbnail": "https://i.ytimg.com/vi/nJektvDRJtM/frame0.jpg",
+          "views_original": "925 views",
+          "views": 925,
+          "video_id": "nJektvDRJtM"
+        },
+        {
+          "title": "Tableau Full Course #tableau",
+          "link": "https://www.youtube.com/shorts/h6az_hlorIE",
+          "thumbnail": "https://i.ytimg.com/vi/h6az_hlorIE/frame0.jpg",
+          "views_original": "219 views",
+          "views": 219,
+          "video_id": "h6az_hlorIE"
+        }
+      ]
+    },
+    {
+      "position_on_page": 22,
+      "shorts": [
+        {
+          "title": "Tableau is easier than you think. You can learn this in 1 hour.",
+          "link": "https://www.youtube.com/shorts/xKBZqx7JdOo",
+          "thumbnail": "https://i.ytimg.com/vi/xKBZqx7JdOo/frame0.jpg",
+          "views_original": "276K views",
+          "views": 276000,
+          "video_id": "xKBZqx7JdOo"
+        },
+        {
+          "title": "🔥 What Is Tableau ? | Tableau Explained |Tableau for Beginners #Shorts #simplilearn",
+          "link": "https://www.youtube.com/shorts/KBxuYD8YBRw",
+          "thumbnail": "https://i.ytimg.com/vi/KBxuYD8YBRw/frame0.jpg",
+          "views_original": "263K views",
+          "views": 263000,
+          "video_id": "KBxuYD8YBRw"
+        },
+        {
+          "title": "Two courses to learn Tableau | Udemy | Basic and Advanced | Tips and trick 🤯",
+          "link": "https://www.youtube.com/shorts/PfZTxeXJDJM",
+          "thumbnail": "https://i.ytimg.com/vi/PfZTxeXJDJM/frame0.jpg",
+          "views_original": "113K views",
+          "views": 113000,
+          "video_id": "PfZTxeXJDJM"
+        },
+        {
+          "title": "Complete Tableau Mindmap for Data Analysts",
+          "link": "https://www.youtube.com/shorts/DHFurQ5pJgo",
+          "thumbnail": "https://i.ytimg.com/vi/DHFurQ5pJgo/frame0.jpg",
+          "views_original": "900 views",
+          "views": 900,
+          "video_id": "DHFurQ5pJgo"
+        },
+        {
+          "title": "How I Use TABLEAU as a DATA ANALYST",
+          "link": "https://www.youtube.com/shorts/o_FycVa3FH4",
+          "thumbnail": "https://i.ytimg.com/vi/o_FycVa3FH4/frame0.jpg",
+          "views_original": "76K views",
+          "views": 76000,
+          "video_id": "o_FycVa3FH4"
+        },
+        {
+          "title": "#Tableau for Beginners - How aggregates work #tableaututorial  #tableautips  #tableautraining #SQL",
+          "link": "https://www.youtube.com/shorts/k6x67zOn4to",
+          "thumbnail": "https://i.ytimg.com/vi/k6x67zOn4to/frame0.jpg",
+          "views_original": "61K views",
+          "views": 61000,
+          "video_id": "k6x67zOn4to"
+        },
+        {
+          "title": "How to download Tableau Desktop for free ✨️ #tableautraining",
+          "link": "https://www.youtube.com/shorts/pMWczTMrq8A",
+          "thumbnail": "https://i.ytimg.com/vi/pMWczTMrq8A/frame0.jpg",
+          "views_original": "57K views",
+          "views": 57000,
+          "video_id": "pMWczTMrq8A"
+        },
+        {
+          "title": "How to Configure the Tableau Cloud MCP Server (Step-by-Step)",
+          "link": "https://www.youtube.com/shorts/gunWF_HLJHU",
+          "thumbnail": "https://i.ytimg.com/vi/gunWF_HLJHU/frame0.jpg",
+          "views_original": "182 views",
+          "views": 182,
+          "video_id": "gunWF_HLJHU"
+        },
+        {
+          "title": "Tableau Newbies User Group 6 Oct 2026 The pros and cons of 100% native KPI cards #tableau #datafam",
+          "link": "https://www.youtube.com/shorts/n7soFJNsHSc",
+          "thumbnail": "https://i.ytimg.com/vi/n7soFJNsHSc/frame0.jpg",
+          "views_original": "18 views",
+          "views": 18,
+          "video_id": "n7soFJNsHSc"
+        },
+        {
+          "title": "Tableau | What is Tableau | Tableau Course | Intellipaat #Shorts #Tableau",
+          "link": "https://www.youtube.com/shorts/pgSkV3vIb1Q",
+          "thumbnail": "https://i.ytimg.com/vi/pgSkV3vIb1Q/frame0.jpg",
+          "views_original": "15K views",
+          "views": 15000,
+          "video_id": "pgSkV3vIb1Q"
+        },
+        {
+          "title": "Tableau Newbies User Group 6 Oct 2026 The Tableau filter trick for nulls #tableau #datafam",
+          "link": "https://www.youtube.com/shorts/0NiVnDkLXhA",
+          "thumbnail": "https://i.ytimg.com/vi/0NiVnDkLXhA/frame0.jpg",
+          "views_original": "19 views",
+          "views": 19,
+          "video_id": "0NiVnDkLXhA"
+        },
+        {
+          "title": "Top 5 Youtube Channels to Learn Tableau | Honest Recommendation",
+          "link": "https://www.youtube.com/shorts/oIn4t3_PxJg",
+          "thumbnail": "https://i.ytimg.com/vi/oIn4t3_PxJg/frame0.jpg",
+          "views_original": "1.2K views",
+          "views": 1200,
+          "video_id": "oIn4t3_PxJg"
+        },
+        {
+          "title": "Tableau and Power BI Training at ICT Ahmedabad |  #southbopal",
+          "link": "https://www.youtube.com/shorts/EPkeHnojnSs",
+          "thumbnail": "https://i.ytimg.com/vi/EPkeHnojnSs/frame0.jpg",
+          "views_original": "106 views",
+          "views": 106,
+          "video_id": "EPkeHnojnSs"
+        },
+        {
+          "title": "“Tableau Pie Chart: Visualize Sales by Category”",
+          "link": "https://www.youtube.com/shorts/CNHz8VtE4sQ",
+          "thumbnail": "https://i.ytimg.com/vi/CNHz8VtE4sQ/frame0.jpg",
+          "views_original": "138 views",
+          "views": 138,
+          "video_id": "CNHz8VtE4sQ"
+        },
+        {
+          "title": "Tableau full series for Data Analyst | Tableau for Beginners to Advance   #tableau #dataanalytics",
+          "link": "https://www.youtube.com/shorts/1NuO18L7nHs",
+          "thumbnail": "https://i.ytimg.com/vi/1NuO18L7nHs/frame0.jpg",
+          "views_original": "1.4K views",
+          "views": 1400,
+          "video_id": "1NuO18L7nHs"
+        },
+        {
+          "title": "How to access Tableau for free!",
+          "link": "https://www.youtube.com/shorts/bkc9TKGvYqc",
+          "thumbnail": "https://i.ytimg.com/vi/bkc9TKGvYqc/frame0.jpg",
+          "views_original": "105K views",
+          "views": 105000,
+          "video_id": "bkc9TKGvYqc"
+        },
+        {
+          "title": "#Tableau - Butterfly Chart",
+          "link": "https://www.youtube.com/shorts/4cTbsywJvWw",
+          "thumbnail": "https://i.ytimg.com/vi/4cTbsywJvWw/frame0.jpg",
+          "views_original": "93K views",
+          "views": 93000,
+          "video_id": "4cTbsywJvWw"
+        },
+        {
+          "title": "“Tableau Scatter Plot: Visualize Relationships & Trends”",
+          "link": "https://www.youtube.com/shorts/Qe9g6CZgQRc",
+          "thumbnail": "https://i.ytimg.com/vi/Qe9g6CZgQRc/frame0.jpg",
+          "views_original": "118 views",
+          "views": 118,
+          "video_id": "Qe9g6CZgQRc"
+        },
+        {
+          "title": "Learn Tableau for FREE | For details Visit- https://bit.ly/insta-tjc #engineering #edtech #career 🚀💥",
+          "link": "https://www.youtube.com/shorts/vacuk8brAns",
+          "thumbnail": "https://i.ytimg.com/vi/vacuk8brAns/frame0.jpg",
+          "views_original": "41K views",
+          "views": 41000,
+          "video_id": "vacuk8brAns"
+        },
+        {
+          "title": "Tableau 2022 Formula Guide/Tip #Shorts",
+          "link": "https://www.youtube.com/shorts/UZ4UorN2iE0",
+          "thumbnail": "https://i.ytimg.com/vi/UZ4UorN2iE0/frame0.jpg",
+          "views_original": "25K views",
+          "views": 25000,
+          "video_id": "UZ4UorN2iE0"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Tableau+full+course+for+beginners&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Tableau%20full%20course%20for%20beginners&sp=SBSCAQthSGFPSXZSMDBTb4IBIlBMTmNnX0ZWOW43cVpKcXJLY1VVQ1dDV1BZQ3JsY1ZtOXaCAQtqOEZTUDhYdUZ5a4IBC3ROTHBfSlZpcG9RggELbl9tVks0OWhYQjCCAQtLM3BYbmJuaVVjTYIBIlBMV1Bpcmg0RVdGcEdYVEJ1OGxkTFpHSkNVZVRNQnBKRkuCASJQTDlvb1ZyUDFoUU9IN25pMTN3Nzc2elBfWDlueTNFa3N2ggEiUExqVkxZbXJsbWpHZC14TnBQZzZIZDN0MWlMaUV4bk9ZQ4IBCzZ4djFLdkNNRjFRggELLUFqOElsQzBJRUGCASJQTFMxUXVsV28xUklibjJzLU5yNWgxMXJ0c0FkQWx0NmtjggEiUExFaUVBcTJWa1VVSkV2cnNleTI2UC1CajRWazZCTEJWQ4IBIlBMU3dINFZpQkRsMlF4SnZjM1ZNYlRvbWUzcHNKSXVhVEeCASJQTE85TGVTVV92SENVX0RIYUx6RXZzTHhGZG1CM1FjYW9fggELSEdNcklacTVkcTCCAQtOTEN6cFBSQ2M3VYIBIlBMZkZ6S29ONktsYlJBVFBBdVRDQVRqRnQxLUlydFFEdTOCAQtsNGhwM0NBUEtZMIIBIlBMc1JfMHg2QnVNLUZHUnR1OEMwWGxiVllSOGdjOHIydjmyAQYKBAgWEALqAQQIAhAZ",
+    "next_page_token": "SBSCAQthSGFPSXZSMDBTb4IBIlBMTmNnX0ZWOW43cVpKcXJLY1VVQ1dDV1BZQ3JsY1ZtOXaCAQtqOEZTUDhYdUZ5a4IBC3ROTHBfSlZpcG9RggELbl9tVks0OWhYQjCCAQtLM3BYbmJuaVVjTYIBIlBMV1Bpcmg0RVdGcEdYVEJ1OGxkTFpHSkNVZVRNQnBKRkuCASJQTDlvb1ZyUDFoUU9IN25pMTN3Nzc2elBfWDlueTNFa3N2ggEiUExqVkxZbXJsbWpHZC14TnBQZzZIZDN0MWlMaUV4bk9ZQ4IBCzZ4djFLdkNNRjFRggELLUFqOElsQzBJRUGCASJQTFMxUXVsV28xUklibjJzLU5yNWgxMXJ0c0FkQWx0NmtjggEiUExFaUVBcTJWa1VVSkV2cnNleTI2UC1CajRWazZCTEJWQ4IBIlBMU3dINFZpQkRsMlF4SnZjM1ZNYlRvbWUzcHNKSXVhVEeCASJQTE85TGVTVV92SENVX0RIYUx6RXZzTHhGZG1CM1FjYW9fggELSEdNcklacTVkcTCCAQtOTEN6cFBSQ2M3VYIBIlBMZkZ6S29ONktsYlJBVFBBdVRDQVRqRnQxLUlydFFEdTOCAQtsNGhwM0NBUEtZMIIBIlBMc1JfMHg2QnVNLUZHUnR1OEMwWGxiVllSOGdjOHIydjmyAQYKBAgWEALqAQQIAhAZ"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Tableau+full+course+for+beginners",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Tableau+full+course+for+beginners&sp=SBSCAQthSGFPSXZSMDBTb4IBIlBMTmNnX0ZWOW43cVpKcXJLY1VVQ1dDV1BZQ3JsY1ZtOXaCAQtqOEZTUDhYdUZ5a4IBC3ROTHBfSlZpcG9RggELbl9tVks0OWhYQjCCAQtLM3BYbmJuaVVjTYIBIlBMV1Bpcmg0RVdGcEdYVEJ1OGxkTFpHSkNVZVRNQnBKRkuCASJQTDlvb1ZyUDFoUU9IN25pMTN3Nzc2elBfWDlueTNFa3N2ggEiUExqVkxZbXJsbWpHZC14TnBQZzZIZDN0MWlMaUV4bk9ZQ4IBCzZ4djFLdkNNRjFRggELLUFqOElsQzBJRUGCASJQTFMxUXVsV28xUklibjJzLU5yNWgxMXJ0c0FkQWx0NmtjggEiUExFaUVBcTJWa1VVSkV2cnNleTI2UC1CajRWazZCTEJWQ4IBIlBMU3dINFZpQkRsMlF4SnZjM1ZNYlRvbWUzcHNKSXVhVEeCASJQTE85TGVTVV92SENVX0RIYUx6RXZzTHhGZG1CM1FjYW9fggELSEdNcklacTVkcTCCAQtOTEN6cFBSQ2M3VYIBIlBMZkZ6S29ONktsYlJBVFBBdVRDQVRqRnQxLUlydFFEdTOCAQtsNGhwM0NBUEtZMIIBIlBMc1JfMHg2QnVNLUZHUnR1OEMwWGxiVllSOGdjOHIydjmyAQYKBAgWEALqAQQIAhAZ",
+    "next_page_token": "SBSCAQthSGFPSXZSMDBTb4IBIlBMTmNnX0ZWOW43cVpKcXJLY1VVQ1dDV1BZQ3JsY1ZtOXaCAQtqOEZTUDhYdUZ5a4IBC3ROTHBfSlZpcG9RggELbl9tVks0OWhYQjCCAQtLM3BYbmJuaVVjTYIBIlBMV1Bpcmg0RVdGcEdYVEJ1OGxkTFpHSkNVZVRNQnBKRkuCASJQTDlvb1ZyUDFoUU9IN25pMTN3Nzc2elBfWDlueTNFa3N2ggEiUExqVkxZbXJsbWpHZC14TnBQZzZIZDN0MWlMaUV4bk9ZQ4IBCzZ4djFLdkNNRjFRggELLUFqOElsQzBJRUGCASJQTFMxUXVsV28xUklibjJzLU5yNWgxMXJ0c0FkQWx0NmtjggEiUExFaUVBcTJWa1VVSkV2cnNleTI2UC1CajRWazZCTEJWQ4IBIlBMU3dINFZpQkRsMlF4SnZjM1ZNYlRvbWUzcHNKSXVhVEeCASJQTE85TGVTVV92SENVX0RIYUx6RXZzTHhGZG1CM1FjYW9fggELSEdNcklacTVkcTCCAQtOTEN6cFBSQ2M3VYIBIlBMZkZ6S29ONktsYlJBVFBBdVRDQVRqRnQxLUlydFFEdTOCAQtsNGhwM0NBUEtZMIIBIlBMc1JfMHg2QnVNLUZHUnR1OEMwWGxiVllSOGdjOHIydjmyAQYKBAgWEALqAQQIAhAZ"
+  }
+}

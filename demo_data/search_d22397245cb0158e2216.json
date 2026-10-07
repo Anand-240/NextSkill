@@ -1,0 +1,346 @@
+{
+  "search_metadata": {
+    "id": "6ac6a2240558c055e3547739",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dRwovZcIZ0Rp4h-Cof9GNs1_5fbGu7LKeKdj-e-rR5g/6ac6a2240558c055e3547739.json",
+    "markdown_endpoint": "https://serpapi.com/searches/dRwovZcIZ0Rp4h-Cof9GNs1_5fbGu7LKeKdj-e-rR5g/6ac6a2240558c055e3547739.md",
+    "created_at": "2026-10-07 19:48:52 UTC",
+    "processed_at": "2026-10-07 19:48:52 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Frontend+Developer&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/dRwovZcIZ0Rp4h-Cof9GNs1_5fbGu7LKeKdj-e-rR5g/6ac6a2240558c055e3547739.html",
+    "prettify_html_file": "https://serpapi.com/searches/dRwovZcIZ0Rp4h-Cof9GNs1_5fbGu7LKeKdj-e-rR5g/6ac6a2240558c055e3547739.prettify",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "q": "Frontend Developer",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTVXBqVkRKUlIwYzRXV2hqVlhKc2JUSTFaRlYwVWxsd1JsTjZkM0EzVlcxR1kxWklSMTlGTnpaMWEyTnBNemxTVW5SQk9HOUNRMnRtVkRVMVduTnphWFpMVTFGamRIUkRVSE0zVTJSNFIwWTJaWGRDTkVRNFUybFlURWxIYmpSdU1qbDFRa2RpZWsxb1QzSjBSRXhrZEdoRmFrNVhZWFF6TmtzMFlXaHVUVWRvTUV3MmJGSnVjVmxpWTAxMVVsZEZkbFprY1daT2NWVjBlV1l3UVU5NlRtRjBUMnB5TTBWbVMyRjJYMHhmYkZKVFgwMDRTbEJ4UmtsMlQxcGFiREJDWjFkcVZWSnVRVU5UYVhKQlNWOTZVRE5tZEdkSlpEa3RUemhmWlZSWlFpMTNXRk53VW5wVFJYVnNjRFptVEVaTU9GcDFTV1ZLY2pKRWJrSmZWVXgyVkRBemNFSnRjMnBXY1haM1EwWjBNVk56WlRKMFgycEpWWEpmZFRoTk1tOVpkM1ozZVVsQ01uVkRMVjlwWTNSdFJHMUNRbXhKWWpsd2RUTmxUM1JOZWtJeGFVdHBjRll3YkMxUlRUaHNTa2czVldwaFRXOVFTbmxPWnpGMVdVUktZMVYxVXpkS1QyUlJTamgyTFdkSE5FRmFOWE5SV2xKT05sTkxTRk10ZGs1NFRWVnpRM2xLTFVZeFFXODFPV1ozZFZVeWFXSnpRMmN5TUhwbU9XNTVXWHBaTkhkSWIyZHVWV2xMTkhWNFZHbElUbnBaTVdRNFJsOXBhemxNTjFWWlpEY3pWbU5uVURCSGRsQnZTelpJZVV4aE1WbzNVbFZVTjBwUlUwRVNGMGsyVEVkaGMyWjNTSE5sTUhkT05GQjJTblZZZFVGUkdpSkJSSE55T1daVFRsOXRaWFJCU201R2VXRTViakJoZGpVNVpVcDJVMGt5TVVKMyIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Senior Frontend Developer At Flipkart Internet Pvt Ltd",
+      "company_name": "FrontendGeek",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=iWIouFs5jsXptNPGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_zWOMQoCQQwAsfUJVimsRG5FsNFKkTtEQcEHSDzD3nprsmSjWPoHv-KLfIla2EwzDEz31elu98RBFEoVNuITLOlGURIpzA3KGFKLarD6SmUy2N0MNnaC9-MJZzlCJtS6AWGoRHyk3qwxS3nqXM6x8NnQQl3UcnHCdJS7-0b5h0NuUClFNDqMJ6N7kdgP-v-NiqiFwLAg9hiveh3CGpXRsMUPVRwSC7cAAAA&shmds=v1_ARwrE201VXWZ4XFPicp8KcyfATtSpQbwT6mX_ipG6rkFzVnpWQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=iWIouFs5jsXptNPGAAAAAA%3D%3D",
+      "extensions": [
+        "12 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/senior-frontend-developer-at-flipkart-internet-pvt-ltd/frontendgeek/19592256",
+      "job_title": "Senior Frontend Developer At Flipkart Internet Pvt Ltd",
+      "description": "Role DescriptionLead development of consumer-facing web applications at Flipkart.Own and build next-generation web applications with efficient, reusable front-end systems.Collaborate with backend developers and product owners to decompose UI/UX flows and ensure timely feature delivery.Mentor junior engineers on design and coding practices.ResponsibilitiesOwn and build scalable, efficient web applications.Design engaging consumer experiences.Participate in design and code reviews. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-frontend-developer-at-flipkart-internet-pvt-ltd/frontendgeek/19592256?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRnJvbnRlbmQgRGV2ZWxvcGVyIEF0IEZsaXBrYXJ0IEludGVybmV0IFB2dCBMdGQiLCJjb21wYW55X25hbWUiOiJGcm9udGVuZEdlZWsiLCJodGlkb2NpZCI6ImlXSW91RnM1anNYcHROUEdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZCaVVtTm5OeTFNZUVVNFdFOW9Zak4zVGpZNVRIaGZRbHBDT1haeFdVeGphMGd5VTBoT2JHaGZka0ZmZVVsU2IyZFhkRVJsWVRaU1oyWTROVGg0Vm5OMU1FRk9SbVpVZVZwQ01HTjNVbE5GYlVsM1VXMU5YM0U0YWpkalVIRkRlbkY1VnpNeU55MUxXVkpYT0ZodU1sOVVjMk5OYVhsdFJHeEdjVEZmVUZkemFUSTJVV3dTRjBwTFRFZGhjVWhTVDFvdGIzQjBVVkJxVUVkQlowRTBHaUpCUkhOeU9XWlJTV2xaUkZWRGRsUkdOV1kzWW5ScE5tbFlPVEpQZVVGUlVEbG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJpV0lvdUZzNWpzWHB0TlBHQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Frontend Developer – SDE3",
+      "company_name": "Volks Consulting",
+      "location": "Bengaluru, Karnataka",
+      "via": "Cutshort",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=7xXaCrPORwacz4kbAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x3LOQ7CQAxAUdHmCFQuEUIZxNJABwEKSiTayAnWJGSwo7GDUnIHai7HSViar9f85DVIFvsobMQXyOhOQVqK8H484ZTt5n9cpQAljGUFwnAQ8YGG68qs1ZVzqiH1amh1mZZyc8JUSO--k_6Sa4WR2oBG-Ww57dOW_Xh0ltAobIW1C1azh5phQ-wxdLGbwBEjo2GDHy6Or-2gAAAA&shmds=v1_ARwrE235ZfBY7CUMpK2QyBrQvVaeXGF2481ZvvDq65jFqhhRaQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=7xXaCrPORwacz4kbAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAG1BMVEXm5ub____l5eXp6ens7Oz7-_v19fXx8fH4-Pin8JYcAAABK0lEQVRIie2U227EIAxEwTY2___F9QVCqu16SdWHPjBSJCxxGDxYKeXo6F8J4JcYcXmOKtZqrfKQDKyJfvgADayj9si18m6rN0wL1DXtkAuDKIG03MTYMa5YKhdfce45MLNBbc7AKJE-Y-JYr3WCnk5mGBhYU4FdoLkmwuHm7z63yyiyOUB3k0l1svuNZvMB0o0T6zIGHGJkU9CnxNQEwwwK2NIWmBgG1uwNPVhpmqa7Y56qxxEGerkWz3A1nIEWh1vN11hgPjnLaoF9A7xZRbDkhxWS3jIQllXjGWaJltNUYRnFZiTFWQgLpKmCGgWjM8Td_Wmc1no6AN4P3_vEnVThnucL2BPwBTNwHpY6yhCZ0HSlmoSDa_vPenDR73r3i4RPenvXo6OjP9EXyg0HVQ-pUoAAAAAASUVORK5CYII.png",
+      "extensions": [
+        "₹30L–₹35L a year",
+        "Full–time"
+      ],
+      "source_link": "https://cutshort.io/job/Frontend-Developer-SDE3-Bengaluru-Bangalore-Volks-Consulting-cNjaiD96",
+      "job_title": "Frontend Developer – SDE3",
+      "description": "About the company\n\n\nOne of Asia’s largest global sports media property in history with a global broadcast to 150+ countries. As the world’s largest martial arts organization, the company is a celebration of Asia’s greatest cultural treasure, and its deep-rooted Asian values of integrity, humility, honor, respect, courage, discipline, and compassion.\n\n\n\n\nAbout the Role\n\n\nThe Company's Engineering team in Bangalore, India is building products for the Martial Arts fans across the world. As part of the engineering team, you would be expected to have deep technology expertise with a passion for building highly scalable products.\n\n\nThis is a unique opportunity where you can impact the lives of people across 150+ countries!\n\nResponsibilities\n• Own architecture, design, development, and implementation of different\nmodules/features of the front-end applications at ONE\n• Be up to date with the latest trends in React ecosystem\n• Bring in industry best practices\n• Take ownership to drive an initiative to completion\n• Discover opportunities for performance improvements\n• Recommend ways to improve reliability, efficiency and code quality\n• Focus on continuous delivery and reducing complexity\n• Carry out code reviews and manage pull requests within the frontend application\ndevelopment team\n\nRequirements\n• Overall 4.5+ years of experience in frontend development using React, Redux.\n• B.E/B.Tech in CS or equivalent streams from institute of repute (IITs, NITs, BITs,\nIIITs or equivalent)\n• Ability to write readable and maintainable JavaScript code\n• Ability to build pixel-perfect user interfaces with smooth interactions\n• Knowledge of Web technologies and concepts -HTML, CSS, REST APIs, Caching, etc.\n• Experience in Vue.JS and Angular.JS is a plus.\n• Experience using web build tools, such as Webpack, Babel, NPM, Yarn, etc.\n• Solid understanding of how web applications work including OWASP, XSRF,\nSecurity, Session management and best development practices.\n• Experience in Cloud-based technologies such as AWS or Azure.\n• Experience with handling Services, RESTful APIs and developing for high-volume\nweb applications. Experience in Microservice architecture and practices.",
+      "apply_options": [
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Frontend-Developer-SDE3-Bengaluru-Bangalore-Volks-Consulting-cNjaiD96?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/fe-frontend-developer-varite-bangalore--ss-in-1k6v63i?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/india-health-link-pvt-ltd-frontend-developer-next-js-bangalore-india-2-to-5-years-1807754?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4056-d68a502c4606707a71ad7dc95dc557c5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Rizzume",
+          "link": "https://rizzume.app/select/job/india-health-link-pvt-ltd-frontend-developer-next-js-bangalore-india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Recroid",
+          "link": "https://www.recroid.com/jobs/x/b3618218-1593-4dc9-874b-485362c4033b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIg4oCTIFNERTMiLCJjb21wYW55X25hbWUiOiJWb2xrcyBDb25zdWx0aW5nIiwiaHRpZG9jaWQiOiI3eFhhQ3JQT1J3YWN6NGtiQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyaDZiVWRXZDJWVk0wdGFSRUZrUjI1M1VrVjBSMWR3UkcxQlNEUkhWMVpyT1dOUGRHdHVTa2R5YjE5MFZWZDRjM2xLVGtKZk5ISm5WMFEzYWt4MU1XRTVNVnBZVDFCSVgxbzJNMFpCTUVwZkxUTXlhR1JLWkdOcGFHbzBiMVJ3Ym04ek9HOXFRV1pTUVZkUlZtNXZiV2RrVjBzMVgzcHNkMnRMYVZaSVJXeHRZMkZxTUdjU0YwcExURWRoY1VoU1Qxb3RiM0IwVVZCcVVFZEJaMEUwR2lKQlJITnlPV1pTYjAwNGJsTmtZVXQ1V0VkWWIxRlhjMkpFZUY5d05FUnpWelIzIiwiZmN2IjoiMyIsImZjX2lkIjoiN3hYYUNyUE9Sd2FjejRrYkFBQUFBQT09In0="
+    },
+    {
+      "title": "Frontend Developer-Javascript or Typescript, Angular,",
+      "company_name": "Dowell Technologies",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=AGinWPl5H2ZovtlJAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yXLMW7CUAyAYXXNETp5hpAgJJZ2AiGQQGJiR-bVegkY-8l-gbD1Dr0Nx-EkFLH80jf8xf2j2C5NJZP8wIIuxJrIRmu8oAdrUwY12N0SvVXCTGLHaCU8fv_gqAdwQgsNqMBKNTJ9fjc5J_-qa3euomfMbaiCnmsVOmhf_0_-yt4bNEqMmfaT6bivksTBcKFXYoYdhUaUNbbk0ArMSSJyZ10JGzTBjCd8AhFSd0-9AAAA&shmds=v1_ARwrE228NTUlq7tesV_irKPn_7LNyyGYfMTcj-PqU5kLyD4EsA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=AGinWPl5H2ZovtlJAAAAAA%3D%3D",
+      "extensions": [
+        "₹1L–₹50L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/dowell-technologies-frontend-developer-javascript-or-typescript-angular-bengaluru-karnataka-india-5-to-7-years-686633",
+      "job_title": "Frontend Developer-Javascript or Typescript, Angular,",
+      "description": "Software Senior EngineerThe Software Engineering team delivers next-generation application enhancements and new products for a changing world. Working at the cutting edge, we design and develop software for platforms, peripherals, applications and diagnostics — all with the most advanced technologies, tools, software engineering methodologies and the collaboration of internal and external partners.Join us to do the best work of your career and make a profound social impact as a Software Senior Engineer on our ISG-PowerSizer team in Bangalore.What You’ll AchieveAs a Software Senior Engineer, you will be responsible for developing sophisticated systems and software based on the customer’s business goals, needs and general business environment creating software solutions.You will:Leads the design and architecture of high quality, complex systems and software/storagePrepares, reviews and analyses software specifications for complex products and systemsLeads the review and analysis of design, functional, technical and user documentationLeads the development, review, analysis and implementation of test strategies for software/storage products and systemsLeads the development, test and integration of code for new or existing software of significant complexity involving multiple teamsTake the first step towards your dream careerEvery Dell Technologies team member brings something unique to the table. Here’s what we are looking for with this role:Essential Requirements5 Years of industry experience, extensive working experience of programming in Javascript/Typescript, Angular, Rxjs, Ngrx, HTML, CSS/SCSS.Kubernetes, Microservices, dockers, containers, Cloud architecture experience.Opensource components – Postgres, Keycloak, RabbitMQ, TimeScale etc is preferred.Experience working on Systems Management Software, Layered application development, third-party libraries, and development & debug tools.Desirable RequirementsEducational Qualification (BE/BTech/ME/MTech/MS/MCA)Who We AreWe believe that each of us has the power to make an impact. That’s why we put our team members at the center of everything we do. If you’re looking for an opportunity to grow your career with some of the best minds and most advanced tech in the industry, we’re looking for you.Dell Technologies is a unique family of businesses that helps individuals and organizations transform how they work, live and play. Join us to build a future that works for everyone because Progress Takes All of Us.Application closing date: 03 May 2025Dell Technologies is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. Read the full Equal Employment Opportunity Policy here.Job ID:R262620",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/dowell-technologies-frontend-developer-javascript-or-typescript-angular-bengaluru-karnataka-india-5-to-7-years-686633?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXItSmF2YXNjcmlwdCBvciBUeXBlc2NyaXB0LCBBbmd1bGFyLCIsImNvbXBhbnlfbmFtZSI6IkRvd2VsbCBUZWNobm9sb2dpZXMiLCJodGlkb2NpZCI6IkFHaW5XUGw1SDJab3Z0bEpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzJGTlNHcGpNMnBEVGpGSFluZ3lRazVJZG1wcVZubHZTbWczWVVSTlIxOURWa3R2ZHpaaFptZHdPRnBDVjJNMFVUQm5aRWhRV0VacVdUTkVSblpZY2tzME5tZG9WSGRXTW5CME5uWnRUbVpTUjJNeVRqVmhaMmd0YzBKWlZVUlhSRTlUTTBGTWFtRnpaa3hpTm1GRGFVMWZSSFYyU2xGWWVVTXlSbVZ2ZUZsWlowWlBWazhTRjBwTFRFZGhjVWhTVDFvdGIzQjBVVkJxVUVkQlowRTBHaUpCUkhOeU9XWlViME5zYzNnNGJEVnBTbTk0ZG1KTFJrNVRZek4xWTAxT1YxbFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJBR2luV1BsNUgyWm92dGxKQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Frontend Developer (Next.js / PWA)",
+      "company_name": "NFThing",
+      "location": "Bengaluru, Karnataka",
+      "via": "Getmereferred.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=dy1qCFGO2nxHinMBAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CS7eqCKJCC52UqQOQnEQHMu1HklrvAtJKh39B0f_zi9Rl7e97D3K8iIIJ-Ir7OlBTjwFmJY0JNVF0HC6bGfweb6gkxoiYWgsCMNBxDga5zYlHzdax-iUiQlT26hG7lqYahn0L8U_VbQYyDtMVK3Wy0F5NvNJWZxtywZahh2xQdeHfgFHDIwJb_gFXOGgd54AAAA&shmds=v1_ARwrE23x4ShC6ACYZIauJjN8i2tu2LaLwcu5MuqskgwQZ2l2Ww&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=dy1qCFGO2nxHinMBAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://getmereferred.com/job-listing/frontend-developer-nextjs-pwa-nfthing-bengaluru-2-to-5-years-experience-e8d07211-634a-48d1-9f6d-0f622b4f9f5f",
+      "job_title": "Frontend Developer (Next.js / PWA)",
+      "description": "Type: Paid Internship / ContractDuration: 46 monthsLocation: Bangalore (Remote-friendly)Industry: Software DevelopmentAbout the RoleWere building NFThing, a performance-driven, user-centric media social network where users control their feed and are rewarded for their attention. The product includes real-time feeds, interactive surveys, ads, analytics dashboards, and creator-driven experiencesbuilt with a strong emphasis on frontend performance, scalability, and clean UX.Were looking for a Frontend Developer with at least 1 year of hands-on Next.js experience, who can immediately contribute to a production codebase. This is not a beginner roleyoull be expected to own features end-to-end, collaborate closely with product and backend teams, and ship high-quality UI from day one.Key ResponsibilitiesBuild, ship, and maintain production-grade frontend features using Next.jsImplement App Router / Pages Router, layouts, routing, and data-fetching patterns (SSR, SSG, ISR, client components)Develop and maintain PWA features (service workers, caching strategies, offline support, installability)Convert Figma designs into clean, responsive, pixel-accurate UIIntegrate frontend features with REST/GraphQL APIsOptimize frontend performance (Core Web Vitals, bundle size, lazy loading, caching)Debug, refactor, and improve existing Next.js codebasesCollaborate with product managers and backend engineers to deliver features end-to-endRequired Qualifications (Must-Have)1+ year of hands-on experience with Next.js in real projects (startup, freelance, or production apps)Strong frontend fundamentals: HTML, CSS, modern JavaScript (ES6+), ReactPrior experience building or contributing to PWA or performance-focused frontend applicationsSolid understanding of responsive design, layouts, and component-based UIExperience integrating APIs and handling async data flowsComfortable working independently and owning features from design to deploymentFamiliar with Git-based workflows and collaborative developmentNice to Have (Strong Plus)Experience with Tailwind CSS, CSS Modules, or styled-componentsFamiliarity with performance tooling (Lighthouse, Web Vitals, bundle analysers)Experience working in early-stage startups or fast-moving teamsUnderstanding of accessibility (a11y) and UX best practicesWho This Role Is ForFrontend developers who already know Next.js wellEngineers who enjoy building fast, scalable, user-facing productsDevelopers who want real ownership and production impact, not tutorial work Who This Role Is NOT ForAbsolute beginners or students just starting with React/Next.jsCandidates without hands-on Next.js project experience Why Join UsWork on real, production features used by real usersHigh ownership and visibility of your workLearn how consumer products are built and scaled in an early-stage startupPaidcontractminimum (46 months)Flexible, remote-friendly cultureOpportunity to extend or convert to a longer-term role based on performance",
+      "apply_options": [
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/frontend-developer-nextjs-pwa-nfthing-bengaluru-2-to-5-years-experience-e8d07211-634a-48d1-9f6d-0f622b4f9f5f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIgKE5leHQuanMgLyBQV0EpIiwiY29tcGFueV9uYW1lIjoiTkZUaGluZyIsImh0aWRvY2lkIjoiZHkxcUNGR08ybnhIaW5NQkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbWxzTTBFNVYzbDNNR1ZoUldGbWJXZDJWa2h0V0dodVJVUk1hV3czT0hCcVRUUnFSa1ZzUjFoM2FVZEZjVFp5Y2t0UlRWWnVWMUV5TUdkd2RFRlRlbVJ3WkhJMlZFeFlTVmM1YzNKclUzQTVNbTkxY1VKcFluVndUVWxVZEhWVFVYZGlOaTFIUzJoeE1XdzFjRE56TjFRMVZXVkpVR1JGTTNBMFZUUldUV001UTBGVmEza1NGMHBMVEVkaGNVaFNUMW90YjNCMFVWQnFVRWRCWjBFMEdpSkJSSE55T1daVVVucFpSR3QyZDBGbFJtSldObEZaVW5ONlRHUXRWV1Z2YjI5QiIsImZjdiI6IjMiLCJmY19pZCI6ImR5MXFDRkdPMm54SGluTUJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Frontend Developers",
+      "company_name": "SFJ Business Solutions Pvt. Ltd.",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=oNlX7IgXIIzQZ9HwAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCUAwAUFx7BKfMUv4XQRDdilRQB6EHKLENbfWblJ-0dPQOnsGLeRJ1edtL3rMkzaOwEdewp5GC9BQVPs8X3OQKShirFoThINIEmu9as1633qsG16ihdZWr5OGF6SqT_yX9U2qLkfqARuVqvZxcz81iU-RHyAbtmFShkDBYJ6xwGc3B2WoHHUNG3GAY4pDCCSOj4R2_VjjtKqgAAAA&shmds=v1_ARwrE22vlcvl_FLcTz_-wzSdueS9Faqbw4_ofxBCRUw4qFAecA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=oNlX7IgXIIzQZ9HwAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6a2240558c055e3547739/images/4YVlyQTdsaQBOLIiQhyOky8JWHk62JVmxxIPC_wD4WM.jpeg",
+      "extensions": [
+        "Contractor"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/frontend-developers-at-sfj-business-solutions-pvt-ltd-4234772391",
+      "job_title": "Frontend Developers",
+      "description": "60 days freelancer\n\nAI Tools and Technologies\n\n Frontend:React.js or Angular for web developmentReact Native or Flutter for mobile development Backend:Node.js with Express.js or Django for server-side developmentMongoDB or PostgreSQL for database management AI Integration:OpenAI GPT for automated assessments and feedbackTurnitin or Copyscape for plagiarism detectionTensorFlow or PyTorch for custom AI models Analytics and Reporting:Power BI or Tableau for data visualizationGoogle Analytics for user behavior tracking DevOps:Docker and Kubernetes for containerization and orchestrationAWS or Azure for cloud infrastructure",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/frontend-developers-at-sfj-business-solutions-pvt-ltd-4234772391?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "TrueResume",
+          "link": "https://trueresume.ai/j/frontend-developers-at-ibm-fast_1783188025130_esgk1r6po?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXJzIiwiY29tcGFueV9uYW1lIjoiU0ZKIEJ1c2luZXNzIFNvbHV0aW9ucyBQdnQuIEx0ZC4iLCJodGlkb2NpZCI6Im9ObFg3SWdYSUl6UVo5SHdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVERoTmJYTTNjSGhtV0hScGRuTXhSR2R1YVZkSE9WWTJORWcxVUhsUFJGZFVjWFJxU1hONE1XUndNMGxZTTBSeGVHVlBSbTFoUkVVeVMxOWtWbkpzY0U0M1Z6VnVhalZrUW05SGJUSjJYMGhCTTJkTVFrRkRkelZQV25GVGVXRldUVk16WjNOa2NYTldjbWt6VHpOWmFYWTNRV1I2ZVVSd1MweGllalZwUTNkck5tVmZkRjhTRjBwTFRFZGhjVWhTVDFvdGIzQjBVVkJxVUVkQlowRTBHaUpCUkhOeU9XWlJSM0JNUmxwclRuWjFXbEpEZVRBM1pUZzJSRUV6U0ZoaWVXWkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJvTmxYN0lnWElJelFaOUh3QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior React JS Frontend Developer",
+      "company_name": "Griffon Technology",
+      "location": "Bengaluru, Karnataka",
+      "via": "Cutshort",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=EQDCQed6EVrTehhaAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ3CMBBAUdFmBKqrIxQjJBrSIUQk6Ah9dDEXO2DuLNtBoWMHdmAwJiE0v3s_-8yysibuJcCJUCc41LAPwon4Ajt6kBNPAb6vN1ylhUgYtAVhqESMo3lpU_Jxo1SMrjAxYep1oeWuhKmVUU0o_tNEi4G8w0TNar0cC88mz6vQd900O5O2LE7ME3qGLbFBN4RhAUcMjAlv-ANGDqeXqQAAAA&shmds=v1_ARwrE23O1cbay-Vt5fQeOXBj2780zejIq_60g0pcg8qAvJA5Bg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=EQDCQed6EVrTehhaAAAAAA%3D%3D",
+      "extensions": [
+        "₹12L–₹25L a year",
+        "Full–time"
+      ],
+      "source_link": "https://cutshort.io/job/Senior-React-JS-Frontend-Developer-Bengaluru-Bangalore-Griffon-Technology-CLjmTho2",
+      "job_title": "Senior React JS Frontend Developer",
+      "description": "• Build Frontend experience that drive simple and easy to use experiences.\n• Partner with Senior Engineers to define the frontend technical approach.\n• Develop, test, and maintain tools and solutions to facilitate quick and easy customer onboarding.\n• Collaborate with Customer Success and Engineering teams to build best-in-market PaaS solutions.\n• Work closely with Customer Success, Sales, and Engineering teams on customising enterprise\nenvironments to meet customer requirements.\n• Participate in scrum activities to plan, execute and release software.\n• Creative and alternate solution recommendations with growth mindset.\nEligibility:\n• Minimum 3 years of experience building frontend applications using ReactJS.\n• Strong command over HTML and CSS is a must\n• Comfortable with using tools like GitHub.\n• Should have CI/CD knowledge using GitHub and Azure App Services.\n• Should have considerable exposure to developing and deploying React solutions on Azure.\nGood to have:\n• UX designing experience with XD or Figma.\nModel of employment:\n• Hybrid\nLocation:\n• Bangalore\nParameters: React JS, Figma, HTML+CSS, Bootstrap, Azure App Services,\nContinuous Integration / Deployment, GitHub",
+      "apply_options": [
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Senior-React-JS-Frontend-Developer-Bengaluru-Bangalore-Griffon-Technology-CLjmTho2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/senior-react-js-developer/11234625?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Apna Jobs",
+          "link": "https://apna.co/job/bengaluru/in_senior-associate_dot-net-developer_gcc_-advisor-1092114808?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-react-js-developer-pricewaterhousecoopers-pvt-ltd-pwc-bengaluru--techmap_in_1763393048?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/abb/job/react-js-senior-software-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/senior-java-fsd-%2B-react-js-at-artech-l-l-c-4474261217?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/3546811714?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/3325928938508648448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUmVhY3QgSlMgRnJvbnRlbmQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiR3JpZmZvbiBUZWNobm9sb2d5IiwiaHRpZG9jaWQiOiJFUURDUWVkNkVWclRlaGhhQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNrTjVkbUpGTVdKVWNUbGxXRWxPUTJNM2EyUnpMVWRqUjFjNWNXTTNlVGRwTmtwdFZXbG5YMWwxVFZoT1pEVkhia0Z0YzFneU1qQXRabUoyZERoSFNrdHVZamgyT0dsRWExazBkbkZ6U2pONkxYaHRSVE5NYXpKdlpsVnZZWGxOVW10UFgweHBlRFp6ZEdaMk5qUlRNWFZqWXpWRWRHcHhZa1l6Yld4WE1FWkxTREY1VERVU0YwcExURWRoY1VoU1Qxb3RiM0IwVVZCcVVFZEJaMEUwR2lKQlJITnlPV1pSYlc1RVNXcEtTMUV5YWxGYVJGaGpUVmxMVTFkc2JsUnVUMDVCIiwiZmN2IjoiMyIsImZjX2lkIjoiRVFEQ1FlZDZFVnJUZWhoYUFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Frontend Web Developer",
+      "company_name": "Google",
+      "location": "Bengaluru, Karnataka",
+      "via": "Instahyre",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=UKwW-18wkc55dBV8AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yXMMQ4BURCA4Wj3CAqZWmSfSCjoRCiUCqXMrsnb5Zl5mZmVLd1BXNBJEM3ffX_xGhSLA3ErClsVduIzHKmCDd0pSSaF9-MJF6nACLVuQBh2IjHRcNW4Z1uGYJbKaI7e1mUttyBMlfThi-yXkzWolBM6nWbzaV9mjuPRfwItw5o4Yuq0m8AeldHxih-m067umAAAAA&shmds=v1_ARwrE20Bhztj9rKhy_z9zpc8dJsZUq3e8SEb1l0CfBMG5i95XQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=UKwW-18wkc55dBV8AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6a2240558c055e3547739/images/Fh2aK-jri5PQt7gDMhH8vb8TvgObYBvqaYlJu8EnfEc.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.instahyre.com/job-428328-senior-frontend-web-developer-at-google-2-bangalore/",
+      "job_title": "Senior Frontend Web Developer",
+      "description": "Requirements: \n\n2-3 years of frontend engineering experience.Strong hands-on experience with React.js .Experience building mobile apps using React Native.Solid understanding of JavaScript / TypeScript.Experience working with REST APIs.Strong fundamentals in HTML, CSS, and responsive design.Someone who takes ownership and enjoys building products.Keywords: Javascript, Nodejs, React, Nextjs.",
+      "apply_options": [
+        {
+          "title": "Instahyre",
+          "link": "https://www.instahyre.com/job-428328-senior-frontend-web-developer-at-google-2-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/manatal-frontend-web-development-senior-engineer-bengaluru-ka-india-5-to-10-years-1777183?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NiyukJobs | AI",
+          "link": "https://niyukjobs.ai/jobs/detail/abdeb66f-cbe0-4248-8005-aaa31214c406?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRnJvbnRlbmQgV2ViIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6Ikdvb2dsZSIsImh0aWRvY2lkIjoiVUt3Vy0xOHdrYzU1ZEJWOEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM1pUY1ZoUFVUVlpWRVpXVEdsNWMwOUtPRGhOV1c5MmRUQkhNRTVZT1hwNlR6VTJjWFEzYW13elpXeFRVbkZ1UTB4VWNFTkxWSFJXTWt4TFkzSmllRk5uY1hsMGRsQnJRbEl3U1ZKMWExUkNRM2QwVVVKNk1uTlhNWGN6UlMxRFJ6UjJlamhNUzJkSFpreElkRTk1T0d3M2FsSjROVTUwWjI5UVlqRXRjRGxrWkUxbFVUa1NGMHBMVEVkaGNVaFNUMW90YjNCMFVWQnFVRWRCWjBFMEdpSkJSSE55T1daVFozQk1kbTluTmtsUU1GQkViMU5vVXpOd0xUQk5MVGxtYldKQiIsImZjdiI6IjMiLCJmY19pZCI6IlVLd1ctMTh3a2M1NWRCVjhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Wordpress Fullstack Developer (Frontend Focused",
+      "company_name": "Talent Pro",
+      "location": "Bengaluru, Karnataka",
+      "via": "Cutshort",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=UqkwO-EDkNiGfICCAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBBAUWxzBKvBSkQSEWy0E4mFhYKCZZhshiRmnVlmNmLpHbyJR_IkxuZ37yefUXI8E7eicBWtgpIZ5L33FtF1sKMHeQmkMM1VOBJXkIvrjSr4vt5wkxKMUF0DwrAXqT2NN02MwdZZZubTehjF1qVO7pkwlfLMBmT_FNagUvAYqViuFs80cD2bXNATRzipQMuwJa7R99rP4YDKGLHDH3JriKu1AAAA&shmds=v1_ARwrE21-VeLXkW7IYgqeUy4v5kekR0GVxS8Hq5lJj8DiE3HW6w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=UqkwO-EDkNiGfICCAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAG1BMVEXm5ub____l5eXp6ens7Oz7-_v19fXx8fH4-Pin8JYcAAABK0lEQVRIie2U227EIAxEwTY2___F9QVCqu16SdWHPjBSJCxxGDxYKeXo6F8J4JcYcXmOKtZqrfKQDKyJfvgADayj9si18m6rN0wL1DXtkAuDKIG03MTYMa5YKhdfce45MLNBbc7AKJE-Y-JYr3WCnk5mGBhYU4FdoLkmwuHm7z63yyiyOUB3k0l1svuNZvMB0o0T6zIGHGJkU9CnxNQEwwwK2NIWmBgG1uwNPVhpmqa7Y56qxxEGerkWz3A1nIEWh1vN11hgPjnLaoF9A7xZRbDkhxWS3jIQllXjGWaJltNUYRnFZiTFWQgLpKmCGgWjM8Td_Wmc1no6AN4P3_vEnVThnucL2BPwBTNwHpY6yhCZ0HSlmoSDa_vPenDR73r3i4RPenvXo6OjP9EXyg0HVQ-pUoAAAAAASUVORK5CYII.png",
+      "extensions": [
+        "₹8L–₹12L a year",
+        "Full–time"
+      ],
+      "source_link": "https://cutshort.io/job/Senior-Wordpress-Fullstack-Developer-Frontend-Focused-Bengaluru-Bangalore-Hyderabad-Chennai-Talent-Pro--kI1kQohp",
+      "job_title": "Senior Wordpress Fullstack Developer (Frontend Focused",
+      "description": "Strong WordPress fullstack developer (frontend focused) ProfileMandatory (Experience 1): Must have 4+ YOE as a WordPress fullstack developement (80% Frontend, 20% backend)Mandatory (Experience 2): Must have 3+ YOE as a WordPress frontend developement using HTML, CSS, JavascriptMandatory (Experience 3): Must have 6 month+ experience in WordPress backend developement using phpMandatory (Skills 1): Strong knowledge of version control (Git) and collaborative code workflowsMandatory (Skills 2): Must have good communication skillPreferred\n\nPreferred (Skills 1): Good knowledge of front-end frameworks/libraries (React, Angular, or Vue.js)",
+      "apply_options": [
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Senior-Wordpress-Fullstack-Developer-Frontend-Focused-Bengaluru-Bangalore-Hyderabad-Chennai-Talent-Pro--kI1kQohp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5407959714?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/avp-senior-fullstack-ui-developer-mufg-global-service-mgs-bangalore--techmap_in_53430694039?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Expertini",
+          "link": "https://bengaluru.in.expertini.com/job/senior-fullstack-developer-node-angular-bengaluru-ilink-digital-594846778454388631/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/5741496061348806656?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337313320/rde-senior-fullstack-developer-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgV29yZHByZXNzIEZ1bGxzdGFjayBEZXZlbG9wZXIgKEZyb250ZW5kIEZvY3VzZWQiLCJjb21wYW55X25hbWUiOiJUYWxlbnQgUHJvIiwiaHRpZG9jaWQiOiJVcWt3Ty1FRGtOaUdmSUNDQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNUbFhZM1o1Wm5reWRVODRRM2RyUkVVMlVGcFVXWFZ3YUd0c2JteEljbEpsYzJwYU9GSTFUbkpqZHpSM0xYaFNaalEwT1MxeU4xVmhjM1ZNVlVsTlZUSkxhbnA0YkcxSFlqTmZlVnBhYUMxNFoyNDBOalYyWlZSSVpYbFdjQzEzV2pWNWVsRk1jVXQxZVUxNmEyUXdVa3hYTlVnMlF6aDRZMHhtV25OQmNEaGFRek51ZGtRU0YwcExURWRoY1VoU1Qxb3RiM0IwVVZCcVVFZEJaMEUwR2lKQlJITnlPV1pVYzBoUU9WZG1jRGRDVFhSYWJqRlJkbWh5TW14RmFtSnFaSE5uIiwiZmN2IjoiMyIsImZjX2lkIjoiVXFrd08tRURrTmlHZklDQ0FBQUFBQT09In0="
+    },
+    {
+      "title": "Frontend Developer",
+      "company_name": "Nysha",
+      "location": "Anywhere",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=KLliOfP8nAt7bVd8AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCA4b2jo9PNCkkRXHQVHQRfoVzjkVTjXcgdUpfiO_iGPol1-YcP_mZq1scqbMRXONCTshSq8H1_4CY9KGENCYThJBIzLffJrOjOe9XsohraEFyQhxemXkY_T_pPpwkrlYxG3Wbbjq5wXC0ur5lhYDhjZTS84w9H0WI1gAAAAA&shmds=v1_ARwrE20rsqPONgK7KWRrkr0VNrfKC6GGXqefKzD0e4HfP8lcLw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=KLliOfP8nAt7bVd8AAAAAA%3D%3D",
+      "extensions": [
+        "Work from home",
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=4133713059a9114e",
+      "job_title": "Frontend Developer",
+      "description": "About: We are seeking creative and highly motivated FE developer who is passionate about technology, delivering cutting edge technologies to the world largest enterprises. This person will be part of a team of senior professionals, forming task forces to prototype, develop, and deliver native cloud xaaS applications, providing strategic innovative and cost-effective solutions to increase efficiency, reliability and success of the customers. The developer will have a crucial part in contributing to the roadmap of a scalable AI infrastructure with a web interface and will need to master a wide variety of cutting-edge technologies, working in a semi-autonomous environment. \n What you will be doing:\n \n  Collaborates with designers, developers and product owners\n \n \n  Design and develop quality, proficient and well documented technical solutions that meets emerging standards\n \n \n  Develop solid unit and integration tests according to organizational standards\n \n \n  Contribute to and drive technological and architectural decisions\n \n \n  Participate in reviewing design and code for other team members\n \n \n  Adhere to agile development principles while following and improving all aspects of the scrum process\n \n \n  Function as a subject matter expert in multiple product components\n \n \n  Assist peer organizations with activities such as performance, scalability and reliability testing\n \n \n  Applies usability procedures and principles as defined at a project or product-line levels or through customer input\n \n \n  Contributes to and supports re-use through common components that are well documented and tested\n \n \n  Past experience with Financial Services will be a benefit\n \n Job Location : Bangalore/Remote/WFH \n Requirements:\n \n  5+ years of development, including delivery of enterprise software\n  3+ years of experience with JavaScript, AngularJS, Angular 8/9, HTML5, CSS3, JSON\n  Strong Knowledge of security principles\n  Experience with continuous integration and continuous delivery\n  Knowledge of relational database concepts and experience using MySQL (or similar)\n  Experience with Google Cloud Platform and AWS, or other public clouds\n  Solid knowledge of NoSQL technologies\n  Experience with micro-frontend architecture and popular middlewares\n  Experience with TypeScript, Ecma 6, module loaders, web socket\n  Experience with Front end optimization (FEO)\n  Experience with RESTfull API integration\n  Work on a wide variety of tasks using emerging technologies\n \n Your Profile:\n \n  Ability to learn quickly, and independently in a fast-paced environment\n  Excellent time-management, multi-tasking, and communication skills\n  Superior analytical and problem-solving abilities\n  Desire to work in a team oriented, collaborative environment\n \n\n\n\n\n\n\nsend your details to: [redacted] with your details and job you are applying in the subject line and we will revert back soon.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=4133713059a9114e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Wellfound",
+          "link": "https://wellfound.com/jobs/4359718-frontend-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/frontend-developer-mathco-vasanth-nagar--talent-639278261469842548?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BIG IT JOBs",
+          "link": "https://bigitjobs.com/job-detail/frontend-developer-insight-global-bangalore-gpo-4684761?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-3112-59d7ee2a5b8c07fea3cf7f390bba5132?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bangalore Urban Jobs Expertini",
+          "link": "https://bangaloreurban.in.expertini.com/job/frontend-developer-bangalore-gpo-mathco-4684-7614517/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJOeXNoYSIsImh0aWRvY2lkIjoiS0xsaU9mUDhuQXQ3YlZkOEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMFYyYVRkTVJpMDBNSEZ4YzBWeFEyUlFRMDVrVjI5VExYbzJVRzF4T0hFeVlXRmFXWGN6VTNscE0xRmphMDA1Tm1KSmNVUlVlRnB5VWt0VlkxaFlWRFI0ZG5BemFrVk1aRTloTTBjekxWQndhRXRTTnpoU1NGZzJPRWRGTUhGWVFWZGFkMlF3Y2xSQloya3hPVzV6UTFFM1dEVndPVXczUmkxR1VWZzRkVEZxZWtWSWVWY1NGMHBMVEVkaGNVaFNUMW90YjNCMFVWQnFVRWRCWjBFMEdpSkJSSE55T1daVFRFbzRNVTltU1hwRWExbDRlRFF4WXpJM2Mxa3lUMHRDUzFoUiIsImZjdiI6IjMiLCJmY19pZCI6IktMbGlPZlA4bkF0N2JWZDhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Front-end Lead Developer (React / Java)",
+      "company_name": "iEnergizer",
+      "location": "Noida, Uttar Pradesh",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=G6PyQAqkivPlNM4wAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXNPQoCMRBAYWz3CFaDlYpuRLDRxsIfEBERrJcxGTaRmAnJsCxW3sEjeDNP4tq87uMVn16x3iUOMqVg4EhoYEMNeY6UYHgh1AIKDtjgCL6vN9z5BpkwaQscYM9ce-qvrEjMS6Vy9mWdBcXpUvNDcaAbt6pD-Z8qW0wUPQpV88WsLWOoxwO3DZRq9-yGLsCJncEJXEUwwTmhoWx_NuwpkaYAAAA&shmds=v1_ARwrE23RthyxT7mR8j8fM7rsUXLSQTyIj55Ew-rBi8Ku-3v99A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=G6PyQAqkivPlNM4wAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6a2240558c055e3547739/images/c5znwMSl0uPXRQ3PVu4qDploLKgQtSNdggW4N13HBjc.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/front-end-lead-developer-react-java-at-ienergizer-4474669719",
+      "job_title": "Front-end Lead Developer (React / Java)",
+      "description": "Lead the team. Shape the architecture. Modernise how applications are built.\n\nWe are hiring a Front-end Lead Developer for a leading US-based client. You will lead a team of developers across the full software lifecycle, with a focus on application development, modernisation and re-engineering. You will own the front end of responsive web and mobile applications and work across a modern Java microservices stack.\n\nWhy this role stands out\n\nA true lead role: you set the standards, review the code and grow the teamModernisation work, not maintenance: re-engineering with an eye on the futureModern stack: React, Spring Boot, WebFlux, Kafka, Kubernetes and cloudYour voice in architecture, tooling and framework decisionsShift and work mode\n\nUS shift, aligned to Pacific Time (approx. 9:30 PM to 6:30 AM IST)Full-time, work from officeWhat you will do\n\nLead and guide developers through the full SDLC; keep morale, productivity, training and quality highJoin sprint planning, backlog grooming and retrospectives to ship on timeDesign and build scalable, secure, maintainable systems for responsive web and mobile, on-prem, cloud and hybridSet and enforce coding standards, best practices and documentationRun code reviews and mentor junior and mid-level developersWork with Product, QA and DevOps to deliver quality releasesFix performance bottlenecks, bugs and technical blockersHandle project sizing, code migration, SLA monitoring and maintenance window planningTrack emerging technologies and recommend tools and frameworksWhat you need\n\n10+ years of front-end development with HTML, CSS, JavaScript and React or a similar frameworkStrong Java with Spring Boot, Spring Cloud, Java EE and Spring WebFlux (reactive programming)Database design with SQL, Oracle and MySQL or PostgreSQLREST and SOAP API design; API management with ApigeeKafka or RabbitMQ for real-time dataMicroservices architecture and resiliency design patternsRedis, Memcached or Hazelcast cachingDocker and KubernetesAWS, Azure or Google CloudGit, GitLab and GitLab CI pipelines; Tomcat; JiraProven track record leading technical design and making trade-offs between scale, performance, resilience and deliveryGood to have\n\nBachelor's degree in Computer Science, Engineering or a related fieldExcellent communication and cross-functional collaborationStrong time managementHow to apply\n\nEmail your resume to [redacted] with \"Front-end Lead Developer\" in the subject line.\n\nSkills (10): React.js, JavaScript, HTML5, CSS, Java, Spring Boot, Microservices, Apigee, Kubernetes, Technical Leadership",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/front-end-lead-developer-react-java-at-ienergizer-4474669719?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olibr",
+          "link": "https://olibr.com/jobs/front-end-lead-developer-react-java-ienergizer-d45sm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udC1lbmQgTGVhZCBEZXZlbG9wZXIgKFJlYWN0IC8gSmF2YSkiLCJjb21wYW55X25hbWUiOiJpRW5lcmdpemVyIiwiaHRpZG9jaWQiOiJHNlB5UUFxa2l2UGxOTTR3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNYZEtSelIxYUZjMGVXNUVVSEUzVld3eVdERlBkRXhNUmpGR1JFSk5jWEUwU25CMlEwWlJWbTFEVWxVM1ZIUjZUbVoxTVdsWk9WQmxkMlJJZVdVeFpFNWFNVVZCYVd0NlprMWhNa0YxU0RsQmFqSkVNVEJuVFhOWVUxaElNamMyYmxGYWMwVklObE5zVlhSclUyZEllakJ5YXpadFNsVlVaQzE1T0hCemFqTndhazU0ZW1zU0YwcExURWRoY1VoU1Qxb3RiM0IwVVZCcVVFZEJaMEUwR2lKQlJITnlPV1pVTlRkelZFNHlkbXgzVmtGM1RESmhTR0Y0VjAxUGRqSTVNMnhSIiwiZmN2IjoiMyIsImZjX2lkIjoiRzZQeVFBcWtpdlBsTk00d0FBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTVXMxTFRkTFZWVnlTbkJYUzBoWFJEaGZiVzVJV1c1MVVHaHhPV2xIUjJWdlgzbGZZbEJ6U21kR2MzVlRhMVkxV1Y4M2NYbE9hWEpwZW5Ga1QzVnVOVkEzUVdwQmEzbFdkSGd0U0djMWVsWkNMV0ZvVlZRNVJIcGllVXhFYm5ZeVVYQXpSVVp0VkVjM2IyY3lkV1ptWTE5TmJraHVRV3hqVDJkd1FsaGZXVlpOYVVKRmRHbFVUVEp4UW5aTE5HRjNVbk5NUzIxNlkxQXdiMFZXZUZaUVdqaEZXRGg2WDNOcmVXdExNa1oxTFRkcFpqRmpWMVpSUTFWNlIxQlRPVUZwWW1WamQzWnNWbTVWTkVaUk1taGllSHByZEVGeE1sRkJORnAwVjBOa1psOU5hMnhFVkZwbk4xWlBWVzVYUTNWVFFYZHRUa2xPVVVoT1N6aHNhVGMwV210RldXTkNUUzFZVWkxcFJVcEpVWFJSTlRadGNIWmtTV0Y1YmsxcFUxOUlPVXBKZVRCVWEzWlNWa1EyWXpaQk0zUnFNMnRzY2psVE1FcGhlakJQY1dGUE1VZE1iVkpDVEU5TFZYUnRXV1JrWVhWb1ozZHNWV2d0ZEZkR1h6RjJWbmx5ZVZwNGIxOTBWSFJ0VUVSaVlUZzBhMGRsVG0wd1dFOWxkR1JKYkVSNmRrWkhYeTFrTkVaRmIxUnFTVmhVTWtSU1prcFBjRkpZVjFBeGRGWkRXbE10VFd0WlRFUlVTR0oxTkRWUGJGTnNVR1l0Wldka1gwdENlRnB2UldkT1NFUmljbU5HVWxBd2MxcEpTeko1WmpsNVZISndSa1JITlRBNWVFRVNGMHBMVEVkaGNVaFNUMW90YjNCMFVWQnFVRWRCWjBFMEdpSkJSSE55T1daUmVXbG1MVTExUVcxQlQyOWtWMDFQZVRSWU0ydG5TVFJUVEhWUiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTVXMxTFRkTFZWVnlTbkJYUzBoWFJEaGZiVzVJV1c1MVVHaHhPV2xIUjJWdlgzbGZZbEJ6U21kR2MzVlRhMVkxV1Y4M2NYbE9hWEpwZW5Ga1QzVnVOVkEzUVdwQmEzbFdkSGd0U0djMWVsWkNMV0ZvVlZRNVJIcGllVXhFYm5ZeVVYQXpSVVp0VkVjM2IyY3lkV1ptWTE5TmJraHVRV3hqVDJkd1FsaGZXVlpOYVVKRmRHbFVUVEp4UW5aTE5HRjNVbk5NUzIxNlkxQXdiMFZXZUZaUVdqaEZXRGg2WDNOcmVXdExNa1oxTFRkcFpqRmpWMVpSUTFWNlIxQlRPVUZwWW1WamQzWnNWbTVWTkVaUk1taGllSHByZEVGeE1sRkJORnAwVjBOa1psOU5hMnhFVkZwbk4xWlBWVzVYUTNWVFFYZHRUa2xPVVVoT1N6aHNhVGMwV210RldXTkNUUzFZVWkxcFJVcEpVWFJSTlRadGNIWmtTV0Y1YmsxcFUxOUlPVXBKZVRCVWEzWlNWa1EyWXpaQk0zUnFNMnRzY2psVE1FcGhlakJQY1dGUE1VZE1iVkpDVEU5TFZYUnRXV1JrWVhWb1ozZHNWV2d0ZEZkR1h6RjJWbmx5ZVZwNGIxOTBWSFJ0VUVSaVlUZzBhMGRsVG0wd1dFOWxkR1JKYkVSNmRrWkhYeTFrTkVaRmIxUnFTVmhVTWtSU1prcFBjRkpZVjFBeGRGWkRXbE10VFd0WlRFUlVTR0oxTkRWUGJGTnNVR1l0Wldka1gwdENlRnB2UldkT1NFUmljbU5HVWxBd2MxcEpTeko1WmpsNVZISndSa1JITlRBNWVFRVNGMHBMVEVkaGNVaFNUMW90YjNCMFVWQnFVRWRCWjBFMEdpSkJSSE55T1daUmVXbG1MVTExUVcxQlQyOWtWMDFQZVRSWU0ydG5TVFJUVEhWUiIsImZjdiI6IjMifQ%3D%3D&q=Frontend+Developer"
+  }
+}

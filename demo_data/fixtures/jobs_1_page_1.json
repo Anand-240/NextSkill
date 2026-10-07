@@ -1,0 +1,531 @@
+{
+  "search_metadata": {
+    "id": "6ac69ccd6f082b307f18b34a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/E1-dEk0XuOMHciWnoCnJLu-KvDmjCqYovD5L9lHK-yY/6ac69ccd6f082b307f18b34a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/E1-dEk0XuOMHciWnoCnJLu-KvDmjCqYovD5L9lHK-yY/6ac69ccd6f082b307f18b34a.md",
+    "created_at": "2026-10-07 19:26:05 UTC",
+    "processed_at": "2026-10-07 19:26:05 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIZTm9pZGEsVXR0YXIgUHJhZGVzaCxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/E1-dEk0XuOMHciWnoCnJLu-KvDmjCqYovD5L9lHK-yY/6ac69ccd6f082b307f18b34a.html",
+    "total_time_taken": 0.77
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Noida, India",
+    "location_used": "Noida,Uttar Pradesh,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rMeKKsw4ANOHcSC9u8FZviLtJElUL0xt9nekIrDiNjSWHcY8JZpwwDjFK7ab_hhktl-pHqV9aA5ZdpyoLsVF7VMOU2RbMwQ-xEcO8diL2xE4aboGtHq8crNvPudzwmv4UXHvpmhJt36DBrRTe8WBgqNcVr1Y",
+        "q": "Data Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMeKKsw4ANOHcSC9u8FZviLtJElUL0xt9nekIrDiNjSWHcY8JZpwwDjFK7ab_hhktl-pHqV9aA5ZdpyoLsVF7VMOU2RbMwQ-xEcO8diL2xE4aboGtHq8crNvPudzwmv4UXHvpmhJt36DBrRTe8WBgqNcVr1Y&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMeKKsw4ANOHcSC9u8FZviLtJElUL0xt9nekIrDiNjSWHcY8JZpwwDjFK7ab_hhktl-pHqV9aA5ZdpyoLsVF7VMOU2RbMwQ-xEcO8diL2xE4aboGtHq8crNvPudzwmv4UXHvpmhJt36DBrRTe8WBgqNcVr1Y"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnuX79JImeDVbEfNrSJW0ws7fJGjYg:1791401165905&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX&udm=8&sa=X&ved=2ahUKEwjW_5Kx0aiXAxXJL1kFHcioOxwQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Senior Data Analyst",
+      "company_name": "UnitedHealth Group",
+      "location": "Noida, Uttar Pradesh",
+      "via": "UnitedHealth Group Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=iucit-JcogAe0sFkAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCQAwAUFz7CU6ZS-mJ4KKTINRJBOlc0jb0Ts7kuESom__g4P_5Jerytle8F0V1IQ6S4YCGsGeMDzX4PF9wlR6UMA8ehKERmSItd94s6dY51VhPamhhqAe5OWHqZXa_pH869ZgpRTTq1pvVXCeeyrLlYDQeCaN5aLLcEwSGk4QRK2jNMMM540jqv8HbevSaAAAA&shmds=v1_ARwrE224qjvpsNP9Oue_DYSTXjG6x9yIQIFymZyiBkumgQAZXQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=iucit-JcogAe0sFkAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAdVBMVEUsc-8tc-8wdfD____b5_wAYu0zePAscvElcO4AZO0AXOwAXuyowfckb-8Xau0AYe7D1fqauPXS4Pvh7P0AUuwAVu2QsPXK2vtQiPHs9P5Ui_ELZ-1mlfJEgu9Cf_BxnPO40PmCqPP1-v4AR-u0yfd6ovNfkfN2jZSeAAACHUlEQVRIie2X2bKjIBBA2URQQZYIIgSXGP__EweTOw9TM1WZm6r7lralWOpIS3cjAoreEgoQeEtQuWr4bakfIATf5QryAOF37YQf8AN-wB8CAUNF4bkdnI9BECL0SFVQn93wHCrlI-EBKtn_bCJAk0BJRAEj4oxzLiXn4rzZeGV5FJxHVHOBhESxqiKLSMoTZDOpxtCbWSzNko0h2hkya29cq3TVqdKloiBzXF27GGPyzlcnCihmU11tv9kmXOxYkdSaNLRm7re86Kj3idx6NlvTahWlU3yyN7fLL3C0FVHTCfYkVSqQ7O_Vsu7BhH3EpGs8xVwvURRwxCZ0X-CQbWWpJRd75QX0qW38PJi0uMHtI7lUHCuc3N48Zxz0Y8ZabJ11MlxIuISpt6kyxK_eqNCoYqoasVKHaZ1xm0_O8yk0epEUUAD5RCWkxSU1rQFFDNBMUc4RoLL4qNRy8Y_IZzcrWz967uNnALDiqYeeHuPHmkXksgalQFIgDniM8OlG8Fv_jhzuibP94hcmF69bfcSFL36XL0OO4l5WEcdu77rBJnNvcYOHvZMvQHZsnM0cJ3KQI3advzdbjzNxr0CQcVn8Bl_DjaR-d34-wTS_NrW841pA7vUc5o1qcw-lJf6VHX-CkCd3FRMAUxwdFfJYhRgZeg0CyBgDrOQUqEVJKVbimZX6a_A_5AN-wA_4Y-C7B923j9ZvSfkev_n78As23She1_v_UQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "19 hours ago",
+        "Full–time"
+      ],
+      "source_link": "https://careers.unitedhealthgroup.com/job/noida/senior-data-analyst/34088/101636004400",
+      "job_title": "Senior Data Analyst",
+      "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start Caring. Connecting. Growing together.\n\n\nWork area includes development of clinical deterministic/probabilistic rules to identify aberrant billing/Fraudulent patterns in healthcare institutional claims data for UHC all Line of businesses.\n\n\nRole requires development and evaluation of various clinical deterministic & probabilistic rules, data-maps through domain expertise and advanced data mining techniques, identify improvement opportunities resulting in business impact, creating different metrics for clinical rules and innovation or optimization algorithms and building solid relationships with global analytics teams.\n\n\nRole also requires significant amount of team and stakeholder management, project delivery, Quality assurance skills in areas like, clinical rule development, validation and data maps development, Rules maintenance, validation and enhancements, exploratory data, and multivariate analysis, improving true positive rate of existing analytics\n\n\nShift: A2 (11:00 AM to 8:30 PM IST)\nGrade: 27 (Senior Data Analyst)\nLocation: Noida\n\n\nPrimary Responsibilities:\n\nCommunicating key analytic findings to client and responsible for addressing client's analytic concernsCommunicate clearly and effectively both orally and in writing; conduct meetings and make professional presentationsOrganize and manage time and resources; establish priorities and coordinate work on many projects simultaneouslyResearch potential overpayment scenarios through secondary research, seeking to identify overpaid claims used to build recurring algorithmsIdentify and refine criteria to successfully build and enhance new and existing algorithm logic, ensuring correct claim paymentResearch and quickly identify patterns of claim payment abnormalities through big data analysisProviding both clinical and technical consulting to business leaders at an appropriate level of information encapsulationDevelop metrics to forecast new algorithm profitabilityWork to gather, examine, and analyze data; write technical specifications for manipulating data to look for Fraudulent patternsDemonstrate a solid understanding of project scope, data extraction methodology, design of dependent and profile variables, logic and design of data cleaning, exploratory data analysisIdentify opportunities, pose business questions, and make valuable discoveries to prototype development and rule improvement. Actively consult with business stakeholders and subject matter experts to ensure appropriate medical and business content is incorporated into analytic approachesBe able to work closely with Business Analysts, Domain SMEs to understand business needs and help define requirements for reporting solutions Ability to work closely with onshore and offshore business analysts, Domain SMEs and leads to understand business needs and help define requirements for reporting solutionsEnsures team gathers right requirements from the business stakeholders and involve in, BI/BRD design and ensure that all specifications are complete, consistent, concise, and achievableDeliver robust and scalable analytic solutions in an automation ready state for payers and provider marketsSelf-drive knowledge accumulation of methods and modeling advances by reading research publications, blogs and attending presentations and webinarsComply with all applicable Company policies, procedures, and business directives, changes including those relating to work location, team assignments, work schedules, and flexible work arrangementsRequired Qualifications:\n\nBachelor's or higher degree in related Information Technology field/Healthcare/clinical researchMedical coding/clinical certification like CIC/COC or any other medical coding certification/knowledge7+ years of experience in conducting research-minded clinical data analysis on variety of healthcare data types/forms with aim to utilize this analysis into building or optimizing clinical solutions; 4+ years of experience in data analytics and claims processesExperience in research and finding data anomalies, and analysis method with healthcare claims and breaking down and clearly define problems, performing root cause analysis to identify key factors and reasons prompting those factorsScrum or other Agile development experienceData analysis experienceKnowledge of analytical tools and techniques required to perform data analysis. Should have ability to handle/work on medium/large data setsIn-depth understanding of US healthcare, Payment integrity processes, Claim lifecycle, Adjudication & Pre-Adjudication processProficiency in tools such as Microsoft Office Excel/Access/PowerPoint; Working Knowledge of basic SQL or SAS is requiredDemonstrated solid project management skills, ability to influence cross-functionally in a rapidly evolving business environment while managing multiple / concurrent projectsDemonstrated ability to communicate ideas effectively and concisely to all levels of Management, business partners, and to other external clients and ability to work independentlyDemonstrated solid analytical, complex thinking, problem solving, and troubleshooting abilitiesProven excellent written and verbal communication skillsProven excellent organizational skills and attention to detail\nPreferred Qualifications:\n\nScrum or other Agile development experienceData analysis experience\nAt UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone-of every race, gender, sexuality, age, location and income-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes - an enterprise priority reflected in our mission.",
+      "apply_options": [
+        {
+          "title": "UnitedHealth Group Jobs",
+          "link": "https://careers.unitedhealthgroup.com/job/noida/senior-data-analyst/34088/101636004400?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Apna Jobs",
+          "link": "https://apna.co/job/noida/senior-data-analyst-269451707?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/data-analyst-senior-data-analyst-dynata-noida-59843362?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Instahyre",
+          "link": "https://www.instahyre.com/job-429292-senior-data-analyst-at-attero-recycling-noida/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/8ftDDDGjrJH3EvKnacsTg08YAkQIX5LudCbTc3tItsm1p7IZVyHVNA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/senior-data-analyst-shyftlabs-JV_IC4477468_KO0,19_KE20,29.htm?jl=1010243002852&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst-senior-data-analyst/dynata/19553737?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5861221729?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiVW5pdGVkSGVhbHRoIEdyb3VwIiwiaHRpZG9jaWQiOiJpdWNpdC1KY29nQWUwc0ZrQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlRtOXBaR0VzVlhSMFlYSWdVSEpoWkdWemFDeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRGTktaVkUzVjNWbFprTlRaWE5VTWpKRldrTnpWek5WU2pJNGVHbEdSa1ZZYkhOMWRUVjRTRTVVTkVNeFUyTmlOSGhsUjI5TVZrRXdTWGxhTUhGNE1HYzBVbE5LY25aNmJVNTBiM0JuTW14alNVTXlRbWhZYTE5WldHWTBXVFJqZEhwVGVsbEpXVE5YWjJscVQwUmxObXQwVm1wUlIyTjRUVEJ3ZFY5VldHcFJiRVZRYVZNU0YzcGFla2RoY0dKc1RuTnVaalZPYjFCNVRraDFORkZGR2lKQlJITnlPV1pUVldGMFRrbGllVTltVW0wMVpsWXpZVXgyYWxaallVRmphMFozIiwiZmN2IjoiMyIsImZjX2lkIjoiaXVjaXQtSmNvZ0FlMHNGa0FBQUFBQT09In0="
+    },
+    {
+      "title": "Sr. Data Analyst",
+      "company_name": "Team Pumpkin",
+      "location": "Noida, Uttar Pradesh",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=C76y6b610H0yzJSuAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7CE43uCiSiOCikyC4SUGdy7U9mmqSC7kT6uYTuPiGPokVfr7tL96TYn7OBg6oCPuI_ikK39cHblyDEObGAUc4MneepjunmmRrrYg3nShq35iGg-VINQ92nORPJQ4zJY9K1XqzGkyK3WJ2IQxQPkK69xHGTty3uISrKmYoM7Yk7gcQU-mEkQAAAA&shmds=v1_ARwrE23OI55uOwNdFA8XG6SVpdR9GvAVygm-rL4MWHAC9Zdeaw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=C76y6b610H0yzJSuAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69ccd6f082b307f18b34a/images/SH2V4PoT0PzXpm3d9oLMttkw3Jl23Agvokt7WwEYks0.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/uDNQUnSIu_G_T3hfbnq6m2T-iw4FCxU8WVYVyzd6n4EKwwwlLe2QEg",
+      "job_title": "Sr. Data Analyst",
+      "description": "Sr. Data Analyst – D2C Team\nLocation: Noida, Sector 136\nExperience: 3–4 Years\nDepartment: D2C\nEmployment Type: Full-time\n\nAbout the Role\nWe are looking for a Sr. Data Analyst to join our D2C team and turn data into actionable business insights. The ideal candidate should be comfortable working with large datasets, identifying trends, building dashboards, and partnering with marketing, e-commerce, and business teams to drive better decisions.\nKey Responsibilities\nAnalyse sales, inventory, SKU, channel and location-level data to identify gaps and growth opportunities.\nIdentify inventory availability issues, stock-outs, excess inventory, ageing inventory and lost sales opportunities.\nAnalyse sales performance against targets, projections and historical trends.\nBuild and maintain MIS, dashboards and automated reporting for business and management teams.\nCreate clear data visibility across marketplaces and Quick Commerce channels.\nDevelop performance dashboards covering GMV, orders, ASP, fill rate, inventory, availability, sales contribution, growth and other key KPIs.\nWork with eCommerce/operations teams to identify root causes behind sales and inventory gaps.\nDevelop automated reports using advanced Excel/Google Sheets formulas and SQL.\nExtract and analyse large datasets using SQL and create meaningful business insights.\nTrack SKU-level performance and identify top/bottom performers, assortment gaps and channel-specific opportunities.\nSupport forecasting, projections and business planning with data-backed insights.\nEnsure data accuracy, consistency and timely reporting across all business\nRequirements\n3–4 years of experience in Data Analytics, Business Analytics, E-commerce Analytics, or a similar role.\nStrong proficiency in Excel/Google Sheets and SQL.\nExperience with Power BI, Tableau, Looker Studio, or similar BI tools.\nStrong understanding of D2C/e-commerce and digital marketing metrics.\nExperience working with platforms such as Google Analytics, Shopify, Amazon, Meta Ads, Google Ads, or similar tools is a plus.\nStrong analytical and problem-solving skills with attention to detail.\nAbility to translate complex data into simple, actionable business insights.\nStrong communication and stakeholder management skills.\nWhat We're Looking For\nSomeone who doesn't just report the numbers but understands the story behind them — someone who can spot what is working, what isn't, and what the business should do next.\nWhy Join Us?\nYou’ll work closely with a fast-moving D2C team where data directly influences business, marketing, and growth decisions. This is a hands-on role with the opportunity to take ownership, experiment, and make a measurable impact.",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/uDNQUnSIu_G_T3hfbnq6m2T-iw4FCxU8WVYVyzd6n4EKwwwlLe2QEg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/sr-data-analyst-at-team-pumpkin-4474949646?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/926053186626650112?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiVGVhbSBQdW1wa2luIiwiaHRpZG9jaWQiOiJDNzZ5NmI2MTBIMHl6SlN1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlRtOXBaR0VzVlhSMFlYSWdVSEpoWkdWemFDeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNqRnRlVWhoUlhKM1RVa3liMWRxYzBWdlJ5MUhORGhGU2pGeFdqSnJRMlpWV2s1dFdVdHFNWEZMWlZSUFdFcFNXamR5TTFCR09XbHlNR0ZXUkY5eWVUVXpSVU00ZDNSWFdtMTBTVmRyU1ZaMk9IWkthSEJIZERkRGQwUjZUSGxaTlY5NGJISmtNbXBFZDJ4a1FXcERXbTF0UjJkd1FqVnJiV2hSUTBaTlh6UTViRXMxUjJZU0YzcGFla2RoY0dKc1RuTnVaalZPYjFCNVRraDFORkZGR2lKQlJITnlPV1pSUlhoVFNWRlNaMVZWUTFOb2VGbHhhblpzZVVRMFVHNXlialZuIiwiZmN2IjoiMyIsImZjX2lkIjoiQzc2eTZiNjEwSDB5ekpTdUFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst | Government Project",
+      "company_name": "BDO India",
+      "location": "New Delhi, Delhi",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=ho6Cn5JzmHFYWLHjAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWLMQrCQBAAsc0TBGFrkZwINrFSAmKj_iBcziV34bIbbheNYOEfbHyfLzFiM9PMZO9JVpRWLWzJxrsoPGDPV0zUISmcE7foFD7PF7Rcg6BNzgPTGHETcbrxqr0UxojEvBG1GlzuuDNMWPNgxkl-qMTbhH20itVqvRzynpr5bFee4ECXYCEQHPEGJUYfFn99AVk1jiCbAAAA&shmds=v1_ARwrE22PRcDdKY9viytJ7BpgWXkTcVOa_TpiKrlGmbi3sGE8ng&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=ho6Cn5JzmHFYWLHjAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69ccd6f082b307f18b34a/images/bGLrKx3meVq_8xMbfbLUwyucr3ec2b4YtLnwMMGxuA8.png",
+      "extensions": [
+        "19 hours ago",
+        "₹1,16,667–₹1,66,667 a month",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/data-analyst-government-project-bdo-india-delhi-ncr--t7xk-867885142",
+      "job_title": "Data Analyst | Government Project",
+      "description": "Role & responsibilities The Data Analyst(s) shall provide dedicated, in-situ data analytics support to the Directorate for analysis of policy, operational, claims, transaction and customer service data and for generation of actionable management insights. The scope shall include, but not be limited to, the following:\n\n\nData Requirement and Data Extraction\n\n\n\nTranslate business and management requirements into structured data requirements, including relevant data fields, dimensions, measures, filters and reporting frequency.\nCoordinate with CEPT and concerned technical/data teams for obtaining the required authorized Projects data.\nUndertake data querying/extraction and prepare datasets required for recurring and adhoc analysis.\n\nData Preparation, Validation and Quality Checks\n\nClean, structure and validate datasets before analysis.\nUndertake data-quality checks to identify missing, duplicate, inconsistent or anomalous records.\nIdentify and communicate data-quality issues affecting the reliability or interpretation of analytical outputs.\n\nManagement Reporting and Dashboarding\n\nPrepare periodic management reports and scorecards for parameters identified by the Directorate.\nDevelop dashboards and visualisations for monitoring key business and risk indicators.\nPrepare concise PowerPoint presentations and management briefs highlighting significant trends, exceptions, concentrations and areas requiring attention.\n\nPolicy and Business Analytics\n\nAnalyze policy issuance/new business trends and relevant policy characteristics.\nAnalyze premium payment behavior, lapsation, revival and persistency.\nAnalyze surrender and other relevant policy/transaction patterns.\nAnalyze agent performance and identify significant trends, concentrations and exceptions.\n\nClaims and Early Death Claims Analytics\n\nAnalyze claim pendency and claim settlement timelines.\nIdentify concentration of death and early-death claims at Circle, Region, Division, CPC/HO and other appropriate levels.\nIdentify unusual patterns or clusters requiring closer examination.\nAnalyze available data relating to reasons for claim pendency and delays.\n\nRisk Intelligence and Early-Warning Indicators\n\nDevelop data-based indicators for identifying policies/transactions requiring closer examination.\nIdentify unusual combinations or concentrations involving policy issuance, early death claims, lapsation, surrender, premium payment, policy relaxations and other relevant indicators.\nDevelop early-warning indicators for preventive monitoring.\nPrepare risk/exception reports at Circle and other appropriate levels.\nUndertake analysis of policy characteristics and transaction patterns that may provide inputs for risk management and prevention/detection of possible mis-selling.\n\nCustomer Grievance Analytics\n\nAnalyze public complaints to identify recurring or systemic issues.\nIdentify geographical concentration and policy/service-related causes of complaints.\nProvide data-based inputs for improving customer service and reducing avoidable complaints.\n\nField-Level Analytical Support\n\nProvide actionable analytical inputs to Circles/Regions/Divisions/CPCs/Head Offices for corrective and preventive action.\nIdentify areas requiring focused review, verification or investigation based on data patterns.\nPrepare focused analytical briefs/exception reports as required by the Directorate.\n\nAd-hoc Analytics and Management Support\n\nProvide end-to-end analytics support on priority requests, including data querying, analysis, insight generation and presentation.\nUndertake deep-dive analysis on any Project's parameter or business issue identified by the Directorate.\nUndertake any other related data analytics assignment entrusted by the designated authority.\n\nAnalytics Capability and Knowledge Transfer\n\nDevelop repeatable analytical processes, reporting templates and reusable queries/models wherever practicable.\nSupport training and knowledge transfer to designated Project personnel to strengthen internal data analytics capability.\n\nKey Analytical Outputs/Deliverables:\n\nMonthly management scorecard covering relevant Project parameters, including agent activation, early death claims, lapsation & persistency and other parameters specified by the Directorate.\nPeriodic deep-dive reports on claims, early death claims, policy issuance, premium payment, lapsation/revival, persistency, surrender and other priority areas.\nCircle-wise/appropriate-level risk and exception reports.\nEarly-warning indicators and data-based exception indicators.\nClaims pendency and settlement-timeline analysis.\nCustomer grievance trend and concentration analysis.\nDashboards, visualizations and management presentations.\nData-quality and validation observations relating to datasets used for analysis.\nAction-oriented analytical briefs for management and field formations.\nReusable analytical templates/processes and knowledge-transfer material.\n\nDesired Qualification and Skill Set:\n\nThe Data Analyst should possess the following qualification, experience and technical/functional skills:\nGraduate/Post-Graduate qualification in Data Science, Statistics, Mathematics, Computer Science, Information Technology, Economics, Business Analytics, Engineering, Management or a related discipline.\n\nRelevant Experience\n\nRelevant professional experience in data analytics, business analytics, MIS/management reporting, risk analytics or a related field, preferably involving large operational datasets.\nAdvanced proficiency in Microsoft Excel, including modelling, pivot tables, dashboards, lookups, data validation and analytical functions.\nStrong proficiency in PowerPoint for preparation of concise management presentations and communication of analytical findings.\nWorking knowledge of SQL for querying and extracting data from underlying source tables/databases.\nWorking knowledge of ETL concepts/tools and data-quality validation processes.\nWorking knowledge of dashboarding and business-intelligence tools such as Power BI or Tableau.\nKnowledge/proficiency in Python and/or R for data analysis, data manipulation and analytical modelling is desirable.\nAbility to perform trend analysis, exception analysis, concentration analysis, segmentation/clustering and other appropriate analytical technique\nAbility to understand business requirements, interpret insurance/operational metrics and convert data into clear, actionable insights.\nAbility to work effectively with business stakeholders, technical teams and data owners, including CEPT.\nUnderstanding of data confidentiality, access controls and secure handling of policyholder, claimant, agent and operational data.\n\nIndicative Areas of PLI/RPLI Data Analytics\nNew business and policy issuancePremium payment and transaction behaviourLapsation, revival and persistencySurrenderDeath claims and early death claimsClaim pendency and settlement timelinesAgent activation and performancePolicy characteristics and transaction patternsPolicy relaxations and other relevant indicatorsCustomer grievances/complaintsCircle/Region/Division/CPC/HO-wise trends and concentrationsRisk, exception and early-warning indicators.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-government-project-bdo-india-delhi-ncr--t7xk-867885142?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgfCBHb3Zlcm5tZW50IFByb2plY3QiLCJjb21wYW55X25hbWUiOiJCRE8gSW5kaWEiLCJodGlkb2NpZCI6ImhvNkNuNUp6bUhGWVdMSGpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1hSbFNqQTVjVFpKVWxCYWJ6WkVTMk5SV201eVRVWnJlVmROWldaalNWbFlNeTFFVm10VGRteEpSa1l4UzBGSlEzQnJlWGxaUlRRd2RqbG5WV3hxUkhac01VRjFURWRQY21VellUTlRXbWxoVmxOWFgxQmhZWEpoWTNOU1QwVnZhemRuV1VOME1sRkxaUzFSTW1zMFlYcDZPV0V0VUZKaGVXMXRhamxsYjBacGMyeDJYelFTRjNwYWVrZGhjR0pzVG5OdVpqVk9iMUI1VGtoMU5GRkZHaUpCUkhOeU9XWlVUazVaZUhwelNIaFZkekEwZUdJM2VrdERNakJZWjNZNWVuUlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJobzZDbjVKem1IRllXTEhqQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Software / Data Analyst",
+      "company_name": "Softcrayons IT Education",
+      "location": "Noida, Uttar Pradesh",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=FfQnm_lYKLIUmtZ0AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x3NMQoCMRCFYWz3CFZTiySLYKOVoIiNCGq9zGZjshIzS2bE3c47eAKv5kmMNq_7v1e8R0V5pIs8MFnQsEZBWEUMAwt8ni-4Ug1sMRkPFGFL5IIdL71IxwutmYNyLCitUYZumqKtqdc54t9U7DPbBRRbzeZlr7roJv87k3CgyLA7waa5mwxkvY2wp7bBKZxFMMEhYWPZfwGtLOsPpAAAAA&shmds=v1_ARwrE22zFqK8VuDhN5_S3qQtITKpXmbiCJWbMYRHjf72rDxsyg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=FfQnm_lYKLIUmtZ0AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69ccd6f082b307f18b34a/images/zswqdR_5EchiO6kJScReQeSjD8XKfd1Rg2o1ENFr6KM.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/software-data-analyst-at-softcrayons-it-education-4476104023",
+      "job_title": "Software / Data Analyst",
+      "description": "FULLTIME\n\nSoftware / Data Analyst\n\nAdvanced Dental And Implant Clinic\n\n28 days ago\n\nSoftware / Data Analyst\n\nAdvanced Dental And Implant Clinic\n\nData Science / Analytics\n\nFULLTIME\n\n10000 - 20000\n\n0 - 24 Years\n\nNoida\n\nJob Description\n\nwe need a receptionist with basic computer knowledge\n\nProfessional Skills\n\n\n\n ivot Tables & Pivot Charts Power Query Data cleaning & transformation Dashboards & data visualization Conditional formatting & data validation Excel Tables & Named Ranges Macros/VBA basics What-If Analysis & Goal Seek Power Pivot / Data Model Basic automation and reporting\n\nShare Job\n\nJob Overview\n\nJob Title Software / Data Analyst\n\nJob TypeFULLTIME\n\nCategoryData Science / Analytics\n\nExperience0 - 24 Years\n\nDegreeMaster\n\nOffered Salary10000 - 20000\n\nLocationNoida\n\nHR Contact\n\n[redacted] Call\n\nNoida\n\nOpen Maps\n\nRelated Jobs\n\nExplore other job opportunities in this category.\n\n6 days ago\n\nData Analyst - Senior\n\nFedEx\n\nData Science / Analytics\n\nFULLTIME\n\n₹15,000 - ₹20,000\n\nGhaziabad\n\nJob Details\n\n6 days ago\n\nSenior Data Analyst\n\nMongoDB\n\nData Science / Analytics\n\nFULLTIME\n\n₹20,000 - ₹22,000\n\nGhaziabad\n\nJob Details\n\n6 days ago\n\nSenior Product Analyst\n\nTide\n\nData Science / Analytics\n\nFULLTIME\n\n₹15,000 - ₹20,000\n\nGhaziabad\n\nJob Details\n\nSend Us Message",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/software-data-analyst-at-softcrayons-it-education-4476104023?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSAvIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlNvZnRjcmF5b25zIElUIEVkdWNhdGlvbiIsImh0aWRvY2lkIjoiRmZRbm1fbFlLTElVbXRaMEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMFEwTkdOcFJGVTRabEV0VDNSSFZHbE5hMEp3VDJVMGEyczNNSFJvYjBkVGNUaEdSRzB0YWxWcFNGUm1hMXBuWDNWdWJrdFFRM0Y1TVZkSVIwcG9jR3N4Y1RGd09DMHRjRVJ5WjFabk1uSjRaR3RJY21aR2FIcEhkRkJyV0RWa1FraDFNR3cwUnpkMlJYSnlVak0wZUU5Wk1VNHlSV3N6UWxOdVNYZElUWFpuZURkeE1GVVNGM3BhZWtkaGNHSnNUbk51WmpWT2IxQjVUa2gxTkZGRkdpSkJSSE55T1daUmNrVXhiV3hTVGpGNmJHRk9aWFJmTkd4QmVYWlJUVWhCV2pSQiIsImZjdiI6IjMiLCJmY19pZCI6IkZmUW5tX2xZS0xJVW10WjBBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Data Analyst I",
+      "company_name": "Softcrayons IT Education",
+      "location": "Ghaziabad, Uttar Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=9r1VLZEvgk2_xptmAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCMBRAce0RnP4skojoopOgSDehOpffNDaRmF_yv9A6eQeP4M08iXF523uv-EwKVdnoKcEeBWEXMYwsUML39YYbNcAWk3FAEY5EXbDTrRPpeaM1c1AdC4o3ytBdU7QNDTpL_EfNDpPtA4qtl-vFoPrYzVYVXcUkHCkylGc4tA-TA7nu88Dh02OD7RwuIpjglLC17H5MbH2ipgAAAA&shmds=v1_ARwrE23msG270JmOeDq2QAsYOPJeh-3MKAufXTMukNU5fMzW7Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=9r1VLZEvgk2_xptmAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/senior-data-analyst-i/softcrayons-it-education/19703385?position_in_results=18",
+      "job_title": "Senior Data Analyst I",
+      "description": "FULLTIME\n\nSenior Data Analyst I\n\nRELX\n\n3 days ago\n\nSenior Data Analyst I\n\nRELX\n\nData Science / Analytics\n\nFULLTIME\n\n20000 - 22000\n\n5 - 6 Years\n\nGhaziabad\n\nJob Description\n\nAs a Senior Data Analyst, you will independently deliver complex analytical activities using Databricks, Snowflake, SQL, Python, and related technologies. You will work with Product Owners and other stakeholders to analyse large datasets, create advanced-level insights and recommendations, assess data and product quality, and support the development and improvement of data products.\n\nProfessional Skills\n\n\n\n Databricks, Python, Pandas, PySpark, Apache Spark, Snowflake, JIRA, Tableau, Power BI Minimum of 5 years of work experience in business intelligence, data engineering, analytics, data analysis, or related discipline Strong SQL skills, including experience working with large and complex datasets. Coding skills in at least one programming language, preferably Python Familiarity with common string manipulation functions or libraries, such as regular expressions (regex)\n\nShare Job\n\nJob Overview\n\nJob TitleSenior Data Analyst I\n\nJob TypeFULLTIME\n\nCategoryData Science / Analytics\n\nExperience5 - 6 Years\n\nDegreeMaster\n\nOffered Salary20000 - 22000\n\nLocationGhaziabad\n\nHR Contact\n\nhidden_mobile Call\n\nGhaziabad\n\nOpen Maps\n\nRelated Jobs\n\nExplore other job opportunities in this category.\n\n3 days ago\n\nData Analyst - Senior\n\nFedEx\n\nData Science / Analytics\n\nFULLTIME\n\n15,000 - 20,000\n\nGhaziabad\n\nJob Details\n\n3 days ago\n\nSenior Data Analyst\n\nMongoDB\n\nData Science / Analytics\n\nFULLTIME\n\n20,000 - 22,000\n\nGhaziabad\n\nJob Details\n\n3 days ago\n\nSenior Product Analyst\n\nTide\n\nData Science / Analytics\n\nFULLTIME\n\n15,000 - 20,000\n\nGhaziabad\n\nJob Details\n\nSend Us Message .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-data-analyst-i/softcrayons-it-education/19703385?position_in_results=18&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/senior-data-analyst-i-at-softcrayons-it-education-4474147675?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-data-analyst-i-softcrayons-it-education-ghaziabad-uttar-pradesh--t7xk-865062163?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/1522184511188631552?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IEkiLCJjb21wYW55X25hbWUiOiJTb2Z0Y3JheW9ucyBJVCBFZHVjYXRpb24iLCJodGlkb2NpZCI6IjlyMVZMWkV2Z2syX3hwdG1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1VoNlpXbzBSVkl5TlRKNFlWRXpTalE1ZGxZM2MwVlFNRmhKY2tGd1NERmlTM1pPU0hGV1JuTlpYMnBCYkhGUmF5MDVSbE5XZGxSMFdUazNNRVE0Wm1VemVUQkpkMHhGT0ZKSlkyeHdPVlpUY1dFd2RrUnROVXRmVEV4a1NYVnJhMVF6Yld0VWRuTlBPR3Q2ZWxocFoyUmFUV3BVYzFaM1lVNU5NSFo1TjFaeFduaGFjemdTRjNwYWVrZGhjR0pzVG5OdVpqVk9iMUI1VGtoMU5GRkZHaUpCUkhOeU9XWlJTR1F5YzJ0b2RFeHRYMFJCVUhWTlQxWnhUMkZ4UkhwUGNrNW4iLCJmY3YiOiIzIiwiZmNfaWQiOiI5cjFWTFpFdmdrMl94cHRtQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior Data Analyst - Agribusiness Virtual Intern",
+      "company_name": "YuvaIntern",
+      "location": "Noida, Uttar Pradesh",
+      "via": "YuvaIntern",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=mYCA5JkoFxItJr2oAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_y3NMQrCQBBAUWw9gtVgKZoVwUargCCmEBsFqzBJluzKOhN2ZiV23sFzeClPooLN7x5_-BoMiyKR5wgbVIScMNxFYQZ5G32VxJMVgZOPmjDAjtRGgvfjCReuQCzG2gETbJnbYEdrp9rJyhiRkLWiqL7Oar4aJltxb75IfinFYbRdQLXlYjnvs47ayficbvg_eII9-wancFTFCIeIjRX3AUieBJOwAAAA&shmds=v1_ARwrE22qsEqL48i9ovm6zcVgq83nF30u0pn8pC7EkHXIBaXIXg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=mYCA5JkoFxItJr2oAAAAAA%3D%3D",
+      "extensions": [
+        "Internship"
+      ],
+      "source_link": "https://yuvaintern.com/internship/junior-data-analyst-agribusiness-virtual-intern-noida-834-internship-in-noida",
+      "job_title": "Junior Data Analyst - Agribusiness Virtual Intern",
+      "description": "As a Junior Data Analyst - Agribusiness Virtual Intern, you will be responsible for analyzing data related to the agriculture and agribusiness sector using Tableau software. Your tasks will include interpreting data, creating visualizations, and providing insights to support decision-making processes within the industry.",
+      "apply_options": [
+        {
+          "title": "YuvaIntern",
+          "link": "https://yuvaintern.com/internship/junior-data-analyst-agribusiness-virtual-intern-noida-834-internship-in-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/yes-madam-data-analyst-sql-1653447?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/rjdp/1681606528003536770?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/optum/job/senior-data-engineering-analyst-sql-dba-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-python-power-bi-sql-innodata-inc-noida--talent-638480058780093664?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/optum-data-analyst-ssis-power-bi-sql-noida-uttar-pradesh-0-to-1-years-1092847?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-5549-0cf79a58f4546222721fc186eaf73018?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/339649612/data-analyst-sql-python-tableau-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IC0gQWdyaWJ1c2luZXNzIFZpcnR1YWwgSW50ZXJuIiwiY29tcGFueV9uYW1lIjoiWXV2YUludGVybiIsImh0aWRvY2lkIjoibVlDQTVKa29GeEl0SnIyb0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMnhmZDFkV1QycHZZWHBvZVVKaFUzUlRORGRXWDBWdmNWaDZVVXRWWDFkb2FtNWpSRFY2V1dWRFZVOTBaRnBaWVdOeWFHazBTMjQzVFdoME4ySlVkVXRPWjJJMGJqWlhYek5mTUZKaVRIQTJOekZaUjBNeFRrbG1abFZzZFVsaGFGbFZUVTQ1YVZweU5FZzRTekJYTlZSMFgzSnlXalJGWjIwMGNtdEJkVFpoYUhGUlNrNFNGM3BhZWtkaGNHSnNUbk51WmpWT2IxQjVUa2gxTkZGRkdpSkJSSE55T1daVFozazRhbkZXVVdod2FHcGlSa3hLVDNveVkwSmxSbkJwVDFwbiIsImZjdiI6IjMiLCJmY19pZCI6Im1ZQ0E1SmtvRnhJdEpyMm9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "NatWest Digital X",
+      "location": "Gurugram, Haryana",
+      "via": "NatWest Group Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=7-WNvr3W4V4kDacnAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBBGYWxzBKtptBDJimCjlRDQyla78Ccsm5XNzrIzgaTzAHbe0JMYm9e9r3gvilUFBZ0jwiRK39eHntyQWOS2I450YXbBLk-dapKjMSKhdKJQ35Yt94ajbXg08yT_1NIh2xSgtt4fdmOZotusb9C7nfnKO68I9CA_y0MeXEa_pSvyhIgfj2NanY8AAAA&shmds=v1_ARwrE21KA4V0WkYUxicWlUltJfNe5m927f0SgBC8jJ7Oyv-VHA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=7-WNvr3W4V4kDacnAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69ccd6f082b307f18b34a/images/FbwTEVAb5Qvt_zkIe36CQYAN_qalzl8rgMxDT9U4HbQ.png",
+      "extensions": [
+        "8 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://jobs.natwestgroup.com/jobs/18290280-data-analyst",
+      "job_title": "Data Analyst",
+      "description": "Join us as a Data & Analytics Analyst\n\n\nThis is an opportunity to take on a purpose-led role in a cutting edge Data & Analytics teamYou’ll be consulting with our stakeholders to understand their needs and identify suitable data and analytics solutions to meet them along with business challenges in line with our purposeYou’ll bring advanced analytics to life through visualisation in a meaningful way for key stakeholders, giving you excellent recognition for your workWe're offering this role at associate level\nWhat you'll do\nAs a Data & Analytics Analyst, you’ll be using advanced analytics to develop business solutions which increase the understanding of our business, including its customers, processes, channels and products. You’ll be working closely with business stakeholders to define detailed business questions, problems or opportunities which can be supported through advanced analytics, making sure that new and existing processes are designed to be efficient, simple and automated where possible.\n\n\nAs well as this, you’ll be:\n\n\nWorking in an Agile way within multi-disciplinary data and analytics teams, co-ordinating resources from across the team and the business to achieve agreed project and scrum outcomesDelivering data and analytics expertise and solutions, which brings commercial and customer value to business challengesCommunicating data and analytics opportunities and bringing them to life in a way that business stakeholders can understand and engage with, supporting them to select the best approach for the business needsUsing new tools, technologies and methodologies to carry out advanced analyticsSharing relevant updates with key stakeholders bringing together advanced analytics, data science and data engineering work that is easily understandable and links back clearly to our business needs\nThe skills you'll need\nWe’re looking for someone with a passion for data and analytics together with knowledge of data architecture, key tooling and relevant coding languages. Along with proficiency in advanced analytics, you’ll bring an ability to simplify data into clear data visualisations and compelling insight using appropriate systems and tooling​. You’ll also have good financial services knowledge, and the ability to identify wider business impact, risk and opportunities, making connections across key outputs and processes.\n\n\nYou’ll also demonstrate:\n\n\nWorking knowledge/capability of cloud environment with 4+ yearsTechnical capability is a MUSTAI knowledge/capability is GOOD to haveInnovative mindset and desire to own and deliver impact for customers and colleagues",
+      "apply_options": [
+        {
+          "title": "NatWest Group Careers",
+          "link": "https://jobs.natwestgroup.com/jobs/18290280-data-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Michael Page",
+          "link": "https://www.michaelpage.co.in/job-detail/data-analyst/ref/jn-092026-7103861?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "UnitedHealth Group Jobs",
+          "link": "https://careers.unitedhealthgroup.com/job/noida/data-analyst/34088/101633242016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/data-analyst-thoucentric-gurgaon-gurugram-56718868?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Platform.uplers.com",
+          "link": "https://platform.uplers.com/talent/all-opportunities/HR1173977858894615?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Savanna HR",
+          "link": "https://savannahr.com/jobs/data-analyst-357?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analyst-at-airtel-4464763843?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Instahyre",
+          "link": "https://www.instahyre.com/job-408095-data-analyst-at-tekcor4-gurgaon/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJOYXRXZXN0IERpZ2l0YWwgWCIsImh0aWRvY2lkIjoiNy1XTnZyM1c0VjRrRGFjbkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTV3MzUVRaU2RpMWtUV0p2YkhnNGIzbGpjMGQxVm1KeVNrVlBkbk5ITldWVFVreHNjRGg2YlhKeVdHdzBUVzlyV25sTGVEbFZUVk5UVWxaMGFFRlZiR1Z0VURsZk4yWlZXVkZHWlU1eGEyRnBSV1owUVV0M1QzUlBWMFI2Y0doek9FczJVbTVyVEZWT2REWkRXSE10V20wd1MwOTBSSFJqT1VrelNFeGtkMHBXYzFaalJrc1NGM3BhZWtkaGNHSnNUbk51WmpWT2IxQjVUa2gxTkZGRkdpSkJSSE55T1daUmRUQmxiazFsTkRsemFIaGZXamMxU1RsNFh6RXdOVTVqVVVGbiIsImZjdiI6IjMiLCJmY19pZCI6IjctV052cjNXNFY0a0RhY25BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Lead Data Analyst (OAC) (Noida)",
+      "company_name": "Important Group",
+      "location": "Noida, Uttar Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=Ce_l_naPM4XYQDBwAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x3NPQrCQBBAYWxzBKvpTESyIgiiVVAIgqiNdZhkl2xks7PsjBA77-AFPJsn8ad53cdLXqNkdTCoYYeCUHh0dxZIT8U2g_RIncYM3o8nXKkGNhgbC-ShJGqdGW-sSOC1Uswub1lQuiZvqFfkTU2D-iL-pWKL0QSHYqrFcj7kwbfTyb4PFAW9QBnpFqDz8B_O4CKCEc4RtWH7ARrYdQ6jAAAA&shmds=v1_ARwrE231kzsC91jr-OQGhXl9Ahux4REprxm7c5tAA27hV6rOEg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=Ce_l_naPM4XYQDBwAAAAAA%3D%3D",
+      "extensions": [
+        "6 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/lead-data-analyst-oac-noida/important-group/19686420",
+      "job_title": "Lead Data Analyst (OAC) (Noida)",
+      "description": "Company Description\n\nAbout Sopra Steria  \n\nSopra Steria, a major Tech player in Europe with 51,000 employees in nearly 30 countries, is recognised for its consulting, digital services and solutions. It helps its clients drive their digital transformation and obtain tangible and sustainable advantages. The Group provides end-to-end solutions to make large companies and organisations more competitive by combining in-depth knowledge of a wide range of business sectors and innovative technologies with a collaborative approach. Sopra Steria places people at the heart of everything it does and is committed to putting digital to work for its clients in order to build a positive future for all. In 2025, the Group generated revenues of 5.6 billion.  \n\nThe world is how we shape it.\n\nJob Description\n\n1.Proficient in Oracle Analytics Cloud (OAC) and other Data Visualization Tools like Power BI , Tableau\n\n2.Skilled in modeling , maintaining semantic models in OAC and Optional (data model in Power BI)\n\n3.Skilled in creating Workbooks/Data visualizations and BI Publisher reports.\n\n4.Data Warehousing Concepts : Strong understanding of data warehousing architecture, design principles, and best practices.\n\n5.Good knowledge of securing report objects and data in BI Applications.\n\n6.Proficiency in writing and debugging SQL queries.\n\nLocation Preference : Noida\n\nTotal Experience Expected: 06-08 years\n\nQualifications\n\nBTECH / MCA\n\nAdditional Information\n\nWillingness to work in shifts (primarily UK) as per project or operational requirements.\n\nAt our organization, we are committed to fighting against all forms of discrimination. We foster a work environment that is inclusive and respectful of all differences.\n\nAll of our positions are open to people with disabilities. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/lead-data-analyst-oac-noida/important-group/19686420?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/3560148967041794048?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/339925409/lead-data-analyst-oac-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgQW5hbHlzdCAoT0FDKSAoTm9pZGEpIiwiY29tcGFueV9uYW1lIjoiSW1wb3J0YW50IEdyb3VwIiwiaHRpZG9jaWQiOiJDZV9sX25hUE00WFlRREJ3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlRtOXBaR0VzVlhSMFlYSWdVSEpoWkdWemFDeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNtMW5TV1JYWlRkS1pVMTBhM1p0UVRBeVdWTlBhME5hVFcxV2MwY3lZekpGTkMxRVRXNWpjREJmU0VoMWQzVnBjbVJOYVRoWlMybDFSMWhZYjBkb1pYRkNaalZZZGtjM05uaFZNbnB3TmtZNWVXcEpVako1ZERCd1VERmxlbWREZG5SMVlUUmlRVVF0U1dnMGRYRmpSSFJxUTFkMmEwWkdjUzE0WlhWUFdVRXdiazFIUlhVU0YzcGFla2RoY0dKc1RuTnVaalZPYjFCNVRraDFORkZGR2lKQlJITnlPV1pVYTFSNFdtVkdZbXRyZFdwdVluTlFTVEJPTjFKT1RtVTRiWFZCIiwiZmN2IjoiMyIsImZjX2lkIjoiQ2VfbF9uYVBNNFhZUURCd0FBQUFBQT09In0="
+    },
+    {
+      "title": "Machine Learning Data Analyst - Apparel & Textiles",
+      "company_name": "YuvaIntern",
+      "location": "Noida, Uttar Pradesh",
+      "via": "YuvaIntern",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=T8G9LvRoOLHO38YiAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMPQrCQBBAYWxzBKvBwkI0EcFGq4Ag4g8WWliFSTJkV9bZZWeU2HkH7-GhPImxed33kk8v2e6xMpYJdoSRLTewQkXIGd1TFCaQh4CRHAzhRK1aRwLf1xuuvgTpSGXAM6y9bxz1l0Y1yCLLRFzaiKLaKq38LfNMpW-zDsk_hZjuGRwqFbP5tE0DN6PB5f7ADStFBstw8LbGMZxVMcIxYk1ift0R8cexAAAA&shmds=v1_ARwrE20GdA2O6DuER1OX-hHR484-KmvWyBoVxxtD78DlrzP1Wg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=T8G9LvRoOLHO38YiAAAAAA%3D%3D",
+      "extensions": [
+        "Internship"
+      ],
+      "source_link": "https://yuvaintern.com/internship/machine-learning-data-analyst-apparel-textiles-noida-860-internship-in-noida",
+      "job_title": "Machine Learning Data Analyst - Apparel & Textiles",
+      "description": "As a Machine Learning Data Analyst in the Apparel & Textiles sector, you will be responsible for analyzing data related to consumer trends, product sales, and market demands using machine learning algorithms. You will create predictive models to optimize inventory management, pricing strategies, and marketing campaigns.",
+      "apply_options": [
+        {
+          "title": "YuvaIntern",
+          "link": "https://yuvaintern.com/internship/machine-learning-data-analyst-apparel-textiles-noida-860-internship-in-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIERhdGEgQW5hbHlzdCAtIEFwcGFyZWwgXHUwMDI2IFRleHRpbGVzIiwiY29tcGFueV9uYW1lIjoiWXV2YUludGVybiIsImh0aWRvY2lkIjoiVDhHOUx2Um9PTEhPMzhZaUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURlJqWlZaSlFYbDRla3BXVVc4M1ZYQnpibTUzTW1wR2FrdHpOVXBmWlV0MFZHRmFTRlJFTTBsUlNGbEdSVGQwTlRKWFZHdEVORGxCV1hWM1NHWlRibTlOZWpGU2NVMVpOWGhvWVY5eFpVVnVSMlpOZUhWTFZXVTNlbkJwU0Zwa1RFSllOR05rUVRSMFgyTnpWSGRCWlhFM2JWaHNSbWRTTms1bk1YTlRPVGd4YjIxdFkyMFNGM3BhZWtkaGNHSnNUbk51WmpWT2IxQjVUa2gxTkZGRkdpSkJSSE55T1daUldHdEVjMVpwTFVoeWQwZEpaVEpvWW5sQlYydHhORlpNZGs1biIsImZjdiI6IjMiLCJmY19pZCI6IlQ4RzlMdlJvT0xITzM4WWlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Marketing Data Analyst",
+      "company_name": "The House of Abhinandan Lodha",
+      "location": "Greater Noida, Uttar Pradesh",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=f7tjSXa8bX7ndgw_AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXNMQoCMRBAUWz3CFZTi2xEsFEsBEELFQutl9nNmERjZsmMsHbewXN4KU_i2vzu8YvPoDB7zDfSkBysURFWCeNTFL6vN1y5BiHMjQdOsGF2kYYLr9rK3BiRWDpR1NCUDd8NJ6q5Mz2SfyrxmKmNqFRNZ5OubJMbLU-eYMsPIeALrGofEiaLCXZsPULoL5l6keHAweIYzqqY4ZjRkvgfb2UGtLAAAAA&shmds=v1_ARwrE21ghBeDJxtuzIvBquMuMQ5YuxxzdIjh-cuUJkgUm3QVdg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=f7tjSXa8bX7ndgw_AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAfCAMAAACF8f6iAAAARVBMVEX____Dw8P4-Pja2tqlpaWXl5f8_Pzt7e2xsbF1dXWfn5_KysqioqK7u7urq6uRkZGIiIhqamp_f3_R0dHn5-dkZGRvb29QbTTXAAAAjUlEQVQ4je2QuRLDIAwFOSQkTmFw_P-fmjTMuAt40oWt1OzsGym12fwE8sGiqKjv9DRhQubWnmbNA6dbKIlYOKvC2OfFyC1j4KsmhUEW0m4cy3Mr-RyL2FhPXaQDpTzl0Qu9AB4cLoSK7AMu_9gt7e1GQwrcabUTC3wWIsBxkh24797trcqZwWJ88we8AWvDBKFRqy43AAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "8 days ago",
+        "₹6L–₹9L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobleads.com/in/job/marketing-data-analyst--greater-noida--e75c6ac66989f1a6ea325b4df6dbe67d3",
+      "job_title": "Marketing Data Analyst",
+      "description": "Marketing Data Analyst\nLocation: Lower Parel, Mumbai\n\n\nAbout Us\nThe House of Abhinandan Lodha (HoABL), founded in 2020 by Abhinandan Lodha and headquartered in Mumbai, is a new-generation real estate and land development company transforming land ownership in India. By combining traditional land development with modern, tech-enabled processes, HoABL brings transparency, ease, and efficiency to land acquisition and investment.\n\n\nThe company specializes in plotted land development, creating residential and mixed-use communities including villas and township-style projects making secure and accessible land investment possible for a wider audience.\n\n\nAbout the Role\nWe are seeking a Marketing Data Analyst to support data-driven marketing and growth initiatives. This role requires strong analytical reasoning, marketing logic, and the ability to extract actionable insights from complex datasets.\n\n\nThe ideal candidate is plug-and-play, with hands-on exposure to marketing analytics, campaign performance evaluation, attribution logic, and consumer journey analysis. You will work closely with marketing, sales, and product teams to optimize campaign performance, improve ROI, and influence strategic decisions.\n\n\nKey Responsibilities\n\nCollect, clean, and analyze data from multiple marketing channels (digital ads, CRM, web analytics, and internal systems).\nTrack and evaluate marketing KPIs to assess campaign success, efficiency, and ROI.\nBuild and maintain dashboards and reports for campaign performance, funnel metrics, and customer behavior.\nDiagnose campaign performance issues and identify optimization opportunities using data.\nTranslate complex datasets into clear, actionable insights and recommendations for marketing and business teams.\nSupport attribution analysis and consumer journey mapping across touchpoints.\nCollaborate with marketing, sales, and product stakeholders to align insights with business objectives.\nEnsure data accuracy, hygiene, and adherence to internal standards.\nStay current with marketing analytics tools, platforms, and industry best practices.\n\nSkills & Competencies Required\nCore Competencies\n\n\n\nStrong analytical and logical reasoning\nMarketing logic and strategic thinking\nAbility to extract value from data and influence business outcomes\nIndependent execution with minimal ramp-up\n\nMarketing & Analytics Expertise\n\nUnderstanding of advertising types and marketing channels\nHands-on exposure to marketing analytics and performance diagnostics\nStrong knowledge of marketing KPIs and campaign success metrics\nExperience with attribution models and attribution logic\nConsumer journey and funnel analysis\n\nTechnical Skills\n\nExperience with tools such as GA4, Google Ads, Meta Ads, CRM platforms\nProficiency in SQL, Python, R, or advanced Excel\nExperience with visualization tools like Power BI, Tableau, or Google Data Studio\nAbility to work with large datasets and deliver insights under tight timelines\n\nQualifications\n\nBachelors degree in Engineering, Technology, Statistics, Mathematics, Economics, or related fields (B.Tech preferred)\n2 to 5 years of hands-on experience in data analysis, preferably in a marketing or consumer-focused environment\nDemonstrated experience generating insights that drive measurable business or campaign outcomesRole & responsibilities",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/marketing-data-analyst--greater-noida--e75c6ac66989f1a6ea325b4df6dbe67d3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYXJrZXRpbmcgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiVGhlIEhvdXNlIG9mIEFiaGluYW5kYW4gTG9kaGEiLCJodGlkb2NpZCI6ImY3dGpTWGE4Ylg3bmRnd19BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xkWFozQjFORkZSTFhadlFWRXhaRWxUVmpKTlMydGFaMFYzYWtodlRXMVhObXRXVmpoTVFsOXZOVlpKUlhveFdtSmZiVVZHVjJkVlZrWkJkV1ZrTVV0UU9YbFBlR1pLUVU1VVFUWkdUMGh6WjB4alIzZE1aUzF2Ym5sRVVqQjNURGhYVEc1WGJWbFVSbDlpYkV0bmJWVnNVWGhhUTJGT1lsVndUVWhXVjJreE1taHNUbU1TRjNwYWVrZGhjR0pzVG5OdVpqVk9iMUI1VGtoMU5GRkZHaUpCUkhOeU9XWlJNbVJSYjNwTVQweHRXakJOVlZab1FXcEROV1JVYjBaVFNYaDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmN3RqU1hhOGJYN25kZ3dfQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTVVJyUzJsSlUyWTNNVTFrTFhaVldscDBXSFZxVDIxallsaFdXbEZ1YjFsV2QyZHlSRkIwTnpaWmJXZ3hSVzVsV0VWa1NYTkVTREZ1ZDBSaFJGbGhSbmRCTUZCWmRHaHVTbVV4YkUxRFJEQkNaMVpHVUdwWlpEVnJaR0pDWm1sRVZsUllXVmh5VkhRM2FGOWlPVGd6Wm1wWVlWVk1MVFkxUW1KaE9WOVVlRlpUY2twNFdIbE1VMUZNU0VSNVVGOUlja0pQVlRSZmJVWmxZVUkwYWxoRmNVeG9hM1pxYzFGM05EWkdlVmQxZFRGRmNrRXdObE5FWkhob2JERnBZbmsxTFVGQ1JsY3hhVlZSWDI5b2MwSklRV2hWY1dwS1kwSnJkRlJaYkVoVlVFRkpiWGhaV2xSRlh6VTJURWM1TlU1WWRrSTNiRWR3ZUZaRFJqSTRObXBmVjFaTFdIQTFPRmxvVUdacVRrcFFOMGd0UlRGTFNsRkNkME5tWkVoVmVtUkJTbTlDV2toV1pUQlROMlYyV2tKR1VVc3hPVkUwT1ZJMWFGWmlWVlZPUkV4aE5GcEViSFZEWkRGRVVtcHVPSGh1ZHpObWNuUnBSRFU1V0RKMU5ISnRhMmxOVjA5dVYxaDFWR1JET1ZwcFRFeGZVVlowYzIxRWNWQkdXSFYwYVdsUWRrNXVTbEpwVnpsMlpHeFJOMDFPVFZOT1ZVcHNUWFJZTUZwNlNWSnRhMFJFVmpoVVJrMXRRMVpxYkhac09XdGlUbUpQTTBWSlFVMHpkekpJYlZoRE5sWndia1JLZEZwMmVHVlNPWEV5VUZFNVEwWXRjWGRXTVdOdk5tY1NGM3BhZWtkaGNHSnNUbk51WmpWT2IxQjVUa2gxTkZGRkdpSkJSSE55T1daU2RXNHhNMmhMYkVseVZXRTBTbWxsWHpSeVJXVnVkVVJKU1dGMyIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTVVJyUzJsSlUyWTNNVTFrTFhaVldscDBXSFZxVDIxallsaFdXbEZ1YjFsV2QyZHlSRkIwTnpaWmJXZ3hSVzVsV0VWa1NYTkVTREZ1ZDBSaFJGbGhSbmRCTUZCWmRHaHVTbVV4YkUxRFJEQkNaMVpHVUdwWlpEVnJaR0pDWm1sRVZsUllXVmh5VkhRM2FGOWlPVGd6Wm1wWVlWVk1MVFkxUW1KaE9WOVVlRlpUY2twNFdIbE1VMUZNU0VSNVVGOUlja0pQVlRSZmJVWmxZVUkwYWxoRmNVeG9hM1pxYzFGM05EWkdlVmQxZFRGRmNrRXdObE5FWkhob2JERnBZbmsxTFVGQ1JsY3hhVlZSWDI5b2MwSklRV2hWY1dwS1kwSnJkRlJaYkVoVlVFRkpiWGhaV2xSRlh6VTJURWM1TlU1WWRrSTNiRWR3ZUZaRFJqSTRObXBmVjFaTFdIQTFPRmxvVUdacVRrcFFOMGd0UlRGTFNsRkNkME5tWkVoVmVtUkJTbTlDV2toV1pUQlROMlYyV2tKR1VVc3hPVkUwT1ZJMWFGWmlWVlZPUkV4aE5GcEViSFZEWkRGRVVtcHVPSGh1ZHpObWNuUnBSRFU1V0RKMU5ISnRhMmxOVjA5dVYxaDFWR1JET1ZwcFRFeGZVVlowYzIxRWNWQkdXSFYwYVdsUWRrNXVTbEpwVnpsMlpHeFJOMDFPVFZOT1ZVcHNUWFJZTUZwNlNWSnRhMFJFVmpoVVJrMXRRMVpxYkhac09XdGlUbUpQTTBWSlFVMHpkekpJYlZoRE5sWndia1JLZEZwMmVHVlNPWEV5VUZFNVEwWXRjWGRXTVdOdk5tY1NGM3BhZWtkaGNHSnNUbk51WmpWT2IxQjVUa2gxTkZGRkdpSkJSSE55T1daU2RXNHhNMmhMYkVseVZXRTBTbWxsWHpSeVJXVnVkVVJKU1dGMyIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst"
+  }
+}

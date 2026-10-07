@@ -1,0 +1,534 @@
+{
+  "search_metadata": {
+    "id": "6ac69cd4484c09583358f8e2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/roqgEWK0DVZKOFhyjRdtWUto13orngmWuyqXDT6K-pE/6ac69cd4484c09583358f8e2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/roqgEWK0DVZKOFhyjRdtWUto13orngmWuyqXDT6K-pE/6ac69cd4484c09583358f8e2.md",
+    "created_at": "2026-10-07 19:26:12 UTC",
+    "processed_at": "2026-10-07 19:26:12 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Python+Developer&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/roqgEWK0DVZKOFhyjRdtWUto13orngmWuyqXDT6K-pE/6ac69cd4484c09583358f8e2.html",
+    "total_time_taken": 12.31
+  },
+  "search_parameters": {
+    "q": "Python Developer",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rmQD1vnvaXh5kfOBKMW7ukIF5A0AMwsNiPWOh1sHw9LrU-Yn2lFjhjEZJxJ8J0hMDZEZHMwFy09k8x84-8UOybolEdnKzBBydTSRmnEMydBAhlZb5ZJiDhV0-gvjZ3ieP61in2PhliSn4urT0Veb8-6AYf40",
+        "q": "Python Developer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rmQD1vnvaXh5kfOBKMW7ukIF5A0AMwsNiPWOh1sHw9LrU-Yn2lFjhjEZJxJ8J0hMDZEZHMwFy09k8x84-8UOybolEdnKzBBydTSRmnEMydBAhlZb5ZJiDhV0-gvjZ3ieP61in2PhliSn4urT0Veb8-6AYf40&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQxKsJKAB6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rmQD1vnvaXh5kfOBKMW7ukIF5A0AMwsNiPWOh1sHw9LrU-Yn2lFjhjEZJxJ8J0hMDZEZHMwFy09k8x84-8UOybolEdnKzBBydTSRmnEMydBAhlZb5ZJiDhV0-gvjZ3ieP61in2PhliSn4urT0Veb8-6AYf40"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK9M6AbP7BeLYwCW522ctAjEwOC_035fcJf66PRNvzaryBGjXU9Ioj0UJSfAMEjPrG1UaFrja7wj1wlqqIzhRiQXxijKUpvnaoMQyQTDOL88hbAjXF0ZRFyYamQ_fiQl1mDHTr1cFOgeLqceLenHJMvc0fsxMGIYbVjeHFEgl1ESQbAkl2dAliFTNJZW_bsaqd5Q1PwHMp-rxMNU3z3CZLTmG3LOo09SA5OAUvCTqKcVnql9UxRTpnhGxTYbog6YXJBF_lHRMdhzJdLNRNKtsnEd3MSNZpi8TZ3-GGQdlwkYNvh6ZRf6kAVfh8bbjAA1uC_8xRdU",
+            "q": "Python Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK9M6AbP7BeLYwCW522ctAjEwOC_035fcJf66PRNvzaryBGjXU9Ioj0UJSfAMEjPrG1UaFrja7wj1wlqqIzhRiQXxijKUpvnaoMQyQTDOL88hbAjXF0ZRFyYamQ_fiQl1mDHTr1cFOgeLqceLenHJMvc0fsxMGIYbVjeHFEgl1ESQbAkl2dAliFTNJZW_bsaqd5Q1PwHMp-rxMNU3z3CZLTmG3LOo09SA5OAUvCTqKcVnql9UxRTpnhGxTYbog6YXJBF_lHRMdhzJdLNRNKtsnEd3MSNZpi8TZ3-GGQdlwkYNvh6ZRf6kAVfh8bbjAA1uC_8xRdU&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK9M6AbP7BeLYwCW522ctAjEwOC_035fcJf66PRNvzaryBGjXU9Ioj0UJSfAMEjPrG1UaFrja7wj1wlqqIzhRiQXxijKUpvnaoMQyQTDOL88hbAjXF0ZRFyYamQ_fiQl1mDHTr1cFOgeLqceLenHJMvc0fsxMGIYbVjeHFEgl1ESQbAkl2dAliFTNJZW_bsaqd5Q1PwHMp-rxMNU3z3CZLTmG3LOo09SA5OAUvCTqKcVnql9UxRTpnhGxTYbog6YXJBF_lHRMdhzJdLNRNKtsnEd3MSNZpi8TZ3-GGQdlwkYNvh6ZRf6kAVfh8bbjAA1uC_8xRdU"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rgzy6MGPRdpIQdv42Hl_vUJR-RwJOg5UMxZFV3da-XiPWH9Ixsjq8-wFB8hGO4Dzja5fltDW0yzuw-ID96ZXSR-pIfic3QFp3Dxlqn8mkgpqP78jQ50cW9nZCNBz6aaJ7zd_X03WH7BcHF5j6NBpsiyLV-i08vkY_J9WizSR9piYYizOSTI83GkJ_DHhbqJYs_o1iOTKnODkHFNGDCjg_nHu5nDPYKdGpxuWUvL2aRBQRoejEmnAmKBQ52eo7iN0ZFkWt4iOJeIeC4TKfKNJMFImZyaZlQaNvtFsJMuxECPHt8uJYB9iuoUMCrrJg6Blu4e_E6OlryCxN1oZ_bx9xzjC1Hv4",
+            "q": "Python Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgzy6MGPRdpIQdv42Hl_vUJR-RwJOg5UMxZFV3da-XiPWH9Ixsjq8-wFB8hGO4Dzja5fltDW0yzuw-ID96ZXSR-pIfic3QFp3Dxlqn8mkgpqP78jQ50cW9nZCNBz6aaJ7zd_X03WH7BcHF5j6NBpsiyLV-i08vkY_J9WizSR9piYYizOSTI83GkJ_DHhbqJYs_o1iOTKnODkHFNGDCjg_nHu5nDPYKdGpxuWUvL2aRBQRoejEmnAmKBQ52eo7iN0ZFkWt4iOJeIeC4TKfKNJMFImZyaZlQaNvtFsJMuxECPHt8uJYB9iuoUMCrrJg6Blu4e_E6OlryCxN1oZ_bx9xzjC1Hv4&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgzy6MGPRdpIQdv42Hl_vUJR-RwJOg5UMxZFV3da-XiPWH9Ixsjq8-wFB8hGO4Dzja5fltDW0yzuw-ID96ZXSR-pIfic3QFp3Dxlqn8mkgpqP78jQ50cW9nZCNBz6aaJ7zd_X03WH7BcHF5j6NBpsiyLV-i08vkY_J9WizSR9piYYizOSTI83GkJ_DHhbqJYs_o1iOTKnODkHFNGDCjg_nHu5nDPYKdGpxuWUvL2aRBQRoejEmnAmKBQ52eo7iN0ZFkWt4iOJeIeC4TKfKNJMFImZyaZlQaNvtFsJMuxECPHt8uJYB9iuoUMCrrJg6Blu4e_E6OlryCxN1oZ_bx9xzjC1Hv4"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9ciuA3thqJoqtn6LODamrJbIcpve7s-XKiiHOnLOaQk5tsXj4gUhbvm45PatefrBNjyhZqj4dGfugC7EnfhSA1R67ipzk36GFCQ2qrotNE_F_QdFVpPKRN9yZEYhsMmD6l10vDZrzLBsrWvAhGjlIeicYQ-_eKk1h2lx7Ik5zp_NbSUsTQ6FPNkKAnnnsZJp0c6nqqkTtTx0Tzq8D8aKfqtcahVYsl397Was6xFdySvDfF5u8wxfzNkAs55f2TrBFoelaYrS7ue5sj3SBe-HRfmbhlKpHI2chtuP6_GX2er7Ugc9NDzNRZVt6vgQP5_2o-PsbdeQ",
+            "q": "Python Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9ciuA3thqJoqtn6LODamrJbIcpve7s-XKiiHOnLOaQk5tsXj4gUhbvm45PatefrBNjyhZqj4dGfugC7EnfhSA1R67ipzk36GFCQ2qrotNE_F_QdFVpPKRN9yZEYhsMmD6l10vDZrzLBsrWvAhGjlIeicYQ-_eKk1h2lx7Ik5zp_NbSUsTQ6FPNkKAnnnsZJp0c6nqqkTtTx0Tzq8D8aKfqtcahVYsl397Was6xFdySvDfF5u8wxfzNkAs55f2TrBFoelaYrS7ue5sj3SBe-HRfmbhlKpHI2chtuP6_GX2er7Ugc9NDzNRZVt6vgQP5_2o-PsbdeQ&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9ciuA3thqJoqtn6LODamrJbIcpve7s-XKiiHOnLOaQk5tsXj4gUhbvm45PatefrBNjyhZqj4dGfugC7EnfhSA1R67ipzk36GFCQ2qrotNE_F_QdFVpPKRN9yZEYhsMmD6l10vDZrzLBsrWvAhGjlIeicYQ-_eKk1h2lx7Ik5zp_NbSUsTQ6FPNkKAnnnsZJp0c6nqqkTtTx0Tzq8D8aKfqtcahVYsl397Was6xFdySvDfF5u8wxfzNkAs55f2TrBFoelaYrS7ue5sj3SBe-HRfmbhlKpHI2chtuP6_GX2er7Ugc9NDzNRZVt6vgQP5_2o-PsbdeQ"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rd7B-02-53Pp81Y9h09RwrPcrmiTM6fOj2RWPZcL8IwrAUvsr4srnT-Pn-0VdcZBG1dDCgp8z7fMlcugBUn-O3qmX3xVkD00dyGEhL9xssOJ1FflyQmdAn0INq-5pmo3TZ-KU7bRQXPfsEYC8oRuZ8EjHNm5JzDXlkHD15ShQhoTYO2ZbAjoiAxWNCRaycfRDyFAkPqEx6TvORMM2YGUAGwbzZGGqoUOXQJZMLbYGRnglvNWbkLXsC--Zn2tsC19thSLFgOrnY_DYJmCGiBUGAkL1UkMzS7tc_wfeT0yAJhKfodlUKeoLzAjeMQluG8Xe0SZqRZ6NSuYkUHP6o3Y1hQjabbU",
+            "q": "Python Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rd7B-02-53Pp81Y9h09RwrPcrmiTM6fOj2RWPZcL8IwrAUvsr4srnT-Pn-0VdcZBG1dDCgp8z7fMlcugBUn-O3qmX3xVkD00dyGEhL9xssOJ1FflyQmdAn0INq-5pmo3TZ-KU7bRQXPfsEYC8oRuZ8EjHNm5JzDXlkHD15ShQhoTYO2ZbAjoiAxWNCRaycfRDyFAkPqEx6TvORMM2YGUAGwbzZGGqoUOXQJZMLbYGRnglvNWbkLXsC--Zn2tsC19thSLFgOrnY_DYJmCGiBUGAkL1UkMzS7tc_wfeT0yAJhKfodlUKeoLzAjeMQluG8Xe0SZqRZ6NSuYkUHP6o3Y1hQjabbU&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rd7B-02-53Pp81Y9h09RwrPcrmiTM6fOj2RWPZcL8IwrAUvsr4srnT-Pn-0VdcZBG1dDCgp8z7fMlcugBUn-O3qmX3xVkD00dyGEhL9xssOJ1FflyQmdAn0INq-5pmo3TZ-KU7bRQXPfsEYC8oRuZ8EjHNm5JzDXlkHD15ShQhoTYO2ZbAjoiAxWNCRaycfRDyFAkPqEx6TvORMM2YGUAGwbzZGGqoUOXQJZMLbYGRnglvNWbkLXsC--Zn2tsC19thSLFgOrnY_DYJmCGiBUGAkL1UkMzS7tc_wfeT0yAJhKfodlUKeoLzAjeMQluG8Xe0SZqRZ6NSuYkUHP6o3Y1hQjabbU"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK9M6AbP7BeLYwCW522ctAjEwOC_035fcJf66PRNvzaryBGjXU9Ioj0UJSfAMEjPrG1UaFrja7wj1wlqqIzhRiQXxijKUpvnaoMQyQTDOL88hbAjXF0ZRFyYamQ_fiQl1mDHTr1cFOgeLqceLenHJMvc0fsxMGIYbVjeHFEgl1ESQbAkl2dAliFTNJZW_bsaqd5Q1PwHMp-rxMNU3z3CZLTmG3LOo09SA5OAUvCTqKcVnql9UxRTpnhGxTYbog6YXJBF_lHRMdhzJdLNRNKtsnEd3MSNZpi8TZ3-GGQdlwkYNvh6ZRf6kAVfh8bbjAA1uC_8xRdU",
+            "q": "Python Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK9M6AbP7BeLYwCW522ctAjEwOC_035fcJf66PRNvzaryBGjXU9Ioj0UJSfAMEjPrG1UaFrja7wj1wlqqIzhRiQXxijKUpvnaoMQyQTDOL88hbAjXF0ZRFyYamQ_fiQl1mDHTr1cFOgeLqceLenHJMvc0fsxMGIYbVjeHFEgl1ESQbAkl2dAliFTNJZW_bsaqd5Q1PwHMp-rxMNU3z3CZLTmG3LOo09SA5OAUvCTqKcVnql9UxRTpnhGxTYbog6YXJBF_lHRMdhzJdLNRNKtsnEd3MSNZpi8TZ3-GGQdlwkYNvh6ZRf6kAVfh8bbjAA1uC_8xRdU&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK9M6AbP7BeLYwCW522ctAjEwOC_035fcJf66PRNvzaryBGjXU9Ioj0UJSfAMEjPrG1UaFrja7wj1wlqqIzhRiQXxijKUpvnaoMQyQTDOL88hbAjXF0ZRFyYamQ_fiQl1mDHTr1cFOgeLqceLenHJMvc0fsxMGIYbVjeHFEgl1ESQbAkl2dAliFTNJZW_bsaqd5Q1PwHMp-rxMNU3z3CZLTmG3LOo09SA5OAUvCTqKcVnql9UxRTpnhGxTYbog6YXJBF_lHRMdhzJdLNRNKtsnEd3MSNZpi8TZ3-GGQdlwkYNvh6ZRf6kAVfh8bbjAA1uC_8xRdU"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rgzy6MGPRdpIQdv42Hl_vUJR-RwJOg5UMxZFV3da-XiPWH9Ixsjq8-wFB8hGO4Dzja5fltDW0yzuw-ID96ZXSR-pIfic3QFp3Dxlqn8mkgpqP78jQ50cW9nZCNBz6aaJ7zd_X03WH7BcHF5j6NBpsiyLV-i08vkY_J9WizSR9piYYizOSTI83GkJ_DHhbqJYs_o1iOTKnODkHFNGDCjg_nHu5nDPYKdGpxuWUvL2aRBQRoejEmnAmKBQ52eo7iN0ZFkWt4iOJeIeC4TKfKNJMFImZyaZlQaNvtFsJMuxECPHt8uJYB9iuoUMCrrJg6Blu4e_E6OlryCxN1oZ_bx9xzjC1Hv4",
+            "q": "Python Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgzy6MGPRdpIQdv42Hl_vUJR-RwJOg5UMxZFV3da-XiPWH9Ixsjq8-wFB8hGO4Dzja5fltDW0yzuw-ID96ZXSR-pIfic3QFp3Dxlqn8mkgpqP78jQ50cW9nZCNBz6aaJ7zd_X03WH7BcHF5j6NBpsiyLV-i08vkY_J9WizSR9piYYizOSTI83GkJ_DHhbqJYs_o1iOTKnODkHFNGDCjg_nHu5nDPYKdGpxuWUvL2aRBQRoejEmnAmKBQ52eo7iN0ZFkWt4iOJeIeC4TKfKNJMFImZyaZlQaNvtFsJMuxECPHt8uJYB9iuoUMCrrJg6Blu4e_E6OlryCxN1oZ_bx9xzjC1Hv4&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgzy6MGPRdpIQdv42Hl_vUJR-RwJOg5UMxZFV3da-XiPWH9Ixsjq8-wFB8hGO4Dzja5fltDW0yzuw-ID96ZXSR-pIfic3QFp3Dxlqn8mkgpqP78jQ50cW9nZCNBz6aaJ7zd_X03WH7BcHF5j6NBpsiyLV-i08vkY_J9WizSR9piYYizOSTI83GkJ_DHhbqJYs_o1iOTKnODkHFNGDCjg_nHu5nDPYKdGpxuWUvL2aRBQRoejEmnAmKBQ52eo7iN0ZFkWt4iOJeIeC4TKfKNJMFImZyaZlQaNvtFsJMuxECPHt8uJYB9iuoUMCrrJg6Blu4e_E6OlryCxN1oZ_bx9xzjC1Hv4"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9ciuA3thqJoqtn6LODamrJbIcpve7s-XKiiHOnLOaQk5tsXj4gUhbvm45PatefrBNjyhZqj4dGfugC7EnfhSA1R67ipzk36GFCQ2qrotNE_F_QdFVpPKRN9yZEYhsMmD6l10vDZrzLBsrWvAhGjlIeicYQ-_eKk1h2lx7Ik5zp_NbSUsTQ6FPNkKAnnnsZJp0c6nqqkTtTx0Tzq8D8aKfqtcahVYsl397Was6xFdySvDfF5u8wxfzNkAs55f2TrBFoelaYrS7ue5sj3SBe-HRfmbhlKpHI2chtuP6_GX2er7Ugc9NDzNRZVt6vgQP5_2o-PsbdeQ",
+            "q": "Python Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9ciuA3thqJoqtn6LODamrJbIcpve7s-XKiiHOnLOaQk5tsXj4gUhbvm45PatefrBNjyhZqj4dGfugC7EnfhSA1R67ipzk36GFCQ2qrotNE_F_QdFVpPKRN9yZEYhsMmD6l10vDZrzLBsrWvAhGjlIeicYQ-_eKk1h2lx7Ik5zp_NbSUsTQ6FPNkKAnnnsZJp0c6nqqkTtTx0Tzq8D8aKfqtcahVYsl397Was6xFdySvDfF5u8wxfzNkAs55f2TrBFoelaYrS7ue5sj3SBe-HRfmbhlKpHI2chtuP6_GX2er7Ugc9NDzNRZVt6vgQP5_2o-PsbdeQ&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9ciuA3thqJoqtn6LODamrJbIcpve7s-XKiiHOnLOaQk5tsXj4gUhbvm45PatefrBNjyhZqj4dGfugC7EnfhSA1R67ipzk36GFCQ2qrotNE_F_QdFVpPKRN9yZEYhsMmD6l10vDZrzLBsrWvAhGjlIeicYQ-_eKk1h2lx7Ik5zp_NbSUsTQ6FPNkKAnnnsZJp0c6nqqkTtTx0Tzq8D8aKfqtcahVYsl397Was6xFdySvDfF5u8wxfzNkAs55f2TrBFoelaYrS7ue5sj3SBe-HRfmbhlKpHI2chtuP6_GX2er7Ugc9NDzNRZVt6vgQP5_2o-PsbdeQ"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rd7B-02-53Pp81Y9h09RwrPcrmiTM6fOj2RWPZcL8IwrAUvsr4srnT-Pn-0VdcZBG1dDCgp8z7fMlcugBUn-O3qmX3xVkD00dyGEhL9xssOJ1FflyQmdAn0INq-5pmo3TZ-KU7bRQXPfsEYC8oRuZ8EjHNm5JzDXlkHD15ShQhoTYO2ZbAjoiAxWNCRaycfRDyFAkPqEx6TvORMM2YGUAGwbzZGGqoUOXQJZMLbYGRnglvNWbkLXsC--Zn2tsC19thSLFgOrnY_DYJmCGiBUGAkL1UkMzS7tc_wfeT0yAJhKfodlUKeoLzAjeMQluG8Xe0SZqRZ6NSuYkUHP6o3Y1hQjabbU",
+            "q": "Python Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rd7B-02-53Pp81Y9h09RwrPcrmiTM6fOj2RWPZcL8IwrAUvsr4srnT-Pn-0VdcZBG1dDCgp8z7fMlcugBUn-O3qmX3xVkD00dyGEhL9xssOJ1FflyQmdAn0INq-5pmo3TZ-KU7bRQXPfsEYC8oRuZ8EjHNm5JzDXlkHD15ShQhoTYO2ZbAjoiAxWNCRaycfRDyFAkPqEx6TvORMM2YGUAGwbzZGGqoUOXQJZMLbYGRnglvNWbkLXsC--Zn2tsC19thSLFgOrnY_DYJmCGiBUGAkL1UkMzS7tc_wfeT0yAJhKfodlUKeoLzAjeMQluG8Xe0SZqRZ6NSuYkUHP6o3Y1hQjabbU&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rd7B-02-53Pp81Y9h09RwrPcrmiTM6fOj2RWPZcL8IwrAUvsr4srnT-Pn-0VdcZBG1dDCgp8z7fMlcugBUn-O3qmX3xVkD00dyGEhL9xssOJ1FflyQmdAn0INq-5pmo3TZ-KU7bRQXPfsEYC8oRuZ8EjHNm5JzDXlkHD15ShQhoTYO2ZbAjoiAxWNCRaycfRDyFAkPqEx6TvORMM2YGUAGwbzZGGqoUOXQJZMLbYGRnglvNWbkLXsC--Zn2tsC19thSLFgOrnY_DYJmCGiBUGAkL1UkMzS7tc_wfeT0yAJhKfodlUKeoLzAjeMQluG8Xe0SZqRZ6NSuYkUHP6o3Y1hQjabbU"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vWDj4NJUriV-RwKgvI1x0O4XKktjryftu-ZqYwaQZq-moX2JocKCb6fe0x43g6OALo6-GJoAa7T_Qkj_-fCyEFsHH3kbOh6cBqdlJSGNMmm1ISEzVeoeiJNu1DQkWgk1J-mJqi5Z1t1H0cPywSqYmlwTmNCscq2LFgX7AE7vL_lD4S4NO203RjV50ngT85kIRsyGn5S8jpmfZ6Sb6Hl_WZIufXcs08gcJ5yQc7EvR6fhtLw3I6s7m7wO4jfNB0sA7o_mjedDIpHPHdMJoL5rtJWQKq0PFesM1Q49HIvYadHM5Xiztw",
+            "q": "Python Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vWDj4NJUriV-RwKgvI1x0O4XKktjryftu-ZqYwaQZq-moX2JocKCb6fe0x43g6OALo6-GJoAa7T_Qkj_-fCyEFsHH3kbOh6cBqdlJSGNMmm1ISEzVeoeiJNu1DQkWgk1J-mJqi5Z1t1H0cPywSqYmlwTmNCscq2LFgX7AE7vL_lD4S4NO203RjV50ngT85kIRsyGn5S8jpmfZ6Sb6Hl_WZIufXcs08gcJ5yQc7EvR6fhtLw3I6s7m7wO4jfNB0sA7o_mjedDIpHPHdMJoL5rtJWQKq0PFesM1Q49HIvYadHM5Xiztw&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vWDj4NJUriV-RwKgvI1x0O4XKktjryftu-ZqYwaQZq-moX2JocKCb6fe0x43g6OALo6-GJoAa7T_Qkj_-fCyEFsHH3kbOh6cBqdlJSGNMmm1ISEzVeoeiJNu1DQkWgk1J-mJqi5Z1t1H0cPywSqYmlwTmNCscq2LFgX7AE7vL_lD4S4NO203RjV50ngT85kIRsyGn5S8jpmfZ6Sb6Hl_WZIufXcs08gcJ5yQc7EvR6fhtLw3I6s7m7wO4jfNB0sA7o_mjedDIpHPHdMJoL5rtJWQKq0PFesM1Q49HIvYadHM5Xiztw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vWDj4NJUriV-RwKgvI1x0O5xrLL1Kr3guPcyMLEJ_TmIEuTiWxqy_CmtEUMvzGwKj7gBAcjiTIAUX127CxvVp0913wozapc8tnq144QJqWhxvROrQBfAnGRNuE3YtrglWDiaNp_0OpULVjIJl4o7AIOtrXo4qqc6oJ7mhR7TFQV-kC3tBunUeq1WqNxGQQnTYp6mwmksai2FTTJ8P8vdxzlJxh7hFa8N9D0GBO3It1iw4992iVxHve0FUsfzcnKTOAV_CF0mntOqzpi1oHrnnZddPnhM9WVGqvjiLEScrlJ_tmxZpA",
+            "q": "Python Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vWDj4NJUriV-RwKgvI1x0O5xrLL1Kr3guPcyMLEJ_TmIEuTiWxqy_CmtEUMvzGwKj7gBAcjiTIAUX127CxvVp0913wozapc8tnq144QJqWhxvROrQBfAnGRNuE3YtrglWDiaNp_0OpULVjIJl4o7AIOtrXo4qqc6oJ7mhR7TFQV-kC3tBunUeq1WqNxGQQnTYp6mwmksai2FTTJ8P8vdxzlJxh7hFa8N9D0GBO3It1iw4992iVxHve0FUsfzcnKTOAV_CF0mntOqzpi1oHrnnZddPnhM9WVGqvjiLEScrlJ_tmxZpA&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vWDj4NJUriV-RwKgvI1x0O5xrLL1Kr3guPcyMLEJ_TmIEuTiWxqy_CmtEUMvzGwKj7gBAcjiTIAUX127CxvVp0913wozapc8tnq144QJqWhxvROrQBfAnGRNuE3YtrglWDiaNp_0OpULVjIJl4o7AIOtrXo4qqc6oJ7mhR7TFQV-kC3tBunUeq1WqNxGQQnTYp6mwmksai2FTTJ8P8vdxzlJxh7hFa8N9D0GBO3It1iw4992iVxHve0FUsfzcnKTOAV_CF0mntOqzpi1oHrnnZddPnhM9WVGqvjiLEScrlJ_tmxZpA"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1U0bIj4ZPxrmeJYGytm7URM-_TGlpcCvCcNUCaG9cBxRygcPIcDwK30STjghIK3MCgLQs0sgVSz28HKwph8m4KO-vWv1KuVkcdSdPR8f8Szsg7htjFPze6Pf2zHn2c-YnXCMjYStHXMV1NrywHUxthxvfHFwuOsfNLTlXljSxl3A5VZVQy3yyu_rPHww9tPwxqYPo-ria3Y7b1-eRxa42ztG2swW_qVjhuqTrAUUUyWHkJ1KuacdHH_qGoVE5Nz7-Xy02gZoHptLTknO5ibNfWD5gNu2oPMD5YIgQvU2kNtSav34DeowsjtPGT2IQoJLRLzyIQ",
+            "q": "Python Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1U0bIj4ZPxrmeJYGytm7URM-_TGlpcCvCcNUCaG9cBxRygcPIcDwK30STjghIK3MCgLQs0sgVSz28HKwph8m4KO-vWv1KuVkcdSdPR8f8Szsg7htjFPze6Pf2zHn2c-YnXCMjYStHXMV1NrywHUxthxvfHFwuOsfNLTlXljSxl3A5VZVQy3yyu_rPHww9tPwxqYPo-ria3Y7b1-eRxa42ztG2swW_qVjhuqTrAUUUyWHkJ1KuacdHH_qGoVE5Nz7-Xy02gZoHptLTknO5ibNfWD5gNu2oPMD5YIgQvU2kNtSav34DeowsjtPGT2IQoJLRLzyIQ&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1U0bIj4ZPxrmeJYGytm7URM-_TGlpcCvCcNUCaG9cBxRygcPIcDwK30STjghIK3MCgLQs0sgVSz28HKwph8m4KO-vWv1KuVkcdSdPR8f8Szsg7htjFPze6Pf2zHn2c-YnXCMjYStHXMV1NrywHUxthxvfHFwuOsfNLTlXljSxl3A5VZVQy3yyu_rPHww9tPwxqYPo-ria3Y7b1-eRxa42ztG2swW_qVjhuqTrAUUUyWHkJ1KuacdHH_qGoVE5Nz7-Xy02gZoHptLTknO5ibNfWD5gNu2oPMD5YIgQvU2kNtSav34DeowsjtPGT2IQoJLRLzyIQ"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rH4Cgbi6AM6XmBHRh-mJh-kMPyvh0Ont_iBMoBBDV8LlvqX70ayBC2moyGxlxBjPVJT3vXIIj1fh-Fg8GHQiLuoANz4nCpVZQ9_y5VE9AfkBgPD-TbZAeCaaJFIFQNZJ9PNb1Q5LQU_9RzlHAyuN8eJIMteIli5dDzyxffizW-seOiinaWWIU4OueyvrfVWrowhNslgNaUVrGC0hUJrAjacUGmQATgg8h4VRecwrzZFZnYQINjVJKMnb4COqvRCCDDulJwnwlSw3yrUWuE-liP0rPfeHmRszXGDpTEUgJdaPw8W4MkruwQ-72XI8bnLb9_1un4g",
+            "q": "Python Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rH4Cgbi6AM6XmBHRh-mJh-kMPyvh0Ont_iBMoBBDV8LlvqX70ayBC2moyGxlxBjPVJT3vXIIj1fh-Fg8GHQiLuoANz4nCpVZQ9_y5VE9AfkBgPD-TbZAeCaaJFIFQNZJ9PNb1Q5LQU_9RzlHAyuN8eJIMteIli5dDzyxffizW-seOiinaWWIU4OueyvrfVWrowhNslgNaUVrGC0hUJrAjacUGmQATgg8h4VRecwrzZFZnYQINjVJKMnb4COqvRCCDDulJwnwlSw3yrUWuE-liP0rPfeHmRszXGDpTEUgJdaPw8W4MkruwQ-72XI8bnLb9_1un4g&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rH4Cgbi6AM6XmBHRh-mJh-kMPyvh0Ont_iBMoBBDV8LlvqX70ayBC2moyGxlxBjPVJT3vXIIj1fh-Fg8GHQiLuoANz4nCpVZQ9_y5VE9AfkBgPD-TbZAeCaaJFIFQNZJ9PNb1Q5LQU_9RzlHAyuN8eJIMteIli5dDzyxffizW-seOiinaWWIU4OueyvrfVWrowhNslgNaUVrGC0hUJrAjacUGmQATgg8h4VRecwrzZFZnYQINjVJKMnb4COqvRCCDDulJwnwlSw3yrUWuE-liP0rPfeHmRszXGDpTEUgJdaPw8W4MkruwQ-72XI8bnLb9_1un4g"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vWDj4NJUriV-RwKgvI1x0O4XKktjryftu-ZqYwaQZq-moX2JocKCb6fe0x43g6OALo6-GJoAa7T_Qkj_-fCyEFsHH3kbOh6cBqdlJSGNMmm1ISEzVeoeiJNu1DQkWgk1J-mJqi5Z1t1H0cPywSqYmlwTmNCscq2LFgX7AE7vL_lD4S4NO203RjV50ngT85kIRsyGn5S8jpmfZ6Sb6Hl_WZIufXcs08gcJ5yQc7EvR6fhtLw3I6s7m7wO4jfNB0sA7o_mjedDIpHPHdMJoL5rtJWQKq0PFesM1Q49HIvYadHM5Xiztw",
+            "q": "Python Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vWDj4NJUriV-RwKgvI1x0O4XKktjryftu-ZqYwaQZq-moX2JocKCb6fe0x43g6OALo6-GJoAa7T_Qkj_-fCyEFsHH3kbOh6cBqdlJSGNMmm1ISEzVeoeiJNu1DQkWgk1J-mJqi5Z1t1H0cPywSqYmlwTmNCscq2LFgX7AE7vL_lD4S4NO203RjV50ngT85kIRsyGn5S8jpmfZ6Sb6Hl_WZIufXcs08gcJ5yQc7EvR6fhtLw3I6s7m7wO4jfNB0sA7o_mjedDIpHPHdMJoL5rtJWQKq0PFesM1Q49HIvYadHM5Xiztw&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vWDj4NJUriV-RwKgvI1x0O4XKktjryftu-ZqYwaQZq-moX2JocKCb6fe0x43g6OALo6-GJoAa7T_Qkj_-fCyEFsHH3kbOh6cBqdlJSGNMmm1ISEzVeoeiJNu1DQkWgk1J-mJqi5Z1t1H0cPywSqYmlwTmNCscq2LFgX7AE7vL_lD4S4NO203RjV50ngT85kIRsyGn5S8jpmfZ6Sb6Hl_WZIufXcs08gcJ5yQc7EvR6fhtLw3I6s7m7wO4jfNB0sA7o_mjedDIpHPHdMJoL5rtJWQKq0PFesM1Q49HIvYadHM5Xiztw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vWDj4NJUriV-RwKgvI1x0O5xrLL1Kr3guPcyMLEJ_TmIEuTiWxqy_CmtEUMvzGwKj7gBAcjiTIAUX127CxvVp0913wozapc8tnq144QJqWhxvROrQBfAnGRNuE3YtrglWDiaNp_0OpULVjIJl4o7AIOtrXo4qqc6oJ7mhR7TFQV-kC3tBunUeq1WqNxGQQnTYp6mwmksai2FTTJ8P8vdxzlJxh7hFa8N9D0GBO3It1iw4992iVxHve0FUsfzcnKTOAV_CF0mntOqzpi1oHrnnZddPnhM9WVGqvjiLEScrlJ_tmxZpA",
+            "q": "Python Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vWDj4NJUriV-RwKgvI1x0O5xrLL1Kr3guPcyMLEJ_TmIEuTiWxqy_CmtEUMvzGwKj7gBAcjiTIAUX127CxvVp0913wozapc8tnq144QJqWhxvROrQBfAnGRNuE3YtrglWDiaNp_0OpULVjIJl4o7AIOtrXo4qqc6oJ7mhR7TFQV-kC3tBunUeq1WqNxGQQnTYp6mwmksai2FTTJ8P8vdxzlJxh7hFa8N9D0GBO3It1iw4992iVxHve0FUsfzcnKTOAV_CF0mntOqzpi1oHrnnZddPnhM9WVGqvjiLEScrlJ_tmxZpA&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vWDj4NJUriV-RwKgvI1x0O5xrLL1Kr3guPcyMLEJ_TmIEuTiWxqy_CmtEUMvzGwKj7gBAcjiTIAUX127CxvVp0913wozapc8tnq144QJqWhxvROrQBfAnGRNuE3YtrglWDiaNp_0OpULVjIJl4o7AIOtrXo4qqc6oJ7mhR7TFQV-kC3tBunUeq1WqNxGQQnTYp6mwmksai2FTTJ8P8vdxzlJxh7hFa8N9D0GBO3It1iw4992iVxHve0FUsfzcnKTOAV_CF0mntOqzpi1oHrnnZddPnhM9WVGqvjiLEScrlJ_tmxZpA"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1U0bIj4ZPxrmeJYGytm7URM-_TGlpcCvCcNUCaG9cBxRygcPIcDwK30STjghIK3MCgLQs0sgVSz28HKwph8m4KO-vWv1KuVkcdSdPR8f8Szsg7htjFPze6Pf2zHn2c-YnXCMjYStHXMV1NrywHUxthxvfHFwuOsfNLTlXljSxl3A5VZVQy3yyu_rPHww9tPwxqYPo-ria3Y7b1-eRxa42ztG2swW_qVjhuqTrAUUUyWHkJ1KuacdHH_qGoVE5Nz7-Xy02gZoHptLTknO5ibNfWD5gNu2oPMD5YIgQvU2kNtSav34DeowsjtPGT2IQoJLRLzyIQ",
+            "q": "Python Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1U0bIj4ZPxrmeJYGytm7URM-_TGlpcCvCcNUCaG9cBxRygcPIcDwK30STjghIK3MCgLQs0sgVSz28HKwph8m4KO-vWv1KuVkcdSdPR8f8Szsg7htjFPze6Pf2zHn2c-YnXCMjYStHXMV1NrywHUxthxvfHFwuOsfNLTlXljSxl3A5VZVQy3yyu_rPHww9tPwxqYPo-ria3Y7b1-eRxa42ztG2swW_qVjhuqTrAUUUyWHkJ1KuacdHH_qGoVE5Nz7-Xy02gZoHptLTknO5ibNfWD5gNu2oPMD5YIgQvU2kNtSav34DeowsjtPGT2IQoJLRLzyIQ&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1U0bIj4ZPxrmeJYGytm7URM-_TGlpcCvCcNUCaG9cBxRygcPIcDwK30STjghIK3MCgLQs0sgVSz28HKwph8m4KO-vWv1KuVkcdSdPR8f8Szsg7htjFPze6Pf2zHn2c-YnXCMjYStHXMV1NrywHUxthxvfHFwuOsfNLTlXljSxl3A5VZVQy3yyu_rPHww9tPwxqYPo-ria3Y7b1-eRxa42ztG2swW_qVjhuqTrAUUUyWHkJ1KuacdHH_qGoVE5Nz7-Xy02gZoHptLTknO5ibNfWD5gNu2oPMD5YIgQvU2kNtSav34DeowsjtPGT2IQoJLRLzyIQ"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rH4Cgbi6AM6XmBHRh-mJh-kMPyvh0Ont_iBMoBBDV8LlvqX70ayBC2moyGxlxBjPVJT3vXIIj1fh-Fg8GHQiLuoANz4nCpVZQ9_y5VE9AfkBgPD-TbZAeCaaJFIFQNZJ9PNb1Q5LQU_9RzlHAyuN8eJIMteIli5dDzyxffizW-seOiinaWWIU4OueyvrfVWrowhNslgNaUVrGC0hUJrAjacUGmQATgg8h4VRecwrzZFZnYQINjVJKMnb4COqvRCCDDulJwnwlSw3yrUWuE-liP0rPfeHmRszXGDpTEUgJdaPw8W4MkruwQ-72XI8bnLb9_1un4g",
+            "q": "Python Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&hl=en&gl=in&sxsrf=APpeQnsaFaEys9EVJyykZRHxkbqO9q677Q:1791401184540&q=Python+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rH4Cgbi6AM6XmBHRh-mJh-kMPyvh0Ont_iBMoBBDV8LlvqX70ayBC2moyGxlxBjPVJT3vXIIj1fh-Fg8GHQiLuoANz4nCpVZQ9_y5VE9AfkBgPD-TbZAeCaaJFIFQNZJ9PNb1Q5LQU_9RzlHAyuN8eJIMteIli5dDzyxffizW-seOiinaWWIU4OueyvrfVWrowhNslgNaUVrGC0hUJrAjacUGmQATgg8h4VRecwrzZFZnYQINjVJKMnb4COqvRCCDDulJwnwlSw3yrUWuE-liP0rPfeHmRszXGDpTEUgJdaPw8W4MkruwQ-72XI8bnLb9_1un4g&udm=8&sa=X&ved=2ahUKEwj1sIS60aiXAxWoklYBHQ7sI6QQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rH4Cgbi6AM6XmBHRh-mJh-kMPyvh0Ont_iBMoBBDV8LlvqX70ayBC2moyGxlxBjPVJT3vXIIj1fh-Fg8GHQiLuoANz4nCpVZQ9_y5VE9AfkBgPD-TbZAeCaaJFIFQNZJ9PNb1Q5LQU_9RzlHAyuN8eJIMteIli5dDzyxffizW-seOiinaWWIU4OueyvrfVWrowhNslgNaUVrGC0hUJrAjacUGmQATgg8h4VRecwrzZFZnYQINjVJKMnb4COqvRCCDDulJwnwlSw3yrUWuE-liP0rPfeHmRszXGDpTEUgJdaPw8W4MkruwQ-72XI8bnLb9_1un4g"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Principal Python Engineer — ML Infrastructure",
+      "company_name": "Alignerr",
+      "location": "Anywhere",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=f_rQsHVWx9d0E6l0AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKupRRIRbLRSEBUVcoMwWcbd1XV2mZ1A7LyDXsJreRJj84sPr_iMin0tno1PGKB-qIsMW7aeiQS-zzecT3Dgi2BW6Yx2QsN9wTW2kAnFOBjALkYbaLxyqikvqyrnUNqsqN6UJt6ryNTGvhpQ_qfJDoVSQKVmvpj1ZWI7gXXwlkkEPMOG2GLopJvCEYVR8YY_QD2uSqwAAAA&shmds=v1_ARwrE23F7U0O6PNJwRfXyfZsgt62rLmK9yMG3_pT34gY1a50fQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=f_rQsHVWx9d0E6l0AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69cd4484c09583358f8e2/images/V7WcdQgvM17-Dhn1vj6R8_MnmB8oad9cAmKgNJeA5Gw.jpeg",
+      "extensions": [
+        "2 days ago",
+        "$50–$75 an hour",
+        "Work from home",
+        "Contractor"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/principal-python-engineer-%E2%80%94-ml-infrastructure-at-alignerr-4476126118",
+      "job_title": "Principal Python Engineer — ML Infrastructure",
+      "description": "Principal Python Engineer — ML Infrastructure (AI Training)\n\nAbout The Role\n\nWhat if your Python expertise could directly shape the infrastructure that powers the most advanced AI systems in the world? We're looking for a Principal Python Engineer in Bangalore to design and build the data pipelines, annotation tooling, and evaluation systems that leading AI labs depend on — real production work with real impact at scale.\n\nThis is a fully remote, flexible contract role for a seasoned engineer who thrives in high-performance, distributed environments and wants to work on problems that genuinely matter.\n\nOrganization: AlignerrType: Hourly ContractLocation: RemoteCommitment: 20–40 hours/week\n\nWhat You'll Do\n\nDesign, build, and optimize high-performance Python systems that power AI data pipelines and evaluation workflowsDevelop full-stack tooling and backend services for large-scale data annotation, validation, and quality controlImprove reliability, performance, and safety across production Python codebasesIdentify bottlenecks and edge cases in data and system behavior — then implement scalable, elegant fixesCollaborate with data, research, and engineering teams to support model training and evaluation workflowsDrive architectural and system design decisions through synchronous technical reviews\n\nWho You Are\n\nFluent English speaker with strong written and verbal communication skillsSenior full-stack developer with a strong systems programming background5+ years of professional experience writing production Python for large-scale infrastructure or platform engineeringDeep expertise in designing distributed computing systems and managing concurrency with advanced asynchronous patternsIntimately familiar with Python internals — GIL limitations, memory profiling, and performance optimization for compute-heavy workloadsAble to drive technical strategy and architectural decisions clearly and confidentlyAvailable to commit 20–40 hours per week\n\nNice to Have\n\nPrior experience with data annotation, data quality, or model evaluation systemsFamiliarity with AI/ML workflows, model training pipelines, or benchmarking infrastructureExperience with distributed systems architecture or internal developer tooling\n\nWhy Join Us\n\nWork directly with leading AI research labs on production systems that shape next-generation modelsFully remote and flexible — structure your work around your life, not the other way aroundFreelance autonomy with the substance of high-impact, technically demanding workCollaborate with top engineers and researchers on problems at the frontier of AI infrastructurePotential for ongoing engagement and expanded scope as projects grow",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/principal-python-engineer-%E2%80%94-ml-infrastructure-at-alignerr-4476126118?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/principal-python-engineer-ml-infrastructure-alignerr--fj-2385689062?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4112-0fe8335d3de0a0de3514f88349721f0b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgUHl0aG9uIEVuZ2luZWVyIOKAlCBNTCBJbmZyYXN0cnVjdHVyZSIsImNvbXBhbnlfbmFtZSI6IkFsaWduZXJyIiwiaHRpZG9jaWQiOiJmX3JRc0hWV3g5ZDBFNmwwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWOU1Vemd3WVd4aE5VWk1iVEF0YW10WGJYUjRPVUZvZDFGbVZHOUdWRlJ1ZFZkaVRqSnlVR0pEYTNKbE4yRmxhSGxGTjNaVlZsRTNOVGhoYlhNMVIyc3lZMDg0UkRSNWRqVTFTSGRMYkhCU1ZWZzJaVmhRTFhWMmNGcDVTMHQzWkUxNE55MVJVazFGVldkVWIxbEtlR014ZWxSRWFHbHVZMFpKZVhCSFkxaDZVRWhCWWtnU0Z6Uktla2RoZGxoQlNVdHBiREp5YjFCcWRHbFFiMUZ2R2lKQlJITnlPV1pTUW1aNmRGWTJWRk5yTkZabE4zUlVhMHhFVm1OR2RuVldlV0puIiwiZmN2IjoiMyIsImZjX2lkIjoiZl9yUXNIVld4OWQwRTZsMEFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Python Developer – Game Engine Scalability Product Engineering · Bengaluru ·",
+      "company_name": "Gridlogic",
+      "location": "Bengaluru, Karnataka",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=fpi7q59D4Vx556yNAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_0WNQWoCQRBFydYjZFXZBpkJQjZmJ8os3AgeQGraoqe0rWqqa4LuvIOHcZ8jeARPEgcENx8en_f_6PY2ymsSVoPVyTsVmNMvJc1kcD9foMEDwUIiC8E6YMKWE_sJVqbbPvizImOJ8HeFGUnE1Fs_wODvtIVCaKGDx3ajGhO9_3TuuUzrupRUxeLoHKqgh1qFWj3WD6kMsSkdGuWETpvJ99exyhI_PxrjbdLIAVheh2NYogk67vEf41lSJ9UAAAA&shmds=v1_ARwrE22hnKAreJSu8zyUiL9vkp7_Si0m13sj8u_X5XWBFK92NQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=fpi7q59D4Vx556yNAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "₹30L–₹42L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobleads.com/in/job/senior-python-developer-game-engine-scalability-product-engineering-bengaluru--bengaluru--e53d12aeb3f0c70eab04f63ed617d86b3",
+      "job_title": "Senior Python Developer – Game Engine Scalability Product Engineering · Bengaluru ·",
+      "description": "Product Engineering · Bengaluru · Fully Remote\n\nImmediate joiners preferred\n\nAbout the Role:\nWe are looking for a highly skilled Senior Python Developer to join our Game Engine Development Team. Your mission will be to scale our game engine’s concurrent capability from 10X to 100X players. You’ll work with asynchronous event-driven architectures and optimize networking, caching, and messaging systems to achieve seamless, high-performance gameplay.\n\nKey Responsibilities:\n\n\nEnhance and optimize the game engine to handle a higher number of concurrent users efficiently.\nWork extensively with the Twisted framework or any asynchronous event-driven framework.\nImplement and improve WebSocket and TCP Socket connection handling for real-time interactions.\nOptimize Redis for caching, Pub/Sub, and RabbitMQ for messaging to ensure stability and low latency.\nImprove data persistence and transaction strategies using MySQL, integrating DBSlayer as the SQL connector.\nIntegrate and optimize HTTP API calls to external systems.\nIdentify and resolve bottlenecks, ensuring high-performance scalability.\nMaintain game engine stability in a high-concurrency environment.\nWork with AWS, including AWS Load Balancers and Auto Scaling, to ensure smooth resource management and optimal performance.\nRequired Skills & Qualifications:\n\n\n5+ years of Python development experience, with a strong focus on backend systems.\nExpertise in Python libraries to fully leverage Python’s capabilities.\nStrong hands-on experience with Twisted or other asynchronous event-driven frameworks (e.g., Asyncio, Tornado, Gevent).\nIn-depth knowledge of WebSockets and TCP Socket communication.\nAdvanced experience with Redis (caching, Pub/Sub) and RabbitMQ.\nProficiency in MySQL with SQL optimization skills, preferably using DBSlayer.\nProven ability to build and optimize large-scale, high-concurrency distributed systems.\nStrong debugging and profiling skills for network-intensive applications.\nSolid understanding of AWS, including AWS Load Balancers and Auto Scaling.\nSelf-motivated, capable of working independently and collaborating within a team.\nMinimum BE/BTech OR MCA / ME / MTechNice to Have:\n\n\nFamiliarity with other message brokers and event-driven architectures.\nExposure to Kubernetes, Docker, and cloud-based scaling solutions.\nWhy Join Us?\n\n\nWork on cutting-edge multiplayer game engine technology.\nCollaborate with a team of talented engineers solving complex scalability challenges.If you are passionate about building high-performance, scalable systems and thrive in real-time networking environments, we’d love to hear from you!\n\nAbout GridlogicGridlogic has emerged as one of India’s rapidly growing groups with operations in 3 countries. Though young, the company is by no means short of expertise. It employs people worldwide and is well respected in India as one of the largest gaming technology companies, known for its aggressive approach, strong values and inspiring business ethics. We are a diversified technology services group with interests in gaming, data management and business transformation, and export high-tech gaming services to global partners.\n\nStarted in the year 2008, Gridlogic has enabled millions of players and technology clients and partners to ride the digital wave in creating value for all stakeholders. The group has been a market leader in producing innovative next generation technology for the regulated & emerging markets. It delivers end-to-end solutions to world leading brands and brought Artificial Intelligence (AI) into skill gaming as innovation.\n\nToday, Gridlogic is one of the most sought after gaming technology service providers across the globe with high profile clients and holds a firm leadership position in the industry. It is also expanding into newer avenues and is emerging as a preferred employer in the industry with its new age people policies.\n\nJoin our teamWe are passionate about all we do – our products, our company, ourmarkets,our industry and everything in between. A shared intense desire to bring the best into theworldand having fun while doing so keeps us close!",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/senior-python-developer-game-engine-scalability-product-engineering-bengaluru--bengaluru--e53d12aeb3f0c70eab04f63ed617d86b3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHl0aG9uIERldmVsb3BlciDigJMgR2FtZSBFbmdpbmUgU2NhbGFiaWxpdHkgUHJvZHVjdCBFbmdpbmVlcmluZyDCtyBCZW5nYWx1cnUgwrciLCJjb21wYW55X25hbWUiOiJHcmlkbG9naWMiLCJodGlkb2NpZCI6ImZwaTdxNTlENFZ4NTU2eU5BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU25oelF6RnZSVFZSV1RSdWNrdEdaMEpOTkhaa1NXRXlMWFJEV0ZGbE5XTjFWRVIxVG5SelpHNVpjV280Wms1d2REQlNkRGRvTTBRd2VrOWhka3BhYkhSYVFYZ3RabUp4WjNjMlFVNWFaREpQY3pOSFkxaFViakppWWtWek1UUTBTMjh3ZFVWWlFXOXNWREJPUkMweFprWndRWEptUW1GMk1tWlFOM1pXVEcwek9XeEZTRWdTRnpSS2VrZGhkbGhCU1V0cGJESnliMUJxZEdsUWIxRnZHaUpCUkhOeU9XWlNhV1J1VEZGck1XSjFXbUZQUVhwcmRrUTVlbUoxWkRJNVdHTjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmcGk3cTU5RDRWeDU1NnlOQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Python Automation Framework Developer (CE57SF RM 4393)",
+      "company_name": "Source-Right",
+      "location": "Bengaluru, Karnataka",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=2A5uFIbPhgDIQo2eAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMOQ7CMBAARZsnUG1BAQgSxCEEVNwFQqDwALREKzvE8Ub2hqPjD3yFF_ESQjOaZib41ILD8SmaLcxL4RwlrXTjMKc7uwxWdCPDBTloLtej8WkD8R6Gg8mgBd_XG658AU_oEg1VtmVWhuozLVL4aRR5b0LlpXomYcJ5xJYu_IiqyP9x9hodFQaFzv1R7xEWVrUbJy5dQt04VVogtbAgq9CUruzADp1FwQx_awlCBrcAAAA&shmds=v1_ARwrE20uqdup0RRzErMGKZf36VnBMVdaZX7jkM4-wn_I084YOg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=2A5uFIbPhgDIQo2eAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69cd4484c09583358f8e2/images/6ynK8MeQpgtkrUFr49WIhVRt-mQZTiq4B1UT37g3yLw.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/python-automation-framework-developer-ce57sf-rm-4393-source-right-bengaluru--fj-2399837266",
+      "job_title": "Python Automation Framework Developer (CE57SF RM 4393)",
+      "description": "Position: Python Automation Framework Developer (CE57SF RM 4393)\n\n\nEducation Required : Bachelor’s/master’s degree in electrical engineering, Computer Engineering, or equivalent\n\n\nAll days work from Office\n\n\nCandidates must have Embedded (Protocol and RTOS) experience. They should not be from Automotive industry\n\n\nMust Have Skills\nKnowledge of all phases of STLC (Test Plan, Test Case Design, Execution, Reporting)Manual Testing (System, Integration, Regression, Sanity, Functional)Experience in test automation frameworks (test stack / robot / AutoIt / NI LabView / Spectron / Pytest)Experience in developing test framework and debugging software in a real-time, embedded, multiprocessor, multi-interface environmentPython programming languageCI/CD using Jenkins and GitWorking knowledge of software development tools (debugger’s, emulators, compilers, etc.).Background in system testing (including drivers like SPI, I2C, UART), RTOS based applications, Linux/Android based applicationsCreative problem-solver capable of testing and reproducing complex software problems and providing solutions to themGood verbal and written communication skills\nCandidate will be responsible for developing test artifacts for production ready software following a defined software development process. The candidate(s) must be capable of analysing specifications, developing test plans, test cases and verifying functionality.\nResponsible for all levels of software testing (System, Integration, and Regression)Knowledge on all phase of STLC – Test Plan, Test case design, Test execution and Test Report generation.Detect and track software defects and inconsistenciesDesign and develop automation framework and scripts in python.\nExperience with Pytest framework would be an advantage.\n\n\nGenerating test reports from continuous integration/Jenkins/GitCollaborate closely with other team members and departmentsApply software engineering and quality principles in software verificationShould work from ADBL location Basic Qualifications Bachelor’s/master’s degree in electrical engineering, Computer Engineering, or equivalent and 3-6 Years of related industry experience.Programming skills – pythonExperience in using any of the industry standard test frameworks – Test Stack/ Robot framework/ Auto It/ NI LabView / Spectron / PytestBackground in system testing (including drivers like SPI, I2C, UART), RTOS based applications, Linux/Android based applications, etc.Working knowledge of software development tools (debugger’s, emulators, compilers, etc.).Experience in developing test framework and debugging software in a real-time, embedded, multiprocessor, multi-interface environment.Creative problem-solver capable of testing and reproducing complex software problems and providing solutions to them.Good verbal and written communication skills.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/python-automation-framework-developer-ce57sf-rm-4393-source-right-bengaluru--fj-2399837266?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/python-automation-framework-developer-ce57sf-rm-4393-at-source-right-4476194182?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/python-automation-framework-developer-ce57sf-rm-4393--bengaluru--e251969840359d5668512017fd797c7e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gQXV0b21hdGlvbiBGcmFtZXdvcmsgRGV2ZWxvcGVyIChDRTU3U0YgUk0gNDM5MykiLCJjb21wYW55X25hbWUiOiJTb3VyY2UtUmlnaHQiLCJodGlkb2NpZCI6IjJBNXVGSWJQaGdESVFvMmVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVERoSFppMHdWVjgxWVhacGVXNTNSRTVCWDJ4RGMybHhXR1ZLYmxFd1JsbEZabXh2VFc5TU0yYzBVWFIzZW5GQ1p6aFJOVUU1WVdoaWNFRnhiakpFWm5RdFJXeG9RbXByWW1aWFZ6UnNOemd5ZEhWR05EQXROWGszYldrd1prNDNOSFZ1WmxKUk1uZGFaalo1TUhvMlRuRjFObGRrVG1aZmNVRmtZa1prVVc1VFdtWlNSbFVTRnpSS2VrZGhkbGhCU1V0cGJESnliMUJxZEdsUWIxRnZHaUpCUkhOeU9XWlNXV0U1TTJaSE1VWldWeTF6YURCT1IwaDVNVkZsY25KNlZIcDMiLCJmY3YiOiIzIiwiZmNfaWQiOiIyQTV1RkliUGhnRElRbzJlQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Python developer willing to work on testing",
+      "company_name": "Infosys Limited",
+      "location": "Bengaluru, Karnataka",
+      "via": "Foundit",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=ILYpC9YdJ1v9L_x7AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWLMQrCQBAAsc0TrLYTRBIRbLQTQUQLfxA2yXo5c7k9bjcm6fyD3_BVvkTTTDHDJJ9ZcryNWrOHip7kOFCE3jpnvQFl6Dk28I9KopP6vt7w4AKEMJb1VE7MxtF8X6sG2WWZiEuNKKot05LbjD0VPGT_SSbkUmOk4FAp32zXQxq8WS7O_s4yClxta5UqsB4O5A26LnYruGD0qNjgDwuVAlivAAAA&shmds=v1_ARwrE20xZDWkKvIzLnyDi2BaGyBwV5w7KVttkMdJm9sBAv-R3Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=ILYpC9YdJ1v9L_x7AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAWCAMAAACi_q9qAAAAYFBMVEX___-VttoQdL2wyOMbdr7T4O-mwd_F1uq90eesxeIAbro-hcT6_P0AcLsfeL5vn89lmc3f6PPm7fbu8_kAarl5pdKOstjM3O0xf8H1-PxPjcdIicagvd4AZbeDrNVak8rwfxevAAABoklEQVQ4jZWUjXakIAyFA4I_oAFEEJQd3_8tFxW7nR5buznH0bmTLyFXGDD1DO8Rq1S3PTxFN_h3wQjt9R_zCFaMvAu4FzLjf4PzwB-ZD9B2HEzyaQTrNTpyxiud640tId2_arFNqbUnyEVyQi8DraLagnbupXFYVBA6e0QmlTzSy4n8lSghC4j4yhpHOkJHs8s2hL1bTSVU0-56RCwLFPsPvS8g04eaWJeTG4CV2SK8VChP7XFfl88zcnoa1NITbOhlmAzybGXpQXAmfwIdvV4jCSGshzHq0FwIevwelOwq2zC1IdvymJy6PKqIAZkz34EBL3CfvpKMrWOuFqHOMEGkKt6DC-s_Ou52zwsyW9Ea8OwVUN6Dnl7vm7Cq3D0wydciq-zxHWgGVzICLb2DAo-yLXIc6lsQXNmwhNalNyYYMYA5z2AUzT0Iy7AXJ8LBovJcUWE8YDORvDXslmdsZQKer8MKWWUPj6JEsFXkjQRkEJROOqe3IkLcBoE4uR_OeT835yp7M_MjT6r902b9-e_hczTilwf1a8j1OecuDHlv-BekZRaxexCGagAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.foundit.in/job/python-developer-willing-to-work-on-testing-infosys-limited-bengaluru-bangalore-69362771",
+      "job_title": "Python developer willing to work on testing",
+      "description": "Key Responsibilities:Develop and maintain automated testing frameworks using PythonDesign develop and execute automated test scripts for web API and backend applicationsPerform Functional Integration System Regression and End to End TestingCollaborate with development QA DevOps and business teams to understand requirements and testing needsBuild reusable automation utilities and testing frameworksAnalyze test results identify defects and support defect resolutionParticipate in Agile ceremonies and contribute to continuous improvement initiativesSupport CI CD pipelines and continuous testing practicesCreate and maintain test documentation reports and automation assetsRequired Technical SkillsStrong hands on experience in Python DevelopmentExpertise in core Python concepts OOP Data Structures and Exception HandlingExperience working withREST APIsJSON XMLSQL DatabasesFile HandlingMultithreading and CollectionsGood understanding of Software Development Life Cycle SDLCTechnical Requirements:Primary skills Technology OpenSystem Python OpenSystemPreferred Skills: Technology->OpenSystem->Python - OpenSystem->Python",
+      "apply_options": [
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/python-developer-willing-to-work-on-testing-infosys-limited-bengaluru-bangalore-69362771?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/python-developer-willing-to-work-on-testing-at-infosys-4474652641?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/149cN7ZB1Vh8VbmzNDbIA_gcmzUNf2rFxDF2O3xBo5uiRiVOGUZu4Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-7044752638419425983?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mployee.me",
+          "link": "https://www.mployee.me/jobs/view/python-developer-willing-to-work-on-testing-in-bangalore-at-infosys--jid--447465166562776/s1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getujobs",
+          "link": "https://www.getujobs.com/job-listing/6033/python-developer-willing-to-work-on-testing/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4112-ff1254be3afe70546e7484b242a14c39?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gZGV2ZWxvcGVyIHdpbGxpbmcgdG8gd29yayBvbiB0ZXN0aW5nIiwiY29tcGFueV9uYW1lIjoiSW5mb3N5cyBMaW1pdGVkIiwiaHRpZG9jaWQiOiJJTFlwQzlZZEoxdjlMX3g3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVNDRTa1V5VlhvelZXeE5XV2RvZWxCU05TMWlkR3RET1VKalFqVjZNRGhzVVhCNlNHZHhTVlZwV1VWNFIzSk5aREZXTkY5UE9UZFZUMnRDUVUxT1J6RlhWaTFyYlRCeFZrMTRkR1ZaWkVGbldsQnJPRzVXT0Mxc1dDMUdlalIzVDFWWE0yNHdOVVZTY2tsb05FeGpjelprYjNsTlZ5MUNVWEJKYUZnemRqSnBlRWx6VGs0U0Z6Uktla2RoZGxoQlNVdHBiREp5YjFCcWRHbFFiMUZ2R2lKQlJITnlPV1pTUm0xcVFtNUlRekV4VkRObVdHWlBURWd6UlV4RVMwSlFkbmgzIiwiZmN2IjoiMyIsImZjX2lkIjoiSUxZcEM5WWRKMXY5TF94N0FBQUFBQT09In0="
+    },
+    {
+      "title": "Python Developer with AWS Cloud Expertise",
+      "company_name": "NTT DATA Global Delivery Services Ltd",
+      "location": "Bengaluru, Karnataka",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=wiEHnqMFpS79zI5sAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOu4rCUBBA2dZP2GpqWRIRbFYs4gMLRRYMWMokDrlXxzvhziTGzn_wh_wWv2Rjc4oDB87g9TWY_93NSYAltcRSU4SbNwfZYQ8LluYEq66X5pXg_XjCWQpQwlg66KO1SMX0PXVmtf6mqSonlRqaL5NSrqkEKqRL-0g_OKrDSDWj0XE8GXVJHarhbJfnsMzyDNYsBXJ_wr6leIc9xdaXpLC1E_gAcwoVchObH9hgDGh4wX_pDBySwwAAAA&shmds=v1_ARwrE206bSOcZMwT_bsxJVqYTXXpoc4QP_NSbIdaqmia-hjupw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=wiEHnqMFpS79zI5sAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69cd4484c09583358f8e2/images/cS2VEejaTzP09h6sF6koLRZvhHXLJuGhFUXSTicWQCM.jpeg",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/python-developer-with-aws-cloud-expertise-ntt-data-global-delivery-services-ltd-bengaluru--techmap_in_1857117928",
+      "job_title": "Python Developer with AWS Cloud Expertise",
+      "description": "Python AWS Developer Req ID: 391539 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Python AWS Developer to join our team in Bangalore, Karnātaka (IN-KA), India (IN).\n\n\nPython AWS Developer Experience: 3–6 years in software development. Strong hands-on experience in Python development. Good experience with AWS cloud services and application deployment. Hands-on experience with MongoDB / NoSQL databases.\n\n\nGood to have knowledge of Kubernetes and containerized applications. Familiarity with CI/CD frameworks and DevOps practices. Working knowledge of PL/SQL and relational databases. Awareness of AI best practices and AI-assisted development.\n\n\nFamiliarity with Incident Management , troubleshooting, and root-cause analysis. Good communication, problem-solving, and collaboration skills. About NTT DATA NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100.\n\n\nWe are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries.\n\n\nWe also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in R&D. Whenever possible, we hire locally to NTT DATA offices or client sites.\n\n\nThis ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs.\n\n\nAt NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, https://us.nttdata.com/en/contact-us .\n\n\nNTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us . This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.\n\n\nNTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here .\n\n\nIf you'd like more information on your EEO rights under the law, please click here .\n\n\nFor Pay\nTransparency information, please click here .\n\n\nExperience Level Senior Level",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/python-developer-with-aws-cloud-expertise-ntt-data-global-delivery-services-ltd-bengaluru--techmap_in_1857117928?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/siemens/job/aws-with-python-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyIHdpdGggQVdTIENsb3VkIEV4cGVydGlzZSIsImNvbXBhbnlfbmFtZSI6Ik5UVCBEQVRBIEdsb2JhbCBEZWxpdmVyeSBTZXJ2aWNlcyBMdGQiLCJodGlkb2NpZCI6IndpRUhucU1GcFM3OXpJNXNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1VOUVprUk5ZVFZXWlRkS1VuVkpUbXhDVmxwd1ZVaFFUMjA0Um5CNlYxQnFWWHBWTFRGdGNGTm9NM1YxTFVsc2VGZENOMjFIYUZGQmVXdEhaVk0xUkhsRGJXcGZTVTl1YWxCWVJubzBWSEkxVDFKT2VucHBkVmRyUzNWTmNXdDZNQzFhVjJoeU5YRmxkREV5UVdabVNrZHpRMkZYVmtOSFVUQmhYMFZ4TjBJMVgySkVUV1lTRnpSS2VrZGhkbGhCU1V0cGJESnliMUJxZEdsUWIxRnZHaUpCUkhOeU9XWlVaalV4Tm1OV2JXVkRlRWxMZEVWVFRHZGpZbk5RVm1adWNWZEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ3aUVIbnFNRnBTNzl6STVzQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Engineer – Python Engineering",
+      "company_name": "Neewee",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=FpmCqP23NVDtypShAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_z2LMQrCQBAAsc0TLGRrkZwINloIglgIIvgA2YTl7vTcDbcbjJ1_sPdxvsRoYTPFDFO8BsXqSBwlw4Z9ZKIM78cTDncLwn8X2f_0WSpQwlwH6OtWxCcaLoNZowvnVFPp1dBiXdZydcJUSef6Sb84acBMTUKj02w-7cqG_Xi0J7oRQWRYE3tMbW4nsMPMaHjBD2ePOIKhAAAA&shmds=v1_ARwrE221PwgQ7g6R_r6oA3YGEySrkyinm_oDvjo-khJdGSf9pQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=FpmCqP23NVDtypShAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69cd4484c09583358f8e2/images/ZeeyNAl2z5akrIIrETSNLaH6_LSfpziUbNN1rmvd9EA.jpeg",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/senior-engineer-%E2%80%93-python-engineering-at-neewee-4472507614",
+      "job_title": "Senior Engineer – Python Engineering",
+      "description": "Senior Engineer II – Python Engineering\n\nLocation: Bangalore\n\nExperience: 6–7 years\n\nFunction: Product Engineering\n\nAbout Neewee & Bodhee\n\nNeewee is an enterprise software product company building Bodhee, a planning and scheduling platform used in complex manufacturing environments, particularly Pharma and Vaccines.\n\nBodhee is built using Python, Java, Angular, PostgreSQL, Kubernetes and cloud technologies. Python forms the core of our scheduling and optimization engine and integrates closely with the broader application platform.\n\nRole\n\nWe are looking for a strong Python engineer who can take technical ownership of our Python-based scheduling platform, remain hands-on, guide a small engineering team and work across the broader application architecture.\n\nThis is primarily a software engineering role — not a Data Science or Research Scientist position.\n\nKey Responsibilities\n\nDesign and develop production-grade Python applications and algorithmic components.Provide hands-on technical guidance to Python engineers.Participate in architecture, design and code reviews.Build scalable, modular and maintainable solutions.Understand end-to-end application impact of changes made in the Python layer.Work closely with Java, QA, Product and Cloud/DevOps teams.Troubleshoot performance, scalability and production issues.Drive good practices around testing, security, CI/CD and SDLC.Communicate technical decisions, risks and trade-offs to senior leadership.What We Are Looking For\n\n6–7 years of software engineering experience.Strong hands-on expertise in Python 3.x.Strong understanding of:Object-oriented design and software design principlesData structures and algorithmsREST APIs and service integrationUnit/integration testing, preferably PyTestDebugging, profiling and performance optimizationConcurrent / asynchronous processingPostgreSQL or similar relational databasesGood understanding of microservices, Docker, Kubernetes and cloud-native applications.Experience with GCP, AWS or Azure. Exposure to Cloud Run Jobs, Kubernetes Jobs, AWS Batch or similar job-processing platforms is desirable.Ability to understand Java–Python integration and broader enterprise application architecture.Comfortable guiding engineers while continuing to remain hands-on.Strong communication skills and ability to work with CXO/senior leadership.Comfortable working in a fast-moving product/start-up environment.Scheduling / Optimization Exposure\n\nBodhee solves complex production scheduling problems. Prior experience in any of the following would be an advantage, but is not mandatory:\n\nScheduling or planning systemsOptimization problemsConstraint-based systemsGoogle OR-Tools / CP-SATOperations ResearchWe are more interested in a strong Python software engineer with excellent problem-solving ability who can learn the scheduling domain.\n\nExposure to LLMs or Agentic AI is a plus, but is not a core requirement.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/senior-engineer-%E2%80%93-python-engineering-at-neewee-4472507614?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/cognizant/job/senior-manager-python-data-science?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-azure-data-engineer-cloud-data-engineering-innova-esi-bengaluru-karnataka--t7xk-861032143?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ProductBased.in",
+          "link": "https://www.productbased.in/jobs/8585/aiml-engineer-data-science-data-engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4112-ea8034e71a918e51287ab7a822e7e9fc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8382089921124368384?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobRinger",
+          "link": "https://jobringer.com/job/data-engineer---pyspark-python/8f616e8e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340621334/senior-engineer-python-engineering-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRW5naW5lZXIg4oCTIFB5dGhvbiBFbmdpbmVlcmluZyIsImNvbXBhbnlfbmFtZSI6Ik5lZXdlZSIsImh0aWRvY2lkIjoiRnBtQ3FQMjNOVkR0eXBTaEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTWHBMWlhWNVlrNUhSMFpJYzFCU056WnpTV0UzVFhGM1h6a3pUMjFhT1RjNE1IQk5UVlUzT1ZaM1dWcEZjRmN4V1hsNmNsQnhXbkV4YWxwWVQwSm1NWHBOYjFjdFFYRjNVV2MxVFhwbU9FSnROV1UyUm1OcU0xZGxWRXBQU0ZoSVRWWk1NMnh0YkdSWGNEWXpXRkZ4UWpsWGVVTm9iVE5GZDFsMWVIUnlhVVZ6WlVGT2FHSVNGelJLZWtkaGRsaEJTVXRwYkRKeWIxQnFkR2xRYjFGdkdpSkJSSE55T1daVWNUbE9NbVExVkZWNlVVRlplWFI1TWtWd1lsRnJhRVpuVFhKMyIsImZjdiI6IjMiLCJmY19pZCI6IkZwbUNxUDIzTlZEdHlwU2hBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Python .NET Developer",
+      "company_name": "H R FACTOR",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=HGnkog29eOb1WNPVAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLvwrCMBCAcVz7CE6Ho0gigotO_hcEleJeruVIqjEXcqnUzVcQ39AnsS7f9Puydy9T52ey7EEdNxdY04McB4rwfX3gyiUIYawsdGDHbBz15zalIDOtRZwykjDVlar4rtlTya3uJvmnEIuRgsNExWQ6blXwZjjYQw7bxepyyqH2sCRv0DWxGcEBo8eEN_wBh7dXGJQAAAA&shmds=v1_ARwrE22n8AEFW3n80TIVuip-STCMVHBZqIXrrL28Sl2qqtm_AA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=HGnkog29eOb1WNPVAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/python-net-developer/h-r-factor/19694410",
+      "job_title": "Python .NET Developer",
+      "description": "We are seeking a skilled Python .NET Developer to join our dynamic team in Karnataka. The ideal candidate will have a strong background in both Python and .NET technologies, demonstrating the ability to develop robust applications and solutions. As a Python .NET Developer, you will be responsible for designing, coding, testing, and maintaining software applications that meet the needs of our clients. \n\nKey Responsibilities:\n- Collaborate with cross-functional teams to gather and analyze requirements for software development projects.\n- Design and implement software solutions using Python and .NET frameworks.\n- Write clean, maintainable, and efficient code while adhering to best practices and coding standards.\n- Conduct thorough testing and debugging of applications to ensure high-quality deliverables.\n- Participate in code reviews and provide constructive feedback to team members.\n- Stay updated with the latest industry trends and technologies to continuously improve skills and knowledge.\n\nRequired Skills:\n- Proficiency in Python programming language.\n- Strong experience with .NET framework and C#.\n- Familiarity with software development methodologies and tools.\n- Excellent problem-solving skills and attention to detail.\n- Ability to work collaboratively in a team environment.\n\nIf you are passionate about software development and have the required skills, we encourage you to apply for this exciting opportunity to contribute to innovative projects in a supportive and growth-oriented environment.",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/python-net-developer/h-r-factor/19694410?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gLk5FVCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJIIFIgRkFDVE9SIiwiaHRpZG9jaWQiOiJIR25rb2cyOWVPYjFXTlBWQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNsSldWbkZJTm5sR1JWUnJUVlpNTkVaQmMzTkdMV0ZzZVRCU1kyeFdhVWgzYWkxVlgzaExNbVY1YjFNNVNFbEZlVTFTWDNKV1lYWnBXbkUxTFdsaVEyZzBNM1JXWVdVeVRWRTFTbkJDVUZab05YWnNkVWQwZFU5TWJEZHVPVGhtUlVvelVtcDJXalIyYjBKWlZVZFZOMUZhYld4VUxVRnVNbnAyTlRCRFQzbHZVRTUxWkU0U0Z6Uktla2RoZGxoQlNVdHBiREp5YjFCcWRHbFFiMUZ2R2lKQlJITnlPV1pVYkdjNFNqVkhkMFpXZFdWMFpVeEdTaTFPTm5wb2VUY3dUbVpCIiwiZmN2IjoiMyIsImZjX2lkIjoiSEdua29nMjllT2IxV05QVkFBQUFBQT09In0="
+    },
+    {
+      "title": "IT Analyst Applications (Python Developer - Automation & AI) (Bengaluru)",
+      "company_name": "Caterpillar",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=gqDhektZ28-wQrFyAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_z2NMQrCUBBEsfUIVguCGNFEBButooKIjYW9rGFJouvfz9-NJJ138ExexJMYLWwGhnkz0311urg7QuqQGzVIvecyQyvFKQwPjRXiYEN3YvEUYAJpZXL75TCAdBfBcEUuR65CFcH78YSLnEEJQ1ZAy2xFcqbesjDzukgSVY5ztXYgizO5JeLoLHXSlvQrJy0wkGc0Os3m0zr2Lh_1160NvmTGAKWD_-EY9hgcGl7xAzwEIOzIAAAA&shmds=v1_ARwrE23IfQPIdim1KzxOJUh3YBDurmJ2VC5j1FDMDQY9N-ISuQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=gqDhektZ28-wQrFyAAAAAA%3D%3D",
+      "extensions": [
+        "19 hours ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jobrapido.com/jobpreview/3875627577792004096",
+      "job_title": "IT Analyst Applications (Python Developer - Automation & AI) (Bengaluru)",
+      "description": "Career Area:\n\nTechnology, Digital and Data:\n\nYour Work Shapes the World at Caterpillar Inc. \n\nWhen you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.\n\nJob Summary\n\nWe are seeking an experienced IT Analyst Applications (Python Developer - Automation & AI) to join our \n\nOrder Fulfillment & Procurement team - CAT IT Division. To design, develop, and deploy intelligent automation solutions that improve operational efficiency and business outcomes. The ideal candidate will possess strong Python development skills, experience building automation frameworks, integrating enterprise systems through APIs, and leveraging AI/GenAI technologies to create scalable solutions.\n\nThe preference for this role is to be based out of Bangalore – Caterpillar PSN \n\nThis position requires candidate to work a 5-day -a -week schedule.\n\nShift Timing: 01:00-10:00PM IST\n\nKey Responsibilities\n\nPython Development\n\n- Design, develop, test, and maintain high-quality Python applications and services.\n- Write clean, scalable, and reusable code following coding standards and best practices.\n- Develop RESTful APIs and integrate with enterprise platforms and third-party systems.\n\nAutomation Solutions\n\n- Design and implement business process automation solutions using Python.\n- Build scripts, bots, and workflow automation for operational and business processes.\n- Automate data extraction, validation, transformation, and reporting processes.\n- Integrate automation solutions with cloud and enterprise applications.\n\nAI & Generative AI\n\n- Develop AI-powered solutions using Machine Learning and Generative AI technologies.\n- Integrate Large Language Models (LLMs), AI agents, and chatbots into business workflows.\n- Build intelligent decision support systems and predictive analytics capabilities.\n- Evaluate and adopt emerging AI technologies to drive innovation.\n\nData & Integration\n\n- Work with SQL/NoSQL databases and cloud data platforms.\n- Build ETL/data pipelines for analytics and AI use cases.\n- Consume and develop REST APIs, web services, and event-driven integrations.\n\nDevOps & Quality\n\n- Implement CI/CD pipelines using Azure DevOps, GitHub Actions, or Jenkins.\n- Perform code reviews, testing, debugging, and performance tuning.\n- Ensure security, compliance, and reliability of solutions.\n\nCollaboration\n\n- Collaborate with architects, business analysts, product owners, and infrastructure teams.\n- Mentor junior developers and provide technical guidance.\n- Prepare technical documentation, architecture diagrams, and operational procedures.\n\nRequired Skills\n\nTechnical Skills\n\n- 5-8 years of hands-on Python development experience.\n- Robust knowledge of Python frameworks such as Flask, FastAPI, or Django.\n- Experience with automation development and scripting.\n- Proficiency in REST APIs and microservices architecture.\n- Experience with SQL databases (SQL Server, PostgreSQL, MySQL) and NoSQL databases.\n- Knowledge of Git, CI/CD pipelines, and DevOps practices.\n- Experience with cloud platforms such as Azure, AWS, or GCP.\n\nAI & Data Skills\n\n- Experience with AI/ML libraries such as: Pandas NumPy Scikit-Learn TensorFlow/PyTorch\n- Experience with Generative AI solutions and LLMs.\n- Knowledge of prompt engineering, AI agents, and chatbot development.\n- Understanding of Retrieval-Augmented Generation (RAG) concepts.\n\nAutomation Skills\n\n- Process automation and workflow orchestration.\n- API-based integration and event-driven automation.\n- Scripting, monitoring, and operational automation.\n\nPreferred Qualifications\n\n- Bachelor's or Master's degree in Computer Science, Information Technology, or related field.\n- Experience with Azure OpenAI, GitHub Copilot, LangChain, or similar AI platforms.\n- Certifications in Python, Cloud Technologies, AI/ML, or Automation.\n- Experience working in Agile/Scrum environments.\n\nKey Competencies\n\n- Strong analytical and problem-solving skills.\n- Excellent communication and stakeholder management.\n- Ability to translate business requirements into technical solutions.\n- Innovation mindset with a passion for AI and automation.\n- Leadership and mentoring capabilities.\n\nNice to Have\n\n- Knowledge of Snowflake, Databricks, or Data Engineering platforms.\n- Experience with RPA tools such as Power Automate, UiPath, or Automation Anywhere.\n- Exposure to enterprise integration platforms like SnapLogic.\n- Experience building AI copilots and intelligent assistants.To be updated\n\nSkill Descriptors Core Application Systems: \n\nKnowledge of major production application systems used for delivery of services to internal and external clients; ability to leverage major production application systems in diverse situations. \n\nLevel Basic Understanding\n\n• Describes basic elements and benefits of core applications supported by own area. \n\n- Names the organization's core application systems.\n- Names major business functions and services supported by core applications.\n- Locates and uses relevant documentation for core applications.\n\nProblem Solving: Knowledge of approaches, tools, techniques for recognizing, anticipating, and resolving organizational, operational or process problems; ability to apply knowledge of problem solving appropriately to diverse situations. \n\nLevel Working Knowledge\n\n• Identifies and documents specific problems and resolution alternatives. \n\n- Examines a specific problem and understands the perspective of each involved stakeholder.\n- Develops alternative techniques for assessing accuracy and relevance of information.\n- Helps to analyze risks and benefits of alternative approaches and obtain decision on resolution.\n- Uses fact-finding techniques and diagnostic tools to identify problems.\n\nApplication Design, Architecture: Knowledge of application design and architecture principles and practices; ability to utilize application design methodologies, tools, and techniques to convert business requirements and logical models into a technical application design.\n\nLevel Working Knowledge\n\n• Creates a basic architecture diagram, including component interactions and data flows. \n\n- Identifies and prioritizes application design and architecture tasks, such as refactoring and technical debt reduction.\n- Selects and presents design alternatives for applications of small to medium complexity.\n- Uses design tools and technologies to develop prototypes and proof of concepts.\n- Documents design decisions and rationale for future reference and review.\n\nImplementation: Knowledge of how to run applications for organizations; ability to implement application software within an organization and help end-users perform specific tasks (ex: accounting or graphic design).\n\nLevel Working Knowledge\n\n• Tracks problems associated with the quality and effectiveness of application software. \n\n- Researches the benefits and drawbacks of an organization's application software.\n- Drafts application software usage for the department's needs.\n- Provides instant support for end users of application software.\n- Implements a specific application software under the supervision of management.\n\nRequirements Analysis: Knowledge of tools, methods, and techniques of requirement analysis; ability to elicit, analyze and record required business functionality and non-functionality requirements to ensure the success of a system or software development project.\n\nLevel Working Knowledge\n\n• Follows policies, practices and standards for determining functional and informational requirements. \n\n- Confirms deliverables associated with requirements analysis.\n- Communicates with customers and users to elicit and gather client requirements.\n- Participates in the preparation of detailed documentation and requirements.\n- Utilizes specific organizational methods, tools and techniques for requirements analysis.\n\nSystem and Technology Integration: Knowledge of the features and facilities of systems; ability to integrate and communicate among applications, databases and technology platforms.\n\nLevel Working Knowledge\n\n• Assists with current and planned integration initiatives. \n\n- Explores major issues and considerations for successful system integration.\n- Works with applications, data, technology bridges and a variety of platforms.\n- Works with existing interfaces as well as integration and migration plans within own area.\n- Plays an active role in local integration efforts.\n\nSystem Testing: Knowledge of system and software testing; ability to design, plan and execute system testing strategies and tactics to ensure the quality of software at all stages of the system life cycle.\n\nLevel Working Knowledge\n\n• Supports the project leader in developing and executing system test plans. \n\n- Evaluates system documentation and user manuals for usability, accuracy and completeness.\n- Executes test cases, analyzes test results and reports on findings regularly.\n- Tests system components for compliance with functional requirements.\n- Participates in the testing of a system's ability to recover from hardware or software failures.\n\nWhat you will get:\n\n- Work Life Harmony\n- Earned and medical leave.\n- Relocation assistance\n\nHolistic Development\n\n- Personal and professional development through Caterpillar ‘s employee resource groups across the globe\n- Career developments opportunities with global prospects\n\nHealth and Wellness\n\n- Medical coverage -Medical, life and personal accident coverage\n- Employee mental wellness assistance program\n\nFinancial Wellness\n\n- Employee investment plan\n- Pay for performance -Annual incentive Bonus plan.\n\nAdditional Information: Caterpillar is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status; however, as a global company, Caterpillar offers many job opportunities outside of the U.S. which can be found through our employment /careers \n\nCaterpillar is an Equal Opportunity Employer (EEO)\n\nEEO/AA Employer. All qualified individuals, including minorities, females, veterans and individuals with disabilities - are encouraged to apply.\n\nThis position requires working onsite five days a week.Visa Sponsorship is not available for this position.Posting Dates:\n\nCaterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply\n\nNot ready to apply? Join our Talent Community.",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/3875627577792004096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJVCBBbmFseXN0IEFwcGxpY2F0aW9ucyAoUHl0aG9uIERldmVsb3BlciAtIEF1dG9tYXRpb24gXHUwMDI2IEFJKSAoQmVuZ2FsdXJ1KSIsImNvbXBhbnlfbmFtZSI6IkNhdGVycGlsbGFyIiwiaHRpZG9jaWQiOiJncURoZWt0WjI4LXdRckZ5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRGSlZWemRQUlc5cmNUVXpkM2xyYjNWclZGaFRiVlJ3YUdZd1NFVk1OMjV4ZVd4a1NsVjVjelpOWTBWc1ZGSk5hbTV1WkZKWmNXMUtaM2hWUlZKMlFYUmtaRlYwWHpKTlJuQnFUMnRRYURST04zbHhlRkpPV1haMFZUY3RabE4zV1RCNU1FZzJNMUl0YkRVd0xYbzBWbkpYYm1jMWRHZDFNbGcwYVdKbVgwSkdaV3d4Vm5FU0Z6Uktla2RoZGxoQlNVdHBiREp5YjFCcWRHbFFiMUZ2R2lKQlJITnlPV1pTTVV3MGJWZHZUV2xuYW5kWlZqaFlhVzlUUzFNMVVVNXhPRUYzIiwiZmN2IjoiMyIsImZjX2lkIjoiZ3FEaGVrdFoyOC13UXJGeUFBQUFBQT09In0="
+    },
+    {
+      "title": "Python Developer Trainee",
+      "company_name": "Stark Industries",
+      "location": "Bengaluru, Karnataka",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=jwfBD6MmdKQpb9aPAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7CE43ikijgotuIoi4CLqXaz2S2HgJuavUzXdw8_F8EuvyT99ffEbF4vRUFxl29KAQE2W4ZPRMBN_XG26xBiHMjYPB7GO0gcYbp5pkbYxIKK0oqm_KJt5NZKpjb4ZJ_qnEYaYUUKlaruZ9mdhOJ2fF3MKBr51o9iTgGbbEFkOXuxkcMTMqtvgDyOryOJ0AAAA&shmds=v1_ARwrE224wzj6CIXDWTivUxSPrVFEJDISdz5ldJySBrJTgmcXbg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=jwfBD6MmdKQpb9aPAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEX___8AAACSkpJxcXE9PT20tLStra2WlpaCgoJ6enpaWlqGhoaioqJdXV36-vr29vbDw8NqampiYmJPT084ODgxMTHNzc3t7e0hISETExNJSUm7u7spKSna2trT09NDQ0Pk5OTQ0LseAAAA4ElEQVRIie3RWW7EIAwGYIzBYZ2wBbJNM_c_5RBV7QFaVX3hE0LCksVvYGwYhmH4d4_53udQaw3hOKTsi8jdps5apbRGxBhjSt6bnHdRyrWcsLS7_RmXKwt3VZuR2zh9ZK0ppiy1Q5tM70iGvEpmumRrTcMqPy8-IEwgNwhb3jaIzIl1u4xQK1TYRfBGnWtZymlBNfY6QX4lJiC0RQACOOjlM--wCuyJdC88oRZI3sDO48I40Pekc7Jzj8gUkubkeD8EzjXKhqp6esU5klW9wFFm96PHrO7xi68YhmEY_sYbZEoMOH23_bwAAAAASUVORK5CYII.png",
+      "extensions": [
+        "6 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/python-developer-trainee-stark-industries-bengaluru--t7xk-861327304",
+      "job_title": "Python Developer Trainee",
+      "description": "Company Name: Stark Inc.\n\n\nJob Title: Python Developer Trainee\n\n\nStark Inc. is seeking a motivated and enthusiastic Python Developer Trainee to join our dynamic team. This position is ideal for recent graduates or individuals looking to start their career in software development. The successful candidate will have the opportunity to learn and work on various projects, collaborate with experienced developers, and gain practical experience in Python programming and software development methodologies.\n\n\nKey Responsibilities\n\nAssist in the development, testing, and maintenance of software applications using Python. \nCollaborate with team members to design and implement new features and enhancements. \nWrite clean, efficient, and well-documented code. \nParticipate in code reviews and provide constructive feedback. \nTroubleshoot and debug applications to ensure optimal performance. \nParticipate in team meetings and contribute ideas for process improvements. \nStay updated with emerging technologies and best practices in Python development.\n\nSkills and Tools Required:\n\nBasic knowledge of Python programming and its libraries. \nFamiliarity with web frameworks such as Flask or Django is a plus. \nUnderstanding of databases and SQL, with experience in MySQL or PostgreSQL considered an advantage. \nFamiliarity with version control systems, preferably Git. \nBasic understanding of software development life cycle (SDLC) and methodologies like Agile. \nStrong problem-solving skills and the ability to work independently or as part of a team. \nGood communication and interpersonal skills. \nWillingness to learn and adapt to new technologies and tools.\n\nPreferred Qualifications:\n\nBachelor s degree in Computer Science, Information Technology, or a related field. \nInternship or project experience in Python development is a plus.\n\nStark Inc. offers a friendly and collaborative work environment, including mentorship opportunities and potential for growth within the company. If you are passionate about technology and eager to develop your skills, apply today to join our team!\nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/python-developer-trainee-stark-industries-bengaluru--t7xk-861327304?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/gigafactor-solutions-required-python-developer-trainee-bengaluru-karnataka-india-0-to-1-years-486661?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/python-developer-trainee--bengaluru--edfb0e37c0b64b6a194742b956f1e8401?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/7198854743500783616?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyIFRyYWluZWUiLCJjb21wYW55X25hbWUiOiJTdGFyayBJbmR1c3RyaWVzIiwiaHRpZG9jaWQiOiJqd2ZCRDZNbWRLUXBiOWFQQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHbzRUVU5UVm5OcVZVdzBZVEoyTWxONlYyRTRSRWhrT1ZkTFkyWlBiVlpGVDNKbk5IVkVkM0F4VVdnMU1GTnNkMHhRVlZsVFVYVkhjRXBPTVRSYWMzWTFhSEJCU0V4aGJITlROazlWWjBoVWRtRjJPRXBvYnpWcFIzQndObEJwYjJKQmRVWkhkbGRzWlZoWWQxaHhRMGR1TlhKQ2JERjNhbEpWV1ZwNlMwNUtPVVV6Y1ZBU0Z6Uktla2RoZGxoQlNVdHBiREp5YjFCcWRHbFFiMUZ2R2lKQlJITnlPV1pTTjFkUmFXWlVObHAzU3pkdVowTmFhMmwzUjNkaFdHb3lPVmRCIiwiZmN2IjoiMyIsImZjX2lkIjoiandmQkQ2TW1kS1FwYjlhUEFBQUFBQT09In0="
+    },
+    {
+      "title": "DE-RCE-Agentic AI Python Developer",
+      "company_name": "EY",
+      "location": "Bengaluru, Karnataka",
+      "via": "EY Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer&htidocid=KjBpTDZACDqIvcftAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TUm0tJieCjamiCSI2YmcVNmG5i567x91FYucfBB_oS4zNNMNM8pklRVVn512dlZo49h2UBzg9oxGGih5kxZGH7-sNV2khEPrOwOT2ItpSWpgYXdgoFYLNdYg4HfJO7kqYWhnVFIU_mmDQk7MYqVmtl2PuWM_T-gI9w5ZYox38sIAjesaIN_wBIPzWx5kAAAA&shmds=v1_ARwrE2156zAjHfEu9z8N3l_ciGsgNy-AWtI4iEJKv1EtWL2AiQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer&htidocid=KjBpTDZACDqIvcftAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69cd4484c09583358f8e2/images/pijay_tgv8pYtumabUwyOCUfz9Y5KkXtcRdS_kjyHh0.png",
+      "extensions": [
+        "23 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://careers.ey.com/ey/job/Bengaluru-DE-RCE-Agentic-AI-Python-Developer-KA-560016/1436926733/",
+      "job_title": "DE-RCE-Agentic AI Python Developer",
+      "description": "At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.          Career Family - Risk Assets – Technical Developer Role Type  Full Time   The opportunity We are the only professional services organization who has a separate business dedicated exclusively to the financial services marketplace. Join Digital Engineering Team and you will work with multi-disciplinary teams from around the world to deliver a global perspective. Aligned to key industry groups including Asset management, Banking and Capital Markets, Insurance and Private Equity, Health, Government, Power and Utilities, we provide integrated advisory, assurance, tax, and transaction services. Through diverse experiences, world-class learning and individually tailored coaching you will experience ongoing professional development. That’s how we develop outstanding leaders who team to deliver on our promises to all of our stakeholders, and in so doing, play a critical role in building a better working world for our people, for our clients and for our communities. Sound interesting? Well, this is just the beginning. Because whenever you join, however long you stay, the exceptional EY experience lasts a lifetime. We are looking for a Technical Lead in Risk and Compliance Engineering team, with 4-8 years of hands-on development and design experience with preferred prior experience in product-based IT development, involving Full stack engineering (Front-end, Back-end), Machine Learning and AI-driven development and devops. In this role, you will play a dual role – a) of creating source code catering to target state functional specifications and b) contribute towards implementing analytics-driven efficiencies (using ML and AI techniques as feasible) EY Digital Engineering is a unique, industry-focused business unit that provides a broad range of integrated services that leverage deep industry experience with strong functional capability and product knowledge. The Digital Engineering practice works with clients to analyse, formulate, design, mobilize and drive digital transformation initiatives. We advise clients on their most pressing digital challenges and opportunities surround business strategy, customer, growth, profit optimization, innovation, technology strategy, and digital transformation.  We also have a unique ability to help our clients translate strategy into actionable technical design, and transformation planning/mobilization.  Through our unique combination of competencies and solutions, EY’s DE team helps our clients sustain competitive advantage and profitability by developing strategies to stay ahead of the rapid pace of change and disruption and supporting the execution of complex transformations   Your key responsibilities Product Design and hands-on Development  Use working experience to amend design (commensurate to functional specifications) and demonstrate hands-on development of product features, with utmost efficiency and optimization of source code Wherever needed, challenge status quo for tech stacks, API choices to include most efficient industry practices, balancing the time to market for the product at hand Coach and mentor team members technically as needed (including performing code reviews)  Python-led Full stack development  Demonstrate the right-ways of development in all facets of software development (Front end, Back end, APIs , Data layers, 3rd party integrations and AI models) (Lead with Walk the Talk mindset) Map functional specifications to product features to ensure coverage and accuracy of product Demonstrate critical thinking, strong communication, logical reasoning and technical convincing as needed  Quality Assurance  Perform Techno-functional Testing (QA) for product features getting implemented as per the functional specifications Automate testing wherever possible using most feasible approaches (Excel/ VBA or Python or any available tool/s)  Collaboration & Support  Partner with architects and application teams for secure solution delivery. Provide functional support to all phases of delivery (Sprints, Testing, Hypercare etc.) Ability to guide and coach junior TAs and testers in the team    Skills and attributes for success Required Skills  4-8 years Technical source code development experience, with right mix of design leadership, hands on development and overall technical leadership Working experience in  Any facet in Risk Domain (Enterprise Risk, Operational Risk, Internal Controls, Internal Audit, Third Party Risk etc. – any segment in Risk domain) OR Financial Risk (any domain) OR Banking – Capital markets exposure or Wealth-Asset management exposure Deep AI engineering, AI design and AI adoption experience (Vector DBs, Python AI frameworks, RAG models, LLM/SLM, Agentic AI integration, Agentic AI workflows, Agentic AI model ops and pipelines Back end (Python primary) including API creation (Django or Fast API) , microservices and data integration, Data Structures and Algorithms Cloud and Devops : Working knowledge of deploying applications in cloud infrastructure (Azure or AWS or GCP) and implement CI/CD pipelines, with version control (Git) Python driven Machine Learning model implementation (ML Ops) and AI model ops Databases like SQL (PostgreSQL) and/or NoSQL (MongoDB) Good to have:  Front end (Either of – Angular, or React or similar) MEAN or MERN stack exposure Node js Exposure BI platforms (PowerBI or alike)        Preferred Qualifications  Certifications: Any of Cloud certifications (Azure preferred but AWS, GCP acceptable) AI or ML Certifications Working experience in Risk domain    Education:  Degree: Bachelor’s degree in Computer Science, Engineering, Information Technology, or a related field, or equivalent practical experience    What we offer EY Global Delivery Services (GDS) is a dynamic and truly global delivery network. We work across six locations – Argentina, China, India, the Philippines, Poland and the UK – and with teams from all EY service lines, geographies and sectors, playing a vital role in the delivery of the EY growth strategy. From accountants to coders to advisory consultants, we offer a wide variety of fulfilling career opportunities that span all business disciplines. In GDS, you will collaborate with EY teams on exciting projects and work with well-known brands from across the globe. We’ll introduce you to an ever-expanding ecosystem of people, learning, skills and insights that will stay with you throughout your career.  Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next. Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way. Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs. Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.   EY | Building a better working world     EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.      Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.      Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.",
+      "apply_options": [
+        {
+          "title": "EY Careers",
+          "link": "https://careers.ey.com/ey/job/Bengaluru-DE-RCE-Agentic-AI-Python-Developer-KA-560016/1436926733/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/de-rce-agentic-ai-python-developer-ey-bengaluru-bangalore-67910253?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-4874322287132216230?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mployee.me",
+          "link": "https://www.mployee.me/jobs/view/de-rce-agentic-ai-python-developer-in-bangalore-at-ey--jid--3wQ6FgGv_RQBrKtVaOgYtKRBSAl6K_wkuCq_1mvXJzdxyuX_BTcO-gUdP0h/s1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Iitjobs",
+          "link": "https://www.iitjobs.com/job/python-ai-developer-bengaluru-east-karnataka-india-583396?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/python-ai-developer-synechron-technologies-bengaluru--techmap_in_1063582909?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/python-ai-developer-1637769?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/de-rce-agentic-ai-python-developer-at-ey-4465518472?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJERS1SQ0UtQWdlbnRpYyBBSSBQeXRob24gRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiRVkiLCJodGlkb2NpZCI6IktqQnBURFpBQ0RxSXZjZnRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1hsQ2QyUTFVbDlaU1RaVVRHbFpMVXhSUjFCdE4waEtTR3h6TlRrek9HSkRabGMwZWs5cmNqWlZkSHBzU3kxS2EyNWxiVXN6V0hBdE5tOVhSak40WVMxVVdHMXFVek5vTFU4MVgzZ3hNVE0yVGpSQlZVSkJNVWhRV1hGRVJuZHdWblZ3TkRabFQwWjJjVWRHVEVJMlNtNXhUMDl5YlRsM2QxcFhPR3RYVkhWcmRHVnBZa0VTRnpSS2VrZGhkbGhCU1V0cGJESnliMUJxZEdsUWIxRnZHaUpCUkhOeU9XWlJTMmRyUnpaRVExOW5lV2swWTA5NGNqQkNWV1I0Y25KcWFqbEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJLakJwVERaQUNEcUl2Y2Z0QUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMFkzZUVwcVUwVTFkbTlvVkVKMldGWTVhR3M0VG5BMlVsbFhaRlJDY2tKaVNVOXJMVEIxYUd4bllVOXZUMDB3TjJoc1JYUlhhWFJzUTFaYVdGVkpTRjlPVm1wdVFWbDVhRWxUWDB4UlEzbFpkVlJvUms1RlRGaDRaelIzY0UwNU1GSndhekpCVVdKRE4xUnlSamczWWw4ekxYQm9SRlZ6T1dKMVkwRndUVTB5TFhNeFYyTk5iMFo0Um5OMWFTMDVWMDVzY1dSWmNWQjVkMGhPUW5wU0xXVldhbFJWYjFGeE1HWlFhak56TUdvNVNGTm5ZMGhVWVMxeFRHZFFlbWw1V1VneVl6Tk5lVTUxU0cxTloyOUpSWFJ5T0VocWJsaE1hRWd4ZWtsQ2Nrb3lNVUZyUmxaZk1tMTVUa2xRYldWS2Qyd3pWM1pKZUMxUFpsQk5jbmwwU1hGdU56TjJUamhyWlhSU1RWZFFWME5DZVVOSVpYRmlkM2x1TjNZMVRVWmtOM2xmVG5jNWVFbHFNRGhXYkZwUU4ySmxjVVpHTlhaTWMycFJYekJHVGtKMVREQTJhalpxYjBoalQxSTVRV0ZQVFhGaVMwbHRabWhVTkdkRFdXOXpSM0J4U2xOMk1GVkJkUzB5VDJwSFpFWXpXakozVkY5Mk5GVktRVVJvT1ZsMFZubEZTM1JDV2xOSVZFMXplVloyVm1aVGNVWkVkR1E1VEhnMWRrZFljMXB4TkcxQ1dEY3hTazVwVldKT1pIVXpTSFIzU0VzeVNGRkVRV055YUdkR1NGaDJUbVJYV1c1MmVEVjZkamhSTTB0T05IZERaR1JVTTJrNWFXY1NGelJLZWtkaGRsaEJTVXRwYkRKeWIxQnFkR2xRYjFGdkdpSkJSSE55T1daVVoxUXRXRkJrZUVWR01XNXFTWEpSWmtSS1gyUm5OWE5DTmtWbiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMFkzZUVwcVUwVTFkbTlvVkVKMldGWTVhR3M0VG5BMlVsbFhaRlJDY2tKaVNVOXJMVEIxYUd4bllVOXZUMDB3TjJoc1JYUlhhWFJzUTFaYVdGVkpTRjlPVm1wdVFWbDVhRWxUWDB4UlEzbFpkVlJvUms1RlRGaDRaelIzY0UwNU1GSndhekpCVVdKRE4xUnlSamczWWw4ekxYQm9SRlZ6T1dKMVkwRndUVTB5TFhNeFYyTk5iMFo0Um5OMWFTMDVWMDVzY1dSWmNWQjVkMGhPUW5wU0xXVldhbFJWYjFGeE1HWlFhak56TUdvNVNGTm5ZMGhVWVMxeFRHZFFlbWw1V1VneVl6Tk5lVTUxU0cxTloyOUpSWFJ5T0VocWJsaE1hRWd4ZWtsQ2Nrb3lNVUZyUmxaZk1tMTVUa2xRYldWS2Qyd3pWM1pKZUMxUFpsQk5jbmwwU1hGdU56TjJUamhyWlhSU1RWZFFWME5DZVVOSVpYRmlkM2x1TjNZMVRVWmtOM2xmVG5jNWVFbHFNRGhXYkZwUU4ySmxjVVpHTlhaTWMycFJYekJHVGtKMVREQTJhalpxYjBoalQxSTVRV0ZQVFhGaVMwbHRabWhVTkdkRFdXOXpSM0J4U2xOMk1GVkJkUzB5VDJwSFpFWXpXakozVkY5Mk5GVktRVVJvT1ZsMFZubEZTM1JDV2xOSVZFMXplVloyVm1aVGNVWkVkR1E1VEhnMWRrZFljMXB4TkcxQ1dEY3hTazVwVldKT1pIVXpTSFIzU0VzeVNGRkVRV055YUdkR1NGaDJUbVJYV1c1MmVEVjZkamhSTTB0T05IZERaR1JVTTJrNWFXY1NGelJLZWtkaGRsaEJTVXRwYkRKeWIxQnFkR2xRYjFGdkdpSkJSSE55T1daVVoxUXRXRkJrZUVWR01XNXFTWEpSWmtSS1gyUm5OWE5DTmtWbiIsImZjdiI6IjMifQ%3D%3D&q=Python+Developer"
+  }
+}

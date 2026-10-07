@@ -1,0 +1,467 @@
+{
+  "search_metadata": {
+    "id": "6ac69ceafdb97743bfd41e7d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BksRFK0kQZeJ0Ynx16L-Sb_4u9K_GmSy6VsEZ8XLJMc/6ac69ceafdb97743bfd41e7d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/BksRFK0kQZeJ0Ynx16L-Sb_4u9K_GmSy6VsEZ8XLJMc/6ac69ceafdb97743bfd41e7d.md",
+    "created_at": "2026-10-07 19:26:34 UTC",
+    "processed_at": "2026-10-07 19:26:34 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Marketing+Intern&uule=w+CAIQICIfUHVuZSBEaXZpc2lvbixNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/BksRFK0kQZeJ0Ynx16L-Sb_4u9K_GmSy6VsEZ8XLJMc/6ac69ceafdb97743bfd41e7d.html",
+    "total_time_taken": 16.12
+  },
+  "search_parameters": {
+    "q": "Marketing Intern",
+    "engine": "google_jobs",
+    "location_requested": "Pune, India",
+    "location_used": "Pune Division,Maharashtra,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rmQD1vnvaXh5kfOBKMW7ukK0D33xQu7uTutzGajmgomUy0Zo4uUCBI-Aqv-DEUrKwtUzvZ9zjWadnLl0bLvGNqhlwCVXCQgZ32afzEvkMQPuhpPnLLeRMYf-FP9RFJOwKoZK1PvOBA-FzTfv0B90JqeTo36U",
+        "q": "Marketing Intern remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rmQD1vnvaXh5kfOBKMW7ukK0D33xQu7uTutzGajmgomUy0Zo4uUCBI-Aqv-DEUrKwtUzvZ9zjWadnLl0bLvGNqhlwCVXCQgZ32afzEvkMQPuhpPnLLeRMYf-FP9RFJOwKoZK1PvOBA-FzTfv0B90JqeTo36U&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rmQD1vnvaXh5kfOBKMW7ukK0D33xQu7uTutzGajmgomUy0Zo4uUCBI-Aqv-DEUrKwtUzvZ9zjWadnLl0bLvGNqhlwCVXCQgZ32afzEvkMQPuhpPnLLeRMYf-FP9RFJOwKoZK1PvOBA-FzTfv0B90JqeTo36U"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vRDbBEvpp9irKrnJSjVlB3CRFTioJS_G2pdeDELr5aBbYa2LWmO-XY3asjK3PmR3wE5cCcVoDdoxz5RBfZdQohjU0iSd6Z998ADDcMnjuS1_AF86_sWsiRYhKBvj1XaH2aytyb3lw3UjuSC9uQpQaQMwRaos1IOzrWyd68laoVG5bfWiOKiPW7hlqkQfx0iLf5DPCT1rMZQzPpD1n3qWgvJxS_Ld0E7SyetiY5YE9jfk9PDeNcbMIbp5tQllm6Pyu4rNhqA2J3NH6Qs1KPap4m9IIwcgFUXfE8xxxNRiy-9utTv-9Q",
+            "q": "Marketing Intern full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vRDbBEvpp9irKrnJSjVlB3CRFTioJS_G2pdeDELr5aBbYa2LWmO-XY3asjK3PmR3wE5cCcVoDdoxz5RBfZdQohjU0iSd6Z998ADDcMnjuS1_AF86_sWsiRYhKBvj1XaH2aytyb3lw3UjuSC9uQpQaQMwRaos1IOzrWyd68laoVG5bfWiOKiPW7hlqkQfx0iLf5DPCT1rMZQzPpD1n3qWgvJxS_Ld0E7SyetiY5YE9jfk9PDeNcbMIbp5tQllm6Pyu4rNhqA2J3NH6Qs1KPap4m9IIwcgFUXfE8xxxNRiy-9utTv-9Q&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vRDbBEvpp9irKrnJSjVlB3CRFTioJS_G2pdeDELr5aBbYa2LWmO-XY3asjK3PmR3wE5cCcVoDdoxz5RBfZdQohjU0iSd6Z998ADDcMnjuS1_AF86_sWsiRYhKBvj1XaH2aytyb3lw3UjuSC9uQpQaQMwRaos1IOzrWyd68laoVG5bfWiOKiPW7hlqkQfx0iLf5DPCT1rMZQzPpD1n3qWgvJxS_Ld0E7SyetiY5YE9jfk9PDeNcbMIbp5tQllm6Pyu4rNhqA2J3NH6Qs1KPap4m9IIwcgFUXfE8xxxNRiy-9utTv-9Q"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vRDbBEvpp9irKrnJSjVlB3AQW9NbSmcEVH31TBL063u8Ij4UFScnxJrMKTIjDYXpe6QM4vOs1ik-poTNrQa3irG1Ov4e3_wq3tsg9xM0aNT-le_2Ze-s8d9feMEJcCrgtLosR_a8O_SoKMDGspHhtfVHVIlqmKYwiT3f_ttwMO627SeGgWNvPN30JZuwHxIpZneUhg56GssDxkRKR9QNWzfmigDf9xWlwsrEOiA-b5sfZcDnyMmlxG-fEwAGpsri5lAOzfo_Fvx1VcQBjQBKhhFfXULaOAU7wGEKioyrpeXBf1EdNw",
+            "q": "Marketing Intern part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vRDbBEvpp9irKrnJSjVlB3AQW9NbSmcEVH31TBL063u8Ij4UFScnxJrMKTIjDYXpe6QM4vOs1ik-poTNrQa3irG1Ov4e3_wq3tsg9xM0aNT-le_2Ze-s8d9feMEJcCrgtLosR_a8O_SoKMDGspHhtfVHVIlqmKYwiT3f_ttwMO627SeGgWNvPN30JZuwHxIpZneUhg56GssDxkRKR9QNWzfmigDf9xWlwsrEOiA-b5sfZcDnyMmlxG-fEwAGpsri5lAOzfo_Fvx1VcQBjQBKhhFfXULaOAU7wGEKioyrpeXBf1EdNw&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vRDbBEvpp9irKrnJSjVlB3AQW9NbSmcEVH31TBL063u8Ij4UFScnxJrMKTIjDYXpe6QM4vOs1ik-poTNrQa3irG1Ov4e3_wq3tsg9xM0aNT-le_2Ze-s8d9feMEJcCrgtLosR_a8O_SoKMDGspHhtfVHVIlqmKYwiT3f_ttwMO627SeGgWNvPN30JZuwHxIpZneUhg56GssDxkRKR9QNWzfmigDf9xWlwsrEOiA-b5sfZcDnyMmlxG-fEwAGpsri5lAOzfo_Fvx1VcQBjQBKhhFfXULaOAU7wGEKioyrpeXBf1EdNw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1U0bIj4ZPxrmeJYGytm7UWDyBuj4SaS-FM5hm10eH6q3tNBymO7uKaJwNv_WLBjgP2TLYfkZE0gWJfwtcWfPicOuJSfW9gaFn6AEoMa0OzqCOGXhwPLTsQd_i0ldm3PGdmsddGmMKqtiAh4BiLtNVtVZjMgapi83KI4h9dEmvr-3UMDYi_bl8GScYOFToW9cZNSNyxcbpc_btl-ZD-a4B4r945tW4cuUQSklSR8_KbWBytLH7A8yIlOLhNslvpgJiSE-sYNC-B2ZtUAnLAMsIDIJYm-pWy5Zsgny3tkGcKMbmjwX",
+            "q": "Marketing Intern contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1U0bIj4ZPxrmeJYGytm7UWDyBuj4SaS-FM5hm10eH6q3tNBymO7uKaJwNv_WLBjgP2TLYfkZE0gWJfwtcWfPicOuJSfW9gaFn6AEoMa0OzqCOGXhwPLTsQd_i0ldm3PGdmsddGmMKqtiAh4BiLtNVtVZjMgapi83KI4h9dEmvr-3UMDYi_bl8GScYOFToW9cZNSNyxcbpc_btl-ZD-a4B4r945tW4cuUQSklSR8_KbWBytLH7A8yIlOLhNslvpgJiSE-sYNC-B2ZtUAnLAMsIDIJYm-pWy5Zsgny3tkGcKMbmjwX&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1U0bIj4ZPxrmeJYGytm7UWDyBuj4SaS-FM5hm10eH6q3tNBymO7uKaJwNv_WLBjgP2TLYfkZE0gWJfwtcWfPicOuJSfW9gaFn6AEoMa0OzqCOGXhwPLTsQd_i0ldm3PGdmsddGmMKqtiAh4BiLtNVtVZjMgapi83KI4h9dEmvr-3UMDYi_bl8GScYOFToW9cZNSNyxcbpc_btl-ZD-a4B4r945tW4cuUQSklSR8_KbWBytLH7A8yIlOLhNslvpgJiSE-sYNC-B2ZtUAnLAMsIDIJYm-pWy5Zsgny3tkGcKMbmjwX"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rH4Cgbi6AM6XmBHRh-mJh-vVXj6093RDUdY-6Hs57QTqTWROUH0OzaehKHyfZ_d_Syej2HKh1cmQlsXGaxFk0oogHkrP8hFaVVXtnBLPdXbOhZUl-6sXvB_In5a7CIT1xihhbRDQ9qtvKkl1COKG3yZ073w9Fk6F3Pkc5y5xlyB9Vd2eP7lTsI0h-PtwdBPReNZf-PVHOakZSjaDPtzBpomZNX1YtHMYIQKOD-dLycJfBWj-9FWIWjc9_PijjsODwnGrM7Xy4nKlhP1TKwqyqlUiLZPdkXf8uYwtAY_oKsuFqqYCU",
+            "q": "Marketing Intern internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rH4Cgbi6AM6XmBHRh-mJh-vVXj6093RDUdY-6Hs57QTqTWROUH0OzaehKHyfZ_d_Syej2HKh1cmQlsXGaxFk0oogHkrP8hFaVVXtnBLPdXbOhZUl-6sXvB_In5a7CIT1xihhbRDQ9qtvKkl1COKG3yZ073w9Fk6F3Pkc5y5xlyB9Vd2eP7lTsI0h-PtwdBPReNZf-PVHOakZSjaDPtzBpomZNX1YtHMYIQKOD-dLycJfBWj-9FWIWjc9_PijjsODwnGrM7Xy4nKlhP1TKwqyqlUiLZPdkXf8uYwtAY_oKsuFqqYCU&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rH4Cgbi6AM6XmBHRh-mJh-vVXj6093RDUdY-6Hs57QTqTWROUH0OzaehKHyfZ_d_Syej2HKh1cmQlsXGaxFk0oogHkrP8hFaVVXtnBLPdXbOhZUl-6sXvB_In5a7CIT1xihhbRDQ9qtvKkl1COKG3yZ073w9Fk6F3Pkc5y5xlyB9Vd2eP7lTsI0h-PtwdBPReNZf-PVHOakZSjaDPtzBpomZNX1YtHMYIQKOD-dLycJfBWj-9FWIWjc9_PijjsODwnGrM7Xy4nKlhP1TKwqyqlUiLZPdkXf8uYwtAY_oKsuFqqYCU"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vRDbBEvpp9irKrnJSjVlB3CRFTioJS_G2pdeDELr5aBbYa2LWmO-XY3asjK3PmR3wE5cCcVoDdoxz5RBfZdQohjU0iSd6Z998ADDcMnjuS1_AF86_sWsiRYhKBvj1XaH2aytyb3lw3UjuSC9uQpQaQMwRaos1IOzrWyd68laoVG5bfWiOKiPW7hlqkQfx0iLf5DPCT1rMZQzPpD1n3qWgvJxS_Ld0E7SyetiY5YE9jfk9PDeNcbMIbp5tQllm6Pyu4rNhqA2J3NH6Qs1KPap4m9IIwcgFUXfE8xxxNRiy-9utTv-9Q",
+            "q": "Marketing Intern full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vRDbBEvpp9irKrnJSjVlB3CRFTioJS_G2pdeDELr5aBbYa2LWmO-XY3asjK3PmR3wE5cCcVoDdoxz5RBfZdQohjU0iSd6Z998ADDcMnjuS1_AF86_sWsiRYhKBvj1XaH2aytyb3lw3UjuSC9uQpQaQMwRaos1IOzrWyd68laoVG5bfWiOKiPW7hlqkQfx0iLf5DPCT1rMZQzPpD1n3qWgvJxS_Ld0E7SyetiY5YE9jfk9PDeNcbMIbp5tQllm6Pyu4rNhqA2J3NH6Qs1KPap4m9IIwcgFUXfE8xxxNRiy-9utTv-9Q&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vRDbBEvpp9irKrnJSjVlB3CRFTioJS_G2pdeDELr5aBbYa2LWmO-XY3asjK3PmR3wE5cCcVoDdoxz5RBfZdQohjU0iSd6Z998ADDcMnjuS1_AF86_sWsiRYhKBvj1XaH2aytyb3lw3UjuSC9uQpQaQMwRaos1IOzrWyd68laoVG5bfWiOKiPW7hlqkQfx0iLf5DPCT1rMZQzPpD1n3qWgvJxS_Ld0E7SyetiY5YE9jfk9PDeNcbMIbp5tQllm6Pyu4rNhqA2J3NH6Qs1KPap4m9IIwcgFUXfE8xxxNRiy-9utTv-9Q"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vRDbBEvpp9irKrnJSjVlB3AQW9NbSmcEVH31TBL063u8Ij4UFScnxJrMKTIjDYXpe6QM4vOs1ik-poTNrQa3irG1Ov4e3_wq3tsg9xM0aNT-le_2Ze-s8d9feMEJcCrgtLosR_a8O_SoKMDGspHhtfVHVIlqmKYwiT3f_ttwMO627SeGgWNvPN30JZuwHxIpZneUhg56GssDxkRKR9QNWzfmigDf9xWlwsrEOiA-b5sfZcDnyMmlxG-fEwAGpsri5lAOzfo_Fvx1VcQBjQBKhhFfXULaOAU7wGEKioyrpeXBf1EdNw",
+            "q": "Marketing Intern part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vRDbBEvpp9irKrnJSjVlB3AQW9NbSmcEVH31TBL063u8Ij4UFScnxJrMKTIjDYXpe6QM4vOs1ik-poTNrQa3irG1Ov4e3_wq3tsg9xM0aNT-le_2Ze-s8d9feMEJcCrgtLosR_a8O_SoKMDGspHhtfVHVIlqmKYwiT3f_ttwMO627SeGgWNvPN30JZuwHxIpZneUhg56GssDxkRKR9QNWzfmigDf9xWlwsrEOiA-b5sfZcDnyMmlxG-fEwAGpsri5lAOzfo_Fvx1VcQBjQBKhhFfXULaOAU7wGEKioyrpeXBf1EdNw&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKWmF3g-N8F-iAkbyPne3vRDbBEvpp9irKrnJSjVlB3AQW9NbSmcEVH31TBL063u8Ij4UFScnxJrMKTIjDYXpe6QM4vOs1ik-poTNrQa3irG1Ov4e3_wq3tsg9xM0aNT-le_2Ze-s8d9feMEJcCrgtLosR_a8O_SoKMDGspHhtfVHVIlqmKYwiT3f_ttwMO627SeGgWNvPN30JZuwHxIpZneUhg56GssDxkRKR9QNWzfmigDf9xWlwsrEOiA-b5sfZcDnyMmlxG-fEwAGpsri5lAOzfo_Fvx1VcQBjQBKhhFfXULaOAU7wGEKioyrpeXBf1EdNw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1U0bIj4ZPxrmeJYGytm7UWDyBuj4SaS-FM5hm10eH6q3tNBymO7uKaJwNv_WLBjgP2TLYfkZE0gWJfwtcWfPicOuJSfW9gaFn6AEoMa0OzqCOGXhwPLTsQd_i0ldm3PGdmsddGmMKqtiAh4BiLtNVtVZjMgapi83KI4h9dEmvr-3UMDYi_bl8GScYOFToW9cZNSNyxcbpc_btl-ZD-a4B4r945tW4cuUQSklSR8_KbWBytLH7A8yIlOLhNslvpgJiSE-sYNC-B2ZtUAnLAMsIDIJYm-pWy5Zsgny3tkGcKMbmjwX",
+            "q": "Marketing Intern contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1U0bIj4ZPxrmeJYGytm7UWDyBuj4SaS-FM5hm10eH6q3tNBymO7uKaJwNv_WLBjgP2TLYfkZE0gWJfwtcWfPicOuJSfW9gaFn6AEoMa0OzqCOGXhwPLTsQd_i0ldm3PGdmsddGmMKqtiAh4BiLtNVtVZjMgapi83KI4h9dEmvr-3UMDYi_bl8GScYOFToW9cZNSNyxcbpc_btl-ZD-a4B4r945tW4cuUQSklSR8_KbWBytLH7A8yIlOLhNslvpgJiSE-sYNC-B2ZtUAnLAMsIDIJYm-pWy5Zsgny3tkGcKMbmjwX&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1U0bIj4ZPxrmeJYGytm7UWDyBuj4SaS-FM5hm10eH6q3tNBymO7uKaJwNv_WLBjgP2TLYfkZE0gWJfwtcWfPicOuJSfW9gaFn6AEoMa0OzqCOGXhwPLTsQd_i0ldm3PGdmsddGmMKqtiAh4BiLtNVtVZjMgapi83KI4h9dEmvr-3UMDYi_bl8GScYOFToW9cZNSNyxcbpc_btl-ZD-a4B4r945tW4cuUQSklSR8_KbWBytLH7A8yIlOLhNslvpgJiSE-sYNC-B2ZtUAnLAMsIDIJYm-pWy5Zsgny3tkGcKMbmjwX"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rH4Cgbi6AM6XmBHRh-mJh-vVXj6093RDUdY-6Hs57QTqTWROUH0OzaehKHyfZ_d_Syej2HKh1cmQlsXGaxFk0oogHkrP8hFaVVXtnBLPdXbOhZUl-6sXvB_In5a7CIT1xihhbRDQ9qtvKkl1COKG3yZ073w9Fk6F3Pkc5y5xlyB9Vd2eP7lTsI0h-PtwdBPReNZf-PVHOakZSjaDPtzBpomZNX1YtHMYIQKOD-dLycJfBWj-9FWIWjc9_PijjsODwnGrM7Xy4nKlhP1TKwqyqlUiLZPdkXf8uYwtAY_oKsuFqqYCU",
+            "q": "Marketing Intern internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rH4Cgbi6AM6XmBHRh-mJh-vVXj6093RDUdY-6Hs57QTqTWROUH0OzaehKHyfZ_d_Syej2HKh1cmQlsXGaxFk0oogHkrP8hFaVVXtnBLPdXbOhZUl-6sXvB_In5a7CIT1xihhbRDQ9qtvKkl1COKG3yZ073w9Fk6F3Pkc5y5xlyB9Vd2eP7lTsI0h-PtwdBPReNZf-PVHOakZSjaDPtzBpomZNX1YtHMYIQKOD-dLycJfBWj-9FWIWjc9_PijjsODwnGrM7Xy4nKlhP1TKwqyqlUiLZPdkXf8uYwtAY_oKsuFqqYCU&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rH4Cgbi6AM6XmBHRh-mJh-vVXj6093RDUdY-6Hs57QTqTWROUH0OzaehKHyfZ_d_Syej2HKh1cmQlsXGaxFk0oogHkrP8hFaVVXtnBLPdXbOhZUl-6sXvB_In5a7CIT1xihhbRDQ9qtvKkl1COKG3yZ073w9Fk6F3Pkc5y5xlyB9Vd2eP7lTsI0h-PtwdBPReNZf-PVHOakZSjaDPtzBpomZNX1YtHMYIQKOD-dLycJfBWj-9FWIWjc9_PijjsODwnGrM7Xy4nKlhP1TKwqyqlUiLZPdkXf8uYwtAY_oKsuFqqYCU"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rKxXYSSy0YJiOZrStjADrsBIeqf0hkxEE06vvB2FaKPvWGppR3sJYNiN2urkpUNPu8MEb37A2UV-gt8jZE4PNhZAKcH9DcAhI6Qo1rT_r_MWUli35g83qbgYd1k82I9j_AJZN3p04mPd4YGvQ3rG7-80NIjmPQ3pLmU-0LQJCsJvJOKZPtoOOGXXd9Qn406WOE_zEX57O3jXNJfnzY47HgizmuxnKJjb7Yx_X_vPNJQjP3QPFECFtw83djwXM4BI8Znj1CVt6qzzhyPy_2szDhJsNaPPwLFfNlS4oCrF_U7axhvUzNST8sT8ue6HhyF5mXyA0HPE",
+            "q": "Marketing Intern since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rKxXYSSy0YJiOZrStjADrsBIeqf0hkxEE06vvB2FaKPvWGppR3sJYNiN2urkpUNPu8MEb37A2UV-gt8jZE4PNhZAKcH9DcAhI6Qo1rT_r_MWUli35g83qbgYd1k82I9j_AJZN3p04mPd4YGvQ3rG7-80NIjmPQ3pLmU-0LQJCsJvJOKZPtoOOGXXd9Qn406WOE_zEX57O3jXNJfnzY47HgizmuxnKJjb7Yx_X_vPNJQjP3QPFECFtw83djwXM4BI8Znj1CVt6qzzhyPy_2szDhJsNaPPwLFfNlS4oCrF_U7axhvUzNST8sT8ue6HhyF5mXyA0HPE&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rKxXYSSy0YJiOZrStjADrsBIeqf0hkxEE06vvB2FaKPvWGppR3sJYNiN2urkpUNPu8MEb37A2UV-gt8jZE4PNhZAKcH9DcAhI6Qo1rT_r_MWUli35g83qbgYd1k82I9j_AJZN3p04mPd4YGvQ3rG7-80NIjmPQ3pLmU-0LQJCsJvJOKZPtoOOGXXd9Qn406WOE_zEX57O3jXNJfnzY47HgizmuxnKJjb7Yx_X_vPNJQjP3QPFECFtw83djwXM4BI8Znj1CVt6qzzhyPy_2szDhJsNaPPwLFfNlS4oCrF_U7axhvUzNST8sT8ue6HhyF5mXyA0HPE"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rgzy6MGPRdpIQdv42Hl_vUNiSCXchGDYL48hyPE4Cu2hXV3_HcsClszqLPYjYakQ7CnXpGkhUXaqozZsm4D81RgUQzfJJOrSQauNJFAcwNkELnZ0w6V5Lj1bGliJoSX0rRn9P2TwYqCfhQJxrIfaTF-g5ng3c9o2LXAduhy3oYb6qdwvwDBcel-zHU62MrPYvRmFVDE91BxmEpEoOLvsRX0gClV5ZybjTdR6YQFoVY5I1BPgB2yoV5s0yfF18cDldfzgQ45rSQ08LWHu1oLNXpj5wz1gQb9tzsdTbkvMFLkYfu5oIXBFhibsIic6bXwMIvNdjfxN_QxxSqXvkdrf_dDBNxuA",
+            "q": "Marketing Intern in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgzy6MGPRdpIQdv42Hl_vUNiSCXchGDYL48hyPE4Cu2hXV3_HcsClszqLPYjYakQ7CnXpGkhUXaqozZsm4D81RgUQzfJJOrSQauNJFAcwNkELnZ0w6V5Lj1bGliJoSX0rRn9P2TwYqCfhQJxrIfaTF-g5ng3c9o2LXAduhy3oYb6qdwvwDBcel-zHU62MrPYvRmFVDE91BxmEpEoOLvsRX0gClV5ZybjTdR6YQFoVY5I1BPgB2yoV5s0yfF18cDldfzgQ45rSQ08LWHu1oLNXpj5wz1gQb9tzsdTbkvMFLkYfu5oIXBFhibsIic6bXwMIvNdjfxN_QxxSqXvkdrf_dDBNxuA&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgzy6MGPRdpIQdv42Hl_vUNiSCXchGDYL48hyPE4Cu2hXV3_HcsClszqLPYjYakQ7CnXpGkhUXaqozZsm4D81RgUQzfJJOrSQauNJFAcwNkELnZ0w6V5Lj1bGliJoSX0rRn9P2TwYqCfhQJxrIfaTF-g5ng3c9o2LXAduhy3oYb6qdwvwDBcel-zHU62MrPYvRmFVDE91BxmEpEoOLvsRX0gClV5ZybjTdR6YQFoVY5I1BPgB2yoV5s0yfF18cDldfzgQ45rSQ08LWHu1oLNXpj5wz1gQb9tzsdTbkvMFLkYfu5oIXBFhibsIic6bXwMIvNdjfxN_QxxSqXvkdrf_dDBNxuA"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cl0zyhgmqrw5HRLwKKrcYVhZojJP1PRgeADlrC3wuf5TAT4bU59kwn2tKqlCDQiM8N__UJfT2cmVZ-osVzs_naNTW8ZkbLjF2LihO4bm7CdFrnbiyKn9ppbHtHCYYfn3KARg-f2O-7P1qrAZVCI8E2HdfY_PKqn69bFdQqzOQcXJck6ssn_noqYNuSSqEpivPKhg3mbuIIn2CYbxBAqM2XUswT_ZlvZeLmIzkxolOIiDSlzadku-m5hEKp57ykjQ1jLGptgTFMvF727F340G4XYFkZRdTs7BfXAjCckHNbA4pO0yZJ0sbfrWUnHHFWMEVR3SXlE",
+            "q": "Marketing Intern in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cl0zyhgmqrw5HRLwKKrcYVhZojJP1PRgeADlrC3wuf5TAT4bU59kwn2tKqlCDQiM8N__UJfT2cmVZ-osVzs_naNTW8ZkbLjF2LihO4bm7CdFrnbiyKn9ppbHtHCYYfn3KARg-f2O-7P1qrAZVCI8E2HdfY_PKqn69bFdQqzOQcXJck6ssn_noqYNuSSqEpivPKhg3mbuIIn2CYbxBAqM2XUswT_ZlvZeLmIzkxolOIiDSlzadku-m5hEKp57ykjQ1jLGptgTFMvF727F340G4XYFkZRdTs7BfXAjCckHNbA4pO0yZJ0sbfrWUnHHFWMEVR3SXlE&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cl0zyhgmqrw5HRLwKKrcYVhZojJP1PRgeADlrC3wuf5TAT4bU59kwn2tKqlCDQiM8N__UJfT2cmVZ-osVzs_naNTW8ZkbLjF2LihO4bm7CdFrnbiyKn9ppbHtHCYYfn3KARg-f2O-7P1qrAZVCI8E2HdfY_PKqn69bFdQqzOQcXJck6ssn_noqYNuSSqEpivPKhg3mbuIIn2CYbxBAqM2XUswT_ZlvZeLmIzkxolOIiDSlzadku-m5hEKp57ykjQ1jLGptgTFMvF727F340G4XYFkZRdTs7BfXAjCckHNbA4pO0yZJ0sbfrWUnHHFWMEVR3SXlE"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rd7B-02-53Pp81Y9h09RwrJ-BFRcEQrEnHHt1Yz0QxmXmn4cqvy5kj3tn2KAMidTUu8HMQysaUbaQa1XGz-1DnPu62K6RlLV74UclBtcGXhDzg6N6tW9StTYsPmNFZvq0qzvhbTxkiR78Mv91hrhlrh4YhDXcn2jqeob-AjCi90j9Y2gV9Jzo8oUTuCWpIsJOoZcjd9mVIPNTs0lDvQdttDUexUfuzA3EiVE30ase_PpHanZgL15DADmf205-95bUuxY-jAF4U5EwH2wuRUTBEzwim-cYkPC5HelGIR7f1lOXEmSCeq2J6Y68KOiPxdEHia0siDNIiv0L2BCXl-uL864s-o8",
+            "q": "Marketing Intern in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rd7B-02-53Pp81Y9h09RwrJ-BFRcEQrEnHHt1Yz0QxmXmn4cqvy5kj3tn2KAMidTUu8HMQysaUbaQa1XGz-1DnPu62K6RlLV74UclBtcGXhDzg6N6tW9StTYsPmNFZvq0qzvhbTxkiR78Mv91hrhlrh4YhDXcn2jqeob-AjCi90j9Y2gV9Jzo8oUTuCWpIsJOoZcjd9mVIPNTs0lDvQdttDUexUfuzA3EiVE30ase_PpHanZgL15DADmf205-95bUuxY-jAF4U5EwH2wuRUTBEzwim-cYkPC5HelGIR7f1lOXEmSCeq2J6Y68KOiPxdEHia0siDNIiv0L2BCXl-uL864s-o8&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rd7B-02-53Pp81Y9h09RwrJ-BFRcEQrEnHHt1Yz0QxmXmn4cqvy5kj3tn2KAMidTUu8HMQysaUbaQa1XGz-1DnPu62K6RlLV74UclBtcGXhDzg6N6tW9StTYsPmNFZvq0qzvhbTxkiR78Mv91hrhlrh4YhDXcn2jqeob-AjCi90j9Y2gV9Jzo8oUTuCWpIsJOoZcjd9mVIPNTs0lDvQdttDUexUfuzA3EiVE30ase_PpHanZgL15DADmf205-95bUuxY-jAF4U5EwH2wuRUTBEzwim-cYkPC5HelGIR7f1lOXEmSCeq2J6Y68KOiPxdEHia0siDNIiv0L2BCXl-uL864s-o8"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rKxXYSSy0YJiOZrStjADrsBIeqf0hkxEE06vvB2FaKPvWGppR3sJYNiN2urkpUNPu8MEb37A2UV-gt8jZE4PNhZAKcH9DcAhI6Qo1rT_r_MWUli35g83qbgYd1k82I9j_AJZN3p04mPd4YGvQ3rG7-80NIjmPQ3pLmU-0LQJCsJvJOKZPtoOOGXXd9Qn406WOE_zEX57O3jXNJfnzY47HgizmuxnKJjb7Yx_X_vPNJQjP3QPFECFtw83djwXM4BI8Znj1CVt6qzzhyPy_2szDhJsNaPPwLFfNlS4oCrF_U7axhvUzNST8sT8ue6HhyF5mXyA0HPE",
+            "q": "Marketing Intern since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rKxXYSSy0YJiOZrStjADrsBIeqf0hkxEE06vvB2FaKPvWGppR3sJYNiN2urkpUNPu8MEb37A2UV-gt8jZE4PNhZAKcH9DcAhI6Qo1rT_r_MWUli35g83qbgYd1k82I9j_AJZN3p04mPd4YGvQ3rG7-80NIjmPQ3pLmU-0LQJCsJvJOKZPtoOOGXXd9Qn406WOE_zEX57O3jXNJfnzY47HgizmuxnKJjb7Yx_X_vPNJQjP3QPFECFtw83djwXM4BI8Znj1CVt6qzzhyPy_2szDhJsNaPPwLFfNlS4oCrF_U7axhvUzNST8sT8ue6HhyF5mXyA0HPE&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rKxXYSSy0YJiOZrStjADrsBIeqf0hkxEE06vvB2FaKPvWGppR3sJYNiN2urkpUNPu8MEb37A2UV-gt8jZE4PNhZAKcH9DcAhI6Qo1rT_r_MWUli35g83qbgYd1k82I9j_AJZN3p04mPd4YGvQ3rG7-80NIjmPQ3pLmU-0LQJCsJvJOKZPtoOOGXXd9Qn406WOE_zEX57O3jXNJfnzY47HgizmuxnKJjb7Yx_X_vPNJQjP3QPFECFtw83djwXM4BI8Znj1CVt6qzzhyPy_2szDhJsNaPPwLFfNlS4oCrF_U7axhvUzNST8sT8ue6HhyF5mXyA0HPE"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rgzy6MGPRdpIQdv42Hl_vUNiSCXchGDYL48hyPE4Cu2hXV3_HcsClszqLPYjYakQ7CnXpGkhUXaqozZsm4D81RgUQzfJJOrSQauNJFAcwNkELnZ0w6V5Lj1bGliJoSX0rRn9P2TwYqCfhQJxrIfaTF-g5ng3c9o2LXAduhy3oYb6qdwvwDBcel-zHU62MrPYvRmFVDE91BxmEpEoOLvsRX0gClV5ZybjTdR6YQFoVY5I1BPgB2yoV5s0yfF18cDldfzgQ45rSQ08LWHu1oLNXpj5wz1gQb9tzsdTbkvMFLkYfu5oIXBFhibsIic6bXwMIvNdjfxN_QxxSqXvkdrf_dDBNxuA",
+            "q": "Marketing Intern in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgzy6MGPRdpIQdv42Hl_vUNiSCXchGDYL48hyPE4Cu2hXV3_HcsClszqLPYjYakQ7CnXpGkhUXaqozZsm4D81RgUQzfJJOrSQauNJFAcwNkELnZ0w6V5Lj1bGliJoSX0rRn9P2TwYqCfhQJxrIfaTF-g5ng3c9o2LXAduhy3oYb6qdwvwDBcel-zHU62MrPYvRmFVDE91BxmEpEoOLvsRX0gClV5ZybjTdR6YQFoVY5I1BPgB2yoV5s0yfF18cDldfzgQ45rSQ08LWHu1oLNXpj5wz1gQb9tzsdTbkvMFLkYfu5oIXBFhibsIic6bXwMIvNdjfxN_QxxSqXvkdrf_dDBNxuA&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgzy6MGPRdpIQdv42Hl_vUNiSCXchGDYL48hyPE4Cu2hXV3_HcsClszqLPYjYakQ7CnXpGkhUXaqozZsm4D81RgUQzfJJOrSQauNJFAcwNkELnZ0w6V5Lj1bGliJoSX0rRn9P2TwYqCfhQJxrIfaTF-g5ng3c9o2LXAduhy3oYb6qdwvwDBcel-zHU62MrPYvRmFVDE91BxmEpEoOLvsRX0gClV5ZybjTdR6YQFoVY5I1BPgB2yoV5s0yfF18cDldfzgQ45rSQ08LWHu1oLNXpj5wz1gQb9tzsdTbkvMFLkYfu5oIXBFhibsIic6bXwMIvNdjfxN_QxxSqXvkdrf_dDBNxuA"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cl0zyhgmqrw5HRLwKKrcYVhZojJP1PRgeADlrC3wuf5TAT4bU59kwn2tKqlCDQiM8N__UJfT2cmVZ-osVzs_naNTW8ZkbLjF2LihO4bm7CdFrnbiyKn9ppbHtHCYYfn3KARg-f2O-7P1qrAZVCI8E2HdfY_PKqn69bFdQqzOQcXJck6ssn_noqYNuSSqEpivPKhg3mbuIIn2CYbxBAqM2XUswT_ZlvZeLmIzkxolOIiDSlzadku-m5hEKp57ykjQ1jLGptgTFMvF727F340G4XYFkZRdTs7BfXAjCckHNbA4pO0yZJ0sbfrWUnHHFWMEVR3SXlE",
+            "q": "Marketing Intern in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cl0zyhgmqrw5HRLwKKrcYVhZojJP1PRgeADlrC3wuf5TAT4bU59kwn2tKqlCDQiM8N__UJfT2cmVZ-osVzs_naNTW8ZkbLjF2LihO4bm7CdFrnbiyKn9ppbHtHCYYfn3KARg-f2O-7P1qrAZVCI8E2HdfY_PKqn69bFdQqzOQcXJck6ssn_noqYNuSSqEpivPKhg3mbuIIn2CYbxBAqM2XUswT_ZlvZeLmIzkxolOIiDSlzadku-m5hEKp57ykjQ1jLGptgTFMvF727F340G4XYFkZRdTs7BfXAjCckHNbA4pO0yZJ0sbfrWUnHHFWMEVR3SXlE&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cl0zyhgmqrw5HRLwKKrcYVhZojJP1PRgeADlrC3wuf5TAT4bU59kwn2tKqlCDQiM8N__UJfT2cmVZ-osVzs_naNTW8ZkbLjF2LihO4bm7CdFrnbiyKn9ppbHtHCYYfn3KARg-f2O-7P1qrAZVCI8E2HdfY_PKqn69bFdQqzOQcXJck6ssn_noqYNuSSqEpivPKhg3mbuIIn2CYbxBAqM2XUswT_ZlvZeLmIzkxolOIiDSlzadku-m5hEKp57ykjQ1jLGptgTFMvF727F340G4XYFkZRdTs7BfXAjCckHNbA4pO0yZJ0sbfrWUnHHFWMEVR3SXlE"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rd7B-02-53Pp81Y9h09RwrJ-BFRcEQrEnHHt1Yz0QxmXmn4cqvy5kj3tn2KAMidTUu8HMQysaUbaQa1XGz-1DnPu62K6RlLV74UclBtcGXhDzg6N6tW9StTYsPmNFZvq0qzvhbTxkiR78Mv91hrhlrh4YhDXcn2jqeob-AjCi90j9Y2gV9Jzo8oUTuCWpIsJOoZcjd9mVIPNTs0lDvQdttDUexUfuzA3EiVE30ase_PpHanZgL15DADmf205-95bUuxY-jAF4U5EwH2wuRUTBEzwim-cYkPC5HelGIR7f1lOXEmSCeq2J6Y68KOiPxdEHia0siDNIiv0L2BCXl-uL864s-o8",
+            "q": "Marketing Intern in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnvpXXQgDiQxXCSWZUU0RVkFU7BLxg:1791401209933&q=Marketing+Intern+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rd7B-02-53Pp81Y9h09RwrJ-BFRcEQrEnHHt1Yz0QxmXmn4cqvy5kj3tn2KAMidTUu8HMQysaUbaQa1XGz-1DnPu62K6RlLV74UclBtcGXhDzg6N6tW9StTYsPmNFZvq0qzvhbTxkiR78Mv91hrhlrh4YhDXcn2jqeob-AjCi90j9Y2gV9Jzo8oUTuCWpIsJOoZcjd9mVIPNTs0lDvQdttDUexUfuzA3EiVE30ase_PpHanZgL15DADmf205-95bUuxY-jAF4U5EwH2wuRUTBEzwim-cYkPC5HelGIR7f1lOXEmSCeq2J6Y68KOiPxdEHia0siDNIiv0L2BCXl-uL864s-o8&udm=8&sa=X&ved=2ahUKEwiLqZLG0aiXAxVV2TQHHbG0AaQQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Marketing+Intern+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rd7B-02-53Pp81Y9h09RwrJ-BFRcEQrEnHHt1Yz0QxmXmn4cqvy5kj3tn2KAMidTUu8HMQysaUbaQa1XGz-1DnPu62K6RlLV74UclBtcGXhDzg6N6tW9StTYsPmNFZvq0qzvhbTxkiR78Mv91hrhlrh4YhDXcn2jqeob-AjCi90j9Y2gV9Jzo8oUTuCWpIsJOoZcjd9mVIPNTs0lDvQdttDUexUfuzA3EiVE30ase_PpHanZgL15DADmf205-95bUuxY-jAF4U5EwH2wuRUTBEzwim-cYkPC5HelGIR7f1lOXEmSCeq2J6Y68KOiPxdEHia0siDNIiv0L2BCXl-uL864s-o8"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Client Servicing Intern – Digital Marketing",
+      "company_name": "Olio Global AdTech",
+      "location": "Pune, Maharashtra",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=PKsEtZ9HE3txXKwIAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQoCMRBFsd0jWE0niGxEsNFKFBcLUdB-mV2HJBpnlmQUS-_gPTyUJzHb_OJ_3n_Fd1Bs18ETK5woPn3r2cKOlSLD7_2BjbdeMcAe4420H_v2Kg0kwtg6EIZKxAYaLp1qlxbGpBRKmxTVt2UrdyNMjbxMhlIfdXIYqQuoVM_m01fZsR2PDsELVEGaLFtdzpSvPcPxwTTJ8kxgchrxD3sBw7WxAAAA&shmds=v1_ARwrE217halI2JCDOjZ0vgROHBjZOQbUGxaJoVlw0ubhNE1E8Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=PKsEtZ9HE3txXKwIAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69ceafdb97743bfd41e7d/images/yRmcaMopq7xDqmjX3Ia-hbPXzCeqU4SjbatUz7xlAsY.jpeg",
+      "extensions": [
+        "13 hours ago",
+        "Internship"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/client-servicing-intern-%E2%80%93-digital-marketing-at-olio-global-adtech-4475173740",
+      "job_title": "Client Servicing Intern – Digital Marketing",
+      "description": "Location: Pune\n\nExperience: Freshers / 0–1 year\n\nEmployment Type: 6-Month Internship | PPO Based on Performance\n\n\n\n\n\n\n\nAbout Olio Maximus\n\n\n\n\nOlio Maximus is the B2B marketing and consulting vertical of Olio Global AdTech. We work with manufacturers, engineering companies and B2B businesses to build stronger brands and generate business through digital marketing.\n\n\n\n\nAbout the Role\n\n\n\n\nWe’re looking for a Client Servicing Intern who is organised, communicative and curious about digital marketing.\n\n\n\n\nYou’ll work alongside our account management and strategy teams, helping coordinate projects, communicate with clients and make sure tasks move forward smoothly.\n\n\n\n\nYou don’t need to be a digital marketing expert. We’re looking for someone who can learn quickly, communicate professionally and take ownership of their work.\n\n\n\n\nWhat You’ll Do\n\n\n\n\nCoordinate with clients and internal teams on ongoing projects.Follow up on content, approvals, requirements and deliverables.Maintain task lists, timelines and project updates.Assist with client communication and basic reporting.Support the team in executing digital marketing activities.Track project requirements and make sure important tasks don’t get missed.Participate in client discussions and internal meetings.Assist with day-to-day client servicing and account management activities.Learn the fundamentals of SEO, social media, Google Ads and lead generation.Gradually take ownership of tasks as you learn.\n\n\nWhat We’re Looking For\n\n\n\n\nBasic understanding or genuine interest in digital marketing.Strong formal written and verbal communication skills.Good organisation and follow-up skills.Comfortable communicating with clients and internal teams.Ability to manage multiple tasks and deadlines.Proactive attitude and willingness to take ownership.Comfortable asking questions and seeking clarification.Willingness to learn marketing beyond just social media.Ability to take feedback and improve.\n\n\nYou don’t need in-depth knowledge of SEO, Google Ads or client servicing. A good foundation, communication skills and willingness to learn matter more.\n\n\n\n\nFreshers, recent graduates and candidates with internship, college project or basic agency exposure are welcome to apply.\n\n\n\n\nWhat You’ll Learn\n\n\n\n\nDuring the internship, you’ll get practical exposure to:\n\n\n\n\nClient communication and servicingDigital marketing strategyAccount managementSEOSocial media marketingGoogle AdsLead generationCampaign planningReporting and performance trackingProject and deadline management\n\n\nYou’ll work closely with strategists, marketers and client teams and learn how digital marketing is planned, executed and measured for real businesses.\n\n\n\n\nGrowth Opportunity\n\n\n\n\nThis is a 6-month internship with a PPO opportunity based on performance.\n\n\n\n\nDuring the internship, you’ll build your digital marketing knowledge, develop client management skills and gradually take on more responsibility.\n\n\n\n\nIntern → Learn Client Servicing → Understand Digital Marketing Strategy → PPO Based on Performance → Grow into an Account Manager / Growth Consultant\n\n\n\n\nWhy Olio Maximus?\n\n\n\n\nAt Olio Maximus, we don't expect interns to know everything. We invest in training people who show curiosity, ownership and the willingness to grow.\n\n\n\n\nIf you’re organised, curious and enjoy working with people, this could be a great place to start your career.\n\n\n\n\nHow to Apply\n\n\n\n\nSend your CV to [redacted] and CC: [redacted].\n\n\n\n\nTell us briefly why you’re interested in digital marketing, client communication and client servicing.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/client-servicing-intern-%E2%80%93-digital-marketing-at-olio-global-adtech-4475173740?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDbGllbnQgU2VydmljaW5nIEludGVybiDigJMgRGlnaXRhbCBNYXJrZXRpbmciLCJjb21wYW55X25hbWUiOiJPbGlvIEdsb2JhbCBBZFRlY2giLCJodGlkb2NpZCI6IlBLc0V0WjlIRTN0eFhLd0lBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTWGRHVWxabU5sWkdkM0JwVkVGbVZqY3dOSFI2VEdkMFRHY3dYMWxGUkRSSWRuVkVZbUZGWDFaZk0wRm1kVzFFUjFaalZUWjJXRWwwVGpJelUxYzBja1ZVVkhWcFIwMURkR3RsYldsa1JtOURla3h0WjNaRFNUbERhbUk1TUcxc04waEZiR28zVUhaaGFsVmhXaTFhUW1GRk9FUkRSMDl4Tm5KNE56aFRaVlZqUkhSQ2JrZ1NGeTFhZWtkaGMzWkpUMDVYZVRBdGExQnpaVzFIYjBGdkdpSkJSSE55T1daU05uRjVTa0pTY1RCTWIxbDNVRXh5VVRkaWMwWjRSbU5xVFZCUiIsImZjdiI6IjMiLCJmY19pZCI6IlBLc0V0WjlIRTN0eFhLd0lBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Marketing Internship",
+      "company_name": "confidential",
+      "location": "Pune, Maharashtra",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=7jThtvQfRDpszT3ZAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ7CMAxAUbH2CExmRdAgJBY4AGKoxA0qN5gkEOwoNlJHbsDADTkJZfnT-8171qw7rHeyxAFObFRZYyrwfX3gJgMoYfURhOEoEjLND9Gs6N451dwGNbTkWy8PJ0yDjG6a9J9eI1YqGY367W4ztoXDcuGFr-lCbAkzJIbzk2kFHU4WNVrFH3cv2t6SAAAA&shmds=v1_ARwrE21odVU-3dz4u5Lkj3rWWXfkRk4YW52EIJu96ndC38rXEw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=7jThtvQfRDpszT3ZAAAAAA%3D%3D",
+      "extensions": [
+        "9 hours ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jooble.org/jdp/-3506010969280349655",
+      "job_title": "Marketing Internship",
+      "description": "Wayzon Technology Services Pvt. Ltd. is hiring for Marketing Intern \n\n About the Company \n\n Wayzon Technology Services Pvt. Ltd. is a software company founded in 2013. Over the last six years, the company has been working in the fields of Industrial Internet of Things (IIoT) and vision systems, helping create technology-driven solutions for industrial and business applications. The company is inviting applications for a Marketing Intern to support general marketing, digital marketing, search engine optimization, and social media optimization initiatives. This six-month, full-time, on-site opportunity in Pune is suitable for a fresher with an MBA in Marketing and offers practical exposure within a technology-focused organization. High-performing interns may be considered for a performance-based pre-placement offer. \n\n Responsibilities \n\n Assist with general marketing planning, campaign execution, brand communication, and business outreach.  Support digital marketing activities across relevant online channels, including content coordination and social media initiatives.  Assist with SEO activities such as keyword research, on-page optimization, website content improvements, and basic search performance tracking.  Support SMO initiatives by planning social media content, improving engagement, and monitoring audience interactions.  Conduct market research, competitor tracking, customer and audience analysis, and lead-generation activities.  Help prepare website content, presentations, campaign updates, reports, and marketing communication materials.  Track campaign, website, search, and social media performance metrics and share actionable observations with the team.  Requirements \n\n Fresher with an MBA or relevant management education, preferably specializing in Marketing.  Interest in general marketing, digital marketing, SEO, SMO, branding, content, market research, and business development.  Strong written and verbal communication skills with a proactive, organized approach to work.  Comfortable working full time from the Pune office for the complete six-month internship.  Ability to learn quickly, collaborate effectively, and take ownership of tasks.  Industry:  Software, Industrial IoT and Vision Systems \n Experience:  Freshers \n Compensation:  ₹5,000 per month \n Opportunity:  Successful performance may lead to a pre-placement offer.",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-3506010969280349655?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "InsiderOne",
+          "link": "https://www.insiderone.in/jobs/marketing-internship-at-wayzon-technology-services-pvt-ltd-pune-49963e99-04cd-4998-9f69-be888f059ad9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4112-e789c173c765a9299cfca87d7f3952af?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYXJrZXRpbmcgSW50ZXJuc2hpcCIsImNvbXBhbnlfbmFtZSI6ImNvbmZpZGVudGlhbCIsImh0aWRvY2lkIjoiN2pUaHR2UWZSRHBzelQzWkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHRmtRVVUwTVRCdVVHaDRlSE4yU3paWmJreFdlVGh3ZGtGamNYcE5UVGgzWkU5d1YybHZNelZNYVZaclRFVlFTMHQxUkhKMGJEaGhaV3hOUzBGbE5TMUdXa3RGTUhWamFHdENNSFJDUzBadmNIUndiM2hsY2tGSlkyUldiVWhrU1cxU1VGRjVkWHBCYnpOWFgzSmFjV1Y2VXpsVFdESlBWRnBMVDI5eVdHTkNNVFprYkY4U0Z5MWFla2RoYzNaSlQwNVhlVEF0YTFCelpXMUhiMEZ2R2lKQlJITnlPV1pSWVdwTGNGOHljM2hzVVZKWFFXRjVTSGR3ZUc5RE1ETktXRFJuIiwiZmN2IjoiMyIsImZjX2lkIjoiN2pUaHR2UWZSRHBzelQzWkFBQUFBQT09In0="
+    },
+    {
+      "title": "Content and Social Media Marketing - Internship (Part Time)",
+      "company_name": "ANKS RONIN",
+      "location": "Pimpri-Chinchwad, Maharashtra",
+      "via": "Internshala",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=35QQmRqqOq7LTnfJAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOMW7CQBAAlZYnpNqSBLAjpDRJhSgQQhgU6NFyXvkW7N3T7UpQ8gc-xFt4CU4z1Yw0g8fbYD9XcRIHlBp2GhhbWFPNCGvMZ3KWBiaw7J0sFjnBcIvZYc8dfcDzdoeTHsEIc4igAgvVpqX33-ie7KcszdqiMUfnUATtShU66rXsI_vHwSJmSi06HabfX9ciSfM5mlWrHfxtqmUFLLDlLmWezCNLiBesx_1ZX6FFz_gCIhwSRcMAAAA&shmds=v1_ARwrE23kPgH1lEU6EqY9FexleF9ymZR3lC7pmaQtgmIpPkaivQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=35QQmRqqOq7LTnfJAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "₹10K–₹18K a month",
+        "Part-time and Internship"
+      ],
+      "source_link": "https://internshala.com/internship/detail/part-time-content-and-social-media-marketing-internship-in-pimpri-chinchwad-at-anks-ronin1791191569",
+      "job_title": "Content and Social Media Marketing - Internship (Part Time)",
+      "description": "About the internship:\n\nAre you passionate about fashion and social media marketing? Join ANKS RONIN as a content and social media marketing intern! We are seeking a dynamic individual who is well-versed in marketing strategies, digital marketing trends, and effective communication skills. If you have a keen eye for design, fashion styling, and business management, this is the perfect opportunity for you!\n\n\n\nKey responsibilities:\n\n\n\n1. Develop engaging content for social media platforms to increase brand awareness and drive traffic to our website.\n\n2. Manage social media accounts and create a content calendar to ensure consistent and timely posts.\n\n3. Implement display ads and other digital marketing strategies to reach a wider audience.\n\n4. Collaborate with the design team to create visually appealing graphics and images for social media posts.\n\n5. Assist with fashion styling and product placement for photoshoots and marketing campaigns.\n\n6. Analyze social media metrics and track the effectiveness of marketing efforts.\n\n7. Stay up-to-date on industry trends and competitor strategies to optimize our marketing campaigns. \n\n\n\nIf you are ready to gain hands-on experience in content creation and social media marketing for a cutting-edge fashion brand, apply now!\n\nWho can apply:\n\nOnly those candidates can apply who:\n\nare available for the part time job/internshipcan start the part time job/internship between 2nd Oct'26 and 6th Nov'26are available for duration of 3 monthshave relevant skills and interests* Women wanting to start/restart their career can also apply.\n\nStipend:\n\nINR₹ 10,000 - 18,000 /month\n\nDeadline:\n\n2026-11-04 23:59:59\n\nOther perks:\n\nCertificate, Letter of recommendation, Flexible work hours, Informal dress code, 5 days a week\n\nSkills required:\n\nContent Writing, Digital Marketing, Market Analysis, Fashion Designing, Adobe Animate, Script Writing, Business Management, Content Marketing, Canva, Figma, Fashion Styling, Marketing, Display Ads, Facebook Ads, Effective Communication, Influencer Marketing, Community Management and Content Editing\n\nAbout Company:\n\nANKS RONIN is an independent luxury fashion brand focused on premium design, quality craftsmanship, exclusivity, and community. We create distinctive, elevated clothing designed to build long-term brand desirability and a strong sense of belonging. As a growing brand, we're building ANKS RONIN from the ground up with ambitions to become a globally recognized luxury fashion label. Interns will get hands-on exposure to fashion, branding, marketing, content, operations, and community building while working closely with the founding team.\n\nAdditional information:\n\n\n                \n                    Stipend Structure:\n                        Fixed pay: ₹ 5,000 - 8,000 /month\n                    \n                    \n                        Incentive pay: ₹ 5,000 - 10,000 /month",
+      "apply_options": [
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/internship/detail/part-time-content-and-social-media-marketing-internship-in-pimpri-chinchwad-at-anks-ronin1791191569?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb250ZW50IGFuZCBTb2NpYWwgTWVkaWEgTWFya2V0aW5nIC0gSW50ZXJuc2hpcCAoUGFydCBUaW1lKSIsImNvbXBhbnlfbmFtZSI6IkFOS1MgUk9OSU4iLCJodGlkb2NpZCI6IjM1UVFtUnFxT3E3TFRuZkpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTalpyTWtGck9EVTNNbXhyTjI0NFpHOWtkRXAzWkVvd2JrcFZWazVWUnpsM1puUTVMWEp4UlhocFdqRnJMVWRUU0ZFdE5sZENjbkpYV1VoeFpUZHlNVk42Wm1zM09UUkZTRmszT1ZNMkxYTTJja05qVTIxdk5rRlFVWFJwUjIxcFlYTXRZbmgwV1ZOVlNVOVRXREp1WkhFeGNVTlpXSEZTWWxOUVMzaFNUV1p4YVVZd1VERVNGeTFhZWtkaGMzWkpUMDVYZVRBdGExQnpaVzFIYjBGdkdpSkJSSE55T1daU2RtdG1NMFpPTkZsUFpHMUpSMnA0UjBWM1RsWnlXbW90WW0xbiIsImZjdiI6IjMiLCJmY19pZCI6IjM1UVFtUnFxT3E3TFRuZkpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Social Media & Content Growth Intern – Creator Cove",
+      "company_name": "Creator Cove",
+      "location": "Pune, Maharashtra",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=bIJgUU5hJfbVQqECAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_1WNMQrCQBBFsc0RrMbGQiQrgo2WKYJFRPAAMlmH7Mo6E3ZHTekdvIhn8iSudjYf3ud9fvEaFbuDWI8BGjp5hClUwkqsUEe5q4NtpsjwfjyhioQqMRs3-hVnaSERRutAGGqRLtB441T7tDYmpVB2SVG9La1cjDC1Mpg8St84JoeR-oBKx-VqMZQ9d7PJ34dn2F-Z5tBgdjE5jfgB_JXr4bMAAAA&shmds=v1_ARwrE2162YrWk5-RWvh7-oc4vEJegKmhJhcfa55kOsEAAJg95w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=bIJgUU5hJfbVQqECAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEX___8AAAD4-PjCwsLn5-f19fXQ0NCvr6_b29vq6uru7u66urp0dHT8_PycnJy-vr42NjbKysqTk5MwMDB-fn5ZWVlNTU3h4eGnp6dtbW0XFxdkZGQkJCRISEhSUlIPDw9AQECLi4uby45QAAABpUlEQVRIie2V25KjIBCGu1EBOangMSYmvv9LbmOS2ZmtsoLZqq29yH-BDcUn9gkBPvroPxHjYtTDYUzOuOksjnEev3QpDnAtfpdK5qo7UC_X7XlL5ey23TMyeYimTARF3Kwfkxq9TT2xJ657Tsp0DyEemKVv_5KKYP4GWLwLvv2pMBHYPyfDgcLJ4pHubpPDYzq5Zd2UZFWxdk7JPSIfRXrCYyUHMP4o8nQvLejfWH-krSgoj86q9eu9f0pq0Rwo1L9Sch895SYNg_c8DpR2KYCvbpUgJpqN3u290Bh-qrK-QaW7hgN0yAaBQvmezwbOum13QIxDtnACQ5uBCsJtizGRCEGvu2ABUmZ17UFPUoG7Xs4bGCSVLNQG91zMcMK8Mgytxs4A8jLwCHJaz8gwbo9UjQWmIGdsGHKgXi5UHMFy-tgc7MvuLrbwUfLjDcksY9vq6ySZK3UjxxDsrKEVDs_rS2ZzdQFLHuYwGr6Qa84nYXDfWFBQ8gBYzRTdkHYDDTg0J7iNanb012rAr3mZdmRzWQYozI2iX850fczdbh4--uif6RczIhCjPBbgUgAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/social-media-content-growth-intern-%E2%80%93-creator-cove-at-creator-cove-4473636550",
+      "job_title": "Social Media & Content Growth Intern – Creator Cove",
+      "description": "The Role\n\n\n\n\nThis is not a traditional social media internship.\n\n\n\n\nYou will be responsible for *creating content, understanding what makes content go viral, experimenting with formats and actively growing Creator Cove's Instagram audience.*\n\n\n\n\nYou will work closely with the founders and marketing team to develop content that gets *views, shares, saves, comments, followers and creator participatio\n\n\n\n\nKey Responsibilities\n\n\n\n\n1. Instagram Growth\n\n\n\n\n* Develop and execute strategies to grow Creator Cove's Instagram followers organically.\n\n* Research trending content formats, sounds, memes, hooks and creator trends.\n\n* Identify opportunities for Creator Cove to participate in relevant trends.\n\n* Experiment with Reels, carousels, Stories, collaborations and other Instagram formats.\n\n* Track weekly growth in followers, reach, engagement and content performance.\n\n* Study competitor and creator accounts to identify successful content strategies.\n\n\n\n\n2. Content Creation\n\n\n\n\n* Create and publish Instagram Reels, carousels, Stories and static posts.\n\n* Develop creative hooks and concepts designed for high retention and shareability.\n\n* Create content around:\n\n\n\n\n * Creator tips\n\n * Instagram growth\n\n * Content creation\n\n * AI tools for creators\n\n * Editing tips\n\n * Creator economy trends\n\n * Influencer marketing\n\n * Brand collaborations\n\n * Creator success stories\n\n * Memes and relatable creator content\n\n * Creator Cove products, events and courses\n\n* Repurpose long-form content into short-form social content.\n\n\n\n\n 3. Content Research\n\n\n\n\n* Spend time every day researching what is trending across Instagram, YouTube and other creator platforms.\n\n* Maintain a database of interesting content ideas, hooks, trends and references.\n\n* Identify emerging creators, formats and trends that Creator Cove can leverage.\n\n* Understand *why a piece of content is performing*, not just what is trending.\n\n\n\n\n4. Content Calendar\n\n\n\n\n* Build and maintain a weekly/monthly content calendar.\n\n* Plan a consistent posting schedule.\n\n* Balance educational, entertaining, inspirational, promotional and community-driven content.\n\n* Ensure Creator Cove maintains a strong and recognizable content identity.\n\n\n\n\n5. Community Building\n\n\n\n\n* Engage with creators, followers and relevant communities.\n\n* Respond to comments and DMs.\n\n* Identify potential creator collaborations.\n\n* Help build relationships with emerging creators and micro-influencers.\n\n* Encourage creators to participate in Creator Cove initiatives and events.\n\n\n\n\n6. Analytics & Optimization\n\n\n\n\n* Track Instagram Insights and content performance.\n\n* Monitor:\n\n\n\n\n * Follower growth\n\n * Reach\n\n * Reel views\n\n * Watch time\n\n * Engagement rate\n\n * Shares\n\n * Saves\n\n * Profile visits\n\n * Follows generated per post\n\n* Conduct weekly analysis and recommend what content should be created more or less frequently.\n\n\n\n\nWhat We Are Looking For\n\n\n\n\nWe are looking for someone who:\n\n\n\n\n* Is *obsessed with Instagram and content*\n\n* Understands Reels, trends, hooks and viral content\n\n* Has a strong sense of what Gen Z and young creators consume online\n\n* Can independently come up with content ideas\n\n* Has good writing and communication skills\n\n* Is comfortable appearing on camera or working with creators (preferred, not mandatory)\n\n* Has basic skills in Canva, CapCut, VN, Premiere Pro or similar tools\n\n* Understands basic Instagram analytics\n\n* Is proactive and willing to experiment\n\n* Can move quickly and execute ideas without excessive supervision",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/social-media-content-growth-intern-%E2%80%93-creator-cove-at-creator-cove-4473636550?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/social-media-content-creator-modular-furniture-interiors-xen-modular-india-inmhpunecity-2-to-5-years-experience-64d45696-e59c-4e8b-84c8-7915619b6aa6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/1175125864904392704?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/digital-content-and-media-company-is-hiring-content-creator-intern-pune-1v42kw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2NpYWwgTWVkaWEgXHUwMDI2IENvbnRlbnQgR3Jvd3RoIEludGVybiDigJMgQ3JlYXRvciBDb3ZlIiwiY29tcGFueV9uYW1lIjoiQ3JlYXRvciBDb3ZlIiwiaHRpZG9jaWQiOiJiSUpnVVU1aEpmYlZRcUVDQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzI1WldubFNiRE5tVkRSUWQxWlZSMTl6VEZWUmF6RXdRazlUTjNveVRtTnhkVEJuVkcxUVEycHhlRGwzU1ZKVGVWQjBNMWgxTVV0SFZHWXpiVzFFV2xSc1RIcDZjMjQ1UVZFME1GTXRTRmRuV1RscExVTkdNRUpWWmxOcFRURjFWalp5T1hoTlZXNUtUbVpOUVVselZUVjRaMjUwV0hJd1RrdHNlRUoyWld3MFFrMVdVREFTRnkxYWVrZGhjM1pKVDA1WGVUQXRhMUJ6WlcxSGIwRnZHaUpCUkhOeU9XWlVkRUpUVm1aeWJuVk5OMWMyVTB3MlRVdHZNMDh3YVRoMVpXMTMiLCJmY3YiOiIzIiwiZmNfaWQiOiJiSUpnVVU1aEpmYlZRcUVDQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Digital Marketing - Internship (WFH & Part Time)",
+      "company_name": "JAYESH JAYANT TIKODE",
+      "location": "Anywhere",
+      "via": "Internshala",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=hhNyd8MwtMG-bDxxAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOOwrCQBQAsc0RrF4lKpqIYKNVIH6i-AEDYhVewrK7utld9j3B0jt4GO_jSYzNTDUw0acT5ZmWmtHAHsNdsLYSxpBbFsGS0h76l9UGenDCwFDoRgzg-3rDzVVAAkOtwFlYOyeN6C4Us6d5khCZWBIj6zquXZM4Kyr3TNqI_ihJYRDeIItyOps8Y2_lcLxNr8vzBlqlhwKKfHfMlqAt7JxR6B9h1B62HZLigD_pKVkcugAAAA&shmds=v1_ARwrE207yvzvORfneC_eULDogVZVcDxX5FOXiq6tF39ptD_qdA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=hhNyd8MwtMG-bDxxAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69ceafdb97743bfd41e7d/images/tiZ4QWJPzW8k3hv-Zymi0LTWGdYptl1i5OS0vGZznxw.png",
+      "extensions": [
+        "4 days ago",
+        "₹3K a month",
+        "Work from home",
+        "Part-time and Internship"
+      ],
+      "source_link": "https://internshala.com/internship/detail/work-from-home-digital-marketing-internship-at-jayesh-jayant-tikode1791113526",
+      "job_title": "Digital Marketing - Internship (WFH & Part Time)",
+      "description": "About the internship:\n\nSelected intern's day-to-day responsibilities include:\n\n\n\n1. Create and post daily content (reels, posters, short videos) on Instagram, Facebook and WhatsApp to promote our wholesale medicine ordering app\n\n2. Promote the app and special offers to medical store owners and chemists through WhatsApp groups and social media\n\n3. Run small lead-generation campaigns and track app installs and sign-ups\n\n4. Reply to comments and enquiries from retailers\n\n5. Share a short weekly report on reach, installs and orders\n\nWho can apply:\n\nOnly those candidates can apply who:\n\nare available for the work from home job/internshipcan start the work from home job/internship between 4th Oct'26 and 8th Nov'26are available for duration of 3 monthshave relevant skills and interests\n\nStipend:\n\nINR₹ 3,000 /month\n\nDeadline:\n\n2026-11-03 23:59:59\n\nOther perks:\n\nCertificate, Letter of recommendation, Flexible work hours\n\nSkills required:\n\nSocial Media Marketing, Digital Marketing, Creative Writing and Instagram Marketing\n\nOther Requirements:\n\n1. Good command of Hindi or Marathi2. Comfortable with Canva and creating reels and short videos3. Can commit 3 to 4 hours every day\n\nAbout Company:\n\nPharmaceutical distributor in Kolhapur, supplying medical stores across the region with a modern retailer ordering app.",
+      "apply_options": [
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/internship/detail/work-from-home-digital-marketing-internship-at-jayesh-jayant-tikode1791113526?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaWdpdGFsIE1hcmtldGluZyAtIEludGVybnNoaXAgKFdGSCBcdTAwMjYgUGFydCBUaW1lKSIsImNvbXBhbnlfbmFtZSI6IkpBWUVTSCBKQVlBTlQgVElLT0RFIiwiaHRpZG9jaWQiOiJoaE55ZDhNd3RNRy1iRHh4QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNWbmNESXdVbTF6VTBORE1UUkhjbTkzZGxGSmJXc3pkRkJLU0UxSlh6ZHZhRGRWUmxjd2IwTlZlbU13YkMwd1pWcFFNVWxWVUdOU2RVeGpTM0pwWTJWNU1UbFRSM2g1Um5CcGRYbFVVMnBpTFRkbVlrWjNjalJDTldVMFoyaEplVUZIVTBaQ2RsUnlOazlYTFhKTFJUQlJWRkl4TkhwalFsQllNekZwWDJwck1XSkRlRmdTRnkxYWVrZGhjM1pKVDA1WGVUQXRhMUJ6WlcxSGIwRnZHaUpCUkhOeU9XWlNVMEZtVUZaaFpGVlJaV2RJTjNBelJIUkhRbTFIWVRCUFkyRlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJoaE55ZDhNd3RNRy1iRHh4QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Content Creator & Digital Marketing Intern (Anchor Role)",
+      "company_name": "NxEev Technologies",
+      "location": "Maharashtra",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=XWLOdVCPSuOQJ6vGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXOMQ5BQRDG8WgdQTUaQfGeSDRUgoiChOhlbCa7y5p52ZnIK93BUdzISazmq35f8u9-Ot3jStiIDVaZ0CTDANbRR8MEe8x3ssgedoVkhuGSXSjkJIlG8H294SZXUMLsAgjDVsQn6i2CWaPzulZNlVdDi65y8qiF6SptXU76n4sGzNQkNLpMZ5O2atiP-4d2Q084kwssSXwkhcilpVjUYBl_LSIz47YAAAA&shmds=v1_ARwrE22PiXiSFAIxOdQo-tP3aM-mxo2Sg4x5QixIMvnSLkjTpg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=XWLOdVCPSuOQJ6vGAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "₹6K–₹10K a month",
+        "Full–time and Internship"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=c54aeb8ed16dc33d",
+      "job_title": "Content Creator & Digital Marketing Intern (Anchor Role)",
+      "description": "Content Creator & Digital Marketing Intern\n\n\nLocation: Mira Road, Mumbai (On-Site)\nExperience: Freshers / 0–6 Months\nEmployment Type: Internship\n\n\nAbout the Role\n\n\nWe are looking for a confident and creative Content Creator & Anchor Intern who is comfortable appearing on camera, presenting project-related content, creating short videos and reels, and managing social media content.\n\n\nThe candidate will be involved in anchoring, video shooting, reel creation, video editing, and social media content creation.\n\n\nKey Responsibilities\n\n\n\n Visit project sites to shoot photos and videos.\n Act as an on-camera anchor and confidently present project details.\n Create engaging Instagram Reels, YouTube Shorts, and short-form videos.\n Shoot, edit, and publish reels and short videos.\n Edit videos using tools such as CapCut, VN, Canva, Premiere Pro, or similar tools.\n Create engaging and creative content for Instagram, Facebook, LinkedIn, and YouTube.\n Write captions, hashtags, and promotional content.\n Coordinate with the team to understand project details and create relevant content.\n Follow current social media trends and suggest new content ideas.\n Support social media and digital marketing activities.\n\nRequired Skills\n\n\n\n Good communication and anchoring/presentation skills.\n Confidence in speaking in front of the camera.\n Interest in creating reels and short-form videos.\n Basic video editing skills.\n Creative thinking and storytelling ability.\n Basic knowledge of Instagram, YouTube, Facebook, and LinkedIn.\n Willingness to travel to project sites for content creation.\n\nEligibility\n\n\n\n Freshers / candidates with 0–6 months of experience can apply.\n Candidates interested in anchoring, content creation, video editing, reels, and digital marketing are encouraged to apply.\n Candidates with a sample video, reel, or portfolio will be preferred.\n Mumbai-based candidates preferred.\n\nWhy Join Us?\n\n\n\n Hands-on experience in anchoring and on-camera presentation.\n Opportunity to create professional reels and short videos.\n Learn video editing and social media content creation.\n Build a strong content creation portfolio.\n Exposure to real projects and digital marketing activities.\n\nPay: ₹6,000.00 - ₹10,000.00 per month\n\n\nApplication Question(s):\n\n\n\n Are you comfortable appearing on camera and presenting/anchoring in videos?\n Which video editing tools have you used? (CapCut, VN, Canva, Premiere Pro, etc.)\n Are you available for a full-time, on-site internship at Mira Road, Mumbai?\n Where do you reside ?\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=c54aeb8ed16dc33d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/content-creator-digital-marketing-intern-anchor-role-nxeev-technologies-mira-road-mumbai-maharashtra--t7xk-867686139?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/ls9ixGeDzcTzWgzfUtBd8h7AR7Zjm_rpjrhOheUjwMZjSgOaExU3-Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb250ZW50IENyZWF0b3IgXHUwMDI2IERpZ2l0YWwgTWFya2V0aW5nIEludGVybiAoQW5jaG9yIFJvbGUpIiwiY29tcGFueV9uYW1lIjoiTnhFZXYgVGVjaG5vbG9naWVzIiwiaHRpZG9jaWQiOiJYV0xPZFZDUFN1T1FKNnZHQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBSbUxWbDRTRkJtU1dsTlRucFdibTVXUjFoSWJYWldVbEJwY0VNeGVYZEdSVVJCUW5GSmFVRTVUM2RGU2tkeFRWWkxkbGRpV21rME0zaDJTM1p0U1daVmVrY3hSMVIzYWtvM1RFeDBjMkY0VGpSVmEzRnJkR2szVG0xWk5YaFZRekkyYUU1TlZVMWpWalZ4WDNwSE9XaFhjakF4WjNKbFNuaENTVzVhYkVGdWFFbE9WamNTRnkxYWVrZGhjM1pKVDA1WGVUQXRhMUJ6WlcxSGIwRnZHaUpCUkhOeU9XWlNVVTV2VFV0eE5rMXpPVmwyYW1Ock5USjRTbmxUVDJKRmNVZEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJYV0xPZFZDUFN1T1FKNnZHQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Content Writer Intern",
+      "company_name": "SRV Media",
+      "location": "Pimpri-Chinchwad, Maharashtra",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=tI7kyK1bZN8_q7xzAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7CE43F01EcNGxgzgUREHHck2PJtLeheTAjr6Dk6_nk1iXH_7hKz6LwlTCSqxwT0EpwWm-xPB9veEhLWTC5DwIw1GkH2h58Kox763NeTB9VtTgjJPRClMrk51R_qfJHhPFAZWa7W4zmch9WV4vN6ipCwiB4RzGmMK68oGdf2K3ghpnhNlrwh8gz3HBnAAAAA&shmds=v1_ARwrE23AyiBGZ3ExncgNWz0rt5T4A1UjNMDJJlK4ZFzMTk3ewQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=tI7kyK1bZN8_q7xzAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69ceafdb97743bfd41e7d/images/jUWc88J3DesmUdD78W_C25baqf3vtZ1e5UBNL5ftLCs.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Internship"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/content-writer-intern-at-srv-media-4476140580",
+      "job_title": "Content Writer Intern",
+      "description": "✍️ Position: Content Writer Intern\n\n📍 Location: Pune\n\n⏳ Duration: 3–6 Months\n\n💼 Internship Type: Full-time\n\n⚡ Immediate Joiners Preferred\n\nKey Responsibilities\n\nAssist in creating content for social media, blogs, websites, emailers, and marketing campaigns.Write engaging captions, ad copies, and brand communication content.Research trending topics and industry insights for content ideation.Support the creative team with campaign ideas and content planning.Proofread and edit content before publishing.Coordinate with designers and marketing teams for content execution.Requirements\n\nStrong written and verbal communication skills.Good command of English grammar and creative writing.Interest in digital marketing, branding, and social media trends.Basic understanding of content writing and copywriting.Creative mindset with willingness to learn and adapt.Ability to manage tasks and meet deadlines.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/content-writer-intern-at-srv-media-4476140580?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/content-writer-intern-srv-media-pune-area--t7xk-869375577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb250ZW50IFdyaXRlciBJbnRlcm4iLCJjb21wYW55X25hbWUiOiJTUlYgTWVkaWEiLCJodGlkb2NpZCI6InRJN2t5SzFiWk44X3E3eHpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVFpsWDBwQmJVTkRSRUZ5T0c5S1dFWmtWemhFWW5od2VHNXFSbGs0WkVKQk9WcHFZamRXZUdOeFRWRm1TRzFOYkV4dGVGcFRRbVpNTVdwYVYyUlZhMnQzVHpCb1RWUklWVk5SUlhSZlEzQkJOSGxxTUZSaFNVaG5ObGRZTkc5aFVtcEJRV3BUVjJKbWVFdDFialJEY1V3emJtMTBUbVZQUkU5clVWZDZUa0ZzVTFoalJHY1NGeTFhZWtkaGMzWkpUMDVYZVRBdGExQnpaVzFIYjBGdkdpSkJSSE55T1daVVFteHNSblV4ZDFKTGRXeFVXa1kwYUhReFZFUndhbmRsVDBobiIsImZjdiI6IjMiLCJmY19pZCI6InRJN2t5SzFiWk44X3E3eHpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Performance Marketing Intern - (Google and Meta Ads)",
+      "company_name": "Telosa Services Pvt.Ltd.",
+      "location": "Pune, Maharashtra",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=VWQdp27gQw6dnlmkAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWOMQrCQBAAsc0TrLZUMRcRbLSyEsFAQPuwuaxJNNkNt6tY-gef4298iRGbqWZgovcoSjMKZwkdsidIMVzJGq5gz0aBIYbJTqRqCZBLSMkQtqVO4fN8wUUKUMLgaxCGvzbe1Ga9rpNEtXWVGlrjnZcuEaZCHskQ6Q-51hiob9EoX64WD9dzNYtP1IoiHCncG08K2d3cwUoHDUN2Y5oPh0OHWlvAL4_SFIC-AAAA&shmds=v1_ARwrE20FGzpADv0AtplzBVsFabuAdG7t3EhQwOiZRyZhU1e68A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=VWQdp27gQw6dnlmkAAAAAA%3D%3D",
+      "extensions": [
+        "8 days ago",
+        "₹8K–₹12K a month",
+        "Full–time and Internship"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/l6Bi9OukKkM9PCSxZeGT_KuWmGBUueuaej6vX614KcFMM7kK3zRnrg",
+      "job_title": "Performance Marketing Intern - (Google and Meta Ads)",
+      "description": "Assist in planning, executing, and optimizing paid ad campaigns on Google Ads and Meta Ads.Conduct keyword research, audience targeting, and ad copy creation for effective ad performance.Monitor and analyze campaign performance metrics, including CTR, CPC, CPA, and ROAS.A/B test ad creatives, headlines, and targeting strategies to improve campaign efficiency.Collaborate with the content and design team to create engaging ad creatives.Stay updated with the latest trends and best practices in digital advertising.Generate performance reports and provide insights for improvements.Requirements:\n\nCurrently pursuing or recently completed a degree in Marketing, Digital Marketing, Business, or a related field.Basic understanding of Google Ads, Facebook Ads Manager, and performance marketing concepts.Strong analytical skills and proficiency in Excel/Google Sheets.Excellent communication skills and attention to detail.Knowledge of Google Analytics, Google Tag Manager, or other tracking tools is a plus.Prior internship experience in digital marketing is an advantage.What We Offer:\n\nHands-on experience with real campaigns and budget management.Mentorship and guidance from experienced digital marketers.Opportunity to work in a dynamic and fast-growing company.Letter of recommendation and potential for a full-time role based on performance.Pay: ₹8,000.00 - ₹12,000.00 per month\n\nBenefits:\n\nFlexible scheduleAbility to commute/relocate:\n\nPune, Maharashtra: Reliably commute or planning to relocate before starting work (Required)Work Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/l6Bi9OukKkM9PCSxZeGT_KuWmGBUueuaej6vX614KcFMM7kK3zRnrg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/performance-marketing-intern-google-and-meta-ads-telosa-services-pvtltd-pune-maharashtra--t7xk-858168188?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/minutus-computing-marketing-intern-trainee-pune-maharashtra-india-0-to-1-years-696254?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQZXJmb3JtYW5jZSBNYXJrZXRpbmcgSW50ZXJuIC0gKEdvb2dsZSBhbmQgTWV0YSBBZHMpIiwiY29tcGFueV9uYW1lIjoiVGVsb3NhIFNlcnZpY2VzIFB2dC5MdGQuIiwiaHRpZG9jaWQiOiJWV1FkcDI3Z1F3NmRubG1rQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEhGMWIxTTBkakE1WTNWZmRHSkRObkp4Y0U5aldXdzBjRU5LYzE5dGRFdFdlRUZVUkVsSlRXTXljMms0ZW5sb1REazFUMjFmZG5sbFNpMUJOMTl3YVhSeVVUQjJUbXBRVkhrNWVHTjVibTV4U25kTlMySnlkM3A2Y1Rjek1WcFBSMHd4TVVSSWQyVllRa1pyU2s5S2NrMXdURUpvZG5JMk1rWkVVMmd5VlRoeWNXTkhRVEVTRnkxYWVrZGhjM1pKVDA1WGVUQXRhMUJ6WlcxSGIwRnZHaUpCUkhOeU9XWlVUbnBmYVU1cWJuRndRMFkzVFhOV2IxSkxaa3hqYUZZeFkzRkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJWV1FkcDI3Z1F3NmRubG1rQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Growth Marketing -Intern",
+      "company_name": "LTS com",
+      "location": "Pune, Maharashtra",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=hytFI0mnozta1QLQAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TxGJr0TsVbPQBQVAQtA-bsNwlxt1wu2JKX2DjD32JZzPVDFO8J8W6TPK0CCdMN7KWAywPbJQYvq8PdFKDEqYmgjCUIqGn6T6aDbrzXrV3QQ2tbVwjdy9MtYw-R_pHpRETDT0aVZvtanQDh_nseL1AlqFlOD-YFvmcNdRoCX9S9z1JkQAAAA&shmds=v1_ARwrE2303EMr1S1vluQZ059dMQIVvaKabASJoW-Ag5FCBMkKTQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=hytFI0mnozta1QLQAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "₹6L–₹9L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobleads.com/in/job/growth-marketing-intern--pune-district--efa10d86bcf46a0834a2e0fdaea3a6b0d",
+      "job_title": "Growth Marketing -Intern",
+      "description": "ResponsibilitiesOptimize performance through data analysis.Collaborate on product marketing initiatives.Skills highlighted with ‘‘ are preferred keyskills\n\nLTS is a global technology company headquartered in Pune with offices in the USA and Singapore. We specialize in AI, RPA, product engineering, SaaS solutions, cloud, and cybersecurity services, helping enterprises to accelerate and scale efficiently",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/growth-marketing-intern--pune-district--efa10d86bcf46a0834a2e0fdaea3a6b0d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJHcm93dGggTWFya2V0aW5nIC1JbnRlcm4iLCJjb21wYW55X25hbWUiOiJMVFMgY29tIiwiaHRpZG9jaWQiOiJoeXRGSTBtbm96dGExUUxRQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzFaVU1sWkNVblZqYWtwUFRWTkxNMk5NVlVSeGJFcG1abTVhZFRSa2NWRnJORE42U0U1bVVtMTBUWEY0VlhnMWNsQm9Zblo2ZHpobGVYWnVXWFV0TmxoRFpFRTNjRFJNUVdOd1JuZEVYemhCYjNCelNGRldVVXR1WjJKRVdFUk9VVkZHTm5oclYzUmtPWHBRUTNRelkzcFFaRmd5VDNWcWRrcFBWUzFLZHpWMVRFd3lNVEFTRnkxYWVrZGhjM1pKVDA1WGVUQXRhMUJ6WlcxSGIwRnZHaUpCUkhOeU9XWlVTblozU1dKdFdIZ3pORXRGYlVGQ2VVbEljemxQYW5seFdtMTMiLCJmY3YiOiIzIiwiZmNfaWQiOiJoeXRGSTBtbm96dGExUUxRQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Sales and Marketing Internship",
+      "company_name": "confidential",
+      "location": "Kolhapur, Maharashtra",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Marketing+Intern&htidocid=M85Bnrw2Y-FWoUwfAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOMQoCMRAAsb0nWG1jI3IRQQR9gIhY-YBjza1JNO6G7ApX-gdrP-dLPJupZmCaz6TZnDGTAnIPJ6x3ssQBDmxUWWMq8H294SYXUMLqIwjDXiRkmu6iWdGtc6q5DWpoybdeHk6YLjK4MdI_Oo1YqWQ06lbr5dAWDvOZF76mntgSZkgMR8kRy7MuxovRR41W8QeDJ7K6oAAAAA&shmds=v1_ARwrE21aVve4oJSFdbc24PBWhfGMHgTpPGrh7f7WwKjzC-vjFA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Marketing+Intern&htidocid=M85Bnrw2Y-FWoUwfAAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jooble.org/jdp/-5734826373978389744",
+      "job_title": "Sales and Marketing Internship",
+      "description": "About the Company: \n\n At LetzStepIn Private Limited, we empower businesses through technology, innovation, strategic partnerships, and business consulting. We believe the best learning happens through real-world execution, where interns contribute to meaningful business initiatives while developing industry-ready skills. \n\n LetzStepIn Private Limited is seeking a dynamic and motivated Sales and Marketing Intern to join our team for a 6-month period. We are a growing company committed to fostering talent and providing valuable real-world experience. This is an excellent opportunity for individuals looking to kickstart their career in sales and marketing within a supportive and innovative environment. \n\n Responsibilities: \n\n Assist in creating marketing campaigns and promotional content.  Support social media management and digital marketing activities.  Conduct market research and competitor analysis.  Prepare marketing materials, presentations, and reports.  Support the sales team in lead generation and customer outreach.  Prepare presentations and sales proposals.  Participate in team meetings and contribute to brainstorming sessions.  Perform administrative duties as needed to support the sales and marketing departments.  Develop and execute email marketing campaigns.  Analyze marketing data to identify trends and insights.  Collaborate with cross-functional teams to ensure brand consistency.  Assist in organizing and attending promotional events.  Manage and update customer relationship management (CRM) systems.  Requirements: \n\n0 to 1 year of experience in sales or marketing roles.  Strong communication and interpersonal skills.  Ability to work independently and as part of a team.  Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint).  Enthusiasm for learning and a proactive attitude.  Candidates with a background in sales and marketing are preferred.",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-5734826373978389744?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8673628452886151168?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTYWxlcyBhbmQgTWFya2V0aW5nIEludGVybnNoaXAiLCJjb21wYW55X25hbWUiOiJjb25maWRlbnRpYWwiLCJodGlkb2NpZCI6Ik04NUJucncyWS1GV29Vd2ZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURUl6Umpjd0xVOUVVVzVqUmxKa01sUjZVVk14ZVVGNmQyTnBWVE53ZEZwSFYzcHNiMVJXZUMxUmVVRktkbHBWZDJSVGR6RkZSbVZyUnpKbmJqa3plWEZJUkRKdmFHNVVMWFZNV21kMGMzcHZVMmxzTTNaZlpUWldMVlp0TFhwSWRXVldVRmN6WVhKaVRrcEZabkp6YlRSeVpVSnJTbEpUYWxsaFdISXpNRXhWZW1sMVZIZ1NGeTFhZWtkaGMzWkpUMDVYZVRBdGExQnpaVzFIYjBGdkdpSkJSSE55T1daVGMyMXFlVk54WlVSTmJYbEZURWRNVlRodWJITnhiR2hZV2pCMyIsImZjdiI6IjMiLCJmY19pZCI6Ik04NUJucncyWS1GV29Vd2ZBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0RDb3dEUVVwcFZEUjBTMmhsTUhRNWVuTmlNUzFtYnpsaGVrSkhiRmR5YzA5d01tdzJNVWxmYzNkbE0xOUNMWGRTVmpSd1kzSm1XVVY1UWpObVUwNDRXbkpFY2xCVFdVaFZWM00wVTFFeWVrcHFXbU5vY2pGc2NFdG9kMlIwT1VSdGF6WnFiRms1ZDBOeGQwWkNiazU1TURsbVNWbFJSRmRFZG5WU2RXVk5Ta3hpT1V4NmFYVkxVMUo1TVZwTE4xSktTbE0wUkhKSWQxRjFUbXRKUmpSd1NERXliVTV4UjFSMFlYcGpNMEl6T1cxR1RuQnZkMVZDTjNGekxUQk1ZbXhqWDJzNGJYQmlVelUyUkVaMFVtNWZaelJOTlZoTWNteHBiRWxHUkdSS2VrSXdiRXBQZVZKT2NqQmhRMVpFYlVSVFpsQk9jMUJyTTFsRVdIVktkRk56Tm5WQmNVODFURWxRUjFRNE1GZEhMWGs1ZWtselZuVm9jak5UT1ZReVRqVjFOamxIZEVNelkySlhhazQwWDAxcmVteENRVjlYWDBjNVFWZFRjVE00WTFwR05YcHpWWEZtVkVGaWJETmZaRXBpZERoRGFYbHRkSE4zY1dkaU0yRlJWVkpzWWpKR2RHWnZORFZPYldwWllYa3pTVEJvYzNSQ2FIRXdVRGhoZVhOVU5YcFljVWRXU0cxNmNGZHNYMTgwRWhjdFducEhZWE4yU1U5T1Yza3dMV3RRYzJWdFIyOUJieG9pUVVSemNqbG1VMkpQT0cwM1ZHNUVTVW8xVmxkdGJrdHdRbXA0V1ZSWlowaHZadyIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&next_page_token=eyJmYyI6IkVzd0RDb3dEUVVwcFZEUjBTMmhsTUhRNWVuTmlNUzFtYnpsaGVrSkhiRmR5YzA5d01tdzJNVWxmYzNkbE0xOUNMWGRTVmpSd1kzSm1XVVY1UWpObVUwNDRXbkpFY2xCVFdVaFZWM00wVTFFeWVrcHFXbU5vY2pGc2NFdG9kMlIwT1VSdGF6WnFiRms1ZDBOeGQwWkNiazU1TURsbVNWbFJSRmRFZG5WU2RXVk5Ta3hpT1V4NmFYVkxVMUo1TVZwTE4xSktTbE0wUkhKSWQxRjFUbXRKUmpSd1NERXliVTV4UjFSMFlYcGpNMEl6T1cxR1RuQnZkMVZDTjNGekxUQk1ZbXhqWDJzNGJYQmlVelUyUkVaMFVtNWZaelJOTlZoTWNteHBiRWxHUkdSS2VrSXdiRXBQZVZKT2NqQmhRMVpFYlVSVFpsQk9jMUJyTTFsRVdIVktkRk56Tm5WQmNVODFURWxRUjFRNE1GZEhMWGs1ZWtselZuVm9jak5UT1ZReVRqVjFOamxIZEVNelkySlhhazQwWDAxcmVteENRVjlYWDBjNVFWZFRjVE00WTFwR05YcHpWWEZtVkVGaWJETmZaRXBpZERoRGFYbHRkSE4zY1dkaU0yRlJWVkpzWWpKR2RHWnZORFZPYldwWllYa3pTVEJvYzNSQ2FIRXdVRGhoZVhOVU5YcFljVWRXU0cxNmNGZHNYMTgwRWhjdFducEhZWE4yU1U5T1Yza3dMV3RRYzJWdFIyOUJieG9pUVVSemNqbG1VMkpQT0cwM1ZHNUVTVW8xVmxkdGJrdHdRbXA0V1ZSWlowaHZadyIsImZjdiI6IjMifQ%3D%3D&q=Marketing+Intern"
+  }
+}

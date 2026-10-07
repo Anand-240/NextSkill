@@ -1,0 +1,347 @@
+{
+  "search_metadata": {
+    "id": "6ac6a2251de0646c2258d2ac",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/u08QgJgs1xdeKngCUiyFGZPRaxFY-LtIpVyrPjsPb3I/6ac6a2251de0646c2258d2ac.json",
+    "markdown_endpoint": "https://serpapi.com/searches/u08QgJgs1xdeKngCUiyFGZPRaxFY-LtIpVyrPjsPb3I/6ac6a2251de0646c2258d2ac.md",
+    "created_at": "2026-10-07 19:48:53 UTC",
+    "processed_at": "2026-10-07 19:48:53 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Frontend+Developer&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/u08QgJgs1xdeKngCUiyFGZPRaxFY-LtIpVyrPjsPb3I/6ac6a2251de0646c2258d2ac.html",
+    "prettify_html_file": "https://serpapi.com/searches/u08QgJgs1xdeKngCUiyFGZPRaxFY-LtIpVyrPjsPb3I/6ac6a2251de0646c2258d2ac.prettify",
+    "total_time_taken": 0.72
+  },
+  "search_parameters": {
+    "q": "Frontend Developer",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTVXMxTFRkTFZWVnlTbkJYUzBoWFJEaGZiVzVJV1c1MVVHaHhPV2xIUjJWdlgzbGZZbEJ6U21kR2MzVlRhMVkxV1Y4M2NYbE9hWEpwZW5Ga1QzVnVOVkEzUVdwQmEzbFdkSGd0U0djMWVsWkNMV0ZvVlZRNVJIcGllVXhFYm5ZeVVYQXpSVVp0VkVjM2IyY3lkV1ptWTE5TmJraHVRV3hqVDJkd1FsaGZXVlpOYVVKRmRHbFVUVEp4UW5aTE5HRjNVbk5NUzIxNlkxQXdiMFZXZUZaUVdqaEZXRGg2WDNOcmVXdExNa1oxTFRkcFpqRmpWMVpSUTFWNlIxQlRPVUZwWW1WamQzWnNWbTVWTkVaUk1taGllSHByZEVGeE1sRkJORnAwVjBOa1psOU5hMnhFVkZwbk4xWlBWVzVYUTNWVFFYZHRUa2xPVVVoT1N6aHNhVGMwV210RldXTkNUUzFZVWkxcFJVcEpVWFJSTlRadGNIWmtTV0Y1YmsxcFUxOUlPVXBKZVRCVWEzWlNWa1EyWXpaQk0zUnFNMnRzY2psVE1FcGhlakJQY1dGUE1VZE1iVkpDVEU5TFZYUnRXV1JrWVhWb1ozZHNWV2d0ZEZkR1h6RjJWbmx5ZVZwNGIxOTBWSFJ0VUVSaVlUZzBhMGRsVG0wd1dFOWxkR1JKYkVSNmRrWkhYeTFrTkVaRmIxUnFTVmhVTWtSU1prcFBjRkpZVjFBeGRGWkRXbE10VFd0WlRFUlVTR0oxTkRWUGJGTnNVR1l0Wldka1gwdENlRnB2UldkT1NFUmljbU5HVWxBd2MxcEpTeko1WmpsNVZISndSa1JITlRBNWVFRVNGMHBMVEVkaGNVaFNUMW90YjNCMFVWQnFVRWRCWjBFMEdpSkJSSE55T1daUmVXbG1MVTExUVcxQlQyOWtWMDFQZVRSWU0ydG5TVFJUVEhWUiIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Software Engineer- Frontend (React)",
+      "company_name": "Edstem Technologies",
+      "location": "Thiruvananthapuram, Keralam",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=7eD0KyBVv4X4HsfoAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXNPRIBQRBA4ZLuEUQdothVqiRIl0DG5qqNNjNqtntruv2E7uAg7uQkSF721SvevWK1l7PdMRPU7CMT5Qmss7ARn2CwI3Q2hM_zBRc5ghJmF0AYNiI-UX8ZzDpdVJVqKr0aWnSlk7YSpqM8qh_Sfw4afosuodFhNp8-yo79aFaf1KiFhlxgSeIjKUSGJsR8vSEjW8DumrEdw5YyJmy_o70boLIAAAA&shmds=v1_ARwrE213RAxSuQiNaRIwrMnVbYOSz1v-h_0SaxNrr1F1sMOB1A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=7eD0KyBVv4X4HsfoAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6a2251de0646c2258d2ac/images/KxyphBh887F8NNB0iTIjC3_-3sXbSuktaFfrWaxP94Y.jpeg",
+      "extensions": [
+        "17 hours ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-react-at-edstem-technologies-4475143912",
+      "job_title": "Software Engineer- Frontend (React)",
+      "description": "About the role\n\n\n\n\n Edstem Technologies is looking for Frontend Software Engineers to build fast, accessible, high-quality web applications using React. You'll work closely with designers, backend engineers and product teams to turn ideas into polished user experiences. AI-assisted development with Claude is part of how we work every day, so you'll be expected to use it as a core part of your engineering workflow.\n\n\n\n\n Key responsibilities\n\n\n\n\n Build new user-facing features using React and modern JavaScript/TypeScript\n\n Turn designs and wireframes (Figma or similar) into clean, pixel-accurate, responsive code\n\n Build reusable components and front-end libraries for use across projects\n\n Use Claude (Claude Code or the Claude app) to speed up coding, refactoring, debugging, test writing and documentation, while staying responsible for the quality and correctness of the code\n\n Integrate with RESTful APIs and WebSocket services\n\n Optimize components for performance across browsers and devices\n\n Write unit and integration tests and help keep code quality high\n\n Participate in code reviews, including reviews of AI-generated code, and give constructive feedback\n\n Work with team members and stakeholders to deliver the best user experience\n\n Keep up with emerging front-end technologies and AI-assisted development practices\n\n\n\n\n Required skills and experience\n\n\n\n\n 3–7 years of front-end development experience, with at least 3 years in React\n\n Strong proficiency in JavaScript (ES6+), including DOM manipulation and the JavaScript object model\n\n Solid experience with React hooks, component design and state management (Redux / Redux Toolkit or similar)\n\n Working knowledge of TypeScript\n\n Hands-on experience coding with Claude, such as generating and refactoring code, writing tests, debugging and reviewing output critically\n\n Experience with RESTful APIs and WebSocket services\n\n Deep understanding of HTML5, CSS3, responsive design and cross-browser compatibility\n\n Familiarity with modern build tools and pipelines (Vite, Webpack, Babel, ESLint)\n\n Experience with Git and collaborative development workflows\n\n Experience with testing tools such as Jest and React Testing Library\n\n Strong analytical, problem-solving and communication skills\n\n\n\n\n Good to have\n\n\n\n\n Experience with Next.js or server-side rendering\n\n Knowledge of web accessibility (WCAG) and performance tooling (Lighthouse, Core Web Vitals)\n\n Experience with CSS frameworks or styling approaches (Tailwind, Styled Components, Material UI)\n\n Exposure to CI/CD pipelines and cloud deployment\n\n\n\n\n Location and language\n\n\n\n\n Candidates from Kerala are strongly preferred\n\n Must be able to work from Trivandrum\n\n Strong English communication skills along with fluency in Malayalam (spoken) is preferred.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-react-at-edstem-technologies-4475143912?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-software-engineer-frontend-snapfix-thiruvananthapuram--jobmesh-1464713f-ff83-4d6e-a4b9-3669e7bcf39b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlci0gRnJvbnRlbmQgKFJlYWN0KSIsImNvbXBhbnlfbmFtZSI6IkVkc3RlbSBUZWNobm9sb2dpZXMiLCJodGlkb2NpZCI6IjdlRDBLeUJWdjRYNEhzZm9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBKdVpWQXRWa014YmxOa1lqUnFXbmxrYTFOaE1ISnlabUpQZGt4bGMwOUZVSFZyWWtGVE1IUmtZM2gwUldkcmQyVkJVMlU1ZUZsUFptNDBiV3A1Y1cxUk5tUmtSbFJaZUZSdGJEVTFibmt6WWtKNlQwMUNSbGhwWlZwbFZqaDVXVFJmWjFvMU5tUjRZbmh6YkhONVZuSkZhVEZJYjJscU5ITmZjMHcxTXpac1owMVNWbUVTRjBwaFRFZGhjV0V0VDB0NWNUVk9iMUI1Wms5V2FWRmpHaUpCUkhOeU9XWlVhVmszU21GWFJFMU1ObWt5V1Vwb1VVUmpTWGRDTVdFdGVuTm4iLCJmY3YiOiIzIiwiZmNfaWQiOiI3ZUQwS3lCVnY0WDRIc2ZvQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Frontend Developer",
+      "company_name": "Tuebora Inc",
+      "location": "Vasanthanagar(Harsha Nagara), Karnataka",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=nUfi36FXdLAWHNSaAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWLOwrCQBBAsc0RrKZUkawEtNBW_CDYKLZhEofd6DqzzK6S0jt4Cq_lSUyaBw_ey76DrDgRN6KwUeFEfIU1vchLIIXf-wM3qSASau1AGLYi1tNw5VIKcWlMjD63MWFq6ryWhxGmSlrTTbFHGR0qBY-JymI-a_PAdrI4P7tIEfZcQ8NwwYicHDJa1NEOtZvg2AuOp3BAZUx4xz8-DhXvrAAAAA&shmds=v1_ARwrE22kB4144yPW88jVN6xhNpeLrzlXMQC6IJKtRE6vPhPKeQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=nUfi36FXdLAWHNSaAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6a2251de0646c2258d2ac/images/o9qPbKVY-O3K8dykwCVol2uL3uD4X6XhGOVtHkrOvx0.jpeg",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/senior-frontend-developer-tuebora-inc-vasanthanagar--jobmesh-0474751f-bccc-4f7b-b9a9-313c6841aa1e",
+      "job_title": "Senior Frontend Developer",
+      "description": "Job Description\nSenior UI / React Developer (Full-Stack capable, AI-enabled, B2B/Enterprise)\n\n\nWe are looking for a Senior UI / React Developer who can build scalable enterprise web applications and also has strong backend exposure.\n\n\nResponsibilities\nDevelop responsive UI using React JS.Build scalable and reusable front-end components and architectureWork on backend services (APIs, integrations, basic services where needed)Integrate REST/GraphQL APIs with frontendsCollaborate with product, design, and backend teamsEnsure performance, security, and scalability of applicationDeveloped AI-driven solutions and leveraged AI tools such as Copilot and ChatGPT to improve development speed, efficiency, and code quality.Requirements\n10+ years of experience in software developmentStrong expertise in React.js, JavaScript (ES6+), HTML,CSSHands-on experience with backend development (Python/Java/Node.js or similarExperience in building B2B / enterprise SaaS applicationsStrong understanding of APIs, databases, and system design basicsExperience with state management (Redux / Context API, etcFamiliarity with UI frameworks (MUI / Ant / Tailwind)TypeScript is a plusGood to have\nExperience with Next.js or full-stack frameworksKnowledge of microservices or cloud platformsExposure to design systems and scalable architectureExperience working in AI-assisted development environments",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-frontend-developer-tuebora-inc-vasanthanagar--jobmesh-0474751f-bccc-4f7b-b9a9-313c6841aa1e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/2247761717645803520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337653891/senior-frontend-developer-vasanthanagar?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRnJvbnRlbmQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiVHVlYm9yYSBJbmMiLCJodGlkb2NpZCI6Im5VZmkzNkZYZExBV0hOU2FBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzJOamFsWk5WbGxsYWxCaFEwOHlURnBxUWpoVWNDMXlMV0U1ZEZsT1VVWkNOak5LWjBVM01FUmlMVXR4YkdwYVkweFpXakozYjFFME5ITlFUbVptWTBGMVRWTlpTWHBNWldweU1UVTFiRWh5ZEdKQ2FYaFlkRUp0ZVRkNU1VWXpTVU5TT0cxWU1FbFlUbnBtVlhoeVJrRnJXRmhNUjE4dFR6WXdObmhJT0RsU2RFTTRiR2tTRjBwaFRFZGhjV0V0VDB0NWNUVk9iMUI1Wms5V2FWRmpHaUpCUkhOeU9XWlRRemwzWVMxZllURkZlRE5xVjI5SGVVNUtWRWxWTVc5U04wTkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJuVWZpMzZGWGRMQVdITlNhQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Frontend Developer - Angular",
+      "company_name": "NECSWS",
+      "location": "Mumbai, Maharashtra",
+      "via": "Smart Recruiters Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=rpjYi-NUn5Z9O8YdAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLPQrCQBBAYWxzBEGYWjQrQhqtxL8qNiksZRKH3chmZtnZSErvkBt6EmPzqu9l4ywrLlE4ET_hRG_yEijCGg5se48Rvp8RXlKDEsbGgTBcRayn-d6lFHRnjKrPrSZMbZM30hlhqmUw06T_PNRhpOAx0WNbbIY8sF0ubudjda-gZSj7rsZ2BSVODtWliD8SGSzXlgAAAA&shmds=v1_ARwrE23aHU0-7yVpihi8deYV8f0_3XYGPbdXBmCLCeeni5yI7A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=rpjYi-NUn5Z9O8YdAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6a2251de0646c2258d2ac/images/I33ICK7LFNY6euaeoxJhSkRL8ChHXktLE2KTD91OLAw.jpeg",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://jobs.smartrecruiters.com/NECSWS/744000152342390-frontend-developer-angular",
+      "job_title": "Frontend Developer - Angular",
+      "description": "Company DescriptionNEC Software Solutions (India) On 1st July 2021, Rave Technologies became NEC Software Solutions India. This change brought us under the global NEC Corporation brand. We are proud to be part of an organisation with 122 years of experience in evolution with technology and innovation.We have more than 30 years of experience in providing end to end IT services across the globe and have earned a reputation for delighting our customers by consistently surpassing expectations and helping them deliver robust, market-ready software products that meet the highest standards of engineering and user experience. Supported by more than 1300 exceptionally talented manpower, we are a hub for offshore support and technology services.We work with diverse industry verticals which include publishing, media, financial services, retail, healthcare and technology companies around the world. Our customers range from two-person startups to $bn listed companies.For more information, visit at www.necsws.com/india.Job DescriptionFront-End Developer (.NET 10+, Blazor)Role OverviewWe are seeking an experienced Front-End Developer to design and develop modern, responsive and intuitive user interfaces for our next-generation applications.The successful candidate will have a strong background in web UI development, user experience implementation and modern front-end engineering practices. Working closely with designers, architects, back-end developers and business stakeholders, you will help translate designs and user requirements into high-quality, accessible and maintainable web applications.Our front-end platform is built using modern .NET technologies, including Blazor, and we are looking for developers who are passionate about creating excellent user experiences and clean, maintainable code. Whilst experience with Blazor is highly desirable, we are equally interested in developers with strong front-end engineering skills who are keen to develop expertise in modern .NET UI technologies.The team embraces AI-assisted software development and modern engineering practices, providing opportunities to work with contemporary tools and technologies while influencing the future direction of our applications. Essential SkillsUser Interface DevelopmentStrong commercial experience developing modern web-based user interfacesExcellent understanding of front-end development principles and best practicesExperience building responsive, accessible and user-friendly applicationsStrong understanding of component-based UI developmentAbility to translate design concepts into high-quality production-ready interfacesExperience building reusable UI components and patternsStrong attention to detail and commitment to delivering polished user experiencesHTML, CSS & StylingAdvanced HTML5 skillsStrong CSS3 skillsExperience using SASS/SCSSExperience creating responsive layouts across desktop, tablet and mobile devicesStrong understanding of modern CSS techniques and layout approachesExperience troubleshooting browser compatibility issuesUnderstanding of web accessibility standards and best practices (WCAG)Design CollaborationExperience working closely with UI/UX designersExperience implementing designs from FigmaAbility to interpret design systems, component libraries and design specificationsUnderstanding of user experience principles and usability considerationsAppreciation for visual consistency and user-centered designAPI Integration & Modern DevelopmentExperience consuming and integrating REST/JSON APIsStrong C# development skillsExperience working within modern application architectureUnderstanding of asynchronous programming conceptsAbility to troubleshoot and debug complex application issuesEngineering PracticesExperience using Git and modern source control workflowsAbility to write clean, maintainable and testable codeExperience participating in peer code reviewsExperience working within Agile development environmentsStrong problem-solving and analytical skillsAI-Assisted DevelopmentExperience using AI-assisted software development tools such as GitHub CopilotAbility to utilize AI tools to improve productivity and accelerate developmentExperience validating and reviewing AI-generated codeUnderstanding of responsible AI-assisted development practicesAbility to balance AI-assisted delivery with appropriate testing, quality and security controls Key ResponsibilitiesUser Interface DevelopmentDesign, develop and maintain modern web application user interfacesBuild reusable, maintainable and accessible UI componentsDeliver responsive experiences across multiple devices and screen sizesImplement designs and user journeys from Figma and other design artefactsEnsure high standards of usability, accessibility and visual qualityTechnical DeliveryDevelop front-end application features using modern .NET technologiesIntegrate with REST/JSON APIs and back-end servicesContribute to application architecture and technical design discussionsTroubleshoot and resolve application defects and performance issuesProduce robust, maintainable and scalable solutionsQuality & Continuous ImprovementParticipate in code reviews and technical peer reviewsIdentify opportunities for refactoring and technical debt reductionContribute to coding standards and development best practicesPromote accessibility, usability and responsive design principlesSupport continuous improvement of processes, tooling and development methodologiesAI & Modern Engineering PracticesUtilize AI-assisted development tools to improve productivity and software qualityValidate AI-generated code and implementation recommendationsShare knowledge and best practices relating to AI-assisted developmentSupport adoption of modern engineering approaches across the teamCollaborationWork closely with designers, architects, back-end developers and stakeholdersParticipate in estimation, planning and sprint activitiesContribute to technical documentation and knowledge sharingCollaborate with UX and design teams to continuously enhance user experiences Desirable SkillsModern .NET UI DevelopmentExperience developing applications using BlazorExperience with .NET 8/9/10+Experience building server-side or client-side web applications using modern .NET technologiesFamiliarity with component-based architectureUI Frameworks & ToolingExperience with Telerik UI for BlazorExperience working with design systems and reusable component librariesExperience developing complex, data-driven business applicationsFront-End TechnologiesJavaScript experienceExperience integrating third-party JavaScript libraries where requiredUnderstanding of browser performance optimization techniquesArchitecture & Design PatternsExperience working with CQRS (Command Query Responsibility Segregation)Understanding of domain-driven design principlesFamiliarity with event-driven architectureExperience designing scalable enterprise applicationsCloud & DevOpsExperience with Microsoft AzureExperience with Azure DevOpsExperience with CI/CD pipelines and deployment automationFamiliarity with monitoring and telemetry toolsTestingExperience with automated UI testing frameworksExperience with component and integration testingFamiliarity with Test-Driven Development (TDD) Technology LandscapeOur front-end platform is built using modern Microsoft technologies, with a strong focus on .NET, Blazor, reusable component design and high-quality user experiences.We work closely with designers using Figma and place significant emphasis on creating intuitive, accessible and visually consistent applications. Developers are encouraged to contribute not only to implementation but also to improvements in user experience, design standards and front-end architecture.Whilst Blazor is a key part of our technology strategy, we recognize that excellent front-end engineering skills are more important than knowledge of any specific framework. We welcome developers with strong UI development experience who are excited to learn and work with modern .NET technologies. Why Join Us?You'll join a team building modern business applications using contemporary technologies, modern engineering practices and AI-assisted development tools.This role offers the opportunity to work closely with designers, influence user experience decisions, develop highly visible business applications and help shape the future direction of our front-end platform. We value strong UI engineering, continuous learning and a pragmatic approach to adopting new technologies, giving you the chance to work with modern .NET, Blazor and AI-powered development practices while continuing to grow your skills.",
+      "apply_options": [
+        {
+          "title": "Smart Recruiters Jobs",
+          "link": "https://jobs.smartrecruiters.com/NECSWS/744000152342390-frontend-developer-angular?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/frontend-developer-angular/11414292?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/frontend-developer-angular-nec-corporation-JV_IC2851180_KO0,26_KE27,42.htm?jl=1010277897348&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/bmiR8F1B_OoTcajp63L2GaAijVG39PGfvxdNXjIFPjH9U9qT_smf7g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-8390755963010180457?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/frontend-developer-angular/necsws/19686295?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/frontend-developer-angular-at-nec-software-solutions-india-4471703703?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/frontend-developer-angular-necsws-mumbai--fj-2387399310?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIgLSBBbmd1bGFyIiwiY29tcGFueV9uYW1lIjoiTkVDU1dTIiwiaHRpZG9jaWQiOiJycGpZaS1OVW41WjlPOFlkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFdG9WM1F0WkhCamRGaGlSek5qV0hGTlkyaFVORzB5TUhWaVV6aENVbTlIWkVKMVpHdDBVR3RZZUhGNVlYWm9TbGcxTUhsa1dtRTVhbFZWUTE5T2VYSmFaMlZZVDJjM2RGTlJNVkZXVW1sbmFEVndXVXRLTFY5M015MVJUWGh2Y0VVd1pYWmtjWGxDUVdGMVdHeDFaMnBKUVZveWRHUkJhMVYyU1hCQlRuUXdNa1ZQZFZJU0YwcGhURWRoY1dFdFQwdDVjVFZPYjFCNVprOVdhVkZqR2lKQlJITnlPV1pVVWpCNVlrZFBlblEyTm5OWE16bFplRlpHWlVoRWRUaEJTRkpuIiwiZmN2IjoiMyIsImZjX2lkIjoicnBqWWktTlVuNVo5TzhZZEFBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Frontend Developer",
+      "company_name": "Work360",
+      "location": "Hubballi, Karnataka",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=r-cDYrQaXnWYnEKbAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ7CMAwAQLH2CQzIM0JJVQQDrAgQPICxcorVhgY7SlzUkS8gfshLgOW2K16TojoN7CXBPgkr8RV29KAgkRJ8nm-4iYNMmJoOhOEg0gaabjvVmDfW5hxMmxXVN6aRuxUmJ6P9pfynzh0migGV6mpVjiZyO59dJPXLdQme4Tg4hyH4BZwxMSr2-AU9n4DdlAAAAA&shmds=v1_ARwrE23vWI2RhYf-4bo24KeGBqU_s08EnmVx896x-gu5lZ9p9g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=r-cDYrQaXnWYnEKbAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAbAAEAAgMBAQAAAAAAAAAAAAAAAQQDBQYHAv_EADUQAAECBAQDBAcJAAAAAAAAAAEAAgMEERIFE1FxITKRBhQxgiI2QXKBobIWNFNVYZOxwdH_xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQQC_8QAGhEBAQEAAwEAAAAAAAAAAAAAAAERAxIhAv_aAAwDAQACEQMRAD8A9va0WjgOim0aDojeUbKUEWjQdEtGg6KVqp_H5GTmocrm5seI9rMuHxtJNOJ9n8pmjaWjQdEtGg6KUQfLmi08B4aIpdynZEBvKNlXxGdg4fJxZqYJEOGBW0VPE0HzKsN5RstL2z9W5zyfW1WTaOVxbtTP4m7u8kDLwncA1p9N259nw6rUyMKJBxaTbFYWuz4ZofeCwyeZ3qFk25l3o3eFVceZgYxKmYszA-HSzwpctnWSZHT1RSuVmcfyMUhyDjGueQLweAJ8F0Mg9z4NXuLjceJWOyxysO5TsiO5TsigN5RstL2z9W5zyfW1bpvKNlTxnDximHRZN0QwxEtq4CtKOB_pWeUeTw3uhvD2G1wNQdFYlo0SNiMs-K8udmsFT7y6v7CQ_wAwf-0P9WSB2IhwY8OL357rHB1MscaGuq1Xl-XWrz4EJ0ZsZ0JhisFGvLQSPitth33fzFY-4D8T5KzLwsmHZWv6rLalZHcp2RHcp2RRENItHEeCmo1CIgVGoSo1CIgVGoS4ahEQQ4i08R4IiIP_2Q.jpeg",
+      "extensions": [
+        "7 days ago",
+        "Internship"
+      ],
+      "source_link": "https://bebee.com/in/jobs/junior-frontend-developer-work360-hubli--talent-639659618591314049",
+      "job_title": "Junior Frontend Developer",
+      "description": "Location: India\nExperience: 0–1 year\n\n\nEmployment Type: Full-time\n\n\nAbout the Role\nWe are looking for a motivated Junior Frontend Developer to join our engineering team. This role is ideal for fresh graduates who are passionate about building responsive, user-friendly, and high-quality web applications.\n\n\nKey Responsibilities\nDevelop responsive and user-friendly web interfaces.Convert UI/UX designs into functional and reusable frontend components.Write clean, maintainable, and efficient code.Integrate frontend applications with REST APIs and backend services.Test, debug, and resolve UI and application issues.Ensure applications work effectively across different browsers and devices.Collaborate with designers, backend developers, QA, and product teams.Participate in code reviews and follow software development best practices.Learn and apply modern frontend technologies and development practices.\nRequired Skills\nStrong understanding of HTML, CSS, and JavaScript.Familiarity with React.js, Angular, Vue.js, or similar frontend frameworks.Basic understanding of responsive design and web accessibility.Familiarity with REST APIs and JSON.Basic knowledge of Git and version control.Good understanding of programming fundamentals and problem-solving.Strong attention to detail and willingness to learn.Good communication and teamwork skills.\nNice to Have\nAcademic or personal projects involving web development.Familiarity with TypeScript.Basic knowledge of UI/UX principles.Exposure to testing frameworks or browser developer tools.Familiarity with modern build tools such as Vite, Webpack, or similar tools.Internship experience in frontend or software development.\nApply Now:\nShare your CV to be considered for this opportunity.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-frontend-developer-work360-hubli--talent-639659618591314049?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8264689567068585984?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-2927-f37c66d5a86401c5ad34475897f94c5e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340653210/junior-frontend-developer-hubli?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRnJvbnRlbmQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiV29yazM2MCIsImh0aWRvY2lkIjoici1jRFlyUWFYbldZbkVLYkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTV0o0VUZNelN6TTVTVzVoT0Y4eldqUm1jbWRyTFdWMlVHTnlWMVJxYlhjelJrbDNNRkU0VldzMkxXVlhlRko2YUVGak9Hb3lhM2c1ZG5CRVJsTlVkVlZqVUhnMVVsOUVTamhxUVhKRWIxRnFOVGN5V0RKNWNGWlFSM2RIZDB0blFXcDRZMGR5TVUxdGRIVkRSRkp0Vm5OS2NrVlFVemN6Y25veFEzQXpWVWxwTkhKbVNXWVNGMHBoVEVkaGNXRXRUMHQ1Y1RWT2IxQjVaazlXYVZGakdpSkJSSE55T1daUmFXaENaakJWZFRkYVgycE1VMGM1ZFRaQ2RtbHdPV05TWDAxQiIsImZjdiI6IjMiLCJmY19pZCI6InItY0RZclFhWG5XWW5FS2JBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Frontend Developer – UI/UX Focus",
+      "company_name": "Calibre 65 Pte Ltd",
+      "location": "India",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=XW1VNsM8IgueEnHGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x3LPQrCQBBAYWxzBG2mtsiKEAtTKpGAhU3ALmw2Q7Kyziw7o6T0Dhbez5P40zz4ipe9ZllZJSZF6mGPdwwcMcH78YSmNs0ZKnY3-fvCHQja5EZgggPzEHBejqpRtsaIhHwQtepd7vhqmLDjyXwn-aWV0SaMwSq262I15ZGG5WJng-8SwqaAkyIctQdPUFPv7QfBW_A9mgAAAA&shmds=v1_ARwrE22v0gN6M5NVLYXDSxBkCscbKXVG52_SW9aEBY-nsF3X-A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=XW1VNsM8IgueEnHGAAAAAA%3D%3D",
+      "extensions": [
+        "8 days ago",
+        "₹50K–₹70K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010278672852",
+      "job_title": "Frontend Developer – UI/UX Focus",
+      "description": "Location: Velachery, Chennai, Tamil Nadu, India (On-site)\n\nExperience: 5+ years\n\nEmployment Type: Full-time\n\nCalibre 65 is a Singapore-based luxury watch retailer looking for a Frontend Developer with strong UI/UX and Figma skills to support the continued development of our internal business operations platform.\n\nThe role is focused on building clean, modern and user-friendly interfaces for dashboards, CRM, inventory, sales workflows, reporting and internal business tools.\n\nYou will work closely with our Sri Lanka-based Senior AI Automation Engineer and business teams across sales, operations and marketing.\n\nKey Responsibilities\n\nBuild clean, responsive and user-friendly interfaces using React and JavaScriptImprove existing UI/UX and business workflowsDevelop dashboards, forms, tables, filters, search and management screensWork with Figma to create or refine UI designs, wireframes, components and layoutsTranslate Figma designs into polished, responsive and reusable frontend componentsMaintain visual consistency across the applicationBuild reusable and maintainable React componentsWork with APIs and integrate frontend features with existing backend servicesHandle API responses, loading states, validation, errors and frontend data synchronisationImprove responsiveness, usability, accessibility and frontend performanceIdentify and improve poor frontend structure or duplicated UI patternsCollaborate with technical and non-technical teams to turn requirements into practical frontend solutionsSkills We Are Looking For\n\nStrong React, JavaScript, HTML and CSSGood understanding of UI/UX principlesStrong responsive web development skillsHands-on experience with FigmaAbility to create or work with:wireframesprototypesreusable Figma componentsAuto Layoutvariantstypography and colour stylesspacing and layout systemsAbility to accurately convert Figma designs into React interfacesExperience building reusable frontend componentsExperience with dashboards, forms, tables and business applicationsREST API integration experienceUnderstanding of authentication, permissions and API-driven workflowsFamiliarity with JSON and frontend-backend integrationGit / GitHubExperience with TypeScript, Next.js, Tailwind CSS, Material UI, Shadcn UI, AWS, design systems, accessibility or animation libraries would be an advantage.\n\nWe are looking for someone with a strong eye for design, spacing, consistency and usability, who can build interfaces that are not only functional but also polished, intuitive and professional.\n\nFigma & Design-to-Development\n\nThis role requires more than simply receiving a completed Figma design and converting it into code.\n\nCandidates should be comfortable:\n\ncreating or refining interface designs in Figmaworking with components and Auto Layoutmaking reasonable UI/UX decisionsidentifying missing states or inconsistencies in designsconverting Figma designs into reusable, responsive React componentspreserving design intent across desktop and mobilePortfolio\n\nCandidates should ideally include:\n\nFigma linksportfolioGitHublive projectsscreenshots of previous UI/frontend workApplications with clear examples of Figma design work and frontend implementation will be preferred.\n\nInterested? Please apply with your updated resume, a brief note on your relevant experience, and portfolio/Figma/GitHub links where available.\n\nPay: ₹50,000.00 - ₹70,000.00 per month\n\nAbility to commute/relocate:\n\nVelachery, Chennai, Tamil Nadu: Reliably commute or planning to relocate before starting work (Required)Application Question(s):\n\nIf you are selected for the job, when will you be able to start?Please share a link to your Figma designs portfolio. We’re a Singapore-based company, and we won’t be engaging an Employer of Record in India. That means you’d be engaged as an independent contractor, responsible for your own taxes and any statutory or government-related paperwork on your side.Are you comfortable with this arrangement, and have you worked on a similar contract basis before?\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010278672852&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Jobs USA",
+          "link": "https://remoterush.mysmartpros.com/job/1070354?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/1598824457374269440?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340597232/frontend-developer-ui-ux-focus-velachery?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIg4oCTIFVJL1VYIEZvY3VzIiwiY29tcGFueV9uYW1lIjoiQ2FsaWJyZSA2NSBQdGUgTHRkIiwiaHRpZG9jaWQiOiJYVzFWTnNNOElndWVFbkhHQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwUm1kbkowY0VwQlIyeE1aRzB3VVZNd1dXNUdPVXBFU1VKTlZWVkRjM0JyUTA1UlltSXlla1ZZTkUxZmVUaFJUWGd3VTFwb2RYcFFOMnQxT0hremNFbzRlVXhQVVRoUFNUVklOSFF6V1dsS2JHRTVOUzFsV0hOSmVHcE9YMHBuWWpkdFptVmhha1I2WnpKbGMwWTBWMVYyUm10dlVGVm5RVlZwWjNsV2VtaEJTM2ROVWxrU0YwcGhURWRoY1dFdFQwdDVjVFZPYjFCNVprOVdhVkZqR2lKQlJITnlPV1pUWlRSU1NVNWxabVZzWDJka2JFeFdZVFJyWVdKblNUQjZWREozIiwiZmN2IjoiMyIsImZjX2lkIjoiWFcxVk5zTThJZ3VlRW5IR0FBQUFBQT09In0="
+    },
+    {
+      "title": "Frontend Developer",
+      "company_name": "Infovision HR Consulting Services Pvt Ltd",
+      "location": "Maharashtra (+4 others)",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=mMqG68Pl3JfZTih_AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMTQrCMBBAYdz2CK5mrdCKIIguFX9AQfQAJY1jE4kzITOGLr2DV_BknsS6ebv3FZ9BMd4kJkW6whozBo6Y4Pt6w50bEDTJOmCCLXMbcLh0qlEWVSUSylbUqLel5UfFhA13VT_JP7U4kzAGo1hPZ5OujNSO5nu6cfbie293hhWTPIN6auGCKXuLAqescNAreIKj6QkjTpP5AT2TdXenAAAA&shmds=v1_ARwrE20yKQR15lT5mMEDKNb5wHYuK_6A0ehIW9IgdWLcWLl2Bw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=mMqG68Pl3JfZTih_AAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/frontend-developer/infovision-hr-consulting-services-pvt-ltd/19665428",
+      "job_title": "Frontend Developer",
+      "description": "We are seeking a skilled Frontend Developer to join our dynamic team in the Mumbai region of Maharashtra. The ideal candidate will have a strong foundation in web development technologies and a passion for creating engaging user experiences. As a Frontend Developer, you will be responsible for translating design wireframes into high-quality code, ensuring the technical feasibility of UI/UX designs, and optimizing applications for maximum speed and scalability. \n\nKey Responsibilities:\n- Develop new user-facing features using React.js, TypeScript, JavaScript, HTML, and CSS.\n- Build reusable components and front-end libraries for future use.\n- Collaborate with designers and back-end developers to create seamless and efficient web applications.\n- Ensure the technical feasibility of UI/UX designs and optimize applications for maximum speed and scalability.\n- Conduct code reviews and maintain code quality standards.\n- Stay up-to-date with emerging technologies and industry trends to ensure our applications remain cutting-edge.\n\nRequired Skills:\n- Proficiency in TypeScript, JavaScript, HTML, and CSS.\n- Strong experience with React.js and its core principles.\n- Familiarity with RESTful APIs and modern front-end build pipelines and tools.\n- Understanding of responsive design and cross-browser compatibility.\n- Ability to work collaboratively in a team environment and communicate effectively.\n\nIf you are a motivated individual with a passion for frontend development and a desire to work in a fast-paced environment, we would love to hear from you. Join us in creating innovative web solutions that enhance user experiences.",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/frontend-developer/infovision-hr-consulting-services-pvt-ltd/19665428?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NextLeap",
+          "link": "https://nextleap.app/jobs/engineering/frontend-developer-black-box/nux5wji9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Frontend-Developer-Navi-Mumbai-Cravingcode-Technologies-Pvt-Ltd-lb8IJE9l?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/frontend-developer-easemytripcom-navi-mumbai--jobmesh-0ff0a0d8-8d5b-47bb-969c-00ba32227140?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5731044031?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/139692954904660088?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8492022048606912512?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-3298-304a3099612d09311d9ea1cf543cc04e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJJbmZvdmlzaW9uIEhSIENvbnN1bHRpbmcgU2VydmljZXMgUHZ0IEx0ZCIsImh0aWRvY2lkIjoibU1xRzY4UGwzSmZaVGloX0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMHhCT0VndGREWXdhMWRVUkdkelpWaHFORzlUTlhkWU5tUkxWRVJRUTJGMFpGVlVWM3BCTVhnMFprbGpPRFJMVVdocldXeGZSSFJPTkZKalJGSXdlR2xyYW1OalRsWllOMVpqVUVsWVFVRmlRVzVMTVZCUk1tTnViRnB0VmpWNGMwTlNRbVp3T1c5a2RraFhVbWxsYkhBd2JuYzBNM3BXTTJrdFh6TnRVRWxEZVU5T1Ftc1NGMHBoVEVkaGNXRXRUMHQ1Y1RWT2IxQjVaazlXYVZGakdpSkJSSE55T1daU2NFZzNaM05mVEZJdGNXdHROa051V1ZSdFVWazNVbkUwV1hsQiIsImZjdiI6IjMiLCJmY19pZCI6Im1NcUc2OFBsM0pmWlRpaF9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Frontend Developer (React.js)",
+      "company_name": "Wokab",
+      "location": "Haryana",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=2D9U6-OxfhHvJqYyAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQ4BQRAA0GivUqumRLErEgpaQa1RXubWZO_OmtnsTOR0Oh_gD30Jmte96jWq1vsibMQX2NGdkmQqMD0RBnO9zuDzfEMvDShhCS0Iw0EkJppsW7OsG-9Vk4tqaF1wQW5emBoZ_C_pn1pbLJQTGtXL1WJwmeN8fJYrNtAxHLE8kPELl3E1P4oAAAA&shmds=v1_ARwrE21Pz145lCUAZbp7w_DZ6B6H5rw23c_K6S88OyWCukCpwA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=2D9U6-OxfhHvJqYyAAAAAA%3D%3D",
+      "extensions": [
+        "6 days ago",
+        "₹9L–₹15L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobleads.com/in/job/frontend-developer-react-js--gurugram-district--ee0b2e2a130f436fafd1df39f1abc1ae8",
+      "job_title": "Frontend Developer (React.js)",
+      "description": "ResponsibilitiesDevelop modern web applications using React.js (v18+)Manage application state using Redux ToolkitIntegrate REST APIs using Axios/FetchImplement JWT authentication and role-based accessBuild dashboards, data tables, filters, charts, and reporting featuresOptimize UI performance for large datasetsCollaborate with backend, business analysts, and design teamsRequired SkillsReact.js, JavaScript (ES6+), HTML5 & CSS3Redux Toolkit & React RouterREST API integration & JWT authenticationChart.js/Recharts or similar visualization toolsBootstrap / MUI / TailwindGitGood to HaveExperience in NBFC / Fintech / Lending platformsKnowledge of React Query and large-data performance optimization",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/frontend-developer-react-js--gurugram-district--ee0b2e2a130f436fafd1df39f1abc1ae8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIgKFJlYWN0LmpzKSIsImNvbXBhbnlfbmFtZSI6Ildva2FiIiwiaHRpZG9jaWQiOiIyRDlVNi1PeGZoSHZKcVl5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRIWndObGQzY0dZMmRtbzRRVEZTV0hwS2NVVjZkVzgwTVhCVlYwSmxVMWxxZW14elVrcFNlVU4xYUVwd2JXWnlTa3RtY2tSVFkxaG1ZVzEwVkRsalpWWjBTbE5uUjFCVVUwaHVRMHhyV25OU2JuRnFURmgwUTNaUVpVMXBRWE5xVkVJNWRWZzVOMEo1UldWemIwUlJSRlIzV0hkd2RVd3dkWEZSU2twbGVtdFZRbGRKTlhFU0YwcGhURWRoY1dFdFQwdDVjVFZPYjFCNVprOVdhVkZqR2lKQlJITnlPV1pUTWpWQmVqVm9hVkpoYzNaNmIybEpjRTkzYWt0VlVtdEZXRzVuIiwiZmN2IjoiMyIsImZjX2lkIjoiMkQ5VTYtT3hmaEh2SnFZeUFBQUFBQT09In0="
+    },
+    {
+      "title": "Frontend Developer  React.js, TypeScript & Shopify (Gurugram)",
+      "company_name": "Aumraa",
+      "location": "Gurugram, Haryana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=uKSQO7A8wOXSc3myAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_y2NMQrCQBAAsc0TtNlKVEIigo1WghhrI7Zhc66XC8ntsXeRpPMP_sQn-RIVbKabmeg1ii4HYRvIXmFPd2rYkQCcCFVIah_DeXCUKzEuwBTyip25DTDLOum0YDuH9-MJNZfgCUVVwBYyZt3QeFuF4PwmTb1vEu0DBqMSxW3Klkru06_kfyh8hUKuwUDFar3sE2f1YrLrWkEE8839VzEcUQa0-AG3DM5mtQAAAA&shmds=v1_ARwrE23T2TAoyUF1I-rKOlVsBVXu1MnEMLnno8frPljkF79N4A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=uKSQO7A8wOXSc3myAAAAAA%3D%3D",
+      "extensions": [
+        "6 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/frontend-developer-reactjs-typescript-shopify-gurugram/aumraa/19689051",
+      "job_title": "Frontend Developer  React.js, TypeScript & Shopify (Gurugram)",
+      "description": "Location: Gurgaon\n\nEmployment Type: Full-Time | In-Office \n\nExperience: 25 Years\n\nCore Skills: React.js  TypeScript  JavaScript  Shopify  Liquid  HTML  CSS\n\nAbout Aumraa\n\nAumraa is building a modern devotional platform rooted in Sanatan traditions, bringing together devotional experiences, spiritual guidance, sacred commerce, temples, content, and community within one connected experience. \n\nOur goal is to make everyday engagement with faith more accessible, thoughtful, and relevant by combining Indian devotional traditions with contemporary product thinking and technology.\n\nWe are looking for a Frontend Developer who can independently own our Shopify storefront while contributing meaningfully to Aumraas React-based web applications and internal platforms. This is a hands-on role for someone who can take frontend requirements from design and product thinking through development, testing and production deployment.\n\nWhat Youll Do\n\nShopify Storefront Development\n\n- Own the development, maintenance and continuous improvement of Aumraas Shopify storefront\n- Build and customise Shopify experiences using Liquid, HTML, CSS and JavaScript\n- Develop custom sections, blocks, snippets, templates and reusable storefront components\n- Extend Shopify themes beyond standard theme-editor capabilities\n- Translate Figma designs into responsive, production-ready storefront experiences\n- Build and improve product pages, collection pages, search, navigation, cart, landing pages and campaign experiences\n- Work with metafields, metaobjects, templates and collection logic where required\n- Build reusable sections that allow business and content teams to manage storefront content with minimal developer dependency\n- Troubleshoot Shopify theme issues, app conflicts and frontend bugs\n\nReact.js & Web Application Development\n\n- Develop, test and maintain web applications using React.js and TypeScript\n- Build reusable, modular frontend components using functional components and React Hooks\n- Work with state management using Redux Toolkit, Context API or similar approaches\n- Develop interfaces including dashboards, forms, tables, filters, search, navigation, content-management screens and operational workflows\n- Implement routing, validations, application states and user interactions\n- Refactor and improve existing frontend components where required\n- Contribute to the continued improvement of Aumraas existing and future React-based products \n\nAPI Integration & Application Logic\n\n- Integrate frontend applications with REST APIs and backend services\n- Handle data fetching, submissions, validations and error responses\n- Work with authentication tokens, session handling and permission-based interfaces\n- Implement loading, empty, success and error states across frontend workflows \n- Collaborate with backend developers on API requirements and data structures\n- Debug frontend and API integration issues independently\n\nResponsive UI & Design Implementation\n\n- Translate Figma designs, wireframes and prototypes into high-quality production interfaces\n- Build responsive layouts using modern HTML, CSS, Flexbox and Grid\n- Ensure consistent experiences across desktop, tablet and mobile\n- Maintain accuracy in layout, typography, spacing, interactions and responsive behaviour\n- Ensure cross-browser compatibility across major browsers\n- Work closely with UI/UX designers to identify technical limitations and edge cases before development\n\nFrontend Performance & Optimisation\n\n- Monitor and improve page-load speed and frontend performance\n- Optimise JavaScript, CSS and component rendering\n- Reduce unnecessary React re-renders and inefficient frontend logic\n- Monitor and improve Core Web Vitals on Shopify\n- Identify unnecessary Shopify apps, scripts and third-party dependencies affecting performance\n- Use browser developer tools and performance-auditing tools to identify and resolve issues\n\nE-commerce, Growth & Integrations\n\n- Build marketing landing pages, promotional pages and product-launch experiences\n- Support frontend improvements across product discovery, navigation, merchandising and cart journeys\n- Implement frontend changes based on business requirements, analytics and customer behaviour\n- Support simple CRO and A/B testing implementations where required\n- Integrate and configure Shopify apps for reviews, bundles, upselling, analytics and customer engagement\n- Support integrations with GA4, Google Tag Manager, Meta Pixel, Klaviyo or similar platforms\n- Ensure third-party scripts and apps do not unnecessarily impact storefront performance\n\nTesting, Release & Code Quality\n\n- Test features thoroughly before production deployment\n- Perform responsive and cross-browser testing\n- Validate forms, interactions and API-driven workflows\n- Troubleshoot production issues and resolve regressions\n- Write clean, modular and maintainable JavaScript and TypeScript\n- Use Git / GitHub or equivalent version control\n- Work with branches, pull requests and code .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/frontend-developer-reactjs-typescript-shopify-gurugram/aumraa/19689051?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olibr",
+          "link": "https://olibr.com/jobs/frontend-developer-reactjs-typescript-shopify-gurugram-aumraa-3k6vd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIgIFJlYWN0LmpzLCBUeXBlU2NyaXB0IFx1MDAyNiBTaG9waWZ5IChHdXJ1Z3JhbSkiLCJjb21wYW55X25hbWUiOiJBdW1yYWEiLCJodGlkb2NpZCI6InVLU1FPN0E4d09YU2MzbXlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZKbWQyYzFaV05tWW5WVVdEVjFSbDl5TlhWTWMzQktTRXR1UzIxR1pVcDNkall0UjFaaU5tOWZOVUkzWTJORFlUVlJXR1JFZDE5ZlFVWmhVRmd0VHpCRVF6QkdVVmRQZUVwWmN6SjNWREYzWDFJeFMwaHdXVWx3T1hadmFteGhURmN3WXpoSE1tVkNXVlpSUjB0emJsZzRhamhIYTBoemRHMUhWVmxDVlcxellUbG1kVmdTRjBwaFRFZGhjV0V0VDB0NWNUVk9iMUI1Wms5V2FWRmpHaUpCUkhOeU9XWlJkVFU0VVVJdFNETnhVVzlyY1ZwUE5HTkZlR3R2ZG01Sk1saDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJ1S1NRTzdBOHdPWFNjM215QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Frontend developer/ Consultant Specialist",
+      "company_name": "HSBC",
+      "location": "India",
+      "via": "Talent500",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=J_ygw2o9fP4WQmNKAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLOwrCQBAAUGwDXsBqaousCDbaJeCnzgHCZHdIVtaZZWeUlB5B8IaeRG1e96rXomqORdiIAwR6UJJMxUErrPdkyAZdJh8xRTX4PN9wlQGUsPgJhOEkMiZaHSazrHvnVFM9qqFFX3u5OWEaZHa_pH96nbBQTmjUb3ebuc48rpfnrmkhMlw4RPwC0YbRg5MAAAA&shmds=v1_ARwrE21FA5pNlaqdSTcsKWLDv6PrZmd46hMG-ejDv8YkX0jafw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=J_ygw2o9fP4WQmNKAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAfCAMAAACF8f6iAAAATlBMVEX____ZAADaABHohYfiWlzfT1L77e388fHngoT99PTWAADbFhzbHSPxu7z43NzoiIn54eHywMHgSUzePUD0y8vwtrfvrq7cIyj--vrzxcZOAlJbAAAAtUlEQVQ4je3T2xKCIBAG4GXVkDUoLKze_0VjQQ2mGeC2xv_-G_YEwJG_jenGbs94ubY6O59EEnW7NzrqwUsMEShhoCZpSfSwSXYwCHrVnSZkCNIjFJMChliXjjBCltExRLJ1t0JQ0_kJG0TSJWcIPxDMuocAkYpbWbIXH-mLrlzrsveofI-x1tBjsVKOy6YaJE-16lime-S5-j1WZhqj88tR_nIa9h_kLPNbbXRfv8O0uiO_lzcL5AZrv1xhAgAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://talent500.com/jobs/hsbc/frontend-developer-consultant-specialist-india-T500_HB_272513/",
+      "job_title": "Frontend developer/ Consultant Specialist",
+      "description": "Some careers shine brighter than others If you're looking for a career that will help you stand out, join HSBC, and fulfil your potential Whether you want a career that could take you to the top, or simply take you in an exciting new direction, HSBC offers opportunities, support and rewards that will take you further HSBC is one of the largest banking and financial services organizations in the world, with operations in 64 countries and territories We aim to be where the growth is, enabling businesses to thrive and economies to prosper, and, ultimately, helping people to fulfil their hopes and realize their ambitions We are currently seeking an experienced professional to join our team in the role of Consultant Specialist. Identify the opportunity for automation and design/build the end to end solutions. Coordinate and embed technical standards and help other team members to gain knowledge on UI development and UI integration. Participate in review of design/code/test plan and test results Bring continuous improvements/efficiencies to the software or business processes by utilizing software engineering tools and various innovative techniques, and reusing existing solutions. By means of automation, reduces design complexity, reduces time to response, and simplifies the client/end-user experience. Identify and communicate best practices for front-end engineering Present demos of the software products to stakeholders and internal/external customers, using knowledge of the product/solution and technologies to influence the direction and evolution of the product/solution.. Requirements: name: HSBC. location: India, IN. Primary Skills: software engineering, user experience",
+      "apply_options": [
+        {
+          "title": "Talent500",
+          "link": "https://talent500.com/jobs/hsbc/frontend-developer-consultant-specialist-india-T500_HB_272513/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBkZXZlbG9wZXIvIENvbnN1bHRhbnQgU3BlY2lhbGlzdCIsImNvbXBhbnlfbmFtZSI6IkhTQkMiLCJodGlkb2NpZCI6IkpfeWd3Mm85ZlA0V1FtTktBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU21aNFZWQkdRbTFNWVdab1FqWkhhMHRRVWt4V1dqZE1ibUU1ZW5NNVVtVjJaVXcxZHpacmVucElabVpJWjBjdFdFUTRUakJpZFRoRFVHSktRMFpZTWxrMVdqYzFla2RYVGxsVVNGUjZSblkxTkZaZlFXVjBOWGh4Y1VJdFUzUnhhbXc1Y2w5TU5FeERTbFZMVVV4TVpXbEJWazVCYVRCWFFrOUVNVUY0YXpka2JuTnlZMjBTRjBwaFRFZGhjV0V0VDB0NWNUVk9iMUI1Wms5V2FWRmpHaUpCUkhOeU9XWlROMGhJY2twQk9GcHJhbkJRVVRGdWVtVklVbFZhT1ZoeFNHSm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJKX3lndzJvOWZQNFdRbU5LQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior Frontend Developer",
+      "company_name": "Work360",
+      "location": "Maharashtra",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=FrgK-w3rOvdRq1AAAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLoQ7CQAyA4WD3AAhUNWK3jIAASyAhQSOXbjS7wdFe2kImsWjekCcBzK--v3hNivpw50EUdirsxGfY0oOSZFL4PN9wkRaMULsIwrAX6RPNNtE92zoEs1T25uhDV3ZyC8LUyhh-k_3TWESlnNCpqZfVWGbu59OT6HWxqmBgOOIPoEVX_AKegBrLjAAAAA&shmds=v1_ARwrE21UJyn08MIBKELwNfW6DRf9Q4UD0fOrnXSL5zHJbTBmcA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=FrgK-w3rOvdRq1AAAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAbAAEAAgMBAQAAAAAAAAAAAAAAAQQDBQYHAv_EADUQAAECBAQDBAcJAAAAAAAAAAEAAgMEERIFE1FxITKRBhQxgiI2QXKBobIWNFNVYZOxwdH_xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQQC_8QAGhEBAQEAAwEAAAAAAAAAAAAAAAERAxIhAv_aAAwDAQACEQMRAD8A9va0WjgOim0aDojeUbKUEWjQdEtGg6KVqp_H5GTmocrm5seI9rMuHxtJNOJ9n8pmjaWjQdEtGg6KUQfLmi08B4aIpdynZEBvKNlXxGdg4fJxZqYJEOGBW0VPE0HzKsN5RstL2z9W5zyfW1WTaOVxbtTP4m7u8kDLwncA1p9N259nw6rUyMKJBxaTbFYWuz4ZofeCwyeZ3qFk25l3o3eFVceZgYxKmYszA-HSzwpctnWSZHT1RSuVmcfyMUhyDjGueQLweAJ8F0Mg9z4NXuLjceJWOyxysO5TsiO5TsigN5RstL2z9W5zyfW1bpvKNlTxnDximHRZN0QwxEtq4CtKOB_pWeUeTw3uhvD2G1wNQdFYlo0SNiMs-K8udmsFT7y6v7CQ_wAwf-0P9WSB2IhwY8OL357rHB1MscaGuq1Xl-XWrz4EJ0ZsZ0JhisFGvLQSPitth33fzFY-4D8T5KzLwsmHZWv6rLalZHcp2RHcp2RRENItHEeCmo1CIgVGoSo1CIgVGoS4ahEQQ4i08R4IiIP_2Q.jpeg",
+      "extensions": [
+        "7 days ago",
+        "Internship"
+      ],
+      "source_link": "https://bebee.com/in/jobs/junior-frontend-developer-work360-dombivli--talent-639659648358355073",
+      "job_title": "Junior Frontend Developer",
+      "description": "Location: India\nExperience: 0–1 year\n\n\nEmployment Type: Full-time\n\n\nAbout the Role\nWe are looking for a motivated Junior Frontend Developer to join our engineering team. This role is ideal for fresh graduates who are passionate about building responsive, user-friendly, and high-quality web applications.\n\n\nKey Responsibilities\nDevelop responsive and user-friendly web interfaces.Convert UI/UX designs into functional and reusable frontend components.Write clean, maintainable, and efficient code.Integrate frontend applications with REST APIs and backend services.Test, debug, and resolve UI and application issues.Ensure applications work effectively across different browsers and devices.Collaborate with designers, backend developers, QA, and product teams.Participate in code reviews and follow software development best practices.Learn and apply modern frontend technologies and development practices.\nRequired Skills\nStrong understanding of HTML, CSS, and JavaScript.Familiarity with React.js, Angular, Vue.js, or similar frontend frameworks.Basic understanding of responsive design and web accessibility.Familiarity with REST APIs and JSON.Basic knowledge of Git and version control.Good understanding of programming fundamentals and problem-solving.Strong attention to detail and willingness to learn.Good communication and teamwork skills.\nNice to Have\nAcademic or personal projects involving web development.Familiarity with TypeScript.Basic knowledge of UI/UX principles.Exposure to testing frameworks or browser developer tools.Familiarity with modern build tools such as Vite, Webpack, or similar tools.Internship experience in frontend or software development.\nApply Now:\nShare your CV to be considered for this opportunity.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-frontend-developer-work360-dombivli--talent-639659648358355073?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-2927-80326301885d0abf6c26bc5df3da9eed?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRnJvbnRlbmQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiV29yazM2MCIsImh0aWRvY2lkIjoiRnJnSy13M3JPdmRScTFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUR0ZSU0VVdFFXbDJlSEZwWjBoUFIzQm5VSFI2TVRRM2IxZGtOV050WjJvelkwVmFiVEE0VTFkdVJVNU1iMFF6TUZJNFVGTldRVTlPVVRrd1VYUktOVUpPWDFGTWFYRnVZa0l4YkY5dE1GTlRhM1J6Wm1SSlYwbHRWRnBmTFRaVFNISkNPV1ZuVVVSWFRYbG5XVkpHYUZGc1RYUlJaazR4WTFseE9FaE9UbUZrVVRaWlFtY1NGMHBoVEVkaGNXRXRUMHQ1Y1RWT2IxQjVaazlXYVZGakdpSkJSSE55T1daVGFETkJkRmhhZGpoUU9XTk5RM2hXTmxSblVXUmhVVUpyVmtkMyIsImZjdiI6IjMiLCJmY19pZCI6IkZyZ0stdzNyT3ZkUnExQUFBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBUR0ptY1ROVFJqbFFUbmt0Y1dOSFFUWlpkMVZXUTNSQ2RtczJUWEI1VWprNGVGOUdlV2xMYTBwaFlsZGphbU51YXpaQldHTXRiMk5pTlhaQlExQnpUeTFWVmtwUFozVnpWbVo1Umxob1VVdHRPWFpXWVhKalRYZDZlbHBrUVcxQ2NuWXhRWGwxUjFvM2JubHpUbGx1UmpBeU5VWlpiV1pTV214Q1NraEpSV0o0Tms5NFlYVkhWM2N3UkhGeFNtczRXRjlVU0dwdmNEaFZWV0k1WkRKaVMwSkhhVlpDT1cwNE5WQnZRbUZ2YkVselRreFhlbWhwWXpaaWFWUjZaVU14U1hKQmJVSlRUemwzT1RKb1dGWkRYMngzUVc4MFVGVXlNa1JsYmt3NVZFOVdhbXBNV21KQ09IaGZNVU5oUzB4RlJqSkdZbUZvUXpJM1RWSkZXVFJuTVc5MmMwTnhhWEpXZGtscWRETlhZM00wTUVGNU5tNTRaME0wVWpSUVJEUmxlRXhWVVdKVVZtVjRPWE5sUXpWSFoyeGFTRVZyYVhkNVdrNVpTa2xuTFdSS1pHaFFiVTFwVlRKa1FuTmZOVTVZWTJGTFdGWldYekphVm5CaFZ6WjVVR3B5TUY5eWRtMUZNMjlWZGtrd2VXMW9iVlJNTmkxRFJIUkxZV3BHWW1ad1ppMDNXVzAzV21kUVVVOTJia2Q0VXpWclFXMU1kRko1WVdKbE1FMHlXVzFNUkMxQk1YZHVla1ZmWWtaek9HaGhabkZ2UVdsRWFWUm9YME5vZEZscmNHaGFSV3RrYTA5c00zSTNRblp5ZVZaQ2NVdDJWVFUxTm1kc1FsRVNGMHBoVEVkaGNXRXRUMHQ1Y1RWT2IxQjVaazlXYVZGakdpSkJSSE55T1daUlJHZGlaRU5EVFVOVVowZG9VMFpOTWt4amIwMVJPVVpZV0U1UiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBUR0ptY1ROVFJqbFFUbmt0Y1dOSFFUWlpkMVZXUTNSQ2RtczJUWEI1VWprNGVGOUdlV2xMYTBwaFlsZGphbU51YXpaQldHTXRiMk5pTlhaQlExQnpUeTFWVmtwUFozVnpWbVo1Umxob1VVdHRPWFpXWVhKalRYZDZlbHBrUVcxQ2NuWXhRWGwxUjFvM2JubHpUbGx1UmpBeU5VWlpiV1pTV214Q1NraEpSV0o0Tms5NFlYVkhWM2N3UkhGeFNtczRXRjlVU0dwdmNEaFZWV0k1WkRKaVMwSkhhVlpDT1cwNE5WQnZRbUZ2YkVselRreFhlbWhwWXpaaWFWUjZaVU14U1hKQmJVSlRUemwzT1RKb1dGWkRYMngzUVc4MFVGVXlNa1JsYmt3NVZFOVdhbXBNV21KQ09IaGZNVU5oUzB4RlJqSkdZbUZvUXpJM1RWSkZXVFJuTVc5MmMwTnhhWEpXZGtscWRETlhZM00wTUVGNU5tNTRaME0wVWpSUVJEUmxlRXhWVVdKVVZtVjRPWE5sUXpWSFoyeGFTRVZyYVhkNVdrNVpTa2xuTFdSS1pHaFFiVTFwVlRKa1FuTmZOVTVZWTJGTFdGWldYekphVm5CaFZ6WjVVR3B5TUY5eWRtMUZNMjlWZGtrd2VXMW9iVlJNTmkxRFJIUkxZV3BHWW1ad1ppMDNXVzAzV21kUVVVOTJia2Q0VXpWclFXMU1kRko1WVdKbE1FMHlXVzFNUkMxQk1YZHVla1ZmWWtaek9HaGhabkZ2UVdsRWFWUm9YME5vZEZscmNHaGFSV3RrYTA5c00zSTNRblp5ZVZaQ2NVdDJWVFUxTm1kc1FsRVNGMHBoVEVkaGNXRXRUMHQ1Y1RWT2IxQjVaazlXYVZGakdpSkJSSE55T1daUlJHZGlaRU5EVFVOVVowZG9VMFpOTWt4amIwMVJPVVpZV0U1UiIsImZjdiI6IjMifQ%3D%3D&q=Frontend+Developer"
+  }
+}

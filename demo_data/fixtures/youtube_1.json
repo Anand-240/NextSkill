@@ -1,0 +1,694 @@
+{
+  "search_metadata": {
+    "id": "6ac69cfd8c8a7ee4114c286e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LKbFkAofybHnwO8ObfOE-fbsjUOeqRkeDe2BEm15GqA/6ac69cfd8c8a7ee4114c286e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/LKbFkAofybHnwO8ObfOE-fbsjUOeqRkeDe2BEm15GqA/6ac69cfd8c8a7ee4114c286e.md",
+    "created_at": "2026-10-07 19:26:53 UTC",
+    "processed_at": "2026-10-07 19:26:53 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Power+BI+beginner+full+course+in+English&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/LKbFkAofybHnwO8ObfOE-fbsjUOeqRkeDe2BEm15GqA/6ac69cfd8c8a7ee4114c286e.html",
+    "total_time_taken": 3.97
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Power BI beginner full course in English",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 8971386,
+    "video_results_state": "Results for exact spelling"
+  },
+  "playlist_results": [
+    {
+      "position_on_page": 1,
+      "title": "Power BI Full Course Video",
+      "link": "https://www.youtube.com/playlist?list=PL6Omre3duO-P93dIofLn_QJv_MpmolO4D",
+      "channel": {
+        "name": "Pavan Lalwani",
+        "link": "https://www.youtube.com/@PavanLalwani"
+      },
+      "videos": [
+        {
+          "title": "Power BI Full Course in 8 Hours  | Power BI Tutorial for Beginners | @PavanLalwani",
+          "length": "8:36:05",
+          "link": "https://www.youtube.com/watch?v=UXhGRVTndQA&list=PL6Omre3duO-P93dIofLn_QJv_MpmolO4D"
+        },
+        {
+          "title": "Every Data Analyst user Must Watch 👁️ | ft. Animal \"Ranbir Kapoor\"",
+          "length": "3:30",
+          "link": "https://www.youtube.com/watch?v=87kYUkrRt3s&list=PL6Omre3duO-P93dIofLn_QJv_MpmolO4D"
+        }
+      ],
+      "video_count": 12,
+      "thumbnail": "https://i.ytimg.com/vi/UXhGRVTndQA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB4zjOoazIl-A3_lydksjRK9cSL0g"
+    },
+    {
+      "position_on_page": 4,
+      "title": "Power BI Tutorials for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst"
+      },
+      "videos": [
+        {
+          "title": "How to Install Power BI | Building First Visualization | Microsoft Power BI for Beginners",
+          "length": "12:50",
+          "link": "https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys"
+        },
+        {
+          "title": "How to use Power Query in Power BI | Microsoft Power BI for Beginners",
+          "length": "13:07",
+          "link": "https://www.youtube.com/watch?v=gP-AxNi6uxo&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&pp=0gcJCQIF0aJEHMZM"
+        }
+      ],
+      "video_count": 9,
+      "thumbnail": "https://i.ytimg.com/vi/g0m5sEHPU-s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBgbb30MoT2nWQFgfKydQQtDT-j7g"
+    },
+    {
+      "position_on_page": 5,
+      "title": "Power BI Full Course",
+      "link": "https://www.youtube.com/playlist?list=PLoyECfvEFOjaMKFbBSKSmnOpEcXqqRegW",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "link": "https://www.youtube.com/@learnskillsdaily"
+      },
+      "videos": [
+        {
+          "title": "Power BI Beginner Tutorial",
+          "length": "1:36:18",
+          "link": "https://www.youtube.com/watch?v=fnA-_iDV_LY&list=PLoyECfvEFOjaMKFbBSKSmnOpEcXqqRegW"
+        },
+        {
+          "title": "Power BI Intermediate Tutorial",
+          "length": "1:02:38",
+          "link": "https://www.youtube.com/watch?v=e7h2k-hXWTc&list=PLoyECfvEFOjaMKFbBSKSmnOpEcXqqRegW"
+        }
+      ],
+      "video_count": 7,
+      "thumbnail": "https://i.ytimg.com/vi/fnA-_iDV_LY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDW8S52uL1hfCRDepyO_hk0u_3dWg"
+    },
+    {
+      "position_on_page": 10,
+      "title": "Power BI Tutorial for Beginners in Telugu and English [Step-by-Step Guide]",
+      "link": "https://www.youtube.com/playlist?list=PL6EqLdsJvMUBw0k-AZMtfSpBMLtWlpujS",
+      "channel": {
+        "name": "Balaji Naik ",
+        "link": "https://www.youtube.com/@balajinaikmudavatu7855"
+      },
+      "videos": [
+        {
+          "title": "1.Introduction to Power BI",
+          "length": "1:29:25",
+          "link": "https://www.youtube.com/watch?v=KasoP7WuPUs&list=PL6EqLdsJvMUBw0k-AZMtfSpBMLtWlpujS"
+        },
+        {
+          "title": "2. Import Mode vs Direct Mode, KPI's",
+          "length": "1:27:30",
+          "link": "https://www.youtube.com/watch?v=xwZdOrAJs2s&list=PL6EqLdsJvMUBw0k-AZMtfSpBMLtWlpujS"
+        }
+      ],
+      "video_count": 28,
+      "thumbnail": "https://i.ytimg.com/vi/KasoP7WuPUs/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDNj3PsHUV0_tx5eRDw34wassOOxQ"
+    },
+    {
+      "position_on_page": 11,
+      "title": "Power BI Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX",
+      "channel": {
+        "name": "Pavan Lalwani",
+        "link": "https://www.youtube.com/@PavanLalwani"
+      },
+      "videos": [
+        {
+          "title": "1.1 Power BI Tutorial for Beginners (Introduction to Power BI )",
+          "length": "6:47",
+          "link": "https://www.youtube.com/watch?v=H84UJn1CiWo&list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX"
+        },
+        {
+          "title": "Create a POWER BI Dashboard in 7 Minutes with This One Trick | @PavanLalwani",
+          "length": "12:55",
+          "link": "https://www.youtube.com/watch?v=wZATWjV4scg&list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX&pp=0gcJCQIF0aJEHMZM"
+        }
+      ],
+      "video_count": 51,
+      "thumbnail": "https://i.ytimg.com/vi/H84UJn1CiWo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD85StvqgUcagF_DHpOOay4D6OTZw"
+    },
+    {
+      "position_on_page": 13,
+      "title": "FREE Microsoft Power BI Course",
+      "link": "https://www.youtube.com/playlist?list=PLmejDGrsgFyBsZlhRBdJQb9dQWQTTYPdC",
+      "channel": {
+        "name": "Chandoo",
+        "link": "https://www.youtube.com/@chandoo_"
+      },
+      "videos": [
+        {
+          "title": "Your first 10 minutes of Power BI - A no-nonsense getting started tutorial for beginners",
+          "length": "11:15",
+          "link": "https://www.youtube.com/watch?v=9tF1IrfLflg&list=PLmejDGrsgFyBsZlhRBdJQb9dQWQTTYPdC"
+        },
+        {
+          "title": "Power BI is EASY: Get started and make your first report in 30 mins 🕐",
+          "length": "37:54",
+          "link": "https://www.youtube.com/watch?v=al4OfLIOl2w&list=PLmejDGrsgFyBsZlhRBdJQb9dQWQTTYPdC"
+        }
+      ],
+      "video_count": 15,
+      "thumbnail": "https://i.ytimg.com/vi/9tF1IrfLflg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB28UrZaa3-JE0BrtOyiMaVzR_X3g"
+    },
+    {
+      "position_on_page": 14,
+      "title": "Power BI Tutorial For Beginners | Edureka",
+      "link": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOElgtd2D_rU5McNbXofqMii",
+      "channel": {
+        "name": "edureka!",
+        "link": "https://www.youtube.com/@edurekaIN"
+      },
+      "videos": [
+        {
+          "title": "Power BI Full Course - Learn Power BI in 4 Hours | Power BI Tutorial for Beginners | Edureka",
+          "length": "3:35:38",
+          "link": "https://www.youtube.com/watch?v=3u7MQz1EyPY&list=PL9ooVrP1hQOElgtd2D_rU5McNbXofqMii"
+        },
+        {
+          "title": "Power BI Tutorial For Beginners | How to use Power BI | Power BI Training Certification | Edureka",
+          "length": "1:19:49",
+          "link": "https://www.youtube.com/watch?v=W0mG3KFR3Hw&list=PL9ooVrP1hQOElgtd2D_rU5McNbXofqMii"
+        }
+      ],
+      "video_count": 56,
+      "thumbnail": "https://i.ytimg.com/vi/3u7MQz1EyPY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjAne7U3wkYcAKucdxb1RTX9tQvw"
+    },
+    {
+      "position_on_page": 15,
+      "title": "FREE Power BI Course 🎁",
+      "link": "https://www.youtube.com/playlist?list=PLmejDGrsgFyDMME3o2CamamZ8w9NxSWWo",
+      "channel": {
+        "name": "Chandoo",
+        "link": "https://www.youtube.com/@chandoo_"
+      },
+      "videos": [
+        {
+          "title": "Your first 10 minutes of Power BI - A no-nonsense getting started tutorial for beginners",
+          "length": "11:15",
+          "link": "https://www.youtube.com/watch?v=9tF1IrfLflg&list=PLmejDGrsgFyDMME3o2CamamZ8w9NxSWWo"
+        },
+        {
+          "title": "Beginner to PRO Data Analysis with Power BI - Full Length Course (with sample files!)",
+          "length": "42:50",
+          "link": "https://www.youtube.com/watch?v=uwe8C7K8fXY&list=PLmejDGrsgFyDMME3o2CamamZ8w9NxSWWo"
+        }
+      ],
+      "video_count": 16,
+      "thumbnail": "https://i.ytimg.com/vi/9tF1IrfLflg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB28UrZaa3-JE0BrtOyiMaVzR_X3g"
+    },
+    {
+      "position_on_page": 16,
+      "title": "Power BI Ultimate Course",
+      "link": "https://www.youtube.com/playlist?list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu",
+      "channel": {
+        "name": "Data with Baraa",
+        "link": "https://www.youtube.com/@DataWithBaraa"
+      },
+      "videos": [
+        {
+          "title": "What Is Power BI? The Full Story Visually Explained | #PowerBI Course 1",
+          "length": "21:14",
+          "link": "https://www.youtube.com/watch?v=PDXpM7IvXis&list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu"
+        },
+        {
+          "title": "Learn Power BI FAST – Full Beginner Crash Course (1 Hour)",
+          "length": "45:54",
+          "link": "https://www.youtube.com/watch?v=WdCltDhmRLo&list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu"
+        }
+      ],
+      "video_count": 32,
+      "thumbnail": "https://i.ytimg.com/vi/PDXpM7IvXis/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA68YKjqc2Ho24ou-HIRaZojfLn2w"
+    },
+    {
+      "position_on_page": 17,
+      "title": "Power BI Full Course 2026 - Learn Data Analytics, DAX & Dashboards from Scratch",
+      "link": "https://www.youtube.com/playlist?list=PLPaNVDMhUXGZXsFSnz_jWIPRer35gWZHb",
+      "channel": {
+        "name": "Learn Microsoft Fabric, Power BI, SQL Amit Chandak",
+        "link": "https://www.youtube.com/@AmitChandak"
+      },
+      "videos": [
+        {
+          "title": "Power BI Complete Course 2026 - Beginner to Expert in 20 Hours (Free Tutorial)",
+          "length": "20:02:05",
+          "link": "https://www.youtube.com/watch?v=cyWVzAQF9YU&list=PLPaNVDMhUXGZXsFSnz_jWIPRer35gWZHb"
+        },
+        {
+          "title": "Organize Measures in Power BI | Measure Table + Display Folders Explained | PL 300",
+          "length": "4:05",
+          "link": "https://www.youtube.com/watch?v=IbWg0djome4&list=PLPaNVDMhUXGZXsFSnz_jWIPRer35gWZHb"
+        }
+      ],
+      "video_count": 27,
+      "thumbnail": "https://i.ytimg.com/vi/cyWVzAQF9YU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdkJ26qvsKGZxVI7sDXUKsqkqYUA"
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "Power BI for Data Analytics - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=FwjaHCVNBWA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FwjaHCVNBWA",
+      "video_id": "FwjaHCVNBWA",
+      "channel": {
+        "name": "Luke Barousse",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1504916,
+      "length": "8:24:31",
+      "description": "FREE Course Files & Projects https://lukeb.co/powerbi-files Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FwjaHCVNBWA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBY8sNXDZc5VQkK6BtvuwNBGx8s_Q"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Power BI Tutorial for Beginners (Step-by-Step in 30 Minutes)",
+      "link": "https://www.youtube.com/watch?v=OmW9YvxSl1E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OmW9YvxSl1E",
+      "video_id": "OmW9YvxSl1E",
+      "channel": {
+        "name": "Guy in a Cube",
+        "link": "https://www.youtube.com/@GuyInACube",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/aLaUqocc11VJvhfBJzTy33U022xIkwhulEYUnOiZX9ehWtJTgmtIA-zMW73Wy8fYkxTRrr6jSw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 117147,
+      "length": "30:42",
+      "description": "In this Guy in a Cube video, Patrick is showing a complete introduction to Power BI for beginners. This is not just a tour of features.",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OmW9YvxSl1E/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBNSuZfTXV5nKI-UXNbZqDvxF86tw"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Power BI Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=VaOhNqNtGGE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VaOhNqNtGGE",
+      "video_id": "VaOhNqNtGGE",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 2085226,
+      "length": "12:11",
+      "description": "Want to learn Power BI fast? Start with this beginner-friendly tutorial where you'll import data, clean it, build your first interactive ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/VaOhNqNtGGE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDkt4QPlczm74DKPsJUZa6qk9WMwQ"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Power BI from ZERO to Your First Dashboard (in 20 Minutes)",
+      "link": "https://www.youtube.com/watch?v=c7LrqSxjJQQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c7LrqSxjJQQ",
+      "video_id": "c7LrqSxjJQQ",
+      "channel": {
+        "name": "Leila Gharani",
+        "link": "https://www.youtube.com/@LeilaGharani",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nRcy9yiYCsCEjQ0_Dwi_BjpnrMbBa2ov10Y2flDk-otH0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 3096343,
+      "length": "23:03",
+      "description": "Join our popular FREE Power BI beginners course today! https://link.xelplus.com/yt-d-powerbi-starter In just 20 minutes, you'll ...",
+      "extensions": [
+        "5 products",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/c7LrqSxjJQQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAD0q_C2OO145ivvYokmnrMOEOW0Q"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Power BI FULL COURSE for Beginners | Learn Dashboards & Reports Fast!",
+      "link": "https://www.youtube.com/watch?v=Dk25lwdTKow",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Dk25lwdTKow",
+      "video_id": "Dk25lwdTKow",
+      "channel": {
+        "name": "Pragmatic Works",
+        "link": "https://www.youtube.com/@PragmaticWorks",
+        "thumbnail": "https://yt3.ggpht.com/Q21rGKQrLs-YrFyq3ClStbt4ynAE-Ma0KdqQnJZGWQq2l9ABRdldAwQWZkp4JjJgejmNpvh_dg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1259175,
+      "length": "3:40:48",
+      "description": "Power BI tutorial for beginners and professionals. Learn Power BI step by step in this full course covering data cleaning, Power ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Dk25lwdTKow/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHpI1j8-0koFIGg2H_p2fzB0TSAw"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Power BI Full Course 2025: Complete Beginner to Advanced Tutorial in English",
+      "link": "https://www.youtube.com/watch?v=_76bzIuz-dU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_76bzIuz-dU",
+      "video_id": "_76bzIuz-dU",
+      "channel": {
+        "name": "WsCube Tech! ENGLISH",
+        "link": "https://www.youtube.com/@WsCubeTechENGLISH",
+        "thumbnail": "https://yt3.ggpht.com/DGbp4rm8qBuN9ERROr9zvCf6oehpWe7MsdjioUBF4w_8Q35sfgZit8WCfTzSGiat-glHRoiT4a8=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 205916,
+      "length": "3:26:00",
+      "description": "Power BI Full Course 2025: Complete Beginner to Advanced Tutorial in English To learn Data Analytics Course online with ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_76bzIuz-dU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD6ZBpWP-dydYrsfGG2qIFK5w3cPA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Power BI Full Course - Learn Power BI in 4 Hours | Power BI Tutorial for Beginners | Edureka",
+      "link": "https://www.youtube.com/watch?v=3u7MQz1EyPY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3u7MQz1EyPY",
+      "video_id": "3u7MQz1EyPY",
+      "channel": {
+        "name": "edureka!",
+        "link": "https://www.youtube.com/@edurekaIN",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/fkoY1WFQrc9eK6FwzrZVi-hZFBdpCUfSYPy6k9VSVP4H1Cqo_0pwIgpgOn-uCRgFPlz_AtGGog=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 4879030,
+      "length": "3:35:38",
+      "description": "Edureka Power BI Training (Use Code \"YOUTUBE20\") - https://www.edureka.co/power-bi-certification-training This ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3u7MQz1EyPY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXrNB-68as9OQZQ0n54rQY49KA9w"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Power BI Full Course Tutorial (8+ Hours)",
+      "link": "https://www.youtube.com/watch?v=e6QD8lP-m6E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=e6QD8lP-m6E",
+      "video_id": "e6QD8lP-m6E",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "link": "https://www.youtube.com/@learnskillsdaily",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WwrBREpkRbdALebIg_xlBFBSwc7H8_tBcqgjLSP4fpZkMcPp3hSledFRan866itfUwsEKg-AUQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 2511230,
+      "length": "8:19:42",
+      "description": "Power BI Full Course Tutorial (8+ Hours) Join Learn Skills Daily for ad-free training, exams, certificates, and exclusive content: ...",
+      "extensions": [
+        "3 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/e6QD8lP-m6E/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBqmqHzQ1xTjuJhBsa96-56GFD0Kg"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Learn Power BI in Under 3 Hours | Formatting, Visualizations, Dashboards + Full Project",
+      "link": "https://www.youtube.com/watch?v=I0vQ_VLZTWg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=I0vQ_VLZTWg",
+      "video_id": "I0vQ_VLZTWg",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1006542,
+      "length": "2:05:18",
+      "description": "Take my Full Power BI Course Here: https://www.analystbuilder.com/courses/microsoft-power-bi-desktop-for-business-intelligence ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/I0vQ_VLZTWg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCu4EWMK5AeHCn6I0xBPz60isbUFg"
+      }
+    }
+  ],
+  "shorts_results": [
+    {
+      "position_on_page": 19,
+      "shorts": [
+        {
+          "title": "What is Power BI? | Power BI Tutorial for Beginners | Learn Power BI in English",
+          "link": "https://www.youtube.com/shorts/ln2bmZyNa34",
+          "thumbnail": "https://i.ytimg.com/vi/ln2bmZyNa34/frame0.jpg",
+          "views_original": "512 views",
+          "views": 512,
+          "video_id": "ln2bmZyNa34"
+        },
+        {
+          "title": "Power BI Free Full course by Microsoft 😍 #powerbitraining #datavisualization #freecourse #powerbi",
+          "link": "https://www.youtube.com/shorts/jChQrNTq3TI",
+          "thumbnail": "https://i.ytimg.com/vi/jChQrNTq3TI/frame0.jpg",
+          "views_original": "515K views",
+          "views": 515000,
+          "video_id": "jChQrNTq3TI"
+        },
+        {
+          "title": "Power BI Explained: Desktop, DAX, Power Query, and AI Insights",
+          "link": "https://www.youtube.com/shorts/ieLt1bCYdis",
+          "thumbnail": "https://i.ytimg.com/vi/ieLt1bCYdis/frame0.jpg",
+          "views_original": "134 views",
+          "views": 134,
+          "video_id": "ieLt1bCYdis"
+        },
+        {
+          "title": "🚀 POWER BI TRAINING | TURN RAW DATA INTO POWERFUL DASHBOARDS",
+          "link": "https://www.youtube.com/shorts/9dLLOMknEQo",
+          "thumbnail": "https://i.ytimg.com/vi/9dLLOMknEQo/frame0.jpg",
+          "views_original": "6 views",
+          "views": 6,
+          "video_id": "9dLLOMknEQo"
+        },
+        {
+          "title": "How to install Power BI for Desktop",
+          "link": "https://www.youtube.com/shorts/ZQ4JKjUp0EU",
+          "thumbnail": "https://i.ytimg.com/vi/ZQ4JKjUp0EU/frame0.jpg",
+          "views_original": "62K views",
+          "views": 62000,
+          "video_id": "ZQ4JKjUp0EU"
+        }
+      ]
+    },
+    {
+      "position_on_page": 22,
+      "shorts": [
+        {
+          "title": "Power BI with AI 2027 Roadmap From Beginner to Job Ready",
+          "link": "https://www.youtube.com/shorts/3m1_-tKBRQU",
+          "thumbnail": "https://i.ytimg.com/vi/3m1_-tKBRQU/frame0.jpg",
+          "views_original": "16 views",
+          "views": 16,
+          "video_id": "3m1_-tKBRQU"
+        },
+        {
+          "title": "Complete Data Analytics Course 2025 💻 | SQL, Excel, Power BI, Python & Stats in 29 Hours!",
+          "link": "https://www.youtube.com/shorts/ufgrV3EDYmQ",
+          "thumbnail": "https://i.ytimg.com/vi/ufgrV3EDYmQ/frame0.jpg",
+          "views_original": "280K views",
+          "views": 280000,
+          "video_id": "ufgrV3EDYmQ"
+        },
+        {
+          "title": "INTERSECT in Power BI Explained | Find Common Customers with DAX 🔥",
+          "link": "https://www.youtube.com/shorts/lSMJhgt1maU",
+          "thumbnail": "https://i.ytimg.com/vi/lSMJhgt1maU/frame0.jpg",
+          "views_original": "26 views",
+          "views": 26,
+          "video_id": "lSMJhgt1maU"
+        },
+        {
+          "title": "🚀 Power BI Training | Turn Raw Data Into Powerful Dashboards | Stat Forge",
+          "link": "https://www.youtube.com/shorts/wwepKKKDwNM",
+          "thumbnail": "https://i.ytimg.com/vi/wwepKKKDwNM/frame0.jpg",
+          "views_original": "138 views",
+          "views": 138,
+          "video_id": "wwepKKKDwNM"
+        },
+        {
+          "title": "What is Power BI?",
+          "link": "https://www.youtube.com/shorts/DsUjC6j3xWE",
+          "thumbnail": "https://i.ytimg.com/vi/DsUjC6j3xWE/frame0.jpg",
+          "views_original": "1.6M views",
+          "views": 1600000,
+          "video_id": "DsUjC6j3xWE"
+        },
+        {
+          "title": "Import Your First Data in Power BI with a CSV File - Quick and Easy! | Power BI Tutorial Beginners",
+          "link": "https://www.youtube.com/shorts/2WrVDEawE7s",
+          "thumbnail": "https://i.ytimg.com/vi/2WrVDEawE7s/frame0.jpg",
+          "views_original": "53K views",
+          "views": 53000,
+          "video_id": "2WrVDEawE7s"
+        },
+        {
+          "title": "Starting Power BI but overwhelmed by all the visuals? You only need 8",
+          "link": "https://www.youtube.com/shorts/sCAAKWKxnZQ",
+          "thumbnail": "https://i.ytimg.com/vi/sCAAKWKxnZQ/frame0.jpg",
+          "views_original": "No views",
+          "views": 0,
+          "video_id": "sCAAKWKxnZQ"
+        },
+        {
+          "title": "Still Building Reports Manually? Learn Power BI | #PROITKEYS #careergrowth #itcareers #ittraining",
+          "link": "https://www.youtube.com/shorts/kwJCvPoatfM",
+          "thumbnail": "https://i.ytimg.com/vi/kwJCvPoatfM/frame0.jpg",
+          "views_original": "148 views",
+          "views": 148,
+          "video_id": "kwJCvPoatfM"
+        },
+        {
+          "title": "Organize DAX Measures in Power BI Efficiently",
+          "link": "https://www.youtube.com/shorts/abWm6Sprh44",
+          "thumbnail": "https://i.ytimg.com/vi/abWm6Sprh44/frame0.jpg",
+          "views_original": "12K views",
+          "views": 12000,
+          "video_id": "abWm6Sprh44"
+        },
+        {
+          "title": "Which Stores Really Make You Money? Power BI Dashboard #shorts",
+          "link": "https://www.youtube.com/shorts/Hx8bO6LLqfs",
+          "thumbnail": "https://i.ytimg.com/vi/Hx8bO6LLqfs/frame0.jpg",
+          "views_original": "44 views",
+          "views": 44,
+          "video_id": "Hx8bO6LLqfs"
+        },
+        {
+          "title": "Excel Is Great… But Is It Time to Learn Power BI? #exceltutorial #dataanalytics #excelforbeginners",
+          "link": "https://www.youtube.com/shorts/ZS9rFxgr2RQ",
+          "thumbnail": "https://i.ytimg.com/vi/ZS9rFxgr2RQ/frame0.jpg",
+          "views_original": "47 views",
+          "views": 47,
+          "video_id": "ZS9rFxgr2RQ"
+        },
+        {
+          "title": "Build Your Very First Visual in Power BI Desktop #shorts #powerbi #dashboard",
+          "link": "https://www.youtube.com/shorts/ByFtvYEel1E",
+          "thumbnail": "https://i.ytimg.com/vi/ByFtvYEel1E/frame0.jpg",
+          "views_original": "66 views",
+          "views": 66,
+          "video_id": "ByFtvYEel1E"
+        },
+        {
+          "title": "Employee Dashboard in Power BI | Before vs After 🚀✌🏻",
+          "link": "https://www.youtube.com/shorts/_J0_3oPO0rg",
+          "thumbnail": "https://i.ytimg.com/vi/_J0_3oPO0rg/frame0.jpg",
+          "views_original": "8.5K views",
+          "views": 8500,
+          "video_id": "_J0_3oPO0rg"
+        },
+        {
+          "title": "Microsoft Power BI in under 1 Minute - Load data & Start visualizing",
+          "link": "https://www.youtube.com/shorts/Gk0jedXeXbo",
+          "thumbnail": "https://i.ytimg.com/vi/Gk0jedXeXbo/frame0.jpg",
+          "views_original": "76K views",
+          "views": 76000,
+          "video_id": "Gk0jedXeXbo"
+        },
+        {
+          "title": "Is PowerBI easy to learn? #codebasics #data #dataanalyst #powerbi",
+          "link": "https://www.youtube.com/shorts/pTO53uuizXk",
+          "thumbnail": "https://i.ytimg.com/vi/pTO53uuizXk/frame0.jpg",
+          "views_original": "554K views",
+          "views": 554000,
+          "video_id": "pTO53uuizXk"
+        },
+        {
+          "title": "Power BI Dashboard Anatomy: the 5 Parts Every Report Needs #PowerBI #Dashboard #ClaudeAI",
+          "link": "https://www.youtube.com/shorts/u9MD9aGr1oI",
+          "thumbnail": "https://i.ytimg.com/vi/u9MD9aGr1oI/frame0.jpg",
+          "views_original": "244 views",
+          "views": 244,
+          "video_id": "u9MD9aGr1oI"
+        },
+        {
+          "title": "Power BI for Better Filing Accuracy 📊 | DHS IT Solutions",
+          "link": "https://www.youtube.com/shorts/mrEzIqqa7s4",
+          "thumbnail": "https://i.ytimg.com/vi/mrEzIqqa7s4/frame0.jpg",
+          "views_original": "8 views",
+          "views": 8,
+          "video_id": "mrEzIqqa7s4"
+        },
+        {
+          "title": "Power BI Tutorial in Garhwali #powerbi #garhwali #xl-in-it",
+          "link": "https://www.youtube.com/shorts/aRMS7RD_eqI",
+          "thumbnail": "https://i.ytimg.com/vi/aRMS7RD_eqI/frame0.jpg",
+          "views_original": "43 views",
+          "views": 43,
+          "video_id": "aRMS7RD_eqI"
+        },
+        {
+          "title": "How to Find Missing Values in Power BI | Power BI Tutorial",
+          "link": "https://www.youtube.com/shorts/rz9EJ46uIaY",
+          "thumbnail": "https://i.ytimg.com/vi/rz9EJ46uIaY/frame0.jpg",
+          "views_original": "141 views",
+          "views": 141,
+          "video_id": "rz9EJ46uIaY"
+        },
+        {
+          "title": "Learn Power BI: 6 Data Types You Need To Know! #powerbi",
+          "link": "https://www.youtube.com/shorts/KF6BcCSDATo",
+          "thumbnail": "https://i.ytimg.com/vi/KF6BcCSDATo/frame0.jpg",
+          "views_original": "425 views",
+          "views": 425,
+          "video_id": "KF6BcCSDATo"
+        }
+      ]
+    }
+  ],
+  "channel_results": [
+    {
+      "position_on_page": 21,
+      "title": "Microsoft Power BI",
+      "link": "https://www.youtube.com/@MicrosoftPowerBI",
+      "verified": true,
+      "handle": "@MicrosoftPowerBI",
+      "subscribers": 530000,
+      "description": "Welcome to the official Microsoft Power BI YouTube Channel. Power BI is a business analytics service that enables you to see ...",
+      "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_mTTQJn1ljyswoNZGG8feMQqAuxIhJgRxBd9f4kMvyoAD8=s88-c-k-c0x00ffffff-no-rj-mo"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Power+BI+beginner+full+course+in+English&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Power%20BI%20beginner%20full%20course%20in%20English&sp=SBSCASJQTDZPbXJlM2R1Ty1QOTNkSW9mTG5fUUp2X01wbW9sTzREggELRndqYUhDVk5CV0GCAQtPbVc5WXZ4U2wxRYIBIlBMVWFCLTFoamhrOEhxbm1LMGdRaGZtSWRDYnh3b0FveXOCASJQTG95RUNmdkVGT2phTUtGYkJTS1Ntbk9wRWNYcXFSZWdXggELVmFPaE5xTnRHR0WCAQtjN0xycVN4akpRUYIBC0RrMjVsd2RUS293ggELXzc2YnpJdXotZFWCASJQTDZFcUxkc0p2TVVCdzBrLUFaTXRmU3BCTUx0V2xwdWpTggEiUEw2T21yZTNkdU8tT0dUQU11RnVET1M4d011dXhteWFpWIIBCzN1N01RejFFeVBZggEiUExtZWpER3JzZ0Z5QnNabGhSQmRKUWI5ZFFXUVRUWVBkQ4IBIlBMOW9vVnJQMWhRT0VsZ3RkMkRfclU1TWNOYlhvZnFNaWmCASJQTG1lakRHcnNnRnlETU1FM28yQ2FtYW1aOHc5TnhTV1dvggEiUExOY2dfRlY5bjdxWmdlNEtER3FHdHFnaXVWdWhWWld6dYIBIlBMUGFOVkRNaFVYR1pYc0ZTbnpfaldJUFJlcjM1Z1daSGKCAQtlNlFEOGxQLW02RYIBC0kwdlFfVkxaVFdnggEYVUN5LS1QWXZ3QndBZXVZYVI4SkxtcmZnsgEGCgQIFhAC6gEECAIQGQ%253D%253D",
+    "next_page_token": "SBSCASJQTDZPbXJlM2R1Ty1QOTNkSW9mTG5fUUp2X01wbW9sTzREggELRndqYUhDVk5CV0GCAQtPbVc5WXZ4U2wxRYIBIlBMVWFCLTFoamhrOEhxbm1LMGdRaGZtSWRDYnh3b0FveXOCASJQTG95RUNmdkVGT2phTUtGYkJTS1Ntbk9wRWNYcXFSZWdXggELVmFPaE5xTnRHR0WCAQtjN0xycVN4akpRUYIBC0RrMjVsd2RUS293ggELXzc2YnpJdXotZFWCASJQTDZFcUxkc0p2TVVCdzBrLUFaTXRmU3BCTUx0V2xwdWpTggEiUEw2T21yZTNkdU8tT0dUQU11RnVET1M4d011dXhteWFpWIIBCzN1N01RejFFeVBZggEiUExtZWpER3JzZ0Z5QnNabGhSQmRKUWI5ZFFXUVRUWVBkQ4IBIlBMOW9vVnJQMWhRT0VsZ3RkMkRfclU1TWNOYlhvZnFNaWmCASJQTG1lakRHcnNnRnlETU1FM28yQ2FtYW1aOHc5TnhTV1dvggEiUExOY2dfRlY5bjdxWmdlNEtER3FHdHFnaXVWdWhWWld6dYIBIlBMUGFOVkRNaFVYR1pYc0ZTbnpfaldJUFJlcjM1Z1daSGKCAQtlNlFEOGxQLW02RYIBC0kwdlFfVkxaVFdnggEYVUN5LS1QWXZ3QndBZXVZYVI4SkxtcmZnsgEGCgQIFhAC6gEECAIQGQ%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Power+BI+beginner+full+course+in+English",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Power+BI+beginner+full+course+in+English&sp=SBSCASJQTDZPbXJlM2R1Ty1QOTNkSW9mTG5fUUp2X01wbW9sTzREggELRndqYUhDVk5CV0GCAQtPbVc5WXZ4U2wxRYIBIlBMVWFCLTFoamhrOEhxbm1LMGdRaGZtSWRDYnh3b0FveXOCASJQTG95RUNmdkVGT2phTUtGYkJTS1Ntbk9wRWNYcXFSZWdXggELVmFPaE5xTnRHR0WCAQtjN0xycVN4akpRUYIBC0RrMjVsd2RUS293ggELXzc2YnpJdXotZFWCASJQTDZFcUxkc0p2TVVCdzBrLUFaTXRmU3BCTUx0V2xwdWpTggEiUEw2T21yZTNkdU8tT0dUQU11RnVET1M4d011dXhteWFpWIIBCzN1N01RejFFeVBZggEiUExtZWpER3JzZ0Z5QnNabGhSQmRKUWI5ZFFXUVRUWVBkQ4IBIlBMOW9vVnJQMWhRT0VsZ3RkMkRfclU1TWNOYlhvZnFNaWmCASJQTG1lakRHcnNnRnlETU1FM28yQ2FtYW1aOHc5TnhTV1dvggEiUExOY2dfRlY5bjdxWmdlNEtER3FHdHFnaXVWdWhWWld6dYIBIlBMUGFOVkRNaFVYR1pYc0ZTbnpfaldJUFJlcjM1Z1daSGKCAQtlNlFEOGxQLW02RYIBC0kwdlFfVkxaVFdnggEYVUN5LS1QWXZ3QndBZXVZYVI4SkxtcmZnsgEGCgQIFhAC6gEECAIQGQ%253D%253D",
+    "next_page_token": "SBSCASJQTDZPbXJlM2R1Ty1QOTNkSW9mTG5fUUp2X01wbW9sTzREggELRndqYUhDVk5CV0GCAQtPbVc5WXZ4U2wxRYIBIlBMVWFCLTFoamhrOEhxbm1LMGdRaGZtSWRDYnh3b0FveXOCASJQTG95RUNmdkVGT2phTUtGYkJTS1Ntbk9wRWNYcXFSZWdXggELVmFPaE5xTnRHR0WCAQtjN0xycVN4akpRUYIBC0RrMjVsd2RUS293ggELXzc2YnpJdXotZFWCASJQTDZFcUxkc0p2TVVCdzBrLUFaTXRmU3BCTUx0V2xwdWpTggEiUEw2T21yZTNkdU8tT0dUQU11RnVET1M4d011dXhteWFpWIIBCzN1N01RejFFeVBZggEiUExtZWpER3JzZ0Z5QnNabGhSQmRKUWI5ZFFXUVRUWVBkQ4IBIlBMOW9vVnJQMWhRT0VsZ3RkMkRfclU1TWNOYlhvZnFNaWmCASJQTG1lakRHcnNnRnlETU1FM28yQ2FtYW1aOHc5TnhTV1dvggEiUExOY2dfRlY5bjdxWmdlNEtER3FHdHFnaXVWdWhWWld6dYIBIlBMUGFOVkRNaFVYR1pYc0ZTbnpfaldJUFJlcjM1Z1daSGKCAQtlNlFEOGxQLW02RYIBC0kwdlFfVkxaVFdnggEYVUN5LS1QWXZ3QndBZXVZYVI4SkxtcmZnsgEGCgQIFhAC6gEECAIQGQ%3D%3D"
+  }
+}

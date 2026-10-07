@@ -1,0 +1,496 @@
+{
+  "search_metadata": {
+    "id": "6ac69d02a7d78451e084c95e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Hwyhxld2os4qozkjwuLdQWZPtiAzz5FrPgDgIpK1E-4/6ac69d02a7d78451e084c95e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Hwyhxld2os4qozkjwuLdQWZPtiAzz5FrPgDgIpK1E-4/6ac69d02a7d78451e084c95e.md",
+    "created_at": "2026-10-07 19:26:58 UTC",
+    "processed_at": "2026-10-07 19:26:58 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Power+BI+tutorial+in+Hindi&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Hwyhxld2os4qozkjwuLdQWZPtiAzz5FrPgDgIpK1E-4/6ac69d02a7d78451e084c95e.html",
+    "total_time_taken": 2.46
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Power BI tutorial in Hindi",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 9930496,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Power Bi tutorial for Beginners | Power BI Dashboard Project in Hindi | Power Bi Course 2023",
+      "link": "https://www.youtube.com/watch?v=6cV3OwFrOkk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6cV3OwFrOkk",
+      "video_id": "6cV3OwFrOkk",
+      "channel": {
+        "name": "Rishabh Mishra",
+        "link": "https://www.youtube.com/@RishabhMishraOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/EtUb4FRhCrBiXVQ-TbSlLeTTyhrxPss3zdJUFwqHvCGLOb9dRKDPU3dw8xHUtWR-AJelpJ1CQQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 4634781,
+      "length": "44:59",
+      "description": "Power Bi tutorial for Beginners | Power BI Dashboard Project in Hindi | Power Bi Course 2023\n\nDownload Power BI Desktop: https ...",
+      "extensions": [
+        "CC",
+        "Beginner"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6cV3OwFrOkk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCrWxWNAxwjMNgPLUHFA43fwYsogQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Power BI Tutorial for Beginners in Hindi | Create Your First Dashboard Step-by-Step (2025)",
+      "link": "https://www.youtube.com/watch?v=VcgiiEoT1Dg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VcgiiEoT1Dg",
+      "video_id": "VcgiiEoT1Dg",
+      "channel": {
+        "name": "Learn More",
+        "link": "https://www.youtube.com/@Learn_More_Pro",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/eQJKdbw2JKuelQ1Z1udfD4j7-3avK_eq1j2Of2JSV4RLtQcXuwix0jWFrk1C1f0ApQqN_bi8Nj8=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 278096,
+      "length": "1:45:34",
+      "description": "Power BI Tutorial for Beginners in Hindi | Create Your First Dashboard Step-by-Step (2025) In this video, you will learn Microsoft ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/VcgiiEoT1Dg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD_qeaLr3xvIPo4AwG6H81VezfNQw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "🚀 Complete Power BI Tutorial in Just 15 Minutes (Full Crash Course)",
+      "link": "https://www.youtube.com/watch?v=RZBAaIsnUbU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RZBAaIsnUbU",
+      "video_id": "RZBAaIsnUbU",
+      "channel": {
+        "name": "Accounts Expert",
+        "link": "https://www.youtube.com/@Accounts_Experts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/tMs84O-lN4vy-RgXykgI0b2Da4YN47RjXROd9vl9PMr7Hji1NL5e2NGNBuoMoILBgwQeSxYjWQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 672915,
+      "length": "17:23",
+      "description": "Power BI in Just 15 Minutes – The Ultimate Challenge! Can you really learn Power BI in just 15 minutes? In this video, I took ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/RZBAaIsnUbU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC1Kx2aCXrlnHtd5nYg1tMBtlugTQ"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Your first 10 minutes of Power BI - A no-nonsense getting started tutorial for beginners",
+      "link": "https://www.youtube.com/watch?v=9tF1IrfLflg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9tF1IrfLflg",
+      "video_id": "9tF1IrfLflg",
+      "channel": {
+        "name": "Chandoo",
+        "link": "https://www.youtube.com/@chandoo_",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_wMqn3mAO7vDs1s74bHiFXXv24ckFsv2mnV1US8mS_w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 2096810,
+      "length": "11:15",
+      "description": "Power BI is the most popular and in-demand \"DATA\" skill these days. In this succinct and practical video, let me show you how to ...",
+      "extensions": [
+        "Beginner",
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9tF1IrfLflg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBl689_M_JhpnBtBA_wGeuVImFePw"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 2,
+      "title": "Power BI In hindi",
+      "link": "https://www.youtube.com/playlist?list=PLWkZ9cU20HYb9fr_xISpRexULrmwYBCEf",
+      "channel": {
+        "name": "Gyan On Tube",
+        "link": "https://www.youtube.com/@GyanOnTube"
+      },
+      "videos": [
+        {
+          "title": "Power BI In Excel In hindi || Introduction to power BI || Microsoft Power BI tutorial",
+          "length": "6:35",
+          "link": "https://www.youtube.com/watch?v=PfijkfjHyVQ&list=PLWkZ9cU20HYb9fr_xISpRexULrmwYBCEf"
+        },
+        {
+          "title": "Power Bi in hindi || How to use Power Bi from beginner to advanced || Microsoft Power BI",
+          "length": "10:15",
+          "link": "https://www.youtube.com/watch?v=Efo4FSlbDL4&list=PLWkZ9cU20HYb9fr_xISpRexULrmwYBCEf"
+        }
+      ],
+      "video_count": 37,
+      "thumbnail": "https://i.ytimg.com/vi/PfijkfjHyVQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLChJm1TiiU4IGGDNAmMmJHp4KJTSw"
+    },
+    {
+      "position_on_page": 3,
+      "title": "Learn Power BI in 2025 (Urdu / Hindi) - Full course",
+      "link": "https://www.youtube.com/playlist?list=PLpx4I-WPI8W8KEv1cI2lLOzmDM9fEdD0e",
+      "channel": {
+        "name": "TheDataGuyIsb",
+        "link": "https://www.youtube.com/@TheDataGuyIsb"
+      },
+      "videos": [
+        {
+          "title": "1.  How to install Power BI Desktop on Windows PC or laptop!",
+          "length": "2:46",
+          "link": "https://www.youtube.com/watch?v=MtIHfSJ6OVQ&list=PLpx4I-WPI8W8KEv1cI2lLOzmDM9fEdD0e"
+        },
+        {
+          "title": "2.  Power BI Desktop Tutorial: Data Modeling, Visualization, Report Sharing & Development Framework",
+          "length": "5:07",
+          "link": "https://www.youtube.com/watch?v=67SXsograKM&list=PLpx4I-WPI8W8KEv1cI2lLOzmDM9fEdD0e"
+        }
+      ],
+      "video_count": 181,
+      "thumbnail": "https://i.ytimg.com/vi/MtIHfSJ6OVQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD5OZfbOISGex0iUCz7FXrnNj7h7Q"
+    },
+    {
+      "position_on_page": 4,
+      "title": "Power Bi Full Course in Hindi - Playlist",
+      "link": "https://www.youtube.com/playlist?list=PLM3O1UbGcbFMoUAUrF8pxwDiohDp-butM",
+      "channel": {
+        "name": "Omega Programmer",
+        "link": "https://www.youtube.com/@OmegaProgrammer"
+      },
+      "videos": [
+        {
+          "title": "Part 1 | Overview & What You Are Going To Learn In This Course | Power Bi Tutorial For Beginners",
+          "length": "8:57",
+          "link": "https://www.youtube.com/watch?v=d9LMlUlMPPM&list=PLM3O1UbGcbFMoUAUrF8pxwDiohDp-butM"
+        },
+        {
+          "title": "Part 2 | How To Download Power BI and Installation | Power Bi Tutorial For Beginners 2024 - Hindi",
+          "length": "3:12",
+          "link": "https://www.youtube.com/watch?v=Ic1GxNVEDWY&list=PLM3O1UbGcbFMoUAUrF8pxwDiohDp-butM"
+        }
+      ],
+      "video_count": 16,
+      "thumbnail": "https://i.ytimg.com/vi/d9LMlUlMPPM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDTyGrmh_l-6kVw6jHsscrpWtVcUQ"
+    },
+    {
+      "position_on_page": 5,
+      "title": "Power BI Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX",
+      "channel": {
+        "name": "Pavan Lalwani",
+        "link": "https://www.youtube.com/@PavanLalwani"
+      },
+      "videos": [
+        {
+          "title": "1.1 Power BI Tutorial for Beginners (Introduction to Power BI )",
+          "length": "6:47",
+          "link": "https://www.youtube.com/watch?v=H84UJn1CiWo&list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX"
+        },
+        {
+          "title": "Create a POWER BI Dashboard in 7 Minutes with This One Trick | @PavanLalwani",
+          "length": "12:55",
+          "link": "https://www.youtube.com/watch?v=wZATWjV4scg&list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX"
+        }
+      ],
+      "video_count": 51,
+      "thumbnail": "https://i.ytimg.com/vi/H84UJn1CiWo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD85StvqgUcagF_DHpOOay4D6OTZw"
+    },
+    {
+      "position_on_page": 6,
+      "title": "Power BI Tutorial in Hindi",
+      "link": "https://www.youtube.com/playlist?list=PL6QJjoUw-9EG_2h9ur-0yJ6HOmGLpsLw5",
+      "channel": {
+        "name": "Teach To Each",
+        "link": "https://www.youtube.com/@TeachToEach"
+      },
+      "videos": [
+        {
+          "title": "7 Step of Power BI Tutorial for Beginners 2020 | Learn Power BI | Power BI Online Step by Step",
+          "length": "6:49",
+          "link": "https://www.youtube.com/watch?v=AH0XT9ng7xw&list=PL6QJjoUw-9EG_2h9ur-0yJ6HOmGLpsLw5"
+        },
+        {
+          "title": "What is Power Bi in Hindi | Power BI Tutorial for Beginners in Hindi | पावर बी क्या होता है",
+          "length": "9:23",
+          "link": "https://www.youtube.com/watch?v=3lqVkGEUeRc&list=PL6QJjoUw-9EG_2h9ur-0yJ6HOmGLpsLw5"
+        }
+      ],
+      "video_count": 42,
+      "thumbnail": "https://i.ytimg.com/vi/AH0XT9ng7xw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD9STr_PaYHlMiFyc6bnvi-_as9Cw"
+    },
+    {
+      "position_on_page": 7,
+      "title": "Power BI Tutorials-Hindi",
+      "link": "https://www.youtube.com/playlist?list=PLKpO3lQqxJ6bep2N1ZPT8EaZxJ6DI-1fo",
+      "channel": {
+        "name": "Lotusamaze",
+        "link": "https://www.youtube.com/@lotusamaze1142"
+      },
+      "videos": [
+        {
+          "title": "Power BI Introduction | What is Power Microsoft BI | HIndi",
+          "length": "7:50",
+          "link": "https://www.youtube.com/watch?v=3Cf7H9u7zpo&list=PLKpO3lQqxJ6bep2N1ZPT8EaZxJ6DI-1fo"
+        },
+        {
+          "title": "Extract Data in Power BI  2021 Hindi | Import Data in Power BI 2021  in Hindi",
+          "length": "14:32",
+          "link": "https://www.youtube.com/watch?v=239ZowFy4bo&list=PLKpO3lQqxJ6bep2N1ZPT8EaZxJ6DI-1fo"
+        }
+      ],
+      "video_count": 26,
+      "thumbnail": "https://i.ytimg.com/vi/3Cf7H9u7zpo/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBR57VHQhIpgDG2mm5m1o9CKdKEdA"
+    },
+    {
+      "position_on_page": 8,
+      "title": "Full Powerbi Course in hindi | CloudyML | Data Science | Data Analytics",
+      "link": "https://www.youtube.com/playlist?list=PLsR_0x6BuM-HpLMzgYqsBlz68RnHfBqVr",
+      "channel": {
+        "name": "CloudyML",
+        "link": "https://www.youtube.com/@CloudyML"
+      },
+      "videos": [
+        {
+          "title": "V1 - Introduction To PowerBI | Complete PowerBI Course (Hindi )",
+          "length": "15:03",
+          "link": "https://www.youtube.com/watch?v=A5TghJtKqYs&list=PLsR_0x6BuM-HpLMzgYqsBlz68RnHfBqVr"
+        },
+        {
+          "title": "V2 - Dashboards in PowerBI | Complete PowerBI Course (in hindi)",
+          "length": "7:06",
+          "link": "https://www.youtube.com/watch?v=YFRysi5ula0&list=PLsR_0x6BuM-HpLMzgYqsBlz68RnHfBqVr"
+        }
+      ],
+      "video_count": 53,
+      "thumbnail": "https://i.ytimg.com/vi/A5TghJtKqYs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBz1BhuNmhWskE4cEkBAHA_E62rLg"
+    },
+    {
+      "position_on_page": 9,
+      "title": "Power BI Full Course Video",
+      "link": "https://www.youtube.com/playlist?list=PL6Omre3duO-P93dIofLn_QJv_MpmolO4D",
+      "channel": {
+        "name": "Pavan Lalwani",
+        "link": "https://www.youtube.com/@PavanLalwani"
+      },
+      "videos": [
+        {
+          "title": "Power BI Full Course in 8 Hours  | Power BI Tutorial for Beginners | @PavanLalwani",
+          "length": "8:36:05",
+          "link": "https://www.youtube.com/watch?v=UXhGRVTndQA&list=PL6Omre3duO-P93dIofLn_QJv_MpmolO4D"
+        },
+        {
+          "title": "Every Data Analyst user Must Watch 👁️ | ft. Animal \"Ranbir Kapoor\"",
+          "length": "3:30",
+          "link": "https://www.youtube.com/watch?v=87kYUkrRt3s&list=PL6Omre3duO-P93dIofLn_QJv_MpmolO4D"
+        }
+      ],
+      "video_count": 12,
+      "thumbnail": "https://i.ytimg.com/vi/UXhGRVTndQA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB4zjOoazIl-A3_lydksjRK9cSL0g"
+    },
+    {
+      "position_on_page": 11,
+      "title": "Power BI in Depth Tutorials | Complete Playlist with 3 Full Length Projects | Beginner's to Advance (हिंदी में) | Full Playlist | Power BI Lectures",
+      "link": "https://www.youtube.com/playlist?list=PLxzTa0VPR9rw4QEQ49PdsFd3SmVXDR3-i",
+      "channel": {
+        "name": "The iScale",
+        "link": "https://www.youtube.com/@theiScale"
+      },
+      "videos": [
+        {
+          "title": "How to Become a Data Analyst Roadmap in 2024 | Introduction to DA | Beginners to Pro @theiScale",
+          "length": "6:27",
+          "link": "https://www.youtube.com/watch?v=z2rSeFKrNIk&list=PLxzTa0VPR9rw4QEQ49PdsFd3SmVXDR3-i"
+        },
+        {
+          "title": "Power BI | Amazon Dashboard Creation | Full Project | Data Analyst | Lecture by Nishant Bhaiya",
+          "length": "2:39:10",
+          "link": "https://www.youtube.com/watch?v=2OgcZF72oEs&list=PLxzTa0VPR9rw4QEQ49PdsFd3SmVXDR3-i"
+        }
+      ],
+      "video_count": 106,
+      "thumbnail": "https://i.ytimg.com/vi/z2rSeFKrNIk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDcOeSImED7Oz3At8N_Vt3OyEopuw"
+    },
+    {
+      "position_on_page": 12,
+      "title": "Power BI in Hindi. सीखे Power BI हिंदी में",
+      "link": "https://www.youtube.com/playlist?list=PLPaNVDMhUXGbfdGuSsfPR1qKBRT5Ywlki",
+      "channel": {
+        "name": "Learn Microsoft Fabric, Power BI, SQL Amit Chandak",
+        "link": "https://www.youtube.com/@AmitChandak"
+      },
+      "videos": [
+        {
+          "title": "Power BI Comprehensive Tutorial Series for Beginners in Hindi(हिंदी)| BI Concepts| Download Install",
+          "length": "39:27",
+          "link": "https://www.youtube.com/watch?v=529Psk5x31Y&list=PLPaNVDMhUXGbfdGuSsfPR1qKBRT5Ywlki"
+        },
+        {
+          "title": "Power BI in Hindi- सीखे Power BI हिंदी में- अध्याय 2- Power Query Remove Empty/Duplicate rows",
+          "length": "12:34",
+          "link": "https://www.youtube.com/watch?v=Hk8QtBfcm6k&list=PLPaNVDMhUXGbfdGuSsfPR1qKBRT5Ywlki"
+        }
+      ],
+      "video_count": 74,
+      "thumbnail": "https://i.ytimg.com/vi/529Psk5x31Y/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBWVh9v92dZcPqZy-2PYmm0UhjWRw"
+    },
+    {
+      "position_on_page": 13,
+      "title": "Power BI Full Course (Free) | Beginner to Advanced in Hindi | CognitiaX AI",
+      "link": "https://www.youtube.com/playlist?list=PLwo_-4R5VAeq-x9XW8mHMRoLYMZ6r6X0j",
+      "channel": {
+        "name": "CognitiaX AI",
+        "link": "https://www.youtube.com/@CognitiaX_AI"
+      },
+      "videos": [
+        {
+          "title": "Day 18 Power BI Full Course (Free) | Beginner to Advanced in Hindi | CognitiaX AI",
+          "length": "1:11:35",
+          "link": "https://www.youtube.com/watch?v=IgbJ9mR8Ai4&list=PLwo_-4R5VAeq-x9XW8mHMRoLYMZ6r6X0j"
+        },
+        {
+          "title": "Day 18 Power BI Full Course (Free) | Beginner to Advanced in Hindi | CognitiaX AI",
+          "length": "33:17",
+          "link": "https://www.youtube.com/watch?v=yDpq7evxAfI&list=PLwo_-4R5VAeq-x9XW8mHMRoLYMZ6r6X0j"
+        }
+      ],
+      "video_count": 19,
+      "thumbnail": "https://i.ytimg.com/vi/IgbJ9mR8Ai4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB6o2UTEtLntDep457g296I6z8weQ"
+    },
+    {
+      "position_on_page": 14,
+      "title": "POWER BI - DAX - COURSE - BASICS TO ADVANCE - HINDI",
+      "link": "https://www.youtube.com/playlist?list=PL5ndqKejDpX5qMCN4dzjGbiAPmBecRu_m",
+      "channel": {
+        "name": "Only solutions",
+        "link": "https://www.youtube.com/@Onlysolutions-2021"
+      },
+      "videos": [
+        {
+          "title": "How to create Measure and Calculated Column in Power BI DAX. Explained In Hindi",
+          "length": "12:12",
+          "link": "https://www.youtube.com/watch?v=J0eR8IuBomg&list=PL5ndqKejDpX5qMCN4dzjGbiAPmBecRu_m"
+        },
+        {
+          "title": "How to create Dates Function in DAX Power BI. CALENDAR and CALENDARAUTO Function in Power BI DAX",
+          "length": "11:02",
+          "link": "https://www.youtube.com/watch?v=1qQbqmZ_tZ8&list=PL5ndqKejDpX5qMCN4dzjGbiAPmBecRu_m"
+        }
+      ],
+      "video_count": 20,
+      "thumbnail": "https://i.ytimg.com/vi/J0eR8IuBomg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA-00TAerdOJXztRfVj6WtTtcpyZg"
+    },
+    {
+      "position_on_page": 16,
+      "title": "Power BI Data Analyst course for Beginners in #urdu #hindi #codanics",
+      "link": "https://www.youtube.com/playlist?list=PL9XvIvvVL50GTwV7dqdBKxsFs7WYzlOYZ",
+      "channel": {
+        "name": "Codanics",
+        "link": "https://www.youtube.com/@Codanics"
+      },
+      "videos": [
+        {
+          "title": "1.1. Introduction to Data Visualization | Power BI tutorials for Beginners",
+          "length": "7:54",
+          "link": "https://www.youtube.com/watch?v=nBUMTovuiJg&list=PL9XvIvvVL50GTwV7dqdBKxsFs7WYzlOYZ"
+        },
+        {
+          "title": "1.2. Power BI vs. Tableau vs. Python?  | Power BI tutorials for Beginners",
+          "length": "8:55",
+          "link": "https://www.youtube.com/watch?v=gBZ-84VviuA&list=PL9XvIvvVL50GTwV7dqdBKxsFs7WYzlOYZ"
+        }
+      ],
+      "video_count": 40,
+      "thumbnail": "https://i.ytimg.com/vi/nBUMTovuiJg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLABIO1aJmxg9i92-NzQkCBkRQMsMg"
+    },
+    {
+      "position_on_page": 17,
+      "title": "🚀New Power BI Playlist - Beginners to Advanced |",
+      "link": "https://www.youtube.com/playlist?list=PLWkZ9cU20HYZQm6WFNgBg8_LYnajb3zE4",
+      "channel": {
+        "name": "Gyan On Tube",
+        "link": "https://www.youtube.com/@GyanOnTube"
+      },
+      "videos": [
+        {
+          "title": "Part 1 - New Series! Free Power BI Course - From Beginners to Advanced!",
+          "length": "5:07",
+          "link": "https://www.youtube.com/watch?v=yn89IxNUgKc&list=PLWkZ9cU20HYZQm6WFNgBg8_LYnajb3zE4"
+        },
+        {
+          "title": "Part 2 - How to install Power BI on windows two hidden Options | Install Power BI for Free",
+          "length": "3:50",
+          "link": "https://www.youtube.com/watch?v=dYjdpspi588&list=PLWkZ9cU20HYZQm6WFNgBg8_LYnajb3zE4"
+        }
+      ],
+      "video_count": 14,
+      "thumbnail": "https://i.ytimg.com/vi/yn89IxNUgKc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBX_imr4ws-plax-ubXMTHQofQJ5Q"
+    },
+    {
+      "position_on_page": 18,
+      "title": "Mastering Microsoft Power BI: From Beginner to Pro (Hindi)",
+      "link": "https://www.youtube.com/playlist?list=PL1dx_7g6scPIRN5xURLJj1qBqSdFSo_RT",
+      "channel": {
+        "name": "Chandresh Sagar",
+        "link": "https://www.youtube.com/@ChandreshSagar9"
+      },
+      "videos": [
+        {
+          "title": "Power BI Full Course in Hindi | Master Microsoft Power BI from Scratch | KB Tech India",
+          "length": "3:55:52",
+          "link": "https://www.youtube.com/watch?v=0Na1FxWOdwY&list=PL1dx_7g6scPIRN5xURLJj1qBqSdFSo_RT"
+        },
+        {
+          "title": "Master in Microsoft Power BI - Class 13 The Final Report | Course Completion (Hindi)",
+          "length": "9:35",
+          "link": "https://www.youtube.com/watch?v=5EqCPROb4Kw&list=PL1dx_7g6scPIRN5xURLJj1qBqSdFSo_RT"
+        }
+      ],
+      "video_count": 14,
+      "thumbnail": "https://i.ytimg.com/vi/0Na1FxWOdwY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLByLiBJLodQPbYpW1y8vZf6tUexWQ"
+    },
+    {
+      "position_on_page": 19,
+      "title": "Power Query in Hindi || Power Bi",
+      "link": "https://www.youtube.com/playlist?list=PLbRRrrOHN2bWEn6mTYpjXAPzuZB317L-o",
+      "channel": {
+        "name": "Bi Shikha",
+        "link": "https://www.youtube.com/@BiShikha"
+      },
+      "videos": [
+        {
+          "title": "Power Query in Depth ||  How to use Power Query in Power Bi || Power Bi in Hindi || Part 1",
+          "length": "22:58",
+          "link": "https://www.youtube.com/watch?v=Y3oOChppQiI&list=PLbRRrrOHN2bWEn6mTYpjXAPzuZB317L-o"
+        },
+        {
+          "title": "Power Bi Split Column || Split Column in Power Query || Power Query in Hindi",
+          "length": "6:28",
+          "link": "https://www.youtube.com/watch?v=0bFLUNdwL5M&list=PLbRRrrOHN2bWEn6mTYpjXAPzuZB317L-o"
+        }
+      ],
+      "video_count": 6,
+      "thumbnail": "https://i.ytimg.com/vi/Y3oOChppQiI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD6xK58EpIDhwTGa0ScG-DA596TIg"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Power+BI+tutorial+in+Hindi&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Power%20BI%20tutorial%20in%20Hindi&sp=SBSCAQs2Y1YzT3dGck9ra4IBIlBMV2taOWNVMjBIWWI5ZnJfeElTcFJleFVMcm13WUJDRWaCASJQTHB4NEktV1BJOFc4S0V2MWNJMmxMT3ptRE05ZkVkRDBlggEiUExNM08xVWJHY2JGTW9VQVVyRjhweHdEaW9oRHAtYnV0TYIBIlBMNk9tcmUzZHVPLU9HVEFNdUZ1RE9TOHdNdXV4bXlhaViCASJQTDZRSmpvVXctOUVHXzJoOXVyLTB5SjZIT21HTHBzTHc1ggEiUExLcE8zbFFxeEo2YmVwMk4xWlBUOEVhWnhKNkRJLTFmb4IBIlBMc1JfMHg2QnVNLUhwTE16Z1lxc0JsejY4Um5IZkJxVnKCASJQTDZPbXJlM2R1Ty1QOTNkSW9mTG5fUUp2X01wbW9sTzREggELVmNnaWlFb1QxRGeCASJQTHh6VGEwVlBSOXJ3NFFFUTQ5UGRzRmQzU21WWERSMy1pggEiUExQYU5WRE1oVVhHYmZkR3VTc2ZQUjFxS0JSVDVZd2xraYIBIlBMd29fLTRSNVZBZXEteDlYVzhtSE1Sb0xZTVo2cjZYMGqCASJQTDVuZHFLZWpEcFg1cU1DTjRkempHYmlBUG1CZWNSdV9tggELUlpCQWFJc25VYlWCASJQTDlYdkl2dlZMNTBHVHdWN2RxZEJLeHNGczdXWXpsT1laggEiUExXa1o5Y1UyMEhZWlFtNldGTmdCZzhfTFluYWpiM3pFNIIBIlBMMWR4XzdnNnNjUElSTjV4VVJMSmoxcUJxU2RGU29fUlSCASJQTGJSUnJyT0hOMmJXRW42bVRZcGpYQVB6dVpCMzE3TC1vggELOXRGMUlyZkxmbGeyAQYKBAgUEAI%253D",
+    "next_page_token": "SBSCAQs2Y1YzT3dGck9ra4IBIlBMV2taOWNVMjBIWWI5ZnJfeElTcFJleFVMcm13WUJDRWaCASJQTHB4NEktV1BJOFc4S0V2MWNJMmxMT3ptRE05ZkVkRDBlggEiUExNM08xVWJHY2JGTW9VQVVyRjhweHdEaW9oRHAtYnV0TYIBIlBMNk9tcmUzZHVPLU9HVEFNdUZ1RE9TOHdNdXV4bXlhaViCASJQTDZRSmpvVXctOUVHXzJoOXVyLTB5SjZIT21HTHBzTHc1ggEiUExLcE8zbFFxeEo2YmVwMk4xWlBUOEVhWnhKNkRJLTFmb4IBIlBMc1JfMHg2QnVNLUhwTE16Z1lxc0JsejY4Um5IZkJxVnKCASJQTDZPbXJlM2R1Ty1QOTNkSW9mTG5fUUp2X01wbW9sTzREggELVmNnaWlFb1QxRGeCASJQTHh6VGEwVlBSOXJ3NFFFUTQ5UGRzRmQzU21WWERSMy1pggEiUExQYU5WRE1oVVhHYmZkR3VTc2ZQUjFxS0JSVDVZd2xraYIBIlBMd29fLTRSNVZBZXEteDlYVzhtSE1Sb0xZTVo2cjZYMGqCASJQTDVuZHFLZWpEcFg1cU1DTjRkempHYmlBUG1CZWNSdV9tggELUlpCQWFJc25VYlWCASJQTDlYdkl2dlZMNTBHVHdWN2RxZEJLeHNGczdXWXpsT1laggEiUExXa1o5Y1UyMEhZWlFtNldGTmdCZzhfTFluYWpiM3pFNIIBIlBMMWR4XzdnNnNjUElSTjV4VVJMSmoxcUJxU2RGU29fUlSCASJQTGJSUnJyT0hOMmJXRW42bVRZcGpYQVB6dVpCMzE3TC1vggELOXRGMUlyZkxmbGeyAQYKBAgUEAI%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Power+BI+tutorial+in+Hindi",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Power+BI+tutorial+in+Hindi&sp=SBSCAQs2Y1YzT3dGck9ra4IBIlBMV2taOWNVMjBIWWI5ZnJfeElTcFJleFVMcm13WUJDRWaCASJQTHB4NEktV1BJOFc4S0V2MWNJMmxMT3ptRE05ZkVkRDBlggEiUExNM08xVWJHY2JGTW9VQVVyRjhweHdEaW9oRHAtYnV0TYIBIlBMNk9tcmUzZHVPLU9HVEFNdUZ1RE9TOHdNdXV4bXlhaViCASJQTDZRSmpvVXctOUVHXzJoOXVyLTB5SjZIT21HTHBzTHc1ggEiUExLcE8zbFFxeEo2YmVwMk4xWlBUOEVhWnhKNkRJLTFmb4IBIlBMc1JfMHg2QnVNLUhwTE16Z1lxc0JsejY4Um5IZkJxVnKCASJQTDZPbXJlM2R1Ty1QOTNkSW9mTG5fUUp2X01wbW9sTzREggELVmNnaWlFb1QxRGeCASJQTHh6VGEwVlBSOXJ3NFFFUTQ5UGRzRmQzU21WWERSMy1pggEiUExQYU5WRE1oVVhHYmZkR3VTc2ZQUjFxS0JSVDVZd2xraYIBIlBMd29fLTRSNVZBZXEteDlYVzhtSE1Sb0xZTVo2cjZYMGqCASJQTDVuZHFLZWpEcFg1cU1DTjRkempHYmlBUG1CZWNSdV9tggELUlpCQWFJc25VYlWCASJQTDlYdkl2dlZMNTBHVHdWN2RxZEJLeHNGczdXWXpsT1laggEiUExXa1o5Y1UyMEhZWlFtNldGTmdCZzhfTFluYWpiM3pFNIIBIlBMMWR4XzdnNnNjUElSTjV4VVJMSmoxcUJxU2RGU29fUlSCASJQTGJSUnJyT0hOMmJXRW42bVRZcGpYQVB6dVpCMzE3TC1vggELOXRGMUlyZkxmbGeyAQYKBAgUEAI%253D",
+    "next_page_token": "SBSCAQs2Y1YzT3dGck9ra4IBIlBMV2taOWNVMjBIWWI5ZnJfeElTcFJleFVMcm13WUJDRWaCASJQTHB4NEktV1BJOFc4S0V2MWNJMmxMT3ptRE05ZkVkRDBlggEiUExNM08xVWJHY2JGTW9VQVVyRjhweHdEaW9oRHAtYnV0TYIBIlBMNk9tcmUzZHVPLU9HVEFNdUZ1RE9TOHdNdXV4bXlhaViCASJQTDZRSmpvVXctOUVHXzJoOXVyLTB5SjZIT21HTHBzTHc1ggEiUExLcE8zbFFxeEo2YmVwMk4xWlBUOEVhWnhKNkRJLTFmb4IBIlBMc1JfMHg2QnVNLUhwTE16Z1lxc0JsejY4Um5IZkJxVnKCASJQTDZPbXJlM2R1Ty1QOTNkSW9mTG5fUUp2X01wbW9sTzREggELVmNnaWlFb1QxRGeCASJQTHh6VGEwVlBSOXJ3NFFFUTQ5UGRzRmQzU21WWERSMy1pggEiUExQYU5WRE1oVVhHYmZkR3VTc2ZQUjFxS0JSVDVZd2xraYIBIlBMd29fLTRSNVZBZXEteDlYVzhtSE1Sb0xZTVo2cjZYMGqCASJQTDVuZHFLZWpEcFg1cU1DTjRkempHYmlBUG1CZWNSdV9tggELUlpCQWFJc25VYlWCASJQTDlYdkl2dlZMNTBHVHdWN2RxZEJLeHNGczdXWXpsT1laggEiUExXa1o5Y1UyMEhZWlFtNldGTmdCZzhfTFluYWpiM3pFNIIBIlBMMWR4XzdnNnNjUElSTjV4VVJMSmoxcUJxU2RGU29fUlSCASJQTGJSUnJyT0hOMmJXRW42bVRZcGpYQVB6dVpCMzE3TC1vggELOXRGMUlyZkxmbGeyAQYKBAgUEAI%3D"
+  }
+}

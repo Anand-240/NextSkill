@@ -1,0 +1,448 @@
+{
+  "search_metadata": {
+    "id": "6ac6a280421b08c8f98c68d1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/VGvNEVkguU4z1lYGJsBWABLvLaPjGOwoStKPQNbFmww/6ac6a280421b08c8f98c68d1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/VGvNEVkguU4z1lYGJsBWABLvLaPjGOwoStKPQNbFmww/6ac6a280421b08c8f98c68d1.md",
+    "created_at": "2026-10-07 19:50:24 UTC",
+    "processed_at": "2026-10-07 19:50:24 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=TypeScript+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/VGvNEVkguU4z1lYGJsBWABLvLaPjGOwoStKPQNbFmww/6ac6a280421b08c8f98c68d1.html",
+    "total_time_taken": 3.96
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "TypeScript full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 826753,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "TypeScript Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=d56mG7DezGs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=d56mG7DezGs",
+      "video_id": "d56mG7DezGs",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 2220821,
+      "length": "1:04:28",
+      "description": "Write better, more scalable JavaScript with TypeScript! This beginner-friendly tutorial gets you started fast. Ready for a deep ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/d56mG7DezGs/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAz3coA1P1ZerCTigj5CsPclQsY9A"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Learn TypeScript – Full Tutorial",
+      "link": "https://www.youtube.com/watch?v=30LWjhZzg50",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=30LWjhZzg50",
+      "video_id": "30LWjhZzg50",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1768486,
+      "length": "4:46:25",
+      "description": "Learn how to program with TypeScript in this full course for beginners. TypeScript is a typed superset of JavaScript that compiles ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/30LWjhZzg50/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4q5KOtD4aMmPTZAmYMQwyJifgkQ"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Learn TypeScript - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=SpwzRDUQ1GI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=SpwzRDUQ1GI",
+      "video_id": "SpwzRDUQ1GI",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 341090,
+      "length": "2:06:13",
+      "description": "This course is a hands-on introduction to TypeScript. You'll learn how TypeScript can make your life easier and your code less ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCNuTJGtahwVtVvl51zOrYAMLJ56w"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours",
+      "link": "https://www.youtube.com/watch?v=gieEQFIfgYc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gieEQFIfgYc",
+      "video_id": "gieEQFIfgYc",
+      "channel": {
+        "name": "Dave Gray",
+        "link": "https://www.youtube.com/@DaveGrayTeachesCode",
+        "thumbnail": "https://yt3.ggpht.com/Ki6y_thZRElVKoqzOUIGnihjRfVPkdVBqS0VsqNAbOl0sGAil5Zg_Dj0g2rftswpE_JCkGh2=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 749843,
+      "length": "8:21:57",
+      "description": "Web Dev Roadmap for Beginners (Free!): https://bit.ly/DaveGrayWebDevRoadmap This TypeScript Full Course for Beginners is ...",
+      "extensions": [
+        "Beginner",
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gieEQFIfgYc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBnZHp2YodTB2eRo-n0Hxrh4v0keg"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "TypeScript Full Course - From Beginner to Advanced",
+      "link": "https://www.youtube.com/watch?v=iJkaAJUzeWQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iJkaAJUzeWQ",
+      "video_id": "iJkaAJUzeWQ",
+      "channel": {
+        "name": "Tech With Tim",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 298967,
+      "length": "3:54:02",
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHuf4wA82vOseTwCzDQ1wkz3vU6g"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Learn TypeScript - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=gp5H0Vw39yw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gp5H0Vw39yw",
+      "video_id": "gp5H0Vw39yw",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 353742,
+      "length": "1:34:35",
+      "description": "Learn the TypeScript programming language in this crash course for beginners. By the end of this course you will understand all ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gp5H0Vw39yw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBwi0ADbsfOnxD45W5-gppBYeicRA"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Learn TypeScript – Crash Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=ZvZ7gvcmPmI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZvZ7gvcmPmI",
+      "video_id": "ZvZ7gvcmPmI",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 123344,
+      "length": "1:00:34",
+      "description": "Discover TypeScript in 1 hour! This beginner-friendly tutorial covers the basics, offering a quick TypeScript crash course for ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZvZ7gvcmPmI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCsRcYE2kCgBXbi5aL21SNND-N6ug"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Learn TypeScript in 40 Minutes (Full Course)",
+      "link": "https://www.youtube.com/watch?v=DTR2p7D6tjk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DTR2p7D6tjk",
+      "video_id": "DTR2p7D6tjk",
+      "channel": {
+        "name": "RoadsideCoder",
+        "link": "https://www.youtube.com/@RoadsideCoder",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/yombgclSKeuwDBzfGYtEN12w8o91pE5n4AT0kX4a8VYmUCaeXqMGnMQ7aU0553bEBjKcDYHX=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 94707,
+      "length": "40:40",
+      "description": "My Frontend Interview Course - https://roadsidecoder.com/course-details (50% Discount) Complete Video Notes ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/DTR2p7D6tjk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB9hkLKSOTq4IClGxa1N2flMcYwXw"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "TypeScript Course for Beginners - Learn TypeScript from Scratch!",
+      "link": "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BwuLxPH8IDs",
+      "video_id": "BwuLxPH8IDs",
+      "channel": {
+        "name": "Academind",
+        "link": "https://www.youtube.com/@academind",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/M4mm6T9eYXgCaQAaiROvSk96-VxRZzBn4bU41WBHDJkVSpV1AURGa1ZXqF6VJ-JXvdiVlOn6kw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 1844628,
+      "length": "3:16:40",
+      "description": "Free TypeScript Introduction for Beginners: Get Started with TypeScript, learn the Basics, its Features, Workflows and how to use it ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BwuLxPH8IDs/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1W4OMDPgZ05ePg0-6x_nyjjiXlw"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "TypeScript Full Course Tutorial for Beginners (2026)",
+      "link": "https://www.youtube.com/watch?v=1zBRA0HdeOM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1zBRA0HdeOM",
+      "video_id": "1zBRA0HdeOM",
+      "channel": {
+        "name": "ProgrammingKnowledge",
+        "link": "https://www.youtube.com/@ProgrammingKnowledge",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Gq1qOaO7koNIYIt2sLibhmibPlgGAT-7DyoY1SSv2uPYTepgkR08FmnizgtWjiBUJATjJtwLMg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 4840,
+      "length": "7:38:17",
+      "description": "Learn TypeScript from scratch in this complete full course tutorial In this video, I will teach you TypeScript step-by-step from ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/1zBRA0HdeOM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDLiTVvIGfej3B7vSVdwD4GW2n_Kg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Learn TypeScript in 50 Minutes - TypeScript Beginner Crash Course",
+      "link": "https://www.youtube.com/watch?v=3mDny9XAgic",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3mDny9XAgic",
+      "video_id": "3mDny9XAgic",
+      "channel": {
+        "name": "PedroTech",
+        "link": "https://www.youtube.com/@PedroTechnologies",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Qizn_VAgeCADuMk0RhVQ11j_9TWKrtQ1ifDGo5Yomj4Kjx29OgnHuZc6dQds5jztNlk3LAt6NA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 127182,
+      "length": "48:51",
+      "description": "Welcome to our TypeScript Crash Course! In this quick and comprehensive tutorial, we'll cover everything you need to know to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3mDny9XAgic/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDZGw6nSoKBS2MtJPMMLhx9NBA7KQ"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Learn TypeScript in 50 Minutes - Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=WBPrJSw7yQA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WBPrJSw7yQA",
+      "video_id": "WBPrJSw7yQA",
+      "channel": {
+        "name": "Codevolution",
+        "link": "https://www.youtube.com/@Codevolution",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/CZz3YkQI3pkX-F9yoNrKG1KDWWtcas4jXPcZ98ldQx6T-dGdo1t30kKKXHpZ4k4tjfEY4pskoQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 880446,
+      "length": "48:11",
+      "description": "Support UPI - https://support.codevolution.dev/ Support PayPal - https://www.paypal.me/Codevolution Github ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WBPrJSw7yQA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDyYJj9FQ8hcL7RS0aQBaeM9uIUJQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "TypeScript Crash Course",
+      "link": "https://www.youtube.com/watch?v=BCg4U1FzODs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BCg4U1FzODs",
+      "video_id": "BCg4U1FzODs",
+      "channel": {
+        "name": "Traversy Media",
+        "link": "https://www.youtube.com/@TraversyMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 692856,
+      "length": "52:27",
+      "description": "Learn the basics of TypeScript in this beginner-friendly crash course Visit Our Sponsor: Stream https://getstream.io/traversy ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BCg4U1FzODs/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAirlTmNdmsOz9WWOW8zBXeYffjPw"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "TypeScript Full Course in Telugu | Get Job Ready in 2025!",
+      "link": "https://www.youtube.com/watch?v=60MuRIFK-VE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=60MuRIFK-VE",
+      "video_id": "60MuRIFK-VE",
+      "channel": {
+        "name": "Tech Jashwanth",
+        "link": "https://www.youtube.com/@TechJashwanth",
+        "thumbnail": "https://yt3.ggpht.com/27sar-8LfOdhsOSihQlM4VqC2DjUVcCB5oAh46msb8Hn6u2tE6H2U2eu_sKr-bslVZaNyKyIHA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 26505,
+      "length": "47:35",
+      "description": "Ready to land your dream software job? Master TypeScript, the #1 skill top companies are looking for! In this complete TypeScript ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/60MuRIFK-VE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBC2pqJ17XZ1bFHpcrJNP1yzgUK1Q"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "React & TypeScript - Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=FJDVKeh7RJI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FJDVKeh7RJI",
+      "video_id": "FJDVKeh7RJI",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 794325,
+      "length": "1:32:59",
+      "description": "Learn how to build React apps using TypeScript. First, learn the basics of TypeScript. Then, learn how to integrate TypeScript in a ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FJDVKeh7RJI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBex4D0U4XMa35M0wZOt0XIdp_3AA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "TypeScript Tutorial for Beginners - Zero to Interview Success",
+      "link": "https://www.youtube.com/watch?v=icOSkM48Auc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=icOSkM48Auc",
+      "video_id": "icOSkM48Auc",
+      "channel": {
+        "name": "Interview Happy",
+        "link": "https://www.youtube.com/@interviewhappy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/GvofjJILhGjkg9gnjCqkwhBhW6d-iuMwHLo6V3PIcdKnqBUQEdixqkxikQlJd7h9vQbSIRliB_c=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 12180,
+      "length": "1:33:18",
+      "description": "Full Course Details: TypeScript Mastery: Basics to Advanced + Interview Prep 2026 Click here ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/icOSkM48Auc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCecxydflUeIN_dWgUN_pvPAaD0Sg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "TypeScript Crash Course in Tamil: Beginner to Advanced in 3 Hours",
+      "link": "https://www.youtube.com/watch?v=jrFZkfDmq2I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jrFZkfDmq2I",
+      "video_id": "jrFZkfDmq2I",
+      "channel": {
+        "name": "JVL code",
+        "link": "https://www.youtube.com/@JVLcode",
+        "thumbnail": "https://yt3.ggpht.com/lJCGVWH_SCeLx4hKNNpZAIZLF-x3akQziu8H4pBgXh4vNtWyUUpHzXsfaIdySspSydIs0OE7=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 79850,
+      "length": "3:17:09",
+      "description": "Unlock the full potential of TypeScript with this comprehensive tutorial designed for beginners! This video covers everything you ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jrFZkfDmq2I/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwB0YANMrR6j8tP2up-JxJ4J0UpQ"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "The TypeScript Course for JS Devs",
+      "link": "https://www.youtube.com/watch?v=K01hLNDdqg4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=K01hLNDdqg4",
+      "video_id": "K01hLNDdqg4",
+      "channel": {
+        "name": "Boot dev and Web Dev Simplified",
+        "thumbnail": "https://yt3.ggpht.com/0gHrwiWK5GBK6HpbIq9p7zGJRe1b-qIc84nKQ11LFOdAikL_68rq60jnS6yel2qgh3oCgQIF=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 160289,
+      "length": "4:24:19",
+      "description": "Master TypeScript from start to finish in this immersive, hands-on course. TypeScript's meteoric rise in popularity, both on the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/K01hLNDdqg4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCpG24LVih9FPbARolDlbGA0lhz8A"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Practical TypeScript – Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=JHEB7RhJG1Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JHEB7RhJG1Y",
+      "video_id": "JHEB7RhJG1Y",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 277289,
+      "length": "9:34:51",
+      "description": "Master TypeScript from basics to advanced concepts through hands-on tutorials covering type annotations, generics, data fetching ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JHEB7RhJG1Y/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCN2d4wY-Hco01EZhhk6rP6l0mjew"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "TypeScript Full Course for Beginners | Learn TypeScript with Real Project",
+      "link": "https://www.youtube.com/watch?v=qrlTkTvW_bI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qrlTkTvW_bI",
+      "video_id": "qrlTkTvW_bI",
+      "channel": {
+        "name": "WsCube AI & Tech School",
+        "link": "https://www.youtube.com/@wscubeaiandtechschool",
+        "thumbnail": "https://yt3.ggpht.com/4xS1fYPXfgbQEQAoaquU1LQcBDbt9uLRE60Dv6G6F8oOKL7hCaTVWXQtSnglo22c4ovpKmn4SQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 9358,
+      "length": "1:18:29",
+      "description": "TypeScript Full Course for Beginners | Learn TypeScript with Real Project ---------- Become a Full Stack Developer with AI ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qrlTkTvW_bI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA5c59HgWXFtmIATMdELFY31rSnLg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=TypeScript+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=TypeScript%20full%20course%20for%20beginners&sp=EgIYAkgUggELZDU2bUc3RGV6R3OCAQszMExXamhaemc1MIIBC1Nwd3pSRFVRMUdJggELZ2llRVFGSWZnWWOCAQtpSmthQUpVemVXUYIBC2dwNUgwVnczOXl3ggELWnZaN2d2Y21QbUmCAQtEVFIycDdENnRqa4IBC0J3dUx4UEg4SURzggELMXpCUkEwSGRlT02CAQszbURueTlYQWdpY4IBC1dCUHJKU3c3eVFBggELQkNnNFUxRnpPRHOCAQs2ME11UklGSy1WRYIBC0ZKRFZLZWg3UkpJggELaWNPU2tNNDhBdWOCAQtqckZaa2ZEbXEySYIBC0swMWhMTkRkcWc0ggELSkhFQjdSaEpHMVmCAQtxcmxUa1R2V19iSbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELZDU2bUc3RGV6R3OCAQszMExXamhaemc1MIIBC1Nwd3pSRFVRMUdJggELZ2llRVFGSWZnWWOCAQtpSmthQUpVemVXUYIBC2dwNUgwVnczOXl3ggELWnZaN2d2Y21QbUmCAQtEVFIycDdENnRqa4IBC0J3dUx4UEg4SURzggELMXpCUkEwSGRlT02CAQszbURueTlYQWdpY4IBC1dCUHJKU3c3eVFBggELQkNnNFUxRnpPRHOCAQs2ME11UklGSy1WRYIBC0ZKRFZLZWg3UkpJggELaWNPU2tNNDhBdWOCAQtqckZaa2ZEbXEySYIBC0swMWhMTkRkcWc0ggELSkhFQjdSaEpHMVmCAQtxcmxUa1R2V19iSbIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=TypeScript+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=TypeScript+full+course+for+beginners&sp=EgIYAkgUggELZDU2bUc3RGV6R3OCAQszMExXamhaemc1MIIBC1Nwd3pSRFVRMUdJggELZ2llRVFGSWZnWWOCAQtpSmthQUpVemVXUYIBC2dwNUgwVnczOXl3ggELWnZaN2d2Y21QbUmCAQtEVFIycDdENnRqa4IBC0J3dUx4UEg4SURzggELMXpCUkEwSGRlT02CAQszbURueTlYQWdpY4IBC1dCUHJKU3c3eVFBggELQkNnNFUxRnpPRHOCAQs2ME11UklGSy1WRYIBC0ZKRFZLZWg3UkpJggELaWNPU2tNNDhBdWOCAQtqckZaa2ZEbXEySYIBC0swMWhMTkRkcWc0ggELSkhFQjdSaEpHMVmCAQtxcmxUa1R2V19iSbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELZDU2bUc3RGV6R3OCAQszMExXamhaemc1MIIBC1Nwd3pSRFVRMUdJggELZ2llRVFGSWZnWWOCAQtpSmthQUpVemVXUYIBC2dwNUgwVnczOXl3ggELWnZaN2d2Y21QbUmCAQtEVFIycDdENnRqa4IBC0J3dUx4UEg4SURzggELMXpCUkEwSGRlT02CAQszbURueTlYQWdpY4IBC1dCUHJKU3c3eVFBggELQkNnNFUxRnpPRHOCAQs2ME11UklGSy1WRYIBC0ZKRFZLZWg3UkpJggELaWNPU2tNNDhBdWOCAQtqckZaa2ZEbXEySYIBC0swMWhMTkRkcWc0ggELSkhFQjdSaEpHMVmCAQtxcmxUa1R2V19iSbIBBgoECBQQAg%3D%3D"
+  }
+}

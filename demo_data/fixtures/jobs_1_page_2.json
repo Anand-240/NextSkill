@@ -1,0 +1,343 @@
+{
+  "search_metadata": {
+    "id": "6ac69ccf31a60158b08f6701",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Jqtl3Hz7U8C9EggKFKDwdbpDfD8_Ujf2ShuxasMa3Sg/6ac69ccf31a60158b08f6701.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Jqtl3Hz7U8C9EggKFKDwdbpDfD8_Ujf2ShuxasMa3Sg/6ac69ccf31a60158b08f6701.md",
+    "created_at": "2026-10-07 19:26:07 UTC",
+    "processed_at": "2026-10-07 19:26:07 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIZTm9pZGEsVXR0YXIgUHJhZGVzaCxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/Jqtl3Hz7U8C9EggKFKDwdbpDfD8_Ujf2ShuxasMa3Sg/6ac69ccf31a60158b08f6701.html",
+    "prettify_html_file": "https://serpapi.com/searches/Jqtl3Hz7U8C9EggKFKDwdbpDfD8_Ujf2ShuxasMa3Sg/6ac69ccf31a60158b08f6701.prettify",
+    "total_time_taken": 3.81
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Noida, India",
+    "location_used": "Noida,Uttar Pradesh,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTVVJyUzJsSlUyWTNNVTFrTFhaVldscDBXSFZxVDIxallsaFdXbEZ1YjFsV2QyZHlSRkIwTnpaWmJXZ3hSVzVsV0VWa1NYTkVTREZ1ZDBSaFJGbGhSbmRCTUZCWmRHaHVTbVV4YkUxRFJEQkNaMVpHVUdwWlpEVnJaR0pDWm1sRVZsUllXVmh5VkhRM2FGOWlPVGd6Wm1wWVlWVk1MVFkxUW1KaE9WOVVlRlpUY2twNFdIbE1VMUZNU0VSNVVGOUlja0pQVlRSZmJVWmxZVUkwYWxoRmNVeG9hM1pxYzFGM05EWkdlVmQxZFRGRmNrRXdObE5FWkhob2JERnBZbmsxTFVGQ1JsY3hhVlZSWDI5b2MwSklRV2hWY1dwS1kwSnJkRlJaYkVoVlVFRkpiWGhaV2xSRlh6VTJURWM1TlU1WWRrSTNiRWR3ZUZaRFJqSTRObXBmVjFaTFdIQTFPRmxvVUdacVRrcFFOMGd0UlRGTFNsRkNkME5tWkVoVmVtUkJTbTlDV2toV1pUQlROMlYyV2tKR1VVc3hPVkUwT1ZJMWFGWmlWVlZPUkV4aE5GcEViSFZEWkRGRVVtcHVPSGh1ZHpObWNuUnBSRFU1V0RKMU5ISnRhMmxOVjA5dVYxaDFWR1JET1ZwcFRFeGZVVlowYzIxRWNWQkdXSFYwYVdsUWRrNXVTbEpwVnpsMlpHeFJOMDFPVFZOT1ZVcHNUWFJZTUZwNlNWSnRhMFJFVmpoVVJrMXRRMVpxYkhac09XdGlUbUpQTTBWSlFVMHpkekpJYlZoRE5sWndia1JLZEZwMmVHVlNPWEV5VUZFNVEwWXRjWGRXTVdOdk5tY1NGM3BhZWtkaGNHSnNUbk51WmpWT2IxQjVUa2gxTkZGRkdpSkJSSE55T1daU2RXNHhNMmhMYkVseVZXRTBTbWxsWHpSeVJXVnVkVVJKU1dGMyIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Data & Analytics Analyst",
+      "company_name": "Softcrayons IT Education",
+      "location": "Ghaziabad, Uttar Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=nIHRSGuqdVLY3Jo9AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWNMQrCQBBFsc0RrKayENlV0UYrQRE7Qa3DZLPJRtadsDNCYuUdvIMH8ySu2Hxe897P3oNstkVBGMEmoO-lMfwnFvg8X3ClAthiNA4owJ6o9na4diItr7Rm9qpmwaQpQzdNwRbU6STxb3J2GG3rUWw-X0471YZ6vDhRJSZiT4HhcIZdeTcpkOpNOnD4aLDAcgIXEYxwjFhadl-ebGv1qQAAAA&shmds=v1_ARwrE20ucoWY__nLyq9HbOSJ5KTkLCPwTyYtVZOLsEx728Y8pg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=nIHRSGuqdVLY3Jo9AAAAAA%3D%3D",
+      "extensions": [
+        "6 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/data-analytics-analyst/softcrayons-it-education/19686426",
+      "job_title": "Data & Analytics Analyst",
+      "description": "FULLTIME\n\nData & Analytics Analyst\n\nNatWest Group\n\n3 days ago\n\nData & Analytics Analyst\n\nNatWest Group\n\nData Science / Analytics\n\nFULLTIME\n\n20000 - 25000\n\n1 - 2 Years\n\nGhaziabad\n\nJob Description\n\nWe are looking for a Data Analytics professional who can collect, clean, analyze, and interpret data to generate useful business insights. The candidate will be responsible for preparing reports, creating dashboards, identifying trends and patterns, and supporting business decisions through data-driven analysis. Good knowledge of Excel, SQL, Power BI/Tableau and analytical skills is required.\n\nProfessional Skills\n\n\n\n Excel / Advanced Excel SQL Power BI / Tableau Data Cleaning & Data Analysis Data Visualization\n\nShare Job\n\nJob Overview\n\nJob TitleData & Analytics Analyst\n\nJob TypeFULLTIME\n\nCategoryData Science / Analytics\n\nExperience1 - 2 Years\n\nDegreeMaster\n\nOffered Salary20000 - 25000\n\nLocationGhaziabad\n\nHR Contact\n\nhidden_mobile Call\n\nGhaziabad\n\nOpen Maps\n\nRelated Jobs\n\nExplore other job opportunities in this category.\n\n21 hrs ago\n\nData Analyst - Senior\n\nFedEx\n\nData Science / Analytics\n\nFULLTIME\n\n15,000 - 20,000\n\nGhaziabad\n\nJob Details\n\n21 hrs ago\n\nSenior Data Analyst\n\nMongoDB\n\nData Science / Analytics\n\nFULLTIME\n\n20,000 - 22,000\n\nGhaziabad\n\nJob Details\n\n22 hrs ago\n\nSenior Product Analyst\n\nTide\n\nData Science / Analytics\n\nFULLTIME\n\n15,000 - 20,000\n\nGhaziabad\n\nJob Details\n\nSend Us Message .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analytics-analyst/softcrayons-it-education/19686426?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analytics-analyst-softcrayons-it-education-ghaziabad-uttar-pradesh--t7xk-861194127?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobstore",
+          "link": "https://www.jobstore.com/in/job/l32989313/data-analytics-analyst-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFx1MDAyNiBBbmFseXRpY3MgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlNvZnRjcmF5b25zIElUIEVkdWNhdGlvbiIsImh0aWRvY2lkIjoibklIUlNHdXFkVkxZM0pvOUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbWRTV0hoWk5HbEpOMXAzYkVKMWRWcDFjRXBTVWtoUVNHbG5OMlZmWVZNNGJWazVTRmxwUlZSVVpYWlhabVZXTVdFdFl6WlFTMU5qWTA5dVZHOXZXRmN6YVdWNmEydFJjVXQ1TUdKTlJYbFZWWHBrUzFoUVlUZEpkRzlWVjJkaFUxTnhlRmd6T0djd2FqWkhaRWxNVjNSek1reHZaRWhhV2twd2NHRnZiM05EV0drdFpVNFNGM28xZWtkaGRuRlhTRXhYVlRWUFRWQTRaV2x5YlVGM0dpSkJSSE55T1daVU5uVllURWROTkdoeFIxbzFRMEZQY21FMFpsaDRlR0ZFVFRObiIsImZjdiI6IjMiLCJmY19pZCI6Im5JSFJTR3VxZFZMWTNKbzlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst (Supply Chain and Inventory Management)",
+      "company_name": "Innoage",
+      "location": "Noida, Uttar Pradesh",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=7O4lQniz4VAaD1q2AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TbNxSRRIRbLQSBUkREcRaNslxF7nsHrerJJ1_8B1-ypcYm4Ephkk-o6Q4oCLsCH0vCtPLIwTfw95hQ4BUQ05PQ8qxhwIJrWkHm8H39YY7lyAGY-WACY7M1pvx1qkG2WSZiE-tKGpTpRW3GZMpucuGSP64icNogkc1t9V62aWB7HySE_HwgOF94qbGBVxVMcI5Ym3E_QBHZ_ISsAAAAA&shmds=v1_ARwrE20aNXMKSBb9B8lUGKHeo1BAQbyZjf7D7jomzb_yD6-fhw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=7O4lQniz4VAaD1q2AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69ccf31a60158b08f6701/images/VOX-6V2mTsRrLqdQ3bPJOUfRkYp3fl6GbQdy_24oVSA.png",
+      "extensions": [
+        "9 days ago",
+        "₹37.5K–₹62.5K a month",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/data-analyst-supply-chain-and-inventory-management-innoage-noida--t7xk-857004455",
+      "job_title": "Data Analyst (Supply Chain and Inventory Management)",
+      "description": "Immediate joiners Preferred with expereince in Supply Chain and Inventory Management\n\n\nJob Summary\nWe are seeking a highly analytical and detail-oriented Data Analyst with strong expertise in SQL, Advanced Excel, Power BI, and ERP systems to support Supply Chain, Procurement, Inventory, and Vendor Management functions. The ideal candidate should have hands-on experience in analyzing supply chain data, inventory optimization, vendor performance management, and creating actionable insights to improve operational efficiency and business performance.\nThe role requires the ability to work with large datasets, develop dashboards and reports, identify trends, and support strategic decision-making across procurement, inventory planning, and supply chain operations.\n\n\nKey Responsibilities\nData Analysis & Reporting\n\nExtract,clean, validate, and analyze large datasets using SQL and Excel.\nDevelop and maintain Power BI dashboards and automated reports for Supply Chain KPIs.\nPerform root cause analysis on inventory, procurement, and supply chain performance issues.\nProvide data-driven insights to support operational and strategic decisions.\nCreate and maintain KPI scorecards and executive-level reports.\n\nInventory Management & Optimization\n\nAnalyze inventory levels, stock movements, and consumption patterns.\nSupport inventory optimization initiatives to reduce excess stock and stock-out situations.\nMonitor inventory health, aging inventory, safety stock, reorder points, and lead times.\nIdentify opportunities to improve inventory turnover and working capital efficiency.\nDevelop forecasting and replenishment analysis models using historical sales and inventory data.\n\nVendor Management & Procurement Analytics\n\nAnalyze vendor performance based on delivery timelines, service levels, quality, and pricing.\nCreate vendor scorecards and performance monitoring dashboards.\nSupport procurement teams with spend analysis and supplier evaluation.\nTrack purchase orders, open orders, lead times, and vendor compliance metrics.\nRecommend process improvements to strengthen supplier performance and procurement efficiency.\n\nSupply Chain Analytics\n\nAnalyze supply chain performance metrics including:\n\nFill Rate\n\nOTIF(On-Time In-Full)\n\nInventory Turnover\n\nForecast Accuracy\n\nStock Availability\n\nProcurement Cycle Time\n\nIdentify bottlenecks and recommend corrective actions.\n\nCollaborate with procurement, warehouse, logistics, and planning teams to improve operational efficiency.\n\n\nERP & Process Improvement\n\nWork with ERP systems to extract and validate business data.\nEnsure data integrity and consistency across systems.\nParticipate in process automation and continuous improvement initiatives.\nSupport ERP enhancements and reporting requirements.\n\nTechnical Skills\n\nStrong expertise in SQL (Joins, CTEs, Window Functions, Stored Procedures, Query Optimization).\n\nAdvanced Microsoft Excel skills including:\n\nPivot Tables\n\nPower Query\n\nAdvanced Formulas\n\nData Modeling\n\nDashboard Development\n\nStrong experience in Power BI:\n\nDAX\n\nData Modeling\n\nDashboard Development\n\nPower Query\n\n\nSupply Chain Knowledge\n\nInventory Planning & Optimization\nVendor Performance Management\nProcurement Analytics\nDemand Forecasting\nSupply Chain Operations\nStock Replenishment Concepts\nSafety Stock & Lead Time Analysis\nInventory Health Management\n\n.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-supply-chain-and-inventory-management-innoage-noida--t7xk-857004455?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/6394909845773877248?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340154039/data-analyst-supply-chain-and-inventory-management-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKFN1cHBseSBDaGFpbiBhbmQgSW52ZW50b3J5IE1hbmFnZW1lbnQpIiwiY29tcGFueV9uYW1lIjoiSW5ub2FnZSIsImh0aWRvY2lkIjoiN080bFFuaXo0VkFhRDFxMkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVWd5VFRWelREaFJUMlpmV2xrd2JtczBia05OYUcxS1oxOWplamhpUWpORVltUjRXV3BZY2xabWFGVlNkMlZSYjB4MWFXcHJXbkp4WjFkdU5VOUphMjV0ZURGU1VtNHhPRmRTWTBOclpHdDFOVEJQZWxGVFlWTkRha2hSUzIxVmJFWnViR1JQVnpNMWNsRkZPSFF5VDFSWmJHcDRjRXBHTWsxSldUZ3dVR2RDUVhwRlJFNFNGM28xZWtkaGRuRlhTRXhYVlRWUFRWQTRaV2x5YlVGM0dpSkJSSE55T1daVFJIRkRhMGw2YWpKRE5YQnVUMTgwUVc1d1lsaEtaa3N4VkVoQiIsImZjdiI6IjMiLCJmY19pZCI6IjdPNGxRbml6NFZBYUQxcTJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst / Business Analyst Intern",
+      "company_name": "Solventek Private Limited",
+      "location": "Greater Noida, Uttar Pradesh",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=1YHlSKO-bCs2K3C4AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_z2NMQrCQBBFsc0RrKYWyYpgoRaiCCKICGIdJsmQrG52ws4YYucdPI3X8SSujc0v3v-fl7wHyWqLirD26B6iYGBzF-tJ5I_2Xil4-DxfcOUchDAUNbCHHXPlaLisVVtZGCPi0koU1RZpwY1hTzn3Jp7kF5nUGKh1qJRNZ5M-bX01mp_ZdRQNNzgF28UODraxSiXYaAgUSYAj2xLHcFHFEHdYktRfgqPQwbwAAAA&shmds=v1_ARwrE22S2bQ74fnVj5ilPhsAmduwLdzmaLHvKXm-wEZJv6m_IA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=1YHlSKO-bCs2K3C4AAAAAA%3D%3D",
+      "extensions": [
+        "21 days ago",
+        "₹15K–₹24K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/it-software-data-analyst-data-analyst-business-analyst-intern-job-in-solventek-private-limited-beta-greater-noida-greater-noida-0-to-0-years-1789559240-8354973-jid",
+      "job_title": "Data Analyst / Business Analyst Intern",
+      "description": "We are looking for job \n\nIt is a Full Time IT / Software / Data Analyst job for candidates with Freshers.More about this Data Analyst / Business Analyst Intern jobPlease go through the FAQs to get all answers related to the given Data Analyst / Business Analyst Intern jobCan freshers or experienced candidates apply for this Data Analyst / Business Analyst Intern role?\nAns :   Candidates who have a Diploma and above qualification can apply for this Data Analyst / Business Analyst Intern role.\n\nWhat salary is offered for this Data Analyst / Business Analyst Intern job?\nAns :   The salary for this Data Analyst / Business Analyst Intern job ranges between ₹15,000-₹24,000 per month.\n\nWhat is the work schedule for this Data Analyst / Business Analyst Intern job?\nAns :   This Data Analyst / Business Analyst Intern job has 5 days working days and timings from 09:00 AM - 06:00 PM.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Beta Greater Noida, Greater Noida.\n\nHow many vacancies are there for this Data Analyst / Business Analyst Intern job?\nAns :   There is 1 vacancy for this Data Analyst / Business Analyst Intern role.\n\nIs this job open for all genders?\nAns :   Yes, this Data Analyst / Business Analyst Intern job is open for both male and female candidates.\n\nWhat is the job location for this position?\nAns :   The job location for this Data Analyst / Business Analyst Intern position is Beta Greater Noida, Greater Noida.\n\nWhat makes this Data Analyst / Business Analyst Intern job a good opportunity?\nAns :   This Data Analyst / Business Analyst Intern job is a good opportunity as it offers a salary between ₹15,000-₹24,000 per month. This is a Full Time job and has 1 openings.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/it-software-data-analyst-data-analyst-business-analyst-intern-job-in-solventek-private-limited-beta-greater-noida-greater-noida-0-to-0-years-1789559240-8354973-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/6a7ea56bce9cc5393c7c4367?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLyBCdXNpbmVzcyBBbmFseXN0IEludGVybiIsImNvbXBhbnlfbmFtZSI6IlNvbHZlbnRlayBQcml2YXRlIExpbWl0ZWQiLCJodGlkb2NpZCI6IjFZSGxTS08tYkNzMkszQzRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2s5WFpGbDJObFZZZWxGNldrUlpaRk14YUU4eWIydEVkME4zVGtKMFYxaGFXa2xaYzBWNWEwWlliWHBYV0dwSmJXUTVUbXhQTTJSTWNteERValJPZVRoNVYzbGlNVEUzY1ZJMFdFbG9XRzVzTm5SWmNteHpSM2RrWlZnMVNEWjFRM0ZTU1RKU2RGcFpWR05XU0UxdWFVZzRZMjFFU213M1JFUldNMXB4WW5sb1lqaE5PV1VTRjNvMWVrZGhkbkZYU0V4WFZUVlBUVkE0WldseWJVRjNHaUpCUkhOeU9XWlVkV2RwVlRkSFNFeDRVemxCUm05M2NXNHhhR0ZaTTNsNFVreFIiLCJmY3YiOiIzIiwiZmNfaWQiOiIxWUhsU0tPLWJDczJLM0M0QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Financial Data Analyst",
+      "company_name": "SimCorp",
+      "location": "Noida, Uttar Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=JxmpGjE8xpFyFfPfAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CS7eLJKIoINOougmQnEu1zQ0kfQu5G6om_8g-IF-ibq87VXvSbWpPUUucIqE5CImOKIi7AnTQxQ-zxfcuQXxWFwAJjgz98lPd0E1y9ZakWR6UdTojOPBMvmWR_tL8qeRgMXnhOqb1Xo5mkz9fFbH4cAlQyS4cOxwATdVLHAt2HkJX68rph6ZAAAA&shmds=v1_ARwrE21gvvHmUJ9n_t4SvTPKXFKK-k0L4yRlyhON-bH6JBMjLQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=JxmpGjE8xpFyFfPfAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV+pAAAAY1BMVEX///8AAACrq6uQkJBtbW3e3t6cnJz4+PiFhYVNTU12dnZUVFSmpqbk5OT8/PyBgYFGRkYnJye+vr7IyMhdXV3y8vItLS02NjZnZ2eWlpYKCgoXFxccHBwRERFBQUG2trbT09OX5NGHAAABEUlEQVQ4je2R626DMAyFj5MQIBDC/d617/+UcwyVVrXSpP0dRwoytj8cH4BL/1tWiay8JKVVHkn30uFV2abvoMuj6izGGVmlFfT00kCZNe07aExwzmkBST2zVQVfYfBAS+c072MeSGONc8at2RycgDktHZf0iGUtatL5bYSrBUu3PqMOFMjqveipZXDstTtAqJ5IY6lhCbgFeEr7/rBil7O6AZpry8hgY8pzorCURvALaMoIhk3SoQDuBLrzhWoJjTGlXTIBBz4dVT/B4SGLp/bGY5oDXDmcMM9mZpkIbjQ13Bd3bNgqG0H+ODV8/z139BD79Mg7dkhOHRb44cOvjuY+nyxdwH/o+l06/xN26ZLoG/VMDI00Tyj7AAAAAElFTkSuQmCC24",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/senior-financial-data-analyst/simcorp/19625417",
+      "job_title": "Senior Financial Data Analyst",
+      "description": "What Makes Us, Us\n\nJoin some of the most innovative thinkers in FinTech as we lead the evolution of financial technology. If you are an innovative, curious, collaborative person who embraces challenges and wants to grow, learn and pursue outcomes with our prestigious financial clients, say hello to SimCorp!\n\nAt its foundation, SimCorp is guided by our values  caring, customer success-driven, collaborative, curious, and courageous. Our people-centered organization focuses on skills development, relationship building, and client success. We take pride in cultivating an environment where all team members can grow, feel heard, valued, and empowered.\n\nIf you like what were saying, keep reading!\n\nWhy is this role important to us \n\nThe Senior Financial Data Analyst in the Data Management team at SimCorp is responsible for analyzing financial data, identifying trends, and providing actionable insights to support business decision-making. With typically 5+ years of experience in financial data analysis, this role involves overseeing the collection, validation, and reporting of financial data, ensuring that it meets high standards of accuracy, integrity, and compliance. The Senior Financial Data Analyst works closely with internal teams and stakeholders to develop reporting solutions, optimize data workflows, and drive improvements in financial data management processes.\n\nThis role combines deep financial data domain expertise with analytical and technical capabilities to support business decision-making, operational excellence, and regulatory compliance. The role is primarily domain-focused (approximately 80%), requiring deep expertise in financial market data, reference data, and data governance, while technical skills (approximately 20%) are applied to enable automation, reporting, and data workflow optimization.\n\nWhat You Will Be Responsible For\n\nLead the analysis of financial data, identifying trends, insights, and opportunities to support business objectivesCollaborate with business teams to define data requirements and ensure that financial data is accurate, consistent, and aligned with reporting needsDevelop and maintain financial reports, dashboards, and visualizations to present data insights to stakeholdersOversee the collection, validation, and integration of financial data across systems, ensuring data integrity and consistencyWork with IT and data teams to optimize data workflows, improve data quality, and streamline reporting processesConduct data reconciliation to ensure that financial data aligns with internal and external reporting standardsEnsure compliance with financial regulations, data governance policies, and industry standards in all financial data activitiesProvide mentorship and guidance to junior analysts, promoting best practices in financial data analysis and reportingDrive process improvements in financial data management, implementing new tools and technologies to improve efficiency and accuracyStay up to date with developments in financial data analysis tools and techniques, recommending innovations to enhance data operationsDeveloping financial reporting dashboards and analytical solutions.Collaborating with business and technology teams to optimize financial data workflowsLeading efforts to automate and enhance processes within financial data operations.Supporting regulatory reporting and compliance initiatives.\n\nWhat We Value\n\nLeading financial data analysis initiatives to support business decision-making and strategic planningDeveloping and maintaining financial reporting solutions, including dashboards and data visualizationsEnsuring the quality, accuracy, and consistency of financial data used for reporting and analysisCollaborating with IT and business teams to optimize financial data workflowsMentoring junior financial analysts and ensuring continuous improvement in data analysis practicesDriving process improvements to streamline data management and reporting operationsEnsuring compliance with financial regulations, data governance, and industry standards\n\nThe role requires working knowledge of technical tools that support financial data analysis, automation, and reporting.\n\nProgramming & Automation:\n\nPython (data analysis, automation, scripting)VBA (Excel automation and reporting)\n\nBusiness Intelligence & Analytics\n\nPower BI (dashboard development, data modelling, DAX)Advanced Microsoft Excel (Power Query, Pivot Tables, large dataset analysis)\n\nData Engineering & ETL Tools\n\nKNIMEAlteryxKofax\n\nDatabases & Querying\n\nSQL Server\n\nFinancial Data Platforms (Preferred)\n\nBloombergRefinitivICE Data ServicesRIMES\n\nBENEFITS:\n\nAttractive salary, bonus scheme, and pension are essential for any work agreement. However, in SimCorp, we believe we can offer more. Therefore, in addition to the traditional benefit scheme, we provide a good work and life balance: flexible working hours and a hybrid workplace model. Simcorp follows a global hybrid policy, asking employees to work from the .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-financial-data-analyst/simcorp/19625417?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/senior-financial-data-analyst-at-simcorp-4386313446?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/senior-financial-data-analyst-simcorp-JV_KO0,29_KE30,37.htm?jl=1010067137030&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/J_NL09_Cp1DjVkGlDGzYH8qs93JRvPkZtOZAxRnUiBvIzeQdGUNV-g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://simcorp.wd3.myworkdayjobs.com/en-US/SimCorp_Jobs/job/Senior-Financial-Data-Analyst_R-211113?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/senior-financial-data-analyst-simcorp-noida-47816609?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/8048709014785648315?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5675503461?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRmluYW5jaWFsIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlNpbUNvcnAiLCJodGlkb2NpZCI6Ikp4bXBHakU4eHBGeUZmUGZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1VsalZXRlVRV1ZIUW1sSlJVNURjWFZzWVd0V1YwOTBaa1pWVkZST1gyaHViRWhhZVVsMWRtOXljSGhXTUVOcFVTMVNXRTFtZW5JNU1FaHJhbVJCWkRKeFdqUnJhVFYwTldaa0xVOXVkRTR6UlZGWE5FOUxhakU1TWs1cmQyeHBWaTFMYUZRNExVSklORU5pWm1KR1dVSlZaRGsxUmkxaFVWVkdSMmR6Y0RKeGNqWmlWbGNTRjNvMWVrZGhkbkZYU0V4WFZUVlBUVkE0WldseWJVRjNHaUpCUkhOeU9XWlNOM1EyZUZCUWR6bEpjV2h6VFRsRlIwSnhlbE5oV1dOc2VEbDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJKeG1wR2pFOHhwRnlGZlBmQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data & Analytics Analyst",
+      "company_name": "Softcrayons IT Education",
+      "location": "Ghaziabad, Uttar Pradesh",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=MKVGZDG0E09rVUCUAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWNMQrCQBBFsc0RrKayENlV0UYrQRE7Qa3DZLPJRtadsDNCYuUdvIMH8ySu2Hxe897P3oNstkVBGMEmoO-lMfwnFvg8X3ClAthiNA4owJ6o9na4diItr7Rm9qpmwaQpQzdNwRbU6STxb3J2GG3rUWw-X0471YZ6vDhRJSZiT4HhcIZdeTcpkOpNOnD4aLDAcgIXEYxwjFhadl-ebGv1qQAAAA&shmds=v1_ARwrE20ucoWY__nLyq9HbOSJ5KTkLCPwTyYtVZOLsEx728Y8pg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=MKVGZDG0E09rVUCUAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69ccf31a60158b08f6701/images/XsIKI2SEagM0W-wKVL8vng0p9sTDotSJUbIWd-ex8bo.jpeg",
+      "extensions": [
+        "8 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/data-analytics-analyst-at-softcrayons-it-education-4473229059",
+      "job_title": "Data & Analytics Analyst",
+      "description": "FULLTIME\n\nData & Analytics Analyst\n\nNatWest Group\n\n8 days ago\n\nData & Analytics Analyst\n\nNatWest Group\n\nData Science / Analytics\n\nFULLTIME\n\n20000 - 25000\n\n1 - 2 Years\n\nGhaziabad\n\nJob Description\n\nWe are looking for a Data Analytics professional who can collect, clean, analyze, and interpret data to generate useful business insights. The candidate will be responsible for preparing reports, creating dashboards, identifying trends and patterns, and supporting business decisions through data-driven analysis. Good knowledge of Excel, SQL, Power BI/Tableau and analytical skills is required.\n\nProfessional Skills\n\n\n\n Excel / Advanced Excel SQL Power BI / Tableau Data Cleaning & Data Analysis Data Visualization\n\nShare Job\n\nJob Overview\n\nJob TitleData & Analytics Analyst\n\nJob TypeFULLTIME\n\nCategoryData Science / Analytics\n\nExperience1 - 2 Years\n\nDegreeMaster\n\nOffered Salary20000 - 25000\n\nLocationGhaziabad\n\nHR Contact\n\n[redacted] Call\n\nGhaziabad\n\nOpen Maps\n\nRelated Jobs\n\nExplore other job opportunities in this category.\n\n6 days ago\n\nData Analyst - Senior\n\nFedEx\n\nData Science / Analytics\n\nFULLTIME\n\n₹15,000 - ₹20,000\n\nGhaziabad\n\nJob Details\n\n6 days ago\n\nSenior Data Analyst\n\nMongoDB\n\nData Science / Analytics\n\nFULLTIME\n\n₹20,000 - ₹22,000\n\nGhaziabad\n\nJob Details\n\n6 days ago\n\nSenior Product Analyst\n\nTide\n\nData Science / Analytics\n\nFULLTIME\n\n₹15,000 - ₹20,000\n\nGhaziabad\n\nJob Details\n\nSend Us Message",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analytics-analyst-at-softcrayons-it-education-4473229059?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFx1MDAyNiBBbmFseXRpY3MgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlNvZnRjcmF5b25zIElUIEVkdWNhdGlvbiIsImh0aWRvY2lkIjoiTUtWR1pERzBFMDlyVlVDVUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVGRXWWpKVlJFaHNMVmRFV1ROQmEyRjZPRUZRY1RoTVNVTlNTMjFXWkVveE1pMVVjMkphV21welVFdFVUVVozVnpKVVdHeHhjMVpVUVhSM1FWVnhjemN3T1hjeFNUUmZURVZLYVROeVJXSlhjbkJuTW01VVIxVkZUMFIwWkdsMmJrVmtaV0ZVT1VSQmJGUjJaemt5VFZGeGJVODJUMWhaVkRZNVYxRjJaa3hOZWpGVldtd1NGM28xZWtkaGRuRlhTRXhYVlRWUFRWQTRaV2x5YlVGM0dpSkJSSE55T1daU1gxTjFZMnBIZEhsaVpGazFiRGsyTUdwRldEVklTbEJSZFRkbiIsImZjdiI6IjMiLCJmY19pZCI6Ik1LVkdaREcwRTA5clZVQ1VBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Decision Analyst",
+      "company_name": "Barclays",
+      "location": "Noida, Uttar Pradesh",
+      "via": "Barclays Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=hesmRIuL-sND7RyRAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0nON2qSCKCi06K4CYuzuWaHkkkzYXcDe3m7Oof-iXW5S2P95r3olldyEWJnOGUMU2i8H194MkdCGF1AWZzZfaJlsegWuRgrUgyXhQ1OuN4sJyp49HOkfzRSsBKJaFSu9tvR1OyX8N5viWcBGKGG8ceN_BQxQr3ij1J-AGMp3MRjQAAAA&shmds=v1_ARwrE20tsQWqtr52NoL63NzsXNk0bpNYh8Jd03QsBXVRWKQyVw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=hesmRIuL-sND7RyRAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADYAAAA4CAMAAACBkfufAAAAVFBMVEX___8Are8Aq-8AqO4Apu4rsvDx-f77_f_P6vrm9P3V7Pu44Pih1_el2Pfb7_tbvvJ8yfQ7tfCt2_eO0PVyxvMAn-3I5_qZ0_aGzfVnwvPB4_lJufFzv_GSAAABi0lEQVRIie2ViY6kIBCGi1OQS4RG0fd_zy16xs5mZgy6m2yySf-JKSF8qbIOBHjrrf9D3gaRh7uUenBK2HQXk8NICYk3iGESUaENhIjmN4rpSrCREdrOC0JYMxjsBa8zw-MFc9KsAyjNzn1nBBXTSptldRLPdY8aeDtG6JN6Wd77uhbbdzHdwcafsfHPMN_B9I8Y7wX5mZKvWIf6LMBX9eu90O8UXbqY5ERUtn6Um64rq4Jw2cUgc5X4EWsEnhTPfQp0ArYdCWXaUEgXnKHmFcLRXBXWfh9_aITtVT22Qa9DXpK_Fe9KOg4ZfgTJzXUK_e3PMFm44esptTO2q5tQk-_1799J-hGHXw_40uarlMHj2g9ag9TSnM2cEo4C8BnMvmYQJskH7j42zaEWUewZFqwFkwI-bpkT7uBF6VKGPFnJTwfcZBPRCQO3R5iwYBKvWYFN6TEIxc4q6Cxws_gwriVbs4NWO1jno_YBFJRwgs01e_w5qcUWEH6JztdaATanEpiQ71b-rbf-pX4B8eMPcDUSOUEAAAAASUVORK5CYII.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://search.jobs.barclays/job/noida/decision-analyst/13015/95050023888",
+      "job_title": "Decision Analyst",
+      "description": "Embark on a transformative journey as a “Decision Analyst” at Barclays, where you'll spearhead the evolution of our digital landscape, driving innovation and excellence. You'll harness cutting-edge technology to revolutionize our digital offerings, ensuring unapparelled customer experiences.\n\n\n\nThe Portfolio Credit Analytics & Strategy team is at the forefront of shaping Barclays’ unsecured lending strategies through rigorous data analysis and actionable insights. Working closely with senior leaders across Product, Finance, and Risk, the team drives strategic recommendations on Product, Affordability, and Securitization, with a strong focus on analytical quantification. As an in-business function, the team primarily supports the analytical agenda for unsecured lending products, including, but not limited to, Pricing and Limit strategies, ensuring robust decision-making at every turn.\n\n\n\nTo be successful in this role as a “Decision Analyst\" in Barclays UK, you should possess the following skillsets:\n\nReally strong data skills using SAS, SQL & Python.\n\nA decision analyst must possess strong analytical and quantitative skills to evaluate data, identify patterns and trends, and generate insights that support effective business decision-making.\n\nAttention to detail is critical for a decision analyst to ensure data accuracy, validate assumptions, and identify inconsistencies that could impact the quality of analyses or recommendations.\n\nHands-on experience in developing predictive statistical models, forecasting techniques, machine learning & Risk-Reward models, demonstrating your proficiency in applying advanced analytics to real business challenges.\n\nSolid proven experience in making strategic recommendations through analytics in Unsecured lending (Cards/Loans/Overdrafts), Banking, Retail, eCommerce or pharmaceutical domains.\n\nDecision analysts must demonstrate critical and strategic thinking, enabling them to solve complex business problems, assess trade-offs, evaluate risks, and develop data-driven solutions that optimize outcomes.\n\n\n\nSome other highly valued skills include:\n\nEffective articulation and story-telling ability, enabling you to communicate complex analytical findings in a clear and compelling manner to diverse stakeholders.\n\nStrong commercial understanding of unsecured lending products, risk and affordability policy, and the key drivers of revenue, risk, and cost, equipping you to provide strategic recommendations that balance growth and risk mitigation.\n\n\n\nYou may be assessed on the key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen strategic thinking and digital and technology, as well as job-specific technical skills.\n\n\n\nThis role is based in our Noida, Candor Techspace office.\n\n\n\n Purpose of the role\n\nTo extract meaningful insights from complex data sets, developing robust decision models, and presenting actionable recommendations to stakeholders across the departments. \n\n\n\nAccountabilities\n\nIdentification and extraction of relevant data from various internal and external sources.Performing sensitivity analysis and scenario planning.Monitoring and evaluation of the performance of existing models.Development and implementation of data quality control procedures.Building and validation of quantitative models to support decision-making across different business areas.\n\nAnalyst Expectations\n\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.Requires in-depth technical knowledge and experience in their assigned area of expertiseThorough understanding of the underlying principles and concepts within the area of expertiseThey lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.OR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate.Will have an impact on the work of related teams within the area.Partner with other functions and business areas.Takes responsibility for end results of a team’s operational processing and activities.Escalate breaches of policies / procedure appropriately.Take responsibility for embedding new policies/ procedures adopted due to risk mitigation.Advise and influence decision making within own area of expertise.Take ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct.Maintain and continually build an understanding of how own sub-function integrates with function, alongside knowledge of the organisations products, services and processes within the function.Demonstrate understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub-function.Make evaluative judgements based on the analysis of factual information, paying attention to detail.Resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents.Guide and persuade team members and communicate complex / sensitive information.Act as contact point for stakeholders outside of the immediate function, while building a network of contacts outside team and external to the organisation.\n\nAll colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.",
+      "apply_options": [
+        {
+          "title": "Barclays Careers",
+          "link": "https://search.jobs.barclays/job/noida/decision-analyst/13015/95050023888?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hackajob",
+          "link": "https://hackajob.com/job/edb8b0e9-511f-11f1-a7b8-0a05e249917d-decision-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/eSI2FkA4vby3vH2J7Uzhdy77jPt4D5McHToREH5xF2hHZo2BWM44VQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/decision-analyst-barclays-noida-65012582?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-8961764651162721580?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/decision-analyst-barclays-noida--techmap_in_4450465031?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Simplify",
+          "link": "https://simplify.jobs/p/442b3091-c2e8-4e68-89ae-26cda8a37ec4/Decision-Analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/decision-analyst-at-barclays-4410632925?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEZWNpc2lvbiBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiQmFyY2xheXMiLCJodGlkb2NpZCI6Imhlc21SSXVMLXNORDdSeVJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEVaclh6RkRUSHBLTFhGVGJVNVNaMmt3T1VKS1R5MTFjVzVJV0U1Tll6WkhhbVZUZFUxbFFYQmhPVVl6WlRCaGRrZElUVEpmZDBaRFZIZEtXV1JQTUVOaFNUTjFZM1p1TlRaWFYzUTVTV0ZSV2xkc1RUYzRSRkZoTjFoVVRHWjJiRWs0V1VkU1VVZHFTMmsxVFhWUlVUVkZPVlUzVmpZelMwTnFabEIwTlVrelluQnNVamNTRjNvMWVrZGhkbkZYU0V4WFZUVlBUVkE0WldseWJVRjNHaUpCUkhOeU9XWlVXWE5wVVZGcFMzWnFhalZMU1c5UU1IQTJjemwwTmtRMmNWcG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJoZXNtUkl1TC1zTkQ3UnlSQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "DigitalXNode",
+      "location": "New Delhi, Delhi",
+      "via": "DigitalXNode",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=LwdbXiFfxWgxQ2QHAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yXLMQoCMRBAUWz3CFbT2IgkIthoJQTstrZbZtchiYyZsDPg2ll5AW_oSVRs_qt-85w1i4CGcCjIdzV4P15wkR6UcBwSSIGjSGSa75NZ1Z33quyiGloe3CBXL4V6mfx30l86TThSZTTqNtv15GqJSwg5ZkM-tXImyAVaukEgTnn15wP4vE3wiQAAAA&shmds=v1_ARwrE21inhYL_cLf-5TVO3exvxcL2ETFXiygE9cQrtkQGZ8sbQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=LwdbXiFfxWgxQ2QHAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://digitalxnode.com/jobs/data-analyst/",
+      "job_title": "Data Analyst",
+      "description": "We are seeking a highly skilled and motivated Data Analyst to join our team. The successful candidate will be responsible for analyzing large datasets, developing insightful reports and dashboards, and supporting data-driven decision making across the organization. This role requires strong analytical and problem-solving skills, proficiency in data analysis tools and techniques, and a passion for data-driven insights.\n\n\n\n\n\nEssential Duties and Responsibilities:\n\n\n\n\n\n\nData Analysis and Manipulation:\n\nExtract, transform, and load data from various sources (databases, APIs, flat files) using SQL and Python (Pandas, NumPy).\n\n\n\nPerform data cleaning, transformation, and enrichment.\n\n\n\nConduct exploratory data analysis (EDA) to identify trends, patterns, and anomalies.\n\n\n\nDevelop and maintain data pipelines and ETL processes.\n\n\n\n\n\nData Visualization and Reporting:\n\nCreate interactive dashboards and reports using Tableau and Power BI.\n\n\n\nDevelop and present data visualizations (charts, graphs, maps) to communicate data insights effectively.\n\n\n\nPrepare and deliver data-driven presentations to stakeholders.\n\n\n\n\n\nData Modeling and Analysis:\n\nDevelop and implement statistical models and machine learning algorithms for predictive modeling and data analysis.\n\n\n\nPerform data mining and analysis to identify key drivers of business performance.\n\n\n\nConduct A/B testing and other forms of data-driven experimentation.\n\n\n\n\n\nData Quality and Governance:\n\nEnsure data quality and accuracy throughout the data lifecycle.\n\n\n\nDevelop and implement data governance policies and procedures.\n\n\n\nMaintain data dictionaries and documentation.\n\n\n\n\n\nCollaboration and Communication:\n\nCollaborate with business stakeholders to understand their data needs and translate them into actionable insights.\n\n\n\nCommunicate complex data concepts effectively to both technical and non-technical audiences.\n\n\n\nWork effectively in a team environment and contribute to a positive and collaborative culture.\n\n\n\n\n\n\nQualifications:\n\n\n\n\n\n\nEducation: Bachelor's degree in Computer Science, Statistics, Mathematics, Economics, or a related field.\n\n\n\nExperience:\n\nMinimum 2 years of experience in data analysis or a related field.\n\n\n\nStrong proficiency in SQL and Python (Pandas, NumPy).\n\n\n\nExperience with data visualization tools (Tableau, Power BI) preferred.\n\n\n\nExperience with data warehousing and ETL processes a plus.\n\n\n\n\n\nTechnical Skills:\n\nStrong analytical and problem-solving skills.\n\n\n\nProficiency in SQL and Python (Pandas, NumPy).\n\n\n\nExperience with data visualization tools (Tableau, Power BI).\n\n\n\nKnowledge of statistical methods and machine learning algorithms.\n\n\n\nExperience with data cleaning, transformation, and enrichment.\n\n\n\n\n\nOther Skills:\n\nExcellent communication and presentation skills.\n\n\n\nStrong attention to detail and accuracy.\n\n\n\nAbility to work independently and as part of a team.\n\n\n\nStrong analytical and problem-solving skills.\n\n\n\nA passion for data and a desire to learn new technologies.\n\n\n\n\n\n\nTo Apply\n\n\n\n\n\nPlease submit your resume and cover letter to [redacted]",
+      "apply_options": [
+        {
+          "title": "DigitalXNode",
+          "link": "https://digitalxnode.com/jobs/data-analyst/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJEaWdpdGFsWE5vZGUiLCJodGlkb2NpZCI6Ikx3ZGJYaUZmeFdneFEyUUhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBwUWN6VnVXV0ZYUWxGTWFYUm9VbWwyWVZST1ltWnlUV2RGTjJSRWRqbHJWMll3VFc1VFJsWjRTbVZQUlRWd1QwdDBVazFNTWpBMVJESm1PREZpZVV4dVNuRkdiWGhMYmsxS2NYUjZOSEJUZEVoWlNucEpTRlkyYmtjd1ltcFdXRjg0YkU5RmNVdHlielZEY1hsWU1VWXRkMVl4YWpGU1drVldVVzlMTTFCMU4waERVMFFTRjNvMWVrZGhkbkZYU0V4WFZUVlBUVkE0WldseWJVRjNHaUpCUkhOeU9XWlNRVEJhWkRGMVRGUlFWMWMzUjJ0Rk1sbFVZV3hDYzJwUFZHUm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJMd2RiWGlGZnhXZ3hRMlFIQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst Internship",
+      "company_name": "The SmartBridge",
+      "location": "Noida, Uttar Pradesh",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=xcjKnizgLINzRaMbAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU63CSJJEVx0UgRxEUGdy7U9kkiaC7kb6uY_uPh9fom6vO1V70lV71ERtgnjQxSOSakk8SHD5_mCO7cghKXzwAkOzC7SdONVs6ytFYnGiaKGznQ8WE7U8mh_Sf404rFQjqjULFf1aHJy89nVE1wGLLoroXcEIcGJQ48LuKligXPBnsR_AdOzL9-bAAAA&shmds=v1_ARwrE23E0f2BmR-sf4-6tOlKDhNfp-Dqiu3b2kPDpaNIXvb8kA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=xcjKnizgLINzRaMbAAAAAA%3D%3D",
+      "extensions": [
+        "₹5K–₹10K a month",
+        "Internship"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/JavSmZIOcDmGUzgGQca8S5pJ10_972-8NANzVY050V-0gTyTuQfZ8g",
+      "job_title": "Data Analyst Internship",
+      "description": "Job Position: Data Analyst Intern\n\nWe are seeking a highly motivated Data Analytics Intern to join our growing team. The ideal candidate should have strong knowledge of Excel, MS Office, SQL, and data visualization, as well as experience with tools like Tableau, PowerBI, or Maven. In this role, you will be responsible for analyzing and interpreting complex data sets to help inform business decisions.\n\nResponsibilities:\n\nAnalyze large data sets using Excel, MS Office, SQL, and data visualization tools like Tableau, PowerBI, or Maven.\n\nCreate compelling data visualizations and reports to communicate insights and findings\n\nCollaborate with team members to understand business requirements and develop data analytics solutions to meet those needs.\n\nBuild Guided projects and mentor the learnersStay up-to-date with the latest developments in data analytics and visualization tools.\n\nParticipate in data quality assurance and testing to ensure accuracy and completeness of dataSupport the development of data analytics processes and procedures to enhance data quality and efficiency.\n\nRequirements:\n\nAny Graduate preferably 2026 / 2025 pass-out candidates.\n\nBachelor’s or Master’s degree in Computer Science, Data Science, Machine Learning, or a related field\n\nStrong knowledge of Excel, MS Office, SQL, and data visualizationExperience with tools like Tableau, Power BI, or Maven.\n\nAbility to work well in a team environment and collaborate effectively with others.\n\nExcellent problem-solving skills and attention to detailStrong communication and interpersonal skills.\n\nAbout us : SmartBridge is an ed-tech company founded in 2015 by Mr Amarender Katakam, with a vision to build the next-generation talent pool. We have developed project-based experiential learning programs in partnership with industry to upskill students in emerging technologies. More than 8,00,000 students from 2500+ institutions have been engaged on our career readiness platform, SmartInternz.\n\nJob Type: Internship\n\nContract length: 6 months\n\nWork Location: In person\n\nPay: ₹5,000.00 - ₹10,000.00 per month\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/JavSmZIOcDmGUzgGQca8S5pJ10_972-8NANzVY050V-0gTyTuQfZ8g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-internship-aivara-technologies-noida-uttar-pradesh--t7xk-839474301?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/data-analyst-internship-the-smartbridge-JV_KO0,23_KE24,39.htm?jl=1010214370927&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/6a9407818b59b92f89f2fd62?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSW50ZXJuc2hpcCIsImNvbXBhbnlfbmFtZSI6IlRoZSBTbWFydEJyaWRnZSIsImh0aWRvY2lkIjoieGNqS25pemdMSU56UmFNYkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbVZaZEdKTFFYRmFZMFprWW0wd1QxZzBibUpJYmpoUVVsbHNOWFpGUlc0ell6UjVWSEpTT0hCdWRuUTRSbGhyVjFkRk5FUlNhVWs1WlU1UlpFWkxOREJxTFZBeFlsWkJkVzAwWTBFdFJqTTBTbUZqWkU5RFVtRTRibTlHZFVFeVNucFBaazVpYTB0UVZXMUtTekV5ZVZScVFWZEhTRkI2WkhGV01FTnlVV2MzTjI0NVEzRVNGM28xZWtkaGRuRlhTRXhYVlRWUFRWQTRaV2x5YlVGM0dpSkJSSE55T1daVWMwMUplRzFyWlZwblNGbFJiM1o1UjFSbVpsRm5WRE0xUnpWUiIsImZjdiI6IjMiLCJmY19pZCI6InhjaktuaXpnTElOelJhTWJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Process Associate – Data Analyst-COR021581",
+      "company_name": "Genpact",
+      "location": "Noida, Uttar Pradesh",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=PMEYIihJxXI-hHRLAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2NMQrCQBAAsc0TbNxaNJcEAqJVUEmnQbAOm8uRi5y34XaL2PkH3-DHfInRZpphmOg9i45VIG2YoWAm3aMY-DxfcEBBKDy6B8t6f74kWZpv0r-6UQNsMGgL5KEk6pyZ76zIwFulmF3csaD0OtZ0V-RNQ6OaIv6hZovBDG761FmejPHgu-WiNH5ALdB7OFHf4gquIhigCtgatl8mxgPZqAAAAA&shmds=v1_ARwrE22At0Mr0VrBc6e8W0NlNO-oKtwDnq1ASj65GNS-VP8_oA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=PMEYIihJxXI-hHRLAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac69ccf31a60158b08f6701/images/zdbKc0fuZUzhKPI0Di_DNE2EGivxtdnw7ZUoig0rL3I.jpeg",
+      "extensions": [
+        "₹1L–₹50L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/genpact-process-associate-data-analyst-cor021581-noida-uttar-pradesh-india-1-to-3-years-356948",
+      "job_title": "Process Associate – Data Analyst-COR021581",
+      "description": "With a startup spirit and 90,000 curious and courageous minds, we have the expertise to go deep with the world’s biggest brands—and we have fun doing it. Now, we’re calling all you rule-breakers and risk-takers who see the world differently and are bold enough to reinvent it.Transformation happens here. Come, be a part of our exciting journey!Are you the one we are looking for?Inviting applications for the role of Process Associate – Data Analyst!In this role associate will work with a team to provide analytical support on deductions recovery. Such analytical support may include data management, data interpretation, reporting, structuring an analysis, interpreting the results in a business context and providing insights to team to drive deduction recovery.The analyst should be able to identify pattern emerging from data and reports and establish the linkage for the same with business problems.Responsibilities Prepares and analyses data. This can include locating, profiling, cleansing, extracting, mapping, importing, validating or modelling. Applies query, data exploration and transformation, basic statistical methods and visualization techniques to build business insights or improve data quality. Performs validation and testing to confirm the accuracy of the information built. Interprets results of analyses, identifies trends and issues, and develops recommendations to support business objectives. Communicates valuable information so that it is easy to understand and influences other to act based on the useful information provided. Think strategically about data as a core enterprise asset and assist in all phases of the advanced analytic development process Work with Data engineers to supervise and help institutionalize models and dashboards for Analytics Slice and dice through the database and come up with actionable analytical insights Support other task as assigned (dashboard, reporting, governance of data using audits to identify gaps and opportunities)Qualification we seek in you!Minimum Qualifications Graduate or equivalent Proven experience in OTC domain Analytical aptitude - problem solving, quantitative Knowledge on retail and FMCG/CPG industry, exposure to CPG/Consumer data Analytical skills, problem solving ability and attention to detail Should have ability to handle large data sets in arriving at meaningful findings. Proficiency with Microsoft Office Suite Work in a dynamic and fast-paced environment without compromising the qualityPreferred Qualifications Facility with one or more data analytical methods such as regression, decision trees, experimental designs, support vector machines, machine learning and text mining Excellent communication/ interpersonal skills Exposure to ERP systems (Oracle / SAP / Ariba)Genpact is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws. Genpact is committed to creating a dynamic work environment that values diversity and inclusion, respect and integrity, customer focus, and innovation. For more information, visit www.genpact.com. Follow us on Twitter, Facebook, LinkedIn, and YouTube.JobProcess AssociatePrimary LocationIndia-NoidaEducation LevelBachelors / Graduation / EquivalentJob PostingJan 7, 2022, 4:36:19 PMUnposting DateOngoingMaster Skills ListOperationsJob CategoryFull Time",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/genpact-process-associate-data-analyst-cor021581-noida-uttar-pradesh-india-1-to-3-years-356948?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcm9jZXNzIEFzc29jaWF0ZSDigJMgRGF0YSBBbmFseXN0LUNPUjAyMTU4MSIsImNvbXBhbnlfbmFtZSI6IkdlbnBhY3QiLCJodGlkb2NpZCI6IlBNRVlJaWhKeFhJLWhIUkxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xrMVJHRTVSbUZ6TldoTmFYWjRSbDlvYW1SSE9WRllOemRFTVRaaVlrMVhlWGRQZG1kQk1XUmtWbkZaZERrd2R6VlliRnBXYTNscVMweEhSRzFYWVMxUFgyZHJZWGwxTjBaWFMwdFpUVWRXTVdNemNVcE1WRlpHVFdGTE9WTkdSRkpyZDFWTGExUlFTbFpaZDJSYWVqVm5lWFJqV25GaWJtNXJNR1ZZYkdJeFUzRkhhV2NTRjNvMWVrZGhkbkZYU0V4WFZUVlBUVkE0WldseWJVRjNHaUpCUkhOeU9XWlNUMEpOZEZSWlYwRnNNR1JoTm5sQmRrMW1iSFZaWXpOd1pEUm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJQTUVZSWloSnhYSS1oSFJMQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst ( Marketing Analyst)",
+      "company_name": "Fintech Cloud",
+      "location": "Noida, Uttar Pradesh",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=vOvj4qH91u07Ypp4AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_zWMMQrCQBAAsc0TrLYRVCQngk2sRNFKsbEOm2S5Oz1vw-0KsfMPfsC3-RJjYTPFwEz2HmTFFhVhHTE8RGEMB0xXUh_t303g83zBhSsQwlQ74Ah7ZhtouHKqrRTGiITciqL6Oq_5ZjhSxZ3pI_mhFIeJ2oBK5WI57_I22ulo56NS_9sEvjfgIxzZNziDsyomOCVsSNwXKNlfN6MAAAA&shmds=v1_ARwrE20B3OO2VXFdsK5Sl-t85SQGgAkHM2qOlEAy3VsWH9j4Vw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=vOvj4qH91u07Ypp4AAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAb1BMVEX//P3/8PT/9/n/+/z/8fX//v7/7vP/+Pr/9fj/7/P//f7/8/b/+fv/+vv/8vb/9Pf/////7/T//f3/+vz/8vX/+fr/7fL/9vnwQUHvKinvMzP6u73vNzfxTEz3m536xsj82tzuExL1jo70fH34qqui7krIAAABQUlEQVRIie3XbW+DIBAH8AO0VEQ5n4rabtpu3/8z7nTRbQlOJXuz1H9i4ptfzsAFTkBEmZZlGscxPWeTGmPOnHNr+RgpZaW1TpKCIoTIAYQIEQEVu5yiKGOMBUFQpqRHS+H2SxIkBQC5UmEocoLsdNoNQwhBXnwgCkj9IADzg8oX5k9Q8a8/VVqppS700J/Um5srxt2P9GJjRcPu7bc0D9xY0ZRNXd/mOGEOmRve3l7ndMpVcQG2V6RlATUEnKu6CPXKdvwjuLAd7bWwdNKR0ttPgE9oY2PGpuXVHli/TKnf1S44p90Lp47bCdsOpyj34nhuxwEP6DxXm/sqjFxXQN/3kfWBlrI2AzjhluHhgE8OAz+Y+A660nO0pldU2a/DvHVAFJKGeUQeMJYF5ZgRTpIsYcurQUutqyTR9BtRVQLxA4ZrenTdD8K0AAAAAElFTkSuQmCC24",
+      "extensions": [
+        "10 days ago",
+        "₹41,667–₹83,333 a month",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/data-analyst-marketing-analyst-fintech-cloud-noida--t7xk-856163810",
+      "job_title": "Data Analyst ( Marketing Analyst)",
+      "description": "About the Role\nWe are looking for a Marketing Analyst to join our marketing & lead analytics team at Fintech Cloud.\nThe role involves validating and analyzing marketing leads, tracking lead-to-disbursal funnels, and reviewing CIBIL/credit bureau reports to assess lead quality across our multi-brand lending portfolio. You will work closely with the Marketing, Credit, and Data Engineering teams to improve lead quality and conversion.\n\n\nMandatory Requirements\n\n2-3 years of minimum hands-on experience as a Marketing Analyst / Data Analyst.\nPrior experience working in a fintech, NBFC, or lending environment is a must.\nStrong proficiency in SQL complex joins, window functions, query optimization on large datasets.\nStrong proficiency in Python Pandas, NumPy, and standard data manipulation/reporting workflows.\nAdvanced Excel pivot tables, VLOOKUP/INDEX-MATCH, array formulas.\n\nLead Analytics & Domain Skills\n\nHands-on experience reading and interpreting CIBIL / credit bureau reports to assess lead/applicant quality.\nStrong experience with validation of leads identifying duplicate, fraudulent, or low-quality leads before they enter the funnel.\nUnderstanding of the lead-to-disbursal funnel — source-wise, brand-wise, and stage-wise conversion tracking.\nAbility to build source-wise performance reports comparing marketing spend against lead quality and conversion.\nFamiliarity with Metabase or similar BI tools for lead funnel dashboards is a plus.\nWorking knowledge of GCP/BigQuery for querying large-scale lead and application data is a plus.\nStrong attention to detail and ability to spot anomalies/patterns across large volumes of lead data.\n\nKey Responsibilities\n\nValidate incoming leads daily — check CIBIL reports, flag duplicates/fraud, and route quality leads to the sales/credit funnel.\n\nTrack lead-to-disbursal conversion across brands, sources, and campaigns.\n\nBuild and maintain lead funnel and source-performance dashboards in Excel/Metabase.\n\nWrite SQL queries to pull, clean, and analyze lead and application data at scale.\n\nShare regular insights with the Marketing team on lead quality trends and campaign ROI.\n\nCoordinate with Credit/Risk teams on rejection reasons and feedback loops to improve lead sourcing.\n\n\nGood to Have\n\nExposure to Power BI or similar visualization tools.\nUnderstanding of RBI NPA/DPD bucketing norms and basic credit risk concepts.\nPrior experience in a startup or fast-paced lending/NBFC environment.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-marketing-analyst-fintech-cloud-noida--t7xk-856163810?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/senior-data-analyst-i-metlife-inupnoida-5-to-10-years-experience-73ebaae6-ef33-4f8b-b10c-9fef81657a24?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/s-p-global-senior-data-analyst-i-noida-4-to-10-years-31316?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKCBNYXJrZXRpbmcgQW5hbHlzdCkiLCJjb21wYW55X25hbWUiOiJGaW50ZWNoIENsb3VkIiwiaHRpZG9jaWQiOiJ2T3ZqNHFIOTF1MDdZcHA0QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlRtOXBaR0VzVlhSMFlYSWdVSEpoWkdWemFDeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNYaHlUalJtWjNRMFVsOHlSM1EzZVV0dWFWVlVObU0zUlVSUE4wNVFjMGgxZVhORmNuZGFWbVYwY0Y5SlpWUTViMTlXWm5ocFpEWkNSWGxSTkhkZmFsa3lRWFpRT0VoRVNURkRSWGhTYVV4Q2VWaFNlWG8zWlhGSWMxZzVTMFUzZUZwWFdtaHZaMDlXWXpSSFUxWktZVWhLU21kWVpYaE1iMVpNTjNRM2FtVjZRVWx6TXprU0YzbzFla2RoZG5GWFNFeFhWVFZQVFZBNFpXbHliVUYzR2lKQlJITnlPV1pUYlZCSmREbHljRTFWWTNZM2N6WXlWa1UyYjBOM2NHOVRhekpCIiwiZmN2IjoiMyIsImZjX2lkIjoidk92ajRxSDkxdTA3WXBwNEFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTVEZ3Tm5obWRFUlpTMk5sWkU5blEwVmpjR2MzYmxacWRVTlJTRnBUVjJvd1J6RTVVWFJ0VVVKTlYwMU5hR2RVUTNwQldHdGxUMFE1ZWpSZlJqWldVWFZ3TldOcFlUaEZNak5IUkRsaWFHVk1TRjl0T1hsU1IwMDRVV1ZKVnpoUWMwbFpjemRUU1dObmFVTlhTa2hGVG5oMVpuSkxNMUpJWTNSM2EyOW5VSFJ2UzBaT2ExRmZOSEpPTURGaFFtWldUV0YxV2w5WlYycFlOVjlyVWtwRFMwbGFOVUZCTVZoTWFFbDZTMDlMWWpCRlREazBVbG8xUkRrMGNWRnBUMEpzVkVwdVprOUZhVlJzWjJrMGRrcElXWEJmT1ZoalRXUXlXRVZGTVRGbVlXaHlUVlpNZHpSVFpHVkxjMWRTY0hRMlpsODRNV0pIYkZSS2NYSlBORmwwVW5WeFh6WjViRTE1WldadmFGQkZNMEZOVGpsRFNERXpiWFV6TTA1eVgwWjRVbGN5YjB4dWNIVlpZME5tUjNNd1NsVnVVRGxPTmpkRldrVkpSbU5ETTJZemVqbENWbGxXUW14TVVrOVNOalZuUjFWMFJVTlNlRVZ3YkRad1R6QmlXRmhIYlhCblptVTRNbU4wUzNscE1sSmZWM001VjBVNVpXVnVSaTFoYVVGSGFuZEdaRlpmYUU4d2VHSmpZMWxSTlZadlFteENlRzVUZDNWYVpGTkxWV3hXTlVGdllrTnhhVFpvYldaWWVHVm9lakZ3ZWtSbWVWUkhZVTkxZVRaak1Va3plbmRsVW5WMldtaEZTMlkzTkV4R2QzZ3hORVIxUlVWQlUzY1NGM28xZWtkaGRuRlhTRXhYVlRWUFRWQTRaV2x5YlVGM0dpSkJSSE55T1daU1VFbHFRVVJ4UWxOUWQwVjJSMGR1TVZkSVdHRkJWazlKWjFabiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTVEZ3Tm5obWRFUlpTMk5sWkU5blEwVmpjR2MzYmxacWRVTlJTRnBUVjJvd1J6RTVVWFJ0VVVKTlYwMU5hR2RVUTNwQldHdGxUMFE1ZWpSZlJqWldVWFZ3TldOcFlUaEZNak5IUkRsaWFHVk1TRjl0T1hsU1IwMDRVV1ZKVnpoUWMwbFpjemRUU1dObmFVTlhTa2hGVG5oMVpuSkxNMUpJWTNSM2EyOW5VSFJ2UzBaT2ExRmZOSEpPTURGaFFtWldUV0YxV2w5WlYycFlOVjlyVWtwRFMwbGFOVUZCTVZoTWFFbDZTMDlMWWpCRlREazBVbG8xUkRrMGNWRnBUMEpzVkVwdVprOUZhVlJzWjJrMGRrcElXWEJmT1ZoalRXUXlXRVZGTVRGbVlXaHlUVlpNZHpSVFpHVkxjMWRTY0hRMlpsODRNV0pIYkZSS2NYSlBORmwwVW5WeFh6WjViRTE1WldadmFGQkZNMEZOVGpsRFNERXpiWFV6TTA1eVgwWjRVbGN5YjB4dWNIVlpZME5tUjNNd1NsVnVVRGxPTmpkRldrVkpSbU5ETTJZemVqbENWbGxXUW14TVVrOVNOalZuUjFWMFJVTlNlRVZ3YkRad1R6QmlXRmhIYlhCblptVTRNbU4wUzNscE1sSmZWM001VjBVNVpXVnVSaTFoYVVGSGFuZEdaRlpmYUU4d2VHSmpZMWxSTlZadlFteENlRzVUZDNWYVpGTkxWV3hXTlVGdllrTnhhVFpvYldaWWVHVm9lakZ3ZWtSbWVWUkhZVTkxZVRaak1Va3plbmRsVW5WMldtaEZTMlkzTkV4R2QzZ3hORVIxUlVWQlUzY1NGM28xZWtkaGRuRlhTRXhYVlRWUFRWQTRaV2x5YlVGM0dpSkJSSE55T1daU1VFbHFRVVJ4UWxOUWQwVjJSMGR1TVZkSVdHRkJWazlKWjFabiIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst"
+  }
+}

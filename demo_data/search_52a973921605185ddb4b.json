@@ -1,0 +1,491 @@
+{
+  "search_metadata": {
+    "id": "6ac6a28cdbb9ff879c8ae9d1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5-uk4l5iT0EBJW12Zg58NC31W8tQUXlowSq0OfCakBQ/6ac6a28cdbb9ff879c8ae9d1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/5-uk4l5iT0EBJW12Zg58NC31W8tQUXlowSq0OfCakBQ/6ac6a28cdbb9ff879c8ae9d1.md",
+    "created_at": "2026-10-07 19:50:36 UTC",
+    "processed_at": "2026-10-07 19:50:36 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=SQL+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/5-uk4l5iT0EBJW12Zg58NC31W8tQUXlowSq0OfCakBQ/6ac6a28cdbb9ff879c8ae9d1.html",
+    "total_time_taken": 2.53
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "SQL full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 7079130,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "SQL Course for Beginners [Full Course]",
+      "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7S_tz1z_5bA",
+      "video_id": "7S_tz1z_5bA",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 15380490,
+      "length": "3:10:19",
+      "description": "Master SQL – an essential skill for AI, machine learning, data analysis, and more! This beginner-friendly course teaches you ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7S_tz1z_5bA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlohTYZhQDSWG32v6EfxEUlv6wqA",
+        "rich": "https://i.ytimg.com/an_webp/7S_tz1z_5bA/mqdefault_6s.webp?du=3000&sqp=CICDmtYG&rs=AOn4CLB-duB0weXSDR3je4H5ufq1uMgWYA"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "SQL Tutorial - Full Database Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HXV3zeQKqGY",
+      "video_id": "HXV3zeQKqGY",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 21061707,
+      "length": "4:20:39",
+      "description": "In this course, we'll be looking at database management basics and SQL using the MySQL RDBMS. The course is designed for ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HXV3zeQKqGY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqd2jbSFzyQDvmezQaU6AtvYTDZw"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "SQL Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=h0nxCDiD-zg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=h0nxCDiD-zg",
+      "video_id": "h0nxCDiD-zg",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 3074613,
+      "length": "44:57",
+      "description": "In this step-by-step tutorial, learn how you can write your own SQL queries. You don't need any prior knowledge and we're going ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/h0nxCDiD-zg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3h64eTrKUvpPstXWx1wnWJfnxbQ",
+        "rich": "https://i.ytimg.com/an_webp/h0nxCDiD-zg/mqdefault_6s.webp?du=3000&sqp=CJjCmtYG&rs=AOn4CLBP_4252JocRw6Bte1xFeTtDR4WgQ"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero",
+      "link": "https://www.youtube.com/watch?v=SSKVgrwhzus",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=SSKVgrwhzus",
+      "video_id": "SSKVgrwhzus",
+      "channel": {
+        "name": "Data with Baraa",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 6009675,
+      "length": "29:48:28",
+      "description": "I've spent 2 years creating this *high-quality SQL course* so you can master SQL for data analysis & data engineering. The best ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SSKVgrwhzus/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHJYou_jXAxF3EoXjfHupX5BgUqQ",
+        "rich": "https://i.ytimg.com/an_webp/SSKVgrwhzus/mqdefault_6s.webp?du=3000&sqp=CLSzmtYG&rs=AOn4CLA2uuXOtMHA5BnZ3ZRiPUOHCl_wUw"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "you need to learn SQL RIGHT NOW!! (SQL Tutorial for Beginners)",
+      "link": "https://www.youtube.com/watch?v=xiUTqnI6xk8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xiUTqnI6xk8",
+      "video_id": "xiUTqnI6xk8",
+      "channel": {
+        "name": "NetworkChuck",
+        "link": "https://www.youtube.com/@NetworkChuck",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k01-_GpvVZW8w4ULtaQaa55ls8aMf2a5dXhIe56pjMvG0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 2068359,
+      "length": "24:25",
+      "description": "Keep your database of accounts and passwords secure by using DashLane! Sign up now at ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xiUTqnI6xk8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfuDrZdE2WYwR_DbZlXt84XnW3Fw",
+        "rich": "https://i.ytimg.com/an_webp/xiUTqnI6xk8/mqdefault_6s.webp?du=3000&sqp=CNOzmtYG&rs=AOn4CLDtnbI6bi7UyIvhWzkrNI-1b8vPHA"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Learn SQL Beginner to Advanced in Under 4 Hours",
+      "link": "https://www.youtube.com/watch?v=OT1RErkfLNQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OT1RErkfLNQ",
+      "video_id": "OT1RErkfLNQ",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1979262,
+      "length": "4:04:58",
+      "description": "Take my Full MySQL Course Here: https://www.analystbuilder.com/courses/mysql-for-data-analytics Download MySQL: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OT1RErkfLNQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAH8B8UTliq-LT2JdzMw_AvE9koA",
+        "rich": "https://i.ytimg.com/an_webp/OT1RErkfLNQ/mqdefault_6s.webp?du=3000&sqp=CMinmtYG&rs=AOn4CLDrk9IwnjWnJnC8Fur61osuB1YpUQ"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "SQL Full Course for free 🐬",
+      "link": "https://www.youtube.com/watch?v=5OdVJbNCSso",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5OdVJbNCSso",
+      "video_id": "5OdVJbNCSso",
+      "channel": {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 4016607,
+      "length": "3:00:00",
+      "description": "MySQL #SQL #tutorial MySQL SQL tutorial for beginners ⭐ TIME STAMPS ⭐ #1 00:00:00 MySQL intro + installation 00:02:22 ...",
+      "extensions": [
+        "Fundraiser"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5OdVJbNCSso/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASXTxqwLzZenvXRaq5CUGQFovjZQ",
+        "rich": "https://i.ytimg.com/an_webp/5OdVJbNCSso/mqdefault_6s.webp?du=3000&sqp=CIrCmtYG&rs=AOn4CLCREiBQWBfrsd78vyi880XL1eLzrg"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "SQL Full Course In 10 Hours | SQL Tutorial | Complete SQL Course For Beginners | Edureka",
+      "link": "https://www.youtube.com/watch?v=q_JsgpiuY98",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=q_JsgpiuY98",
+      "video_id": "q_JsgpiuY98",
+      "channel": {
+        "name": "edureka!",
+        "link": "https://www.youtube.com/@edurekaIN",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/fkoY1WFQrc9eK6FwzrZVi-hZFBdpCUfSYPy6k9VSVP4H1Cqo_0pwIgpgOn-uCRgFPlz_AtGGog=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 3y ago",
+      "views": 1593393,
+      "length": "9:59:23",
+      "description": "Edureka SQL Course Training (Use Code \"YOUTUBE20\"): ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/q_JsgpiuY98/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASC3U8c-9CoqXhCPljBYfm_w3n-A",
+        "rich": "https://i.ytimg.com/an_webp/q_JsgpiuY98/mqdefault_6s.webp?du=3000&sqp=CMOrmtYG&rs=AOn4CLAIX3sK9ITpLViA-4XGuwglRkyw7Q"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "SQL Full Course in Telugu 2025🤩🤩 | Part 1 | With Free Notes📝📝 and Practice Questions",
+      "link": "https://www.youtube.com/watch?v=riPF4ZBfzYA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=riPF4ZBfzYA",
+      "video_id": "riPF4ZBfzYA",
+      "channel": {
+        "name": "Tech Jashwanth",
+        "link": "https://www.youtube.com/@TechJashwanth",
+        "thumbnail": "https://yt3.ggpht.com/27sar-8LfOdhsOSihQlM4VqC2DjUVcCB5oAh46msb8Hn6u2tE6H2U2eu_sKr-bslVZaNyKyIHA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 16190,
+      "length": "1:25:05",
+      "description": "Are you new to SQL and MySQL? In this video, we'll cover everything from What is a Database? to Creating Tables, Joins, ...",
+      "extensions": [
+        "Beginner",
+        "Lecture"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/riPF4ZBfzYA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxu55vqtU0oYx_8Occ_HEBy92W9w",
+        "rich": "https://i.ytimg.com/an_webp/riPF4ZBfzYA/mqdefault_6s.webp?du=3000&sqp=COC4mtYG&rs=AOn4CLDRX1_fgjnU1yqmTtftIqtmBsogwQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "SQL Tutorial for Beginners [Ultimate Full Course] - From Zero to HERO",
+      "link": "https://www.youtube.com/watch?v=NTgejLheGeU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NTgejLheGeU",
+      "video_id": "NTgejLheGeU",
+      "channel": {
+        "name": "Data with Baraa",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 256220,
+      "length": "4:04:26",
+      "description": "In this 4-Hour SQL Course for Beginners, you'll learn everything you need to get started with SQL! Want More? - *Free ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/NTgejLheGeU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCg0xbXssPuTBIKpaijX8N_rXI3WA",
+        "rich": "https://i.ytimg.com/an_webp/NTgejLheGeU/mqdefault_6s.webp?du=3000&sqp=CMibmtYG&rs=AOn4CLDl0IAPndo_9VDhg6ZTgYFIVOKsHg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "SQL for Data Analytics - Learn SQL in 4 Hours",
+      "link": "https://www.youtube.com/watch?v=7mz73uXD9DA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7mz73uXD9DA",
+      "video_id": "7mz73uXD9DA",
+      "channel": {
+        "name": "Luke Barousse",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1803519,
+      "length": "4:08:41",
+      "description": "FREE Course Databases & Links https://lukebarousse.com/sql Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7mz73uXD9DA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVnhKf5YBLmq8cb8pPmFq2PPxS7g",
+        "rich": "https://i.ytimg.com/an_webp/7mz73uXD9DA/mqdefault_6s.webp?du=3000&sqp=CMCwmtYG&rs=AOn4CLD1TfrBz3MpZu6Ch5HhPKHBusyZMQ"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "SQL Crash Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=ULdVndYtdYs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ULdVndYtdYs",
+      "video_id": "ULdVndYtdYs",
+      "channel": {
+        "name": "Maven Analytics",
+        "link": "https://www.youtube.com/@MavenAnalytics",
+        "thumbnail": "https://yt3.ggpht.com/s8DLnIjg5cO39mPfZTNbtc4y1h1miX2V8ZqUB4gvakASUTdo_qFNcCAo5bCHJWL72O6vk0J-ww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 168452,
+      "length": "45:52",
+      "description": "You'll find SQL in almost every company, so demand for data professionals with SQL skills is through the roof, and that's not ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ULdVndYtdYs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHfzbQ2qDNpi7QXGZci2_6Fez-9Q",
+        "rich": "https://i.ytimg.com/an_webp/ULdVndYtdYs/mqdefault_6s.webp?du=3000&sqp=CLuwmtYG&rs=AOn4CLCQ8vb_9d3GqYas22yQbuihUM0YFQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "SQL for Data Engineering -  Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=UjhFbq4uU2Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UjhFbq4uU2Y",
+      "video_id": "UjhFbq4uU2Y",
+      "channel": {
+        "name": "Luke Barousse",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 168590,
+      "length": "14:45:12",
+      "description": "Power your data pipelines with SerpApi https://serpapi.link/luke Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/UjhFbq4uU2Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX5Sn82Ck2ymuZkspt3a6ZE-sJLw",
+        "rich": "https://i.ytimg.com/an_webp/UjhFbq4uU2Y/mqdefault_6s.webp?du=3000&sqp=CICnmtYG&rs=AOn4CLBv6s8fkqnF0dPMx8vbT_YmC2zk5w"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "SQL Full Course | SQL Tutorial For Beginners | Learn SQL (Structured Query Language) | Edureka",
+      "link": "https://www.youtube.com/watch?v=BPHAr4QGGVE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BPHAr4QGGVE",
+      "video_id": "BPHAr4QGGVE",
+      "channel": {
+        "name": "edureka!",
+        "link": "https://www.youtube.com/@edurekaIN",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/fkoY1WFQrc9eK6FwzrZVi-hZFBdpCUfSYPy6k9VSVP4H1Cqo_0pwIgpgOn-uCRgFPlz_AtGGog=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 2423564,
+      "length": "4:07:51",
+      "description": "Edureka SQL Course Training (Use Code \"YOUTUBE20\"): https://www.edureka.co/microsoft-sql-server-certification-training ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BPHAr4QGGVE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCCL7rAP-doQRXNXDllpXZ6ezHqg"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "SQL Full Course | SQL For Beginners | Mysql Full Course | SQL Training | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=AA7i2GcTGwU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=AA7i2GcTGwU",
+      "video_id": "AA7i2GcTGwU",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 5y ago",
+      "views": 2146775,
+      "length": "8:02:36",
+      "description": "\"️  IBM - Data Analyst ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/AA7i2GcTGwU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaU7jOTlvYw3zNDMWhFyiVoZ5isw",
+        "rich": "https://i.ytimg.com/an_webp/AA7i2GcTGwU/mqdefault_6s.webp?du=3000&sqp=CPaqmtYG&rs=AOn4CLBEerTKOSiNsGZLoAHSMCyGUuKmOQ"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Learn Basic SQL in 3.5 hrs | Complete SQL Beginner Course",
+      "link": "https://www.youtube.com/watch?v=S86phsLFW1E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=S86phsLFW1E",
+      "video_id": "S86phsLFW1E",
+      "channel": {
+        "name": "techTFQ",
+        "link": "https://www.youtube.com/@techTFQ",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/N-CmlF3xnNpnOq5iVaEiCb2F6vSjFoUFITTo6p0Cden4SRZSe9gyF2y4GL9CIKF3eSmB16fkKQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 230243,
+      "length": "3:35:21",
+      "description": "Get a 30-day free trial of Brilliant using the link: https://brilliant.org/techTFQ/ This video contains a full SQL course for beginners.",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/S86phsLFW1E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc6cAIwdOfJvwmUZ5et3XjF27qPQ",
+        "rich": "https://i.ytimg.com/an_webp/S86phsLFW1E/mqdefault_6s.webp?du=3000&sqp=COWamtYG&rs=AOn4CLA7An-w5vYm0OVHZzFkdjSrLJ1Iaw"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Harvard CS50’s Intro to Databases with SQL – Full University Course",
+      "link": "https://www.youtube.com/watch?v=WXk7yDqsKxs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WXk7yDqsKxs",
+      "video_id": "WXk7yDqsKxs",
+      "channel": {
+        "name": "freeCodeCamp.org and CS50",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 483868,
+      "length": "11:08:49",
+      "description": "This is CS50's introduction to databases using a language called SQL. You'll learn how to create, read, update, and delete data ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WXk7yDqsKxs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4y67sEnLXsTUxNVIMyXxl6mS_UQ",
+        "rich": "https://i.ytimg.com/an_webp/WXk7yDqsKxs/mqdefault_6s.webp?du=3000&sqp=CIf4mdYG&rs=AOn4CLAEc224HLPw1mOZRPyvbuopJnzBEA"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "SQL For Beginners (Full Course) in Telugu [PART 1] || Kaarthikforu || Zero to Hero",
+      "link": "https://www.youtube.com/watch?v=M0f-7N1iCt8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=M0f-7N1iCt8",
+      "video_id": "M0f-7N1iCt8",
+      "channel": {
+        "name": "Kaarthik For U",
+        "link": "https://www.youtube.com/@KaarthikForU",
+        "thumbnail": "https://yt3.ggpht.com/0hXHW7IZWAlaRKtsTL6iF-MkaPltd-hQgcGNAsZlnyaK_1hnpmS78kSobgWeg3BEGtihfGhltQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 33481,
+      "length": "38:14",
+      "description": "SQL Full Course for Beginners | Part 1 | SQL Basics from Scratch (Telugu) In this video, you will learn SQL from scratch, starting ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/M0f-7N1iCt8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu5RtWfo_gcFbnBEze1bcvg3Ifrg",
+        "rich": "https://i.ytimg.com/an_webp/M0f-7N1iCt8/mqdefault_6s.webp?du=3000&sqp=CJKZmtYG&rs=AOn4CLCfWLxOd6RubwU66l-Wyw0QylNEJw"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "SQL Full Course 2025 | Complete SQL Course For Beginners | Learn SQL in 11 Hours | Intellipaat",
+      "link": "https://www.youtube.com/watch?v=R2fQ5-PMju0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=R2fQ5-PMju0",
+      "video_id": "R2fQ5-PMju0",
+      "channel": {
+        "name": "Intellipaat",
+        "link": "https://www.youtube.com/@Intellipaat",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0UrFW02_vRoTxrCcv4H6vSDXFwUPcafCf3oXIA6yMFUsVtIvE8EZdS2UMzbdscI7ifON_U7DHQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 1y ago",
+      "views": 434846,
+      "length": "10:21:29",
+      "description": "Checkout Intellipaat's SQL course: https://intellipaat.com/microsoft-sql-server-certification-training/ #SQLFullCourse #SQLCourse ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/R2fQ5-PMju0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYHkzLx4JzcHu0d-SCWCCFKsOlnQ",
+        "rich": "https://i.ytimg.com/an_webp/R2fQ5-PMju0/mqdefault_6s.webp?du=3000&sqp=CM65mtYG&rs=AOn4CLAZlgOhSs3EUpXGydmb5Byu1gzbdA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Learn SQL in 1 Hour - SQL Basics for Beginners",
+      "link": "https://www.youtube.com/watch?v=9Pzj7Aj25lw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9Pzj7Aj25lw",
+      "video_id": "9Pzj7Aj25lw",
+      "channel": {
+        "name": "Joey Blue",
+        "link": "https://www.youtube.com/@joeyblue1",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nbkbW7-ku6MvDxsiHWMu8khjnGXXuFvMZDLCtktlOcNIY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 3940363,
+      "length": "1:02:23",
+      "description": "A crash course in SQL. How to write SQL from scratch in 1 hour. In this video I show you how to write SQL using SQL Server and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9Pzj7Aj25lw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp6KCxUO6kEOuxuDIYOrzNdRrFtg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=SQL+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=SQL%20full%20course%20for%20beginners&sp=EgIYAkgUggELN1NfdHoxel81YkGCAQtIWFYzemVRS3FHWYIBC2gwbnhDRGlELXpnggELU1NLVmdyd2h6dXOCAQt4aVVUcW5JNnhrOIIBC09UMVJFcmtmTE5RggELNU9kVkpiTkNTc2-CAQtxX0pzZ3BpdVk5OIIBC3JpUEY0WkJmellBggELTlRnZWpMaGVHZVWCAQs3bXo3M3VYRDlEQYIBC1VMZFZuZFl0ZFlzggELVWpoRmJxNHVVMlmCAQtCUEhBcjRRR0dWRYIBC0FBN2kyR2NUR3dVggELUzg2cGhzTEZXMUWCAQtXWGs3eURxc0t4c4IBC00wZi03TjFpQ3Q4ggELUjJmUTUtUE1qdTCCAQs5UHpqN0FqMjVsd7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELN1NfdHoxel81YkGCAQtIWFYzemVRS3FHWYIBC2gwbnhDRGlELXpnggELU1NLVmdyd2h6dXOCAQt4aVVUcW5JNnhrOIIBC09UMVJFcmtmTE5RggELNU9kVkpiTkNTc2-CAQtxX0pzZ3BpdVk5OIIBC3JpUEY0WkJmellBggELTlRnZWpMaGVHZVWCAQs3bXo3M3VYRDlEQYIBC1VMZFZuZFl0ZFlzggELVWpoRmJxNHVVMlmCAQtCUEhBcjRRR0dWRYIBC0FBN2kyR2NUR3dVggELUzg2cGhzTEZXMUWCAQtXWGs3eURxc0t4c4IBC00wZi03TjFpQ3Q4ggELUjJmUTUtUE1qdTCCAQs5UHpqN0FqMjVsd7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SQL+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SQL+full+course+for+beginners&sp=EgIYAkgUggELN1NfdHoxel81YkGCAQtIWFYzemVRS3FHWYIBC2gwbnhDRGlELXpnggELU1NLVmdyd2h6dXOCAQt4aVVUcW5JNnhrOIIBC09UMVJFcmtmTE5RggELNU9kVkpiTkNTc2-CAQtxX0pzZ3BpdVk5OIIBC3JpUEY0WkJmellBggELTlRnZWpMaGVHZVWCAQs3bXo3M3VYRDlEQYIBC1VMZFZuZFl0ZFlzggELVWpoRmJxNHVVMlmCAQtCUEhBcjRRR0dWRYIBC0FBN2kyR2NUR3dVggELUzg2cGhzTEZXMUWCAQtXWGs3eURxc0t4c4IBC00wZi03TjFpQ3Q4ggELUjJmUTUtUE1qdTCCAQs5UHpqN0FqMjVsd7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELN1NfdHoxel81YkGCAQtIWFYzemVRS3FHWYIBC2gwbnhDRGlELXpnggELU1NLVmdyd2h6dXOCAQt4aVVUcW5JNnhrOIIBC09UMVJFcmtmTE5RggELNU9kVkpiTkNTc2-CAQtxX0pzZ3BpdVk5OIIBC3JpUEY0WkJmellBggELTlRnZWpMaGVHZVWCAQs3bXo3M3VYRDlEQYIBC1VMZFZuZFl0ZFlzggELVWpoRmJxNHVVMlmCAQtCUEhBcjRRR0dWRYIBC0FBN2kyR2NUR3dVggELUzg2cGhzTEZXMUWCAQtXWGs3eURxc0t4c4IBC00wZi03TjFpQ3Q4ggELUjJmUTUtUE1qdTCCAQs5UHpqN0FqMjVsd7IBBgoECBQQAg%3D%3D"
+  }
+}

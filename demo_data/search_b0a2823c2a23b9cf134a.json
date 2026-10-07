@@ -1,0 +1,495 @@
+{
+  "search_metadata": {
+    "id": "6ac6b1411290d9dd4f1d2ca1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/yPaMZ2Dv2MTwU-wghBHHa3fxSGT90D7m9gLzKZPoyyw/6ac6b1411290d9dd4f1d2ca1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/yPaMZ2Dv2MTwU-wghBHHa3fxSGT90D7m9gLzKZPoyyw/6ac6b1411290d9dd4f1d2ca1.md",
+    "created_at": "2026-10-07 20:53:21 UTC",
+    "processed_at": "2026-10-07 20:53:21 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Junior+Data+Analyst&uule=w+CAIQICIZTm9pZGEsVXR0YXIgUHJhZGVzaCxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/yPaMZ2Dv2MTwU-wghBHHa3fxSGT90D7m9gLzKZPoyyw/6ac6b1411290d9dd4f1d2ca1.html",
+    "total_time_taken": 4.19
+  },
+  "search_parameters": {
+    "q": "Junior Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Noida, India",
+    "location_used": "Noida,Uttar Pradesh,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHnjL-cLBgWFh2Rjf_gduiVKiE54Z95kiNRN7uRfZZI8TAyI-Ne8-w4I8q9bxQpCtk6EVqdY5q9I4I3QjUntBLeMxkfzdHq75TY-PEohv_Rgq5KXBxGRkVIPMj-HszomJwOgUsr8y1QyHnRL23dTbxCcy-2s",
+        "q": "Junior Data Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHnjL-cLBgWFh2Rjf_gduiVKiE54Z95kiNRN7uRfZZI8TAyI-Ne8-w4I8q9bxQpCtk6EVqdY5q9I4I3QjUntBLeMxkfzdHq75TY-PEohv_Rgq5KXBxGRkVIPMj-HszomJwOgUsr8y1QyHnRL23dTbxCcy-2s&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHnjL-cLBgWFh2Rjf_gduiVKiE54Z95kiNRN7uRfZZI8TAyI-Ne8-w4I8q9bxQpCtk6EVqdY5q9I4I3QjUntBLeMxkfzdHq75TY-PEohv_Rgq5KXBxGRkVIPMj-HszomJwOgUsr8y1QyHnRL23dTbxCcy-2s"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg",
+            "q": "Junior Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c",
+            "q": "Junior Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M",
+            "q": "Junior Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg",
+            "q": "Junior Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg",
+            "q": "Junior Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c",
+            "q": "Junior Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M",
+            "q": "Junior Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg",
+            "q": "Junior Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw",
+            "q": "Junior Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew",
+            "q": "Junior Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ",
+            "q": "Junior Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ",
+            "q": "Junior Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw",
+            "q": "Junior Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew",
+            "q": "Junior Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ",
+            "q": "Junior Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ",
+            "q": "Junior Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsIknshiPnb-bfgl6UAA4ZCTW7l0w:1791406405049&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ&udm=8&sa=X&ved=2ahUKEwjNgK_z5KiXAxWqJe8CHdFyKGgQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Junior Data Analyst - Agribusiness Virtual Intern",
+      "company_name": "YuvaIntern",
+      "location": "Noida, Uttar Pradesh",
+      "via": "YuvaIntern",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=mYCA5JkoFxItJr2oAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3NMQrCQBBAUWw9gtVgKZoVwUargCCmEBsFqzBJluzKOhN2ZiV23sFzeClPooLN7x5_-BoMiyKR5wgbVIScMNxFYQZ5G32VxJMVgZOPmjDAjtRGgvfjCReuQCzG2gETbJnbYEdrp9rJyhiRkLWiqL7Oar4aJltxb75IfinFYbRdQLXlYjnvs47ayficbvg_eII9-wancFTFCIeIjRX3AUieBJOwAAAA&shmds=v1_ARwrE21mIBALhBAAPHi0sHN0DOJrySwhPuF4rgHyYr_Evlj1fA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=mYCA5JkoFxItJr2oAAAAAA%3D%3D",
+      "extensions": [
+        "Internship"
+      ],
+      "source_link": "https://yuvaintern.com/internship/junior-data-analyst-agribusiness-virtual-intern-noida-834-internship-in-noida",
+      "job_title": "Junior Data Analyst - Agribusiness Virtual Intern",
+      "description": "As a Junior Data Analyst - Agribusiness Virtual Intern, you will be responsible for analyzing data related to the agriculture and agribusiness sector using Tableau software. Your tasks will include interpreting data, creating visualizations, and providing insights to support decision-making processes within the industry.",
+      "apply_options": [
+        {
+          "title": "YuvaIntern",
+          "link": "https://yuvaintern.com/internship/junior-data-analyst-agribusiness-virtual-intern-noida-834-internship-in-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/yes-madam-data-analyst-sql-1653447?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/rjdp/1681606528003536770?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/optum/job/senior-data-engineering-analyst-sql-dba-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-python-power-bi-sql-innodata-inc-noida--talent-638480058780093664?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/optum-data-analyst-ssis-power-bi-sql-noida-uttar-pradesh-0-to-1-years-1092847?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-5549-0cf79a58f4546222721fc186eaf73018?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/339649612/data-analyst-sql-python-tableau-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IC0gQWdyaWJ1c2luZXNzIFZpcnR1YWwgSW50ZXJuIiwiY29tcGFueV9uYW1lIjoiWXV2YUludGVybiIsImh0aWRvY2lkIjoibVlDQTVKa29GeEl0SnIyb0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTblZIZEc5WVFrZE5hWGh4U0dSU1F6QlBNV2hLUmxWSVZUbFBWMHg2UjFGbmVWcEJZelZqWDJRM1UwOTJhR04wTlU5M1RIbE5WMlp3TnpsR1V6bFNaWHBmV0hwYWJHSm9Za0YwUlVOUWNWcElWVFZxVnpRd1JVcDFSM1JtVnpKdmFXOUhZWFpITjFGUmExODBWRWxJZWxGc1YxWjVjbGhCZGpSak56RlJZMnhvTm5WVk9IWVNGMUppU0VkaGJ6TkxRWEZ5VEhaTlkxQXdaVmRvZDFGWkdpSkJSSE55T1daUlNWcE1hbmxtYVhNeFUwSk9TVFUyVVZCc2REUXRVMVZmWkROQiIsImZjdiI6IjMiLCJmY19pZCI6Im1ZQ0E1SmtvRnhJdEpyMm9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company_name": "softcrayons it education",
+      "location": "Noida, Uttar Pradesh",
+      "via": "Foundit",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=7vJ5asS04ZccCBF_AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBBAUWw9gtXUErJBsNFKEAQLsbEOk82YXVlnws4Eks47WHs5T2Jsfvff8rNYFueBo2Q4oiEcGNOkBt_XGx7SgBJmH0AYTiJdotU-mPW6c041lZ0aWvSll6cTpkZGN0_6T60BM_UJjerNthrLnrt1pXI3n3ESVogG1A5-BmY9MlwktljAzQwzXDO2pOEH-MBTj6AAAAA&shmds=v1_ARwrE21RI5oPnosc_gbi61GEqkiFCbCrsFrORxj6QrqK_AHdCw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=7vJ5asS04ZccCBF_AAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.foundit.in/job/junior-data-analyst-softcrayons-it-education-noida-69183438",
+      "job_title": "Junior Data Analyst",
+      "description": "FULLTIME\n\nJunior Data Analyst\n\nRezo\n\n23 hrs ago\n\nJunior Data Analyst\n\nRezo\n\nData Science / Analytics\n\nFULLTIME\n\n15000 - 20000\n\n1 - 3 Years\n\nNoida\n\nJob Description\n\nRole Summary We are seeking a detail-oriented Data Analyst to join our team. In this role, you will transform raw data into actionable insights, supporting day-to-day data operations and executive reporting. You will query relational databases, build dynamic dashboards, and perform ad-hoc analyses to answer critical business questions.\n\nProfessional Skills\n\n\n\n data operations business requirements data manipulation power bi relational databases\n\nShare Job\n\nJob Overview\n\nJob TitleJunior Data Analyst\n\nJob TypeFULLTIME\n\nCategoryData Science / Analytics\n\nExperience1 - 3 Years\n\nDegreeMaster\n\nOffered Salary15000 - 20000\n\nLocationNoida\n\nHR Contact\n\n[redacted] Call\n\nNoida\n\nOpen Maps\n\nRelated Jobs\n\nExplore other job opportunities in this category.\n\n21 hrs ago\n\nDATA SCIENCE INTERN\n\nMedtek Dot Ai\n\nData Science / Analytics\n\nFULLTIME\n\n15,000 - 20,000\n\nNoida\n\nJob Details\n\n21 hrs ago\n\nData Science Associate\n\nDeals4loans\n\nData Science / Analytics\n\nFULLTIME\n\n15,000 - 25,000\n\nNoida\n\nJob Details\n\n21 hrs ago\n\nExecutive - MIS\n\nArtech\n\nData Science / Analytics\n\nFULLTIME\n\n15,000 - 20,000\n\nNoida\n\nJob Details\n\nSend Us Message",
+      "apply_options": [
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/junior-data-analyst-softcrayons-it-education-noida-69183438?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/junior-data-analyst-rezo-ai-JV_KO0,19_KE20,27.htm?jl=1010267954210&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-data-analyst-entry-level/programmersio/19509941?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-2481610740044518692?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Rezo.zohorecruit.in",
+          "link": "https://rezo.zohorecruit.in/jobs/Careers/150935000007781760/Junior-Data-Analyst?source=Google&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-data-analyst-rezoai-noida--techmap_in_ASL3_Br05M_sFBC1dKroEqDnOL7xcx_v5d3ppGdy12qDp98Db4r3sg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/programmers-io-junior-data-analyst-entry-level-noida-0-to-1-years-604044?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Expertini",
+          "link": "https://noida.in.expertini.com/job/junior-data-analyst-noida-rezoai-637868420902748453/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoic29mdGNyYXlvbnMgaXQgZWR1Y2F0aW9uIiwiaHRpZG9jaWQiOiI3dko1YXNTMDRaY2NDQkZfQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlRtOXBaR0VzVlhSMFlYSWdVSEpoWkdWemFDeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXRjVUVGMwTmw5RWJrbGlXRU5sWVMwdFpHUndVR0pTZEZkamJqVTBVak01YWpKMk9FeFdZbVZQY214NFFqaFlVMlV6U1U1Mk5FdGlhWEZEYUdSZllrTnJNRjk2U2w5R1NqZGlUbXR6V1Vkb2NqQnJZWE5IYzJ4WlVVTTJlRVpPYXpVMFpsTkNiVVZRY2tadFF6RldNRVp2TlcxbWJVSldiVmxaV0hWMFNXczBZWHBvZFc0U0YxSmlTRWRoYnpOTFFYRnlUSFpOWTFBd1pWZG9kMUZaR2lKQlJITnlPV1pTZVdoWFZqQmZlVTFpVDFWRVNWZG1NbmxZWTNKeVpuWmpVVzlCIiwiZmN2IjoiMyIsImZjX2lkIjoiN3ZKNWFzUzA0WmNjQ0JGX0FBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Data Visualization Analyst - Agribusiness Virtual Intern",
+      "company_name": "YuvaIntern",
+      "location": "Noida, Uttar Pradesh",
+      "via": "YuvaIntern",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=GJfnvtLxW9lnPMukAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2NMQrCQBBFsc0RrAZL0UQEG60CgmghNopWYRKXzco6E3YmEq28g8fxNp7EFWx-9d77ybuXHDctOQ6wREU4OGnRuweqY4Kc0N9FYQy5Da5sxZERiVDQSMGa1ASCz_MFFy5BDIaqhuitmK03_UWt2sg8y0R8akVjtEorvmZMpuQui5L8ppAag2k8qimms0mXNmSHg1N7w_-DI9iyO-MI9qoYYBfwbKT-AoiZdp2-AAAA&shmds=v1_ARwrE23PtDfQv4QDHE_c-Vr20s6ObUG44NQwsmrcAp4DzZZK_A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=GJfnvtLxW9lnPMukAAAAAA%3D%3D",
+      "extensions": [
+        "Internship"
+      ],
+      "source_link": "https://yuvaintern.com/internship/junior-data-visualization-analyst-agribusiness-virtual-intern-internship-in-noida",
+      "job_title": "Junior Data Visualization Analyst - Agribusiness Virtual Intern",
+      "description": "The Junior Data Visualization Analyst - Agribusiness Virtual Intern will be responsible for creating interactive and visually appealing data visualizations using Tableau to analyze and present data related to the agribusiness sector. The intern will work closely with the data analytics team to identify key insights and trends that can help drive business decisions.",
+      "apply_options": [
+        {
+          "title": "YuvaIntern",
+          "link": "https://yuvaintern.com/internship/junior-data-visualization-analyst-agribusiness-virtual-intern-internship-in-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst-intern-gopal-pura-mode/creatik-it-solutions/19636597?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/samvardhana-motherson-data-analyst-intern-noida-15x4i3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBWaXN1YWxpemF0aW9uIEFuYWx5c3QgLSBBZ3JpYnVzaW5lc3MgVmlydHVhbCBJbnRlcm4iLCJjb21wYW55X25hbWUiOiJZdXZhSW50ZXJuIiwiaHRpZG9jaWQiOiJHSmZudnRMeFc5bG5QTXVrQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlRtOXBaR0VzVlhSMFlYSWdVSEpoWkdWemFDeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwNTVSMGw1Y1dKc1FUVnRRalF4WlV3emQyRm1hMjF3WTNWbGEwWTRVbkpTWDJadldUTm9NWFZIUWxSa2NGcHhSalZNWmtOU1gwOWtiMnB2YUV4NFowWnFUazlaUVd0WFFraHRlSHBXTlY4eE5qVTNlVFV3TFZZeFdsbERja2hFU0U5bFJXdGlVelJvWTFwTmIxYzVVamsxYzJkbVZrTXpVVlUxZW1oVlFWTkJPRkZTVFZrU0YxSmlTRWRoYnpOTFFYRnlUSFpOWTFBd1pWZG9kMUZaR2lKQlJITnlPV1pVVVhaS1R6aFBjVlZyTm5oSVpYTk9USFV6UlRad2VFZFNXRFpuIiwiZmN2IjoiMyIsImZjX2lkIjoiR0pmbnZ0THhXOWxuUE11a0FBQUFBQT09In0="
+    },
+    {
+      "title": "Jr. Data Analyst",
+      "company_name": "Rezo.ai.",
+      "location": "Noida, Uttar Pradesh",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=H__wN-VZi-jBblLPAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU63KpKI4KKTIAgOIoJzuaZHkhJzIXdDdXJ29Q_9EnV522tek2Z2rAb2qAi7jOkuCp_nGwbuQAirC8AZDsw-0XQbVItsrBVJxouiRmcc3yxn6ni0vyR_WglYqSRUalfr5WhK9nO40IMNRgMxw4ljjwu4qmKFc8WeJHwBkb5f5Y0AAAA&shmds=v1_ARwrE212VCP5B3kL7Bv1NEB_qCDqsddkp9XGuMSSJ9ccIROE9g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=H__wN-VZi-jBblLPAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/jr-data-analyst-rezoai-noida-uttar-pradesh--t7xk-810467396",
+      "job_title": "Jr. Data Analyst",
+      "description": "Job Information\n\nDate Opened 19/08/2026\nJob Type Full time\nIndustry Technology\n\n\nWork Experience 1-3 years\nCity Noida\nProvince Uttar Pradesh\nCountry India\nPostal Code 201301\n\n\n\nJob Description\nRole Summary\nWe are seeking a detail-oriented Data Analyst to join our team. In this role, you will transform raw data into actionable insights, supporting day-to-day data operations and executive reporting. You will query relational databases, build dynamic dashboards, and perform ad-hoc analyses to answer critical business questions.\n\n\nKey Responsibilities\n\n\n\nDatabase Management &\nSQL:\n\n\n\nWrite, run, and optimize SQL queries to extract, aggregate, and clean data from relational databases.\n\n\n\n\n\nDashboarding &\nBI:\n\n\n\nDesign and maintain interactive Power BI dashboards to track key performance indicators (KPIs) and operational metrics.\n\n\n\nOperational Analysis:\n\n\n\nAnalyze operational datasets - including call logs, messaging interaction volumes - to ensure accurate reporting and track usage trends.\n\n\n\n\n\nAd-Hoc Analysis:\n\n\n\nConduct quick, data-driven deep dives using Advanced Excel (PivotTables, Power Query, complex formulas) to resolve immediate operational queries.\n\n\n\n\n\nData Quality &\nCollaboration:\n\n\n\nValidate data accuracy before publishing reports and collaborate with team members to translate business requirements into technical data solutions.\n\n\nRequirements\nRequired Skills &\n\n\nQualifications\n\n\n\nExperience: 0 to 2 years in a data analyst or business intelligence role (or freshers with strong technical project).\n\n\nSQL: Proficiency in writing queries using joins, aggregations, conditional logic, and subqueries/window functions.\n\n\nPower BI: Hands-on experience building reports, managing relationships in data models, and writing basic DAX measures.\n\n\nExcel: Advanced proficiency in Excel (XLOOKUP/INDEX MATCH, PivotTables, formatting, data manipulation).\n\n\nProblem-Solving: Strong analytical mindset with a high attention to detail.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/jr-data-analyst-rezoai-noida-uttar-pradesh--t7xk-810467396?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKci4gRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiUmV6by5haS4iLCJodGlkb2NpZCI6IkhfX3dOLVZaaS1qQmJsTFBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVERWUlRVUjFVa2xKVFVkUE1qSlpiRXcyV0d4cllVeHViRmxhVFRJMk1URmlkMjFJUmtnelkxbGxNMTkyWkRJeFEyTllVVFptZUVrMVdEUkhPREZKUjBWVVdGbFBkMXBQU1ZsbFl6ZHhRMnBrYzBKV1EyRXpiak5NVm5CWGVrUnpVV0l6UzFZeE1XVklaVmRzWjJVMGFucFRWbFJpY2taVlRHcEZjV0ZwTFhaak4zVkpZVEFTRjFKaVNFZGhiek5MUVhGeVRIWk5ZMUF3WlZkb2QxRlpHaUpCUkhOeU9XWlRaelZPUXpRMlRXcGFUVGc0Vmt0ZmNFUnlORGQ0YWpjeFNVTm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJIX193Ti1WWmktakJibExQQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Software / Data Analyst",
+      "company_name": "Softcrayons IT Education",
+      "location": "Noida, Uttar Pradesh",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=FfQnm_lYKLIUmtZ0AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3NMQoCMRCFYWz3CFZTiySLYKOVoIiNCGq9zGZjshIzS2bE3c47eAKv5kmMNq_7v1e8R0V5pIs8MFnQsEZBWEUMAwt8ni-4Ug1sMRkPFGFL5IIdL71IxwutmYNyLCitUYZumqKtqdc54t9U7DPbBRRbzeZlr7roJv87k3CgyLA7waa5mwxkvY2wp7bBKZxFMMEhYWPZfwGtLOsPpAAAAA&shmds=v1_ARwrE21HT-GVINPtWfBLjimoC7rJoocuArWHo4oUkcJ_mGRrVg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=FfQnm_lYKLIUmtZ0AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6b1411290d9dd4f1d2ca1/images/OxsefQqcVLysE0aAM9X0SWuG_d3omSHFgO3GuDGsyxg.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/software-data-analyst-at-softcrayons-it-education-4476104023",
+      "job_title": "Software / Data Analyst",
+      "description": "FULLTIME\n\nSoftware / Data Analyst\n\nAdvanced Dental And Implant Clinic\n\n28 days ago\n\nSoftware / Data Analyst\n\nAdvanced Dental And Implant Clinic\n\nData Science / Analytics\n\nFULLTIME\n\n10000 - 20000\n\n0 - 24 Years\n\nNoida\n\nJob Description\n\nwe need a receptionist with basic computer knowledge\n\nProfessional Skills\n\n\n\n ivot Tables & Pivot Charts Power Query Data cleaning & transformation Dashboards & data visualization Conditional formatting & data validation Excel Tables & Named Ranges Macros/VBA basics What-If Analysis & Goal Seek Power Pivot / Data Model Basic automation and reporting\n\nShare Job\n\nJob Overview\n\nJob Title Software / Data Analyst\n\nJob TypeFULLTIME\n\nCategoryData Science / Analytics\n\nExperience0 - 24 Years\n\nDegreeMaster\n\nOffered Salary10000 - 20000\n\nLocationNoida\n\nHR Contact\n\n[redacted] Call\n\nNoida\n\nOpen Maps\n\nRelated Jobs\n\nExplore other job opportunities in this category.\n\n6 days ago\n\nData Analyst - Senior\n\nFedEx\n\nData Science / Analytics\n\nFULLTIME\n\n₹15,000 - ₹20,000\n\nGhaziabad\n\nJob Details\n\n6 days ago\n\nSenior Data Analyst\n\nMongoDB\n\nData Science / Analytics\n\nFULLTIME\n\n₹20,000 - ₹22,000\n\nGhaziabad\n\nJob Details\n\n6 days ago\n\nSenior Product Analyst\n\nTide\n\nData Science / Analytics\n\nFULLTIME\n\n₹15,000 - ₹20,000\n\nGhaziabad\n\nJob Details\n\nSend Us Message",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/software-data-analyst-at-softcrayons-it-education-4476104023?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSAvIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlNvZnRjcmF5b25zIElUIEVkdWNhdGlvbiIsImh0aWRvY2lkIjoiRmZRbm1fbFlLTElVbXRaMEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVTVMYUV4cFNFaEdTbkJGTjJKRE9VcHVNRmN3ZDJWWlRtc3laRmhpT0d4S1NGZGhialJzVVhsUFoyMU1TRmhoVkdacE5FNURibEZmV1VsdVgwVkZOM0Z1Tkdsa1ZVZGtSMFpOZWxBNWIzTTRWbEpRYmtZeVNHbFlUMFExVVdNME5EUm5kVFpKTkZkeGVreGZlSEpCY0VsQmNEQjZhM2hWTlhSeGFESmxUakJZTkdFNWRqVVNGMUppU0VkaGJ6TkxRWEZ5VEhaTlkxQXdaVmRvZDFGWkdpSkJSSE55T1daUmFtSkJZbU40UlY5UFNYSldkbnBIYW1wdVgwc3dRVlJOVnpSQiIsImZjdiI6IjMiLCJmY19pZCI6IkZmUW5tX2xZS0xJVW10WjBBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company_name": "Orange Business",
+      "location": "Faridabad, Haryana",
+      "via": "MyInternships.in",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=IxLhuizapZcf4Y4DAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBAAQGzzBKttbCTciWCjlSIqNj4hbJLlcnLuhtsNJJ1v0B_6ErWZborXrCivA0fJcERD2DOmSQ0-zzfcpQYlzE0HwnAWCYnmu86s1633qskFNbTYuEYeXphqGf0v6Z9KO8zUJzSq1pvV6HoOy8UtIweCw6CRSRUiwwlzbLHGtoQL5gkZv-PF2jWVAAAA&shmds=v1_ARwrE221nzbXpgEs3rTgcBVtcu7CiMAEQGs6-GXIfYAM5XMtXQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=IxLhuizapZcf4Y4DAAAAAA%3D%3D",
+      "extensions": [
+        "₹33K a month",
+        "Full–time"
+      ],
+      "source_link": "https://myinternships.in/jobs/orange-business-junior-data-analyst-faridabad-4531a8",
+      "job_title": "Junior Data Analyst",
+      "description": "Orange Business is hiring a Junior Data Analyst in Faridabad. This is a full-time, permanent role for candidates who want to work on real data analytics problems — owning datasets, numbers and reporting that the business actually makes decisions on, not practice exercises.\n\nAbout the role\nIn this Junior Data Analyst position you will be trusted with real business questions. Day to day that means supporting senior analysts on recurring reports, data validation and first-pass analysis with SQL, Excel and Power BI, and holding a high bar on data quality, documentation and clarity of communication.\n\nKey responsibilities\n• Prepare and clean datasets for the analytics team under a senior analyst\n• Build simple dashboards and recurring reports, reviewed before release\n• Run first-pass analyses and summarise what the data shows\n• Cross-check published numbers against source systems\n• Document your queries and steps so the work is repeatable\n• Validate and reconcile numbers before they are published, and document known data caveats\n• Automate recurring reporting so the team spends its time on analysis rather than refreshes\n• Present findings to non-technical stakeholders in clear, plain language\n\nRequired skills and tools\n• SQL\n• Advanced Excel\n• Power BI\n• Tableau\n• Python (Pandas)\n• Data Cleaning\n• Data Visualization\n• Descriptive Statistics\n• Dashboarding\n• Business Acumen\n• Stakeholder Communication\n• Documentation\n\nEligibility criteria\n• Education: B.E./B.Tech, BCA/MCA, B.Sc/M.Sc (Statistics / Mathematics / Data Science), B.Com, BBA or MBA. Candidates from any recognised university are welcome.\n• Graduation year: 2023–2026 batches. Freshers and final-year students awaiting results may apply.\n• Minimum 60% / 6.0 CGPA in the highest qualification (indicative — strong practical skills can offset this).\n• Experience: 0–2 years in analytics, reporting, MIS or a closely related function.\n• Technical skills: SQL, Advanced Excel, Power BI, Tableau, Python (Pandas), Data Cleaning.\n• Soft skills: structured thinking, attention to detail, stakeholder communication, ownership and the confidence to flag a number that looks wrong.\n\nSalary and compensation\n• Annual CTC: ₹2,80,000 – ₹5,20,000 per year (2.8 LPA – 5.2 LPA), an indicative market range for this role in Faridabad.\n• Monthly equivalent: approximately ₹33,000 per month at the mid-point of the range.\n• Currency: INR (₹).\n• Performance bonus / variable pay as per Orange Business's policy, reviewed annually.\n• The exact offer is confirmed by Orange Business based on your interview performance and current compensation.\n\nPerks and benefits\n• Team offsites and networking opportunities\n• Competitive salary as per market benchmarks\n• Annual performance bonus / variable pay\n• Health insurance for you and your dependants\n• Provident Fund and statutory benefits\n• Structured onboarding and mentorship\n• Learning & certification support (SQL, Power BI, Tableau, cloud)\n• Paid leaves and public holidays\n\nLocation, work mode and employment type\n• Location: Faridabad, Haryana\n• Work mode: Work From Office\n• Employment type: Full-time, permanent\n• Working hours: Standard business hours, Monday to Friday (5-day week)\n• Number of openings: 4\n• Joining: immediate to 60 days, as per your notice period\n\nSelection process\n• Round 1 — Resume screening and profile shortlisting by the talent acquisition team\n• Round 2 — Hiring manager discussion — role expectations, ownership and team fit\n• Round 3 — Online assessment — SQL, Excel and quantitative aptitude\n• Round 4 — Technical interview 1 — SQL joins, aggregations, window functions and data modelling\n• Round 5 — HR discussion — compensation, notice period, joining date and offer roll-out\n\nWho should apply\nCandidates from B.E./B.Tech, BCA/MCA, B.Sc/M.Sc (Statistics / Mathematics / Data Science), B.Com, BBA or MBA with up to 2 years of relevant experience who are based in Faridabad or willing to relocate. You should be comfortable with SQL, Advanced Excel, Power BI and able to explain your analysis to someone who has never seen the data. Portfolio projects, Kaggle work, a GitHub repo or published dashboards strengthen an application, especially for early-career candidates.\n\nWhy join Orange Business\nAt Orange Business the analytics function is treated as core, not a back-office service. You will have direct access to stakeholders, room to challenge assumptions and support to keep learning. There is a clear progression path from Analyst to Senior Analyst, and onward into analytics leadership or a specialist data-science / data-engineering track. You will leave every year of this role with ownership of a recurring report and an analysis a manager acted on.\n\nHow to apply\nClick Apply Now. If you are not signed in you will be asked to log in or create a free MyInternships.in candidate account first, after which you will be taken directly to Orange Business's official careers page to submit your application. Applications close on 26 October 2026 and are reviewed on a rolling basis, so apply early.\n\nAdditional information\n• Documents required at the interview stage: updated resume, degree certificates or provisional certificate, and government photo ID.\n• Experienced candidates should also carry recent payslips and a relieving or experience letter.\n• There is no service bond for this position, and no equipment deposit is taken.\n• A laptop and licensed analytics tooling are provided by Orange Business for office and hybrid roles.\n• Orange Business and MyInternships.in never charge a fee at any stage of the application, selection or onboarding process. If anyone asks you for money in the name of this job, do not pay — report it. Responsibilities: Prepare and clean datasets for the analytics team under a senior analyst; Build simple dashboards and recurring reports, reviewed before release; Run first-pass analyses and summarise what the data shows; Cross-check published numbers against source systems; Document your queries and steps so the work is repeatable; Validate and reconcile numbers before publishing, and document data caveats; Automate recurring reporting to free up time for real analysis; Present findings clearly to non-technical stakeholders. Requirements: B.E./B.Tech, BCA/MCA, B.Sc/M.Sc (Statistics / Mathematics / Data Science), B.Com, BBA or MBA from a recognised university; 0–2 years of experience in analytics, reporting or MIS — freshers and 2026 graduates are welcome; Working knowledge of SQL, Advanced Excel, Power BI; Comfort with SQL, Excel and Power BI and with cleaning messy, real-world data; Ability to define a metric precisely and explain a result to a non-technical stakeholder; Attention to detail, ownership and the discipline to document your work; Based in Faridabad, Haryana or willing to relocate.",
+      "apply_options": [
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/jobs/orange-business-junior-data-analyst-faridabad-4531a8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiT3JhbmdlIEJ1c2luZXNzIiwiaHRpZG9jaWQiOiJJeExodWl6YXBaY2Y0WTREQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlRtOXBaR0VzVlhSMFlYSWdVSEpoWkdWemFDeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFN6Y3lWRk5SZG1SbWNFWlpWWGwwYjBveU15MU1SVGRqTUZCRWExUnZZbGczUTNodE4xSTFaV3BJWTA4MVpIcHlkMlpvV25kWFIzSlFOVGR2WVhkYU5GWkZWRkJDZUY5RVdWQlJZMnBUZUZKQ05VaGxhbEpDZWs1dU0xUkdVMUZpTUc0eWVpMDFXRnBUV2twSk9EWjBhVTgwVERGa1gxTlpMVEJSV0U5M1JtUnFjR1ZNTXpjU0YxSmlTRWRoYnpOTFFYRnlUSFpOWTFBd1pWZG9kMUZaR2lKQlJITnlPV1pVU25OdlF6UmtXVkZ0T1hNNFExSk5SbDlrU1ROaFQwSTBaVGRuIiwiZmN2IjoiMyIsImZjX2lkIjoiSXhMaHVpemFwWmNmNFk0REFBQUFBQT09In0="
+    },
+    {
+      "title": "Machine Learning Data Analyst - Apparel & Textiles",
+      "company_name": "YuvaIntern",
+      "location": "Noida, Uttar Pradesh",
+      "via": "YuvaIntern",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=T8G9LvRoOLHO38YiAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMPQrCQBBAYWxzBKvBwkI0EcFGq4Ag4g8WWliFSTJkV9bZZWeU2HkH7-GhPImxed33kk8v2e6xMpYJdoSRLTewQkXIGd1TFCaQh4CRHAzhRK1aRwLf1xuuvgTpSGXAM6y9bxz1l0Y1yCLLRFzaiKLaKq38LfNMpW-zDsk_hZjuGRwqFbP5tE0DN6PB5f7ADStFBstw8LbGMZxVMcIxYk1ift0R8cexAAAA&shmds=v1_ARwrE23U0lBNF3CU0lcaJnoMZzmSlDOMqXVZpkJz9RRivKNZng&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=T8G9LvRoOLHO38YiAAAAAA%3D%3D",
+      "extensions": [
+        "Internship"
+      ],
+      "source_link": "https://yuvaintern.com/internship/machine-learning-data-analyst-apparel-textiles-noida-860-internship-in-noida",
+      "job_title": "Machine Learning Data Analyst - Apparel & Textiles",
+      "description": "As a Machine Learning Data Analyst in the Apparel & Textiles sector, you will be responsible for analyzing data related to consumer trends, product sales, and market demands using machine learning algorithms. You will create predictive models to optimize inventory management, pricing strategies, and marketing campaigns.",
+      "apply_options": [
+        {
+          "title": "YuvaIntern",
+          "link": "https://yuvaintern.com/internship/machine-learning-data-analyst-apparel-textiles-noida-860-internship-in-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIERhdGEgQW5hbHlzdCAtIEFwcGFyZWwgXHUwMDI2IFRleHRpbGVzIiwiY29tcGFueV9uYW1lIjoiWXV2YUludGVybiIsImh0aWRvY2lkIjoiVDhHOUx2Um9PTEhPMzhZaUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVkpxVFVGT1dtSndOMWRxYUZFd2JtUnBRbEZYTVc4M1ZVOUNibEZFU1hWUVpEUXRSVEkwVEVGSE0yMWlSa2RrWkVOTlRtSTFTREYyTjFSQ2JsSlRSREV5V21Gd1RtVllaMnhWUlRKMFdrVlRSM2MyTFhkMFprMVFiWFJmUjFvMk9EUXpZemswZGpGelJVczFSME50V1ZOamQxOXlhakJ6VVUxUmEwcFFkMVZRVlVoQlIyMFNGMUppU0VkaGJ6TkxRWEZ5VEhaTlkxQXdaVmRvZDFGWkdpSkJSSE55T1daVE9FUktVMkZFTTJjM1FUQlZhRTlvWjFKTE9VVm1jRFpZZUhkbiIsImZjdiI6IjMiLCJmY19pZCI6IlQ4RzlMdlJvT0xITzM4WWlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Operations Analyst",
+      "company_name": "Kotak Mahindra Bank",
+      "location": "Noida, Uttar Pradesh",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=VIg_vao-mxwDXaThAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLOw7CMAwAULH2CEyeATWoEgtMdEEC8VmYK7eNmtBgR7GRysYd2DkcJ6Esb3vZZ5IV-wd5TnCONqF6JoEtYXiKwvf1hhvXIBZT44AJdsxdsNONU42yNkYk5J3o-Jq84bthsjUPZkzypxKHycaAaqtitRzySN1sfmDFHo7oPLUJoUTqwROc2Le4gKsqJrgkbK24H4IuYQmhAAAA&shmds=v1_ARwrE21iTwDrJyZ3BfrgwJ9D6PFMtWW_DsW9cuQWS7aAKbzt1A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=VIg_vao-mxwDXaThAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/kotak-mahindra-bank-junior-operations-analyst-noida-0-to-1-years-670810",
+      "job_title": "Junior Operations Analyst",
+      "description": "What role you will play in team: You'll be supporting senior analysts in daily operations tasks, contributing to efficient workflow and accurate data management within the BFSI sector.What you will do: Your primary focus will be on data analysis, reporting, and assisting in process improvement initiatives within our operations department.Key responsibility:Conduct data analysis to identify trends and insights.Prepare reports summarizing key operational metrics.Support process improvement initiatives by identifying areas for optimization.Maintain accurate records and databases.Collaborate with other team members to ensure efficient workflow.Assist with ad-hoc requests and projects.Required Qualification and Skills:Bachelor's degree in a quantitative field (e.g., statistics, mathematics, economics).Proficiency in data analysis tools (e.g., Excel, SQL).Strong analytical and problem-solving skills.Excellent attention to detail and accuracy.Excellent communication and teamwork skills.Experience with banking operations is a plus.Benefits Included:Competitive salary and benefits.Opportunities for professional growth.Positive and supportive work environment.Health insurance.Paid time off.A Day in the Life: Your day will involve data analysis, report generation, attending team meetings, and contributing to process improvements. Collaboration with other team members is a significant part of the daily work.",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/kotak-mahindra-bank-junior-operations-analyst-noida-0-to-1-years-670810?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgT3BlcmF0aW9ucyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiS290YWsgTWFoaW5kcmEgQmFuayIsImh0aWRvY2lkIjoiVklnX3Zhby1teHdEWGFUaEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUR2xaV25SSlJrSk1aSFJtUzI1QlVDMHhORW8yTVZsTFRqRlJaV05PY1doRGVHRjRhVEZyY1Voa1ZFTnNiRTVGWjFWQ1FrbDBZelJNVEdkMVpsQmpSekJXTVdrNVpXdG9ka00wVlhRNU9WbDRTSGh5VFZkWFNtbzVkSHBXYlZVdGNHZDVXSFZqTVVwVGNFOXdYMU53UVRBMFdtMHhMVGhOVVhvd1puSk9URkk0UVhWSmNISVNGMUppU0VkaGJ6TkxRWEZ5VEhaTlkxQXdaVmRvZDFGWkdpSkJSSE55T1daU1JFUjViMVZKVVZBNWNXNWZaVWcwTlV0MU1EQjNNVlV6ZFRabiIsImZjdiI6IjMiLCJmY19pZCI6IlZJZ192YW8tbXh3RFhhVGhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Business Analyst",
+      "company_name": "Optimum Info",
+      "location": "Noida, Uttar Pradesh",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=2LFUGMsughCxP0EUAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU43OIkkRXDRSRfRQV2cy7WNTSS9C7kr1M1_EH_QL1GXt73iPSnK40CBM-wGCeREYEsYH6Lweb7gzjWIw9x4YII9cxfddONVk6ytFYmmE0UNjWm4t0yu5tH-kvypxGN2KaK6arkqR5Oom8_OSUM_9HCgG0MgOHFocQFXVcxwydg68V9aY0jYmAAAAA&shmds=v1_ARwrE20LRhgzi-3sLabdpUhpX9MzlfzZcHbpPJC6evA56xA7XQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=2LFUGMsughCxP0EUAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6b1411290d9dd4f1d2ca1/images/Eqj7bPGlUDiO9OJjWtI69sddq_W0rXeAqsM1shisfhc.png",
+      "extensions": [
+        "19 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.glassdoor.co.in/job-listing/junior-business-analyst-optimum-info-JV_IC4477468_KO0,23_KE24,36.htm?jl=1009734498112",
+      "job_title": "Junior Business Analyst",
+      "description": "At Optimum Info, we are continually innovating and developing a range of software solutions empowering the Network Development and Field Operations businesses in the Automotive, Power Sports and Equipment industries. Our integrated suite of comprehensive solutions provides a seamless and rich experience to our customers, helping them become more effective at their work and create an impact on the organization.\n\n\n\n\nOur sharp cultural focus on outstanding customer service and employee empowerment is core to our growth and success. As a growing company, we offer incredible opportunities for learning and growth with opportunity to manage high-impact business solution.\n\n\nPosition Overview\nThe Junior Analyst will acquire subject matter expertise on Optimum’s products and work as a liaison between Optimum’s account managers and the solutions delivery teams. This role will have key participation in the implementation of products for new accounts as well as the development of new features in various product lines across our network development solutions. The responsibility will span Optimum’s global accounts. The job will be based in Noida, India.\n\n\nKey Responsibilities\nAcquire a deep understanding of the assigned Optimum product line.\nWork closely with our account managers in understanding feature requests and analyzing the impact on existing features.\nDevelop requirement specifications and acceptance tests for customer-specific features and functionality, including dashboards, reports, and other business requirements.\nCoordinate with the engineering teams on new system functionality.\nTest new features and reports before & after system deployments.\nSupport customer implementations of products by updating configurations, creating ad-hoc reports, providing guidance to users etc.\nCreate documentation for users to help them effectively use Optimum’s solutions. Our systems are used by Corporate, Field and Dealer users.\nAnalyze user actions and generate metrics on product usage, use the metrics to identify user training needs or propose new features in the product lines.\nDesired qualifications and experience\nBachelor’s degree in any stream with experience in:\nCollaborating with customer-facing and technical teams, analyzing impact of changes and new features; and creating requirement specifications.\nCreating test cases for documented requirements and conducting testing to validate developed features.\nWork experience of 1-2 years with at least 0.5 years as a business analyst.\nExcellent verbal and written",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/junior-business-analyst-optimum-info-JV_IC4477468_KO0,23_KE24,36.htm?jl=1009734498112&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/e1HpI8Sxce2IQBFX8Jxle9zHJ1AWiFBpaZy61rI7iANw5W5Gzj6uLw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-business-analyst-appvanta-noida-uttar-pradesh--t7xk-846388766?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/genpact-junior-business-analyst-noida-0-to-1-years-576187?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/job/kirloskar-electric-junior-business-analyst-noida-e79c99?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/335518222/junior-business-analyst-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQnVzaW5lc3MgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6Ik9wdGltdW0gSW5mbyIsImh0aWRvY2lkIjoiMkxGVUdNc3VnaEN4UDBFVUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVGwxYW0xSVNGVjBVelpmZUVGWFlsaFJVWHBaZDJSMk5rcEpYekF6T0VsdVJFZFNSa3BoZVZRMU5IWndaazFvWkVoak4yUlRVa0kwWWtKR1RYcHdkVkZtZHpKVVpIQlljVE0zVlU5eWQxOU5ZVWhaUWxrMlJuQlZlbGhMYm1zMFZIVmtUVzFZTFVkbE0wdHhkMUZ2U1dWMk9VeG1VazV3Y1ZWTFZHTk9lbWxwVm1nNVdXY1NGMUppU0VkaGJ6TkxRWEZ5VEhaTlkxQXdaVmRvZDFGWkdpSkJSSE55T1daU1MyMTVTazlJV2pnMmNGWjNObnBrZG1KbFFVTjFSRTk2V2pkMyIsImZjdiI6IjMiLCJmY19pZCI6IjJMRlVHTXN1Z2hDeFAwRVVBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Associate Data Analyst",
+      "company_name": "Namecheap",
+      "location": "Greater Noida, Uttar Pradesh",
+      "via": "MyInternships.in",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=6tOtuIapVcSXzeo7AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0nON2qSCKCi04Fwa24OJdrejSRNBdyN9TNf3Dy9_wS4_KWx3vNZ9XYVoRdQCW4oCK0CeNTFL6vNzx4ACEszgMnuDJPkdZnr5rlZK1INJMoanDG8Ww50cCLrZH80YvHQjnWc3847heT07TddDiT84QZQj0WqrZAx2HEHdxVscCt4Ejif01FUiGcAAAA&shmds=v1_ARwrE20NyY9EplLxNEM0mpysibBeClESWcz7HHeUBOenLcLlbQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=6tOtuIapVcSXzeo7AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAABQYBAgMH_8QALRAAAQMCBAMIAgMAAAAAAAAAAQACAwQRBRITIQYxQRQiMlFhcYHBQmIzkfD_xAAWAQEBAQAAAAAAAAAAAAAAAAAABQT_xAAgEQACAQMEAwAAAAAAAAAAAAAAAQIDBCERMVFhEkHR_9oADAMBAAIRAxEAPwD3FERAES6xdAZREQBERAERYKAo_H-KzGeDDKGV7ZA4SSaZsSfxbt_dvZd8FqqjDMXNHWuNnkMcC64a7oR_uq0wThyvPEs-I4uxuVkjnxkOB1HE7EDoAPP0UrxNg8tYY6ijYHTN7rm3AuOh38lJ8K8m6-dU8LotOpbxjG2TTWmX2_hAccYlU1mKQ4Th8jwWOAdpuIzSHkLjy-_RXmkjkipoo5ZDI9jA1zz-RA3KqfC_DlZTYzUYhibRsSYbvDnOc7m42-R8q5LVawm5Sq1N364RlvZ01GFGnlRW_Le4REWwnnOp1Ozy6P8ALkOT3tsoyaPEo5WshMsjM7XZy5v65gRtt4vropdEBDaGKtprsnkdUaUds5bl1DcPv6cvpbRMr72m7Q6M-EDI0tO3i7xuPnz_AFUuiAg-z4pCyGKKWXTEDbus1zhJa3K42Fvbf3WHPxLtBa9lQ1j2lzWRuZcO36k8h3fL2tdTqIDWLPps1bZ7DNblfqi2RAEREAREQBERAEREB__Z.jpeg",
+      "extensions": [
+        "₹38K a month",
+        "Full–time"
+      ],
+      "source_link": "https://myinternships.in/job/namecheap-associate-data-analyst-greater-noida-aa3d9d",
+      "job_title": "Associate Data Analyst",
+      "description": "Namecheap is looking for a Associate Data Analyst to join its Greater Noida team. You will turn raw operational data into clear, trustworthy analysis, and work directly with the people who use it to run the business.\n\nAbout the role\nThis Associate Data Analyst role is hands-on and delivery-focused. Expect to spend your time supporting the analytics team across reporting, analysis and data quality, working primarily in SQL, Excel and Power BI. You will own your outputs end to end — from the data pull and the sanity checks to the final recommendation.\n\nKey responsibilities\n• Write and optimise SQL to extract data from production and warehouse tables\n• Build and maintain dashboards and recurring reports for business teams\n• Investigate trends, anomalies and drops in key metrics and explain the cause\n• Translate open-ended business questions into a defined analysis plan\n• Own the accuracy of every number you publish\n• Validate and reconcile numbers before they are published, and document known data caveats\n• Automate recurring reporting so the team spends its time on analysis rather than refreshes\n• Present findings to non-technical stakeholders in clear, plain language\n\nRequired skills and tools\n• SQL\n• Advanced Excel\n• Power BI\n• Tableau\n• Python (Pandas)\n• Data Cleaning\n• Data Visualization\n• Descriptive Statistics\n• Dashboarding\n• Business Acumen\n• Stakeholder Communication\n• Documentation\n\nEligibility criteria\n• Education: B.E./B.Tech, BCA/MCA, B.Sc/M.Sc (Statistics / Mathematics / Data Science), B.Com, BBA or MBA. Candidates from any recognised university are welcome.\n• Graduation year: 2023–2026 batches. Freshers and final-year students awaiting results may apply.\n• Minimum 60% / 6.0 CGPA in the highest qualification (indicative — strong practical skills can offset this).\n• Experience: 0–2 years in analytics, reporting, MIS or a closely related function.\n• Technical skills: SQL, Advanced Excel, Power BI, Tableau, Python (Pandas), Data Cleaning.\n• Soft skills: structured thinking, attention to detail, stakeholder communication, ownership and the confidence to flag a number that looks wrong.\n\nSalary and compensation\n• Annual CTC: ₹3,20,000 – ₹6,00,000 per year (3.2 LPA – 6 LPA), an indicative market range for this role in Greater Noida.\n• Monthly equivalent: approximately ₹38,000 per month at the mid-point of the range.\n• Currency: INR (₹).\n• Performance bonus / variable pay as per Namecheap's policy, reviewed annually.\n• The exact offer is confirmed by Namecheap based on your interview performance and current compensation.\n\nPerks and benefits\n• Clear appraisal cycle and internal mobility\n• Employee wellness programmes\n• Team offsites and networking opportunities\n• Competitive salary as per market benchmarks\n• Annual performance bonus / variable pay\n• Health insurance for you and your dependants\n• Provident Fund and statutory benefits\n• Structured onboarding and mentorship\n\nLocation, work mode and employment type\n• Location: Greater Noida, Uttar Pradesh\n• Work mode: Hybrid\n• Employment type: Full-time, permanent\n• Working hours: 9:30 AM – 6:30 PM, Monday to Friday\n• Number of openings: 4\n• Joining: immediate to 60 days, as per your notice period\n\nSelection process\n• Round 1 — Resume screening and profile shortlisting by the talent acquisition team\n• Round 2 — Technical interview 2 — BI tooling, dashboard design and metric definition\n• Round 3 — HR discussion — compensation, notice period, joining date and offer roll-out\n\nWho should apply\nCandidates from B.E./B.Tech, BCA/MCA, B.Sc/M.Sc (Statistics / Mathematics / Data Science), B.Com, BBA or MBA with up to 2 years of relevant experience who are based in Greater Noida or willing to relocate. You should be comfortable with SQL, Advanced Excel, Power BI and able to explain your analysis to someone who has never seen the data. Portfolio projects, Kaggle work, a GitHub repo or published dashboards strengthen an application, especially for early-career candidates.\n\nWhy join Namecheap\nWorking at Namecheap means modern tooling, clean processes and colleagues who will review your logic properly. Analysts here grow into senior, lead and specialist tracks. High performers move into senior and lead analyst roles, take ownership of a business vertical, or specialise in data science, data engineering or product analytics. You will leave every year of this role with broad exposure across every analytics workflow the team runs.\n\nHow to apply\nClick Apply Now. If you are not signed in you will be asked to log in or create a free MyInternships.in candidate account first, after which you will be taken directly to Namecheap's official careers page to submit your application. Applications close on 6 October 2026 and are reviewed on a rolling basis, so apply early.\n\nAdditional information\n• Documents required at the interview stage: updated resume, degree certificates or provisional certificate, and government photo ID.\n• Experienced candidates should also carry recent payslips and a relieving or experience letter.\n• There is no service bond for this position, and no equipment deposit is taken.\n• A laptop and licensed analytics tooling are provided by Namecheap for office and hybrid roles.\n• Namecheap and MyInternships.in never charge a fee at any stage of the application, selection or onboarding process. If anyone asks you for money in the name of this job, do not pay — report it. Responsibilities: Write and optimise SQL to extract data from production and warehouse tables; Build and maintain dashboards and recurring reports for business teams; Investigate trends, anomalies and drops in key metrics and explain the cause; Translate open-ended business questions into a defined analysis plan; Own the accuracy of every number you publish; Validate and reconcile numbers before publishing, and document data caveats; Automate recurring reporting to free up time for real analysis; Present findings clearly to non-technical stakeholders. Requirements: B.E./B.Tech, BCA/MCA, B.Sc/M.Sc (Statistics / Mathematics / Data Science), B.Com, BBA or MBA from a recognised university; 0–2 years of experience in analytics, reporting or MIS — freshers and 2026 graduates are welcome; Working knowledge of SQL, Advanced Excel, Power BI; Comfort with SQL, Excel and Power BI and with cleaning messy, real-world data; Ability to define a metric precisely and explain a result to a non-technical stakeholder; Attention to detail, ownership and the discipline to document your work; Based in Greater Noida, Uttar Pradesh or willing to relocate.",
+      "apply_options": [
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/job/namecheap-associate-data-analyst-greater-noida-aa3d9d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc3NvY2lhdGUgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTmFtZWNoZWFwIiwiaHRpZG9jaWQiOiI2dE90dUlhcFZjU1h6ZW83QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlRtOXBaR0VzVlhSMFlYSWdVSEpoWkdWemFDeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRGZzROREk0VEhwaUxXNTNUV2wyZUZKWlVFSnFjekZsZG1OeVVWVnFaa3hKUTFwVmNEbHJSVTFLYVRoeWNHbE9WRzV5WmpoSWNFVklPVk4wTVhGTk5WUXdkM1l4TTB0TVUxUkZiREJSYzB4MmNETXdWMHg1UVdWcFdXRnZOM28yYUY5RmQxTjJTakJVVjBGSlQxSk1UekJJU25aU1RVUXhRemhrVlhrMlpVeEVhSEp1UjBJU0YxSmlTRWRoYnpOTFFYRnlUSFpOWTFBd1pWZG9kMUZaR2lKQlJITnlPV1pSUXpkblRrVkNlSFJoYkZaMVUwTlZUR1ZEWmtac00yWXpUVFZSIiwiZmN2IjoiMyIsImZjX2lkIjoiNnRPdHVJYXBWY1NYemVvN0FBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTM040WkZKc1pWbDFSaTFKVlY5dVdXTlRiRzVRYWxWNFMxb3dZWE51ZEdkeWNqVkZTMWRGWVVOWmExZFFObXBHYjNjeVNHSnJkamxXV2kxTlluTlZMV1o1VlZJMlJuWm9WemhFVGtNeVRVeEpkRTFyVWpaSVZtRklNblJhUkRWV2NtSnBUbmMyVjBOcE1tMVZXREl3WjBkeE5VcHVZVGt3WW1sRVgyZDZOemsyTFdJeU5sRkZiWFpvVXpaMWVFeDBWV0pGVXpaR2VuWlpURkI1Tmtsa1RYSXdTM0owWVY5bFQzUmtORE5zZEd4TFpGbExlbk52Ym5WNlRFMXVXbFZ2ZDJ4bVEzaEZUV3RKWWpVNGNGY3lWbVZtU0RnNFRtTmFNMUYzVjJ0cE9IWm5OekJQWlRGM01IaElNbmhwTTJkcUxVUXhTMkk0VDNCVE1EQkxWbTE2V1hOcFRFVndlbVpGV0V4bU0xOHdOekJHUnpaTmR6aGZlVzlzVm10MVJISmtYM1ZqYVZOZlZXZFJOMVZ5WjNsRmMzRlNNRkZNWHpjNGMzWlZaVE53WkdVeE1FaDZRbVFTRjFKaVNFZGhiek5MUVhGeVRIWk5ZMUF3WlZkb2QxRlpHaUpCUkhOeU9XWlVXa0pxWVZwMVJGTk5iVU56VG5KVFNEWmtXREUwVjJwalFraFIiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTM040WkZKc1pWbDFSaTFKVlY5dVdXTlRiRzVRYWxWNFMxb3dZWE51ZEdkeWNqVkZTMWRGWVVOWmExZFFObXBHYjNjeVNHSnJkamxXV2kxTlluTlZMV1o1VlZJMlJuWm9WemhFVGtNeVRVeEpkRTFyVWpaSVZtRklNblJhUkRWV2NtSnBUbmMyVjBOcE1tMVZXREl3WjBkeE5VcHVZVGt3WW1sRVgyZDZOemsyTFdJeU5sRkZiWFpvVXpaMWVFeDBWV0pGVXpaR2VuWlpURkI1Tmtsa1RYSXdTM0owWVY5bFQzUmtORE5zZEd4TFpGbExlbk52Ym5WNlRFMXVXbFZ2ZDJ4bVEzaEZUV3RKWWpVNGNGY3lWbVZtU0RnNFRtTmFNMUYzVjJ0cE9IWm5OekJQWlRGM01IaElNbmhwTTJkcUxVUXhTMkk0VDNCVE1EQkxWbTE2V1hOcFRFVndlbVpGV0V4bU0xOHdOekJHUnpaTmR6aGZlVzlzVm10MVJISmtYM1ZqYVZOZlZXZFJOMVZ5WjNsRmMzRlNNRkZNWHpjNGMzWlZaVE53WkdVeE1FaDZRbVFTRjFKaVNFZGhiek5MUVhGeVRIWk5ZMUF3WlZkb2QxRlpHaUpCUkhOeU9XWlVXa0pxWVZwMVJGTk5iVU56VG5KVFNEWmtXREUwVjJwalFraFIiLCJmY3YiOiIzIn0%3D&q=Junior+Data+Analyst"
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "search_metadata": {
+    "id": "6ac6b13031aafef6a6fd46df",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/F87-v1Y5Fqt38X3dFpDMCGJsecuw-dTfjvy28FplPMc/6ac6b13031aafef6a6fd46df.json",
+    "markdown_endpoint": "https://serpapi.com/searches/F87-v1Y5Fqt38X3dFpDMCGJsecuw-dTfjvy28FplPMc/6ac6b13031aafef6a6fd46df.md",
+    "created_at": "2026-10-07 20:53:04 UTC",
+    "processed_at": "2026-10-07 20:53:04 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst+fresher&uule=w+CAIQICIZTm9pZGEsVXR0YXIgUHJhZGVzaCxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/F87-v1Y5Fqt38X3dFpDMCGJsecuw-dTfjvy28FplPMc/6ac6b13031aafef6a6fd46df.html",
+    "total_time_taken": 16.42
+  },
+  "search_parameters": {
+    "q": "Data Analyst fresher",
+    "engine": "google_jobs",
+    "location_requested": "Noida, India",
+    "location_used": "Noida,Uttar Pradesh,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw",
+        "q": "Data Analyst fresher remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0",
+            "q": "Data Analyst fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw",
+            "q": "Data Analyst fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8",
+            "q": "Data Analyst fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A",
+            "q": "Data Analyst fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0",
+            "q": "Data Analyst fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw",
+            "q": "Data Analyst fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8",
+            "q": "Data Analyst fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A",
+            "q": "Data Analyst fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A",
+            "q": "Data Analyst fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ",
+            "q": "Data Analyst fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA",
+            "q": "Data Analyst fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg",
+            "q": "Data Analyst fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A",
+            "q": "Data Analyst fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ",
+            "q": "Data Analyst fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA",
+            "q": "Data Analyst fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg",
+            "q": "Data Analyst fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnsZdAFVX9It4OsCDt93SjYdpmsQaw:1791406399452&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg&udm=8&sa=X&ved=2ahUKEwi879fw5KiXAxUxT2wGHSQ2AOgQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Data Analyst Fresher Jobs in Delhi & Noida",
+      "company_name": "GIRI CONSULTANCY",
+      "location": "Noida, Uttar Pradesh",
+      "via": "Pagaar India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=8ee1G03ZM-xkmCk6AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2OMQrCQBAAsc0TrLYSEUlEsNEqJBgiEkVNYRU2yZGLnLfhdovY-Qe_4at8idFmumHGe4-8KEZBCC2aBwtsnWKtHOyoZGgtxMroFiaQUVsjfJ4vuFEJrNBVGshCQtQYNd5okY7XQcBs_IYFpa38iu4BWVVSHwwS_1CwRqc6g6KK5WrR-51tZtMkPaUQHbJzvr-EWXT9hf_BOeQi6ODosB6-vqlqWmevAAAA&shmds=v1_ARwrE23oO-G0VdDz8Zxl-3lKSXWw0S-rVJf9exRshujK4GlsIg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=8ee1G03ZM-xkmCk6AAAAAA%3D%3D",
+      "extensions": [
+        "₹3L–₹4L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.pagaarindia.com/jobs/data-analyst-fresher-jobs-in-delhi-noida-software-industry-salary-25-000-35-000-at-giri-consultancy-5w3m8e",
+      "job_title": "Data Analyst Fresher Jobs in Delhi & Noida",
+      "description": "Data Analyst Executive (Freshers) Software Company (Day Shift) Job Title - Data Analyst Executive Industry - Software Company / IT Services Department - Data Analytics Job Type - Full-Time Experience - Freshers (0 Years) Location - Delhi & Noida Salary - 25,000 35,000 per month Shift - Day Shift Joining - Immediate Joiners Preferred Work from Office Job Summary We are looking for enthusiastic and analytical Freshers to join our team as Data Analyst Executives . This is an excellent opportunity for candidates who are passionate about data analysis, reporting, business intelligence, and data visualization . The selected candidate will be responsible for collecting, cleaning, analyzing, and interpreting data to help the business make informed decisions. Training will be provided to deserving candidates with strong analytical and problem-solving skills. Key Responsibilities Collect, organize, and analyze large datasets. Clean and validate data to ensure accuracy and consistency. Prepare daily, weekly, and monthly MIS reports. Generate dashboards and reports using Excel and BI tools. Identify trends, patterns, and business insights from data. Perform data validation and quality checks. Create charts, graphs, and visual reports. Assist business teams with data-driven decision-making. Prepare performance reports and KPI dashboards. Support data migration and data management activities. Maintain confidentiality of company data. Coordinate with cross-functional teams for reporting requirements. Required Skills Microsoft Excel (Advanced) Data Analysis Data Cleaning Data Validation MIS Reporting Data Visualization Analytical Skills Logical Reasoning Problem Solving SQL (Basic Knowledge Preferred) Power BI (Preferred) Google Sheets Dashboard Reporting Data Interpretation Pivot Tables VLOOKUP XLOOKUP Excel Formulas Charts & Graphs Business Reporting KPI Reporting Communication Skills Attention to Detail Time Management Teamwork Eligibility B.Tech, BCA, B.Sc (Computer Science/IT), B.Com, BBA, BA, MCA, M.Sc, MBA or equivalent. Freshers are welcome to apply. Good knowledge of Microsoft Excel. Basic knowledge of SQL or Power BI is an added advantage. Strong analytical and mathematical skills. Good communication and presentation skills. Immediate joiners preferred. Preferred Technical Skills Microsoft Excel SQL Power BI Google Sheets Microsoft PowerPoint MS Office Data Analytics Business Intelligence (BI) Data Reporting Dashboard Creation Employee Benefits Fixed Salary: 25,000 35,000 per month Performance-Based Salary Increment Paid Training Career Growth Opportunities Day Shift Five/Six Days Working (As Per Company Policy) Friendly Work Environment Learning & Development Programs Paid Leaves Employee Recognition Programs Job Location Noida Sector 62 Noida Sector 63 Noida Sector 125 Noida Sector 132 Noida Noida Extension Greater Noida Delhi South Delhi Central Delhi East Delhi West Delhi North Delhi Delhi NCR",
+      "apply_options": [
+        {
+          "title": "Pagaar India",
+          "link": "https://www.pagaarindia.com/jobs/data-analyst-fresher-jobs-in-delhi-noida-software-industry-salary-25-000-35-000-at-giri-consultancy-5w3m8e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgRnJlc2hlciBKb2JzIGluIERlbGhpIFx1MDAyNiBOb2lkYSIsImNvbXBhbnlfbmFtZSI6IkdJUkkgQ09OU1VMVEFOQ1kiLCJodGlkb2NpZCI6IjhlZTFHMDNaTS14a21DazZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1dWa1ZETkdNUzFCY2xBMk1sSm5ObWxVV21VeVpXOTVXR2xOUWpkMlpuWk9hWEpUZEZSZllXSnBUVmQ2TjA5dGNHdG5kbVU0Y2tsNmRHZHFXR3RZVjJsdFRGaFFlR3MzY21SMlZuUTVia1J3VFhoNVZURmtWemRYYkVKaVNVaHpUVTFsTURZeU9XY3RZMUZNYmxwT01XUlZhVlJUVFU1YVUxcHljVEl6VFdSelEycHBNR2NTRjFBM1NFZGhkbnBVUjJKSFpYTmxUVkJ3VDNsQmQwRTBHaUpCUkhOeU9XWlVkVTB3YlV4SE0yTnhRamxRUzJVd1pUSTJkREpWWDJOTVFVVm4iLCJmY3YiOiIzIiwiZmNfaWQiOiI4ZWUxRzAzWk0teGttQ2s2QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst(Fresher)",
+      "company_name": "Masthead Technologies",
+      "location": "Noida, Uttar Pradesh",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=GIH0DTXw6L0c1mZ4AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXOMQoCMRBAUWz3CFZTqmgigo1WgmilWGi9zGaHJBIzS2aKtfMOtp7Ok7g2v3vwq8-oMntUhF3G9BSdHApJoDKF7-sNd25ACIsLwBmOzD7ReBtUO9lYK5KMF0WNzjh-WM7UcG8HJP_UErBQl1CpXq2Xvemyny1OKBoIW7iSC5kT-0gCMcOZY4tzuKligUvBdvj4AZAALOCfAAAA&shmds=v1_ARwrE231PG7HyF3bdP_xnU3L93uJvul8n6jcNvggpX_7sFHCLg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=GIH0DTXw6L0c1mZ4AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6b13031aafef6a6fd46df/images/cB8f9pnt6OU5vCngw9PYrMBBQzzjb3LNs3alNu_g5Eo.jpeg",
+      "extensions": [
+        "₹1.2L–₹1.8L a year",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/data-analystfresher-masthead-technologies-noida-uttar-pradesh--t7xk-806181249",
+      "job_title": "Data Analyst(Fresher)",
+      "description": "Masthead Technologies is actively looking for a talented Data Analyst to join our dynamic team. This is a full-time, on-site position based in our Noida office, where you'll play a key role in our data analytics initiatives and contribute to the development of cutting-edge data solutions.\n\n\nKey Responsibilities:\n Conduct day-to-day data analysis, working closely with the team to develop and improve data-driven solutions.\n Manage and assess client reports across various platforms, ensuring effective reproduction of data.\n\n\n Collaborate with colleagues to brainstorm innovative strategies and implement creative solutions to complex problems.\n\n\n Analyze real-time user feedback to continuously improve our products.\n\n\n Handle production incidents and provide detailed reporting.\n\n\n Produce daily reports, dashboards, and metrics for internal teams and clients.\n\n\n Collaborate with cross-functional teams to ensure smooth daily operations.\n\n\n Demonstrate strong problem-solving abilities and multitask under pressure.\n\n\nSkills Required:\no Proficiency in MS Excel o Ability to perform data analysis effectively o Excellent problem-solving and multitasking skills\nShare your cv at [redacted] or call at [redacted]\n\n\nJob Types: Full-time, Permanent\n\n\nPay: ₹10,000.00 - ₹15,000.00 per month\n\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analystfresher-masthead-technologies-noida-uttar-pradesh--t7xk-806181249?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QoRnJlc2hlcikiLCJjb21wYW55X25hbWUiOiJNYXN0aGVhZCBUZWNobm9sb2dpZXMiLCJodGlkb2NpZCI6IkdJSDBEVFh3NkwwYzFtWjRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU21kNVFVaDJiMEoyVFRoYVZqTlZXVk5YTlVwaVgwNURkblJoTm5OTWJYZHZjbGhQUjNCMlNqWXRielpLZDFOVGMzbzJaMFpuTkZGNVFXOVlkSFZ1WkcxT01FWlJTSEpGTVY5S016TlNha2syV0ZVMU5tZ3dNWEozTmxaalozaFNXREl5ZFZsZmRXWnNSalV6V0VsNGJuZERkMkpTZW5GeVgzTmlVV0ZXTTA5b1EwWnFXbW9TRjFBM1NFZGhkbnBVUjJKSFpYTmxUVkJ3VDNsQmQwRTBHaUpCUkhOeU9XWlVOMUJaWVZNeVZWRlpSbFY2WlZWaWVVSTRha1ZtYWxkR1V6QjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJHSUgwRFRYdzZMMGMxbVo0QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst / Business Analyst Intern",
+      "company_name": "Solventek Private Limited",
+      "location": "Greater Noida, Uttar Pradesh",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=1YHlSKO-bCs2K3C4AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_z2NMQrCQBBFsc0RrKYWyYpgoRaiCCKICGIdJsmQrG52ws4YYucdPI3X8SSujc0v3v-fl7wHyWqLirD26B6iYGBzF-tJ5I_2Xil4-DxfcOUchDAUNbCHHXPlaLisVVtZGCPi0koU1RZpwY1hTzn3Jp7kF5nUGKh1qJRNZ5M-bX01mp_ZdRQNNzgF28UODraxSiXYaAgUSYAj2xLHcFHFEHdYktRfgqPQwbwAAAA&shmds=v1_ARwrE20W7ZyCTQ6FfvtzArxGCtHzwmXPaZwAgETb7oFHsLwNqQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=1YHlSKO-bCs2K3C4AAAAAA%3D%3D",
+      "extensions": [
+        "21 days ago",
+        "₹15K–₹24K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/it-software-data-analyst-data-analyst-business-analyst-intern-job-in-solventek-private-limited-beta-greater-noida-greater-noida-0-to-0-years-1789559240-8354973-jid",
+      "job_title": "Data Analyst / Business Analyst Intern",
+      "description": "We are looking for job \n\nIt is a Full Time IT / Software / Data Analyst job for candidates with Freshers.More about this Data Analyst / Business Analyst Intern jobPlease go through the FAQs to get all answers related to the given Data Analyst / Business Analyst Intern jobCan freshers or experienced candidates apply for this Data Analyst / Business Analyst Intern role?\nAns :   Candidates who have a Diploma and above qualification can apply for this Data Analyst / Business Analyst Intern role.\n\nWhat salary is offered for this Data Analyst / Business Analyst Intern job?\nAns :   The salary for this Data Analyst / Business Analyst Intern job ranges between ₹15,000-₹24,000 per month.\n\nWhat is the work schedule for this Data Analyst / Business Analyst Intern job?\nAns :   This Data Analyst / Business Analyst Intern job has 5 days working days and timings from 09:00 AM - 06:00 PM.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Beta Greater Noida, Greater Noida.\n\nHow many vacancies are there for this Data Analyst / Business Analyst Intern job?\nAns :   There is 1 vacancy for this Data Analyst / Business Analyst Intern role.\n\nIs this job open for all genders?\nAns :   Yes, this Data Analyst / Business Analyst Intern job is open for both male and female candidates.\n\nWhat is the job location for this position?\nAns :   The job location for this Data Analyst / Business Analyst Intern position is Beta Greater Noida, Greater Noida.\n\nWhat makes this Data Analyst / Business Analyst Intern job a good opportunity?\nAns :   This Data Analyst / Business Analyst Intern job is a good opportunity as it offers a salary between ₹15,000-₹24,000 per month. This is a Full Time job and has 1 openings.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/it-software-data-analyst-data-analyst-business-analyst-intern-job-in-solventek-private-limited-beta-greater-noida-greater-noida-0-to-0-years-1789559240-8354973-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/6a7ea56bce9cc5393c7c4367?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLyBCdXNpbmVzcyBBbmFseXN0IEludGVybiIsImNvbXBhbnlfbmFtZSI6IlNvbHZlbnRlayBQcml2YXRlIExpbWl0ZWQiLCJodGlkb2NpZCI6IjFZSGxTS08tYkNzMkszQzRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1MxS2FGWmtVMlZUVUVSd1pHSndWMGN6TlU4M2FWUnpSVEZmZGpSSmFqQjVialUzVERSTmNsZHhNVUpqWmtsWVRpMVVRV2hxUmtwb2RVdEJNVEJtTWs0NFlVVkdVVE5rV0dobGNUSk9PVE5YYlVkQlZqUXhZVU52T1hkMWMxQkZSbTQwWHpndE1tVjJiemhaTVRSYVQweGtUR2RZVm5OMmNGTkpSVnBZWW5oV1FWTkVNR2NTRjFBM1NFZGhkbnBVUjJKSFpYTmxUVkJ3VDNsQmQwRTBHaUpCUkhOeU9XWlViVTFJTFdOdGJVRmxkbVl5VlVzdE56SjJVVWxSWVdZd1YyaEIiLCJmY3YiOiIzIiwiZmNfaWQiOiIxWUhsU0tPLWJDczJLM0M0QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "IT Data Warehouse Business Analyst (Noida)",
+      "company_name": "Hexaware Technologies",
+      "location": "Noida, Uttar Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=KJs2PwrMEuZE8XQ2AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2NOwrCQBBAsc0RrKZU0UQEG638gNqIRcQyTDZDdmXdCZkJxs47eBKv5EmMNq948HjRuxdtDilsUREuWJPlRgjWjbhAIrAK6B-iMDiyK3AIn-cLrpyDENbGAgfYMZee-kurWskiSUR8XIqiOhMbviUcKOc26SL5IRPbXSqPStlsPm3jKpSjyZ5avHceUjI2sOfSkYAL8N-O4ayKNZxqLEjsFxLaOi-0AAAA&shmds=v1_ARwrE23tJIGkQt4xjxLa0luJ5wKd20o1WFXEYTbsSFe9rZDnOQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=KJs2PwrMEuZE8XQ2AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAe1BMVEU7Ldr___85KtpDNtszI9k1Jdk9L9o3KNpfVt8qF9jt7PtpYODOzPRAM9snEdjGxPKuqu3z8_y6t-8hBNj5-f7Z1_aloetlXOB2b-Pn5vnLyPMvHdlsZOHj4vlvZ-GUj-hUSd1MQdx7dOOblumEfuWIg-ZYTt6zsO7AvfHpgbEnAAABSUlEQVRIie2R63KEIAyFOQgrKl4jXuvedNd9_ydsbGet_dE-Ad84QJITB06E8Hg8Hs-_SP6k_Np_Z_ej_JYcBSFnTloFQRAqrikOQym1ECrVXOSTFFwVmQw3zd6XuTwa8eEA5AWiKM6jrJyo6umMhOKK4piiF1ct8YKLejdS3ZDBFYVJAoPK1WnUAKoBOVwSXC_AjXrbNuhwb5Ofu2aY7AwJNwwqm1GmSqDB0qFFvVpHKDAThofFHYMtxv2FTzi74glrXyO90BMvA_IQvatimIIDG22XNA1y2-yNakFE-bTAtIZbFqw32KGvqUY3Ywr5JhMMbg1MHj_b627OOIOyqZq3f7Zoaa3ZFuowupjdOa8lUYsHRioryxKXHachTkpvTuuTEmwaT0KnodRS83tDyYE68QT1No3d033M-_zlMflWHDQej8fj-ZNPyzITAHGEassAAAAASUVORK5CYII.png",
+      "extensions": [
+        "6 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/it-data-warehouse-business-analyst-noida/hexaware-technologies/19686447",
+      "job_title": "IT Data Warehouse Business Analyst (Noida)",
+      "description": "Role & responsibilities\n\nIT Data Warehouse Business Analyst  \n\nBusiness Analyst Job Responsibilities:\n\nGather and document business requirements through stakeholder workshops and discussions.  \nCreate BRDs, functional specifications, and data mapping documents.  \nAnalyze source systems, data flows, and define transformation rules.  \nCollaborate with Data Architects and Engineers on data models, ETL requirements, and data quality.  \nCreate and maintain Data Mapping Specifications (DMS/LMS). Identify data transformation and business rules.  \nManage requirement changes, scope, and stakeholder priorities.  \nTranslate business needs into clear functional requirements for development teams.  \nCreate process models and support requirement reviews to ensure accuracy and alignment.  \nCommunicate requirement updates and solutions to project teams and stakeholders.  \nTechnical background with hands-on experience on Excel, SQL, Databricks SQL, and technical business analytics  \nTechnical background with hands-on experience on ETL/ELT Concepts, Data Modelling, Star Schema, Data Marts and Data Lakehouse Concepts  \nBusiness Analyst Qualifications / Skills:  \n10+ years working experience as IT Data Warehouse Business Analyst  \nStrong customer service orientation  \nExcellent analytical, mathematical, and creative problem-solving skills  \nExcellent listening, interpersonal, written, and oral communication skills  \nLogical and effective, with keen attention to detail  \nAble to exercise independent judgment and take action on it  \nHighly self-motivated and directed  \nAbility to effectively prioritize and execute tasks while under pressure  \nExperience working in a team-oriented, collaborative environment .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/it-data-warehouse-business-analyst-noida/hexaware-technologies/19686447?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/5377828604732243968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/339864628/it-data-warehouse-business-analyst-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJVCBEYXRhIFdhcmVob3VzZSBCdXNpbmVzcyBBbmFseXN0IChOb2lkYSkiLCJjb21wYW55X25hbWUiOiJIZXhhd2FyZSBUZWNobm9sb2dpZXMiLCJodGlkb2NpZCI6IktKczJQd3JNRXVaRThYUTJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xOUWNYaGFNbXBQUlVvMGF6bE1VRVpvTkVOd1VWUnBURkJaVEVwZlFrUm9YMFZQWWpKWFUzTnJObWRVVjNkSlh6UlNZVE15VUZOWGFXaFdlbGR6ZW10S2FtRTBhSFpCY1ZOR09ITjZVM0l3T1UxWGJVNVdWRWxpYzFJd1QxWmZRVkpTTUdJeWVqRTRNVkJOVVhGaFZqSndUMDloV0hSSVkwOXZSbFl4VUZWbGNGSTJNa0VTRjFBM1NFZGhkbnBVUjJKSFpYTmxUVkJ3VDNsQmQwRTBHaUpCUkhOeU9XWlVSMFF4Ums0dGVFVlNOMjVpTm1zeWFYaFJOSFJUVEhOcVExcG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJLSnMyUHdyTUV1WkU4WFEyQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analytics Executive",
+      "company_name": "Growify Digital",
+      "location": "New Delhi, Delhi",
+      "via": "Internshala",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=18HTRbtAiehVABPWAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yXLMQrCQBBAUWxzBKsBO5GsCjZaCSvpvEKYLOPuyroTMqNJOu8gXtCTGLH5v3rFe1ZsLCrCMWMaNTqB00DurvFB8Hm-4MoNCGHnAnCGitknmh-Cait7Y0RS6UVxgqXjm-FMDQ9mQvJLLQE7ahMq1dvdeijb7JeLquM-Xkaw0UfFBDHDmXqwlEJc_fcFj5Wg25gAAAA&shmds=v1_ARwrE2364p4sHDXZoPlhiAdOAa02lvTtOj053S3h0ypBZQCbXA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=18HTRbtAiehVABPWAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIACwAOAMBIgACEQEDEQH_xAAaAAADAQEBAQAAAAAAAAAAAAAAAwQCAQcF_8QALBAAAgIBAwIEBQUBAAAAAAAAAQIDEQAEEiETMSJBUZEjcYHB8AVSYaGxFP_EABQBAQAAAAAAAAAAAAAAAAAAAAD_xAAUEQEAAAAAAAAAAAAAAAAAAAAA_9oADAMBAAIRAxEAPwD3HDDFaeSSQOZIjGQ5UDcDuAPB49cDGonZHWKJA0r9gTQA9TndP1xuGo6Z9Cl_fFOQv6mC1DdFSk-fPbEfqlhowol3NwpWXaPa-TgfSBvtmI4xHYW6LFuSTyTeL0SskNMjob7O-8--UYBhhhgGGTTdIyBXhEjVZsA0PrmJBpY5RGYI7NdlHmaH-YFE0Mcy7ZUDD-cjn0yaXbqIENxm3Hqvn7d8aRpg23_nSgwXdsFWfz-8DLp4GKhAt3dKK4F4FMbB0DKbUiwR5jNYjbEfhNGtIoO0jgD8GKQaVouqNPHt7nwjtgWYYuEJsDRoFU9qFZzAxMsRYGRXsftDfbBmiZtzI5bjnpNfH0x-AwJJWiT4vTkbxc0D39SPvmWl071IYZCXYC-mbtTxl2GBEurjZxUU1tSkmMivn75wauPZtEM4A8NdI_LLsMBOmlWVLjRlUeGmUjDG4YH_2Q.jpeg",
+      "extensions": [
+        "7 days ago",
+        "₹2L–₹3L a year",
+        "Full–time"
+      ],
+      "source_link": "https://internshala.com/job/detail/data-analytics-executive-job-in-delhi-at-growify-digital1790854883",
+      "job_title": "Data Analytics Executive",
+      "description": "About the job:\n\nKey responsibilities:\n\n\n\n1. Generating accurate reports and analyses for senior management using analytics tools like Google Analytics\n\n2. Supporting the execution of marketing campaigns by providing data-driven insights to drive traffic and sales\n\n3. Assisting in the execution of email marketing campaigns and contributing to the reporting and analysis of these campaigns\n\n4. Conducting thorough analyses of online store traffic to identify trends, behaviors, and key performance factors\n\n5. Managing and tracking website metrics for internal reporting\n\n6. Supporting the e-commerce team in developing marketing strategies through market research and analysis\n\n7. Developing and executing tactics for on-site search optimization and testing algorithms for product recommendations\n\n\n\nNote: These tasks require strong analytical skills, proficiency in data analysis tools, and an understanding of e-commerce dynamics.\n\nWho can apply:\n\nOnly those candidates can apply who:\n\nhave minimum 1 years of experience\n\nSalary:\n\n₹ 2,00,000 - 3,00,000 /year\n\nExperience:\n\n1 year(s)\n\nDeadline:\n\n2026-10-31 23:59:59\n\nOther perks:\n\nFree snacks & beverages\n\nSkills required:\n\nData Analytics, Power BI and Marketing Campaigns \n\nAbout Company:\n\nGrowify Digital is India's premier e-commerce growth agency specialising in luxury and fashion brands. Founded in 2019 and headquartered in Chhattarpur, Delhi, we are a 100+ member team of growth hackers, tech experts, and digital marketers.\n\r\n\n\r\nWe partner with 150+ of India's most celebrated fashion brands including Tarun Tahiliani, House of Masaba, Ridhi Mehra, Mahima Mahajan, Hazoorilal Legacy, Rahul Mishra, and Gaurav Gupta, to deliver end-to-end digital solutions across Shopify development, performance marketing, social media management, product photography, and customer support. At Growify, interns and freshers don't just assist; they own projects, learn fast, and make a real impact from day one. You'll get hands-on exposure to live brand campaigns, cutting-edge marketing tools, and a culture that runs on curiosity and results.\n\r\n\n\r\nIf you're hungry to grow, this is where you start.",
+      "apply_options": [
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/job/detail/data-analytics-executive-job-in-delhi-at-growify-digital1790854883?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/2650637694312397421?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5dGljcyBFeGVjdXRpdmUiLCJjb21wYW55X25hbWUiOiJHcm93aWZ5IERpZ2l0YWwiLCJodGlkb2NpZCI6IjE4SFRSYnRBaWVoVkFCUFdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1VwR0xWRlZXazlGU2xCZmNUWXdieTFpTmtKWFpXMHdaRk5sU25sSVRXWmpOVlE1YmtGM2NYSllZamhGWTI5RmJXNHhVM1kyYkhOalkwTmpTMlZMVVdGalUxbDRhVzFFWldObVZHaE5hV3c1VEZGb1ZtVmxhMnA2TTB0NU15MUtPRVpNVkRZd01YTnBUek4yYkRrMFJVRXdXSEpKT1V0Vll6UXdZMGxuZW5GeVpYZGxkblFTRjFBM1NFZGhkbnBVUjJKSFpYTmxUVkJ3VDNsQmQwRTBHaUpCUkhOeU9XWlVjV0pFVm1oTFIwMHRSVWxZTldveGIyUjRlbmhwZDJnM1dIVlIiLCJmY3YiOiIzIiwiZmNfaWQiOiIxOEhUUmJ0QWllaFZBQlBXQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Fresher Jobs - Fresher Can Apply Salary 45K",
+      "company_name": "Skills And Job",
+      "location": "Haryana",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=dZLNRaLn8BSLh1PkAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_zWOMQ6CQBBFY8sNtJraRNYYabQiGjVacgAy4IQF15nNzhbQeQd7D-dJhMLmJ694eT_5zJLjKZBaCnCVSmEFfzwgQ-69G6BAh2GAbXaD7-sNnVSghKG2IAxnkcbRYm9j9LozRtWljUaMbZ3W8jTCVElvRkmnKdViIO8wUrnJ1n3quVnOi0frnELO9-kFtAyXsYiMP88x5UahAAAA&shmds=v1_ARwrE23SS9Ybw0HnjHsI5NZTxZNz4FT-eQYSdGt0x9ofiXhhpw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=dZLNRaLn8BSLh1PkAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "₹3.5L–₹5.5L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobleads.com/in/job/fresher-jobs-fresher-can-apply-salary-45k--gautam-buddha-nagar--gurugram-district--e714c40d6a611911861bcd2af89e900f3",
+      "job_title": "Fresher Jobs - Fresher Can Apply Salary 45K",
+      "description": "Strong analytical skills with the ability to interpret large amounts of data and to multi-task.\n\nExcellent communication and presentation skills.\n\nProficient in data analysis tools such as Excel, SQL,\n\nKnowledge of data warehousing and reporting\n\nRequired Candidate profileDevelop reports and dashboards to communicate insightsManage data quality, including data cleaning, verificationCollect, analyze, and interpret product data to identify trends and insights",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/fresher-jobs-fresher-can-apply-salary-45k--gautam-buddha-nagar--gurugram-district--e714c40d6a611911861bcd2af89e900f3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcmVzaGVyIEpvYnMgLSBGcmVzaGVyIENhbiBBcHBseSBTYWxhcnkgNDVLIiwiY29tcGFueV9uYW1lIjoiU2tpbGxzIEFuZCBKb2IiLCJodGlkb2NpZCI6ImRaTE5SYUxuOEJTTGgxUGtBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEVWd1ZqQmhSMmRLZVdWbmRsQjZha2hHUmxsMGVFbzVXVlF0YW1kQlN6ZFJVRzVHTlZabWVXWldSMDlRTkU0ME9FaGtiMjFvVldNeVJFMUtjRXBuTmpCa1kwYzBVaTAxZW5SR2FFRlVaRGgzWlhSSVJXTmlVMDVFWVZZNFRWQkpXazFrZGxKemIyTktNSFZtU0dkVVQyRmlTR2xYUjFOSlZEUmxPVzlRYnpsdFpqRlZTR3dTRjFBM1NFZGhkbnBVUjJKSFpYTmxUVkJ3VDNsQmQwRTBHaUpCUkhOeU9XWlNURWwxTURWQlkwOWtTeTA1YXpCaExWUXhja2hmYkdkcldVOVIiLCJmY3YiOiIzIiwiZmNfaWQiOiJkWkxOUmFMbjhCU0xoMVBrQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Process Developer– Data Analyst-COR021672",
+      "company_name": "Genpact",
+      "location": "Noida, Uttar Pradesh",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=vvko6WlvfqjdS09FAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBBunFk1iQAWtxEA6DYJ1mGyGJLLuLDuDxM47eAVP5kk0zW8eP_pMorwMbEgEcnqQZU_h-3pDjopwcGifosvj-ZJmq802g5FuXIMQBtMBOyiYW0vTfafqZZckIjZuRVF7Exu-J-yo5iH5TzKmkg4DeYtKVbZOh9i7dj4ryHk0Cr2DE_cNLuCqigHKgA1J9wOb4PU0pwAAAA&shmds=v1_ARwrE209pBYVDjhKx4Jjx0WkbufCRPBFO_iWMFJZGkOe6WNoCw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=vvko6WlvfqjdS09FAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6b13031aafef6a6fd46df/images/navJ5z5lOSVCcYh0Da4pct3YkagR2bdrkm2Z51WPUt4.jpeg",
+      "extensions": [
+        "₹1L–₹50L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/genpact-process-developer-data-analyst-cor021672-noida-uttar-pradesh-india-2-to-4-years-357034",
+      "job_title": "Process Developer– Data Analyst-COR021672",
+      "description": "With a startup spirit and 90,000 curious and courageous minds, we have the expertise to go deep with the world’s biggest brands—and we have fun doing it. Now, we’re calling all you rule-breakers and risk-takers who see the world differently and are bold enough to reinvent it.Transformation happens here. Come, be a part of our exciting journey!Are you the one we are looking for?Inviting applications for the role of Process Developer– Data Analyst!In this role associate will work with a team to provide analytical support on deductions recovery. Such analytical support may include data management, data interpretation, reporting, structuring an analysis, interpreting the results in a business context and providing insights to team to drive deduction recovery.The analyst should be able to identify pattern emerging from data and reports and establish the linkage for the same with business problems.Responsibilities Prepares and analyses data. This can include locating, profiling, cleansing, extracting, mapping, importing, validating or modelling. Applies query, data exploration and transformation, basic statistical methods and visualization techniques to build business insights or improve data quality. Performs validation and testing to confirm the accuracy of the information built. Interprets results of analyses, identifies trends and issues, and develops recommendations to support business objectives. Communicates valuable information so that it is easy to understand and influences other to act based on the useful information provided. Think strategically about data as a core enterprise asset and assist in all phases of the advanced analytic development process Work with Data engineers to supervise and help institutionalize models and dashboards for Analytics Slice and dice through the database and come up with actionable analytical insights Support other task as assigned (dashboard, reporting, governance of data using audits to identify gaps and opportunities)Qualification we seek in you!Minimum Qualifications Graduate or equivalent Proven experience in OTC domain Analytical aptitude - problem solving, quantitative Knowledge on retail and FMCG/CPG industry, exposure to CPG/Consumer data Analytical skills, problem solving ability and attention to detail Should have ability to handle large data sets in arriving at meaningful findings. Proficiency with Microsoft Office Suite Work in a dynamic and fast-paced environment without compromising the qualityPreferred Qualifications Facility with one or more data analytical methods such as regression, decision trees, experimental designs, support vector machines, machine learning and text mining Excellent communication/ interpersonal skills Exposure to ERP systems (Oracle / SAP / Ariba)Genpact is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws. Genpact is committed to creating a dynamic work environment that values diversity and inclusion, respect and integrity, customer focus, and innovation. For more information, visit www.genpact.com. Follow us on Twitter, Facebook, LinkedIn, and YouTube.JobProcess DeveloperPrimary LocationIndia-NoidaEducation LevelBachelors / Graduation / EquivalentJob PostingJan 7, 2022, 4:54:04 PMUnposting DateOngoingMaster Skills ListOperationsJob CategoryFull Time",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/genpact-process-developer-data-analyst-cor021672-noida-uttar-pradesh-india-2-to-4-years-357034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcm9jZXNzIERldmVsb3BlcuKAkyBEYXRhIEFuYWx5c3QtQ09SMDIxNjcyIiwiY29tcGFueV9uYW1lIjoiR2VucGFjdCIsImh0aWRvY2lkIjoidnZrbzZXbHZmcWpkUzA5RkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpUbTlwWkdFc1ZYUjBZWElnVUhKaFpHVnphQ3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVzVoWkVOTlVrSkxUMnBpWVRCV01YSmZTa3d0T0ZkdWJHMHpVSEl3VG5sSlFYbFVaVlpKUTBobFYyOU1UMGhDUldsNWRFbEVPV0UzWkVGeFZFSnhRelYxUkRKTE1UaFFPV0pSZWpsYVV6TlFRMFprUld0S1lUZFdSVE5KU1hkWldqQnFWalZ3ZUhBeVgxSlVMV1V6ZWpjek4zRm9aMHMzVUZwVk1FNW1NVWRmUVV0SFVYZ1NGMUEzU0VkaGRucFVSMkpIWlhObFRWQndUM2xCZDBFMEdpSkJSSE55T1daUlNYWlFWek0yVEcxbWJYRlRhMUJCVVRKaVdsODNiRzh5U1ZobiIsImZjdiI6IjMiLCJmY19pZCI6InZ2a282V2x2ZnFqZFMwOUZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Multimodal AI Training Data Analyst (Noida)",
+      "company_name": "Innodata",
+      "location": "Noida, Uttar Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=JC0km3x5jTO68QNYAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x3NMQrCQBBAUWw9gtWUKpIVwUarQEBSKBZah0my7K5sZsLOCLHzDp7Bi3kSo83vPm_6nkyL4z1q6LjFCHkJl4SBAjkoUBFywvgQhfmJQ4sL-DxfcOMaxGJqPDDBgdlFO9t71V52xojEzImihiZruDNMtubBjJP8UonHZPuIaqvNdj1kPbkllESjP3qB4C-t4KqKCc4JWyv-CxaNNOWoAAAA&shmds=v1_ARwrE21zAKmKYe-ASUdb03lB918CbhW0D6fC5Eeu2DgIhpXKAA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=JC0km3x5jTO68QNYAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/multimodal-ai-training-data-analyst-noida/innodata/19449789",
+      "job_title": "Multimodal AI Training Data Analyst (Noida)",
+      "description": "We are hiring AI Data Annotation Specialists for an exciting project involving advanced video and audio understanding for next-generation multimodal AI models.\n\nYou will play a critical role in annotating, evaluating, and improving high-quality training data that powers AI systems in action recognition, reasoning, audio-visual synchronization, and more.\n\nKey Responsibilities  \n\n- Perform detailed video analysis and annotation including action anticipation, temporal ordering, counting & tracking, and high-density movement retrieval.\n- Conduct audio-visual evaluation, speech-action alignment, sound source identification, and paralinguistic analysis.\n- Write high-quality prompts and event descriptions with accurate constraints.\n- Perform Bounding Box annotation and quality evaluation.\n- Carry out Optical Character Recognition (OCR) in videos.\n- Evaluate AI model responses using weighted criteria and write professional rationales.\n- Correct audio transcripts and provide detailed reasoning.\n- Maintain exceptional attention to detail and consistency across complex tasks.\n\nRequired Skills & Qualifications  \n\n- Strong experience in Video Annotation, Audio Annotation, or Multimodal Data Labeling.\n- Excellent contextual comprehension and fine-grained attention to detail.\n- Proven ability in Prompt Writing, event description, and constraint design.\n- Good understanding of Reasoning & Intent Understanding, Temporal Ordering, and Action Analysis.\n- High proficiency in English (both written and spoken) for professional rationale writing.\n- Experience with annotation tools (Labelbox, CVAT, etc.) is a plus.\n\nAssessment Process\n\nShortlisted candidates will be required to complete a 2-hour online assessment (75% passing criteria) covering video understanding, audio analysis, prompt writing, and quality evaluation. Use of any AI tools during the assessment will lead to disqualification.\n\nHiring Process  \n\n1. Technical Assessment\n2. Pearson Assessment\n3. HR Screening .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/multimodal-ai-training-data-analyst-noida/innodata/19449789?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/2449502310133399552?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/335283505/technical-training-analyst-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNdWx0aW1vZGFsIEFJIFRyYWluaW5nIERhdGEgQW5hbHlzdCAoTm9pZGEpIiwiY29tcGFueV9uYW1lIjoiSW5ub2RhdGEiLCJodGlkb2NpZCI6IkpDMGttM3g1alRPNjhRTllBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVERkRWJscEVZekZaTVdwbFdrNWxOak5MYlZWM1YycDZibGxWYUVwTVJGbDJlWG95YUVWSVFqbGZWMmd5ZHpCMmIzaGpVRWhsYkdKT1ZEVlFNVkJvVTFKdVprNWZVa2hPVVhsbGRVZFBVWEZ5Ym5OS1pESTNkR3RvT0RGcmNXWXhXRUUxU0RBelMyaFhSbFE0V0dreFlVTTJNbVYxUjJ3NFQyeHhaVEI2ZW1aaFZraGhVVjhTRjFBM1NFZGhkbnBVUjJKSFpYTmxUVkJ3VDNsQmQwRTBHaUpCUkhOeU9XWlNTVFJqVjBKMVNuVlJiVEExY2pRdFMzZGFlRTFxYkhoNFJXaEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJKQzBrbTN4NWpUTzY4UU5ZQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst | Business Analyst | Fresher MNC Job - Fresher Can Apply MNC Jobs",
+      "company_name": "confidential",
+      "location": "New Delhi, Delhi",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=VRWxHhdtQS5BAgLUAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_02LMQrCQBBFsc0RrKYWzYpgo1VMUBDMFcIkjtmVdXbJrJiAhXfwUp7DkxgRxeZ_eO__6DGI6gwDQsJoOwlwhdVZDJPIH1o3JJoa2OUpbF0Jkx9JkSHx3nZfJ_C83eHYj4SwqTQ4ho1ztaXhUofgZaGUiI1rCRhMFVfupBxT6VrVn-QdhWhsyFsMVMzm0zb2XI-gcnwwe-Jg0IJhyOkCGVltxp96AZaJP_7LAAAA&shmds=v1_ARwrE20_oTLjKtuzDUiKHV4Ggxk5V3m6zhS8N_f9veedBYAQKA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=VRWxHhdtQS5BAgLUAAAAAA%3D%3D",
+      "extensions": [
+        "₹2.5L–₹7L a year",
+        "Full–time"
+      ],
+      "source_link": "https://in.jooble.org/jdp/-5192171702694184870",
+      "job_title": "Data Analyst | Business Analyst | Fresher MNC Job - Fresher Can Apply MNC Jobs",
+      "description": "Job Details Noida and Delhi \n\n Full Time in MNC \n\n Salary- 6 to 10 LPA \n\n\n\n\n\n\n\n Strong analytical skills with the ability to interpret large amounts of data and to multi-task. \n\n Excellent communication and presentation skills. \n\n Proficient in data analysis tools such as Excel, SQL, and Tableau. \n\n Knowledge of data warehousing and reporting. \n\n Ability to work independently and as part of a team. \n\n Strong attention to detail and accuracy. \n\n\n\n Develop reports and dashboards to communicate insights to stakeholders. \n\n Manage data quality, including data cleaning, validation, and verification. \n\n Collect, analyze, and interpret product data to identify trends and insights. \n\n\n\n Power BI \n\n\n\n Python \n\n\n\n SQL Analytics \n\n\n\n Tableau \n\n\n\n Advanced Excel \n\n\n\n VBA/Macros \n\n\n\n Regards \n\n HR \n\nView phone number on foundit.in | View phone number on foundit.in",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-5192171702694184870?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgfCBCdXNpbmVzcyBBbmFseXN0IHwgRnJlc2hlciBNTkMgSm9iIC0gRnJlc2hlciBDYW4gQXBwbHkgTU5DIEpvYnMiLCJjb21wYW55X25hbWUiOiJjb25maWRlbnRpYWwiLCJodGlkb2NpZCI6IlZSV3hIaGR0UVM1QkFnTFVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laVG05cFpHRXNWWFIwWVhJZ1VISmhaR1Z6YUN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzFSYVFqbGpkbXgwV21sNGRreElaalI0V210M1FVODNTMHhyZHpCeWRDMXdhQzFEZVhKSmFEUjVValp3WDB4cFMxcFNlRXRDVnpoMFRUWkxUbWg2UTA1bVlWSTJNMlZvV1U1dWVXWkVjREl3VVUxMVN6VkpTRnBXZFZkWVMwSkpZbkZzTkd0MlNrZFplbUpNYzBkQ1dWRTJUSEJmTUdGaUxUSnBVRTEyYUhFeFRYQjBVMkVTRjFBM1NFZGhkbnBVUjJKSFpYTmxUVkJ3VDNsQmQwRTBHaUpCUkhOeU9XWlRWazExZEVZMFIyOU1UamRSUjNKMlowMVdPVTlCZG5kb1RtOUIiLCJmY3YiOiIzIiwiZmNfaWQiOiJWUld4SGhkdFFTNUJBZ0xVQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Ultrasonics Data Analyst - Fresher",
+      "company_name": "Vischrom Data Solutions Private Limited",
+      "location": "Gurugram, Haryana",
+      "via": "Internshala",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=_vxfiw8nISnfKavxAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWNMQrCQBAAsc0TrLYWTUSwMTaCqIWFINqGzXnkTi63YXcjSecf_Izv8SVGbKaaYZL3KMkvQRmFojcCW1SETcTQi8IMdmzFWYbP8wV3KkEssnFAEfZEVbDj3Kk2ssoykZBWoqjepIbqjKItqcuGSH4oxCHbJqDaYrGcd2kTq8n66sU4pvq_PVNo1VMUOLF_DCYcfe3V3sAPv5bbirGewgG5x4hfThUXI7sAAAA&shmds=v1_ARwrE20iSMzavep3NgRnwqqaAe4Ba7577Ztab0D6Z8L0ilSqVA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=_vxfiw8nISnfKavxAAAAAA%3D%3D",
+      "extensions": [
+        "₹5.01L–₹11L a year",
+        "Full–time"
+      ],
+      "source_link": "https://internshala.com/job/detail/fresher-ultrasonics-data-analyst-job-in-gurgaon-at-vischrom-data-solutions-private-limited1788266758",
+      "job_title": "Ultrasonics Data Analyst - Fresher",
+      "description": "About the job:\n\nKey responsibilities:\n\n\n\n1. Processing and analyzing computer-generated test data collected from detector cars.\n\n2. Ensuring accuracy and compliance with internal and customer specifications by generating audit reports, supporting investigations, and maintaining departmental standards.\n\n3. Supporting quality, customer satisfaction, and operational performance.\\\n\n4. Analyze rail inspection data to identify defects and trends.\n\n5. Generate reports in accordance with company and customer requirements.\n\n6. Prepare data summaries and customer communications as required.\n\n7. Ensure compliance with internal standards and customer specifications.\n\n8. Support audit activities and service failure investigations through data analysis.\n\n9. Maintain departmental procedures and documentation.\n\n10. Assist with the evaluation and validation of new technologies.\n\n\n\nObjectives:\n\n\n\n1. Deliver accurate and timely analysis reports.\n\n2. Maintain high standards of data integrity and quality.\n\n3. Support continuous improvement initiatives.\n\n\n\nWhat this role offers:\n\n\n\n1. Exposure to advanced rail inspection technologies.\n\n2. Opportunity to contribute to rail safety and reliability.\n\n3. Collaborative and team-oriented work environment.\n\n4. Participation in innovation and process improvement initiatives.\n\nWho can apply:\n\nOnly those candidates can apply who:\n\n\n\nSalary:\n\n₹ 5,01,000 - 11,00,000 /year\n\nExperience:\n\nNo experience required\n\nDeadline:\n\n2026-10-11 23:59:59\n\nOther perks:\n\n5 days a week, Health Insurance\n\nSkills required:\n\nComputer skills\n\nOther Requirements:\n\n1. High School Diploma or GED required.2. Strong written and verbal communication skills.3. Ability to analyze data, identify trends, and solve problems.4. Strong organizational skills and attention to detail.5. Professional and collaborative approach to work.\n\nAbout Company:\n\nA global leader in rail inspection and asset integrity services, helping railroads and transit systems improve safety and reliability. Using advanced technologies such as ultrasonic testing, induction, and data analytics, we detect rail defects before they become critical failures. With decades of industry experience and operations across multiple countries, we support customers in maintaining safe, efficient, and sustainable rail networks through innovative inspection solutions and expert analysis.",
+      "apply_options": [
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/job/detail/fresher-ultrasonics-data-analyst-job-in-gurgaon-at-vischrom-data-solutions-private-limited1788266758?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/data-analyst-freshers-ocit-JV_IC2921225_KO0,21_KE22,26.htm?jl=1010189859562&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Sign In",
+          "link": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/17807?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/galytix-data-analyst-1639018?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Instahyre",
+          "link": "https://www.instahyre.com/job-434123-data-analyst-python-at-wissen-technology-gurgaon/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/OqGkkn16ksq_9gCriOw5V3813JciZ9xdNA-ZB_Zlv7ZKsfwJXz-oKA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-6734224106780129581?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "IFFCO Yuva",
+          "link": "https://www.iffcoyuva.in/te/job-listings-analyst-data-science---11437.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJVbHRyYXNvbmljcyBEYXRhIEFuYWx5c3QgLSBGcmVzaGVyIiwiY29tcGFueV9uYW1lIjoiVmlzY2hyb20gRGF0YSBTb2x1dGlvbnMgUHJpdmF0ZSBMaW1pdGVkIiwiaHRpZG9jaWQiOiJfdnhmaXc4bklTbmZLYXZ4QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlRtOXBaR0VzVlhSMFlYSWdVSEpoWkdWemFDeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMweGhSVUV0ZWpSWmFUSjZTVzFwYWw5UFVuZzFPWEl6YzJGVlV6QXdlWHBFVFhwNU1UbE1WM0ZSTjFoRVZtaFhkWGt0T0VvMVlXSTRUa1I2U1ZkMFJVUk5ZbkJzT0VGNmNHVjRlV3B1ZWw5RFJUZFFaWEJoUzFOdE16aEJZVEZ1WkU1WFF6TkdNbk53Y1ROWWFWVTVTRkJ3YXpsT1YzUktNelkyZVd0eE5IUjJaekZMYkZvU0YxQTNTRWRoZG5wVVIySkhaWE5sVFZCd1QzbEJkMEUwR2lKQlJITnlPV1pTZEVaUGRUUnBNbXByVkhCNVIyMU1ZMUF6TFZCcU0zbG9ZWEJCIiwiZmN2IjoiMyIsImZjX2lkIjoiX3Z4Zml3OG5JU25mS2F2eEFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTMFp2UlVwUVpIQjVRazUyUVhVNFdFSlJVRmRZWDE5UFZqSmplWEpYV0VweWRUVjFkRVJWYkd0UVpXZFNSbVJVYW5CM2JuWmllazEwWjJORFVGTmpkRnBOZVVGTFdHSlVZWFZUWVRNemVtaHBaVXBhYUhsemJGQjBjVmRFUlU5RVVsY3hOM2t6VTBkV1NrNDFhRWMxTlcxWmNUbElZVlJzTm5kSE1rZ3piVGwyVWw5b2VVUXdWV04wTFUxeE1XMWFNRU00YjBGdWFUWnlkMVJ4V1ZCdWRXRktWRjlIVlhScFFsZHJPREJqYTFCemFrVnlWVVpqVlc5aU1WaGphbEJmY25SdU5FMXpNbE5yTlc5cU5uWXhURXRNVFhKdGN6YzNiVlY2UTE4dFprcGxRWFp0U0d0bGJ6aHhka1oyTjJSZmVuUllPRTl3V0dGTGRuZEZUMmx0YWtGa2FqZElNbEExTVdkU1FqZHhXWFJ6TjNaVVpsWXhRelJvZDJaWFF6bEZSRVpMWlhRd1NqSnpVa3hUYm5kalZEZHJUV3N3TTBsTVN6bDBWVEZDUVVkYWVqRk1hbk1TRjFBM1NFZGhkbnBVUjJKSFpYTmxUVkJ3VDNsQmQwRTBHaUpCUkhOeU9XWlVlVWszT1hBNU9FZEpZbGx4ZWtWVFoycHFjbEpMVjA5Wk1EaEIiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Noida%2C+India&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTMFp2UlVwUVpIQjVRazUyUVhVNFdFSlJVRmRZWDE5UFZqSmplWEpYV0VweWRUVjFkRVJWYkd0UVpXZFNSbVJVYW5CM2JuWmllazEwWjJORFVGTmpkRnBOZVVGTFdHSlVZWFZUWVRNemVtaHBaVXBhYUhsemJGQjBjVmRFUlU5RVVsY3hOM2t6VTBkV1NrNDFhRWMxTlcxWmNUbElZVlJzTm5kSE1rZ3piVGwyVWw5b2VVUXdWV04wTFUxeE1XMWFNRU00YjBGdWFUWnlkMVJ4V1ZCdWRXRktWRjlIVlhScFFsZHJPREJqYTFCemFrVnlWVVpqVlc5aU1WaGphbEJmY25SdU5FMXpNbE5yTlc5cU5uWXhURXRNVFhKdGN6YzNiVlY2UTE4dFprcGxRWFp0U0d0bGJ6aHhka1oyTjJSZmVuUllPRTl3V0dGTGRuZEZUMmx0YWtGa2FqZElNbEExTVdkU1FqZHhXWFJ6TjNaVVpsWXhRelJvZDJaWFF6bEZSRVpMWlhRd1NqSnpVa3hUYm5kalZEZHJUV3N3TTBsTVN6bDBWVEZDUVVkYWVqRk1hbk1TRjFBM1NFZGhkbnBVUjJKSFpYTmxUVkJ3VDNsQmQwRTBHaUpCUkhOeU9XWlVlVWszT1hBNU9FZEpZbGx4ZWtWVFoycHFjbEpMVjA5Wk1EaEIiLCJmY3YiOiIzIn0%3D&q=Data+Analyst+fresher"
+  }
+}

@@ -1,0 +1,687 @@
+{
+  "search_metadata": {
+    "id": "6ac6a054d1816998f9656ce1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/oMunjdN3cy_xH4oUKKvtvlhlhaYHWsksorH6NXaMZVI/6ac6a054d1816998f9656ce1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/oMunjdN3cy_xH4oUKKvtvlhlhaYHWsksorH6NXaMZVI/6ac6a054d1816998f9656ce1.md",
+    "created_at": "2026-10-07 19:41:08 UTC",
+    "processed_at": "2026-10-07 19:41:08 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=CRM+full+course+for+beginners&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/oMunjdN3cy_xH4oUKKvtvlhlhaYHWsksorH6NXaMZVI/6ac6a054d1816998f9656ce1.html",
+    "total_time_taken": 3.54
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "CRM full course for beginners",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 5313825,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "What Is CRM? | Introduction To CRM Software| CRM Projects For Beginners | CRM 2022 | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=sQD7kaZ5h0s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sQD7kaZ5h0s",
+      "video_id": "sQD7kaZ5h0s",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1064380,
+      "length": "6:43",
+      "description": "ITIL Foundation (Version 5) ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/sQD7kaZ5h0s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDz5Srz7K9Fq37MgC6VMSoRrZDPnQ",
+        "rich": "https://i.ytimg.com/an_webp/sQD7kaZ5h0s/mqdefault_6s.webp?du=3000&sqp=CMWimtYG&rs=AOn4CLDFu6x5hQ2UuRxi1Y4O840OxRQLIw"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "What Is CRM? | CRM Course For Beginners | Customer Relationship Management | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=Ci_qMjf8JRg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ci_qMjf8JRg",
+      "video_id": "Ci_qMjf8JRg",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 75970,
+      "length": "1:04:52",
+      "description": "Microsoft Azure - AI-Powered Business Analyst ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ci_qMjf8JRg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-mCgT2dTN6SPEMmOJOn5EkEIJMQ"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Salesforce CRM Full Training Tutorial For Beginners | 2022",
+      "link": "https://www.youtube.com/watch?v=jHzIGGU-Ph0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jHzIGGU-Ph0",
+      "video_id": "jHzIGGU-Ph0",
+      "channel": {
+        "name": "Nick Boardman",
+        "link": "https://www.youtube.com/@NickBoardman",
+        "thumbnail": "https://yt3.ggpht.com/frNMr83I-NahggbhqvrnCFLzLfJAmnmPdyr4gUHzGxZJs8_cRP-0Jdh29vkrK3OKIJ-97CYkpQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1009967,
+      "length": "40:26",
+      "description": "Need Help With Salesforce? Go here: https://www.crmcrew.com/sf In this video I explain how to use the key features inside ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jHzIGGU-Ph0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqCN2zs46Y4PJsxNElhswy6NACwg",
+        "rich": "https://i.ytimg.com/an_webp/jHzIGGU-Ph0/mqdefault_6s.webp?du=3000&sqp=CJ2GmtYG&rs=AOn4CLAzUFvUSoNGFJSwiakjY_nzbb1OQw"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "How to Use CRM as a Virtual Assistant (Easy Tutorial)",
+      "link": "https://www.youtube.com/watch?v=0zw9kzFaX4Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0zw9kzFaX4Y",
+      "video_id": "0zw9kzFaX4Y",
+      "channel": {
+        "name": "Omowunmi’s Virtual Assistant Academy ",
+        "link": "https://www.youtube.com/@wunmitalkscreative",
+        "thumbnail": "https://yt3.ggpht.com/gnXpHG4aUcnwQdLX6FDn3TJXHNSDQgSwAwhdXLvvpbXCNyvzQlStyUQ_JdHc3KBgBsT9pGtUETE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 129914,
+      "length": "18:24",
+      "description": "Are you new to the Virtual Assistant world and not sure how to use a CRM (Customer Relationship Management) tool? In this ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0zw9kzFaX4Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrqK3Zy6TyxwjldmPwKvrzz0R5AA",
+        "rich": "https://i.ytimg.com/an_webp/0zw9kzFaX4Y/mqdefault_6s.webp?du=3000&sqp=CPCJmtYG&rs=AOn4CLCfnGvigg5latSJFvABU4p-7tQ5Kg"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "HubSpot CRM FULL Beginners Tutorial 2026 | Complete Training Course",
+      "link": "https://www.youtube.com/watch?v=T9tnDlEvlQg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=T9tnDlEvlQg",
+      "video_id": "T9tnDlEvlQg",
+      "channel": {
+        "name": "Drew Brockbank | Brockbank Consulting",
+        "link": "https://www.youtube.com/@drewbrockbank",
+        "thumbnail": "https://yt3.ggpht.com/HQWY8OJiLl-cYtNacIcn_e4J2eHPFVNtGBtRu-w3xrGi4INbCtO6DgQFS3MZmOfb5AneWI-lrQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 42415,
+      "length": "3:20:06",
+      "description": "Need Help With Manufacturing or Distribution CRM/ERP Systems? Book a Free Consultation ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/T9tnDlEvlQg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiTS5vwBSsufEBAS4XSRrfikj4ug",
+        "rich": "https://i.ytimg.com/an_webp/T9tnDlEvlQg/mqdefault_6s.webp?du=3000&sqp=CLCPmtYG&rs=AOn4CLBsyT-RbHYTDOzWFd8-Dt__-TxTwg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "HubSpot CRM Tutorial for Beginners  - Complete Training Course",
+      "link": "https://www.youtube.com/watch?v=8VUWyMVK2Uc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8VUWyMVK2Uc",
+      "video_id": "8VUWyMVK2Uc",
+      "channel": {
+        "name": "Simon Sez IT",
+        "link": "https://www.youtube.com/@SimonSezIT",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5n5ruLbcevwzMRUwDYTpV-MMWyhH9IdJFU2lby8CC8Ls=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 219234,
+      "length": "2:01:12",
+      "description": "Download the free setup checklist guide and follow along here: ➡️ https://www.simonsezit.com/hubspot-setup-checklist Discover ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/8VUWyMVK2Uc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkhPd3W48fJmlSCfV3_HqVNt8qTA",
+        "rich": "https://i.ytimg.com/an_webp/8VUWyMVK2Uc/mqdefault_6s.webp?du=3000&sqp=CNqkmtYG&rs=AOn4CLA1zCgKXevfZMx_TNPPBTTqwIaMNg"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "What Is CRM? | Hubspot CRM Tutorial for Beginners VAs, Cold Callers & Customer Service ",
+      "link": "https://www.youtube.com/watch?v=IEuGJec4WFI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IEuGJec4WFI",
+      "video_id": "IEuGJec4WFI",
+      "channel": {
+        "name": "Virtual Ms Mariam",
+        "link": "https://www.youtube.com/@Virtualmsmariam",
+        "thumbnail": "https://yt3.ggpht.com/oymAR4H8qvcc1Ve7YanagYEnxuWanvgiMig_RRU9yRZmKGNgvt2NmOLSqeBq2EzQOihvNujPrlA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 20188,
+      "length": "24:17",
+      "description": "If you're new to the virtual assistant world, customer service, cold calling, sales support, or admin roles — you've probably seen ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/IEuGJec4WFI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZd__5Iv1G-xfRGRcvxgl46CjtxQ",
+        "rich": "https://i.ytimg.com/an_webp/IEuGJec4WFI/mqdefault_6s.webp?du=3000&sqp=CLywmtYG&rs=AOn4CLA2IJIbYDWxQAk_T-XM5tBQpjch7Q"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "HubSpot CRM Tutorial for Beginners 2026 (Step-by-Step)",
+      "link": "https://www.youtube.com/watch?v=t8QM5zunC44",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t8QM5zunC44",
+      "video_id": "t8QM5zunC44",
+      "channel": {
+        "name": "Metics Media",
+        "link": "https://www.youtube.com/@MeticsMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FBsGsD6I9gJup-VfLmqFVg9MZw_WkU8Q3K7zH3hi-_O5ZzHXtu7r0o-XjIkIqTmcoR4a-JA4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 317211,
+      "length": "19:36",
+      "description": "In this HubSpot CRM Tutorial for Beginners you'll learn how to set up HubSpot CRM, step by step. I will help you set up contacts, ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/t8QM5zunC44/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNvICvMBvncKOz2vnlLFP402MgqA",
+        "rich": "https://i.ytimg.com/an_webp/t8QM5zunC44/mqdefault_6s.webp?du=3000&sqp=CPyMmtYG&rs=AOn4CLCk-zgFEjIqmEF19RxXOI4bcZMz3w"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Zoho CRM FULL Beginners Tutorial 2026 | Complete Training Course",
+      "link": "https://www.youtube.com/watch?v=CJtqyyYNOyU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CJtqyyYNOyU",
+      "video_id": "CJtqyyYNOyU",
+      "channel": {
+        "name": "Drew Brockbank | Brockbank Consulting",
+        "link": "https://www.youtube.com/@drewbrockbank",
+        "thumbnail": "https://yt3.ggpht.com/HQWY8OJiLl-cYtNacIcn_e4J2eHPFVNtGBtRu-w3xrGi4INbCtO6DgQFS3MZmOfb5AneWI-lrQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 35841,
+      "length": "3:15:01",
+      "description": "Need Help With Zoho? Book a Free Consultation » https://www.brockbank-consulting.com/?utm_content=ZohoCRMFullNew ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/CJtqyyYNOyU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnjTjcYmEAu3UXc2slkrbNsp93Wg",
+        "rich": "https://i.ytimg.com/an_webp/CJtqyyYNOyU/mqdefault_6s.webp?du=3000&sqp=COmYmtYG&rs=AOn4CLBMZ9KLx7wNtB8UrMa2qDvUeHOISg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Salesforce CRM FULL Tutorial For Beginners | Complete Training Masterclass 2026",
+      "link": "https://www.youtube.com/watch?v=a5oxfjdoJOg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=a5oxfjdoJOg",
+      "video_id": "a5oxfjdoJOg",
+      "channel": {
+        "name": "Drew Brockbank | Brockbank Consulting",
+        "link": "https://www.youtube.com/@drewbrockbank",
+        "thumbnail": "https://yt3.ggpht.com/HQWY8OJiLl-cYtNacIcn_e4J2eHPFVNtGBtRu-w3xrGi4INbCtO6DgQFS3MZmOfb5AneWI-lrQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 71633,
+      "length": "44:11",
+      "description": "Need Help With Manufacturing or Distribution CRM/ERP Systems? Book a Free Consultation ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/a5oxfjdoJOg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD5RCu9uJypl5kx-pPoe_Y3l2rcw",
+        "rich": "https://i.ytimg.com/an_webp/a5oxfjdoJOg/mqdefault_6s.webp?du=3000&sqp=COCmmtYG&rs=AOn4CLB9amFrYvSu2g-9PMuvssY6cXXC5A"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Unlock HubSpot CRM: Complete Step-by-Step Guide for Beginners",
+      "link": "https://www.youtube.com/watch?v=4-yJZt_9dSY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4-yJZt_9dSY",
+      "video_id": "4-yJZt_9dSY",
+      "channel": {
+        "name": "Hema Glory",
+        "link": "https://www.youtube.com/@crminstructors",
+        "thumbnail": "https://yt3.ggpht.com/K55uFqra-MvTGFZ1xQ25YLRtGy0y3TN7si4tW4dtraT-lDMdXh7wHO-y0WivJBiclk74BC2x=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 6189,
+      "length": "4:17:27",
+      "description": "This is the most complete free HubSpot CRM tutorial for beginners on YouTube in 2026. In this 4-hour step-by-step HubSpot CRM ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/4-yJZt_9dSY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR1NnIf91hRMjcx2LNK5pEJ8vmlw",
+        "rich": "https://i.ytimg.com/an_webp/4-yJZt_9dSY/mqdefault_6s.webp?du=3000&sqp=CI61mtYG&rs=AOn4CLDNUZI2OsKpk6luUgcqSvXyhqaVog"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "5hr Salesforce CRM Complete FREE Course for beginners | Admin Tutorial | Call: [redacted]",
+      "link": "https://www.youtube.com/watch?v=pbPIAlRzQYU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pbPIAlRzQYU",
+      "video_id": "pbPIAlRzQYU",
+      "channel": {
+        "name": "CRS Info Solutions",
+        "link": "https://www.youtube.com/@CRSInfoSolutions",
+        "thumbnail": "https://yt3.ggpht.com/9vM8tCoK_wO2g9UoP-6aW_INSNHs_tIFPi_HSU769T6rtCYJFGR87-SlcKE3ND42PjSBs-fQB7A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 40427,
+      "length": "5:00:59",
+      "description": "Timestamps: 00:00:00 – Intro & What is Salesforce? 00:00:41 – How to create Developer Edition Org 00:04:00 – Standard Objects ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pbPIAlRzQYU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkChu4Vsxx1Zsv8hgmVPubuPJg-A",
+        "rich": "https://i.ytimg.com/an_webp/pbPIAlRzQYU/mqdefault_6s.webp?du=3000&sqp=CKv6mdYG&rs=AOn4CLBQo-k_57caIn1wxwmvYtMXN_Lsng"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "What is CRM and How Does it Work?",
+      "link": "https://www.youtube.com/watch?v=SlhESAKF1Tk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=SlhESAKF1Tk",
+      "video_id": "SlhESAKF1Tk",
+      "channel": {
+        "name": "Salesforce",
+        "link": "https://www.youtube.com/@salesforce",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/SKr3mPUNranWHFTCwwNl2CoT4M7KObm4MlVuFVz5pQisd26ZLMQ6yXGdRyZSOLRYtSGmc85OLHQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 6320838,
+      "length": "2:41",
+      "description": "What is CRM (Customer Relationship Management) and how does CRM work? Watch this video to see how CRM helps you keep ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SlhESAKF1Tk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyRsuJTgcFklKWAbNzUZaJd8IcoQ",
+        "rich": "https://i.ytimg.com/an_webp/SlhESAKF1Tk/mqdefault_6s.webp?du=3000&sqp=CNWfmtYG&rs=AOn4CLBbilbo1vYx3EKLvplpAoKTSp1Z-g"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Salesforce Admin Complete Training | Salesforce Administration | Salesforce Admin Tutorial| Best CRM",
+      "link": "https://www.youtube.com/watch?v=kjcBW8FlqSk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kjcBW8FlqSk",
+      "video_id": "kjcBW8FlqSk",
+      "channel": {
+        "name": "Infoloomia",
+        "link": "https://www.youtube.com/@infoloomia",
+        "thumbnail": "https://yt3.ggpht.com/pwGmYFBrWehpuhhMyH8_IPbh_sjoFJfouyzGtaIRHG-72AZwANeDE7NtW75l0043EaBvSgNiJFw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 59564,
+      "length": "5:27:15",
+      "description": "This is complete Salesforce Admin Training material where we will cover all| Salesforce Administration topics (Salesforce Admin ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/kjcBW8FlqSk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjj7Dwfw-6IqqZ008bLOldRRP1zg",
+        "rich": "https://i.ytimg.com/an_webp/kjcBW8FlqSk/mqdefault_6s.webp?du=3000&sqp=CJO2mtYG&rs=AOn4CLA4BXeoBrUV5vYVxS1L4YxE6tlRmQ"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 3,
+      "title": "CRM 101: A complete step-by-step guide to Customer Relationship Management",
+      "link": "https://www.youtube.com/playlist?list=PLVAe6AU5nj5d6BIbaxTv1SlW22utk4IaO",
+      "channel": {
+        "name": "Tilley Live",
+        "link": "https://www.youtube.com/@tilley_live"
+      },
+      "videos": [
+        {
+          "title": "What is CRM? Part I // CRM 101 // CRM Explained / ERP vs CRM",
+          "length": "12:09",
+          "link": "https://www.youtube.com/watch?v=3q27C1uW3eg&list=PLVAe6AU5nj5d6BIbaxTv1SlW22utk4IaO"
+        },
+        {
+          "title": "What is CRM? Part II // CRM 101 // How to Choose and Implement the Right CRM",
+          "length": "17:58",
+          "link": "https://www.youtube.com/watch?v=6u6fD153QKg&list=PLVAe6AU5nj5d6BIbaxTv1SlW22utk4IaO"
+        }
+      ],
+      "video_count": 8,
+      "thumbnail": "https://i.ytimg.com/vi/3q27C1uW3eg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB-oT2_PD8VAIzBJ_XGGHLCWo-9Zg"
+    },
+    {
+      "position_on_page": 13,
+      "title": "Learn the concepts of CRMs for Digital Marketers | Full Course in Hindi",
+      "link": "https://www.youtube.com/playlist?list=PLNfnAKZ4ZsaqN1TYJtELohOWWqgxdrSim",
+      "channel": {
+        "name": "Umar Tazkeer ",
+        "link": "https://www.youtube.com/@UmarTazkeer"
+      },
+      "videos": [
+        {
+          "title": "Introduction to Customer Relationship Management & its use for Digital Marketers | CRM Course |#1",
+          "length": "17:13",
+          "link": "https://www.youtube.com/watch?v=SHbpMG9ARX0&list=PLNfnAKZ4ZsaqN1TYJtELohOWWqgxdrSim"
+        },
+        {
+          "title": "How to Send Leads Automatically to Hubspot CRM ? | CRM Course |#2",
+          "length": "10:27",
+          "link": "https://www.youtube.com/watch?v=fmvtaBnMzs0&list=PLNfnAKZ4ZsaqN1TYJtELohOWWqgxdrSim"
+        }
+      ],
+      "video_count": 9,
+      "thumbnail": "https://i.ytimg.com/vi/SHbpMG9ARX0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDatLfEFWqynpCYCkWk-IkCBm-fZA"
+    },
+    {
+      "position_on_page": 15,
+      "title": "Zoho Full Training Tutorials",
+      "link": "https://www.youtube.com/playlist?list=PLZKqUC9F58AoLjPnALl22w3E_oVwGKTz-",
+      "channel": {
+        "name": "Drew Brockbank | Brockbank Consulting",
+        "link": "https://www.youtube.com/@drewbrockbank"
+      },
+      "videos": [
+        {
+          "title": "Zoho CRM FULL Training Masterclass | From Beginner to Power User Tutorial | 2026",
+          "length": "1:50:40",
+          "link": "https://www.youtube.com/watch?v=TmJyPwliaao&list=PLZKqUC9F58AoLjPnALl22w3E_oVwGKTz-"
+        },
+        {
+          "title": "Zoho Books FULL Tutorial For Beginners 2026 | Get Started with Zoho FREE ALL-IN-ONE Accounting App",
+          "length": "19:48",
+          "link": "https://www.youtube.com/watch?v=5Acnyt6QEhs&list=PLZKqUC9F58AoLjPnALl22w3E_oVwGKTz-"
+        }
+      ],
+      "video_count": 16,
+      "thumbnail": "https://i.ytimg.com/vi/TmJyPwliaao/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBKdOCecOf5SWfh3F6WwVwODPnH3Q"
+    },
+    {
+      "position_on_page": 17,
+      "title": "Zoho CRM Tutorial  2024 for Beginners | Latest Zoho CRM Training Program For Beginners",
+      "link": "https://www.youtube.com/playlist?list=PLM-xYkiiLCjik0VF26ma_9FxA2Fmi4JQb",
+      "channel": {
+        "name": "Soulvista Digital (Hindi)",
+        "link": "https://www.youtube.com/@soulvistadigitalhindi"
+      },
+      "videos": [
+        {
+          "title": "Zoho CRM Tutorial part 1 | Introduction and Overview | 2024",
+          "length": "22:29",
+          "link": "https://www.youtube.com/watch?v=bNesYSwZVZA&list=PLM-xYkiiLCjik0VF26ma_9FxA2Fmi4JQb&pp=0gcJCQIF0aJEHMZM"
+        },
+        {
+          "title": "General Setting in Zoho CRM | Zoho CRM Tutorial Part 2 | 2024",
+          "length": "17:47",
+          "link": "https://www.youtube.com/watch?v=cRxGJO0oIHQ&list=PLM-xYkiiLCjik0VF26ma_9FxA2Fmi4JQb"
+        }
+      ],
+      "video_count": 10,
+      "thumbnail": "https://i.ytimg.com/vi/bNesYSwZVZA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBV5a3kXQBHMl42uTrRXWsPgjN9og"
+    },
+    {
+      "position_on_page": 18,
+      "title": "🔥 Free GoHighLevel Course (FULL Training – CRM, Funnels, AI, Automations & More!) | Nuno Tavares | Automated Marketer",
+      "link": "https://www.youtube.com/playlist?list=PLouep20JDz2N5NmqpV7p9mxxriA029w7g",
+      "channel": {
+        "name": "Nuno Tavares | Automated Marketer",
+        "link": "https://www.youtube.com/@AutomatedMarketer"
+      },
+      "videos": [
+        {
+          "title": "The Only GoHighLevel Tutorial You'll Ever Need (2026 Full Course)",
+          "length": "8:18:47",
+          "link": "https://www.youtube.com/watch?v=EOCoGEUvao4&list=PLouep20JDz2N5NmqpV7p9mxxriA029w7g"
+        },
+        {
+          "title": "How to Add a Domain in GoHighLevel (Step-by-Step Guide)",
+          "length": "17:22",
+          "link": "https://www.youtube.com/watch?v=PkEY42UBoVQ&list=PLouep20JDz2N5NmqpV7p9mxxriA029w7g"
+        }
+      ],
+      "video_count": 24,
+      "thumbnail": "https://i.ytimg.com/vi/EOCoGEUvao4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDKz9yj62NVxX4H2CVSRp5cnImKlA"
+    },
+    {
+      "position_on_page": 21,
+      "title": "D365 Microsoft Dynamics CRM Sales & Customer Service Full Course in Telugu",
+      "link": "https://www.youtube.com/playlist?list=PLnM_hLY7emHwgMKKHh-fcj1Dhrwzh848S",
+      "channel": {
+        "name": "Sravani Chowdary D365 Microsoft CRM tech ",
+        "link": "https://www.youtube.com/@KushalChowdaryCRMTechTutor"
+      },
+      "videos": [
+        {
+          "title": "ChatGPT Astra 6: Create & Host a Website with ONE Simple Prompt! No Coding",
+          "length": "16:54",
+          "link": "https://www.youtube.com/watch?v=iiadu5BsPLc&list=PLnM_hLY7emHwgMKKHh-fcj1Dhrwzh848S"
+        },
+        {
+          "title": "REST API in Power Automate GET Method → Create Record in Dynamics 365 CRM",
+          "length": "21:46",
+          "link": "https://www.youtube.com/watch?v=YlFZnxA41Z4&list=PLnM_hLY7emHwgMKKHh-fcj1Dhrwzh848S"
+        }
+      ],
+      "video_count": 45,
+      "thumbnail": "https://i.ytimg.com/vi/iiadu5BsPLc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAJCA76uu0P1C83vL17SM3_vCKnhA"
+    }
+  ],
+  "shorts_results": [
+    {
+      "position_on_page": 19,
+      "shorts": [
+        {
+          "title": "your simple guide to building your own CRM",
+          "link": "https://www.youtube.com/shorts/dtK5tCvkHmA",
+          "thumbnail": "https://i.ytimg.com/vi/dtK5tCvkHmA/frame0.jpg",
+          "views_original": "10 views",
+          "views": 10,
+          "video_id": "dtK5tCvkHmA"
+        },
+        {
+          "title": "Build a CRM in Excel: 2 Complete CRM Tutorials",
+          "link": "https://www.youtube.com/shorts/jrMOMW1UV7g",
+          "thumbnail": "https://i.ytimg.com/vi/jrMOMW1UV7g/frame0.jpg",
+          "views_original": "154 views",
+          "views": 154,
+          "video_id": "jrMOMW1UV7g"
+        },
+        {
+          "title": "Build a free CRM with Google Sheets and AI",
+          "link": "https://www.youtube.com/shorts/3XvHomgL5rw",
+          "thumbnail": "https://i.ytimg.com/vi/3XvHomgL5rw/frame0.jpg",
+          "views_original": "96 views",
+          "views": 96,
+          "video_id": "3XvHomgL5rw"
+        },
+        {
+          "title": "CRM: What Is It?",
+          "link": "https://www.youtube.com/shorts/dpQxl-GhjFg",
+          "thumbnail": "https://i.ytimg.com/vi/dpQxl-GhjFg/frame0.jpg",
+          "views_original": "27K views",
+          "views": 27000,
+          "video_id": "dpQxl-GhjFg"
+        },
+        {
+          "title": "Zoho CRM Crash Course For Beginners 🤩",
+          "link": "https://www.youtube.com/shorts/W2hRTuXOLj8",
+          "thumbnail": "https://i.ytimg.com/vi/W2hRTuXOLj8/frame0.jpg",
+          "views_original": "45K views",
+          "views": 45000,
+          "video_id": "W2hRTuXOLj8"
+        }
+      ]
+    },
+    {
+      "position_on_page": 22,
+      "shorts": [
+        {
+          "title": "The Easiest Way to Launch Your Own CRM Business. White Label CRM: Build Your Own Software Company",
+          "link": "https://www.youtube.com/shorts/qAVa4ezZIxI",
+          "thumbnail": "https://i.ytimg.com/vi/qAVa4ezZIxI/frame0.jpg",
+          "views_original": "49 views",
+          "views": 49,
+          "video_id": "qAVa4ezZIxI"
+        },
+        {
+          "title": "Non-Coders Build CRM Workflows",
+          "link": "https://www.youtube.com/shorts/l-cHASxJbeY",
+          "thumbnail": "https://i.ytimg.com/vi/l-cHASxJbeY/frame0.jpg",
+          "views_original": "209 views",
+          "views": 209,
+          "video_id": "l-cHASxJbeY"
+        },
+        {
+          "title": "CRM Tools: Everything you need to know about",
+          "link": "https://www.youtube.com/shorts/fwUZ76Knigw",
+          "thumbnail": "https://i.ytimg.com/vi/fwUZ76Knigw/frame0.jpg",
+          "views_original": "19K views",
+          "views": 19000,
+          "video_id": "fwUZ76Knigw"
+        },
+        {
+          "title": "What is CRM ? A Simple Explanation for Everyone #CRM",
+          "link": "https://www.youtube.com/shorts/mdz4IyCZBvc",
+          "thumbnail": "https://i.ytimg.com/vi/mdz4IyCZBvc/frame0.jpg",
+          "views_original": "45K views",
+          "views": 45000,
+          "video_id": "mdz4IyCZBvc"
+        },
+        {
+          "title": "I Built a CRM in 10 Minutes (Custom CRM for Small Business)",
+          "link": "https://www.youtube.com/shorts/Ehvrlv4Tzsw",
+          "thumbnail": "https://i.ytimg.com/vi/Ehvrlv4Tzsw/frame0.jpg",
+          "views_original": "57 views",
+          "views": 57,
+          "video_id": "Ehvrlv4Tzsw"
+        },
+        {
+          "title": "CRM - Customer Relationship Management",
+          "link": "https://www.youtube.com/shorts/P5Gviyd-Hww",
+          "thumbnail": "https://i.ytimg.com/vi/P5Gviyd-Hww/frame0.jpg",
+          "views_original": "118K views",
+          "views": 118000,
+          "video_id": "P5Gviyd-Hww"
+        },
+        {
+          "title": "What is CRM?",
+          "link": "https://www.youtube.com/shorts/1lFHkIsXYxI",
+          "thumbnail": "https://i.ytimg.com/vi/1lFHkIsXYxI/frame0.jpg",
+          "views_original": "114K views",
+          "views": 114000,
+          "video_id": "1lFHkIsXYxI"
+        },
+        {
+          "title": "\"Create a Custom CRM in Excel: Easy and Free!\"   #execkart #exceltips #crm #resumes #resumetips",
+          "link": "https://www.youtube.com/shorts/3FqvVak9fws",
+          "thumbnail": "https://i.ytimg.com/vi/3FqvVak9fws/frame0.jpg",
+          "views_original": "139K views",
+          "views": 139000,
+          "video_id": "3FqvVak9fws"
+        },
+        {
+          "title": "Build a Custom CRM App in 3 minutes with Glide [Glide Classic]",
+          "link": "https://www.youtube.com/shorts/pulFEooH8qk",
+          "thumbnail": "https://i.ytimg.com/vi/pulFEooH8qk/frame0.jpg",
+          "views_original": "62K views",
+          "views": 62000,
+          "video_id": "pulFEooH8qk"
+        },
+        {
+          "title": "How to build your own CRM for free",
+          "link": "https://www.youtube.com/shorts/PfqJRBwURoQ",
+          "thumbnail": "https://i.ytimg.com/vi/PfqJRBwURoQ/frame0.jpg",
+          "views_original": "74K views",
+          "views": 74000,
+          "video_id": "PfqJRBwURoQ"
+        },
+        {
+          "title": "The free and easy way to build a CRM",
+          "link": "https://www.youtube.com/shorts/XFjsevG2nvc",
+          "thumbnail": "https://i.ytimg.com/vi/XFjsevG2nvc/frame0.jpg",
+          "views_original": "15K views",
+          "views": 15000,
+          "video_id": "XFjsevG2nvc"
+        },
+        {
+          "title": "🚀 CRM Software Demo 2025 | Simplify Sales, Manage Leads & Grow Your Business!",
+          "link": "https://www.youtube.com/shorts/3pPdgSYf9Sw",
+          "thumbnail": "https://i.ytimg.com/vi/3pPdgSYf9Sw/frame0.jpg",
+          "views_original": "38K views",
+          "views": 38000,
+          "video_id": "3pPdgSYf9Sw"
+        },
+        {
+          "title": "How to Use a CRM Software",
+          "link": "https://www.youtube.com/shorts/3erTKt2FUKU",
+          "thumbnail": "https://i.ytimg.com/vi/3erTKt2FUKU/frame0.jpg",
+          "views_original": "6.6K views",
+          "views": 6600,
+          "video_id": "3erTKt2FUKU"
+        },
+        {
+          "title": "Unlock Your CRM's Hidden Power  Pipelines & Opportunities",
+          "link": "https://www.youtube.com/shorts/rbsBrT_SdAE",
+          "thumbnail": "https://i.ytimg.com/vi/rbsBrT_SdAE/frame0.jpg",
+          "views_original": "14 views",
+          "views": 14,
+          "video_id": "rbsBrT_SdAE"
+        },
+        {
+          "title": "5 CRM Tools for Solopreneurs That Save You HUNDREDS (EngageBay, HubSpot & More!)",
+          "link": "https://www.youtube.com/shorts/0IQeKLC5WzA",
+          "thumbnail": "https://i.ytimg.com/vi/0IQeKLC5WzA/frame0.jpg",
+          "views_original": "11 views",
+          "views": 11,
+          "video_id": "0IQeKLC5WzA"
+        },
+        {
+          "title": "What is CRM | Customer relationship management | How does it work? Dr Ujjwal Chugh 🔥#crm #management",
+          "link": "https://www.youtube.com/shorts/2W2qGOFdOfo",
+          "thumbnail": "https://i.ytimg.com/vi/2W2qGOFdOfo/frame0.jpg",
+          "views_original": "261K views",
+          "views": 261000,
+          "video_id": "2W2qGOFdOfo"
+        },
+        {
+          "title": "CRM Explained: Why Tools Alone Aren't Enough",
+          "link": "https://www.youtube.com/shorts/TkXPc4WVZp8",
+          "thumbnail": "https://i.ytimg.com/vi/TkXPc4WVZp8/frame0.jpg",
+          "views_original": "12 views",
+          "views": 12,
+          "video_id": "TkXPc4WVZp8"
+        },
+        {
+          "title": "I Built a Full Website + CRM With AI in 1 Hour",
+          "link": "https://www.youtube.com/shorts/5sZUzgGkRVI",
+          "thumbnail": "https://i.ytimg.com/vi/5sZUzgGkRVI/frame0.jpg",
+          "views_original": "1.1K views",
+          "views": 1100,
+          "video_id": "5sZUzgGkRVI"
+        },
+        {
+          "title": "How to use CRM as a virtual assistant #crm #virtualassistant #customerservice",
+          "link": "https://www.youtube.com/shorts/KM9L0Lr59bk",
+          "thumbnail": "https://i.ytimg.com/vi/KM9L0Lr59bk/frame0.jpg",
+          "views_original": "28K views",
+          "views": 28000,
+          "video_id": "KM9L0Lr59bk"
+        },
+        {
+          "title": "Microsoft Dynamics 365 CRM Course | Complete Online Training",
+          "link": "https://www.youtube.com/shorts/0LNc0lpMF_8",
+          "thumbnail": "https://i.ytimg.com/vi/0LNc0lpMF_8/frame0.jpg",
+          "views_original": "178 views",
+          "views": 178,
+          "video_id": "0LNc0lpMF_8"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=CRM+full+course+for+beginners&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=CRM%20full%20course%20for%20beginners&sp=SBSCAQtzUUQ3a2FaNWgwc4IBC0NpX3FNamY4SlJnggEiUExWQWU2QVU1bmo1ZDZCSWJheFR2MVNsVzIydXRrNElhT4IBC2pIeklHR1UtUGgwggELMHp3OWt6RmFYNFmCAQtUOXRuRGxFdmxRZ4IBCzhWVVd5TVZLMlVjggELSUV1R0plYzRXRkmCAQt0OFFNNXp1bkM0NIIBC0NKdHF5eVlOT3lVggELYTVveGZqZG9KT2eCAQs0LXlKWnRfOWRTWYIBIlBMTmZuQUtaNFpzYXFOMVRZSnRFTG9oT1dXcWd4ZHJTaW2CAQtwYlBJQWxSelFZVYIBIlBMWktxVUM5RjU4QW9MalBuQUxsMjJ3M0Vfb1Z3R0tUei2CAQtTbGhFU0FLRjFUa4IBIlBMTS14WWtpaUxDamlrMFZGMjZtYV85RnhBMkZtaTRKUWKCASJQTG91ZXAyMEpEejJONU5tcXBWN3A5bXh4cmlBMDI5dzdnggELa2pjQlc4RmxxU2uCASJQTG5NX2hMWTdlbUh3Z01LS0hoLWZjajFEaHJ3emg4NDhTsgEGCgQIFhAC6gEECAIQGQ%253D%253D",
+    "next_page_token": "SBSCAQtzUUQ3a2FaNWgwc4IBC0NpX3FNamY4SlJnggEiUExWQWU2QVU1bmo1ZDZCSWJheFR2MVNsVzIydXRrNElhT4IBC2pIeklHR1UtUGgwggELMHp3OWt6RmFYNFmCAQtUOXRuRGxFdmxRZ4IBCzhWVVd5TVZLMlVjggELSUV1R0plYzRXRkmCAQt0OFFNNXp1bkM0NIIBC0NKdHF5eVlOT3lVggELYTVveGZqZG9KT2eCAQs0LXlKWnRfOWRTWYIBIlBMTmZuQUtaNFpzYXFOMVRZSnRFTG9oT1dXcWd4ZHJTaW2CAQtwYlBJQWxSelFZVYIBIlBMWktxVUM5RjU4QW9MalBuQUxsMjJ3M0Vfb1Z3R0tUei2CAQtTbGhFU0FLRjFUa4IBIlBMTS14WWtpaUxDamlrMFZGMjZtYV85RnhBMkZtaTRKUWKCASJQTG91ZXAyMEpEejJONU5tcXBWN3A5bXh4cmlBMDI5dzdnggELa2pjQlc4RmxxU2uCASJQTG5NX2hMWTdlbUh3Z01LS0hoLWZjajFEaHJ3emg4NDhTsgEGCgQIFhAC6gEECAIQGQ%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=CRM+full+course+for+beginners",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=CRM+full+course+for+beginners&sp=SBSCAQtzUUQ3a2FaNWgwc4IBC0NpX3FNamY4SlJnggEiUExWQWU2QVU1bmo1ZDZCSWJheFR2MVNsVzIydXRrNElhT4IBC2pIeklHR1UtUGgwggELMHp3OWt6RmFYNFmCAQtUOXRuRGxFdmxRZ4IBCzhWVVd5TVZLMlVjggELSUV1R0plYzRXRkmCAQt0OFFNNXp1bkM0NIIBC0NKdHF5eVlOT3lVggELYTVveGZqZG9KT2eCAQs0LXlKWnRfOWRTWYIBIlBMTmZuQUtaNFpzYXFOMVRZSnRFTG9oT1dXcWd4ZHJTaW2CAQtwYlBJQWxSelFZVYIBIlBMWktxVUM5RjU4QW9MalBuQUxsMjJ3M0Vfb1Z3R0tUei2CAQtTbGhFU0FLRjFUa4IBIlBMTS14WWtpaUxDamlrMFZGMjZtYV85RnhBMkZtaTRKUWKCASJQTG91ZXAyMEpEejJONU5tcXBWN3A5bXh4cmlBMDI5dzdnggELa2pjQlc4RmxxU2uCASJQTG5NX2hMWTdlbUh3Z01LS0hoLWZjajFEaHJ3emg4NDhTsgEGCgQIFhAC6gEECAIQGQ%253D%253D",
+    "next_page_token": "SBSCAQtzUUQ3a2FaNWgwc4IBC0NpX3FNamY4SlJnggEiUExWQWU2QVU1bmo1ZDZCSWJheFR2MVNsVzIydXRrNElhT4IBC2pIeklHR1UtUGgwggELMHp3OWt6RmFYNFmCAQtUOXRuRGxFdmxRZ4IBCzhWVVd5TVZLMlVjggELSUV1R0plYzRXRkmCAQt0OFFNNXp1bkM0NIIBC0NKdHF5eVlOT3lVggELYTVveGZqZG9KT2eCAQs0LXlKWnRfOWRTWYIBIlBMTmZuQUtaNFpzYXFOMVRZSnRFTG9oT1dXcWd4ZHJTaW2CAQtwYlBJQWxSelFZVYIBIlBMWktxVUM5RjU4QW9MalBuQUxsMjJ3M0Vfb1Z3R0tUei2CAQtTbGhFU0FLRjFUa4IBIlBMTS14WWtpaUxDamlrMFZGMjZtYV85RnhBMkZtaTRKUWKCASJQTG91ZXAyMEpEejJONU5tcXBWN3A5bXh4cmlBMDI5dzdnggELa2pjQlc4RmxxU2uCASJQTG5NX2hMWTdlbUh3Z01LS0hoLWZjajFEaHJ3emg4NDhTsgEGCgQIFhAC6gEECAIQGQ%3D%3D"
+  }
+}

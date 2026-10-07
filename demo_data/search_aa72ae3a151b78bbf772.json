@@ -1,0 +1,479 @@
+{
+  "search_metadata": {
+    "id": "6ac6a275b463f35d9fcdd07d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Z1gBeCQSbGNSJChQOKY8iAHr3FrMAPsOe6QlqdhKbog/6ac6a275b463f35d9fcdd07d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Z1gBeCQSbGNSJChQOKY8iAHr3FrMAPsOe6QlqdhKbog/6ac6a275b463f35d9fcdd07d.md",
+    "created_at": "2026-10-07 19:50:13 UTC",
+    "processed_at": "2026-10-07 19:50:13 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Data+Analysis+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/Z1gBeCQSbGNSJChQOKY8iAHr3FrMAPsOe6QlqdhKbog/6ac6a275b463f35d9fcdd07d.html",
+    "total_time_taken": 7.38
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Data Analysis full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 10059744,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Excel for Data Analytics - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=pCJ15nGFgVg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pCJ15nGFgVg",
+      "video_id": "pCJ15nGFgVg",
+      "channel": {
+        "name": "Luke Barousse",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 3724134,
+      "length": "10:59:43",
+      "description": "FREE Course Files & Projects https://lukeb.co/excel_files Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pCJ15nGFgVg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJBnnvHuWjJqJ6ZZ7HRdiib4eSKA",
+        "rich": "https://i.ytimg.com/an_webp/pCJ15nGFgVg/mqdefault_6s.webp?du=3000&sqp=COCgmtYG&rs=AOn4CLAzlJgq-EFfc5fNtmXyVXg7b-eDFQ"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Data Analytics Tutorial For Beginners Complete Course | Foundations: Data, Data, Everywhere, Google",
+      "link": "https://www.youtube.com/watch?v=vqZ1C2elmac",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vqZ1C2elmac",
+      "video_id": "vqZ1C2elmac",
+      "channel": {
+        "name": "My Lesson",
+        "link": "https://www.youtube.com/@MyLesson007",
+        "thumbnail": "https://yt3.ggpht.com/ByxUMXOVvHt71OaGJiA0LwPAjepeK_fsWiprbp_sCsbu18b7g3hzMB_-WYY0pCJoI7ive7mP=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 687029,
+      "length": "2:35:41",
+      "description": "Data Analytics Professional Certificate Complete Courses.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vqZ1C2elmac/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWt2-qstFNuLklST94P0X00FumbQ",
+        "rich": "https://i.ytimg.com/an_webp/vqZ1C2elmac/mqdefault_6s.webp?du=3000&sqp=CPuMmtYG&rs=AOn4CLDBxYFG1uqWfQ8isiGukxQK910SXA"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Excel Data Analysis Full Course Tutorial (7+ Hours)",
+      "link": "https://www.youtube.com/watch?v=qrbf9DtR3_c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qrbf9DtR3_c",
+      "video_id": "qrbf9DtR3_c",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "link": "https://www.youtube.com/@learnskillsdaily",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WwrBREpkRbdALebIg_xlBFBSwc7H8_tBcqgjLSP4fpZkMcPp3hSledFRan866itfUwsEKg-AUQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 2232333,
+      "length": "7:11:22",
+      "description": "Excel Data Analysis Full Course Tutorial (7+ Hours) Join Learn Skills Daily for ad-free training, exams, certificates, and exclusive ...",
+      "extensions": [
+        "2 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qrbf9DtR3_c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrsTB77ktgVjrjKYni8gzZ9vrlLg",
+        "rich": "https://i.ytimg.com/an_webp/qrbf9DtR3_c/mqdefault_6s.webp?du=3000&sqp=COaRmtYG&rs=AOn4CLC_EFRduVUsE2D29JkrbRyo0XLm4w"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "IBM Data Analyst Complete Course | Data Analyst Tutorial For Beginners,",
+      "link": "https://www.youtube.com/watch?v=1PAy6d16ADQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1PAy6d16ADQ",
+      "video_id": "1PAy6d16ADQ",
+      "channel": {
+        "name": "My Lesson",
+        "link": "https://www.youtube.com/@MyLesson007",
+        "thumbnail": "https://yt3.ggpht.com/ByxUMXOVvHt71OaGJiA0LwPAjepeK_fsWiprbp_sCsbu18b7g3hzMB_-WYY0pCJoI7ive7mP=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 2894351,
+      "length": "15:18:23",
+      "description": "Build job-ready skills by learning from the best Get started in the in-demand field of data analytics with a Professional Certificate ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/1PAy6d16ADQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrSbattoiRfjoNTkpb9G7LJFw9Rg",
+        "rich": "https://i.ytimg.com/an_webp/1PAy6d16ADQ/mqdefault_6s.webp?du=3000&sqp=CMy9mtYG&rs=AOn4CLBYVItc5GVOOMe9by4FQjgAIWlJdg"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Introduction to Data Analysis with Excel: 2-Hour Training Tutorial",
+      "link": "https://www.youtube.com/watch?v=kghcAk7l6eA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kghcAk7l6eA",
+      "video_id": "kghcAk7l6eA",
+      "channel": {
+        "name": "Simon Sez IT",
+        "link": "https://www.youtube.com/@SimonSezIT",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5n5ruLbcevwzMRUwDYTpV-MMWyhH9IdJFU2lby8CC8Ls=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 921513,
+      "length": "1:53:40",
+      "description": "Download the free course exercise files to follow along ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/kghcAk7l6eA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHNuy3Ozgg3hXN8IIm5Q6mgGUwzg",
+        "rich": "https://i.ytimg.com/an_webp/kghcAk7l6eA/mqdefault_6s.webp?du=3000&sqp=CNDAmtYG&rs=AOn4CLAbM3mDq5D5FObXon8is1p-mz6C-g"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Python for Data Analytics - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=wUSDVGivd-8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wUSDVGivd-8",
+      "video_id": "wUSDVGivd-8",
+      "channel": {
+        "name": "Luke Barousse",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1598959,
+      "length": "11:09:41",
+      "description": "FREE Course Files & Project https://lukeb.co/python_repo Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wUSDVGivd-8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA85GvFR4YuxTeBj67gS7sT8KkPug",
+        "rich": "https://i.ytimg.com/an_webp/wUSDVGivd-8/mqdefault_6s.webp?du=3000&sqp=CNKSmtYG&rs=AOn4CLBaenPXY7v8xPbVUyvx4hQWfRbH6w"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Data Analytics for Beginners | Data Analytics Training | Data Analytics Course | Intellipaat",
+      "link": "https://www.youtube.com/watch?v=d73vYX8gsuQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=d73vYX8gsuQ",
+      "video_id": "d73vYX8gsuQ",
+      "channel": {
+        "name": "Intellipaat",
+        "link": "https://www.youtube.com/@Intellipaat",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0UrFW02_vRoTxrCcv4H6vSDXFwUPcafCf3oXIA6yMFUsVtIvE8EZdS2UMzbdscI7ifON_U7DHQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 5y ago",
+      "views": 2655000,
+      "length": "3:50:19",
+      "description": "Intellipaat Data Analytics Training: https://intellipaat.com/data-analytics-master-training-course/ In this Data Analytics for beginners ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/d73vYX8gsuQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJrmF_z7cC366myWicOJWlnDjIkA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Beginner to PRO Data Analysis with Excel - FREE Adv. Masterclass in TELUGU",
+      "link": "https://www.youtube.com/watch?v=rcL7C5YzHR8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rcL7C5YzHR8",
+      "video_id": "rcL7C5YzHR8",
+      "channel": {
+        "name": "Chandoo - Tech in Telugu",
+        "link": "https://www.youtube.com/@data_with_chandoo",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/c0wZniPmDuPUo-EwQwWzYiLu9N9axEFY9JAhcLPeCE7fQAdNohupirU_ss_8nv-42wrT-11-Mg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 667570,
+      "length": "36:04",
+      "description": "Want to learn how to perform data analysis in Excel from beginning to end? This is the video! In this video, you are going to learn: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rcL7C5YzHR8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuf9dgfKKrScIxzxm9nXLNL-DpvQ",
+        "rich": "https://i.ytimg.com/an_webp/rcL7C5YzHR8/mqdefault_6s.webp?du=3000&sqp=CLeumtYG&rs=AOn4CLDR868uF2bN-ItkkHFJ6Qbi1W5fuA"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Data Analyst Full Course 2026 | Data Analytics Tutorial For Beginners | Data Analytics | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=kdYuk1JWBzE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kdYuk1JWBzE",
+      "video_id": "kdYuk1JWBzE",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 14502,
+      "length": "21:11:34",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "extensions": [
+        "2 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/kdYuk1JWBzE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNBs0rzFdNmVsNTSlcML52ooP2sg",
+        "rich": "https://i.ytimg.com/an_webp/kdYuk1JWBzE/mqdefault_6s.webp?du=3000&sqp=CNqJmtYG&rs=AOn4CLDYyxdGCHOABEBBAlskH0DKYdAmFQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Data Analytics Full Course 2026 [FREE] | Data Analytics Tutorial For Beginners | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=eC9Z1QyJzSY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eC9Z1QyJzSY",
+      "video_id": "eC9Z1QyJzSY",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 58644,
+      "length": "47:33:03",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eC9Z1QyJzSY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACECdlVXdp9xQLmD-3Fh8cv4HhWA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Excel Data Analytics Full Course | Essential Skills For Data Analysis In Excel | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=OOWAk2aLEfk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OOWAk2aLEfk",
+      "video_id": "OOWAk2aLEfk",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2064531,
+      "length": "4:11:47",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OOWAk2aLEfk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6HBrZRE8LsqWtRMZ5jtPmfeQFfA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)",
+      "link": "https://www.youtube.com/watch?v=r-uOLxNrNk8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r-uOLxNrNk8",
+      "video_id": "r-uOLxNrNk8",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 4236459,
+      "length": "4:22:13",
+      "description": "Learn Data Analysis with Python in this comprehensive tutorial for beginners, with exercises included! NOTE: Check description ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/r-uOLxNrNk8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2L9mmYi2wpQafJfadofqBWpQlhQ",
+        "rich": "https://i.ytimg.com/an_webp/r-uOLxNrNk8/mqdefault_6s.webp?du=3000&sqp=CKCgmtYG&rs=AOn4CLDkB18uhINV-ResazFb1EwNtXEXyA"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Complete Excel Tutorial for Data Analysis in 4 Hours (with FREE Files)",
+      "link": "https://www.youtube.com/watch?v=7QNgqq154gE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7QNgqq154gE",
+      "video_id": "7QNgqq154gE",
+      "channel": {
+        "name": "Chandoo",
+        "link": "https://www.youtube.com/@chandoo_",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_wMqn3mAO7vDs1s74bHiFXXv24ckFsv2mnV1US8mS_w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1123951,
+      "length": "3:56:43",
+      "description": "Power Query → Tables → Formulas → Pivots → Charts → Dashboard All in one video. Learn everything, practice the concepts ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7QNgqq154gE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4NZdklqsYGu12lCCvbI9F4EvZhQ",
+        "rich": "https://i.ytimg.com/an_webp/7QNgqq154gE/mqdefault_6s.webp?du=3000&sqp=CLS5mtYG&rs=AOn4CLC8dcPIBQZ62ie_FRMyAOdarz7nHA"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Data Analytics Full Course 2026 | Data Analytics For Beginners | Data Analytics Course | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=CaqJ65CIoMw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CaqJ65CIoMw",
+      "video_id": "CaqJ65CIoMw",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 4y ago",
+      "views": 1242226,
+      "length": "10:17:11",
+      "description": "\"️  IBM - Data Analyst ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/CaqJ65CIoMw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfSYYLRRUuz_ZzZv1ytsBYl6Zr3w",
+        "rich": "https://i.ytimg.com/an_webp/CaqJ65CIoMw/mqdefault_6s.webp?du=3000&sqp=CMy5mtYG&rs=AOn4CLAJevRT7wkNnjwWDI7hDIQPj5eu4A"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Data Analytics Full Course 2026 | Data Analytics Course Beginner to Advanced | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=VuF3ras2teE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VuF3ras2teE",
+      "video_id": "VuF3ras2teE",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 3w ago",
+      "views": 26235,
+      "length": "6:37:33",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/VuF3ras2teE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWr-AdSRleJgwmVBW8HjRrwWEa1g",
+        "rich": "https://i.ytimg.com/an_webp/VuF3ras2teE/mqdefault_6s.webp?du=3000&sqp=COOhmtYG&rs=AOn4CLDMGYSe2pXPcq1lg7ihtdzg6zPqYA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
+      "link": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cnjhHZNJEDk",
+      "video_id": "cnjhHZNJEDk",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 968234,
+      "length": "28:41:08",
+      "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/cnjhHZNJEDk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYX1Z7QnXmjGqw6KLt3hGfvys4pQ",
+        "rich": "https://i.ytimg.com/an_webp/cnjhHZNJEDk/mqdefault_6s.webp?du=3000&sqp=CIqimtYG&rs=AOn4CLDzmOOV7YUabutLUulmABgzGpoYWA"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Data Analyst | Data Analyst Course | Data Analytics | Data Analytics Full Course 2026 | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=A1JN_UN3mYE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=A1JN_UN3mYE",
+      "video_id": "A1JN_UN3mYE",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 5y ago",
+      "views": 1419612,
+      "length": "10:31:01",
+      "description": "\"️  IBM - Data Analyst ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/A1JN_UN3mYE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCXQqvISlnfiCg7-4jrSa73xw7cA",
+        "rich": "https://i.ytimg.com/an_webp/A1JN_UN3mYE/mqdefault_6s.webp?du=3000&sqp=COiymtYG&rs=AOn4CLDKzwHq9Sp8PNfif2ugLLKkF0msig"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Data Analytics Full Course 2026 | Data Analytics Course Beginner to Advanced | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=SxGWXAesF6Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=SxGWXAesF6Y",
+      "video_id": "SxGWXAesF6Y",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4w ago",
+      "views": 10992,
+      "length": "6:35:16",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SxGWXAesF6Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP_MR_HtbbC2qXR6NoxYf5aLoEpg",
+        "rich": "https://i.ytimg.com/an_webp/SxGWXAesF6Y/mqdefault_6s.webp?du=3000&sqp=CKK8mtYG&rs=AOn4CLDM4P7Ijk8wmKdDPnqBxw3BhRyfaA"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Power BI for Data Analytics - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=FwjaHCVNBWA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FwjaHCVNBWA",
+      "video_id": "FwjaHCVNBWA",
+      "channel": {
+        "name": "Luke Barousse",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1505017,
+      "length": "8:24:31",
+      "description": "FREE Course Files & Projects https://lukeb.co/powerbi-files Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FwjaHCVNBWA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8Emngmd455eujjzAm-SXVqqERRg",
+        "rich": "https://i.ytimg.com/an_webp/FwjaHCVNBWA/mqdefault_6s.webp?du=3000&sqp=CKC0mtYG&rs=AOn4CLC4TNJkzOzpQFQKaKvAjinM4QmlWQ"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Data Analytics Complete Course Free | Full Data Analytics Course 2026 | Intellipaat",
+      "link": "https://www.youtube.com/watch?v=44pC0QtbCUw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=44pC0QtbCUw",
+      "video_id": "44pC0QtbCUw",
+      "channel": {
+        "name": "Intellipaat",
+        "link": "https://www.youtube.com/@Intellipaat",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0UrFW02_vRoTxrCcv4H6vSDXFwUPcafCf3oXIA6yMFUsVtIvE8EZdS2UMzbdscI7ifON_U7DHQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 2mo ago",
+      "views": 36832,
+      "length": "10:06:48",
+      "description": "Enroll for Data Analytics Course: https://intellipaat.com/data-analytics-master-training-course/ Book your Free ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/44pC0QtbCUw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDViLYpeMmym0-otGwXDmeB3MM9Cg",
+        "rich": "https://i.ytimg.com/an_webp/44pC0QtbCUw/mqdefault_6s.webp?du=3000&sqp=CMySmtYG&rs=AOn4CLD0l6g2uNk07J06r7M-owNvKV0hfw"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Data+Analysis+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Data%20Analysis%20full%20course%20for%20beginners&sp=EgIYAkgUggELcENKMTVuR0ZnVmeCAQt2cVoxQzJlbG1hY4IBC3FyYmY5RHRSM19jggELMVBBeTZkMTZBRFGCAQtrZ2hjQWs3bDZlQYIBC3dVU0RWR2l2ZC04ggELZDczdllYOGdzdVGCAQtyY0w3QzVZekhSOIIBC2tkWXVrMUpXQnpFggELZUM5WjFReUp6U1mCAQtPT1dBazJhTEVma4IBC3ItdU9MeE5yTms4ggELN1FOZ3FxMTU0Z0WCAQtDYXFKNjVDSW9Nd4IBC1Z1RjNyYXMydGVFggELY25qaEhaTkpFRGuCAQtBMUpOX1VOM21ZRYIBC1N4R1dYQWVzRjZZggELRndqYUhDVk5CV0GCAQs0NHBDMFF0YkNVd7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELcENKMTVuR0ZnVmeCAQt2cVoxQzJlbG1hY4IBC3FyYmY5RHRSM19jggELMVBBeTZkMTZBRFGCAQtrZ2hjQWs3bDZlQYIBC3dVU0RWR2l2ZC04ggELZDczdllYOGdzdVGCAQtyY0w3QzVZekhSOIIBC2tkWXVrMUpXQnpFggELZUM5WjFReUp6U1mCAQtPT1dBazJhTEVma4IBC3ItdU9MeE5yTms4ggELN1FOZ3FxMTU0Z0WCAQtDYXFKNjVDSW9Nd4IBC1Z1RjNyYXMydGVFggELY25qaEhaTkpFRGuCAQtBMUpOX1VOM21ZRYIBC1N4R1dYQWVzRjZZggELRndqYUhDVk5CV0GCAQs0NHBDMFF0YkNVd7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Data+Analysis+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Data+Analysis+full+course+for+beginners&sp=EgIYAkgUggELcENKMTVuR0ZnVmeCAQt2cVoxQzJlbG1hY4IBC3FyYmY5RHRSM19jggELMVBBeTZkMTZBRFGCAQtrZ2hjQWs3bDZlQYIBC3dVU0RWR2l2ZC04ggELZDczdllYOGdzdVGCAQtyY0w3QzVZekhSOIIBC2tkWXVrMUpXQnpFggELZUM5WjFReUp6U1mCAQtPT1dBazJhTEVma4IBC3ItdU9MeE5yTms4ggELN1FOZ3FxMTU0Z0WCAQtDYXFKNjVDSW9Nd4IBC1Z1RjNyYXMydGVFggELY25qaEhaTkpFRGuCAQtBMUpOX1VOM21ZRYIBC1N4R1dYQWVzRjZZggELRndqYUhDVk5CV0GCAQs0NHBDMFF0YkNVd7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELcENKMTVuR0ZnVmeCAQt2cVoxQzJlbG1hY4IBC3FyYmY5RHRSM19jggELMVBBeTZkMTZBRFGCAQtrZ2hjQWs3bDZlQYIBC3dVU0RWR2l2ZC04ggELZDczdllYOGdzdVGCAQtyY0w3QzVZekhSOIIBC2tkWXVrMUpXQnpFggELZUM5WjFReUp6U1mCAQtPT1dBazJhTEVma4IBC3ItdU9MeE5yTms4ggELN1FOZ3FxMTU0Z0WCAQtDYXFKNjVDSW9Nd4IBC1Z1RjNyYXMydGVFggELY25qaEhaTkpFRGuCAQtBMUpOX1VOM21ZRYIBC1N4R1dYQWVzRjZZggELRndqYUhDVk5CV0GCAQs0NHBDMFF0YkNVd7IBBgoECBQQAg%3D%3D"
+  }
+}

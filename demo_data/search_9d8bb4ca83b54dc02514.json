@@ -1,0 +1,473 @@
+{
+  "search_metadata": {
+    "id": "6ac6b15128c7fb15d74fe084",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UCj7OWsE4J2J749dJyMA-oxd7sNSoyyqbhRFmFxhp3U/6ac6b15128c7fb15d74fe084.json",
+    "markdown_endpoint": "https://serpapi.com/searches/UCj7OWsE4J2J749dJyMA-oxd7sNSoyyqbhRFmFxhp3U/6ac6b15128c7fb15d74fe084.md",
+    "created_at": "2026-10-07 20:53:37 UTC",
+    "processed_at": "2026-10-07 20:53:37 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Frontend+Developer+fresher&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/UCj7OWsE4J2J749dJyMA-oxd7sNSoyyqbhRFmFxhp3U/6ac6b15128c7fb15d74fe084.html",
+    "total_time_taken": 10.61
+  },
+  "search_parameters": {
+    "q": "Frontend Developer fresher",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rTalc9ibXQalw1qPNRsa2kZdZ_nFtLCuUUuDYyPXckteJM4TqSp1GXEzEJA3Qa0nJI7Fmnjmd4W7Zf7yuoajHpQ7mfU4sePtUGsROgdSeTdwZpZ2yn5fTOB42HqjAWmOZRhBy0Gh32uuRPG00q6Y9vKhRkSdX7Jlz_Ebx2bsZaro6QlHy",
+        "q": "Frontend Developer fresher remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTalc9ibXQalw1qPNRsa2kZdZ_nFtLCuUUuDYyPXckteJM4TqSp1GXEzEJA3Qa0nJI7Fmnjmd4W7Zf7yuoajHpQ7mfU4sePtUGsROgdSeTdwZpZ2yn5fTOB42HqjAWmOZRhBy0Gh32uuRPG00q6Y9vKhRkSdX7Jlz_Ebx2bsZaro6QlHy&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTalc9ibXQalw1qPNRsa2kZdZ_nFtLCuUUuDYyPXckteJM4TqSp1GXEzEJA3Qa0nJI7Fmnjmd4W7Zf7yuoajHpQ7mfU4sePtUGsROgdSeTdwZpZ2yn5fTOB42HqjAWmOZRhBy0Gh32uuRPG00q6Y9vKhRkSdX7Jlz_Ebx2bsZaro6QlHy"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4XYphOFgu_sbDZLW1Z5r9VHdLJmPHWbNW7RHAvngSwt74isPRD103gIflS7yJcvY9tKlEVdrCDYlT7iFTYmulzUXMaWaKTbGnMTJwSq9dwnQGqc9O6BWEYjMi7luiM2GN0mPVGnM7L4o-I2sFDpP-Q-jcHcHd6b5J07Kz3QmpUUBPffENIcWtRjMcTtCBG2gtaPdbEHVOuIdAqFgMclxbtbChkc5LR7IiG9l7c5VPrH7UPqVvjEuTBrxSgplDB6nB7rGwkh9wrgrn5K7Du8ZzbXzQ6XmVJmJFuAQC-nfrGKIrzeUox_XgWZyt6IhyfXcYOg3sTY",
+            "q": "Frontend Developer fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4XYphOFgu_sbDZLW1Z5r9VHdLJmPHWbNW7RHAvngSwt74isPRD103gIflS7yJcvY9tKlEVdrCDYlT7iFTYmulzUXMaWaKTbGnMTJwSq9dwnQGqc9O6BWEYjMi7luiM2GN0mPVGnM7L4o-I2sFDpP-Q-jcHcHd6b5J07Kz3QmpUUBPffENIcWtRjMcTtCBG2gtaPdbEHVOuIdAqFgMclxbtbChkc5LR7IiG9l7c5VPrH7UPqVvjEuTBrxSgplDB6nB7rGwkh9wrgrn5K7Du8ZzbXzQ6XmVJmJFuAQC-nfrGKIrzeUox_XgWZyt6IhyfXcYOg3sTY&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4XYphOFgu_sbDZLW1Z5r9VHdLJmPHWbNW7RHAvngSwt74isPRD103gIflS7yJcvY9tKlEVdrCDYlT7iFTYmulzUXMaWaKTbGnMTJwSq9dwnQGqc9O6BWEYjMi7luiM2GN0mPVGnM7L4o-I2sFDpP-Q-jcHcHd6b5J07Kz3QmpUUBPffENIcWtRjMcTtCBG2gtaPdbEHVOuIdAqFgMclxbtbChkc5LR7IiG9l7c5VPrH7UPqVvjEuTBrxSgplDB6nB7rGwkh9wrgrn5K7Du8ZzbXzQ6XmVJmJFuAQC-nfrGKIrzeUox_XgWZyt6IhyfXcYOg3sTY"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp2-i9cGW0xWw_feF-4nYfAQ4xenEBz0Xc7cfc-vg8UoX1sxLvvGKEp5HE6RVkkOoTll70VjFI1m2oU_vChaPP3S3q4DAj5vt0xapaClyO4gPOBU6EI2iqvYYJgbQWSV6jWmYqL3GWC18n1dix1w-126k5HG7D6e5dO4DRLGbjnxUeY0fCf6nmrv4QPaIOcdNvClKteIWjlBOlniqRegBTIh-kXl42__rr_CFzVIOIrmlo-o_RcQF1kQ27ZeLxFpwnO2YEKSGsisZXU_aY2i9zGdWZT9-G5WACuliLfMvinpWgUzpOqXlIZ-x4rcevwQRP2EBXsfT_WOq2oL0HfTSEkZy0ydo5",
+            "q": "Frontend Developer fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp2-i9cGW0xWw_feF-4nYfAQ4xenEBz0Xc7cfc-vg8UoX1sxLvvGKEp5HE6RVkkOoTll70VjFI1m2oU_vChaPP3S3q4DAj5vt0xapaClyO4gPOBU6EI2iqvYYJgbQWSV6jWmYqL3GWC18n1dix1w-126k5HG7D6e5dO4DRLGbjnxUeY0fCf6nmrv4QPaIOcdNvClKteIWjlBOlniqRegBTIh-kXl42__rr_CFzVIOIrmlo-o_RcQF1kQ27ZeLxFpwnO2YEKSGsisZXU_aY2i9zGdWZT9-G5WACuliLfMvinpWgUzpOqXlIZ-x4rcevwQRP2EBXsfT_WOq2oL0HfTSEkZy0ydo5&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp2-i9cGW0xWw_feF-4nYfAQ4xenEBz0Xc7cfc-vg8UoX1sxLvvGKEp5HE6RVkkOoTll70VjFI1m2oU_vChaPP3S3q4DAj5vt0xapaClyO4gPOBU6EI2iqvYYJgbQWSV6jWmYqL3GWC18n1dix1w-126k5HG7D6e5dO4DRLGbjnxUeY0fCf6nmrv4QPaIOcdNvClKteIWjlBOlniqRegBTIh-kXl42__rr_CFzVIOIrmlo-o_RcQF1kQ27ZeLxFpwnO2YEKSGsisZXU_aY2i9zGdWZT9-G5WACuliLfMvinpWgUzpOqXlIZ-x4rcevwQRP2EBXsfT_WOq2oL0HfTSEkZy0ydo5"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43oJlDQlHY9RabaXqRWHV2V6VYBEAUc8ZUQkHIftUBIHOJPrn-EhXXDMnL2WGldHZ6NyJgaxBXhI4udB0IuAA7yhnCnhZRqLwqMjC9qje3RtY--VU9IpriNacRqfrNZnoNf0erwwdb2lTjhoby991bMx7Bz4Uz8pFxwVym09HGpTOpoMW5ncW-MV2uJ-M_b-EFCSrd5BalBl3v3yku9LhGBCIr_tT_mlH854F0IpnD7hsSZCZf5ytCnlfwtCn7vuNY5vP_6OhbZk2rXh0l74E5PkJNR5n2iouhJuzSGynDPx6LnXAX9wVaK-ZfYHlNx7tA60o1ZsK3SvHm3cl56cogvA5vUUU",
+            "q": "Frontend Developer fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43oJlDQlHY9RabaXqRWHV2V6VYBEAUc8ZUQkHIftUBIHOJPrn-EhXXDMnL2WGldHZ6NyJgaxBXhI4udB0IuAA7yhnCnhZRqLwqMjC9qje3RtY--VU9IpriNacRqfrNZnoNf0erwwdb2lTjhoby991bMx7Bz4Uz8pFxwVym09HGpTOpoMW5ncW-MV2uJ-M_b-EFCSrd5BalBl3v3yku9LhGBCIr_tT_mlH854F0IpnD7hsSZCZf5ytCnlfwtCn7vuNY5vP_6OhbZk2rXh0l74E5PkJNR5n2iouhJuzSGynDPx6LnXAX9wVaK-ZfYHlNx7tA60o1ZsK3SvHm3cl56cogvA5vUUU&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43oJlDQlHY9RabaXqRWHV2V6VYBEAUc8ZUQkHIftUBIHOJPrn-EhXXDMnL2WGldHZ6NyJgaxBXhI4udB0IuAA7yhnCnhZRqLwqMjC9qje3RtY--VU9IpriNacRqfrNZnoNf0erwwdb2lTjhoby991bMx7Bz4Uz8pFxwVym09HGpTOpoMW5ncW-MV2uJ-M_b-EFCSrd5BalBl3v3yku9LhGBCIr_tT_mlH854F0IpnD7hsSZCZf5ytCnlfwtCn7vuNY5vP_6OhbZk2rXh0l74E5PkJNR5n2iouhJuzSGynDPx6LnXAX9wVaK-ZfYHlNx7tA60o1ZsK3SvHm3cl56cogvA5vUUU"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r36jnsubx7_BG4O4utKCNkvqV_O3MJ8NxL4Xa9YDlgiJWdjwVfTq770E3P6LsZBf-7VTunSGeSoEKlRUGTcYkB3QTPvD2HhmlDjqHISuxDNjOFpu4e_122-DEtE6VTRHlyfq5M2Dkj_xpHOeqnc8pCC0kVj6vjLZQT6-0E3o7IbAve_U42RjK43JhbLA5BwIJcQpL4zhCAEyvhP-Iq2FVf2WcPXqqEjXAp3JdkTdVPbKr6WUmjunrsS9NrWJJGziUr9K_hA9ykOkp3QkIr84iiqVOczJmriicGZyK8EynlaENThzAfBAYRTTVx9Cm248QvilGuIFIRS4ccJiEC2AttAB1UyZ",
+            "q": "Frontend Developer fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r36jnsubx7_BG4O4utKCNkvqV_O3MJ8NxL4Xa9YDlgiJWdjwVfTq770E3P6LsZBf-7VTunSGeSoEKlRUGTcYkB3QTPvD2HhmlDjqHISuxDNjOFpu4e_122-DEtE6VTRHlyfq5M2Dkj_xpHOeqnc8pCC0kVj6vjLZQT6-0E3o7IbAve_U42RjK43JhbLA5BwIJcQpL4zhCAEyvhP-Iq2FVf2WcPXqqEjXAp3JdkTdVPbKr6WUmjunrsS9NrWJJGziUr9K_hA9ykOkp3QkIr84iiqVOczJmriicGZyK8EynlaENThzAfBAYRTTVx9Cm248QvilGuIFIRS4ccJiEC2AttAB1UyZ&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r36jnsubx7_BG4O4utKCNkvqV_O3MJ8NxL4Xa9YDlgiJWdjwVfTq770E3P6LsZBf-7VTunSGeSoEKlRUGTcYkB3QTPvD2HhmlDjqHISuxDNjOFpu4e_122-DEtE6VTRHlyfq5M2Dkj_xpHOeqnc8pCC0kVj6vjLZQT6-0E3o7IbAve_U42RjK43JhbLA5BwIJcQpL4zhCAEyvhP-Iq2FVf2WcPXqqEjXAp3JdkTdVPbKr6WUmjunrsS9NrWJJGziUr9K_hA9ykOkp3QkIr84iiqVOczJmriicGZyK8EynlaENThzAfBAYRTTVx9Cm248QvilGuIFIRS4ccJiEC2AttAB1UyZ"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4XYphOFgu_sbDZLW1Z5r9VHdLJmPHWbNW7RHAvngSwt74isPRD103gIflS7yJcvY9tKlEVdrCDYlT7iFTYmulzUXMaWaKTbGnMTJwSq9dwnQGqc9O6BWEYjMi7luiM2GN0mPVGnM7L4o-I2sFDpP-Q-jcHcHd6b5J07Kz3QmpUUBPffENIcWtRjMcTtCBG2gtaPdbEHVOuIdAqFgMclxbtbChkc5LR7IiG9l7c5VPrH7UPqVvjEuTBrxSgplDB6nB7rGwkh9wrgrn5K7Du8ZzbXzQ6XmVJmJFuAQC-nfrGKIrzeUox_XgWZyt6IhyfXcYOg3sTY",
+            "q": "Frontend Developer fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4XYphOFgu_sbDZLW1Z5r9VHdLJmPHWbNW7RHAvngSwt74isPRD103gIflS7yJcvY9tKlEVdrCDYlT7iFTYmulzUXMaWaKTbGnMTJwSq9dwnQGqc9O6BWEYjMi7luiM2GN0mPVGnM7L4o-I2sFDpP-Q-jcHcHd6b5J07Kz3QmpUUBPffENIcWtRjMcTtCBG2gtaPdbEHVOuIdAqFgMclxbtbChkc5LR7IiG9l7c5VPrH7UPqVvjEuTBrxSgplDB6nB7rGwkh9wrgrn5K7Du8ZzbXzQ6XmVJmJFuAQC-nfrGKIrzeUox_XgWZyt6IhyfXcYOg3sTY&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4XYphOFgu_sbDZLW1Z5r9VHdLJmPHWbNW7RHAvngSwt74isPRD103gIflS7yJcvY9tKlEVdrCDYlT7iFTYmulzUXMaWaKTbGnMTJwSq9dwnQGqc9O6BWEYjMi7luiM2GN0mPVGnM7L4o-I2sFDpP-Q-jcHcHd6b5J07Kz3QmpUUBPffENIcWtRjMcTtCBG2gtaPdbEHVOuIdAqFgMclxbtbChkc5LR7IiG9l7c5VPrH7UPqVvjEuTBrxSgplDB6nB7rGwkh9wrgrn5K7Du8ZzbXzQ6XmVJmJFuAQC-nfrGKIrzeUox_XgWZyt6IhyfXcYOg3sTY"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp2-i9cGW0xWw_feF-4nYfAQ4xenEBz0Xc7cfc-vg8UoX1sxLvvGKEp5HE6RVkkOoTll70VjFI1m2oU_vChaPP3S3q4DAj5vt0xapaClyO4gPOBU6EI2iqvYYJgbQWSV6jWmYqL3GWC18n1dix1w-126k5HG7D6e5dO4DRLGbjnxUeY0fCf6nmrv4QPaIOcdNvClKteIWjlBOlniqRegBTIh-kXl42__rr_CFzVIOIrmlo-o_RcQF1kQ27ZeLxFpwnO2YEKSGsisZXU_aY2i9zGdWZT9-G5WACuliLfMvinpWgUzpOqXlIZ-x4rcevwQRP2EBXsfT_WOq2oL0HfTSEkZy0ydo5",
+            "q": "Frontend Developer fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp2-i9cGW0xWw_feF-4nYfAQ4xenEBz0Xc7cfc-vg8UoX1sxLvvGKEp5HE6RVkkOoTll70VjFI1m2oU_vChaPP3S3q4DAj5vt0xapaClyO4gPOBU6EI2iqvYYJgbQWSV6jWmYqL3GWC18n1dix1w-126k5HG7D6e5dO4DRLGbjnxUeY0fCf6nmrv4QPaIOcdNvClKteIWjlBOlniqRegBTIh-kXl42__rr_CFzVIOIrmlo-o_RcQF1kQ27ZeLxFpwnO2YEKSGsisZXU_aY2i9zGdWZT9-G5WACuliLfMvinpWgUzpOqXlIZ-x4rcevwQRP2EBXsfT_WOq2oL0HfTSEkZy0ydo5&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp2-i9cGW0xWw_feF-4nYfAQ4xenEBz0Xc7cfc-vg8UoX1sxLvvGKEp5HE6RVkkOoTll70VjFI1m2oU_vChaPP3S3q4DAj5vt0xapaClyO4gPOBU6EI2iqvYYJgbQWSV6jWmYqL3GWC18n1dix1w-126k5HG7D6e5dO4DRLGbjnxUeY0fCf6nmrv4QPaIOcdNvClKteIWjlBOlniqRegBTIh-kXl42__rr_CFzVIOIrmlo-o_RcQF1kQ27ZeLxFpwnO2YEKSGsisZXU_aY2i9zGdWZT9-G5WACuliLfMvinpWgUzpOqXlIZ-x4rcevwQRP2EBXsfT_WOq2oL0HfTSEkZy0ydo5"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43oJlDQlHY9RabaXqRWHV2V6VYBEAUc8ZUQkHIftUBIHOJPrn-EhXXDMnL2WGldHZ6NyJgaxBXhI4udB0IuAA7yhnCnhZRqLwqMjC9qje3RtY--VU9IpriNacRqfrNZnoNf0erwwdb2lTjhoby991bMx7Bz4Uz8pFxwVym09HGpTOpoMW5ncW-MV2uJ-M_b-EFCSrd5BalBl3v3yku9LhGBCIr_tT_mlH854F0IpnD7hsSZCZf5ytCnlfwtCn7vuNY5vP_6OhbZk2rXh0l74E5PkJNR5n2iouhJuzSGynDPx6LnXAX9wVaK-ZfYHlNx7tA60o1ZsK3SvHm3cl56cogvA5vUUU",
+            "q": "Frontend Developer fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43oJlDQlHY9RabaXqRWHV2V6VYBEAUc8ZUQkHIftUBIHOJPrn-EhXXDMnL2WGldHZ6NyJgaxBXhI4udB0IuAA7yhnCnhZRqLwqMjC9qje3RtY--VU9IpriNacRqfrNZnoNf0erwwdb2lTjhoby991bMx7Bz4Uz8pFxwVym09HGpTOpoMW5ncW-MV2uJ-M_b-EFCSrd5BalBl3v3yku9LhGBCIr_tT_mlH854F0IpnD7hsSZCZf5ytCnlfwtCn7vuNY5vP_6OhbZk2rXh0l74E5PkJNR5n2iouhJuzSGynDPx6LnXAX9wVaK-ZfYHlNx7tA60o1ZsK3SvHm3cl56cogvA5vUUU&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43oJlDQlHY9RabaXqRWHV2V6VYBEAUc8ZUQkHIftUBIHOJPrn-EhXXDMnL2WGldHZ6NyJgaxBXhI4udB0IuAA7yhnCnhZRqLwqMjC9qje3RtY--VU9IpriNacRqfrNZnoNf0erwwdb2lTjhoby991bMx7Bz4Uz8pFxwVym09HGpTOpoMW5ncW-MV2uJ-M_b-EFCSrd5BalBl3v3yku9LhGBCIr_tT_mlH854F0IpnD7hsSZCZf5ytCnlfwtCn7vuNY5vP_6OhbZk2rXh0l74E5PkJNR5n2iouhJuzSGynDPx6LnXAX9wVaK-ZfYHlNx7tA60o1ZsK3SvHm3cl56cogvA5vUUU"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r36jnsubx7_BG4O4utKCNkvqV_O3MJ8NxL4Xa9YDlgiJWdjwVfTq770E3P6LsZBf-7VTunSGeSoEKlRUGTcYkB3QTPvD2HhmlDjqHISuxDNjOFpu4e_122-DEtE6VTRHlyfq5M2Dkj_xpHOeqnc8pCC0kVj6vjLZQT6-0E3o7IbAve_U42RjK43JhbLA5BwIJcQpL4zhCAEyvhP-Iq2FVf2WcPXqqEjXAp3JdkTdVPbKr6WUmjunrsS9NrWJJGziUr9K_hA9ykOkp3QkIr84iiqVOczJmriicGZyK8EynlaENThzAfBAYRTTVx9Cm248QvilGuIFIRS4ccJiEC2AttAB1UyZ",
+            "q": "Frontend Developer fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r36jnsubx7_BG4O4utKCNkvqV_O3MJ8NxL4Xa9YDlgiJWdjwVfTq770E3P6LsZBf-7VTunSGeSoEKlRUGTcYkB3QTPvD2HhmlDjqHISuxDNjOFpu4e_122-DEtE6VTRHlyfq5M2Dkj_xpHOeqnc8pCC0kVj6vjLZQT6-0E3o7IbAve_U42RjK43JhbLA5BwIJcQpL4zhCAEyvhP-Iq2FVf2WcPXqqEjXAp3JdkTdVPbKr6WUmjunrsS9NrWJJGziUr9K_hA9ykOkp3QkIr84iiqVOczJmriicGZyK8EynlaENThzAfBAYRTTVx9Cm248QvilGuIFIRS4ccJiEC2AttAB1UyZ&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r36jnsubx7_BG4O4utKCNkvqV_O3MJ8NxL4Xa9YDlgiJWdjwVfTq770E3P6LsZBf-7VTunSGeSoEKlRUGTcYkB3QTPvD2HhmlDjqHISuxDNjOFpu4e_122-DEtE6VTRHlyfq5M2Dkj_xpHOeqnc8pCC0kVj6vjLZQT6-0E3o7IbAve_U42RjK43JhbLA5BwIJcQpL4zhCAEyvhP-Iq2FVf2WcPXqqEjXAp3JdkTdVPbKr6WUmjunrsS9NrWJJGziUr9K_hA9ykOkp3QkIr84iiqVOczJmriicGZyK8EynlaENThzAfBAYRTTVx9Cm248QvilGuIFIRS4ccJiEC2AttAB1UyZ"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHRjB6FDjg8D1LL4J9hNsir6zjn1KHX1R-0x3dVXnUCcBEqNCpgpVlKEzXewqCqKFR60RFJLK88RiJpiq0F99xkq7nJ1_NO7RQpyvtn9R6XaJnJV7pYu6qv7WuBF_Jp662drzAqnvU7NRWdQDavbmph6Z203W_QPvitk0H8aZl2pgLs9GgIuADeDJ5rdRG6OZaVJrnoFg2SCf1Iez5zSdsif_I8Vr9URlR2SZAID9H2r39ash-pWk4i5y_yRBpOuxUSaoXuVC55Syr9aRFQ68XO6syU1uI",
+            "q": "Frontend Developer fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHRjB6FDjg8D1LL4J9hNsir6zjn1KHX1R-0x3dVXnUCcBEqNCpgpVlKEzXewqCqKFR60RFJLK88RiJpiq0F99xkq7nJ1_NO7RQpyvtn9R6XaJnJV7pYu6qv7WuBF_Jp662drzAqnvU7NRWdQDavbmph6Z203W_QPvitk0H8aZl2pgLs9GgIuADeDJ5rdRG6OZaVJrnoFg2SCf1Iez5zSdsif_I8Vr9URlR2SZAID9H2r39ash-pWk4i5y_yRBpOuxUSaoXuVC55Syr9aRFQ68XO6syU1uI&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHRjB6FDjg8D1LL4J9hNsir6zjn1KHX1R-0x3dVXnUCcBEqNCpgpVlKEzXewqCqKFR60RFJLK88RiJpiq0F99xkq7nJ1_NO7RQpyvtn9R6XaJnJV7pYu6qv7WuBF_Jp662drzAqnvU7NRWdQDavbmph6Z203W_QPvitk0H8aZl2pgLs9GgIuADeDJ5rdRG6OZaVJrnoFg2SCf1Iez5zSdsif_I8Vr9URlR2SZAID9H2r39ash-pWk4i5y_yRBpOuxUSaoXuVC55Syr9aRFQ68XO6syU1uI"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHReIztOJ_pAIm28QHCGOFTtKBaLp2eTHJZ2c6weG_431rNBwiblqV60zpj_huRr4b9DZFVfmtxV5E4QiRl1Ek2kuVW31i0qKGWnzaMCeG10akDEauTPCh7YryzonD-4a0k6T2Sl_kyqIjIjSw-U1dJ-Anm-pF5BqHQIrsDvAxsae6cO2pHOcBJtFnBqPAJYS2lepdFR4Vfsl4TEknpte_OIYvhiGEo7oaaE9dL2hWR3YvB2RRUBU05pJu_xyzY8aZbmW9wMZMqN8r50d6JrczYwOun1FI",
+            "q": "Frontend Developer fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHReIztOJ_pAIm28QHCGOFTtKBaLp2eTHJZ2c6weG_431rNBwiblqV60zpj_huRr4b9DZFVfmtxV5E4QiRl1Ek2kuVW31i0qKGWnzaMCeG10akDEauTPCh7YryzonD-4a0k6T2Sl_kyqIjIjSw-U1dJ-Anm-pF5BqHQIrsDvAxsae6cO2pHOcBJtFnBqPAJYS2lepdFR4Vfsl4TEknpte_OIYvhiGEo7oaaE9dL2hWR3YvB2RRUBU05pJu_xyzY8aZbmW9wMZMqN8r50d6JrczYwOun1FI&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHReIztOJ_pAIm28QHCGOFTtKBaLp2eTHJZ2c6weG_431rNBwiblqV60zpj_huRr4b9DZFVfmtxV5E4QiRl1Ek2kuVW31i0qKGWnzaMCeG10akDEauTPCh7YryzonD-4a0k6T2Sl_kyqIjIjSw-U1dJ-Anm-pF5BqHQIrsDvAxsae6cO2pHOcBJtFnBqPAJYS2lepdFR4Vfsl4TEknpte_OIYvhiGEo7oaaE9dL2hWR3YvB2RRUBU05pJu_xyzY8aZbmW9wMZMqN8r50d6JrczYwOun1FI"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK0E3a2qE1-TOdjygrlmjRa_9a0vYLPwl0Etxul2uRlqivM4wKbGNN5audrCv_W9BLmi9PZhMGDsnVxgOcIn8rGAy8-1fO2OQ58IZ1dny1QmRwHmUUGfVkV113SjNtCka7LuyZnWsLFQEFNvlJrxRLjMG3TlIcknt6AwFgW4L9wRNO4cur7WfsrHiXdVRgU1uyaR3nwpOrZerNByA011eFcLUjzQHsV6YKCU2eZHaCfZVupZAPys6QmynOht4pJP-xZsmq9-8F7clgvLvmLGQbrb4CzRHQH-Fc8bu3ASo2tkRiXg89A",
+            "q": "Frontend Developer fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK0E3a2qE1-TOdjygrlmjRa_9a0vYLPwl0Etxul2uRlqivM4wKbGNN5audrCv_W9BLmi9PZhMGDsnVxgOcIn8rGAy8-1fO2OQ58IZ1dny1QmRwHmUUGfVkV113SjNtCka7LuyZnWsLFQEFNvlJrxRLjMG3TlIcknt6AwFgW4L9wRNO4cur7WfsrHiXdVRgU1uyaR3nwpOrZerNByA011eFcLUjzQHsV6YKCU2eZHaCfZVupZAPys6QmynOht4pJP-xZsmq9-8F7clgvLvmLGQbrb4CzRHQH-Fc8bu3ASo2tkRiXg89A&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK0E3a2qE1-TOdjygrlmjRa_9a0vYLPwl0Etxul2uRlqivM4wKbGNN5audrCv_W9BLmi9PZhMGDsnVxgOcIn8rGAy8-1fO2OQ58IZ1dny1QmRwHmUUGfVkV113SjNtCka7LuyZnWsLFQEFNvlJrxRLjMG3TlIcknt6AwFgW4L9wRNO4cur7WfsrHiXdVRgU1uyaR3nwpOrZerNByA011eFcLUjzQHsV6YKCU2eZHaCfZVupZAPys6QmynOht4pJP-xZsmq9-8F7clgvLvmLGQbrb4CzRHQH-Fc8bu3ASo2tkRiXg89A"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio024atl8wESZtn-VbesEPcs3A3gwvSiFUCgjqPax2zDNxzEOl0Sx5BB6qBpIeijKsGIKfjugsZrS7fjAZUFyikTC3jIMaF5yS0ko4eOOGofYkRt6giddJTQsoshZtO-toTP77bi0qfFhJBJ3kzhXvROt3wV96ecUsKXIOk8GW5SAkEd7ltK5e-q5NMp1Nr1Vq9uNRssgftUlXBdf5Ys4dKGuOIH793GdBz3iTMsBhdqjARo5qI1afFozBaXxSJlSDxap_0BfJOCAdIPA7zhwAV7lS4iwgCtZgyxhzcR1BMZ3BHSTaAw",
+            "q": "Frontend Developer fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio024atl8wESZtn-VbesEPcs3A3gwvSiFUCgjqPax2zDNxzEOl0Sx5BB6qBpIeijKsGIKfjugsZrS7fjAZUFyikTC3jIMaF5yS0ko4eOOGofYkRt6giddJTQsoshZtO-toTP77bi0qfFhJBJ3kzhXvROt3wV96ecUsKXIOk8GW5SAkEd7ltK5e-q5NMp1Nr1Vq9uNRssgftUlXBdf5Ys4dKGuOIH793GdBz3iTMsBhdqjARo5qI1afFozBaXxSJlSDxap_0BfJOCAdIPA7zhwAV7lS4iwgCtZgyxhzcR1BMZ3BHSTaAw&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio024atl8wESZtn-VbesEPcs3A3gwvSiFUCgjqPax2zDNxzEOl0Sx5BB6qBpIeijKsGIKfjugsZrS7fjAZUFyikTC3jIMaF5yS0ko4eOOGofYkRt6giddJTQsoshZtO-toTP77bi0qfFhJBJ3kzhXvROt3wV96ecUsKXIOk8GW5SAkEd7ltK5e-q5NMp1Nr1Vq9uNRssgftUlXBdf5Ys4dKGuOIH793GdBz3iTMsBhdqjARo5qI1afFozBaXxSJlSDxap_0BfJOCAdIPA7zhwAV7lS4iwgCtZgyxhzcR1BMZ3BHSTaAw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHRjB6FDjg8D1LL4J9hNsir6zjn1KHX1R-0x3dVXnUCcBEqNCpgpVlKEzXewqCqKFR60RFJLK88RiJpiq0F99xkq7nJ1_NO7RQpyvtn9R6XaJnJV7pYu6qv7WuBF_Jp662drzAqnvU7NRWdQDavbmph6Z203W_QPvitk0H8aZl2pgLs9GgIuADeDJ5rdRG6OZaVJrnoFg2SCf1Iez5zSdsif_I8Vr9URlR2SZAID9H2r39ash-pWk4i5y_yRBpOuxUSaoXuVC55Syr9aRFQ68XO6syU1uI",
+            "q": "Frontend Developer fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHRjB6FDjg8D1LL4J9hNsir6zjn1KHX1R-0x3dVXnUCcBEqNCpgpVlKEzXewqCqKFR60RFJLK88RiJpiq0F99xkq7nJ1_NO7RQpyvtn9R6XaJnJV7pYu6qv7WuBF_Jp662drzAqnvU7NRWdQDavbmph6Z203W_QPvitk0H8aZl2pgLs9GgIuADeDJ5rdRG6OZaVJrnoFg2SCf1Iez5zSdsif_I8Vr9URlR2SZAID9H2r39ash-pWk4i5y_yRBpOuxUSaoXuVC55Syr9aRFQ68XO6syU1uI&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHRjB6FDjg8D1LL4J9hNsir6zjn1KHX1R-0x3dVXnUCcBEqNCpgpVlKEzXewqCqKFR60RFJLK88RiJpiq0F99xkq7nJ1_NO7RQpyvtn9R6XaJnJV7pYu6qv7WuBF_Jp662drzAqnvU7NRWdQDavbmph6Z203W_QPvitk0H8aZl2pgLs9GgIuADeDJ5rdRG6OZaVJrnoFg2SCf1Iez5zSdsif_I8Vr9URlR2SZAID9H2r39ash-pWk4i5y_yRBpOuxUSaoXuVC55Syr9aRFQ68XO6syU1uI"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHReIztOJ_pAIm28QHCGOFTtKBaLp2eTHJZ2c6weG_431rNBwiblqV60zpj_huRr4b9DZFVfmtxV5E4QiRl1Ek2kuVW31i0qKGWnzaMCeG10akDEauTPCh7YryzonD-4a0k6T2Sl_kyqIjIjSw-U1dJ-Anm-pF5BqHQIrsDvAxsae6cO2pHOcBJtFnBqPAJYS2lepdFR4Vfsl4TEknpte_OIYvhiGEo7oaaE9dL2hWR3YvB2RRUBU05pJu_xyzY8aZbmW9wMZMqN8r50d6JrczYwOun1FI",
+            "q": "Frontend Developer fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHReIztOJ_pAIm28QHCGOFTtKBaLp2eTHJZ2c6weG_431rNBwiblqV60zpj_huRr4b9DZFVfmtxV5E4QiRl1Ek2kuVW31i0qKGWnzaMCeG10akDEauTPCh7YryzonD-4a0k6T2Sl_kyqIjIjSw-U1dJ-Anm-pF5BqHQIrsDvAxsae6cO2pHOcBJtFnBqPAJYS2lepdFR4Vfsl4TEknpte_OIYvhiGEo7oaaE9dL2hWR3YvB2RRUBU05pJu_xyzY8aZbmW9wMZMqN8r50d6JrczYwOun1FI&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHReIztOJ_pAIm28QHCGOFTtKBaLp2eTHJZ2c6weG_431rNBwiblqV60zpj_huRr4b9DZFVfmtxV5E4QiRl1Ek2kuVW31i0qKGWnzaMCeG10akDEauTPCh7YryzonD-4a0k6T2Sl_kyqIjIjSw-U1dJ-Anm-pF5BqHQIrsDvAxsae6cO2pHOcBJtFnBqPAJYS2lepdFR4Vfsl4TEknpte_OIYvhiGEo7oaaE9dL2hWR3YvB2RRUBU05pJu_xyzY8aZbmW9wMZMqN8r50d6JrczYwOun1FI"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK0E3a2qE1-TOdjygrlmjRa_9a0vYLPwl0Etxul2uRlqivM4wKbGNN5audrCv_W9BLmi9PZhMGDsnVxgOcIn8rGAy8-1fO2OQ58IZ1dny1QmRwHmUUGfVkV113SjNtCka7LuyZnWsLFQEFNvlJrxRLjMG3TlIcknt6AwFgW4L9wRNO4cur7WfsrHiXdVRgU1uyaR3nwpOrZerNByA011eFcLUjzQHsV6YKCU2eZHaCfZVupZAPys6QmynOht4pJP-xZsmq9-8F7clgvLvmLGQbrb4CzRHQH-Fc8bu3ASo2tkRiXg89A",
+            "q": "Frontend Developer fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK0E3a2qE1-TOdjygrlmjRa_9a0vYLPwl0Etxul2uRlqivM4wKbGNN5audrCv_W9BLmi9PZhMGDsnVxgOcIn8rGAy8-1fO2OQ58IZ1dny1QmRwHmUUGfVkV113SjNtCka7LuyZnWsLFQEFNvlJrxRLjMG3TlIcknt6AwFgW4L9wRNO4cur7WfsrHiXdVRgU1uyaR3nwpOrZerNByA011eFcLUjzQHsV6YKCU2eZHaCfZVupZAPys6QmynOht4pJP-xZsmq9-8F7clgvLvmLGQbrb4CzRHQH-Fc8bu3ASo2tkRiXg89A&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK0E3a2qE1-TOdjygrlmjRa_9a0vYLPwl0Etxul2uRlqivM4wKbGNN5audrCv_W9BLmi9PZhMGDsnVxgOcIn8rGAy8-1fO2OQ58IZ1dny1QmRwHmUUGfVkV113SjNtCka7LuyZnWsLFQEFNvlJrxRLjMG3TlIcknt6AwFgW4L9wRNO4cur7WfsrHiXdVRgU1uyaR3nwpOrZerNByA011eFcLUjzQHsV6YKCU2eZHaCfZVupZAPys6QmynOht4pJP-xZsmq9-8F7clgvLvmLGQbrb4CzRHQH-Fc8bu3ASo2tkRiXg89A"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio024atl8wESZtn-VbesEPcs3A3gwvSiFUCgjqPax2zDNxzEOl0Sx5BB6qBpIeijKsGIKfjugsZrS7fjAZUFyikTC3jIMaF5yS0ko4eOOGofYkRt6giddJTQsoshZtO-toTP77bi0qfFhJBJ3kzhXvROt3wV96ecUsKXIOk8GW5SAkEd7ltK5e-q5NMp1Nr1Vq9uNRssgftUlXBdf5Ys4dKGuOIH793GdBz3iTMsBhdqjARo5qI1afFozBaXxSJlSDxap_0BfJOCAdIPA7zhwAV7lS4iwgCtZgyxhzcR1BMZ3BHSTaAw",
+            "q": "Frontend Developer fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&hl=en&gl=in&sxsrf=APpeQnvoKBzeJw1Yk3uY6_lDNg5FpxyLhw:1791406427316&q=Frontend+Developer+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio024atl8wESZtn-VbesEPcs3A3gwvSiFUCgjqPax2zDNxzEOl0Sx5BB6qBpIeijKsGIKfjugsZrS7fjAZUFyikTC3jIMaF5yS0ko4eOOGofYkRt6giddJTQsoshZtO-toTP77bi0qfFhJBJ3kzhXvROt3wV96ecUsKXIOk8GW5SAkEd7ltK5e-q5NMp1Nr1Vq9uNRssgftUlXBdf5Ys4dKGuOIH793GdBz3iTMsBhdqjARo5qI1afFozBaXxSJlSDxap_0BfJOCAdIPA7zhwAV7lS4iwgCtZgyxhzcR1BMZ3BHSTaAw&udm=8&sa=X&ved=2ahUKEwiJj_795KiXAxVqN4YAHYxpHiQQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio024atl8wESZtn-VbesEPcs3A3gwvSiFUCgjqPax2zDNxzEOl0Sx5BB6qBpIeijKsGIKfjugsZrS7fjAZUFyikTC3jIMaF5yS0ko4eOOGofYkRt6giddJTQsoshZtO-toTP77bi0qfFhJBJ3kzhXvROt3wV96ecUsKXIOk8GW5SAkEd7ltK5e-q5NMp1Nr1Vq9uNRssgftUlXBdf5Ys4dKGuOIH793GdBz3iTMsBhdqjARo5qI1afFozBaXxSJlSDxap_0BfJOCAdIPA7zhwAV7lS4iwgCtZgyxhzcR1BMZ3BHSTaAw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Web developer – Fresher",
+      "company_name": "BiCSoM Technologies Pvt. Ltd.",
+      "location": "Bengaluru, Karnataka",
+      "via": "BiCSoM",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=aOisp9MIHUKAAyKqAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpic&shndl=37&shmd=H4sIAAAAAAAA_y3LMQrCMBSAYVx7BKc3iyRS6KJbBR1UEBQcy2v7SKoxL-SlpaN38BKey5Oo4PLzLX_2mmT5hWpoaSDHgSK8H0_YRBL795VrEMLYWGAPW2bjaLqyKQVZai3ilJGEqWtUw3fNnmoe9XeSXyqxGCk4TFTlxWJUwZtZUXbrEx_gTI317Nh0JHAckoJ9ahV0HkryBl0f-znsMHpMeMMPGXhF9KsAAAA&shmds=v1_ARwrE22A6Y9S1tcdJqIS5ie8wD-5Avge_XlHX27siX-FlNF0og&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=aOisp9MIHUKAAyKqAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://bicsom.co/jobs/web-developer-fresher/",
+      "job_title": "Web developer – Fresher",
+      "description": "Web development – Bengaluru and remote\n\n\n\n\n\nDescription:\n\n\n\nBuilding products at BiCSoM is about turning dreams and ideas into lovable technology and design solutions. As a mindful member of the BiCSoM team you will create rule-breaking responsive websites using WordPress, Elementor, Php, JavaScript, HTML, CSS, Ajax, Gatsby and Jquery. Large number of people across the globe use our products everyday, we take pride in wearing ‘Made with love in India’ on our sleeves.\n\n\n\n\n\nWhat are we looking for?\n\n\n\nDeveloping, designing, building, or maintaining responsive websites on WordPress and other Web technologiesUsing WordPress styling frameworks like Elementor and WP-bakeryCollaborating mindfully with teams to resolve conflicts, prioritize feature release needs and develop lovable websitesUnity testing website codes and maintaining web coding standardsDeveloping or validating test routines and schedules to ensure that test cases mimic external web interfaces and address all browser and device types issuesMaintaining an understanding of the latest Website design and development principles and understanding of different WordPress plugins and WordPress programming practices through continuous learning, and participation in conferences and workshops on WordPress developmentThorough with website data backup procedure and practices on WordPress and other CMS platformsIdentifying feature problems shared by customer feedback and correcting them proactively\n\n\n\nBachelor’s degree in Engineering or Diploma in Web development or related field, or relevant experienceUnderstanding of Solid principles and experience in programming web applicationsProficient in WordPress, Php, JavaScript, HTML, CSS, Bootstrap, Jquery, Ajax and ES6Dedicated team playerAbility to thrive in a fast-paced environmentAble to solve complex problems using WordPress and Php\n\n\n\nOther information:\n\n\n\nWork location: Bengaluru city and RemoteWorking days – 6 days a week\n\n\n\nWelcome to BiCSoM careers:\n\n\n\nBiCSoM Technologies Private Limited is committed to breakthrough innovation and success for its team members. From our mindful culture of compassion and wisdom to passionate customer success philosophy, this is one awesome place to work! So come and experience what it takes to build digital products which are loved by millions of users across the globe. You will find speed, agility, fun and supportive culture where we are responsible for each other’s success.\n\n\n\n\n\nBiCSoM is a registered startup under the Startup India initiative of Government of India and a DIPP registered MSMEBiCSoM was recognized as one of the top AR/VR startups in India in 2018 in DCB Bank innovation carnival",
+      "apply_options": [
+        {
+          "title": "BiCSoM",
+          "link": "https://bicsom.co/jobs/web-developer-fresher/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJXZWIgZGV2ZWxvcGVyIOKAkyBGcmVzaGVyIiwiY29tcGFueV9uYW1lIjoiQmlDU29NIFRlY2hub2xvZ2llcyBQdnQuIEx0ZC4iLCJodGlkb2NpZCI6ImFPaXNwOU1JSFVLQUF5S3FBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVERKblMwa3hZVUYzYWt3d2JUaG1VSFl0YzA5cFkwdDRVMHRuYmpsd2FYSnBOelowYlhkalluSkNielpPTlc1RVQxODFUelJzVTFReFIybHpibEoxTlV4NVZrWk9hRWhvT0c1eE5IaFZUVVprTVdKc1h6QklUbDlOVGtSS1ZGVnRTMlpDV1RrMmFXTjFjWEJ6WXpKMk1YZE1Zak5DY0hOQlF6ZGtkVkJoU0VNMlJqUTBUM1VTRjFjM1NFZGhjMjR4UlhWeWRXMU1VVkJxVGxBMWIwRkpHaUpCUkhOeU9XWlVZbmhTVUhGdllWcFZkR1ZSYnpSNU9XTlpTelp5Y2tSWU5GRlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJhT2lzcDlNSUhVS0FBeUtxQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Frontend Developer (Fresher)",
+      "company_name": "Team Geek Solutions",
+      "location": "Bengaluru, Karnataka",
+      "via": "Foundit",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=_WtzVi3JvUDmVimAAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpic&shndl=37&shmd=H4sIAAAAAAAA_xXLOw7CMAwAULH2CEwe-alBSF1gQ6gdGGGv3GIlpakdxSnqyB04AVfjJMDytpe9Z1lRRuFEfIMTPchLoAiLMpI6ikv4PF9wlwaUMLYOhKESsZ7mB5dS0L0xqj63mjB1bd7KYISpkcn8kv6p1WGk4DFRvSu2Ux7YrtZXwgEqoh4u4sfUCSt0DEdii36M4wbOGBkT9vgFF3r0XKQAAAA&shmds=v1_ARwrE21motkPFgcNWm_iL_Vv1J8nslsujBVR_FclXsnmfFAq8Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=_WtzVi3JvUDmVimAAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.foundit.in/job/frontend-developer-fresher-team-geek-solutions-bengaluru-bangalore-36852093",
+      "job_title": "Frontend Developer (Fresher)",
+      "description": "Company Description\n\nTeam Geek Solutions (TGS) is a global technology partner specializing in AI, Generative AI solutions, custom software development, and offshore/onshore talent optimization. Based in Texas, TGS deploys skilled professionals across the US, offering services tailored to industries such as BFSI, Telecom, FinTech, Healthcare, and Manufacturing. Our expertise includes AI/ML application development, cloud migration, cybersecurity audits, and ServiceNow & Salesforce customization. We help companies scale globally with our GCC through the Build-Operate-Transfer (BOT) model, aiming to enhance operational efficiency and drive innovation.\n\nJob Title: Frontend Developer (React JS + Node JS)\n\nLocation: Bengaluru\n\nExperience: Fresher\n\nRole Description\n\nThis is a full-time remote role for a Frontend Developer. The Frontend Developer will be responsible for developing and implementing user-facing features, optimizing web applications for maximum speed and scalability, and collaborating with back-end developers and web designers to improve usability. The role involves ensuring the technical feasibility of UI/UX designs, building reusable code and libraries for future use, and maintaining web design consistency across all applications.\n\nKey Responsibilities\n\n Develop and maintain high-performance React.js components for dashboard\n\nmodules\n\n Manage state persistence and cross-module filters using Redux. Handle role-based access control and permission-based rendering logic. Integrate and maintain dynamic charts and visualizations (e.g., using Chart.js) Set up and manage local development servers using Node.js & Webpack Maintain structured module architecture with reusable components Ensure responsive design and seamless performance across devices Work closely with backend engineers to consume APIs securely and efficiently Handle RESTful API integration for dynamic data rendering Manage authentication headers, error handling, and response transformation in\n\nfrontend.\n\n Configure and maintain environment variables, build scripts, and deployment\n\nsettings.\n\nQualifications\n\nFront-End Development and Responsive Web Design skillsExperience in Web Development and Software DevelopmentBasic understanding of Back-End Web DevelopmentProficiency in HTML, CSS, JavaScript, and modern front-end frameworksAbility to work independently and remotelyStrong problem-solving skills and attention to detailBachelor's degree in Computer Science, Information Technology, or related field or equivalent practical experience\n\nSkills: web design,responsive web design,chart.js,technology,web,css,react.js,web development,software development,javascript,software,redux,node.js,html",
+      "apply_options": [
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/frontend-developer-fresher-team-geek-solutions-bengaluru-bangalore-36852093?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/4183069440886146587?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/33938309734465536?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIgKEZyZXNoZXIpIiwiY29tcGFueV9uYW1lIjoiVGVhbSBHZWVrIFNvbHV0aW9ucyIsImh0aWRvY2lkIjoiX1d0elZpM0p2VURtVmltQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUR0p2WTBjMGJIVnFjM05rTFhwaldrbHpPV05HTXpSdFgwWllUblJqY0Rsc2NGOUxOM1Y0V0VKWlFreFlXa3BtVkY5TExXSjNXV1pKYXpsRE9HaFRhRE15Y2pGMlFtZzNjRkpRVW1kb1kxYzBaVUo0WlhSSFdXRjFZbXBsZFRsNVdqUkdjMEpVUVhocWNHbEVkRkZEVFhnNVJtUjNRakpKTlZkS2RURklUVlZzVlZwVWRYSVNGMWMzU0VkaGMyNHhSWFZ5ZFcxTVVWQnFUbEExYjBGSkdpSkJSSE55T1daVGRrdzNWbDlpT0MxVlFuaHJZamRvYUdWMlluUmZORmxDWlcxUiIsImZjdiI6IjMiLCJmY19pZCI6Il9XdHpWaTNKdlVEbVZpbUFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Frontend Developer (React / Angular)",
+      "company_name": "Softmason Technologies Inc",
+      "location": "Bengaluru, Karnataka",
+      "via": "Saarthi",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=1H5lB1iNkKcTJ_JDAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpic&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ4BURCA4Wj3CKopEdknEg1RECGiQy_jGW-XtzObN7OypTu4iDM5CZq_-_7s3cnm6yRsxBdY0YOi1JSgtyf0Bg4WHJqIqQ-f5wtucgYlTL4AYdiIhEjdWWFW69Q51ZgHNbTS514qJ0xnad0P6T8nLTBRHdHoNJ6M2rzmMBgf5GoV6m93JF-wRAklKWzZQ8mwJA4Ym9QMYYeJ0fCOX5SawDOzAAAA&shmds=v1_ARwrE215qsMrTa-atzudkbXVYJjsEYCJqwI9nozSEnxFFDGciQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=1H5lB1iNkKcTJ_JDAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://joinsaarthi.com/jobs/softmason-technologies-inc/frontend-developer-react-angular-bengaluru/d4a7c372-2022-42f3-b2a1-d109e4c3a741",
+      "job_title": "Frontend Developer (React / Angular)",
+      "description": "**Location:** Divyasree Omega, C'Block, 6th Floor, Kondapur, Hyderabad – 500081 **Salary:** ₹3.60 LPA – ₹4.50 LPA **Experience:** 0 – 2 Years (Freshers can apply) **Employment Type:** Full-Time **About the Company** --------------------- Softmason Technologies India Pvt Ltd is a fast-growing IT company delivering innovative software solutions and digital transformation services. We focus on building high-quality, user-friendly applications that enhance user experience and business performance. **Job Summary** --------------- We are looking for a creative and detail-oriented **Frontend Developer** with experience or strong knowledge of **React.js or Angular**. The ideal candidate will be responsible for developing responsive, user-friendly web interfaces and ensuring a seamless user experience. **Key Responsibilities** ------------------------ * Develop responsive and interactive **web user interfaces** * Build reusable components using **React.js / Angular** * Collaborate with UI/UX designers to implement designs * Optimize applications for speed and performance * Integrate frontend with backend APIs * Debug and fix UI-related issues * Ensure cross-browser compatibility **Required Skills** ------------------- * Strong knowledge of **HTML, CSS, JavaScript** * Experience or knowledge of **React.js or Angular** * Understanding of **responsive design principles** * Familiarity with **REST APIs integration** * Basic understanding of **version control (Git)** * Good problem-solving skills **Preferred Skills (Good to Have)** ----------------------------------- * Knowledge of **TypeScript** * Experience with **Bootstrap / Tailwind CSS** * Understanding of **state management (Redux / Context API)** * Basic knowledge of backend technologies **Eligibility Criteria** ------------------------ * B.Tech / B.E / MCA / BCA or related field * 0–2 years of experience in frontend development * Freshers with strong projects in React/Angular can apply",
+      "apply_options": [
+        {
+          "title": "Saarthi",
+          "link": "https://joinsaarthi.com/jobs/softmason-technologies-inc/frontend-developer-react-angular-bengaluru/d4a7c372-2022-42f3-b2a1-d109e4c3a741?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NextRaise",
+          "link": "https://nextraise.ai/jobs/frontend-developer-react-angular-at-softmason-666bf380aa96?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIgKFJlYWN0IC8gQW5ndWxhcikiLCJjb21wYW55X25hbWUiOiJTb2Z0bWFzb24gVGVjaG5vbG9naWVzIEluYyIsImh0aWRvY2lkIjoiMUg1bEIxaU5rS2NUSl9KREFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTV05RVTA1NGNIaDZRMUF0WnpCdk1XZFhOWEJGZW5vMFZEZHJhMHRyYkRSR2VHMVFOQzFEY0hwUlpHWmxWa2xaVDBKQ1gzWXRWMVV0VTBjeGFrczVjMnBYZG5kaVNEVkdYekZ6ZVdvNE5HTlZOSEkxT1ZsR1NYaHNNRFU0Ulc1TU1UZEhXaTFZV0dOV2EyVllTbGh0U0c5TlZFdFRjRnBKTUd0eFZrMHpRbXhHZEVNMGEyTVNGMWMzU0VkaGMyNHhSWFZ5ZFcxTVVWQnFUbEExYjBGSkdpSkJSSE55T1daU1R6Sm5ja2xKV0hGNmEwNTZTR1pJVEZOcVdsVjJNMHRqVlRaQiIsImZjdiI6IjMiLCJmY19pZCI6IjFINWxCMWlOa0tjVEpfSkRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Hiring Drupal Frontend Developer (Bengaluru)",
+      "company_name": "Specbee",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=7lQclAjWWf9wMg15AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpic&shndl=37&shmd=H4sIAAAAAAAA_z3NPQ7CMAxAYbH2CCx4BIQahMQCGyo_EiMHqNxgpYFgR06KOnIHzsDFOAmwsLzt0yteg2J78OrZQaVdxAA7Fc7EZ6joTkEiKYw3xA5Dp90E3o8nXKSBRKi2BWHYi7hAw3Wbc0wrY1IKpUsZs7ellZsRpkZ680Xplzq1qBQDZqoXy3lfRnbT0SmSbYjAM_xnMziiMma84geNPNOQqAAAAA&shmds=v1_ARwrE206C0jKobgHJKk8FcJvUNVIYKW6u8kE3TDgqOdrNFgQ4A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=7lQclAjWWf9wMg15AAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/hiring-drupal-frontend-developer-bengaluru/specbee/19634421",
+      "job_title": "Hiring Drupal Frontend Developer (Bengaluru)",
+      "description": "We're looking for a Drupal Frontend Developer with strong front-end engineering skills and solid working knowledge of Drupal to build high-quality, accessible, and performant user experiences. This is a frontend-heavy role (~70% frontend / 30% backend)  you'll spend most of your time building responsive UI, custom themes, and reusable components, while working comfortably within Drupal's backend architecture to integrate and support your front-end work.\n\nKey Responsibilities\n\nFrontend (Primary Focus)\n\n- Build responsive, pixel-perfect user interfaces using HTML5, CSS3, and modern JavaScript (ES6+)\n- Develop and maintain custom Drupal themes using Twig\n- Build reusable, component-based UI using Single Directory Components (SDC) or similar component-driven approaches\n- Convert Figma/design mockups into accessible, cross-browser-compatible interfaces (WCAG compliance)\n- Optimize front-end performance (page load times, Core Web Vitals, asset/bundle optimization)\n\nBackend (Supporting Focus)\n\n- Develop and maintain custom Drupal modules to support front-end functionality\n- Work on site building, configuration management, and content architecture (content types, Views)\n- Integrate with RESTful APIs and JSON:API for front-end data consumption\n- Troubleshoot, debug, and support Drupal upgrades\n- Use Composer and Drush for dependency management and site operations\n\nGeneral\n\n- Participate in code reviews and follow Git-based collaborative workflows (branching, PRs)\n- Collaborate closely with designers, backend developers, and project managers to deliver projects on time\n\nRequired Skills & Qualifications\n\n- 3+ years of experience in Drupal (9/10/11) development, with a strong front-end focus\n- Strong hands-on JavaScript (ES6+)  not just jQuery-level scripting\n- Genuine, applied experience with React or Vue.Js  not certification-only knowledge\n- Solid Twig theming and custom theme development from scratch\n- Solid HTML5, CSS3 (SASS/SCSS a plus), responsive design, and accessibility (WCAG) skills\n- Working knowledge of Drupal site building (content types, Views, configuration management)\n- Basic-to-solid PHP understanding  enough to work with Drupal APIs and REST/JSON:API endpoints\n- Familiarity with Composer, Drush, and Git-based workflows\n- Excellent problem-solving skills and attention to detail\n\nNice to Have\n\n- Hands-on experience with Single Directory Components (SDC)\n- Experience with decoupled/headless Drupal (React/Vue/Next.Js front-end on a Drupal backend)\n- Exposure to CI/CD processes and tools\n- Component library experience (Storybook, PatternLab, or similar)\n- Front-end performance optimization expertise (Core Web Vitals, lazy loading, bundle size) .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/hiring-drupal-frontend-developer-bengaluru/specbee/19634421?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/6495891467569987584?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/341677244/frontend-developer-sde-2-3-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJIaXJpbmcgRHJ1cGFsIEZyb250ZW5kIERldmVsb3BlciAoQmVuZ2FsdXJ1KSIsImNvbXBhbnlfbmFtZSI6IlNwZWNiZWUiLCJodGlkb2NpZCI6IjdsUWNsQWpXV2Y5d01nMTVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1UwMVJFdDBaMWM0Um5KeGNVZHlXVlZmTTFsMFRHTm5WMHh2VDAxTE0wTXhSV2h1Y2pocVJrOURNM2haU1ZBd1RIVkNXbUZRUm5sb1JFWnJVV0ppVDFkVlEzSm5NazFRTUcwNFRVOWlVVFJtTTNoWVdETXlVVGh0Y0VVdE9TMWpjVEkxV0cwMGFWRlpNMUEzYTFsaFVqSkhaRlprV2xwYVgwNU9ibTQ0YW5KRFdtWk9NMmdTRjFjM1NFZGhjMjR4UlhWeWRXMU1VVkJxVGxBMWIwRkpHaUpCUkhOeU9XWlRORGxvZVhSU00zSk1URk5tWW05V1YyVTJRa2xQY0dWM1NuaEIiLCJmY3YiOiIzIiwiZmNfaWQiOiI3bFFjbEFqV1dmOXdNZzE1QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "React.js Developer",
+      "company_name": "Concentrix",
+      "location": "Bengaluru, Karnataka",
+      "via": "Concentrix Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=dKevLtNlgBHr0hvvAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpic&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ7CMAwAQLH2CUwWI6AEIbHABkgMbHygciMrbUntKHZRR17Awg95CbDcdtVrVq1uhMFcr3CmByXJVODzfEMvDShhCS0Iw0UkJpofWrOse-9Vk4tqaF1wQQYvTI1M_pf0T60tFsoJjertbjO5zHG5OAkHYivdBB3DkThiGsu4hisWRsM7fgFvLh5vkQAAAA&shmds=v1_ARwrE23Csv7WJgITiuDGMyMwNbyU7zFcReWOaVD3x13ad-Jr0g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=dKevLtNlgBHr0hvvAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://jobs.concentrix.com/job/?id=R1677494",
+      "job_title": "React.js Developer",
+      "description": "We're Concentrix. The intelligent transformation partner. Solution-focused. Tech-powered. Intelligence-fueled. \n\nThe global technology and services leader that powers the world’s best brands, today and into the future. We’re solution-focused, tech-powered, intelligence-fueled. With unique data and insights, deep industry expertise, and advanced technology solutions, we’re the intelligent transformation partner that powers a world that works, helping companies become refreshingly simple to work, interact, and transact with. We shape new game-changing careers in over 70 countries, attracting the best talent.\n\nThe Concentrix Technical Products and Services team is the driving force behind Concentrix’s transformation, data, and technology services. We integrate world-class digital engineering, creativity, and a deep understanding of human behavior to find and unlock value through tech-powered and intelligence-fueled experiences. We combine human-centered design, powerful data, and strong tech to accelerate transformation at scale. You will be surrounded by the best in the world providing market leading technology and insights to modernize and simplify the customer experience. Within our professional services team, you will deliver strategic consulting, design, advisory services, market research, and contact center analytics that deliver insights to improve outcomes and value for our clients. Hence achieving our vision.\n\nOur game-changers around the world have devoted their careers to ensuring every relationship is exceptional. And we’re proud to be recognized with awards such as \"World's Best Workplaces,\" “Best Companies for Career Growth,” and “Best Company Culture,” year after year.\n\nJoin us and be part of this journey towards greater opportunities and brighter futures.",
+      "apply_options": [
+        {
+          "title": "Concentrix Careers",
+          "link": "https://jobs.concentrix.com/job/?id=R1677494&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/react-js-developer-1655503?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/React-js-Developer-Bengaluru-Bangalore-Multi-Recruit-eMPnakbB?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Instahyre",
+          "link": "https://www.instahyre.com/job-443675-react-js-developer-at-swiggy-work-from-home/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/2297742765?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZeroNoticePeriod",
+          "link": "https://www.zeronoticeperiod.com/job/reactjs-developer-435?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-619949907334886559?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Iitjobs",
+          "link": "https://www.iitjobs.com/job/reactjs-developer-bengaluru-karnataka-india-423363?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZWFjdC5qcyBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJDb25jZW50cml4IiwiaHRpZG9jaWQiOiJkS2V2THRObGdCSHIwaHZ2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRGTnhSVFE0YzBwWFNYQTBTR3RKVjFRMldVbHBSM2RwTWxSNlNEZEhUblZGU0ZRNFVFbFNOVXgwWlhaQlozQndOVTVmTkhnNVNYQnVRVTVIYW14blFWOXVORVYwVUVWeGVEUjJUbXcxVkVac1VrTlRjSHBtYjBwVGRFMVZiMmcxWm1oVk5UVkVWRzlJTjFSalgyMHplRmh1U0hwbFozVkRVVXBGZERod2JVUXhPRjh3UVVrU0YxYzNTRWRoYzI0eFJYVnlkVzFNVVZCcVRsQTFiMEZKR2lKQlJITnlPV1pTUkRsRVIycExjM0JHVUhvNFNFaFdMV2RHZWtSTlFsWndSM2RSIiwiZmN2IjoiMyIsImZjX2lkIjoiZEtldkx0TmxnQkhyMGh2dkFBQUFBQT09In0="
+    },
+    {
+      "title": "Software Engineering Intern (Front-End / Back-End)",
+      "company_name": "Cyble Inc.",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=8FATjbRcsQNcZ-oaAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpic&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TrBYrFc2JYKNdREVS-oCwOddLzLkb7laMnX_wHz7KlxibYZphks8gyU9y0QcGgh27molCzQ6OrBQYxvsgrPMdn8FAhrb56wS-rzdcpYRIGGwFwnAQcZ6Gm0q1jWtjYvSpi4pa29TKzQhTKZ3po_hHEav-2HpUKparRZe27Kaj7bP01K9tCjVDRuzQ38N9BjkGRsUGfxQwVvOxAAAA&shmds=v1_ARwrE23SpdFfqwXLnZHQzAcvRPVpKjdaNNKiZopmWUej9duKiQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=8FATjbRcsQNcZ-oaAAAAAA%3D%3D",
+      "extensions": [
+        "₹1L–₹50L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/cyble-software-engineering-intern-front-end-back-end-bengaluru-bangalore-karnataka-0-to-1-years-535061",
+      "job_title": "Software Engineering Intern (Front-End / Back-End)",
+      "description": "About CybleCyble is a leading cybersecurity and threat intelligence company, providing real-time insights, digital risk protection, and automated monitoring solutions. We empower organizations with the tools and intelligence they need to proactively address emerging cyber threats. At Cyble, interns partner with experienced professionals, work on cutting-edge projects, and develop their skills in a dynamic and collaborative environment.We are looking for enthusiastic Software Engineering Interns interested in Front-End, Back-End, or both. Depending on your strengths and career goals, you will be assigned to one of our teams, working closely with mentors and senior engineers to build and enhance our cybersecurity intelligence platforms.Front-End FocusCollaborate with the design and product teams to implement intuitive and visually compelling interfaces.Build, optimize, and maintain reusable UI components using modern frameworks (e.g., React, Angular, or Vue).Ensure high performance across multiple devices and browsers.Troubleshoot and debug UI-related issues while adhering to best practices for code quality and scalability.Back-End FocusDesign, develop, and maintain server-side components and services.Work with cross-functional teams (Front-End, DevOps, Data Science) to define and integrate APIs.Implement efficient data storage solutions using relational and/or NoSQL databases.Write clean, modular code that ensures high performance and security.Leverage Golang and gRPC for building robust, scalable microservices (where applicable).ResponsibilitiesCollaborate: Work closely with product managers, designers, and engineers to gather requirements and propose solutions.Develop: Write well-structured, testable code following industry best practices.Test & Debug: Participate in code reviews, identify bugs, and implement fixes.Learn & Grow: Stay up-to-date with emerging technologies and continuously improve your coding skills.Document: Contribute to technical documentation to facilitate knowledge sharing within the team.QualificationsCurrently pursuing or recently graduated with a degree in Computer Science, Software Engineering, or a related field.Familiarity with front-end technologies (HTML5, CSS3, JavaScript/TypeScript) and/or back-end programming languages/frameworks (Python/Django, Node.js/Express, Java/Spring, Go, etc.).Basic understanding of version control (Git) and collaborative development workflows.Strong analytical and problem-solving skills.Effective communication and teamwork skills.Preferred SkillsFront-End: Experience with React, Vue, or Angular; familiarity with CSS preprocessors (SASS/LESS) or frameworks (Bootstrap, Tailwind); basic knowledge of testing frameworks (Jest, Cypress).Back-End: Experience with RESTful APIs, databases (MySQL, PostgreSQL, MongoDB), and microservices architecture; familiarity with containerization (Docker) and cloud platforms (AWS, Azure, Google Cloud).Interest in cybersecurity and threat intelligence.What We OfferHands-on Experience: Contribute to real-world cybersecurity solutions impacting global organizations.Mentorship: Learn from experienced engineers and industry experts.Professional Growth: Enhance your technical, problem-solving, and communication skills.Collaborative Environment: Join a diverse team that values creativity, initiative, and mutual respect.Potential for Full-Time: Exceptional interns may be considered for full-time roles post-internship.",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/cyble-software-engineering-intern-front-end-back-end-bengaluru-bangalore-karnataka-0-to-1-years-535061?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "FreshersBridge",
+          "link": "https://www.freshersbridge.in/internships/software-engineering-intern-flam?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ReferralWorld Careers",
+          "link": "https://referralworldcareers.com/jobs/11645?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlcmluZyBJbnRlcm4gKEZyb250LUVuZCAvIEJhY2stRW5kKSIsImNvbXBhbnlfbmFtZSI6IkN5YmxlIEluYy4iLCJodGlkb2NpZCI6IjhGQVRqYlJjc1FOY1otb2FBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU25wc1pESTRNaTFHYldNek0zUm1OSGxIYXkxWFptVkNZbWRmY1RCQ1l6ZEJURlZrTlU4d2JVMUdkV3RKVnpoWmVFbDFNM2xIUkRsWlVVTktTRVkzUWtnMGRYRlBaMFJrZEZCck5HOUZkRU0xVUdkdk1XRmZZakJUYUhrM1RESnZhME55WW0xbFlqVlRTR3d5T1ZwcFlqUnFNV2hmYW1GT2VrSnNUbFJCV0hwT2FEWk1ZV3NTRjFjM1NFZGhjMjR4UlhWeWRXMU1VVkJxVGxBMWIwRkpHaUpCUkhOeU9XWlVXRkptWnpRNWR6bEhZV2t4UTIxclZXZFlOMEZQTkVaT04xbFIiLCJmY3YiOiIzIiwiZmNfaWQiOiI4RkFUamJSY3NRTmNaLW9hQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Qcentum Technologies UI Developer (Fresher) Jobs in Bangalore: Apply Now",
+      "company_name": "Qcentum Technologies",
+      "location": "Bengaluru, Karnataka",
+      "via": "GigsDock",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=7GVmGR3ILxOlmTpHAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpic&shndl=37&shmd=H4sIAAAAAAAA_23OMQrCQBBAUWxzBKspVUIigo1WiigqCILWYbIMu9HNzrKz0dh5B-_lITyJprf53YeXvHsJHhW52NRwImUcW9YVCZy3sKIbWfYUYLAOJIbCEHZcClQOlug0Wg40g4X39gEHvsPn-YILlyCEQRlgBxtmbak_NzF6meW5iM20RIyVyhTXOTsquc1_k3QpxGAgbzFSMZmO28w7PUr_-joDdYYmNCnsMTiMeMUvTkaq-dEAAAA&shmds=v1_ARwrE22rYpjRH1xZwxWZa-ukle_MbZkFOisxJdaKbNRh7qnyVA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=7GVmGR3ILxOlmTpHAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://gigsdock.com/job/qcentum-ui-developer-fresher-job-ee91f4/",
+      "job_title": "Qcentum Technologies UI Developer (Fresher) Jobs in Bangalore: Apply Now",
+      "description": "Qcentum Technologies is currently hiring freshers for an exciting full-time internship and product development role. If you are looking for Qcentum Technologies UI Developer Jobs in Bangalore, this is a prime opportunity to kickstart your frontend engineering career. You will be responsible for designing and implementing responsive web UI components while working closely with product, engineering, and management teams.\n\n\nThe ideal candidate must be a graduate with foundational knowledge in core front-end technologies, including HTML, CSS, JavaScript, Bootstrap, Angular JS, and basic PHP. You will actively contribute to user-centered designs, create wireframes, and ensure cross-browser compatibility while staying updated with the latest UI trends.\n\n\nResponsibilitiesAs a UI Developer Intern, your primary responsibilities will include designing user-centered web interfaces and actively collaborating with engineering teams.\n\n\n\nDesign and implement components and features of the web UI using various front-end technologies, languages, and frameworks.\nDesign websites with responsive design and ensure cross-browser compatible code.\nCreate user-centered designs by understanding business requirements and user feedback.\nCreate user flows, wireframes, prototypes, and mockups.\nTranslate requirements into style guides, design systems, design patterns, and attractive user interfaces.\nDesign UI elements such as input controls, navigational components, and informational components.\nCreate original graphic designs, including images, sketches, and tables.\nIdentify and troubleshoot UX problems, such as responsiveness issues.\nCollaborate effectively with product, engineering, and management teams.\nIncorporate customer feedback, usage metrics, and usability findings into design in order to enhance user experience.\n\nRequirementsTo qualify for this fresher UI Developer role, candidates must meet the following educational and technical skill requirements.\n\n\n\nGraduation in any discipline (Any Graduate).\nEligibility is restricted to freshers looking for full-time internship or product development opportunities.\nPrerequisites in HTML, CSS, Bootstrap, WordPress, JavaScript, JQuery, Ajax, Angular Js, and PHP Basic.\nStrong understanding of UI, cross-browser compatibility, web standards, and accessibility standards.\nDeep understanding of user experience and the ability to analyze and test usability.\nKnowledge of the latest UI trends alongside a highly creative and self-inspired approach.\nStrong self-learning abilities.",
+      "apply_options": [
+        {
+          "title": "GigsDock",
+          "link": "https://gigsdock.com/job/qcentum-ui-developer-fresher-job-ee91f4/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJRY2VudHVtIFRlY2hub2xvZ2llcyBVSSBEZXZlbG9wZXIgKEZyZXNoZXIpIEpvYnMgaW4gQmFuZ2Fsb3JlOiBBcHBseSBOb3ciLCJjb21wYW55X25hbWUiOiJRY2VudHVtIFRlY2hub2xvZ2llcyIsImh0aWRvY2lkIjoiN0dWbUdSM0lMeE9sbVRwSEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURE0wWlVRME9FNUlkamRrTVRCdE9IWXlYMU50ZW5SVGVtMHpTRVZ5UVdseWVHNVNPRnByVjBaS2QwaFZibDlTU0VWdlZEUlhSalphTmpKeGFuVk5VMDVhZWxKRFpuUlZSbmc0WjJoVFdtcE9VbVoyVTNCa2NIVkVNVzV5YW0xbVFWVTVNVXBHUkdSSllXZFZObEJZWjNKRGVXdElUR1ZZYTJwcWFteFdSMlJHTFdvMWFVd1NGMWMzU0VkaGMyNHhSWFZ5ZFcxTVVWQnFUbEExYjBGSkdpSkJSSE55T1daU2RGWnpiSEZhT1ROdFJqQjRVbWhyVG5weVJDMVhjVkZQY1dwMyIsImZjdiI6IjMiLCJmY19pZCI6IjdHVm1HUjNJTHhPbG1UcEhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Frontend Developer - Next.js -  Immediate Joiner",
+      "company_name": "IAI solution",
+      "location": "Bengaluru, Karnataka",
+      "via": "Cutshort",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=Exz7bBglGRrPxg0oAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpic&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBBFsfUIVlNYiSYi2GiliBIFrxAmyZBs3MyEnYmk9A7ew0N5Etfm8eHx3_QzmWbnIGzEFZzoSV56CrCCO42WtBoXZF1HlUMjuIrjaL-vN7RSgBKGsgFhuIjUnmb7xqzXXZqq-qRWQ3NlUkqXClMhYxpP-keuDQbqfWzmm-16THquF_PskIGKH8zFomM4EtfohzAs4YaB0fCBP8PHqkexAAAA&shmds=v1_ARwrE21hYAmUPQxB0lyXz1wnp8WqjGcEB3wRxutPXleJ7ZfAbA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=Exz7bBglGRrPxg0oAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAG1BMVEXm5ub____l5eXp6ens7Oz7-_v19fXx8fH4-Pin8JYcAAABK0lEQVRIie2U227EIAxEwTY2___F9QVCqu16SdWHPjBSJCxxGDxYKeXo6F8J4JcYcXmOKtZqrfKQDKyJfvgADayj9si18m6rN0wL1DXtkAuDKIG03MTYMa5YKhdfce45MLNBbc7AKJE-Y-JYr3WCnk5mGBhYU4FdoLkmwuHm7z63yyiyOUB3k0l1svuNZvMB0o0T6zIGHGJkU9CnxNQEwwwK2NIWmBgG1uwNPVhpmqa7Y56qxxEGerkWz3A1nIEWh1vN11hgPjnLaoF9A7xZRbDkhxWS3jIQllXjGWaJltNUYRnFZiTFWQgLpKmCGgWjM8Td_Wmc1no6AN4P3_vEnVThnucL2BPwBTNwHpY6yhCZ0HSlmoSDa_vPenDR73r3i4RPenvXo6OjP9EXyg0HVQ-pUoAAAAAASUVORK5CYII.png",
+      "extensions": [
+        "₹7L–₹8L a year",
+        "Full–time"
+      ],
+      "source_link": "https://cutshort.io/job/Frontend-Developer-Next-js-Immediate-Joiner-Bengaluru-Bangalore-IAI-solution--gNnDU8Uw",
+      "job_title": "Frontend Developer - Next.js -  Immediate Joiner",
+      "description": "Job Role: Frontend Developer - 2+ Years - Immediate Joiner \n\nLocation: Bangalore\n\n\n\n\nCompany Overview\n\nIAI Solution Pvt Ltd. operates at the edge of applied AI where foundational research meets real-world deployment. We craft intelligent systems that think in teams, adapt with context, and deliver actionable insight across domains.\n\n\n\n\nPosition Summary\n\nWe are looking for a Front-End Developer (2+ Years experience) to join our team in Bengaluru, India with strong expertise in front-end technologies like JavaScript, HTML, CSS, React, and Next.js, as well as a solid understanding of back-end development, including database management and data structures and algorithms (DSA). The ideal candidate will have experience working with both SQL and NoSQL databases, such as MongoDB, and be proficient in using Git for version control. Experience in building SaaS platforms is highly desirable.\n\n\n\n\nKey Responsibilities\n\nDesign, development, and maintenance of scalable, high-performance web applications with a focus on front-end.Build responsive and user-friendly interfaces using JavaScript, TypeScript, HTML, CSS, React, Next.js, and Tailwind CSS.Define and implement best practices in front-end architecture, state management, and design systems.Optimize rendering strategies (SSR, SSG, ISR, RSC) to ensure high performance and SEO-friendly applications.Collaborate with product managers, designers, and back-end engineers to define technical requirements and deliver high-quality software.Ensure seamless integration with back-end services and databases (SQL, NoSQL, MongoDB).Troubleshoot, debug, and optimize applications for maximum speed, scalability, and reliability.\n\n\nQualifications\n\n2+ years of professional experience in front-end development, delivering production-grade applications.Strong expertise in JavaScript, TypeScript, React, Next.js, HTML, CSS, and Tailwind CSS.Proficiency in animation libraries (e.g., GSAP) and building engaging UI experiences.Solid understanding of rendering strategies (SSR, SSG, ISR, RSC) and front-end performance optimization.Experience with state management libraries (Redux Toolkit, Zustand, Context API, or similar).Expertise in building reusable, modular, and scalable component-driven architectures.Familiarity with design systems and UI/UX best practices.Good understanding of back-end fundamentals, databases (SQL, NoSQL, MongoDB), and REST/GraphQL APIs.Strong foundation in data structures and algorithms (DSA).Excellent problem-solving and debugging skills.Proficiency in Git and collaborative development workflows.\n\n\nMust-Have Skills\n\nReact, Next.js, TypeScript, Tailwind CSSState management (Redux Toolkit/Zustand/Context API)Rendering strategies (SSR, SSG, ISR, RSC)Strong understanding of UI/UX and responsive design principlesStrong knowledge of memoization techniques and performance optimizationProficient in leveraging network interceptorsGit and version control best practices\nGood-to-Have Skills\n\nExperience with animation libraries (GSAP, Framer Motion)Exposure to SaaS platform developmentKnowledge of testing frameworks (Jest, Cypress, React Testing Library)Understanding of CI/CD pipelines and DevOps practices\n\n\nPreferred Qualifications\n\nContributions to open-source projects or strong GitHub/portfolio demonstrating advanced front-end work.Experience in AI-driven platforms or SaaS-based product companies.\n\n\nPerks & Benefits\n\nCompetitive salary with performance-based bonuses.Opportunity to work on cutting-edge real-time audio/video applications.Flexible working hours .Access to the latest development tools and technologies.",
+      "apply_options": [
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Frontend-Developer-Next-js-Immediate-Joiner-Bengaluru-Bangalore-IAI-solution--gNnDU8Uw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/camunda-developer-am-immediate-joiner-deloitte-shared-services-india-bengaluru--t7xk-797529153?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIgLSBOZXh0LmpzIC0gIEltbWVkaWF0ZSBKb2luZXIiLCJjb21wYW55X25hbWUiOiJJQUkgc29sdXRpb24iLCJodGlkb2NpZCI6IkV4ejdiQmdsR1JyUHhnMG9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzFaM1JqaE9SMUpIZUZsNExWOHhhVkZ3YWw5cFlXVmtkazVFTjE5MVJsUlVZMUJpWDNsMllrcEpWMWxrVGxaa1RuUmtUbmRMVjBaWFpsVk5YMTk0WlVwdFVUSldabFp0Um5sUVVtVlNjbWRPWldOWE4ySllSMEZRUTNkeGFFeEVWVVZITlc5NmNHZGZlRFJCUWtZNFlsVkNZbVU0Vld4WlVHbEJMWEIxT0U1NWRERm1jelVTRjFjM1NFZGhjMjR4UlhWeWRXMU1VVkJxVGxBMWIwRkpHaUpCUkhOeU9XWlRkMWRmVm5OVWJEUk9hVk10VFdzNWJqRXdXV2hPVEZWMVdEQm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJFeHo3YkJnbEdSclB4ZzBvQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Ericsson Off Campus Drive 2025 Hiring Frontend Developer",
+      "company_name": "Ericsson",
+      "location": "Bengaluru, Karnataka",
+      "via": "Freshers Dunia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=kX6C7j34nV1hqlcjAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpic&shndl=37&shmd=H4sIAAAAAAAA_z2Ouw3CQAxARcsIVK4RSlCkNNBB-EgUiAkiE8zl4GKf7AuiZAc2YSQmARqa172nN3wNhoeV-sZMGPbnMyyxi71Bpf5GUEyLErZePTtYq3AiPkFFNwoSSeH9eMJFjmCE2rTwLWxEXKDRvE0p2izPzULmLGHyTdZIlwvTUe75V7IfamtRKQZMVBfl9J5FdmP4_3iGBbHD0Gs_gR0qY8IrfgCE5BuStQAAAA&shmds=v1_ARwrE20qivlwOiGCWG1yWlqePSfAGoAs2qyfbqJdnrGmD0D2_A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=kX6C7j34nV1hqlcjAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6b15128c7fb15d74fe084/images/AltG0s7Dye4sK3jzgus3_mOjYGQ66jpz8uCzcGwCky8.jpeg",
+      "extensions": [
+        "₹4.5L a year",
+        "Full–time"
+      ],
+      "source_link": "https://freshersdunia.in/ericsson-off-campus-drive-2025-hiring/",
+      "job_title": "Ericsson Off Campus Drive 2025 Hiring Frontend Developer",
+      "description": "Ericsson is hiring Frontend Developers as part of its Off Campus Drive 2025. This role focuses on cloud-native micro frontend applications, ensuring modular and efficient web experiences through agile methodologies.",
+      "apply_options": [
+        {
+          "title": "Freshers Dunia",
+          "link": "https://freshersdunia.in/ericsson-off-campus-drive-2025-hiring/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFcmljc3NvbiBPZmYgQ2FtcHVzIERyaXZlIDIwMjUgSGlyaW5nIEZyb250ZW5kIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkVyaWNzc29uIiwiaHRpZG9jaWQiOiJrWDZDN2ozNG5WMWhxbGNqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWcG9VRzFLVkRCU2N6QkNhR1JOYUdjME5qYzFUMUpJWDFsRE5uWmxkV2RWZDFKdlgwZElUM1JTTXpacFJEaFNZVzltYW5sR1JUZFNOVTlZT1V4NmF6WkNTRGRFYUV0NGFHSnRYekYzZGt4bk4yNDNVRzFwVW1FeFkzSlRXVFZEWlZsc1pYZDBja3RNUkdWTFVtSnhkamhZT1RJeWFGSlpNVzVmZDFGT2JrdG9TVE54YkhvU0YxYzNTRWRoYzI0eFJYVnlkVzFNVVZCcVRsQTFiMEZKR2lKQlJITnlPV1pUTUZkWFluTkVRM2xvZFZWbFNXaGtiRk5pTW5wWE1WQm9Oa1ozIiwiZmN2IjoiMyIsImZjX2lkIjoia1g2QzdqMzRuVjFocWxjakFBQUFBQT09In0="
+    },
+    {
+      "title": "Shopify Frontend Developer (5+ Years Experience)",
+      "company_name": "NYX",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=ZTpa9LZWzv-TIGZuAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpic&shndl=37&shmd=H4sIAAAAAAAA_xWLOwrCQBBAsc0RtJnSH1kRbLQTP4hgY2OqMFnHTXSdWXY3Ejvv4Bm8mCcxNg8ej5d8OsnuWIqrLk_YeOFIfIYVPciKIw_92QgyQh9g3bReEWsawPf1hqsUENqiSxCGrYix1F2UMbowVyoEm5oQMVY61XJXwlRIo9op_JGHEj05i5Hy6WzSpI7NsHfITlAxLIkN2trXY9ijZ4x4wx_JTbPCqAAAAA&shmds=v1_ARwrE21QcUUSal993N0zVTjhxCVgPdJQzu7GZrnlE8OYR2bbUw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=ZTpa9LZWzv-TIGZuAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/shopify-frontend-developer-5-years-experience/nyx/19535668",
+      "job_title": "Shopify Frontend Developer (5+ Years Experience)",
+      "description": "Shopify Frontend Developer (5+ Years Experience) Location: Bangalore (Work from Office) CTC: 6  9 LPA Employment Type: Full-Time About NYXAt NYX, we are building next-generation digital solutions focused on innovation, performance, and scalability. Our team thrives on creativity, ownership, and delivering high-impact products.We believe in:Fast execution Data-driven decisions Continuous learning Building user-first experiences Join us to work on exciting projects and be part of a fast-growing, high-performance team. Role OverviewWe are looking for a Shopify Frontend Developer with strong hands-on experience in Shopify theme development, Liquid, and storefront optimization.The ideal candidate should have worked on multiple live Shopify stores and be comfortable working with modern frontend frameworks like React, Vue, Next.js, or Nuxt.js when required. Key ResponsibilitiesDevelop and maintain Shopify themes using Liquid, HTML, CSS, and JavaScriptBuild custom sections, blocks, templates, and metafield-driven pagesCustomize product pages, collection pages, cart, and storefront componentsOptimize websites for SEO and performance (Core Web Vitals, Lighthouse)Integrate third-party apps, APIs, payment gateways, shipping & analytics toolsWork with Shopify AJAX API and advanced storefront customizationsImprove page speed using lazy loading, asset optimization, and best practicesCollaborate with designers, backend developers, and business teamsUse Git and contribute to CI/CD deployment workflows Required SkillsStrong expertise in HTML, CSS, JavaScriptHands-on experience with Shopify (Liquid, Theme Development, Customization)Experience working on 34 live Shopify storesStrong understanding of SEO & performance optimizationExperience with React / Vue / Next.js / Nuxt.jsFamiliarity with Git & CI/CD workflows Good to HaveExperience with Headless ShopifyExperience with Shopify PlusKnowledge of Shopify Functions / Checkout ExtensionsExperience with Tailwind CSS / SCSSBasic understanding of Node.js, Docker, or Cloudflare Experience Required5+ years in frontend developmentMinimum 3 live Shopify projects Why Join NYX Work on high-impact, real-world projectsFast-growing startup with learning & growth opportunitiesCollaborative and energetic team cultureOpportunity to work with modern technologiesDirect exposure to business and product strategy How to ApplyInterested candidates can apply by sharing their:Updated ResumePortfolio / Live Shopify Store Links Send your application to: hidden_email Subject Line: Application  Shopify Frontend Developer .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/shopify-frontend-developer-5-years-experience/nyx/19535668?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/shopify-frontend-developer-5-years-experience-nyx-inkabengaluru-2-to-5-years-experience-7cdb9a67-75f7-427a-8071-5d5a6352ba00?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTaG9waWZ5IEZyb250ZW5kIERldmVsb3BlciAoNSsgWWVhcnMgRXhwZXJpZW5jZSkiLCJjb21wYW55X25hbWUiOiJOWVgiLCJodGlkb2NpZCI6IlpUcGE5TFpXenYtVElHWnVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNWa2RXVnVZa0poWnpWaFQyVjZVelJNTjJSR2VsaE5hblF5VUdaME9FTTFkRTV2Y0ZKRmJYa3hVbXgyTjJJMWRHUkdiSG8xUldkV09XZEtTVTVHV0ZKVFRsZG5UVGsyVFV0eGIyZDJibVJ0Y2xWQ1dIaFdWbU56WDFaelREUmpkRWs0UzBGRVNVdERUV2c0ZUd4cE1tNTVOMFl0U1d4NFQxWXpkRXBrV0VwUGRUWjBZMFFTRjFjM1NFZGhjMjR4UlhWeWRXMU1VVkJxVGxBMWIwRkpHaUpCUkhOeU9XWlVWVWxsVEhaSFgyVlRNVU5mTWtwUWNIRTRjazVOVTJOaGJtMVIiLCJmY3YiOiIzIiwiZmNfaWQiOiJaVHBhOUxaV3p2LVRJR1p1QUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBUSFZXYkVaSVpsUlNSRU5OVkROT1RqWTNjemxTYmxKSGVHUlRiV1Y1WTFaQ1pYQktVbE5KYzE5VGVXdzNTa0ZNWm5ab1pGaHJZazlXZEd4TmJrOVZORWg1UW5odWVIaFlWMFo2V0ZkUGMwcGhTMEZtZVdaWlFVbFJTV2RoWjJ3MU5WSXRNbmswV2twUVl6ZDRZbk5WVURWWlpHNTFWV3BOTUc4MFptVTJUMHhJTVV4R1RXSnhSRVJXY2kxYU9VbGpjVkZYZFRSWGJrSk1OUzF2ZDJkd2NscENXRTE0UWpoaWJYbHdXVzg1VldWQk1HTnZhMDl0TTIxQlIyeGpkWEo0ZVVOU2MzbFNRbWhsVVcxdlExaHBURkEyVlROTWMwdFhjRmcwU25KcFQyTXdNRk5TWDNaYU5VbHpkVE00WkdJNFVVUnFVVUp6TjI4MVJubDRWMFF0TFRkQ2JFeDRRV3hxYUhWSlVsZGZhRTlpY1hsU1NWQjJTMXA0UVRsRUxVMVBkbDlqZUhkZllWbElPV1puTlMxVWJrUndVbXhWVW14c2FGWm9TVkkzVVVrMFFVbE5iSEFTRjFjM1NFZGhjMjR4UlhWeWRXMU1VVkJxVGxBMWIwRkpHaUpCUkhOeU9XWlRlV3AxY21OT1dtSXljekIxVG1VeU4yRktMVzlvU0hwUE1HbDMiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBUSFZXYkVaSVpsUlNSRU5OVkROT1RqWTNjemxTYmxKSGVHUlRiV1Y1WTFaQ1pYQktVbE5KYzE5VGVXdzNTa0ZNWm5ab1pGaHJZazlXZEd4TmJrOVZORWg1UW5odWVIaFlWMFo2V0ZkUGMwcGhTMEZtZVdaWlFVbFJTV2RoWjJ3MU5WSXRNbmswV2twUVl6ZDRZbk5WVURWWlpHNTFWV3BOTUc4MFptVTJUMHhJTVV4R1RXSnhSRVJXY2kxYU9VbGpjVkZYZFRSWGJrSk1OUzF2ZDJkd2NscENXRTE0UWpoaWJYbHdXVzg1VldWQk1HTnZhMDl0TTIxQlIyeGpkWEo0ZVVOU2MzbFNRbWhsVVcxdlExaHBURkEyVlROTWMwdFhjRmcwU25KcFQyTXdNRk5TWDNaYU5VbHpkVE00WkdJNFVVUnFVVUp6TjI4MVJubDRWMFF0TFRkQ2JFeDRRV3hxYUhWSlVsZGZhRTlpY1hsU1NWQjJTMXA0UVRsRUxVMVBkbDlqZUhkZllWbElPV1puTlMxVWJrUndVbXhWVW14c2FGWm9TVkkzVVVrMFFVbE5iSEFTRjFjM1NFZGhjMjR4UlhWeWRXMU1VVkJxVGxBMWIwRkpHaUpCUkhOeU9XWlRlV3AxY21OT1dtSXljekIxVG1VeU4yRktMVzlvU0hwUE1HbDMiLCJmY3YiOiIzIn0%3D&q=Frontend+Developer+fresher"
+  }
+}

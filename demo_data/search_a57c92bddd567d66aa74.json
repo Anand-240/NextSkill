@@ -1,0 +1,469 @@
+{
+  "search_metadata": {
+    "id": "6ac6b15c3047f3b0eec122a5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LMacKxsH9nxsjXz_V3xd63aLUp1CD2B5hbO13dFOnKI/6ac6b15c3047f3b0eec122a5.json",
+    "markdown_endpoint": "https://serpapi.com/searches/LMacKxsH9nxsjXz_V3xd63aLUp1CD2B5hbO13dFOnKI/6ac6b15c3047f3b0eec122a5.md",
+    "created_at": "2026-10-07 20:53:48 UTC",
+    "processed_at": "2026-10-07 20:53:48 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Junior+Frontend+Developer&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/LMacKxsH9nxsjXz_V3xd63aLUp1CD2B5hbO13dFOnKI/6ac6b15c3047f3b0eec122a5.html",
+    "total_time_taken": 15.26
+  },
+  "search_parameters": {
+    "q": "Junior Frontend Developer",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_ATlxcZuQVnpeLy_DHRTaWXux3aZgrz3Vfa9sZNmR3IIYJbvaHHQ5ng54Q4CGPR9mKp0ddarValoDjlc_U6DtvtgkrpFSfi4bqkhdEEpSy4eg3GaEMZt5p6M1ZX5C1jzo6mMRZQra3NFTOWKo9UHpfYNIEiJ",
+        "q": "Junior Frontend Developer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_ATlxcZuQVnpeLy_DHRTaWXux3aZgrz3Vfa9sZNmR3IIYJbvaHHQ5ng54Q4CGPR9mKp0ddarValoDjlc_U6DtvtgkrpFSfi4bqkhdEEpSy4eg3GaEMZt5p6M1ZX5C1jzo6mMRZQra3NFTOWKo9UHpfYNIEiJ&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_ATlxcZuQVnpeLy_DHRTaWXux3aZgrz3Vfa9sZNmR3IIYJbvaHHQ5ng54Q4CGPR9mKp0ddarValoDjlc_U6DtvtgkrpFSfi4bqkhdEEpSy4eg3GaEMZt5p6M1ZX5C1jzo6mMRZQra3NFTOWKo9UHpfYNIEiJ"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eiiTm51nx_Nu5XTia78vgHtyP1LUOQBnaVSJM9EwCFlBoRJ6PaXXj9_mRFWLR446HN4cAmWvRawwErp-PXD3xP4QUqJeMC-rh6Vet6dP34yUbURfG-4uSp6crYdE9Cn-1NJhosWs19loJr44zAe91OYIU9m5xjrOaLQZQvfza7C0JVj6I2wd9RLdNdpCzP4qmRHlwmdqV-bcUiz-1m4UZ4NkSExs3CH1N-YkM30_n0MxzD5sze1wcJ77PuXGg94LD0UXkkhYjPuYr672fQvP7JzorJ_8Y3VddDfAO4qsA55M41gXUvpfn07DzktsVKWGWKzQ0iv4",
+            "q": "Junior Frontend Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eiiTm51nx_Nu5XTia78vgHtyP1LUOQBnaVSJM9EwCFlBoRJ6PaXXj9_mRFWLR446HN4cAmWvRawwErp-PXD3xP4QUqJeMC-rh6Vet6dP34yUbURfG-4uSp6crYdE9Cn-1NJhosWs19loJr44zAe91OYIU9m5xjrOaLQZQvfza7C0JVj6I2wd9RLdNdpCzP4qmRHlwmdqV-bcUiz-1m4UZ4NkSExs3CH1N-YkM30_n0MxzD5sze1wcJ77PuXGg94LD0UXkkhYjPuYr672fQvP7JzorJ_8Y3VddDfAO4qsA55M41gXUvpfn07DzktsVKWGWKzQ0iv4&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eiiTm51nx_Nu5XTia78vgHtyP1LUOQBnaVSJM9EwCFlBoRJ6PaXXj9_mRFWLR446HN4cAmWvRawwErp-PXD3xP4QUqJeMC-rh6Vet6dP34yUbURfG-4uSp6crYdE9Cn-1NJhosWs19loJr44zAe91OYIU9m5xjrOaLQZQvfza7C0JVj6I2wd9RLdNdpCzP4qmRHlwmdqV-bcUiz-1m4UZ4NkSExs3CH1N-YkM30_n0MxzD5sze1wcJ77PuXGg94LD0UXkkhYjPuYr672fQvP7JzorJ_8Y3VddDfAO4qsA55M41gXUvpfn07DzktsVKWGWKzQ0iv4"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CYN-R-V5LEq7l8eusNKXegXQB9-yMeQPSl4kZQmAtisG2E5cuJcSZg2blq9S_6-GUaOVS4DP9VPSZXoOuQw_PCGlB1wWpcI8b5LbQSuuC6scbLXgtIImEKgBCW0QG7iQUaunz_cL5YncYhfxr_KBj1_qZfAhJVEcuculMlf_K1HRUiLT0q9WKbhLQFZk0REINEXP2NXC0D5vFC0lMWKW4quXSMoYFVgRFjXcHlIohf5St2p3jvBvk4wuudzSRKIkcbwXgDC5KiHetOxYlKt2qrq11PZjYkn8alHm9mq_bCjyJwW8s5GPq9My_gQqVNU9S0_02gY",
+            "q": "Junior Frontend Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CYN-R-V5LEq7l8eusNKXegXQB9-yMeQPSl4kZQmAtisG2E5cuJcSZg2blq9S_6-GUaOVS4DP9VPSZXoOuQw_PCGlB1wWpcI8b5LbQSuuC6scbLXgtIImEKgBCW0QG7iQUaunz_cL5YncYhfxr_KBj1_qZfAhJVEcuculMlf_K1HRUiLT0q9WKbhLQFZk0REINEXP2NXC0D5vFC0lMWKW4quXSMoYFVgRFjXcHlIohf5St2p3jvBvk4wuudzSRKIkcbwXgDC5KiHetOxYlKt2qrq11PZjYkn8alHm9mq_bCjyJwW8s5GPq9My_gQqVNU9S0_02gY&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CYN-R-V5LEq7l8eusNKXegXQB9-yMeQPSl4kZQmAtisG2E5cuJcSZg2blq9S_6-GUaOVS4DP9VPSZXoOuQw_PCGlB1wWpcI8b5LbQSuuC6scbLXgtIImEKgBCW0QG7iQUaunz_cL5YncYhfxr_KBj1_qZfAhJVEcuculMlf_K1HRUiLT0q9WKbhLQFZk0REINEXP2NXC0D5vFC0lMWKW4quXSMoYFVgRFjXcHlIohf5St2p3jvBvk4wuudzSRKIkcbwXgDC5KiHetOxYlKt2qrq11PZjYkn8alHm9mq_bCjyJwW8s5GPq9My_gQqVNU9S0_02gY"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqry5soXsvDaA82lDzv2HB9eUuc331HxV4ygTf5hOvTfGbLIx8l86TK4RxatT_MA2SvURZhHE8fQm8UgS68OLbOCP4zeajgnx57jZqAeb5D8lm5kCGdf0OjKLs6McWK4oOcmiFbyoqBvRWvlJtKn9gXhsK79jh33dypswQ_U_Z2mB5y2ntnk8nZnsr0fOmxFkp2cnqliSUHpyRU4VCX31s_TtFIdgsZG2u7IICGbzYd3jIRBxwPFCtLw-hwLxjPs9NexSm4BjSdZ-nbzsjPmzEJc8La7gp0afgV5ZkuoYOMkPdCeOElax4jRcgAA0P4CX9elkUv6U",
+            "q": "Junior Frontend Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqry5soXsvDaA82lDzv2HB9eUuc331HxV4ygTf5hOvTfGbLIx8l86TK4RxatT_MA2SvURZhHE8fQm8UgS68OLbOCP4zeajgnx57jZqAeb5D8lm5kCGdf0OjKLs6McWK4oOcmiFbyoqBvRWvlJtKn9gXhsK79jh33dypswQ_U_Z2mB5y2ntnk8nZnsr0fOmxFkp2cnqliSUHpyRU4VCX31s_TtFIdgsZG2u7IICGbzYd3jIRBxwPFCtLw-hwLxjPs9NexSm4BjSdZ-nbzsjPmzEJc8La7gp0afgV5ZkuoYOMkPdCeOElax4jRcgAA0P4CX9elkUv6U&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqry5soXsvDaA82lDzv2HB9eUuc331HxV4ygTf5hOvTfGbLIx8l86TK4RxatT_MA2SvURZhHE8fQm8UgS68OLbOCP4zeajgnx57jZqAeb5D8lm5kCGdf0OjKLs6McWK4oOcmiFbyoqBvRWvlJtKn9gXhsK79jh33dypswQ_U_Z2mB5y2ntnk8nZnsr0fOmxFkp2cnqliSUHpyRU4VCX31s_TtFIdgsZG2u7IICGbzYd3jIRBxwPFCtLw-hwLxjPs9NexSm4BjSdZ-nbzsjPmzEJc8La7gp0afgV5ZkuoYOMkPdCeOElax4jRcgAA0P4CX9elkUv6U"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rhwv6lC8BOkQKjt06vuXHMUP6CFQ0jR4_6ltyKo1SRsMCRkfInVfQVyW42k52pcjEtf5qumeQDMpmWhzCit0THRtSUHHws2eYsLrrqESmcn5CoEKXN8QLcWCzK1OjnRteF9jNjgB--cMQrXmJE0bmaIWVY2_QZuu6ELf76DHnDwUlyhXnE23cwgC8_hquI_e5Rp-NoZfPtezYvpAjLbrG8OJXlmFRX09_h_owNFtJvXcVwOJ4076Gmm3eVyvRKAsBKQRbOA06J6BOl_X3I6xEsitvrcfMJOGhyv2RKQPeDLgabKQfyBFhGgXT3xIush4ulvl78HIrNP-qf56UiyNpv4b5DH4",
+            "q": "Junior Frontend Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhwv6lC8BOkQKjt06vuXHMUP6CFQ0jR4_6ltyKo1SRsMCRkfInVfQVyW42k52pcjEtf5qumeQDMpmWhzCit0THRtSUHHws2eYsLrrqESmcn5CoEKXN8QLcWCzK1OjnRteF9jNjgB--cMQrXmJE0bmaIWVY2_QZuu6ELf76DHnDwUlyhXnE23cwgC8_hquI_e5Rp-NoZfPtezYvpAjLbrG8OJXlmFRX09_h_owNFtJvXcVwOJ4076Gmm3eVyvRKAsBKQRbOA06J6BOl_X3I6xEsitvrcfMJOGhyv2RKQPeDLgabKQfyBFhGgXT3xIush4ulvl78HIrNP-qf56UiyNpv4b5DH4&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhwv6lC8BOkQKjt06vuXHMUP6CFQ0jR4_6ltyKo1SRsMCRkfInVfQVyW42k52pcjEtf5qumeQDMpmWhzCit0THRtSUHHws2eYsLrrqESmcn5CoEKXN8QLcWCzK1OjnRteF9jNjgB--cMQrXmJE0bmaIWVY2_QZuu6ELf76DHnDwUlyhXnE23cwgC8_hquI_e5Rp-NoZfPtezYvpAjLbrG8OJXlmFRX09_h_owNFtJvXcVwOJ4076Gmm3eVyvRKAsBKQRbOA06J6BOl_X3I6xEsitvrcfMJOGhyv2RKQPeDLgabKQfyBFhGgXT3xIush4ulvl78HIrNP-qf56UiyNpv4b5DH4"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eiiTm51nx_Nu5XTia78vgHtyP1LUOQBnaVSJM9EwCFlBoRJ6PaXXj9_mRFWLR446HN4cAmWvRawwErp-PXD3xP4QUqJeMC-rh6Vet6dP34yUbURfG-4uSp6crYdE9Cn-1NJhosWs19loJr44zAe91OYIU9m5xjrOaLQZQvfza7C0JVj6I2wd9RLdNdpCzP4qmRHlwmdqV-bcUiz-1m4UZ4NkSExs3CH1N-YkM30_n0MxzD5sze1wcJ77PuXGg94LD0UXkkhYjPuYr672fQvP7JzorJ_8Y3VddDfAO4qsA55M41gXUvpfn07DzktsVKWGWKzQ0iv4",
+            "q": "Junior Frontend Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eiiTm51nx_Nu5XTia78vgHtyP1LUOQBnaVSJM9EwCFlBoRJ6PaXXj9_mRFWLR446HN4cAmWvRawwErp-PXD3xP4QUqJeMC-rh6Vet6dP34yUbURfG-4uSp6crYdE9Cn-1NJhosWs19loJr44zAe91OYIU9m5xjrOaLQZQvfza7C0JVj6I2wd9RLdNdpCzP4qmRHlwmdqV-bcUiz-1m4UZ4NkSExs3CH1N-YkM30_n0MxzD5sze1wcJ77PuXGg94LD0UXkkhYjPuYr672fQvP7JzorJ_8Y3VddDfAO4qsA55M41gXUvpfn07DzktsVKWGWKzQ0iv4&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eiiTm51nx_Nu5XTia78vgHtyP1LUOQBnaVSJM9EwCFlBoRJ6PaXXj9_mRFWLR446HN4cAmWvRawwErp-PXD3xP4QUqJeMC-rh6Vet6dP34yUbURfG-4uSp6crYdE9Cn-1NJhosWs19loJr44zAe91OYIU9m5xjrOaLQZQvfza7C0JVj6I2wd9RLdNdpCzP4qmRHlwmdqV-bcUiz-1m4UZ4NkSExs3CH1N-YkM30_n0MxzD5sze1wcJ77PuXGg94LD0UXkkhYjPuYr672fQvP7JzorJ_8Y3VddDfAO4qsA55M41gXUvpfn07DzktsVKWGWKzQ0iv4"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CYN-R-V5LEq7l8eusNKXegXQB9-yMeQPSl4kZQmAtisG2E5cuJcSZg2blq9S_6-GUaOVS4DP9VPSZXoOuQw_PCGlB1wWpcI8b5LbQSuuC6scbLXgtIImEKgBCW0QG7iQUaunz_cL5YncYhfxr_KBj1_qZfAhJVEcuculMlf_K1HRUiLT0q9WKbhLQFZk0REINEXP2NXC0D5vFC0lMWKW4quXSMoYFVgRFjXcHlIohf5St2p3jvBvk4wuudzSRKIkcbwXgDC5KiHetOxYlKt2qrq11PZjYkn8alHm9mq_bCjyJwW8s5GPq9My_gQqVNU9S0_02gY",
+            "q": "Junior Frontend Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CYN-R-V5LEq7l8eusNKXegXQB9-yMeQPSl4kZQmAtisG2E5cuJcSZg2blq9S_6-GUaOVS4DP9VPSZXoOuQw_PCGlB1wWpcI8b5LbQSuuC6scbLXgtIImEKgBCW0QG7iQUaunz_cL5YncYhfxr_KBj1_qZfAhJVEcuculMlf_K1HRUiLT0q9WKbhLQFZk0REINEXP2NXC0D5vFC0lMWKW4quXSMoYFVgRFjXcHlIohf5St2p3jvBvk4wuudzSRKIkcbwXgDC5KiHetOxYlKt2qrq11PZjYkn8alHm9mq_bCjyJwW8s5GPq9My_gQqVNU9S0_02gY&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CYN-R-V5LEq7l8eusNKXegXQB9-yMeQPSl4kZQmAtisG2E5cuJcSZg2blq9S_6-GUaOVS4DP9VPSZXoOuQw_PCGlB1wWpcI8b5LbQSuuC6scbLXgtIImEKgBCW0QG7iQUaunz_cL5YncYhfxr_KBj1_qZfAhJVEcuculMlf_K1HRUiLT0q9WKbhLQFZk0REINEXP2NXC0D5vFC0lMWKW4quXSMoYFVgRFjXcHlIohf5St2p3jvBvk4wuudzSRKIkcbwXgDC5KiHetOxYlKt2qrq11PZjYkn8alHm9mq_bCjyJwW8s5GPq9My_gQqVNU9S0_02gY"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqry5soXsvDaA82lDzv2HB9eUuc331HxV4ygTf5hOvTfGbLIx8l86TK4RxatT_MA2SvURZhHE8fQm8UgS68OLbOCP4zeajgnx57jZqAeb5D8lm5kCGdf0OjKLs6McWK4oOcmiFbyoqBvRWvlJtKn9gXhsK79jh33dypswQ_U_Z2mB5y2ntnk8nZnsr0fOmxFkp2cnqliSUHpyRU4VCX31s_TtFIdgsZG2u7IICGbzYd3jIRBxwPFCtLw-hwLxjPs9NexSm4BjSdZ-nbzsjPmzEJc8La7gp0afgV5ZkuoYOMkPdCeOElax4jRcgAA0P4CX9elkUv6U",
+            "q": "Junior Frontend Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqry5soXsvDaA82lDzv2HB9eUuc331HxV4ygTf5hOvTfGbLIx8l86TK4RxatT_MA2SvURZhHE8fQm8UgS68OLbOCP4zeajgnx57jZqAeb5D8lm5kCGdf0OjKLs6McWK4oOcmiFbyoqBvRWvlJtKn9gXhsK79jh33dypswQ_U_Z2mB5y2ntnk8nZnsr0fOmxFkp2cnqliSUHpyRU4VCX31s_TtFIdgsZG2u7IICGbzYd3jIRBxwPFCtLw-hwLxjPs9NexSm4BjSdZ-nbzsjPmzEJc8La7gp0afgV5ZkuoYOMkPdCeOElax4jRcgAA0P4CX9elkUv6U&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqry5soXsvDaA82lDzv2HB9eUuc331HxV4ygTf5hOvTfGbLIx8l86TK4RxatT_MA2SvURZhHE8fQm8UgS68OLbOCP4zeajgnx57jZqAeb5D8lm5kCGdf0OjKLs6McWK4oOcmiFbyoqBvRWvlJtKn9gXhsK79jh33dypswQ_U_Z2mB5y2ntnk8nZnsr0fOmxFkp2cnqliSUHpyRU4VCX31s_TtFIdgsZG2u7IICGbzYd3jIRBxwPFCtLw-hwLxjPs9NexSm4BjSdZ-nbzsjPmzEJc8La7gp0afgV5ZkuoYOMkPdCeOElax4jRcgAA0P4CX9elkUv6U"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rhwv6lC8BOkQKjt06vuXHMUP6CFQ0jR4_6ltyKo1SRsMCRkfInVfQVyW42k52pcjEtf5qumeQDMpmWhzCit0THRtSUHHws2eYsLrrqESmcn5CoEKXN8QLcWCzK1OjnRteF9jNjgB--cMQrXmJE0bmaIWVY2_QZuu6ELf76DHnDwUlyhXnE23cwgC8_hquI_e5Rp-NoZfPtezYvpAjLbrG8OJXlmFRX09_h_owNFtJvXcVwOJ4076Gmm3eVyvRKAsBKQRbOA06J6BOl_X3I6xEsitvrcfMJOGhyv2RKQPeDLgabKQfyBFhGgXT3xIush4ulvl78HIrNP-qf56UiyNpv4b5DH4",
+            "q": "Junior Frontend Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhwv6lC8BOkQKjt06vuXHMUP6CFQ0jR4_6ltyKo1SRsMCRkfInVfQVyW42k52pcjEtf5qumeQDMpmWhzCit0THRtSUHHws2eYsLrrqESmcn5CoEKXN8QLcWCzK1OjnRteF9jNjgB--cMQrXmJE0bmaIWVY2_QZuu6ELf76DHnDwUlyhXnE23cwgC8_hquI_e5Rp-NoZfPtezYvpAjLbrG8OJXlmFRX09_h_owNFtJvXcVwOJ4076Gmm3eVyvRKAsBKQRbOA06J6BOl_X3I6xEsitvrcfMJOGhyv2RKQPeDLgabKQfyBFhGgXT3xIush4ulvl78HIrNP-qf56UiyNpv4b5DH4&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhwv6lC8BOkQKjt06vuXHMUP6CFQ0jR4_6ltyKo1SRsMCRkfInVfQVyW42k52pcjEtf5qumeQDMpmWhzCit0THRtSUHHws2eYsLrrqESmcn5CoEKXN8QLcWCzK1OjnRteF9jNjgB--cMQrXmJE0bmaIWVY2_QZuu6ELf76DHnDwUlyhXnE23cwgC8_hquI_e5Rp-NoZfPtezYvpAjLbrG8OJXlmFRX09_h_owNFtJvXcVwOJ4076Gmm3eVyvRKAsBKQRbOA06J6BOl_X3I6xEsitvrcfMJOGhyv2RKQPeDLgabKQfyBFhGgXT3xIush4ulvl78HIrNP-qf56UiyNpv4b5DH4"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQ1Ojwqao1egvfS5XCJA5ZGb3kyz82SMkCnkUEfGPm7avYLp2AUNLRz758KEbcQ0AT_eYZm1E_zIdXutVUJQF4o13iJFJ8S7aHkw1aNDOWNYaAHggPo6u0zgaa2WbNGxu6yZel6k8eat_G-MU9dI4kTwY5CjykQiig3zvsrr28xDI2zp1bCPhVs0cyN96LUaaPJUDaRnUSX_JBbjEp_6_xUF9VOmVZ2kHD1h2_Cm9G4OIBYvYkckIq90vyBpIsC0z-kWc3DrhrOEusq-Ed63oS8STX9sw",
+            "q": "Junior Frontend Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQ1Ojwqao1egvfS5XCJA5ZGb3kyz82SMkCnkUEfGPm7avYLp2AUNLRz758KEbcQ0AT_eYZm1E_zIdXutVUJQF4o13iJFJ8S7aHkw1aNDOWNYaAHggPo6u0zgaa2WbNGxu6yZel6k8eat_G-MU9dI4kTwY5CjykQiig3zvsrr28xDI2zp1bCPhVs0cyN96LUaaPJUDaRnUSX_JBbjEp_6_xUF9VOmVZ2kHD1h2_Cm9G4OIBYvYkckIq90vyBpIsC0z-kWc3DrhrOEusq-Ed63oS8STX9sw&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQ1Ojwqao1egvfS5XCJA5ZGb3kyz82SMkCnkUEfGPm7avYLp2AUNLRz758KEbcQ0AT_eYZm1E_zIdXutVUJQF4o13iJFJ8S7aHkw1aNDOWNYaAHggPo6u0zgaa2WbNGxu6yZel6k8eat_G-MU9dI4kTwY5CjykQiig3zvsrr28xDI2zp1bCPhVs0cyN96LUaaPJUDaRnUSX_JBbjEp_6_xUF9VOmVZ2kHD1h2_Cm9G4OIBYvYkckIq90vyBpIsC0z-kWc3DrhrOEusq-Ed63oS8STX9sw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQie5rekoX6xFyTGFGknG8UjLC0b5pafEwXH5Nmz1rX2KyP2YMFFqIuiBoU5kFhvFpYSfdspZM9FkzC4viIKpHcPjN2IawKfyi-2JGFVY6NXEm7VVvVM6aspcXD57xBbqY7rQUCP3A86-WVtYmWdSTT1jVbGZ4AuU8hMCpDA7ojN5B2DfGbb3E33RVSxT0PzEhqLOKvOP3sKIbFPfylWh9oi0rQA4BvHPBVQYMEyHaWyR-sEM4KIfC9F1AUB5bGlaj3wUPGs-41P0A37YLHLZHxOfC8xM",
+            "q": "Junior Frontend Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQie5rekoX6xFyTGFGknG8UjLC0b5pafEwXH5Nmz1rX2KyP2YMFFqIuiBoU5kFhvFpYSfdspZM9FkzC4viIKpHcPjN2IawKfyi-2JGFVY6NXEm7VVvVM6aspcXD57xBbqY7rQUCP3A86-WVtYmWdSTT1jVbGZ4AuU8hMCpDA7ojN5B2DfGbb3E33RVSxT0PzEhqLOKvOP3sKIbFPfylWh9oi0rQA4BvHPBVQYMEyHaWyR-sEM4KIfC9F1AUB5bGlaj3wUPGs-41P0A37YLHLZHxOfC8xM&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQie5rekoX6xFyTGFGknG8UjLC0b5pafEwXH5Nmz1rX2KyP2YMFFqIuiBoU5kFhvFpYSfdspZM9FkzC4viIKpHcPjN2IawKfyi-2JGFVY6NXEm7VVvVM6aspcXD57xBbqY7rQUCP3A86-WVtYmWdSTT1jVbGZ4AuU8hMCpDA7ojN5B2DfGbb3E33RVSxT0PzEhqLOKvOP3sKIbFPfylWh9oi0rQA4BvHPBVQYMEyHaWyR-sEM4KIfC9F1AUB5bGlaj3wUPGs-41P0A37YLHLZHxOfC8xM"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEgtFMlHli0ZbvwFzu8PIqEf7nxoff6x2cfRyWM7bIH5X-zE15klMHRCu1klSpf8yjlN0PSbmqGD36jzMdUMUUEI44eMxm6VYQuKZUZgozKC-gdV3QZxjiVKFBanTGCpeJ5FGyY1U9Lct9ilcezAiMH7WmzJ8yX7yNq9wHNMTqL300kBTrGA5Igl5sCU-EjzLaStPDu4H5l0wcNYdUTXVQIYOD5gAYdD8B7_YdwsxRBTY_4rV6uCOdzKOKWqkxrMsTeoXqBHH2wBPKrAVL9qQWy61terwdbn6ulDQeiAWL6wycxWNjw",
+            "q": "Junior Frontend Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEgtFMlHli0ZbvwFzu8PIqEf7nxoff6x2cfRyWM7bIH5X-zE15klMHRCu1klSpf8yjlN0PSbmqGD36jzMdUMUUEI44eMxm6VYQuKZUZgozKC-gdV3QZxjiVKFBanTGCpeJ5FGyY1U9Lct9ilcezAiMH7WmzJ8yX7yNq9wHNMTqL300kBTrGA5Igl5sCU-EjzLaStPDu4H5l0wcNYdUTXVQIYOD5gAYdD8B7_YdwsxRBTY_4rV6uCOdzKOKWqkxrMsTeoXqBHH2wBPKrAVL9qQWy61terwdbn6ulDQeiAWL6wycxWNjw&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEgtFMlHli0ZbvwFzu8PIqEf7nxoff6x2cfRyWM7bIH5X-zE15klMHRCu1klSpf8yjlN0PSbmqGD36jzMdUMUUEI44eMxm6VYQuKZUZgozKC-gdV3QZxjiVKFBanTGCpeJ5FGyY1U9Lct9ilcezAiMH7WmzJ8yX7yNq9wHNMTqL300kBTrGA5Igl5sCU-EjzLaStPDu4H5l0wcNYdUTXVQIYOD5gAYdD8B7_YdwsxRBTY_4rV6uCOdzKOKWqkxrMsTeoXqBHH2wBPKrAVL9qQWy61terwdbn6ulDQeiAWL6wycxWNjw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWkeqwkaJy5Ve6MOLOd_RGhRwVdS1PadiLkAyS3vMEG7kJLzcPoTnmoeoLUwkVWFk2vsAxef85b5wt1LQbgrgAVYncpMvaFC1piyKmNjb8Dt_QrRnFgeiH58nPgRNqvj_S9YO9pcNriDCMk4AuWJnMLcUwUrsQ5t7Z4QBBu99aGDewH5sAtqqnqhvXvV-o79b33PG7ttiD4QywsDfoDYo1k_vWt0i47mBe_x7eUujaaRbIJfXIPiYIhrUsNq3dW31-WgLck1uqEruXx4JBJ347pCeJMhx2j4dnfjS19a6Ype4nE1tw",
+            "q": "Junior Frontend Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWkeqwkaJy5Ve6MOLOd_RGhRwVdS1PadiLkAyS3vMEG7kJLzcPoTnmoeoLUwkVWFk2vsAxef85b5wt1LQbgrgAVYncpMvaFC1piyKmNjb8Dt_QrRnFgeiH58nPgRNqvj_S9YO9pcNriDCMk4AuWJnMLcUwUrsQ5t7Z4QBBu99aGDewH5sAtqqnqhvXvV-o79b33PG7ttiD4QywsDfoDYo1k_vWt0i47mBe_x7eUujaaRbIJfXIPiYIhrUsNq3dW31-WgLck1uqEruXx4JBJ347pCeJMhx2j4dnfjS19a6Ype4nE1tw&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWkeqwkaJy5Ve6MOLOd_RGhRwVdS1PadiLkAyS3vMEG7kJLzcPoTnmoeoLUwkVWFk2vsAxef85b5wt1LQbgrgAVYncpMvaFC1piyKmNjb8Dt_QrRnFgeiH58nPgRNqvj_S9YO9pcNriDCMk4AuWJnMLcUwUrsQ5t7Z4QBBu99aGDewH5sAtqqnqhvXvV-o79b33PG7ttiD4QywsDfoDYo1k_vWt0i47mBe_x7eUujaaRbIJfXIPiYIhrUsNq3dW31-WgLck1uqEruXx4JBJ347pCeJMhx2j4dnfjS19a6Ype4nE1tw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQ1Ojwqao1egvfS5XCJA5ZGb3kyz82SMkCnkUEfGPm7avYLp2AUNLRz758KEbcQ0AT_eYZm1E_zIdXutVUJQF4o13iJFJ8S7aHkw1aNDOWNYaAHggPo6u0zgaa2WbNGxu6yZel6k8eat_G-MU9dI4kTwY5CjykQiig3zvsrr28xDI2zp1bCPhVs0cyN96LUaaPJUDaRnUSX_JBbjEp_6_xUF9VOmVZ2kHD1h2_Cm9G4OIBYvYkckIq90vyBpIsC0z-kWc3DrhrOEusq-Ed63oS8STX9sw",
+            "q": "Junior Frontend Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQ1Ojwqao1egvfS5XCJA5ZGb3kyz82SMkCnkUEfGPm7avYLp2AUNLRz758KEbcQ0AT_eYZm1E_zIdXutVUJQF4o13iJFJ8S7aHkw1aNDOWNYaAHggPo6u0zgaa2WbNGxu6yZel6k8eat_G-MU9dI4kTwY5CjykQiig3zvsrr28xDI2zp1bCPhVs0cyN96LUaaPJUDaRnUSX_JBbjEp_6_xUF9VOmVZ2kHD1h2_Cm9G4OIBYvYkckIq90vyBpIsC0z-kWc3DrhrOEusq-Ed63oS8STX9sw&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQ1Ojwqao1egvfS5XCJA5ZGb3kyz82SMkCnkUEfGPm7avYLp2AUNLRz758KEbcQ0AT_eYZm1E_zIdXutVUJQF4o13iJFJ8S7aHkw1aNDOWNYaAHggPo6u0zgaa2WbNGxu6yZel6k8eat_G-MU9dI4kTwY5CjykQiig3zvsrr28xDI2zp1bCPhVs0cyN96LUaaPJUDaRnUSX_JBbjEp_6_xUF9VOmVZ2kHD1h2_Cm9G4OIBYvYkckIq90vyBpIsC0z-kWc3DrhrOEusq-Ed63oS8STX9sw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQie5rekoX6xFyTGFGknG8UjLC0b5pafEwXH5Nmz1rX2KyP2YMFFqIuiBoU5kFhvFpYSfdspZM9FkzC4viIKpHcPjN2IawKfyi-2JGFVY6NXEm7VVvVM6aspcXD57xBbqY7rQUCP3A86-WVtYmWdSTT1jVbGZ4AuU8hMCpDA7ojN5B2DfGbb3E33RVSxT0PzEhqLOKvOP3sKIbFPfylWh9oi0rQA4BvHPBVQYMEyHaWyR-sEM4KIfC9F1AUB5bGlaj3wUPGs-41P0A37YLHLZHxOfC8xM",
+            "q": "Junior Frontend Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQie5rekoX6xFyTGFGknG8UjLC0b5pafEwXH5Nmz1rX2KyP2YMFFqIuiBoU5kFhvFpYSfdspZM9FkzC4viIKpHcPjN2IawKfyi-2JGFVY6NXEm7VVvVM6aspcXD57xBbqY7rQUCP3A86-WVtYmWdSTT1jVbGZ4AuU8hMCpDA7ojN5B2DfGbb3E33RVSxT0PzEhqLOKvOP3sKIbFPfylWh9oi0rQA4BvHPBVQYMEyHaWyR-sEM4KIfC9F1AUB5bGlaj3wUPGs-41P0A37YLHLZHxOfC8xM&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQie5rekoX6xFyTGFGknG8UjLC0b5pafEwXH5Nmz1rX2KyP2YMFFqIuiBoU5kFhvFpYSfdspZM9FkzC4viIKpHcPjN2IawKfyi-2JGFVY6NXEm7VVvVM6aspcXD57xBbqY7rQUCP3A86-WVtYmWdSTT1jVbGZ4AuU8hMCpDA7ojN5B2DfGbb3E33RVSxT0PzEhqLOKvOP3sKIbFPfylWh9oi0rQA4BvHPBVQYMEyHaWyR-sEM4KIfC9F1AUB5bGlaj3wUPGs-41P0A37YLHLZHxOfC8xM"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEgtFMlHli0ZbvwFzu8PIqEf7nxoff6x2cfRyWM7bIH5X-zE15klMHRCu1klSpf8yjlN0PSbmqGD36jzMdUMUUEI44eMxm6VYQuKZUZgozKC-gdV3QZxjiVKFBanTGCpeJ5FGyY1U9Lct9ilcezAiMH7WmzJ8yX7yNq9wHNMTqL300kBTrGA5Igl5sCU-EjzLaStPDu4H5l0wcNYdUTXVQIYOD5gAYdD8B7_YdwsxRBTY_4rV6uCOdzKOKWqkxrMsTeoXqBHH2wBPKrAVL9qQWy61terwdbn6ulDQeiAWL6wycxWNjw",
+            "q": "Junior Frontend Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEgtFMlHli0ZbvwFzu8PIqEf7nxoff6x2cfRyWM7bIH5X-zE15klMHRCu1klSpf8yjlN0PSbmqGD36jzMdUMUUEI44eMxm6VYQuKZUZgozKC-gdV3QZxjiVKFBanTGCpeJ5FGyY1U9Lct9ilcezAiMH7WmzJ8yX7yNq9wHNMTqL300kBTrGA5Igl5sCU-EjzLaStPDu4H5l0wcNYdUTXVQIYOD5gAYdD8B7_YdwsxRBTY_4rV6uCOdzKOKWqkxrMsTeoXqBHH2wBPKrAVL9qQWy61terwdbn6ulDQeiAWL6wycxWNjw&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEgtFMlHli0ZbvwFzu8PIqEf7nxoff6x2cfRyWM7bIH5X-zE15klMHRCu1klSpf8yjlN0PSbmqGD36jzMdUMUUEI44eMxm6VYQuKZUZgozKC-gdV3QZxjiVKFBanTGCpeJ5FGyY1U9Lct9ilcezAiMH7WmzJ8yX7yNq9wHNMTqL300kBTrGA5Igl5sCU-EjzLaStPDu4H5l0wcNYdUTXVQIYOD5gAYdD8B7_YdwsxRBTY_4rV6uCOdzKOKWqkxrMsTeoXqBHH2wBPKrAVL9qQWy61terwdbn6ulDQeiAWL6wycxWNjw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWkeqwkaJy5Ve6MOLOd_RGhRwVdS1PadiLkAyS3vMEG7kJLzcPoTnmoeoLUwkVWFk2vsAxef85b5wt1LQbgrgAVYncpMvaFC1piyKmNjb8Dt_QrRnFgeiH58nPgRNqvj_S9YO9pcNriDCMk4AuWJnMLcUwUrsQ5t7Z4QBBu99aGDewH5sAtqqnqhvXvV-o79b33PG7ttiD4QywsDfoDYo1k_vWt0i47mBe_x7eUujaaRbIJfXIPiYIhrUsNq3dW31-WgLck1uqEruXx4JBJ347pCeJMhx2j4dnfjS19a6Ype4nE1tw",
+            "q": "Junior Frontend Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=57d7a4427c50a999&gl=in&hl=en&sxsrf=APpeQnujVYqxmfLosqYFocBgobogFXupEg:1791406443192&q=Junior+Frontend+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWkeqwkaJy5Ve6MOLOd_RGhRwVdS1PadiLkAyS3vMEG7kJLzcPoTnmoeoLUwkVWFk2vsAxef85b5wt1LQbgrgAVYncpMvaFC1piyKmNjb8Dt_QrRnFgeiH58nPgRNqvj_S9YO9pcNriDCMk4AuWJnMLcUwUrsQ5t7Z4QBBu99aGDewH5sAtqqnqhvXvV-o79b33PG7ttiD4QywsDfoDYo1k_vWt0i47mBe_x7eUujaaRbIJfXIPiYIhrUsNq3dW31-WgLck1uqEruXx4JBJ347pCeJMhx2j4dnfjS19a6Ype4nE1tw&udm=8&sa=X&ved=2ahUKEwjMiceF5aiXAxVC4skDHcl7GcIQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Frontend+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWkeqwkaJy5Ve6MOLOd_RGhRwVdS1PadiLkAyS3vMEG7kJLzcPoTnmoeoLUwkVWFk2vsAxef85b5wt1LQbgrgAVYncpMvaFC1piyKmNjb8Dt_QrRnFgeiH58nPgRNqvj_S9YO9pcNriDCMk4AuWJnMLcUwUrsQ5t7Z4QBBu99aGDewH5sAtqqnqhvXvV-o79b33PG7ttiD4QywsDfoDYo1k_vWt0i47mBe_x7eUujaaRbIJfXIPiYIhrUsNq3dW31-WgLck1uqEruXx4JBJ347pCeJMhx2j4dnfjS19a6Ype4nE1tw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Junior Frontend Developer",
+      "company_name": "Pattem Digital",
+      "location": "Bengaluru, Karnataka",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=YtkCTyY4JDGCMD4CAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBAAQGzzBKutLERyErDRToKCNv4gbOJyOb3sHrcbSekfrPyeL1Gb6aZ4z4rqNHKQDIcsbMRXqOlBURJl-DxfcJMWlDB3PQjDUcRHmu96s6Rb51Rj6dXQQld2MjhhamVyv6R_Gu0xU4po1FSb9VQm9svFBc1ogDr4YBghMOyJPcYxjys4Y2Y0vOMXs1_ONpwAAAA&shmds=v1_ARwrE23-bRZO0jnTdyFDL4eeEa9U5dizTXvSZwKaf-wTYwVE0A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=YtkCTyY4JDGCMD4CAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/vtfQE1IXBT9WmnGCLnsa-fC3bs7FNBgK_UTecpyLqigW0k7DczSpsg",
+      "job_title": "Junior Frontend Developer",
+      "description": "Role\n\n\nJunior Frontend Developer\nJob Type\n\n\nFulltime\nExperience Required\n\n\n0–1 Years\nJob Location\n\n\nBangalore\nJunior Frontend Developer\nThis opportunity is ideal for aspiring developers who want to build their careers through practical experience with modern frontend technologies. You will collaborate with engineering, design, and product teams to create simple, effective interfaces for business and customer needs.\n\n\nThis position focuses on developing responsive web applications, converting design ideas into functional user interfaces, integrating frontend systems with backend services, and contributing to agile development processes. You will work with modern JavaScript frameworks while helping deliver high-quality client projects.\n\n\nSuccess in this position depends on strong frontend basics, curiosity, and a genuine interest in building better user experiences. The ideal candidate should be proactive, detail-oriented, and willing to learn and grow within a fast-paced engineering team.\n\n\nJob Responsibilities:\nBuild and maintain responsive UI components using React or Angular\nCollaborate with designers and backend engineers to translate wireframes into functional interfaces\nWrite clean, readable, and well-documented code\nParticipate in code reviews, daily standups, and sprint planning\nCommunicate clearly with internal team leads and, when required, with clients\nSkills required:\nProficiency in React.js or Angular (one strong, other a plus)\nSolid understanding of HTML5, CSS3, and JavaScript (ES6+)\nFamiliarity with Tailwind CSS or similar utility-first frameworks\nBasic understanding of REST APIs and how frontend integrates with backend\nStrong communication skills — written and verbal\nEagerness to learn, take feedback, and grow fast\nPerks & Benefits:\nCompetitive salary and performance-based incentives that recognize your contributions and growth.\nComprehensive health coverage, wellness initiatives, and free health checkups to support your well-being.\nAccess to modern tools, technologies, and learning resources to enhance your skills and career development.\nA collaborative and inclusive work environment that encourages teamwork, innovation, and knowledge sharing.\nEmployee recognition programs, awards, and referral bonuses that celebrate outstanding performance.\nFlexible work arrangements that help support a healthy work-life balance.\nOpportunities to participate in team engagement activities, learning sessions, and professional development programs.\nModern office facilities with collaborative workspaces, ergonomic seating, recreational areas, and cafeteria services.\nOpportunities to contribute to meaningful projects and work alongside experienced professionals across diverse domains.",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/vtfQE1IXBT9WmnGCLnsa-fC3bs7FNBgK_UTecpyLqigW0k7DczSpsg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/junior-frontend-developer-pattem-digital-technologies-JV_KO0,25_KE26,53.htm?jl=1010183614815&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/jobaaj-hiring-for-our-leading-clients-junior-react-frontend-developer-bangalore-0-to-1-years-1638444?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/junior-frontend-developer-at-rempact-4437061268?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olibr",
+          "link": "https://olibr.com/jobs/junior-frontend-web-developer-bengaluru-buildbear-labs-ifvb9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobstore",
+          "link": "https://www.jobstore.com/in/job/l18141844/junior-frontend-developer-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobProfit",
+          "link": "https://www.jobprofit.in/jobs/junior-frontend-developer-razorpay-msz4mnfk?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Findyourcareer.io",
+          "link": "https://findyourcareer.io/jobs/cmr663gir2gnpro0jjklsdaro?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRnJvbnRlbmQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUGF0dGVtIERpZ2l0YWwiLCJodGlkb2NpZCI6Ill0a0NUeVk0SkRHQ01ENENBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNKUVNtUlNSbGxxU1haalMwWndYMnhUWW10SGNrVkRUbGQ2Y1hWelJGQjVURmRXZEhOMlVrSklTVGRhV25WVGJrNUdkbGRNVVU4elFscGtlVk0yVFdKamF6VklNWGMzYUhaUlJGcDRWREZDYlhORVMwSTNXVEp3TVY4M1VYQkVZbXhRWVdsWGRHaEJYMnAyZGpWeWFEUnVkR28yVkRaSmVEbElhRVpQVjNCalExSkVTV2dTRjJFM1NFZGhiM2x2UXpoTVJYQTRORkI1Wm1ac2EwRjNHaUpCUkhOeU9XWlJVWGh2YkdGbmNIZEhWMlpSVG5CbWRWOVlZVmhOT0ZNd2NuSm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJZdGtDVHlZNEpER0NNRDRDQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior React.js and JavaScript Frameworks Frontend Web Developer",
+      "company_name": "Jobaaj - Hiring for Our Leading Clients",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=XYILXHFT3sYMICXpAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOsUoDURBFsc0nWE0d4q4EbGIhJKKyCkIsxCrMvkzevs3LzGNmNqbMP_h1tn6Jm-ZyD5cDd_J7NflqBk6isCYMXvUGyFto8IgfQVNxeFI80Lfo3sYq7DTOn9TCIx0pSyGFv_MP9NKCEWroQBieRWKm6_vOvdiirs1yFc3RU6iCHGphauVUj5JdYmMdKpWMTpv53e2pKhynD420iD3cwEvSxBF248n3QeGNcHvhVU7EbpAYlsQR86DDDF5RGR33-A-Ml9i83AAAAA&shmds=v1_ARwrE23g1q_dH-BZwtVngcDOpFmS8YID9aY-x2OuIdGj1FYztw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=XYILXHFT3sYMICXpAAAAAA%3D%3D",
+      "extensions": [
+        "17 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/junior-reactjs-and-javascript-frameworks-frontend-web-developer/jobaaj-hiring-for-our-leading-clients/19567630",
+      "job_title": "Junior React.js and JavaScript Frameworks Frontend Web Developer",
+      "description": "What role will you play in the teamAs a Junior React.js and JavaScript Frameworks Frontend Web Developer, you will play a foundational role in building and maintaining responsive user interfaces for our core enterprise web applications. You will collaborate closely with UI/UX designers, backend engineers, and product managers to translate complex wireframes into clean, performant, and scalable component architectures using modern JavaScript and React.js libraries.What you will doYou will write modular, testable, and reusable code utilizing React, HTML5, CSS3, and modern JavaScript ES6. Your daily responsibilities will include integrating RESTful APIs, optimizing application performance across various browsers and devices, debugging rendering issues, and participating in code reviews to maintain high coding standards across the entire frontend development lifecycle.Key responsibilityDevelop and maintain scalable frontend components using React.js, JavaScript, HTML5, and CSS3.Consume and integrate RESTful APIs and asynchronous data services seamlessly into client-side applications.Optimize web applications for maximum speed, responsiveness, and cross-browser compatibility.Collaborate with backend developers using Version Control Systems like Git and GitHub for code integration.Write unit tests and perform debugging to resolve frontend performance bottlenecks and rendering glitches.Participate in agile sprint planning, daily stand-ups, and architectural design discussions.Ensure adherence to web accessibility (a11y) standards and secure coding guidelines.Required Qualification and SkillsBachelor's degree in Computer Science, Information Technology, or a related technical discipline.0 to 1 years of hands-on professional experience in frontend web development using React.js and JavaScript.Proficient understanding of HTML5, CSS3, DOM manipulation, and modern JavaScript frameworks.Familiarity with Version Control Systems such as Git and GitHub for collaborative workflows.Basic understanding of RESTful API integration and asynchronous request handling.Strong problem-solving skills and a keen eye for visual design details and user experience.Effective communication skills and the ability to work collaboratively in a fast-paced agile team.Benefits IncludedCompetitive entry-level annual salary package with performance-based bonuses.Comprehensive health, medical, and life insurance coverage for employees and dependents.Comprehensive mentorship programs and continuous technical skill development workshops.Flexible working hours and supportive remote-friendly collaboration policies.Generous paid time off, casual leaves, and public holiday allowances.Regular team building events, hackathons, and wellness programs.A Day in the LifeYour day typically begins with a quick agile stand-up meeting to discuss sprint goals with the engineering team. You spend the morning developing custom React components and styling them with CSS3. After lunch, you integrate backend RESTful APIs into your components, test them locally, and push your commits to GitHub for peer review. You conclude your day by fixing minor responsive layout bugs flagged during QA testing. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-reactjs-and-javascript-frameworks-frontend-web-developer/jobaaj-hiring-for-our-leading-clients/19567630?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/jobaaj-hiring-for-our-leading-clients-junior-react-js-and-javascript-frameworks-frontend-web-developer-bangalore-0-to-1-years-1754560?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NiyukJobs | AI",
+          "link": "https://niyukjobs.ai/jobs-at-dimag-agency?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgUmVhY3QuanMgYW5kIEphdmFTY3JpcHQgRnJhbWV3b3JrcyBGcm9udGVuZCBXZWIgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiSm9iYWFqIC0gSGlyaW5nIGZvciBPdXIgTGVhZGluZyBDbGllbnRzIiwiaHRpZG9jaWQiOiJYWUlMWEhGVDNzWU1JQ1hwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzUXhVa0ZWVTJwRlptUm9WbVl3VWpKSWNtWk5RV2xHV0VoaU9VZGlhRk5QVUVSbWJ6QkRSV2xUT0MxeVkxQTFNRlp6VDIxSGJVOTZRV1k1VjFGYVptTllWek51VnpGbmNrcEpVek0zVnkxUVEzSlJkbVJXWVhkUlozaFBkVU5XYVZkT2VsVjZZbFpaT1hGamFGRkRYMmRoZVUxdGRHMTJNamhTZGxrM1gzVTRNRUpTWVdJU0YyRTNTRWRoYjNsdlF6aE1SWEE0TkZCNVptWnNhMEYzR2lKQlJITnlPV1pTVUVoNlRqWXRYM3B1UVZWbWJqaDNZbTE1VGtvNFNHUjZhRTkzIiwiZmN2IjoiMyIsImZjX2lkIjoiWFlJTFhIRlQzc1lNSUNYcEFBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Frontend and Backend Assistant (Bengaluru)",
+      "company_name": "DTECH Information Technology and outsourcing",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=pDbODByoLVDi3ON7AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_z2OPW4CMRCFlXaPkGpKQGgXRaIJVZZ_aOnR4BivwTuz8owl6HIHDsYdOAmGIsV7es339BX3j2KzSeQ5wiIyqaVfwJwazfm1f0S8KJJCr7bkMKSY-vD4u8GJDyAWo2mACZbMLtjPSaPayXdViYTSZVC9KQ23FZM98KXKkLxqLw1G2wVUu_8ajy5lR24wm-3m0xWs6cixzWS-3VnTEAd217cVJxVO0Xhy4An-jYawxUioeMYnlFwd-tIAAAA&shmds=v1_ARwrE22o7NAObXw9WZWDH6sIoo38ToZpJTenx_8QG9LCY5M8Zw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=pDbODByoLVDi3ON7AAAAAA%3D%3D",
+      "extensions": [
+        "6 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jobrapido.com/jobpreview/2322038126148583424",
+      "job_title": "Junior Frontend and Backend Assistant (Bengaluru)",
+      "description": "About Us: Dtech Information Technology and Outsourcing Pvt Ltd is part of Delight Investment Group Holding Ltd, a diversified group operating across logistics and supply chain, facilities management, oil and gas products and services, and information technology and outsourcing. The Marketing division leads brand presence, digital engagement, and creative output across the group's business lines.  \n\nAbout The Role: This is a full-time Junior Web Developer role in a hybrid setup, with the primary location in Bengaluru and flexibility for some work from home. The Junior Web Developer will assist in building, testing, and maintaining web applications, working with both front-end and back-end components under the guidance of senior developers. Day-to-day responsibilities include writing clean, maintainable code, implementing web designs, fixing bugs, and supporting integration with APIs and databases. The role involves collaborating with designers and other developers, participating in code reviews, and updating existing features to improve performance and usability. The Junior Web Developer will also help document technical specifications and stay current with best practices in up-to-date web development.  \n\nKey Responsibilities:  \n- Website maintenance: Update and maintain existing websites, including content updates, bug fixes, and routine performance checks.  \n- Landing page development: Build and publish campaign landing pages in coordination with the Social Media Strategist and design team.  \n- Front-end development: Implement layouts and components using HTML, CSS, and JavaScript, ensuring responsive design across devices.  \n- CMS management: Manage content and page updates through the website's content management system, primarily WordPress.  \n- On-page SEO: Apply SEO fundamentals such as meta tags, alt text, and page speed optimisation to new and existing pages.  \n- Testing and QA: Test pages across browsers and devices prior to publishing, and troubleshoot reported issues promptly",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/2322038126148583424?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/341292662/junior-frontend-and-backend-assistant-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRnJvbnRlbmQgYW5kIEJhY2tlbmQgQXNzaXN0YW50IChCZW5nYWx1cnUpIiwiY29tcGFueV9uYW1lIjoiRFRFQ0ggSW5mb3JtYXRpb24gVGVjaG5vbG9neSBhbmQgb3V0c291cmNpbmciLCJodGlkb2NpZCI6InBEYk9EQnlvTFZEaTNPTjdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEU4MFVTMHdWVFJwUjBabVF6WTViWEJmWTFoVmEwNDJZa0pXYkVONmNVNVNhemR0YkZJM2QybHpSMXBFTUVwaWFWaHdWWEF5VWxFdFRWazJaVzB5V25JeWFERklWWEl3TmpWdmFrbFhkM0ZGWjNveVdHWlJaMDloYVdwbFJrY3hUbXMyYnpGRFNtdEVNbFJKYzBsck9HSjJZbE5DTkhvNFNscFZWazlXYzE5VWF6Rm5lbTBTRjJFM1NFZGhiM2x2UXpoTVJYQTRORkI1Wm1ac2EwRjNHaUpCUkhOeU9XWlJTbTQzY2pBNVh6RnpYMVJuVW1JM01rbHljMWxLY2xCbFptVm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJwRGJPREJ5b0xWRGkzT043QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior Front End Developer",
+      "company_name": "Indegene Private Limited",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=kG9rt_JTUFnfffu6AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLOw7CMAyAYbH2CEyeEWoqEAtsiId4DNygMq2VBlI7StyqI3fgCpyMk1CWf_n0Z59Jtjx37CTCIQor7LmGHfXkJVCE7-sND7lDIoxVA8JwFLGepptGNaS1MSn53CZFdVVeSWuE6S6DGaf0T5kajBQ8KpWLVTHkge2sOHFNlpjgFl0_Elxd65RqcAxbYou-i90cLhgZFZ_4A901a1WnAAAA&shmds=v1_ARwrE22neEPjH3y92ssrEwVKa1So5GnBebvD9KUPao8pD7_oOQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=kG9rt_JTUFnfffu6AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6b15c3047f3b0eec122a5/images/fb69JHX7crKb7yd4LbNVz_1N1CKlVv8_a7iMbzBWgtk.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://in.jobrapido.com/jobpreview/8906787585842479104",
+      "job_title": "Junior Front End Developer",
+      "description": "Role Overview  You will be joining as a Junior FrontEnd Developer at a technologyled healthcare solutions provider based in Bangalore  India  Your primary responsibility will be to build intuitive  responsive  and scalable user interfaces for their AIpowered SAAS platform  Working closely with backend engineers  designers  and product managers  you will contribute to delivering seamless modern web experiences integrated with AI ML APIs and advanced data visualizations   Key Responsibilities   Develop and maintain responsive frontend components using modern frameworks such as React  Angular Vue also considered    Integrate REST and GraphQL APIs  including AI MLpowered features like chatbots and smart search   Implement UI designs with precision from tools like Figma   Build and maintain data visualizations for analytics dashboards   Ensure crossbrowser compatibility  accessibility  WCAG   and performance optimization   Write clean  maintainable  and testable frontend code  including implementing automated tests using Jest and Cypress   Participate in code reviews  debugging  and documentation   Utilize AIassisted development tools like GitHub Copilot and Cursor AI to enhance productivity   Collaborate with designers and product managers to deliver usercentric features   Qualification Required   13 years of handson frontend development experience  Proficiency in HTML  CSS  JavaScript  and frameworks like React  Angular  or Vue  Experience integrating REST and GraphQL APIs  Exposure to building or integrating AIpowered UI components and data visualization libraries  Familiarity with responsive design  accessibility standards  and performance optimization  Experience with automated testing frameworks and Gitbased workflows  Comfortable translating UI UX mockups into code and working with design systems  Bonus skills include experience with lowcode platforms  frontend deployment  and contributions to opensource projects  Additional Details  Indegene is an Equal Employment Employer committed to Inclusion and Diversity  not discriminating based on various characteristics  The company promotes a learning culture and requires inperson presence in Bangalore for a minimum of 3 days a week for this FullTime Employment opportunity  Moonlighting is strictly not permitted   Note  Employment terms include FullTime Employment  with a focus on equal opportunity and inclusive hiring practices    Note  The  Good to have  section and the  Required Experience  section have been omitted as they were not directly related to the job description provided   Role Overview  You will be joining as a Junior FrontEnd Developer at a technologyled healthcare solutions provider based in Bangalore  India  Your primary responsibility will be to build intuitive  responsive  and scalable user interfaces for their AIpowered SAAS platform  Working closely with backend engineers  designers  and product managers  you will contribute to delivering seamless modern web experiences integrated with AI ML APIs and advanced data visualizations   Key Responsibilities   Develop and maintain responsive frontend components using modern frameworks such as React  Angular Vue also considered    Integrate REST and GraphQL APIs  including AI MLpowered features like chatbots and smart search   Implement UI designs with precision from tools like Figma   Build and maintain data visualizations for analytics dashboards   Ensure crossbrowser compatibility  accessibility  WCAG   and performance optimization   Write clean  maintainable  and testable frontend code  including implementing automated tests using Jest and Cypress   Participate in code reviews  debugging  and documentation   Utilize AIassisted development tools like GitHub Copilot and Cursor AI to enhance productivity   Collaborate with designers and product managers to deliver usercentric features   Qualification Required   13 years of handson frontend development experience  Proficiency in HTML  CSS  JavaScript  and frameworks like React  Angular  or Vue  Experience integrating REST and GraphQL APIs  Exposure to building or integrating AIpowered UI components and data visualization libraries  Familiarity with responsive design  accessibility standards  and performance optimization  Experience with automated testing frameworks and Gitbased workflows  Comfortable translating UI UX mockups into code and working with design systems  Bonus skills include experience with lowcode platforms  frontend deployment  and contributions to opensource projects  Additional Details  Indegene is an Equal Employment Employer committed to Inclusion and Diversity  not discriminating based on various characteristics  The company promotes a learning culture and requires inperson presence in Bangalore for a minimum of 3 days a week for this FullTime Employment opportunity  Moonlighting is strictly not permitted   Note  Employment terms include FullTime Employm",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8906787585842479104?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337190317/junior-front-end-developer-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRnJvbnQgRW5kIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkluZGVnZW5lIFByaXZhdGUgTGltaXRlZCIsImh0aWRvY2lkIjoia0c5cnRfSlRVRm5mZmZ1NkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMTgxTTA0dFQzSlJRWE0wZURkQ2FXNUdNa050TlUxT2NXVmlkWFZQV2tkbVNFOWZkMFF6YUVZemVHaE1VVEpOT1c1SGFUUnVTa3BKUVVwTldWTnJWa2x0VTNoUllqSjRZek5MY0d0QmFtRmpNa05HZDBGalpXWm1jR0pCVVhBeFYwMUlkMkZpUkd0T1ZVTXpUVkpZTFZGcVVWSXlMVWh5VWtSUldFeHJMV2N0TjIxU1JFRVNGMkUzU0VkaGIzbHZRemhNUlhBNE5GQjVabVpzYTBGM0dpSkJSSE55T1daVWRrcHFaVXhmUTFsRFVHRmxiVk5OYUd3d05YVkRkSFZYVXpkQiIsImZjdiI6IjMiLCJmY19pZCI6ImtHOXJ0X0pUVUZuZmZmdTZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Frontend Engineer - React Specialist",
+      "company_name": "Jobaaj - Hiring for Our Leading Clients",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=W05aoFaXP85uVRVJAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOQWoCUQyG6dYjdJV1sTNS6KYuClat2IJQDyCZZ_om-poMSQZc9g5eyZN4EsfND9_i4_tHl4fRfN0Lq8HSVIJkDwvJLEQGz_BDmAK2HSXGwh5w_T_DQRtwQkstqMCnai70OG0jOn-ra_dSZQ8MTlXSv1qFGj3Vg-T32XmLRl3BoN3L6-RUdZKf3tfaIB6G4IqNJcPv8GfTG3wT7u_8UZgkHFhgRpKx9NaP4QtNMPCIN21Pz0HHAAAA&shmds=v1_ARwrE23Fe6UjKSbIDI48r6cYZB3i9PP7n9XwTfzu5LdNkLahZg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=W05aoFaXP85uVRVJAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAqCAMAAADRRmi8AAAAkFBMVEX___8AAABKFwJFCQDg4OA9AADt7e06AAAlJSXp6enk5OQ_AAA4AADPz8_JycmampotLS1MTExiYmKbjIq_trQrAACPfXpaWlpJFwlwcHB3X1v29vZpaWmmpqaurq7Nx8aBbWxjQj20qKcyAACsoJ5HEABWMClbODElAABuUU0cHBy_v7-FhYVCQkI3Nzd6enpbmxZNAAABW0lEQVRIie3S23KCMBAG4N0SAiGkHIyixlBqRSsUfP-3a1Kr0guDetUL_xkCDPORTbIAzzxzPXRi8vYAXDLKaKXuVELKd2lSraUkd7jqw_dr38Tjvj_d3OzU9GWQenszjKace0Zwc5k557eXKuW6qoOdjIPtbC1HtrYQl-dP3wJhfrCp5vHeDRcDGNgSgz2Jbcne0ukUG7zw464EPzdeOWGUvJ6mLmFeD3aVz5yQ4gk2Cey4d0k8UZmjgS4wTIAtB5kBS-kYVEc4iDoPDtgiZgDpCjECgWGGoBBzFAQd_WohJoAa0gzwC1YhJAglKoIiGoHWNgtbapZDVxhlLR2HxMA-h1BDXkCX_UI2Dhm20K_sjHkOB1Q5mlULPQIju0Ztl5kaewBa9EkHcGh0RxyQICIFbUYFTZ-ez_T09SpUrba9ymyjCyrE36_O43DFuUZH2vJBWGbdQ-6Z_51vy70W7JHHdBQAAAAASUVORK5CYII.png",
+      "extensions": [
+        "₹3L–₹5L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/jobaaj-hiring-for-our-leading-clients-junior-frontend-engineer-react-specialist-bangalore-0-to-1-years-1156274",
+      "job_title": "Junior Frontend Engineer - React Specialist",
+      "description": "What role will you play in the team As a Junior Frontend Engineer, you'll be crucial in building and maintaining user interfaces for our client's web applications. You will collaborate with senior engineers and designers to translate designs and wireframes into high-quality code, ensuring a seamless user experience. Your contributions will directly impact the performance and usability of our client's products. What you will do You will be involved in the entire frontend development lifecycle, from initial design to deployment. This includes writing clean, efficient, and well-documented code, participating in code reviews, and contributing to the overall architecture of the frontend. You'll also troubleshoot and resolve any issues that arise during development. Key Responsibilities Develop and maintain user interfaces using React.js. Write clean, well-documented, and efficient code. Collaborate with designers to translate wireframes into functional components. Participate in code reviews to ensure code quality. Troubleshoot and debug frontend issues. Contribute to the development of reusable components and libraries. Stay up-to-date with the latest frontend technologies and best practices. Work closely with backend developers to integrate APIs. Ensure cross-browser compatibility and responsiveness. Optimize frontend performance for speed and scalability. Required Qualification and Skills Bachelor's degree in Computer Science or related field. 0-1 year of experience in frontend development. Strong understanding of HTML5, CSS3, and JavaScript. Proficiency in React.js. Experience with version control systems like Git. Familiarity with RESTful APIs. Understanding of responsive design principles. Excellent problem-solving and communication skills. Ability to work effectively in a team environment. Knowledge of JavaScript Frameworks, Version Control Systems, Cloud Platforms, AWS Benefits Included Competitive salary and benefits package. Opportunities for professional development and growth. Health insurance coverage for you and your family. Paid time off for vacation, sick leave, and holidays. Flexible work arrangements. Access to online learning resources and training programs. Employee assistance program for mental health and well-being. Regular team-building activities and social events. Performance-based bonuses and incentives. Company-sponsored events and conferences. A Day in the Life You'll start your day by checking in with your team on the daily stand-up. Then, you'll dive into coding, working on new features or bug fixes. You'll collaborate with designers and backend developers, participate in code reviews, and stay updated with the latest frontend technologies. You'll work on tasks assigned through Jira and track progress on the same.",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/jobaaj-hiring-for-our-leading-clients-junior-frontend-engineer-react-specialist-bangalore-0-to-1-years-1156274?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRnJvbnRlbmQgRW5naW5lZXIgLSBSZWFjdCBTcGVjaWFsaXN0IiwiY29tcGFueV9uYW1lIjoiSm9iYWFqIC0gSGlyaW5nIGZvciBPdXIgTGVhZGluZyBDbGllbnRzIiwiaHRpZG9jaWQiOiJXMDVhb0ZhWFA4NXVWUlZKQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNuTmlhMGxmYmt0aVJ6aHhVbnBXUTNGTFdFc3RUemhYYkdsNlpuTjNhWG90ZGxkamNHNW1URTlTYlRGYVpGUlNkMkZ6ZGpkS1FtYzRZMVpwTWsxa2VXRnZUVXRqU0hGRlVqUk9hME5FTFVWU1QzbEhTbWt6U2s1VWNGZHNOa2w1VEZOUlNXVnhVa3BHV1RaamEzbDJPV0Z2V2xsR2VXaE1RMGxGYm5CZllqWnlWR2h4WVhRU0YyRTNTRWRoYjNsdlF6aE1SWEE0TkZCNVptWnNhMEYzR2lKQlJITnlPV1pSVkZWWlJqVnFUbGhuT0RremVqRnBYeTFzTVRGU1JsUnVMVjluIiwiZmN2IjoiMyIsImZjX2lkIjoiVzA1YW9GYVhQODV1VlJWSkFBQUFBQT09In0="
+    },
+    {
+      "title": "Frontend Developer - Next.js -  Immediate Joiner",
+      "company_name": "IAI solution",
+      "location": "Bengaluru, Karnataka",
+      "via": "Cutshort",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=Exz7bBglGRrPxg0oAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBBFsfUIVlNYiSYi2GiliBIFrxAmyZBs3MyEnYmk9A7ew0N5Etfm8eHx3_QzmWbnIGzEFZzoSV56CrCCO42WtBoXZF1HlUMjuIrjaL-vN7RSgBKGsgFhuIjUnmb7xqzXXZqq-qRWQ3NlUkqXClMhYxpP-keuDQbqfWzmm-16THquF_PskIGKH8zFomM4EtfohzAs4YaB0fCBP8PHqkexAAAA&shmds=v1_ARwrE20Z7nK1fpaygRhwHZ9Dsi0BxMmg4C7EQ2Wmb7dmY6Kx5A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=Exz7bBglGRrPxg0oAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAG1BMVEXm5ub____l5eXp6ens7Oz7-_v19fXx8fH4-Pin8JYcAAABK0lEQVRIie2U227EIAxEwTY2___F9QVCqu16SdWHPjBSJCxxGDxYKeXo6F8J4JcYcXmOKtZqrfKQDKyJfvgADayj9si18m6rN0wL1DXtkAuDKIG03MTYMa5YKhdfce45MLNBbc7AKJE-Y-JYr3WCnk5mGBhYU4FdoLkmwuHm7z63yyiyOUB3k0l1svuNZvMB0o0T6zIGHGJkU9CnxNQEwwwK2NIWmBgG1uwNPVhpmqa7Y56qxxEGerkWz3A1nIEWh1vN11hgPjnLaoF9A7xZRbDkhxWS3jIQllXjGWaJltNUYRnFZiTFWQgLpKmCGgWjM8Td_Wmc1no6AN4P3_vEnVThnucL2BPwBTNwHpY6yhCZ0HSlmoSDa_vPenDR73r3i4RPenvXo6OjP9EXyg0HVQ-pUoAAAAAASUVORK5CYII.png",
+      "extensions": [
+        "₹7L–₹8L a year",
+        "Full–time"
+      ],
+      "source_link": "https://cutshort.io/job/Frontend-Developer-Next-js-Immediate-Joiner-Bengaluru-Bangalore-IAI-solution--gNnDU8Uw",
+      "job_title": "Frontend Developer - Next.js -  Immediate Joiner",
+      "description": "Job Role: Frontend Developer - 2+ Years - Immediate Joiner \n\nLocation: Bangalore\n\n\n\n\nCompany Overview\n\nIAI Solution Pvt Ltd. operates at the edge of applied AI where foundational research meets real-world deployment. We craft intelligent systems that think in teams, adapt with context, and deliver actionable insight across domains.\n\n\n\n\nPosition Summary\n\nWe are looking for a Front-End Developer (2+ Years experience) to join our team in Bengaluru, India with strong expertise in front-end technologies like JavaScript, HTML, CSS, React, and Next.js, as well as a solid understanding of back-end development, including database management and data structures and algorithms (DSA). The ideal candidate will have experience working with both SQL and NoSQL databases, such as MongoDB, and be proficient in using Git for version control. Experience in building SaaS platforms is highly desirable.\n\n\n\n\nKey Responsibilities\n\nDesign, development, and maintenance of scalable, high-performance web applications with a focus on front-end.Build responsive and user-friendly interfaces using JavaScript, TypeScript, HTML, CSS, React, Next.js, and Tailwind CSS.Define and implement best practices in front-end architecture, state management, and design systems.Optimize rendering strategies (SSR, SSG, ISR, RSC) to ensure high performance and SEO-friendly applications.Collaborate with product managers, designers, and back-end engineers to define technical requirements and deliver high-quality software.Ensure seamless integration with back-end services and databases (SQL, NoSQL, MongoDB).Troubleshoot, debug, and optimize applications for maximum speed, scalability, and reliability.\n\n\nQualifications\n\n2+ years of professional experience in front-end development, delivering production-grade applications.Strong expertise in JavaScript, TypeScript, React, Next.js, HTML, CSS, and Tailwind CSS.Proficiency in animation libraries (e.g., GSAP) and building engaging UI experiences.Solid understanding of rendering strategies (SSR, SSG, ISR, RSC) and front-end performance optimization.Experience with state management libraries (Redux Toolkit, Zustand, Context API, or similar).Expertise in building reusable, modular, and scalable component-driven architectures.Familiarity with design systems and UI/UX best practices.Good understanding of back-end fundamentals, databases (SQL, NoSQL, MongoDB), and REST/GraphQL APIs.Strong foundation in data structures and algorithms (DSA).Excellent problem-solving and debugging skills.Proficiency in Git and collaborative development workflows.\n\n\nMust-Have Skills\n\nReact, Next.js, TypeScript, Tailwind CSSState management (Redux Toolkit/Zustand/Context API)Rendering strategies (SSR, SSG, ISR, RSC)Strong understanding of UI/UX and responsive design principlesStrong knowledge of memoization techniques and performance optimizationProficient in leveraging network interceptorsGit and version control best practices\nGood-to-Have Skills\n\nExperience with animation libraries (GSAP, Framer Motion)Exposure to SaaS platform developmentKnowledge of testing frameworks (Jest, Cypress, React Testing Library)Understanding of CI/CD pipelines and DevOps practices\n\n\nPreferred Qualifications\n\nContributions to open-source projects or strong GitHub/portfolio demonstrating advanced front-end work.Experience in AI-driven platforms or SaaS-based product companies.\n\n\nPerks & Benefits\n\nCompetitive salary with performance-based bonuses.Opportunity to work on cutting-edge real-time audio/video applications.Flexible working hours .Access to the latest development tools and technologies.",
+      "apply_options": [
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Frontend-Developer-Next-js-Immediate-Joiner-Bengaluru-Bangalore-IAI-solution--gNnDU8Uw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/camunda-developer-am-immediate-joiner-deloitte-shared-services-india-bengaluru--t7xk-797529153?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIgLSBOZXh0LmpzIC0gIEltbWVkaWF0ZSBKb2luZXIiLCJjb21wYW55X25hbWUiOiJJQUkgc29sdXRpb24iLCJodGlkb2NpZCI6IkV4ejdiQmdsR1JyUHhnMG9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEhaM1pFbDJhSEpqWjNoV1pHY3dSMGh4U0hwU1lYZGlPSFZmT0VGQmVYWXRVVUZRTTJkdVlXMVlMWEJCZDJnd2NuQmthMFZSVEc5dlFVcFJUbEYyTWtaNFdISkdibVpNWjA1RlpsWk1UMEk1TUZwcFNHZFlRa28xUmtWbFMyTXRXa0ZCTUUxaE9ISm1lbEo0ZFdvMVlYYzJiR0pDU2xaRVoyUTVNMUJxTFZwWFNWaG5YM0VTRjJFM1NFZGhiM2x2UXpoTVJYQTRORkI1Wm1ac2EwRjNHaUpCUkhOeU9XWlNNM2hKUTNkSFRFcHlRalpCUjNjeGRVWTNhM05LYW1KU2VsZDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJFeHo3YkJnbEdSclB4ZzBvQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": ".NET + React Developer - Remote Work | REF#283879",
+      "company_name": "BairesDev",
+      "location": "Anywhere",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=qmoBDdtAvbgC2xztAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOOwrCQBQAsc0RrJ7Y-dlIRIzaBaOgYBEEy_ASHpuYzb6wu5EUFt7Ba3gqT2JsphgYGO8z8E7iEl9hCglh7mBPD1LckIF5b2p2BDc2FTwhiQ_jIFyG6w18X2-4cwaW0OQFsIYjs1Q03BXONXbr-9YqIa1DV-Yi59pnTRl3fh_ZP1JboKFGoaM0WC060Wg5GUVYGrL9AZQaItISVWvaGZzRaHRY4Q9ERdpnrwAAAA&shmds=v1_ARwrE22PWlDNVVn9YODOtf1sa7lJIwgq5eEFHL1QIQhQLyeq8g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=qmoBDdtAvbgC2xztAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6b15c3047f3b0eec122a5/images/H-sdxl8hNASTqMWQ9f3IobH9ZyAvKznJE_l6fdER9iY.jpeg",
+      "extensions": [
+        "Work from home",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/net-%2B-react-developer-remote-work-ref%23283879-at-bairesdev-4258061520",
+      "job_title": ".NET + React Developer - Remote Work | REF#283879",
+      "description": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.\n\nOur diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.\n\nWhen you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.\n\n\n\nNET + React Developer at Baires Dev\n\nAs a Senior .NET + React Developer, lead in creating robust solutions using .NET Core, C#, and related technologies. Your expertise will guide the development of scalable applications, mentor junior developers, and innovate within our tech stack, ensuring high-quality software delivery.\n\nResponsibilities\n\n Lead the design and development of complex, high-performance .NET applications, meeting business requirements. Mentor junior and semi-senior developers, fostering technical excellence. Make key architectural decisions, contributing to long-term strategic planning of software projects. Oversee code reviews to maintain high standards of code quality and best practices. Evaluate and advocate for the adoption of new .NET technologies and practices. Provide technical insights and recommendations to project managers and other stakeholders.\n\nRequirements\n\n 5+ years of experience with .NET. 1+ years of experience with React. Strong understanding of best practices, such as SOLID and clean code, focusing on scalable solutions. Extensive experience with code reviews, writing automated tests, and implementing CI/CD pipelines. Strong expertise in unit testing, integration testing, and maintaining high code coverage. Demonstrated ability to make informed technical decisions and apply the best approach for each use case. IT infrastructure knowledge. Advanced level of English.\n\nHow We Make Your Work (and Your Life) Easier\n\n100% remote work (from anywhere).Excellent compensation in USD or your local currency if preferredHardware and software setup for you to work from home.Flexible hours: create your own schedule.Paid parental leaves, vacations, and national holidays.Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.\n\nJoin a global team where your unique talents can truly thrive!",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/net-%2B-react-developer-remote-work-ref%23283879-at-bairesdev-4258061520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiIuTkVUICsgUmVhY3QgRGV2ZWxvcGVyIC0gUmVtb3RlIFdvcmsgfCBSRUYjMjgzODc5IiwiY29tcGFueV9uYW1lIjoiQmFpcmVzRGV2IiwiaHRpZG9jaWQiOiJxbW9CRGR0QXZiZ0MyeHp0QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFbFhPWGxqUnpjdFJXRXpkbUV5UjNGVVZXMURXVEJ2VTBsTVRqQlVlV2MzVVdGT1JrOHdUVWRWU2s4MUxYVlNRek14YmpFeWMwNUdhVE5WVDFOU2VHMVhXRFJUT1RJM1JVaElSRTlKUzBjNU1VUnhhM0U0V0c5MmRWUTVRbkp1T1dGeWJXRlJVSFo0ZERseFJYUlBRVXhuWTJsWGMxOWhUM0ZOUzAxUVRHdDVOMjkxTVU0U0YyRTNTRWRoYjNsdlF6aE1SWEE0TkZCNVptWnNhMEYzR2lKQlJITnlPV1pVWkdOU2RtZGxjRGg2T1VwcVZTMWliVTE2V0dGaFFsRmhjMWhuIiwiZmN2IjoiMyIsImZjX2lkIjoicW1vQkRkdEF2YmdDMnh6dEFBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Full-stack Developer (Permanent)",
+      "company_name": "Binated",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=ol9mD4bfYh04Z_5SAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMOwrCQBBAsc0RbJxSRbMi2GgjQRS08QZhjMNmzWZm2Y-k9A5ewLN5EtfmFQ_eKz6jYn9ObMTDMVm7DBGbDg70JCuOPEyv5Htk4jiD7-sND7lBIPRNC8JwEtGWxrs2Rhe2SoVgS50X0TRlI70SppsMKkfhjzq06MlZjFSvN6uhdKznk8pwFncwDBWxRpt8WsAFfdbY4Q9NnwrzowAAAA&shmds=v1_ARwrE23LE0nzIbLyAZno9_mT2tY3yvGwTo50jdSuk1_A-W5BNw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=ol9mD4bfYh04Z_5SAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6b15c3047f3b0eec122a5/images/y-ZZ_hsB5D73v4BnX4agbFhh27haq9OGQcEc3mwyRMM.jpeg",
+      "extensions": [
+        "30 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jooble.org/rjdp/-6994412585333869314",
+      "job_title": "Junior Full-stack Developer (Permanent)",
+      "description": "Binated is hiring for Junior Full Stack Developer in Bengaluru!\nWe are looking for a Junior Full Stack Developer to support the development and maintenance of web applications. This role involves working on both frontend and backend tasks, assisting in building features, fixing bugs, and ensuring smooth system performance. The ideal candidate should have a strong foundation in programming, eagerness to learn, and the ability to work collaboratively with development teams.\n\n\r\nOnline:  Please submit your resume to [HIDDEN TEXT] for faster response times\n\n\r\nJob Type: Full-time, Permanent\n\n\r\nKey Responsibilities\nFrontend Development\nAssist in building responsive user interfaces using modern web technologies\nSupport implementation of UI designs into functional web pages\nHelp maintain and improve existing frontend components\nBackend Development\nSupport development of backend features and APIs\nWork with databases to store and retrieve application data\nAssist in debugging and resolving system issues\nTesting & Maintenance\nParticipate in testing, troubleshooting, and bug fixing\nSupport application performance improvements\nMaintain documentation for development processes\nBenefits:\nLeave encashment\nProvident Fund\n\n\r\nSupplemental Pay Types:\nOvertime pay\nShift allowance\nYearly bonus\n\n\r\nBinated does not charge any fee at any stage of the recruitment & selection process. Binated has not authorized any person/agency/partner to collect any fee for recruitment from candidates. If at all you notice the above, please bring it to our attention immediately.",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/rjdp/-6994412585333869314?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobCues",
+          "link": "https://jobcues.com/jobs/urban-vault-junior-full-stack-developer-python-django-react-js-in-054500?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRnVsbC1zdGFjayBEZXZlbG9wZXIgKFBlcm1hbmVudCkiLCJjb21wYW55X25hbWUiOiJCaW5hdGVkIiwiaHRpZG9jaWQiOiJvbDltRDRiZlloMDRaXzVTQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwaFZjbUpQT1ZsSVRYQlVVMEo1VHpOS0xWcEJibWN0YjFCNmRFTmlablZ5WmxNd1VXcERlVlZzVTJaVFNHTlllVXBhTFRjelZXcGpXVTU1ZFVOb05FNWpNM2hxZUUxWk9YRkpjbFp1WDJOQ01HMWFlRzFtUm5SRWJYWm5TWFJEWm1kMlRHSktaVWhaUkRGc0xVWm5hREZ6TkZKTU1HSmxXWHBpVTNCdFlXWmliVUp0Y2pVU0YyRTNTRWRoYjNsdlF6aE1SWEE0TkZCNVptWnNhMEYzR2lKQlJITnlPV1pTU0ZWcVJYRm5aMjlvTUZSMmFHdEpWVFIwTFVGdWQxUk5lRzFSIiwiZmN2IjoiMyIsImZjX2lkIjoib2w5bUQ0YmZZaDA0Wl81U0FBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Web Developer - Fresher (WFH)",
+      "company_name": "HAYCOD SOLUTIONS",
+      "location": "Anywhere",
+      "via": "Internshala",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=aYlcOFLixbtV6jWTAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLPQ6CQBBA4dhyBKsp0SgYExuNhUoQfyIFGmJFBjIBdN3Z7C6G0jt4Bw_mScTm5Wue8-k5y30ja9aQUg4BPUmwIg1jCDWZqpObhtEAvq833DgHQ6iLCljClrkU1F9U1ioz931jhFcai7YuvIIfPkvKufW7yfyTmQo1KYGWsuls0npKlkM3Wl03cQBJfLycd_EpgVrCmmSJotHNCA6oJVq84w-3Nok4qQAAAA&shmds=v1_ARwrE22-IB_hg8YOrhq67zKqZ5DFgRXh3vJIL_3eNf1egAfVMQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=aYlcOFLixbtV6jWTAAAAAA%3D%3D",
+      "extensions": [
+        "28 days ago",
+        "₹3L–₹6L a year",
+        "Work from home",
+        "Full–time"
+      ],
+      "source_link": "https://internshala.com/job/detail/fresher-remote-junior-web-developer-job-at-haycod-solutions1789041570",
+      "job_title": "Junior Web Developer - Fresher (WFH)",
+      "description": "About the job:\n\nWe are looking for a motivated Junior Web Developer to join our team. The selected candidate will work on real-world web development projects and contribute to designing, developing, testing, and maintaining responsive websites based on client and business requirements.\n\nThe ideal candidate should have a strong willingness to learn, good problem-solving skills, and the ability to work effectively in a collaborative team environment.\n\nWho can apply:\n\nOnly those candidates can apply who:\n\nare Computer Science Engineering students\n\nSalary:\n\n₹ 3,00,000 - 6,00,000 /year\n\nExperience:\n\nNo experience required\n\nDeadline:\n\n2026-10-10 23:59:59\n\nSkills required:\n\nMySQL, JavaScript, Node.js and Angular\n\nOther Requirements:\n\nDevelop responsive and user-friendly websites using modern web technologies.Convert designs and requirements into functional web pages.Work with HTML, CSS, JavaScript and modern frontend frameworks/libraries.Build responsive layouts that work across desktop, tablet, and mobile devices.Integrate APIs and third-party services when required.Debug and resolve website issues and performance problems.\n\nAbout Company:\n\nHayCod Solutions is a next-generation technology company headquartered in Bengaluru, India, specializing in delivering scalable digital solutions and enterprise-grade software products. Founded in 2025, the company focuses on transforming business ideas into innovative, efficient, and future-ready technology systems that drive measurable growth and operational excellence. Haycod offers a comprehensive range of services across modern technology domains, including web and mobile application development, cloud computing solutions, artificial intelligence and machine learning, AR/VR development, Internet of Things (IoT), and Salesforce development. It also provides industry-specific digital solutions such as EdTech platforms, workflow automation systems, and smart digital business tools.",
+      "apply_options": [
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/job/detail/fresher-remote-junior-web-developer-job-at-haycod-solutions1789041570?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-associate-web-developer-brandstory-digital-bengaluru--fj-2368507756?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/junior-associate-web-developer-at-brandstory-digital-4468610076?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/junior-associate-web-developer--bengaluru--e20cc17cea04043fb8a6da9c33bc043d7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337357499/junior-associate-web-developer-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobiglo",
+          "link": "https://in.jobiglo.com/job-junior-associate-web-developer-j-6a7ad3b3d3d48e7e6b0b7468?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgV2ViIERldmVsb3BlciAtIEZyZXNoZXIgKFdGSCkiLCJjb21wYW55X25hbWUiOiJIQVlDT0QgU09MVVRJT05TIiwiaHRpZG9jaWQiOiJhWWxjT0ZMaXhidFY2aldUQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWZENOekY0WDNGVWRrOTFaMVJCZDBKR2FsTnJjVGMyVG1SSFlUWXdXSGRQVG10dmRXeFhPRE5tZUhJM1VHMW9kbTV3UlZWUlJYZFRjSEoxYmpoYWVTMVljbTFHZUVvNE5VMWtWSEpGVkZsYVpHNUpNMDFrWVZwSExYSklMVEZQTW5OUVQwVlZObGw0T0hWTWQyZEVNR2RsVURSTWMwSnJUWE5TZERCa2RWOXJXSGd6Y1dZU0YyRTNTRWRoYjNsdlF6aE1SWEE0TkZCNVptWnNhMEYzR2lKQlJITnlPV1pVYjJwSVVWSnBiazlsZVdkQlpsUnVOV0pZYTJsbWFISlVSRTFSIiwiZmN2IjoiMyIsImZjX2lkIjoiYVlsY09GTGl4YnRWNmpXVEFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTMDlpUm1wSFgxOTBjWEpIV2tGbWFFMU5iR1ZJTTJaNVgwNUhkVmh6Wm5GaWVEWkRRWGhaUTBoSlRXMTBiM2xKTFMxR2VqZHBNWGxPV0VKWVpTMXJNVXhMY0hKaE1YbDNNbFJ1UkVFM1VWZEViMGxVY0ZJM1duQmFaalowUVZGRGJWSlRaVFZIY2tRdGRIWnZjREYxU0hSU1dpMUhkemxVYzBOUFNERklNbEV3TURSUWJWbFJZalp4UldGV2NXTkxSUzFmV1VScmQwOTVTSEZaTUVOb01VOVdhR1pDTmpCMlJtMVplVTlGYzA5MlJ6Uk9NREIzVEdWU2J6TllWbWN0ZUc1R1YwaGtPR0ZzWVVZNFgzUnZlVkYyUzJ0VWVEUmpRMW8yYkRkZk1IcDRVRFZoTTA0M2NsaDBaM1JJU1dsclkycHBVazVZZDNvNGEyRjZMV3hMTlZka1lXRXhURll0UjBWNWJETk5jVTk2VEdGYVdsbzVYelJGUlRBd2VFWktSVkk1T1dwd1NHNW9kamR2Ums5SlVraFdjMVJaTWtNNVpYaDJWRk5CY20xVE5rVkpOWEVTRjJFM1NFZGhiM2x2UXpoTVJYQTRORkI1Wm1ac2EwRjNHaUpCUkhOeU9XWlVhbFpHU1RRM1RVZFJSa05NWm0xVmIwTldkRVJxYTFvdFdIbFIiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTMDlpUm1wSFgxOTBjWEpIV2tGbWFFMU5iR1ZJTTJaNVgwNUhkVmh6Wm5GaWVEWkRRWGhaUTBoSlRXMTBiM2xKTFMxR2VqZHBNWGxPV0VKWVpTMXJNVXhMY0hKaE1YbDNNbFJ1UkVFM1VWZEViMGxVY0ZJM1duQmFaalowUVZGRGJWSlRaVFZIY2tRdGRIWnZjREYxU0hSU1dpMUhkemxVYzBOUFNERklNbEV3TURSUWJWbFJZalp4UldGV2NXTkxSUzFmV1VScmQwOTVTSEZaTUVOb01VOVdhR1pDTmpCMlJtMVplVTlGYzA5MlJ6Uk9NREIzVEdWU2J6TllWbWN0ZUc1R1YwaGtPR0ZzWVVZNFgzUnZlVkYyUzJ0VWVEUmpRMW8yYkRkZk1IcDRVRFZoTTA0M2NsaDBaM1JJU1dsclkycHBVazVZZDNvNGEyRjZMV3hMTlZka1lXRXhURll0UjBWNWJETk5jVTk2VEdGYVdsbzVYelJGUlRBd2VFWktSVkk1T1dwd1NHNW9kamR2Ums5SlVraFdjMVJaTWtNNVpYaDJWRk5CY20xVE5rVkpOWEVTRjJFM1NFZGhiM2x2UXpoTVJYQTRORkI1Wm1ac2EwRjNHaUpCUkhOeU9XWlVhbFpHU1RRM1RVZFJSa05NWm0xVmIwTldkRVJxYTFvdFdIbFIiLCJmY3YiOiIzIn0%3D&q=Junior+Frontend+Developer"
+  }
+}

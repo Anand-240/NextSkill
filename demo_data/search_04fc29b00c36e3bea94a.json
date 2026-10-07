@@ -1,0 +1,755 @@
+{
+  "search_metadata": {
+    "id": "6ac6a058974bbb005a766dcf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UZHWZGHamIPseZKUGQ7Sp6g0_g81Wh2moCagftUNd9U/6ac6a058974bbb005a766dcf.json",
+    "markdown_endpoint": "https://serpapi.com/searches/UZHWZGHamIPseZKUGQ7Sp6g0_g81Wh2moCagftUNd9U/6ac6a058974bbb005a766dcf.md",
+    "created_at": "2026-10-07 19:41:12 UTC",
+    "processed_at": "2026-10-07 19:41:12 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Compliance+full+course+for+beginners&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/UZHWZGHamIPseZKUGQ7Sp6g0_g81Wh2moCagftUNd9U/6ac6a058974bbb005a766dcf.html",
+    "total_time_taken": 2.9
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Compliance full course for beginners",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 5833834,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Training For Banks & Credit Unions",
+      "link": "https://www.youtube.com/watch?v=t1Dp_1zM3x8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t1Dp_1zM3x8",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CJFIgWKDGaufWI7H7sNYPnbP10A3u596BigGu3q2UoxVkEAEgAGDJroaLvKSwGYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHAgMKiAqgDBMgDCqoEtQJP0A-IPAjMacYo4KO54HZcsLoINbGP-eyvMfdvWW_hUvAbNjjqHSQJhb0PRz4YRlA0ZnOHQPnLchyojQJ6TqD2XoXBsXfvk1_2lT4MfPiiRM9OGOsSN2yMTYFzOv7r42Q29czU2zKd4tAezQWgUZBhH4xhX7mMj45QYzqsiHL_mvSepiWFT7Lt4E3xnoZlYybnRxnWnODK4QyOS878Qdm02ZOEuzPN_J9Wxups0yBsuT-hYZZNHBXvfvkJvk2zZS-xDZuAu47NxB4K8I_VIQnbEddjw8Oz6mvoE5FVN3eSvDpt6FhtJp2vBQX0afUJH9poGbx9KcYIQ0ddz363QmZ-ul8dKPQVB7Zxqfeql1HwHQYiCmMVlX7G-68BKiDFnGMqKbxLDrrPH4A_Rb2nWM4YijmNapmIBbfi7LZQkgUICBN4zsif_wGgBqEBgAeo_73dAZAHBKgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3QxRHBfMXpNM3g4qAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRY8M6-4dSolwNgAZoJJWh0dHBzOi8vd3d3Lm9uY291cnNlbGVhcm5pbmcuY29tL2JhbmuxCS8xNxIuXVMcyAkXyAmPAcgJwgGYCwG6C0AIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBZACIroDBXZpZGxz0AsS0gwCEAHaDCUKChDwlJi9562QjRASAgEDGg0Yt-LstlAg5IqPsYoFQAFKAhAfmg0BEqoNAlVTyA0B0g2FAmh0dHBzOi8vd3d3Lm9uY291cnNlbGVhcm5pbmcuY29tL2Jhbms_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1kaXNwbGF5JnV0bV9jYW1wYWlnbj1ydjpmczpvY2xnOnVzOmJjdTpsZzpvOjpkZW1hbmRnZW4tcHJvc3BlY3RpbmcmdXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT0mdXRtX3Rlcm09JnV0bV9pZD0yMTU4OTg2NDc1OSZtYXRjaHR5cGU9Jm5ldHdvcms9JmRldmljZT1jJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMTU4OTg2NDc1ObgT____________AYgUBLAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRfs75GsV9FwnroXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI5-K-4dSolwMVsT3MBB2dWR3aEAEYASAAEgIFi_D_BwE&num=1&cid=CAASwwHkaLr811Mz9sXtlphq4OQdrsK6IQaB0FZk8g8qIGM3SYCJkaj2_6MqHAJzIBoJqfJz6mjZl93cDoPjxdy5GqRNuppzh4waoVFuEQ9PfFT39VwnGTDwNTQuQkRi8GsQwAwKnKRgGaXJT4_gU3_E0HnHd8iZjLKMUMxFHtYmGCFvtCHol8Hh3Q6APsUfl-z2YWUlYyBJVyNq2GYP03ofYtvp2pX2lVRW9uiVAxAL8_FvnkbWkkzizT34nsL2z4HiQs-D77k&ad_cpn=%5BCPN%5D&sig=AOD64_3u-oaCmU_BupCu2ml3r4Zxc3pZOg&ctype=110&video_id=t1Dp_1zM3x8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "OnCourse Learning",
+        "thumbnail": "https://yt3.ggpht.com/proxy/fKbmpsseL_8SzGE8_x-BlK-ue9iY-bgMiV9CPD3s2k6mt3CcR3xBJ2-q6gicqgN7H9deRCZK56X4YQBJeQJ6tWfECIk3ckDeMoEF-gts9H9KsL7b-69qXN839-TtEq0ccxFFz_zK0GSL6_ZVIhXk0MGc_E00CXD6pzF377otqH-kv0sEGY33rK-oPT2qVM7tvegAHVMHN7d4ULh-KFWLxRsdfTffVGx-vuPuq4YyQxjrlmEp-L-RqkwEOZtjnYpvuncxarA=w68-h68-nd"
+      },
+      "description": "Provide Your Staff With Robust And Award-Winning Course Content.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/t1Dp_1zM3x8/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgRIHIoETAP&rs=AOn4CLDnDDi42chGugs9df03AU-f12pBKQ"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Rated Easiest to Use on G2",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CEio9WKDGaufWI7H7sNYPnbP10A3ElYnZiQGR1YfDthawkB8QAiAAYMmuhou8pLAZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAZvmscADqAMEyAMKqgSqAk_QD4g8CMxpxijgo7ngdlywugg1sY_57K8x929Zb-FS8Bs2OOodJAmFvQ9HPhhGUDRmc4dA-ctyHKiNAnpOoPZehcGxd--TX_aVPgx8-KJEz04Y6xI3bIxNgXM6_uvjZDb1zNTbMp3i0B7NBaBRkGEfjGFfuYyPjlBjOqyIcv-a9J6mJYVPsu3gTfGehmVjJudHGdac4MrhDI5LzvxB2bTZk4S7M838n1bG6mzTIGy5P6Fhlk0cFe9--Qm-TbNlL7ENm4C7js3EHgrwj9UhCdsR12PDw7Pqa-gTkVU3d5K8Om3oWG0mna8FBfRp9Qkf2jgKvH0gxggPA1j3fbdCRQHo4MTt_hBn-EfIT07Vc3OjZMyPUaByxgHko7c3A-4BeVULvEUaE9kVmduIBdmVpMFWkgUHCBN47bfNQKAGboAHzZnOP5AHBKgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRY8M6-4dSolwNgAZoJM2h0dHBzOi8vd3d3LmNvbnRyYWN0c2FmZS5jb20vMy1taW4tZmVhdHVyZS1vdmVydmlld7EJCVt22aD0fT_ICQDICYoCmAsBugs9CAMQBRgEIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAga6AwV2aWRsc9ALEtIMAhAB2gwmCgsQoNuHlZOr1ZmWARICAQMaDRjZlaTBViC6wL6E7wVAAUoCEB-aDQESqg0CVVPIDQHSDZcDaHR0cHM6Ly93d3cuY29udHJhY3RzYWZlLmNvbS8zLW1pbi1mZWF0dXJlLW92ZXJ2aWV3P3V0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj1yZW1hcmtldGluZy1iZW5lZml0LWFkcy0zLW1pbi10b3VyLW5ldyZ1dG1fdGVybT0mdXRtX2NhbXBhaWduPWRlbWFuZCtnZW4rLStsZWFkcyZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWNwYyZoc2FfYWNjPTQyMDU0MzczNjUmaHNhX2NhbT0yMzIyMjM1NjY5NyZoc2FfZ3JwPTIwMTYwNDQ0MDEyMiZoc2FfYWQ9ODI0MTU0OTE1MjQ2JmhzYV9zcmM9JmhzYV90Z3Q9YXVkLTkxMzQ3Mzk3OTg0MCZoc2Ffa3c9JmhzYV9tdD0maHNhX25ldD1hZHdvcmRzJmhzYV92ZXI9MyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjMyMjIzNTY2OTe4E____________wGIFAOwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXQBLpvAtdlRu6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI5-K-4dSolwMVsT3MBB2dWR3aEAEYAiAAEgJy5_D_BwE&num=2&cid=CAASwwHkaLr811Mz9sXtlphq4OQdrsK6IQaB0FZk8g8qIGM3SYCJkaj2_6MqHAJzIBoJqfJz6mjZl93cDoPjxdy5GqRNuppzh4waoVFuEQ9PfFT39VwnGTDwNTQuQkRi8GsQwAwKnKRgGaXJT4_gU3_E0HnHd8iZjLKMUMxFHtYmGCFvtCHol8Hh3Q6APsUfl-z2YWUlYyBJVyNq2GYP03ofYtvp2pX2lVRW9uiVAxAL8_FvnkbWkkzizT34nsL2z4HiQs-D77k&sig=AOD64_2DhZ6HRHoAnaTuKfHBsLOFBQoncQ&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "ContractSafe",
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/NZ8AvGbDWuj-csnzOv-GXNQf96hoPNZ-KtoYWf5PgH5FrXkPl11fUc7bOlNPgf1ysp2qzCZpHYCSJXGec74ts53QvRZl3lIe3cHq_U_Ykvh1yrr92-NvG5fscvTepAPMxhg"
+      },
+      "description": "Awarded easiest to use and fastest implementation on G2, with best-in-class support.",
+      "thumbnail": {
+        "static": "https://lh6.googleusercontent.com/proxy/NZ8AvGbDWuj-csnzOv-GXNQf96hoPNZ-KtoYWf5PgH5FrXkPl11fUc7bOlNPgf1ysp2qzCZpHYCSJXGec74ts53QvRZl3lIe3cHq_U_Ykvh1yrr92-NvG5fscvTepAPMxhg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "How To Implement Agentic AI",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CuvoFWKDGaufWI7H7sNYPnbP10A3t-8SCigGHlL-6gxWwkB8QAyAAYMmuhou8pLAZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAZWJzYUDqAMEyAMKqgSwAk_QD4g8CMxpxijgo7ngdlywugg1sY_57K8x929Zb-FS8Bs2OOodJAmFvQ9HPhhGUDRmc4dA-ctyHKiNAnpOoPZehcGxd--TX_aVPgx8-KJEz04Y6xI3bIxNgXM6_uvjZDb1zNTbMp3i0B7NBaBRkGEfjGFfuYyPjlBjOqyIcv-a9J6mJYVPsu3gTfGehmVjJudHGdac4MrhDI5LzvxB2bTZk4S7M838n1bG6mzTIGy5P6Fhlk0cFe9--Qm-TbNlL7ENm4C7js3EHgrwj9UhCdsR12PDw7Pqa-gTkVU3d5K8Om3oWG0mna8FBfRp9Qkf2lAZvH0gxghDBxe5frdCRELlltHt3YW65Jd5_TIdenOWSdizdoifOvE9nYfH0QKuR2_vYrvbkEP7U_ZvU3qgUxWIBbS3psVWkgUHCBN47PTANqAGboAHhKPfNZAHBKgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRY8M6-4dSolwNgAZoJQmh0dHBzOi8vd3d3LnNub3dmbGFrZS5jb20vcmVzb3VyY2UvYS1wcmFjdGljYWwtZ3VpZGUtdG8tYWktYWdlbnRzL7EJ7Q2BnfjJ9LPICQDICYoCmAsBugs9CAMQBRgEIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAgW6AwV2aWRsc9ALEtIMAhAB2gwmCgsQ4JLbh73i0sTKARICAQMaDRi0t6bFViC95IHkuwVAAUoCEB-aDQESqg0CVVPIDQHSDaICaHR0cHM6Ly93d3cuc25vd2ZsYWtlLmNvbS9yZXNvdXJjZS9hLXByYWN0aWNhbC1ndWlkZS10by1haS1hZ2VudHMvP3V0bV9zb3VyY2U9Z2RhJnV0bV9tZWRpdW09ZGlzcGxheSZ1dG1fY2FtcGFpZ249bmEtdXMtZW4tcHJvcy1kaXNwbGF5LWdkYS1ldmctYXVkaWVuY2UtbG9vay1kc2NpJnV0bV9jb250ZW50PWdkYS1kZ2ltYWdlLWV2Zy1lYi1hLXByYWN0aWNhbC1ndWlkZS10by1haS1hZ2VudHMmdXRtX3Rlcm09Yy0tLTc4MjU4NzUwNzg2NCZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjMyMzA3ODIzODi4E____________wGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXff_OHn0v2Oi6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI5-K-4dSolwMVsT3MBB2dWR3aEAEYAyAAEgKslPD_BwE&num=3&cid=CAASwwHkaLr811Mz9sXtlphq4OQdrsK6IQaB0FZk8g8qIGM3SYCJkaj2_6MqHAJzIBoJqfJz6mjZl93cDoPjxdy5GqRNuppzh4waoVFuEQ9PfFT39VwnGTDwNTQuQkRi8GsQwAwKnKRgGaXJT4_gU3_E0HnHd8iZjLKMUMxFHtYmGCFvtCHol8Hh3Q6APsUfl-z2YWUlYyBJVyNq2GYP03ofYtvp2pX2lVRW9uiVAxAL8_FvnkbWkkzizT34nsL2z4HiQs-D77k&sig=AOD64_21nJHHAyqquiG9_EQhrYmZo6DZuw&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Snowflake",
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/p0fEKVjkPjGQ2aYA1Tlw-4lXPH6OMJQOPSOu2kVFQ6Eus4gkCBJ2jI5BtFENF6vLBEEFy-fHx4vImMrDMwBVOoBYThplI4XU8YcodplUuGiDuJgIeHBDNlRlirtyD2GNBw"
+      },
+      "description": "A Guide to Understanding Agentic AI and Defining an ROI Framework.",
+      "thumbnail": {
+        "static": "https://lh6.googleusercontent.com/proxy/p0fEKVjkPjGQ2aYA1Tlw-4lXPH6OMJQOPSOu2kVFQ6Eus4gkCBJ2jI5BtFENF6vLBEEFy-fHx4vImMrDMwBVOoBYThplI4XU8YcodplUuGiDuJgIeHBDNlRlirtyD2GNBw"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=K7yaPpBJidc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=K7yaPpBJidc",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C6dRdWKDGaufWI7H7sNYPnbP10A2Th8eNigHq5L278RWwkB8QBCAAYMmuhou8pLAZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTiAk_QD4g8CMxpxijgo7ngdlywugg1sY_57K8x929Zb-FS8Bs2OOodJAmFvQ9HPhhGUDRmc4dA-ctyHKiNAnpOoPZehcGxd--TX_aVPgx8-KJEz04Y6xI3bIxNgXM6_uvjZDb1zNTbMp3i0B7NBaBRkGEfjGFfuYyPjlBjOqyIcv-a9J6mJYVPsu3gTfGehmVjJudHGdac4MrhDI5LzvxB2bTZk4S7M838n1bG6mzTIGy5P6Fhlk0cFe9--Qm-TbNlL7ENm4C7js3EHgrwj9UhCdsR12PDw7Pqa-gTkVU3d5K8Om3oWG0mna8FBfRx9duFGPkStH2C3p4DpB5LahVOoFggsB_NHNct2693BWWIzXqflEE7hL2r5Atsrhwt-pCsAXeSN8HzuGE9_WLkrafHFrvH5RcBakJAdvmlWeIPtWAMZakyh1_z3f0_YiorkhWBmFdzMneka-QKDMOl36mOq2SQ8ogF5tDvrViSBQgIE3j6zZ-VAaAGoQGAB7eFgJUBkAcEqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLSzd5YVBwQkppZGOoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjwzr7h1KiXA2ABmgksaHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9zdHVkZW50c3BhY2VzL2hvbWWxCTHyV-kyhhzbyAkXyAmPAcgJwgG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBA4ACAYgCEroDBXZpZGxz0AsT4AsBogwfYhgKFmNvbS5hZG9iZS5lY2hvc2lnbi5pb3N4AIgBANIMAhAB2gwlCgoQ0J_7_6r1-YdGEgIBAxoNGObQ761YIPft6-XTBUABSgIQH5oNAROqDQJVU8gNAdIN6QRodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjk3Mjk1Mi4yNzkzODJCSURNQU5BR0VSX0RGQVNJVEUvQjIyMzQ0NDEzLjI0MTUzOTMyMTtkY190cmtfYWlkPTQzODEyODYyMjtkY190cmtfY2lkPTExMjg4NDYxMztkY19kYm1fdG9rZW49QU9qZUxORUFBQUE2Q2pNS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloTUk1dER2clZpb0FzTzQ5QUd3QXN5VzR1a0RRRHNRbC1lNkFhcFNvM0xqNjlIcW1SU0dEN05sSnRjPTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0FMNzhCbnI0TlNZX3QwaHBNYnN3Y1ZlbGl3N2VGYTlxOHphWWZNMzl6VlpuTGVzS0FzeGZTdnREZ180YzZvMWZtR2RuNWZWWG51d0hUeWxRO2RjX3B1YmlkPTY_aHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9zdHVkZW50c3BhY2VzL2hvbWU_c2RpZD1XQjk5Sjg1VyZtdj1zb2NpYWwmbXYyPXBhaWRzb2MmeF9hcGlfY2xpZW50X2lkPXBhaWRtZWRpYSZ4X2FwaV9jbGllbnRfbG9jYXRpb249YWRzX1dCOTlKODVXJmdhZF9zb3VyY2U9MrATqt-3JbgT____________AYgUB7AUA8AVgYCAQNAVAdgVAZgWAagWAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXV7_CAho-GPC6FwYoADAAOAHQGAHwGAE&ase=2&gclid=EAIaIQobChMI5-K-4dSolwMVsT3MBB2dWR3aEAEYBCAAEgIZq_D_BwE&num=4&cid=CAASwwHkaLr811Mz9sXtlphq4OQdrsK6IQaB0FZk8g8qIGM3SYCJkaj2_6MqHAJzIBoJqfJz6mjZl93cDoPjxdy5GqRNuppzh4waoVFuEQ9PfFT39VwnGTDwNTQuQkRi8GsQwAwKnKRgGaXJT4_gU3_E0HnHd8iZjLKMUMxFHtYmGCFvtCHol8Hh3Q6APsUfl-z2YWUlYyBJVyNq2GYP03ofYtvp2pX2lVRW9uiVAxAL8_FvnkbWkkzizT34nsL2z4HiQs-D77k&ad_cpn=%5BCPN%5D&sig=AOD64_3T9TlL68kRSc4od2rWaUPRMHRFLQ&ctype=110&video_id=K7yaPpBJidc&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/14349366783876968636"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Progressive makes it easy to get a quick commercial auto quote.",
+      "link": "https://www.youtube.com/watch?v=Vf83Eog9c-0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Vf83Eog9c-0",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CEJ29WKDGaufWI7H7sNYPnbP10A2owdmHigHNqY3Q4RVkEAUgAGDJroaLvKSwGYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHM_b2kP6gDBMgDCqoE1AJP0A-IPAjMacYo4KO54HZcsLoINbGP-eyvMfdvWW_hUvAbNjjqHSQJhb0PRz4YRlA0ZnOHQPnLchyojQJ6TqD2XoXBsXfvk1_2lT4MfPiiRM9OGOsSN2yMTYFzOv7r42Q29czU2zKd4tAezQWgUZBhH4xhX7mMj45QYzqsiHL_mvSepiWFT7Lt4E3xnoZlYybnRxnWnODK4QyOS878Qdm02ZOEuzPN_J9Wxups0yBsuT-hYZZNHBXvfvkJvk2zZS-xDZuAu47NxB4K8I_VIQnbEddjw8Oz6mvoE5FVN3eSvDpt6FhtJp2vBQX0afUJH9ocGbx9KcYIUHxBiHqlQaP0LKgc9f-i0cQPcB-u4YKKyoblIJVCU9LR5KUnzyZ_PElMCxrv_xtG-4BUrlyVWGDo1AclhQLvi0TRp2Mxo2W7-OkzobllUzU198_ekEIpuz7zgpP8iAX8y8WRV5IFCAgTePba8ZgaoAahAYAHzLWOhBqQBwSoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtWZjgzRW9nOWMtMKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWPDOvuHUqJcDYAGaCThodHRwczovL3d3dy5wcm9ncmVzc2l2ZWNvbW1lcmNpYWwuY29tL2xwL3NtYWxsLWJ1c2luZXNzL7EJqBENjt0YZ83ICRfICY8ByAnCAcgJlwK6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBA4ACAYgCBboDBXZpZGxz0AsS4AsB0gwCEAHaDCYKCxDA1Jnd_MOpgLoBEgIBAxoNGPzLxZFXIPzI-OPIBUABSgIQH5oNARKqDQJVU8gNAdINpwRodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjQ0OTIuNDUyODM5OE1JUS1ZT1VUVUJFL0IzNDgyODY1Mi40NTA2NTIxNTU7ZGNfdHJrX2FpZD02NDM5NjE1MDc7ZGNfdHJrX2NpZD0yNTg0MjAxODg7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNkNqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJX012RmtWZW9BdmJhOFpnYXNBTG9nLWJvQTBBN0VMNm1TcTZKYWJ6S2dPSV95LVpTeFlCc212RT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNBWHNyR2llelAwZXpQdnlXZ0JnX3NWN3lESmVicTQxcDdNaUcyVHVURmd5aGNHbmRQcEppRTlrZVF1ZlpvQm5NVnA4NFp6c1N2T0pnMzNPdztkY19wdWJpZD02P2h0dHBzOi8vd3d3LnByb2dyZXNzaXZlY29tbWVyY2lhbC5jb20vbHAvc21hbGwtYnVzaW5lc3MvP2dhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzM5MDY3NjQ3NrATi8abJbgT____________AbAUA8AVgYCAQNAVAdgVAZgWAagWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqReK9Z_S-3zE6LoXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI5-K-4dSolwMVsT3MBB2dWR3aEAEYBSAAEgJdGPD_BwE&num=5&cid=CAASwwHkaLr811Mz9sXtlphq4OQdrsK6IQaB0FZk8g8qIGM3SYCJkaj2_6MqHAJzIBoJqfJz6mjZl93cDoPjxdy5GqRNuppzh4waoVFuEQ9PfFT39VwnGTDwNTQuQkRi8GsQwAwKnKRgGaXJT4_gU3_E0HnHd8iZjLKMUMxFHtYmGCFvtCHol8Hh3Q6APsUfl-z2YWUlYyBJVyNq2GYP03ofYtvp2pX2lVRW9uiVAxAL8_FvnkbWkkzizT34nsL2z4HiQs-D77k&ad_cpn=%5BCPN%5D&sig=AOD64_0t9Q6JiYIs1CDpy2p1kP5cEF5vlA&ctype=110&video_id=Vf83Eog9c-0&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Progressive",
+        "thumbnail": "https://yt3.ggpht.com/proxy/15rYNZWFGzXYcAGVMzMuGt8qRZmWFLPd7VWb0pSdBXNbpvy92U2aQZfiXrGEcmMJexcio6aR-gZ6vp3k5hIY_plD6zj9FhA4RjxQLlz0S4KRLTZ0AaldCkl2-1uVip8K-CyNujP1xinnJPFU1NdUSLR6_kiZy-izlZgfaDCtU6PAt5uwoIvF4LPLRiqkhsSDFRDZMoUwY34JwoXNT4qfoxJmyx3LTjnRvTuUpPQ9JvseSxqeV6SNNQMeNxhLQyAryKCh=w68-h68-nd"
+      },
+      "description": "You could start saving money… and then get back to work.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Vf83Eog9c-0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqkPoQjK8PfNN067evLBTxToJ-7w"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 2,
+      "title": "Compliance Fundamentals - Module 1 - Governance, Risk, Compliance (GRC)",
+      "link": "https://www.youtube.com/playlist?list=PLarzZ7tJk-lG5qboJ5g3WFfODdswi7uPH",
+      "channel": {
+        "name": "Level Effect",
+        "link": "https://www.youtube.com/@leveleffect"
+      },
+      "videos": [
+        {
+          "title": "Governance, Risk, Compliance GRC   Lecture 1   Cyber Risk",
+          "length": "14:33",
+          "link": "https://www.youtube.com/watch?v=zyrK7bFlkD4&list=PLarzZ7tJk-lG5qboJ5g3WFfODdswi7uPH"
+        },
+        {
+          "title": "Governance, Risk, Compliance GRC   Lecture 2   Governance",
+          "length": "18:29",
+          "link": "https://www.youtube.com/watch?v=FR7yAvNy3oU&list=PLarzZ7tJk-lG5qboJ5g3WFfODdswi7uPH"
+        }
+      ],
+      "video_count": 12,
+      "thumbnail": "https://i.ytimg.com/vi/zyrK7bFlkD4/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAP3O8Qb-VdjgpH5fYQPRPpqFbRTQ"
+    },
+    {
+      "position_on_page": 3,
+      "title": "AML & KYC Complete Course | Money Laundering to Advanced Compliance | English",
+      "link": "https://www.youtube.com/playlist?list=PLNW24BKgPQIpMpEIoSCVSCODo4CXHfEHr",
+      "channel": {
+        "name": "CorporateNomy",
+        "link": "https://www.youtube.com/@corporatenomy"
+      },
+      "videos": [
+        {
+          "title": "What is Money Laundering? | AML & KYC Explained Simply | Beginner Guide",
+          "length": "3:08",
+          "link": "https://www.youtube.com/watch?v=2258_2WomL4&list=PLNW24BKgPQIpMpEIoSCVSCODo4CXHfEHr"
+        },
+        {
+          "title": "What is AML? | Anti-Money Laundering Explained Simply | AML KYC Course",
+          "length": "2:01",
+          "link": "https://www.youtube.com/watch?v=Ptb0bhTF1Sw&list=PLNW24BKgPQIpMpEIoSCVSCODo4CXHfEHr"
+        }
+      ],
+      "video_count": 115,
+      "thumbnail": "https://i.ytimg.com/vi/2258_2WomL4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCKUAbe_wzJSNEBe6vcqoz4yBVVWw"
+    },
+    {
+      "position_on_page": 6,
+      "title": "SC-900: Microsoft Security, Compliance, and Identity Fundamentals",
+      "link": "https://www.youtube.com/playlist?list=PLahhVEj9XNTc3cKjd28NUDFPrV4QcfxH5",
+      "channel": {
+        "name": "Microsoft Learn",
+        "link": "https://www.youtube.com/@MicrosoftLearn"
+      },
+      "videos": [
+        {
+          "title": "Course Preview | SC-900 | Microsoft Security, Compliance, and Identity Fundamentals",
+          "length": "5:22",
+          "link": "https://www.youtube.com/watch?v=3D6s2UxNI28&list=PLahhVEj9XNTc3cKjd28NUDFPrV4QcfxH5"
+        },
+        {
+          "title": "Course introduction | SC-900 | Episode 1",
+          "length": "2:57",
+          "link": "https://www.youtube.com/watch?v=M-JJTIDCplo&list=PLahhVEj9XNTc3cKjd28NUDFPrV4QcfxH5"
+        }
+      ],
+      "video_count": 9,
+      "thumbnail": "https://i.ytimg.com/vi/3D6s2UxNI28/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD5w84du5f3dSyMVPrAKWg3qKWyqA"
+    },
+    {
+      "position_on_page": 9,
+      "title": "Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals Course Playlist [44 Videos]",
+      "link": "https://www.youtube.com/playlist?list=PLhLKc18P9YOCAt0hPdnPavwr9V4ADItcq",
+      "channel": {
+        "name": "A Guide to Cloud & AI — Bites",
+        "link": "https://www.youtube.com/@AGuideToCloud"
+      },
+      "videos": [
+        {
+          "title": "SC-900 EP 01: Microsoft Security, Compliance, and Identity Fundamentals Course Introduction",
+          "length": "3:47",
+          "link": "https://www.youtube.com/watch?v=UHeZnZpmtJM&list=PLhLKc18P9YOCAt0hPdnPavwr9V4ADItcq"
+        },
+        {
+          "title": "SC-900 EP 02: Zero Trust Methodology",
+          "length": "7:08",
+          "link": "https://www.youtube.com/watch?v=K0-MAte563w&list=PLhLKc18P9YOCAt0hPdnPavwr9V4ADItcq"
+        }
+      ],
+      "video_count": 45,
+      "thumbnail": "https://i.ytimg.com/vi/UHeZnZpmtJM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC59tc0b84yzSN6r7D_VzyQTCToKg"
+    },
+    {
+      "position_on_page": 11,
+      "title": "GRC(Governance Risk and Compliance) Master Class",
+      "link": "https://www.youtube.com/playlist?list=PLmP3k_ObivMKPX7Ujh9jLDsPEEDkY2p0l",
+      "channel": {
+        "name": "Cyber Security SIMPLIFIED",
+        "link": "https://www.youtube.com/@cybersecuritysimple"
+      },
+      "videos": [
+        {
+          "title": "Class 1",
+          "length": "54:10",
+          "link": "https://www.youtube.com/watch?v=afoSMudxntI&list=PLmP3k_ObivMKPX7Ujh9jLDsPEEDkY2p0l"
+        },
+        {
+          "title": "Class 2",
+          "length": "53:08",
+          "link": "https://www.youtube.com/watch?v=g-evkvzXBAE&list=PLmP3k_ObivMKPX7Ujh9jLDsPEEDkY2p0l"
+        }
+      ],
+      "video_count": 8,
+      "thumbnail": "https://i.ytimg.com/vi/afoSMudxntI/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBDpGcVO9HyC1dg2PKhA8o3QR28Xw"
+    },
+    {
+      "position_on_page": 14,
+      "title": "SOC 2 Compliance Courses",
+      "link": "https://www.youtube.com/playlist?list=PLMyck54nPpLgR3OuOosljaOWQe1D3Wh6W",
+      "channel": {
+        "name": "StrongDM",
+        "link": "https://www.youtube.com/@strongdm"
+      },
+      "videos": [
+        {
+          "title": "SOC 2 Compliance Course Introduction",
+          "length": "1:06",
+          "link": "https://www.youtube.com/watch?v=cVDhjylOuY8&list=PLMyck54nPpLgR3OuOosljaOWQe1D3Wh6W"
+        },
+        {
+          "title": "What is SOC 2 - Lesson 1 - Introduction To SOC 2",
+          "length": "0:38",
+          "link": "https://www.youtube.com/watch?v=7rPJANtTnuQ&list=PLMyck54nPpLgR3OuOosljaOWQe1D3Wh6W"
+        }
+      ],
+      "video_count": 61,
+      "thumbnail": "https://i.ytimg.com/vi/cVDhjylOuY8/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBTKDAwDw==&rs=AOn4CLDaKfSOF7DvwwCq6JRBUjTdDTOu2A"
+    },
+    {
+      "position_on_page": 15,
+      "title": "AI Governance, Risk Management and Compliance",
+      "link": "https://www.youtube.com/playlist?list=PL70MHvytmJU8zwamiQnweHV0Vj-h0zlOW",
+      "channel": {
+        "name": "Safeshield Training",
+        "link": "https://www.youtube.com/@SafeshieldTraining"
+      },
+      "videos": [
+        {
+          "title": "AI Governance Foundations",
+          "length": "56:20",
+          "link": "https://www.youtube.com/watch?v=b6HwyKFShek&list=PL70MHvytmJU8zwamiQnweHV0Vj-h0zlOW"
+        },
+        {
+          "title": "AI Governance Principles",
+          "length": "54:00",
+          "link": "https://www.youtube.com/watch?v=UkeJG1o68c8&list=PL70MHvytmJU8zwamiQnweHV0Vj-h0zlOW"
+        }
+      ],
+      "video_count": 14,
+      "thumbnail": "https://i.ytimg.com/vi/b6HwyKFShek/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCudWLsj_qQWsPY77MvC2ZHQV-CIg"
+    },
+    {
+      "position_on_page": 18,
+      "title": "AML & KYC Sanctions Compliance Full Course | OFAC, Sanctions Screening & Banking Compliance",
+      "link": "https://www.youtube.com/playlist?list=PLNW24BKgPQIqhaSoXvdn0lIgo-PAfwu6k",
+      "channel": {
+        "name": "CorporateNomy",
+        "link": "https://www.youtube.com/@corporatenomy"
+      },
+      "videos": [
+        {
+          "title": "AML & Sanctions Case Study | Individual Sanctions Violation Explained",
+          "length": "7:57",
+          "link": "https://www.youtube.com/watch?v=KBv0w6TXyFg&list=PLNW24BKgPQIqhaSoXvdn0lIgo-PAfwu6k"
+        },
+        {
+          "title": "Sanctions Breach Explained | Examples, Causes & Compliance Impact",
+          "length": "6:43",
+          "link": "https://www.youtube.com/watch?v=2P9x78H4w9M&list=PLNW24BKgPQIqhaSoXvdn0lIgo-PAfwu6k&pp=0gcJCQIF0aJEHMZM"
+        }
+      ],
+      "video_count": 8,
+      "thumbnail": "https://i.ytimg.com/vi/KBv0w6TXyFg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD8iEzvmVdQdXLiuLh6NOBD_f0Puw"
+    },
+    {
+      "position_on_page": 21,
+      "title": "100% Free HIPAA Training & Printable Certificate: Master HIPAA Compliance",
+      "link": "https://www.youtube.com/playlist?list=PLiyK8kpQmz6GEXBeEtnza5j_pJ1aUBfQl",
+      "channel": {
+        "name": "HIPAA Certify",
+        "link": "https://www.youtube.com/@HIPAACertify"
+      },
+      "videos": [
+        {
+          "title": "100% Free HIPAA Training With Certificate: Introduction to HIPAA (1 of 5)",
+          "length": "2:35",
+          "link": "https://www.youtube.com/watch?v=4eXFmlxZWUk&list=PLiyK8kpQmz6GEXBeEtnza5j_pJ1aUBfQl"
+        },
+        {
+          "title": "100% Free HIPAA Training With Certificate: Best Practices & Final Assessment (5 of 5)",
+          "length": "2:13",
+          "link": "https://www.youtube.com/watch?v=yG7siOTt6sA&list=PLiyK8kpQmz6GEXBeEtnza5j_pJ1aUBfQl"
+        }
+      ],
+      "video_count": 5,
+      "thumbnail": "https://i.ytimg.com/vi/4eXFmlxZWUk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCFrZ1XfpZkAXKVEacfrXMvfQowog"
+    },
+    {
+      "position_on_page": 22,
+      "title": "GRC - Governance, Risk & Compliance - ServiceNow",
+      "link": "https://www.youtube.com/playlist?list=PL1k_gTsSGTwXOHTLaiL80-7KSxIn51Mh4",
+      "channel": {
+        "name": "snowexpert",
+        "link": "https://www.youtube.com/@snowexpert"
+      },
+      "videos": [
+        {
+          "title": "GRC1 - GRC Overview and Structure",
+          "length": "10:49",
+          "link": "https://www.youtube.com/watch?v=61Ty8YIq6qc&list=PL1k_gTsSGTwXOHTLaiL80-7KSxIn51Mh4"
+        },
+        {
+          "title": "GRC 2 - Plugin & Role Requires for GRC",
+          "length": "8:40",
+          "link": "https://www.youtube.com/watch?v=U084oNLO-Ak&list=PL1k_gTsSGTwXOHTLaiL80-7KSxIn51Mh4"
+        }
+      ],
+      "video_count": 9,
+      "thumbnail": "https://i.ytimg.com/vi/61Ty8YIq6qc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCSKh9P8oTfzROt_ylEWytMH1MWXQ"
+    }
+  ],
+  "shorts_results": [
+    {
+      "position_on_page": 5,
+      "shorts": [
+        {
+          "title": "Compliance Audit Support 101: A Beginner’s Guide",
+          "link": "https://www.youtube.com/shorts/sF7dU2eVpa0",
+          "thumbnail": "https://i.ytimg.com/vi/sF7dU2eVpa0/frame0.jpg",
+          "views_original": "7.4K views",
+          "views": 7400,
+          "video_id": "sF7dU2eVpa0"
+        },
+        {
+          "title": "The Answer Is Always In The Rule | Security + Compliance Field Guide",
+          "link": "https://www.youtube.com/shorts/ajaO0q_4oig",
+          "thumbnail": "https://i.ytimg.com/vi/ajaO0q_4oig/frame0.jpg",
+          "views_original": "14 views",
+          "views": 14,
+          "video_id": "ajaO0q_4oig"
+        },
+        {
+          "title": "AML & Compliance Weekly Headlines: Poland, FINTRAC & US DOJ | 21–28 Sep 2026",
+          "link": "https://www.youtube.com/shorts/vDs256vDjGU",
+          "thumbnail": "https://i.ytimg.com/vi/vDs256vDjGU/frame0.jpg",
+          "views_original": "118 views",
+          "views": 118,
+          "video_id": "vDs256vDjGU"
+        },
+        {
+          "title": "Small Businesses Can't Skip The Current State Assessment | Security + Compliance Field Guide",
+          "link": "https://www.youtube.com/shorts/DhdUbHGVzaI",
+          "thumbnail": "https://i.ytimg.com/vi/DhdUbHGVzaI/frame0.jpg",
+          "views_original": "1 view",
+          "views": 1,
+          "video_id": "DhdUbHGVzaI"
+        },
+        {
+          "title": "How to Break Into Compliance in 2026 With Zero Experience: 5 Steps That Actually Work",
+          "link": "https://www.youtube.com/shorts/HoIW1pTpqBc",
+          "thumbnail": "https://i.ytimg.com/vi/HoIW1pTpqBc/frame0.jpg",
+          "views_original": "134 views",
+          "views": 134,
+          "video_id": "HoIW1pTpqBc"
+        }
+      ]
+    },
+    {
+      "position_on_page": 10,
+      "shorts": [
+        {
+          "title": "How to Get PCI-DSS Compliant: A 12 Step Guide | Part 1",
+          "link": "https://www.youtube.com/shorts/OwH40f8TMio",
+          "thumbnail": "https://i.ytimg.com/vi/OwH40f8TMio/frame0.jpg",
+          "views_original": "7.6K views",
+          "views": 7600,
+          "video_id": "OwH40f8TMio"
+        },
+        {
+          "title": "EU GMP: Your Guide to Regulatory Compliance Explained #shorts",
+          "link": "https://www.youtube.com/shorts/vF0eF7d2x4Q",
+          "thumbnail": "https://i.ytimg.com/vi/vF0eF7d2x4Q/frame0.jpg",
+          "views_original": "15 views",
+          "views": 15,
+          "video_id": "vF0eF7d2x4Q"
+        },
+        {
+          "title": "📋 Simplify Your Business Compliance with JMG",
+          "link": "https://www.youtube.com/shorts/noS1wQCrnu4",
+          "thumbnail": "https://i.ytimg.com/vi/noS1wQCrnu4/frame0.jpg",
+          "views_original": "976 views",
+          "views": 976,
+          "video_id": "noS1wQCrnu4"
+        },
+        {
+          "title": "Free EU Grant Compliance Checklist: Avoid Audit Nightmares! #shorts",
+          "link": "https://www.youtube.com/shorts/-JF_cuDG_bU",
+          "thumbnail": "https://i.ytimg.com/vi/-JF_cuDG_bU/frame0.jpg",
+          "views_original": "8 views",
+          "views": 8,
+          "video_id": "-JF_cuDG_bU"
+        },
+        {
+          "title": "Identify Compliance Notices Correctly #Shorts",
+          "link": "https://www.youtube.com/shorts/WBSC_EVtFNA",
+          "thumbnail": "https://i.ytimg.com/vi/WBSC_EVtFNA/frame0.jpg",
+          "views_original": "18 views",
+          "views": 18,
+          "video_id": "WBSC_EVtFNA"
+        },
+        {
+          "title": "ISO 45001 Audit Prep: Step-by-Step Breakdown for EHS Teams",
+          "link": "https://www.youtube.com/shorts/sebcMsTe0UU",
+          "thumbnail": "https://i.ytimg.com/vi/sebcMsTe0UU/frame0.jpg",
+          "views_original": "24 views",
+          "views": 24,
+          "video_id": "sebcMsTe0UU"
+        },
+        {
+          "title": "Compliance the easy way",
+          "link": "https://www.youtube.com/shorts/w1C4gt8up44",
+          "thumbnail": "https://i.ytimg.com/vi/w1C4gt8up44/frame0.jpg",
+          "views_original": "114 views",
+          "views": 114,
+          "video_id": "w1C4gt8up44"
+        },
+        {
+          "title": "grc cybersecurity governance risk compliance protects the security objectives: confidentiality,",
+          "link": "https://www.youtube.com/shorts/qUhDCcALaIA",
+          "thumbnail": "https://i.ytimg.com/vi/qUhDCcALaIA/frame0.jpg",
+          "views_original": "1.4K views",
+          "views": 1400,
+          "video_id": "qUhDCcALaIA"
+        },
+        {
+          "title": "Compliance Officer: How to become a compliance officer #mzansi #law #compliance #lawstudent",
+          "link": "https://www.youtube.com/shorts/VUBLRVC3c5I",
+          "thumbnail": "https://i.ytimg.com/vi/VUBLRVC3c5I/frame0.jpg",
+          "views_original": "17K views",
+          "views": 17000,
+          "video_id": "VUBLRVC3c5I"
+        },
+        {
+          "title": "Compliance Interview Questions and Answers | Compliance Officer Interview Questions and Answers",
+          "link": "https://www.youtube.com/shorts/oo5qhtf3E08",
+          "thumbnail": "https://i.ytimg.com/vi/oo5qhtf3E08/frame0.jpg",
+          "views_original": "60K views",
+          "views": 60000,
+          "video_id": "oo5qhtf3E08"
+        },
+        {
+          "title": "CMMC Compliance Made Simple with Peri's Expert Advice #CSAI #CyberSecAndI #WISECrew #PodcastWISE",
+          "link": "https://www.youtube.com/shorts/dePEX6s2QEI",
+          "thumbnail": "https://i.ytimg.com/vi/dePEX6s2QEI/frame0.jpg",
+          "views_original": "22 views",
+          "views": 22,
+          "video_id": "dePEX6s2QEI"
+        },
+        {
+          "title": "Best Workflow Automation Tools for Compliance Automation in 2026: Process Street vs Vanta vs Scrut (",
+          "link": "https://www.youtube.com/shorts/fyIPC4fMuNc",
+          "thumbnail": "https://i.ytimg.com/vi/fyIPC4fMuNc/frame0.jpg",
+          "views_original": "1 view",
+          "views": 1,
+          "video_id": "fyIPC4fMuNc"
+        },
+        {
+          "title": "Master FSCC 22000 Compliance! 🛡️🍲",
+          "link": "https://www.youtube.com/shorts/ReJE1rc6aJE",
+          "thumbnail": "https://i.ytimg.com/vi/ReJE1rc6aJE/frame0.jpg",
+          "views_original": "13 views",
+          "views": 13,
+          "video_id": "ReJE1rc6aJE"
+        },
+        {
+          "title": "Classify actions by operational, security, and compliance risk",
+          "link": "https://www.youtube.com/shorts/oNvIaVXqyWo",
+          "thumbnail": "https://i.ytimg.com/vi/oNvIaVXqyWo/frame0.jpg",
+          "views_original": "69 views",
+          "views": 69,
+          "video_id": "oNvIaVXqyWo"
+        },
+        {
+          "title": "An Outdated Asset Inventory Makes CMMC More Expensive | Security + Compliance Field Guide",
+          "link": "https://www.youtube.com/shorts/VZTH9MybIhg",
+          "thumbnail": "https://i.ytimg.com/vi/VZTH9MybIhg/frame0.jpg",
+          "views_original": "1 view",
+          "views": 1,
+          "video_id": "VZTH9MybIhg"
+        },
+        {
+          "title": "Cyber Governance, Risk & Compliance (GRC) – April 26 LIVE CLASS | Launch Your Career",
+          "link": "https://www.youtube.com/shorts/fjS_gMnYnQ4",
+          "thumbnail": "https://i.ytimg.com/vi/fjS_gMnYnQ4/frame0.jpg",
+          "views_original": "53K views",
+          "views": 53000,
+          "video_id": "fjS_gMnYnQ4"
+        },
+        {
+          "title": "Self-attestation doesn't work  #compliance #podcast #cybersecurity #cmmc",
+          "link": "https://www.youtube.com/shorts/GX2jJhceLeg",
+          "thumbnail": "https://i.ytimg.com/vi/GX2jJhceLeg/frame0.jpg",
+          "views_original": "8 views",
+          "views": 8,
+          "video_id": "GX2jJhceLeg"
+        },
+        {
+          "title": "Verify Entity Formation for Compliance #Shorts",
+          "link": "https://www.youtube.com/shorts/6qocWbFfJgo",
+          "thumbnail": "https://i.ytimg.com/vi/6qocWbFfJgo/frame0.jpg",
+          "views_original": "11 views",
+          "views": 11,
+          "video_id": "6qocWbFfJgo"
+        },
+        {
+          "title": "Online Course on Secretarial Compliance Work",
+          "link": "https://www.youtube.com/shorts/2Izkx1LOcFw",
+          "thumbnail": "https://i.ytimg.com/vi/2Izkx1LOcFw/frame0.jpg",
+          "views_original": "4.9K views",
+          "views": 4900,
+          "video_id": "2Izkx1LOcFw"
+        },
+        {
+          "title": "Three channels. One compliance posture. No shortcuts.",
+          "link": "https://www.youtube.com/shorts/55YO9sPds5k",
+          "thumbnail": "https://i.ytimg.com/vi/55YO9sPds5k/frame0.jpg",
+          "views_original": "2 views",
+          "views": 2,
+          "video_id": "55YO9sPds5k"
+        }
+      ]
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 8,
+      "title": "How to Become a GRC Analyst in 2025! (Beginner Roadmap)",
+      "link": "https://www.youtube.com/watch?v=qqRg08Axo7g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qqRg08Axo7g",
+      "video_id": "qqRg08Axo7g",
+      "channel": {
+        "name": "Cyber with Ben",
+        "link": "https://www.youtube.com/@CyberWithBen",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/2yrjnmB9G6O9_GXN0qKPe6do0-3YepOfwgywlODZ2mLs-H9EP-eYxTLAk602YvWKwDvmhJybLSs=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 84169,
+      "length": "10:02",
+      "description": "Check out GRC Mastery Course here ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qqRg08Axo7g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBO8bUXu3c6uZwiR-mvhp6Y7ITRkQ",
+        "rich": "https://i.ytimg.com/an_webp/qqRg08Axo7g/mqdefault_6s.webp?du=3000&sqp=COCvmtYG&rs=AOn4CLCtRXMgvQk5juJ6DW2QN8WJHF416w"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "KYC & CDD Explained: A Beginner’s Guide to Compliance and Fraud Prevention",
+      "link": "https://www.youtube.com/watch?v=dGH50pb7Pdg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dGH50pb7Pdg",
+      "video_id": "dGH50pb7Pdg",
+      "channel": {
+        "name": "European Institute of Management and Finance (EIMF)",
+        "link": "https://www.youtube.com/@EimfEu",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k3qFS_RcxnRr8Cy9EeBIuBuv9tiDw3kAPPuWxWJZQ67cY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 27709,
+      "length": "3:48",
+      "description": "Curious about KYC (Know Your Customer) and CDD (Customer Due Diligence)? In this video, we break down everything you ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/dGH50pb7Pdg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHTo2AyskbjfcNNy9wN3ymOMtRbw",
+        "rich": "https://i.ytimg.com/an_webp/dGH50pb7Pdg/mqdefault_6s.webp?du=3000&sqp=CJivmtYG&rs=AOn4CLD39eOIZxEMFACqDlnnf_WiQ7g-ZA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Compliance 101: Tips for Getting Started in Compliance",
+      "link": "https://www.youtube.com/watch?v=bAKN1WH9MEk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bAKN1WH9MEk",
+      "video_id": "bAKN1WH9MEk",
+      "channel": {
+        "name": "Investment Adviser Association",
+        "link": "https://www.youtube.com/@InvestmentadviserOrg",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kWwUvgJyAeO2eiIX7r0jT-oYI189l20KZ9t6AEZeZjuA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 35908,
+      "length": "1:01:44",
+      "description": "For those new to investment adviser compliance, this panel discusses how to get a handle on what is required, the core parts of ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bAKN1WH9MEk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOr9VhceQNFznl8AYwT2_S5rcjTw",
+        "rich": "https://i.ytimg.com/an_webp/bAKN1WH9MEk/mqdefault_6s.webp?du=3000&sqp=CNWxmtYG&rs=AOn4CLDbvfjxYBqeZamGPeWKK7nkeh4mOg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "GRC Analyst Masterclass :   Build Policies, Manage Risks, and Ensure Compliance",
+      "link": "https://www.youtube.com/watch?v=JswwHeEqBIc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JswwHeEqBIc",
+      "video_id": "JswwHeEqBIc",
+      "channel": {
+        "name": "Prabh Nair",
+        "link": "https://www.youtube.com/@PrabhNair1",
+        "thumbnail": "https://yt3.ggpht.com/Ug7pY4u2DEk9MfNwgLCVnvBkiiHaLEocB5WI-ywh2DLZGPIwjy7l4ZDGnzDMugEZuVDF7d2YUw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 184806,
+      "length": "2:13:35",
+      "description": "Are you looking to kickstart your journey in Governance, Risk, and Compliance (GRC)? In this groundbreaking video, we guide ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JswwHeEqBIc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrBwuukhHdAMV57zaPq4qbOXkKzw"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "AI Governance, Risk & Compliance Fundamentals Masterclass",
+      "link": "https://www.youtube.com/watch?v=tZHr6fP5Pb0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tZHr6fP5Pb0",
+      "video_id": "tZHr6fP5Pb0",
+      "channel": {
+        "name": "The CommLaw Group",
+        "link": "https://www.youtube.com/@thecommlawgroup",
+        "thumbnail": "https://yt3.ggpht.com/QqGyMW7TH1Z8Xcx3Y0JSGBwfHS6yvNR-SO3MEedQDUy3M4cFxXrP5ZQJmLvb55BiRaMdbpmK0Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 16048,
+      "length": "59:39",
+      "description": "Recorded on March 4, 2025 As AI adoption accelerates, legal and compliance professionals must stay ahead of emerging risks ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tZHr6fP5Pb0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGjKv5_6gCrdica-RGj9vKMDdw7g"
+      }
+    },
+    {
+      "position_on_page": 23,
+      "title": "How to Start a Career in Compliance - Top 5 Tips",
+      "link": "https://www.youtube.com/watch?v=B7OaeTOlVUI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=B7OaeTOlVUI",
+      "video_id": "B7OaeTOlVUI",
+      "channel": {
+        "name": "Compliance with Kudzai",
+        "link": "https://www.youtube.com/@CompliancewithKudzai",
+        "thumbnail": "https://yt3.ggpht.com/Xbzm38DVocTMGThNLhb4gqMj0gCgu_fqYcs82NlbT1taBxBFrHBu0bynzg34yCGirOoVZk3cgw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 7487,
+      "length": "4:53",
+      "description": "Here are my Top 5 Tips for anyone wanting to embark on a career in compliance. There is no single formula for success and you ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/B7OaeTOlVUI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzI8KU3ay7riFuyOKIOtqLetf3Qw",
+        "rich": "https://i.ytimg.com/an_webp/B7OaeTOlVUI/mqdefault_6s.webp?du=3000&sqp=CKi5mtYG&rs=AOn4CLAPsHFYUtOhkqK1HZ7sjJG4SEn1gg"
+      }
+    },
+    {
+      "position_on_page": 24,
+      "title": "FREE GOVERNANCE, RISK & COMPLIANCE GRC TRAINING",
+      "link": "https://www.youtube.com/watch?v=4H00FoQLbhw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4H00FoQLbhw",
+      "video_id": "4H00FoQLbhw",
+      "channel": {
+        "name": "Cyber Cadabra",
+        "link": "https://www.youtube.com/@Cyber_Cadabra",
+        "thumbnail": "https://yt3.ggpht.com/Xdqmm4CVswfu_s_pomCKfWrx-5Z7Hp4w_naeblk4GeALFyjKEnjcLwewnSIbq5SAZexT-NyT=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 16467,
+      "length": "2:00:32",
+      "description": "The basics of Governance, Risk & Compliance (GRC) Importance of GRC in modern organizations Overview of popular ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/4H00FoQLbhw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAejvvJ7EZyS8roiAcWKNhNr2pTIw"
+      }
+    },
+    {
+      "position_on_page": 25,
+      "title": "COMPLIANCE INTERVIEW Questions and ANSWERS! (Compliance Officer and Manager Job Positions)",
+      "link": "https://www.youtube.com/watch?v=vagYSFKRsZg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vagYSFKRsZg",
+      "video_id": "vagYSFKRsZg",
+      "channel": {
+        "name": "CareerVidz",
+        "link": "https://www.youtube.com/@CareerVidz",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/_9_ZC_CqNiQD9-ZLY63zpJbAulberC89AwhIksxU0SjFIJtAKOVU5QHZHKmU9JhlaCglymuStw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 390811,
+      "length": "12:01",
+      "description": "Learn how to PASS a Compliance Manager or Officer interview with Richard McMunn's interview tips, questions and answers ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vagYSFKRsZg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgd_6b30wjhfJdhXCQbjo-Rzr5UQ"
+      }
+    },
+    {
+      "position_on_page": 26,
+      "title": "Introduction to Cybersecurity - Governance Risk and Compliance",
+      "link": "https://www.youtube.com/watch?v=ev6tQbnI22Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ev6tQbnI22Q",
+      "video_id": "ev6tQbnI22Q",
+      "channel": {
+        "name": "University of Maryland Smith School of Business",
+        "link": "https://www.youtube.com/@SmithBusinessSchool",
+        "thumbnail": "https://yt3.ggpht.com/1Cb8-MM8fQxdm0-xjGdfIZy1Y3DXpO49mVfLgOz8t73Qeej6qcyYqHVfKoJuTq8B1AQ0m2-swA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 65926,
+      "length": "41:31",
+      "description": "But then you need to have like some basic courses done. There are several websites out there, like ISAKA is one organization ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ev6tQbnI22Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvuOW4722OF0q0SI5klpDeQP0dDQ"
+      }
+    },
+    {
+      "position_on_page": 27,
+      "title": "Compliance and Risk Management Course l E-learning l Training Express",
+      "link": "https://www.youtube.com/watch?v=uFrzrGP1tQs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uFrzrGP1tQs",
+      "video_id": "uFrzrGP1tQs",
+      "channel": {
+        "name": "Training Express",
+        "link": "https://www.youtube.com/@trainingexpressltd",
+        "thumbnail": "https://yt3.ggpht.com/K_cf4x7nNqERYXrlnYhbb0i0KUWwNPDeWLw7ERpKq1Pfr0yIhfMSH2DMC7Fgic7dov1owdQx=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 879,
+      "length": "1:35",
+      "description": "Compliance and Risk Management Course l E-learning l Training Express Are you looking for a comprehensive and practical ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/uFrzrGP1tQs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWD5358rO3qNekTgseaeJKJDonZQ",
+        "rich": "https://i.ytimg.com/an_webp/uFrzrGP1tQs/mqdefault_6s.webp?du=3000&sqp=CLaamtYG&rs=AOn4CLD3fnii6BbMiiHGzpgoiP-qzSKGAA"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Compliance+full+course+for+beginners&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Compliance%20full%20course%20for%20beginners&sp=SBSCASJQTGFyelo3dEprLWxHNXFib0o1ZzNXRmZPRGRzd2k3dVBIggEiUExOVzI0QktnUFFJcE1wRUlvU0NWU0NPRG80Q1hIZkVIcoIBIlBMYWhoVkVqOVhOVGMzY0tqZDI4TlVERlByVjRRY2Z4SDWCAQtxcVJnMDhBeG83Z4IBIlBMaExLYzE4UDlZT0NBdDBoUGRuUGF2d3I5VjRBREl0Y3GCASJQTG1QM2tfT2Jpdk1LUFg3VWpoOWpMRHNQRUVEa1kycDBsggELZEdINTBwYjdQZGeCASJQTE15Y2s1NG5QcExnUjNPdU9vc2xqYU9XUWUxRDNXaDZXggEiUEw3ME1Idnl0bUpVOHp3YW1pUW53ZUhWMFZqLWgwemxPV4IBC2JBS04xV0g5TUVrggELSnN3d0hlRXFCSWOCASJQTE5XMjRCS2dQUUlxaGFTb1h2ZG4wbElnby1QQWZ3dTZrggELdFpIcjZmUDVQYjCCASJQTGl5SzhrcFFtejZHRVhCZUV0bnphNWpfcEoxYVVCZlFsggEiUEwxa19nVHNTR1R3WE9IVExhaUw4MC03S1N4SW41MU1oNIIBC0I3T2FlVE9sVlVJggELNEgwMEZvUUxiaHeCAQt2YWdZU0ZLUnNaZ4IBC2V2NnRRYm5JMjJRggELdUZyenJHUDF0UXOyAQYKBAgbEALqAQQIAhAZ",
+    "next_page_token": "SBSCASJQTGFyelo3dEprLWxHNXFib0o1ZzNXRmZPRGRzd2k3dVBIggEiUExOVzI0QktnUFFJcE1wRUlvU0NWU0NPRG80Q1hIZkVIcoIBIlBMYWhoVkVqOVhOVGMzY0tqZDI4TlVERlByVjRRY2Z4SDWCAQtxcVJnMDhBeG83Z4IBIlBMaExLYzE4UDlZT0NBdDBoUGRuUGF2d3I5VjRBREl0Y3GCASJQTG1QM2tfT2Jpdk1LUFg3VWpoOWpMRHNQRUVEa1kycDBsggELZEdINTBwYjdQZGeCASJQTE15Y2s1NG5QcExnUjNPdU9vc2xqYU9XUWUxRDNXaDZXggEiUEw3ME1Idnl0bUpVOHp3YW1pUW53ZUhWMFZqLWgwemxPV4IBC2JBS04xV0g5TUVrggELSnN3d0hlRXFCSWOCASJQTE5XMjRCS2dQUUlxaGFTb1h2ZG4wbElnby1QQWZ3dTZrggELdFpIcjZmUDVQYjCCASJQTGl5SzhrcFFtejZHRVhCZUV0bnphNWpfcEoxYVVCZlFsggEiUEwxa19nVHNTR1R3WE9IVExhaUw4MC03S1N4SW41MU1oNIIBC0I3T2FlVE9sVlVJggELNEgwMEZvUUxiaHeCAQt2YWdZU0ZLUnNaZ4IBC2V2NnRRYm5JMjJRggELdUZyenJHUDF0UXOyAQYKBAgbEALqAQQIAhAZ"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Compliance+full+course+for+beginners",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Compliance+full+course+for+beginners&sp=SBSCASJQTGFyelo3dEprLWxHNXFib0o1ZzNXRmZPRGRzd2k3dVBIggEiUExOVzI0QktnUFFJcE1wRUlvU0NWU0NPRG80Q1hIZkVIcoIBIlBMYWhoVkVqOVhOVGMzY0tqZDI4TlVERlByVjRRY2Z4SDWCAQtxcVJnMDhBeG83Z4IBIlBMaExLYzE4UDlZT0NBdDBoUGRuUGF2d3I5VjRBREl0Y3GCASJQTG1QM2tfT2Jpdk1LUFg3VWpoOWpMRHNQRUVEa1kycDBsggELZEdINTBwYjdQZGeCASJQTE15Y2s1NG5QcExnUjNPdU9vc2xqYU9XUWUxRDNXaDZXggEiUEw3ME1Idnl0bUpVOHp3YW1pUW53ZUhWMFZqLWgwemxPV4IBC2JBS04xV0g5TUVrggELSnN3d0hlRXFCSWOCASJQTE5XMjRCS2dQUUlxaGFTb1h2ZG4wbElnby1QQWZ3dTZrggELdFpIcjZmUDVQYjCCASJQTGl5SzhrcFFtejZHRVhCZUV0bnphNWpfcEoxYVVCZlFsggEiUEwxa19nVHNTR1R3WE9IVExhaUw4MC03S1N4SW41MU1oNIIBC0I3T2FlVE9sVlVJggELNEgwMEZvUUxiaHeCAQt2YWdZU0ZLUnNaZ4IBC2V2NnRRYm5JMjJRggELdUZyenJHUDF0UXOyAQYKBAgbEALqAQQIAhAZ",
+    "next_page_token": "SBSCASJQTGFyelo3dEprLWxHNXFib0o1ZzNXRmZPRGRzd2k3dVBIggEiUExOVzI0QktnUFFJcE1wRUlvU0NWU0NPRG80Q1hIZkVIcoIBIlBMYWhoVkVqOVhOVGMzY0tqZDI4TlVERlByVjRRY2Z4SDWCAQtxcVJnMDhBeG83Z4IBIlBMaExLYzE4UDlZT0NBdDBoUGRuUGF2d3I5VjRBREl0Y3GCASJQTG1QM2tfT2Jpdk1LUFg3VWpoOWpMRHNQRUVEa1kycDBsggELZEdINTBwYjdQZGeCASJQTE15Y2s1NG5QcExnUjNPdU9vc2xqYU9XUWUxRDNXaDZXggEiUEw3ME1Idnl0bUpVOHp3YW1pUW53ZUhWMFZqLWgwemxPV4IBC2JBS04xV0g5TUVrggELSnN3d0hlRXFCSWOCASJQTE5XMjRCS2dQUUlxaGFTb1h2ZG4wbElnby1QQWZ3dTZrggELdFpIcjZmUDVQYjCCASJQTGl5SzhrcFFtejZHRVhCZUV0bnphNWpfcEoxYVVCZlFsggEiUEwxa19nVHNTR1R3WE9IVExhaUw4MC03S1N4SW41MU1oNIIBC0I3T2FlVE9sVlVJggELNEgwMEZvUUxiaHeCAQt2YWdZU0ZLUnNaZ4IBC2V2NnRRYm5JMjJRggELdUZyenJHUDF0UXOyAQYKBAgbEALqAQQIAhAZ"
+  }
+}

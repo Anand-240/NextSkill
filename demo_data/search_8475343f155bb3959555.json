@@ -1,0 +1,520 @@
+{
+  "search_metadata": {
+    "id": "6ac6a221d58a7a9b523615ae",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/m0Iuygwph9CkgCNmO_xrfatCoDaQfw97sekRWAG-5dI/6ac6a221d58a7a9b523615ae.json",
+    "markdown_endpoint": "https://serpapi.com/searches/m0Iuygwph9CkgCNmO_xrfatCoDaQfw97sekRWAG-5dI/6ac6a221d58a7a9b523615ae.md",
+    "created_at": "2026-10-07 19:48:49 UTC",
+    "processed_at": "2026-10-07 19:48:49 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Frontend+Developer&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/m0Iuygwph9CkgCNmO_xrfatCoDaQfw97sekRWAG-5dI/6ac6a221d58a7a9b523615ae.html",
+    "total_time_taken": 2.19
+  },
+  "search_parameters": {
+    "q": "Frontend Developer",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rM4C1ogCMDpmOJgEzBCm9o54A7grO129YUO-wYsPl9-pnUcEzPcg2DrEBKLIshadwPCJTe6X4TReNbkPNCRYmsoW9SkeRZQTz2fuWG2Fu3njGHnhhZYFuW9ZgvR-yxmRqJzWTj3G3q5aoVuNfAXq_53EKDXE",
+        "q": "Frontend Developer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM4C1ogCMDpmOJgEzBCm9o54A7grO129YUO-wYsPl9-pnUcEzPcg2DrEBKLIshadwPCJTe6X4TReNbkPNCRYmsoW9SkeRZQTz2fuWG2Fu3njGHnhhZYFuW9ZgvR-yxmRqJzWTj3G3q5aoVuNfAXq_53EKDXE&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM4C1ogCMDpmOJgEzBCm9o54A7grO129YUO-wYsPl9-pnUcEzPcg2DrEBKLIshadwPCJTe6X4TReNbkPNCRYmsoW9SkeRZQTz2fuWG2Fu3njGHnhhZYFuW9ZgvR-yxmRqJzWTj3G3q5aoVuNfAXq_53EKDXE"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YhniwnMj9JFOoP5xIXozqTG44QNEjJn6i6dm3ig11NEpiRT1O3NmXN7Fi-55XLpeiPndVmb7wAfHGW3f2VMSpqJ0WUk3PKpvLE1XiwudyWkQhKTnfEmcRNbs8plInNwaB0F09eMle8WF2-LWJQeY3sZTMkO249YGoPi-Az7CsxQXC_bJA8b7RHPjrOfszCveK7B3WlKfzOw33A1S8yZphPOPhu-gHlzAEtbtSmwhfN8rCuQ0dY5fAzK_Ppo6O_vj8Zn3hlYCRuUra10wtt7UeY7NuydCjNoX5NfZ5N2Z1cuH6hGdku8HyInKQOrvxiIYtHDTIwI",
+            "q": "Frontend Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YhniwnMj9JFOoP5xIXozqTG44QNEjJn6i6dm3ig11NEpiRT1O3NmXN7Fi-55XLpeiPndVmb7wAfHGW3f2VMSpqJ0WUk3PKpvLE1XiwudyWkQhKTnfEmcRNbs8plInNwaB0F09eMle8WF2-LWJQeY3sZTMkO249YGoPi-Az7CsxQXC_bJA8b7RHPjrOfszCveK7B3WlKfzOw33A1S8yZphPOPhu-gHlzAEtbtSmwhfN8rCuQ0dY5fAzK_Ppo6O_vj8Zn3hlYCRuUra10wtt7UeY7NuydCjNoX5NfZ5N2Z1cuH6hGdku8HyInKQOrvxiIYtHDTIwI&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YhniwnMj9JFOoP5xIXozqTG44QNEjJn6i6dm3ig11NEpiRT1O3NmXN7Fi-55XLpeiPndVmb7wAfHGW3f2VMSpqJ0WUk3PKpvLE1XiwudyWkQhKTnfEmcRNbs8plInNwaB0F09eMle8WF2-LWJQeY3sZTMkO249YGoPi-Az7CsxQXC_bJA8b7RHPjrOfszCveK7B3WlKfzOw33A1S8yZphPOPhu-gHlzAEtbtSmwhfN8rCuQ0dY5fAzK_Ppo6O_vj8Zn3hlYCRuUra10wtt7UeY7NuydCjNoX5NfZ5N2Z1cuH6hGdku8HyInKQOrvxiIYtHDTIwI"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrfsTXEhDX5oG-QdvkXaY8V7SdYftuwsI2Wo1Eqt8z6juhua8h5vM6OeAVDDy18vxbimRlYe9dVmqXjhhjhToN7Ya5pAQ5fCqNFl-QU9qDwfPRDb-y9D8_jnz9mu3BUbzWgiwJdgcnj0VilX52Qab9jHGW83XvGxbdFEzptrp8Y8horG9bqWRDMAm3d5qmTWLx1fd6C5eEzwir6cP9VGTOC1txHZrwfvnw-LM4_UZbujeN4gIN0YubmzKSoVtgBU6L0As_dZt9GRBCxByoXRWHAGIVaL8DWIGfrJRPySDUxgD0yG493UErGVUhslGO245bQgSyqU",
+            "q": "Frontend Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrfsTXEhDX5oG-QdvkXaY8V7SdYftuwsI2Wo1Eqt8z6juhua8h5vM6OeAVDDy18vxbimRlYe9dVmqXjhhjhToN7Ya5pAQ5fCqNFl-QU9qDwfPRDb-y9D8_jnz9mu3BUbzWgiwJdgcnj0VilX52Qab9jHGW83XvGxbdFEzptrp8Y8horG9bqWRDMAm3d5qmTWLx1fd6C5eEzwir6cP9VGTOC1txHZrwfvnw-LM4_UZbujeN4gIN0YubmzKSoVtgBU6L0As_dZt9GRBCxByoXRWHAGIVaL8DWIGfrJRPySDUxgD0yG493UErGVUhslGO245bQgSyqU&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrfsTXEhDX5oG-QdvkXaY8V7SdYftuwsI2Wo1Eqt8z6juhua8h5vM6OeAVDDy18vxbimRlYe9dVmqXjhhjhToN7Ya5pAQ5fCqNFl-QU9qDwfPRDb-y9D8_jnz9mu3BUbzWgiwJdgcnj0VilX52Qab9jHGW83XvGxbdFEzptrp8Y8horG9bqWRDMAm3d5qmTWLx1fd6C5eEzwir6cP9VGTOC1txHZrwfvnw-LM4_UZbujeN4gIN0YubmzKSoVtgBU6L0As_dZt9GRBCxByoXRWHAGIVaL8DWIGfrJRPySDUxgD0yG493UErGVUhslGO245bQgSyqU"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcstuL_W5Ea3g7YF8JJ43joz6wKIIsybEriSOmdqKk0svW2SSzdvhavBeuI8bnLCPp9hafQXTg4JbGxrwgBLqM8GWNOWLtEC1b1rslHW5oxPHG3CVoaO3F1MO3LjXJ390bU37e3uRtdR5QhpVJnBW1tNLC8b-Enmie1G99Edr41cHJOTe2n_4bTlkEK1EDAv38UBUuF-VX9B6PBRv-aHrfvjZonv8RNA3Jw6KaPvEnuldIJZgfJmxNbAja8EabPGpdHNcUJvSf_8bSDTV3UHUxsBpmcnCQCm1rdZ23yijJWH3H3Sl6wcqJ-miyd34eL3woSf4CWwY",
+            "q": "Frontend Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcstuL_W5Ea3g7YF8JJ43joz6wKIIsybEriSOmdqKk0svW2SSzdvhavBeuI8bnLCPp9hafQXTg4JbGxrwgBLqM8GWNOWLtEC1b1rslHW5oxPHG3CVoaO3F1MO3LjXJ390bU37e3uRtdR5QhpVJnBW1tNLC8b-Enmie1G99Edr41cHJOTe2n_4bTlkEK1EDAv38UBUuF-VX9B6PBRv-aHrfvjZonv8RNA3Jw6KaPvEnuldIJZgfJmxNbAja8EabPGpdHNcUJvSf_8bSDTV3UHUxsBpmcnCQCm1rdZ23yijJWH3H3Sl6wcqJ-miyd34eL3woSf4CWwY&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcstuL_W5Ea3g7YF8JJ43joz6wKIIsybEriSOmdqKk0svW2SSzdvhavBeuI8bnLCPp9hafQXTg4JbGxrwgBLqM8GWNOWLtEC1b1rslHW5oxPHG3CVoaO3F1MO3LjXJ390bU37e3uRtdR5QhpVJnBW1tNLC8b-Enmie1G99Edr41cHJOTe2n_4bTlkEK1EDAv38UBUuF-VX9B6PBRv-aHrfvjZonv8RNA3Jw6KaPvEnuldIJZgfJmxNbAja8EabPGpdHNcUJvSf_8bSDTV3UHUxsBpmcnCQCm1rdZ23yijJWH3H3Sl6wcqJ-miyd34eL3woSf4CWwY"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxpT5kQk6kX6tnJq7a3qTEPH5NFI4ujljNs0yQBTKrWcwi5zXpHt0c0kBqfd9W-0VeP1G3RdMF7EqK8X-TV3DONdq9gcP2E_xiuVzsO6dSVdS4OHq_QpLAyTi9AR7gGZ8yQI2ZNzZIUJXBhGcdCFYaBvNA7w3OX-QIEG8Ef5JwH842xn1lh3UfcpXe0ObcvG7RJbueYL4bSR_hA_CUxR9st6M9jhDwdYm2cH0MpWtY6qC7FsOL3NbHwaYceSlbNS67fiGPRqKuPVnV3Ij70-_blsc4CKBq5ibLeHD5JTi5EVYZB9XvHbilP94PwWMxYNv3ADP-Cs",
+            "q": "Frontend Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxpT5kQk6kX6tnJq7a3qTEPH5NFI4ujljNs0yQBTKrWcwi5zXpHt0c0kBqfd9W-0VeP1G3RdMF7EqK8X-TV3DONdq9gcP2E_xiuVzsO6dSVdS4OHq_QpLAyTi9AR7gGZ8yQI2ZNzZIUJXBhGcdCFYaBvNA7w3OX-QIEG8Ef5JwH842xn1lh3UfcpXe0ObcvG7RJbueYL4bSR_hA_CUxR9st6M9jhDwdYm2cH0MpWtY6qC7FsOL3NbHwaYceSlbNS67fiGPRqKuPVnV3Ij70-_blsc4CKBq5ibLeHD5JTi5EVYZB9XvHbilP94PwWMxYNv3ADP-Cs&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxpT5kQk6kX6tnJq7a3qTEPH5NFI4ujljNs0yQBTKrWcwi5zXpHt0c0kBqfd9W-0VeP1G3RdMF7EqK8X-TV3DONdq9gcP2E_xiuVzsO6dSVdS4OHq_QpLAyTi9AR7gGZ8yQI2ZNzZIUJXBhGcdCFYaBvNA7w3OX-QIEG8Ef5JwH842xn1lh3UfcpXe0ObcvG7RJbueYL4bSR_hA_CUxR9st6M9jhDwdYm2cH0MpWtY6qC7FsOL3NbHwaYceSlbNS67fiGPRqKuPVnV3Ij70-_blsc4CKBq5ibLeHD5JTi5EVYZB9XvHbilP94PwWMxYNv3ADP-Cs"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YhniwnMj9JFOoP5xIXozqTG44QNEjJn6i6dm3ig11NEpiRT1O3NmXN7Fi-55XLpeiPndVmb7wAfHGW3f2VMSpqJ0WUk3PKpvLE1XiwudyWkQhKTnfEmcRNbs8plInNwaB0F09eMle8WF2-LWJQeY3sZTMkO249YGoPi-Az7CsxQXC_bJA8b7RHPjrOfszCveK7B3WlKfzOw33A1S8yZphPOPhu-gHlzAEtbtSmwhfN8rCuQ0dY5fAzK_Ppo6O_vj8Zn3hlYCRuUra10wtt7UeY7NuydCjNoX5NfZ5N2Z1cuH6hGdku8HyInKQOrvxiIYtHDTIwI",
+            "q": "Frontend Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YhniwnMj9JFOoP5xIXozqTG44QNEjJn6i6dm3ig11NEpiRT1O3NmXN7Fi-55XLpeiPndVmb7wAfHGW3f2VMSpqJ0WUk3PKpvLE1XiwudyWkQhKTnfEmcRNbs8plInNwaB0F09eMle8WF2-LWJQeY3sZTMkO249YGoPi-Az7CsxQXC_bJA8b7RHPjrOfszCveK7B3WlKfzOw33A1S8yZphPOPhu-gHlzAEtbtSmwhfN8rCuQ0dY5fAzK_Ppo6O_vj8Zn3hlYCRuUra10wtt7UeY7NuydCjNoX5NfZ5N2Z1cuH6hGdku8HyInKQOrvxiIYtHDTIwI&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YhniwnMj9JFOoP5xIXozqTG44QNEjJn6i6dm3ig11NEpiRT1O3NmXN7Fi-55XLpeiPndVmb7wAfHGW3f2VMSpqJ0WUk3PKpvLE1XiwudyWkQhKTnfEmcRNbs8plInNwaB0F09eMle8WF2-LWJQeY3sZTMkO249YGoPi-Az7CsxQXC_bJA8b7RHPjrOfszCveK7B3WlKfzOw33A1S8yZphPOPhu-gHlzAEtbtSmwhfN8rCuQ0dY5fAzK_Ppo6O_vj8Zn3hlYCRuUra10wtt7UeY7NuydCjNoX5NfZ5N2Z1cuH6hGdku8HyInKQOrvxiIYtHDTIwI"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrfsTXEhDX5oG-QdvkXaY8V7SdYftuwsI2Wo1Eqt8z6juhua8h5vM6OeAVDDy18vxbimRlYe9dVmqXjhhjhToN7Ya5pAQ5fCqNFl-QU9qDwfPRDb-y9D8_jnz9mu3BUbzWgiwJdgcnj0VilX52Qab9jHGW83XvGxbdFEzptrp8Y8horG9bqWRDMAm3d5qmTWLx1fd6C5eEzwir6cP9VGTOC1txHZrwfvnw-LM4_UZbujeN4gIN0YubmzKSoVtgBU6L0As_dZt9GRBCxByoXRWHAGIVaL8DWIGfrJRPySDUxgD0yG493UErGVUhslGO245bQgSyqU",
+            "q": "Frontend Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrfsTXEhDX5oG-QdvkXaY8V7SdYftuwsI2Wo1Eqt8z6juhua8h5vM6OeAVDDy18vxbimRlYe9dVmqXjhhjhToN7Ya5pAQ5fCqNFl-QU9qDwfPRDb-y9D8_jnz9mu3BUbzWgiwJdgcnj0VilX52Qab9jHGW83XvGxbdFEzptrp8Y8horG9bqWRDMAm3d5qmTWLx1fd6C5eEzwir6cP9VGTOC1txHZrwfvnw-LM4_UZbujeN4gIN0YubmzKSoVtgBU6L0As_dZt9GRBCxByoXRWHAGIVaL8DWIGfrJRPySDUxgD0yG493UErGVUhslGO245bQgSyqU&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrfsTXEhDX5oG-QdvkXaY8V7SdYftuwsI2Wo1Eqt8z6juhua8h5vM6OeAVDDy18vxbimRlYe9dVmqXjhhjhToN7Ya5pAQ5fCqNFl-QU9qDwfPRDb-y9D8_jnz9mu3BUbzWgiwJdgcnj0VilX52Qab9jHGW83XvGxbdFEzptrp8Y8horG9bqWRDMAm3d5qmTWLx1fd6C5eEzwir6cP9VGTOC1txHZrwfvnw-LM4_UZbujeN4gIN0YubmzKSoVtgBU6L0As_dZt9GRBCxByoXRWHAGIVaL8DWIGfrJRPySDUxgD0yG493UErGVUhslGO245bQgSyqU"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcstuL_W5Ea3g7YF8JJ43joz6wKIIsybEriSOmdqKk0svW2SSzdvhavBeuI8bnLCPp9hafQXTg4JbGxrwgBLqM8GWNOWLtEC1b1rslHW5oxPHG3CVoaO3F1MO3LjXJ390bU37e3uRtdR5QhpVJnBW1tNLC8b-Enmie1G99Edr41cHJOTe2n_4bTlkEK1EDAv38UBUuF-VX9B6PBRv-aHrfvjZonv8RNA3Jw6KaPvEnuldIJZgfJmxNbAja8EabPGpdHNcUJvSf_8bSDTV3UHUxsBpmcnCQCm1rdZ23yijJWH3H3Sl6wcqJ-miyd34eL3woSf4CWwY",
+            "q": "Frontend Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcstuL_W5Ea3g7YF8JJ43joz6wKIIsybEriSOmdqKk0svW2SSzdvhavBeuI8bnLCPp9hafQXTg4JbGxrwgBLqM8GWNOWLtEC1b1rslHW5oxPHG3CVoaO3F1MO3LjXJ390bU37e3uRtdR5QhpVJnBW1tNLC8b-Enmie1G99Edr41cHJOTe2n_4bTlkEK1EDAv38UBUuF-VX9B6PBRv-aHrfvjZonv8RNA3Jw6KaPvEnuldIJZgfJmxNbAja8EabPGpdHNcUJvSf_8bSDTV3UHUxsBpmcnCQCm1rdZ23yijJWH3H3Sl6wcqJ-miyd34eL3woSf4CWwY&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcstuL_W5Ea3g7YF8JJ43joz6wKIIsybEriSOmdqKk0svW2SSzdvhavBeuI8bnLCPp9hafQXTg4JbGxrwgBLqM8GWNOWLtEC1b1rslHW5oxPHG3CVoaO3F1MO3LjXJ390bU37e3uRtdR5QhpVJnBW1tNLC8b-Enmie1G99Edr41cHJOTe2n_4bTlkEK1EDAv38UBUuF-VX9B6PBRv-aHrfvjZonv8RNA3Jw6KaPvEnuldIJZgfJmxNbAja8EabPGpdHNcUJvSf_8bSDTV3UHUxsBpmcnCQCm1rdZ23yijJWH3H3Sl6wcqJ-miyd34eL3woSf4CWwY"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxpT5kQk6kX6tnJq7a3qTEPH5NFI4ujljNs0yQBTKrWcwi5zXpHt0c0kBqfd9W-0VeP1G3RdMF7EqK8X-TV3DONdq9gcP2E_xiuVzsO6dSVdS4OHq_QpLAyTi9AR7gGZ8yQI2ZNzZIUJXBhGcdCFYaBvNA7w3OX-QIEG8Ef5JwH842xn1lh3UfcpXe0ObcvG7RJbueYL4bSR_hA_CUxR9st6M9jhDwdYm2cH0MpWtY6qC7FsOL3NbHwaYceSlbNS67fiGPRqKuPVnV3Ij70-_blsc4CKBq5ibLeHD5JTi5EVYZB9XvHbilP94PwWMxYNv3ADP-Cs",
+            "q": "Frontend Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxpT5kQk6kX6tnJq7a3qTEPH5NFI4ujljNs0yQBTKrWcwi5zXpHt0c0kBqfd9W-0VeP1G3RdMF7EqK8X-TV3DONdq9gcP2E_xiuVzsO6dSVdS4OHq_QpLAyTi9AR7gGZ8yQI2ZNzZIUJXBhGcdCFYaBvNA7w3OX-QIEG8Ef5JwH842xn1lh3UfcpXe0ObcvG7RJbueYL4bSR_hA_CUxR9st6M9jhDwdYm2cH0MpWtY6qC7FsOL3NbHwaYceSlbNS67fiGPRqKuPVnV3Ij70-_blsc4CKBq5ibLeHD5JTi5EVYZB9XvHbilP94PwWMxYNv3ADP-Cs&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxpT5kQk6kX6tnJq7a3qTEPH5NFI4ujljNs0yQBTKrWcwi5zXpHt0c0kBqfd9W-0VeP1G3RdMF7EqK8X-TV3DONdq9gcP2E_xiuVzsO6dSVdS4OHq_QpLAyTi9AR7gGZ8yQI2ZNzZIUJXBhGcdCFYaBvNA7w3OX-QIEG8Ef5JwH842xn1lh3UfcpXe0ObcvG7RJbueYL4bSR_hA_CUxR9st6M9jhDwdYm2cH0MpWtY6qC7FsOL3NbHwaYceSlbNS67fiGPRqKuPVnV3Ij70-_blsc4CKBq5ibLeHD5JTi5EVYZB9XvHbilP94PwWMxYNv3ADP-Cs"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOvx7mEAKkkOi6Ev0QHpYpBvIUBnBtszFE__TrwWVPBL5Pr3wPOouw15MCYhpGrayuHcUCxatXbUKby44BrtV9U2vEO92nmd79qIban2ptJVoSidZAdphBfWy7R3-TErUDPE521zePMvF9JEU2pkbfk1bTAkH9tk07wS9iqxr5WHa0QC373963WrxNSOEkpSyOKbU0pZkBbDCDMCHyqOFYBqQIHBtQnM-EQ0UXQz3BQyOGUHA2yLjAdEh2hrJbn0tz4Tq9x01DzUq6yN-3shd60e0gjWlUYjJ_W7DTmkShT0bR07qfA",
+            "q": "Frontend Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOvx7mEAKkkOi6Ev0QHpYpBvIUBnBtszFE__TrwWVPBL5Pr3wPOouw15MCYhpGrayuHcUCxatXbUKby44BrtV9U2vEO92nmd79qIban2ptJVoSidZAdphBfWy7R3-TErUDPE521zePMvF9JEU2pkbfk1bTAkH9tk07wS9iqxr5WHa0QC373963WrxNSOEkpSyOKbU0pZkBbDCDMCHyqOFYBqQIHBtQnM-EQ0UXQz3BQyOGUHA2yLjAdEh2hrJbn0tz4Tq9x01DzUq6yN-3shd60e0gjWlUYjJ_W7DTmkShT0bR07qfA&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOvx7mEAKkkOi6Ev0QHpYpBvIUBnBtszFE__TrwWVPBL5Pr3wPOouw15MCYhpGrayuHcUCxatXbUKby44BrtV9U2vEO92nmd79qIban2ptJVoSidZAdphBfWy7R3-TErUDPE521zePMvF9JEU2pkbfk1bTAkH9tk07wS9iqxr5WHa0QC373963WrxNSOEkpSyOKbU0pZkBbDCDMCHyqOFYBqQIHBtQnM-EQ0UXQz3BQyOGUHA2yLjAdEh2hrJbn0tz4Tq9x01DzUq6yN-3shd60e0gjWlUYjJ_W7DTmkShT0bR07qfA"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOvx7mEAKkkOi6Ev0QHpYpBs7ntkrPt2akvQEECIkx7L-QG-kj_m1Z5-aNjAjSNf4wNoxW21YET-esepBkbMqlj1JosvFUZ0NVGwHgqp5FQZprDtpCJaxh3HVZy8UblkrK4A0d6lmlzI1AzMjfgbKu3I7BoVFJwTikkN3GXpkK_C9mf3vYTv1NEeKD-66nc5Q_AqImsrPJI6uZR_OkQxQ_ZcPZY0GmJv5G3W2HjSIMkiDQA05C32xCqNaHHpn7-rGi_XYmOJIWGuDvawazlBlcFIUq0H7WXFbmPBkN2-FJm65hTeVBw",
+            "q": "Frontend Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOvx7mEAKkkOi6Ev0QHpYpBs7ntkrPt2akvQEECIkx7L-QG-kj_m1Z5-aNjAjSNf4wNoxW21YET-esepBkbMqlj1JosvFUZ0NVGwHgqp5FQZprDtpCJaxh3HVZy8UblkrK4A0d6lmlzI1AzMjfgbKu3I7BoVFJwTikkN3GXpkK_C9mf3vYTv1NEeKD-66nc5Q_AqImsrPJI6uZR_OkQxQ_ZcPZY0GmJv5G3W2HjSIMkiDQA05C32xCqNaHHpn7-rGi_XYmOJIWGuDvawazlBlcFIUq0H7WXFbmPBkN2-FJm65hTeVBw&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOvx7mEAKkkOi6Ev0QHpYpBs7ntkrPt2akvQEECIkx7L-QG-kj_m1Z5-aNjAjSNf4wNoxW21YET-esepBkbMqlj1JosvFUZ0NVGwHgqp5FQZprDtpCJaxh3HVZy8UblkrK4A0d6lmlzI1AzMjfgbKu3I7BoVFJwTikkN3GXpkK_C9mf3vYTv1NEeKD-66nc5Q_AqImsrPJI6uZR_OkQxQ_ZcPZY0GmJv5G3W2HjSIMkiDQA05C32xCqNaHHpn7-rGi_XYmOJIWGuDvawazlBlcFIUq0H7WXFbmPBkN2-FJm65hTeVBw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FaUmy7hiV1edZacTUyG4YV0-R71mhJ0PbpToESHy_ng3v0SCtNY-5n4D5vib3Ttn_pAzcpDjZMikxGq_VGx0WbWgRpMg47jLbuG1oloOKGgHI1N8aFZQRfeIbxhw3L87z0N4SPZ0HhSQC91asuI9_25wyuQxE-kJRQgp5Osyzte1ahM4hS6cCOl5bLUzNxbZ3DR-VN5bvAJGCosOUPKaDpHUXGvVwvgbQHLtMVuWqeM1N_bOJl_pkZPs5bXWcOu5EVS9ZPrZ_BLbCiMl8LxKSbl6CezCjdNlMViXWdZFNLC9_U6dQw",
+            "q": "Frontend Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FaUmy7hiV1edZacTUyG4YV0-R71mhJ0PbpToESHy_ng3v0SCtNY-5n4D5vib3Ttn_pAzcpDjZMikxGq_VGx0WbWgRpMg47jLbuG1oloOKGgHI1N8aFZQRfeIbxhw3L87z0N4SPZ0HhSQC91asuI9_25wyuQxE-kJRQgp5Osyzte1ahM4hS6cCOl5bLUzNxbZ3DR-VN5bvAJGCosOUPKaDpHUXGvVwvgbQHLtMVuWqeM1N_bOJl_pkZPs5bXWcOu5EVS9ZPrZ_BLbCiMl8LxKSbl6CezCjdNlMViXWdZFNLC9_U6dQw&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FaUmy7hiV1edZacTUyG4YV0-R71mhJ0PbpToESHy_ng3v0SCtNY-5n4D5vib3Ttn_pAzcpDjZMikxGq_VGx0WbWgRpMg47jLbuG1oloOKGgHI1N8aFZQRfeIbxhw3L87z0N4SPZ0HhSQC91asuI9_25wyuQxE-kJRQgp5Osyzte1ahM4hS6cCOl5bLUzNxbZ3DR-VN5bvAJGCosOUPKaDpHUXGvVwvgbQHLtMVuWqeM1N_bOJl_pkZPs5bXWcOu5EVS9ZPrZ_BLbCiMl8LxKSbl6CezCjdNlMViXWdZFNLC9_U6dQw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccs8yW5hgHZ7vkzzKHHRWCw1DCT-997JF2xNuGbW_uE2kdBbcxESnXgbqAcjfOiRGU47U6BDaEnGN4esFHI0f1QCG0hQhdP37asFrO3gDCx_fOaISPFz2bA3Vu66voMkRvLHQRdNIgGrIzOsJFjOiZJVrYqWxNhz3-41mhmY_vgWzAeqWpH4qcAXmlOvVZF3ak1ecztQdSZYz1NVunFKxRLMbLq6icodljsLrQcaipiOzO0eB6veW1AGV2fQ9IQB7CCiWEiqTom9BvuoQFw8ylpdBX5LTsCielJXoyxE1q4fnfccHRw",
+            "q": "Frontend Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccs8yW5hgHZ7vkzzKHHRWCw1DCT-997JF2xNuGbW_uE2kdBbcxESnXgbqAcjfOiRGU47U6BDaEnGN4esFHI0f1QCG0hQhdP37asFrO3gDCx_fOaISPFz2bA3Vu66voMkRvLHQRdNIgGrIzOsJFjOiZJVrYqWxNhz3-41mhmY_vgWzAeqWpH4qcAXmlOvVZF3ak1ecztQdSZYz1NVunFKxRLMbLq6icodljsLrQcaipiOzO0eB6veW1AGV2fQ9IQB7CCiWEiqTom9BvuoQFw8ylpdBX5LTsCielJXoyxE1q4fnfccHRw&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccs8yW5hgHZ7vkzzKHHRWCw1DCT-997JF2xNuGbW_uE2kdBbcxESnXgbqAcjfOiRGU47U6BDaEnGN4esFHI0f1QCG0hQhdP37asFrO3gDCx_fOaISPFz2bA3Vu66voMkRvLHQRdNIgGrIzOsJFjOiZJVrYqWxNhz3-41mhmY_vgWzAeqWpH4qcAXmlOvVZF3ak1ecztQdSZYz1NVunFKxRLMbLq6icodljsLrQcaipiOzO0eB6veW1AGV2fQ9IQB7CCiWEiqTom9BvuoQFw8ylpdBX5LTsCielJXoyxE1q4fnfccHRw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOvx7mEAKkkOi6Ev0QHpYpBvIUBnBtszFE__TrwWVPBL5Pr3wPOouw15MCYhpGrayuHcUCxatXbUKby44BrtV9U2vEO92nmd79qIban2ptJVoSidZAdphBfWy7R3-TErUDPE521zePMvF9JEU2pkbfk1bTAkH9tk07wS9iqxr5WHa0QC373963WrxNSOEkpSyOKbU0pZkBbDCDMCHyqOFYBqQIHBtQnM-EQ0UXQz3BQyOGUHA2yLjAdEh2hrJbn0tz4Tq9x01DzUq6yN-3shd60e0gjWlUYjJ_W7DTmkShT0bR07qfA",
+            "q": "Frontend Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOvx7mEAKkkOi6Ev0QHpYpBvIUBnBtszFE__TrwWVPBL5Pr3wPOouw15MCYhpGrayuHcUCxatXbUKby44BrtV9U2vEO92nmd79qIban2ptJVoSidZAdphBfWy7R3-TErUDPE521zePMvF9JEU2pkbfk1bTAkH9tk07wS9iqxr5WHa0QC373963WrxNSOEkpSyOKbU0pZkBbDCDMCHyqOFYBqQIHBtQnM-EQ0UXQz3BQyOGUHA2yLjAdEh2hrJbn0tz4Tq9x01DzUq6yN-3shd60e0gjWlUYjJ_W7DTmkShT0bR07qfA&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOvx7mEAKkkOi6Ev0QHpYpBvIUBnBtszFE__TrwWVPBL5Pr3wPOouw15MCYhpGrayuHcUCxatXbUKby44BrtV9U2vEO92nmd79qIban2ptJVoSidZAdphBfWy7R3-TErUDPE521zePMvF9JEU2pkbfk1bTAkH9tk07wS9iqxr5WHa0QC373963WrxNSOEkpSyOKbU0pZkBbDCDMCHyqOFYBqQIHBtQnM-EQ0UXQz3BQyOGUHA2yLjAdEh2hrJbn0tz4Tq9x01DzUq6yN-3shd60e0gjWlUYjJ_W7DTmkShT0bR07qfA"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOvx7mEAKkkOi6Ev0QHpYpBs7ntkrPt2akvQEECIkx7L-QG-kj_m1Z5-aNjAjSNf4wNoxW21YET-esepBkbMqlj1JosvFUZ0NVGwHgqp5FQZprDtpCJaxh3HVZy8UblkrK4A0d6lmlzI1AzMjfgbKu3I7BoVFJwTikkN3GXpkK_C9mf3vYTv1NEeKD-66nc5Q_AqImsrPJI6uZR_OkQxQ_ZcPZY0GmJv5G3W2HjSIMkiDQA05C32xCqNaHHpn7-rGi_XYmOJIWGuDvawazlBlcFIUq0H7WXFbmPBkN2-FJm65hTeVBw",
+            "q": "Frontend Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOvx7mEAKkkOi6Ev0QHpYpBs7ntkrPt2akvQEECIkx7L-QG-kj_m1Z5-aNjAjSNf4wNoxW21YET-esepBkbMqlj1JosvFUZ0NVGwHgqp5FQZprDtpCJaxh3HVZy8UblkrK4A0d6lmlzI1AzMjfgbKu3I7BoVFJwTikkN3GXpkK_C9mf3vYTv1NEeKD-66nc5Q_AqImsrPJI6uZR_OkQxQ_ZcPZY0GmJv5G3W2HjSIMkiDQA05C32xCqNaHHpn7-rGi_XYmOJIWGuDvawazlBlcFIUq0H7WXFbmPBkN2-FJm65hTeVBw&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOvx7mEAKkkOi6Ev0QHpYpBs7ntkrPt2akvQEECIkx7L-QG-kj_m1Z5-aNjAjSNf4wNoxW21YET-esepBkbMqlj1JosvFUZ0NVGwHgqp5FQZprDtpCJaxh3HVZy8UblkrK4A0d6lmlzI1AzMjfgbKu3I7BoVFJwTikkN3GXpkK_C9mf3vYTv1NEeKD-66nc5Q_AqImsrPJI6uZR_OkQxQ_ZcPZY0GmJv5G3W2HjSIMkiDQA05C32xCqNaHHpn7-rGi_XYmOJIWGuDvawazlBlcFIUq0H7WXFbmPBkN2-FJm65hTeVBw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FaUmy7hiV1edZacTUyG4YV0-R71mhJ0PbpToESHy_ng3v0SCtNY-5n4D5vib3Ttn_pAzcpDjZMikxGq_VGx0WbWgRpMg47jLbuG1oloOKGgHI1N8aFZQRfeIbxhw3L87z0N4SPZ0HhSQC91asuI9_25wyuQxE-kJRQgp5Osyzte1ahM4hS6cCOl5bLUzNxbZ3DR-VN5bvAJGCosOUPKaDpHUXGvVwvgbQHLtMVuWqeM1N_bOJl_pkZPs5bXWcOu5EVS9ZPrZ_BLbCiMl8LxKSbl6CezCjdNlMViXWdZFNLC9_U6dQw",
+            "q": "Frontend Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FaUmy7hiV1edZacTUyG4YV0-R71mhJ0PbpToESHy_ng3v0SCtNY-5n4D5vib3Ttn_pAzcpDjZMikxGq_VGx0WbWgRpMg47jLbuG1oloOKGgHI1N8aFZQRfeIbxhw3L87z0N4SPZ0HhSQC91asuI9_25wyuQxE-kJRQgp5Osyzte1ahM4hS6cCOl5bLUzNxbZ3DR-VN5bvAJGCosOUPKaDpHUXGvVwvgbQHLtMVuWqeM1N_bOJl_pkZPs5bXWcOu5EVS9ZPrZ_BLbCiMl8LxKSbl6CezCjdNlMViXWdZFNLC9_U6dQw&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FaUmy7hiV1edZacTUyG4YV0-R71mhJ0PbpToESHy_ng3v0SCtNY-5n4D5vib3Ttn_pAzcpDjZMikxGq_VGx0WbWgRpMg47jLbuG1oloOKGgHI1N8aFZQRfeIbxhw3L87z0N4SPZ0HhSQC91asuI9_25wyuQxE-kJRQgp5Osyzte1ahM4hS6cCOl5bLUzNxbZ3DR-VN5bvAJGCosOUPKaDpHUXGvVwvgbQHLtMVuWqeM1N_bOJl_pkZPs5bXWcOu5EVS9ZPrZ_BLbCiMl8LxKSbl6CezCjdNlMViXWdZFNLC9_U6dQw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccs8yW5hgHZ7vkzzKHHRWCw1DCT-997JF2xNuGbW_uE2kdBbcxESnXgbqAcjfOiRGU47U6BDaEnGN4esFHI0f1QCG0hQhdP37asFrO3gDCx_fOaISPFz2bA3Vu66voMkRvLHQRdNIgGrIzOsJFjOiZJVrYqWxNhz3-41mhmY_vgWzAeqWpH4qcAXmlOvVZF3ak1ecztQdSZYz1NVunFKxRLMbLq6icodljsLrQcaipiOzO0eB6veW1AGV2fQ9IQB7CCiWEiqTom9BvuoQFw8ylpdBX5LTsCielJXoyxE1q4fnfccHRw",
+            "q": "Frontend Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=0df0796090376364&gl=in&hl=en&sxsrf=APpeQnsTQf1NZ-B-ikv-N_Pbuhq_a4VDjg:1791402531512&q=Frontend+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccs8yW5hgHZ7vkzzKHHRWCw1DCT-997JF2xNuGbW_uE2kdBbcxESnXgbqAcjfOiRGU47U6BDaEnGN4esFHI0f1QCG0hQhdP37asFrO3gDCx_fOaISPFz2bA3Vu66voMkRvLHQRdNIgGrIzOsJFjOiZJVrYqWxNhz3-41mhmY_vgWzAeqWpH4qcAXmlOvVZF3ak1ecztQdSZYz1NVunFKxRLMbLq6icodljsLrQcaipiOzO0eB6veW1AGV2fQ9IQB7CCiWEiqTom9BvuoQFw8ylpdBX5LTsCielJXoyxE1q4fnfccHRw&udm=8&sa=X&ved=2ahUKEwiHjqm81qiXAxVHGtAFHbzNBUcQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Frontend+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccs8yW5hgHZ7vkzzKHHRWCw1DCT-997JF2xNuGbW_uE2kdBbcxESnXgbqAcjfOiRGU47U6BDaEnGN4esFHI0f1QCG0hQhdP37asFrO3gDCx_fOaISPFz2bA3Vu66voMkRvLHQRdNIgGrIzOsJFjOiZJVrYqWxNhz3-41mhmY_vgWzAeqWpH4qcAXmlOvVZF3ak1ecztQdSZYz1NVunFKxRLMbLq6icodljsLrQcaipiOzO0eB6veW1AGV2fQ9IQB7CCiWEiqTom9BvuoQFw8ylpdBX5LTsCielJXoyxE1q4fnfccHRw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "React. Js Developer",
+      "company_name": "VISUAL STUDIO CODE, simply learning online courses",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=Otb68-XTis5BbAg5AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNOwoCMRBAsfUIVlPLshHBRit1RfyA4KqtjGHIRmMmZLKydt7Bw3gfT-LavOo9XvfT6WZ7Qp1yWAsU9CDHgSJ8X2-48gWEMOoK2MOS2TjqTaqUgoyVEnG5kYTJ6lzzXbGnCzeqjeSPs1QYKThMdB6OBk0evOmvT6vyON1CeTgWqx3Md8UiA7H34J7g2pO33rQvZz2B5joKCVgPM_IGXR3rDDathAlv-AP5bDnNugAAAA&shmds=v1_ARwrE23Ui7rXBNvvZY4AqlXZdJIkbnpKGBXm8dU4AUQgCbyvow&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=Otb68-XTis5BbAg5AAAAAA%3D%3D",
+      "extensions": [
+        "1 day ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/react-js-developer-at-visual-studio-code-simply-learning-online-courses-4474013967",
+      "job_title": "React. Js Developer",
+      "description": "motivated react. js developer",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/react-js-developer-at-visual-studio-code-simply-learning-online-courses-4474013967?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZWFjdC4gSnMgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiVklTVUFMIFNUVURJTyBDT0RFLCBzaW1wbHkgbGVhcm5pbmcgb25saW5lIGNvdXJzZXMiLCJodGlkb2NpZCI6Ik90YjY4LVhUaXM1QmJBZzVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1U0MU9FYzBZMHh5UlhBeVZURkJlamRYZFZocE5sSXdWRlZXVEhJd1RFdzVjVXR0Y1VJM1JURklWV1ZWTFhNMmIzaFBOM0F0TkZFMU1VaHVMVmQ1VVVFNE5EZE5NWFIxVTNWRU1UZDZTVjlQUjJ0R1RtcElRamRXWTFsUmJGRTBTVmxmYkhObmQwRjJRMGRNVWprNE1uSkZhSGxyV1dkUlNpMUhPVk5pYjNKUWRsQlZiVEFTRjBrMlRFZGhjMlozU0hObE1IZE9ORkIyU25WWWRVRlJHaUpCUkhOeU9XWlJSRFp1U0dSTFpXOVdhV1pSZFUxdGIxZDNTVWxFVlVwTldFOVIiLCJmY3YiOiIzIiwiZmNfaWQiOiJPdGI2OC1YVGlzNUJiQWc1QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Angular Frontend Developer",
+      "company_name": "Parangat Technologies",
+      "location": "Bengaluru, Karnataka",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=YpoZhF2XXX3wGAuTAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ7CMAxAUbH2CEyeETQIxAITCMHAwsBeucFKCsGu7BR15A6cgKtxEsryhyf94jMqllsOXUKFgwpn4ivs6UlJWlL4vt5wkxqMUH0EYTiKhETjTcy5tbVzZqkMljE3vvTycMJUS--Gyf6pLKJSmzBTtVjN-7LlMJmdUZEDZriQjyxJQkMGDcOOBk6ddlM4oTJmvOMPWgg_SaQAAAA&shmds=v1_ARwrE217laH6dysNpCzcbmPTvOeQDPXV_89OdJIqO7FJqJ19Vw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=YpoZhF2XXX3wGAuTAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6a221d58a7a9b523615ae/images/VxeuhFJ-R5DefNl4o2aAWHu-dweQZyzQe_u01WUFgmo.jpeg",
+      "extensions": [
+        "6 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/angular-frontend-developer-parangat-technologies-bengaluru--t7xk-861703524",
+      "job_title": "Angular Frontend Developer",
+      "description": "Roles and Responsibilities :\n\n\n\nDesign, develop, test, and maintain scalable and efficient Angular applications using latest technologies such as TypeScript, HTML, CSS, Bootstrap.\n\n\nCollaborate with cross-functional teams to identify requirements and implement solutions that meet business needs.\n\n\nEnsure high-quality code by writing unit tests using Jest and Mocha, integrating with CI/CD pipelines like Jenkins.\n\n\nParticipate in code reviews to improve overall quality of the application.\n\n\n\nJob Requirements :\n\n\n\n4-9 years of experience in Angular development with expertise in version control systems like Git.\n\n\nStrong understanding of AWS services including S3 Bucket management and API Gateway setup.\n\n\nProficiency in Java Spring Boot for backend integration is an added advantage.\n\n\nExperience with RESTful APIs design principles using Swagger (formerly known as Apigee).",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/angular-frontend-developer-parangat-technologies-bengaluru--t7xk-861703524?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Angular-frontend-developer-Bengaluru-Bangalore-Gamasome-Interactive-dqjgmeLZ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/1461730848?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mployee.me",
+          "link": "https://www.mployee.me/jobs/view/angular-frontend-developer-in-bangalore-at-parangat-technologies--jid--1102603871549826/s1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Layboard",
+          "link": "https://layboard.com/pl/vakansiya/288884/frontend-angular-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/angular-frontend-developer-qmsmart-technologies-inkabengaluru-2-to-5-years-experience-13efadf0-66d0-4e96-97b4-95276896cade?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NextRaise",
+          "link": "https://nextraise.ai/jobs/angular-frontend-developer-at-gamasome-interactive-2e36c8c56bef?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbmd1bGFyIEZyb250ZW5kIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlBhcmFuZ2F0IFRlY2hub2xvZ2llcyIsImh0aWRvY2lkIjoiWXBvWmhGMlhYWDN3R0F1VEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMVJNY2taSGVGVmtjbEl5TkZoZlFWOXFkRkV5UzFCVFdHRlNZaTAzYnpSV1NsUjZlRkF0UWxOSlV6YzNjVmt4VFdoV00xZFViMXBtWDA4MmFHbGZkbXRPUWpnM1JVbHRYMHRzVVZBeFZ6Wm1XV0UyUm1oQllqSkxPVFJTWmsxR2JqWTBTbVZLTkhsSWIwMW5jME5LTm1oTGEwRkhiRWhyV0hGR1pqRjJSRm8yWlhKM1RHOFNGMGsyVEVkaGMyWjNTSE5sTUhkT05GQjJTblZZZFVGUkdpSkJSSE55T1daVVdHUjFaV0p3T1ROcFpISlBWa294WDB0MlkzRjJiMFUzVFVoMyIsImZjdiI6IjMiLCJmY19pZCI6Illwb1poRjJYWFgzd0dBdVRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Hiring Drupal Frontend Developer (Bengaluru)",
+      "company_name": "Specbee",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=7lQclAjWWf9wMg15AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_z3NPQ7CMAxAYbH2CCx4BIQahMQCGyo_EiMHqNxgpYFgR06KOnIHzsDFOAmwsLzt0yteg2J78OrZQaVdxAA7Fc7EZ6joTkEiKYw3xA5Dp90E3o8nXKSBRKi2BWHYi7hAw3Wbc0wrY1IKpUsZs7ellZsRpkZ680Xplzq1qBQDZqoXy3lfRnbT0SmSbYjAM_xnMziiMma84geNPNOQqAAAAA&shmds=v1_ARwrE227QXT1LHy6JX3nyYdkW7GPR-OTc6j_fPLMi3rXi3tcJw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=7lQclAjWWf9wMg15AAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/hiring-drupal-frontend-developer-bengaluru/specbee/19634421",
+      "job_title": "Hiring Drupal Frontend Developer (Bengaluru)",
+      "description": "We're looking for a Drupal Frontend Developer with strong front-end engineering skills and solid working knowledge of Drupal to build high-quality, accessible, and performant user experiences. This is a frontend-heavy role (~70% frontend / 30% backend)  you'll spend most of your time building responsive UI, custom themes, and reusable components, while working comfortably within Drupal's backend architecture to integrate and support your front-end work.\n\nKey Responsibilities\n\nFrontend (Primary Focus)\n\n- Build responsive, pixel-perfect user interfaces using HTML5, CSS3, and modern JavaScript (ES6+)\n- Develop and maintain custom Drupal themes using Twig\n- Build reusable, component-based UI using Single Directory Components (SDC) or similar component-driven approaches\n- Convert Figma/design mockups into accessible, cross-browser-compatible interfaces (WCAG compliance)\n- Optimize front-end performance (page load times, Core Web Vitals, asset/bundle optimization)\n\nBackend (Supporting Focus)\n\n- Develop and maintain custom Drupal modules to support front-end functionality\n- Work on site building, configuration management, and content architecture (content types, Views)\n- Integrate with RESTful APIs and JSON:API for front-end data consumption\n- Troubleshoot, debug, and support Drupal upgrades\n- Use Composer and Drush for dependency management and site operations\n\nGeneral\n\n- Participate in code reviews and follow Git-based collaborative workflows (branching, PRs)\n- Collaborate closely with designers, backend developers, and project managers to deliver projects on time\n\nRequired Skills & Qualifications\n\n- 3+ years of experience in Drupal (9/10/11) development, with a strong front-end focus\n- Strong hands-on JavaScript (ES6+)  not just jQuery-level scripting\n- Genuine, applied experience with React or Vue.Js  not certification-only knowledge\n- Solid Twig theming and custom theme development from scratch\n- Solid HTML5, CSS3 (SASS/SCSS a plus), responsive design, and accessibility (WCAG) skills\n- Working knowledge of Drupal site building (content types, Views, configuration management)\n- Basic-to-solid PHP understanding  enough to work with Drupal APIs and REST/JSON:API endpoints\n- Familiarity with Composer, Drush, and Git-based workflows\n- Excellent problem-solving skills and attention to detail\n\nNice to Have\n\n- Hands-on experience with Single Directory Components (SDC)\n- Experience with decoupled/headless Drupal (React/Vue/Next.Js front-end on a Drupal backend)\n- Exposure to CI/CD processes and tools\n- Component library experience (Storybook, PatternLab, or similar)\n- Front-end performance optimization expertise (Core Web Vitals, lazy loading, bundle size) .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/hiring-drupal-frontend-developer-bengaluru/specbee/19634421?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/6495891467569987584?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/341677244/frontend-developer-sde-2-3-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJIaXJpbmcgRHJ1cGFsIEZyb250ZW5kIERldmVsb3BlciAoQmVuZ2FsdXJ1KSIsImNvbXBhbnlfbmFtZSI6IlNwZWNiZWUiLCJodGlkb2NpZCI6IjdsUWNsQWpXV2Y5d01nMTVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1ZKTVowZG9UbVpHTUVsRVJGWlhOMjlEY3pkV1pYZzJjWFpDUlY5SlRVMVZlRWgwYlhaMWNVNUVVM2xoTkRWVE9UaFVWM1pqUWpaT2FFdHVTbGhTYTJRMkxXUXRTemh0Y0VkcmJHWkNRVzVEVFd4WVdtZHZPWEJGZVRBdGRYYzJUVkJrVW5CNU1IZExlbFpTV1ZGelJWVXdURmR4VUROMVUxRkhTVTFWVUhWcFJGcHZNMlVTRjBrMlRFZGhjMlozU0hObE1IZE9ORkIyU25WWWRVRlJHaUpCUkhOeU9XWlJhR0ZYVDJwWFVuZHpXWEZXWms1dFRHSnBiR2h3UjJ0WlduRjMiLCJmY3YiOiIzIiwiZmNfaWQiOiI3bFFjbEFqV1dmOXdNZzE1QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Frontend Developer (Fresher)",
+      "company_name": "Team Geek Solutions",
+      "location": "Bengaluru, Karnataka",
+      "via": "Foundit",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=_WtzVi3JvUDmVimAAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLOw7CMAwAULH2CEwe-alBSF1gQ6gdGGGv3GIlpakdxSnqyB04AVfjJMDytpe9Z1lRRuFEfIMTPchLoAiLMpI6ikv4PF9wlwaUMLYOhKESsZ7mB5dS0L0xqj63mjB1bd7KYISpkcn8kv6p1WGk4DFRvSu2Ux7YrtZXwgEqoh4u4sfUCSt0DEdii36M4wbOGBkT9vgFF3r0XKQAAAA&shmds=v1_ARwrE20hyKNtqshLdUY6eYWZp8cpymMgYQj-ecZucJ_6P5IcUA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=_WtzVi3JvUDmVimAAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.foundit.in/job/frontend-developer-fresher-team-geek-solutions-bengaluru-bangalore-36852093",
+      "job_title": "Frontend Developer (Fresher)",
+      "description": "Company Description\n\nTeam Geek Solutions (TGS) is a global technology partner specializing in AI, Generative AI solutions, custom software development, and offshore/onshore talent optimization. Based in Texas, TGS deploys skilled professionals across the US, offering services tailored to industries such as BFSI, Telecom, FinTech, Healthcare, and Manufacturing. Our expertise includes AI/ML application development, cloud migration, cybersecurity audits, and ServiceNow & Salesforce customization. We help companies scale globally with our GCC through the Build-Operate-Transfer (BOT) model, aiming to enhance operational efficiency and drive innovation.\n\nJob Title: Frontend Developer (React JS + Node JS)\n\nLocation: Bengaluru\n\nExperience: Fresher\n\nRole Description\n\nThis is a full-time remote role for a Frontend Developer. The Frontend Developer will be responsible for developing and implementing user-facing features, optimizing web applications for maximum speed and scalability, and collaborating with back-end developers and web designers to improve usability. The role involves ensuring the technical feasibility of UI/UX designs, building reusable code and libraries for future use, and maintaining web design consistency across all applications.\n\nKey Responsibilities\n\n Develop and maintain high-performance React.js components for dashboard\n\nmodules\n\n Manage state persistence and cross-module filters using Redux. Handle role-based access control and permission-based rendering logic. Integrate and maintain dynamic charts and visualizations (e.g., using Chart.js) Set up and manage local development servers using Node.js & Webpack Maintain structured module architecture with reusable components Ensure responsive design and seamless performance across devices Work closely with backend engineers to consume APIs securely and efficiently Handle RESTful API integration for dynamic data rendering Manage authentication headers, error handling, and response transformation in\n\nfrontend.\n\n Configure and maintain environment variables, build scripts, and deployment\n\nsettings.\n\nQualifications\n\nFront-End Development and Responsive Web Design skillsExperience in Web Development and Software DevelopmentBasic understanding of Back-End Web DevelopmentProficiency in HTML, CSS, JavaScript, and modern front-end frameworksAbility to work independently and remotelyStrong problem-solving skills and attention to detailBachelor's degree in Computer Science, Information Technology, or related field or equivalent practical experience\n\nSkills: web design,responsive web design,chart.js,technology,web,css,react.js,web development,software development,javascript,software,redux,node.js,html",
+      "apply_options": [
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/frontend-developer-fresher-team-geek-solutions-bengaluru-bangalore-36852093?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/4183069440886146587?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/33938309734465536?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIgKEZyZXNoZXIpIiwiY29tcGFueV9uYW1lIjoiVGVhbSBHZWVrIFNvbHV0aW9ucyIsImh0aWRvY2lkIjoiX1d0elZpM0p2VURtVmltQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMDl4VjNKcU5HWm5SMjF3ZEU1SU9FbENNekJRV1VOMFlWRklhbkJMVldaU1JrVm9jRTFNTms1UFdHVm9jMXBhUWpRMU0wUnhWMmxhVm05b2NrZEpObVp0VEVOVWFHdE5WMmRWZFZZdFZrVlhjVVJNYWxCaGRVNUxXWHBOYUZsTlRDMUxkVjlwYTBsd1MzVndlVEJpWkZkalJrOHlZblpyVGxGTFkxUnNiMEo0ZFdoYVZGRVNGMGsyVEVkaGMyWjNTSE5sTUhkT05GQjJTblZZZFVGUkdpSkJSSE55T1daU1gwWnpkM0ZWY1dWc1JFVkNXR1Y1ZGtONGVuaHZkWGMxZWxoQiIsImZjdiI6IjMiLCJmY19pZCI6Il9XdHpWaTNKdlVEbVZpbUFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Frontend Developer (ReactJS)",
+      "company_name": "Lenskart",
+      "location": "Bengaluru, Karnataka",
+      "via": "Apna Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=HG5M4myDbZSduAGgAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBAAQGzzBKstVSQnQhrtRBTUSh8QNueSxJy7x-1GUvoHwQf6ErWZbrL3KCt2SdiIr7ClBwWJlGByJvR2uEzh83zBTSpQwuQbEIa9SB1ovG7Moq6cUw15rYbW-tzL3QlTJYP7Jf1TaoOJYkCjclkshjxyPYMTsXaYDFqGDXGNoU_9HI6YGA07_ALu8n-3mQAAAA&shmds=v1_ARwrE23JJLVzwjp6u_gzJZRR07T-qlc9DIGWb3yUkPdBTXZ7aw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=HG5M4myDbZSduAGgAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6a221d58a7a9b523615ae/images/z4yCcBP6Tb5BfwJA5KPMZw9fuYq-7VlqDnOxAuIdTYI.jpeg",
+      "extensions": [
+        "27 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://apna.co/job/bengaluru/frontend-developer-reactjs-1741013501",
+      "job_title": "Frontend Developer (ReactJS)",
+      "description": "Frontend Developer - ReactJs Tech@Lenskart –UI Developer Key Responsibilities: - · Develop new user-facing features · Build reusable code and libraries for future use · Ensure the technical feasibility of UI/UX designs · Optimize application for maximum speed and scalability · Collaborate with other team members and stakeholders Skills Required: - · Proficient in web markup, including HTML5, CSS3 · Proficient in client-side scripting like JavaScript and ReactJS · Proficient in server side scripting like ExpressJS & Redux · Proficient understanding of cross-browser compatibility issues and ways to work around them · Proven ability to work creatively and analytically in a problem-solving environment · Work with cross-functional teams to ensure if any tech glitch issues resolved. Also work with Product Management and Engineering for the release of the fixes. Ideal Experience: - · 3 to 6 years of industry experience. · Bachelors or Master’s Degree in Computer Science/ IT · Drive discussions to create/improve product, process and technology · Provide end to end solution and design details · Mentoring the Junior dev’s exposure is a plus · Lead development of formalized solution methodologies. · Passion to work in startup like environment Experience Level Senior Level",
+      "apply_options": [
+        {
+          "title": "Apna Jobs",
+          "link": "https://apna.co/job/bengaluru/frontend-developer-reactjs-1741013501?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/frontend-developer-reactjs/qrata/19523009?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Frontend-Developer-ReactJs-Bengaluru-Bangalore-Qrata-fhe70jcW?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/2105185095?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/frontend-developer-reactjs-lenskart-bengaluru--techmap_in_1099923417?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIgKFJlYWN0SlMpIiwiY29tcGFueV9uYW1lIjoiTGVuc2thcnQiLCJodGlkb2NpZCI6IkhHNU00bXlEYlpTZHVBR2dBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xwSmNWaEhRV2RNVjNKRVh6UlNjRFJuWXpJM2J6bDJOV1Y0UkRoRlJWSTBVa0oxUldaNmVpMXFObWRqVkdweWExZHZibmhRVlVoWVRVWm5XRkF0V0VkdVNUZE5TME5zVlRneGVsaHdkSE5NV210V1FsWTBiRFpKT1VOVVFYSkxaM1ZMYjFoQlRYSXdhbXQyY3psU0xUVnFPRGd6UXpKUFpFcFhiVUZLYzFoWVlrNWxVVW9TRjBrMlRFZGhjMlozU0hObE1IZE9ORkIyU25WWWRVRlJHaUpCUkhOeU9XWlRhM052ZHpJdFgzWjBRWE5PWWtJdGRYRlBZekYxU25KV1ltRm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJIRzVNNG15RGJaU2R1QUdnQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Frontend Developer – React JS / React Native",
+      "company_name": "LanceSoft Middle East",
+      "location": "Bengaluru, Karnataka",
+      "via": "Getmereferred.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=674rlrx7DH2h4NxyAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_y2LPQrCQBBGsc0RrKYWzYpgo52oAf8KPYBMNmMSXWfC7iSk9A6exQt5EqPYfDx474tevShZe2ElzmBJDTmpyMP78YQjoVXYnMD88YBaNvRzV0khEHpbgDAkIrmj_rxQrcLMmBBcnAftchtbuRthSqU13Sl85xwK9FQ5VDpPpuM2rjgfjHbIlk5yUdiXWeYIVhgUSoYFcY6u9vUQtugZFW_4AUOOJue4AAAA&shmds=v1_ARwrE22Rq4_Ktos3PkUN4BwDcntBKmJJJrY1P_zyAfAAKX1Pcg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=674rlrx7DH2h4NxyAAAAAA%3D%3D",
+      "extensions": [
+        "22 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://getmereferred.com/in/job-listing/frontend-developer-react-js-react-native-lancesoft-middle-east-bengaluru-2-to-5-years-experience-d091f2c3-4f46-453a-a467-acb784179ccb",
+      "job_title": "Frontend Developer – React JS / React Native",
+      "description": "Job Title: Frontend Developer  React JS / React NativeLocation: Offshore  Bangalore, IndiaDuration: 3 MonthsKey ResponsibilitiesLead a frontend development squad focused on Advanced Analytics modules.Own sprint planning, task breakdown, prioritization, and delivery tracking.Develop and enhance core features of the PULSE Web application.Collaborate with other frontend squads to ensure seamless integration and consistent user experience.Conduct code reviews and ensure adherence to frontend coding standards and best practices.Optimize application performance, scalability, and maintainability.Collaborate with Backend, QA, and UX/UI Design teams to deliver analytics features.Contribute to discussions related to data visualization, user experience, and analytics interfaces.Support and integrate updates from the PaceUI shared component library.Coordinate with the AppDynamics team for frontend performance monitoring and tracking.Participate in and facilitate weekly Frontend Chapter meetings.Support the Chapter Lead with technical discussions, follow-ups, and knowledge sharing.Mentor junior developers through regular guidance, code reviews, and technical knowledge sharing.Promote consistency across the frontend chapter in coding standards, development tools, accessibility, and best practices.Required QualificationsBachelor's degree in Computer Science, Information Technology, Engineering, or a related field.Strong professional experience in frontend development using React JS.Hands-on experience with React Native for mobile application development.Experience leading or coordinating a frontend development squad/team.Strong understanding of JavaScript/TypeScript, React architecture, reusable components, and frontend development best practices.Experience with REST APIs and backend integration.Strong knowledge of HTML5, CSS3, responsive design, and modern frontend frameworks.Experience with Git, code reviews, CI/CD, and software development lifecycle practices.Knowledge of frontend performance optimization and monitoring tools, preferably AppDynamics.Experience working with component libraries/design systems, preferably similar to PaceUI.Good understanding of data visualization and analytics-oriented user interfaces.Strong problem-solving, communication, collaboration, and mentoring skills.",
+      "apply_options": [
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/frontend-developer-react-js-react-native-lancesoft-middle-east-bengaluru-2-to-5-years-experience-d091f2c3-4f46-453a-a467-acb784179ccb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/5059912514142208000?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/339657774/frontend-developer-react-next-js-react-native-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIg4oCTIFJlYWN0IEpTIC8gUmVhY3QgTmF0aXZlIiwiY29tcGFueV9uYW1lIjoiTGFuY2VTb2Z0IE1pZGRsZSBFYXN0IiwiaHRpZG9jaWQiOiI2NzRybHJ4N0RIMmg0Tnh5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwOUxNVXRaY0dkMGIxSkRielJXVm5FMVdHbEtkRmw0YUZneWNEQTNTekprVURGQ1N6bG1lRWhCYkZSV05qRlpMVGRWZERFMFdVWkVRMG8wUlVsNGVFcEJiMkp3WXpaQlVFdFVTMjlqUjJOaVgwVkJXRE52VlhSQ2FrMUpkekp4TkVRd1oyNTVhbUZFV0ROUFNETktVVVJJYm5OR1lraE1PSEExZGpjMGJWWnFjRUpUTkZjU0YwazJURWRoYzJaM1NITmxNSGRPTkZCMlNuVllkVUZSR2lKQlJITnlPV1pTY1hwNlJFVm9WekV6UVZwNWRrSTFSV3AxTW10WVRrbFVNRXRuIiwiZmN2IjoiMyIsImZjX2lkIjoiNjc0cmxyeDdESDJoNE54eUFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Frontend Developer | Fulltime | Bangalore OR Chennai | Onsite",
+      "company_name": "Two95 International Inc.",
+      "location": "Bengaluru, Karnataka",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=m5Em1gvknpk49BIJAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOPQrCQBCFsc0RrKYWSYKQQu2iRMQioLYSJnFIVjczYXejKSy8g_fyEJ7ETfN4P3zwgu8kuJyIlRjIjLAjvsKWHqSlIwMvyHqtnWrJ2xS5Ri2GID_CpiFmVL7O2SpH8Ht_4CYlWEJTNSAMO5Fa03TdONfZVRRZq8PaOnSqCitpI2EqZYg8ZEcpbIOGOo2OikUSD2HH9Sw-P2WZwN4fM-xJYdQ-VSEohpTGQ73p53DAccY7_gEPytFw0QAAAA&shmds=v1_ARwrE23FmOlruyLgRlfkEFNQNcKNMYSmn1eRQ52AUULx02TVMQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=m5Em1gvknpk49BIJAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6a221d58a7a9b523615ae/images/E4_8eg6tCODL2nXMPrZJpkC1WhD5aZqU-9PjYgyazIQ.jpeg",
+      "extensions": [
+        "22 days ago",
+        "₹22L–₹25L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.glassdoor.co.in/job-listing/senior-frontend-developer-fulltime-bangalore-or-chennai-onsite-two95-international-JV_IC2940587_KO0,62_KE63,82.htm?jl=1009971206615",
+      "job_title": "Senior Frontend Developer | Fulltime | Bangalore OR Chennai | Onsite",
+      "description": "Title: Senior Frontend Developer\n\n\nLocation: JP Nagar, Bangalore/Chennai\n\n\nDuration: Full time\n\n\nSalary: 25LPA(INR).\n\n\nExperience - 8-9+yrs\n\n\n\nRequirements\n\nThe senior front-end developer will work closely with a small team of software developers to build, maintain and document web applications. The ideal candidate is a developer who understands the industry's best practices and has experience with developing in a Microsoft environment. They are a team player who has strong communication and be able to work in a highly adaptable environment.\n\n\n\n\nPosition Description:\n\nDesign, develop and document software solutions for current internal web applicationsEnsure all new web applications function smoothly across various platforms (mobile and desktop)Optimize new and existing web applications to follow coding standardsPerform testing on new and existing features in the web applicationsSupport legacy web applicationsInteract closely with business to understand business processes and proposing technical as well as non-technical solutions for business problemsProfile and investigate application performance issues, and coordinate optimization initiativesDebug functional application issues to determine root causeWork closely with an offshore development teamWork closely with a designer to ensure user experience and usabilityWorking within a cloud environmentKeeps up to date on the newest technological innovations\n\n\n\nRequired Skills:\n\nWork experience as senior front-end developerExpert knowledge with React with TypeScriptExpert Knowledge of CSSExperience in C# and AzureExperience with SQL and NoSQL DBs (SQL & Cosmos preferred)Ability to lead technical initiativesKnowledge of agile developmentUnderstanding of security best practicesUnderstanding of application architectureExperience working with business usersExperience with code reviewsExcellent Communication skills, written and oralBachelor's of Science in Computer Science or equivalent\n\n\n\nPreferred Qualifications:\n\nUnderstand discipline of software development life cycleA strong appreciation for the importance of usability and user experience in web applicationsStrong knowledge of web application development using enterprise grade technologies and frameworks/librariesStrong familiarity with emerging presentation layer frameworks and patterns to design responsive user interfacesFamiliarity with common design pattern used in web/enterprise applicationsFamiliarity with source code control systems (Subversion, GIT)Experience using open-source automation testing frameworks/tools\n\nBenefits\n\nIf Interested please send your updated resume to:[redacted] include your rate/Salary requirement along with your contact details with a suitable time when we can reach you. If you know of anyone in your sphere of contacts, who would be a perfect match for this job then, we would appreciate if you can forward this posting to them with a copy to us.\n\n\nWe look forward to hearing from you at the earliest.",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/senior-frontend-developer-fulltime-bangalore-or-chennai-onsite-two95-international-JV_IC2940587_KO0,62_KE63,82.htm?jl=1009971206615&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/6035Qi_MsPvDQ2aIo3iFY9BDyyLTjPF8qL1WMNXBucf6vLyoXdrTpQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs By Workable",
+          "link": "https://apply.workable.com/two95-international-inc-3/j/7134EF6513?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-3003473298803157734?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8476301875598065664?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337136834/senior-frontend-developer-fulltime-bangalore-or-chennai-onsite-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRnJvbnRlbmQgRGV2ZWxvcGVyIHwgRnVsbHRpbWUgfCBCYW5nYWxvcmUgT1IgQ2hlbm5haSB8IE9uc2l0ZSIsImNvbXBhbnlfbmFtZSI6IlR3bzk1IEludGVybmF0aW9uYWwgSW5jLiIsImh0aWRvY2lkIjoibTVFbTFndmtucGs0OUJJSkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbXRyVUZGdFoxWXdRazlLWlVOb1UzRkxORTU2Vm1wdk9EaFJaQzB3WDNoemFFbHJSVTAyUjJwSVVsODRWRWhuYzBWYWIxWTJPRmhXTURoeGVsRlViazg0TW5ONGVGRlplSGxxZWpaSWFIRk1hR2hEUVhwNWFuUnJTMDlwTUZWekxYVnNhRU5NWVZGT056QTRNbWxKZW1GZlRIZGFPRnBqWW1OS1RubHlhMjlVZWpacFRtUVNGMGsyVEVkaGMyWjNTSE5sTUhkT05GQjJTblZZZFVGUkdpSkJSSE55T1daUkxTMXZNblkzYkhGMFpGQTJMVEYyUWsxNGFYUkVPV05GVmxSQiIsImZjdiI6IjMiLCJmY19pZCI6Im01RW0xZ3ZrbnBrNDlCSUpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Frontend Developer - React.js/AngularJS",
+      "company_name": "xTag Services",
+      "location": "Bengaluru, Karnataka",
+      "via": "Hirist",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=HfhuZhnpCA2T337CAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQ4BQRAA0GjvE1TTaIRdkWhoECGhc_rL3Jrs3Vkzl509udI_-Acf5kvQvO5l70G23kfhRHyFHT0oSEsRpnAmdMk0ajfsu4DxmMPn-YJGSlDC6CoQhoOIDzRcVSm1urRWNRivCVPtjJO7FaZSevtL-qfQCiO1ARMV88WsNy378ai_oIec4qN2pFAzbIk9hi52EzhhZEx4wy91_VCKqQAAAA&shmds=v1_ARwrE23gLhvsYRrivLQ8XKE1_vxjoF_PoZLeRV2eK0iblazArA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=HfhuZhnpCA2T337CAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.hirist.tech/j/frontend-developer-reactjs-angularjs-1655251",
+      "job_title": "Frontend Developer - React.js/AngularJS",
+      "description": "Job Title :  Frontend Developer (.NET | React/Angular | AWS)\n\nExperience :  4+ Years\n\nLocation :  Bangalore (Onsite)\n\nShift Timing :  12 : 00 PM to 9 AM\n\nJob Summary : \n\nWe are looking for an experienced Frontend Developer with strong full-stack development capabilities to join our team in Bangalore. The ideal candidate should have expertise in modern frontend frameworks such as React or Angular, along with hands-on experience in C#/.NET, AWS Cloud Services, and PostgreSQL. You will be responsible for building scalable, high-performance web applications while collaborating with cross-functional teams in an Agile environment.\n\nKey Responsibilities : \n\n- Develop high-quality, scalable, and maintainable frontend and backend applications based on business requirements.\n\n- Design, develop, and maintain responsive user interfaces using React or Angular.\n\n- Build and maintain RESTful APIs using C#/.NET technologies.\n\n- Develop cloud-native applications using AWS services such as Lambda, EC2, S3, AppSync, SNS, and related services.\n\n- Design, write, and optimize SQL queries and stored procedures using PostgreSQL.\n\n- Perform unit testing, integration testing, and end-to-end testing to ensure application quality.\n\n- Deploy software updates and coordinate with DevOps teams for smooth releases.\n\n- Monitor application performance and optimize systems for scalability and reliability.\n\n- Troubleshoot, identify, and resolve production issues promptly.\n\n- Participate in Agile ceremonies including sprint planning, daily stand-ups, retrospectives, and design discussions.\n\n- Collaborate with Product, QA, Infrastructure, and other stakeholders to deliver high-quality software solutions.\n\n- Maintain technical documentation including APIs, architecture, database schemas, and troubleshooting guides.\n\n- Leverage AI-powered development tools such as Cursor and Claude Code to improve development productivity.\n\n- Implement best practices for code quality, testing, and continuous improvement.\n\nRequired Technical Skills : \n\n- 4+ years of hands-on experience in frontend development using React and/or Angular.\n\n- Strong experience in C#/.NET development and object-oriented programming.\n\n- Experience in designing and developing RESTful APIs.\n\n- Solid knowledge of PostgreSQL, SQL optimization, and relational database concepts.\n\n- Hands-on experience with AWS cloud services including EC2, Lambda, S3, AppSync, SNS, and related technologies.\n\n- Familiarity with GitHub, GitLab, and version control best practices.\n\n- Experience working in Agile/Scrum development environments.\n\nQualifications : \n\n- Bachelor's degree in Computer Science, Engineering, Information Technology, or a related field (or equivalent practical experience).\n\n- Strong analytical and problem-solving abilities.\n\n- Excellent communication and collaboration skills.\n\n- Ability to work effectively in a fast-paced, onsite development environment.\n\nPreferred Skills : \n\n- Experience building cloud-native and microservices-based applications.\n\n- Knowledge of CI/CD pipelines and DevOps practices.\n\n- Exposure to AI-assisted development tools such as Cursor and Claude Code.\n\n- Experience with automated testing frameworks and software quality best practices.\n\nIf you are passionate about building modern, scalable applications using the latest technologies and enjoy working in a collaborative Agile environment, we'd love to hear from you.",
+      "apply_options": [
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/frontend-developer-reactjs-angularjs-1655251?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/6366624533302886293?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ResumeKart",
+          "link": "https://www.resumekart.com/jobs/cmuujcy9t6b97cc16ffa64987?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIgLSBSZWFjdC5qcy9Bbmd1bGFySlMiLCJjb21wYW55X25hbWUiOiJ4VGFnIFNlcnZpY2VzIiwiaHRpZG9jaWQiOiJIZmh1WmhucENBMlQzMzdDQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXeEpkR014ZGxOQ2JVVndNSE5TT1VweFNWcEplRGRhWDBkWFQyMUZUM0pLYkRObVJuZFRNM1psZFRSeGR6Uk1MVVpLWjFCWmJuZHZSRGRDZVhoVWQzRm1lVlp5VG1KRVZEaDJMWGxRY0hoVGQzUkVUbGhLYUhSWFN5MXFZbmcyZFU1clRtUTVjMWhyVDBKMVJuQkZaa3AxTW5wT1QwNWpSbk5IYzA1ME5YTlZaR2xvY1RRU0YwazJURWRoYzJaM1NITmxNSGRPTkZCMlNuVllkVUZSR2lKQlJITnlPV1pUZEZFd00zUmthMngxTW1kblFWZHFkM0ZuWldoSGJGazFabkIzIiwiZmN2IjoiMyIsImZjX2lkIjoiSGZodVpobnBDQTJUMzM3Q0FBQUFBQT09In0="
+    },
+    {
+      "title": "Front end ( React Native Developer)",
+      "company_name": "RockED",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=O1PBkYvK7OVIeylpAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBAAQGzzBAvZUkUSEWzUSqIWgkU-EDbncok5d4-7TUjpHyz9nS8xNtNN8pkkh3MQViC-wxwKQqNwQ216gpx6cuIpLOD7esNDKoiEwdQgDBcR62i6r1V93GVZjC61UcdpUiPPTJgqGbIxxT9lrDGQd6hUbrbrIfVsl7NCTHvKoWE4Elt0XehWcMXAqNjiD51oa3WeAAAA&shmds=v1_ARwrE22j6VTDe4JFyFB09bWN2GHbJrt2yE96094H-62T_ZyHag&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=O1PBkYvK7OVIeylpAAAAAA%3D%3D",
+      "extensions": [
+        "22 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/front-end-react-native-developer/rocked/19557515",
+      "job_title": "Front end ( React Native Developer)",
+      "description": "Position: Front-end developer ( Mobile App)\n\nLocation: Bangalore\n\nAbout us\n\nRockED is a fast-growing EdTech company building a microlearning platform that delivers byte-sized, engaging content to learners on their mobile devices. Headquartered in Florida, with our R&D team based in Bangalore, we are focused on creating intuitive, learner-first experiences through thoughtful design and strong engineering.\n\nYour Impact\n\nWe are looking for a skilled Frontend Developer to join our Engineering team in Bangalore. Youll be responsible for building high-quality, scalable, and user-friendly interfaces for our mobile-first platform using JavaScript and React Native.\n\nDevelop and maintain scalable, high-performance frontend applications using JavaScript and React NativeTranslate product requirements and UI/UX designs into clean, efficient, and reusable codeCollaborate closely with product managers, designers, and backend engineersOptimize applications for performance, reliability, and responsivenessWrite well-structured, testable, and maintainable codeParticipate in code reviews and contribute to engineering best practicesStay updated with evolving AI technologies and encourage the team to leverage AI tools effectively to improve development efficiency and innovation.\n\nWhat skills do you need\n\nHands-on experience in frontend mobile application developmentStrong proficiency in JavaScript and React NativeExperience building and shipping mobile applications (Android/iOS)Solid understanding of frontend architecture, performance optimization, and state managementFamiliarity with REST APIs and integration with backend servicesExperience working in an Agile/Scrum development environmentAbility to think strategically when designing systemsnot just how to build, but why\n\nWhy choose a career at RockED\n\nBuild from Day One: Work in small, fast-moving teams solving real problems and buildingproducts from the ground up.Learn from Industry Leaders: Collaborate directly with leaders whove held senior roles at globalCompanies like Adobe, Microsoft, Walmart, and more.AI Expoure: We encourage engineers to leverage AI tools and emerging technologies to improveproductivity, experimentation, and innovation.Global Exposure: Be part of a diverse, high-calibre team working closely across the US and India.People-First Benefits: Health insurance coverage for you and your familyfully sponsored by RockED. Position: Front-end developer ( Mobile App)\n\nLocation: Bangalore\n\nAbout us\n\nRockED is a fast-growing EdTech company building a microlearning platform that delivers byte-sized, engaging content to learners on their mobile devices. Headquartered in Florida, with our R&D team based in Bangalore, we are focused on creating intuitive, learner-first experiences through thoughtful design and strong engineering.\n\nYour Impact\n\nWe are looking for a skilled Frontend Developer to join our Engineering team in Bangalore. Youll be responsible for building high-quality, scalable, and user-friendly interfaces for our mobile-first platform using JavaScript and React Native.\n\nDevelop and maintain scalable, high-performance frontend applications using JavaScript and React NativeTranslate product requirements and UI/UX designs into clean, efficient, and reusable codeCollaborate closely with product managers, designers, and backend engineersOptimize applications for performance, reliability, and responsivenessWrite well-structured, testable, and maintainable codeParticipate in code reviews and contribute to engineering best practicesStay updated with evolving AI technologies and encourage the team to leverage AI tools effectively to improve development efficiency and innovation.\n\nWhat skills do you need\n\nHands-on experience in frontend mobile application developmentStrong proficiency in JavaScript and React NativeExperience building and shipping mobile applications (Android/iOS)Solid understanding of frontend architecture, performance optimization, and state managementFamiliarity with REST APIs and integration with backend servicesExperience working in an Agile/Scrum development environmentAbility to think strategically when designing systemsnot just how to build, but why\n\nWhy choose a career at RockED\n\nBuild from Day One: Work in small, fast-moving teams solving real problems and buildingproducts from the ground up.Learn from Industry Leaders: Collaborate directly with leaders whove held senior roles at globalCompanies like Adobe, Microsoft, Walmart, and more.AI Expoure: We encourage engineers to leverage AI tools and emerging technologies to improveproductivity, experimentation, and innovation.Global Exposure: Be part of a diverse, high-calibre team working closely across the US and India.People-First Benefits: Health insurance coverage for you and your familyfully sponsored by RockED. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/front-end-react-native-developer/rocked/19557515?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olibr",
+          "link": "https://olibr.com/jobs/front-end-react-native-developer-rocked-b29gr?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udCBlbmQgKCBSZWFjdCBOYXRpdmUgRGV2ZWxvcGVyKSIsImNvbXBhbnlfbmFtZSI6IlJvY2tFRCIsImh0aWRvY2lkIjoiTzFQQmtZdks3T1ZJZXlscEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVEF4VjBsWWJubFZlbkZETkZGS1IzRlZWbXBTTFdWS1MxZGlTMG8xTTBOcFZVdHVXVVJTWmpSNmVIQm1ObFJpVHpSVmJsaHFhR1p4VTFwMVZqTm5kbTU0Um05SWVVbFFZakl4UjIxMlpuVjFZVTFxWW5sa01YcFBORGR0ZGtWV1dVcHlWR3B6TkROM09UTjJkVlZDZVdzeE1tUXpaM2hsVWtwUWJFaHdXRkpIYmpGR1RYb1NGMGsyVEVkaGMyWjNTSE5sTUhkT05GQjJTblZZZFVGUkdpSkJSSE55T1daVFgwMU5aSEpaVkVkTWJubEdVbW80Tm5CWVprWkxVRVJJU1d4QiIsImZjdiI6IjMiLCJmY19pZCI6Ik8xUEJrWXZLN09WSWV5bHBBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Front-end Developer-React",
+      "company_name": "Thompsons HR Consulting Pvt Ltd",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer&htidocid=NdxOE8m3HfU2DQW6AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWw9gtXUookERNBORQUtJNiHMRk20XVm2ZmElN7BW3gsT6I2_1V_-B4Ms10UtilxBVvqyEugOM0JS4PP8wU3uYISxrIGYdiLOE-jVW0WdJmmqj5xamhNmZTySIXpKn36m_SfQmuMFDwaFdl81ieB3XhxqeURVFjhkMPmZ-utYQfnzuBkFTQMa2KHvo3tBI4YGQ3v-AU2W9rirQAAAA&shmds=v1_ARwrE22yEEvxhMbOWPsOH3et35aEJoYlPnpnhIZGYpBGfoECDA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer&htidocid=NdxOE8m3HfU2DQW6AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac6a221d58a7a9b523615ae/images/AeHFhU8TXsuyJ94rGvdLTeP9mRFNvOpq9kfp1LN6deA.jpeg",
+      "extensions": [
+        "₹12–₹20 a year",
+        "Contractor"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/front-end-developer-react-at-thompsons-hr-consulting-pvt-ltd-4456491797",
+      "job_title": "Front-end Developer-React",
+      "description": "Responsibilities\n\nBuild and maintain web applications using React and JavaScript or TypeScript.\n\nDevelop reusable components, page layouts, forms, and data visualisation interfaces.\n\nIntegrate REST APIs and handle loading, error, authentication, and empty states.\n\nManage client-side state and application data using suitable state management patterns.\n\nWrite unit, integration, and component tests, and fix defects found during testing.\n\nWork with UI/UX designers to implement responsive and accessible experiences.\n\nParticipate in code reviews, technical discussions, and CI/CD-based delivery workflows.\n\nWhat you ll bring\n\n3 5 years of professional frontend development experience.\n\nStrong experience with React, JavaScript, TypeScript, HTML, and CSS.\n\nExperience integrating REST APIs and handling asynchronous application flows.\n\nWorking knowledge of state management, component design, routing, and browser fundamentals.\n\nHands-on experience with testing tools such as Jest, React Testing Library, Cypress, or Playwright.\n\nComfort working with Git, code reviews, and Agile delivery teams. Good to have Experience with dashboard or analytics interfaces.\n\nExposure to accessibility standards, performance profiling, and design systems.\n\nRole details",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/front-end-developer-react-at-thompsons-hr-consulting-pvt-ltd-4456491797?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/front-end-developer-react-thompsons-hr-consulting-pvt-ltd-bengaluru-karnataka--t7xk-813941132?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/front-end-developer-react--bengaluru--ef646a5dc94a72bebaf026368dff68647?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udC1lbmQgRGV2ZWxvcGVyLVJlYWN0IiwiY29tcGFueV9uYW1lIjoiVGhvbXBzb25zIEhSIENvbnN1bHRpbmcgUHZ0IEx0ZCIsImh0aWRvY2lkIjoiTmR4T0U4bTNIZlUyRFFXNkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbVJJTFdOTFYxTmxPVUU1WkY5VWJHNVZNazF3ZVZjNFRHUkRiMGszVDA4NGQwcGtUaTFoZEhGRVIycDRlbUkyUTIxNk1IaDBhVU10TjJKaldXSnpNRXhqWDFGVVExUjJWWGt0UTJSd2MzWlZUVVI1UjAxNVJGbExYMEl6Y1VGVVNUTm9WRFl6WldkbVgxbGlkWFp1U1MxRFdIcDVjekphT0ZBd1dVUkZhbUpGYzB4d2Vua1NGMGsyVEVkaGMyWjNTSE5sTUhkT05GQjJTblZZZFVGUkdpSkJSSE55T1daVVIxSTJOSFZKTW01NVlYUjFRVU5uT1ZWbFNIZzJlVzFSYTNWQiIsImZjdiI6IjMiLCJmY19pZCI6Ik5keE9FOG0zSGZVMkRRVzZBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTVXBqVkRKUlIwYzRXV2hqVlhKc2JUSTFaRlYwVWxsd1JsTjZkM0EzVlcxR1kxWklSMTlGTnpaMWEyTnBNemxTVW5SQk9HOUNRMnRtVkRVMVduTnphWFpMVTFGamRIUkRVSE0zVTJSNFIwWTJaWGRDTkVRNFUybFlURWxIYmpSdU1qbDFRa2RpZWsxb1QzSjBSRXhrZEdoRmFrNVhZWFF6TmtzMFlXaHVUVWRvTUV3MmJGSnVjVmxpWTAxMVVsZEZkbFprY1daT2NWVjBlV1l3UVU5NlRtRjBUMnB5TTBWbVMyRjJYMHhmYkZKVFgwMDRTbEJ4UmtsMlQxcGFiREJDWjFkcVZWSnVRVU5UYVhKQlNWOTZVRE5tZEdkSlpEa3RUemhmWlZSWlFpMTNXRk53VW5wVFJYVnNjRFptVEVaTU9GcDFTV1ZLY2pKRWJrSmZWVXgyVkRBemNFSnRjMnBXY1haM1EwWjBNVk56WlRKMFgycEpWWEpmZFRoTk1tOVpkM1ozZVVsQ01uVkRMVjlwWTNSdFJHMUNRbXhKWWpsd2RUTmxUM1JOZWtJeGFVdHBjRll3YkMxUlRUaHNTa2czVldwaFRXOVFTbmxPWnpGMVdVUktZMVYxVXpkS1QyUlJTamgyTFdkSE5FRmFOWE5SV2xKT05sTkxTRk10ZGs1NFRWVnpRM2xLTFVZeFFXODFPV1ozZFZVeWFXSnpRMmN5TUhwbU9XNTVXWHBaTkhkSWIyZHVWV2xMTkhWNFZHbElUbnBaTVdRNFJsOXBhemxNTjFWWlpEY3pWbU5uVURCSGRsQnZTelpJZVV4aE1WbzNVbFZVTjBwUlUwRVNGMGsyVEVkaGMyWjNTSE5sTUhkT05GQjJTblZZZFVGUkdpSkJSSE55T1daVFRsOXRaWFJCU201R2VXRTViakJoZGpVNVpVcDJVMGt5TVVKMyIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTVXBqVkRKUlIwYzRXV2hqVlhKc2JUSTFaRlYwVWxsd1JsTjZkM0EzVlcxR1kxWklSMTlGTnpaMWEyTnBNemxTVW5SQk9HOUNRMnRtVkRVMVduTnphWFpMVTFGamRIUkRVSE0zVTJSNFIwWTJaWGRDTkVRNFUybFlURWxIYmpSdU1qbDFRa2RpZWsxb1QzSjBSRXhrZEdoRmFrNVhZWFF6TmtzMFlXaHVUVWRvTUV3MmJGSnVjVmxpWTAxMVVsZEZkbFprY1daT2NWVjBlV1l3UVU5NlRtRjBUMnB5TTBWbVMyRjJYMHhmYkZKVFgwMDRTbEJ4UmtsMlQxcGFiREJDWjFkcVZWSnVRVU5UYVhKQlNWOTZVRE5tZEdkSlpEa3RUemhmWlZSWlFpMTNXRk53VW5wVFJYVnNjRFptVEVaTU9GcDFTV1ZLY2pKRWJrSmZWVXgyVkRBemNFSnRjMnBXY1haM1EwWjBNVk56WlRKMFgycEpWWEpmZFRoTk1tOVpkM1ozZVVsQ01uVkRMVjlwWTNSdFJHMUNRbXhKWWpsd2RUTmxUM1JOZWtJeGFVdHBjRll3YkMxUlRUaHNTa2czVldwaFRXOVFTbmxPWnpGMVdVUktZMVYxVXpkS1QyUlJTamgyTFdkSE5FRmFOWE5SV2xKT05sTkxTRk10ZGs1NFRWVnpRM2xLTFVZeFFXODFPV1ozZFZVeWFXSnpRMmN5TUhwbU9XNTVXWHBaTkhkSWIyZHVWV2xMTkhWNFZHbElUbnBaTVdRNFJsOXBhemxNTjFWWlpEY3pWbU5uVURCSGRsQnZTelpJZVV4aE1WbzNVbFZVTjBwUlUwRVNGMGsyVEVkaGMyWjNTSE5sTUhkT05GQjJTblZZZFVGUkdpSkJSSE55T1daVFRsOXRaWFJCU201R2VXRTViakJoZGpVNVpVcDJVMGt5TVVKMyIsImZjdiI6IjMifQ%3D%3D&q=Frontend+Developer"
+  }
+}

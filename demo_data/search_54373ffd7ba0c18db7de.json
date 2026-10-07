@@ -1,0 +1,766 @@
+{
+  "search_metadata": {
+    "id": "6ac6a05b5922f4931a4a1de2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/R9jXJos6vWveEIXHq0Of7L5RcOs1qZXFuIY_LDJLWQU/6ac6a05b5922f4931a4a1de2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/R9jXJos6vWveEIXHq0Of7L5RcOs1qZXFuIY_LDJLWQU/6ac6a05b5922f4931a4a1de2.md",
+    "created_at": "2026-10-07 19:41:15 UTC",
+    "processed_at": "2026-10-07 19:41:15 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Data+Analysis+full+course+for+beginners&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/R9jXJos6vWveEIXHq0Of7L5RcOs1qZXFuIY_LDJLWQU/6ac6a05b5922f4931a4a1de2.html",
+    "total_time_taken": 2.98
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Data Analysis full course for beginners",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 11089688,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Identify, refine, and deploy visual workflows",
+      "link": "https://www.youtube.com/watch?v=3lbxtSSeayQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3lbxtSSeayQ",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CGQ81XKDGatCtGuWzy78P7NTDsASq2Z6IigH4o8Pi_RVkEAEgAGDJ5qaN7KSAEIIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHEyKCvAqgDBMgDCqoEwAJP0GawWJN7gUXNSwgmB8gu1AOrgPagUNYLk0Kr6obOzJat2jmOSOMj6sd2vg3hxHtxLYXGIm4F-13pHcUxSdZQN3RyD0SoZuEI2wQDok48aYe3DAc602S0qlggXyH5h61rx7UBLV-7Sn9c9fY3YxTW8vx9Z17U0oR81kBWh3SeJjZ98QDTuYsizbKn-rxtvZk3SNbizLgAaL-vlR1TjxZur-xCIhRA6zR02fuyX6ce-2ppDZZCTJd_njcrQCJUIXceDWJy2DGQkTaJfKTFrDHQbE-CxtW3IiQNAaAcpCMQipOnyf2GEj2yc_dklk1nev6KqwAZ_AxkbOngeoFBqzf3QpFjquVMlO9GVT8sQF8ZuT8rJZ7JZS7Vqo3m213zWbloizohND84Q8qs-43r4hARas83PYGzA-PafkBN5oKc04gFqr_491mSBQgIE3jshL7vAaAGoQGAB6S339ABkAcEqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLM2xieHRTU2VheVGoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiolqnj1KiXA2ABmgksaHR0cHM6Ly93d3cucHJvcGhlY3kuYWkvcHJvZmVzc2lvbmFsLWVkaXRpb26xCVN5cknRJ2aOyAkXyAmPAcgJwgHICZcCmAsBugtBCAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAgW6Awl2aWNiZnphY2HQCxLSDAIQAdoMJgoLEMC6oPSj4ZaM1wESAgEDGg0Yqr_491kgxLW41ewFQAFKAhAfmg0BEqoNAlVTyA0B0g3NAmh0dHBzOi8vd3d3LnByb3BoZWN5LmFpL3Byb2Zlc3Npb25hbC1lZGl0aW9uP3V0bV90ZXJtPSZ1dG1fY2FtcGFpZ249eW91dHViZSZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBhaWRtZWRpYSZ1dG1faWQ9MjQxNDIyOTA4NTgmdXRtX2NvbnRlbnQ9c2lnbl91cCZoc2FfYWNjPTYzNTQ5NDYxOTQmaHNhX2NhbT0yNDE0MjI5MDg1OCZoc2FfZ3JwPTIwMDk2ODkwMzM2NCZoc2FfYWQ9ODI2MzgwMTE3MzIwJmhzYV9zcmM9JmhzYV90Z3Q9JmhzYV9rdz0maHNhX210PSZoc2FfbmV0PWFkd29yZHMmaHNhX3Zlcj0zJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDE0MjI5MDg1OLgT____________AbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRfDUdqDEc_WdLoXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI0Mup49SolwMV5dnyAR1s6hBGEAEYASAAEgKjnvD_BwE&num=1&cid=CAASwwHkaDWafuQgfXQpCJ-LlBS0RXBwS-jIOVduBZIpSn-Vtm2s1hcPX_A6qJUDXcyq6AQzxtdhwnbyrc77OG0hgsNZkLImsH99ryiueiwoY5v3LH7Xbqtx4P1DMZWjI2iM02tWVxsO9o6g1vr-f1hwC6LepvYQOQ8mhus0WlN_jpN5Y6tRsKRST3RK9m0-VlyfFICpHDvzeoOxb39CIfCRa3ZwDXruoj5Wo3x1XeDcbyu_JLkmJESHrGFZfweEdvBTpy2_teo&ad_cpn=%5BCPN%5D&sig=AOD64_2EaU8RDR84x-AaxhwQn7SWRUeFhA&ctype=110&video_id=3lbxtSSeayQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Prophecy.ai",
+        "thumbnail": "https://yt3.ggpht.com/proxy/VPbP89RBJ1nMrydKv5R5iNnw6k8OR25Ai3WdCqkgihqsG1uCpRgVoiupHv5uCC6d_FWnkqfl17lXChm3PpYjcW3hS6Sm7elpzgf9tQSrUiJcPNV6fxRZQv4OALjJZW-CrkpSouN6Pml_04HbrDcpg9DWIdC_7-oWpDxanz055zIDtjpLarntKf61oeDTkcY--AVcxANW5fQEMXkMUxh-7yr7EmdV08mmzUAGTCcqKFWoU4ODD4G3Kg2qZN51tehJYnEl=w68-h68-nd"
+      },
+      "description": "Turn raw data into trusted insights with governed AI workflows. Start free.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3lbxtSSeayQ/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADy1wOMymsPTbP8tsZr9PoXneAhw"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Data Analytics Certificate - Taught by Google Data Experts - Learn SQL for Data Analytics",
+      "website": "https://www.google.com/aclk?sa=L&ai=DChsSEwivpe3j1KiXAxU6LdQBHYXFIpcYACICCAEQCRoCb2E&co=1&ase=2&gclid=EAIaIQobChMIr6Xt49SolwMVOi3UAR2FxSKXEAEYASAAEgKeM_D_BwE&num=1&cid=CAAS0wHkaK0m184mh4CWCKrFKjsHGZBagmM18ouOlpVZFtNgvaJIMWdUeyXeS7N9p7R-2fpnNbNlRi9BMoHDINVHcyljuawGufSMacMmawpubM28Q_zxHViL7SvYB4HW5S10nK-lVIOZXGCPG5B0CTFFZz6-z2oslQ1ZMBgi7IdP2Qg1qtk6N5S7faeCFGktHlEg8e7DXq6tI9_I8Y9Zr3prqjYADydmjKMIeMlktJBcpCW9I4q_Qy9f5dkEljGbxQWcGQEl7kfdSI3Dy7QJq22UCZqPVs9L&cce=2&category=acrcp_v1_32&sig=AOD64_026OFwgfd_1pTkR9UMComZ2b4qXg&adurl=https://grow.google/enroll-certificates/data-analytics-mid/%3Futm_source%3Dgoogle%26utm_medium%3Dpaidsearch%26utm_campaign%3Dha-sem-sk-bro-data__geo--US%26utm_term%3Ddata%2520analyst%2520certification%26utm_content%3DRSA-DR-1-MMT-511%26gwg_campaign_id%3D24280462076%26gwg_campaign_id%3D24280462076%26gwg_adgroup_id%3D201352498518%26gwg_creative%3D825794099738%26gad_source%3D2%26gad_campaignid%3D24280462076&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=2",
+      "channel": {
+        "name": "https://www.grow.google/",
+        "thumbnail": "https://tpc.googlesyndication.com/simgad/17198761655737801623"
+      },
+      "description": "Learn in-demand data analytics skills taught by Google experts, all on your own schedule. Start your new career with a Google...",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/17198761655737801623"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Data Analysis from Zero to Hero - Become a data analyst - Learn Data Analysis from Zero",
+      "website": "https://www.google.com/aclk?sa=L&ai=DChsSEwivpe3j1KiXAxU6LdQBHYXFIpcYACICCAEQBxoCb2E&co=1&ase=2&gclid=EAIaIQobChMIr6Xt49SolwMVOi3UAR2FxSKXEAEYAiAAEgLExPD_BwE&num=2&cid=CAAS0wHkaK0m184mh4CWCKrFKjsHGZBagmM18ouOlpVZFtNgvaJIMWdUeyXeS7N9p7R-2fpnNbNlRi9BMoHDINVHcyljuawGufSMacMmawpubM28Q_zxHViL7SvYB4HW5S10nK-lVIOZXGCPG5B0CTFFZz6-z2oslQ1ZMBgi7IdP2Qg1qtk6N5S7faeCFGktHlEg8e7DXq6tI9_I8Y9Zr3prqjYADydmjKMIeMlktJBcpCW9I4q_Qy9f5dkEljGbxQWcGQEl7kfdSI3Dy7QJq22UCZqPVs9L&cce=2&category=acrcp_v1_32&sig=AOD64_0Ek3rsBRpsiU7L-N5H9_BM3ZudtQ&adurl=https://www.udemy.com/course/introduction-to-data-analysis-from-zero-to-hero/%3Futm_campaign%3DSearch_Keyword_Alpha_Prof_la.EN_cc.US%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26portfolio%3DUSA%26utm_audience%3Dmx%26utm_tactic%3Dnb%26utm_term%3D_._ag_156673482421_._ad_693463829996_._kw_data%2520course%26utm_content%3Ds%26funnel%3D%26test%3D%26campaignid%3D21096554123%26adgroupid%3D156673482421%26device%3Dc%26keyword%3Ddata%2520course%26matchtype%3Db%26network%3Ds%26devicemodel%3D%26creativeid%3D693463829996%26assetgroupid%3D%26targetid%3Dkwd-29747056%26extensionid%3D%26placement%3D%26gad_source%3D2%26gad_campaignid%3D21096554123&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=2",
+      "channel": {
+        "name": "https://www.udemy.com/",
+        "thumbnail": "https://tpc.googlesyndication.com/simgad/2537124760469496478"
+      },
+      "description": "Start your journey in the field of Data Analysis and learn about what you need to become a data analyst. Start Learning Today.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/2537124760469496478"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Data Analyst Bachelor Degree - Become a Data Analyst Online - 100% Online - Apply Free",
+      "website": "https://www.google.com/aclk?sa=L&ai=DChsSEwivpe3j1KiXAxU6LdQBHYXFIpcYACICCAEQCxoCb2E&co=1&ase=2&gclid=EAIaIQobChMIr6Xt49SolwMVOi3UAR2FxSKXEAEYBCAAEgKCovD_BwE&num=4&cid=CAAS0wHkaK0m184mh4CWCKrFKjsHGZBagmM18ouOlpVZFtNgvaJIMWdUeyXeS7N9p7R-2fpnNbNlRi9BMoHDINVHcyljuawGufSMacMmawpubM28Q_zxHViL7SvYB4HW5S10nK-lVIOZXGCPG5B0CTFFZz6-z2oslQ1ZMBgi7IdP2Qg1qtk6N5S7faeCFGktHlEg8e7DXq6tI9_I8Y9Zr3prqjYADydmjKMIeMlktJBcpCW9I4q_Qy9f5dkEljGbxQWcGQEl7kfdSI3Dy7QJq22UCZqPVs9L&cce=2&category=acrcp_v1_32&sig=AOD64_0W6-CE8XMq3mcjc2CbO88WOOykIw&adurl=https://www.wgu.edu/lp/it/lead/bsda.html%3Frefer_id%3D2026612%26ch%3DPDSRCH%26gad_source%3D2%26gad_campaignid%3D10111335316&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=2",
+      "channel": {
+        "name": "https://www.wgu.edu/become_a/data_analyst",
+        "thumbnail": "https://tpc.googlesyndication.com/simgad/5019898331027565723"
+      },
+      "description": "Earn Your B.S. in Data Analytics from WGU and Impact the Data that Moves the World Forward",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/5019898331027565723"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 2,
+      "title": "Data Analyst Bootcamp",
+      "link": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst"
+      },
+      "videos": [
+        {
+          "title": "FREE Data Analyst Bootcamp!!",
+          "length": "6:52",
+          "link": "https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF"
+        },
+        {
+          "title": "How to Become a Data Analyst in 2023 (Completely FREE!)",
+          "length": "13:59",
+          "link": "https://www.youtube.com/watch?v=CUBfrdDwznQ&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF"
+        }
+      ],
+      "video_count": 84,
+      "thumbnail": "https://i.ytimg.com/vi/rGx1QNdYzvs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCC7_YwlV9CBCUAW9N51mnxzoYhhw"
+    },
+    {
+      "position_on_page": 3,
+      "title": "🔥Data Analytics | Data Analytics Full Course For Beginners | Data Analytics Projects | Updated Data Analytics Playlist 2026 | Simplilearn",
+      "link": "https://www.youtube.com/playlist?list=PLEiEAq2VkUUKgEFXH1tBbHwq38oWYDScU",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial"
+      },
+      "videos": [
+        {
+          "title": "Data Analytics For Beginners | Introduction To Data Analytics | Data Analytics Using R | Simplilearn",
+          "length": "51:24",
+          "link": "https://www.youtube.com/watch?v=zwasdVPPFFw&list=PLEiEAq2VkUUKgEFXH1tBbHwq38oWYDScU"
+        },
+        {
+          "title": "Data Analytics Full Course In 5 Hours | Data Analytics For Beginners | Data Analytics | Simplilearn",
+          "length": "4:19:41",
+          "link": "https://www.youtube.com/watch?v=oQmxQh92Nh8&list=PLEiEAq2VkUUKgEFXH1tBbHwq38oWYDScU"
+        }
+      ],
+      "video_count": 136,
+      "thumbnail": "https://i.ytimg.com/vi/zwasdVPPFFw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBYO4detQTZUjVkLyfCQe2XEZpuMA"
+    },
+    {
+      "position_on_page": 5,
+      "title": "Data Analytics with Projects Full Free Course  (New Updated) by WsCube Tech",
+      "link": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGdRs1sGqRrTE-EMraLclJga",
+      "channel": {
+        "name": "WsCube Tech",
+        "link": "https://www.youtube.com/@wscubetech"
+      },
+      "videos": [
+        {
+          "title": "Data Analytics FULL Course for Beginners to Pro in 29 HOURS - 2025 Edition",
+          "length": "29:13:47",
+          "link": "https://www.youtube.com/watch?v=VaSjiJMrq24&list=PLjVLYmrlmjGdRs1sGqRrTE-EMraLclJga"
+        },
+        {
+          "title": "Complete Data Analytics Portfolio Project with Python and SQL in 2 Hours | 2026 Guide",
+          "length": "2:16:00",
+          "link": "https://www.youtube.com/watch?v=hK-qUy3UfT8&list=PLjVLYmrlmjGdRs1sGqRrTE-EMraLclJga"
+        }
+      ],
+      "video_count": 100,
+      "thumbnail": "https://i.ytimg.com/vi/VaSjiJMrq24/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB_49TytFLT6vrpbG8XgVbDTwzDJg"
+    },
+    {
+      "position_on_page": 10,
+      "title": "Data Analyst Bootcamp: Zero to Hero",
+      "link": "https://www.youtube.com/playlist?list=PL_CkpxkuPiT-RJ7zBfHVWwgltEWIVwrwb",
+      "channel": {
+        "name": "Luke Barousse",
+        "link": "https://www.youtube.com/@LukeBarousse"
+      },
+      "videos": [
+        {
+          "title": "How I Would Learn to be a Data Analyst",
+          "length": "14:11",
+          "link": "https://www.youtube.com/watch?v=TFFzNjWkhDk&list=PL_CkpxkuPiT-RJ7zBfHVWwgltEWIVwrwb"
+        },
+        {
+          "title": "SQL for Data Analytics - Learn SQL in 4 Hours",
+          "length": "4:08:41",
+          "link": "https://www.youtube.com/watch?v=7mz73uXD9DA&list=PL_CkpxkuPiT-RJ7zBfHVWwgltEWIVwrwb"
+        }
+      ],
+      "video_count": 7,
+      "thumbnail": "https://i.ytimg.com/vi/TFFzNjWkhDk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDyMOJ5g4Ow5KafOpCukh2eIar_1Q"
+    },
+    {
+      "position_on_page": 12,
+      "title": "FREE Data Analyst Course",
+      "link": "https://www.youtube.com/playlist?list=PLmejDGrsgFyCD25L2XEKESQEw8smsY6WO",
+      "channel": {
+        "name": "Chandoo",
+        "link": "https://www.youtube.com/@chandoo_"
+      },
+      "videos": [
+        {
+          "title": "Introducing Free Data Analyst Course - SQL / Excel / Power BI / Python",
+          "length": "2:51",
+          "link": "https://www.youtube.com/watch?v=K_1aVbAH98Y&list=PLmejDGrsgFyCD25L2XEKESQEw8smsY6WO"
+        },
+        {
+          "title": "Learn SQL + Database Concepts in 20 Minutes",
+          "length": "24:34",
+          "link": "https://www.youtube.com/watch?v=Iceaqdy7mEs&list=PLmejDGrsgFyCD25L2XEKESQEw8smsY6WO"
+        }
+      ],
+      "video_count": 18,
+      "thumbnail": "https://i.ytimg.com/vi/K_1aVbAH98Y/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYXCBlKFIwDw==&rs=AOn4CLCbe6f3TjgndbuIHjV_Mk1Mt5SDig"
+    },
+    {
+      "position_on_page": 14,
+      "title": "Excel Data Analysis Full Course",
+      "link": "https://www.youtube.com/playlist?list=PLoyECfvEFOjZNdBAHDlVlR242FifiYGjl",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "link": "https://www.youtube.com/@learnskillsdaily"
+      },
+      "videos": [
+        {
+          "title": "Excel Intro to Data Analysis Tutorial",
+          "length": "1:22:57",
+          "link": "https://www.youtube.com/watch?v=YE1HBEY2upg&list=PLoyECfvEFOjZNdBAHDlVlR242FifiYGjl"
+        },
+        {
+          "title": "Excel Power User Tutorial",
+          "length": "2:30:28",
+          "link": "https://www.youtube.com/watch?v=x98qOYt_NCQ&list=PLoyECfvEFOjZNdBAHDlVlR242FifiYGjl"
+        }
+      ],
+      "video_count": 4,
+      "thumbnail": "https://i.ytimg.com/vi/YE1HBEY2upg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBHhv3IGgE0VYl8DMPvW3nEo6DHyA"
+    },
+    {
+      "position_on_page": 15,
+      "title": "Google Data Analytics Certificate",
+      "link": "https://www.youtube.com/playlist?list=PLTZYG7bZ1u6rcPlcX75pMkjsYY_HTL7aZ",
+      "channel": {
+        "name": "Grow with Google",
+        "link": "https://www.youtube.com/@growwithgoogle"
+      },
+      "videos": [
+        {
+          "title": "Data Analytics for Beginners | Google Data Analytics Certificate",
+          "length": "17:48",
+          "link": "https://www.youtube.com/watch?v=GbL-42kv5LI&list=PLTZYG7bZ1u6rcPlcX75pMkjsYY_HTL7aZ"
+        },
+        {
+          "title": "Intro to Data Visualization with R & ggplot2 | Google Data Analytics Certificate",
+          "length": "50:35",
+          "link": "https://www.youtube.com/watch?v=ZPw0dmGuyyE&list=PLTZYG7bZ1u6rcPlcX75pMkjsYY_HTL7aZ"
+        }
+      ],
+      "video_count": 46,
+      "thumbnail": "https://i.ytimg.com/vi/GbL-42kv5LI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBMhKjTiu6s1moAGvJ4zy1xs1SguQ"
+    },
+    {
+      "position_on_page": 16,
+      "title": "Google Data Analytics Professional Certificate Complete Courses",
+      "link": "https://www.youtube.com/playlist?list=PLtS8Ubq2bIlVN4Zom0O-6rBysJs3wns60",
+      "channel": {
+        "name": "My Lesson",
+        "link": "https://www.youtube.com/@MyLesson007"
+      },
+      "videos": [
+        {
+          "title": "Data Analytics Tutorial For Beginners Complete Course | Foundations: Data, Data, Everywhere, Google",
+          "length": "2:35:41",
+          "link": "https://www.youtube.com/watch?v=vqZ1C2elmac&list=PLtS8Ubq2bIlVN4Zom0O-6rBysJs3wns60"
+        },
+        {
+          "title": "Ask Questions to Make Data-Driven Decisions Complete Course | Data Analytics",
+          "length": "2:28:42",
+          "link": "https://www.youtube.com/watch?v=sN-bTkkl0o8&list=PLtS8Ubq2bIlVN4Zom0O-6rBysJs3wns60"
+        }
+      ],
+      "video_count": 8,
+      "thumbnail": "https://i.ytimg.com/vi/vqZ1C2elmac/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdEZnNHOVNg5wAYY18cowiM0Meew"
+    },
+    {
+      "position_on_page": 21,
+      "title": "Data Analysis Foundation Course",
+      "link": "https://www.youtube.com/playlist?list=PLaldQ9PzZd9pgZEBeIf0FYI4DEO1ibxPb",
+      "channel": {
+        "name": "Sheryians AI School",
+        "link": "https://www.youtube.com/@SheryiansAI"
+      },
+      "videos": [
+        {
+          "title": "Complete MS Excel course for Data Analyst | Job Oriented",
+          "length": "5:55:56",
+          "link": "https://www.youtube.com/watch?v=Zr0sNpeClV4&list=PLaldQ9PzZd9pgZEBeIf0FYI4DEO1ibxPb"
+        },
+        {
+          "title": "Complete SQL in 1 shot for Data analytics in 2025",
+          "length": "5:18:53",
+          "link": "https://www.youtube.com/watch?v=p1epCuYb5OQ&list=PLaldQ9PzZd9pgZEBeIf0FYI4DEO1ibxPb"
+        }
+      ],
+      "video_count": 8,
+      "thumbnail": "https://i.ytimg.com/vi/Zr0sNpeClV4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDwRv4cVKs8696us_kOWr2LKvau8Q"
+    },
+    {
+      "position_on_page": 24,
+      "title": "Free 80 Day Data Analytics Course",
+      "link": "https://www.youtube.com/playlist?list=PLWqllY_-FpFyuK-QUI-_6gQrV95bUGf4a",
+      "channel": {
+        "name": "Data Coaching",
+        "link": "https://www.youtube.com/@datacoaching"
+      },
+      "videos": [
+        {
+          "title": "#74 Free Data analytics Course In Tamil/Data Analyst Course For Beginners/ Tableau For Beginners",
+          "length": "29:40",
+          "link": "https://www.youtube.com/watch?v=fCxk1ciob20&list=PLWqllY_-FpFyuK-QUI-_6gQrV95bUGf4a"
+        },
+        {
+          "title": "#73 Free Data analytics Course In Tamil/Data Analyst Course For Beginners/ Tableau For Beginners",
+          "length": "37:59",
+          "link": "https://www.youtube.com/watch?v=PHLqf-Yifmw&list=PLWqllY_-FpFyuK-QUI-_6gQrV95bUGf4a"
+        }
+      ],
+      "video_count": 74,
+      "thumbnail": "https://i.ytimg.com/vi/fCxk1ciob20/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCJllIslODd3vrbhQdH_6FJs9EvNA"
+    },
+    {
+      "position_on_page": 25,
+      "title": "Data Analyst Course | Beginner's to Advance (हिंदी में) | Full Playlist | Python | Power BI | SQL | Excel | Free",
+      "link": "https://www.youtube.com/playlist?list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM",
+      "channel": {
+        "name": "The iScale",
+        "link": "https://www.youtube.com/@theiScale"
+      },
+      "videos": [
+        {
+          "title": "Python for data analyst | day 01 | 30 days free course | beginners to advance | python with project",
+          "length": "57:26",
+          "link": "https://www.youtube.com/watch?v=M9rqo776gV8&list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM"
+        },
+        {
+          "title": "Python Lecture | How to Install Jupyter Notebook | Data Analyst & Data Science Basics | Swati Mam",
+          "length": "6:57",
+          "link": "https://www.youtube.com/watch?v=AS1a5K8zejk&list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM"
+        }
+      ],
+      "video_count": 201,
+      "thumbnail": "https://i.ytimg.com/vi/M9rqo776gV8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD9ukmFuBTve6PjIEtt-t5mgTRDBQ"
+    }
+  ],
+  "shorts_results": [
+    {
+      "position_on_page": 6,
+      "shorts": [
+        {
+          "title": "How to Become a Data Analyst",
+          "link": "https://www.youtube.com/shorts/td0NybmChcQ",
+          "thumbnail": "https://i.ytimg.com/vi/td0NybmChcQ/frame0.jpg",
+          "views_original": "21K views",
+          "views": 21000,
+          "video_id": "td0NybmChcQ"
+        },
+        {
+          "title": "Complete Data Analytics Course 2025 💻 | SQL, Excel, Power BI, Python & Stats in 29 Hours!",
+          "link": "https://www.youtube.com/shorts/ufgrV3EDYmQ",
+          "thumbnail": "https://i.ytimg.com/vi/ufgrV3EDYmQ/frame0.jpg",
+          "views_original": "280K views",
+          "views": 280000,
+          "video_id": "ufgrV3EDYmQ"
+        },
+        {
+          "title": "Top 4 Free Data Analyst Certifications in 2026! Stop Paying for Courses",
+          "link": "https://www.youtube.com/shorts/6kgRQJ-UIe4",
+          "thumbnail": "https://i.ytimg.com/vi/6kgRQJ-UIe4/frame0.jpg",
+          "views_original": "3.1K views",
+          "views": 3100,
+          "video_id": "6kgRQJ-UIe4"
+        },
+        {
+          "title": "EXCEL Data Analysis ( FULL COURSE )",
+          "link": "https://www.youtube.com/shorts/KhFaz7zUIZ8",
+          "thumbnail": "https://i.ytimg.com/vi/KhFaz7zUIZ8/frame0.jpg",
+          "views_original": "1.3K views",
+          "views": 1300,
+          "video_id": "KhFaz7zUIZ8"
+        },
+        {
+          "title": "Data Analysis Explained Simply 📊 | Steps, Types & Applications #Shorts",
+          "link": "https://www.youtube.com/shorts/Dhj1cVWkypk",
+          "thumbnail": "https://i.ytimg.com/vi/Dhj1cVWkypk/frame0.jpg",
+          "views_original": "411 views",
+          "views": 411,
+          "video_id": "Dhj1cVWkypk"
+        }
+      ]
+    },
+    {
+      "position_on_page": 11,
+      "shorts": [
+        {
+          "title": "Roadmap to Becoming a Data Analyst in 2026 #roadmap",
+          "link": "https://www.youtube.com/shorts/481lC6AeLIg",
+          "thumbnail": "https://i.ytimg.com/vi/481lC6AeLIg/frame0.jpg",
+          "views_original": "2.2M views",
+          "views": 2200000,
+          "video_id": "481lC6AeLIg"
+        },
+        {
+          "title": "Master Data Analyst in 2024 with This Proven Roadmap",
+          "link": "https://www.youtube.com/shorts/XtwXnDNbEKM",
+          "thumbnail": "https://i.ytimg.com/vi/XtwXnDNbEKM/frame0.jpg",
+          "views_original": "1.4M views",
+          "views": 1400000,
+          "video_id": "XtwXnDNbEKM"
+        },
+        {
+          "title": "Free #DataAnalytics Course for Beginners",
+          "link": "https://www.youtube.com/shorts/7CAdeGwSyUI",
+          "thumbnail": "https://i.ytimg.com/vi/7CAdeGwSyUI/frame0.jpg",
+          "views_original": "87K views",
+          "views": 87000,
+          "video_id": "7CAdeGwSyUI"
+        },
+        {
+          "title": "Life of a Data Analyst 😂🫠",
+          "link": "https://www.youtube.com/shorts/GgH9U6VJzyg",
+          "thumbnail": "https://i.ytimg.com/vi/GgH9U6VJzyg/frame0.jpg",
+          "views_original": "3M views",
+          "views": 3000000,
+          "video_id": "GgH9U6VJzyg"
+        },
+        {
+          "title": "day in the life of a wfh data analyst.",
+          "link": "https://www.youtube.com/shorts/RC30UibhowE",
+          "thumbnail": "https://i.ytimg.com/vi/RC30UibhowE/frame0.jpg",
+          "views_original": "324K views",
+          "views": 324000,
+          "video_id": "RC30UibhowE"
+        },
+        {
+          "title": "Data Analyst Fresher Roadmap 2026 | Learn These Skills to Get Job-Ready #dataanalytics #dataanalysis",
+          "link": "https://www.youtube.com/shorts/CUCR-oo-oaY",
+          "thumbnail": "https://i.ytimg.com/vi/CUCR-oo-oaY/frame0.jpg",
+          "views_original": "57K views",
+          "views": 57000,
+          "video_id": "CUCR-oo-oaY"
+        },
+        {
+          "title": "Data Analyst Roadmap 2025-26 For 3.5 LPA to 10 + LPA #dataanalytics",
+          "link": "https://www.youtube.com/shorts/k8zkx6pTeXY",
+          "thumbnail": "https://i.ytimg.com/vi/k8zkx6pTeXY/frame0.jpg",
+          "views_original": "820K views",
+          "views": 820000,
+          "video_id": "k8zkx6pTeXY"
+        },
+        {
+          "title": "Stop Learning Everything! Do This Instead in Data Analytics",
+          "link": "https://www.youtube.com/shorts/tqmExNhqGxw",
+          "thumbnail": "https://i.ytimg.com/vi/tqmExNhqGxw/frame0.jpg",
+          "views_original": "60K views",
+          "views": 60000,
+          "video_id": "tqmExNhqGxw"
+        },
+        {
+          "title": "Data Analyst vs. Data Scientist Skills, Salary, and Degree -- Data Analytics Roadmap",
+          "link": "https://www.youtube.com/shorts/hf3_CMKIJQ0",
+          "thumbnail": "https://i.ytimg.com/vi/hf3_CMKIJQ0/frame0.jpg",
+          "views_original": "672K views",
+          "views": 672000,
+          "video_id": "hf3_CMKIJQ0"
+        },
+        {
+          "title": "The Complete Data Analyst Roadmap (How I'd Do It) #dataanalytics",
+          "link": "https://www.youtube.com/shorts/5JRgHJDy3aw",
+          "thumbnail": "https://i.ytimg.com/vi/5JRgHJDy3aw/frame0.jpg",
+          "views_original": "144K views",
+          "views": 144000,
+          "video_id": "5JRgHJDy3aw"
+        },
+        {
+          "title": "How much a Data Analyst makes in Oakville#dataanalyst #tech #career #salary",
+          "link": "https://www.youtube.com/shorts/yvDdj1ulkNk",
+          "thumbnail": "https://i.ytimg.com/vi/yvDdj1ulkNk/frame0.jpg",
+          "views_original": "803K views",
+          "views": 803000,
+          "video_id": "yvDdj1ulkNk"
+        },
+        {
+          "title": "🔥 Free Data Analyst Certificates (Data Analytics/ Business Analyst) | Data Analytics Certifications",
+          "link": "https://www.youtube.com/shorts/hf-x503PjyI",
+          "thumbnail": "https://i.ytimg.com/vi/hf-x503PjyI/frame0.jpg",
+          "views_original": "717K views",
+          "views": 717000,
+          "video_id": "hf-x503PjyI"
+        },
+        {
+          "title": "🔥 Salary Of Data Analyst  | How Much Does A Data Analyst Make? #shorts  #simplilearn",
+          "link": "https://www.youtube.com/shorts/bMg1A81QZgM",
+          "thumbnail": "https://i.ytimg.com/vi/bMg1A81QZgM/frame0.jpg",
+          "views_original": "1.5M views",
+          "views": 1500000,
+          "video_id": "bMg1A81QZgM"
+        },
+        {
+          "title": "Don't Become a Data Analyst if",
+          "link": "https://www.youtube.com/shorts/YsRDM6eoRq8",
+          "thumbnail": "https://i.ytimg.com/vi/YsRDM6eoRq8/frame0.jpg",
+          "views_original": "3.4M views",
+          "views": 3400000,
+          "video_id": "YsRDM6eoRq8"
+        },
+        {
+          "title": "Data Analytics 3 months roadmap #dataanalytics #datascience #upgradeskill #livetraining",
+          "link": "https://www.youtube.com/shorts/PeIJngh9VjE",
+          "thumbnail": "https://i.ytimg.com/vi/PeIJngh9VjE/frame0.jpg",
+          "views_original": "1.6M views",
+          "views": 1600000,
+          "video_id": "PeIJngh9VjE"
+        },
+        {
+          "title": "How To Become A Data Analyst With No Degree Or Prior Experience #dataanalyst #tech #breakingintotech",
+          "link": "https://www.youtube.com/shorts/dpbULzVJUJo",
+          "thumbnail": "https://i.ytimg.com/vi/dpbULzVJUJo/frame0.jpg",
+          "views_original": "15K views",
+          "views": 15000,
+          "video_id": "dpbULzVJUJo"
+        },
+        {
+          "title": "HOW DATA ANALYST WORKS....?🤔🤔|| WHAT Happens Inside of Deloitte?|| SAP Things || #itindustry",
+          "link": "https://www.youtube.com/shorts/Lh2UAIE6S5s",
+          "thumbnail": "https://i.ytimg.com/vi/Lh2UAIE6S5s/frame0.jpg",
+          "views_original": "1.2M views",
+          "views": 1200000,
+          "video_id": "Lh2UAIE6S5s"
+        },
+        {
+          "title": "Certified Data Analyst Course in Bangalore|8 Years NON IT to IT|Besant Technologies BTM Layout",
+          "link": "https://www.youtube.com/shorts/HJvuXrYqA-k",
+          "thumbnail": "https://i.ytimg.com/vi/HJvuXrYqA-k/frame0.jpg",
+          "views_original": "1.3M views",
+          "views": 1300000,
+          "video_id": "HJvuXrYqA-k"
+        },
+        {
+          "title": "Data analyst roadmap for beginners | Data analyst roadmap | Data analyst #shorts #trendingshorts",
+          "link": "https://www.youtube.com/shorts/jzDhH5nfOB0",
+          "thumbnail": "https://i.ytimg.com/vi/jzDhH5nfOB0/frame0.jpg",
+          "views_original": "894K views",
+          "views": 894000,
+          "video_id": "jzDhH5nfOB0"
+        },
+        {
+          "title": "Free data analytics course from IBM enroll now! #mba #ibm #freecourse #data #dataanalytics",
+          "link": "https://www.youtube.com/shorts/hza2YfJooxM",
+          "thumbnail": "https://i.ytimg.com/vi/hza2YfJooxM/frame0.jpg",
+          "views_original": "158K views",
+          "views": 158000,
+          "video_id": "hza2YfJooxM"
+        }
+      ]
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 8,
+      "title": "How I'd become a data analyst (if i had to start over) in 2026",
+      "link": "https://www.youtube.com/watch?v=dJA7k58zlA8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dJA7k58zlA8",
+      "video_id": "dJA7k58zlA8",
+      "channel": {
+        "name": "Agatha",
+        "link": "https://www.youtube.com/@agathakang",
+        "thumbnail": "https://yt3.ggpht.com/UTzhlwCGbcBqFKPMQGVGfOUU1_Q0pDXedqRt7Jdg0j_mCK-fmWe9a2SrN3kF_CDmDGKT3o3A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1292242,
+      "length": "8:57",
+      "description": "Data Analyst Roadmap 2026. A data analyst career path can be broken down into 3 simple steps with timelines so that it's easy to ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/dJA7k58zlA8/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBWSnmzhyvMvMHG5UBWUaMFlB3ZhQ",
+        "rich": "https://i.ytimg.com/an_webp/dJA7k58zlA8/mqdefault_6s.webp?du=3000&sqp=CLSxmtYG&rs=AOn4CLAKnloWTvxH5BmJKmqGcx7V55xvOQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "What Is Data Analytics? - An Introduction (Full Guide)",
+      "link": "https://www.youtube.com/watch?v=yZvFH7B6gKI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yZvFH7B6gKI",
+      "video_id": "yZvFH7B6gKI",
+      "channel": {
+        "name": "CareerFoundry",
+        "link": "https://www.youtube.com/@careerfoundry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/P28pB2taeSTfrOpjY8vA-LBJtBWmdkS8UNlERHJUzDuG5z3gzkYXFBuMcBKCXfyd1yR6_45kkII=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2301389,
+      "length": "9:04",
+      "description": "Curious about a career in Data Analytics? Book a call with a program advisor: https://bit.ly/47LEBk3 What exactly is data analytics ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/yZvFH7B6gKI/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC2X6o046yqoFzcR_Zdj-gzAX6zog",
+        "rich": "https://i.ytimg.com/an_webp/yZvFH7B6gKI/mqdefault_6s.webp?du=3000&sqp=CLi9mtYG&rs=AOn4CLDbqCcygAh7QnYfwFrlrvZtDLNcNg"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Excel for Data Analytics - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=pCJ15nGFgVg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pCJ15nGFgVg",
+      "video_id": "pCJ15nGFgVg",
+      "channel": {
+        "name": "Luke Barousse",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 3724060,
+      "length": "10:59:43",
+      "description": "FREE Course Files & Projects https://lukeb.co/excel_files Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pCJ15nGFgVg/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAsUZuxRKLOqR2D4K_QC0wpGJcfNA",
+        "rich": "https://i.ytimg.com/an_webp/pCJ15nGFgVg/mqdefault_6s.webp?du=3000&sqp=COCgmtYG&rs=AOn4CLAzlJgq-EFfc5fNtmXyVXg7b-eDFQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "The Complete Data Analyst Roadmap",
+      "link": "https://www.youtube.com/watch?v=YRJbhFLLPyE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YRJbhFLLPyE",
+      "video_id": "YRJbhFLLPyE",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 832568,
+      "length": "4:08",
+      "description": "Go from zero to a data analyst in 8-16 months. This step-by-step roadmap covers the essential skills you must learn to become a ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/YRJbhFLLPyE/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA-OrN1PP2wq5sjlR3iO4wYINyQXQ",
+        "rich": "https://i.ytimg.com/an_webp/YRJbhFLLPyE/mqdefault_6s.webp?du=3000&sqp=CMO6mtYG&rs=AOn4CLBFx9AfrRXiyavnLRPaOCt9PE92Qw"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "I Tried 50 Data Analyst Courses. Here Are Top 5",
+      "link": "https://www.youtube.com/watch?v=X7eAwyMvm2c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=X7eAwyMvm2c",
+      "video_id": "X7eAwyMvm2c",
+      "channel": {
+        "name": "Stefanovic",
+        "link": "https://www.youtube.com/@Stefanovic92",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kKln-yBv7R1FT4sxpp6ERE5hLvsPQ7hmycXfKdznL6BmQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 796365,
+      "length": "8:41",
+      "description": "Top pick Data Analyst course: Datacamp Data Analyst with Python Career Track (https://datacamp.pxf.io/BnEVgB) Get access to ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/X7eAwyMvm2c/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAj-XQnh7nHZ1wFHfdQx6oBwYT9BQ",
+        "rich": "https://i.ytimg.com/an_webp/X7eAwyMvm2c/mqdefault_6s.webp?du=3000&sqp=CLSRmtYG&rs=AOn4CLDF9uey5nGbbvAofF1ESAFc5mSHiQ"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Don't Become a Data Analyst (Do THIS Instead)",
+      "link": "https://www.youtube.com/watch?v=L3iD_fiwvLI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=L3iD_fiwvLI",
+      "video_id": "L3iD_fiwvLI",
+      "channel": {
+        "name": "Kedeisha Bryan - Your Data Career Coach",
+        "link": "https://www.youtube.com/@kedeishabryan",
+        "thumbnail": "https://yt3.ggpht.com/jrKi2-WgW3dazzCmfUAjo-N8s8_BFDPamsg_OXXxgqPjuii1phhrfV3IIIwVywDJBGGXcZAs=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 266449,
+      "length": "10:35",
+      "description": "Work with me to launch your data career: http://bit.ly/4mHlJdh Think data analyst jobs are disappearing? In this video, I break ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/L3iD_fiwvLI/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD7vB2I3Gdhu5LZo3v5nzUG2OskhQ",
+        "rich": "https://i.ytimg.com/an_webp/L3iD_fiwvLI/mqdefault_6s.webp?du=3000&sqp=CJDAmtYG&rs=AOn4CLAIb0m_Nt0mC4u9aRY9OnOYKCX1Cg"
+      }
+    },
+    {
+      "position_on_page": 22,
+      "title": "Excel Data Analysis Full Course Tutorial (7+ Hours)",
+      "link": "https://www.youtube.com/watch?v=qrbf9DtR3_c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qrbf9DtR3_c",
+      "video_id": "qrbf9DtR3_c",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "link": "https://www.youtube.com/@learnskillsdaily",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WwrBREpkRbdALebIg_xlBFBSwc7H8_tBcqgjLSP4fpZkMcPp3hSledFRan866itfUwsEKg-AUQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 2232324,
+      "length": "7:11:22",
+      "description": "Excel Data Analysis Full Course Tutorial (7+ Hours) Join Learn Skills Daily for ad-free training, exams, certificates, and exclusive ...",
+      "extensions": [
+        "2 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qrbf9DtR3_c/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBf6aQRj_CaVRTH5YAQWY_-uRqqow",
+        "rich": "https://i.ytimg.com/an_webp/qrbf9DtR3_c/mqdefault_6s.webp?du=3000&sqp=COaRmtYG&rs=AOn4CLC_EFRduVUsE2D29JkrbRyo0XLm4w"
+      }
+    },
+    {
+      "position_on_page": 23,
+      "title": "Data Analytics Tutorial For Beginners Complete Course | Foundations: Data, Data, Everywhere, Google",
+      "link": "https://www.youtube.com/watch?v=vqZ1C2elmac",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vqZ1C2elmac",
+      "video_id": "vqZ1C2elmac",
+      "channel": {
+        "name": "My Lesson",
+        "link": "https://www.youtube.com/@MyLesson007",
+        "thumbnail": "https://yt3.ggpht.com/ByxUMXOVvHt71OaGJiA0LwPAjepeK_fsWiprbp_sCsbu18b7g3hzMB_-WYY0pCJoI7ive7mP=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 687029,
+      "length": "2:35:41",
+      "description": "Data Analytics Professional Certificate Complete Courses.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vqZ1C2elmac/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLIy04V6Emm56pxTuvVuyGwEMAxQ",
+        "rich": "https://i.ytimg.com/an_webp/vqZ1C2elmac/mqdefault_6s.webp?du=3000&sqp=CPuMmtYG&rs=AOn4CLDBxYFG1uqWfQ8isiGukxQK910SXA"
+      }
+    },
+    {
+      "position_on_page": 26,
+      "title": "Top 5 Data Analyst Courses on Coursera in 2026",
+      "link": "https://www.youtube.com/watch?v=Sznv7WZDRjo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Sznv7WZDRjo",
+      "video_id": "Sznv7WZDRjo",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1d ago",
+      "views": 16069,
+      "length": "10:59",
+      "description": "Links to all the courses here: Microsoft Power BI Data Analyst Professional Certificate: https://imp.i384100.net/QYdZbY Microsoft ...",
+      "extensions": [
+        "New"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Sznv7WZDRjo/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDM8085yBTOF10Dy7MKFU8t4qzJPQ",
+        "rich": "https://i.ytimg.com/an_webp/Sznv7WZDRjo/mqdefault_6s.webp?du=3000&sqp=CLSQmtYG&rs=AOn4CLD72_F5wUSfEw2TQEJB7N7KzT4Ueg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Data+Analysis+full+course+for+beginners&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Data%20Analysis%20full%20course%20for%20beginners&sp=SBSCASJQTFVhQi0xaGpoazhGRV9YWjg3dlBQU2ZIcWI2T2NNMGNGggEiUExFaUVBcTJWa1VVS2dFRlhIMXRCYkh3cTM4b1dZRFNjVYIBIlBMalZMWW1ybG1qR2RSczFzR3FSclRFLUVNcmFMY2xKZ2GCAQtkSkE3azU4emxBOIIBC3ladkZIN0I2Z0tJggEiUExfQ2tweGt1UGlULVJKN3pCZkhWV3dnbHRFV0lWd3J3YoIBIlBMbWVqREdyc2dGeUNEMjVMMlhFS0VTUUV3OHNtc1k2V0-CAQtwQ0oxNW5HRmdWZ4IBIlBMb3lFQ2Z2RUZPalpOZEJBSERsVmxSMjQyRmlmaVlHamyCASJQTFRaWUc3YloxdTZyY1BsY1g3NXBNa2pzWVlfSFRMN2FaggEiUEx0UzhVYnEyYklsVk40Wm9tME8tNnJCeXNKczN3bnM2MIIBC1lSSmJoRkxMUHlFggELWDdlQXd5TXZtMmOCAQtMM2lEX2Zpd3ZMSYIBIlBMYWxkUTlQelpkOXBnWkVCZUlmMEZZSTRERU8xaWJ4UGKCAQtxcmJmOUR0UjNfY4IBC3ZxWjFDMmVsbWFjggEiUExXcWxsWV8tRnBGeXVLLVFVSS1fNmdRclY5NWJVR2Y0YYIBIlBMeHpUYTBWUFI5cnl2R1N1Q200UlM4YWVBdk9MWHo5WE2CAQtTem52N1daRFJqb7IBBgoECBsQAuoBBAgCEBk%253D",
+    "next_page_token": "SBSCASJQTFVhQi0xaGpoazhGRV9YWjg3dlBQU2ZIcWI2T2NNMGNGggEiUExFaUVBcTJWa1VVS2dFRlhIMXRCYkh3cTM4b1dZRFNjVYIBIlBMalZMWW1ybG1qR2RSczFzR3FSclRFLUVNcmFMY2xKZ2GCAQtkSkE3azU4emxBOIIBC3ladkZIN0I2Z0tJggEiUExfQ2tweGt1UGlULVJKN3pCZkhWV3dnbHRFV0lWd3J3YoIBIlBMbWVqREdyc2dGeUNEMjVMMlhFS0VTUUV3OHNtc1k2V0-CAQtwQ0oxNW5HRmdWZ4IBIlBMb3lFQ2Z2RUZPalpOZEJBSERsVmxSMjQyRmlmaVlHamyCASJQTFRaWUc3YloxdTZyY1BsY1g3NXBNa2pzWVlfSFRMN2FaggEiUEx0UzhVYnEyYklsVk40Wm9tME8tNnJCeXNKczN3bnM2MIIBC1lSSmJoRkxMUHlFggELWDdlQXd5TXZtMmOCAQtMM2lEX2Zpd3ZMSYIBIlBMYWxkUTlQelpkOXBnWkVCZUlmMEZZSTRERU8xaWJ4UGKCAQtxcmJmOUR0UjNfY4IBC3ZxWjFDMmVsbWFjggEiUExXcWxsWV8tRnBGeXVLLVFVSS1fNmdRclY5NWJVR2Y0YYIBIlBMeHpUYTBWUFI5cnl2R1N1Q200UlM4YWVBdk9MWHo5WE2CAQtTem52N1daRFJqb7IBBgoECBsQAuoBBAgCEBk%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Data+Analysis+full+course+for+beginners",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Data+Analysis+full+course+for+beginners&sp=SBSCASJQTFVhQi0xaGpoazhGRV9YWjg3dlBQU2ZIcWI2T2NNMGNGggEiUExFaUVBcTJWa1VVS2dFRlhIMXRCYkh3cTM4b1dZRFNjVYIBIlBMalZMWW1ybG1qR2RSczFzR3FSclRFLUVNcmFMY2xKZ2GCAQtkSkE3azU4emxBOIIBC3ladkZIN0I2Z0tJggEiUExfQ2tweGt1UGlULVJKN3pCZkhWV3dnbHRFV0lWd3J3YoIBIlBMbWVqREdyc2dGeUNEMjVMMlhFS0VTUUV3OHNtc1k2V0-CAQtwQ0oxNW5HRmdWZ4IBIlBMb3lFQ2Z2RUZPalpOZEJBSERsVmxSMjQyRmlmaVlHamyCASJQTFRaWUc3YloxdTZyY1BsY1g3NXBNa2pzWVlfSFRMN2FaggEiUEx0UzhVYnEyYklsVk40Wm9tME8tNnJCeXNKczN3bnM2MIIBC1lSSmJoRkxMUHlFggELWDdlQXd5TXZtMmOCAQtMM2lEX2Zpd3ZMSYIBIlBMYWxkUTlQelpkOXBnWkVCZUlmMEZZSTRERU8xaWJ4UGKCAQtxcmJmOUR0UjNfY4IBC3ZxWjFDMmVsbWFjggEiUExXcWxsWV8tRnBGeXVLLVFVSS1fNmdRclY5NWJVR2Y0YYIBIlBMeHpUYTBWUFI5cnl2R1N1Q200UlM4YWVBdk9MWHo5WE2CAQtTem52N1daRFJqb7IBBgoECBsQAuoBBAgCEBk%253D",
+    "next_page_token": "SBSCASJQTFVhQi0xaGpoazhGRV9YWjg3dlBQU2ZIcWI2T2NNMGNGggEiUExFaUVBcTJWa1VVS2dFRlhIMXRCYkh3cTM4b1dZRFNjVYIBIlBMalZMWW1ybG1qR2RSczFzR3FSclRFLUVNcmFMY2xKZ2GCAQtkSkE3azU4emxBOIIBC3ladkZIN0I2Z0tJggEiUExfQ2tweGt1UGlULVJKN3pCZkhWV3dnbHRFV0lWd3J3YoIBIlBMbWVqREdyc2dGeUNEMjVMMlhFS0VTUUV3OHNtc1k2V0-CAQtwQ0oxNW5HRmdWZ4IBIlBMb3lFQ2Z2RUZPalpOZEJBSERsVmxSMjQyRmlmaVlHamyCASJQTFRaWUc3YloxdTZyY1BsY1g3NXBNa2pzWVlfSFRMN2FaggEiUEx0UzhVYnEyYklsVk40Wm9tME8tNnJCeXNKczN3bnM2MIIBC1lSSmJoRkxMUHlFggELWDdlQXd5TXZtMmOCAQtMM2lEX2Zpd3ZMSYIBIlBMYWxkUTlQelpkOXBnWkVCZUlmMEZZSTRERU8xaWJ4UGKCAQtxcmJmOUR0UjNfY4IBC3ZxWjFDMmVsbWFjggEiUExXcWxsWV8tRnBGeXVLLVFVSS1fNmdRclY5NWJVR2Y0YYIBIlBMeHpUYTBWUFI5cnl2R1N1Q200UlM4YWVBdk9MWHo5WE2CAQtTem52N1daRFJqb7IBBgoECBsQAuoBBAgCEBk%3D"
+  }
+}
