@@ -7,11 +7,13 @@ from pypdf import PdfWriter
 from resume_pdf import extract_pdf_text
 
 from engine import (DEFAULT_THRESHOLD, SerpClient, age_days, analyze_jobs, canonical_manual_skills,
-                    coverage, deduplicate, is_old, parse_duration, rank_skills, run,
+                    coverage, course_videos, deduplicate, is_old, parse_duration, rank_skills, run,
                     has_role_fit_warning, select_core_skills, select_course_videos, two_skill_plan,
                     experience_required, experience_evidence, requirements_from_text, assess_robustness, hours_range,
                     listing_confidence, dictionary_coverage_warning, fresher_queries, fetch_jobs,
-                    no_unlock_message, MOSTLY_READY_MESSAGE, optional_serpapi_key)
+                    no_unlock_message, MOSTLY_READY_MESSAGE, optional_serpapi_key,
+                    greedy_opportunity, exact_opportunity, opportunity_quality,
+                    bootstrap_confidence, confidence_label, skill_distance)
 from skills import GENERIC
 from skills import extract_skills
 
@@ -27,6 +29,15 @@ class EngineTests(unittest.TestCase):
         self.assertFalse({"Go", "R", "C"} & extract_skills("Go to a car in R city for a C grade"))
         self.assertEqual(canonical_manual_skills("R, Go, C"), {"R", "Go", "C"})
         self.assertNotIn("Digital Marketing", extract_skills("You don’t need to be a digital marketing expert."))
+
+    def test_rest_api_requires_api_or_service_context(self):
+        for sentence in ("Integrate REST API endpoints.", "Use REST APIs for backend calls.",
+                         "Build RESTful APIs.", "Connect to REST services.", "Maintain RESTful services."):
+            self.assertIn("REST API", extract_skills(sentence), sentence)
+        for sentence in ("Work with the rest of the team.", "Rest assured, training is provided.",
+                         "Take a rest after the sprint.", "A restful work environment.",
+                         "Please rest before the interview."):
+            self.assertNotIn("REST API", extract_skills(sentence), sentence)
 
     def test_coverage_and_unlock_known_answer(self):
         jobs = [job("A", "One", "SQL, Excel, Python, Power BI"),
@@ -178,9 +189,9 @@ class EngineTests(unittest.TestCase):
         self.assertEqual(hours_range(3.68), "~2–5 hours")
         jobs = [job("A", "One", "SQL, Excel and Figma"), job("B", "Two", "SQL, Python and Figma")]
         stable = assess_robustness(jobs, {"SQL"}, "Excel", {"Excel": 1.0}, core_share=.25)
-        self.assertEqual(stable["label"], "Stable pick")
+        self.assertEqual(stable["label"], "Consistent across checked settings")
         sensitive = assess_robustness(jobs, {"SQL"}, "Excel", {"Excel": 4.0, "Python": 1.0}, core_share=.25)
-        self.assertEqual(sensitive["label"], "Sensitive pick")
+        self.assertEqual(sensitive["label"], "Changes with settings")
         self.assertTrue(any("Python" in change for change in sensitive["changes"]))
 
     def test_listing_confidence_boundaries(self):
@@ -263,10 +274,77 @@ class EngineTests(unittest.TestCase):
             self.assertIsNotNone(result["ranked"][0]["hours"])
             self.assertTrue(all(event["source"] in {"demo", "cache missing"} for event in result["replay"]))
 
+    def test_batch_d_courses_are_bundled_for_demo_mode(self):
+        with tempfile.TemporaryDirectory() as directory, patch("engine._request", side_effect=AssertionError("network requested")):
+            client = SerpClient(use_fixtures=True, cache_only=True, cache_dir=Path(directory))
+            for skill in ("Data Cleaning", "Data Visualization", "REST API", "Responsive Design"):
+                hours, videos, confidence = course_videos(skill, client)
+                self.assertIsNotNone(hours, skill)
+                self.assertGreaterEqual(len(videos), 2, skill)
+                self.assertEqual(confidence, "standard", skill)
+            self.assertTrue(all(event["source"] == "demo" for event in client.replay))
+
     def test_missing_key_detection(self):
         with tempfile.TemporaryDirectory() as directory, patch("engine.ROOT", Path(directory)), \
              patch.dict("os.environ", {"SERPAPI_KEY": ""}):
             self.assertIsNone(optional_serpapi_key())
+
+    def test_greedy_vs_exact_known_budget(self):
+        jobs = ([job(f"SQL {i}", f"SqlCo{i}", "SQL") for i in range(3)] +
+                [job(f"Python {i}", f"PyCo{i}", "Python") for i in range(4)] +
+                [job(f"Excel {i}", f"ExcelCo{i}", "Excel") for i in range(4)])
+        analysis = analyze_jobs(jobs, set(), threshold=1)
+        hours = {"SQL": 1.0, "Python": 2.0, "Excel": 2.0}
+        greedy = greedy_opportunity(analysis, hours, budget=2)
+        optimum = exact_opportunity(analysis, hours, budget=2)
+        self.assertEqual(([step["skill"] for step in greedy], greedy[-1]["total_jobs"]), (["SQL"], 3))
+        self.assertEqual(optimum["jobs_gained"], 4)
+        self.assertEqual(opportunity_quality(analysis, hours, budgets=(2,))[0]["ratio"], .75)
+
+    def test_opportunity_respects_alternatives_and_experience(self):
+        jobs = [job("Analyst", "One", "Power BI/Tableau, SQL"),
+                job("Senior Analyst", "Two", "Power BI/Tableau, SQL")]
+        analysis = analyze_jobs(jobs, {"SQL"}, threshold=1, experience_level="Fresher")
+        steps = greedy_opportunity(analysis, {"Power BI": 2, "Tableau": 1})
+        self.assertEqual(analysis["eligible_count"], 1)
+        self.assertEqual([(step["skill"], step["jobs_gained"]) for step in steps], [("Power BI", 1)])
+        self.assertEqual(exact_opportunity(analysis, {"Power BI": 2}, budget=2)["jobs_gained"], 1)
+
+    def test_bootstrap_is_seeded_and_cached(self):
+        jobs = ([job(f"SQL {i}", f"SqlCo{i}", "SQL") for i in range(3)] +
+                [job(f"Python {i}", f"PyCo{i}", "Python") for i in range(4)])
+        analysis = analyze_jobs(jobs, set(), threshold=1)
+        hours = {"SQL": 1.0, "Python": 2.0}
+        first = bootstrap_confidence(analysis, hours, "SQL", samples=50, seed=123)
+        second = bootstrap_confidence(analysis, hours, "SQL", samples=50, seed=123)
+        self.assertEqual(first, second)
+        self.assertEqual(sum(first["wins"].values()), 50)
+        self.assertIn(first["label"], {"Strong", "Likely", "Uncertain"})
+
+    def test_bootstrap_confidence_label_boundaries(self):
+        self.assertEqual(confidence_label(.85), "Strong")
+        self.assertEqual(confidence_label(.849), "Likely")
+        self.assertEqual(confidence_label(.60), "Likely")
+        self.assertEqual(confidence_label(.599), "Uncertain")
+
+    def test_ui_ux_counts_for_matching_but_is_not_recommended(self):
+        self.assertIn("UI/UX", GENERIC)
+        jobs = [job("Designer", "A", "UI/UX, Figma"), job("Designer", "B", "UI/UX, Figma")]
+        analysis = analyze_jobs(jobs, set(), threshold=1)
+        self.assertIn("UI/UX", analysis["core_skills"])
+        self.assertNotIn("UI/UX", analysis["candidates"])
+        self.assertNotIn("UI/UX", [skill for skill in analysis["option_members"] if skill in analysis["candidates"]])
+
+    def test_skill_distance_known_counts_and_experience_filter(self):
+        jobs = [job("A", "One", "SQL"), job("B", "Two", "SQL, Python"),
+                job("C", "Three", "SQL, Python, Excel"),
+                job("D", "Four", "SQL, Python, Excel, Figma"),
+                job("Senior E", "Five", "SQL, Python, Excel, Figma")]
+        analysis = analyze_jobs(jobs, {"SQL"}, threshold=1, experience_level="Fresher")
+        distances = skill_distance(analysis)
+        self.assertEqual(distances["counts"], {"0": 1, "1": 1, "2": 1, "3+": 1, "Unknown": 0})
+        self.assertEqual([job["title"] for job in distances["one_away"]["Python"]], ["B"])
+        self.assertEqual(len(analysis["experience_excluded"]), 1)
 
 
 if __name__ == "__main__":

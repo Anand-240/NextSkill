@@ -1,0 +1,474 @@
+{
+  "search_metadata": {
+    "id": "6ac6ca6df9aa73355a364814",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/IpJhpmkgM8e6GlKgzh9iHVrnj6ESaGLTP_RzVvTi3yE/6ac6ca6df9aa73355a364814.json",
+    "markdown_endpoint": "https://serpapi.com/searches/IpJhpmkgM8e6GlKgzh9iHVrnj6ESaGLTP_RzVvTi3yE/6ac6ca6df9aa73355a364814.md",
+    "created_at": "2026-10-07 22:40:45 UTC",
+    "processed_at": "2026-10-07 22:40:45 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=REST+API+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/IpJhpmkgM8e6GlKgzh9iHVrnj6ESaGLTP_RzVvTi3yE/6ac6ca6df9aa73355a364814.html",
+    "total_time_taken": 2.68
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "REST API full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 4309041,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "REST API Crash Course - Introduction + Full Python API Tutorial",
+      "link": "https://www.youtube.com/watch?v=qbLc5a9jdXo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qbLc5a9jdXo",
+      "video_id": "qbLc5a9jdXo",
+      "channel": {
+        "name": "Caleb Curry",
+        "link": "https://www.youtube.com/@codebreakthrough",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ndg1Q0vocIKu0U3Ks9SLkSCjZbGiZ2W1rhSsJoqZTgFK4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1432147,
+      "length": "51:57",
+      "description": "Mentorship to six figure software engineer - https://calcur.tech/mentorship ⚙️ Backend Engineering Mind Map ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qbLc5a9jdXo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSipLk9C8wC7fG3lQsmF8A3o-14g",
+        "rich": "https://i.ytimg.com/an_webp/qbLc5a9jdXo/mqdefault_6s.webp?du=3000&sqp=CMr8mtYG&rs=AOn4CLAiyCrQmKWnRyPy4i4e64ju3Ve06Q"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
+      "link": "https://www.youtube.com/watch?v=WXsD0ZgxjRw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WXsD0ZgxjRw",
+      "video_id": "WXsD0ZgxjRw",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 4383168,
+      "length": "3:07:07",
+      "description": "What is an API? Learn all about APIs (Application Programming Interfaces) in this full tutorial for beginners. You will learn what ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf1SZBkO4RR6utWKEHRR5-pxoS6w",
+        "rich": "https://i.ytimg.com/an_webp/WXsD0ZgxjRw/mqdefault_6s.webp?du=3000&sqp=CLyNm9YG&rs=AOn4CLAR1mYO7k_JpCprzZh2QFc0tVIXWA"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "API Course for Beginners 2026 | API Tutorial For Beginners Step By Step | API Tutorial | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=ukBCjzC_C6w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ukBCjzC_C6w",
+      "video_id": "ukBCjzC_C6w",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 67016,
+      "length": "40:52",
+      "description": "Microsoft Azure - AI-Powered Full Stack Developer Program ...",
+      "extensions": [
+        "2 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ukBCjzC_C6w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvE7ZYiicmP_t_-ULscEr4pJ4D0A",
+        "rich": "https://i.ytimg.com/an_webp/ukBCjzC_C6w/mqdefault_6s.webp?du=3000&sqp=CMCFm9YG&rs=AOn4CLBpjKkzwleHtk4d7ZljmCw0myoN4A"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Build a REST API in Python | API Crash Course",
+      "link": "https://www.youtube.com/watch?v=Ha3ls0EAtW8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ha3ls0EAtW8",
+      "video_id": "Ha3ls0EAtW8",
+      "channel": {
+        "name": "Code with Josh",
+        "link": "https://www.youtube.com/@codewithjoshoffical",
+        "thumbnail": "https://yt3.ggpht.com/hIXvEYxxkF7ygU0QSccH7ALfB3ROafcMa1_Q6Fpn73E1tYrgdy7kLWMyydRa5PayOc7L4JWA0w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 60979,
+      "length": "44:41",
+      "description": "... how to make rest api in python, python api demo, python api guide, python api full course, python api tutorial for beginners, rest ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ha3ls0EAtW8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPbc_q4mII3rMOPnZtDfdE_uRKFA",
+        "rich": "https://i.ytimg.com/an_webp/Ha3ls0EAtW8/mqdefault_6s.webp?du=3000&sqp=CJH3mtYG&rs=AOn4CLAt2ueatr-B2vKrGdyUWvpCQ5Sqbg"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "WordPress REST API Tutorial (JavaScript Live Search Example)",
+      "link": "https://www.youtube.com/watch?v=c0keQyJPyU4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c0keQyJPyU4",
+      "video_id": "c0keQyJPyU4",
+      "channel": {
+        "name": "LearnWebCode",
+        "link": "https://www.youtube.com/@LearnWebCode",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n6R7J2xrV33Fiqh68fKvoqUgtsPU3SYYeyOFwT6tx3Kg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 13618,
+      "length": "22:30",
+      "description": "Let's learn about the REST API by building a simple \"live search\" example with JavaScript. Check out my full WordPress course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/c0keQyJPyU4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArJBm0Nx90D23M_g3nMBsRWEteoQ",
+        "rich": "https://i.ytimg.com/an_webp/c0keQyJPyU4/mqdefault_6s.webp?du=3000&sqp=COqFm9YG&rs=AOn4CLBBn3tWQbTs2blMCtzT_4tV3wDr3g"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
+      "link": "https://www.youtube.com/watch?v=GZvSYJDk-us",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GZvSYJDk-us",
+      "video_id": "GZvSYJDk-us",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 4801794,
+      "length": "2:19:33",
+      "description": "Watch the UPDATED version of this course: https://youtu.be/WXsD0ZgxjRw What is an API? Learn all about APIs (Application ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/GZvSYJDk-us/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzNJ2SFwU68me0m2-nGTYIZaAiIw",
+        "rich": "https://i.ytimg.com/an_webp/GZvSYJDk-us/mqdefault_6s.webp?du=3000&sqp=CJSRm9YG&rs=AOn4CLC6Fry9s4biBgMfOPJ_BdR--FYzEQ"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "What is REST API? | REST API Tutorial | REST API  Concepts and Examples | Edureka",
+      "link": "https://www.youtube.com/watch?v=rtWH70_MMHM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rtWH70_MMHM",
+      "video_id": "rtWH70_MMHM",
+      "channel": {
+        "name": "edureka!",
+        "link": "https://www.youtube.com/@edurekaIN",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/fkoY1WFQrc9eK6FwzrZVi-hZFBdpCUfSYPy6k9VSVP4H1Cqo_0pwIgpgOn-uCRgFPlz_AtGGog=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 754932,
+      "length": "37:11",
+      "description": "Following topics are covered in this REST API tutorial for beginners: 1:26 Need for REST API 4:45 What is REST API?",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rtWH70_MMHM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGCGkQaIKpCqA1DseQG8jmsJtrzw",
+        "rich": "https://i.ytimg.com/an_webp/rtWH70_MMHM/mqdefault_6s.webp?du=3000&sqp=CI3smtYG&rs=AOn4CLDnnDzC_R8ghjMq7kJPuhS1c3DPCQ"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Build REST APIs in .NET 9 – Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=38GNKtclDdE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=38GNKtclDdE",
+      "video_id": "38GNKtclDdE",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 156900,
+      "length": "57:25",
+      "description": "Learn how to code REST APIs in .net 9 as an Absolute Beginner. This step-by-step guide from @codeafuture is for those new to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/38GNKtclDdE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA46deeuE5flLizlfNyknKgsvmCzQ",
+        "rich": "https://i.ytimg.com/an_webp/38GNKtclDdE/mqdefault_6s.webp?du=3000&sqp=CJnzmtYG&rs=AOn4CLBZuWsbTw7NSwqbIG84Jn76bPPDWw"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Rest API | Web Service Tutorial",
+      "link": "https://www.youtube.com/watch?v=BZi44GOD8kY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BZi44GOD8kY",
+      "video_id": "BZi44GOD8kY",
+      "channel": {
+        "name": "Telusko",
+        "link": "https://www.youtube.com/@Telusko",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0nsZM3NF0C9bFr2IFXicMJ1w82ldRaZvGKFnezBe2lpW7F9gI92FaLubcTghnNNt4Ld8DfRvEMo=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 1290799,
+      "length": "2:34:40",
+      "description": "Check out our courses: Agentic AI with Java : Live Cohort : https://go.telusko.com/agentic-ai-with-java-cohort Coupon: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BZi44GOD8kY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOnaGa6EnLkKsYp5H_GGgYnpPH8w",
+        "rich": "https://i.ytimg.com/an_webp/BZi44GOD8kY/mqdefault_6s.webp?du=3000&sqp=CO7QmtYG&rs=AOn4CLBaLEyPMten5ch4ajH3rXPMHKRpDA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Python REST API Tutorial for Beginners | How to Build a Flask REST API",
+      "link": "https://www.youtube.com/watch?v=z3YMz-Gocmw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=z3YMz-Gocmw",
+      "video_id": "z3YMz-Gocmw",
+      "channel": {
+        "name": "Dave Gray",
+        "link": "https://www.youtube.com/@DaveGrayTeachesCode",
+        "thumbnail": "https://yt3.ggpht.com/Ki6y_thZRElVKoqzOUIGnihjRfVPkdVBqS0VsqNAbOl0sGAil5Zg_Dj0g2rftswpE_JCkGh2=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 156829,
+      "length": "40:14",
+      "description": "Web Dev Roadmap for Beginners (Free!): https://bit.ly/DaveGrayWebDevRoadmap In this Python REST API Tutorial for Beginners ...",
+      "extensions": [
+        "Beginner",
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/z3YMz-Gocmw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB128uFZt84b_V2zwxZhh_mC-Fkw",
+        "rich": "https://i.ytimg.com/an_webp/z3YMz-Gocmw/mqdefault_6s.webp?du=3000&sqp=CKiQm9YG&rs=AOn4CLCqEyiIaT8Mt1rmjr8F0PutSfqIfw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Python REST API Tutorial - Building a Flask REST API",
+      "link": "https://www.youtube.com/watch?v=GMppyAPbLYk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GMppyAPbLYk",
+      "video_id": "GMppyAPbLYk",
+      "channel": {
+        "name": "Tech With Tim",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 841884,
+      "length": "1:14:01",
+      "description": "This python REST API tutorial will teach you how to build a python flask REST API. We will start by building a basic REST API then ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/GMppyAPbLYk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_n20ZASwbIPpbFHB1ZFmFgADkdA",
+        "rich": "https://i.ytimg.com/an_webp/GMppyAPbLYk/mqdefault_6s.webp?du=3000&sqp=CMGAm9YG&rs=AOn4CLDVzsQPrn6EgH7f9RUtN8udimfqYQ"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Learn Rest API Testing Fundamentals with real time Examples in 75Minutes",
+      "link": "https://www.youtube.com/watch?v=bdHeDZPrYec",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bdHeDZPrYec",
+      "video_id": "bdHeDZPrYec",
+      "channel": {
+        "name": "Rahul Shetty Academy",
+        "link": "https://www.youtube.com/@RahulShettyAcademy",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_jXMcPuRGyGJvPNQV7ZNTWGU3jEa-GzIN4aMyelP9qw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 230581,
+      "length": "1:15:34",
+      "description": "Unlock complete Rest API Automation tutorial for 95% Discount from below link ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bdHeDZPrYec/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjZp0k-kArnIL25wmKGvVn4YeTdw",
+        "rich": "https://i.ytimg.com/an_webp/bdHeDZPrYec/mqdefault_6s.webp?du=3000&sqp=CMSNm9YG&rs=AOn4CLBt0VpjFrNAURsmewwWaRDt0iHJ0A"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Build a REST API with Node JS and Express | CRUD API Tutorial",
+      "link": "https://www.youtube.com/watch?v=l8WPWK9mS5M",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l8WPWK9mS5M",
+      "video_id": "l8WPWK9mS5M",
+      "channel": {
+        "name": "JavaScript Mastery",
+        "link": "https://www.youtube.com/@javascriptmastery",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ek0JxMA0h1uXpnYKFL_dYo1ny3LWzAuLwGvaqQwb9Qh2oEQJIPNEPjDrY9yKsvMmIrq_Ooq_=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 611979,
+      "length": "1:01:16",
+      "description": "In this video, you'll learn everything you need to know about creating a simple API using Node and Express. Join our ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/l8WPWK9mS5M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJfSK-pCxMNy2T1cwV9DIFZjb-Lw",
+        "rich": "https://i.ytimg.com/an_webp/l8WPWK9mS5M/mqdefault_6s.webp?du=3000&sqp=CJSDm9YG&rs=AOn4CLAlq_wG03jjisSsTVnnlkDkf4QEaA"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "How to build a REST API with Node js & Express",
+      "link": "https://www.youtube.com/watch?v=pKd0Rpw7O48",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pKd0Rpw7O48",
+      "video_id": "pKd0Rpw7O48",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 1916730,
+      "length": "58:40",
+      "description": "Learn to build a REST API with Node js & Express in just 1 hour! Get the complete Node course: http://bit.ly/2NfkpOC Subscribe ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pKd0Rpw7O48/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACYskcPJlWGP2wdhaq_fX5SseSRg",
+        "rich": "https://i.ytimg.com/an_webp/pKd0Rpw7O48/mqdefault_6s.webp?du=3000&sqp=CNPtmtYG&rs=AOn4CLB1-1yGsF34jygSdhEBf-eTuNimHw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Complete API Design Tutorial 2024 for Beginners | Tamil",
+      "link": "https://www.youtube.com/watch?v=Zh6CrNu_3YY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Zh6CrNu_3YY",
+      "video_id": "Zh6CrNu_3YY",
+      "channel": {
+        "name": "Hareesh Rajendran",
+        "link": "https://www.youtube.com/@hareeshrajendran",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/2de7ycNWil-8w3bBewKQxdP2CcGxyQK-nrCGde73-bKzhEQlZNBpii0PDR2wZvePxbghCpo68A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 133894,
+      "length": "1:01:40",
+      "description": "Complete API Design Tutorial 2024 for Beginners | Tamil Unlock the power of RESTful APIs with our comprehensive YouTube ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Zh6CrNu_3YY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZUzNl82_Nwi7pRIChVHUrvbQ3uA",
+        "rich": "https://i.ytimg.com/an_webp/Zh6CrNu_3YY/mqdefault_6s.webp?du=3000&sqp=CIT1mtYG&rs=AOn4CLACNWlcvCt3gZB75x6I3vfMual99g"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Master Telugu REST API in 2024 Without Failing",
+      "link": "https://www.youtube.com/watch?v=IDYvTGa2bT0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IDYvTGa2bT0",
+      "video_id": "IDYvTGa2bT0",
+      "channel": {
+        "name": "telugu web guru",
+        "link": "https://www.youtube.com/@teluguwebguru",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/C99mU5_1_NFRqDJXHbmGxgS_2valhU5p0kBwVhOpd6cSv-oFnZNEf-PhN9im9sqKGqMw2nVjQc8=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 86268,
+      "length": "45:54",
+      "description": "This vide explains what is rest api Learn Software Courses in Telugu – Only ₹479! Telugu Web Guru now offers unlimited ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/IDYvTGa2bT0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4H8Kjx7WbGiVDGMdRxVlhOD89MA",
+        "rich": "https://i.ytimg.com/an_webp/IDYvTGa2bT0/mqdefault_6s.webp?du=3000&sqp=CMSAm9YG&rs=AOn4CLB-b1fpfj77qy0sqJe44AFAI9kp_A"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
+      "link": "https://www.youtube.com/watch?v=2JYT5f2isg4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2JYT5f2isg4",
+      "video_id": "2JYT5f2isg4",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1183516,
+      "length": "5:08:48",
+      "description": "Master the HTTP networking protocol by completing over 80 coding exercises and quizzes in JavaScript. Once you've learned it ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/2JYT5f2isg4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQd6I7nit-OPsjUh6yCHriUocvyw",
+        "rich": "https://i.ytimg.com/an_webp/2JYT5f2isg4/mqdefault_6s.webp?du=3000&sqp=CKqKm9YG&rs=AOn4CLDrUabnj2CWpoZT--i8emvsHmya3Q"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "API Full Course for Beginners (2026) | REST APIs | Vishwa Sir | upGrad",
+      "link": "https://www.youtube.com/watch?v=-58TX3yCHI4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-58TX3yCHI4",
+      "video_id": "-58TX3yCHI4",
+      "channel": {
+        "name": "upGrad",
+        "link": "https://www.youtube.com/@upGrad_edu",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/wNzTXe_kHslyxdlg67E79r7IxczU4rQDYCQ39ttxwIkWFfEFx_XkvPi7o6VNYkFjOEhS8sEg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 4mo ago",
+      "views": 17541,
+      "length": "1:11:16",
+      "description": "Learn System Design API Part 2 with complete REST API explanation in this live session. Understand REST API architecture, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-58TX3yCHI4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPCQ76e7PbM0sMFESwDw9mZSPUTw",
+        "rich": "https://i.ytimg.com/an_webp/-58TX3yCHI4/mqdefault_6s.webp?du=3000&sqp=CNTtmtYG&rs=AOn4CLDbjwIVTxxM8YUag_IDIPgeR5sEtg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "RESTful API with .NET Core (.NET 7) - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=_uZYOgzYheU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_uZYOgzYheU",
+      "video_id": "_uZYOgzYheU",
+      "channel": {
+        "name": "DotNetMastery",
+        "link": "https://www.youtube.com/@dotnetmastery",
+        "thumbnail": "https://yt3.ggpht.com/-z6kz78JWysIgETaPgJ-BbPNNXbBwSFksvHMBnfmbQ3Gcpo1VQGBusLwmzflhORxs_Lhq3dVaQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 252200,
+      "length": "2:32:39",
+      "description": "Learn fundamentals of .NET API with .NET 7 and EF Core. API are the heart of todays communicative world! .NET 7 provides ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_uZYOgzYheU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZgmC8lp9QBIIguHslna04DQWELg"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Spring Boot Project: Build a REST API for an E-commerce Platform",
+      "link": "https://www.youtube.com/watch?v=EWd3_I4X32g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EWd3_I4X32g",
+      "video_id": "EWd3_I4X32g",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 266722,
+      "length": "2:00:17",
+      "description": "Learn how to build a REST API for an e-commerce platform. Perfect for Java developers looking to enhance their skills with ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EWd3_I4X32g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvePoampeLjpVQol7LOVepUuN9g",
+        "rich": "https://i.ytimg.com/an_webp/EWd3_I4X32g/mqdefault_6s.webp?du=3000&sqp=CICOm9YG&rs=AOn4CLAQkuHrb1K3C1dTHnUQ9CwykHaMNA"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=REST+API+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=REST%20API%20full%20course%20for%20beginners&sp=EgIYAkgUggELcWJMYzVhOWpkWG-CAQtXWHNEMFpneGpSd4IBC3VrQkNqekNfQzZ3ggELSGEzbHMwRUF0VziCAQtjMGtlUXlKUHlVNIIBC0dadlNZSkRrLXVzggELcnRXSDcwX01NSE2CAQszOEdOS3RjbERkRYIBC0JaaTQ0R09EOGtZggELejNZTXotR29jbXeCAQtHTXBweUFQYkxZa4IBC2JkSGVEWlByWWVjggELbDhXUFdLOW1TNU2CAQtwS2QwUnB3N080OIIBC1poNkNyTnVfM1lZggELSURZdlRHYTJiVDCCAQsySllUNWYyaXNnNIIBCy01OFRYM3lDSEk0ggELX3VaWU9nelloZVWCAQtFV2QzX0k0WDMyZ7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELcWJMYzVhOWpkWG-CAQtXWHNEMFpneGpSd4IBC3VrQkNqekNfQzZ3ggELSGEzbHMwRUF0VziCAQtjMGtlUXlKUHlVNIIBC0dadlNZSkRrLXVzggELcnRXSDcwX01NSE2CAQszOEdOS3RjbERkRYIBC0JaaTQ0R09EOGtZggELejNZTXotR29jbXeCAQtHTXBweUFQYkxZa4IBC2JkSGVEWlByWWVjggELbDhXUFdLOW1TNU2CAQtwS2QwUnB3N080OIIBC1poNkNyTnVfM1lZggELSURZdlRHYTJiVDCCAQsySllUNWYyaXNnNIIBCy01OFRYM3lDSEk0ggELX3VaWU9nelloZVWCAQtFV2QzX0k0WDMyZ7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=REST+API+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=REST+API+full+course+for+beginners&sp=EgIYAkgUggELcWJMYzVhOWpkWG-CAQtXWHNEMFpneGpSd4IBC3VrQkNqekNfQzZ3ggELSGEzbHMwRUF0VziCAQtjMGtlUXlKUHlVNIIBC0dadlNZSkRrLXVzggELcnRXSDcwX01NSE2CAQszOEdOS3RjbERkRYIBC0JaaTQ0R09EOGtZggELejNZTXotR29jbXeCAQtHTXBweUFQYkxZa4IBC2JkSGVEWlByWWVjggELbDhXUFdLOW1TNU2CAQtwS2QwUnB3N080OIIBC1poNkNyTnVfM1lZggELSURZdlRHYTJiVDCCAQsySllUNWYyaXNnNIIBCy01OFRYM3lDSEk0ggELX3VaWU9nelloZVWCAQtFV2QzX0k0WDMyZ7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELcWJMYzVhOWpkWG-CAQtXWHNEMFpneGpSd4IBC3VrQkNqekNfQzZ3ggELSGEzbHMwRUF0VziCAQtjMGtlUXlKUHlVNIIBC0dadlNZSkRrLXVzggELcnRXSDcwX01NSE2CAQszOEdOS3RjbERkRYIBC0JaaTQ0R09EOGtZggELejNZTXotR29jbXeCAQtHTXBweUFQYkxZa4IBC2JkSGVEWlByWWVjggELbDhXUFdLOW1TNU2CAQtwS2QwUnB3N080OIIBC1poNkNyTnVfM1lZggELSURZdlRHYTJiVDCCAQsySllUNWYyaXNnNIIBCy01OFRYM3lDSEk0ggELX3VaWU9nelloZVWCAQtFV2QzX0k0WDMyZ7IBBgoECBQQAg%3D%3D"
+  }
+}

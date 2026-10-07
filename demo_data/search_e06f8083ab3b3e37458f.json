@@ -1,0 +1,490 @@
+{
+  "search_metadata": {
+    "id": "6ac6ca7049579acb311701f7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/uY6bj95L2Lx4IHzJGV3mALpCr_L-e3f7kQOQ49NfJlY/6ac6ca7049579acb311701f7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/uY6bj95L2Lx4IHzJGV3mALpCr_L-e3f7kQOQ49NfJlY/6ac6ca7049579acb311701f7.md",
+    "created_at": "2026-10-07 22:40:48 UTC",
+    "processed_at": "2026-10-07 22:40:48 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Responsive+Design+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/uY6bj95L2Lx4IHzJGV3mALpCr_L-e3f7kQOQ49NfJlY/6ac6ca7049579acb311701f7.html",
+    "total_time_taken": 2.74
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Responsive Design full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 2376704,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "A practical guide to responsive web design",
+      "link": "https://www.youtube.com/watch?v=x4u1yp3Msao",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=x4u1yp3Msao",
+      "video_id": "x4u1yp3Msao",
+      "channel": {
+        "name": "Kevin Powell",
+        "link": "https://www.youtube.com/@KevinPowell",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/gABekKWtQFmLIjVuhKwoPfd9nIRxAPPhyymO3XaOCc9wko28S9R_8CO125NFjZToZuLlSyfdrak=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 355491,
+      "length": "23:13",
+      "description": "I have a FREE COURSE on conquering responsive layouts https://courses.kevinpowell.co/conquering-responsive-layouts ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/x4u1yp3Msao/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCs2amfADIXR7Hc56xuOP5pMfzdKg",
+        "rich": "https://i.ytimg.com/an_webp/x4u1yp3Msao/mqdefault_6s.webp?du=3000&sqp=CLrkmtYG&rs=AOn4CLCsJncLlroR5VAYEHFRK3tPkUEW7g"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Introduction To Responsive Web Design - HTML & CSS Tutorial",
+      "link": "https://www.youtube.com/watch?v=srvUrASNj0s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=srvUrASNj0s",
+      "video_id": "srvUrASNj0s",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 1307341,
+      "length": "4:11:04",
+      "description": "This tutorial teaches you to build responsive websites from scratch. It's a part of The Responsive Web Design Bootcamp at ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/srvUrASNj0s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdFqRMTbEXMkzAFugTmeucykJy9w",
+        "rich": "https://i.ytimg.com/an_webp/srvUrASNj0s/mqdefault_6s.webp?du=3000&sqp=CKPlmtYG&rs=AOn4CLD18ArLC7aG9Y3ff7xYuEJ0q5CZxQ"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Responsive design made easy",
+      "link": "https://www.youtube.com/watch?v=bn-DQCifeQQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bn-DQCifeQQ",
+      "video_id": "bn-DQCifeQQ",
+      "channel": {
+        "name": "Kevin Powell",
+        "link": "https://www.youtube.com/@KevinPowell",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/gABekKWtQFmLIjVuhKwoPfd9nIRxAPPhyymO3XaOCc9wko28S9R_8CO125NFjZToZuLlSyfdrak=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 497699,
+      "length": "42:40",
+      "description": "Conquering Responsive Layouts: https://courses.kevinpowell.co/conquering-responsive-layouts Creating responsive sites can be ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bn-DQCifeQQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsEJk0mvjmRAYENJhHE6LIkBy_Ug",
+        "rich": "https://i.ytimg.com/an_webp/bn-DQCifeQQ/mqdefault_6s.webp?du=3000&sqp=CPzPmtYG&rs=AOn4CLBGwzQHuXvS3UxTYFZGaQV6WoMNLg"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Responsive Web Development Complete Course for Beginners | Tutorial + Full Project",
+      "link": "https://www.youtube.com/watch?v=J_r6hBo9lO4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=J_r6hBo9lO4",
+      "video_id": "J_r6hBo9lO4",
+      "channel": {
+        "name": "Sheryians Coding School",
+        "link": "https://www.youtube.com/@sheryians",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/t8z86Svc4diX-k6VHCZ7AY0EFgVin91qLZigPwJLnavVaB0YPa0etWa-c7bG1BUEcbB4U4im=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 309360,
+      "length": "3:22:05",
+      "description": "Want to learn how to make any website responsive from scratch? This complete tutorial covers everything step by step — perfect ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/J_r6hBo9lO4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfeJlp74nkJb3bQrm7h0Cc4enQpw",
+        "rich": "https://i.ytimg.com/an_webp/J_r6hBo9lO4/mqdefault_6s.webp?du=3000&sqp=CIDSmtYG&rs=AOn4CLD4YiEBZbRgYtqWqRoPWluGPfi36w"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Build a responsive website with HTML, CSS, JS (Course)",
+      "link": "https://www.youtube.com/watch?v=wGVOtu0DoKk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wGVOtu0DoKk",
+      "video_id": "wGVOtu0DoKk",
+      "channel": {
+        "name": "Coder Coder",
+        "link": "https://www.youtube.com/@TheCoderCoder",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k44gHBoHPwPbUJz36pexiQQyqImaAzZNP-MNbbLZZ11VY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 43662,
+      "length": "2:48:04",
+      "description": "How to build a responsive website with HTML, CSS, and JavaScript (first 3 hours of my course) Check out my course here: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wGVOtu0DoKk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZPJjZgZpaYgzuFNUTt-QtxoO4vA",
+        "rich": "https://i.ytimg.com/an_webp/wGVOtu0DoKk/mqdefault_6s.webp?du=3000&sqp=CIzsmtYG&rs=AOn4CLDdoeQI0FE6nzXhUbxw-5MJrH7FCQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Figma Crash Course 2025: Responsive Website Design",
+      "link": "https://www.youtube.com/watch?v=m9uXR4xt95w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=m9uXR4xt95w",
+      "video_id": "m9uXR4xt95w",
+      "channel": {
+        "name": "Flux Academy",
+        "link": "https://www.youtube.com/@FluxAcademy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/D-wuZT2I_1Y_DKzP6pg-jZIJwfiBanfX1YN7iIvk_u6thQT2bH7jO7tQor6PvoFMp_q7MeW4vg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 86515,
+      "length": "1:44:11",
+      "description": "In this free crash course you will learn how to use Figma to design a website, turning a rough sketch into a beautiful design for ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/m9uXR4xt95w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjHpMhZojvyO6KTEcL-nXJoi8ISg",
+        "rich": "https://i.ytimg.com/an_webp/m9uXR4xt95w/mqdefault_6s.webp?du=3000&sqp=CLjxmtYG&rs=AOn4CLDniiALrnD3u3HSKHvcoGfIZdNDCw"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Responsive Web Design Tutorial For Beginners With Examples",
+      "link": "https://www.youtube.com/watch?v=6Yh8y0pVfQc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6Yh8y0pVfQc",
+      "video_id": "6Yh8y0pVfQc",
+      "channel": {
+        "name": "Flux Academy",
+        "link": "https://www.youtube.com/@FluxAcademy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/D-wuZT2I_1Y_DKzP6pg-jZIJwfiBanfX1YN7iIvk_u6thQT2bH7jO7tQor6PvoFMp_q7MeW4vg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 87720,
+      "length": "22:03",
+      "description": "Check out BrowserStack: https://www.browserstack.com/ FREE Ebook \"Getting started in Web Design\" - Download here ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6Yh8y0pVfQc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUHu0Nx-JmGpvmjpoZ105lhzBAAw",
+        "rich": "https://i.ytimg.com/an_webp/6Yh8y0pVfQc/mqdefault_6s.webp?du=3000&sqp=CK6Cm9YG&rs=AOn4CLDjoj3CEN5utU65MvEK5BrUVGyvMA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "How to Build Responsive Layouts with HTML & CSS (free full course)",
+      "link": "https://www.youtube.com/watch?v=geRlpbhSwqM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=geRlpbhSwqM",
+      "video_id": "geRlpbhSwqM",
+      "channel": {
+        "name": "Coder Coder",
+        "link": "https://www.youtube.com/@TheCoderCoder",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k44gHBoHPwPbUJz36pexiQQyqImaAzZNP-MNbbLZZ11VY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 11181,
+      "length": "3:23:48",
+      "description": "Learn how to build responsive websites with CSS display, position, flexbox and grid. Want to learn how to build a website from ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/geRlpbhSwqM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAORaVqqyVdhyKY2NLJckTAJc7fGQ",
+        "rich": "https://i.ytimg.com/an_webp/geRlpbhSwqM/mqdefault_6s.webp?du=3000&sqp=COeRm9YG&rs=AOn4CLDShaehthw2tJ3T8BsfgHrloBO-sg"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Figma Responsive Design: How Enterprise Teams Actually Do It",
+      "link": "https://www.youtube.com/watch?v=NzFXc6PULh8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NzFXc6PULh8",
+      "video_id": "NzFXc6PULh8",
+      "channel": {
+        "name": "UI Collective",
+        "link": "https://www.youtube.com/@UICollectiveDesign",
+        "thumbnail": "https://yt3.ggpht.com/maD1J_CMk30I-hsm_ntl30hGesy_Z-0wjgmII_c5mfIfpWGTfENr4CMseGAlbgwKW36gNgKXev0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 23278,
+      "length": "50:24",
+      "description": "Learn the fastest method to create fully responsive designs in Figma. In this step-by-step tutorial, I show you the exact workflow ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/NzFXc6PULh8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDf2IgLEnz3Ld0E8kKTe8xprJaow"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Become a CSS Media Queries & Responsive Design Pro! Learn EVERYTHING You Need to Know In Detail 🔍",
+      "link": "https://www.youtube.com/watch?v=webzXg0q_x4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=webzXg0q_x4",
+      "video_id": "webzXg0q_x4",
+      "channel": {
+        "name": "Future Fullstack",
+        "link": "https://www.youtube.com/@futurefullstack",
+        "thumbnail": "https://yt3.ggpht.com/c7ZeILnHyfXX5qypjm9vPq4m1aU-C8ZayeAwNLLNFGZ_1WQ8x7xajaoNQgt_49l1PJ6SJPtExw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 47674,
+      "length": "1:16:03",
+      "description": "This video explains how to use Media Queries in CSS to achieve a fully responsive webpage and covers essential concepts ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/webzXg0q_x4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBIbh6hxIclggsEQtq2eysw4FCvA",
+        "rich": "https://i.ytimg.com/an_webp/webzXg0q_x4/mqdefault_6s.webp?du=3000&sqp=CI77mtYG&rs=AOn4CLADk3sbQF-bDInMeYjwDxzit8tXPQ"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "24 | MAKE A WEBSITE RESPONSIVE FOR ALL DEVICES | 2023 | Learn HTML and CSS Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=UUjNEMXZA-k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UUjNEMXZA-k",
+      "video_id": "UUjNEMXZA-k",
+      "channel": {
+        "name": "Dani Krossing",
+        "link": "https://www.youtube.com/@Dani_Krossing",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mSeayItmvVFloCRPRp-DIy2zt9uqfPHRfycx8CXGBAMvc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 146776,
+      "length": "20:19",
+      "description": "Today I will show you how to make your website responsive using media queries in CSS. Making our website change to fit ...",
+      "extensions": [
+        "Beginner",
+        "Lecture"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/UUjNEMXZA-k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByvMDS-xVrtTiN-GLtRfV4ZCbrWA",
+        "rich": "https://i.ytimg.com/an_webp/UUjNEMXZA-k/mqdefault_6s.webp?du=3000&sqp=CM38mtYG&rs=AOn4CLAz8mm9waeXBlT3rjpTDwSVVjA6SA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code",
+      "link": "https://www.youtube.com/watch?v=C5QFHp1oAws",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=C5QFHp1oAws",
+      "video_id": "C5QFHp1oAws",
+      "channel": {
+        "name": "Bring Your Own Laptop",
+        "link": "https://www.youtube.com/@BringYourOwnLaptop",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k363GTPwqCj005uYA0_A1TupDhWd-tKBPQmrPHVwH78Gw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 2188617,
+      "length": "3:57:17",
+      "description": "Watch + join BYOL for access to this full course and 10% off: https://bit.ly/39JTWJI Download the free exercise files:https://www.",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/C5QFHp1oAws/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwU_mlIGo4NdKz82RZcXFt_2NmKQ",
+        "rich": "https://i.ytimg.com/an_webp/C5QFHp1oAws/mqdefault_6s.webp?du=3000&sqp=CKmGm9YG&rs=AOn4CLDMWqwycgVR-BCZsrVAjfB3bC9AyA"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "HTML & CSS Full Course - Beginner to Pro",
+      "link": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=G3e-cpL7ofc",
+      "video_id": "G3e-cpL7ofc",
+      "channel": {
+        "name": "SuperSimpleDev",
+        "link": "https://www.youtube.com/@SuperSimpleDev",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_laf9dDyNATE1_RdVUKthwnwT9TSm9N0my0jL2H8gCvjw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 20042867,
+      "length": "6:31:16",
+      "description": "Get a certificate for this course: https://courses.supersimple.dev/courses/html-css or Frontend Bundle (React, JS, HTML CSS): ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/G3e-cpL7ofc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDU0mSki3dTR7OF2ypmZff7aVVB0g",
+        "rich": "https://i.ytimg.com/an_webp/G3e-cpL7ofc/mqdefault_6s.webp?du=3000&sqp=CMD2mtYG&rs=AOn4CLBTueDGn4h60897VVwXqLiiFHxFCQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Build a Responsive Website | HTML, CSS Grid, Flexbox & More",
+      "link": "https://www.youtube.com/watch?v=p0bGHP-PXD4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=p0bGHP-PXD4",
+      "video_id": "p0bGHP-PXD4",
+      "channel": {
+        "name": "Traversy Media",
+        "link": "https://www.youtube.com/@TraversyMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1041199,
+      "length": "2:02:22",
+      "description": "In this project we will build a custom website using HTML5 and modern CSS techniques such as CSS Grid, Flexbox, psuedo ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/p0bGHP-PXD4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvjebVxTGPLBW8HU7fh4Go4TUEUQ",
+        "rich": "https://i.ytimg.com/an_webp/p0bGHP-PXD4/mqdefault_6s.webp?du=3000&sqp=CK75mtYG&rs=AOn4CLAtFvcK1imogPSFXu3atVsYCGXo6w"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "17: How to Make a Website Responsive | Learn HTML and CSS | Full Course For Beginners",
+      "link": "https://www.youtube.com/watch?v=ZYV6dYtz4HA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZYV6dYtz4HA",
+      "video_id": "ZYV6dYtz4HA",
+      "channel": {
+        "name": "Dani Krossing",
+        "link": "https://www.youtube.com/@Dani_Krossing",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mSeayItmvVFloCRPRp-DIy2zt9uqfPHRfycx8CXGBAMvc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 1078744,
+      "length": "21:17",
+      "description": "FIND MY 2023 COURSE HERE: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZYV6dYtz4HA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWQlRVUANuYaSZykTgMSDolkpPwg",
+        "rich": "https://i.ytimg.com/an_webp/ZYV6dYtz4HA/mqdefault_6s.webp?du=3000&sqp=CPDumtYG&rs=AOn4CLAKD2xFM4zPlyxxw9zrJKHbMjPLjA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Responsive Design in Figma: Crash Course 2023",
+      "link": "https://www.youtube.com/watch?v=tJCv91c6Krk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tJCv91c6Krk",
+      "video_id": "tJCv91c6Krk",
+      "channel": {
+        "name": "Tim Gabe",
+        "link": "https://www.youtube.com/@TimGabe",
+        "thumbnail": "https://yt3.ggpht.com/LtXuvUAp6FqZbXNpjx8Kx9Gh6u3lLHf6Whj4VGxYKUOW8qvI77lTxNfNckAByi6MHhqCPI5SvA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 194754,
+      "length": "20:47",
+      "description": "If you struggle with responsive desktop, tablet or mobile design in Figma — this is the video for you to finally grasp it. learn ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tJCv91c6Krk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU_F763A9i8vDo8PBPHsvBRjkcaQ",
+        "rich": "https://i.ytimg.com/an_webp/tJCv91c6Krk/mqdefault_6s.webp?du=3000&sqp=CNWUm9YG&rs=AOn4CLCnlgRNt65ELnj0bvCIeNapHL-V_Q"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Web Design for Beginners | FREE COURSE",
+      "link": "https://www.youtube.com/watch?v=B-ytMSuwbf8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=B-ytMSuwbf8",
+      "video_id": "B-ytMSuwbf8",
+      "channel": {
+        "name": "Envato Tuts+",
+        "link": "https://www.youtube.com/@envatotuts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/M5vM7P_DF_hQzNDgwUWJKy9x-vofZQA1kUAMWs5EG1cOFXdbtU9IrTCKj3iubgfU3_uX01ji1Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 4006907,
+      "length": "5:18:44",
+      "description": "If you're new to web design, this course on web design for beginners will teach you everything you need to know. ▻ Download ...",
+      "extensions": [
+        "Beginner"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/B-ytMSuwbf8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZo94dxjVjUZ52ubjjOkzMcxZzlQ",
+        "rich": "https://i.ytimg.com/an_webp/B-ytMSuwbf8/mqdefault_6s.webp?du=3000&sqp=CIHZmtYG&rs=AOn4CLCTYWDR_gvX8gnhc4qx9Q7zUju4Zw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Build An HTML5 Website With A Responsive Layout",
+      "link": "https://www.youtube.com/watch?v=Wm6CUkswsNw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Wm6CUkswsNw",
+      "video_id": "Wm6CUkswsNw",
+      "channel": {
+        "name": "Traversy Media",
+        "link": "https://www.youtube.com/@TraversyMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 3201983,
+      "length": "1:01:15",
+      "description": "In this video we will build a clean coded responsive mobile friendly HTML5 website for a fictional web design company. We will go ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Wm6CUkswsNw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJPSnUA49jkKJhJXuH0MVTkq8hZA",
+        "rich": "https://i.ytimg.com/an_webp/Wm6CUkswsNw/mqdefault_6s.webp?du=3000&sqp=CJjjmtYG&rs=AOn4CLCL4a1si0oSME5LkQIAB7KLtxj_Qg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Framer for Beginners: The #1 Secret to a Responsive Site (2026)",
+      "link": "https://www.youtube.com/watch?v=6pXsdCxy2Oo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6pXsdCxy2Oo",
+      "video_id": "6pXsdCxy2Oo",
+      "channel": {
+        "name": "Framer University",
+        "link": "https://www.youtube.com/@framer.university",
+        "thumbnail": "https://yt3.ggpht.com/fs25BD1bcURoqT7-aOxsjrl2aqlzlgm54fGSmsd68ToETHvKiiSPkekisQNYbQ8viQG2u7pJpMs=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 65584,
+      "length": "33:28",
+      "description": "Framer University: https://frameruni.link/yt ✔︎ Create a free Framer account: https://framer.university/free-account In this Framer ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6pXsdCxy2Oo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBR_t1XpG2giF8t8Oh1HgaORSKwbA",
+        "rich": "https://i.ytimg.com/an_webp/6pXsdCxy2Oo/mqdefault_6s.webp?du=3000&sqp=CLqIm9YG&rs=AOn4CLBOQDazRSvdGrrffNKy4FXAcHzugw"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Webflow Responsive Design for Total Beginners!",
+      "link": "https://www.youtube.com/watch?v=Ibz-hF51rZ0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ibz-hF51rZ0",
+      "video_id": "Ibz-hF51rZ0",
+      "channel": {
+        "name": "Envato Tuts+",
+        "link": "https://www.youtube.com/@envatotuts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/M5vM7P_DF_hQzNDgwUWJKy9x-vofZQA1kUAMWs5EG1cOFXdbtU9IrTCKj3iubgfU3_uX01ji1Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 24188,
+      "length": "40:47",
+      "description": "Webflow has all kinds of tools for creating perfectly responsive websites, without writing a single line of code. In this course, Adi ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ibz-hF51rZ0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsb4XTdV-6_TxtSuOo2h3qrN-VsQ",
+        "rich": "https://i.ytimg.com/an_webp/Ibz-hF51rZ0/mqdefault_6s.webp?du=3000&sqp=CKmPm9YG&rs=AOn4CLBlrg_511g1rxO_7b9xhct-NtluPg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Responsive+Design+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Responsive%20Design%20full%20course%20for%20beginners&sp=EgIYAkgUggELeDR1MXlwM01zYW-CAQtzcnZVckFTTmowc4IBC2JuLURRQ2lmZVFRggELSl9yNmhCbzlsTzSCAQt3R1ZPdHUwRG9La4IBC205dVhSNHh0OTV3ggELNlloOHkwcFZmUWOCAQtnZVJscGJoU3dxTYIBC056RlhjNlBVTGg4ggELd2VielhnMHFfeDSCAQtVVWpORU1YWkEta4IBC0M1UUZIcDFvQXdzggELRzNlLWNwTDdvZmOCAQtwMGJHSFAtUFhENIIBC1pZVjZkWXR6NEhBggELdEpDdjkxYzZLcmuCAQtCLXl0TVN1d2JmOIIBC1dtNkNVa3N3c053ggELNnBYc2RDeHkyT2-CAQtJYnotaEY1MXJaMLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELeDR1MXlwM01zYW-CAQtzcnZVckFTTmowc4IBC2JuLURRQ2lmZVFRggELSl9yNmhCbzlsTzSCAQt3R1ZPdHUwRG9La4IBC205dVhSNHh0OTV3ggELNlloOHkwcFZmUWOCAQtnZVJscGJoU3dxTYIBC056RlhjNlBVTGg4ggELd2VielhnMHFfeDSCAQtVVWpORU1YWkEta4IBC0M1UUZIcDFvQXdzggELRzNlLWNwTDdvZmOCAQtwMGJHSFAtUFhENIIBC1pZVjZkWXR6NEhBggELdEpDdjkxYzZLcmuCAQtCLXl0TVN1d2JmOIIBC1dtNkNVa3N3c053ggELNnBYc2RDeHkyT2-CAQtJYnotaEY1MXJaMLIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Responsive+Design+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Responsive+Design+full+course+for+beginners&sp=EgIYAkgUggELeDR1MXlwM01zYW-CAQtzcnZVckFTTmowc4IBC2JuLURRQ2lmZVFRggELSl9yNmhCbzlsTzSCAQt3R1ZPdHUwRG9La4IBC205dVhSNHh0OTV3ggELNlloOHkwcFZmUWOCAQtnZVJscGJoU3dxTYIBC056RlhjNlBVTGg4ggELd2VielhnMHFfeDSCAQtVVWpORU1YWkEta4IBC0M1UUZIcDFvQXdzggELRzNlLWNwTDdvZmOCAQtwMGJHSFAtUFhENIIBC1pZVjZkWXR6NEhBggELdEpDdjkxYzZLcmuCAQtCLXl0TVN1d2JmOIIBC1dtNkNVa3N3c053ggELNnBYc2RDeHkyT2-CAQtJYnotaEY1MXJaMLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELeDR1MXlwM01zYW-CAQtzcnZVckFTTmowc4IBC2JuLURRQ2lmZVFRggELSl9yNmhCbzlsTzSCAQt3R1ZPdHUwRG9La4IBC205dVhSNHh0OTV3ggELNlloOHkwcFZmUWOCAQtnZVJscGJoU3dxTYIBC056RlhjNlBVTGg4ggELd2VielhnMHFfeDSCAQtVVWpORU1YWkEta4IBC0M1UUZIcDFvQXdzggELRzNlLWNwTDdvZmOCAQtwMGJHSFAtUFhENIIBC1pZVjZkWXR6NEhBggELdEpDdjkxYzZLcmuCAQtCLXl0TVN1d2JmOIIBC1dtNkNVa3N3c053ggELNnBYc2RDeHkyT2-CAQtJYnotaEY1MXJaMLIBBgoECBQQAg%3D%3D"
+  }
+}

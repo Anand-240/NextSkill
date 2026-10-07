@@ -41,8 +41,8 @@ Noida returned enough results, so Delhi fallback was unnecessary. All four respo
 
 | Fresher persona | Eligible listings | Jobs with core requirements | Ready | Needs more experience | Top scored skill | Jobs unlocked | Sample confidence | Robustness |
 |---|---:|---:|---:|---:|---|---:|---|---|
-| Excel, basic Python → Data Analyst, Noida | 20 | 17 | 1/17 | 14 | SQL | +8 | Medium | Sensitive: at threshold 0.6, Power BI leads |
-| HTML, CSS, JavaScript → Frontend Developer, Bengaluru | 23 | 19 | 7/19 | 22 | React (or Angular / Vue.js) | +8 | Medium | Stable across checked settings |
+| Excel, basic Python → Data Analyst, Noida | 20 | 17 | 1/17 | 14 | SQL | +8 | Medium | Power BI leads at threshold 0.6 |
+| HTML, CSS, JavaScript → Frontend Developer, Bengaluru | 23 | 19 | 7/19 | 22 | React (or Angular / Vue.js) | +8 | Medium | Pick unchanged across checked settings |
 
 Both demos now exceed the 12-listing target, so the top scored card gets a 🥇 badge. These are saved snapshots; “ready” means core-skill coverage reaches the selected threshold, not that hiring is likely.
 

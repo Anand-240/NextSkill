@@ -23,7 +23,7 @@ ALIASES = {
     "SQL Server": ["MS SQL Server", "Microsoft SQL Server", "MSSQL"],
     "PostgreSQL": ["Postgres"], "MongoDB": ["Mongo DB"],
     "CI/CD": ["CI CD", "continuous integration and continuous delivery"],
-    "REST API": ["RESTful APIs", "RESTful API", "REST APIs"],
+    "REST API": ["RESTful APIs", "RESTful API", "REST APIs", "REST services", "REST service", "RESTful services", "RESTful service"],
     "Scikit-learn": ["sklearn", "scikit learn"],
     "GA4": ["Google Analytics 4"],
     "Google Ads": ["Google AdWords", "AdWords"],
@@ -45,7 +45,7 @@ ALIASES = {
 AMBIGUOUS = {"R", "Go", "C"}
 GENERIC = {"Data Analysis", "Business Intelligence", "Digital Marketing", "Graphic Design",
            "Compliance", "Machine Learning", "Communication", "Problem Solving",
-           "Teamwork", "Analytical Skills"}
+           "Teamwork", "Analytical Skills", "UI/UX"}
 _patterns = defaultdict(list)
 for names in SKILLS.values():
     for canonical in names:

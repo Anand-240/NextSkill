@@ -1,0 +1,458 @@
+{
+  "search_metadata": {
+    "id": "6ac6ca65f6e9266a876f5404",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/EyctjOSg83N0hbIm1u7E1TFkgDln3WTUAfYvwzljeVc/6ac6ca65f6e9266a876f5404.json",
+    "markdown_endpoint": "https://serpapi.com/searches/EyctjOSg83N0hbIm1u7E1TFkgDln3WTUAfYvwzljeVc/6ac6ca65f6e9266a876f5404.md",
+    "created_at": "2026-10-07 22:40:37 UTC",
+    "processed_at": "2026-10-07 22:40:37 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Data+Cleaning+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/EyctjOSg83N0hbIm1u7E1TFkgDln3WTUAfYvwzljeVc/6ac6ca65f6e9266a876f5404.html",
+    "total_time_taken": 2.63
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Data Cleaning full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 935835,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Cleaning Data in Excel | Excel Tutorials for Beginners",
+      "link": "https://www.youtube.com/watch?v=_jmiEGZ6PIY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_jmiEGZ6PIY",
+      "video_id": "_jmiEGZ6PIY",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 902328,
+      "length": "21:04",
+      "description": "Take my Full Excel for Data Analytics Course! https://www.analystbuilder.com/courses/excel-for-data-analytics Excel is one of the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_jmiEGZ6PIY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARNoi3y5KUMhmOhxAe3HhFYoXKmw",
+        "rich": "https://i.ytimg.com/an_webp/_jmiEGZ6PIY/mqdefault_6s.webp?du=3000&sqp=CMLimtYG&rs=AOn4CLDdq9TaJ_ANn7vCWu6_in6P72i4Tg"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Cleaning Data in Excel: Microsoft Excel Crash Course",
+      "link": "https://www.youtube.com/watch?v=50Wd-Blu8DU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=50Wd-Blu8DU",
+      "video_id": "50Wd-Blu8DU",
+      "channel": {
+        "name": "Simon Sez IT",
+        "link": "https://www.youtube.com/@SimonSezIT",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5n5ruLbcevwzMRUwDYTpV-MMWyhH9IdJFU2lby8CC8Ls=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 127458,
+      "length": "1:01:13",
+      "description": "Download the free demo file and follow along here ➡️https://www.simonsezit.com/cleaning-data-in-excel-webinar-demo-files In ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/50Wd-Blu8DU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeDJm8Pp1e0Z4VebfJGaGFpRHayg",
+        "rich": "https://i.ytimg.com/an_webp/50Wd-Blu8DU/mqdefault_6s.webp?du=3000&sqp=CJGIm9YG&rs=AOn4CLCnK3aH4i1XC_cE8RzlQXqiF8mQ7w"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Understanding Data Cleaning | Google Data Analytics Certificate",
+      "link": "https://www.youtube.com/watch?v=kCP-H8VRDCw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kCP-H8VRDCw",
+      "video_id": "kCP-H8VRDCw",
+      "channel": {
+        "name": "Grow with Google",
+        "link": "https://www.youtube.com/@growwithgoogle",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/2wrZdGoZcp6JeGIxiNO6lLfHjPgF8uTkUM1dURclf44qhuNouF6q8GPRuEpD2Ez0BmiLfL7cTg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 255420,
+      "length": "1:06:05",
+      "description": "Data cleaning is essential for successful analysis. If a piece of data is entered into a spreadsheet or database incorrectly, or if data ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/kCP-H8VRDCw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEg0_bZaYpxlL9N6tcF81h3PWX2A",
+        "rich": "https://i.ytimg.com/an_webp/kCP-H8VRDCw/mqdefault_6s.webp?du=3000&sqp=CIzsmtYG&rs=AOn4CLCUmnh6AXRfL8C3Cqg-XRsJfe2NOA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "My Gift for You 🎁! ₹20,000 Worth of (Data Science with Machine Learning Course) in Tamil",
+      "link": "https://www.youtube.com/watch?v=k6HOBjkUkE4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=k6HOBjkUkE4",
+      "video_id": "k6HOBjkUkE4",
+      "channel": {
+        "name": "AI Coach John (Tamil)",
+        "link": "https://www.youtube.com/@aicoachjohn",
+        "thumbnail": "https://yt3.ggpht.com/UsqpPLgtFy0dsDrm_GEfP6prM9iZYt7PTTC20H5PtMon2GCfm1LgtF4whju0mhtzhmkN1FAe=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 374831,
+      "length": "18:20:13",
+      "description": "Want to become a Data Analyst, Data Scientist, or GenAI Engineer? Service Enquiry Form ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/k6HOBjkUkE4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_7gLvRmAKcrH_SRXNmNLv5IG6hQ",
+        "rich": "https://i.ytimg.com/an_webp/k6HOBjkUkE4/mqdefault_6s.webp?du=3000&sqp=CID2mtYG&rs=AOn4CLDW43BQw5OspPV5wFe1PwPt0Rup6Q"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Data Cleaning Full Course for Data Science, Data Analysis, Machine Learning [FREE] - 2024 Edition",
+      "link": "https://www.youtube.com/watch?v=ITy8R4278sk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ITy8R4278sk",
+      "video_id": "ITy8R4278sk",
+      "channel": {
+        "name": "WsCube Tech",
+        "link": "https://www.youtube.com/@wscubetech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4FfycrkxlH3gF9HMpPqAmChY3kIH5gWdVNuYjqBGd5j0SpF-ALs6sVSfCQ-5qPyZYgJ79H0QKfA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 210093,
+      "length": "3:29:35",
+      "description": "Data Cleaning Full Course for Data Science, Data Analysis, Machine Learning [FREE] - 2024 Edition To learn Data Science ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ITy8R4278sk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-OrX9mxML5tLWpFv0HKcQ1NEC9A",
+        "rich": "https://i.ytimg.com/an_webp/ITy8R4278sk/mqdefault_6s.webp?du=3000&sqp=CLuUm9YG&rs=AOn4CLCLV0nvPcSqRAqC4nfrJUVpGQSvHQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "(The No.1 🔥) SQL FULL Course 2026 in Tamil | Beginner Friendly",
+      "link": "https://www.youtube.com/watch?v=IzyebUSMVa0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IzyebUSMVa0",
+      "video_id": "IzyebUSMVa0",
+      "channel": {
+        "name": "AI Coach John (Tamil)",
+        "link": "https://www.youtube.com/@aicoachjohn",
+        "thumbnail": "https://yt3.ggpht.com/UsqpPLgtFy0dsDrm_GEfP6prM9iZYt7PTTC20H5PtMon2GCfm1LgtF4whju0mhtzhmkN1FAe=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 188009,
+      "length": "4:27:32",
+      "description": "Want to become a Data Analyst, Data Scientist, or GenAI Engineer? Service Enquiry Form ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/IzyebUSMVa0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7Yhlp7ETdTRNp4kpWwiRfyL-vDw",
+        "rich": "https://i.ytimg.com/an_webp/IzyebUSMVa0/mqdefault_6s.webp?du=3000&sqp=CMeAm9YG&rs=AOn4CLABrq8FiUFAkn1eDBM9SEJ-nXBc_w"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Learn Excel in Under 3 Hours | Pivot Tables, Lookups, Data Cleaning",
+      "link": "https://www.youtube.com/watch?v=zXnQNytHCPM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zXnQNytHCPM",
+      "video_id": "zXnQNytHCPM",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 286263,
+      "length": "2:38:36",
+      "description": "Take my Full Excel Course Here: https://www.analystbuilder.com/courses/excel-for-data-analytics Download Datasets: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zXnQNytHCPM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU5sXZDGrBarqU0GXYyRpQUpKNdA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Data Cleaning in Pandas | Python Pandas Tutorials",
+      "link": "https://www.youtube.com/watch?v=bDhvCp3_lYw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bDhvCp3_lYw",
+      "video_id": "bDhvCp3_lYw",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 620494,
+      "length": "38:37",
+      "description": "Take my Full Python Course Here: https://www.analystbuilder.com/courses/pandas-for-data-analysis In this series we will be ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bDhvCp3_lYw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXM6Ll853SY0bZMU53yo4IfqbtMQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "How to Clean, Analyze and Present Data with Excel (FREE Adv. Course)",
+      "link": "https://www.youtube.com/watch?v=H6k28jhclwI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=H6k28jhclwI",
+      "video_id": "H6k28jhclwI",
+      "channel": {
+        "name": "Chandoo",
+        "link": "https://www.youtube.com/@chandoo_",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_wMqn3mAO7vDs1s74bHiFXXv24ckFsv2mnV1US8mS_w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 526115,
+      "length": "1:32:40",
+      "description": "You asked for it. Here is my free course on advanced data analytics. Want more... get my Excel School program ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/H6k28jhclwI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDG9qbVmkH9I-Qy2NhUZqJX-_i1eg",
+        "rich": "https://i.ytimg.com/an_webp/H6k28jhclwI/mqdefault_6s.webp?du=3000&sqp=CMyEm9YG&rs=AOn4CLA-v4YJfm-YVgDT1qkqaQdy30GPOQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Data Cleaning using Excel (Roll-Over)",
+      "link": "https://www.youtube.com/watch?v=k0FN5C08yTM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=k0FN5C08yTM",
+      "video_id": "k0FN5C08yTM",
+      "channel": {
+        "name": "Esther Chinenye Anagu",
+        "link": "https://www.youtube.com/@anaest_in_tech",
+        "thumbnail": "https://yt3.ggpht.com/3tmBS7__VJzKya4fgzvGwznGdUC5Efvvz5oAQOuSq6A9dX2nD9NR9zidxQdrHfK1En7QEYcToMY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 1y ago",
+      "views": 20215,
+      "length": "45:17",
+      "description": "Hey amazing people, since we had network issues during the session, I've gone ahead to record the full class for you. It's even ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/k0FN5C08yTM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZvfk9Tb1EGhN5HsNQGf8V9wqB1g",
+        "rich": "https://i.ytimg.com/an_webp/k0FN5C08yTM/mqdefault_6s.webp?du=3000&sqp=CIrwmtYG&rs=AOn4CLBCB7MM7f1qxSLu3HWFYN3DEc3isA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Excel Data Analysis Full Course Tutorial (7+ Hours)",
+      "link": "https://www.youtube.com/watch?v=qrbf9DtR3_c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qrbf9DtR3_c",
+      "video_id": "qrbf9DtR3_c",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "link": "https://www.youtube.com/@learnskillsdaily",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WwrBREpkRbdALebIg_xlBFBSwc7H8_tBcqgjLSP4fpZkMcPp3hSledFRan866itfUwsEKg-AUQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 2232685,
+      "length": "7:11:22",
+      "description": "Excel Data Analysis Full Course Tutorial (7+ Hours) Join Learn Skills Daily for ad-free training, exams, certificates, and exclusive ...",
+      "extensions": [
+        "2 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qrbf9DtR3_c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrsTB77ktgVjrjKYni8gzZ9vrlLg",
+        "rich": "https://i.ytimg.com/an_webp/qrbf9DtR3_c/mqdefault_6s.webp?du=3000&sqp=CN3VmtYG&rs=AOn4CLAeUVgUj79tFSb4eetAYyph1v0qTg"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Beginner to PRO Data Analysis with Excel - FREE Adv. Masterclass in TELUGU",
+      "link": "https://www.youtube.com/watch?v=rcL7C5YzHR8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rcL7C5YzHR8",
+      "video_id": "rcL7C5YzHR8",
+      "channel": {
+        "name": "Chandoo - Tech in Telugu",
+        "link": "https://www.youtube.com/@data_with_chandoo",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/c0wZniPmDuPUo-EwQwWzYiLu9N9axEFY9JAhcLPeCE7fQAdNohupirU_ss_8nv-42wrT-11-Mg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 667654,
+      "length": "36:04",
+      "description": "Want to learn how to perform data analysis in Excel from beginning to end? This is the video! In this video, you are going to learn: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rcL7C5YzHR8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuf9dgfKKrScIxzxm9nXLNL-DpvQ",
+        "rich": "https://i.ytimg.com/an_webp/rcL7C5YzHR8/mqdefault_6s.webp?du=3000&sqp=CNWNm9YG&rs=AOn4CLB8wEzAhGvygAcTab_jU2Rr72KqYg"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Step-by-Step Data Cleaning with Python | Python Pandas Tutorial",
+      "link": "https://www.youtube.com/watch?v=MDaMmWBI-S8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MDaMmWBI-S8",
+      "video_id": "MDaMmWBI-S8",
+      "channel": {
+        "name": "Data Analytics Lab",
+        "link": "https://www.youtube.com/@DataAnalyticsLabs",
+        "thumbnail": "https://yt3.ggpht.com/WjB7mX1WNBCHqDX-MaTBP3l3UWQIz0wd7EaV_n892fDSzvqbN8XZ0_LLWxiPb96cJK38KxfDww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 49081,
+      "length": "25:43",
+      "description": "In this step-by-step tutorial, I'll walk you through the entire data cleaning process using Python and Pandas with a real-world hotel ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/MDaMmWBI-S8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFkTXXJzE-zUDo-8Mv8rEVznWhJw",
+        "rich": "https://i.ytimg.com/an_webp/MDaMmWBI-S8/mqdefault_6s.webp?du=3000&sqp=CM35mtYG&rs=AOn4CLB-BTiF6Bc8Bk43IIrapfNnNQF0HQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "10 Excel Data Cleaning Hacks Every Data Analyst Must Know😲🔥",
+      "link": "https://www.youtube.com/watch?v=E8-2tChdBBs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=E8-2tChdBBs",
+      "video_id": "E8-2tChdBBs",
+      "channel": {
+        "name": "Excel Tutorial by SkillCourse",
+        "link": "https://www.youtube.com/@Excel_Tutorial",
+        "thumbnail": "https://yt3.ggpht.com/xHHugiAorMaZXzCJrH1YGRuYB_tP5CeGjVTkj0RxpPstC9eXNnv1OIhblIX4OGWMNWkf2PowqA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8mo ago",
+      "views": 227397,
+      "length": "20:33",
+      "description": "10 Excel Data Cleaning Hacks Every Data Analyst Must Know #ET207 Want to become Excel Superman check it out India's first ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/E8-2tChdBBs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwEGzrISWjYRjo4HVumGE_Pk9RFw",
+        "rich": "https://i.ytimg.com/an_webp/E8-2tChdBBs/mqdefault_6s.webp?du=3000&sqp=CL_4mtYG&rs=AOn4CLAEOz68mqgrCuywwYsOT9lhnvRaCA"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Master Data Cleaning and Data Modeling in Power BI (Real-World Approach) | Real Time Data #powerbi",
+      "link": "https://www.youtube.com/watch?v=AIFtvs-hTUo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=AIFtvs-hTUo",
+      "video_id": "AIFtvs-hTUo",
+      "channel": {
+        "name": "Data Tutorials",
+        "link": "https://www.youtube.com/@datatutorials1",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/65dVSzS0O2ZAeMaQV5vQVLRBr2PRRTBEZOS3B3404yxPPVv38Tw6K-ynToN3_gQsr6XpgwsK=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 40189,
+      "length": "2:09:58",
+      "description": "powerbi #datacleaning #datamodeling ⭐ Power BI DAX - Complete Video Course - https://topmate.io/data_tutorials/1842994 ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/AIFtvs-hTUo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDudoXMpbTF41O12jgVzs_ZeTJlkg"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Real World Data Cleaning in Python Pandas (Step By Step)",
+      "link": "https://www.youtube.com/watch?v=iaZQF8SLHJs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iaZQF8SLHJs",
+      "video_id": "iaZQF8SLHJs",
+      "channel": {
+        "name": "Ryan & Matt Data Science",
+        "link": "https://www.youtube.com/@RyanAndMattDataScience",
+        "thumbnail": "https://yt3.ggpht.com/pcxizEDLPN4ONUXC0vffYgauSmnnuUPwS2ZqqxzL2790GMChNzFW0w6G3mCQe4aicMQYO-WtIYI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 141860,
+      "length": "40:01",
+      "description": "Don't miss out! Get FREE access to my Skool community — packed with resources, tools, and support to help you with Data, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/iaZQF8SLHJs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZV5ZHNgQAAkRNsfyDHWBGPHV7Xg",
+        "rich": "https://i.ytimg.com/an_webp/iaZQF8SLHJs/mqdefault_6s.webp?du=3000&sqp=CKeBm9YG&rs=AOn4CLB54ojNgoFxYV-sLTu2UpykS2J2NQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Episode 1: Practical Excel Data Cleaning | Data Analyst Bootcamp ",
+      "link": "https://www.youtube.com/watch?v=t3qky6oQVlI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t3qky6oQVlI",
+      "video_id": "t3qky6oQVlI",
+      "channel": {
+        "name": "Abdikarim Mataan",
+        "link": "https://www.youtube.com/@MataanAnalytics",
+        "thumbnail": "https://yt3.ggpht.com/GPB3ku4rhXqHJ55C1rYHWoDAUTBGUKVPO_3iqIU1OZ7D8gU6zR_1nVClO8AEhkZp6Ugefx-0_04=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 8773,
+      "length": "59:57",
+      "description": "Most data analytics lessons use clean, fake datasets. This one doesn't. In this 1-hour hands-on lesson, you'll clean a real-world ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/t3qky6oQVlI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtMK2vL3q6IZ-5Ql0t6tR2QS-SEg",
+        "rich": "https://i.ytimg.com/an_webp/t3qky6oQVlI/mqdefault_6s.webp?du=3000&sqp=CL74mtYG&rs=AOn4CLCk8GV0zwt9HzsshXmz9qBLON4l5Q"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "#22 Data Cleaning with Python Pandas | Data Science for Beginners in Tamil",
+      "link": "https://www.youtube.com/watch?v=KszgYPZiAzM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=KszgYPZiAzM",
+      "video_id": "KszgYPZiAzM",
+      "channel": {
+        "name": "AI Coach John (Tamil)",
+        "link": "https://www.youtube.com/@aicoachjohn",
+        "thumbnail": "https://yt3.ggpht.com/UsqpPLgtFy0dsDrm_GEfP6prM9iZYt7PTTC20H5PtMon2GCfm1LgtF4whju0mhtzhmkN1FAe=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 9425,
+      "length": "27:29",
+      "description": "1:1 Mock Interview Application Form: https://forms.gle/koRAx4vcenVsaELB8 Access the Materials from here: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/KszgYPZiAzM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC972npdsMJWLevZfRAHRImHz-Z9w",
+        "rich": "https://i.ytimg.com/an_webp/KszgYPZiAzM/mqdefault_6s.webp?du=3000&sqp=CKHxmtYG&rs=AOn4CLCmb6zz_mbUmBUPmrQj1jZDa6Xs6A"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Learn Data Cleaning with Power Query in 60 Minutes (Full Course)",
+      "link": "https://www.youtube.com/watch?v=Vh94CF9iBR0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Vh94CF9iBR0",
+      "video_id": "Vh94CF9iBR0",
+      "channel": {
+        "name": "WsCube Tech",
+        "link": "https://www.youtube.com/@wscubetech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4FfycrkxlH3gF9HMpPqAmChY3kIH5gWdVNuYjqBGd5j0SpF-ALs6sVSfCQ-5qPyZYgJ79H0QKfA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 84786,
+      "length": "1:02:57",
+      "description": "Learn Data Cleaning with Power Query in 60 Minutes (Full Course) Become a Data Analyst with Industry Top Mentors: Over 120+ ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Vh94CF9iBR0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkvJXbvRbxWRUk79qadf1xP1FMRQ",
+        "rich": "https://i.ytimg.com/an_webp/Vh94CF9iBR0/mqdefault_6s.webp?du=3000&sqp=CL32mtYG&rs=AOn4CLAZliumDU1w2LIB7xVRFlHelJa5Fg"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Complete Excel Tutorial for Data Analysis in 4 Hours (with FREE Files)",
+      "link": "https://www.youtube.com/watch?v=7QNgqq154gE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7QNgqq154gE",
+      "video_id": "7QNgqq154gE",
+      "channel": {
+        "name": "Chandoo",
+        "link": "https://www.youtube.com/@chandoo_",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_wMqn3mAO7vDs1s74bHiFXXv24ckFsv2mnV1US8mS_w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1124429,
+      "length": "3:56:43",
+      "description": "Power Query → Tables → Formulas → Pivots → Charts → Dashboard All in one video. Learn everything, practice the concepts ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7QNgqq154gE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4NZdklqsYGu12lCCvbI9F4EvZhQ",
+        "rich": "https://i.ytimg.com/an_webp/7QNgqq154gE/mqdefault_6s.webp?du=3000&sqp=CKXrmtYG&rs=AOn4CLDtMVcwYSiaJpqFQ_-8bN7irc31FQ"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Data+Cleaning+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Data%20Cleaning%20full%20course%20for%20beginners&sp=EgIYAkgUggELX2ptaUVHWjZQSVmCAQs1MFdkLUJsdThEVYIBC2tDUC1IOFZSREN3ggELazZIT0Jqa1VrRTSCAQtJVHk4UjQyNzhza4IBC0l6eWViVVNNVmEwggELelhuUU55dEhDUE2CAQtiRGh2Q3AzX2xZd4IBC0g2azI4amhjbHdJggELazBGTjVDMDh5VE2CAQtxcmJmOUR0UjNfY4IBC3JjTDdDNVl6SFI4ggELTURhTW1XQkktUziCAQtFOC0ydENoZEJCc4IBC0FJRnR2cy1oVFVvggELaWFaUUY4U0xISnOCAQt0M3FreTZvUVZsSYIBC0tzemdZUFppQXpNggELVmg5NENGOWlCUjCCAQs3UU5ncXExNTRnRbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELX2ptaUVHWjZQSVmCAQs1MFdkLUJsdThEVYIBC2tDUC1IOFZSREN3ggELazZIT0Jqa1VrRTSCAQtJVHk4UjQyNzhza4IBC0l6eWViVVNNVmEwggELelhuUU55dEhDUE2CAQtiRGh2Q3AzX2xZd4IBC0g2azI4amhjbHdJggELazBGTjVDMDh5VE2CAQtxcmJmOUR0UjNfY4IBC3JjTDdDNVl6SFI4ggELTURhTW1XQkktUziCAQtFOC0ydENoZEJCc4IBC0FJRnR2cy1oVFVvggELaWFaUUY4U0xISnOCAQt0M3FreTZvUVZsSYIBC0tzemdZUFppQXpNggELVmg5NENGOWlCUjCCAQs3UU5ncXExNTRnRbIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Data+Cleaning+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Data+Cleaning+full+course+for+beginners&sp=EgIYAkgUggELX2ptaUVHWjZQSVmCAQs1MFdkLUJsdThEVYIBC2tDUC1IOFZSREN3ggELazZIT0Jqa1VrRTSCAQtJVHk4UjQyNzhza4IBC0l6eWViVVNNVmEwggELelhuUU55dEhDUE2CAQtiRGh2Q3AzX2xZd4IBC0g2azI4amhjbHdJggELazBGTjVDMDh5VE2CAQtxcmJmOUR0UjNfY4IBC3JjTDdDNVl6SFI4ggELTURhTW1XQkktUziCAQtFOC0ydENoZEJCc4IBC0FJRnR2cy1oVFVvggELaWFaUUY4U0xISnOCAQt0M3FreTZvUVZsSYIBC0tzemdZUFppQXpNggELVmg5NENGOWlCUjCCAQs3UU5ncXExNTRnRbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELX2ptaUVHWjZQSVmCAQs1MFdkLUJsdThEVYIBC2tDUC1IOFZSREN3ggELazZIT0Jqa1VrRTSCAQtJVHk4UjQyNzhza4IBC0l6eWViVVNNVmEwggELelhuUU55dEhDUE2CAQtiRGh2Q3AzX2xZd4IBC0g2azI4amhjbHdJggELazBGTjVDMDh5VE2CAQtxcmJmOUR0UjNfY4IBC3JjTDdDNVl6SFI4ggELTURhTW1XQkktUziCAQtFOC0ydENoZEJCc4IBC0FJRnR2cy1oVFVvggELaWFaUUY4U0xISnOCAQt0M3FreTZvUVZsSYIBC0tzemdZUFppQXpNggELVmg5NENGOWlCUjCCAQs3UU5ncXExNTRnRbIBBgoECBQQAg%3D%3D"
+  }
+}

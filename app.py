@@ -1,4 +1,5 @@
 """Run with: streamlit run nextskill/app.py"""
+import altair as alt
 import streamlit as st
 import json
 from resume_pdf import extract_pdf_text
@@ -66,7 +67,9 @@ with st.sidebar:
     pages = st.selectbox("Job pages", [1, 2, 3], index=2 if demo else 0)
     demo_ledger = ROOT / "cache" / "demo_ledger.json"
     demo_attempts = json.loads(demo_ledger.read_text()).get("real_calls", 0) if demo_ledger.exists() else 0
-    last_account = ROOT / "cache" / "account_batch_b_after.json"
+    last_account = ROOT / "cache" / "account_batch_d_after.json"
+    if not last_account.exists():
+        last_account = ROOT / "cache" / "account_batch_b_after.json"
     if not last_account.exists():
         last_account = ROOT / "cache" / "account_phase2_after.json"
     last_remaining = json.loads(last_account.read_text()).get("total_searches_left") if last_account.exists() else None
@@ -132,8 +135,17 @@ if result:
                 st.markdown(f"- [{label}]({link})" if link else f"- {label}")
     st.markdown("### Skills that could open more jobs")
     robustness = result["robustness"]
-    with st.expander(f"Robustness: {robustness['label']}"):
-        st.write("Ranking checked at readiness thresholds 0.4, 0.5 and 0.6, and with learning hours scaled to half and one-and-a-half times their estimates.")
+    bootstrap = result["bootstrap"]
+    if bootstrap["top_skill"]:
+        top_label = result["ranked"][0].get("display_skill", bootstrap["top_skill"])
+        others = [(skill, share) for skill, share in bootstrap["shares"].items()
+                  if skill != bootstrap["top_skill"] and skill != "No scored pick"]
+        runner = max(others, key=lambda row: row[1]) if others else None
+        st.caption(f"{top_label} is the top pick in {bootstrap['top_share']:.1%} of {bootstrap['samples']} resamples" +
+                   (f" ({runner[0]} {runner[1]:.1%})." if runner else "."))
+    with st.expander(f"Bootstrap confidence: {robustness['label']}"):
+        st.write("Strong means the current top skill wins at least 85% of 500 seeded resamples of the eligible listings; Likely means at least 60%; Uncertain means less than 60%. This shows how much the recommendation depends on the sample of jobs.")
+        st.write("We also check readiness thresholds 0.4, 0.5 and 0.6, and scale all learning-hour estimates to half and one-and-a-half times their values.")
         if robustness["changes"]:
             for change in robustness["changes"]:
                 st.write(f"- {change}")
@@ -182,8 +194,59 @@ if result:
                     st.markdown(f"**{skill} course sources**")
                     for video in videos:
                         st.markdown(f"- [{video['title']}]({video['link']}) — {video['channel']} · {video['duration']}")
+    st.markdown("### Opportunity curve")
+    opportunity = result["opportunity"]
+    steps = opportunity["steps"]
+    display_names = {row["skill"]: row["display_skill"] for row in result["ranked"]}
+    points = [{"hours": 0.0, "jobs": result["ready"], "label": "Today"}]
+    points.extend({"hours": step["cumulative_hours"], "jobs": step["total_jobs"],
+                   "label": display_names.get(step["skill"], step["skill"])} for step in steps)
+    curve_data = alt.Data(values=points)
+    line = alt.Chart(curve_data).mark_line(point=True).encode(
+        x=alt.X("hours:Q", title="Cumulative learning hours"),
+        y=alt.Y("jobs:Q", title="Jobs within reach", scale=alt.Scale(zero=True)),
+        tooltip=["label:N", "hours:Q", "jobs:Q"])
+    labels = alt.Chart(curve_data).mark_text(dy=-14).encode(
+        x="hours:Q", y="jobs:Q", text="label:N")
+    st.altair_chart(line + labels, width="stretch")
+    st.caption("Each point shows how many eligible jobs would be within reach after learning the named skill; course length is only a study-time estimate.")
+    if steps:
+        st.dataframe([{"Step": step["step"], "Skill": display_names.get(step["skill"], step["skill"]),
+                       "Hours range": hours_range(step["hours"]),
+                       "Jobs gained": step["jobs_gained"], "Total jobs": step["total_jobs"]}
+                      for step in steps], width="stretch", hide_index=True)
+    else:
+        st.info("No measured skill adds a reachable job at this threshold.")
+    if opportunity["hours_unknown"]:
+        st.caption("Hours unknown: " + ", ".join(opportunity["hours_unknown"]) + ". These skills are left out of the hours-based plan.")
+    with st.expander("Greedy plan vs exact budgets"):
+        st.dataframe([{"Budget": f"{row['budget']} hours", "Greedy jobs gained": row["greedy_gained"],
+                       "Exact best jobs gained": row["optimal_gained"],
+                       "Greedy / optimal": f"{row['ratio']:.0%}" if row["ratio"] is not None else "No feasible gain"}
+                      for row in opportunity["quality"]], width="stretch", hide_index=True)
+        st.caption("The exact check tries every combination of up to eight measurable missing skills; the greedy plan picks the best next jobs-per-hour step.")
+    st.markdown("### Skill distance")
+    distance = result["distance"]
+    distance_labels = {"0": "0 · ready", "1": "1 skill", "2": "2 skills", "3+": "3+ skills", "Unknown": "Unknown"}
+    bars = [{"distance": distance_labels[key], "jobs": distance["counts"][key]}
+            for key in ("0", "1", "2", "3+", "Unknown")]
+    chart = alt.Chart(alt.Data(values=bars)).mark_bar().encode(
+        x=alt.X("distance:N", title="Skills needed to reach threshold", sort=[row["distance"] for row in bars]),
+        y=alt.Y("jobs:Q", title="Eligible jobs", scale=alt.Scale(zero=True)),
+        tooltip=["distance:N", "jobs:Q"])
+    st.altair_chart(chart, width="stretch")
+    st.caption("This counts the fewest added core skills needed to reach your selected threshold. Unknown means no core requirement was detected.")
+    st.markdown("**Jobs one skill away**")
+    if not distance["one_away"]:
+        st.caption("None at this threshold.")
+    for skill, jobs in sorted(distance["one_away"].items()):
+        with st.expander(f"{skill} · {len(jobs)} jobs"):
+            for job in jobs:
+                link = job.get("source_link") or job.get("share_link")
+                label = f"{job.get('title') or 'Untitled'} — {job.get('company_name') or 'Unknown company'}"
+                st.markdown(f"- [{label}]({link})" if link else f"- {label}")
     with st.expander("How this is calculated"):
-        st.write("We first set aside jobs that ask for more experience than your selected level. We find skills named in the remaining job descriptions and in your resume, PDF or skill list. Skills found in at least the selected share of jobs are core; less common skills are shown as nice to have. BI tools, frontend frameworks and cloud platforms are alternatives; explicit 'X or Y' choices also count as one requirement. Jobs with no detected core skills are left out. A job is within reach when you have at least the chosen share of its core requirements. We count jobs that cross that threshold after adding one skill or the suggested pair. Broad umbrella terms can contribute to coverage but are never recommended as a next course. Learning hours use the median length of up to three free videos named as courses and lasting at least an hour. With fewer than two such videos, we use videos of at least 30 minutes and mark low confidence. The displayed hour range is a rough ±25% band around that estimate. The robustness panel recomputes scores at three readiness thresholds and two hour multipliers using cached durations; skills without a duration cannot receive a score. Course length is an estimate of study time; being within reach does not guarantee a job.")
+        st.write("We first set aside jobs that ask for more experience than your selected level. We find skills named in the remaining job descriptions and in your resume, PDF or skill list. Skills found in at least the selected share of jobs are core; less common skills are shown as nice to have. BI tools, frontend frameworks and cloud platforms are alternatives; explicit 'X or Y' choices also count as one requirement. Jobs with no detected core skills are marked Unknown in the distance chart and left out of readiness calculations. A job is within reach when you have at least the chosen share of its core requirements. We count jobs that cross that threshold after adding one skill or the suggested pair. Broad umbrella terms, including UI/UX, can contribute to coverage but are never recommended as a next course. Learning hours use the median length of up to three free videos named as courses and lasting at least an hour. With fewer than two such videos, we use videos of at least 30 minutes and mark low confidence. The displayed hour range is a rough ±25% band around that estimate. The opportunity curve starts with jobs already within reach and adds the measurable skill with the most extra jobs per learning hour at each step, stopping after five skills or when no skill adds jobs. The exact budget check tests every subset of the top eight measurable missing skills at 5, 10 and 15 hours. Bootstrap confidence resamples the eligible listings 500 times with a fixed seed, recomputes the top scored skill, and labels it Strong at 85% or more, Likely at 60% or more, and Uncertain below 60%. The confidence panel also shows threshold changes. The distance chart counts the minimum extra skills needed to cross your chosen threshold. Course length is an estimate of study time; being within reach does not guarantee a job.")
     with st.expander("Search replay"):
         for event in result["replay"]:
             query = event["query"].get("q") or event["query"].get("search_query")

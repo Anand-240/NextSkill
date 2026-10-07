@@ -12,10 +12,10 @@ with sync_playwright() as playwright:
     page = browser.new_page(viewport={"width": 1440, "height": 1000}, device_scale_factor=1)
     page.goto("http://127.0.0.1:8501", wait_until="domcontentloaded")
     page.get_by_role("button", name="Find my next skill").wait_for(timeout=30000)
-    if MODE in {"phase3_noida", "batch_a_noida", "batch_b_noida", "batch_b_replay"}:
+    if MODE in {"phase3_noida", "batch_a_noida", "batch_b_noida", "batch_b_replay", "batch_c_noida", "batch_c_noida_plan", "batch_c_noida_distance", "batch_d_noida", "batch_d_noida_plan"}:
         page.get_by_role("button", name="Find my next skill").click()
         page.get_by_text("Skills that could open more jobs").wait_for(timeout=60000)
-    elif MODE in {"phase3_frontend", "batch_a_frontend", "batch_b_frontend"}:
+    elif MODE in {"phase3_frontend", "batch_a_frontend", "batch_b_frontend", "batch_c_frontend", "batch_c_frontend_plan", "batch_c_frontend_distance", "batch_d_frontend", "batch_d_frontend_plan"}:
         page.get_by_role("combobox", name="Demo role").click()
         page.get_by_role("option", name="Frontend Developer — Bengaluru").click()
         page.get_by_role("button", name="Find my next skill").click()
@@ -53,6 +53,15 @@ with sync_playwright() as playwright:
     else:
         raise ValueError("unknown screenshot mode")
     page.get_by_text("Search replay", exact=True).wait_for(timeout=90000)
+    if MODE.startswith(("batch_c_", "batch_d_")):
+        page.get_by_text("Opportunity curve", exact=True).wait_for(timeout=30000)
+        page.get_by_text("Skill distance", exact=True).wait_for(timeout=30000)
+        if MODE.endswith("_plan"):
+            page.get_by_text("Opportunity curve", exact=True).scroll_into_view_if_needed()
+            page.wait_for_timeout(500)
+        elif MODE.endswith("_distance"):
+            page.get_by_text("Skill distance", exact=True).scroll_into_view_if_needed()
+            page.wait_for_timeout(500)
     page.wait_for_timeout(500)
     if MODE == "batch_b_replay":
         page.get_by_text("Search replay", exact=True).click()

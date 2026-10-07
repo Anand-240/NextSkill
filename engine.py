@@ -6,10 +6,12 @@ import itertools
 import json
 import math
 import os
+import random
 import re
 import statistics
 from collections import Counter
 from difflib import SequenceMatcher
+from functools import lru_cache
 from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
@@ -521,13 +523,179 @@ def hours_range(hours: float | None) -> str:
     return f"~{low}–{high} hours"
 
 
+def _ready_indices(analysis: dict, added: set[str]) -> set[int]:
+    owned = analysis["user_skills_set"] | added
+    return {index for index, row in enumerate(analysis["jobs"])
+            if coverage(row["required_skills"], owned) >= analysis["threshold"]}
+
+
+def greedy_opportunity(analysis: dict, hours_by_skill: dict[str, float | None],
+                       budget: float | None = None, max_skills: int = 5) -> list[dict]:
+    """Choose the best marginal jobs/hour until no positive gain remains."""
+    available = {skill: value for skill, value in hours_by_skill.items()
+                 if skill in analysis["option_members"] and skill not in GENERIC and value and value > 0}
+    chosen: set[str] = set()
+    ready = _ready_indices(analysis, chosen)
+    spent = 0.0
+    steps = []
+    for _ in range(max_skills):
+        options = []
+        for skill, skill_hours in available.items():
+            if skill in chosen or (budget is not None and spent + skill_hours > budget + 1e-9):
+                continue
+            gained = _ready_indices(analysis, chosen | {skill}) - ready
+            if gained:
+                options.append((skill, skill_hours, gained))
+        if not options:
+            break
+        skill, skill_hours, gained = min(options, key=lambda row: (-len(row[2]) / row[1], -len(row[2]), row[1], row[0]))
+        chosen.add(skill)
+        spent += skill_hours
+        ready |= gained
+        steps.append({"step": len(steps) + 1, "skill": skill, "hours": skill_hours,
+                      "cumulative_hours": spent, "jobs_gained": len(gained), "total_jobs": len(ready)})
+    return steps
+
+
+def exact_opportunity(analysis: dict, hours_by_skill: dict[str, float | None],
+                      budget: float, top_n: int = 8) -> dict:
+    """Exhaust all subsets of the top measurable missing skills for a budget."""
+    candidates = sorted((skill for skill, hours in hours_by_skill.items()
+                         if skill in analysis["option_members"] and skill not in GENERIC and hours and hours > 0),
+                        key=lambda skill: (-len(analysis["unlocked"].get(skill, [])),
+                                           -analysis["skill_counts"].get(skill, 0), skill))[:top_n]
+    baseline = _ready_indices(analysis, set())
+    best = {"skills": (), "hours": 0.0, "jobs_gained": 0, "total_jobs": len(baseline), "candidates": candidates}
+    for size in range(1, len(candidates) + 1):
+        for subset in itertools.combinations(candidates, size):
+            spent = sum(hours_by_skill[skill] for skill in subset)
+            if spent > budget + 1e-9:
+                continue
+            ready = _ready_indices(analysis, set(subset))
+            gained = len(ready - baseline)
+            if gained > best["jobs_gained"] or (gained == best["jobs_gained"] and spent < best["hours"]):
+                best = {"skills": subset, "hours": spent, "jobs_gained": gained,
+                        "total_jobs": len(ready), "candidates": candidates}
+    return best
+
+
+def opportunity_quality(analysis: dict, hours_by_skill: dict[str, float | None],
+                        budgets: tuple[int, ...] = (5, 10, 15)) -> list[dict]:
+    rows = []
+    for budget in budgets:
+        optimum = exact_opportunity(analysis, hours_by_skill, budget)
+        candidate_hours = {skill: hours_by_skill[skill] for skill in optimum["candidates"]}
+        greedy = greedy_opportunity(analysis, candidate_hours, budget)
+        greedy_gained = (greedy[-1]["total_jobs"] - analysis["ready"]) if greedy else 0
+        optimal_gained = optimum["jobs_gained"]
+        rows.append({"budget": budget, "greedy_gained": greedy_gained,
+                     "optimal_gained": optimal_gained,
+                     "ratio": greedy_gained / optimal_gained if optimal_gained else None,
+                     "greedy_skills": [step["skill"] for step in greedy],
+                     "optimal_skills": list(optimum["skills"]),
+                     "candidate_count": len(optimum["candidates"])})
+    return rows
+
+
+def skill_distance(analysis: dict) -> dict:
+    """Minimum added skills to cross the selected readiness threshold, capped at 3+."""
+    counts = {"0": 0, "1": 0, "2": 0, "3+": 0, "Unknown": analysis["ignored"]}
+    one_away: dict[str, list[dict]] = {}
+    user = analysis["user_skills_set"]
+    for row in analysis["jobs"]:
+        requirements = row["required_skills"]
+        if row["coverage"] >= analysis["threshold"]:
+            counts["0"] += 1
+            continue
+        missing = set().union(*(req for req in requirements if not req & user))
+        singles = {skill for skill in missing if coverage(requirements, user | {skill}) >= analysis["threshold"]}
+        if singles:
+            counts["1"] += 1
+            display_skills = [skill for skill in analysis["option_members"] if skill in singles and skill not in GENERIC]
+            if not display_skills:
+                one_away.setdefault("Other core requirement", []).append(row["job"])
+            else:
+                for skill in sorted(display_skills):
+                    label = display_option(skill, analysis["display_members"].get(skill, frozenset({skill})))
+                    one_away.setdefault(label, []).append(row["job"])
+            continue
+        if any(coverage(requirements, user | set(pair)) >= analysis["threshold"]
+               for pair in itertools.combinations(sorted(missing), 2)):
+            counts["2"] += 1
+        else:
+            counts["3+"] += 1
+    return {"counts": counts, "one_away": one_away}
+
+
+@lru_cache(maxsize=64)
+def _bootstrap_cached(snapshot: tuple, user_skills: tuple[str, ...], measured_hours: tuple,
+                      threshold: float, core_share: float, samples: int, seed: int,
+                      learning_limit: int) -> tuple[tuple[str, int], ...]:
+    """Resample pre-extracted eligible jobs; no regex or network work inside the loop."""
+    if not snapshot:
+        return (("No scored pick", samples),)
+    prepared = [(frozenset(frozenset(req) for req in requirements), frozenset(skills))
+                for requirements, skills in snapshot]
+    user = frozenset(user_skills)
+    hours = dict(measured_hours)
+    randomizer = random.Random(seed)
+    winners = Counter()
+    size = len(prepared)
+    for _ in range(samples):
+        sampled = [prepared[randomizer.randrange(size)] for _ in range(size)]
+        req_counts = Counter(req for requirements, _ in sampled for req in requirements)
+        core = set().union(*(req for req, count in req_counts.items() if count / size >= core_share)) if req_counts else set()
+        usable = [(frozenset(req for req in requirements if req & core), skills) for requirements, skills in sampled]
+        usable = [(requirements, skills) for requirements, skills in usable if requirements]
+        demand = Counter(skill for _, skills in usable for skill in skills)
+        options = {req for requirements, _ in usable for req in requirements if not req & user}
+        representatives = {req: max(req, key=lambda skill: (demand[skill], SUBSTITUTE_PREFERENCE.get(skill, 0), skill))
+                           for req in options}
+        names = set(representatives.values()) - GENERIC
+        results = []
+        for skill in names:
+            unlocked = sum(coverage(requirements, user) < threshold and
+                           coverage(requirements, user | {skill}) >= threshold for requirements, _ in usable)
+            if not unlocked:
+                continue
+            appears = sum(any(skill in req for req in requirements) for requirements, _ in usable)
+            results.append((skill, unlocked, appears))
+        # Match the product rule: shortlist by unlocked count, then rank by jobs/hour.
+        shortlist = sorted(results, key=lambda row: (-row[1], -row[2], row[0]))[:learning_limit]
+        scored = [row for row in shortlist if hours.get(row[0])]
+        winner = min(scored, key=lambda row: (-row[1] / hours[row[0]], -row[1], row[0]))[0] if scored else "No scored pick"
+        winners[winner] += 1
+    return tuple(sorted(winners.items(), key=lambda row: (-row[1], row[0])))
+
+
+def confidence_label(share: float) -> str:
+    return "Strong" if share >= .85 else "Likely" if share >= .60 else "Uncertain"
+
+
+def bootstrap_confidence(analysis: dict, hours_by_skill: dict[str, float | None],
+                         top_skill: str | None, samples: int = 500, seed: int = 2026,
+                         learning_limit: int = 5) -> dict:
+    """Share of bootstrap resamples won by each skill; cached by data and inputs."""
+    snapshot = tuple((tuple(sorted(tuple(sorted(req)) for req in requirements_from_text(str(job.get("description") or "")))),
+                      tuple(sorted(extract_skills(str(job.get("description") or "")))))
+                     for job in analysis["eligible_jobs"])
+    measured = tuple(sorted((skill, value) for skill, value in hours_by_skill.items() if value and value > 0))
+    wins = dict(_bootstrap_cached(snapshot, tuple(sorted(analysis["user_skills_set"])), measured,
+                                  analysis["threshold"], analysis["core_share"], samples, seed, learning_limit))
+    share = wins.get(top_skill, 0) / samples if top_skill else 0.0
+    label = confidence_label(share)
+    return {"wins": wins, "shares": {skill: count / samples for skill, count in wins.items()},
+            "top_skill": top_skill, "top_share": share, "samples": samples,
+            "label": label}
+
+
 def assess_robustness(jobs: list[dict], user_skills: set[str], top_skill: str | None,
                       hours_by_skill: dict[str, float | None], exclude_old: bool = False,
                       core_share: float = .25, experience_level: str | None = None,
                       base_threshold: float = .5) -> dict:
     """Recount unlocks at three thresholds and rescore at two study-time scales."""
     if not top_skill:
-        return {"label": "Sensitive pick", "changes": ["No scored top pick"]}
+        return {"label": "Changes with settings", "changes": ["No scored top pick"]}
     changes = []
     scenarios = [(threshold, 1.0, f"threshold {threshold:.1f}") for threshold in (.4, .5, .6)]
     scenarios += [(base_threshold, factor, f"hours ×{factor:.1f}") for factor in (.5, 1.5)]
@@ -539,7 +707,7 @@ def assess_robustness(jobs: list[dict], user_skills: set[str], top_skill: str | 
         winner = max(scored, key=lambda row: (row[0], row[1], row[2]))[2] if scored else None
         if winner != top_skill:
             changes.append(f"{label}: {winner or 'no scored pick'}")
-    return {"label": "Sensitive pick" if changes else "Stable pick", "changes": changes}
+    return {"label": "Changes with settings" if changes else "Consistent across checked settings", "changes": changes}
 
 
 def run(role: str, city: str, resume: str = "", manual_skills: str = "", threshold: float = DEFAULT_THRESHOLD,
@@ -565,9 +733,22 @@ def run(role: str, city: str, resume: str = "", manual_skills: str = "", thresho
         for skill in variant["candidates"]:
             if skill not in hours:
                 hours[skill], _, _ = course_videos(skill, cached_client, include_hindi)
-    robustness = assess_robustness(jobs, user, ranked[0]["skill"] if ranked and ranked[0]["score"] is not None else None,
-                                   hours, exclude_old, core_share, experience_level, threshold)
+    for skill in analysis["option_members"]:
+        if skill not in GENERIC and skill not in hours:
+            hours[skill], _, _ = course_videos(skill, cached_client, include_hindi)
+    top_skill = ranked[0]["skill"] if ranked and ranked[0]["score"] is not None else None
+    threshold_check = assess_robustness(jobs, user, top_skill, hours, exclude_old,
+                                        core_share, experience_level, threshold)
+    bootstrap = bootstrap_confidence(analysis, hours, top_skill, learning_limit=learning_limit)
+    opportunity = {"steps": greedy_opportunity(analysis, hours),
+                   "quality": opportunity_quality(analysis, hours),
+                   "hours_unknown": sorted(skill for skill in analysis["option_members"]
+                                           if skill not in GENERIC and not hours.get(skill))}
+    distances = skill_distance(analysis)
     analysis.update({"role": role, "city": city, "user_skills": sorted(user), "ranked": ranked,
                      "two_skill_plan": two_skill_plan(analysis, hours, videos), "replay": client.replay,
-                     "role_fit_warning": has_role_fit_warning(analysis), "robustness": robustness})
+                     "role_fit_warning": has_role_fit_warning(analysis),
+                     "robustness": {"label": bootstrap["label"], "changes": threshold_check["changes"],
+                                    "threshold_label": threshold_check["label"]},
+                     "bootstrap": bootstrap, "opportunity": opportunity, "distance": distances})
     return analysis

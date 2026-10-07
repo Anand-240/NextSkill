@@ -1,0 +1,454 @@
+{
+  "search_metadata": {
+    "id": "6ac6ca6860cbef1ba380863d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/PZFFs9bYmdLqp2oEQHycQRG4P50fKiu6w_xMGfRJzBo/6ac6ca6860cbef1ba380863d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/PZFFs9bYmdLqp2oEQHycQRG4P50fKiu6w_xMGfRJzBo/6ac6ca6860cbef1ba380863d.md",
+    "created_at": "2026-10-07 22:40:40 UTC",
+    "processed_at": "2026-10-07 22:40:40 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Data+Visualization+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/PZFFs9bYmdLqp2oEQHycQRG4P50fKiu6w_xMGfRJzBo/6ac6ca6860cbef1ba380863d.html",
+    "total_time_taken": 3.42
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Data Visualization full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 4584561,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Data Visualization with D3 – Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=xkBheRZTkaw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xkBheRZTkaw",
+      "video_id": "xkBheRZTkaw",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 370395,
+      "length": "19:32:37",
+      "description": "Learn data visualization with D3.js. D3 is a JavaScript library for manipulating documents based on data. D3 helps you bring data ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xkBheRZTkaw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDReeI97q-1d3PI9Mu7s6aPEZvNmA"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Data Visualization Tutorial For Beginners | Big Data Analytics Tutorial | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=MiiANxRHSv4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MiiANxRHSv4",
+      "video_id": "MiiANxRHSv4",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 339265,
+      "length": "27:21",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/MiiANxRHSv4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBVQasNoZHThlSP5A48fBgxZFKcDA"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Complete Data Visualization Course for Beginners |  Matplotlib & Seaborn | Sheryians AI School",
+      "link": "https://www.youtube.com/watch?v=-jTD74eEy2I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-jTD74eEy2I",
+      "video_id": "-jTD74eEy2I",
+      "channel": {
+        "name": "Sheryians AI School",
+        "link": "https://www.youtube.com/@SheryiansAI",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/qU1vTek2_oU_UCv7ILblOx8tN7u13vZdIIH-SdJ-enO4VcvZ56F2VNQXoPyiVA8eRvms8_wcgQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 283378,
+      "length": "2:35:08",
+      "description": "Welcome to the Complete Data Visualization in Python Course! In this full video tutorial, we're diving deep into the world of ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-jTD74eEy2I/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLATc8LZnxGx2WB4TrKmOCItuqqByA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Data Visualization Crash Course | Consulting Best Practices",
+      "link": "https://www.youtube.com/watch?v=ZUeWXNK-9yA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZUeWXNK-9yA",
+      "video_id": "ZUeWXNK-9yA",
+      "channel": {
+        "name": "Analyst Academy",
+        "link": "https://www.youtube.com/@AnalystAcademy",
+        "thumbnail": "https://yt3.ggpht.com/VtXy5RjTqY2qqxjuznjAhvGvcLTPjOPg0FvijBSIYUPrOHhplWYprhst-0TS5slMrIRFCRsZzQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 263724,
+      "length": "25:57",
+      "description": "Links mentioned in this video ⬇️ Exercise File ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZUeWXNK-9yA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDDKjcRFiLsrKs_9yfpWUW1qkyF2g"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Tableau for Data Science and Data Visualization - Crash Course Tutorial",
+      "link": "https://www.youtube.com/watch?v=TPMlZxRRaBQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TPMlZxRRaBQ",
+      "video_id": "TPMlZxRRaBQ",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 927927,
+      "length": "28:42",
+      "description": "Learn to use Tableau to produce high quality, interactive data visualizations! Tableau can help you see and understand your data.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TPMlZxRRaBQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvcgB_iM58rfJwQYMjo78camr0TQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Python Data Visualization Full Course 🐍 Data Visualization with Python Tutorial⚡️",
+      "link": "https://www.youtube.com/watch?v=q68Qundmans",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=q68Qundmans",
+      "video_id": "q68Qundmans",
+      "channel": {
+        "name": "Alpha Brains Courses",
+        "link": "https://www.youtube.com/@alphabrainscourses",
+        "thumbnail": "https://yt3.ggpht.com/iNZGvnX01X1cWopEn703SMs54oDQc5DFOZ3DQzn3uiNYXYm_NJQCCHIE-3YUdBRAVC8cnJZz3dA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 13019,
+      "length": "58:17",
+      "description": "About this Course Python Data Visualization* This course teaches you how to create compelling data visualizations with Python.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/q68Qundmans/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDmxyzGlXVUC-rvtX1MmRRCtzBBfQ"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Data Visualization Masterclass in Python | Matplotlib, Seaborn & Plotly for Beginners to Advanced",
+      "link": "https://www.youtube.com/watch?v=MqppsRq3EJQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MqppsRq3EJQ",
+      "video_id": "MqppsRq3EJQ",
+      "channel": {
+        "name": "Codanics",
+        "link": "https://www.youtube.com/@Codanics",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nb9s3nb5T2T_eVKc2bGzDyv4EugL702EODk986C72biA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 46398,
+      "length": "5:27:54",
+      "description": "Video Description: Master Data Visualization with Python: From Beginner to Advanced! In this comprehensive Data ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/MqppsRq3EJQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtkVJuR8mtD_Dfqt_C9xAaF4fLxg"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Data Visualization Course | Data Visualization Tutorial | Data Visualization Explained | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=7kPqESo1vRw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7kPqESo1vRw",
+      "video_id": "7kPqESo1vRw",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 5y ago",
+      "views": 74986,
+      "length": "8:25:44",
+      "description": "IBM - Data Analyst ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7kPqESo1vRw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBDmCvnbA0yXVMOKoMFlLr8nwunvQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Python Data Visualization Full Course in Telugu by Sangeeth | Matplotlib & Seaborn | Zero to Hero",
+      "link": "https://www.youtube.com/watch?v=2xA-TgSlI2Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2xA-TgSlI2Q",
+      "video_id": "2xA-TgSlI2Q",
+      "channel": {
+        "name": "AI School of India",
+        "link": "https://www.youtube.com/@AISchoolofIndia",
+        "thumbnail": "https://yt3.ggpht.com/ho8KqrGPihoMBuVWbF225ckfwJZ7_WtylT2YEbHDlF4rPK-XMBjqCwkKCcr-eOWtME6prDnnvA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 7340,
+      "length": "43:50",
+      "description": "Data Visualization Full Course in Telugu | Python Matplotlib & Seaborn | Beginner to Advanced Practice datasets: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/2xA-TgSlI2Q/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9s2c7RAGmyD28LXdtKvw8jlZ8lQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Data Visualization with D3.js - Full Tutorial Course",
+      "link": "https://www.youtube.com/watch?v=_8V5o2UHG0E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_8V5o2UHG0E",
+      "video_id": "_8V5o2UHG0E",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 1164060,
+      "length": "12:57:37",
+      "description": "Watch the updated version of this course: https://youtu.be/2LhoCfjm8R4 In this data visualization course, you'll learn how to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_8V5o2UHG0E/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDAFYX91EfGx1Y8DOYTssNU0rDD_Q"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Let's learn D3.js - D3 for data visualization (full course)",
+      "link": "https://www.youtube.com/watch?v=C4t6qfHZ6Tw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=C4t6qfHZ6Tw",
+      "video_id": "C4t6qfHZ6Tw",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 343084,
+      "length": "27:16",
+      "description": "This course teaches you how to visualize data in the browser using D3.js. Watch it here or check out the interactive version at ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/C4t6qfHZ6Tw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAaW6ozukMaNjPaXRm4y5juIxc9RA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Data Visualization Full Course 2026  | Data Visualization with Python & Power BI | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=7FSKW-xhRss",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7FSKW-xhRss",
+      "video_id": "7FSKW-xhRss",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1mo ago",
+      "views": 4583,
+      "length": "23:17:52",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7FSKW-xhRss/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8BIoze9sZesqz2wQlJ_ATh1870g"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Learn Tableau in Under 2 hours | Dashboards, Relationships, Visualizations + Mini Project",
+      "link": "https://www.youtube.com/watch?v=j8FSP8XuFyk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=j8FSP8XuFyk",
+      "video_id": "j8FSP8XuFyk",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 454989,
+      "length": "1:30:10",
+      "description": "Take my Full Tableau Course Here: https://www.analystbuilder.com/courses/tableau-for-data-visualization Download Tableau: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/j8FSP8XuFyk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDrRypm_s6p2mGUq0X0797RJMyQUQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "#31 - Data Visualization MasterClass - 01 | Data Science Course in Tamil",
+      "link": "https://www.youtube.com/watch?v=iVuAqdxRHm0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iVuAqdxRHm0",
+      "video_id": "iVuAqdxRHm0",
+      "channel": {
+        "name": "AI Coach John (Tamil)",
+        "link": "https://www.youtube.com/@aicoachjohn",
+        "thumbnail": "https://yt3.ggpht.com/UsqpPLgtFy0dsDrm_GEfP6prM9iZYt7PTTC20H5PtMon2GCfm1LgtF4whju0mhtzhmkN1FAe=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 9276,
+      "length": "30:12",
+      "description": "1:1 Mock Interview Application Form: https://forms.gle/koRAx4vcenVsaELB8 Access the Materials from here: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/iVuAqdxRHm0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBf_LqE7-KzlBaqASIR0kKHcn_cTg"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Power BI for Data Analytics - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=FwjaHCVNBWA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FwjaHCVNBWA",
+      "video_id": "FwjaHCVNBWA",
+      "channel": {
+        "name": "Luke Barousse",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1505667,
+      "length": "8:24:31",
+      "description": "FREE Course Files & Projects https://lukeb.co/powerbi-files Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FwjaHCVNBWA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBY8sNXDZc5VQkK6BtvuwNBGx8s_Q"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Data Visualization for Data Science | Data Visualization Full Course in 1 Hour",
+      "link": "https://www.youtube.com/watch?v=RzHQ4FySiYg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RzHQ4FySiYg",
+      "video_id": "RzHQ4FySiYg",
+      "channel": {
+        "name": "Dataisgood",
+        "link": "https://www.youtube.com/@Dataisgood",
+        "thumbnail": "https://yt3.ggpht.com/edB2vN1ZdA4jVVS7fdjxQzazRvhG_ejSqofPMRGv6rhggkF0q-Bco-lX3o_DlbnVB9nX5JQZ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 3234,
+      "length": "1:08:39",
+      "description": "Get More Courses and Programs at https://www.dataisgood.com Want to discover more about our varied courses available?",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/RzHQ4FySiYg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADXHO2AA83yeJwTzJUiCla7O2pKg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Excel Data Analysis Full Course Tutorial (7+ Hours)",
+      "link": "https://www.youtube.com/watch?v=qrbf9DtR3_c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qrbf9DtR3_c",
+      "video_id": "qrbf9DtR3_c",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "link": "https://www.youtube.com/@learnskillsdaily",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WwrBREpkRbdALebIg_xlBFBSwc7H8_tBcqgjLSP4fpZkMcPp3hSledFRan866itfUwsEKg-AUQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 2232685,
+      "length": "7:11:22",
+      "description": "Excel Data Analysis Full Course Tutorial (7+ Hours) Join Learn Skills Daily for ad-free training, exams, certificates, and exclusive ...",
+      "extensions": [
+        "2 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qrbf9DtR3_c/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCrdN2gAC9pkw78dI4RCA8PM39h3w"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Python for Data Visualization Full Course - 1 Hour",
+      "link": "https://www.youtube.com/watch?v=BmMtmk2SdK4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BmMtmk2SdK4",
+      "video_id": "BmMtmk2SdK4",
+      "channel": {
+        "name": "AI Sciences",
+        "link": "https://www.youtube.com/@AISciencesLearn",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nDPj0Gibxv6HqcHhyhkTcyE6huV7lGBtBn-fe64a4cXw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 3411,
+      "length": "1:42:08",
+      "description": "Get a look at our course on data science and AI here: https://bit.ly/3thtoUJ ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BmMtmk2SdK4/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD17rDCTsgSxHHfvsKIxmGDRMvs8g"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Excel Data Visualization Course – Guide to Charts & Dashboards",
+      "link": "https://www.youtube.com/watch?v=VV8iRJ-DS0A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VV8iRJ-DS0A",
+      "video_id": "VV8iRJ-DS0A",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 125915,
+      "length": "1:10:23",
+      "description": "This comprehensive tutorial will teach you everything you need to know about Excel chart types, chart customization, and creating ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/VV8iRJ-DS0A/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBTFCHmrHljGoPQW46vsdedGU-CTw"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Python for Data Analytics - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=wUSDVGivd-8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wUSDVGivd-8",
+      "video_id": "wUSDVGivd-8",
+      "channel": {
+        "name": "Luke Barousse",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1599268,
+      "length": "11:09:41",
+      "description": "FREE Course Files & Project https://lukeb.co/python_repo Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wUSDVGivd-8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCWDvf6bBK0ytorYugAqpa71RdqnQ"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Data+Visualization+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Data%20Visualization%20full%20course%20for%20beginners&sp=EgIYAkgUggELeGtCaGVSWlRrYXeCAQtNaWlBTnhSSFN2NIIBCy1qVEQ3NGVFeTJJggELWlVlV1hOSy05eUGCAQtUUE1sWnhSUmFCUYIBC3E2OFF1bmRtYW5zggELTXFwcHNScTNFSlGCAQs3a1BxRVNvMXZSd4IBCzJ4QS1UZ1NsSTJRggELXzhWNW8yVUhHMEWCAQtDNHQ2cWZIWjZUd4IBCzdGU0tXLXhoUnNzggELajhGU1A4WHVGeWuCAQtpVnVBcWR4UkhtMIIBC0Z3amFIQ1ZOQldBggELUnpIUTRGeVNpWWeCAQtxcmJmOUR0UjNfY4IBC0JtTXRtazJTZEs0ggELVlY4aVJKLURTMEGCAQt3VVNEVkdpdmQtOLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELeGtCaGVSWlRrYXeCAQtNaWlBTnhSSFN2NIIBCy1qVEQ3NGVFeTJJggELWlVlV1hOSy05eUGCAQtUUE1sWnhSUmFCUYIBC3E2OFF1bmRtYW5zggELTXFwcHNScTNFSlGCAQs3a1BxRVNvMXZSd4IBCzJ4QS1UZ1NsSTJRggELXzhWNW8yVUhHMEWCAQtDNHQ2cWZIWjZUd4IBCzdGU0tXLXhoUnNzggELajhGU1A4WHVGeWuCAQtpVnVBcWR4UkhtMIIBC0Z3amFIQ1ZOQldBggELUnpIUTRGeVNpWWeCAQtxcmJmOUR0UjNfY4IBC0JtTXRtazJTZEs0ggELVlY4aVJKLURTMEGCAQt3VVNEVkdpdmQtOLIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Data+Visualization+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Data+Visualization+full+course+for+beginners&sp=EgIYAkgUggELeGtCaGVSWlRrYXeCAQtNaWlBTnhSSFN2NIIBCy1qVEQ3NGVFeTJJggELWlVlV1hOSy05eUGCAQtUUE1sWnhSUmFCUYIBC3E2OFF1bmRtYW5zggELTXFwcHNScTNFSlGCAQs3a1BxRVNvMXZSd4IBCzJ4QS1UZ1NsSTJRggELXzhWNW8yVUhHMEWCAQtDNHQ2cWZIWjZUd4IBCzdGU0tXLXhoUnNzggELajhGU1A4WHVGeWuCAQtpVnVBcWR4UkhtMIIBC0Z3amFIQ1ZOQldBggELUnpIUTRGeVNpWWeCAQtxcmJmOUR0UjNfY4IBC0JtTXRtazJTZEs0ggELVlY4aVJKLURTMEGCAQt3VVNEVkdpdmQtOLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELeGtCaGVSWlRrYXeCAQtNaWlBTnhSSFN2NIIBCy1qVEQ3NGVFeTJJggELWlVlV1hOSy05eUGCAQtUUE1sWnhSUmFCUYIBC3E2OFF1bmRtYW5zggELTXFwcHNScTNFSlGCAQs3a1BxRVNvMXZSd4IBCzJ4QS1UZ1NsSTJRggELXzhWNW8yVUhHMEWCAQtDNHQ2cWZIWjZUd4IBCzdGU0tXLXhoUnNzggELajhGU1A4WHVGeWuCAQtpVnVBcWR4UkhtMIIBC0Z3amFIQ1ZOQldBggELUnpIUTRGeVNpWWeCAQtxcmJmOUR0UjNfY4IBC0JtTXRtazJTZEs0ggELVlY4aVJKLURTMEGCAQt3VVNEVkdpdmQtOLIBBgoECBQQAg%3D%3D"
+  }
+}
