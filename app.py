@@ -447,7 +447,8 @@ if result:
             location = event["query"].get("location")
             source = {"demo": "Bundled demo data", "fixture": "Demo cache (validation fixture)",
                       "cache": "Local cache", "live": "Live SerpApi request",
-                      "cache missing": "No cached response"}.get(event["source"], event["source"])
+                      "cache missing": "No cached response",
+                      "budget reached": "Skipped (live budget reached)"}.get(event["source"], event["source"])
             variant = event.get("variant")
             listings = event.get("listing_count")
             st.write(f"{source}: {event['query']['engine']} · {query}" + (f" · {location}" if location else "") +
