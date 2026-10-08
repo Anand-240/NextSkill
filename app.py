@@ -59,7 +59,8 @@ with st.sidebar:
                           key=f"resume_{role.lower().replace(' ', '_')}")
     pdf = st.file_uploader("Or upload a PDF resume", type=["pdf"])
     manual = st.text_area("Or list skills (comma separated)", "", height=80)
-    experience_level = st.selectbox("Experience level", ["Fresher", "1-3 years", "3+ years"])
+    experience_level = st.selectbox("Experience level", ["Fresher", "1-3 years", "3+ years"],
+                                   help="Uses the minimum of each band: 0, 1 or 3 years. Explicit listing requirements take precedence over titles.")
     threshold = st.slider("Within reach threshold", 0.2, 1.0, DEFAULT_THRESHOLD, 0.05)
     core_share = st.slider("Core skill frequency", 0.1, 0.5, 0.25, 0.05, help="A skill is core if it appears in at least this share of fetched jobs.")
     include_hindi = st.toggle("Include Hindi videos", False)
@@ -114,8 +115,12 @@ if go or auto_demo:
 result = st.session_state.get("result")
 if result:
     count = len(result["jobs"])
-    snapshot = " (saved job snapshot)" if st.session_state.get("replay_mode") else ""
-    st.subheader(f"You are ready for {result['ready']} of {count} live jobs in {result['city']}{snapshot}.")
+    source_label = "saved listings" if st.session_state.get("replay_mode") else "listings found now"
+    st.subheader(f"Your profile matches {result['ready']} of {count} {source_label} in {result['city']}.")
+    dates = result["retrieved_dates"]
+    snapshot_date = dates[0] if len(dates) == 1 else f"{dates[0]} to {dates[-1]}" if dates else "unknown"
+    st.caption(f"Snapshot date: {snapshot_date} (UTC). Posting ages include time elapsed since retrieval.")
+    st.caption(f"{result['eligible_count']} eligible listings remain after experience and date filters; {count} have detected core requirements and are scored; {result['ignored']} have no detected core requirements.")
     st.caption(f"Based on {result['eligible_count']} listings · {result['listing_confidence']} confidence in sample size")
     if result["limited_data"]:
         st.warning("Limited data: fewer than 12 distinct jobs were found. Treat the ranking as exploratory.")
@@ -146,9 +151,9 @@ if result:
         runner = max(others, key=lambda row: row[1]) if others else None
         st.caption(f"{top_label} is the top pick in {bootstrap['top_share']:.1%} of {bootstrap['samples']} resamples" +
                    (f" ({runner[0]} {runner[1]:.1%})." if runner else "."))
-    with st.expander(f"Bootstrap confidence: {robustness['label']}"):
-        st.write("Strong means the current top skill wins at least 85% of 500 seeded resamples of the eligible listings; Likely means at least 60%; Uncertain means less than 60%. This shows how much the recommendation depends on the sample of jobs.")
-        st.write("We also check readiness thresholds 0.4, 0.5 and 0.6, and scale all learning-hour estimates to half and one-and-a-half times their values.")
+    with st.expander(f"Recommendation confidence: {robustness['label']}"):
+        st.write("The label uses the lower of two shares: how often the top pick wins in 500 listing resamples, and how often it stays first when each skill's hours vary independently across thresholds. Strong means both shares are at least 85%; Likely means both are at least 60%; otherwise Uncertain. These checks measure sensitivity, not recommendation accuracy or hiring chances.")
+        st.write(f"Independent hour variation retains the top pick in {robustness['top_share']:.1%} of {robustness['samples']} checks. Each skill's hours vary from 0.75x to 1.5x in 500 seeded draws, tested at thresholds 0.4, 0.5 and 0.6, plus your selected threshold if different.")
         if robustness["changes"]:
             for change in robustness["changes"]:
                 st.write(f"- {change}")
@@ -201,13 +206,13 @@ if result:
     opportunity = result["opportunity"]
     steps = opportunity["steps"]
     display_names = {row["skill"]: row["display_skill"] for row in result["ranked"]}
-    points = [{"hours": 0.0, "jobs": result["ready"], "label": "Today"}]
+    points = [{"hours": 0.0, "jobs": result["ready"], "label": "Current profile"}]
     points.extend({"hours": step["cumulative_hours"], "jobs": step["total_jobs"],
                    "label": display_names.get(step["skill"], step["skill"])} for step in steps)
     curve_data = alt.Data(values=points)
     line = alt.Chart(curve_data).mark_line(point=True).encode(
         x=alt.X("hours:Q", title="Cumulative learning hours"),
-        y=alt.Y("jobs:Q", title="Jobs within reach", scale=alt.Scale(zero=True)),
+        y=alt.Y("jobs:Q", title="Listings matching the threshold", scale=alt.Scale(zero=True)),
         tooltip=["label:N", "hours:Q", "jobs:Q"])
     labels = alt.Chart(curve_data).mark_text(dy=-14).encode(
         x="hours:Q", y="jobs:Q", text="label:N")
@@ -230,7 +235,7 @@ if result:
         st.caption("The exact check tries every combination of up to eight measurable missing skills; the greedy plan picks the best next jobs-per-hour step.")
     st.markdown("### Skill distance")
     distance = result["distance"]
-    distance_labels = {"0": "0 · ready", "1": "1 skill", "2": "2 skills", "3+": "3+ skills", "Unknown": "Unknown"}
+    distance_labels = {"0": "0 · matches", "1": "1 skill", "2": "2 skills", "3+": "3+ skills", "Unknown": "Unknown"}
     bars = [{"distance": distance_labels[key], "jobs": distance["counts"][key]}
             for key in ("0", "1", "2", "3+", "Unknown")]
     chart = alt.Chart(alt.Data(values=bars)).mark_bar().encode(
@@ -249,7 +254,8 @@ if result:
                 label = f"{job.get('title') or 'Untitled'} — {job.get('company_name') or 'Unknown company'}"
                 st.markdown(f"- [{label}]({link})" if link else f"- {label}")
     with st.expander("How this is calculated"):
-        st.write("We first set aside jobs that ask for more experience than your selected level. We find skills named in the remaining job descriptions and in your resume, PDF or skill list. Skills found in at least the selected share of jobs are core; less common skills are shown as nice to have. BI tools, frontend frameworks and cloud platforms are alternatives; explicit 'X or Y' choices also count as one requirement. Jobs with no detected core skills are marked Unknown in the distance chart and left out of readiness calculations. A job is within reach when you have at least the chosen share of its core requirements. We count jobs that cross that threshold after adding one skill or the suggested pair. Broad umbrella terms, including UI/UX, can contribute to coverage but are never recommended as a next course. Learning hours use the median length of up to three free videos named as courses and lasting at least an hour. With fewer than two such videos, we use videos of at least 30 minutes and mark low confidence. The displayed hour range is a rough ±25% band around that estimate. The opportunity curve starts with jobs already within reach and adds the measurable skill with the most extra jobs per learning hour at each step, stopping after five skills or when no skill adds jobs. The exact budget check tests every subset of the top eight measurable missing skills at 5, 10 and 15 hours. Bootstrap confidence resamples the eligible listings 500 times with a fixed seed, recomputes the top scored skill, and labels it Strong at 85% or more, Likely at 60% or more, and Uncertain below 60%. The confidence panel also shows threshold changes. The distance chart counts the minimum extra skills needed to cross your chosen threshold. Course length is an estimate of study time; being within reach does not guarantee a job.")
+        st.write("We set aside listings that ask for more experience than the minimum of your selected band: 0, 1 or 3 years. Explicit description requirements override title-based estimates. We ignore negated skill mentions in resumes and job text. Skills are alternatives only where the listing explicitly offers an 'or' or slash choice. Skills found in at least the selected share of eligible listings are core; less common skills are shown as nice to have. Eligible listings pass the experience and date filters. Scored listings also have detected core requirements; others are Unknown. A profile matches a listing when it meets the selected fraction of core requirements. We count additional matches after adding one skill or the suggested pair. Broad umbrella terms can count for matching but are never recommended.")
+        st.write("Course hours are the median length of up to three qualifying free videos. Titles and channel names indicating an unrequested language are excluded; unlabelled videos are not proof of English audio. With fewer than two course-like videos of at least an hour, we fall back to videos of at least 30 minutes and mark low confidence. The displayed range is a rough 25% band, not a measured learning-time interval. The opportunity curve adds the measured skill with the most extra matches per course hour, stopping after five skills or no gain. Exact checks try every subset of up to eight measured candidates at 5, 10 and 15 hours. Confidence uses the lower of bootstrap win share and independent per-skill hour-variation retention across thresholds. The distance chart counts extra skills needed to cross the threshold. Posting age includes elapsed days since retrieval. These estimates do not establish competence or promise a job.")
     with st.expander("Search replay"):
         for event in result["replay"]:
             query = event["query"].get("q") or event["query"].get("search_query")
