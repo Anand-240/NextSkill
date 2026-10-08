@@ -49,7 +49,7 @@ with st.sidebar:
     if not demo and not live:
         st.info("Choose Demo data or Live search.")
     if demo:
-        preset = st.selectbox("Demo role", ["Data Analyst — Noida", "Frontend Developer — Bengaluru"])
+        preset = st.selectbox("Demo role", ["Frontend Developer, Bengaluru", "Data Analyst, Noida"])
         role, city = ("Data Analyst", "Noida") if preset.startswith("Data Analyst") else ("Frontend Developer", "Bengaluru")
     else:
         role = st.text_input("Role", "Data Analyst")
@@ -77,7 +77,10 @@ with st.sidebar:
                (f" Last known SerpApi credits remaining: {last_remaining}." if last_remaining is not None else ""))
     go = st.button("Find my next skill", type="primary", use_container_width=True, disabled=not (demo or live))
 
-if go:
+auto_demo = demo and not st.session_state.get("demo_initial_search_done", False)
+if go or auto_demo:
+    if auto_demo:
+        st.session_state["demo_initial_search_done"] = True
     try:
         pdf_text = extract_pdf_text(pdf.getvalue()) if pdf else ""
         if pdf and not pdf_text:

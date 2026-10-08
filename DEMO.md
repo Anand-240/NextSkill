@@ -1,6 +1,6 @@
 # NextSkill demo script (3 minutes)
 
-**Before recording:** Start `streamlit run app.py`. Leave **Demo data** selected, choose **Data Analyst — Noida**, and keep the sample “Excel, basic Python” resume. Keep the threshold at 0.50. Prepare a new role and city for the live step, such as **Data Engineer, Chennai**. Check that the six-request demo budget is available. The live step can take longer than its speaking slot if SerpApi is slow; pause the recording while it loads if needed.
+**Before recording:** Start `streamlit run app.py`. Leave **Demo data** selected, choose **Data Analyst, Noida**, and keep the sample “Excel, basic Python” resume. Keep the threshold at 0.50. Prepare a new role and city for the live step, such as **Data Engineer, Chennai**. Check that the six-request demo budget is available. The live step can take longer than its speaking slot if SerpApi is slow; pause the recording while it loads if needed.
 
 | Time | On screen | Narration |
 |---|---|---|

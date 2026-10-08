@@ -33,7 +33,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Open the local URL shown by Streamlit. Leave **Demo data** on, choose either role, and press **Find my next skill**. You can replace the sample resume text, enter a comma-separated skill list, or upload a PDF with selectable text. Select an experience level and adjust the readiness threshold if you want to explore different scenarios.
+Open the local URL shown by Streamlit. The Bengaluru frontend demo appears automatically. Choose another role or change the inputs, then press **Find my next skill** to refresh the results. You can replace the sample resume text, enter a comma-separated skill list, or upload a PDF with selectable text. Select an experience level and adjust the readiness threshold if you want to explore different scenarios.
 
 | Saved demo persona | Eligible listings | Jobs with detected core skills | Ready now | Top scored skill | Jobs it could unlock |
 |---|---:|---:|---:|---|---:|
