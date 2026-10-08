@@ -32,6 +32,10 @@ class PresentationTests(unittest.TestCase):
                  patch("engine.SerpClient.account", return_value={"this_month_usage": 0, "total_searches_left": 0}):
                 app.run()
                 app.sidebar.toggle[1].set_value(True).run()
+                sidebar = "\n".join(item.value for item in app.sidebar.caption)
+                self.assertIn("This search may use up to 6 credits.", sidebar)
+                self.assertIn("SerpApi credits remaining (Account API): 0.", sidebar)
+                self.assertNotIn("Last known", sidebar)
                 app.sidebar.button[0].click().run()
             self.assertFalse(app.exception)
             text = [item.value for item in app.markdown]

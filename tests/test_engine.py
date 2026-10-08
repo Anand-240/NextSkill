@@ -15,7 +15,8 @@ from engine import (DEFAULT_THRESHOLD, SerpClient, age_days, analyze_jobs, canon
                     no_unlock_message, MOSTLY_READY_MESSAGE, optional_serpapi_key,
                     greedy_opportunity, exact_opportunity, opportunity_quality,
                     bootstrap_confidence, confidence_label, skill_distance,
-                    listing_age_days, retrieval_date, stamp_response, headline_picks)
+                    listing_age_days, retrieval_date, stamp_response, headline_picks,
+                    BudgetExceeded, max_live_requests)
 from skills import GENERIC
 from skills import extract_skills
 
@@ -210,6 +211,47 @@ class EngineTests(unittest.TestCase):
                 replay = fetch_jobs("Analyst", "Noida", pages=1, client=client)
             self.assertEqual(replay[0]["_retrieved_at"], first[0]["_retrieved_at"])
         self.assertIsNotNone(retrieval_date(stamp_response({}, fresh=True)))
+
+    def _budget_run(self, budget):
+        fixtures = Path(__file__).resolve().parent / "fixtures"
+        jobs = {k: v for k, v in __import__("json").loads((fixtures / "jobs_1_page_1.json").read_text()).items()
+                if k != "serpapi_pagination"}
+        videos = __import__("json").loads((fixtures / "youtube_1.json").read_text())
+
+        def fake_request(endpoint, params, key):
+            return jobs if params.get("engine") == "google_jobs" else videos
+
+        with tempfile.TemporaryDirectory() as directory, patch("engine._request", side_effect=fake_request) as request:
+            client = SerpClient(cache_dir=Path(directory), call_cap=None, budget=budget)
+            client.key = "unit-test-placeholder"
+            result = run("Data Analyst", "Noida", "Excel, basic Python", pages=1, client=client,
+                         learning_limit=3, experience_level="3+ years")
+            return result, request.call_count
+
+    def test_live_budget_of_one_returns_listings_with_unknown_hours(self):
+        result, calls = self._budget_run(1)
+        self.assertEqual((calls, result["live_requests"], result["budget_reached"]), (1, 1, True))
+        self.assertGreater(len(result["jobs"]), 0)
+        self.assertTrue(result["ranked"])
+        self.assertTrue(all(row["confidence"] == "budget" and row["hours"] is None for row in result["ranked"]))
+        self.assertTrue(any(event["source"] == "budget reached" for event in result["replay"]))
+
+    def test_live_budget_of_two_measures_only_the_first_skill(self):
+        result, calls = self._budget_run(2)
+        self.assertEqual((calls, result["live_requests"]), (2, 2))
+        measured = [row for row in result["ranked"] if row["confidence"] != "budget"]
+        self.assertEqual([row["skill"] for row in measured], result["candidates"][:1])
+        self.assertIsNotNone(measured[0]["hours"])
+        self.assertTrue(result["budget_reached"])
+
+    def test_budget_is_checked_before_any_request(self):
+        client = SerpClient(cache_dir=Path(tempfile.mkdtemp()), call_cap=None, budget=0)
+        with patch("engine._request", side_effect=AssertionError("network requested")):
+            with self.assertRaises(BudgetExceeded):
+                client.search({"engine": "youtube", "search_query": "SQL"})
+        self.assertEqual(max_live_requests("Data Analyst", 1, "1-3 years"), 6)
+        self.assertEqual(max_live_requests("Data Analyst", 3, "Fresher"), 10)
+        self.assertEqual(max_live_requests("Data Analyst", 1, "1-3 years", include_hindi=True), 11)
 
     def test_fixture_replay_has_no_network(self):
         result = run("Data Analyst", "Noida", "Excel SQL Python", pages=2, offline=True, client=SerpClient(offline=True))

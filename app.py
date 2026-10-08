@@ -1,10 +1,11 @@
 """Run with: streamlit run nextskill/app.py"""
 import altair as alt
 import streamlit as st
-import json
+import hashlib
 from resume_pdf import extract_pdf_text
 
-from engine import (DEFAULT_THRESHOLD, DICTIONARY_WARNING, ROLE_FIT_WARNING, ROOT, SerpClient,
+from engine import (DEFAULT_THRESHOLD, DICTIONARY_WARNING, ROLE_FIT_WARNING, ROOT, BudgetExceeded, SerpClient,
+                    max_live_requests,
                     headline_picks, hours_range, is_old, no_unlock_message, optional_serpapi_key,
                     posted_text, run, course_videos)
 from job_prep import (REVISION_LABEL, build_plan, default_prep_index, is_cached, prep_candidates,
@@ -42,6 +43,23 @@ except Exception:
 if cloud_key == "your_key_here":
     cloud_key = None
 live_available = bool(optional_serpapi_key() or cloud_key)
+
+
+def key_id() -> str:
+    """Cache key for the credit balance that never contains the key itself."""
+    key = cloud_key or optional_serpapi_key() or ""
+    return hashlib.sha256(key.encode()).hexdigest()[:12]
+
+
+@st.cache_data(ttl=300, show_spinner=False)
+def live_credit_balance(key_hash: str) -> int | None:
+    """Current SerpApi balance from the Account API (account lookups do not use search credits)."""
+    client = SerpClient()
+    client.key = cloud_key or optional_serpapi_key()
+    try:
+        return client.account("sidebar").get("total_searches_left")
+    except RuntimeError:
+        return None
 if not live_available:
     st.session_state.live_mode = False
     st.session_state.demo_mode = True
@@ -84,16 +102,15 @@ with st.sidebar:
     include_hindi = st.toggle("Include Hindi videos", False)
     exclude_old = st.toggle("Exclude jobs older than 30 days", False)
     pages = st.selectbox("Job pages", [1, 2, 3], index=2 if demo else 0)
-    demo_ledger = ROOT / "cache" / "demo_ledger.json"
-    demo_attempts = json.loads(demo_ledger.read_text()).get("real_calls", 0) if demo_ledger.exists() else 0
-    last_account = ROOT / "cache" / "account_batch_d_after.json"
-    if not last_account.exists():
-        last_account = ROOT / "cache" / "account_batch_b_after.json"
-    if not last_account.exists():
-        last_account = ROOT / "cache" / "account_phase2_after.json"
-    last_remaining = json.loads(last_account.read_text()).get("total_searches_left") if last_account.exists() else None
-    st.caption(f"Demo live-search budget: {demo_attempts}/6 requests used." +
-               (f" Last known SerpApi credits remaining: {last_remaining}." if last_remaining is not None else ""))
+    budget = None
+    if live:
+        budget = int(st.number_input("Live search budget", min_value=1, max_value=30, value=6, step=1,
+                                     help="Maximum new SerpApi searches for one run. Saved responses are reused at no cost."))
+        estimate = min(budget, max_live_requests(role, pages, experience_level, include_hindi))
+        st.caption(f"This search may use up to {estimate} credit{'s' if estimate != 1 else ''}. Saved responses are reused at no cost.")
+        remaining = live_credit_balance(key_id())
+        st.caption(f"SerpApi credits remaining (Account API): {remaining}." if remaining is not None
+                   else "SerpApi credit balance unavailable.")
     go = st.button("Find my next skill", type="primary", use_container_width=True, disabled=not (demo or live))
 
 auto_demo = demo and not st.session_state.get("demo_initial_search_done", False)
@@ -108,7 +125,8 @@ if go or auto_demo:
                 st.stop()
         resume_input = "\n".join(part for part in (resume if resume.strip() != default_resume.strip() else "", pdf_text) if part) if pdf else resume
         with st.spinner("Checking job requirements and course lengths…"):
-            client = SerpClient(use_fixtures=demo, cache_only=demo, ledger_name="demo_ledger.json", call_cap=6)
+            client = SerpClient(use_fixtures=demo, cache_only=demo, ledger_name="demo_ledger.json", call_cap=None,
+                                budget=budget if live else None)
             if live:
                 client.key = cloud_key or optional_serpapi_key()
                 before = client.account("demo_before")
@@ -118,6 +136,7 @@ if go or auto_demo:
                                  experience_level=experience_level)
                 finally:
                     after = client.account("demo_after")
+                    live_credit_balance.clear()
                 st.session_state["credit_update"] = {"before": before, "after": after}
             else:
                 result = cached_demo_run(role, city, resume_input, manual, threshold, include_hindi,
@@ -149,6 +168,9 @@ if result:
         st.warning(ROLE_FIT_WARNING)
     if result["dictionary_warning"]:
         st.warning(DICTIONARY_WARNING)
+    if result.get("budget_reached"):
+        st.info(f"Live search budget reached after {result['live_requests']} new searches. Results use the listings and "
+                "course data fetched so far; skills without course data show hours unknown. Raise the budget to fetch more.")
     credit_update = st.session_state.get("credit_update")
     if credit_update:
         st.info(f"SerpApi credits used in this live run: {credit_update['after']['this_month_usage'] - credit_update['before']['this_month_usage']}. Remaining: {credit_update['after']['total_searches_left']}.")
@@ -214,6 +236,8 @@ if result:
             a.metric("More matches", f"+{item['unlocked_count']}")
             b.metric("Estimated learning hours", hours_range(item["hours"]))
             c.metric("Matches per course hour", f"{item['score']:.2f}" if item["score"] is not None else "Unavailable")
+            if item["confidence"] == "budget":
+                st.caption("Hours unknown (live budget reached).")
             if item["confidence"] == "low" and item["hours"] is not None:
                 st.caption("Low confidence: fewer than two qualifying full courses; estimate uses videos of at least 30 minutes.")
             if item["videos"]:
@@ -270,7 +294,8 @@ if result:
     else:
         st.info("No measured skill adds a reachable job at this threshold.")
     if opportunity["hours_unknown"]:
-        st.caption("Hours unknown: " + ", ".join(opportunity["hours_unknown"]) + ". These skills are left out of the hours-based plan.")
+        st.caption("Hours unknown" + (" (live budget reached)" if result.get("budget_reached") else "") + ": " +
+                   ", ".join(opportunity["hours_unknown"]) + ". These skills are left out of the hours-based plan.")
     with st.expander("Greedy plan vs exact budgets"):
         st.dataframe([{"Budget": f"{row['budget']} hours", "Greedy jobs gained": row["greedy_gained"],
                        "Exact best jobs gained": row["optimal_gained"],
@@ -387,19 +412,20 @@ if result:
             missing = [item["skill"] for item in plan["items"] if item["action"] == "revise"
                        and item["revision_status"] == "not_saved" and not is_cached(revision_params(item["skill"]), False)]
             if missing and not replay_mode:
-                left_requests = max(0, 6 - demo_attempts)
-                st.caption(f"Fetching revision videos for {', '.join(missing)} makes {len(missing)} new SerpApi searches. "
-                           f"{left_requests} of 6 live requests remain in this session's cap.")
-                if st.button(f"Fetch revision videos ({len(missing)} searches)", key="prep_fetch",
-                             disabled=len(missing) > left_requests):
-                    fetch_client = SerpClient(ledger_name="demo_ledger.json", call_cap=6)
+                prep_budget = budget or 1
+                st.caption(f"Fetching revision videos for {', '.join(missing)} needs {len(missing)} new SerpApi searches; "
+                           f"the live search budget allows {min(len(missing), prep_budget)} now.")
+                if st.button(f"Fetch revision videos (up to {min(len(missing), prep_budget)} searches)", key="prep_fetch"):
+                    fetch_client = SerpClient(ledger_name="demo_ledger.json", call_cap=None, budget=prep_budget)
                     fetch_client.key = cloud_key or optional_serpapi_key()
                     try:
                         for skill in missing:
                             fetch_client.search(revision_params(skill))
-                        st.rerun()
+                    except BudgetExceeded:
+                        pass  # Keep what was fetched; the rest stays "not fetched yet".
                     except RuntimeError as exc:
                         st.error(str(exc))
+                    st.rerun()
             st.caption("A prep plan shows what this listing asks for. It does not promise an interview or a job.")
     with st.expander("How this is calculated"):
         st.write("We set aside listings that ask for more experience than the minimum of your selected band: 0, 1 or 3 years. Explicit description requirements override title-based estimates. We ignore negated skill mentions in resumes and job text. Skills are alternatives only where the listing explicitly offers an 'or' or slash choice. Skills found in at least the selected share of eligible listings are core; less common skills are shown as nice to have. Eligible listings pass the experience and date filters. Scored listings also have detected core requirements; others are Unknown. A profile matches a listing when it meets the selected fraction of core requirements. We count additional matches after adding one skill or the suggested pair. Broad umbrella terms can count for matching but are never recommended.")

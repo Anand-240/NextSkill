@@ -106,17 +106,25 @@ def _request(endpoint: str, params: dict, key: str) -> dict:
         raise RuntimeError(f"SerpApi request failed ({type(exc).__name__})") from None
 
 
+class BudgetExceeded(RuntimeError):
+    """A live search would exceed this run's request budget; nothing was sent."""
+
+
 class SerpClient:
-    """Search source with fixture replay, persistent cache and a six-call cap."""
+    """Search source with fixture replay, persistent cache, a ledger cap and a per-run budget."""
 
     def __init__(self, offline: bool = False, cache_dir: Path | None = None, use_fixtures: bool = False,
-                 cache_only: bool = False, ledger_name: str = "phase2_ledger.json", call_cap: int = 12):
+                 cache_only: bool = False, ledger_name: str = "phase2_ledger.json", call_cap: int | None = 12,
+                 budget: int | None = None):
         self.offline = offline
         self.use_fixtures = offline or use_fixtures
         self.cache_only = cache_only
         self.cache_dir = cache_dir or ROOT / "cache"
         self.ledger_name = ledger_name
         self.call_cap = call_cap
+        self.budget = budget
+        self.live_calls = 0
+        self.budget_reached = False
         self.replay: list[dict] = []
         self.key: str | None = None
 
@@ -149,13 +157,18 @@ class SerpClient:
         if self.offline or self.cache_only:
             self.replay.append({"query": dict(params), "source": "cache missing"})
             return {}
+        if self.budget is not None and self.live_calls >= self.budget:
+            self.budget_reached = True
+            self.replay.append({"query": dict(params), "source": "budget reached"})
+            raise BudgetExceeded(f"Live search budget reached ({self.budget})")
         ledger_path = self.cache_dir / self.ledger_name
         ledger = json.loads(ledger_path.read_text()) if ledger_path.exists() else {"real_calls": 0, "attempts": []}
-        if ledger["real_calls"] >= self.call_cap:
+        if self.call_cap is not None and ledger["real_calls"] >= self.call_cap:
             raise RuntimeError(f"SerpApi search cap reached ({self.call_cap})")
         ledger["real_calls"] += 1
         ledger["attempts"].append({"engine": params.get("engine"), "query": params.get("q") or params.get("search_query"), "location": params.get("location")})
         _write_json(ledger_path, ledger)  # Count first: timeouts may consume credit.
+        self.live_calls += 1
         self.replay.append({"query": dict(params), "source": "live"})
         data = stamp_response(_request("search.json", params, self.key or _load_key()), fresh=True)
         _write_json(path, data)
@@ -192,6 +205,15 @@ def fresher_queries(role: str, experience_level: str | None) -> list[tuple[str, 
     return queries
 
 
+def max_live_requests(role: str, pages: int, experience_level: str | None, include_hindi: bool = False,
+                      learning_limit: int = 3) -> int:
+    """Upper bound on new searches for one run; cached responses cost nothing."""
+    job_searches = pages + len(fresher_queries(role, experience_level)) - 1
+    # Course lengths for the shortlisted skills plus the two-skill plan.
+    course_searches = (learning_limit + 2) * (2 if include_hindi else 1)
+    return job_searches + course_searches
+
+
 def fetch_jobs(role: str, city: str, pages: int = 3, client: SerpClient | None = None,
                experience_level: str | None = None) -> list[dict]:
     if not 1 <= pages <= 3:
@@ -204,7 +226,11 @@ def fetch_jobs(role: str, city: str, pages: int = 3, client: SerpClient | None =
         search_pages = pages if variant == "Base role" else 1
         for page in range(1, search_pages + 1):
             query = {**params, "q": search_term, **({"next_page_token": token} if token else {})}
-            data = client.search(query, page=page)
+            try:
+                data = client.search(query, page=page)
+            except BudgetExceeded:
+                # Keep the listings already fetched rather than failing the whole search.
+                return FetchedJobs(deduplicate(jobs), len(jobs))
             _check_error(data)
             batch = data.get("jobs_results") or []
             if client.replay:
@@ -490,7 +516,12 @@ def course_videos(skill: str, client: SerpClient, include_hindi: bool = False) -
         queries.append(f"{skill} tutorial in Hindi")
     results = []
     for query in queries:
-        data = client.search({"engine": "youtube", "search_query": query, "gl": "in", "hl": "en", "sp": LONG_VIDEO_SP})
+        try:
+            data = client.search({"engine": "youtube", "search_query": query, "gl": "in", "hl": "en", "sp": LONG_VIDEO_SP})
+        except BudgetExceeded:
+            if not results:
+                return None, [], "budget"
+            break
         _check_error(data)
         results.extend(data.get("video_results") or [])
     return select_course_videos(results, ", ".join(queries), {"english", "hindi"} if include_hindi else {"english"})
@@ -879,5 +910,6 @@ def run(role: str, city: str, resume: str = "", manual_skills: str = "", thresho
                                     "threshold_label": threshold_check["label"]},
                      "retrieved_dates": sorted({retrieval_date(job).isoformat() for job in analysis["all_listings"]
                                                  if retrieval_date(job) is not None}),
-                     "bootstrap": bootstrap, "opportunity": opportunity, "distance": distances})
+                     "bootstrap": bootstrap, "opportunity": opportunity, "distance": distances,
+                     "budget_reached": client.budget_reached, "live_requests": client.live_calls})
     return analysis
