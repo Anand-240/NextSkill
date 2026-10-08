@@ -67,6 +67,14 @@ _POSITIVE_RESET = re.compile(
     r"proficient\s+in|experienced\s+in|familiar\s+with|skilled\s+in)\b", re.I)
 
 
+def negated_mention(text: str, start: int, end: int) -> bool:
+    boundaries = list(_BOUNDARY.finditer(text, 0, start))
+    left = text[boundaries[-1].end() if boundaries else 0:start]
+    negatives = list(_NEGATION.finditer(left))
+    return bool((negatives and not _POSITIVE_RESET.search(left, negatives[-1].end())) or
+                re.match(r"\s+(?:is\s+|are\s+)?(?:not\s+required|not\s+needed)\b", text[end:end + 25], re.I))
+
+
 def skill_mentions(text: str) -> list[tuple[str, int, int]]:
     """Return affirmative skill mentions and their offsets in the original text."""
     text = text or ""
@@ -88,12 +96,8 @@ def skill_mentions(text: str) -> list[tuple[str, int, int]]:
             for pattern in patterns:
                 for match in pattern.finditer(segment):
                     left = segment[:match.start()].lower()
-                    right = segment[match.end():match.end() + 25].lower()
-                    negatives = list(_NEGATION.finditer(left))
                     # Negation extends over a skill list until a new positive clause.
-                    if negatives and not _POSITIVE_RESET.search(left, negatives[-1].end()):
-                        continue
-                    if re.match(r"\s+(?:is\s+|are\s+)?(?:not\s+required|not\s+needed)\b", right):
+                    if negated_mention(segment, match.start(), match.end()):
                         continue
                     if name == "Graphic Design" and re.search(r"\b(?:e\.g\.|ex:)\s*[^.]{0,60}$", left):
                         continue

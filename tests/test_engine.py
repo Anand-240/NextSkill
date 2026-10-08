@@ -330,6 +330,9 @@ class EngineTests(unittest.TestCase):
         self.assertEqual(extract_skills("No experience with SQL; proficient in Python."), {"Python"})
         self.assertEqual(extract_skills("Not only SQL but also Python."), {"SQL", "Python"})
         self.assertEqual(extract_skills("SQL is not required. Excel is required."), {"Excel"})
+        self.assertEqual(canonical_manual_skills("No experience with SQL, Python, Excel"), set())
+        self.assertEqual(canonical_manual_skills("R, basic Python"), {"R", "Python"})
+        self.assertEqual(canonical_manual_skills("No experience with R, Go, C"), set())
 
     def test_only_listing_alternatives_are_interchangeable(self):
         self.assertEqual(coverage(requirements_from_text("React is mandatory."), {"Angular"}), 0)

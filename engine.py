@@ -18,7 +18,7 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import urlopen
 
-from skills import ALIASES, GENERIC, SKILLS, extract_skills, skill_mentions
+from skills import ALIASES, GENERIC, SKILLS, extract_skills, skill_mentions, negated_mention
 
 ROOT = Path(__file__).resolve().parent
 DEMO_DATA = ROOT / "demo_data"
@@ -339,11 +339,14 @@ def experience_required(job: dict) -> tuple[int, str]:
 def canonical_manual_skills(text: str) -> set[str]:
     """Accept exact canonical names and aliases, plus natural language lists."""
     result = extract_skills(text)
-    for item in re.split(r"[,;\n]", text):
-        value = item.strip().casefold()
+    for item in re.finditer(r"[^,;\n]+", text):
+        value = item.group().strip().casefold()
+        if not value or negated_mention(text, item.start(), item.end()):
+            continue
         for skill in VOCABULARY:
             if value == skill.casefold() or value in {alias.casefold() for alias in ALIASES.get(skill, [])}:
                 result.add(skill)
+                break
     return result
 
 
