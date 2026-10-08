@@ -89,7 +89,7 @@ def negated_mention(text: str, start: int, end: int) -> bool:
                 re.match(r"\s+(?:is\s+|are\s+)?(?:not\s+required|not\s+needed)\b", text[end:end + 25], re.I))
 
 
-def skill_mentions(text: str) -> list[tuple[str, int, int]]:
+def skill_mentions(text: str, skip_headings: bool = True) -> list[tuple[str, int, int]]:
     """Return affirmative skill mentions and their offsets in the original text."""
     text = text or ""
     found = set()
@@ -103,8 +103,9 @@ def skill_mentions(text: str) -> list[tuple[str, int, int]]:
         segment = text[start:end]
         if not segment:
             continue
-        # A bare role heading is evidence about the vacancy, not a skill requirement.
-        if len(segment) < 85 and re.search(r"\b(intern|internship|developer|analyst|designer)\s*$", segment, re.I) and not re.search(r"[:.;]", segment):
+        # In a job listing a bare role heading names the vacancy, not a requirement.
+        # In a resume the same line ("Python Developer") is evidence of the skill.
+        if skip_headings and len(segment) < 85 and re.search(r"\b(intern|internship|developer|analyst|designer)\s*$", segment, re.I) and not re.search(r"[:.;]", segment):
             continue
         for name, patterns in _patterns.items():
             for pattern in patterns:
@@ -129,9 +130,9 @@ def skill_mentions(text: str) -> list[tuple[str, int, int]]:
         for other in found)), key=lambda item: (item[1], -(item[2] - item[1]), item[0]))
 
 
-def extract_skills(text: str) -> set[str]:
+def extract_skills(text: str, resume: bool = False) -> set[str]:
     """Return canonical skills supported by affirmative mentions."""
-    return {name for name, _, _ in skill_mentions(text)}
+    return {name for name, _, _ in skill_mentions(text, skip_headings=not resume)}
 
 
 def skill_count() -> int:

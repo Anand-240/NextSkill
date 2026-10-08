@@ -338,7 +338,7 @@ def experience_required(job: dict) -> tuple[int, str]:
 
 def canonical_manual_skills(text: str) -> set[str]:
     """Accept exact canonical names and aliases, plus natural language lists."""
-    result = extract_skills(text)
+    result = extract_skills(text, resume=True)
     for item in re.finditer(r"[^,;\n]+", text):
         value = item.group().strip().casefold()
         if not value or negated_mention(text, item.start(), item.end()):
@@ -817,7 +817,7 @@ def run(role: str, city: str, resume: str = "", manual_skills: str = "", thresho
         experience_level: str | None = None) -> dict:
     client = client or SerpClient(offline=offline)
     jobs = fetch_jobs(role, city, pages=pages, client=client, experience_level=experience_level)
-    user = extract_skills(resume) | canonical_manual_skills(manual_skills)
+    user = extract_skills(resume, resume=True) | canonical_manual_skills(manual_skills)
     analysis = analyze_jobs(jobs, user, threshold, exclude_old, core_share, experience_level)
     ranked = rank_skills(analysis, client, include_hindi, learning_limit)
     hours = {row["skill"]: row["hours"] for row in ranked}

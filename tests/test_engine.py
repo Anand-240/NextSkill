@@ -51,6 +51,14 @@ class EngineTests(unittest.TestCase):
         for text in ("the mean value of each node", "American Express card", "express your ideas", "mongo shell"):
             self.assertEqual(extract_skills(text), set(), text)
 
+    def test_resume_headings_count_but_job_headings_do_not(self):
+        for line, expected in (("Python Developer", {"Python"}), ("Data Analyst (SQL)", {"SQL"}),
+                               ("React Developer", {"React"}), ("Java Intern", {"Java"})):
+            self.assertEqual(extract_skills(line, resume=True), expected, line)
+            self.assertEqual(canonical_manual_skills(line), expected, line)
+        self.assertEqual(extract_skills("Python Developer"), set())
+        self.assertEqual(extract_skills("Python Developer\nWe need SQL experience."), {"SQL"})
+
     def test_rest_api_requires_api_or_service_context(self):
         for sentence in ("Integrate REST API endpoints.", "Use REST APIs for backend calls.",
                          "Build RESTful APIs.", "Connect to REST services.", "Maintain RESTful services."):
