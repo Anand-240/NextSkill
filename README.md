@@ -13,7 +13,8 @@ Students and early-career applicants often have to guess what to learn. Job desc
 The bundled Noida and Bengaluru snapshots work **without a SerpApi key** and make no API calls.
 
 ```sh
-cd nextskill
+git clone https://github.com/Anand-240/NextSkill.git
+cd NextSkill
 python3 -m venv .venv
 . .venv/bin/activate
 pip install -r requirements.txt
