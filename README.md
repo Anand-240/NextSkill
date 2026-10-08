@@ -20,6 +20,7 @@ NextSkill turns local job descriptions into a concrete next step. Choose a role 
 >
 > - **Matches:** the profile covers at least the threshold share (default 50%) of a listing's detected core skills. Not a hiring prediction.
 > - **Learning hours:** the length of free full courses found on YouTube. Not time to mastery.
+> - **Revision time (Job Prep):** the total length of up to two short revision videos (5 to 25 minutes) per skill you already have. Quick revision videos, not a full course and not a guarantee.
 > - **Confidence:** how often the top pick stays first when listings are resampled and course hours vary. Stability, not accuracy.
 
 ## Why it exists
@@ -53,6 +54,18 @@ These job snapshots were retrieved on **2026-10-07 UTC**. The headline reports m
 ![Bengaluru frontend demo](screenshots/final_frontend.png)
 
 [Noida opportunity curve](screenshots/final_noida_plan.png) · [Bengaluru opportunity curve](screenshots/final_frontend_plan.png) · [Search Replay](screenshots/final_replay.png)
+
+## Job Prep mode
+
+After the recommendations, pick one listing that matches now or is one skill away and press **Prepare for this job**. The plan uses only this search's data: the listing's core requirements, how many eligible listings ask for each skill, and the existing match and unlock calculations. It shows readiness before and after, skills to **revise** and to **learn**, either/or choices in the listing, the exact line that mentions each skill, the listing's experience requirement, and a time range.
+
+Skills are ordered by importance in that listing (mentions, plus 2 when the sentence says must, required, strong or mandatory), then by how many eligible listings ask for them. Learn skills reuse the saved full-course hours. Revise skills get short revision videos from a new YouTube search through SerpApi (`<skill> revision`, 4 to 20 minute filter). The app keeps 5 to 25 minute videos whose title names the skill and suggests revision, and drops other languages and exam coursework. With no such video it says so instead of filling the gap.
+
+Example from the saved Bengaluru demo: for the "Frontend Developer (Fresher)" listing at Team Geek Solutions, the profile covers 3 of 7 core skills, and learning REST API, React or Responsive Design alone would make it a match. React comes first in the plan: the listing mentions it 3 times and 13 of 23 eligible listings ask for it. Revising JavaScript comes next: 17 of 23 listings ask for it, and two saved videos take 26 minutes. The full plan takes about 8.9 to 14.4 hours.
+
+The demo has saved revision videos for JavaScript and CSS only; other skills show "Revision videos available in live search". In live mode the app shows how many new searches a fetch would make before running it, and those searches count toward the same six-request cap.
+
+![Job Prep plan for a Bengaluru listing](screenshots/final_jobprep.png)
 
 ## How it works
 
@@ -94,7 +107,7 @@ Recommendation confidence uses the **lower of the two shares**: Strong at 85% or
 | SerpApi engine | What NextSkill uses it for |
 |---|---|
 | [`google_jobs`](https://serpapi.com/google-jobs-api) | Local job titles, companies, descriptions, links, posting signals, and pagination. |
-| [`youtube`](https://serpapi.com/youtube-search-api) | Beginner-course search results, video lengths, channels, titles, and links. |
+| [`youtube`](https://serpapi.com/youtube-search-api) | Beginner-course search results, video lengths, channels, titles, and links; short revision videos for Job Prep. |
 | [Account API](https://serpapi.com/account-api) | Credit usage before and after a live run. |
 
 The live product needs current local job and course data; the bundled data exists to make the demo and tests reproducible. Live responses are cached in `cache/`. Searches use a 75-second timeout and do not retry on timeout.
@@ -141,6 +154,7 @@ For Streamlit Community Cloud, select **`app.py` at the repository root**. The p
 | `app.py` | Streamlit interface, charts, and Search Replay. |
 | `engine.py` | Cached SerpApi client, experience filtering, readiness, ranking, planning, and bootstrap. |
 | `skills.py` | Canonical skill dictionary, aliases, and context-aware matching. |
+| `job_prep.py` | Job Prep plans for one listing and revision video filtering. |
 | `resume_pdf.py` | Text extraction from PDF resumes. |
 | `demo_data/` | Committed job and course responses for key-free Demo mode. |
 | `tests/` | Offline unit tests and fixtures. |
@@ -153,7 +167,7 @@ Run the offline suite from the repository root:
 python -m unittest discover -s tests -q
 ```
 
-The suite currently has **46 tests** and makes no SerpApi calls. `.github/workflows/tests.yml` runs it on pushes and pull requests. To capture screenshots locally, install `requirements-dev.txt`, run `python -m playwright install chromium`, start the app, then run `python -m scripts.capture_screenshots final_noida`. Run other development scripts with `python -m scripts.<module>` from the repository root. Playwright is a development dependency, not required to run the app.
+The suite currently has **57 tests** and makes no SerpApi calls. `.github/workflows/tests.yml` runs it on pushes and pull requests. To capture screenshots locally, install `requirements-dev.txt`, run `python -m playwright install chromium`, start the app, then run `python -m scripts.capture_screenshots final_noida`. Run other development scripts with `python -m scripts.<module>` from the repository root. Playwright is a development dependency, not required to run the app.
 
 **Stack:** Python 3.10+, Streamlit, Altair, pypdf, standard-library HTTP and JSON, and SerpApi. OpenAI Codex and Claude Code assisted with implementation, tests, analysis, and documentation. The running app does not call an LLM.
 
