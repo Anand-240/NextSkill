@@ -1,8 +1,20 @@
 # NextSkill
 
+[![CI](https://github.com/Anand-240/NextSkill/actions/workflows/tests.yml/badge.svg)](https://github.com/Anand-240/NextSkill/actions/workflows/tests.yml)
+![MIT licence](https://img.shields.io/badge/licence-MIT-blue)
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
+
+Try it live: &lt;link coming soon&gt;
+
 **Learn the one skill that unlocks the most real jobs, in the least time.**
 
 NextSkill turns local job descriptions into a concrete next step. Choose a role and Indian city, add the skills you already have, and see which missing skill could put the most jobs within reach per estimated learning hour. The app shows the job evidence and free course videos behind each recommendation.
+
+## Key findings
+
+- In the saved Bengaluru frontend fresher demo, REST API and React each unlock 8 jobs. Their estimated course lengths are 2.33 and 5.09 hours, so REST API ranks first.
+- Bengaluru sets aside 22 listings that need more experience. Another 23 remain eligible, including 19 with detected core skills.
+- At 5, 10, and 15-hour budgets, Bengaluru's greedy plan gains 8/8, 11/12, and 12/12 jobs against the exact best. Noida gains 8/8, 10/11, and 12/12.
 
 ## Why it exists
 
@@ -67,7 +79,7 @@ Course hours are the median length of up to three free YouTube videos with a cou
 
 For the quality check, NextSkill tries every subset of the top eight measurable missing skills under 5, 10, and 15-hour budgets. These saved demos have **four** measurable candidate skills in Noida and **three** in Bengaluru. At 10 hours, the greedy plan reaches **90.9%** and **91.7%** of the exact additional-job gain respectively. This is a check on these samples and budgets; greedy is not guaranteed to find the best combination.
 
-The app also resamples the eligible listings **500 times** with a fixed seed and recomputes the top pick. SQL wins **60.4%** of Noida resamples (**Likely**); REST API wins **93.6%** of Bengaluru resamples (**Strong**). Labels are **Strong** at 85% or more, **Likely** from 60% to below 85%, and **Uncertain** below 60%. They describe sensitivity to the sampled listings, not the chance of getting hired. A separate listing-count badge reports High (25+), Medium (12–24), or Low (under 12) sample size.
+The app also resamples the eligible listings **500 times** with a fixed seed and recomputes the top pick. SQL wins **60.4%** of Noida resamples (**Likely**); REST API wins **93.6%** of Bengaluru resamples (**Strong**). Labels are **Strong** at 85% or more, **Likely** from 60% to below 85%, and **Uncertain** below 60%. They describe sensitivity to the sampled listings, not the chance of getting hired. A separate listing-count badge reports High (25+), Medium (12 to 24), or Low (under 12) sample size.
 
 ## Why SerpApi is essential
 
