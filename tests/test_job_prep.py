@@ -164,7 +164,7 @@ class DemoJobPrepTests(unittest.TestCase):
         self.assertEqual(items["JavaScript"]["revision_status"], "found")
         self.assertEqual(items["CSS"]["revision_status"], "found")
         self.assertEqual(items["HTML"]["revision_status"], "not_saved")
-        self.assertEqual(items["REST API"]["other_unlocks"], 8)
+        self.assertEqual(items["REST API"]["other_unlocks"], 7)
         self.assertTrue(items["UI/UX"]["broad"])
 
 

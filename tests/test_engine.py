@@ -264,7 +264,7 @@ class EngineTests(unittest.TestCase):
         self.assertIn(frozenset({"SQL", "Python"}), requirements_from_text("SQL or Python"))
         self.assertEqual(coverage(requirements_from_text("SQL/Python"), {"Python"}), 1)
         self.assertEqual(coverage(requirements_from_text("Power BI/Tableau, SQL"), {"Tableau", "SQL"}), 1)
-        jobs = [job("Analyst", "A", "SQL, Excel, Power BI or Tableau"),
+        jobs = [job("Analyst", "A", "SQL and Excel. Power BI or Tableau"),
                 job("Analyst", "B", "SQL, Excel, Power BI")]
         analysis = analyze_jobs(jobs, {"SQL", "Excel", "Tableau"}, threshold=1)
         self.assertEqual(analysis["ready"], 1)
@@ -386,6 +386,24 @@ class EngineTests(unittest.TestCase):
         for text, expected in cases.items():
             self.assertEqual(extract_skills(text, resume=True), expected, text)
         self.assertEqual(canonical_manual_skills("SQL, no Tableau, learning Python"), {"SQL"})
+
+    def test_comma_or_lists_group_only_three_same_family_tools(self):
+        grouped = {"React, Angular, or Vue": {"React", "Angular", "Vue.js"},
+                   "Experience in AWS, GCP, or Azure": {"AWS", "Google Cloud", "Azure"},
+                   "MySQL, PostgreSQL or MongoDB": {"MySQL", "PostgreSQL", "MongoDB"},
+                   "Tableau, Looker or Power BI": {"Tableau", "Looker", "Power BI"}}
+        for text, expected in grouped.items():
+            self.assertEqual(requirements_from_text(text), {frozenset(expected)}, text)
+        separate = {"Python, SQL, Excel or Tableau": {"Python", "SQL", "Excel", "Tableau"},
+                    "HTML, CSS, JavaScript or React": {"HTML", "CSS", "JavaScript", "React"},
+                    "React, Angular, Vue or Next.js": {"React", "Angular", "Vue.js", "Next.js"},
+                    "SQL, Tableau or Power BI": {"SQL", "Tableau", "Power BI"}}
+        for text, expected in separate.items():
+            self.assertEqual(requirements_from_text(text), {frozenset({skill}) for skill in expected}, text)
+        self.assertEqual(requirements_from_text("React/Angular/Vue"), {frozenset({"React", "Angular", "Vue.js"})})
+        self.assertEqual(requirements_from_text("Power BI or Tableau"), {frozenset({"Power BI", "Tableau"})})
+        self.assertEqual(requirements_from_text("HTML5, CSS3, JavaScript/TypeScript"),
+                         {frozenset({"HTML"}), frozenset({"CSS"}), frozenset({"JavaScript", "TypeScript"})})
 
     def test_only_listing_alternatives_are_interchangeable(self):
         self.assertEqual(coverage(requirements_from_text("React is mandatory."), {"Angular"}), 0)

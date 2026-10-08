@@ -15,7 +15,7 @@ class PresentationTests(unittest.TestCase):
             app = AppTest.from_file(str(ROOT / "app.py"), default_timeout=120).run()
             self.assertFalse(app.exception)
             self.assertEqual(app.subheader[0].value,
-                             "Your profile matches 8 of 19 saved listings in Bengaluru.")
+                             "Your profile matches 9 of 19 saved listings in Bengaluru.")
             captions = "\n".join(item.value for item in app.caption)
             self.assertIn("Snapshot date: 2026-10-07 (UTC)", captions)
             self.assertIn("23 eligible listings", captions)
@@ -30,7 +30,7 @@ class PresentationTests(unittest.TestCase):
                 app.sidebar.button[0].click().run()
             self.assertFalse(app.exception)
             self.assertEqual(app.subheader[0].value,
-                             "Your profile matches 8 of 19 listings found now in Bengaluru.")
+                             "Your profile matches 9 of 19 listings found now in Bengaluru.")
             self.assertNotIn("ready for", app.subheader[0].value)
 
     def test_fastest_win_and_biggest_unlock_cards(self):
@@ -67,7 +67,7 @@ class PresentationTests(unittest.TestCase):
             captions = "\n".join(item.value for item in app.caption)
             self.assertIn("Quick revision videos. Not a full course and not a guarantee.", captions)
             self.assertIn("Revision videos available in live search.", captions)
-            self.assertEqual(app.subheader[0].value, "Your profile matches 8 of 19 saved listings in Bengaluru.")
+            self.assertEqual(app.subheader[0].value, "Your profile matches 9 of 19 saved listings in Bengaluru.")
             prep_buttons = [button for button in app.button if button.key and button.key.startswith("prep_")]
             self.assertEqual(len(prep_buttons), 19)
             target = next(button for button in prep_buttons if button.key != "prep_1")

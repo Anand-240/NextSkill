@@ -350,6 +350,17 @@ def canonical_manual_skills(text: str) -> set[str]:
     return result
 
 
+# "A, B or C" is a choice only between interchangeable tools of one kind.
+SKILL_FAMILIES = {"BI tools": {"Power BI", "Tableau", "Looker"},
+                  "frontend frameworks": {"React", "Angular", "Vue.js", "Next.js"},
+                  "cloud providers": {"AWS", "Azure", "Google Cloud"},
+                  "databases": {"MySQL", "PostgreSQL", "MongoDB", "Oracle Database", "SQL Server", "Redis", "NoSQL"}}
+
+
+def same_family(skills: set[str]) -> bool:
+    return any(skills <= members for members in SKILL_FAMILIES.values())
+
+
 def requirements_from_text(text: str) -> set[frozenset[str]]:
     """Only an explicit or/slash chain makes skills interchangeable in a listing."""
     mentions = skill_mentions(text)
@@ -359,7 +370,9 @@ def requirements_from_text(text: str) -> set[frozenset[str]]:
     previous_end = None
     for skill, start, end in mentions:
         joiner = None if previous_end is None else text[previous_end:start]
-        if joiner is not None and re.fullmatch(r"\s*(?:/|,?\s*\bor\b)\s*", joiner, re.I):
+        if joiner is not None and re.fullmatch(r"\s*/\s*", joiner):
+            lists[-1].append(("/", skill))
+        elif joiner is not None and re.fullmatch(r"\s*,?\s*\bor\b\s*", joiner, re.I):
             lists[-1].append(("or", skill))
         elif joiner is not None and re.fullmatch(r"\s*,\s*", joiner):
             lists[-1].append((",", skill))
@@ -367,13 +380,19 @@ def requirements_from_text(text: str) -> set[frozenset[str]]:
             lists.append([(None, skill)])
         previous_end = end
     for items in lists:
-        # "A, B, or C" offers the whole list as alternatives.
-        if len(items) > 2 and items[-1][0] == "or":
-            requirements.add(frozenset(skill for _, skill in items))
+        # "A, B, or C" is one choice only for three tools of the same family;
+        # longer or mixed lists such as "HTML, CSS, JavaScript or React" stay separate.
+        # A slash ("JavaScript/TypeScript") is always an explicit choice.
+        if len(items) > 2 and items[-1][0] == "or" and any(joiner == "," for joiner, _ in items):
+            skills = {skill for _, skill in items}
+            if len(items) == 3 and same_family(skills):
+                requirements.add(frozenset(skills))
+            else:
+                requirements.update(frozenset({skill}) for skill in skills)
             continue
         group = set()
         for joiner, skill in items:
-            if joiner == "or":
+            if joiner in {"or", "/"}:
                 group.add(skill)
             else:
                 if group:

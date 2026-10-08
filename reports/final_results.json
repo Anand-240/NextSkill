@@ -96,18 +96,18 @@
       "eligible": 23,
       "scored": 19,
       "ignored": 4,
-      "matches": 8,
+      "matches": 9,
       "fastest_win": "REST API",
       "biggest_unlock": "React",
       "ranked": [
         {
           "skill": "REST API",
           "display_skill": "REST API",
-          "unlocked": 9,
+          "unlocked": 8,
           "appears_in": 11,
           "hours": 3.12,
           "course_confidence": "standard",
-          "jobs_per_hour": 2.886,
+          "jobs_per_hour": 2.565,
           "videos": [
             {
               "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
@@ -126,35 +126,6 @@
               "channel": "freeCodeCamp.org",
               "duration": "5:08:48",
               "link": "https://www.youtube.com/watch?v=2JYT5f2isg4"
-            }
-          ]
-        },
-        {
-          "skill": "React",
-          "display_skill": "React",
-          "unlocked": 11,
-          "appears_in": 13,
-          "hours": 5.09,
-          "course_confidence": "standard",
-          "jobs_per_hour": 2.16,
-          "videos": [
-            {
-              "title": "React Tutorial Full Course - Beginner to Pro (React 19, 2025)",
-              "channel": "SuperSimpleDev",
-              "duration": "11:32:04",
-              "link": "https://www.youtube.com/watch?v=TtPXvEcE11E"
-            },
-            {
-              "title": "React Full Course for free ⚛️",
-              "channel": "Bro Code",
-              "duration": "4:43:02",
-              "link": "https://www.youtube.com/watch?v=CgkZ7MvWUAA"
-            },
-            {
-              "title": "Learn React JS - Full Course for Beginners - Tutorial 2019",
-              "channel": "freeCodeCamp.org",
-              "duration": "5:05:34",
-              "link": "https://www.youtube.com/watch?v=DLX62G4lc44"
             }
           ]
         },
@@ -188,9 +159,38 @@
           ]
         },
         {
+          "skill": "React",
+          "display_skill": "React",
+          "unlocked": 10,
+          "appears_in": 13,
+          "hours": 5.09,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.964,
+          "videos": [
+            {
+              "title": "React Tutorial Full Course - Beginner to Pro (React 19, 2025)",
+              "channel": "SuperSimpleDev",
+              "duration": "11:32:04",
+              "link": "https://www.youtube.com/watch?v=TtPXvEcE11E"
+            },
+            {
+              "title": "React Full Course for free ⚛️",
+              "channel": "Bro Code",
+              "duration": "4:43:02",
+              "link": "https://www.youtube.com/watch?v=CgkZ7MvWUAA"
+            },
+            {
+              "title": "Learn React JS - Full Course for Beginners - Tutorial 2019",
+              "channel": "freeCodeCamp.org",
+              "duration": "5:05:34",
+              "link": "https://www.youtube.com/watch?v=DLX62G4lc44"
+            }
+          ]
+        },
+        {
           "skill": "Git",
           "display_skill": "Git",
-          "unlocked": 6,
+          "unlocked": 5,
           "appears_in": 7,
           "hours": null,
           "course_confidence": "low",
@@ -199,21 +199,21 @@
         }
       ],
       "bootstrap": {
-        "top_share": 0.684,
+        "top_share": 0.616,
         "shares": {
-          "REST API": 0.684,
-          "Responsive Design": 0.184,
-          "React": 0.112,
-          "No scored pick": 0.02
+          "REST API": 0.616,
+          "Responsive Design": 0.234,
+          "React": 0.128,
+          "No scored pick": 0.022
         },
         "samples": 500
       },
       "hour_variation": {
-        "top_share": 0.5207,
+        "top_share": 0.4847,
         "checks": 1500,
         "by_threshold": {
           "0.4": 0.548,
-          "0.5": 0.75,
+          "0.5": 0.642,
           "0.6": 0.264
         }
       },
@@ -223,7 +223,7 @@
           "React",
           "REST API"
         ],
-        "unlocked": 11,
+        "unlocked": 10,
         "hours": 8.21
       },
       "curve": [
@@ -231,7 +231,7 @@
           "skill": "REST API",
           "hours": 3.12,
           "cumulative_hours": 3.12,
-          "gained": 9,
+          "gained": 8,
           "total": 17
         },
         {
@@ -245,8 +245,8 @@
       "greedy_vs_exact": [
         {
           "budget": 5,
-          "greedy": 9,
-          "exact": 9,
+          "greedy": 8,
+          "exact": 8,
           "greedy_skills": [
             "REST API"
           ],
@@ -257,8 +257,8 @@
         },
         {
           "budget": 10,
-          "greedy": 11,
-          "exact": 11,
+          "greedy": 10,
+          "exact": 10,
           "greedy_skills": [
             "REST API",
             "React"
@@ -270,8 +270,8 @@
         },
         {
           "budget": 15,
-          "greedy": 11,
-          "exact": 11,
+          "greedy": 10,
+          "exact": 10,
           "greedy_skills": [
             "REST API",
             "React"
@@ -283,8 +283,8 @@
         }
       ],
       "distance": {
-        "0": 8,
-        "1": 11,
+        "0": 9,
+        "1": 10,
         "2": 0,
         "3+": 0,
         "Unknown": 4
