@@ -354,17 +354,31 @@ def requirements_from_text(text: str) -> set[frozenset[str]]:
     """Only an explicit or/slash chain makes skills interchangeable in a listing."""
     mentions = skill_mentions(text)
     requirements = set()
-    group = set()
+    # Split mentions into comma, slash or "or" separated lists.
+    lists = []
     previous_end = None
     for skill, start, end in mentions:
-        if previous_end is not None and re.fullmatch(r"\s*(?:/|\bor\b)\s*", text[previous_end:start], re.I):
-            group.add(skill)
+        joiner = None if previous_end is None else text[previous_end:start]
+        if joiner is not None and re.fullmatch(r"\s*(?:/|,?\s*\bor\b)\s*", joiner, re.I):
+            lists[-1].append(("or", skill))
+        elif joiner is not None and re.fullmatch(r"\s*,\s*", joiner):
+            lists[-1].append((",", skill))
         else:
-            if group:
-                requirements.add(frozenset(group))
-            group = {skill}
+            lists.append([(None, skill)])
         previous_end = end
-    if group:
+    for items in lists:
+        # "A, B, or C" offers the whole list as alternatives.
+        if len(items) > 2 and items[-1][0] == "or":
+            requirements.add(frozenset(skill for _, skill in items))
+            continue
+        group = set()
+        for joiner, skill in items:
+            if joiner == "or":
+                group.add(skill)
+            else:
+                if group:
+                    requirements.add(frozenset(group))
+                group = {skill}
         requirements.add(frozenset(group))
     return requirements
 

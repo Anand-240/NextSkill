@@ -341,6 +341,12 @@ class EngineTests(unittest.TestCase):
         self.assertEqual(requirements_from_text("Any cloud such as AWS or Azure"), {frozenset({"AWS", "Azure"})})
         self.assertEqual(requirements_from_text("SQL or Python. SQL is required."),
                          {frozenset({"SQL", "Python"}), frozenset({"SQL"})})
+        for text in ("Frameworks (React, Angular, or Vue)", "Experience with React, Vue or Angular"):
+            self.assertEqual(requirements_from_text(text), {frozenset({"React", "Angular", "Vue.js"})}, text)
+        self.assertEqual(requirements_from_text("SQL, Excel or Power BI, Python"),
+                         {frozenset({"SQL"}), frozenset({"Excel", "Power BI"}), frozenset({"Python"})})
+        self.assertEqual(requirements_from_text("React, Angular and Vue"),
+                         {frozenset({"React"}), frozenset({"Angular"}), frozenset({"Vue.js"})})
         independent = analyze_jobs([job("A", "One", "React"), job("B", "Two", "Angular")], set(), threshold=1)
         self.assertEqual(set(independent["pair"][:2]), {"React", "Angular"})
         self.assertEqual(independent["display_members"]["React"], frozenset({"React"}))
