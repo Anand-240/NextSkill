@@ -3,7 +3,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from audit_matcher import audit
+from scripts.audit_matcher import audit
 from engine import ROOT, SerpClient, run
 
 

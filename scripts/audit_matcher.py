@@ -1,17 +1,13 @@
 """Reproduce the 20-match precision audit from validation fixtures."""
-import importlib.util
 import json
 import random
 import re
 from pathlib import Path
 
+from scripts import validation_skills as old
 from skills import extract_skills
 
-ROOT = Path(__file__).resolve().parent
-OLD = ROOT.parent / "nextskill_test" / "skills.py"
-spec = importlib.util.spec_from_file_location("validation_skills", OLD)
-old = importlib.util.module_from_spec(spec)
-spec.loader.exec_module(old)
+ROOT = Path(__file__).resolve().parents[1]
 
 # Human review of the fixed seeded sample: these are mentions, not requirements.
 FALSE_MATCH_INDICES = {2, 6, 17, 19}

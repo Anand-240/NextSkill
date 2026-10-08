@@ -120,6 +120,7 @@ For Streamlit Community Cloud, select **`app.py` at the repository root**. The p
 | `resume_pdf.py` | Text extraction from PDF resumes. |
 | `demo_data/` | Committed job and course responses for key-free Demo mode. |
 | `tests/` | Offline unit tests and fixtures. |
+| `scripts/` | Development scripts for audits, reports, and screenshots. |
 | `reports/`, `screenshots/` | Audits, measurements, and demo evidence. |
 
 Run the offline suite from the repository root:
@@ -128,7 +129,7 @@ Run the offline suite from the repository root:
 python -m unittest discover -s tests -q
 ```
 
-The suite currently has **33 tests** and makes no SerpApi calls. `.github/workflows/tests.yml` runs it on pushes and pull requests. To capture screenshots locally, install `requirements-dev.txt`; Playwright is a development dependency, not required to run the app.
+The suite currently has **33 tests** and makes no SerpApi calls. `.github/workflows/tests.yml` runs it on pushes and pull requests. To capture screenshots locally, install `requirements-dev.txt`, start the app, then run `python -m scripts.capture_screenshots batch_d_noida`. Run other development scripts with `python -m scripts.<module>` from the repository root. Playwright is a development dependency, not required to run the app.
 
 **Stack:** Python 3.10+, Streamlit, Altair, pypdf, standard-library HTTP and JSON, and SerpApi. OpenAI Codex assisted with implementation, tests, analysis, and documentation. The running app does not call an LLM.
 
