@@ -7,6 +7,10 @@ from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parents[1]
 MODE = sys.argv[1] if len(sys.argv) > 1 else "fixture"
+# Final screenshots use the Batch E navigation and keep their own file names.
+OUTPUT = MODE
+if MODE.startswith("final_"):
+    MODE = "batch_e_" + MODE[len("final_"):]
 
 with sync_playwright() as playwright:
     browser = playwright.chromium.launch(headless=True)
@@ -72,6 +76,6 @@ with sync_playwright() as playwright:
         page.get_by_text("Listing origins", exact=True).wait_for(timeout=30000)
     if page.locator('[data-testid="stException"]').count():
         raise RuntimeError("Streamlit rendered an exception instead of the demo")
-    page.screenshot(path=str(ROOT / "screenshots" / f"{MODE}.png"), full_page=True)
-    print(f"screenshot={ROOT / 'screenshots' / f'{MODE}.png'}")
+    page.screenshot(path=str(ROOT / "screenshots" / f"{OUTPUT}.png"), full_page=True)
+    print(f"screenshot={ROOT / 'screenshots' / f'{OUTPUT}.png'}")
     browser.close()

@@ -11,4 +11,4 @@
 | 2:20-2:40 | Open **How this is calculated**. | “Explicit alternatives and negation affect matching. Confidence checks both resampled listings and independently varied course hours. These are model matches, not hiring eligibility, and no job is promised.” |
 | 2:40-2:50 | Return to the hero and top card. | “NextSkill turns a long job-market wish list into one clear learning step.” |
 
-The [Noida](screenshots/batch_e_noida.png) and [Frontend](screenshots/batch_e_frontend.png) screenshots are reference material. Record the running local app for the submission and verify that the exported video is strictly under three minutes.
+The [Noida](screenshots/final_noida.png) and [Frontend](screenshots/final_frontend.png) screenshots are reference material. Record the running local app for the submission and verify that the exported video is strictly under three minutes.

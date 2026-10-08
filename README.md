@@ -12,10 +12,10 @@ NextSkill turns local job descriptions into a concrete next step. Choose a role 
 
 ## Key findings
 
-- In the saved Bengaluru frontend fresher demo, REST API adds 8 threshold matches at 3.12 estimated course hours; React adds 9 at 5.09 hours. REST API ranks first by matches per course hour, with Likely recommendation confidence.
+- In the saved Bengaluru frontend fresher demo, the profile matches 5 of 19 scored listings. REST API is the fastest win: 7 more matches at 3.12 estimated course hours. React is the biggest unlock: 10 more matches at 5.09 hours. Recommendation confidence is Uncertain.
 - Bengaluru sets aside 22 listings that need more experience. Another 23 remain eligible, including 19 with detected core skills.
-- Noida now recommends Data Cleaning: 2 additional threshold matches at 1.54 estimated course hours, with Uncertain recommendation confidence. SQL adds 5 matches at 4.34 hours.
-- At 5, 10, and 15-hour budgets, Bengaluru's greedy plan gains 8/8, 10/11, and 11/11 matches against the exact best. Noida gains 2/5, 11/11, and 12/12; its five-hour greedy result reaches only 40% of the exact gain.
+- In Noida, Data Cleaning is the fastest win: 2 more matches at 1.54 hours. SQL is the biggest unlock: 5 more at 4.34 hours. Recommendation confidence is Uncertain.
+- At 5, 10, and 15-hour budgets, Bengaluru's greedy plan gains 7/7, 12/14, and 14/14 matches against the exact best. Noida gains 2/5, 11/11, and 12/12.
 
 ## Why it exists
 
@@ -36,18 +36,18 @@ streamlit run app.py
 
 Open the local URL shown by Streamlit. The Bengaluru frontend demo appears automatically. Choose another role or change the inputs, then press **Find my next skill** to refresh the results. You can replace the sample resume text, enter a comma-separated skill list, or upload a PDF with selectable text. Select an experience level and adjust the readiness threshold if you want to explore different scenarios.
 
-| Saved demo persona | Eligible listings | Jobs with detected core skills | Matches now | Top scored skill | Jobs it could unlock |
-|---|---:|---:|---:|---|---:|
-| Data Analyst, Noida · Excel and basic Python fresher | 20 | 17 | 1 | Data Cleaning | 2 |
-| Frontend Developer, Bengaluru · HTML, CSS and JavaScript fresher | 23 | 19 | 8 | REST API | 8 |
+| Saved demo persona | Eligible listings | Jobs with detected core skills | Matches now | Fastest win | Biggest unlock |
+|---|---:|---:|---:|---|---|
+| Data Analyst, Noida · Excel and basic Python fresher | 20 | 17 | 1 | Data Cleaning, +2 | SQL, +5 |
+| Frontend Developer, Bengaluru · HTML, CSS and JavaScript fresher | 23 | 19 | 5 | REST API, +7 | React, +10 |
 
 These job snapshots were retrieved on **2026-10-07 UTC**. The headline reports matching saved listings. Eligible listings pass the experience and date filters; scored listings also have detected core requirements. Matching the threshold does not establish hiring eligibility.
 
-![Noida analyst demo](screenshots/batch_e_noida.png)
+![Noida analyst demo](screenshots/final_noida.png)
 
-![Bengaluru frontend demo](screenshots/batch_e_frontend.png)
+![Bengaluru frontend demo](screenshots/final_frontend.png)
 
-[Noida opportunity curve](screenshots/batch_e_noida_plan.png) · [Bengaluru opportunity curve](screenshots/batch_e_frontend_plan.png) · [Search Replay](screenshots/batch_e_replay.png)
+[Noida opportunity curve](screenshots/final_noida_plan.png) · [Bengaluru opportunity curve](screenshots/final_frontend_plan.png) · [Search Replay](screenshots/final_replay.png)
 
 ## How it works
 
@@ -76,13 +76,13 @@ Course hours are the median length of up to three free YouTube videos with a cou
 | Demo | Opportunity-curve points: cumulative hours → jobs within reach | Greedy vs exact additional jobs at 5h / 10h / 15h |
 |---|---|---|
 | Noida analyst fresher | Current profile: 1; Data Cleaning 1.54h → 3; SQL 5.89h → 11; Tableau 11.89h → 13 | **2/5** · 11/11 · 12/12 |
-| Bengaluru frontend fresher | Current profile: 8; REST API 3.12h → 16; Responsive Design 5.92h → 18; React 11.01h → 19 | 8/8 · **10/11** · 11/11 |
+| Bengaluru frontend fresher | Current profile: 5; REST API 3.12h → 12; Responsive Design 5.92h → 17; React 11.01h → 19 | 7/7 · **12/14** · 14/14 |
 
-For the quality check, NextSkill tries every subset of the top eight measurable missing skills under 5, 10, and 15-hour budgets. These saved demos have **five** measurable candidate skills in Noida and **three** in Bengaluru. Noida greedy reaches **40%** of the exact additional-match gain at five hours; Bengaluru reaches **90.9%** at ten hours. Each budget check reruns greedy under that budget, so it can differ from a prefix of the unrestricted curve. This is a check on these samples and budgets; greedy is not guaranteed to find the best combination.
+For the quality check, NextSkill tries every subset of the top eight measurable missing skills under 5, 10, and 15-hour budgets. These saved demos have **five** measurable candidate skills in Noida and **three** in Bengaluru. Exact search beats greedy twice. In Noida at five hours, greedy takes Data Cleaning (+2) while SQL alone gives +5. In Bengaluru at ten hours, greedy takes REST API and Responsive Design (+12), while React and Responsive Design give +14. Each budget check reruns greedy under that budget, so it can differ from a prefix of the unrestricted curve. This is a check on these samples and budgets; greedy is not guaranteed to find the best combination.
 
-The app resamples eligible listings **500 times** with a fixed seed. Data Cleaning wins **49.2%** of Noida resamples; REST API wins **77.2%** in Bengaluru. It also varies each measured skill's hours independently from **0.75x to 1.5x** in 500 seeded draws, checked at thresholds **0.4 / 0.5 / 0.6**, plus the selected threshold if different. At the default threshold this gives **1,500 checks**: the top pick is retained in **86.1%** for Noida and **66.1%** for Bengaluru.
+The app resamples eligible listings **500 times** with a fixed seed. Data Cleaning wins **49.2%** of Noida resamples; REST API wins **63.0%** in Bengaluru (React 27.8%). It also varies each measured skill's hours independently from **0.75x to 1.5x** in 500 seeded draws, checked at thresholds **0.4 / 0.5 / 0.6**, plus the selected threshold if different. At the default threshold this gives **1,500 checks**: the top pick is retained in **86.1%** for Noida and **58.9%** for Bengaluru.
 
-Recommendation confidence uses the **lower of the two shares**: Strong at 85% or more, Likely at 60% or more, otherwise Uncertain. Noida is therefore **Uncertain** and Bengaluru **Likely**. These labels measure sensitivity, not accuracy or hiring probability. A separate listing-count badge reports High (25+), Medium (12 to 24), or Low (under 12) sample size.
+Recommendation confidence uses the **lower of the two shares**: Strong at 85% or more, Likely at 60% or more, otherwise Uncertain. Both demos are therefore **Uncertain**. These labels measure sensitivity, not accuracy or hiring probability. A separate listing-count badge reports High (25+), Medium (12 to 24), or Low (under 12) sample size.
 
 ## Why SerpApi is essential
 
@@ -112,7 +112,7 @@ For Streamlit Community Cloud, select **`app.py` at the repository root**. The p
 
 - The initial [GREEN validation check](reports/validation_check.md) found **19 / 15 / 19** unique listings for Data Analyst Noida, Python Developer Bengaluru, and Marketing Intern Pune. All had descriptions of at least 300 characters, and YouTube returned parseable durations.
 - A small [matcher audit](reports/matcher_audit.md) reported: 16 of 20 sampled matches were correct; after filters, the 16 retained matches were all correct; recall not measured. A later [sentence-level audit](reports/match_sanity_check.md) found no false matches among the saved REST API, Responsive Design, and Data Cleaning listing matches; it lists every triggering source segment.
-- The current [Batch E report](reports/batch_e_report.md) and [result data](reports/batch_e_results.json) document the corrected matcher, alternatives, experience, language filters, retrieval dates, independent sensitivity checks, and all recomputed cached course estimates. The [Batch D report](reports/batch_d_report.md) records earlier behavior and the last checked credit balance. Earlier [Batch C](reports/batch_c_report.md), [Batch B](reports/batch_b_report.md), and [Batch A](reports/batch_a_report.md) reports document how the model changed.
+- The [final report](reports/final_report.md) and [result data](reports/final_results.json) give the current demo figures and the before/after effect of the last matcher fix. The [Batch E report](reports/batch_e_report.md) and [its data](reports/batch_e_results.json) document the corrected matcher, alternatives, experience, language filters, retrieval dates, independent sensitivity checks, and all recomputed cached course estimates. The [Batch D report](reports/batch_d_report.md) records earlier behavior and the last checked credit balance. Earlier [Batch C](reports/batch_c_report.md), [Batch B](reports/batch_b_report.md), and [Batch A](reports/batch_a_report.md) reports document how the model changed.
 - Job descriptions rarely separate required from nice-to-have skills. Keyword matching, experience parsing, and the readiness threshold are approximations. Nearby-city listings can appear in a search, and small samples can change the ranking.
 - Course length estimates study time only. Some results may cover adjacent topics; review the linked videos. Scanned PDFs need pasted text because the app does not perform OCR.
 - **No course or score promises an interview or job.**
@@ -136,7 +136,7 @@ Run the offline suite from the repository root:
 python -m unittest discover -s tests -q
 ```
 
-The suite currently has **43 tests** and makes no SerpApi calls. `.github/workflows/tests.yml` runs it on pushes and pull requests. To capture screenshots locally, install `requirements-dev.txt`, run `python -m playwright install chromium`, start the app, then run `python -m scripts.capture_screenshots batch_e_noida`. Run other development scripts with `python -m scripts.<module>` from the repository root. Playwright is a development dependency, not required to run the app.
+The suite currently has **46 tests** and makes no SerpApi calls. `.github/workflows/tests.yml` runs it on pushes and pull requests. To capture screenshots locally, install `requirements-dev.txt`, run `python -m playwright install chromium`, start the app, then run `python -m scripts.capture_screenshots final_noida`. Run other development scripts with `python -m scripts.<module>` from the repository root. Playwright is a development dependency, not required to run the app.
 
 **Stack:** Python 3.10+, Streamlit, Altair, pypdf, standard-library HTTP and JSON, and SerpApi. OpenAI Codex and Claude Code assisted with implementation, tests, analysis, and documentation. The running app does not call an LLM.
 
