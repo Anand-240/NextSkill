@@ -1,0 +1,1978 @@
+{
+  "baseline_commit": "c8da31f",
+  "personas": {
+    "Noida": "Excel, basic Python; Fresher",
+    "Bengaluru": "HTML, CSS, JavaScript; Fresher"
+  },
+  "before": {
+    "Noida": {
+      "raw": 40,
+      "deduplicated": 34,
+      "ready": 1,
+      "eligible_count": 20,
+      "ignored": 3,
+      "bootstrap": {
+        "wins": {
+          "SQL": 302,
+          "Power BI": 114,
+          "Data Cleaning": 76,
+          "No scored pick": 6,
+          "Data Visualization": 2
+        },
+        "shares": {
+          "SQL": 0.604,
+          "Power BI": 0.228,
+          "Data Cleaning": 0.152,
+          "No scored pick": 0.012,
+          "Data Visualization": 0.004
+        },
+        "top_skill": "SQL",
+        "top_share": 0.604,
+        "samples": 500,
+        "label": "Likely"
+      },
+      "opportunity": {
+        "steps": [
+          {
+            "step": 1,
+            "skill": "SQL",
+            "hours": 4.344166666666666,
+            "cumulative_hours": 4.344166666666666,
+            "jobs_gained": 8,
+            "total_jobs": 9
+          },
+          {
+            "step": 2,
+            "skill": "Data Cleaning",
+            "hours": 3.4930555555555554,
+            "cumulative_hours": 7.837222222222222,
+            "jobs_gained": 2,
+            "total_jobs": 11
+          },
+          {
+            "step": 3,
+            "skill": "Power BI",
+            "hours": 3.68,
+            "cumulative_hours": 11.517222222222221,
+            "jobs_gained": 2,
+            "total_jobs": 13
+          }
+        ],
+        "quality": [
+          {
+            "budget": 5,
+            "greedy_gained": 8,
+            "optimal_gained": 8,
+            "ratio": 1.0,
+            "greedy_skills": [
+              "SQL"
+            ],
+            "optimal_skills": [
+              "SQL"
+            ],
+            "candidate_count": 4
+          },
+          {
+            "budget": 10,
+            "greedy_gained": 10,
+            "optimal_gained": 11,
+            "ratio": 0.9090909090909091,
+            "greedy_skills": [
+              "SQL",
+              "Data Cleaning"
+            ],
+            "optimal_skills": [
+              "SQL",
+              "Data Visualization"
+            ],
+            "candidate_count": 4
+          },
+          {
+            "budget": 15,
+            "greedy_gained": 12,
+            "optimal_gained": 12,
+            "ratio": 1.0,
+            "greedy_skills": [
+              "SQL",
+              "Data Cleaning",
+              "Power BI"
+            ],
+            "optimal_skills": [
+              "SQL",
+              "Power BI",
+              "Data Cleaning"
+            ],
+            "candidate_count": 4
+          }
+        ],
+        "hours_unknown": []
+      },
+      "experience_excluded": 14,
+      "jobs": 17,
+      "distance": {
+        "0": 1,
+        "1": 14,
+        "2": 2,
+        "3+": 0,
+        "Unknown": 3
+      },
+      "ranked": [
+        {
+          "skill": "SQL",
+          "unlocked_count": 8,
+          "appears_in": 10,
+          "hours": 4.344166666666666,
+          "score": 1.841549971225782,
+          "confidence": "standard"
+        },
+        {
+          "skill": "Power BI",
+          "unlocked_count": 6,
+          "appears_in": 8,
+          "hours": 3.68,
+          "score": 1.6304347826086956,
+          "confidence": "standard"
+        },
+        {
+          "skill": "Data Cleaning",
+          "unlocked_count": 5,
+          "appears_in": 6,
+          "hours": 3.4930555555555554,
+          "score": 1.4314115308151094,
+          "confidence": "standard"
+        },
+        {
+          "skill": "Data Visualization",
+          "unlocked_count": 3,
+          "appears_in": 5,
+          "hours": 5.465,
+          "score": 0.5489478499542544,
+          "confidence": "standard"
+        }
+      ],
+      "requirements": [
+        {
+          "required": [
+            [
+              "Data Analysis"
+            ],
+            [
+              "Excel"
+            ],
+            [
+              "Looker",
+              "Power BI",
+              "Tableau"
+            ],
+            [
+              "Python"
+            ],
+            [
+              "SQL"
+            ]
+          ],
+          "coverage": 0.4
+        },
+        {
+          "required": [
+            [
+              "Data Cleaning"
+            ],
+            [
+              "Data Visualization"
+            ],
+            [
+              "Excel"
+            ]
+          ],
+          "coverage": 0.3333333333333333
+        },
+        {
+          "required": [
+            [
+              "Looker",
+              "Power BI",
+              "Tableau"
+            ]
+          ],
+          "coverage": 0.0
+        },
+        {
+          "required": [
+            [
+              "Machine Learning"
+            ]
+          ],
+          "coverage": 0.0
+        },
+        {
+          "required": [
+            [
+              "Data Analysis"
+            ],
+            [
+              "Excel"
+            ],
+            [
+              "Looker",
+              "Power BI",
+              "Tableau"
+            ],
+            [
+              "SQL"
+            ]
+          ],
+          "coverage": 0.25
+        },
+        {
+          "required": [
+            [
+              "Data Analysis"
+            ],
+            [
+              "Machine Learning"
+            ],
+            [
+              "Python"
+            ],
+            [
+              "SQL"
+            ]
+          ],
+          "coverage": 0.25
+        },
+        {
+          "required": [
+            [
+              "Data Visualization"
+            ],
+            [
+              "Excel"
+            ],
+            [
+              "Looker",
+              "Power BI",
+              "Tableau"
+            ],
+            [
+              "Machine Learning"
+            ],
+            [
+              "SQL"
+            ]
+          ],
+          "coverage": 0.2
+        },
+        {
+          "required": [
+            [
+              "Machine Learning"
+            ]
+          ],
+          "coverage": 0.0
+        },
+        {
+          "required": [
+            [
+              "Data Analysis"
+            ],
+            [
+              "Data Cleaning"
+            ],
+            [
+              "Data Visualization"
+            ],
+            [
+              "Excel"
+            ],
+            [
+              "Looker",
+              "Power BI",
+              "SQL",
+              "Tableau"
+            ]
+          ],
+          "coverage": 0.2
+        },
+        {
+          "required": [
+            [
+              "Data Analysis"
+            ],
+            [
+              "Excel"
+            ]
+          ],
+          "coverage": 0.5
+        },
+        {
+          "required": [
+            [
+              "Data Analysis"
+            ],
+            [
+              "Data Cleaning"
+            ],
+            [
+              "Excel"
+            ],
+            [
+              "SQL"
+            ]
+          ],
+          "coverage": 0.25
+        },
+        {
+          "required": [
+            [
+              "Machine Learning"
+            ]
+          ],
+          "coverage": 0.0
+        },
+        {
+          "required": [
+            [
+              "Data Analysis"
+            ],
+            [
+              "Data Cleaning"
+            ],
+            [
+              "Excel"
+            ],
+            [
+              "Looker",
+              "Power BI",
+              "Tableau"
+            ],
+            [
+              "Python"
+            ],
+            [
+              "SQL"
+            ]
+          ],
+          "coverage": 0.3333333333333333
+        },
+        {
+          "required": [
+            [
+              "Data Analysis"
+            ]
+          ],
+          "coverage": 0.0
+        },
+        {
+          "required": [
+            [
+              "Data Cleaning"
+            ],
+            [
+              "Data Visualization"
+            ],
+            [
+              "Excel"
+            ],
+            [
+              "Looker",
+              "Power BI",
+              "Tableau"
+            ],
+            [
+              "Python"
+            ],
+            [
+              "SQL"
+            ]
+          ],
+          "coverage": 0.3333333333333333
+        },
+        {
+          "required": [
+            [
+              "Data Analysis"
+            ],
+            [
+              "Excel"
+            ],
+            [
+              "SQL"
+            ]
+          ],
+          "coverage": 0.3333333333333333
+        },
+        {
+          "required": [
+            [
+              "Data Cleaning"
+            ],
+            [
+              "Data Visualization"
+            ],
+            [
+              "Excel"
+            ],
+            [
+              "Looker",
+              "Power BI",
+              "Tableau"
+            ],
+            [
+              "Python"
+            ],
+            [
+              "SQL"
+            ]
+          ],
+          "coverage": 0.3333333333333333
+        }
+      ]
+    },
+    "Bengaluru": {
+      "raw": 49,
+      "deduplicated": 45,
+      "ready": 7,
+      "eligible_count": 23,
+      "ignored": 4,
+      "bootstrap": {
+        "wins": {
+          "REST API": 468,
+          "Responsive Design": 24,
+          "React": 8
+        },
+        "shares": {
+          "REST API": 0.936,
+          "Responsive Design": 0.048,
+          "React": 0.016
+        },
+        "top_skill": "REST API",
+        "top_share": 0.936,
+        "samples": 500,
+        "label": "Strong"
+      },
+      "opportunity": {
+        "steps": [
+          {
+            "step": 1,
+            "skill": "REST API",
+            "hours": 2.325833333333333,
+            "cumulative_hours": 2.325833333333333,
+            "jobs_gained": 8,
+            "total_jobs": 15
+          },
+          {
+            "step": 2,
+            "skill": "Responsive Design",
+            "hours": 2.801111111111111,
+            "cumulative_hours": 5.126944444444444,
+            "jobs_gained": 3,
+            "total_jobs": 18
+          },
+          {
+            "step": 3,
+            "skill": "React",
+            "hours": 5.092777777777778,
+            "cumulative_hours": 10.219722222222222,
+            "jobs_gained": 1,
+            "total_jobs": 19
+          }
+        ],
+        "quality": [
+          {
+            "budget": 5,
+            "greedy_gained": 8,
+            "optimal_gained": 8,
+            "ratio": 1.0,
+            "greedy_skills": [
+              "REST API"
+            ],
+            "optimal_skills": [
+              "REST API"
+            ],
+            "candidate_count": 3
+          },
+          {
+            "budget": 10,
+            "greedy_gained": 11,
+            "optimal_gained": 12,
+            "ratio": 0.9166666666666666,
+            "greedy_skills": [
+              "REST API",
+              "Responsive Design"
+            ],
+            "optimal_skills": [
+              "React",
+              "Responsive Design"
+            ],
+            "candidate_count": 3
+          },
+          {
+            "budget": 15,
+            "greedy_gained": 12,
+            "optimal_gained": 12,
+            "ratio": 1.0,
+            "greedy_skills": [
+              "REST API",
+              "Responsive Design",
+              "React"
+            ],
+            "optimal_skills": [
+              "React",
+              "Responsive Design"
+            ],
+            "candidate_count": 3
+          }
+        ],
+        "hours_unknown": [
+          "Git"
+        ]
+      },
+      "experience_excluded": 22,
+      "jobs": 19,
+      "distance": {
+        "0": 7,
+        "1": 10,
+        "2": 2,
+        "3+": 0,
+        "Unknown": 4
+      },
+      "ranked": [
+        {
+          "skill": "REST API",
+          "unlocked_count": 8,
+          "appears_in": 11,
+          "hours": 2.325833333333333,
+          "score": 3.4396273737011827,
+          "confidence": "standard"
+        },
+        {
+          "skill": "Responsive Design",
+          "unlocked_count": 5,
+          "appears_in": 9,
+          "hours": 2.801111111111111,
+          "score": 1.7850059500198334,
+          "confidence": "standard"
+        },
+        {
+          "skill": "React",
+          "unlocked_count": 8,
+          "appears_in": 16,
+          "hours": 5.092777777777778,
+          "score": 1.5708519690193083,
+          "confidence": "standard"
+        },
+        {
+          "skill": "Git",
+          "unlocked_count": 5,
+          "appears_in": 7,
+          "hours": null,
+          "score": null,
+          "confidence": "low"
+        }
+      ],
+      "requirements": [
+        {
+          "required": [
+            [
+              "Angular",
+              "React",
+              "Vue.js"
+            ]
+          ],
+          "coverage": 0.0
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "CSS"
+            ],
+            [
+              "HTML"
+            ],
+            [
+              "JavaScript"
+            ],
+            [
+              "REST API"
+            ],
+            [
+              "Responsive Design"
+            ],
+            [
+              "UI/UX"
+            ]
+          ],
+          "coverage": 0.42857142857142855
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "Git"
+            ],
+            [
+              "JavaScript",
+              "TypeScript"
+            ],
+            [
+              "REST API"
+            ],
+            [
+              "Responsive Design"
+            ],
+            [
+              "UI/UX"
+            ]
+          ],
+          "coverage": 0.16666666666666666
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "JavaScript"
+            ],
+            [
+              "REST API"
+            ],
+            [
+              "UI/UX"
+            ]
+          ],
+          "coverage": 0.25
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "CSS"
+            ],
+            [
+              "HTML"
+            ],
+            [
+              "JavaScript",
+              "TypeScript"
+            ]
+          ],
+          "coverage": 0.75
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "Django",
+              "JavaScript",
+              "React",
+              "Vue.js"
+            ]
+          ],
+          "coverage": 1.0
+        },
+        {
+          "required": [
+            [
+              "CSS"
+            ],
+            [
+              "Git"
+            ],
+            [
+              "JavaScript"
+            ],
+            [
+              "Responsive Design"
+            ],
+            [
+              "UI/UX"
+            ]
+          ],
+          "coverage": 0.4
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "CSS"
+            ],
+            [
+              "Git"
+            ],
+            [
+              "HTML"
+            ],
+            [
+              "JavaScript"
+            ],
+            [
+              "REST API"
+            ],
+            [
+              "Responsive Design"
+            ],
+            [
+              "UI/UX"
+            ]
+          ],
+          "coverage": 0.375
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "CSS"
+            ],
+            [
+              "HTML"
+            ],
+            [
+              "JavaScript"
+            ],
+            [
+              "REST API"
+            ],
+            [
+              "Responsive Design"
+            ],
+            [
+              "UI/UX"
+            ]
+          ],
+          "coverage": 0.42857142857142855
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "JavaScript"
+            ],
+            [
+              "REST API"
+            ]
+          ],
+          "coverage": 0.3333333333333333
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "CSS"
+            ],
+            [
+              "Git"
+            ],
+            [
+              "HTML"
+            ],
+            [
+              "JavaScript"
+            ],
+            [
+              "REST API"
+            ],
+            [
+              "UI/UX"
+            ]
+          ],
+          "coverage": 0.42857142857142855
+        },
+        {
+          "required": [
+            [
+              "CSS"
+            ],
+            [
+              "HTML"
+            ],
+            [
+              "JavaScript"
+            ]
+          ],
+          "coverage": 1.0
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "JavaScript",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "CSS"
+            ],
+            [
+              "Git"
+            ],
+            [
+              "HTML"
+            ],
+            [
+              "REST API"
+            ],
+            [
+              "Responsive Design"
+            ],
+            [
+              "UI/UX"
+            ]
+          ],
+          "coverage": 0.42857142857142855
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "CSS"
+            ],
+            [
+              "Git"
+            ],
+            [
+              "JavaScript",
+              "TypeScript"
+            ],
+            [
+              "REST API"
+            ]
+          ],
+          "coverage": 0.4
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "CSS"
+            ],
+            [
+              "HTML"
+            ],
+            [
+              "JavaScript"
+            ],
+            [
+              "Responsive Design"
+            ]
+          ],
+          "coverage": 0.6
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "JavaScript",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "CSS"
+            ],
+            [
+              "REST API"
+            ]
+          ],
+          "coverage": 0.6666666666666666
+        },
+        {
+          "required": [
+            [
+              "CSS"
+            ],
+            [
+              "HTML"
+            ],
+            [
+              "JavaScript"
+            ],
+            [
+              "Responsive Design"
+            ]
+          ],
+          "coverage": 0.75
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "Git"
+            ],
+            [
+              "JavaScript"
+            ],
+            [
+              "REST API"
+            ],
+            [
+              "Responsive Design"
+            ]
+          ],
+          "coverage": 0.2
+        },
+        {
+          "required": [
+            [
+              "Angular",
+              "React",
+              "Vue.js"
+            ],
+            [
+              "CSS"
+            ],
+            [
+              "HTML"
+            ],
+            [
+              "JavaScript"
+            ]
+          ],
+          "coverage": 0.75
+        }
+      ]
+    }
+  },
+  "after": {
+    "Noida": {
+      "raw": 40,
+      "deduplicated": 34,
+      "eligible_count": 20,
+      "ignored": 3,
+      "ready": 1,
+      "retrieved_dates": [
+        "2026-10-07"
+      ],
+      "bootstrap": {
+        "wins": {
+          "Data Cleaning": 246,
+          "SQL": 214,
+          "Power BI": 30,
+          "Tableau": 5,
+          "No scored pick": 4,
+          "Data Visualization": 1
+        },
+        "shares": {
+          "Data Cleaning": 0.492,
+          "SQL": 0.428,
+          "Power BI": 0.06,
+          "Tableau": 0.01,
+          "No scored pick": 0.008,
+          "Data Visualization": 0.002
+        },
+        "top_skill": "Data Cleaning",
+        "top_share": 0.492,
+        "samples": 500,
+        "label": "Uncertain"
+      },
+      "robustness": {
+        "label": "Uncertain",
+        "changes": [
+          "Threshold 0.4: top pick retained 98.8%; SQL: 1.2%",
+          "Threshold 0.5: top pick retained 68.6%; SQL: 31.4%",
+          "Threshold 0.6: top pick retained 91.0%; SQL: 9.0%"
+        ],
+        "top_share": 0.8613333333333333,
+        "wins": {
+          "Data Cleaning": 1292,
+          "SQL": 208
+        },
+        "samples": 1500,
+        "draws_per_threshold": 500,
+        "by_threshold": [
+          {
+            "threshold": 0.4,
+            "top_share": 0.988,
+            "wins": {
+              "Data Cleaning": 494,
+              "SQL": 6
+            }
+          },
+          {
+            "threshold": 0.5,
+            "top_share": 0.686,
+            "wins": {
+              "Data Cleaning": 343,
+              "SQL": 157
+            }
+          },
+          {
+            "threshold": 0.6,
+            "top_share": 0.91,
+            "wins": {
+              "Data Cleaning": 455,
+              "SQL": 45
+            }
+          }
+        ],
+        "seed": 2026,
+        "threshold_label": "Changes with settings"
+      },
+      "opportunity": {
+        "steps": [
+          {
+            "step": 1,
+            "skill": "Data Cleaning",
+            "hours": 1.5444444444444445,
+            "cumulative_hours": 1.5444444444444445,
+            "jobs_gained": 2,
+            "total_jobs": 3
+          },
+          {
+            "step": 2,
+            "skill": "SQL",
+            "hours": 4.344166666666666,
+            "cumulative_hours": 5.888611111111111,
+            "jobs_gained": 8,
+            "total_jobs": 11
+          },
+          {
+            "step": 3,
+            "skill": "Tableau",
+            "hours": 6.003888888888889,
+            "cumulative_hours": 11.892499999999998,
+            "jobs_gained": 2,
+            "total_jobs": 13
+          }
+        ],
+        "quality": [
+          {
+            "budget": 5,
+            "greedy_gained": 2,
+            "optimal_gained": 5,
+            "ratio": 0.4,
+            "greedy_skills": [
+              "Data Cleaning"
+            ],
+            "optimal_skills": [
+              "SQL"
+            ],
+            "candidate_count": 5
+          },
+          {
+            "budget": 10,
+            "greedy_gained": 11,
+            "optimal_gained": 11,
+            "ratio": 1.0,
+            "greedy_skills": [
+              "Data Cleaning",
+              "SQL",
+              "Power BI"
+            ],
+            "optimal_skills": [
+              "SQL",
+              "Power BI",
+              "Data Cleaning"
+            ],
+            "candidate_count": 5
+          },
+          {
+            "budget": 15,
+            "greedy_gained": 12,
+            "optimal_gained": 12,
+            "ratio": 1.0,
+            "greedy_skills": [
+              "Data Cleaning",
+              "SQL",
+              "Tableau"
+            ],
+            "optimal_skills": [
+              "SQL",
+              "Data Cleaning",
+              "Tableau"
+            ],
+            "candidate_count": 5
+          }
+        ],
+        "hours_unknown": []
+      },
+      "jobs": 17,
+      "experience_excluded": 14,
+      "distance": {
+        "0": 1,
+        "1": 11,
+        "2": 5,
+        "3+": 0,
+        "Unknown": 3
+      },
+      "ranked": [
+        {
+          "skill": "Data Cleaning",
+          "display_skill": "Data Cleaning",
+          "unlocked_count": 2,
+          "appears_in": 6,
+          "hours": 1.5444444444444445,
+          "score": 1.2949640287769784,
+          "confidence": "standard",
+          "videos": [
+            {
+              "title": "Cleaning Data in Excel: Microsoft Excel Crash Course",
+              "channel": "Simon Sez IT",
+              "duration": "1:01:13",
+              "hours": 1.0202777777777778,
+              "link": "https://www.youtube.com/watch?v=50Wd-Blu8DU",
+              "language_query": "Data Cleaning full course for beginners"
+            },
+            {
+              "title": "Data Cleaning Full Course for Data Science, Data Analysis, Machine Learning [FREE] - 2024 Edition",
+              "channel": "WsCube Tech",
+              "duration": "3:29:35",
+              "hours": 3.4930555555555554,
+              "link": "https://www.youtube.com/watch?v=ITy8R4278sk",
+              "language_query": "Data Cleaning full course for beginners"
+            },
+            {
+              "title": "How to Clean, Analyze and Present Data with Excel (FREE Adv. Course)",
+              "channel": "Chandoo",
+              "duration": "1:32:40",
+              "hours": 1.5444444444444445,
+              "link": "https://www.youtube.com/watch?v=H6k28jhclwI",
+              "language_query": "Data Cleaning full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "SQL",
+          "display_skill": "SQL",
+          "unlocked_count": 5,
+          "appears_in": 10,
+          "hours": 4.344166666666666,
+          "score": 1.1509687320161137,
+          "confidence": "standard",
+          "videos": [
+            {
+              "title": "SQL Course for Beginners [Full Course]",
+              "channel": "Programming with Mosh",
+              "duration": "3:10:19",
+              "hours": 3.1719444444444442,
+              "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Tutorial - Full Database Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "4:20:39",
+              "hours": 4.344166666666666,
+              "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero",
+              "channel": "Data with Baraa",
+              "duration": "29:48:28",
+              "hours": 29.807777777777776,
+              "link": "https://www.youtube.com/watch?v=SSKVgrwhzus",
+              "language_query": "SQL full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Power BI",
+          "display_skill": "Power BI",
+          "unlocked_count": 2,
+          "appears_in": 7,
+          "hours": 3.68,
+          "score": 0.5434782608695652,
+          "confidence": "standard",
+          "videos": [
+            {
+              "title": "Power BI for Data Analytics - Full Course for Beginners",
+              "channel": "Luke Barousse",
+              "duration": "8:24:31",
+              "hours": 8.408611111111112,
+              "link": "https://www.youtube.com/watch?v=FwjaHCVNBWA",
+              "language_query": "Power BI full course for beginners"
+            },
+            {
+              "title": "Power BI FULL COURSE for Beginners | Learn Dashboards & Reports Fast!",
+              "channel": "Pragmatic Works",
+              "duration": "3:40:48",
+              "hours": 3.68,
+              "link": "https://www.youtube.com/watch?v=Dk25lwdTKow",
+              "language_query": "Power BI full course for beginners"
+            },
+            {
+              "title": "Power BI Full Course 2025: Complete Beginner to Advanced Tutorial in English",
+              "channel": "WsCube Tech! ENGLISH",
+              "duration": "3:26:00",
+              "hours": 3.433333333333333,
+              "link": "https://www.youtube.com/watch?v=_76bzIuz-dU",
+              "language_query": "Power BI full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Tableau",
+          "display_skill": "Tableau",
+          "unlocked_count": 2,
+          "appears_in": 6,
+          "hours": 6.003888888888889,
+          "score": 0.3331174238919219,
+          "confidence": "standard",
+          "videos": [
+            {
+              "title": "Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO",
+              "channel": "Data with Baraa",
+              "duration": "20:47:05",
+              "hours": 20.78472222222222,
+              "link": "https://www.youtube.com/watch?v=K3pXnbniUcM",
+              "language_query": "Tableau full course for beginners"
+            },
+            {
+              "title": "Tableau Full Course - Learn Tableau in 6 Hours | Tableau Training for Beginners | Edureka",
+              "channel": "edureka!",
+              "duration": "6:00:14",
+              "hours": 6.003888888888889,
+              "link": "https://www.youtube.com/watch?v=aHaOIvR00So",
+              "language_query": "Tableau full course for beginners"
+            },
+            {
+              "title": "Tableau Full Course - Learn Tableau In 6 Hours | Tableau Training for Beginners | Simplilearn",
+              "channel": "Simplilearn",
+              "duration": "5:34:49",
+              "hours": 5.580277777777778,
+              "link": "https://www.youtube.com/watch?v=HGMrIZq5dq0",
+              "language_query": "Tableau full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Data Visualization",
+          "display_skill": "Data Visualization",
+          "unlocked_count": 1,
+          "appears_in": 5,
+          "hours": 5.465,
+          "score": 0.18298261665141813,
+          "confidence": "standard",
+          "videos": [
+            {
+              "title": "Data Visualization with D3 – Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "19:32:37",
+              "hours": 19.54361111111111,
+              "link": "https://www.youtube.com/watch?v=xkBheRZTkaw",
+              "language_query": "Data Visualization full course for beginners"
+            },
+            {
+              "title": "Complete Data Visualization Course for Beginners |  Matplotlib & Seaborn | Sheryians AI School",
+              "channel": "Sheryians AI School",
+              "duration": "2:35:08",
+              "hours": 2.5855555555555556,
+              "link": "https://www.youtube.com/watch?v=-jTD74eEy2I",
+              "language_query": "Data Visualization full course for beginners"
+            },
+            {
+              "title": "Data Visualization Masterclass in Python | Matplotlib, Seaborn & Plotly for Beginners to Advanced",
+              "channel": "Codanics",
+              "duration": "5:27:54",
+              "hours": 5.465,
+              "link": "https://www.youtube.com/watch?v=MqppsRq3EJQ",
+              "language_query": "Data Visualization full course for beginners"
+            }
+          ]
+        }
+      ],
+      "two_skill_plan": {
+        "skills": [
+          "SQL",
+          "Tableau"
+        ],
+        "display_skills": [
+          "SQL",
+          "Tableau"
+        ],
+        "unlocked_count": 10,
+        "hours": 10.348055555555554,
+        "score": 0.9663651249563795
+      }
+    },
+    "Bengaluru": {
+      "raw": 49,
+      "deduplicated": 45,
+      "eligible_count": 23,
+      "ignored": 4,
+      "ready": 8,
+      "retrieved_dates": [
+        "2026-10-07"
+      ],
+      "bootstrap": {
+        "wins": {
+          "REST API": 386,
+          "Responsive Design": 69,
+          "React": 43,
+          "No scored pick": 2
+        },
+        "shares": {
+          "REST API": 0.772,
+          "Responsive Design": 0.138,
+          "React": 0.086,
+          "No scored pick": 0.004
+        },
+        "top_skill": "REST API",
+        "top_share": 0.772,
+        "samples": 500,
+        "label": "Likely"
+      },
+      "robustness": {
+        "label": "Likely",
+        "changes": [
+          "Threshold 0.4: top pick retained 82.2%; React: 12.8%, Responsive Design: 5.0%",
+          "Threshold 0.5: top pick retained 68.8%; React: 6.4%, Responsive Design: 24.8%",
+          "Threshold 0.6: top pick retained 47.4%; React: 52.6%"
+        ],
+        "top_share": 0.6613333333333333,
+        "wins": {
+          "REST API": 992,
+          "React": 359,
+          "Responsive Design": 149
+        },
+        "samples": 1500,
+        "draws_per_threshold": 500,
+        "by_threshold": [
+          {
+            "threshold": 0.4,
+            "top_share": 0.822,
+            "wins": {
+              "REST API": 411,
+              "React": 64,
+              "Responsive Design": 25
+            }
+          },
+          {
+            "threshold": 0.5,
+            "top_share": 0.688,
+            "wins": {
+              "REST API": 344,
+              "React": 32,
+              "Responsive Design": 124
+            }
+          },
+          {
+            "threshold": 0.6,
+            "top_share": 0.474,
+            "wins": {
+              "REST API": 237,
+              "React": 263
+            }
+          }
+        ],
+        "seed": 2026,
+        "threshold_label": "Changes with settings"
+      },
+      "opportunity": {
+        "steps": [
+          {
+            "step": 1,
+            "skill": "REST API",
+            "hours": 3.118611111111111,
+            "cumulative_hours": 3.118611111111111,
+            "jobs_gained": 8,
+            "total_jobs": 16
+          },
+          {
+            "step": 2,
+            "skill": "Responsive Design",
+            "hours": 2.801111111111111,
+            "cumulative_hours": 5.919722222222222,
+            "jobs_gained": 2,
+            "total_jobs": 18
+          },
+          {
+            "step": 3,
+            "skill": "React",
+            "hours": 5.092777777777778,
+            "cumulative_hours": 11.0125,
+            "jobs_gained": 1,
+            "total_jobs": 19
+          }
+        ],
+        "quality": [
+          {
+            "budget": 5,
+            "greedy_gained": 8,
+            "optimal_gained": 8,
+            "ratio": 1.0,
+            "greedy_skills": [
+              "REST API"
+            ],
+            "optimal_skills": [
+              "REST API"
+            ],
+            "candidate_count": 3
+          },
+          {
+            "budget": 10,
+            "greedy_gained": 10,
+            "optimal_gained": 11,
+            "ratio": 0.9090909090909091,
+            "greedy_skills": [
+              "REST API",
+              "Responsive Design"
+            ],
+            "optimal_skills": [
+              "React",
+              "Responsive Design"
+            ],
+            "candidate_count": 3
+          },
+          {
+            "budget": 15,
+            "greedy_gained": 11,
+            "optimal_gained": 11,
+            "ratio": 1.0,
+            "greedy_skills": [
+              "REST API",
+              "Responsive Design",
+              "React"
+            ],
+            "optimal_skills": [
+              "React",
+              "Responsive Design"
+            ],
+            "candidate_count": 3
+          }
+        ],
+        "hours_unknown": [
+          "Git"
+        ]
+      },
+      "jobs": 19,
+      "experience_excluded": 22,
+      "distance": {
+        "0": 8,
+        "1": 10,
+        "2": 1,
+        "3+": 0,
+        "Unknown": 4
+      },
+      "ranked": [
+        {
+          "skill": "REST API",
+          "display_skill": "REST API",
+          "unlocked_count": 8,
+          "appears_in": 11,
+          "hours": 3.118611111111111,
+          "score": 2.5652444998663935,
+          "confidence": "standard",
+          "videos": [
+            {
+              "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
+              "channel": "freeCodeCamp.org",
+              "duration": "3:07:07",
+              "hours": 3.118611111111111,
+              "link": "https://www.youtube.com/watch?v=WXsD0ZgxjRw",
+              "language_query": "REST API full course for beginners"
+            },
+            {
+              "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
+              "channel": "freeCodeCamp.org",
+              "duration": "2:19:33",
+              "hours": 2.325833333333333,
+              "link": "https://www.youtube.com/watch?v=GZvSYJDk-us",
+              "language_query": "REST API full course for beginners"
+            },
+            {
+              "title": "Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
+              "channel": "freeCodeCamp.org",
+              "duration": "5:08:48",
+              "hours": 5.1466666666666665,
+              "link": "https://www.youtube.com/watch?v=2JYT5f2isg4",
+              "language_query": "REST API full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Responsive Design",
+          "display_skill": "Responsive Design",
+          "unlocked_count": 6,
+          "appears_in": 9,
+          "hours": 2.801111111111111,
+          "score": 2.1420071400238,
+          "confidence": "standard",
+          "videos": [
+            {
+              "title": "Responsive Web Development Complete Course for Beginners | Tutorial + Full Project",
+              "channel": "Sheryians Coding School",
+              "duration": "3:22:05",
+              "hours": 3.3680555555555554,
+              "link": "https://www.youtube.com/watch?v=J_r6hBo9lO4",
+              "language_query": "Responsive Design full course for beginners"
+            },
+            {
+              "title": "Build a responsive website with HTML, CSS, JS (Course)",
+              "channel": "Coder Coder",
+              "duration": "2:48:04",
+              "hours": 2.801111111111111,
+              "link": "https://www.youtube.com/watch?v=wGVOtu0DoKk",
+              "language_query": "Responsive Design full course for beginners"
+            },
+            {
+              "title": "Figma Crash Course 2025: Responsive Website Design",
+              "channel": "Flux Academy",
+              "duration": "1:44:11",
+              "hours": 1.736388888888889,
+              "link": "https://www.youtube.com/watch?v=m9uXR4xt95w",
+              "language_query": "Responsive Design full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "React",
+          "display_skill": "React",
+          "unlocked_count": 9,
+          "appears_in": 13,
+          "hours": 5.092777777777778,
+          "score": 1.767208465146722,
+          "confidence": "standard",
+          "videos": [
+            {
+              "title": "React Tutorial Full Course - Beginner to Pro (React 19, 2025)",
+              "channel": "SuperSimpleDev",
+              "duration": "11:32:04",
+              "hours": 11.534444444444444,
+              "link": "https://www.youtube.com/watch?v=TtPXvEcE11E",
+              "language_query": "React full course for beginners"
+            },
+            {
+              "title": "React Full Course for free ⚛️",
+              "channel": "Bro Code",
+              "duration": "4:43:02",
+              "hours": 4.717222222222222,
+              "link": "https://www.youtube.com/watch?v=CgkZ7MvWUAA",
+              "language_query": "React full course for beginners"
+            },
+            {
+              "title": "Learn React JS - Full Course for Beginners - Tutorial 2019",
+              "channel": "freeCodeCamp.org",
+              "duration": "5:05:34",
+              "hours": 5.092777777777778,
+              "link": "https://www.youtube.com/watch?v=DLX62G4lc44",
+              "language_query": "React full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Git",
+          "display_skill": "Git",
+          "unlocked_count": 5,
+          "appears_in": 7,
+          "hours": null,
+          "score": null,
+          "confidence": "low",
+          "videos": []
+        }
+      ],
+      "two_skill_plan": {
+        "skills": [
+          "React",
+          "Responsive Design"
+        ],
+        "display_skills": [
+          "React",
+          "Responsive Design"
+        ],
+        "unlocked_count": 11,
+        "hours": 7.893888888888889,
+        "score": 1.3934830037300303
+      }
+    }
+  },
+  "cached_course_estimates": [
+    {
+      "skill": "Data Analysis",
+      "before_hours": 7.189444444444445,
+      "after_hours": 7.189444444444445,
+      "confidence": "standard",
+      "videos": [
+        {
+          "title": "Excel for Data Analytics - Full Course for Beginners",
+          "channel": "Luke Barousse",
+          "duration": "10:59:43",
+          "hours": 10.995277777777778,
+          "link": "https://www.youtube.com/watch?v=pCJ15nGFgVg",
+          "language_query": "Data Analysis full course for beginners"
+        },
+        {
+          "title": "Data Analytics Tutorial For Beginners Complete Course | Foundations: Data, Data, Everywhere, Google",
+          "channel": "My Lesson",
+          "duration": "2:35:41",
+          "hours": 2.5947222222222224,
+          "link": "https://www.youtube.com/watch?v=vqZ1C2elmac",
+          "language_query": "Data Analysis full course for beginners"
+        },
+        {
+          "title": "Excel Data Analysis Full Course Tutorial (7+ Hours)",
+          "channel": "Learn Skills Daily",
+          "duration": "7:11:22",
+          "hours": 7.189444444444445,
+          "link": "https://www.youtube.com/watch?v=qrbf9DtR3_c",
+          "language_query": "Data Analysis full course for beginners"
+        }
+      ]
+    },
+    {
+      "skill": "Data Cleaning",
+      "before_hours": 3.4930555555555554,
+      "after_hours": 1.5444444444444445,
+      "confidence": "standard",
+      "videos": [
+        {
+          "title": "Cleaning Data in Excel: Microsoft Excel Crash Course",
+          "channel": "Simon Sez IT",
+          "duration": "1:01:13",
+          "hours": 1.0202777777777778,
+          "link": "https://www.youtube.com/watch?v=50Wd-Blu8DU",
+          "language_query": "Data Cleaning full course for beginners"
+        },
+        {
+          "title": "Data Cleaning Full Course for Data Science, Data Analysis, Machine Learning [FREE] - 2024 Edition",
+          "channel": "WsCube Tech",
+          "duration": "3:29:35",
+          "hours": 3.4930555555555554,
+          "link": "https://www.youtube.com/watch?v=ITy8R4278sk",
+          "language_query": "Data Cleaning full course for beginners"
+        },
+        {
+          "title": "How to Clean, Analyze and Present Data with Excel (FREE Adv. Course)",
+          "channel": "Chandoo",
+          "duration": "1:32:40",
+          "hours": 1.5444444444444445,
+          "link": "https://www.youtube.com/watch?v=H6k28jhclwI",
+          "language_query": "Data Cleaning full course for beginners"
+        }
+      ]
+    },
+    {
+      "skill": "Data Visualization",
+      "before_hours": 5.465,
+      "after_hours": 5.465,
+      "confidence": "standard",
+      "videos": [
+        {
+          "title": "Data Visualization with D3 – Full Course for Beginners",
+          "channel": "freeCodeCamp.org",
+          "duration": "19:32:37",
+          "hours": 19.54361111111111,
+          "link": "https://www.youtube.com/watch?v=xkBheRZTkaw",
+          "language_query": "Data Visualization full course for beginners"
+        },
+        {
+          "title": "Complete Data Visualization Course for Beginners |  Matplotlib & Seaborn | Sheryians AI School",
+          "channel": "Sheryians AI School",
+          "duration": "2:35:08",
+          "hours": 2.5855555555555556,
+          "link": "https://www.youtube.com/watch?v=-jTD74eEy2I",
+          "language_query": "Data Visualization full course for beginners"
+        },
+        {
+          "title": "Data Visualization Masterclass in Python | Matplotlib, Seaborn & Plotly for Beginners to Advanced",
+          "channel": "Codanics",
+          "duration": "5:27:54",
+          "hours": 5.465,
+          "link": "https://www.youtube.com/watch?v=MqppsRq3EJQ",
+          "language_query": "Data Visualization full course for beginners"
+        }
+      ]
+    },
+    {
+      "skill": "Power BI",
+      "before_hours": 3.68,
+      "after_hours": 3.68,
+      "confidence": "standard",
+      "videos": [
+        {
+          "title": "Power BI for Data Analytics - Full Course for Beginners",
+          "channel": "Luke Barousse",
+          "duration": "8:24:31",
+          "hours": 8.408611111111112,
+          "link": "https://www.youtube.com/watch?v=FwjaHCVNBWA",
+          "language_query": "Power BI full course for beginners"
+        },
+        {
+          "title": "Power BI FULL COURSE for Beginners | Learn Dashboards & Reports Fast!",
+          "channel": "Pragmatic Works",
+          "duration": "3:40:48",
+          "hours": 3.68,
+          "link": "https://www.youtube.com/watch?v=Dk25lwdTKow",
+          "language_query": "Power BI full course for beginners"
+        },
+        {
+          "title": "Power BI Full Course 2025: Complete Beginner to Advanced Tutorial in English",
+          "channel": "WsCube Tech! ENGLISH",
+          "duration": "3:26:00",
+          "hours": 3.433333333333333,
+          "link": "https://www.youtube.com/watch?v=_76bzIuz-dU",
+          "language_query": "Power BI full course for beginners"
+        }
+      ]
+    },
+    {
+      "skill": "REST API",
+      "before_hours": 2.325833333333333,
+      "after_hours": 3.118611111111111,
+      "confidence": "standard",
+      "videos": [
+        {
+          "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
+          "channel": "freeCodeCamp.org",
+          "duration": "3:07:07",
+          "hours": 3.118611111111111,
+          "link": "https://www.youtube.com/watch?v=WXsD0ZgxjRw",
+          "language_query": "REST API full course for beginners"
+        },
+        {
+          "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
+          "channel": "freeCodeCamp.org",
+          "duration": "2:19:33",
+          "hours": 2.325833333333333,
+          "link": "https://www.youtube.com/watch?v=GZvSYJDk-us",
+          "language_query": "REST API full course for beginners"
+        },
+        {
+          "title": "Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
+          "channel": "freeCodeCamp.org",
+          "duration": "5:08:48",
+          "hours": 5.1466666666666665,
+          "link": "https://www.youtube.com/watch?v=2JYT5f2isg4",
+          "language_query": "REST API full course for beginners"
+        }
+      ]
+    },
+    {
+      "skill": "React",
+      "before_hours": 5.092777777777778,
+      "after_hours": 5.092777777777778,
+      "confidence": "standard",
+      "videos": [
+        {
+          "title": "React Tutorial Full Course - Beginner to Pro (React 19, 2025)",
+          "channel": "SuperSimpleDev",
+          "duration": "11:32:04",
+          "hours": 11.534444444444444,
+          "link": "https://www.youtube.com/watch?v=TtPXvEcE11E",
+          "language_query": "React full course for beginners"
+        },
+        {
+          "title": "React Full Course for free ⚛️",
+          "channel": "Bro Code",
+          "duration": "4:43:02",
+          "hours": 4.717222222222222,
+          "link": "https://www.youtube.com/watch?v=CgkZ7MvWUAA",
+          "language_query": "React full course for beginners"
+        },
+        {
+          "title": "Learn React JS - Full Course for Beginners - Tutorial 2019",
+          "channel": "freeCodeCamp.org",
+          "duration": "5:05:34",
+          "hours": 5.092777777777778,
+          "link": "https://www.youtube.com/watch?v=DLX62G4lc44",
+          "language_query": "React full course for beginners"
+        }
+      ]
+    },
+    {
+      "skill": "Responsive Design",
+      "before_hours": 2.801111111111111,
+      "after_hours": 2.801111111111111,
+      "confidence": "standard",
+      "videos": [
+        {
+          "title": "Responsive Web Development Complete Course for Beginners | Tutorial + Full Project",
+          "channel": "Sheryians Coding School",
+          "duration": "3:22:05",
+          "hours": 3.3680555555555554,
+          "link": "https://www.youtube.com/watch?v=J_r6hBo9lO4",
+          "language_query": "Responsive Design full course for beginners"
+        },
+        {
+          "title": "Build a responsive website with HTML, CSS, JS (Course)",
+          "channel": "Coder Coder",
+          "duration": "2:48:04",
+          "hours": 2.801111111111111,
+          "link": "https://www.youtube.com/watch?v=wGVOtu0DoKk",
+          "language_query": "Responsive Design full course for beginners"
+        },
+        {
+          "title": "Figma Crash Course 2025: Responsive Website Design",
+          "channel": "Flux Academy",
+          "duration": "1:44:11",
+          "hours": 1.736388888888889,
+          "link": "https://www.youtube.com/watch?v=m9uXR4xt95w",
+          "language_query": "Responsive Design full course for beginners"
+        }
+      ]
+    },
+    {
+      "skill": "SQL",
+      "before_hours": 4.344166666666666,
+      "after_hours": 4.344166666666666,
+      "confidence": "standard",
+      "videos": [
+        {
+          "title": "SQL Course for Beginners [Full Course]",
+          "channel": "Programming with Mosh",
+          "duration": "3:10:19",
+          "hours": 3.1719444444444442,
+          "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+          "language_query": "SQL full course for beginners"
+        },
+        {
+          "title": "SQL Tutorial - Full Database Course for Beginners",
+          "channel": "freeCodeCamp.org",
+          "duration": "4:20:39",
+          "hours": 4.344166666666666,
+          "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+          "language_query": "SQL full course for beginners"
+        },
+        {
+          "title": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero",
+          "channel": "Data with Baraa",
+          "duration": "29:48:28",
+          "hours": 29.807777777777776,
+          "link": "https://www.youtube.com/watch?v=SSKVgrwhzus",
+          "language_query": "SQL full course for beginners"
+        }
+      ]
+    },
+    {
+      "skill": "Tableau",
+      "before_hours": 6.003888888888889,
+      "after_hours": 6.003888888888889,
+      "confidence": "standard",
+      "videos": [
+        {
+          "title": "Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO",
+          "channel": "Data with Baraa",
+          "duration": "20:47:05",
+          "hours": 20.78472222222222,
+          "link": "https://www.youtube.com/watch?v=K3pXnbniUcM",
+          "language_query": "Tableau full course for beginners"
+        },
+        {
+          "title": "Tableau Full Course - Learn Tableau in 6 Hours | Tableau Training for Beginners | Edureka",
+          "channel": "edureka!",
+          "duration": "6:00:14",
+          "hours": 6.003888888888889,
+          "link": "https://www.youtube.com/watch?v=aHaOIvR00So",
+          "language_query": "Tableau full course for beginners"
+        },
+        {
+          "title": "Tableau Full Course - Learn Tableau In 6 Hours | Tableau Training for Beginners | Simplilearn",
+          "channel": "Simplilearn",
+          "duration": "5:34:49",
+          "hours": 5.580277777777778,
+          "link": "https://www.youtube.com/watch?v=HGMrIZq5dq0",
+          "language_query": "Tableau full course for beginners"
+        }
+      ]
+    },
+    {
+      "skill": "TypeScript",
+      "before_hours": 3.9005555555555556,
+      "after_hours": 3.9005555555555556,
+      "confidence": "standard",
+      "videos": [
+        {
+          "title": "Learn TypeScript - Full Course for Beginners",
+          "channel": "freeCodeCamp.org",
+          "duration": "2:06:13",
+          "hours": 2.1036111111111113,
+          "link": "https://www.youtube.com/watch?v=SpwzRDUQ1GI",
+          "language_query": "TypeScript full course for beginners"
+        },
+        {
+          "title": "TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours",
+          "channel": "Dave Gray",
+          "duration": "8:21:57",
+          "hours": 8.365833333333333,
+          "link": "https://www.youtube.com/watch?v=gieEQFIfgYc",
+          "language_query": "TypeScript full course for beginners"
+        },
+        {
+          "title": "TypeScript Full Course - From Beginner to Advanced",
+          "channel": "Tech With Tim",
+          "duration": "3:54:02",
+          "hours": 3.9005555555555556,
+          "link": "https://www.youtube.com/watch?v=iJkaAJUzeWQ",
+          "language_query": "TypeScript full course for beginners"
+        }
+      ]
+    },
+    {
+      "skill": "UI/UX",
+      "before_hours": 10.784166666666666,
+      "after_hours": 10.784166666666666,
+      "confidence": "standard",
+      "videos": [
+        {
+          "title": "The 2025 UI/UX Crash Course for Beginners - Learn Figma",
+          "channel": "DesignCourse",
+          "duration": "1:04:56",
+          "hours": 1.0822222222222222,
+          "link": "https://www.youtube.com/watch?v=cvm_ECH94x4",
+          "language_query": "UI/UX full course for beginners"
+        },
+        {
+          "title": "UI UX Design Full Course (2026) | UI/UX Design Course For Beginners | Intellipaat",
+          "channel": "Intellipaat",
+          "duration": "10:47:03",
+          "hours": 10.784166666666666,
+          "link": "https://www.youtube.com/watch?v=NeUEctMZ6_g",
+          "language_query": "UI/UX full course for beginners"
+        },
+        {
+          "title": "UI/UX Design Course For Beginners | UI/UX Design Tutorial For Beginners",
+          "channel": "Nerd's Academy",
+          "duration": "11:50:38",
+          "hours": 11.84388888888889,
+          "link": "https://www.youtube.com/watch?v=pyQAiRuqUSM",
+          "language_query": "UI/UX full course for beginners"
+        }
+      ]
+    }
+  ],
+  "engine_commit": "468dfd7"
+}
