@@ -493,6 +493,9 @@ class EngineTests(unittest.TestCase):
         for description, minimum in [("1-3 years", 1), ("3+ years", 3), ("Freshers welcome", 0),
                                      ("0-1 years", 0), ("entry level", 0)]:
             self.assertEqual(experience_evidence(job("Senior Manager", "A", description))[0], minimum)
+        for title, description in (("Lead Analyst", "No experience required"), ("Team Lead", "Freshers welcome"),
+                                   ("Senior Developer", "No prior experience is needed")):
+            self.assertEqual(experience_evidence(job(title, "A", description))[0], 0, description)
         for description in ("Not an entry level role", "No freshers welcome"):
             self.assertEqual(experience_evidence(job("Senior Analyst", "A", description))[0], 3)
         jobs = [job("A", "One", "Experience: 1-3 years. SQL"),

@@ -346,6 +346,7 @@ def experience_evidence(job: dict) -> tuple[int, str]:
     if evidence:
         return max(evidence, key=lambda item: item[0])
     for entry in re.finditer(r"\b(?:freshers?\s+(?:welcome|can apply|may apply|eligible)|"
+                             r"no\s+(?:prior\s+)?experience\s+(?:is\s+)?(?:required|needed|necessary)|"
                              r"experience\s*:\s*fresher|entry[ -]level)\b", description, re.I):
         if not re.search(r"\b(?:no|not)\s+(?:an?\s+)?$", description[max(0, entry.start() - 20):entry.start()], re.I):
             return 0, entry.group(0)

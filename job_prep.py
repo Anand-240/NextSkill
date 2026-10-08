@@ -82,7 +82,10 @@ def prep_candidates(analysis: dict) -> list[dict]:
         missing = set().union(*(req for req in requirements if not req & user))
         singles = sorted(skill for skill in missing if coverage(requirements, user | {skill}) >= threshold)
         if singles:
-            rows.append({"index": index, "job": entry["job"], "status": "one_away", "unlock_skills": singles})
+            # Broad labels never get a course in the plan, so they are not offered as the one skill.
+            named = [skill for skill in singles if skill not in GENERIC]
+            rows.append({"index": index, "job": entry["job"], "status": "one_away", "unlock_skills": named,
+                         "broad_only": sorted(set(singles) - set(named)) if not named else []})
     return rows
 
 
@@ -104,8 +107,25 @@ def evidence_line(text: str, start: int, end: int, width: int = 70) -> str:
     if segment_end - end > width:
         cut = text.find(" ", end + width, segment_end)
         segment_end = cut if cut != -1 else segment_end
-    line = text[segment_start:segment_end].strip()
+    line = readable(text[segment_start:segment_end].strip())
     return ("…" if segment_start > left else "") + line + ("…" if segment_end < right else "")
+
+
+# Words that are written as one camel-case word and must not be split.
+CAMEL_WORDS = re.compile(r"\b(?:GitHub|GitLab|LinkedIn|YouTube|WordPress|PowerPoint|HubSpot|QuickBooks|SharePoint|"
+                         r"ServiceNow|DataFrame|PySpark|jQuery|JQuery|McKinsey|DeepMind|AdWords|InDesign|WhatsApp|"
+                         r"iPhone|macOS|iOS|OpenAI|ChatGPT|DevOps|FastAPI|GraphQL|BigQuery|NumPy|PyTorch|TensorFlow)\b")
+
+
+def readable(line: str) -> str:
+    """Add a space where scraped text runs words together ("DevelopmentBasic"), never inside skill names."""
+    protected = [(start, end) for _, start, end in skill_mentions(line, skip_headings=False)]
+    protected += [match.span() for match in CAMEL_WORDS.finditer(line)]
+    joins = [match.start() for match in re.finditer(r"(?<=[a-z]{3})(?=[A-Z][a-z]{2})|(?<=[a-z)][.!?;:)])(?=[A-Z][a-z])", line)]
+    for position in reversed(joins):
+        if not any(start < position < end for start, end in protected):
+            line = line[:position] + " " + line[position:]
+    return line
 
 
 def _mentions(description: str) -> dict[str, list[tuple[int, int]]]:

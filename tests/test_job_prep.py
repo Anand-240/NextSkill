@@ -125,6 +125,24 @@ class JobPrepPlanTests(unittest.TestCase):
         self.assertEqual(plan["hours_unknown"], ["Power BI", "SQL"])
 
 
+class SmallFixTests(unittest.TestCase):
+    def test_evidence_spacing_never_splits_skill_names(self):
+        from job_prep import readable
+        self.assertEqual(readable("Web DevelopmentProficiency in HTML, CSS, JavaScript and frameworksAbility to work"),
+                         "Web Development Proficiency in HTML, CSS, JavaScript and frameworks Ability to work")
+        self.assertEqual(readable("(e.g., React, or Vue).Ensure high"), "(e.g., React, or Vue). Ensure high")
+        for text in ("JavaScript, TypeScript and PostgreSQL on GitHub", "Node.js and Vue.js with MongoDB", "U.S. based"):
+            self.assertEqual(readable(text), text)
+
+    def test_job_list_labels_exclude_broad_skills(self):
+        jobs = [job("Designer", "Target", "Figma, UI/UX, Canva"), job("Designer", "One", "Figma, UI/UX"),
+                job("Designer", "Two", "Canva, UI/UX")]
+        analysis = analyze_jobs(jobs, {"Figma"}, threshold=.6)
+        rows = {row["job"]["company_name"]: row for row in prep_candidates(analysis)}
+        self.assertEqual(rows["Target"]["unlock_skills"], ["Canva"])
+        self.assertEqual((rows["One"]["unlock_skills"], rows["One"]["broad_only"]), ([], ["UI/UX"]))
+
+
 class DemoJobPrepTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):

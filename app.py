@@ -331,7 +331,12 @@ if result:
             st.caption("No listing matches now or is one skill away at this threshold.")
         for row in candidates:
             job = row["job"]
-            status = "Matches now" if row["status"] == "match" else "1 skill away: " + " or ".join(row["unlock_skills"])
+            if row["status"] == "match":
+                status = "Matches now"
+            elif row["unlock_skills"]:
+                status = "1 skill away: " + " or ".join(row["unlock_skills"])
+            else:
+                status = "1 skill away through a broad skill (" + ", ".join(row["broad_only"]) + ")"
             left, right = st.columns([4, 1])
             left.markdown(f"**{job.get('title') or 'Untitled'}** · {job.get('company_name') or 'Unknown company'} · {status}")
             if right.button("Prepare for this job", key=f"prep_{row['index']}"):
