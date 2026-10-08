@@ -59,6 +59,16 @@ class EngineTests(unittest.TestCase):
         self.assertEqual(extract_skills("Python Developer"), set())
         self.assertEqual(extract_skills("Python Developer\nWe need SQL experience."), {"SQL"})
 
+    def test_cached_matching_returns_independent_copies(self):
+        text = "SQL, Excel and Power BI or Tableau"
+        skills, requirements = extract_skills(text), requirements_from_text(text)
+        skills.add("Java")
+        requirements.add(frozenset({"Java"}))
+        self.assertEqual(extract_skills(text), {"SQL", "Excel", "Power BI", "Tableau"})
+        self.assertNotIn(frozenset({"Java"}), requirements_from_text(text))
+        self.assertEqual(canonical_manual_skills("SQL"), {"SQL"})
+        self.assertEqual(canonical_manual_skills("SQL"), {"SQL"})
+
     def test_rest_api_requires_api_or_service_context(self):
         for sentence in ("Integrate REST API endpoints.", "Use REST APIs for backend calls.",
                          "Build RESTful APIs.", "Connect to REST services.", "Maintain RESTful services."):

@@ -363,6 +363,11 @@ def same_family(skills: set[str]) -> bool:
 
 def requirements_from_text(text: str) -> set[frozenset[str]]:
     """Only an explicit or/slash chain makes skills interchangeable in a listing."""
+    return set(_requirements_from_text(text or ""))
+
+
+@lru_cache(maxsize=8192)
+def _requirements_from_text(text: str) -> frozenset[frozenset[str]]:
     # Skills marked as a plus or nice to have are preferred, not requirements.
     mentions = [mention for mention in skill_mentions(text) if not preferred_mention(text, mention[1], mention[2])]
     requirements = set()
@@ -400,7 +405,7 @@ def requirements_from_text(text: str) -> set[frozenset[str]]:
                     requirements.add(frozenset(group))
                 group = {skill}
         requirements.add(frozenset(group))
-    return requirements
+    return frozenset(requirements)
 
 
 def coverage(required: set[str] | set[frozenset[str]], user: set[str]) -> float:

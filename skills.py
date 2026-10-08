@@ -2,6 +2,7 @@
 
 import re
 from collections import defaultdict
+from functools import lru_cache
 
 # Canonical names are also searched, except for ambiguous short language names.
 SKILLS = {
@@ -125,7 +126,12 @@ def negated_mention(text: str, start: int, end: int) -> bool:
 
 def skill_mentions(text: str, skip_headings: bool = True) -> list[tuple[str, int, int]]:
     """Return affirmative skill mentions and their offsets in the original text."""
-    text = text or ""
+    # The same descriptions are scanned many times per analysis, so cache by text.
+    return list(_skill_mentions(text or "", skip_headings))
+
+
+@lru_cache(maxsize=8192)
+def _skill_mentions(text: str, skip_headings: bool) -> tuple[tuple[str, int, int], ...]:
     found = set()
     starts = [0]
     segments = []
@@ -164,9 +170,9 @@ def skill_mentions(text: str, skip_headings: bool = True) -> list[tuple[str, int
             stack = match.group(0).split()[0].upper()
             found.update((name, start + match.start(), start + match.end()) for name in STACKS[stack])
     # Aliases can contain the canonical name. Keep the widest occurrence once.
-    return sorted((item for item in found if not any(
+    return tuple(sorted((item for item in found if not any(
         other[0] == item[0] and other != item and other[1] <= item[1] and other[2] >= item[2]
-        for other in found)), key=lambda item: (item[1], -(item[2] - item[1]), item[0]))
+        for other in found)), key=lambda item: (item[1], -(item[2] - item[1]), item[0])))
 
 
 def extract_skills(text: str, resume: bool = False) -> set[str]:

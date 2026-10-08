@@ -10,6 +10,21 @@ from engine import (DEFAULT_THRESHOLD, DICTIONARY_WARNING, ROLE_FIT_WARNING, ROO
 from job_prep import (REVISION_LABEL, build_plan, default_prep_index, is_cached, prep_candidates,
                       revision_params, revision_videos, time_range)
 
+def demo_data_version() -> tuple:
+    """Changes whenever a bundled response is added, removed or rewritten."""
+    return tuple(sorted((path.name, path.stat().st_size, path.stat().st_mtime_ns)
+                        for path in (ROOT / "demo_data").rglob("*.json")))
+
+
+@st.cache_data(show_spinner=False, max_entries=64)
+def cached_demo_run(role, city, resume_input, manual, threshold, include_hindi, exclude_old, pages,
+                    core_share, experience_level, data_version):
+    """Saved-data analysis is deterministic, so identical inputs reuse the full result."""
+    client = SerpClient(use_fixtures=True, cache_only=True, ledger_name="demo_ledger.json", call_cap=6)
+    return run(role, city, resume_input, manual, threshold, include_hindi, exclude_old, pages, False,
+               client, core_share, experience_level=experience_level)
+
+
 st.set_page_config(page_title="NextSkill", page_icon="🎯", layout="wide")
 st.markdown("""<style>
 .block-container {max-width: 1120px; padding-top: 2rem}
@@ -104,9 +119,8 @@ if go or auto_demo:
                     after = client.account("demo_after")
                 st.session_state["credit_update"] = {"before": before, "after": after}
             else:
-                result = run(role, city, resume_input, manual, threshold, include_hindi,
-                             exclude_old, pages, False, client, core_share,
-                             experience_level=experience_level)
+                result = cached_demo_run(role, city, resume_input, manual, threshold, include_hindi,
+                                         exclude_old, pages, core_share, experience_level, demo_data_version())
                 st.session_state["credit_update"] = None
         st.session_state["result"] = result
         st.session_state["replay_mode"] = demo

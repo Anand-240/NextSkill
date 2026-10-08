@@ -2,6 +2,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
+import streamlit as st
 from streamlit.testing.v1 import AppTest
 
 
@@ -46,6 +47,7 @@ class PresentationTests(unittest.TestCase):
             self.assertIn("A short course can win per hour even if it opens fewer jobs. Compare both before choosing.", captions)
             result = app.session_state["result"]
             single = {**result, "ranked": result["ranked"][:1]}
+            st.cache_data.clear()  # The demo result is cached; force the patched run.
             with patch("engine.run", return_value=single):
                 app.sidebar.button[0].click().run()
             self.assertFalse(app.exception)
