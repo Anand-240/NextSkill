@@ -17,7 +17,7 @@ ALIASES = {
     "Power BI": ["PowerBI", "Power-BI", "Microsoft Power BI"],
     "JavaScript": ["JS"], "TypeScript": ["TS"],
     "Node.js": ["NodeJS", "Node JS"], "Next.js": ["NextJS", "Next JS"],
-    "Vue.js": ["VueJS", "Vue JS"], "Express.js": ["ExpressJS", "Express JS"],
+    "Vue.js": ["VueJS", "Vue JS", "Vue"], "Express.js": ["ExpressJS", "Express JS"],
     "React": ["ReactJS", "React JS"],
     "AWS": ["Amazon Web Services"], "Google Cloud": ["GCP", "Google Cloud Platform"],
     "SQL Server": ["MS SQL Server", "Microsoft SQL Server", "MSSQL"],
@@ -55,11 +55,30 @@ for names in SKILLS.values():
             _patterns[canonical].append(re.compile(r"(?<!\w)" + re.escape(term) + r"(?!\w)", re.I))
 
 
-def extract_skills(text: str) -> set[str]:
-    """Return one canonical name per skill appearing in text."""
+_BOUNDARY = re.compile(r"(?<=[.!?;])\s+|\n+|[•●▪]|\b(?:but|however|whereas|although|yet)\b", re.I)
+_NEGATION = re.compile(
+    r"\b(?:no\s+(?:prior\s+)?(?:experience|knowledge)\s+(?:with|in|of)|"
+    r"not\s+familiar\s+with|never\s+(?:used|worked\s+with)|"
+    r"(?:don['’]t|do\s+not)\s+know|"
+    r"(?:don['’]t|do\s+not|not)\s+need(?:\s+to\s+be\s+a)?|"
+    r"(?:do\s+not|don['’]t)\s+require)\b", re.I)
+_POSITIVE_RESET = re.compile(
+    r"\b(?:and\s+)?(?:I\s+am|we\s+are|I\s+have|I\s+know|I\s+use|"
+    r"proficient\s+in|experienced\s+in|familiar\s+with|skilled\s+in)\b", re.I)
+
+
+def skill_mentions(text: str) -> list[tuple[str, int, int]]:
+    """Return affirmative skill mentions and their offsets in the original text."""
+    text = text or ""
     found = set()
-    for segment in re.split(r"(?<=[.!?])\s+|\n+|[•●▪]", text or ""):
-        segment = segment.strip()
+    starts = [0]
+    segments = []
+    for boundary in _BOUNDARY.finditer(text):
+        segments.append((starts[-1], boundary.start()))
+        starts.append(boundary.end())
+    segments.append((starts[-1], len(text)))
+    for start, end in segments:
+        segment = text[start:end]
         if not segment:
             continue
         # A bare role heading is evidence about the vacancy, not a skill requirement.
@@ -68,17 +87,28 @@ def extract_skills(text: str) -> set[str]:
         for name, patterns in _patterns.items():
             for pattern in patterns:
                 for match in pattern.finditer(segment):
-                    left = segment[max(0, match.start() - 75):match.start()].lower()
+                    left = segment[:match.start()].lower()
                     right = segment[match.end():match.end() + 25].lower()
-                    if re.search(r"(?:don['’]t|do not|not)\s+need(?:\s+to\s+be\s+a)?\s*$", left):
+                    negatives = list(_NEGATION.finditer(left))
+                    # Negation extends over a skill list until a new positive clause.
+                    if negatives and not _POSITIVE_RESET.search(left, negatives[-1].end()):
+                        continue
+                    if re.match(r"\s+(?:is\s+|are\s+)?(?:not\s+required|not\s+needed)\b", right):
                         continue
                     if name == "Graphic Design" and re.search(r"\b(?:e\.g\.|ex:)\s*[^.]{0,60}$", left):
                         continue
                     if name == "Compliance" and re.search(r"\bvendor\s*$", left):
                         continue
-                    found.add(name)
-                    break
-    return found
+                    found.add((name, start + match.start(), start + match.end()))
+    # Aliases can contain the canonical name. Keep the widest occurrence once.
+    return sorted((item for item in found if not any(
+        other[0] == item[0] and other != item and other[1] <= item[1] and other[2] >= item[2]
+        for other in found)), key=lambda item: (item[1], -(item[2] - item[1]), item[0]))
+
+
+def extract_skills(text: str) -> set[str]:
+    """Return canonical skills supported by affirmative mentions."""
+    return {name for name, _, _ in skill_mentions(text)}
 
 
 def skill_count() -> int:

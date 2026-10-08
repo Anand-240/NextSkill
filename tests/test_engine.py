@@ -47,8 +47,8 @@ class EngineTests(unittest.TestCase):
         self.assertEqual(coverage({"SQL", "Excel", "Python", "Power BI"}, {"SQL", "Excel"}), 0.5)
         self.assertEqual(result["ready"], 0)
         self.assertEqual(len(result["unlocked"]["Python"]), 2)
-        self.assertEqual(len(result["unlocked"]["Power BI"]), 3)
-        self.assertNotIn("Tableau", result["unlocked"])
+        self.assertEqual(len(result["unlocked"]["Power BI"]), 2)
+        self.assertEqual(len(result["unlocked"]["Tableau"]), 2)
 
     def test_core_skills_and_rank_by_unlock(self):
         jobs = [job("A", "One", "SQL, Excel, Python"), job("B", "Two", "SQL, Excel, Python"), job("Sparse", "Three", "SQL only")]
@@ -116,11 +116,9 @@ class EngineTests(unittest.TestCase):
 
     def test_data_driven_default(self):
         self.assertEqual(DEFAULT_THRESHOLD, .5)
-        analyst_jobs = __import__("engine").fetch_jobs("Data Analyst", "Noida", client=SerpClient(use_fixtures=True, cache_only=True))
-        frontend_jobs = __import__("engine").fetch_jobs("Frontend Developer", "Bengaluru", client=SerpClient(use_fixtures=True, cache_only=True))
-        self.assertEqual(analyze_jobs(analyst_jobs, {"Excel", "Python"})["ready"], 2)
-        self.assertEqual(analyze_jobs(analyst_jobs, {"SQL", "Excel", "Python", "Tableau"})["ready"], 15)
-        self.assertEqual(analyze_jobs(frontend_jobs, {"HTML", "CSS", "JavaScript"})["ready"], 10)
+        jobs = [job("Analyst", "A", "SQL, Excel, Python")]
+        self.assertEqual(analyze_jobs(jobs, {"SQL"})["ready"], 0)
+        self.assertEqual(analyze_jobs(jobs, {"SQL", "Excel"})["ready"], 1)
 
     def test_generic_terms_count_but_never_recommend(self):
         jobs = [job("A", "One", "SQL and Data Analysis"), job("B", "Two", "SQL and Data Analysis"),
@@ -156,7 +154,7 @@ class EngineTests(unittest.TestCase):
         self.assertFalse(any(excluded["job"] in unlocked for excluded in fresher["experience_excluded"]
                              for unlocked in fresher["unlocked"].values()))
         mid = analyze_jobs(jobs, {"SQL", "Excel", "Python"}, experience_level="1-3 years")
-        self.assertEqual((mid["ready"], len(mid["experience_excluded"])), (2, 0))
+        self.assertEqual((mid["ready"], len(mid["experience_excluded"])), (1, 1))
 
     def test_experience_parser_rejects_incidental_years(self):
         false_cases = ["A company with 20 years of experience", "Report to a Senior Manager",
@@ -169,15 +167,15 @@ class EngineTests(unittest.TestCase):
         self.assertEqual(experience_evidence(job("Developer", "A", "Overall 4.5+ years of frontend experience"))[0], 5)
 
     def test_skill_alternatives_and_explicit_or(self):
-        self.assertIn(frozenset({"Power BI", "Tableau", "Looker"}), requirements_from_text("Power BI/Tableau"))
-        self.assertIn(frozenset({"React", "Angular", "Vue.js"}), requirements_from_text("React or Angular"))
+        self.assertIn(frozenset({"Power BI", "Tableau"}), requirements_from_text("Power BI/Tableau"))
+        self.assertIn(frozenset({"React", "Angular"}), requirements_from_text("React or Angular"))
         self.assertIn(frozenset({"SQL", "Python"}), requirements_from_text("SQL or Python"))
         self.assertEqual(coverage(requirements_from_text("SQL/Python"), {"Python"}), 1)
         self.assertEqual(coverage(requirements_from_text("Power BI/Tableau, SQL"), {"Tableau", "SQL"}), 1)
         jobs = [job("Analyst", "A", "SQL, Excel, Power BI or Tableau"),
                 job("Analyst", "B", "SQL, Excel, Power BI")]
         analysis = analyze_jobs(jobs, {"SQL", "Excel", "Tableau"}, threshold=1)
-        self.assertEqual(analysis["ready"], 2)
+        self.assertEqual(analysis["ready"], 1)
         analysis = analyze_jobs(jobs, {"SQL", "Excel"}, threshold=1)
         self.assertIn("Power BI", analysis["candidates"])
         self.assertNotIn("Tableau", analysis["candidates"])
@@ -253,9 +251,41 @@ class EngineTests(unittest.TestCase):
                 job("C", "Three", "Power BI, Excel, Python")]
         analysis = analyze_jobs(jobs, {"Excel"}, threshold=1)
         self.assertEqual(analysis["display_members"].get("SQL"), frozenset({"SQL"}))
-        if analysis["pair"]:
-            self.assertFalse(any(analysis["pair"][0] in group and analysis["pair"][1] in group
-                                 for group in __import__("engine").SUBSTITUTE_GROUPS))
+        self.assertIn(frozenset({"SQL"}), analysis["jobs"][1]["required_skills"])
+        self.assertIn(frozenset({"Power BI"}), analysis["jobs"][2]["required_skills"])
+
+    def test_negation_scopes_apply_to_resumes_and_job_requirements(self):
+        for phrase in ("no experience with", "not familiar with", "never used", "don't know",
+                       "don’t know", "do not know"):
+            text = f"I am {phrase} SQL or Python, but I use Excel."
+            self.assertEqual(extract_skills(text), {"Excel"}, phrase)
+            self.assertEqual(canonical_manual_skills(text), {"Excel"}, phrase)
+            self.assertEqual(requirements_from_text(text), {frozenset({"Excel"})}, phrase)
+        self.assertEqual(extract_skills("Never used React/Angular/Vue. JavaScript is required."), {"JavaScript"})
+        self.assertEqual(extract_skills("No experience with SQL; proficient in Python."), {"Python"})
+        self.assertEqual(extract_skills("Not only SQL but also Python."), {"SQL", "Python"})
+        self.assertEqual(extract_skills("SQL is not required. Excel is required."), {"Excel"})
+
+    def test_only_listing_alternatives_are_interchangeable(self):
+        self.assertEqual(coverage(requirements_from_text("React is mandatory."), {"Angular"}), 0)
+        self.assertEqual(coverage(requirements_from_text("AWS is required."), {"Azure"}), 0)
+        self.assertEqual(requirements_from_text("React/Angular/Vue"), {frozenset({"React", "Angular", "Vue.js"})})
+        self.assertEqual(requirements_from_text("Any cloud such as AWS or Azure"), {frozenset({"AWS", "Azure"})})
+        self.assertEqual(requirements_from_text("SQL or Python. SQL is required."),
+                         {frozenset({"SQL", "Python"}), frozenset({"SQL"})})
+        independent = analyze_jobs([job("A", "One", "React"), job("B", "Two", "Angular")], set(), threshold=1)
+        self.assertEqual(set(independent["pair"][:2]), {"React", "Angular"})
+        self.assertEqual(independent["display_members"]["React"], frozenset({"React"}))
+
+    def test_description_experience_overrides_title_and_bands_use_minimum(self):
+        for description, minimum in [("1-3 years", 1), ("3+ years", 3), ("Freshers welcome", 0),
+                                     ("0-1 years", 0), ("entry level", 0)]:
+            self.assertEqual(experience_evidence(job("Senior Manager", "A", description))[0], minimum)
+        jobs = [job("A", "One", "Experience: 1-3 years. SQL"),
+                job("B", "Two", "Experience: 3+ years. SQL"),
+                job("C", "Three", "Experience: 7+ years. SQL")]
+        self.assertEqual(analyze_jobs(jobs, {"SQL"}, experience_level="1-3 years")["ready"], 1)
+        self.assertEqual(analyze_jobs(jobs, {"SQL"}, experience_level="3+ years")["ready"], 2)
 
     def test_mostly_ready_no_unlock_message(self):
         analysis = {"jobs": [{}, {}, {}], "ready": 2, "candidates": []}

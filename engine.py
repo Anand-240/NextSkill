@@ -17,24 +17,18 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import urlopen
 
-from skills import ALIASES, GENERIC, SKILLS, extract_skills
+from skills import ALIASES, GENERIC, SKILLS, extract_skills, skill_mentions
 
 ROOT = Path(__file__).resolve().parent
 DEMO_DATA = ROOT / "demo_data"
 VOCABULARY = {skill for group in SKILLS.values() for skill in group}
-SUBSTITUTE_GROUPS = (
-    frozenset({"Power BI", "Tableau", "Looker"}),
-    frozenset({"React", "Angular", "Vue.js"}),
-    frozenset({"AWS", "Azure", "Google Cloud"}),
-)
-SUBSTITUTE_BY_SKILL = {skill: group for group in SUBSTITUTE_GROUPS for skill in group}
 SUBSTITUTE_PREFERENCE = {"Power BI": 3, "React": 3, "AWS": 3,
                          "Tableau": 2, "Angular": 2, "Azure": 2,
                          "Looker": 1, "Vue.js": 1, "Google Cloud": 1}
 LONG_VIDEO_SP = "EgIYAg=="  # YouTube Filters > Duration > Over 20 minutes, passed through SerpApi's `sp`.
 COURSE_TITLE = re.compile(r"\b(?:full course|complete|course|masterclass|bootcamp)\b", re.I)
 DEFAULT_THRESHOLD = 0.50
-EXPERIENCE_LEVELS = {"Fresher": 0, "1-3 years": 3, "3+ years": float("inf")}
+EXPERIENCE_LEVELS = {"Fresher": 0, "1-3 years": 1, "3+ years": 3}
 ROLE_FIT_WARNING = "Your profile is far from this role. Recommendations show what this role needs, but it may be a big switch."
 DICTIONARY_WARNING = "This role is outside NextSkill's strongest areas (tech, data, marketing, finance, design); results may be incomplete."
 MOSTLY_READY_MESSAGE = "You already match most jobs here. Your best next step is applying, or exploring a more senior role."
@@ -257,11 +251,6 @@ def experience_evidence(job: dict) -> tuple[int, str]:
     title = str(job.get("title") or "")
     description = str(job.get("description") or "")
     evidence: list[tuple[int, str]] = []
-    title_match = SENIOR_TITLE.search(title)
-    if title_match:
-        word = title_match.group(0).lower()
-        floor = 8 if word == "principal" else 5 if word in {"lead", "manager"} else 3
-        evidence.append((floor, title_match.group(0)))
     lost_ranges = []
     for match in EXPERIENCE_LOST_RANGE.finditer(description):
         lower, upper = int(match.group(1)), int(match.group(2))
@@ -295,7 +284,17 @@ def experience_evidence(job: dict) -> tuple[int, str]:
         if suffix:
             phrase_end += suffix.end()
         evidence.append((years, description[phrase_start:phrase_end].strip()))
-    return max(evidence, key=lambda item: item[0]) if evidence else (0, "no minimum detected")
+    if evidence:
+        return max(evidence, key=lambda item: item[0])
+    entry = re.search(r"\b(?:freshers?(?:\s+welcome)?|entry[ -]level)\b", description, re.I)
+    if entry:
+        return 0, entry.group(0)
+    title_match = SENIOR_TITLE.search(title)
+    if title_match:
+        word = title_match.group(0).lower()
+        floor = 8 if word == "principal" else 5 if word in {"lead", "manager"} else 3
+        return floor, title_match.group(0)
+    return 0, "no minimum detected"
 
 
 def experience_required(job: dict) -> tuple[int, str]:
@@ -315,22 +314,21 @@ def canonical_manual_skills(text: str) -> set[str]:
 
 
 def requirements_from_text(text: str) -> set[frozenset[str]]:
-    """Collapse substitute tools and explicit X-or-Y / X/Y into choices."""
-    found = extract_skills(text)
-    requirements = {SUBSTITUTE_BY_SKILL.get(skill, frozenset({skill})) for skill in found}
-    term_to_skill = {term: skill for skill in found for term in [skill, *ALIASES.get(skill, [])]}
-    if term_to_skill:
-        names = sorted(term_to_skill, key=len, reverse=True)
-        pattern = re.compile(r"(?<!\w)(" + "|".join(re.escape(name) for name in names) +
-                             r")\s*(?:/|\bor\b)\s*(" + "|".join(re.escape(name) for name in names) + r")(?!\w)", re.I)
-        lower_map = {name.casefold(): skill for name, skill in term_to_skill.items()}
-        for match in pattern.finditer(text):
-            first, second = lower_map[match.group(1).casefold()], lower_map[match.group(2).casefold()]
-            if first == second:
-                continue
-            joined = frozenset().union(*(req for req in requirements if first in req or second in req))
-            requirements = {req for req in requirements if first not in req and second not in req}
-            requirements.add(joined)
+    """Only an explicit or/slash chain makes skills interchangeable in a listing."""
+    mentions = skill_mentions(text)
+    requirements = set()
+    group = set()
+    previous_end = None
+    for skill, start, end in mentions:
+        if previous_end is not None and re.fullmatch(r"\s*(?:/|\bor\b)\s*", text[previous_end:start], re.I):
+            group.add(skill)
+        else:
+            if group:
+                requirements.add(frozenset(group))
+            group = {skill}
+        previous_end = end
+    if group:
+        requirements.add(frozenset(group))
     return requirements
 
 
@@ -447,8 +445,7 @@ def analyze_jobs(jobs: list[dict], user_skills: set[str], threshold: float = DEF
     display_members = {}
     for name in option_members:
         matching = {req for entry in usable for req in entry["required_skills"] if name in req}
-        display_members[name] = (SUBSTITUTE_BY_SKILL[name] if name in SUBSTITUTE_BY_SKILL else
-                                 next(iter(matching)) if len(matching) == 1 else frozenset({name}))
+        display_members[name] = next(iter(matching)) if len(matching) == 1 else frozenset({name})
     counts = Counter({name: sum(any(name in req for req in entry["required_skills"]) for entry in usable)
                       for name in option_members})
     unlocked = {}
@@ -460,7 +457,7 @@ def analyze_jobs(jobs: list[dict], user_skills: set[str], threshold: float = DEF
     top8 = sorted(recommendable, key=lambda skill: (-len(unlocked[skill]), -counts[skill], skill))[:8]
     pair_options = []
     for first, second in itertools.combinations(top8, 2):
-        if any(first in group and second in group for group in SUBSTITUTE_GROUPS):
+        if all((first in req) == (second in req) for entry in usable for req in entry["required_skills"]):
             continue
         gained = [entry["job"] for entry in usable if entry["coverage"] < threshold and coverage(entry["required_skills"], user_skills | {first, second}) >= threshold]
         pair_options.append((first, second, gained))
