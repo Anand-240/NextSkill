@@ -91,7 +91,7 @@ The app also resamples the eligible listings **500 times** with a fixed seed and
 
 The live product needs current local job and course data; the bundled data exists to make the demo and tests reproducible. Live responses are cached in `cache/`. Searches use a 75-second timeout and do not retry on timeout.
 
-## Use live search
+## Use live search locally
 
 1. Copy `.env.example` to `.env` and set `SERPAPI_KEY` to your own key. You can also provide the key through the environment or a private Streamlit secret.
 2. Start the app with `streamlit run app.py` and turn on **Live search**.
@@ -99,7 +99,7 @@ The live product needs current local job and course data; the bundled data exist
 
 Without a key, Live search is disabled and the app says: **“Live search needs a SerpApi key. Demo data is shown.”** The app's demo live-search cap is six attempted requests. `.env` and `cache/` are Git-ignored; never put a key in `demo_data/` or commit it.
 
-For Streamlit Community Cloud, select **`app.py` at the repository root**. Demo mode needs no secrets. Add `SERPAPI_KEY` as a private app secret only if you want Live search.
+For Streamlit Community Cloud, select **`app.py` at the repository root**. The public hosted app runs on bundled demo data only. Do not give the public deployment a SerpApi key or add `SERPAPI_KEY` to its secrets. Live search is for local use with your own key.
 
 ## Validation and limitations
 
