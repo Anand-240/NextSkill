@@ -1,7 +1,7 @@
 {
   "note": "Offline re-run of both saved demos with SerpApi requests blocked. Seed 2026, threshold 0.5, core share 0.25.",
-  "before_commit": "2fb746f",
-  "after_commit": "364130c",
+  "before_commit": "d63e38d",
+  "after_commit": "9dfedb6",
   "before": {
     "Bengaluru": {
       "matches": 8,
