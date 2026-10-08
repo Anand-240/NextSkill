@@ -33,6 +33,12 @@ class PresentationTests(unittest.TestCase):
                              "Your profile matches 8 of 19 listings found now in Bengaluru.")
             self.assertNotIn("ready for", app.subheader[0].value)
 
+    def test_readme_matcher_claim_retains_sample_size_and_recall_limit(self):
+        readme = (ROOT / "README.md").read_text()
+        self.assertIn("16 of 20 sampled matches were correct; after filters, the 16 retained matches were all correct; recall not measured", readme)
+        claim = next(line for line in readme.splitlines() if "matcher audit" in line)
+        self.assertNotIn("100%", claim)
+
 
 if __name__ == "__main__":
     unittest.main()
