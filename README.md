@@ -4,18 +4,23 @@
 ![MIT licence](https://img.shields.io/badge/licence-MIT-blue)
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
 
-Try it live: https://nextskill.streamlit.app
-
 **Learn the one skill that unlocks the most real jobs, in the least time.**
 
-NextSkill turns local job descriptions into a concrete next step. Choose a role and Indian city, add the skills you already have, and see which missing skill could put the most jobs within reach per estimated learning hour. The app shows the job evidence and free course videos behind each recommendation.
+**[Try it live](https://nextskill.streamlit.app)** (saved demo data, no key needed)
+
+NextSkill turns local job descriptions into a concrete next step. Choose a role and Indian city, add the skills you already have, and see which missing skill would let your profile match the most listings per estimated learning hour. Every recommendation links to the job listings and free course videos behind it.
 
 ## Key findings
 
-- In the saved Bengaluru frontend fresher demo, the profile matches 5 of 19 scored listings. REST API is the fastest win: 7 more matches at 3.12 estimated course hours. React is the biggest unlock: 10 more matches at 5.09 hours. Recommendation confidence is Uncertain.
-- Bengaluru sets aside 22 listings that need more experience. Another 23 remain eligible, including 19 with detected core skills.
-- In Noida, Data Cleaning is the fastest win: 2 more matches at 1.54 hours. SQL is the biggest unlock: 5 more at 4.34 hours. Recommendation confidence is Uncertain.
-- At 5, 10, and 15-hour budgets, Bengaluru's greedy plan gains 7/7, 12/14, and 14/14 matches against the exact best. Noida gains 2/5, 11/11, and 12/12.
+- **Fastest win and biggest unlock can differ.** In the saved Bengaluru frontend fresher demo, the profile matches 5 of 19 scored listings. REST API is the fastest win: 7 more matches at 3.12 course hours. React is the biggest unlock: 10 more matches at 5.09 hours.
+- **The app says when it is unsure.** In the Noida analyst fresher demo, Data Cleaning (+2 at 1.54 hours) narrowly beats SQL (+5 at 4.34 hours) on jobs per hour. It wins only 49.2% of listing resamples, so the app labels it Uncertain. The Bengaluru pick is also Uncertain.
+- **The learning plan is checked against an exact optimum.** Greedy matches the exact best in 4 of 6 budget checks. Exact search does better in Bengaluru at 10 hours (14 vs 12 matches) and in Noida at 5 hours (5 vs 2).
+
+> **What the numbers mean**
+>
+> - **Matches:** the profile covers at least the threshold share (default 50%) of a listing's detected core skills. Not a hiring prediction.
+> - **Learning hours:** the length of free full courses found on YouTube. Not time to mastery.
+> - **Confidence:** how often the top pick stays first when listings are resampled and course hours vary. Stability, not accuracy.
 
 ## Why it exists
 
@@ -93,6 +98,18 @@ Recommendation confidence uses the **lower of the two shares**: Strong at 85% or
 | [Account API](https://serpapi.com/account-api) | Credit usage before and after a live run. |
 
 The live product needs current local job and course data; the bundled data exists to make the demo and tests reproducible. Live responses are cached in `cache/`. Searches use a 75-second timeout and do not retry on timeout.
+
+## Questions a judge might ask
+
+**Why only two SerpApi engines?** Google Jobs answers "what do local employers ask for" and YouTube answers "how long is a free course". Those are the two measurements the ranking needs. The Account API only reports credit use. Another engine would cost credits on every search without improving either measurement.
+
+**Doesn't jobs per hour favour short courses?** Yes, it can. That is why the app shows the **Fastest win** (most jobs per learning hour) next to the **Biggest unlock** (most jobs, regardless of hours). In Bengaluru these are REST API (+7 at 3.12 hours) and React (+10 at 5.09 hours). The user can compare both before choosing.
+
+**How big are the samples?** The saved Bengaluru search returned 49 listings. After deduplication and the experience filter, 23 are eligible and 19 have detected core skills. Noida went from 40 to 20 eligible and 17 scored. A live search reads up to three pages, plus fresher and junior variants in Fresher mode. The app shows a sample-size badge and warns when fewer than 12 listings remain.
+
+**How was accuracy checked, and what was not measured?** A manual audit of 20 sampled skill matches found 16 correct. After the context filters, the 16 retained matches were all correct. An earlier sentence-level audit found no false matches among the saved REST API, Responsive Design and Data Cleaning matches. Recall was not measured. The audits do not test whether the recommendations lead to interviews, and course length was not checked against real learning time.
+
+**Does it work for any Indian city?** Yes, through live search with your own SerpApi key. It works best in large job markets with many listings. For small markets it shows a limited-data warning, and for roles outside its skill dictionary (tech, data, marketing, finance, design) it shows a coverage warning.
 
 ## Data sources
 
