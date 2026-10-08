@@ -18,7 +18,7 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import urlopen
 
-from skills import ALIASES, GENERIC, SKILLS, extract_skills, skill_mentions, negated_mention
+from skills import ALIASES, GENERIC, SKILLS, extract_skills, skill_mentions, negated_mention, preferred_mention
 
 ROOT = Path(__file__).resolve().parent
 DEMO_DATA = ROOT / "demo_data"
@@ -363,7 +363,8 @@ def same_family(skills: set[str]) -> bool:
 
 def requirements_from_text(text: str) -> set[frozenset[str]]:
     """Only an explicit or/slash chain makes skills interchangeable in a listing."""
-    mentions = skill_mentions(text)
+    # Skills marked as a plus or nice to have are preferred, not requirements.
+    mentions = [mention for mention in skill_mentions(text) if not preferred_mention(text, mention[1], mention[2])]
     requirements = set()
     # Split mentions into comma, slash or "or" separated lists.
     lists = []

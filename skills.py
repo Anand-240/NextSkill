@@ -90,6 +90,28 @@ _POSITIVE_RESET = re.compile(
     r"proficient\s+in|experienced\s+in|familiar\s+with|skilled\s+in)\b", re.I)
 
 
+_TERM_GROUP = "(?:" + "|".join(re.escape(term) for term in _ALL_TERMS) + ")"
+# "SQL is a plus", "Power BI or Tableau (preferred)", "AWS will be an added advantage".
+_PREFERRED_AFTER = re.compile(
+    r"(?:\s*(?:,|/|\bor\b|\band\b)\s*" + _TERM_GROUP + r")*\s*(?:"
+    r"\(\s*(?:preferred|optional|a plus|nice to have|good to have)\s*\)|"
+    r"(?:is|are|would be|will be)\s+(?:an?\s+)?(?:added\s+|big\s+|strong\s+)?(?:plus|advantage|bonus)\b|"
+    r"(?:is|are)\s+(?:preferred|desirable|nice to have|good to have)\b|"
+    r"(?:preferred|nice to have|good to have)\b)", re.I)
+# "Nice to have: SQL", "Preferred Skills ... React"; a later required/must cancels the header.
+_PREFERRED_BEFORE = re.compile(
+    r"\b(?:preferred|nice[- ]to[- ]have|good[- ]to[- ]have|bonus|desirable)\b"
+    r"(?:(?!\b(?:required|requirements?|must|mandatory|essential)\b)[\s\S])*$", re.I)
+
+
+def preferred_mention(text: str, start: int, end: int) -> bool:
+    """True when the sentence marks this skill as a plus rather than a requirement."""
+    boundaries = list(_BOUNDARY.finditer(text, 0, start))
+    left = text[boundaries[-1].end() if boundaries else 0:start]
+    following = next((m.start() for m in _BOUNDARY.finditer(text, end)), len(text))
+    return bool(_PREFERRED_BEFORE.search(left[-100:]) or _PREFERRED_AFTER.match(text, end, following))
+
+
 def negated_mention(text: str, start: int, end: int) -> bool:
     boundaries = list(_BOUNDARY.finditer(text, 0, start))
     left = text[boundaries[-1].end() if boundaries else 0:start]

@@ -199,11 +199,11 @@
         }
       ],
       "bootstrap": {
-        "top_share": 0.616,
+        "top_share": 0.622,
         "shares": {
-          "REST API": 0.616,
-          "Responsive Design": 0.234,
-          "React": 0.128,
+          "REST API": 0.622,
+          "Responsive Design": 0.244,
+          "React": 0.112,
           "No scored pick": 0.022
         },
         "samples": 500
@@ -371,7 +371,7 @@
           "skill": "Power BI",
           "display_skill": "Power BI",
           "unlocked": 2,
-          "appears_in": 7,
+          "appears_in": 6,
           "hours": 3.68,
           "course_confidence": "standard",
           "jobs_per_hour": 0.543,
@@ -456,22 +456,22 @@
         }
       ],
       "bootstrap": {
-        "top_share": 0.492,
+        "top_share": 0.562,
         "shares": {
-          "Data Cleaning": 0.492,
-          "SQL": 0.428,
-          "Power BI": 0.06,
-          "Tableau": 0.01,
+          "Data Cleaning": 0.562,
+          "SQL": 0.39,
+          "Power BI": 0.03,
           "No scored pick": 0.008,
+          "Tableau": 0.008,
           "Data Visualization": 0.002
         },
         "samples": 500
       },
       "hour_variation": {
-        "top_share": 0.8613,
+        "top_share": 0.8653,
         "checks": 1500,
         "by_threshold": {
-          "0.4": 0.988,
+          "0.4": 1.0,
           "0.5": 0.686,
           "0.6": 0.91
         }
@@ -532,8 +532,8 @@
           ],
           "exact_skills": [
             "SQL",
-            "Power BI",
-            "Data Cleaning"
+            "Data Cleaning",
+            "Power BI"
           ],
           "candidates": 5
         },

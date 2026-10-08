@@ -405,6 +405,21 @@ class EngineTests(unittest.TestCase):
         self.assertEqual(requirements_from_text("HTML5, CSS3, JavaScript/TypeScript"),
                          {frozenset({"HTML"}), frozenset({"CSS"}), frozenset({"JavaScript", "TypeScript"})})
 
+    def test_plus_and_nice_to_have_skills_are_preferred_not_core(self):
+        cases = {"SQL is required. Python is a plus.": [{"SQL"}],
+                 "Excel, SQL. Power BI or Tableau (preferred)": [{"SQL"}, {"Excel"}],
+                 "Nice to have: AWS, Docker": [], "Knowledge of Excel is a plus but not mandatory": [],
+                 "AWS will be an added advantage": [], "Python preferred": [],
+                 "Preferred Skills: React; Required: JavaScript": [{"JavaScript"}],
+                 "Desirable: Tableau. Mandatory: SQL": [{"SQL"}], "Must have SQL and Excel": [{"SQL"}, {"Excel"}]}
+        for text, expected in cases.items():
+            self.assertEqual(requirements_from_text(text), {frozenset(item) for item in expected}, text)
+        jobs = [job("Analyst", "A", "SQL is required. Python is a plus."), job("Analyst", "B", "SQL and Excel")]
+        analysis = analyze_jobs(jobs, {"SQL"}, threshold=1)
+        target = next(row for row in analysis["jobs"] if row["job"]["company_name"] == "A")
+        self.assertEqual(target["required_skills"], {frozenset({"SQL"})})
+        self.assertIn("Python", target["nice_to_have"])
+
     def test_only_listing_alternatives_are_interchangeable(self):
         self.assertEqual(coverage(requirements_from_text("React is mandatory."), {"Angular"}), 0)
         self.assertEqual(coverage(requirements_from_text("AWS is required."), {"Azure"}), 0)
