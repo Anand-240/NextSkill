@@ -5,7 +5,7 @@ import json
 from resume_pdf import extract_pdf_text
 
 from engine import (DEFAULT_THRESHOLD, DICTIONARY_WARNING, ROLE_FIT_WARNING, ROOT, SerpClient,
-                    hours_range, is_old, no_unlock_message, optional_serpapi_key,
+                    headline_picks, hours_range, is_old, no_unlock_message, optional_serpapi_key,
                     posted_text, run)
 
 st.set_page_config(page_title="NextSkill", page_icon="🎯", layout="wide")
@@ -161,6 +161,26 @@ if result:
             st.write("The top scored skill stays first in every checked setting.")
     if not result["ranked"]:
         st.info(no_unlock_message(result))
+    picks = headline_picks(result["ranked"])
+
+    def pick_summary(row):
+        return (f"+{row['unlocked_count']} jobs · {hours_range(row['hours'])}" +
+                (f" · {row['score']:.2f} jobs per hour" if row["score"] is not None else ""))
+
+    if picks["same"]:
+        with st.container(border=True):
+            st.markdown(f"**Fastest win and biggest unlock: {picks['fastest']['display_skill']}**")
+            st.caption(pick_summary(picks["fastest"]))
+    elif picks["biggest"]:
+        columns = st.columns(2)
+        for column, key, label, note in ((columns[0], "fastest", "Fastest win", "Most jobs unlocked per learning hour"),
+                                         (columns[1], "biggest", "Biggest unlock", "Most jobs unlocked, regardless of hours")):
+            row = picks[key]
+            with column.container(border=True):
+                st.markdown(f"**{label}: {row['display_skill']}**" if row else f"**{label}: unavailable**")
+                st.caption(f"{note}. " + (pick_summary(row) if row else "No course hours were found."))
+    if picks["biggest"]:
+        st.caption("A short course can win per hour even if it opens fewer jobs. Compare both before choosing.")
     for index, item in enumerate(result["ranked"]):
         with st.container(border=True):
             display_skill = item.get("display_skill", item["skill"])

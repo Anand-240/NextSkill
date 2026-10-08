@@ -15,7 +15,7 @@ from engine import (DEFAULT_THRESHOLD, SerpClient, age_days, analyze_jobs, canon
                     no_unlock_message, MOSTLY_READY_MESSAGE, optional_serpapi_key,
                     greedy_opportunity, exact_opportunity, opportunity_quality,
                     bootstrap_confidence, confidence_label, skill_distance,
-                    listing_age_days, retrieval_date, stamp_response)
+                    listing_age_days, retrieval_date, stamp_response, headline_picks)
 from skills import GENERIC
 from skills import extract_skills
 
@@ -109,6 +109,20 @@ class EngineTests(unittest.TestCase):
         hours, chosen, confidence = select_course_videos(videos, "API full course")
         self.assertEqual((hours, len(chosen), confidence), (1, 1, "low"))
         self.assertEqual(select_course_videos(videos[:2], "API full course"), (None, [], "low"))
+
+    def test_headline_picks_separate_fastest_win_and_biggest_unlock(self):
+        rows = [{"skill": "REST API", "unlocked_count": 7, "score": 2.2},
+                {"skill": "React", "unlocked_count": 10, "score": 1.9},
+                {"skill": "Angular", "unlocked_count": 12, "score": None}]
+        picks = headline_picks(rows)
+        self.assertEqual((picks["fastest"]["skill"], picks["biggest"]["skill"], picks["same"]),
+                         ("REST API", "Angular", False))
+        picks = headline_picks(rows[:2])
+        self.assertEqual((picks["fastest"]["skill"], picks["biggest"]["skill"]), ("REST API", "React"))
+        same = headline_picks([{"skill": "SQL", "unlocked_count": 8, "score": 2.0},
+                               {"skill": "Excel", "unlocked_count": 8, "score": 1.0}])
+        self.assertEqual((same["fastest"]["skill"], same["biggest"]["skill"], same["same"]), ("SQL", "SQL", True))
+        self.assertEqual(headline_picks([]), {"fastest": None, "biggest": None, "same": False})
 
     def test_two_skill_plan_and_limited_data(self):
         jobs = [job("A", "One", "SQL, Excel, Python"), job("B", "Two", "SQL, Excel, Python"),

@@ -33,6 +33,26 @@ class PresentationTests(unittest.TestCase):
                              "Your profile matches 5 of 19 listings found now in Bengaluru.")
             self.assertNotIn("ready for", app.subheader[0].value)
 
+    def test_fastest_win_and_biggest_unlock_cards(self):
+        with patch("engine.optional_serpapi_key", return_value=None), \
+             patch("engine._request", side_effect=AssertionError("network requested")):
+            app = AppTest.from_file(str(ROOT / "app.py"), default_timeout=120).run()
+            self.assertFalse(app.exception)
+            text = "\n".join(item.value for item in app.markdown)
+            self.assertIn("**Fastest win: REST API**", text)
+            self.assertIn("**Biggest unlock: React**", text)
+            self.assertNotIn("Fastest win and biggest unlock", text)
+            captions = "\n".join(item.value for item in app.caption)
+            self.assertIn("A short course can win per hour even if it opens fewer jobs. Compare both before choosing.", captions)
+            result = app.session_state["result"]
+            single = {**result, "ranked": result["ranked"][:1]}
+            with patch("engine.run", return_value=single):
+                app.sidebar.button[0].click().run()
+            self.assertFalse(app.exception)
+            text = "\n".join(item.value for item in app.markdown)
+            self.assertIn("**Fastest win and biggest unlock: REST API**", text)
+            self.assertNotIn("**Biggest unlock: ", text)
+
     def test_readme_matcher_claim_retains_sample_size_and_recall_limit(self):
         readme = (ROOT / "README.md").read_text()
         self.assertIn("16 of 20 sampled matches were correct; after filters, the 16 retained matches were all correct; recall not measured", readme)

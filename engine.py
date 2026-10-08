@@ -575,6 +575,15 @@ def rank_skills(analysis: dict, client: SerpClient, include_hindi: bool = False,
     return sorted(ranked, key=lambda row: (row["score"] is None, -(row["score"] or 0), -row["unlocked_count"], row["skill"]))
 
 
+def headline_picks(ranked: list[dict]) -> dict:
+    """Fastest win is the best jobs per hour; biggest unlock ignores hours."""
+    fastest = next((row for row in ranked if row["score"] is not None), None)
+    biggest = min(ranked, key=lambda row: (-row["unlocked_count"], row["score"] is None,
+                                           -(row["score"] or 0), row["skill"])) if ranked else None
+    return {"fastest": fastest, "biggest": biggest,
+            "same": fastest is not None and biggest is not None and fastest["skill"] == biggest["skill"]}
+
+
 def two_skill_plan(analysis: dict, hours_by_skill: dict[str, float | None] | None = None,
                    videos_by_skill: dict[str, list[dict]] | None = None) -> dict | None:
     pair = analysis.get("pair")
