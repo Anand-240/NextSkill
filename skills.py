@@ -54,6 +54,7 @@ _TERM_GUARDS = {"Express": r"(?<!American )"}
 # A named stack stands for each of its member skills.
 STACKS = {"MERN": ("MongoDB", "Express.js", "React", "Node.js"),
           "MEAN": ("MongoDB", "Express.js", "Angular", "Node.js")}
+_LIST_LANGUAGE = re.compile(r"(?:^|[,|/;:(]\s*)(C|R|Go)(?=\s*(?:[,|/;)]|$))")
 _STACK_PATTERN = re.compile(r"(?<!\w)(?:MERN|[Mm]ern|MEAN)(?:\s+[Ss]tack)?(?!\w)")
 GENERIC = {"Data Analysis", "Business Intelligence", "Digital Marketing", "Graphic Design",
            "Compliance", "Machine Learning", "Communication", "Problem Solving",
@@ -76,7 +77,7 @@ _CHAIN = r"(?:(?:" + "|".join(re.escape(term) for term in _ALL_TERMS) + r")(?:\s
 # "no Tableau", "not Angular", "without SQL or Python", "currently learning Power BI".
 _SHORT_NEGATION = re.compile(
     r"(?:\b(?:no|not|without)|(?<!machine )(?<!deep )(?<!e-)(?<!reinforcement )(?<!transfer )"
-    r"\b(?:currently\s+|still\s+)?learning)\s+(?:(?:any|prior|much|formal|real)\s+)?" + _CHAIN + r"$", re.I)
+    r"\b(?:currently\s+|still\s+)?learning)(?:\s*[:\-]\s*|\s+)(?:(?:any|prior|much|formal|real)\s+)?" + _CHAIN + r"$", re.I)
 
 _BOUNDARY = re.compile(r"(?<=[.!?;])\s+|\n+|[•●▪]|\b(?:but|however|whereas|although|yet)\b", re.I)
 _NEGATION = re.compile(
@@ -152,6 +153,11 @@ def skill_mentions(text: str, skip_headings: bool = True) -> list[tuple[str, int
                     if name == "Compliance" and re.search(r"\bvendor\s*$", left):
                         continue
                     found.add((name, start + match.start(), start + match.end()))
+        if not skip_headings and any(item[1] >= start and item[2] <= end for item in found):
+            # In a resume skills list, a bare "C", "R" or "Go" item beside other skills is a language.
+            for match in _LIST_LANGUAGE.finditer(segment):
+                if not negated_mention(segment, match.start(1), match.end(1)):
+                    found.add((match.group(1), start + match.start(1), start + match.end(1)))
         for match in _STACK_PATTERN.finditer(segment):
             if negated_mention(segment, match.start(), match.end()):
                 continue
