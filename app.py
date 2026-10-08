@@ -1,5 +1,8 @@
 """Run with: streamlit run nextskill/app.py"""
 import altair as alt
+# Import pandas fully before any chart: Altair only looks it up in sys.modules, and on a cold
+# server Streamlit may still be importing it in another thread when a cached result returns fast.
+import pandas  # noqa: F401
 import streamlit as st
 import hashlib
 from resume_pdf import extract_pdf_text
