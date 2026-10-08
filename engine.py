@@ -10,6 +10,7 @@ import random
 import re
 import statistics
 from collections import Counter
+from datetime import date, datetime, timezone
 from difflib import SequenceMatcher
 from functools import lru_cache
 from pathlib import Path
@@ -73,6 +74,29 @@ def _write_json(path: Path, data) -> None:
     temp.replace(path)
 
 
+def retrieval_date(data: dict) -> date | None:
+    raw = data.get("_retrieved_at") or (data.get("search_metadata") or {}).get("created_at")
+    if not raw:
+        return None
+    try:
+        stamp = datetime.fromisoformat(str(raw).replace(" UTC", "+00:00").replace("Z", "+00:00"))
+        return stamp.astimezone(timezone.utc).date() if stamp.tzinfo else stamp.date()
+    except ValueError:
+        return None
+
+
+def stamp_response(data: dict, fresh: bool = False) -> dict:
+    """Preserve the source retrieval time; only a new response may use the clock."""
+    stamp = data.get("_retrieved_at") or (data.get("search_metadata") or {}).get("created_at")
+    if not stamp and fresh:
+        stamp = datetime.now(timezone.utc).isoformat()
+    return {**data, "_retrieved_at": stamp} if stamp else data
+
+
+def read_response(path: Path) -> dict:
+    return stamp_response(json.loads(path.read_text()))
+
+
 def _request(endpoint: str, params: dict, key: str) -> dict:
     try:
         with urlopen(f"https://serpapi.com/{endpoint}?{urlencode({**params, 'api_key': key})}", timeout=75) as response:
@@ -112,16 +136,16 @@ class SerpClient:
         fixture = self._fixture(params, page)
         if fixture and fixture.exists():
             self.replay.append({"query": dict(params), "source": "demo"})
-            return json.loads(fixture.read_text())
+            return read_response(fixture)
         digest = hashlib.sha256(json.dumps(params, sort_keys=True).encode()).hexdigest()[:20]
         demo_path = DEMO_DATA / f"search_{digest}.json"
         if self.use_fixtures and demo_path.exists():
             self.replay.append({"query": dict(params), "source": "demo"})
-            return json.loads(demo_path.read_text())
+            return read_response(demo_path)
         path = self.cache_dir / f"search_{digest}.json"
         if not self.use_fixtures and path.exists():
             self.replay.append({"query": dict(params), "source": "cache"})
-            return json.loads(path.read_text())
+            return read_response(path)
         if self.offline or self.cache_only:
             self.replay.append({"query": dict(params), "source": "cache missing"})
             return {}
@@ -133,7 +157,7 @@ class SerpClient:
         ledger["attempts"].append({"engine": params.get("engine"), "query": params.get("q") or params.get("search_query"), "location": params.get("location")})
         _write_json(ledger_path, ledger)  # Count first: timeouts may consume credit.
         self.replay.append({"query": dict(params), "source": "live"})
-        data = _request("search.json", params, self.key or _load_key())
+        data = stamp_response(_request("search.json", params, self.key or _load_key()), fresh=True)
         _write_json(path, data)
         return data
 
@@ -185,7 +209,8 @@ def fetch_jobs(role: str, city: str, pages: int = 3, client: SerpClient | None =
             batch = data.get("jobs_results") or []
             if client.replay:
                 client.replay[-1].update({"variant": variant, "listing_count": len(batch)})
-            jobs.extend({**job, "_search_queries": [search_term]} for job in batch)
+            retrieved = stamp_response(data).get("_retrieved_at")
+            jobs.extend({**job, "_search_queries": [search_term], "_retrieved_at": retrieved} for job in batch)
             token = (data.get("serpapi_pagination") or {}).get("next_page_token")
             if not token:
                 break
@@ -233,8 +258,16 @@ def age_days(posted: str) -> float | None:
     return None
 
 
-def is_old(job: dict) -> bool:
+def listing_age_days(job: dict, today: date | None = None) -> float | None:
     age = age_days(posted_text(job))
+    retrieved = retrieval_date(job)
+    if age is not None and retrieved is not None:
+        age += max(0, ((today or datetime.now(timezone.utc).date()) - retrieved).days)
+    return age
+
+
+def is_old(job: dict, today: date | None = None) -> bool:
+    age = listing_age_days(job, today)
     return age is not None and age > 30
 
 
@@ -286,9 +319,10 @@ def experience_evidence(job: dict) -> tuple[int, str]:
         evidence.append((years, description[phrase_start:phrase_end].strip()))
     if evidence:
         return max(evidence, key=lambda item: item[0])
-    entry = re.search(r"\b(?:freshers?(?:\s+welcome)?|entry[ -]level)\b", description, re.I)
-    if entry:
-        return 0, entry.group(0)
+    for entry in re.finditer(r"\b(?:freshers?\s+(?:welcome|can apply|may apply|eligible)|"
+                             r"experience\s*:\s*fresher|entry[ -]level)\b", description, re.I):
+        if not re.search(r"\b(?:no|not)\s+(?:an?\s+)?$", description[max(0, entry.start() - 20):entry.start()], re.I):
+            return 0, entry.group(0)
     title_match = SENIOR_TITLE.search(title)
     if title_match:
         word = title_match.group(0).lower()
@@ -361,15 +395,43 @@ def parse_duration(value: object) -> float | None:
     return seconds / 3600
 
 
-def select_course_videos(results: list[dict], query: str) -> tuple[float | None, list[dict], str]:
+VIDEO_LANGUAGES = {
+    "english": r"english|अंग्रेजी",
+    "hindi": r"hindi|हिंदी|हिन्दी",
+    "tamil": r"tamil|தமிழ்", "telugu": r"telugu|తెలుగు",
+    "kannada": r"kannada|ಕನ್ನಡ", "malayalam": r"malayalam|മലയാളം",
+    "bengali": r"bengali|bangla|বাংলা", "marathi": r"marathi|मराठी",
+    "gujarati": r"gujarati|ગુજરાતી", "punjabi": r"punjabi|ਪੰਜਾਬੀ",
+    "odia": r"odia|oriya|ଓଡ଼ିଆ", "assamese": r"assamese|অসমীয়া",
+    "urdu": r"urdu|اردو", "nepali": r"nepali|नेपाली", "bhojpuri": r"bhojpuri|भोजपुरी",
+    "spanish": r"spanish|español", "french": r"french|français",
+    "german": r"german|deutsch", "portuguese": r"portuguese|português",
+    "russian": r"russian|русский", "arabic": r"arabic|العربية",
+    "japanese": r"japanese|日本語", "korean": r"korean|한국어",
+    "chinese": r"chinese|中文", "indonesian": r"indonesian|bahasa indonesia",
+}
+
+
+def indicated_languages(text: str) -> set[str]:
+    return {language for language, pattern in VIDEO_LANGUAGES.items()
+            if re.search(r"(?<!\w)(?:" + pattern + r")(?!\w)", text, re.I)}
+
+
+def select_course_videos(results: list[dict], query: str,
+                         requested_languages: set[str] | None = None) -> tuple[float | None, list[dict], str]:
     """Prefer named full courses >=1h; weaker >=30m fallback is labelled."""
     parsed = []
+    allowed = requested_languages if requested_languages is not None else {"english"} | indicated_languages(query)
     for item in results:
         hours = parse_duration(item.get("length"))
         if hours is None:
             continue
         channel = item.get("channel") or {}
-        parsed.append({"title": item.get("title") or "untitled", "channel": channel.get("name") if isinstance(channel, dict) else str(channel),
+        channel_name = str(channel.get("name") or "") if isinstance(channel, dict) else str(channel)
+        title = item.get("title") or "untitled"
+        if indicated_languages(title + " " + channel_name) - allowed:
+            continue
+        parsed.append({"title": title, "channel": channel_name,
                        "duration": item.get("length"), "hours": hours, "link": item.get("link") or "", "language_query": query})
     primary = [video for video in parsed if video["hours"] >= 1 and COURSE_TITLE.search(video["title"])]
     if len(primary) >= 2:
@@ -389,7 +451,7 @@ def course_videos(skill: str, client: SerpClient, include_hindi: bool = False) -
         data = client.search({"engine": "youtube", "search_query": query, "gl": "in", "hl": "en", "sp": LONG_VIDEO_SP})
         _check_error(data)
         results.extend(data.get("video_results") or [])
-    return select_course_videos(results, ", ".join(queries))
+    return select_course_videos(results, ", ".join(queries), {"english", "hindi"} if include_hindi else {"english"})
 
 
 def select_core_skills(jobs: list[dict], share: float = 0.25) -> set[str]:
@@ -665,7 +727,9 @@ def _bootstrap_cached(snapshot: tuple, user_skills: tuple[str, ...], measured_ho
     return tuple(sorted(winners.items(), key=lambda row: (-row[1], row[0])))
 
 
-def confidence_label(share: float) -> str:
+def confidence_label(share: float, robustness_share: float | None = None) -> str:
+    if robustness_share is not None:
+        share = min(share, robustness_share)
     return "Strong" if share >= .85 else "Likely" if share >= .60 else "Uncertain"
 
 
@@ -689,22 +753,36 @@ def bootstrap_confidence(analysis: dict, hours_by_skill: dict[str, float | None]
 def assess_robustness(jobs: list[dict], user_skills: set[str], top_skill: str | None,
                       hours_by_skill: dict[str, float | None], exclude_old: bool = False,
                       core_share: float = .25, experience_level: str | None = None,
-                      base_threshold: float = .5) -> dict:
-    """Recount unlocks at three thresholds and rescore at two study-time scales."""
-    if not top_skill:
-        return {"label": "Changes with settings", "changes": ["No scored top pick"]}
+                      base_threshold: float = .5, samples: int = 500, seed: int = 2026,
+                      learning_limit: int = 5) -> dict:
+    """Independently perturb each measured skill's hours across threshold settings."""
+    if samples < 1:
+        raise ValueError("samples must be positive")
+    randomizer = random.Random(seed)
+    measured = sorted(skill for skill, hours in hours_by_skill.items() if hours and hours > 0)
+    draws = [{skill: hours_by_skill[skill] * randomizer.uniform(.75, 1.5) for skill in measured}
+             for _ in range(samples)]
     changes = []
-    scenarios = [(threshold, 1.0, f"threshold {threshold:.1f}") for threshold in (.4, .5, .6)]
-    scenarios += [(base_threshold, factor, f"hours ×{factor:.1f}") for factor in (.5, 1.5)]
-    for threshold, factor, label in scenarios:
+    wins = Counter()
+    by_threshold = []
+    for threshold in sorted({.4, .5, .6, round(base_threshold, 10)}):
         analysis = analyze_jobs(jobs, user_skills, threshold, exclude_old, core_share, experience_level)
-        scored = [(len(analysis["unlocked"].get(skill, [])) / (hours * factor),
-                   len(analysis["unlocked"].get(skill, [])), skill)
-                  for skill, hours in hours_by_skill.items() if hours and skill in analysis["candidates"]]
-        winner = max(scored, key=lambda row: (row[0], row[1], row[2]))[2] if scored else None
-        if winner != top_skill:
-            changes.append(f"{label}: {winner or 'no scored pick'}")
-    return {"label": "Changes with settings" if changes else "Consistent across checked settings", "changes": changes}
+        candidates = [skill for skill in analysis["candidates"][:learning_limit] if skill in measured]
+        counts = {skill: len(analysis["unlocked"][skill]) for skill in candidates}
+        local = Counter()
+        for hours in draws:
+            winner = min(candidates, key=lambda skill: (-counts[skill] / hours[skill], -counts[skill], skill)) if candidates else "No scored pick"
+            local[winner] += 1
+        wins.update(local)
+        share = local.get(top_skill, 0) / samples if top_skill else 0.0
+        by_threshold.append({"threshold": threshold, "top_share": share, "wins": dict(sorted(local.items()))})
+        if share < 1:
+            alternatives = ", ".join(f"{skill}: {count / samples:.1%}" for skill, count in sorted(local.items()) if skill != top_skill)
+            changes.append(f"Threshold {threshold:g}: top pick retained {share:.1%}; {alternatives}")
+    total = samples * len(by_threshold)
+    return {"label": "Changes with settings" if changes else "Consistent across checked settings", "changes": changes,
+            "top_share": wins.get(top_skill, 0) / total if top_skill else 0.0, "wins": dict(sorted(wins.items())),
+            "samples": total, "draws_per_threshold": samples, "by_threshold": by_threshold, "seed": seed}
 
 
 def run(role: str, city: str, resume: str = "", manual_skills: str = "", threshold: float = DEFAULT_THRESHOLD,
@@ -735,7 +813,7 @@ def run(role: str, city: str, resume: str = "", manual_skills: str = "", thresho
             hours[skill], _, _ = course_videos(skill, cached_client, include_hindi)
     top_skill = ranked[0]["skill"] if ranked and ranked[0]["score"] is not None else None
     threshold_check = assess_robustness(jobs, user, top_skill, hours, exclude_old,
-                                        core_share, experience_level, threshold)
+                                        core_share, experience_level, threshold, learning_limit=learning_limit)
     bootstrap = bootstrap_confidence(analysis, hours, top_skill, learning_limit=learning_limit)
     opportunity = {"steps": greedy_opportunity(analysis, hours),
                    "quality": opportunity_quality(analysis, hours),
@@ -745,7 +823,10 @@ def run(role: str, city: str, resume: str = "", manual_skills: str = "", thresho
     analysis.update({"role": role, "city": city, "user_skills": sorted(user), "ranked": ranked,
                      "two_skill_plan": two_skill_plan(analysis, hours, videos), "replay": client.replay,
                      "role_fit_warning": has_role_fit_warning(analysis),
-                     "robustness": {"label": bootstrap["label"], "changes": threshold_check["changes"],
+                     "robustness": {**threshold_check,
+                                    "label": confidence_label(bootstrap["top_share"], threshold_check["top_share"]),
                                     "threshold_label": threshold_check["label"]},
+                     "retrieved_dates": sorted({retrieval_date(job).isoformat() for job in analysis["all_listings"]
+                                                 if retrieval_date(job) is not None}),
                      "bootstrap": bootstrap, "opportunity": opportunity, "distance": distances})
     return analysis

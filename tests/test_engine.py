@@ -2,6 +2,7 @@ import unittest
 import tempfile
 from io import BytesIO
 from pathlib import Path
+from datetime import date
 from unittest.mock import patch
 from pypdf import PdfWriter
 from resume_pdf import extract_pdf_text
@@ -13,7 +14,8 @@ from engine import (DEFAULT_THRESHOLD, SerpClient, age_days, analyze_jobs, canon
                     listing_confidence, dictionary_coverage_warning, fresher_queries, fetch_jobs,
                     no_unlock_message, MOSTLY_READY_MESSAGE, optional_serpapi_key,
                     greedy_opportunity, exact_opportunity, opportunity_quality,
-                    bootstrap_confidence, confidence_label, skill_distance)
+                    bootstrap_confidence, confidence_label, skill_distance,
+                    listing_age_days, retrieval_date, stamp_response)
 from skills import GENERIC
 from skills import extract_skills
 
@@ -78,6 +80,28 @@ class EngineTests(unittest.TestCase):
         hours, selected, confidence = select_course_videos(fallback, "SQL full course for beginners")
         self.assertEqual((hours, len(selected), confidence), (1.375, 2, "low"))
 
+    def test_course_language_filters_titles_and_channels_before_estimating(self):
+        videos = [{"title": "SQL full course Tamil", "length": "1:00:00"},
+                  {"title": "SQL complete course", "channel": {"name": "Telugu Learning"}, "length": "2:00:00"},
+                  {"title": "SQL full course Hindi", "length": "3:00:00"},
+                  {"title": "SQL full course", "channel": {"name": "English Lessons"}, "length": "4:00:00"},
+                  {"title": "SQL complete course English", "length": "6:00:00"}]
+        hours, chosen, confidence = select_course_videos(videos, "SQL full course for beginners")
+        self.assertEqual((hours, len(chosen), confidence), (5, 2, "standard"))
+        self.assertEqual(select_course_videos(videos, "SQL tutorial in Hindi")[0], 4)
+        for language in ("Tamil", "Telugu", "Kannada", "Malayalam", "Bengali", "Marathi", "Hindi",
+                         "Gujarati", "Punjabi", "Urdu", "Spanish", "French", "हिंदी", "தமிழ்"):
+            result = select_course_videos([{"title": f"SQL course {language}", "length": "1:00:00"}], "SQL course")
+            self.assertIsNone(result[0], language)
+
+    def test_language_filter_low_confidence_cannot_restore_excluded_courses(self):
+        videos = [{"title": "API full course Tamil", "length": "2:00:00"},
+                  {"title": "API full course Hindi", "length": "3:00:00"},
+                  {"title": "API full course English", "length": "1:00:00"}]
+        hours, chosen, confidence = select_course_videos(videos, "API full course")
+        self.assertEqual((hours, len(chosen), confidence), (1, 1, "low"))
+        self.assertEqual(select_course_videos(videos[:2], "API full course"), (None, [], "low"))
+
     def test_two_skill_plan_and_limited_data(self):
         jobs = [job("A", "One", "SQL, Excel, Python"), job("B", "Two", "SQL, Excel, Python"),
                 job("C", "Three", "SQL, Tableau, Java")]
@@ -108,6 +132,33 @@ class EngineTests(unittest.TestCase):
         b = {**a, "title": "Senior Data Analyst", "via": "source B"}
         self.assertEqual(len(deduplicate([a, b])), 1)
         self.assertEqual(len(analyze_jobs([a, job("Old", "Other", "SQL, Excel, Python", "6 weeks ago")], set(), exclude_old=True)["jobs"]), 1)
+
+    def test_cached_posted_age_includes_elapsed_days(self):
+        listing = {**job("A", "One", "SQL", "3 days ago"), "_retrieved_at": "2026-09-01 10:00:00 UTC"}
+        self.assertEqual(listing_age_days(listing, date(2026, 9, 10)), 12)
+        self.assertFalse(is_old(listing, date(2026, 9, 28)))
+        self.assertTrue(is_old(listing, date(2026, 9, 29)))
+        self.assertIsNone(listing_age_days({**listing, "detected_extensions": {"posted_at": "unknown"}}, date(2026, 10, 8)))
+        self.assertIsNone(retrieval_date({"_retrieved_at": "invalid"}))
+        self.assertEqual(stamp_response({}), {})
+        old = {**listing, "_retrieved_at": "2020-01-01T00:00:00+00:00"}
+        self.assertEqual(analyze_jobs([old], {"SQL"}, exclude_old=True)["eligible_count"], 0)
+
+    def test_retrieval_time_is_persisted_and_preserved_on_cache_replay(self):
+        response = {"search_metadata": {"created_at": "2026-09-01 10:00:00 UTC"},
+                    "jobs_results": [job("A", "One", "SQL")]}
+        with tempfile.TemporaryDirectory() as directory, patch("engine._request", return_value=response) as request:
+            client = SerpClient(cache_dir=Path(directory))
+            client.key = "unit-test-placeholder"
+            first = fetch_jobs("Analyst", "Noida", pages=1, client=client)
+            self.assertEqual(retrieval_date(first[0]), date(2026, 9, 1))
+            self.assertEqual(request.call_count, 1)
+            saved = __import__("json").loads(next(Path(directory).glob("search_*.json")).read_text())
+            self.assertEqual(saved["_retrieved_at"], response["search_metadata"]["created_at"])
+            with patch("engine._request", side_effect=AssertionError("network requested")):
+                replay = fetch_jobs("Analyst", "Noida", pages=1, client=client)
+            self.assertEqual(replay[0]["_retrieved_at"], first[0]["_retrieved_at"])
+        self.assertIsNotNone(retrieval_date(stamp_response({}, fresh=True)))
 
     def test_fixture_replay_has_no_network(self):
         result = run("Data Analyst", "Noida", "Excel SQL Python", pages=2, offline=True, client=SerpClient(offline=True))
@@ -191,6 +242,20 @@ class EngineTests(unittest.TestCase):
         sensitive = assess_robustness(jobs, {"SQL"}, "Excel", {"Excel": 4.0, "Python": 1.0}, core_share=.25)
         self.assertEqual(sensitive["label"], "Changes with settings")
         self.assertTrue(any("Python" in change for change in sensitive["changes"]))
+
+    def test_hours_variation_is_independent_seeded_and_affects_confidence(self):
+        jobs = [job("A", "One", "SQL, Excel"), job("B", "Two", "SQL, Python")]
+        first = assess_robustness(jobs, set(), "Excel", {"Excel": 2, "Python": 2}, samples=80, seed=7)
+        second = assess_robustness(jobs, set(), "Excel", {"Python": 2, "Excel": 2}, samples=80, seed=7)
+        self.assertEqual(first, second)
+        self.assertEqual(first["samples"], 240)
+        self.assertEqual(sum(first["wins"].values()), 240)
+        self.assertGreater(first["wins"]["Excel"], 0)
+        self.assertGreater(first["wins"]["Python"], 0)
+        self.assertLess(first["top_share"], 1)
+        self.assertEqual(confidence_label(.95, .7), "Likely")
+        self.assertEqual(confidence_label(.95, .5), "Uncertain")
+        self.assertEqual(confidence_label(.9, .9), "Strong")
 
     def test_listing_confidence_boundaries(self):
         self.assertEqual([listing_confidence(n) for n in (0, 11, 12, 24, 25)],
@@ -281,6 +346,8 @@ class EngineTests(unittest.TestCase):
         for description, minimum in [("1-3 years", 1), ("3+ years", 3), ("Freshers welcome", 0),
                                      ("0-1 years", 0), ("entry level", 0)]:
             self.assertEqual(experience_evidence(job("Senior Manager", "A", description))[0], minimum)
+        for description in ("Not an entry level role", "No freshers welcome"):
+            self.assertEqual(experience_evidence(job("Senior Analyst", "A", description))[0], 3)
         jobs = [job("A", "One", "Experience: 1-3 years. SQL"),
                 job("B", "Two", "Experience: 3+ years. SQL"),
                 job("C", "Three", "Experience: 7+ years. SQL")]
@@ -300,8 +367,10 @@ class EngineTests(unittest.TestCase):
             result = run("Data Analyst", "Noida", "Excel, basic Python", client=client,
                          experience_level="Fresher")
             self.assertEqual(result["eligible_count"], 20)
-            self.assertEqual(result["ranked"][0]["skill"], "SQL")
+            self.assertEqual(result["ranked"][0]["skill"], "Data Cleaning")
             self.assertIsNotNone(result["ranked"][0]["hours"])
+            self.assertEqual(result["robustness"]["label"], confidence_label(
+                result["bootstrap"]["top_share"], result["robustness"]["top_share"]))
             self.assertTrue(all(event["source"] in {"demo", "cache missing"} for event in result["replay"]))
 
     def test_batch_d_courses_are_bundled_for_demo_mode(self):

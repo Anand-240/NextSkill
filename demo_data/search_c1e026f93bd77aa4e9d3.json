@@ -24,5 +24,6 @@
   "search_information": {
     "jobs_results_state": "Fully empty"
   },
-  "error": "Google hasn't returned any results for this query."
+  "error": "Google hasn't returned any results for this query.",
+  "_retrieved_at": "2026-10-07 19:48:48 UTC"
 }
