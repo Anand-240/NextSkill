@@ -1,46 +1,79 @@
 {
-  "note": "Offline re-run of both saved demos with SerpApi requests blocked. Seed 2026, threshold 0.5, core share 0.25.",
-  "before_commit": "d63e38d",
-  "after_commit": "the commit that last changed this file",
+  "note": "Offline re-run of both saved demos with SerpApi requests blocked. Seed 2026, threshold 0.5, core share 0.25, Fresher.",
+  "before_commit": "0b70868",
+  "after_commit": "47ca7d1",
   "before": {
     "Bengaluru": {
-      "matches": 8,
+      "matches": 5,
       "scored": 19,
+      "eligible": 23,
       "fastest_win": "REST API",
       "biggest_unlock": "React",
-      "confidence": "Likely",
+      "confidence": "Uncertain",
       "ranked": [
         {
           "skill": "REST API",
-          "unlocked": 8,
+          "unlocked": 7,
           "hours": 3.12,
-          "jobs_per_hour": 2.565
-        },
-        {
-          "skill": "Responsive Design",
-          "unlocked": 6,
-          "hours": 2.8,
-          "jobs_per_hour": 2.142
+          "jobs_per_hour": 2.245
         },
         {
           "skill": "React",
-          "unlocked": 9,
+          "unlocked": 10,
           "hours": 5.09,
-          "jobs_per_hour": 1.767
+          "jobs_per_hour": 1.964
+        },
+        {
+          "skill": "Responsive Design",
+          "unlocked": 3,
+          "hours": 2.8,
+          "jobs_per_hour": 1.071
+        },
+        {
+          "skill": "Angular",
+          "unlocked": 4,
+          "hours": null,
+          "jobs_per_hour": null
         },
         {
           "skill": "Git",
-          "unlocked": 5,
+          "unlocked": 3,
           "hours": null,
           "jobs_per_hour": null
         }
       ],
-      "bootstrap_top_share": 0.772,
-      "hour_variation_top_share": 0.6613
+      "bootstrap_top_share": 0.63,
+      "hour_variation_top_share": 0.5893,
+      "two_skill_plan": {
+        "skills": [
+          "React",
+          "Responsive Design"
+        ],
+        "unlocked": 14,
+        "hours": 7.89
+      },
+      "greedy_vs_exact": [
+        [
+          5,
+          7,
+          7
+        ],
+        [
+          10,
+          12,
+          14
+        ],
+        [
+          15,
+          14,
+          14
+        ]
+      ]
     },
     "Noida": {
       "matches": 1,
       "scored": 17,
+      "eligible": 20,
       "fastest_win": "Data Cleaning",
       "biggest_unlock": "SQL",
       "confidence": "Uncertain",
@@ -77,7 +110,32 @@
         }
       ],
       "bootstrap_top_share": 0.492,
-      "hour_variation_top_share": 0.8613
+      "hour_variation_top_share": 0.8613,
+      "two_skill_plan": {
+        "skills": [
+          "SQL",
+          "Tableau"
+        ],
+        "unlocked": 10,
+        "hours": 10.35
+      },
+      "greedy_vs_exact": [
+        [
+          5,
+          2,
+          5
+        ],
+        [
+          10,
+          11,
+          11
+        ],
+        [
+          15,
+          12,
+          12
+        ]
+      ]
     }
   },
   "after": {

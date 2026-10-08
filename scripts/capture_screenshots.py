@@ -72,7 +72,12 @@ with sync_playwright() as playwright:
             page.wait_for_timeout(500)
     page.wait_for_timeout(500)
     if MODE in {"batch_b_replay", "batch_e_replay"}:
-        page.get_by_text("Search replay", exact=True).click()
+        # A click during a rerun can be lost, so retry until the expander shows its contents.
+        for _ in range(3):
+            page.locator("[data-testid=\"stExpander\"] summary").filter(has_text="Search replay").first.click()
+            page.wait_for_timeout(1500)
+            if page.get_by_text("Listing origins", exact=True).is_visible():
+                break
         page.get_by_text("Listing origins", exact=True).wait_for(timeout=30000)
     if page.locator('[data-testid="stException"]').count():
         raise RuntimeError("Streamlit rendered an exception instead of the demo")
