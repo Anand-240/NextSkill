@@ -1,0 +1,458 @@
+{
+  "search_metadata": {
+    "id": "6ac7f6bbf479a3d311003d76",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lobpHEU8u7-eaSNsZ-t4Loa0-SwNMjZU5_CJNcDIXNs/6ac7f6bbf479a3d311003d76.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lobpHEU8u7-eaSNsZ-t4Loa0-SwNMjZU5_CJNcDIXNs/6ac7f6bbf479a3d311003d76.md",
+    "created_at": "2026-10-08 20:02:03 UTC",
+    "processed_at": "2026-10-08 20:02:03 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=CSS+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/lobpHEU8u7-eaSNsZ-t4Loa0-SwNMjZU5_CJNcDIXNs/6ac7f6bbf479a3d311003d76.html",
+    "total_time_taken": 2.9
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "CSS revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 1229078,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "CSS in 5 minutes",
+      "link": "https://www.youtube.com/watch?v=Z4pCqK-V_Wo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Z4pCqK-V_Wo",
+      "video_id": "Z4pCqK-V_Wo",
+      "channel": {
+        "name": "Aaron Jack",
+        "link": "https://www.youtube.com/@AaronJack",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/40SE9hF9oDMoGjoKDdQEG8e6HJML5c_fVP40Vfm2hMrfkvqqMYrVCyPoGXlMFFNE89rN10EQJQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 329549,
+      "length": "8:16",
+      "description": "Freelance Coding is the way in 2024! Learn How: https://www.freemote.com/strategy https://instagram.com/aaronjack #coding ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1WW7jePFaOgb7MLzs5MxI0yw6MQ",
+        "rich": "https://i.ytimg.com/an_webp/Z4pCqK-V_Wo/mqdefault_6s.webp?du=3000&sqp=CLTZn9YG&rs=AOn4CLAf2bIVvCZW_Y2qrsSGzpPPfzzdZQ"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Learn CSS in 5 Minutes (Seriously)",
+      "link": "https://www.youtube.com/watch?v=tfzGsCxutWk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tfzGsCxutWk",
+      "video_id": "tfzGsCxutWk",
+      "channel": {
+        "name": "DevForge",
+        "link": "https://www.youtube.com/@devforgehq",
+        "thumbnail": "https://yt3.ggpht.com/VGC4iMxJiwApDL_mYPo3xarq_aZHAvtz7uk7kqb97m9l1X3XuJ1_b-alYzBQAgzt87AXHhxQgw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 39067,
+      "length": "5:00",
+      "description": "Learn CSS in this CSS tutorial for beginners! This CSS crash course is the best way to learn CSS fast. If you want to learn to code ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tfzGsCxutWk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGmuoy-hRbZbtdUtdIue_Cd0-4vw",
+        "rich": "https://i.ytimg.com/an_webp/tfzGsCxutWk/mqdefault_6s.webp?du=3000&sqp=CKPln9YG&rs=AOn4CLAhjIjqfjVdRPpeatiGhPt5cJRlKA"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "CSS in 7 Minutes 🔥",
+      "link": "https://www.youtube.com/watch?v=AP3_V7KXHs4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=AP3_V7KXHs4",
+      "video_id": "AP3_V7KXHs4",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 565734,
+      "length": "7:30",
+      "description": "Python Udemy Course: https://goharry.in/python Get this course at 90% Discount if you use this link CSS Tutorial in Hindi in 7 ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/AP3_V7KXHs4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAg5yYvy43wPY4DN5hKXjHtypYcHA",
+        "rich": "https://i.ytimg.com/an_webp/AP3_V7KXHs4/mqdefault_6s.webp?du=3000&sqp=CNTHn9YG&rs=AOn4CLBiUqF8Cx-eGm89TnDWo0CTVWoR_A"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "CSS Quick Crash Course: Learn or recap CSS in 5 minutes",
+      "link": "https://www.youtube.com/watch?v=de-mSWhy32s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=de-mSWhy32s",
+      "video_id": "de-mSWhy32s",
+      "channel": {
+        "name": "skill_session",
+        "link": "https://www.youtube.com/@skill_session",
+        "thumbnail": "https://yt3.ggpht.com/t0S2m16lPkULjv0GFy0mxmzmhejUI0Yb9GKG4SBlhyufJYRkMSXT54T6F4Fd7bzY0uuVfLGpMw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1362,
+      "length": "7:00",
+      "description": "If you need to learn CSS as fast as possible, or recap it after a while, this video will help you out. We start with the basics and walk ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/de-mSWhy32s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhDJgYAjnYf5Sd5nnKzeRwCwzpkQ",
+        "rich": "https://i.ytimg.com/an_webp/de-mSWhy32s/mqdefault_6s.webp?du=3000&sqp=CJjjn9YG&rs=AOn4CLBLDboQbieu_5yrsIYUfeHJ8dXZ4Q"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Subjects Revision for CSS 2026 || by Syed Fazil Bukhari #css #csspreparation #essay #english #psp",
+      "link": "https://www.youtube.com/watch?v=UIhF-FJBIgw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UIhF-FJBIgw",
+      "video_id": "UIhF-FJBIgw",
+      "channel": {
+        "name": "Unwinding CSS Academy (UCA)",
+        "link": "https://www.youtube.com/@UCAHyderabad",
+        "thumbnail": "https://yt3.ggpht.com/HHF6QrZ6pjDkJU22Dqn12lrwvB5yDo2Ggx5K1dCNzGzZXmYNzUMt-OlILzbW7ZUbcihP0d0qRw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1768,
+      "length": "5:15",
+      "description": "Aspirants of CSS 2027 , PMS , PCS Balochistan ( AC/SO , Tehsildar , DSP) can get benefits from these videos Also, To get Online ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/UIhF-FJBIgw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwPjleXqYSicAuYLNZCZOAkYRo_Q"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "CSS 2020 Strategy for Revision",
+      "link": "https://www.youtube.com/watch?v=nwA4WDxFm2c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nwA4WDxFm2c",
+      "video_id": "nwA4WDxFm2c",
+      "channel": {
+        "name": "CSS . Com",
+        "link": "https://www.youtube.com/@css.com1",
+        "thumbnail": "https://yt3.ggpht.com/aqavjUFV4wGsn6j_mwCjWUF3TfIokLhnfNLrDt_jIQO_tH5kxo4rSFIrY9lFXn8njvwGDDX9sw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 1697,
+      "length": "8:38",
+      "description": "for any Query whatsapp on his number Subscribe our channel for more videos #CSS #PMS #Tips #AsimRaza #Students #Essay ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/nwA4WDxFm2c/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAHmh8hzyjDprLoYR09BTY0QZcVw",
+        "rich": "https://i.ytimg.com/an_webp/nwA4WDxFm2c/mqdefault_6s.webp?du=3000&sqp=CLfan9YG&rs=AOn4CLBf1fIP1zhgN6IMSMKOacyjle2MVw"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "FULL HTML & CSS Course - All you need in 20 min.",
+      "link": "https://www.youtube.com/watch?v=jw6venGZB6w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jw6venGZB6w",
+      "video_id": "jw6venGZB6w",
+      "channel": {
+        "name": "Max Rohowsky",
+        "link": "https://www.youtube.com/@MaxRohowsky",
+        "thumbnail": "https://yt3.ggpht.com/0uB7qI7y-BikM1Zu9K9iPuV9zO9qpY94XUD-PMuEmRzX9OwVMMnNFttxWVSEcyqo4yjGYDaD=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1065,
+      "length": "18:39",
+      "description": "In this video I will cover the most important HTML and CSS topics that you need to build a website in 20 minutes! ⭐ Install Sublime ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jw6venGZB6w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmEV6RnGFW5prNYVqz19leXKaS8g",
+        "rich": "https://i.ytimg.com/an_webp/jw6venGZB6w/mqdefault_6s.webp?du=3000&sqp=CJjJn9YG&rs=AOn4CLBRcRaB4yYMeVRi4b9yZUHTDnReog"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "A CSS learning guide for beginners",
+      "link": "https://www.youtube.com/watch?v=aLzfFJb8rWo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aLzfFJb8rWo",
+      "video_id": "aLzfFJb8rWo",
+      "channel": {
+        "name": "Chai aur Code",
+        "link": "https://www.youtube.com/@chaiaurcode",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/6tLBV-DRVemxhmanuezR5HkHshX2g7Y46Rq8cysyO1V-nd2SaQ2Fi8cdgVM-n6v_8XZ5BEimxXI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 135459,
+      "length": "16:22",
+      "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nA big Picture overview of How to learn ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/aLzfFJb8rWo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3UR6zst4NVG1smPpJIGfR16XnTA",
+        "rich": "https://i.ytimg.com/an_webp/aLzfFJb8rWo/mqdefault_6s.webp?du=3000&sqp=CJjnn9YG&rs=AOn4CLB37yJ4kTJnCsLoBwgt6bLBOBLLGA"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "How to revise full course in last five days before CSS exam",
+      "link": "https://www.youtube.com/watch?v=pnNdCrXEfz8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pnNdCrXEfz8",
+      "video_id": "pnNdCrXEfz8",
+      "channel": {
+        "name": "CSS with Dr Hajra",
+        "link": "https://www.youtube.com/@CSSwithDrHajra",
+        "thumbnail": "https://yt3.ggpht.com/FZuRpakIy9e69ESbX8SEB7MibGjrZOW0NZ20MnLxgmoCh3noD-TJ0yH-ltplNgFVaNyrQM-Zwns=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 2637,
+      "length": "9:20",
+      "description": "On your request, here is the video on what to do in last 5 days before exam. #css #upsc #css2024 #cssessay #upscexam ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pnNdCrXEfz8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGnXjF45r7cttMFwRTPqd9F-70xQ",
+        "rich": "https://i.ytimg.com/an_webp/pnNdCrXEfz8/mqdefault_6s.webp?du=3000&sqp=CJa-n9YG&rs=AOn4CLBFTZdVeEepZR-Q1-mNHNsoq2surQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Learn CSS Positions in 4 minutes",
+      "link": "https://www.youtube.com/watch?v=YEmdHbQBCSQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YEmdHbQBCSQ",
+      "video_id": "YEmdHbQBCSQ",
+      "channel": {
+        "name": "Coding2GO",
+        "link": "https://www.youtube.com/@coding2go",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 489609,
+      "length": "4:38",
+      "description": "Beginner Tutorial for css position: static, absolute, relative, fixed, sticky and the properties top, left, right, bottom, z-index *visit our ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/YEmdHbQBCSQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEENQjZIlMYfE1-WnYZGhsKdX5qg",
+        "rich": "https://i.ytimg.com/an_webp/YEmdHbQBCSQ/mqdefault_6s.webp?du=3000&sqp=CITdn9YG&rs=AOn4CLD8Tjz2jGJccT6eWoV-uS9OwOQLwA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "REAL CSS Interview Questions",
+      "link": "https://www.youtube.com/watch?v=S5_1aDUeDok",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=S5_1aDUeDok",
+      "video_id": "S5_1aDUeDok",
+      "channel": {
+        "name": "Peter Elbaum",
+        "link": "https://www.youtube.com/@PeterElbaum",
+        "thumbnail": "https://yt3.ggpht.com/fS7XkrmQ8_29RrnN4M30DmjtiV6UEvoOPpaqKhZ6v4HwbLHmuEaLc-S1w9gInX8ROHC9d_jImw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 31660,
+      "length": "5:33",
+      "description": "Follow Me Online Here: My website/blog - https://peterelbaum.com ✉️ My newsletter (weekly on Sundays) ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/S5_1aDUeDok/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6DIO1PchFcWDElPsFCi55j9M9hw",
+        "rich": "https://i.ytimg.com/an_webp/S5_1aDUeDok/mqdefault_6s.webp?du=3000&sqp=CNTEn9YG&rs=AOn4CLCaQBolZfGeGnrPWrhcc0IG-evQEg"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "CSS - A Level Computer Science",
+      "link": "https://www.youtube.com/watch?v=QyVgPSa4Emw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QyVgPSa4Emw",
+      "video_id": "QyVgPSa4Emw",
+      "channel": {
+        "name": "Yatish Parmar",
+        "link": "https://www.youtube.com/@YatishParmar",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lHqbpu9Y_zTnGk0wWA4ZChDkHsvPZTMgs5S-KIlr6o5Cw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 891,
+      "length": "9:05",
+      "description": "Short video discussing how to use inline, internal and external CSS, classes, identifiers and pesudo-classes for A level Computer ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/QyVgPSa4Emw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNdrEMQpyegJzCV6pf1ySXCf1X3Q"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "HTML, CSS, JavaScript Explained in 5 minutes for beginners",
+      "link": "https://www.youtube.com/watch?v=30u5QmcjBwQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=30u5QmcjBwQ",
+      "video_id": "30u5QmcjBwQ",
+      "channel": {
+        "name": "How to Become a Developer",
+        "link": "https://www.youtube.com/@howtobecomeadeveloper",
+        "thumbnail": "https://yt3.ggpht.com/35pJPF0qKSnsQH8X2-SqVgC-Agbgg7O9FN3Lzreb5XgaFQpNRRLtxGDas64vpccQ18CRE_YHYQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1342,
+      "length": "5:03",
+      "description": "HTML, CSS, JavaScript explained in 5 minutes for beginners. What is HTML, CSS & JavaScript? In this video, you will learn ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/30u5QmcjBwQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCezUYWARyAima2gu0Ijy8-daJueA",
+        "rich": "https://i.ytimg.com/an_webp/30u5QmcjBwQ/mqdefault_6s.webp?du=3000&sqp=CNSwn9YG&rs=AOn4CLD61vX1UGhahx-XQaQZcOshtZeURg"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Learn Flexbox CSS in 8 minutes",
+      "link": "https://www.youtube.com/watch?v=phWxA89Dy94",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=phWxA89Dy94",
+      "video_id": "phWxA89Dy94",
+      "channel": {
+        "name": "Slaying The Dragon",
+        "link": "https://www.youtube.com/@slayingthedragon",
+        "thumbnail": "https://yt3.ggpht.com/AbpSwJHbvF8A5o1Urc2jFs-aI8R9UwI22-iVHHBt3rCMTBPbEEVeOQtZHNFiG5lt9WdOKN6W=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 2215432,
+      "length": "8:16",
+      "description": "Codepen for this project - https://codepen.io/ramzibach-the-styleful/pen/GRXLZEq?editors=1100 Blog post ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/phWxA89Dy94/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFRFEMRwCj9-LW-Z8tnuDvdLF00g",
+        "rich": "https://i.ytimg.com/an_webp/phWxA89Dy94/mqdefault_6s.webp?du=3000&sqp=CMTJn9YG&rs=AOn4CLBBf92yy3Z8XuEb9L8X5Bwt2R0frQ"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Tailwind.css in 13 minutes - A Crash Course",
+      "link": "https://www.youtube.com/watch?v=pB1oed_10IA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pB1oed_10IA",
+      "video_id": "pB1oed_10IA",
+      "channel": {
+        "name": "The Codeholic",
+        "link": "https://www.youtube.com/@TheCodeholic",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_limu16Q9lMj8k4k_ACSqUXKHZYsJothlIQl1qrzMFw7TE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 20900,
+      "length": "13:34",
+      "description": "In this video we'll learn what is Tailwind.css, what advantages it has, when and why you should use it. We will setup Tailwind.css ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pB1oed_10IA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCQLKNqHi8JccmPv_t9_z_7nR9Jg",
+        "rich": "https://i.ytimg.com/an_webp/pB1oed_10IA/mqdefault_6s.webp?du=3000&sqp=CMDAn9YG&rs=AOn4CLBXFa6mIABihvmk-g_AlqiG4Y5bVQ"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Learn HTML & CSS FAST | Step-by-Step Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=E9DL3G8sA5g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=E9DL3G8sA5g",
+      "video_id": "E9DL3G8sA5g",
+      "channel": {
+        "name": "DevForge",
+        "link": "https://www.youtube.com/@devforgehq",
+        "thumbnail": "https://yt3.ggpht.com/VGC4iMxJiwApDL_mYPo3xarq_aZHAvtz7uk7kqb97m9l1X3XuJ1_b-alYzBQAgzt87AXHhxQgw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 6655,
+      "length": "8:34",
+      "description": "Whether your goal is to become a hired front-end web developer or you simply want to learn to code, this comprehensive HTML ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/E9DL3G8sA5g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDuZhCHGyvnEL_RwtWKafWR666DA",
+        "rich": "https://i.ytimg.com/an_webp/E9DL3G8sA5g/mqdefault_6s.webp?du=3000&sqp=CKCqn9YG&rs=AOn4CLAtJqN1JI5Nl0IuLgNrx0WNmVSO0g"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "CSS Flexbox vs Grid - Are you using them right?",
+      "link": "https://www.youtube.com/watch?v=aEj6k-gi9-s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aEj6k-gi9-s",
+      "video_id": "aEj6k-gi9-s",
+      "channel": {
+        "name": "Coding2GO",
+        "link": "https://www.youtube.com/@coding2go",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 283777,
+      "length": "8:01",
+      "description": "In this video, you will finally understand when Flexbox is the right tool and when CSS Grid is a better choice. Most developers use ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/aEj6k-gi9-s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPZw4JBkFGnhEOsWOb1mkiQT4PVQ",
+        "rich": "https://i.ytimg.com/an_webp/aEj6k-gi9-s/mqdefault_6s.webp?du=3000&sqp=CJHqn9YG&rs=AOn4CLDkoyJiGez7hrX_FD4F4k-hdFzYmg"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Tailwind CSS in 6 Minutes 🔥",
+      "link": "https://www.youtube.com/watch?v=S1rix8GXErc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=S1rix8GXErc",
+      "video_id": "S1rix8GXErc",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 76970,
+      "length": "6:19",
+      "description": "Python Udemy Course: https://goharry.in/python Get this course at 90% Discount if you use this link Tailwind CSS history in Hindi: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/S1rix8GXErc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3zRWHzY4g_-67jibrJEOqbK4laA",
+        "rich": "https://i.ytimg.com/an_webp/S1rix8GXErc/mqdefault_6s.webp?du=3000&sqp=CO3hn9YG&rs=AOn4CLCHB8jk3083jEy2HBb8O69L7G7Drw"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Styling HTML tables with CSS -  Web Design/UX Tutorial",
+      "link": "https://www.youtube.com/watch?v=biI9OFH6Nmg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=biI9OFH6Nmg",
+      "video_id": "biI9OFH6Nmg",
+      "channel": {
+        "name": "dcode",
+        "link": "https://www.youtube.com/@dcode-software",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/G-iVDe5Z7UAblP36geH2sP0D9Zs-NGIHTYcmVj4GR7IZvOeG5c3nTIlS56y2ZxJZXFqD4ZWOpA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 556886,
+      "length": "9:52",
+      "description": "View the Code & CodePen: https://dcode.domenade.com/tutorials/how-to-style-html-tables-with-css In this video we're going to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/biI9OFH6Nmg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHyIHsVTbQFatuFLzXhnA5mQibUg",
+        "rich": "https://i.ytimg.com/an_webp/biI9OFH6Nmg/mqdefault_6s.webp?du=3000&sqp=CMCtn9YG&rs=AOn4CLDtovuhN6lGiIG4bUDtVZQ2mBMSkg"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Learn CSS Flexbox in 10 Minutes (Course)",
+      "link": "https://www.youtube.com/watch?v=ZcyRtOK-e6c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZcyRtOK-e6c",
+      "video_id": "ZcyRtOK-e6c",
+      "channel": {
+        "name": "CSSnippets",
+        "link": "https://www.youtube.com/@CSSnippets",
+        "thumbnail": "https://yt3.ggpht.com/Qyv-4G17sFt9ty67K71OEhiEQ9ryqsBlZPBMUU4ozcaPC1bke45Vm_qeGkVgCmglMLOrtj0qpA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 20947,
+      "length": "10:10",
+      "description": "Welcome to this CSS Flexbox Tutorial for Beginners, where you'll learn everything you need to know about Flexbox in just 10 ...",
+      "extensions": [
+        "4K",
+        "Beginner"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZcyRtOK-e6c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQf7N8UVVK-rlhy2biaOkltjT-Xg",
+        "rich": "https://i.ytimg.com/an_webp/ZcyRtOK-e6c/mqdefault_6s.webp?du=3000&sqp=CJren9YG&rs=AOn4CLAWR1RbFAKgpTxgCjw86NRqJFeT2w"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=CSS+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=CSS%20revision&sp=EgIYA0gUggELWjRwQ3FLLVZfV2-CAQt0ZnpHc0N4dXRXa4IBC0FQM19WN0tYSHM0ggELZGUtbVNXaHkzMnOCAQtVSWhGLUZKQklnd4IBC253QTRXRHhGbTJjggELanc2dmVuR1pCNneCAQthTHpmRkpiOHJXb4IBC3BuTmRDclhFZno4ggELWUVtZEhiUUJDU1GCAQtTNV8xYURVZURva4IBC1F5VmdQU2E0RW13ggELMzB1NVFtY2pCd1GCAQtwaFd4QTg5RHk5NIIBC3BCMW9lZF8xMElBggELRTlETDNHOHNBNWeCAQthRWo2ay1naTktc4IBC1Mxcml4OEdYRXJjggELYmlJOU9GSDZObWeCAQtaY3lSdE9LLWU2Y7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELWjRwQ3FLLVZfV2-CAQt0ZnpHc0N4dXRXa4IBC0FQM19WN0tYSHM0ggELZGUtbVNXaHkzMnOCAQtVSWhGLUZKQklnd4IBC253QTRXRHhGbTJjggELanc2dmVuR1pCNneCAQthTHpmRkpiOHJXb4IBC3BuTmRDclhFZno4ggELWUVtZEhiUUJDU1GCAQtTNV8xYURVZURva4IBC1F5VmdQU2E0RW13ggELMzB1NVFtY2pCd1GCAQtwaFd4QTg5RHk5NIIBC3BCMW9lZF8xMElBggELRTlETDNHOHNBNWeCAQthRWo2ay1naTktc4IBC1Mxcml4OEdYRXJjggELYmlJOU9GSDZObWeCAQtaY3lSdE9LLWU2Y7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=CSS+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=CSS+revision&sp=EgIYA0gUggELWjRwQ3FLLVZfV2-CAQt0ZnpHc0N4dXRXa4IBC0FQM19WN0tYSHM0ggELZGUtbVNXaHkzMnOCAQtVSWhGLUZKQklnd4IBC253QTRXRHhGbTJjggELanc2dmVuR1pCNneCAQthTHpmRkpiOHJXb4IBC3BuTmRDclhFZno4ggELWUVtZEhiUUJDU1GCAQtTNV8xYURVZURva4IBC1F5VmdQU2E0RW13ggELMzB1NVFtY2pCd1GCAQtwaFd4QTg5RHk5NIIBC3BCMW9lZF8xMElBggELRTlETDNHOHNBNWeCAQthRWo2ay1naTktc4IBC1Mxcml4OEdYRXJjggELYmlJOU9GSDZObWeCAQtaY3lSdE9LLWU2Y7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELWjRwQ3FLLVZfV2-CAQt0ZnpHc0N4dXRXa4IBC0FQM19WN0tYSHM0ggELZGUtbVNXaHkzMnOCAQtVSWhGLUZKQklnd4IBC253QTRXRHhGbTJjggELanc2dmVuR1pCNneCAQthTHpmRkpiOHJXb4IBC3BuTmRDclhFZno4ggELWUVtZEhiUUJDU1GCAQtTNV8xYURVZURva4IBC1F5VmdQU2E0RW13ggELMzB1NVFtY2pCd1GCAQtwaFd4QTg5RHk5NIIBC3BCMW9lZF8xMElBggELRTlETDNHOHNBNWeCAQthRWo2ay1naTktc4IBC1Mxcml4OEdYRXJjggELYmlJOU9GSDZObWeCAQtaY3lSdE9LLWU2Y7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-08 20:02:03 UTC"
+}

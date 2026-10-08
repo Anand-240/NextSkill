@@ -1,0 +1,496 @@
+{
+  "search_metadata": {
+    "id": "6ac7f6b71248157f1ce7c6be",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/TWKXXjdwNAJXeNKtBRHr3hGcjTZvwEekLgamwYodjrU/6ac7f6b71248157f1ce7c6be.json",
+    "markdown_endpoint": "https://serpapi.com/searches/TWKXXjdwNAJXeNKtBRHr3hGcjTZvwEekLgamwYodjrU/6ac7f6b71248157f1ce7c6be.md",
+    "created_at": "2026-10-08 20:01:59 UTC",
+    "processed_at": "2026-10-08 20:01:59 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=JavaScript+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/TWKXXjdwNAJXeNKtBRHr3hGcjTZvwEekLgamwYodjrU/6ac7f6b71248157f1ce7c6be.html",
+    "total_time_taken": 3.14
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "JavaScript revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 178037,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Learn to Build Data Pipelines",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CeRJYuPbHapy2JJnxjegPmbm9mAWC7LrdiQHTuv_qnxWwkB8QASAAYMm2t430pNAZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAZWJzYUDqAMEyAMKqgSfAk_Q_Yr_i5gVWLzN41ECYWBCSIyneNVx-Vz7nuaZNHZj_uOnI4QYJdHiF2FqzXEvZ3zHmQVi4MgqOPQpgMfn-FBWhzLh74c84LWvw57m0DrxlXt5PhSP-2lMxTKHPZiBuhy8OMEerq_kq3EfkweodxF6WdDsYhaOQvQCTp7NlMh-GkypUhl1X2SUiGD86Y1R19l_xRrOJSM_Y1BiYgaFLSgAOBxJdfbA-bJcwuZKg36T2DU_VdLZQxLPpANSPFIUB0rW41Sh5T6PjLEeSyJyblx9gKNMxLkY1R6zUBNf-hYZ2zTtXZFNnCpYgzqeJRWGWtR6lWvbw2yWiI1M3AYgxiqwfbJi7j2U-jqemUG6q5GM60afJzNIjX9P7S7mCXYziAX12NfAVpIFBwgTeOz0wDagBm6AB4Sj3zWQBwSoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWNDcqKObq5cDYAGaCT5odHRwczovL3d3dy5zbm93Zmxha2UuY29tL2RhdGEtY2xvdWQtYWNhZGVteS1kYXRhLWVuZ2luZWVyaW5nL7EJUUxNrFrRzV7ICQDICYoCmAsBugs9CAMQBRgEIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAgW6AwV2aWF0bNALEtIMAhAB2gwmCgsQkPOgs9Wb4oa5ARICAQMaDRj12NfAViD33vT6vQVAAUoCEB-aDQESqg0CVVPIDQHSDagCaHR0cHM6Ly93d3cuc25vd2ZsYWtlLmNvbS9kYXRhLWNsb3VkLWFjYWRlbXktZGF0YS1lbmdpbmVlcmluZy8_dXRtX3NvdXJjZT1nZGEmdXRtX21lZGl1bT1kaXNwbGF5JnV0bV9jYW1wYWlnbj1uYS11cy1lbi1wcm9zLWRpc3BsYXktZ2RhLWV2Zy1hdWRpZW5jZS1sb29rLWRlbmcmdXRtX2NvbnRlbnQ9Z2RhLWRnaW1hZ2UtZXZnLWFjLWRhdGEtY2xvdWQtYWNhZGVteS1kYXRhLWVuZ2luZWVyaW5nLTIwMjUmdXRtX3Rlcm09Yy0tLTc4MjMzNDUyMDc3NiZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjMyMjExMDM3MzO4E____________wGIFAGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXff_OHn0v2Oi6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMInPKoo5urlwMVmXgDBx2ZXA9TEAEYASAAEgKrY_D_BwE&num=1&cid=CAASqgHkaLcFg4jqnUyMA0lMaerXrdKRZ4EoKXYsXnl3O6aazfE2DhvVvCX5h05vMmYTJRTueyht3ZeAJ4Q7Pa6mzPaJbBLcDmDsNDwmMf2AGZHuE0NRP714feoseu917f61FMWBSywsh-_uDafzcBJWtwjSDC7duw3OLlQ0qtHURI-HFHTcl0ooIlv0cuvo2dU6d0MNCB1-pOX2h1YfoIXaUk4yr16Nr84gKA3_mg&sig=AOD64_3TaPbMa0d8D4S0bEftvv-GZ8nt_A&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Snowflake",
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/XaUjc5aQgFJIbxZ7yJHWIAW3lTwq0V9gQN59VE6MOOPFjWGqNxgYayGJBiv6LOVTDcl_nsQrRiMrs0c23JyDoJ0cKclOqGKKnZNqbdeVygEhQ7gMJzMRrU7Y941Poa54FY0"
+      },
+      "description": "Discover the Latest Trends and Skill Sets for Data Engineers with 15 New Free Sessions.",
+      "thumbnail": {
+        "static": "https://lh4.googleusercontent.com/proxy/XaUjc5aQgFJIbxZ7yJHWIAW3lTwq0V9gQN59VE6MOOPFjWGqNxgYayGJBiv6LOVTDcl_nsQrRiMrs0c23JyDoJ0cKclOqGKKnZNqbdeVygEhQ7gMJzMRrU7Y941Poa54FY0"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Build the software you can't buy",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C2bhpuPbHapy2JJnxjegPmbm9mAWv39mNigHI_Ni0gRawkB8QAiAAYMm2t430pNAZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAYXWiaw-qAMEyAMKqgShAk_Q_Yr_i5gVWLzN41ECYWBCSIyneNVx-Vz7nuaZNHZj_uOnI4QYJdHiF2FqzXEvZ3zHmQVi4MgqOPQpgMfn-FBWhzLh74c84LWvw57m0DrxlXt5PhSP-2lMxTKHPZiBuhy8OMEerq_kq3EfkweodxF6WdDsYhaOQvQCTp7NlMh-GkypUhl1X2SUiGD86Y1R19l_xRrOJSM_Y1BiYgaFLSgAOBxJdfbA-bJcwuZKg36T2DU_VdLZQxLPpANSPFIUB0rW41Sh5T6PjLEeSyJyblx9gKNMxLkY1R6zUBNf-hZO3jTtUJFN7y9BmzyeJUu3SHuuUIJL0dVzWIfUTC4LCh_-RltcHxjc5-KEuOeziZ2UFuDXH7-Av11B9ewjGVOOxyaIBfnNl9RakgUICBN4ssXSmRmgBm6AB4WO2osZkAcEqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjQ3Kijm6uXA2ABmgkpaHR0cHM6Ly9ib2x0Lm5ldy91c2UtY2FzZXMvYWktYXBwLWJ1aWxkZXKxCQLpspt2DemiyAkAyAmKApgLAboLPQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIFugMFdmlhdGzQCxLSDAIQAdoMJgoLEODP84rwgtSX8wESAgEDGg0Y-c2X1FogqMSxtIEGQAFKAhAfmg0BEqoNAlVTyA0B0g29A2h0dHBzOi8vYm9sdC5uZXcvdXNlLWNhc2VzL2FpLWFwcC1idWlsZGVyP2FkZ3JvdXA9UHJvc3BlY3RpbmctTEFMLVN0YXJ0ZWQtUHJvamVjdC1OYXJyb3cmbmV0d29yaz0mZGV2aWNlPWMmcGxhY2VtZW50PSZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWRpc3BsYXkmdXRtX2NhbXBhaWduPVRpZXIxLURHLVByb3NwZWN0aW5nJnV0bV9jb250ZW50PVJlZ2lzdHJhdGlvbi1Ub29scy1Zb3UtV2lzaC1Zb3UtSGFkJnV0bV90ZXJtPSZ1dG1faWQ9MjQzMzU3Mzg2MTcmaHNhX2dycD0yMDY1MzY3MjkxMjgmaHNhX2FkPTgyNzM1NjU5MDg2NiZoc2Ffc3JjPSZoc2FfdGd0PSZoc2Ffa3c9JmhzYV9tdD0maHNhX2NhbT0yNDMzNTczODYxNyZoc2FfYWNjPTEzNTYwNDAwMTcmaHNhX25ldD1hZHdvcmRzJmhzYV92ZXI9MyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQzMzU3Mzg2MTe4E____________wGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXR4j_t8xK3km6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMInPKoo5urlwMVmXgDBx2ZXA9TEAEYAiAAEgItuPD_BwE&num=2&cid=CAASqgHkaLcFg4jqnUyMA0lMaerXrdKRZ4EoKXYsXnl3O6aazfE2DhvVvCX5h05vMmYTJRTueyht3ZeAJ4Q7Pa6mzPaJbBLcDmDsNDwmMf2AGZHuE0NRP714feoseu917f61FMWBSywsh-_uDafzcBJWtwjSDC7duw3OLlQ0qtHURI-HFHTcl0ooIlv0cuvo2dU6d0MNCB1-pOX2h1YfoIXaUk4yr16Nr84gKA3_mg&sig=AOD64_0coVM-dFTQnSiplSfS513qp9tqvw&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Bolt.new",
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/vZSzOAL2beWgZb3W7Vaa7-svWEA2ySNPPRFlSsb9B8O5kFEwcFW_RZdWJM-lCiiC9UC0roCqXeUpZn7w9njgf4IPj3nCyJpB2PvM8KZV0uztkU87FH2-BAfAhOtPhz0IQA"
+      },
+      "description": "Build software that matches how your business runs.",
+      "thumbnail": {
+        "static": "https://lh6.googleusercontent.com/proxy/vZSzOAL2beWgZb3W7Vaa7-svWEA2ySNPPRFlSsb9B8O5kFEwcFW_RZdWJM-lCiiC9UC0roCqXeUpZn7w9njgf4IPj3nCyJpB2PvM8KZV0uztkU87FH2-BAfAhOtPhz0IQA"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "100+ JavaScript Concepts you Need to Know",
+      "link": "https://www.youtube.com/watch?v=lkIFF4maKMU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lkIFF4maKMU",
+      "video_id": "lkIFF4maKMU",
+      "channel": {
+        "name": "Fireship",
+        "link": "https://www.youtube.com/@Fireship",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 3084796,
+      "length": "12:24",
+      "description": "The ultimate 10 minute JavaScript course that quickly breaks down over 100 key concepts every web developer should know.",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/lkIFF4maKMU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGA-7bmtqY8g2SKnS-RyGE7BYr-A",
+        "rich": "https://i.ytimg.com/an_webp/lkIFF4maKMU/mqdefault_6s.webp?du=3000&sqp=CKXNn9YG&rs=AOn4CLBrIseQ3hgXL-jkyaqB48lpE-_exg"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "JavaScript Tutorial for Beginners - Learn in 15 Minutes ( Crash Course 2026 )",
+      "link": "https://www.youtube.com/watch?v=TioxU0wdMQg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TioxU0wdMQg",
+      "video_id": "TioxU0wdMQg",
+      "channel": {
+        "name": "ITower",
+        "link": "https://www.youtube.com/@ITowerAcademy",
+        "thumbnail": "https://yt3.ggpht.com/Di1sBaZLOzkncU9UKdB-iSdZ_kmktZJEAfvXpEqEyscqlOuqQyS2nkmIx_9aG1zxRfgfUeZJrUI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 109871,
+      "length": "13:49",
+      "description": "In this video, we're taking a beginner-friendly dive into JavaScript - the perfect starting point if you're new to coding. This is a ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TioxU0wdMQg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm80fj2MdnpRcQir4E_yXzY4d2AQ",
+        "rich": "https://i.ytimg.com/an_webp/TioxU0wdMQg/mqdefault_6s.webp?du=3000&sqp=CIjDn9YG&rs=AOn4CLAyiAre84eqkEkiueEqgbVVMrVo1A"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Learn JAVASCRIPT in just 5 MINUTES (2020)",
+      "link": "https://www.youtube.com/watch?v=c-I5S_zTwAc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c-I5S_zTwAc",
+      "video_id": "c-I5S_zTwAc",
+      "channel": {
+        "name": "Aaron Jack",
+        "link": "https://www.youtube.com/@AaronJack",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/40SE9hF9oDMoGjoKDdQEG8e6HJML5c_fVP40Vfm2hMrfkvqqMYrVCyPoGXlMFFNE89rN10EQJQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 1722341,
+      "length": "5:15",
+      "description": "Freelance Coding is the way in 2024! Learn How: https://www.freemote.com/strategy https://instagram.com/aaronjack #coding ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/c-I5S_zTwAc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuLO8-kYRit5fp0CSMDpKvm4YaPg",
+        "rich": "https://i.ytimg.com/an_webp/c-I5S_zTwAc/mqdefault_6s.webp?du=3000&sqp=CLbWn9YG&rs=AOn4CLAn5u0Ur8PPs0aFJlMgW06nQKrbOQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "JavaScript explained in just 7 Minutes!",
+      "link": "https://www.youtube.com/watch?v=VoKFyB1q4fc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VoKFyB1q4fc",
+      "video_id": "VoKFyB1q4fc",
+      "channel": {
+        "name": "GeeksforGeeks",
+        "link": "https://www.youtube.com/@GeeksforGeeksVideos",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dQfBGzscI39pcxJC7ywUkslmJZ4AHyh0eECVkbnyW4zBN1djj5TCNLXx1Pf68WqRlrzMRbjS=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 282807,
+      "length": "7:49",
+      "description": "Learn JavaScript Basic in 7 Minutes ⚡| The Ultimate Beginner's Guide for Web Development Struggling with JavaScript? Feeling ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/VoKFyB1q4fc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQD5Izj-ZhzdOWTDa20PSEpD33Sw",
+        "rich": "https://i.ytimg.com/an_webp/VoKFyB1q4fc/mqdefault_6s.webp?du=3000&sqp=CKTBn9YG&rs=AOn4CLCUFV7A1V85wOR_zWuJyyZmGTz2Rg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "All The JavaScript You Need BEFORE React",
+      "link": "https://www.youtube.com/watch?v=bCkfU_wHPcY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bCkfU_wHPcY",
+      "video_id": "bCkfU_wHPcY",
+      "channel": {
+        "name": "Coding2GO",
+        "link": "https://www.youtube.com/@coding2go",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 200277,
+      "length": "6:38",
+      "description": "If you're about to start React, this video shows the exact JavaScript you should know before learning react.js We'll cover the core ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bCkfU_wHPcY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcO4Si71diIGj0tifEAdMLjg2EPg",
+        "rich": "https://i.ytimg.com/an_webp/bCkfU_wHPcY/mqdefault_6s.webp?du=3000&sqp=CPbbn9YG&rs=AOn4CLBFe59oSuXztTpdfeJVIE5D9IxzCA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "JavaScript Basics in 10 Minutes",
+      "link": "https://www.youtube.com/watch?v=xwKbtUP87Dk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xwKbtUP87Dk",
+      "video_id": "xwKbtUP87Dk",
+      "channel": {
+        "name": "Topknot Clare",
+        "link": "https://www.youtube.com/@topknotclare456",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nZ3EOZgR8JgU82W0rq6KmPY9rX1fFvxRN1_5GOjcePXV0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 335499,
+      "length": "11:49",
+      "description": "Happy Web Dev Wednesday! This week we are moving on to the wonderful world of JavaScript. As a basic starting point, we will ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xwKbtUP87Dk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCQyxa0DZdTSckyAXDtykAz0CwLw"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "JavaScript in 8 Minutes 👩‍💻",
+      "link": "https://www.youtube.com/watch?v=0vL_EhRMFN0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0vL_EhRMFN0",
+      "video_id": "0vL_EhRMFN0",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 311877,
+      "length": "8:54",
+      "description": "Python Udemy Course: https://goharry.in/python Get this course at 90% Discount if you use this link JavaScript Fast Tutorial: In this ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0vL_EhRMFN0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo9CaOypXFs8G3ZwkNRkQ96DcoXw",
+        "rich": "https://i.ytimg.com/an_webp/0vL_EhRMFN0/mqdefault_6s.webp?du=3000&sqp=CJq0n9YG&rs=AOn4CLDZwILgFI7dZKX9Z_O75a7vZF5jug"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "The JavaScript DOM explained in 5 minutes! 🌳",
+      "link": "https://www.youtube.com/watch?v=NO5kUNxGIu0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NO5kUNxGIu0",
+      "video_id": "NO5kUNxGIu0",
+      "channel": {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 385616,
+      "length": "5:01",
+      "description": "JavaScript #tutorial #course // DOM = DOCUMENT OBJECT MODEL // Object{} that represents the page you see in the web ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/NO5kUNxGIu0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT5dL5k2ybg-A8nEXE-AQfyxtMwg",
+        "rich": "https://i.ytimg.com/an_webp/NO5kUNxGIu0/mqdefault_6s.webp?du=3000&sqp=CKDhn9YG&rs=AOn4CLCFOzCODwAfb-A2QL3lci1B5AFy8g"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "JavaScript Loops",
+      "link": "https://www.youtube.com/watch?v=s9wW2PpJsmQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=s9wW2PpJsmQ",
+      "video_id": "s9wW2PpJsmQ",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 505030,
+      "length": "6:49",
+      "description": "JavaScript loops made simple. Get the COMPLETE course (83% OFF - LIMITED TIME ONLY): http://bit.ly/2M1sp4B Subscribe ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/s9wW2PpJsmQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCprOtVb1L-VJYE18_sE4ZzuMEQw",
+        "rich": "https://i.ytimg.com/an_webp/s9wW2PpJsmQ/mqdefault_6s.webp?du=3000&sqp=CODZn9YG&rs=AOn4CLCWuq4YuJLPQyhvXAECWbmFNH7L5g"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "10 JavaScript Interview Questions You HAVE TO KNOW",
+      "link": "https://www.youtube.com/watch?v=kUTbEcO-lrk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kUTbEcO-lrk",
+      "video_id": "kUTbEcO-lrk",
+      "channel": {
+        "name": "James Q Quick",
+        "link": "https://www.youtube.com/@JamesQQuick",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/GJHAeZ84wUut2sYiR7KdGOS_P8erXg_EeSsXV0QYyhjMtBIy-4doMzTG07qRiEBrgoJsiNv3Jg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 168914,
+      "length": "13:41",
+      "description": "Can you pass this JavaScript interview? Here are 10 questions you should be able to answer! Original Article ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/kUTbEcO-lrk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWecLvWsy2ExPn7Ic_iCZ69eGgow",
+        "rich": "https://i.ytimg.com/an_webp/kUTbEcO-lrk/mqdefault_6s.webp?du=3000&sqp=COTpn9YG&rs=AOn4CLAfCkadCUGGxRvGwiium-wiFhVjsQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "What is Node.js? JavaScript Back-End Tutorial",
+      "link": "https://www.youtube.com/watch?v=P-fDVxjSXEw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=P-fDVxjSXEw",
+      "video_id": "P-fDVxjSXEw",
+      "channel": {
+        "name": "Coding2GO",
+        "link": "https://www.youtube.com/@coding2go",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 85415,
+      "length": "8:10",
+      "description": "JavaScript Masterclass → https://coding2go.com/products/javascript-masterclass ⚛️ Modern React Masterclass ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/P-fDVxjSXEw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvq096z8uuFrpaPEQn3lnrcZvByA",
+        "rich": "https://i.ytimg.com/an_webp/P-fDVxjSXEw/mqdefault_6s.webp?du=3000&sqp=CNzPn9YG&rs=AOn4CLDxPiedYnVRdvaiBUvZQKsRhOKb2A"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "TOP 10 JavaScript Interview Questions",
+      "link": "https://www.youtube.com/watch?v=7o5lFf7sLnc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7o5lFf7sLnc",
+      "video_id": "7o5lFf7sLnc",
+      "channel": {
+        "name": "DevArt ",
+        "link": "https://www.youtube.com/@devart-studio",
+        "thumbnail": "https://yt3.ggpht.com/Mz8VC3P2fFM4JfjEuZXjGy_9TV3qQdnQuVNsmDPf_w50L3T4Bx4f9Oi1zcO3wstv7dXV3_VV43I=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 11584,
+      "length": "12:47",
+      "description": "Discover the most common JavaScript interview questions you need to know! In this video, I'll give you the 10 most frequently ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7o5lFf7sLnc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgH9hCPEIgOG1fX7XUm3TmT6eOFw",
+        "rich": "https://i.ytimg.com/an_webp/7o5lFf7sLnc/mqdefault_6s.webp?du=3000&sqp=CITUn9YG&rs=AOn4CLCXEkd85IB0UFNiuuGMTmIc82qZlw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "JavaScript Interview Questions 2025 (Junior & Mid Level)",
+      "link": "https://www.youtube.com/watch?v=b5uU3J1kWGE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=b5uU3J1kWGE",
+      "video_id": "b5uU3J1kWGE",
+      "channel": {
+        "name": "theSeniorDev",
+        "link": "https://www.youtube.com/@therealseniordev",
+        "thumbnail": "https://yt3.ggpht.com/saAV4nLC3n5CcFvFdi1yrrwgRdETuSnjAeoCaZedRC2Ua5MC6nr6r9kghh8-yMk2cNq_Qc9A8g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 17230,
+      "length": "13:36",
+      "description": "HOW WE CAN HELP YOU Find Your Technical Gaps With This FREE 10-Minute Technical Assessment ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/b5uU3J1kWGE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeeU2RGmMQYP7KchM9Baq7V5Ltig",
+        "rich": "https://i.ytimg.com/an_webp/b5uU3J1kWGE/mqdefault_6s.webp?du=3000&sqp=CP3Sn9YG&rs=AOn4CLDeHIroWQlzM3ZKmfEPepsei3y0jA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "JavaScript - Syntax - W3Schools.com",
+      "link": "https://www.youtube.com/watch?v=4BBlc_qDs8g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4BBlc_qDs8g",
+      "video_id": "4BBlc_qDs8g",
+      "channel": {
+        "name": "w3schools.com",
+        "link": "https://www.youtube.com/@w3schools",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Jzh-VfliIJvWX-jBOFRXfCUpDdhInOokGZQshKlET4H-u1OLl_80GY-2wwe8gvQwFoSzeeYzNg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 66966,
+      "length": "4:04",
+      "description": "This video is an introduction to JavaScript Syntax. Part of a series of video tutorials to learn JavaScript for beginners! The page this ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/4BBlc_qDs8g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyHBMX97D2VfKkZXEHWpRe8F_6Zw",
+        "rich": "https://i.ytimg.com/an_webp/4BBlc_qDs8g/mqdefault_6s.webp?du=3000&sqp=CKDhn9YG&rs=AOn4CLDxRUhIiKp6X_83NPaTcdFyAl2gfg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue",
+      "link": "https://www.youtube.com/watch?v=eiC58R16hb8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eiC58R16hb8",
+      "video_id": "eiC58R16hb8",
+      "channel": {
+        "name": "Lydia Hallie",
+        "link": "https://www.youtube.com/@theavocoder",
+        "thumbnail": "https://yt3.ggpht.com/89XSViN1j67dPtLO-BecRT8DU2DBTFyRB7Vd6eZFVoXGpUJz8kyvXzOl53fwozVxgsWv-dKVXw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1224806,
+      "length": "12:35",
+      "description": "Learn how the browser event loop, task queue, microtask queue, and Web APIs work together to enable non-blocking, ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eiC58R16hb8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKTkRH_8KNfRjDxeGBGimfkWWrBg",
+        "rich": "https://i.ytimg.com/an_webp/eiC58R16hb8/mqdefault_6s.webp?du=3000&sqp=CITin9YG&rs=AOn4CLCuuzIrJFOfi55xm95hneKQMhItDQ"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "JavaScript Revision Part 1 | Complete Basics in 15 Minutes | Beginners to Advanced",
+      "link": "https://www.youtube.com/watch?v=qGBqYpmydkk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qGBqYpmydkk",
+      "video_id": "qGBqYpmydkk",
+      "channel": {
+        "name": "Parthiv_Dev",
+        "link": "https://www.youtube.com/@parthiv_dev",
+        "thumbnail": "https://yt3.ggpht.com/I-COvT9i-15etEbxEYge2HEsSNW318K7QPzuiA--FHfK-EThoLqnD-AZl-SEoayBpwB_pnN0Hg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 3,
+      "length": "16:25",
+      "description": "Welcome to the first video of our JavaScript Revision Series! In this Part 1 tutorial, we will revise the most important JavaScript ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qGBqYpmydkk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvSK24tZjxEiHXAJSLzaqE4cqLAg",
+        "rich": "https://i.ytimg.com/an_webp/qGBqYpmydkk/mqdefault_6s.webp?du=3000&sqp=CIDkn9YG&rs=AOn4CLDVDt9_Lz-OTGwLPOAjVEWAViEf4A"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Plus Two CS | Client Side Scripting Using Javascript in 10 Minutes | Eduport Plus Two",
+      "link": "https://www.youtube.com/watch?v=4-IluzdWKnc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4-IluzdWKnc",
+      "video_id": "4-IluzdWKnc",
+      "channel": {
+        "name": "Eduport Plus Two ",
+        "link": "https://www.youtube.com/@EduportPlusTwo",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/U1y3AUBwge3PRARyywlcSXRhebUFG9fnTTV50KHlBKrcipZtbR271IZPcS1eLNjK5wXxuJhnBg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 9647,
+      "length": "11:01",
+      "description": "plustwo #revisionclass #plustwostudents #eduportplustwo #eduport Join Our Fastrack batch:https://l.eduport.app/03328cd0c0 ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/4-IluzdWKnc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdxH4z7lcf0uQOpiH7YKwoWfJYJw",
+        "rich": "https://i.ytimg.com/an_webp/4-IluzdWKnc/mqdefault_6s.webp?du=3000&sqp=COLOn9YG&rs=AOn4CLCk0-3x3nGMlvTtWnbONcLQ4HD0Uw"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Part-1 (1 - 30) JavaScript MCQ Practice | Multiple Choice Questions with Answers for Inter. & Exams",
+      "link": "https://www.youtube.com/watch?v=zkdSzvVj3h0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zkdSzvVj3h0",
+      "video_id": "zkdSzvVj3h0",
+      "channel": {
+        "name": "DevScriptor",
+        "link": "https://www.youtube.com/@DevScriptor",
+        "thumbnail": "https://yt3.ggpht.com/ZKP3LH_KrGI0VrNgObrMBBJuJv7KV4iSlbp6mVIXbtUO3eQEks56Z3mis8G4tp1hPmxkiNFpLcU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 487,
+      "length": "12:53",
+      "description": "Welcome to our JavaScript Mastery Series! In this video, we're diving into top JavaScript multiple choice questions (MCQs) along ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zkdSzvVj3h0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYMpvo-r4dUuPiVE0xd7ZTUjPyGQ",
+        "rich": "https://i.ytimg.com/an_webp/zkdSzvVj3h0/mqdefault_6s.webp?du=3000&sqp=CPfnn9YG&rs=AOn4CLA5jMrI3egwPv8bSqOFD0I4awIQTg"
+      }
+    },
+    {
+      "position_on_page": 21,
+      "title": "7 JAVASCRIPT Concepts Every DEVELOPER Must Know! | GeeksforGeeks",
+      "link": "https://www.youtube.com/watch?v=YxRErpzCa7c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YxRErpzCa7c",
+      "video_id": "YxRErpzCa7c",
+      "channel": {
+        "name": "GeeksforGeeks",
+        "link": "https://www.youtube.com/@GeeksforGeeksVideos",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dQfBGzscI39pcxJC7ywUkslmJZ4AHyh0eECVkbnyW4zBN1djj5TCNLXx1Pf68WqRlrzMRbjS=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1785,
+      "length": "4:07",
+      "description": "Discover the core principles of JavaScript in this video on the top 7 essential JS concepts every developer should know.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/YxRErpzCa7c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTDZYY6gffNd6dA4UX_q62dhhsWQ",
+        "rich": "https://i.ytimg.com/an_webp/YxRErpzCa7c/mqdefault_6s.webp?du=3000&sqp=CMTen9YG&rs=AOn4CLCsAtpxsCphYa9FTx1FrQzWyePxmQ"
+      }
+    },
+    {
+      "position_on_page": 22,
+      "title": "Asynchronous JavaScript in ~10 Minutes - Callbacks, Promises, and Async/Await",
+      "link": "https://www.youtube.com/watch?v=670f71LTWpM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=670f71LTWpM",
+      "video_id": "670f71LTWpM",
+      "channel": {
+        "name": "James Q Quick",
+        "link": "https://www.youtube.com/@JamesQQuick",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/GJHAeZ84wUut2sYiR7KdGOS_P8erXg_EeSsXV0QYyhjMtBIy-4doMzTG07qRiEBrgoJsiNv3Jg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 388885,
+      "length": "13:55",
+      "description": "The asynchronous nature of JavaScript to understanding the language. You'll find the use of callbacks, promises, and async/await ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/670f71LTWpM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5JXdJRbdqsHxDFTdvU-Mu6EoEdA",
+        "rich": "https://i.ytimg.com/an_webp/670f71LTWpM/mqdefault_6s.webp?du=3000&sqp=CM3Dn9YG&rs=AOn4CLAIV5NInsmnFVwZ-xcj_vuywN1IqQ"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=JavaScript+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=JavaScript%20revision&sp=EgIYA0gUggELbGtJRkY0bWFLTVWCAQtUaW94VTB3ZE1RZ4IBC2MtSTVTX3pUd0FjggELVm9LRnlCMXE0ZmOCAQtiQ2tmVV93SFBjWYIBC3h3S2J0VVA4N0RrggELMHZMX0VoUk1GTjCCAQtOTzVrVU54R0l1MIIBC3M5d1cyUHBKc21RggELa1VUYkVjTy1scmuCAQtQLWZEVnhqU1hFd4IBCzdvNWxGZjdzTG5jggELYjV1VTNKMWtXR0WCAQs0QkJsY19xRHM4Z4IBC2VpQzU4UjE2aGI4ggELcUdCcVlwbXlka2uCAQs0LUlsdXpkV0tuY4IBC3prZFN6dlZqM2gwggELWXhSRXJwekNhN2OCAQs2NzBmNzFMVFdwTbIBBgoECBYQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELbGtJRkY0bWFLTVWCAQtUaW94VTB3ZE1RZ4IBC2MtSTVTX3pUd0FjggELVm9LRnlCMXE0ZmOCAQtiQ2tmVV93SFBjWYIBC3h3S2J0VVA4N0RrggELMHZMX0VoUk1GTjCCAQtOTzVrVU54R0l1MIIBC3M5d1cyUHBKc21RggELa1VUYkVjTy1scmuCAQtQLWZEVnhqU1hFd4IBCzdvNWxGZjdzTG5jggELYjV1VTNKMWtXR0WCAQs0QkJsY19xRHM4Z4IBC2VpQzU4UjE2aGI4ggELcUdCcVlwbXlka2uCAQs0LUlsdXpkV0tuY4IBC3prZFN6dlZqM2gwggELWXhSRXJwekNhN2OCAQs2NzBmNzFMVFdwTbIBBgoECBYQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=JavaScript+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=JavaScript+revision&sp=EgIYA0gUggELbGtJRkY0bWFLTVWCAQtUaW94VTB3ZE1RZ4IBC2MtSTVTX3pUd0FjggELVm9LRnlCMXE0ZmOCAQtiQ2tmVV93SFBjWYIBC3h3S2J0VVA4N0RrggELMHZMX0VoUk1GTjCCAQtOTzVrVU54R0l1MIIBC3M5d1cyUHBKc21RggELa1VUYkVjTy1scmuCAQtQLWZEVnhqU1hFd4IBCzdvNWxGZjdzTG5jggELYjV1VTNKMWtXR0WCAQs0QkJsY19xRHM4Z4IBC2VpQzU4UjE2aGI4ggELcUdCcVlwbXlka2uCAQs0LUlsdXpkV0tuY4IBC3prZFN6dlZqM2gwggELWXhSRXJwekNhN2OCAQs2NzBmNzFMVFdwTbIBBgoECBYQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELbGtJRkY0bWFLTVWCAQtUaW94VTB3ZE1RZ4IBC2MtSTVTX3pUd0FjggELVm9LRnlCMXE0ZmOCAQtiQ2tmVV93SFBjWYIBC3h3S2J0VVA4N0RrggELMHZMX0VoUk1GTjCCAQtOTzVrVU54R0l1MIIBC3M5d1cyUHBKc21RggELa1VUYkVjTy1scmuCAQtQLWZEVnhqU1hFd4IBCzdvNWxGZjdzTG5jggELYjV1VTNKMWtXR0WCAQs0QkJsY19xRHM4Z4IBC2VpQzU4UjE2aGI4ggELcUdCcVlwbXlka2uCAQs0LUlsdXpkV0tuY4IBC3prZFN6dlZqM2gwggELWXhSRXJwekNhN2OCAQs2NzBmNzFMVFdwTbIBBgoECBYQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-08 20:01:59 UTC"
+}
