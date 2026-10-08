@@ -35,10 +35,21 @@ class EngineTests(unittest.TestCase):
     def test_js_alias_matches_only_as_a_standalone_token(self):
         for text, expected in [("Node.js", {"Node.js"}), ("Next.js", {"Next.js"}), ("Vue.js", {"Vue.js"}),
                                ("React.js", {"React"}), ("Node JS", {"Node.js"}), ("React JS", {"React"}),
-                               ("Express.js", set()), ("Nest.js and TS", {"TypeScript"})]:
+                               ("Express.js", {"Express.js"}), ("Nest.js and TS", {"TypeScript"})]:
             self.assertEqual(extract_skills(text), expected, text)
         for text in ("Strong JS skills", "HTML, CSS, JS", "JS/TS", "Node.js and JS"):
             self.assertIn("JavaScript", extract_skills(text), text)
+
+    def test_versioned_short_and_stack_names(self):
+        cases = {"HTML5, CSS3, ES6": {"HTML", "CSS", "JavaScript"}, "ES2015+ and ECMAScript": {"JavaScript"},
+                 "Node, Express, Mongo": {"Node.js", "Express.js", "MongoDB"}, "NodeJS and ExpressJS": {"Node.js", "Express.js"},
+                 "MERN stack": {"MongoDB", "Express.js", "React", "Node.js"},
+                 "MEAN Stack": {"MongoDB", "Express.js", "Angular", "Node.js"}, "React.js, ReactJS": {"React"},
+                 "TS only": {"TypeScript"}}
+        for text, expected in cases.items():
+            self.assertEqual(extract_skills(text), expected, text)
+        for text in ("the mean value of each node", "American Express card", "express your ideas", "mongo shell"):
+            self.assertEqual(extract_skills(text), set(), text)
 
     def test_rest_api_requires_api_or_service_context(self):
         for sentence in ("Integrate REST API endpoints.", "Use REST APIs for backend calls.",

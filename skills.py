@@ -5,7 +5,7 @@ from collections import defaultdict
 
 # Canonical names are also searched, except for ambiguous short language names.
 SKILLS = {
-    "tech": "SQL|Excel|Power BI|Python|Tableau|Java|JavaScript|TypeScript|React|Node.js|AWS|Git|HTML|CSS|Angular|Vue.js|Next.js|Spring Boot|Django|Flask|FastAPI|PHP|C++|C#|Go|R|C|Kotlin|Swift|Android|React Native|MySQL|PostgreSQL|MongoDB|Redis|Docker|Kubernetes|Jenkins|Terraform|Linux|Bash|REST API|GraphQL|Microservices|CI/CD|DevOps|Azure|Google Cloud|Selenium|Playwright|Agile|Scrum|Jira|Postman|Kafka|Spark|Airflow|Databricks|Snowflake|BigQuery|Oracle Database|SQL Server|NoSQL|Data Structures|Algorithms|System Design|Cybersecurity|API Testing|Unit Testing|ETL|Data Warehousing|Machine Learning|Deep Learning|NLP|Computer Vision|TensorFlow|PyTorch|Scikit-learn|Pandas|NumPy".split("|"),
+    "tech": "SQL|Excel|Power BI|Python|Tableau|Java|JavaScript|TypeScript|React|Node.js|Express.js|AWS|Git|HTML|CSS|Angular|Vue.js|Next.js|Spring Boot|Django|Flask|FastAPI|PHP|C++|C#|Go|R|C|Kotlin|Swift|Android|React Native|MySQL|PostgreSQL|MongoDB|Redis|Docker|Kubernetes|Jenkins|Terraform|Linux|Bash|REST API|GraphQL|Microservices|CI/CD|DevOps|Azure|Google Cloud|Selenium|Playwright|Agile|Scrum|Jira|Postman|Kafka|Spark|Airflow|Databricks|Snowflake|BigQuery|Oracle Database|SQL Server|NoSQL|Data Structures|Algorithms|System Design|Cybersecurity|API Testing|Unit Testing|ETL|Data Warehousing|Machine Learning|Deep Learning|NLP|Computer Vision|TensorFlow|PyTorch|Scikit-learn|Pandas|NumPy".split("|"),
     "data": "Data Analysis|Data Visualization|Statistics|A/B Testing|Business Intelligence|Data Modeling|Data Cleaning|Data Engineering|Predictive Modeling|Regression|Time Series|Power Query|DAX|Looker|Google Analytics|GA4|Google Tag Manager|Mixpanel|Amplitude|dbt".split("|"),
     "marketing": "SEO|SEM|Google Ads|Meta Ads|Facebook Ads|Performance Marketing|Content Marketing|Email Marketing|Social Media Marketing|Marketing Automation|CRM|HubSpot|Salesforce|Mailchimp|WordPress|Copywriting|Keyword Research|Google Search Console|Campaign Management|Conversion Rate Optimization|CRO|Lead Generation|Brand Management|Market Research|Digital Marketing|Canva".split("|"),
     "finance": "Tally|GST|Accounting|Bookkeeping|Financial Modeling|Financial Analysis|Financial Reporting|Budgeting|Forecasting|Auditing|Taxation|Income Tax|TDS|SAP FICO|SAP|ERP|QuickBooks|Zoho Books|Accounts Payable|Accounts Receivable|Reconciliation|Payroll|IFRS|Valuation|Risk Management|Compliance|KYC|AML|Equity Research".split("|"),
@@ -15,13 +15,14 @@ SKILLS = {
 ALIASES = {
     "Excel": ["MS Excel", "Microsoft Excel", "Advanced Excel"],
     "Power BI": ["PowerBI", "Power-BI", "Microsoft Power BI"],
-    "JavaScript": ["JS"], "TypeScript": ["TS"],
-    "Node.js": ["NodeJS", "Node JS"], "Next.js": ["NextJS", "Next JS"],
-    "Vue.js": ["VueJS", "Vue JS", "Vue"], "Express.js": ["ExpressJS", "Express JS"],
-    "React": ["ReactJS", "React JS"],
+    "HTML": ["HTML5"], "CSS": ["CSS3"],
+    "JavaScript": ["JS", "ES6", "ES2015", "ECMAScript"], "TypeScript": ["TS"],
+    "Node.js": ["NodeJS", "Node JS", "Node"], "Next.js": ["NextJS", "Next JS"],
+    "Vue.js": ["VueJS", "Vue JS", "Vue"], "Express.js": ["ExpressJS", "Express JS", "Express"],
+    "React": ["ReactJS", "React JS", "React.js"],
     "AWS": ["Amazon Web Services"], "Google Cloud": ["GCP", "Google Cloud Platform"],
     "SQL Server": ["MS SQL Server", "Microsoft SQL Server", "MSSQL"],
-    "PostgreSQL": ["Postgres"], "MongoDB": ["Mongo DB"],
+    "PostgreSQL": ["Postgres"], "MongoDB": ["Mongo DB", "Mongo"],
     "CI/CD": ["CI CD", "continuous integration and continuous delivery"],
     "REST API": ["RESTful APIs", "RESTful API", "REST APIs", "REST services", "REST service", "RESTful services", "RESTful service"],
     "Scikit-learn": ["sklearn", "scikit learn"],
@@ -47,6 +48,13 @@ AMBIGUOUS = {"R", "Go", "C"}
 _FRAMEWORKS = "Node|Next|Nest|Nuxt|Vue|React|Express|Angular|Ember|Backbone|Three|D3|Chart|Svelte|Solid|Alpine|Deno".split("|")
 _SUFFIX_GUARD = r"(?<!\.)" + "".join(f"(?<!{name} )(?<!{name}-)" for name in _FRAMEWORKS)
 STANDALONE_ONLY = {"JS", "TS"}
+# Short forms that are also ordinary words match only when capitalised as written here.
+CASE_SENSITIVE = {"Node", "Mongo", "Express"}
+_TERM_GUARDS = {"Express": r"(?<!American )"}
+# A named stack stands for each of its member skills.
+STACKS = {"MERN": ("MongoDB", "Express.js", "React", "Node.js"),
+          "MEAN": ("MongoDB", "Express.js", "Angular", "Node.js")}
+_STACK_PATTERN = re.compile(r"(?<!\w)(?:MERN|[Mm]ern|MEAN)(?:\s+[Ss]tack)?(?!\w)")
 GENERIC = {"Data Analysis", "Business Intelligence", "Digital Marketing", "Graphic Design",
            "Compliance", "Machine Learning", "Communication", "Problem Solving",
            "Teamwork", "Analytical Skills", "UI/UX"}
@@ -56,8 +64,9 @@ for names in SKILLS.values():
         terms = ([] if canonical in AMBIGUOUS else [canonical]) + ALIASES.get(canonical, [])
         for term in terms:
             # Unicode-aware boundaries prevent matching inside names such as PowerBIA or MySQL2.
-            guard = _SUFFIX_GUARD if term in STANDALONE_ONLY else ""
-            _patterns[canonical].append(re.compile(r"(?<!\w)" + guard + re.escape(term) + r"(?!\w)", re.I))
+            guard = (_SUFFIX_GUARD if term in STANDALONE_ONLY else "") + _TERM_GUARDS.get(term, "")
+            flags = 0 if term in CASE_SENSITIVE else re.I
+            _patterns[canonical].append(re.compile(r"(?<!\w)" + guard + re.escape(term) + r"(?!\w)", flags))
 
 
 _BOUNDARY = re.compile(r"(?<=[.!?;])\s+|\n+|[•●▪]|\b(?:but|however|whereas|although|yet)\b", re.I)
@@ -109,6 +118,11 @@ def skill_mentions(text: str) -> list[tuple[str, int, int]]:
                     if name == "Compliance" and re.search(r"\bvendor\s*$", left):
                         continue
                     found.add((name, start + match.start(), start + match.end()))
+        for match in _STACK_PATTERN.finditer(segment):
+            if negated_mention(segment, match.start(), match.end()):
+                continue
+            stack = match.group(0).split()[0].upper()
+            found.update((name, start + match.start(), start + match.end()) for name in STACKS[stack])
     # Aliases can contain the canonical name. Keep the widest occurrence once.
     return sorted((item for item in found if not any(
         other[0] == item[0] and other != item and other[1] <= item[1] and other[2] >= item[2]

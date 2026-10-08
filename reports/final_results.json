@@ -1,7 +1,7 @@
 {
   "note": "Offline re-run of both saved demos with SerpApi requests blocked. Seed 2026, threshold 0.5, core share 0.25.",
   "before_commit": "d63e38d",
-  "after_commit": "9dfedb6",
+  "after_commit": "the commit that last changed this file",
   "before": {
     "Bengaluru": {
       "matches": 8,
@@ -96,18 +96,18 @@
       "eligible": 23,
       "scored": 19,
       "ignored": 4,
-      "matches": 5,
+      "matches": 8,
       "fastest_win": "REST API",
       "biggest_unlock": "React",
       "ranked": [
         {
           "skill": "REST API",
           "display_skill": "REST API",
-          "unlocked": 7,
+          "unlocked": 9,
           "appears_in": 11,
           "hours": 3.12,
           "course_confidence": "standard",
-          "jobs_per_hour": 2.245,
+          "jobs_per_hour": 2.886,
           "videos": [
             {
               "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
@@ -132,11 +132,11 @@
         {
           "skill": "React",
           "display_skill": "React",
-          "unlocked": 10,
+          "unlocked": 11,
           "appears_in": 13,
           "hours": 5.09,
           "course_confidence": "standard",
-          "jobs_per_hour": 1.964,
+          "jobs_per_hour": 2.16,
           "videos": [
             {
               "title": "React Tutorial Full Course - Beginner to Pro (React 19, 2025)",
@@ -161,11 +161,11 @@
         {
           "skill": "Responsive Design",
           "display_skill": "Responsive Design",
-          "unlocked": 3,
+          "unlocked": 6,
           "appears_in": 9,
           "hours": 2.8,
           "course_confidence": "standard",
-          "jobs_per_hour": 1.071,
+          "jobs_per_hour": 2.142,
           "videos": [
             {
               "title": "Responsive Web Development Complete Course for Beginners | Tutorial + Full Project",
@@ -188,19 +188,9 @@
           ]
         },
         {
-          "skill": "Angular",
-          "display_skill": "Angular",
-          "unlocked": 4,
-          "appears_in": 8,
-          "hours": null,
-          "course_confidence": "low",
-          "jobs_per_hour": null,
-          "videos": []
-        },
-        {
           "skill": "Git",
           "display_skill": "Git",
-          "unlocked": 3,
+          "unlocked": 6,
           "appears_in": 7,
           "hours": null,
           "course_confidence": "low",
@@ -209,21 +199,21 @@
         }
       ],
       "bootstrap": {
-        "top_share": 0.63,
+        "top_share": 0.684,
         "shares": {
-          "REST API": 0.63,
-          "React": 0.278,
-          "Responsive Design": 0.088,
-          "No scored pick": 0.004
+          "REST API": 0.684,
+          "Responsive Design": 0.184,
+          "React": 0.112,
+          "No scored pick": 0.02
         },
         "samples": 500
       },
       "hour_variation": {
-        "top_share": 0.5893,
+        "top_share": 0.5207,
         "checks": 1500,
         "by_threshold": {
-          "0.4": 0.788,
-          "0.5": 0.716,
+          "0.4": 0.548,
+          "0.5": 0.75,
           "0.6": 0.264
         }
       },
@@ -231,30 +221,23 @@
       "two_skill_plan": {
         "skills": [
           "React",
-          "Responsive Design"
+          "REST API"
         ],
-        "unlocked": 14,
-        "hours": 7.89
+        "unlocked": 11,
+        "hours": 8.21
       },
       "curve": [
         {
           "skill": "REST API",
           "hours": 3.12,
           "cumulative_hours": 3.12,
-          "gained": 7,
-          "total": 12
-        },
-        {
-          "skill": "Responsive Design",
-          "hours": 2.8,
-          "cumulative_hours": 5.92,
-          "gained": 5,
+          "gained": 9,
           "total": 17
         },
         {
           "skill": "React",
           "hours": 5.09,
-          "cumulative_hours": 11.01,
+          "cumulative_hours": 8.21,
           "gained": 2,
           "total": 19
         }
@@ -262,8 +245,8 @@
       "greedy_vs_exact": [
         {
           "budget": 5,
-          "greedy": 7,
-          "exact": 7,
+          "greedy": 9,
+          "exact": 9,
           "greedy_skills": [
             "REST API"
           ],
@@ -274,38 +257,35 @@
         },
         {
           "budget": 10,
-          "greedy": 12,
-          "exact": 14,
+          "greedy": 11,
+          "exact": 11,
           "greedy_skills": [
             "REST API",
-            "Responsive Design"
+            "React"
           ],
           "exact_skills": [
-            "React",
-            "Responsive Design"
+            "React"
           ],
           "candidates": 3
         },
         {
           "budget": 15,
-          "greedy": 14,
-          "exact": 14,
+          "greedy": 11,
+          "exact": 11,
           "greedy_skills": [
             "REST API",
-            "Responsive Design",
             "React"
           ],
           "exact_skills": [
-            "React",
-            "Responsive Design"
+            "React"
           ],
           "candidates": 3
         }
       ],
       "distance": {
-        "0": 5,
+        "0": 8,
         "1": 11,
-        "2": 3,
+        "2": 0,
         "3+": 0,
         "Unknown": 4
       }
