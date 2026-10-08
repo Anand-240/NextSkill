@@ -375,6 +375,18 @@ class EngineTests(unittest.TestCase):
         self.assertEqual(canonical_manual_skills("R, basic Python"), {"R", "Python"})
         self.assertEqual(canonical_manual_skills("No experience with R, Go, C"), set())
 
+    def test_short_negation_and_learning_phrases(self):
+        cases = {"Excel (basic), no Tableau": {"Excel"}, "Familiar with React; not Angular.": {"React"},
+                 "without SQL or Python": set(), "Tableau: no": set(), "Tableau: none yet, SQL: yes": {"SQL"},
+                 "currently learning Power BI": set(), "I am learning SQL, Python and Excel": set(),
+                 "without any Java": set(), "No Node.js, but React": {"React"},
+                 "Machine learning with Python": {"Machine Learning", "Python"},
+                 "Not only SQL but also Python.": {"SQL", "Python"}, "NoSQL databases": {"NoSQL"},
+                 "Note: SQL required": {"SQL"}}
+        for text, expected in cases.items():
+            self.assertEqual(extract_skills(text, resume=True), expected, text)
+        self.assertEqual(canonical_manual_skills("SQL, no Tableau, learning Python"), {"SQL"})
+
     def test_only_listing_alternatives_are_interchangeable(self):
         self.assertEqual(coverage(requirements_from_text("React is mandatory."), {"Angular"}), 0)
         self.assertEqual(coverage(requirements_from_text("AWS is required."), {"Azure"}), 0)

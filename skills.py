@@ -69,6 +69,15 @@ for names in SKILLS.values():
             _patterns[canonical].append(re.compile(r"(?<!\w)" + guard + re.escape(term) + r"(?!\w)", flags))
 
 
+_ALL_TERMS = sorted({term for names in SKILLS.values() for canonical in names
+                     for term in [canonical, *ALIASES.get(canonical, [])]} | set(STACKS), key=len, reverse=True)
+# A run of skill names joined by commas, slashes, "or" or "and", so one cue covers the whole list.
+_CHAIN = r"(?:(?:" + "|".join(re.escape(term) for term in _ALL_TERMS) + r")(?:\s+[Ss]tack)?\s*(?:,|/|\bor\b|\band\b)\s*)*"
+# "no Tableau", "not Angular", "without SQL or Python", "currently learning Power BI".
+_SHORT_NEGATION = re.compile(
+    r"(?:\b(?:no|not|without)|(?<!machine )(?<!deep )(?<!e-)(?<!reinforcement )(?<!transfer )"
+    r"\b(?:currently\s+|still\s+)?learning)\s+(?:(?:any|prior|much|formal|real)\s+)?" + _CHAIN + r"$", re.I)
+
 _BOUNDARY = re.compile(r"(?<=[.!?;])\s+|\n+|[•●▪]|\b(?:but|however|whereas|although|yet)\b", re.I)
 _NEGATION = re.compile(
     r"\b(?:no\s+(?:prior\s+)?(?:experience|knowledge)\s+(?:with|in|of)|"
@@ -86,6 +95,8 @@ def negated_mention(text: str, start: int, end: int) -> bool:
     left = text[boundaries[-1].end() if boundaries else 0:start]
     negatives = list(_NEGATION.finditer(left))
     return bool((negatives and not _POSITIVE_RESET.search(left, negatives[-1].end())) or
+                _SHORT_NEGATION.search(left[-160:]) or
+                re.match(r"\s*:\s*(?:no|none|nil)\b", text[end:end + 10], re.I) or
                 re.match(r"\s+(?:is\s+|are\s+)?(?:not\s+required|not\s+needed)\b", text[end:end + 25], re.I))
 
 
