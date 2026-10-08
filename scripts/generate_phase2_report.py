@@ -109,7 +109,7 @@ def main() -> None:
               "Nine offline unit tests passed, covering core selection, pair planning, course filtering and fallback, limited data, matching, freshness, deduplication and ranking. Run: `PYTHONPATH=nextskill python3 -m unittest discover -s nextskill/tests -q`.",
               "Streamlit rendered both cached demos end to end: [Noida screenshot](../screenshots/phase2_noida.png) and [Frontend screenshot](../screenshots/phase2_frontend.png).", "",
               "Documentation checked: [Google Jobs API](https://serpapi.com/google-jobs-api), [YouTube Search API](https://serpapi.com/youtube-search-api), [SerpApi filter guidance](https://serpapi.com/blog/youtube-sp-filters-paginating-sorting-and-filtering-with-the-youtube-api/), [YouTube video fields](https://serpapi.com/youtube-video-results).", ""]
-    path = ROOT / "reports" / "phase2_report.md"
+    path = ROOT / "reports" / "archive" / "phase2_report.md"
     path.write_text("\n".join(lines))
     print(f"report={path}")
     print(f"credits={after['this_month_usage'] - before['this_month_usage']} attempted={ledger['real_calls']}")

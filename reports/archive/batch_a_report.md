@@ -4,14 +4,14 @@ No SerpApi searches or Account API calls were made for this batch. All figures b
 
 ## What changed
 
-1. Copied the validation report into this repository at [validation_check.md](validation_check.md) and fixed the README link.
+1. Copied the validation report into this repository at [validation_check.md](../validation_check.md) and fixed the README link.
 2. Added minimum-years parsing for numeric experience and seniority words in titles. The app separates jobs above the chosen experience level and excludes them from readiness and unlocks.
 3. Added BI, frontend-framework, and cloud substitute groups, plus explicit `X or Y` / `X/Y` alternatives. Either member satisfies one requirement. The most-demanded group member names the recommendation. Two-skill plans never combine overlapping alternatives.
 4. Added a ranking robustness panel for thresholds 0.4, 0.5, 0.6 and learning-hour factors 0.5 and 1.5, using only cached duration data. Hour estimates display an approximate ±25% range.
 5. Added a sample-size badge: High at 25+ eligible listings, Medium at 12–24, Low below 12.
 6. Added a dictionary-coverage warning when the median detected skills per eligible listing is below three.
 7. Added pypdf resume upload. Text-based PDFs use the existing matcher; blank/scanned PDFs request pasted text.
-8. Recomputed six personas, updated the README and captured new screenshots: [Noida](../screenshots/batch_a_noida.png) and [Bengaluru](../screenshots/batch_a_frontend.png).
+8. Recomputed six personas, updated the README and captured new screenshots: [Noida](../../screenshots/batch_a_noida.png) and [Bengaluru](../../screenshots/batch_a_frontend.png).
 
 ## Before and after personas
 

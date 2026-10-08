@@ -2,7 +2,7 @@
 
 Run at 2026-10-07T19:41:19.010089+00:00 UTC.
 
-Matcher precision on 20 fixed random matches: 80% before (16/20), 100% after (16/16 retained). See [audit](matcher_audit.md) for the sentences and flags.
+Matcher precision on 20 fixed random matches: 80% before (16/20), 100% after (16/16 retained). See [audit](../matcher_audit.md) for the sentences and flags.
 
 ## Credits
 
@@ -58,7 +58,7 @@ Search replay:
 
 ## App verification
 
-Seven offline unit tests passed. Streamlit rendered both the saved-data and live-data runs end to end. Screenshots: [saved-data](../screenshots/fixture.png), [live-data](../screenshots/live.png).
+Seven offline unit tests passed. Streamlit rendered both the saved-data and live-data runs end to end. Screenshots: [saved-data](../../screenshots/fixture.png), [live-data](../../screenshots/live.png).
 
 Learning hours are the median duration of up to three eligible free course videos per skill; videos under 20 minutes are excluded. These estimates do not guarantee job readiness or hiring.
 

@@ -89,4 +89,4 @@ Titles and channels indicating unrequested languages are excluded before both pr
 - Matcher audit wording retains the sample denominators and explicitly states that recall was not measured.
 - 43 offline tests passed, including new regression tests for every requested correction and demo/live presentation. The live presentation test mocks the result and account methods and performs no live request.
 
-Screenshots: [Noida](../screenshots/batch_e_noida.png), [Bengaluru](../screenshots/batch_e_frontend.png), [Noida curve](../screenshots/batch_e_noida_plan.png), [Bengaluru curve](../screenshots/batch_e_frontend_plan.png), [Noida distance](../screenshots/batch_e_noida_distance.png), [Bengaluru distance](../screenshots/batch_e_frontend_distance.png).
+Screenshots: [Noida](../../screenshots/batch_e_noida.png), [Bengaluru](../../screenshots/batch_e_frontend.png), [Noida curve](../../screenshots/batch_e_noida_plan.png), [Bengaluru curve](../../screenshots/batch_e_frontend_plan.png), [Noida distance](../../screenshots/batch_e_noida_distance.png), [Bengaluru distance](../../screenshots/batch_e_frontend_distance.png).

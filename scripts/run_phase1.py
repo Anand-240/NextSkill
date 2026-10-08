@@ -48,7 +48,7 @@ def main() -> None:
              "", "## App verification", "", "Seven offline unit tests passed. Streamlit rendered both the saved-data and live-data runs end to end. Screenshots: [saved-data](../screenshots/fixture.png), [live-data](../screenshots/live.png).",
              "", "Learning hours are the median duration of up to three eligible free course videos per skill; videos under 20 minutes are excluded. These estimates do not guarantee job readiness or hiring.", "",
              "API field references: [Google Jobs](https://serpapi.com/google-jobs-api), [YouTube search](https://serpapi.com/youtube-search-api), [YouTube video results](https://serpapi.com/youtube-video-results), [Account](https://serpapi.com/account-api).", ""]
-    report = ROOT / "reports" / "phase1_report.md"
+    report = ROOT / "reports" / "archive" / "phase1_report.md"
     report.write_text("\n".join(lines))
     print("\n".join(lines[:12]))
     print(f"report={report}")

@@ -55,7 +55,7 @@ def main() -> None:
               "The [README](../README.md) explains the problem, Mermaid flow, SerpApi engines, screenshot examples, validation, limitations, setup, tests, AI tools and MIT licence. The [demo script](../DEMO.md) covers the three-minute recording.", "",
               "## Verification", "",
               "Twelve offline unit tests passed, including the new default, generic-skill exclusion and role-fit warning. The app was checked in Demo data mode for both saved roles. [Noida screenshot](../screenshots/phase3_noida.png) · [Frontend screenshot](../screenshots/phase3_frontend.png).", ""]
-    path = ROOT / "reports" / "phase3_report.md"
+    path = ROOT / "reports" / "archive" / "phase3_report.md"
     path.write_text("\n".join(lines))
     print(f"report={path}")
     print(f"default={DEFAULT_THRESHOLD}")

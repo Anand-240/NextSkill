@@ -41,8 +41,8 @@ Each `value×count` is the share of a job's core skills present in the persona r
 
 > Learn the one skill that unlocks the most real jobs, in the least time.
 
-The [README](../README.md) explains the problem, Mermaid flow, SerpApi engines, screenshot examples, validation, limitations, setup, tests, AI tools and MIT licence. The [demo script](../DEMO.md) covers the three-minute recording.
+The [README](../../README.md) explains the problem, Mermaid flow, SerpApi engines, screenshot examples, validation, limitations, setup, tests, AI tools and MIT licence. The [demo script](../../DEMO.md) covers the three-minute recording.
 
 ## Verification
 
-Twelve offline unit tests passed, including the new default, generic-skill exclusion and role-fit warning. The app was checked in Demo data mode for both saved roles. [Noida screenshot](../screenshots/phase3_noida.png) · [Frontend screenshot](../screenshots/phase3_frontend.png).
+Twelve offline unit tests passed, including the new default, generic-skill exclusion and role-fit warning. The app was checked in Demo data mode for both saved roles. [Noida screenshot](../../screenshots/phase3_noida.png) · [Frontend screenshot](../../screenshots/phase3_frontend.png).

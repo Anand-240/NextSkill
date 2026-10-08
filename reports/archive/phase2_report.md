@@ -93,6 +93,6 @@ Titles must include full course, complete, course, masterclass, or bootcamp and 
 ## Verification
 
 Nine offline unit tests passed, covering core selection, pair planning, course filtering and fallback, limited data, matching, freshness, deduplication and ranking. Run: `PYTHONPATH=nextskill python3 -m unittest discover -s nextskill/tests -q`.
-Streamlit rendered both cached demos end to end: [Noida screenshot](../screenshots/phase2_noida.png) and [Frontend screenshot](../screenshots/phase2_frontend.png).
+Streamlit rendered both cached demos end to end: [Noida screenshot](../../screenshots/phase2_noida.png) and [Frontend screenshot](../../screenshots/phase2_frontend.png).
 
 Documentation checked: [Google Jobs API](https://serpapi.com/google-jobs-api), [YouTube Search API](https://serpapi.com/youtube-search-api), [SerpApi filter guidance](https://serpapi.com/blog/youtube-sp-filters-paginating-sorting-and-filtering-with-the-youtube-api/), [YouTube video fields](https://serpapi.com/youtube-video-results).

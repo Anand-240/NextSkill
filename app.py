@@ -76,9 +76,12 @@ with st.sidebar:
         if st.session_state.live_mode:
             st.session_state.demo_mode = False
 
-    demo = st.toggle("Demo data", value=True, key="demo_mode", on_change=_demo_on,
+    # Defaults live in session state only; passing value= as well triggers a Streamlit warning.
+    st.session_state.setdefault("demo_mode", True)
+    st.session_state.setdefault("live_mode", False)
+    demo = st.toggle("Demo data", key="demo_mode", on_change=_demo_on,
                      help="Replays the saved Noida and Bengaluru job responses with no SerpApi calls.")
-    live = st.toggle("Live search", value=False, key="live_mode", on_change=_live_on,
+    live = st.toggle("Live search", key="live_mode", on_change=_live_on,
                      disabled=not live_available,
                      help="Uses SerpApi for a new role and city when you press the search button.")
     if not demo and not live:
@@ -111,7 +114,7 @@ with st.sidebar:
         remaining = live_credit_balance(key_id())
         st.caption(f"SerpApi credits remaining (Account API): {remaining}." if remaining is not None
                    else "SerpApi credit balance unavailable.")
-    go = st.button("Find my next skill", type="primary", use_container_width=True, disabled=not (demo or live))
+    go = st.button("Find my next skill", type="primary", width="stretch", disabled=not (demo or live))
 
 auto_demo = demo and not st.session_state.get("demo_initial_search_done", False)
 if go or auto_demo:
@@ -395,7 +398,7 @@ if result:
                            "Listings asking": f"{item['market']} of {item['market_total']}",
                            "Also unlocks": f"{item['other_unlocks']} other listings" if item["action"] == "learn" else "",
                            "Time": time_cell(item)} for item in plan["items"]],
-                         hide_index=True, use_container_width=True)
+                         hide_index=True, width="stretch")
             for action, heading in (("revise", "Revise: skills you have that this job asks for"),
                                     ("learn", "Learn: skills this job asks for that you lack")):
                 rows = [item for item in plan["items"] if item["action"] == action]

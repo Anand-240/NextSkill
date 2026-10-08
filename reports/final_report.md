@@ -59,6 +59,6 @@ Skill distance, Bengaluru: 0 skills 5, 1 skill 11, 2 skills 3, 3+ none, unknown 
 
 ## Verification
 
-- 46 offline tests pass, including standalone `JS` matching and both the same-skill and different-skill pick layouts.
+- At the time of this report, 46 offline tests passed, including standalone `JS` matching and both pick layouts. The suite has since grown; see the README for the current count.
 - Screenshots: [Bengaluru](../screenshots/final_frontend.png), [Noida](../screenshots/final_noida.png), [Bengaluru curve](../screenshots/final_frontend_plan.png), [Noida curve](../screenshots/final_noida_plan.png), [Bengaluru distance](../screenshots/final_frontend_distance.png), [Noida distance](../screenshots/final_noida_distance.png), [Search Replay](../screenshots/final_replay.png).
-- Earlier behaviour is recorded in the [Batch E report](batch_e_report.md).
+- Earlier behaviour is recorded in the [Batch E report](archive/batch_e_report.md).
