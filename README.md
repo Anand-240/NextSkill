@@ -91,6 +91,10 @@ The app also resamples the eligible listings **500 times** with a fixed seed and
 
 The live product needs current local job and course data; the bundled data exists to make the demo and tests reproducible. Live responses are cached in `cache/`. Searches use a 75-second timeout and do not retry on timeout.
 
+## Data sources
+
+The bundled responses in `demo_data/` and `tests/fixtures/` contain Google Jobs and YouTube results retrieved through SerpApi. Job descriptions belong to their original publishers; video titles, channel names, and links credit their creators. Reports quote these results, and screenshots show the NextSkill interface with that third-party content. Contact emails and phone numbers in the bundled responses are redacted. NextSkill's MIT licence covers its own code, not ownership or relicensing of the source listings, video metadata, logos, or other third-party material; their original rights and terms still apply.
+
 ## Use live search locally
 
 1. Copy `.env.example` to `.env` and set `SERPAPI_KEY` to your own key. You can also provide the key through the environment or a private Streamlit secret.
@@ -129,7 +133,7 @@ Run the offline suite from the repository root:
 python -m unittest discover -s tests -q
 ```
 
-The suite currently has **33 tests** and makes no SerpApi calls. `.github/workflows/tests.yml` runs it on pushes and pull requests. To capture screenshots locally, install `requirements-dev.txt`, start the app, then run `python -m scripts.capture_screenshots batch_d_noida`. Run other development scripts with `python -m scripts.<module>` from the repository root. Playwright is a development dependency, not required to run the app.
+The suite currently has **33 tests** and makes no SerpApi calls. `.github/workflows/tests.yml` runs it on pushes and pull requests. To capture screenshots locally, install `requirements-dev.txt`, run `python -m playwright install chromium`, start the app, then run `python -m scripts.capture_screenshots batch_d_noida`. Run other development scripts with `python -m scripts.<module>` from the repository root. Playwright is a development dependency, not required to run the app.
 
 **Stack:** Python 3.10+, Streamlit, Altair, pypdf, standard-library HTTP and JSON, and SerpApi. OpenAI Codex assisted with implementation, tests, analysis, and documentation. The running app does not call an LLM.
 
