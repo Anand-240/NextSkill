@@ -16,7 +16,11 @@ class PresentationTests(unittest.TestCase):
             app = AppTest.from_file(str(ROOT / "app.py"), default_timeout=120).run()
             self.assertFalse(app.exception)
             self.assertEqual(app.subheader[0].value,
-                             "Your profile matches 9 of 19 saved listings in Bengaluru.")
+                             "Learn REST API next: +8 more matching listings, about 3 hours of free courses.")
+            self.assertIn("**Your profile matches 9 of 19 saved listings in Bengaluru.**",
+                          [item.value for item in app.markdown])
+            self.assertIn("About this sample", [item.label for item in app.expander])
+            self.assertFalse(any("🥇" in item.value for item in app.markdown))  # Uncertain pick: no medal.
             captions = "\n".join(item.value for item in app.caption)
             self.assertIn("Snapshot date: 2026-10-07 (UTC)", captions)
             self.assertIn("23 eligible listings", captions)
@@ -30,9 +34,9 @@ class PresentationTests(unittest.TestCase):
                 app.sidebar.toggle[1].set_value(True).run()
                 app.sidebar.button[0].click().run()
             self.assertFalse(app.exception)
-            self.assertEqual(app.subheader[0].value,
-                             "Your profile matches 9 of 19 listings found now in Bengaluru.")
-            self.assertNotIn("ready for", app.subheader[0].value)
+            text = [item.value for item in app.markdown]
+            self.assertIn("**Your profile matches 9 of 19 listings found now in Bengaluru.**", text)
+            self.assertFalse(any("ready for" in value or "within reach" in value for value in text))
 
     def test_fastest_win_and_biggest_unlock_cards(self):
         with patch("engine.optional_serpapi_key", return_value=None), \
@@ -46,13 +50,15 @@ class PresentationTests(unittest.TestCase):
             captions = "\n".join(item.value for item in app.caption)
             self.assertIn("A short course can win per hour even if it opens fewer jobs. Compare both before choosing.", captions)
             result = app.session_state["result"]
-            single = {**result, "ranked": result["ranked"][:1]}
+            single = {**result, "ranked": result["ranked"][:1],
+                      "robustness": {**result["robustness"], "label": "Likely"}}
             st.cache_data.clear()  # The demo result is cached; force the patched run.
             with patch("engine.run", return_value=single):
                 app.sidebar.button[0].click().run()
             self.assertFalse(app.exception)
             text = "\n".join(item.value for item in app.markdown)
             self.assertIn("**Fastest win and biggest unlock: REST API**", text)
+            self.assertIn("#### 🥇 REST API", text)  # Likely confidence keeps the medal.
             self.assertNotIn("**Biggest unlock: ", text)
 
     def test_job_prep_section_defaults_to_the_demo_job_and_switches(self):
@@ -69,7 +75,7 @@ class PresentationTests(unittest.TestCase):
             captions = "\n".join(item.value for item in app.caption)
             self.assertIn("Quick revision videos. Not a full course and not a guarantee.", captions)
             self.assertIn("Revision videos available in live search.", captions)
-            self.assertEqual(app.subheader[0].value, "Your profile matches 9 of 19 saved listings in Bengaluru.")
+            self.assertIn("**Your profile matches 9 of 19 saved listings in Bengaluru.**", [item.value for item in app.markdown])
             prep_buttons = [button for button in app.button if button.key and button.key.startswith("prep_")]
             self.assertEqual(len(prep_buttons), 19)
             target = next(button for button in prep_buttons if button.key != "prep_1")

@@ -78,8 +78,9 @@ with st.sidebar:
     manual = st.text_area("Or list skills (comma separated)", "", height=80)
     experience_level = st.selectbox("Experience level", ["Fresher", "1-3 years", "3+ years"],
                                    help="Uses the minimum of each band: 0, 1 or 3 years. Explicit listing requirements take precedence over titles.")
-    threshold = st.slider("Within reach threshold", 0.2, 1.0, DEFAULT_THRESHOLD, 0.05)
-    core_share = st.slider("Core skill frequency", 0.1, 0.5, 0.25, 0.05, help="A skill is core if it appears in at least this share of fetched jobs.")
+    threshold = st.slider("Match threshold", 0.2, 1.0, DEFAULT_THRESHOLD, 0.05,
+                          help="A listing matches when your profile covers at least this share of its core skills.")
+    core_share = st.slider("Core skill frequency", 0.1, 0.5, 0.25, 0.05, help="A skill is core if it appears in at least this share of eligible listings.")
     include_hindi = st.toggle("Include Hindi videos", False)
     exclude_old = st.toggle("Exclude jobs older than 30 days", False)
     pages = st.selectbox("Job pages", [1, 2, 3], index=2 if demo else 0)
@@ -132,12 +133,16 @@ result = st.session_state.get("result")
 if result:
     count = len(result["jobs"])
     source_label = "saved listings" if st.session_state.get("replay_mode") else "listings found now"
-    st.subheader(f"Your profile matches {result['ready']} of {count} {source_label} in {result['city']}.")
+    picks = headline_picks(result["ranked"])
+    fastest = picks["fastest"]
+    if fastest:
+        gained, course_hours = fastest["unlocked_count"], max(1, round(fastest["hours"]))
+        st.subheader(f"Learn {fastest['display_skill']} next: +{gained} more matching listing{'s' if gained != 1 else ''}, "
+                     f"about {course_hours} hour{'s' if course_hours != 1 else ''} of free courses.")
+    st.markdown(f"**Your profile matches {result['ready']} of {count} {source_label} in {result['city']}.**")
     dates = result["retrieved_dates"]
     snapshot_date = dates[0] if len(dates) == 1 else f"{dates[0]} to {dates[-1]}" if dates else "unknown"
-    st.caption(f"Snapshot date: {snapshot_date} (UTC). Posting ages include time elapsed since retrieval.")
-    st.caption(f"{result['eligible_count']} eligible listings remain after experience and date filters; {count} have detected core requirements and are scored; {result['ignored']} have no detected core requirements.")
-    st.caption(f"Based on {result['eligible_count']} listings · {result['listing_confidence']} confidence in sample size")
+    st.caption(f"Snapshot date: {snapshot_date} (UTC). A match means your profile covers enough of a listing's core skills; it is not a hiring prediction.")
     if result["limited_data"]:
         st.warning("Limited data: fewer than 12 distinct jobs were found. Treat the ranking as exploratory.")
     if result["role_fit_warning"]:
@@ -147,15 +152,18 @@ if result:
     credit_update = st.session_state.get("credit_update")
     if credit_update:
         st.info(f"SerpApi credits used in this live run: {credit_update['after']['this_month_usage'] - credit_update['before']['this_month_usage']}. Remaining: {credit_update['after']['total_searches_left']}.")
-    st.caption(f"{result['ignored']} jobs ignored because no core skills were detected. {result['raw'] - result['deduplicated']} likely duplicates removed. Core skills appear in at least {result['core_share']:.0%} of fetched jobs. These are matching signals, not a promise of hiring.")
     excluded = result["experience_excluded"]
-    st.caption(f"{len(excluded)} jobs set aside because they need more experience than the selected level.")
-    if excluded:
-        with st.expander(f"Needs more experience ({len(excluded)})"):
+    with st.expander("About this sample"):
+        st.caption(f"{result['eligible_count']} eligible listings remain after experience and date filters; {count} have detected core requirements and are scored; {result['ignored']} have no detected core requirements.")
+        st.caption(f"Based on {result['eligible_count']} listings · {result['listing_confidence']} confidence in sample size. {result['raw'] - result['deduplicated']} likely duplicates removed. Core skills appear in at least {result['core_share']:.0%} of eligible listings.")
+        st.caption(f"{len(excluded)} jobs set aside because they need more experience than the selected level.")
+        st.caption("The experience level changes the sample: Fresher searches also run fresher and junior versions of the role, and each level keeps listings whose stated minimum is at most 0, 1 or 3 years.")
+        if excluded:
+            st.markdown(f"**Needs more experience ({len(excluded)})**")
             for row in excluded:
                 job = row["job"]
                 link = job.get("source_link") or job.get("share_link")
-                label = f"{job.get('title') or 'Untitled'} — {job.get('company_name') or 'Unknown company'} · {row['reason']}"
+                label = f"{job.get('title') or 'Untitled'} · {job.get('company_name') or 'Unknown company'} · {row['reason']}"
                 st.markdown(f"- [{label}]({link})" if link else f"- {label}")
     st.markdown("### Skills that could open more jobs")
     robustness = result["robustness"]
@@ -177,11 +185,10 @@ if result:
             st.write("The top scored skill stays first in every checked setting.")
     if not result["ranked"]:
         st.info(no_unlock_message(result))
-    picks = headline_picks(result["ranked"])
 
     def pick_summary(row):
-        return (f"+{row['unlocked_count']} jobs · {hours_range(row['hours'])}" +
-                (f" · {row['score']:.2f} jobs per hour" if row["score"] is not None else ""))
+        return (f"+{row['unlocked_count']} matches · {hours_range(row['hours'])}" +
+                (f" · {row['score']:.2f} matches per course hour" if row["score"] is not None else ""))
 
     if picks["same"]:
         with st.container(border=True):
@@ -189,8 +196,8 @@ if result:
             st.caption(pick_summary(picks["fastest"]))
     elif picks["biggest"]:
         columns = st.columns(2)
-        for column, key, label, note in ((columns[0], "fastest", "Fastest win", "Most jobs unlocked per learning hour"),
-                                         (columns[1], "biggest", "Biggest unlock", "Most jobs unlocked, regardless of hours")):
+        for column, key, label, note in ((columns[0], "fastest", "Fastest win", "Most new matches per course hour"),
+                                         (columns[1], "biggest", "Biggest unlock", "Most new matches, regardless of hours")):
             row = picks[key]
             with column.container(border=True):
                 st.markdown(f"**{label}: {row['display_skill']}**" if row else f"**{label}: unavailable**")
@@ -200,20 +207,21 @@ if result:
     for index, item in enumerate(result["ranked"]):
         with st.container(border=True):
             display_skill = item.get("display_skill", item["skill"])
-            title = f"🥇 {display_skill}" if index == 0 and item["score"] is not None and not result["limited_data"] else display_skill
+            confident = result["robustness"]["label"] in {"Strong", "Likely"}
+            title = f"🥇 {display_skill}" if index == 0 and confident and item["score"] is not None and not result["limited_data"] else display_skill
             st.markdown(f"#### {title}")
             a, b, c = st.columns(3)
-            a.metric("Jobs unlocked", f"+{item['unlocked_count']}")
+            a.metric("More matches", f"+{item['unlocked_count']}")
             b.metric("Estimated learning hours", hours_range(item["hours"]))
-            c.metric("Jobs per learning hour", f"{item['score']:.2f}" if item["score"] is not None else "Unavailable")
+            c.metric("Matches per course hour", f"{item['score']:.2f}" if item["score"] is not None else "Unavailable")
             if item["confidence"] == "low" and item["hours"] is not None:
                 st.caption("Low confidence: fewer than two qualifying full courses; estimate uses videos of at least 30 minutes.")
             if item["videos"]:
                 st.markdown("**Videos behind this hour estimate**")
                 for video in item["videos"]:
                     st.markdown(f"- [{video['title']}]({video['link']}) — {video['channel']} · {video['duration']}")
-            st.write(f"{display_skill} is requested in {item['appears_in']} of {count} jobs.")
-            with st.expander(f"{item['unlocked_count']} jobs this skill could unlock"):
+            st.write(f"{display_skill} is requested in {item['appears_in']} of {count} scored listings.")
+            with st.expander(f"{item['unlocked_count']} listings this skill would add as matches"):
                 for job in item["unlocked_jobs"]:
                     link = job.get("source_link") or job.get("share_link") or ""
                     age_label = " · older than 30 days" if is_old(job) else ""
@@ -253,7 +261,7 @@ if result:
     labels = alt.Chart(curve_data).mark_text(dy=-14).encode(
         x="hours:Q", y="jobs:Q", text="label:N")
     st.altair_chart(line + labels, width="stretch")
-    st.caption("Each point shows how many eligible jobs would be within reach after learning the named skill; course length is only a study-time estimate.")
+    st.caption("Each point shows how many listings would match after learning the named skill; course length is only a study-time estimate.")
     if steps:
         st.dataframe([{"Step": step["step"], "Skill": display_names.get(step["skill"], step["skill"]),
                        "Hours range": hours_range(step["hours"]),
