@@ -43,6 +43,10 @@ ALIASES = {
 }
 
 AMBIGUOUS = {"R", "Go", "C"}
+# "JS" and "TS" are suffixes in names such as Node.js or React JS, not a separate skill.
+_FRAMEWORKS = "Node|Next|Nest|Nuxt|Vue|React|Express|Angular|Ember|Backbone|Three|D3|Chart|Svelte|Solid|Alpine|Deno".split("|")
+_SUFFIX_GUARD = r"(?<!\.)" + "".join(f"(?<!{name} )(?<!{name}-)" for name in _FRAMEWORKS)
+STANDALONE_ONLY = {"JS", "TS"}
 GENERIC = {"Data Analysis", "Business Intelligence", "Digital Marketing", "Graphic Design",
            "Compliance", "Machine Learning", "Communication", "Problem Solving",
            "Teamwork", "Analytical Skills", "UI/UX"}
@@ -52,7 +56,8 @@ for names in SKILLS.values():
         terms = ([] if canonical in AMBIGUOUS else [canonical]) + ALIASES.get(canonical, [])
         for term in terms:
             # Unicode-aware boundaries prevent matching inside names such as PowerBIA or MySQL2.
-            _patterns[canonical].append(re.compile(r"(?<!\w)" + re.escape(term) + r"(?!\w)", re.I))
+            guard = _SUFFIX_GUARD if term in STANDALONE_ONLY else ""
+            _patterns[canonical].append(re.compile(r"(?<!\w)" + guard + re.escape(term) + r"(?!\w)", re.I))
 
 
 _BOUNDARY = re.compile(r"(?<=[.!?;])\s+|\n+|[•●▪]|\b(?:but|however|whereas|although|yet)\b", re.I)

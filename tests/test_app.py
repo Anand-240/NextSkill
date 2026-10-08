@@ -15,7 +15,7 @@ class PresentationTests(unittest.TestCase):
             app = AppTest.from_file(str(ROOT / "app.py"), default_timeout=120).run()
             self.assertFalse(app.exception)
             self.assertEqual(app.subheader[0].value,
-                             "Your profile matches 8 of 19 saved listings in Bengaluru.")
+                             "Your profile matches 5 of 19 saved listings in Bengaluru.")
             captions = "\n".join(item.value for item in app.caption)
             self.assertIn("Snapshot date: 2026-10-07 (UTC)", captions)
             self.assertIn("23 eligible listings", captions)
@@ -30,7 +30,7 @@ class PresentationTests(unittest.TestCase):
                 app.sidebar.button[0].click().run()
             self.assertFalse(app.exception)
             self.assertEqual(app.subheader[0].value,
-                             "Your profile matches 8 of 19 listings found now in Bengaluru.")
+                             "Your profile matches 5 of 19 listings found now in Bengaluru.")
             self.assertNotIn("ready for", app.subheader[0].value)
 
     def test_readme_matcher_claim_retains_sample_size_and_recall_limit(self):

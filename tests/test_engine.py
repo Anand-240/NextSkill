@@ -32,6 +32,14 @@ class EngineTests(unittest.TestCase):
         self.assertEqual(canonical_manual_skills("R, Go, C"), {"R", "Go", "C"})
         self.assertNotIn("Digital Marketing", extract_skills("You don’t need to be a digital marketing expert."))
 
+    def test_js_alias_matches_only_as_a_standalone_token(self):
+        for text, expected in [("Node.js", {"Node.js"}), ("Next.js", {"Next.js"}), ("Vue.js", {"Vue.js"}),
+                               ("React.js", {"React"}), ("Node JS", {"Node.js"}), ("React JS", {"React"}),
+                               ("Express.js", set()), ("Nest.js and TS", {"TypeScript"})]:
+            self.assertEqual(extract_skills(text), expected, text)
+        for text in ("Strong JS skills", "HTML, CSS, JS", "JS/TS", "Node.js and JS"):
+            self.assertIn("JavaScript", extract_skills(text), text)
+
     def test_rest_api_requires_api_or_service_context(self):
         for sentence in ("Integrate REST API endpoints.", "Use REST APIs for backend calls.",
                          "Build RESTful APIs.", "Connect to REST services.", "Maintain RESTful services."):
