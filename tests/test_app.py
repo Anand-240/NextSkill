@@ -53,6 +53,30 @@ class PresentationTests(unittest.TestCase):
             self.assertIn("**Fastest win and biggest unlock: REST API**", text)
             self.assertNotIn("**Biggest unlock: ", text)
 
+    def test_job_prep_section_defaults_to_the_demo_job_and_switches(self):
+        with patch("engine.optional_serpapi_key", return_value=None), \
+             patch("engine._request", side_effect=AssertionError("network requested")):
+            app = AppTest.from_file(str(ROOT / "app.py"), default_timeout=120).run()
+            self.assertFalse(app.exception)
+            labels = [item.label for item in app.expander]
+            self.assertIn("Job Prep: Frontend Developer (Fresher) · Team Geek Solutions", labels)
+            text = "\n".join(item.value for item in app.markdown)
+            self.assertIn("you cover 3 of 7 core skills", text)
+            self.assertIn("[JavaScript Basics in 10 Minutes]", text)
+            self.assertIn("[CSS in 5 minutes]", text)
+            captions = "\n".join(item.value for item in app.caption)
+            self.assertIn("Quick revision videos. Not a full course and not a guarantee.", captions)
+            self.assertIn("Revision videos available in live search.", captions)
+            self.assertEqual(app.subheader[0].value, "Your profile matches 5 of 19 saved listings in Bengaluru.")
+            prep_buttons = [button for button in app.button if button.key and button.key.startswith("prep_")]
+            self.assertEqual(len(prep_buttons), 16)
+            target = next(button for button in prep_buttons if button.key != "prep_1")
+            target.click().run()
+            self.assertFalse(app.exception)
+            self.assertEqual(sum(item.label.startswith("Job Prep: ") for item in app.expander), 1)
+            self.assertNotIn("Job Prep: Frontend Developer (Fresher) · Team Geek Solutions",
+                             [item.label for item in app.expander])
+
     def test_readme_matcher_claim_retains_sample_size_and_recall_limit(self):
         readme = (ROOT / "README.md").read_text()
         self.assertIn("16 of 20 sampled matches were correct; after filters, the 16 retained matches were all correct; recall not measured", readme)

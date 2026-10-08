@@ -6,7 +6,9 @@ from resume_pdf import extract_pdf_text
 
 from engine import (DEFAULT_THRESHOLD, DICTIONARY_WARNING, ROLE_FIT_WARNING, ROOT, SerpClient,
                     headline_picks, hours_range, is_old, no_unlock_message, optional_serpapi_key,
-                    posted_text, run)
+                    posted_text, run, course_videos)
+from job_prep import (REVISION_LABEL, build_plan, default_prep_index, is_cached, prep_candidates,
+                      revision_params, revision_videos, time_range)
 
 st.set_page_config(page_title="NextSkill", page_icon="🎯", layout="wide")
 st.markdown("""<style>
@@ -273,6 +275,110 @@ if result:
                 link = job.get("source_link") or job.get("share_link")
                 label = f"{job.get('title') or 'Untitled'} — {job.get('company_name') or 'Unknown company'}"
                 st.markdown(f"- [{label}]({link})" if link else f"- {label}")
+    st.markdown("### Prepare for a specific job")
+    candidates = prep_candidates(result)
+    replay_mode = bool(st.session_state.get("replay_mode"))
+    st.caption("Listings that match your profile now or are one skill away. Choose one for a prep plan built from this search's own data.")
+    with st.expander(f"Choose a listing ({len(candidates)})"):
+        if not candidates:
+            st.caption("No listing matches now or is one skill away at this threshold.")
+        for row in candidates:
+            job = row["job"]
+            status = "Matches now" if row["status"] == "match" else "1 skill away: " + " or ".join(row["unlock_skills"])
+            left, right = st.columns([4, 1])
+            left.markdown(f"**{job.get('title') or 'Untitled'}** · {job.get('company_name') or 'Unknown company'} · {status}")
+            if right.button("Prepare for this job", key=f"prep_{row['index']}"):
+                st.session_state["prep_choice"] = (id(result), row["index"])
+    choice = st.session_state.get("prep_choice")
+    prep_index = choice[1] if choice and choice[0] == id(result) else (default_prep_index(result) if replay_mode else None)
+    if prep_index is not None:
+        prep_client = SerpClient(use_fixtures=replay_mode, cache_only=True)
+        languages = {"english", "hindi"} if include_hindi else {"english"}
+        plan = build_plan(result, prep_index, lambda skill: course_videos(skill, prep_client, include_hindi),
+                          lambda skill: revision_videos(skill, prep_client, languages))
+        job = plan["job"]
+        with st.expander(f"Job Prep: {job.get('title') or 'Untitled'} · {job.get('company_name') or 'Unknown company'}", expanded=True):
+            st.markdown(f"**Readiness for this job:** you cover {plan['covered_now']} of {plan['core_total']} core skills "
+                        f"({plan['coverage_now']:.0%}; a match needs {plan['threshold']:.0%}).")
+            if plan["coverage_now"] >= plan["threshold"]:
+                st.write("This listing already matches your profile.")
+            elif plan["unlock_skills"]:
+                st.write(f"Learning {' or '.join(plan['unlock_skills'])} alone would make it a match.")
+            st.write(f"After learning every skill listed below: {plan['covered_after']} of {plan['core_total']} core skills.")
+            if plan["experience_years"]:
+                st.write(f"Experience: this listing asks for at least {plan['experience_years']} years (\"{plan['experience_phrase']}\").")
+            elif plan["experience_phrase"] != "no minimum detected":
+                st.write(f"Experience: no minimum (\"{plan['experience_phrase']}\").")
+            else:
+                st.write("Experience: no requirement detected in this listing.")
+            if plan["alternatives"]:
+                for alternative in plan["alternatives"]:
+                    st.write(f"Alternatives: {alternative['text']}")
+            else:
+                st.caption("This listing offers no either/or skill choices.")
+            st.markdown(f"**Time plan:** {time_range(plan)}: {plan['revision_minutes']:.0f} minutes of revision videos "
+                        f"plus {plan['learning_hours']:.1f} hours of full courses.")
+            st.caption(REVISION_LABEL)
+            if plan["hours_unknown"] or plan["broad"]:
+                st.caption("Not in the time plan: " + ", ".join(
+                    [f"{skill} (no saved course)" for skill in plan["hours_unknown"]] +
+                    [f"{skill} (broad skill, no single course)" for skill in plan["broad"]]) + ".")
+
+            def time_cell(item):
+                if item["action"] == "revise":
+                    if item["revision_status"] == "found":
+                        return " + ".join(video["duration"] for video in item["revision_videos"]) + " revision"
+                    if item["revision_status"] == "none":
+                        return "No good short revision video found"
+                    return "Revision videos available in live search" if replay_mode else "Revision videos not fetched yet"
+                if item["broad"]:
+                    return "Broad skill, no single course"
+                return hours_range(item["hours"]) + " course" if item["hours"] else "Hours unknown"
+
+            st.markdown("**Suggested order**")
+            st.caption("Ranked by importance in this listing (mentions, plus 2 if near must, required, strong or mandatory), then by how many eligible listings in this search ask for the skill.")
+            st.dataframe([{"Order": item["order"], "Skill": item["skill"], "Action": item["action"].title(),
+                           "In this listing": f"{item['mentions']} mention{'s' if item['mentions'] != 1 else ''}" +
+                                              (", marked required or strong" if item["emphasised"] else ""),
+                           "Listings asking": f"{item['market']} of {item['market_total']}",
+                           "Also unlocks": f"{item['other_unlocks']} other listings" if item["action"] == "learn" else "",
+                           "Time": time_cell(item)} for item in plan["items"]],
+                         hide_index=True, use_container_width=True)
+            for action, heading in (("revise", "Revise: skills you have that this job asks for"),
+                                    ("learn", "Learn: skills this job asks for that you lack")):
+                rows = [item for item in plan["items"] if item["action"] == action]
+                st.markdown(f"**{heading}**")
+                if not rows:
+                    st.caption("None.")
+                for item in rows:
+                    detail = f"{item['order']}. **{item['skill']}** · asked by {item['market']} of {item['market_total']} eligible listings"
+                    if action == "learn":
+                        detail += f" · would also unlock {item['other_unlocks']} other listings in this search"
+                    st.markdown(detail)
+                    if item["evidence"]:
+                        st.caption(f"From this listing: \"{item['evidence']}\"")
+                    videos = item.get("revision_videos") if action == "revise" else item.get("course_videos")
+                    for video in videos or []:
+                        st.markdown(f"- [{video['title']}]({video['link']}) · {video['channel']} · {video['duration']}")
+                    if action == "revise" and item["revision_status"] != "found":
+                        st.caption(time_cell(item) + ".")
+            missing = [item["skill"] for item in plan["items"] if item["action"] == "revise"
+                       and item["revision_status"] == "not_saved" and not is_cached(revision_params(item["skill"]), False)]
+            if missing and not replay_mode:
+                left_requests = max(0, 6 - demo_attempts)
+                st.caption(f"Fetching revision videos for {', '.join(missing)} makes {len(missing)} new SerpApi searches. "
+                           f"{left_requests} of 6 live requests remain in this session's cap.")
+                if st.button(f"Fetch revision videos ({len(missing)} searches)", key="prep_fetch",
+                             disabled=len(missing) > left_requests):
+                    fetch_client = SerpClient(ledger_name="demo_ledger.json", call_cap=6)
+                    fetch_client.key = cloud_key or optional_serpapi_key()
+                    try:
+                        for skill in missing:
+                            fetch_client.search(revision_params(skill))
+                        st.rerun()
+                    except RuntimeError as exc:
+                        st.error(str(exc))
+            st.caption("A prep plan shows what this listing asks for. It does not promise an interview or a job.")
     with st.expander("How this is calculated"):
         st.write("We set aside listings that ask for more experience than the minimum of your selected band: 0, 1 or 3 years. Explicit description requirements override title-based estimates. We ignore negated skill mentions in resumes and job text. Skills are alternatives only where the listing explicitly offers an 'or' or slash choice. Skills found in at least the selected share of eligible listings are core; less common skills are shown as nice to have. Eligible listings pass the experience and date filters. Scored listings also have detected core requirements; others are Unknown. A profile matches a listing when it meets the selected fraction of core requirements. We count additional matches after adding one skill or the suggested pair. Broad umbrella terms can count for matching but are never recommended.")
         st.write("Course hours are the median length of up to three qualifying free videos. Titles and channel names indicating an unrequested language are excluded; unlabelled videos are not proof of English audio. With fewer than two course-like videos of at least an hour, we fall back to videos of at least 30 minutes and mark low confidence. The displayed range is a rough 25% band, not a measured learning-time interval. The opportunity curve adds the measured skill with the most extra matches per course hour, stopping after five skills or no gain. Exact checks try every subset of up to eight measured candidates at 5, 10 and 15 hours. Confidence uses the lower of bootstrap win share and independent per-skill hour-variation retention across thresholds. The distance chart counts extra skills needed to cross the threshold. Posting age includes elapsed days since retrieval. These estimates do not establish competence or promise a job.")
