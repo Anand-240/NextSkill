@@ -4,7 +4,7 @@
 ![MIT licence](https://img.shields.io/badge/licence-MIT-blue)
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
 
-Try it live: &lt;link coming soon&gt;
+Try it live: https://nextskill.streamlit.app
 
 **Learn the one skill that unlocks the most real jobs, in the least time.**
 
