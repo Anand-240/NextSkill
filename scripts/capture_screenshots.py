@@ -22,7 +22,7 @@ with sync_playwright() as playwright:
         page.get_by_role("option", name="Data Analyst, Noida").click()
         page.get_by_role("button", name="Find my next skill").click()
         page.get_by_text("Skills that could open more jobs").wait_for(timeout=60000)
-    elif MODE in {"phase3_frontend", "batch_a_frontend", "batch_b_frontend", "batch_c_frontend", "batch_c_frontend_plan", "batch_c_frontend_distance", "batch_d_frontend", "batch_d_frontend_plan", "batch_e_frontend", "batch_e_frontend_plan", "batch_e_frontend_distance"}:
+    elif MODE in {"phase3_frontend", "batch_a_frontend", "batch_b_frontend", "batch_c_frontend", "batch_c_frontend_plan", "batch_c_frontend_distance", "batch_d_frontend", "batch_d_frontend_plan", "batch_e_frontend", "batch_e_frontend_plan", "batch_e_frontend_distance", "batch_e_jobprep"}:
         page.get_by_role("button", name="Find my next skill").click()
         page.get_by_text("Skills that could open more jobs").wait_for(timeout=60000)
     elif MODE in {"fixture", "phase2_noida"}:
@@ -58,7 +58,7 @@ with sync_playwright() as playwright:
     else:
         raise ValueError("unknown screenshot mode")
     if MODE.startswith("batch_e_"):
-        city = "Bengaluru" if "frontend" in MODE else "Noida"
+        city = "Noida" if "noida" in MODE else "Bengaluru"
         page.get_by_text(re.compile(r"Your profile matches .* saved listings in " + city)).wait_for(timeout=90000)
     page.get_by_text("Search replay", exact=True).wait_for(timeout=90000)
     if MODE.startswith(("batch_c_", "batch_d_", "batch_e_")):
@@ -76,6 +76,16 @@ with sync_playwright() as playwright:
         page.get_by_text("Listing origins", exact=True).wait_for(timeout=30000)
     if page.locator('[data-testid="stException"]').count():
         raise RuntimeError("Streamlit rendered an exception instead of the demo")
-    page.screenshot(path=str(ROOT / "screenshots" / f"{OUTPUT}.png"), full_page=True)
+    if MODE.endswith("_jobprep"):
+        # Capture only the plan for the default demo listing.
+        page.set_viewport_size({"width": 1200, "height": 3200})
+        page.wait_for_timeout(1000)
+        prep = page.locator('[data-testid="stExpander"]').filter(has_text="Job Prep:").first
+        prep.wait_for(timeout=30000)
+        prep.scroll_into_view_if_needed()
+        page.wait_for_timeout(500)
+        prep.screenshot(path=str(ROOT / "screenshots" / f"{OUTPUT}.png"))
+    else:
+        page.screenshot(path=str(ROOT / "screenshots" / f"{OUTPUT}.png"), full_page=True)
     print(f"screenshot={ROOT / 'screenshots' / f'{OUTPUT}.png'}")
     browser.close()
