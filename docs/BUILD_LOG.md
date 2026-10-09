@@ -578,3 +578,27 @@ collections (plain job cards in a list). Principles were borrowed; no design was
 - Tests: 119 pass (new tests for tapping skills and for the jobs explorer). Browser check at 1280 px and 390 px: 0
   exceptions, 0 px overflow; Home market picker, Home button to Job match, skill toggle, view switch, Job Prep and Compare
   cities all clicked through in Chromium. Icon glyphs needed an explicit font rule after the body font override broke them.
+
+## Final fix batch (October 10)
+
+Fixes from a full workflow review of 048573e, then a freeze.
+
+- Live credit counter: credits used now come from the run's own request count; the SerpApi balance is shown apart as
+  "as reported by SerpApi (may lag by a few seconds)". The review saw "used 0" for a run that spent 1 credit because the
+  Account API read lagged.
+- Job Prep time text uses the same rounding as Job match ("about 3 hours"), equal ends collapse ("about 1 hour"), and a
+  listing with nothing measured says "No measured route". The README baseline table uses the same wording, and a row whose
+  two times round to the same text now reads "about the same course time" (the count of "less course time" fell from 9 to 7).
+- Revision filter: titles about version control revisions (rev-parse, reflog), interview-question lists, OOP-only videos,
+  school literature (a play called "Tally's Blood") and CA, CMA or CS exam classes are skipped. The saved responses are kept
+  as received; the filter drops those videos when they are read.
+- Revision videos for eight more skills (SQL, Tally, GST, React, Tableau, Google Ads, SEO, Django): 8 searches, build phase
+  K. Google Ads has no video that passes the filters, so Job Prep says so. Account API: 108 used and 142 left before,
+  116 used and 134 left after.
+- Wording: the AI note names Claude (chat) for planning, prompts and reviews; "the most common other places were"; listing
+  counts read "for Bengaluru searches" with a note counting listings that name another place; "Find page" is now "Job match".
+- Pick stability notes show a cap only when it changes the label.
+- Methodology tables scroll sideways at 390 px; Job Prep names stated must-haves that are not in the plan; the gap chart has
+  a lead sentence and a note on why saved markets are smaller.
+- Tests: 125 pass; scripts.check_consistency reports 0 problems. Screenshots re-captured at 1280 px and 390 px from a keyless
+  copy of the committed tree (0 px horizontal overflow on every page). The old live_run.png is unchanged.
