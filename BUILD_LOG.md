@@ -351,8 +351,8 @@ Phase C remaining: 82 (of 105), of which revision videos 15.
 - Build: scripts/fetch_pairs.py --extended added Python Developer (Bengaluru, Kochi), Accountant (Mumbai,
   Indore), Digital Marketing Executive (Pune, Chennai) and Frontend Developer (Hyderabad), each with one
   page of the base, fresher and junior queries plus hours for the top candidate skills; one Git revision
-  response. Chennai and Kochi are not in the plan's list of hubs, so 6 of 15 markets are outside the
-  eight largest metros.
+  response. Six of the 15 markets are in tier-2 cities (Jaipur twice, Indore twice, Kochi, Dehradun).
+  (Correction: an earlier draft of this line misdescribed Chennai.)
 - Test: 97 tests pass with all 15 pairs (golden results, Job Prep defaults, scan_data: 109 files clean).
   Two markets, Data Analyst Indore and Digital Marketing Pune, have no listing asking for a skill the
   example profile holds, so their Job Prep plans only teach; a test pins exactly those two.
