@@ -11,7 +11,7 @@ PREFIX = sys.argv[2] if len(sys.argv) > 2 else "site"
 WIDTH = int(sys.argv[3]) if len(sys.argv) > 3 else 1280
 PAGES = {"home": "", "find": "find", "prep": "prep", "compare": "compare", "live": "live",
          "methods": "methods", "about": "about"}
-READY = {"home": "Try it with Priya's profile", "find": "Skills we read from your text", "prep": "Readiness for this job",
+READY = {"home": "Worked example", "find": "Skills we read from your text", "prep": "Readiness for this job",
          "compare": "Share matched", "live": "Live search", "methods": "What the numbers mean", "about": "What happens to your resume"}
 
 with sync_playwright() as playwright:
