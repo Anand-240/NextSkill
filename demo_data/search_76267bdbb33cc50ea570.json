@@ -1,0 +1,469 @@
+{
+  "search_metadata": {
+    "id": "6ac8c514550cc440ecd4860c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/RQcD0u303dT1PVmpEvMfLtlWifnMQsVVb_FNdxPbgW0/6ac8c514550cc440ecd4860c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/RQcD0u303dT1PVmpEvMfLtlWifnMQsVVb_FNdxPbgW0/6ac8c514550cc440ecd4860c.md",
+    "created_at": "2026-10-09 10:42:28 UTC",
+    "processed_at": "2026-10-09 10:42:28 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=GST+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/RQcD0u303dT1PVmpEvMfLtlWifnMQsVVb_FNdxPbgW0/6ac8c514550cc440ecd4860c.html",
+    "total_time_taken": 3.5
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "GST full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 2055372,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Goods and Services Tax (GST) 2024 Fundamentals Full Course | What is GST?",
+      "link": "https://www.youtube.com/watch?v=ZS4dThqfRbs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZS4dThqfRbs",
+      "video_id": "ZS4dThqfRbs",
+      "channel": {
+        "name": "Great Learning",
+        "link": "https://www.youtube.com/@greatlearning",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m_o6r4liwONXrrjZ2v2ZJ_WlaYXZQF9lrOy3J_aBAWeCU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 80357,
+      "length": "1:20:26",
+      "description": "Unlock the Power of GST! Learn Everything About India's Biggest Tax Reform Dive deeper and master GST with our ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZS4dThqfRbs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJLMsh-V0wA8M3xfRPK3TW7Dbnmg"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "[Live] GST Basics and Return Filing By CA Ganesh Shetty ( English)",
+      "link": "https://www.youtube.com/watch?v=WVD0MFp3yyI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WVD0MFp3yyI",
+      "video_id": "WVD0MFp3yyI",
+      "channel": {
+        "name": "Fincurious",
+        "link": "https://www.youtube.com/@fincuriousofficial",
+        "thumbnail": "https://yt3.ggpht.com/_RKuoT7qx20FLgEJAw7t080Qfxffs9cEhMgQ9w8HZECMnf3mj0jy2f-cLgHRdK9afIO7YUv9=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 3519,
+      "length": "1:30:36",
+      "description": "Learn GST Basics and Return Filing By Co-founder (Fincurious) CA Ganesh Shetty To Learn More about our courses visit ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WVD0MFp3yyI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAois12UaLUaMTv3fuDb4pTXudvyQ",
+        "rich": "https://i.ytimg.com/an_webp/WVD0MFp3yyI/mqdefault_6s.webp?du=3000&sqp=CILVotYG&rs=AOn4CLAxFd1pvGkV3PdiRMoU9gnBVaevLA"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "GST Return Filing Full Course | GST Course Basic to Advance | GST Return Filing Course Free",
+      "link": "https://www.youtube.com/watch?v=tuZoOkx7NMs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tuZoOkx7NMs",
+      "video_id": "tuZoOkx7NMs",
+      "channel": {
+        "name": "MyOnlineCA",
+        "link": "https://www.youtube.com/@myonlineca",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kQ1LabZElpN3ejB2Gqb_HTk7PoEZYROkauOquCRWpIvCc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 45215,
+      "length": "25:18",
+      "description": "GST Return Filing Full Course | GST Course Basic to Advance | GST Return Filing Course Free gst return filing full course gst ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tuZoOkx7NMs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcwcRdbhZciHPpIpw6zvLRmAjpFQ",
+        "rich": "https://i.ytimg.com/an_webp/tuZoOkx7NMs/mqdefault_6s.webp?du=3000&sqp=CJyJo9YG&rs=AOn4CLC8-R7cQrIKkvptKWg3_oXBpbV3_A"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "🔥Master GST in One Video | Complete GST Tutorial in Tally Prime 2025 | Zero to Hero ✅",
+      "link": "https://www.youtube.com/watch?v=e9mB5Xh4zLo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=e9mB5Xh4zLo",
+      "video_id": "e9mB5Xh4zLo",
+      "channel": {
+        "name": "Accounts Expert",
+        "link": "https://www.youtube.com/@Accounts_Experts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/tMs84O-lN4vy-RgXykgI0b2Da4YN47RjXROd9vl9PMr7Hji1NL5e2NGNBuoMoILBgwQeSxYjWQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 151163,
+      "length": "9:01:42",
+      "description": "Want to master GST in Tally Prime (2025 update)? In this video, I'll walk you through the complete GST setup, return filing, and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/e9mB5Xh4zLo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-IN9OumsNfR8mSV6MLXu7ThT5MA",
+        "rich": "https://i.ytimg.com/an_webp/e9mB5Xh4zLo/mqdefault_6s.webp?du=3000&sqp=COL5otYG&rs=AOn4CLDiwpx_D2l2HZ-DidlEzxZRyBQeWw"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "GST 2026 Complete Masterclass | Concepts to GSTR-1, 2B, 3B,ITC in 1 Hour",
+      "link": "https://www.youtube.com/watch?v=5IcSQuLf-X4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5IcSQuLf-X4",
+      "video_id": "5IcSQuLf-X4",
+      "channel": {
+        "name": "Accounts Advice",
+        "link": "https://www.youtube.com/@AccountsAdvice",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nAE-PPEAg5jRusp41I7rMpGFLuq6OXgS6BwsPx6egnKg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 238053,
+      "length": "56:30",
+      "description": "... GST Full Course 2026 | Complete GST Masterclass in One Video In this GST masterclass, you will learn GST from basic to ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5IcSQuLf-X4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlIZwAJwyNAgNtBA0eHNpGSe6zGw",
+        "rich": "https://i.ytimg.com/an_webp/5IcSQuLf-X4/mqdefault_6s.webp?du=3000&sqp=CPaJo9YG&rs=AOn4CLByivUpA5vwOPVeGWyfoZlNQen-lA"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Tally Prime 7.0 Full Course With GST | Zero to Hero | Complete Practical Tutorial",
+      "link": "https://www.youtube.com/watch?v=QQUcccxcjn0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QQUcccxcjn0",
+      "video_id": "QQUcccxcjn0",
+      "channel": {
+        "name": "Accounts Expert",
+        "link": "https://www.youtube.com/@Accounts_Experts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/tMs84O-lN4vy-RgXykgI0b2Da4YN47RjXROd9vl9PMr7Hji1NL5e2NGNBuoMoILBgwQeSxYjWQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 293160,
+      "length": "11:44:48",
+      "description": "Tally Prime 7.0 Complete Course | Zero to Hero Tutorial | GST Included | Full Practical Training If you want to learn Tally from ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/QQUcccxcjn0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8socatHenzaBl3ZvcubbzWEYvXA",
+        "rich": "https://i.ytimg.com/an_webp/QQUcccxcjn0/mqdefault_6s.webp?du=3000&sqp=CKjvotYG&rs=AOn4CLD7FpGaB5R7xTwRnUg9IcyWWLWlqg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "GST FULL COURSE | GST WITH TALLY PRIME COMPLETE COURSE | TALLY PRIME WITH GST COURSE FOR ACCOUNTANT",
+      "link": "https://www.youtube.com/watch?v=ygp2dilF1wM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ygp2dilF1wM",
+      "video_id": "ygp2dilF1wM",
+      "channel": {
+        "name": "Tally Home & Institute",
+        "link": "https://www.youtube.com/@TallyHomeInstitute",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/uhwIYd3bibtvOk_R7ILTALEGngukUDbu59pL6q_1tA1X1F57X30JQfqMUQgcNErsp6JuynkdBwg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 76417,
+      "length": "51:56",
+      "description": "Dear All, Kindly watch the video for below mentioned topics: HOW TO BECOME ACCOUNTANT GST FULL COURSE IN HINDI ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ygp2dilF1wM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7Rsm9aRMLmxE3kFalL8k6UOBPyw",
+        "rich": "https://i.ytimg.com/an_webp/ygp2dilF1wM/mqdefault_6s.webp?du=3000&sqp=CJH5otYG&rs=AOn4CLAhhX7bZlu_80qV8zczr4P2yk_70w"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Tally Prime with GST for Beginners – Complete Course in Hindi | Accounting & Taxation Made Easy",
+      "link": "https://www.youtube.com/watch?v=M8WHCL52cs0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=M8WHCL52cs0",
+      "video_id": "M8WHCL52cs0",
+      "channel": {
+        "name": "Accounts Expert",
+        "link": "https://www.youtube.com/@Accounts_Experts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/tMs84O-lN4vy-RgXykgI0b2Da4YN47RjXROd9vl9PMr7Hji1NL5e2NGNBuoMoILBgwQeSxYjWQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 379051,
+      "length": "7:44:04",
+      "description": "Welcome to this complete GST tutorial in Tally Prime, updated with all the latest 2025 changes! Whether you're a student, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/M8WHCL52cs0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVr166NPhy-LCDzW_CjjFt_aLFiw",
+        "rich": "https://i.ytimg.com/an_webp/M8WHCL52cs0/mqdefault_6s.webp?du=3000&sqp=CI_iotYG&rs=AOn4CLDoXNgPdTKgDX91dZabtIJU92EdXQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "GST Filing Course 2026 | GSTR 1, GSTR 2B, GSTR 3B | ITC, RCM & IMS Explained | 5 Hour Masterclass",
+      "link": "https://www.youtube.com/watch?v=JsLHRK4n3cs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JsLHRK4n3cs",
+      "video_id": "JsLHRK4n3cs",
+      "channel": {
+        "name": "FinTaxPro",
+        "link": "https://www.youtube.com/@FinTaxPro",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/CTyPHtMePGrGUZArskcjmYntwNewIREK_rqqhfKLc0cxSgzpKLbM1tqcvS7K7GTHHCBreJeVyiQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 429590,
+      "length": "4:47:08",
+      "description": "Loved the Session  ! Well this is only 1 session from our practical courses. There are many other returns, computation, ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JsLHRK4n3cs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2vwMU2v0z3cx2Ts4zw5jKOrzGeQ",
+        "rich": "https://i.ytimg.com/an_webp/JsLHRK4n3cs/mqdefault_6s.webp?du=3000&sqp=CISEo9YG&rs=AOn4CLCnxLw-OuIgdt99S0k4gN4NvS3EJA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "GST Returns Complete Course 2026🔥 | GSTR-1 to GSTR-9C Full Practical |Kaise File Karein Step by Step",
+      "link": "https://www.youtube.com/watch?v=7-VgtPo5tFg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7-VgtPo5tFg",
+      "video_id": "7-VgtPo5tFg",
+      "channel": {
+        "name": "Accounts Expert",
+        "link": "https://www.youtube.com/@Accounts_Experts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/tMs84O-lN4vy-RgXykgI0b2Da4YN47RjXROd9vl9PMr7Hji1NL5e2NGNBuoMoILBgwQeSxYjWQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7d ago",
+      "views": 43921,
+      "length": "2:34:51",
+      "description": "GST Returns ka complete course ek hi video mein! Is video mein GSTR-1 se lekar GSTR-9C tak har GST return ko detail mein ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7-VgtPo5tFg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWvldsMyPH1v2NG8SRNd27M4VvPw",
+        "rich": "https://i.ytimg.com/an_webp/7-VgtPo5tFg/mqdefault_6s.webp?du=3000&sqp=CIDyotYG&rs=AOn4CLDJPIvAonpNKo2VY2E76ig_6yFNhQ"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "GST Workshop 2026: Complete Guide for Ecommerce Beginners (Amazon, Flipkart, Meesho, Shopify)",
+      "link": "https://www.youtube.com/watch?v=FR9L30ubMs4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FR9L30ubMs4",
+      "video_id": "FR9L30ubMs4",
+      "channel": {
+        "name": "Konnection Business",
+        "link": "https://www.youtube.com/@KonnectionBusiness",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/EjIlwH1ZYWOjfQdjnIU80OD9WXLo1gYGXPkOKX_smg-MfHr_TRvbCQrl4kd6mwYmNpVliYPLqw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 269692,
+      "length": "29:09",
+      "description": "Understand GST registration, ITC, compliance & live calculator explained in detail ✅. Learn complete GST rules for Ecommerce ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FR9L30ubMs4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrzTwKREVomW3p3gBz4Oyd9vqKfA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "#allaboutgstreturns2024 #ims #gstr2b #gstr1 #gstr1a #gstr3b #gstr9 #pmt09 #iff #qrmp #drc01b #drc01c",
+      "link": "https://www.youtube.com/watch?v=8J2xmrNwL3A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8J2xmrNwL3A",
+      "video_id": "8J2xmrNwL3A",
+      "channel": {
+        "name": "INSTITUTE FOR ACCOUNTANTS",
+        "link": "https://www.youtube.com/@instituteforaccountants486",
+        "thumbnail": "https://yt3.ggpht.com/HL1yaC_KzDrvG2fVyrLzTSSxrBySChTaicEpTvDmNxS3bIgXUpgmTM5Nf7a7Msu3h5PODPKHHA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 50554,
+      "length": "1:21:33",
+      "description": "InstituteforAccountants#[REDACTED PHONE]#balajimamidi If you want to Learn GST returns , Incometax Returns, TDS, EPF returns, ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/8J2xmrNwL3A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCDETkX9Hpzh6jXJswqZGfgQl1Eg"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Master Tally Prime: Tally TDS & GST Full Guide: From Basics to Advanced",
+      "link": "https://www.youtube.com/watch?v=xtDxEWVAUr0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xtDxEWVAUr0",
+      "video_id": "xtDxEWVAUr0",
+      "channel": {
+        "name": "Tally Tutorial",
+        "link": "https://www.youtube.com/@TallyTutorial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kc8b3ACsG15-pvZt9LoULzxpuHDKpbGgTu2HEHfWE3jw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 229321,
+      "length": "2:15:54",
+      "description": "Master Tally Prime: Tally TDS & GST Full Guide: From Basics to Advanced Unlock the full potential of Tally Prime with our ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xtDxEWVAUr0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJ9ktrEKuv0UXBfESBiZRofFWXGg",
+        "rich": "https://i.ytimg.com/an_webp/xtDxEWVAUr0/mqdefault_6s.webp?du=3000&sqp=CJjtotYG&rs=AOn4CLB2XEc_AoBORXeWiqe5zhB3u6EhLA"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Complete GST Return Mechanism Explained | GSTR-1 to GSTR-9C, IFF, 2A, 2B, E-Invoice, E-Way Bill, IMS",
+      "link": "https://www.youtube.com/watch?v=QU_ZuaExRdU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QU_ZuaExRdU",
+      "video_id": "QU_ZuaExRdU",
+      "channel": {
+        "name": "Commerce Hub Udaipur",
+        "link": "https://www.youtube.com/@commercehubudaipur6669",
+        "thumbnail": "https://yt3.ggpht.com/aWlO0wh5tuhcUgbKUS312xp8QzZ9e2CuNqDmM3Af5A0iGO0Mzli04pd0u1zqP-2-yO_UibYu=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 162123,
+      "length": "39:22",
+      "description": "📲 GST Complete Compliance Course - https://classplusapp.com/w/commercehubudaipur/wlp/gst-complete-compliance\n📲 GST Portal vs ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/QU_ZuaExRdU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlfS5GtdoDQZE94w7PMB2m_5Jirw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "GST सीखो सबसे Easy तरीके से | Basic of GST Class -1 | CA Santosh Pal",
+      "link": "https://www.youtube.com/watch?v=2ZuBcGaHOAc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2ZuBcGaHOAc",
+      "video_id": "2ZuBcGaHOAc",
+      "channel": {
+        "name": "CA SANTOSH PAL ",
+        "link": "https://www.youtube.com/@casantoshpalclasses",
+        "thumbnail": "https://yt3.ggpht.com/RTjPfDkS4NrxHNcpCj8oho-ilG15hkVsVZSyzjeCfknIs1NWbfxrLkxxVXccGa0EVjKc9j3rcg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 161804,
+      "length": "59:56",
+      "description": "Welcome to CA Santosh Pal Classes For any Enquiry Contact us - [REDACTED PHONE] For Course Purchase Call us or Download our ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/2ZuBcGaHOAc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABBO2gRwSsQPvHZsP1lOEsE5ZAKA",
+        "rich": "https://i.ytimg.com/an_webp/2ZuBcGaHOAc/mqdefault_6s.webp?du=3000&sqp=CLPfotYG&rs=AOn4CLDprCDk5-wwXj90vGxLKqde5Au52g"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "#1 What is GST? | How GST Works | ITC calculations || Free GST Course 2025 with Tally Prime",
+      "link": "https://www.youtube.com/watch?v=JKEcb86-9NE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JKEcb86-9NE",
+      "video_id": "JKEcb86-9NE",
+      "channel": {
+        "name": "Accounts Advice",
+        "link": "https://www.youtube.com/@AccountsAdvice",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nAE-PPEAg5jRusp41I7rMpGFLuq6OXgS6BwsPx6egnKg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 361372,
+      "length": "22:36",
+      "description": "accountsadvice #todiyapatel Accounting Interview Preparation Course Link: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JKEcb86-9NE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIQYQXs1ddegIx-hkmoH5fparEIQ",
+        "rich": "https://i.ytimg.com/an_webp/JKEcb86-9NE/mqdefault_6s.webp?du=3000&sqp=CN33otYG&rs=AOn4CLBRE3ghJgmcRRaONOer5fvtbVj0eg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "FREE GST Filing Course 2026 🔥 | GSTR-1, GSTR-1A & GSTR-3B Filing | Live Master Class",
+      "link": "https://www.youtube.com/watch?v=DZZYME0bRto",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DZZYME0bRto",
+      "video_id": "DZZYME0bRto",
+      "channel": {
+        "name": "FinTaxPro",
+        "link": "https://www.youtube.com/@FinTaxPro",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/CTyPHtMePGrGUZArskcjmYntwNewIREK_rqqhfKLc0cxSgzpKLbM1tqcvS7K7GTHHCBreJeVyiQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1mo ago",
+      "views": 95143,
+      "length": "2:01:18",
+      "description": "Free GST Course 2026, GST Course for Beginners, GST Filing Course, GST Return Filing Course, Learn GST Online, GST ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/DZZYME0bRto/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwcXTIHljRsxqDGQVCdwbUN8oDKQ",
+        "rich": "https://i.ytimg.com/an_webp/DZZYME0bRto/mqdefault_6s.webp?du=3000&sqp=CJbHotYG&rs=AOn4CLDhR4Qc9YTtpsbLQ240OKzidcKbkQ"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Complete GST Basics in 75 Mins| Learn GST from Basics to Advanced Full 30 Days Challenge Compilation",
+      "link": "https://www.youtube.com/watch?v=ovv8P991bB8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ovv8P991bB8",
+      "video_id": "ovv8P991bB8",
+      "channel": {
+        "name": "CA Devesh Thakur",
+        "link": "https://www.youtube.com/@cadeveshthakur",
+        "thumbnail": "https://yt3.ggpht.com/VS5y5oQxFTbZhISPUmlZoOwx_ARDtDcXuT7z0f1LTOHXm8pyvQX9hPlbeydnrQY2niJ8TT14Rg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 8645,
+      "length": "1:14:17",
+      "description": "Complete GST Basics in 75 Mins| Learn GST from Basics to Advanced Full 30 Days Challenge Compilation #gst ...",
+      "extensions": [
+        "CC",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ovv8P991bB8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHoewdOLiAZosWcGPrKBDDo9efZQ",
+        "rich": "https://i.ytimg.com/an_webp/ovv8P991bB8/mqdefault_6s.webp?du=3000&sqp=CP39otYG&rs=AOn4CLAqdPLEyAxKmzy7LjXct500dJpzDA"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Tally Prime GST Full Course 2025 🔥 | GST Returns | Latest Updates Explained Step-by-Step",
+      "link": "https://www.youtube.com/watch?v=IwEF5JjuSSs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IwEF5JjuSSs",
+      "video_id": "IwEF5JjuSSs",
+      "channel": {
+        "name": "Accounts Expert",
+        "link": "https://www.youtube.com/@Accounts_Experts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/tMs84O-lN4vy-RgXykgI0b2Da4YN47RjXROd9vl9PMr7Hji1NL5e2NGNBuoMoILBgwQeSxYjWQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 52119,
+      "length": "3:28:02",
+      "description": "Tally Prime GST Full Course 2025 | Latest Updates + Practical Guide Welcome to this complete GST tutorial in Tally Prime, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/IwEF5JjuSSs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtASvJK5HNHcAdxodaxaqocZ1kpA",
+        "rich": "https://i.ytimg.com/an_webp/IwEF5JjuSSs/mqdefault_6s.webp?du=3000&sqp=CPj1otYG&rs=AOn4CLCOF4xHqrOv1IqMSnZo2NSszwe3SA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "GST Practical Class for Beginners | GSTR-1 & GSTR-3B Filing Demo | GST 2025 Full #gst #gstr3b",
+      "link": "https://www.youtube.com/watch?v=LAeZBOfEETQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LAeZBOfEETQ",
+      "video_id": "LAeZBOfEETQ",
+      "channel": {
+        "name": "Rule Infinity ",
+        "link": "https://www.youtube.com/@RuleInfinitybusinessservices",
+        "thumbnail": "https://yt3.ggpht.com/9Rp4KlikxhrnOobXBlyZXQWe98QKWk9j94ZiJFKRXXH02_vereAOJm_faJiV04c2KfeS5jFjqw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 20436,
+      "length": "1:09:11",
+      "description": "Learn GST practically with live examples and real filing demonstrations. This session is designed for beginners, students, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LAeZBOfEETQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS0aTF796v5YVHs3bdKL04kyF78g"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=GST+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=GST%20full%20course%20for%20beginners&sp=EgIYAkgUggELWlM0ZFRocWZSYnOCAQtXVkQwTUZwM3l5SYIBC3R1Wm9Pa3g3Tk1zggELZTltQjVYaDR6TG-CAQs1SWNTUXVMZi1YNIIBC1FRVWNjY3hjam4wggELeWdwMmRpbEYxd02CAQtNOFdIQ0w1MmNzMIIBC0pzTEhSSzRuM2NzggELNy1WZ3RQbzV0RmeCAQtGUjlMMzB1Yk1zNIIBCzhKMnhtck53TDNBggELeHREeEVXVkFVcjCCAQtRVV9adWFFeFJkVYIBCzJadUJjR2FIT0FjggELSktFY2I4Ni05TkWCAQtEWlpZTUUwYlJ0b4IBC292djhQOTkxYkI4ggELSXdFRjVKanVTU3OCAQtMQWVaQk9mRUVUUbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELWlM0ZFRocWZSYnOCAQtXVkQwTUZwM3l5SYIBC3R1Wm9Pa3g3Tk1zggELZTltQjVYaDR6TG-CAQs1SWNTUXVMZi1YNIIBC1FRVWNjY3hjam4wggELeWdwMmRpbEYxd02CAQtNOFdIQ0w1MmNzMIIBC0pzTEhSSzRuM2NzggELNy1WZ3RQbzV0RmeCAQtGUjlMMzB1Yk1zNIIBCzhKMnhtck53TDNBggELeHREeEVXVkFVcjCCAQtRVV9adWFFeFJkVYIBCzJadUJjR2FIT0FjggELSktFY2I4Ni05TkWCAQtEWlpZTUUwYlJ0b4IBC292djhQOTkxYkI4ggELSXdFRjVKanVTU3OCAQtMQWVaQk9mRUVUUbIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=GST+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=GST+full+course+for+beginners&sp=EgIYAkgUggELWlM0ZFRocWZSYnOCAQtXVkQwTUZwM3l5SYIBC3R1Wm9Pa3g3Tk1zggELZTltQjVYaDR6TG-CAQs1SWNTUXVMZi1YNIIBC1FRVWNjY3hjam4wggELeWdwMmRpbEYxd02CAQtNOFdIQ0w1MmNzMIIBC0pzTEhSSzRuM2NzggELNy1WZ3RQbzV0RmeCAQtGUjlMMzB1Yk1zNIIBCzhKMnhtck53TDNBggELeHREeEVXVkFVcjCCAQtRVV9adWFFeFJkVYIBCzJadUJjR2FIT0FjggELSktFY2I4Ni05TkWCAQtEWlpZTUUwYlJ0b4IBC292djhQOTkxYkI4ggELSXdFRjVKanVTU3OCAQtMQWVaQk9mRUVUUbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELWlM0ZFRocWZSYnOCAQtXVkQwTUZwM3l5SYIBC3R1Wm9Pa3g3Tk1zggELZTltQjVYaDR6TG-CAQs1SWNTUXVMZi1YNIIBC1FRVWNjY3hjam4wggELeWdwMmRpbEYxd02CAQtNOFdIQ0w1MmNzMIIBC0pzTEhSSzRuM2NzggELNy1WZ3RQbzV0RmeCAQtGUjlMMzB1Yk1zNIIBCzhKMnhtck53TDNBggELeHREeEVXVkFVcjCCAQtRVV9adWFFeFJkVYIBCzJadUJjR2FIT0FjggELSktFY2I4Ni05TkWCAQtEWlpZTUUwYlJ0b4IBC292djhQOTkxYkI4ggELSXdFRjVKanVTU3OCAQtMQWVaQk9mRUVUUbIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 10:42:28 UTC"
+}

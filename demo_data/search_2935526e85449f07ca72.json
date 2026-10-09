@@ -1,0 +1,476 @@
+{
+  "search_metadata": {
+    "id": "6ac8c52085f8c6dca454c5af",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bn3n9JmLfoZYXptTC5CP81J5biFaEyL2FKt0XwqbN6Q/6ac8c52085f8c6dca454c5af.json",
+    "markdown_endpoint": "https://serpapi.com/searches/bn3n9JmLfoZYXptTC5CP81J5biFaEyL2FKt0XwqbN6Q/6ac8c52085f8c6dca454c5af.md",
+    "created_at": "2026-10-09 10:42:40 UTC",
+    "processed_at": "2026-10-09 10:42:40 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Google+Ads+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/bn3n9JmLfoZYXptTC5CP81J5biFaEyL2FKt0XwqbN6Q/6ac8c52085f8c6dca454c5af.html",
+    "total_time_taken": 3.06
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Google Ads full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 2295966,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "The Only Google Ads Tutorial You Will Ever Need (FOR BEGINNERS)",
+      "link": "https://www.youtube.com/watch?v=a-JmhK9nKJk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=a-JmhK9nKJk",
+      "video_id": "a-JmhK9nKJk",
+      "channel": {
+        "name": "Metics Media",
+        "link": "https://www.youtube.com/@MeticsMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FBsGsD6I9gJup-VfLmqFVg9MZw_WkU8Q3K7zH3hi-_O5ZzHXtu7r0o-XjIkIqTmcoR4a-JA4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2554641,
+      "length": "1:01:00",
+      "description": "In this google ads tutorial for beginners you'll learn step-by-step how to run ads on google. This is a COMPLETE A-Z Google Ads ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/a-JmhK9nKJk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9iRfeTyLWbbt1acwkikOZVTydlw",
+        "rich": "https://i.ytimg.com/an_webp/a-JmhK9nKJk/mqdefault_6s.webp?du=3000&sqp=CJ7_otYG&rs=AOn4CLCjYiKPPsQNesFZ_V3b02Lz_jBNEA"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Google Ads Tutorial 2026 - How To Run Google Ads for Beginners",
+      "link": "https://www.youtube.com/watch?v=QufRFAXJlOI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QufRFAXJlOI",
+      "video_id": "QufRFAXJlOI",
+      "channel": {
+        "name": "Metics Media",
+        "link": "https://www.youtube.com/@MeticsMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FBsGsD6I9gJup-VfLmqFVg9MZw_WkU8Q3K7zH3hi-_O5ZzHXtu7r0o-XjIkIqTmcoR4a-JA4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 212698,
+      "length": "40:26",
+      "description": "In this Google ads tutorial for 2026, I show you exactly how to set up and run your first Google Ads search campaign. ✓ Video ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/QufRFAXJlOI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyBcAo6IG54iCVAqVMTNER97893w",
+        "rich": "https://i.ytimg.com/an_webp/QufRFAXJlOI/mqdefault_6s.webp?du=3000&sqp=CJjtotYG&rs=AOn4CLCdTuPxvuqWeebY1mqdoonjzi4A3Q"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Google Ads Beginners Tutorial for 2026 (Step By Step)",
+      "link": "https://www.youtube.com/watch?v=16X5a0Ii7kg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=16X5a0Ii7kg",
+      "video_id": "16X5a0Ii7kg",
+      "channel": {
+        "name": "Grow My Ads",
+        "link": "https://www.youtube.com/@growmyads",
+        "thumbnail": "https://yt3.ggpht.com/a9oteEFMBTk3-6_n06LP_6oMtm37-PHFVD8zPLQIjSKDOZg5onCOvQsk1m06teLQU4cS3L953Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 197520,
+      "length": "42:08",
+      "description": "Join the #1 Google Ads Skool community for live Q&A calls, my courses, and direct access to me and my team.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/16X5a0Ii7kg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7oSbFXfuOOEJkaf6_fP_6nmE4Yg",
+        "rich": "https://i.ytimg.com/an_webp/16X5a0Ii7kg/mqdefault_6s.webp?du=3000&sqp=CIiDo9YG&rs=AOn4CLApiRKvlT5nJsqLshVA523OhxUHSQ"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Google Ads Course 2026 | 5+ Hours | 70+ Lessons | Timestamps | Free Training",
+      "link": "https://www.youtube.com/watch?v=_47prikuh_I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_47prikuh_I",
+      "video_id": "_47prikuh_I",
+      "channel": {
+        "name": "Darren Taylor",
+        "link": "https://www.youtube.com/@darrentaylordigital",
+        "thumbnail": "https://yt3.ggpht.com/MtFcXPSF-42HRGLRtDQFEqRI5jCYtesuWLmem1qwydiAoUaNgIcnY-2ARN9vRPboeKTuboRE8t4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 496836,
+      "length": "5:48:30",
+      "description": "NEW UPDATED COURSE HERE ON YOUTUBE https://www.youtube.com/watch?v=3KVxB-Rpu1c Join the Google Ads Success ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_47prikuh_I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcwklYUw-f8mtj9Te5FAHCZLw7Yw",
+        "rich": "https://i.ytimg.com/an_webp/_47prikuh_I/mqdefault_6s.webp?du=3000&sqp=COa_otYG&rs=AOn4CLDLhxqowG9eBFmi7LZM_5OJjfDiUA"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Free Google Ads Course 2026 (updated) | 5+ Hours | 60+ Lessons | Timestamps",
+      "link": "https://www.youtube.com/watch?v=3KVxB-Rpu1c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3KVxB-Rpu1c",
+      "video_id": "3KVxB-Rpu1c",
+      "channel": {
+        "name": "Darren Taylor",
+        "link": "https://www.youtube.com/@darrentaylordigital",
+        "thumbnail": "https://yt3.ggpht.com/MtFcXPSF-42HRGLRtDQFEqRI5jCYtesuWLmem1qwydiAoUaNgIcnY-2ARN9vRPboeKTuboRE8t4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8mo ago",
+      "views": 63503,
+      "length": "5:22:50",
+      "description": "Join the Google Ads Success Blueprint for expert training, weekly live Q&As, personalised advice and unlimited answers to your ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3KVxB-Rpu1c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBttwUy2HhRlu3kkSSqdSkeg1bROA"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Ultimate Google Ads Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=dpjeJwCg35w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dpjeJwCg35w",
+      "video_id": "dpjeJwCg35w",
+      "channel": {
+        "name": "Tom Bowen Google Ads",
+        "link": "https://www.youtube.com/@TomBowenGoogleAds",
+        "thumbnail": "https://yt3.ggpht.com/1Z7fd6BlmLjaTQ_8-AQ0h3SGEtGLB5pJiA2NkuRJb9KaFsdPnvT5W9DYSSjVxPvkYPtSxL2K5g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 1094,
+      "length": "22:56",
+      "description": "This is the ultimate Google Ads tutorial for beginners, built from hundreds of audits and dozens of workshops with businesses that ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/dpjeJwCg35w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9huavJsWg9WfWddswcuA_TbaQYQ",
+        "rich": "https://i.ytimg.com/an_webp/dpjeJwCg35w/mqdefault_6s.webp?du=3000&sqp=CNDgotYG&rs=AOn4CLDWIQKw7p8jyRjDoKztaYpmIH3bfQ"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Google Ads Tutorial 2025 (Step by Step) How To Use Google Ads",
+      "link": "https://www.youtube.com/watch?v=tJT3KhvuGKs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tJT3KhvuGKs",
+      "video_id": "tJT3KhvuGKs",
+      "channel": {
+        "name": "Santrel Media",
+        "link": "https://www.youtube.com/@SantrelMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lchM7UK8VsnqAa3kbVlLd9QKQaKsPEexf7HMA3SLDsNxs=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 125709,
+      "length": "29:03",
+      "description": "In this video, Nate shows you how to set up and run ads on Google. Timestamps: 0:00 - Start Here 1:07 - Create a Campaign 7:36 ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tJT3KhvuGKs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmcchjpuepahFZIQ81MlSoNWP0FA",
+        "rich": "https://i.ytimg.com/an_webp/tJT3KhvuGKs/mqdefault_6s.webp?du=3000&sqp=CKzPotYG&rs=AOn4CLD37v7R0dTp_PFvUk-KaF1fin8E4g"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Google Ads Full Tutorial for Beginners 2026: Google Ads Course",
+      "link": "https://www.youtube.com/watch?v=GFD-IywOo10",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GFD-IywOo10",
+      "video_id": "GFD-IywOo10",
+      "channel": {
+        "name": "Mikey Vibe Coding",
+        "link": "https://www.youtube.com/@mikeyvibecoding",
+        "thumbnail": "https://yt3.ggpht.com/vTijf_PmP7XHWDLqtCvqPZihBKlGB52-2wGZcUHmUeNS2VYGEvueosEaQ7YGsuvcmEbVZyEL=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 13167,
+      "length": "33:48",
+      "description": "In this video, I break down a complete Google Ads full tutorial for beginners in 2026, showing you exactly how to use Google Ads ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/GFD-IywOo10/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9WM_94_MgXx2lCn4Ak6MevQYDoA",
+        "rich": "https://i.ytimg.com/an_webp/GFD-IywOo10/mqdefault_6s.webp?du=3000&sqp=CK2Eo9YG&rs=AOn4CLBNTIRkrPoJ0qs8Qu3JAFFaAQYRDA"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "The BEST Google Ads Beginners Tutorial (Step By Step)",
+      "link": "https://www.youtube.com/watch?v=i3-Dvy4Wjb4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=i3-Dvy4Wjb4",
+      "video_id": "i3-Dvy4Wjb4",
+      "channel": {
+        "name": "Ben Heath - Google Ads",
+        "link": "https://www.youtube.com/@BenHeathGoogleAds",
+        "thumbnail": "https://yt3.ggpht.com/CU4fTAU_azMiOiak6aXwfNieR1lbCBF-Fqackk59qYJMxLkUsaMcpQ8-b78SY5J-GKhbcD5n=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 410132,
+      "length": "1:00:03",
+      "description": "Let my agency run your Google ads for you: https://heathmedia.co.uk/google-ads If you're new here — I'm Ben Heath.",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/i3-Dvy4Wjb4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmGcqC13r0vC6M9M-yqOg6vFfFTg",
+        "rich": "https://i.ytimg.com/an_webp/i3-Dvy4Wjb4/mqdefault_6s.webp?du=3000&sqp=CILYotYG&rs=AOn4CLCYTNqi0cw-nuRP6oZk0jwvPZO-XA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Give Me 24 Minutes and I'll Make You Disgustingly Good at Google Ads",
+      "link": "https://www.youtube.com/watch?v=7xtRHa7b96w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7xtRHa7b96w",
+      "video_id": "7xtRHa7b96w",
+      "channel": {
+        "name": "Sabri Suby",
+        "link": "https://www.youtube.com/@SabriSubyOfficial",
+        "thumbnail": "https://yt3.ggpht.com/jWAjAGz26vYOGqtRMBMXGM00IHg2dL6D3nVjTMCuivSIZauZKSlGrQIayTjhLCXeBvDuwpsKm_c=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1mo ago",
+      "views": 138707,
+      "length": "24:35",
+      "description": "Stop wasting budget on Google Ads. I am breaking down the 6 hacks I discovered after spending $122M on Google Ads ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7xtRHa7b96w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyjhjaqSwu8hqKSduR1ZNLKxnQWA",
+        "rich": "https://i.ytimg.com/an_webp/7xtRHa7b96w/mqdefault_6s.webp?du=3000&sqp=CKTuotYG&rs=AOn4CLAWcUkMVKRrxZOxzDqpdObPgL83xQ"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Google Ads Full Course 2026 (With AI) – Beginner to PRO in One Video",
+      "link": "https://www.youtube.com/watch?v=autzRHtt-RM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=autzRHtt-RM",
+      "video_id": "autzRHtt-RM",
+      "channel": {
+        "name": "WsCube Tech",
+        "link": "https://www.youtube.com/@wscubetech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4FfycrkxlH3gF9HMpPqAmChY3kIH5gWdVNuYjqBGd5j0SpF-ALs6sVSfCQ-5qPyZYgJ79H0QKfA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 279315,
+      "length": "1:48:35",
+      "description": "Google Ads Full Course 2026 (With AI) – Beginner to PRO in One Video ------------------ Want to Learn AI-Powered Performance ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/autzRHtt-RM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLUdwAuhgPP6svphmmS46tSMZp3w",
+        "rich": "https://i.ytimg.com/an_webp/autzRHtt-RM/mqdefault_6s.webp?du=3000&sqp=CL6Fo9YG&rs=AOn4CLCjPWiRAtgPKVLFkvRZdDQVSLE4gw"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "the ENTIRE google ads algorithm explained in 24 mins",
+      "link": "https://www.youtube.com/watch?v=6U_bQdE0ehM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6U_bQdE0ehM",
+      "video_id": "6U_bQdE0ehM",
+      "channel": {
+        "name": "Romas Ecom",
+        "link": "https://www.youtube.com/@Romas-Ecom",
+        "thumbnail": "https://yt3.ggpht.com/cJnLp18Mwpbzeybmujt6GabBsU7YJVINV2I-NA0-4vhsUIbRk3SXGYw9ao0HvacZJdZuoVb_Jg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 46679,
+      "length": "24:41",
+      "description": "Apply for a 1:1 mentorship with me ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6U_bQdE0ehM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAna7oWRyKyQM0o6tOOnVUQQDmkAQ",
+        "rich": "https://i.ytimg.com/an_webp/6U_bQdE0ehM/mqdefault_6s.webp?du=3000&sqp=CKHyotYG&rs=AOn4CLBPRadmEveMac-QXJvMkksMKSYMIQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Google Ads Full Course 2026: Learn All Google Ads Campaigns in 3 Hours as a Beginner",
+      "link": "https://www.youtube.com/watch?v=Mh-9srK5w54",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Mh-9srK5w54",
+      "video_id": "Mh-9srK5w54",
+      "channel": {
+        "name": "WsCube Tech",
+        "link": "https://www.youtube.com/@wscubetech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4FfycrkxlH3gF9HMpPqAmChY3kIH5gWdVNuYjqBGd5j0SpF-ALs6sVSfCQ-5qPyZYgJ79H0QKfA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 627860,
+      "length": "2:49:39",
+      "description": "Google Ads Full Course 2026: Learn All Google Ads Campaigns in 3 Hours as a Beginner Become a Digital Marketer in 5 Months: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Mh-9srK5w54/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCL4ZCbNplMwzp97RKpfJegIwSskA",
+        "rich": "https://i.ytimg.com/an_webp/Mh-9srK5w54/mqdefault_6s.webp?du=3000&sqp=CJz0otYG&rs=AOn4CLADFuD4s99pJAVl6-sslrmpGJvtWg"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Google Ads Tutorial for Beginers [Updated for 2026]",
+      "link": "https://www.youtube.com/watch?v=h7xOSw1i7Jw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=h7xOSw1i7Jw",
+      "video_id": "h7xOSw1i7Jw",
+      "channel": {
+        "name": "Aaron Young  | Google Ads | Define Digital Academy",
+        "link": "https://www.youtube.com/@AaronYoungGoogleAds",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/vPkF1Q7dOn1wf47raBu8EKckjvDbcWuh6gVyIXUWsODrwwx9jG54caZXvYgAqKs4KAvLHegFszk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 16215,
+      "length": "32:40",
+      "description": "Want to set up your first profitable Google Ads campaign in 2026? This is the only video you need to watch. In this step by step ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/h7xOSw1i7Jw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDup9pJqqX99lSeFjP5UuI5tNlF-A",
+        "rich": "https://i.ytimg.com/an_webp/h7xOSw1i7Jw/mqdefault_6s.webp?du=3000&sqp=CNTTotYG&rs=AOn4CLC4LxI0j2Fhek5eQRY7NMoxu3bnyQ"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Google Ads Full Course In 5 Hours | Google Ads Tutorial | Complete Google Ads Tutorial | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=crDyGgU1-z0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=crDyGgU1-z0",
+      "video_id": "crDyGgU1-z0",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 394759,
+      "length": "4:40:08",
+      "description": "\"  SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/crDyGgU1-z0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLNtY-h6kmBILOqHQaJlbyGJxh9g"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "The BEST Google Ads Tutorial for Beginners in 2026",
+      "link": "https://www.youtube.com/watch?v=_RTd76T6LnE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_RTd76T6LnE",
+      "video_id": "_RTd76T6LnE",
+      "channel": {
+        "name": "Ben Heath - Google Ads",
+        "link": "https://www.youtube.com/@BenHeathGoogleAds",
+        "thumbnail": "https://yt3.ggpht.com/CU4fTAU_azMiOiak6aXwfNieR1lbCBF-Fqackk59qYJMxLkUsaMcpQ8-b78SY5J-GKhbcD5n=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 43847,
+      "length": "39:32",
+      "description": "Improve your Google ads data, optimization and ROAS with Hyros: http://hyros.com/affiliate-grow.html?fpr=ben85 *** Let my ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_RTd76T6LnE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQiN_UmZ_4VUs6J3daY6EnaR3PBg",
+        "rich": "https://i.ytimg.com/an_webp/_RTd76T6LnE/mqdefault_6s.webp?du=3000&sqp=CNDrotYG&rs=AOn4CLBjGnyM9XgAkC2zSF3XnBj_bAtBKw"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "How To CRUSH Google Ads with a Small Budget in 2026",
+      "link": "https://www.youtube.com/watch?v=w_5b2tGUpxg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=w_5b2tGUpxg",
+      "video_id": "w_5b2tGUpxg",
+      "channel": {
+        "name": "Ben Heath - Google Ads",
+        "link": "https://www.youtube.com/@BenHeathGoogleAds",
+        "thumbnail": "https://yt3.ggpht.com/CU4fTAU_azMiOiak6aXwfNieR1lbCBF-Fqackk59qYJMxLkUsaMcpQ8-b78SY5J-GKhbcD5n=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 81361,
+      "length": "56:56",
+      "description": "Improve your Google ads data, optimization and ROAS with Hyros: http://hyros.com/affiliate-grow.html?fpr=ben85 *** Let my ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/w_5b2tGUpxg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuk1qeWaH3z_MI2PJyEQ2hFKANLA",
+        "rich": "https://i.ytimg.com/an_webp/w_5b2tGUpxg/mqdefault_6s.webp?du=3000&sqp=CKD0otYG&rs=AOn4CLDrBUsJXbOH-Bx7lBXC1bknhKhF8Q"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Google Ads Full Course 2026 | Google Ads Tutorial | Complete Google Ads Tutorial | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=c-JLDF6r1Y8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c-JLDF6r1Y8",
+      "video_id": "c-JLDF6r1Y8",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 23982,
+      "length": "10:24:56",
+      "description": "SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/c-JLDF6r1Y8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMqnIwFV1AT2AOTNmmQmRAH-DlhA",
+        "rich": "https://i.ytimg.com/an_webp/c-JLDF6r1Y8/mqdefault_6s.webp?du=3000&sqp=CNnMotYG&rs=AOn4CLBgnGXk55y38DdTeeFoHLH8sbuNsQ"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Introduction to Google Ads  (Lesson 1) - Google Ads course for beginners",
+      "link": "https://www.youtube.com/watch?v=tgUocrkP8Es",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tgUocrkP8Es",
+      "video_id": "tgUocrkP8Es",
+      "channel": {
+        "name": "Senator We Run Ads",
+        "link": "https://www.youtube.com/@SenatorWeRunAds",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lTuBUezzDLAJNF_2brPS1Q3cJoyy62eYmnaCY5JgcXF_4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 127999,
+      "length": "21:18",
+      "description": "This is the 1st video of the step-by-step series - Google Ads professional course In this video we will discuss about the course and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tgUocrkP8Es/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0nQYowLDs-L5ZWrjY0ToOfLpIRg",
+        "rich": "https://i.ytimg.com/an_webp/tgUocrkP8Es/mqdefault_6s.webp?du=3000&sqp=CNTwotYG&rs=AOn4CLCEONRq1_p4JI0nUds5qhjA50bGMw"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Google Ads Full Course | Learn Google Ads from Beginner to Advanced",
+      "link": "https://www.youtube.com/watch?v=52WmEpXixDE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=52WmEpXixDE",
+      "video_id": "52WmEpXixDE",
+      "channel": {
+        "name": "Lets Uncover",
+        "link": "https://www.youtube.com/@LetsUncover",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/fg3Wh1Vtjv4hxEg-Duvd6OBeW9x5fcss_F9s-SQXTCxavduyABxCkz5mVuT6Ptnnp54GkuDwtQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 208156,
+      "length": "7:43:52",
+      "description": "Google Ads Full Course | Learn Google Ads from Beginner to Advanced Follow Nehal Khan: Linkedin: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/52WmEpXixDE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbPz6PXX5pbHbrKNYN-CaIyM8oVA",
+        "rich": "https://i.ytimg.com/an_webp/52WmEpXixDE/mqdefault_6s.webp?du=3000&sqp=CNiHo9YG&rs=AOn4CLAQKzXbgx5cSltIyLz624Y8B0JDsA"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Google+Ads+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Google%20Ads%20full%20course%20for%20beginners&sp=EgIYAkgUggELYS1KbWhLOW5LSmuCAQtRdWZSRkFYSmxPSYIBCzE2WDVhMElpN2tnggELXzQ3cHJpa3VoX0mCAQszS1Z4Qi1ScHUxY4IBC2RwamVKd0NnMzV3ggELdEpUM0todnVHS3OCAQtHRkQtSXl3T28xMIIBC2kzLUR2eTRXamI0ggELN3h0UkhhN2I5NneCAQthdXR6Ukh0dC1STYIBCzZVX2JRZEUwZWhNggELTWgtOXNySzV3NTSCAQtoN3hPU3cxaTdKd4IBC2NyRHlHZ1UxLXowggELX1JUZDc2VDZMbkWCAQt3XzViMnRHVXB4Z4IBC2MtSkxERjZyMVk4ggELdGdVb2Nya1A4RXOCAQs1MldtRXBYaXhERbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELYS1KbWhLOW5LSmuCAQtRdWZSRkFYSmxPSYIBCzE2WDVhMElpN2tnggELXzQ3cHJpa3VoX0mCAQszS1Z4Qi1ScHUxY4IBC2RwamVKd0NnMzV3ggELdEpUM0todnVHS3OCAQtHRkQtSXl3T28xMIIBC2kzLUR2eTRXamI0ggELN3h0UkhhN2I5NneCAQthdXR6Ukh0dC1STYIBCzZVX2JRZEUwZWhNggELTWgtOXNySzV3NTSCAQtoN3hPU3cxaTdKd4IBC2NyRHlHZ1UxLXowggELX1JUZDc2VDZMbkWCAQt3XzViMnRHVXB4Z4IBC2MtSkxERjZyMVk4ggELdGdVb2Nya1A4RXOCAQs1MldtRXBYaXhERbIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Google+Ads+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Google+Ads+full+course+for+beginners&sp=EgIYAkgUggELYS1KbWhLOW5LSmuCAQtRdWZSRkFYSmxPSYIBCzE2WDVhMElpN2tnggELXzQ3cHJpa3VoX0mCAQszS1Z4Qi1ScHUxY4IBC2RwamVKd0NnMzV3ggELdEpUM0todnVHS3OCAQtHRkQtSXl3T28xMIIBC2kzLUR2eTRXamI0ggELN3h0UkhhN2I5NneCAQthdXR6Ukh0dC1STYIBCzZVX2JRZEUwZWhNggELTWgtOXNySzV3NTSCAQtoN3hPU3cxaTdKd4IBC2NyRHlHZ1UxLXowggELX1JUZDc2VDZMbkWCAQt3XzViMnRHVXB4Z4IBC2MtSkxERjZyMVk4ggELdGdVb2Nya1A4RXOCAQs1MldtRXBYaXhERbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELYS1KbWhLOW5LSmuCAQtRdWZSRkFYSmxPSYIBCzE2WDVhMElpN2tnggELXzQ3cHJpa3VoX0mCAQszS1Z4Qi1ScHUxY4IBC2RwamVKd0NnMzV3ggELdEpUM0todnVHS3OCAQtHRkQtSXl3T28xMIIBC2kzLUR2eTRXamI0ggELN3h0UkhhN2I5NneCAQthdXR6Ukh0dC1STYIBCzZVX2JRZEUwZWhNggELTWgtOXNySzV3NTSCAQtoN3hPU3cxaTdKd4IBC2NyRHlHZ1UxLXowggELX1JUZDc2VDZMbkWCAQt3XzViMnRHVXB4Z4IBC2MtSkxERjZyMVk4ggELdGdVb2Nya1A4RXOCAQs1MldtRXBYaXhERbIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 10:42:40 UTC"
+}

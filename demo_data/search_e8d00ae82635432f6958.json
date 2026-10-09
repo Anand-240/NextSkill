@@ -1,0 +1,446 @@
+{
+  "search_metadata": {
+    "id": "6ac8c4d8afaa6702e1c453ec",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zlw_kNtNG4Xaodb-LmorhcMDgOpl5d_fbdGiBI6Jgp8/6ac8c4d8afaa6702e1c453ec.json",
+    "markdown_endpoint": "https://serpapi.com/searches/zlw_kNtNG4Xaodb-LmorhcMDgOpl5d_fbdGiBI6Jgp8/6ac8c4d8afaa6702e1c453ec.md",
+    "created_at": "2026-10-09 10:41:28 UTC",
+    "processed_at": "2026-10-09 10:41:28 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIkSW5kb3JlIERpdmlzaW9uLE1hZGh5YSBQcmFkZXNoLEluZGlh&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/zlw_kNtNG4Xaodb-LmorhcMDgOpl5d_fbdGiBI6Jgp8/6ac8c4d8afaa6702e1c453ec.html",
+    "total_time_taken": 2.39
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Indore, India",
+    "location_used": "Indore Division,Madhya Pradesh,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rMeKKsw4ANOHcSC9u8FZviLtJElUL0xt9nekIrDiNjSWHcY8JZpwwDjFK7ab_hhktl-pHqV9aA5ZdpyoLsVF7VMOU2RbMwQ-xEcO8diL2xE4aboGtHq8crNvPudzwmv4UXHvpmhJt36DBrRTe8WBgqNcVr1Y",
+        "q": "Data Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMeKKsw4ANOHcSC9u8FZviLtJElUL0xt9nekIrDiNjSWHcY8JZpwwDjFK7ab_hhktl-pHqV9aA5ZdpyoLsVF7VMOU2RbMwQ-xEcO8diL2xE4aboGtHq8crNvPudzwmv4UXHvpmhJt36DBrRTe8WBgqNcVr1Y&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMeKKsw4ANOHcSC9u8FZviLtJElUL0xt9nekIrDiNjSWHcY8JZpwwDjFK7ab_hhktl-pHqV9aA5ZdpyoLsVF7VMOU2RbMwQ-xEcO8diL2xE4aboGtHq8crNvPudzwmv4UXHvpmhJt36DBrRTe8WBgqNcVr1Y"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvsNYXOeFOr9gQdv2rYsCtAxyMeMg:1791542490127&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg&udm=8&sa=X&ved=2ahUKEwis-eTt36yXAxXW_8kDHVfzLf0QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Data Analyst | IT Consulting MNC (Indore)",
+      "company_name": "Hindco Recruitment Consultants",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=kjXz1fdHBfdDGMUFAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zXOzwpBURCA8Ww9gtUske6VUmLlT2FBkr3GudM9R8fM7cwoysI7eBxv40mQbL7dV7_6s1afzNAQxozxqgY3WO5gKqznaIFLWK2n0FxyIYla8Lo_4CgHUMLkPAjDXKSM1Bh5s0qHea4as1INLbjMySkXpoNc8s-k3-zVY6IqotG-1-9esorL9mARuHACW3LpHOxEbH8BsikEhh-gAyss_BVhk7Ag9W8g0DLzvgAAAA&shmds=v1_ARwrE23eK-lcFj8GA6AHKhccCD6TcQBJIYF8jVcxOzYm6Rp84A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=kjXz1fdHBfdDGMUFAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/data-analyst-it-consulting-mnc-indore/hindco-recruitment-consultants/19686468",
+      "job_title": "Data Analyst | IT Consulting MNC (Indore)",
+      "description": "- Collect, organize, clean and preprocess data from various sources, including databases, spreadsheets, and APIs to ensure accuracy and reliability.  \n- Perform exploratory data analysis to identify trends, patterns, and correlations.  \n\nRequired Candidate profile\n\n- 4+ years of experience working as Data Analyst or in similar role.  \n- Proficiency in SQL, Python, R or other programming languages used for data analysis.  \n- Experience with data visualization tools .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst-it-consulting-mnc-indore/hindco-recruitment-consultants/19686468?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340400047/data-analyst-it-consulting-mnc-indore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgfCBJVCBDb25zdWx0aW5nIE1OQyAoSW5kb3JlKSIsImNvbXBhbnlfbmFtZSI6IkhpbmRjbyBSZWNydWl0bWVudCBDb25zdWx0YW50cyIsImh0aWRvY2lkIjoia2pYejFmZEhCZmRER01VRkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVZDJlbTFEUlVsTFpHMU9lbnA2TFdKUmRIQnJUV2xPV0UxWlQwSkhSRFpuTFhOZmFGTTVjREppVkZndFVsOXFNRnBUVERkNlFXTkdZMEZDT1VablNIcHVOVVF3YzFaa1pVaE5ialYxVUVwdU1tcG9RazVJZFdSdlRFTjNlSGg2TTBkeFJtcDZkams0WDJKRE1sb3hlRTVmZEZGQmEzSnFVbkUzZVhoNFMzUmhkRFJFUzFvU0Z6SnpWRWxoY1hsclFqbGlYM0E0TkZBeExXRXpObEU0R2lKQlJITnlPV1pVYUc1Sk5HdG1kR2hzVEdwT1pqSnhUa1pPZVZKak5ubzJkSGhSIiwiZmN2IjoiMyIsImZjX2lkIjoia2pYejFmZEhCZmRER01VRkFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst - Power BI Job",
+      "company_name": "Yash Technologies",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Zip Recruiter",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=U1qd0nuRBpXxjE8fAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLPQrCQBBAYWxzBKup_cmKaKOVIkgEIYWNVZhsht3IuhN2Boydd_ACns2TGJv3VS_7jLLVARVhFzE8RWEOJT8owb6AE9fwfb3hNiiEyXrgCEdmF2i89aqdbIwRCbkTRW1tbvluOFLNvRkm-acSj4m6gErVcr3o8y66yfSK4uFC1kcO7FoSaCMUseFEMzhj458IZcKGxP8A649nf6MAAAA&shmds=v1_ARwrE20P-J-gUTiKYIo22Ar6iJCCQNstAzaY-2HhDNj1VeT4kg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=U1qd0nuRBpXxjE8fAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4d8afaa6702e1c453ec/images/uFzo5NAW9eG0b3AtZTMPty8TVy15gVCKW_QSOt8mpEM.png",
+      "extensions": [
+        "4 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.ziprecruiter.in/jobs/617368483-data-analyst-power-bi-job-at-yash-technologies",
+      "job_title": "Data Analyst - Power BI Job",
+      "description": "YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation.\n\n\n \n\n\nAt YASH, we're a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth - bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future.\n\n\n \n\n\nWe are looking forward to hire Power BI Professionals in the following areas :\n\n\n \n\n\nJob description:\n\n\n \n\n\nExperience required: 2-4 years.\n\n\n \n\n   Power BI Developer with strong expertise in Power BI, DAX, Power Query, and SQL to support analytics and dashboard development initiatives within the Pharma domain.   The candidate will be responsible for developing, optimizing, and maintaining interactive Power BI dashboards, creating efficient data models, and ensuring accurate, high-quality reporting to support business decision-making. \n \n\n\nAt YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale.\n\n\n \n\n\nOur Hyperlearning workplace is grounded upon four principles\n\n   Flexible work arrangements, Free spirit, and emotional positivity  Agile self-determination, trust, transparency, and open collaboration  All Support needed for the realization of business goals,  Stable employment with a great atmosphere and ethical corporate culture",
+      "apply_options": [
+        {
+          "title": "Zip Recruiter",
+          "link": "https://www.ziprecruiter.in/jobs/617368483-data-analyst-power-bi-job-at-yash-technologies?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indore Jobs Expertini",
+          "link": "https://indore.in.expertini.com/job/data-analyst-power-bi-job-indore-yash-technologies-631044528814950738/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/jobs/k7-computing-bi-analyst-indore-1b454b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337264703/sr-data-analyst-power-bi-indore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBQb3dlciBCSSBKb2IiLCJjb21wYW55X25hbWUiOiJZYXNoIFRlY2hub2xvZ2llcyIsImh0aWRvY2lkIjoiVTFxZDBudVJCcFh4akU4ZkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRIUmxSMVpmTm04dFRFbFRhVmRrVUVrMmNrdDJPRFozZHpGbWRHZDNTV3R1VWw5SVZ6aHpiazlEVTBob05GWXlhRjl1WkdzeGNGOXNXWE5pZG1oRlYyTjRlbVZsZVhWR2FVRkRVRU52U0hJNFFWUnlSRGR2UW5Kb2MzSkJkMlIzVjJGVFJpMDRiazFmU3pkYVFtc3lRa3RVU0ZCZlVXRkxRWGRYVVhreFF6ZHRaMjFLWjBFU0Z6SnpWRWxoY1hsclFqbGlYM0E0TkZBeExXRXpObEU0R2lKQlJITnlPV1pSYVRGMFVWZERaazh3Y2pWaE1sOXZSVFpqU0ZkMlVXZDNTMUZCIiwiZmN2IjoiMyIsImZjX2lkIjoiVTFxZDBudVJCcFh4akU4ZkFBQUFBQT09In0="
+    },
+    {
+      "title": "Beauty & Wellness Data Analytics Specialist",
+      "company_name": "YuvaIntern",
+      "location": "Indore, Madhya Pradesh",
+      "via": "YuvaIntern",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=WvY98AnOJ7-Jm7FdAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBAAQGzzBKstxEIkEcFGKyUgKQTBQqzC5rLkIufecbuRpPMPvsJv-RJjM90kn0mSHwg7HWAOV3KOSQRyVIQ9oxu0NQKXQKZF14rC9_WGu69ACKOx4BmO3jeOpjurGmSbZSIubURxnKnxj8wzVb7PxiR_SrEYKThUKtebVZ8GbhazW_fEgpUiQ8tQcO0jLeGEtR0QzhFrEvsDSCiVSawAAAA&shmds=v1_ARwrE23OPg1X9vS987nm8gnDm95hra0apvj7tJZPR1SWHP2Gpg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=WvY98AnOJ7-Jm7FdAAAAAA%3D%3D",
+      "extensions": [
+        "Internship"
+      ],
+      "source_link": "https://yuvaintern.com/internship/beauty-wellness-data-analytics-specialist-internship-in-indore",
+      "job_title": "Beauty & Wellness Data Analytics Specialist",
+      "description": "As a Beauty & Wellness Data Analytics Specialist, you will be responsible for collecting, analyzing, and interpreting data related to the Beauty & Wellness sector. Your role will involve identifying trends, patterns, and insights from various sources of data to drive informed decision-making and strategy development within the industry. You will collaborate with cross-functional teams to develop data-driven solutions that optimize business processes, enhance customer experiences, and drive growth in the Beauty & Wellness sector.",
+      "apply_options": [
+        {
+          "title": "YuvaIntern",
+          "link": "https://yuvaintern.com/internship/beauty-wellness-data-analytics-specialist-internship-in-indore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCZWF1dHkgXHUwMDI2IFdlbGxuZXNzIERhdGEgQW5hbHl0aWNzIFNwZWNpYWxpc3QiLCJjb21wYW55X25hbWUiOiJZdXZhSW50ZXJuIiwiaHRpZG9jaWQiOiJXdlk5OEFuT0o3LUptN0ZkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJa1NXNWtiM0psSUVScGRtbHphVzl1TEUxaFpHaDVZU0JRY21Ga1pYTm9MRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1cxWGFETXRXVFJZWjFoR2NtVkVOMDE1WmtONGQyNHlhVXBmTWtacWVqQmxYM2ROU0Y5cGRtOVdhV1kxYzFwT2NsaFhZMUJGTXpST2FtRTRZVkpwU2t4Zk9YRm5TbFZuZUdwbGNtVTJSVEUxVlV0c2FIVm9Na0UxYW1adWRFZHpTakZFU3pCUU9VcGhSelo0YlRBeFJrNXBRbWRtYzB4WmIzRjJNelZOVTNoclVtVmhNVEVTRnpKelZFbGhjWGxyUWpsaVgzQTRORkF4TFdFek5sRTRHaUpCUkhOeU9XWlVZWEZMYm00M2RVRndOSE55ZW5Fd2NFeHlkSEpOU1dKb2VGaDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJXdlk5OEFuT0o3LUptN0ZkQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "CLIMATE & SUSTAINABILITY DATA ANALYST",
+      "company_name": "Climeto Sustainable Services Pvt. Ltd.",
+      "location": "Indore, Madhya Pradesh",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=tM359ejwQfXaLMOsAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLQUoDMRQGYNz2CK7-lQuRjBTcKIixlRKYlkLioquSmXlMUtK8IS-WuvMOHsi7eBLr5tt9s5-r2fOiNWvt3nAD-26dNhv9alrjdlhqp6E3ut1Zh9-vbxy4g5AvfQBnrJjHRNdPodZJHptGJKlRqq-xVz0fG87U8bm5JPlnL8EXmpKvtJ8_3J_VlMfbl0WKR6oM-3GZMfsuESyVU-xJsD1VhbYOCjHD5IEL3WHth_DpsS1-IAl_eQiEC8IAAAA&shmds=v1_ARwrE20xVTMq2P1jyY-VrHXi0uQeps8wdkWyhh6XHipqp7kQ5Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=tM359ejwQfXaLMOsAAAAAA%3D%3D",
+      "extensions": [
+        "16 days ago",
+        "₹15K–₹30K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/JOT8nf1_tOSnPGoa-u-FwCKQFUa8WU5Y7TfCYL5vLw3QcfuWRFRu-Q",
+      "job_title": "CLIMATE & SUSTAINABILITY DATA ANALYST",
+      "description": "Climate & Sustainability Data Analyst\n\nLocation: Indore, Madhya Pradesh\nExperience: 1+ Year\nDepartment: Operations\nReports To: Operations Manager\nTravel: Occasional, as required\n\nAbout the Role\n\nClimeto Sustainable Services Pvt. Ltd. is looking for a Climate & Sustainability Data Analyst to work across Data Analytics, Client Management, Sustainability and EPR Compliance.\n\nYou will work with client business data, analyse and validate datasets, prepare MIS reports and trackers, coordinate with clients, and convert validated data into EPR compliance reports and filings.\n\nKey Responsibilities\n\nAnalyse, clean, validate and organise large client datasets, including sales, purchase, product, packaging and invoice data.Identify data gaps, duplicates, inconsistencies and errors.Use Excel formulas, Pivot Tables, Lookups and other tools for data analysis and reporting.Prepare MIS reports, dashboards, compliance trackers and client reports.Support EPR compliance across Plastic, E-Waste, Battery, Tyre, Used Oil and ELV.Prepare compliance data and support filings on CPCB/SPCB portals.Coordinate with clients through calls and emails to collect and clarify required data.Follow up on pending information and resolve data discrepancies.Maintain accurate, organised and audit-ready records.Track compliance deadlines and regulatory requirements.Identify process gaps and suggest improvements to reduce manual work and improve efficiency.Requirements\n\nGraduate in any discipline; backgrounds in Data Analytics, Statistics, Commerce, Management, Environmental Science, Engineering or Economics are preferred.1+ year of experience in Data Analysis, MIS, Operations, Reporting, Compliance or Client Coordination.Strong working knowledge of Microsoft Excel.Comfortable handling large datasets with high accuracy.Good analytical, problem-solving and communication skills.Ability to manage multiple client requirements and deadlines.Willingness to learn EPR regulations and environmental compliance.Client communication and follow-up skills are required.Preferred Skills\n\nExperience in MIS, Data Analytics, Operations, Compliance or Reporting.Exposure to sustainability, environmental compliance or regulatory work.Knowledge of Zoho applications is an advantage.Key Skills: Excel, Data Analysis, MIS, Reporting, Data Management, EPR Compliance, Client Coordination, Sustainability, Environmental Compliance, CPCB, SPCB, Pivot Tables, VLOOKUP/XLOOKUP.\n\nPay: ₹15,000.00 - ₹30,000.00 per month\n\nBenefits:\n\nProvident FundWork Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/JOT8nf1_tOSnPGoa-u-FwCKQFUa8WU5Y7TfCYL5vLw3QcfuWRFRu-Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010271776803&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337428904/climate-sustainability-data-analyst-indore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDTElNQVRFIFx1MDAyNiBTVVNUQUlOQUJJTElUWSBEQVRBIEFOQUxZU1QiLCJjb21wYW55X25hbWUiOiJDbGltZXRvIFN1c3RhaW5hYmxlIFNlcnZpY2VzIFB2dC4gTHRkLiIsImh0aWRvY2lkIjoidE0zNTllandRZlhhTE1Pc0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNqZFdVbkZYYTI5S1p6TkJVSFpMZFRWTFRWTkxTVEpGV1hjeGN6VjJaazk0TUU5dFdtUjNYM2c0YkcxRFoxOVFSVEEyVm1waWVsOTZVMlYzTnpFeFZ6ZDJVRmRRTWxCMlMxOUJTa3BmTFdsMFZUUkdNRXhJZWxkZmNrcFNjRFJRVkcwNFZUTnlWVXhKYkRocmRtRTJNMGxqYkZwek1VaGtRbWRJYVhGYVVsVnNha3gyYVZNU0Z6SnpWRWxoY1hsclFqbGlYM0E0TkZBeExXRXpObEU0R2lKQlJITnlPV1pSUkZSUmRrWmFlbUZCT0dsVVJTMVZjR1JETWpsalZFbzViMGxSIiwiZmN2IjoiMyIsImZjX2lkIjoidE0zNTllandRZlhhTE1Pc0FBQUFBQT09In0="
+    },
+    {
+      "title": "Sr Data Analyst Indore (India)",
+      "company_name": "Lumenore",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=nl5tHPdVmAoVCi5zAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2NMQrCQBAAsc0TrBYrFcmJIIJWgiCCguADwiZZcpHLbrhdIen8g53P8yVGsJmphkneo2Rzi3BAQ9gzhl4NTlxKJJgOrnEGn-cL7pKDEsbCgzAcRapA4503a3XrnGpIKzW0ukgLaZww5dK5IdIfMvUYqQ1olK3Wyy5tuZpPzo-G-Pep-X9cwAVL3yNcI5ak_gtaIlCQnQAAAA&shmds=v1_ARwrE20z5DzoZGB6tQhD9Wk-GRyveLS7Z_2u1mEDAX9CBvuw6A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=nl5tHPdVmAoVCi5zAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/sr-data-analyst-indore-india/lumenore/19440811",
+      "job_title": "Sr Data Analyst Indore (India)",
+      "description": "Lumenore is looking for Sr. Data Analyst to join our energetic team and embark on a rewarding career journey. As a Senior Data Analyst, your role is to gather, analyze, and interpret complex data to provide valuable insights and support data-driven decision-making within an organization. You work with large datasets, employ statistical techniques, and use various tools and technologies to extract meaningful information.   \n\nHere are some key responsibilities and tasks typically associated with the role of a Senior Data Analyst:Data Collection and Exploration: Collecting and organizing data from various sources, such as databases, data warehouses, APIs, or external sources.   \n\nYou explore and understand the data, identify data quality issues, and ensure data integrity.Data Analysis and Modeling: Applying statistical analysis, data mining techniques, and advanced analytical methods to extract insights from data. You develop models and algorithms to uncover patterns, correlations, and trends, and generate actionable recommendations based on your findings.Data Visualization and Reporting: Creating visualizations, dashboards, and reports to present data analysis results in a transparent and compelling manner.   \n\nYou use tools like Tableau, Power BI, or Python libraries like Matplotlib and Seaborn to visually communicate complex data to stakeholders.Business Intelligence and Decision Support: Collaborating with business stakeholders to understand their requirements and translate them into data analysis projects.   \n\nYou provide analytical support to decision-making processes, helping stakeholders make informed and data-driven decisions.Data Quality and Governance: Ensuring data accuracy, consistency, and compliance with data governance policies. You validate and cleanse data, establish data quality standards, and implement data governance frameworks to maintain data integrity.   \n\nDisclaimer : This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/sr-data-analyst-indore-india/lumenore/19440811?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTciBEYXRhIEFuYWx5c3QgSW5kb3JlIChJbmRpYSkiLCJjb21wYW55X25hbWUiOiJMdW1lbm9yZSIsImh0aWRvY2lkIjoibmw1dEhQZFZtQW9WQ2k1ekFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNtVjBlVkZOYUhSdVVXeERkblZhU1ZSRFp6RXpWRnB3ZEdaSmFHdFRkR3BLUkVSdVVVSmhURkpTWkZWclJFVnJXbXByWlZNM2NtOW9hR1p4ZG5GTk9WcFZXV0ZLVlZscFkzZDZlbUZYZURScGJEWkVRVEE0ZWxST1pHRjJUeTFLZW14d1FtNW1Wa1JNYzJwcVVFZDNWMDE0TVZSRk5sRmhhazkwVGtGM1VsUjRaRUYzVGxRU0Z6SnpWRWxoY1hsclFqbGlYM0E0TkZBeExXRXpObEU0R2lKQlJITnlPV1pST1VsR00wODJiRkJDZDBsNk56TlNkMkZWTTA5RlltcFhRa3RuIiwiZmN2IjoiMyIsImZjX2lkIjoibmw1dEhQZFZtQW9WQ2k1ekFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst (No Experience Required)",
+      "company_name": "Fusion5",
+      "location": "Ujjain, Madhya Pradesh",
+      "via": "MyInternships.in",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=L4PeOMoqb1SboDJJAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLPQrCMBQAYFx7BKfnpiKNCF0UBMGfSRHBWV7TR5MS82JeCu3mHbyAZ_Mk6vJtX_YeZOstJoSNR9dLgvGJYdcFipa8JrjQo7WRqgl8ni9ouAQhjNoAezgw146GK5NSkKVSIi6vJWGyOtd8V-yp5E79kvy5icFIwWGi26KYd3nw9XS0b8WyL8B6uDYNWj-DI1amRzhHrEjMF2e7KwyjAAAA&shmds=v1_ARwrE21z1t68QPVjvxeK9RDOzZQ1pp9uv9Y58QhneJ_D1vXrfw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=L4PeOMoqb1SboDJJAAAAAA%3D%3D",
+      "extensions": [
+        "₹26K a month",
+        "Full–time"
+      ],
+      "source_link": "https://myinternships.in/jobs/fusion5-data-analyst-no-experience-required-ujjain-d50390",
+      "job_title": "Data Analyst (No Experience Required)",
+      "description": "Build your data analytics career at Fusion5 as a Data Analyst (No Experience Required) in Ujjain. This is a full-time position with genuine ownership from the first month — your own datasets, your own dashboards, and stakeholders who rely on them.\n\nAbout the role\nIn this Data Analyst (No Experience Required) position you will be trusted with real business questions. Day to day that means an analyst seat open to candidates with no prior work experience — training on SQL, Excel and Power BI is part of the role with SQL, Excel and Power BI, and holding a high bar on data quality, documentation and clarity of communication.\n\nKey responsibilities\n• Prepare and clean datasets for the analytics team under a senior analyst\n• Build simple dashboards and recurring reports, reviewed before release\n• Run first-pass analyses and summarise what the data shows\n• Cross-check published numbers against source systems\n• Document your queries and steps so the work is repeatable\n• Validate and reconcile numbers before they are published, and document known data caveats\n• Automate recurring reporting so the team spends its time on analysis rather than refreshes\n• Present findings to non-technical stakeholders in clear, plain language\n\nRequired skills and tools\n• SQL\n• Advanced Excel\n• Power BI\n• Tableau\n• Python (Pandas)\n• Data Cleaning\n• Data Visualization\n• Descriptive Statistics\n• Dashboarding\n• Business Acumen\n• Stakeholder Communication\n• Documentation\n\nEligibility criteria\n• Education: any graduate — B.E./B.Tech, B.Sc, BCA/MCA, B.Com, BBA or MBA. Candidates from any recognised university are welcome.\n• Graduation year: 2023–2026 batches. Freshers and final-year students awaiting results may apply.\n• Minimum 60% / 6.0 CGPA in the highest qualification (indicative — strong practical skills can offset this).\n• Experience: 0–0 years in analytics, reporting, MIS or a closely related function.\n• Technical skills: SQL, Advanced Excel, Power BI, Tableau, Python (Pandas), Data Cleaning.\n• Soft skills: structured thinking, attention to detail, stakeholder communication, ownership and the confidence to flag a number that looks wrong.\n\nSalary and compensation\n• Annual CTC: ₹2,40,000 – ₹3,90,000 per year (2.4 LPA – 3.9 LPA), an indicative market range for this role in Ujjain.\n• Monthly equivalent: approximately ₹26,000 per month at the mid-point of the range.\n• Currency: INR (₹).\n• Performance bonus / variable pay as per Fusion5's policy, reviewed annually.\n• The exact offer is confirmed by Fusion5 based on your interview performance and current compensation.\n\nPerks and benefits\n• Flexible / hybrid working options\n• Modern analytics tooling and licensed BI seats\n• Clear appraisal cycle and internal mobility\n• Employee wellness programmes\n• Team offsites and networking opportunities\n• Competitive salary as per market benchmarks\n• Annual performance bonus / variable pay\n• Health insurance for you and your dependants\n\nLocation, work mode and employment type\n• Location: Ujjain, Madhya Pradesh\n• Work mode: Work From Office\n• Employment type: Full-time, permanent\n• Working hours: 10:00 AM – 7:00 PM, Monday to Friday\n• Number of openings: 4\n• Joining: immediate to 60 days, as per your notice period\n\nSelection process\n• Round 1 — Resume screening and profile shortlisting by the talent acquisition team\n• Round 2 — Technical interview 1 — SQL joins, aggregations, window functions and data modelling\n• Round 3 — Case study / take-home assignment on a real dataset, with a walkthrough of your approach\n• Round 4 — HR discussion — compensation, notice period, joining date and offer roll-out\n\nWho should apply\nCandidates from any graduate — B.E./B.Tech, B.Sc, BCA/MCA, B.Com, BBA or MBA with up to 0 years of relevant experience who are based in Ujjain or willing to relocate. You should be comfortable with SQL, Advanced Excel, Power BI and able to explain your analysis to someone who has never seen the data. Portfolio projects, Kaggle work, a GitHub repo or published dashboards strengthen an application, especially for early-career candidates.\n\nWhy join Fusion5\nAt Fusion5 the analytics function is treated as core, not a back-office service. You will have direct access to stakeholders, room to challenge assumptions and support to keep learning. There is a clear progression path from Analyst to Senior Analyst, and onward into analytics leadership or a specialist data-science / data-engineering track. You will leave every year of this role with your first analytics job, with the tools taught on the job.\n\nHow to apply\nClick Apply Now. If you are not signed in you will be asked to log in or create a free MyInternships.in candidate account first, after which you will be taken directly to Fusion5's official careers page to submit your application. Applications close on 16 October 2026 and are reviewed on a rolling basis, so apply early.\n\nAdditional information\n• Documents required at the interview stage: updated resume, degree certificates or provisional certificate, and government photo ID.\n• Experienced candidates should also carry recent payslips and a relieving or experience letter.\n• There is no service bond for this position, and no equipment deposit is taken.\n• A laptop and licensed analytics tooling are provided by Fusion5 for office and hybrid roles.\n• Fusion5 and MyInternships.in never charge a fee at any stage of the application, selection or onboarding process. If anyone asks you for money in the name of this job, do not pay — report it. Responsibilities: Prepare and clean datasets for the analytics team under a senior analyst; Build simple dashboards and recurring reports, reviewed before release; Run first-pass analyses and summarise what the data shows; Cross-check published numbers against source systems; Document your queries and steps so the work is repeatable; Validate and reconcile numbers before publishing, and document data caveats; Automate recurring reporting to free up time for real analysis; Present findings clearly to non-technical stakeholders. Requirements: any graduate — B.E./B.Tech, B.Sc, BCA/MCA, B.Com, BBA or MBA from a recognised university; 0–0 years of experience in analytics, reporting or MIS — freshers and 2026 graduates are welcome; Working knowledge of SQL, Advanced Excel, Power BI; Comfort with SQL, Excel and Power BI and with cleaning messy, real-world data; Ability to define a metric precisely and explain a result to a non-technical stakeholder; Attention to detail, ownership and the discipline to document your work; Based in Ujjain, Madhya Pradesh or willing to relocate.",
+      "apply_options": [
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/jobs/fusion5-data-analyst-no-experience-required-ujjain-d50390?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKE5vIEV4cGVyaWVuY2UgUmVxdWlyZWQpIiwiY29tcGFueV9uYW1lIjoiRnVzaW9uNSIsImh0aWRvY2lkIjoiTDRQZU9Nb3FiMVNib0RKSkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRIZzBiRU16YWtoMVYyaG5jMTlFTldsQk4wVkxSM2REUVdKeFRtaHlZblZzYm1wbWFreEJXRkZSUkc5NldrUkZUbGN4YURCbU0yNHdSRFJHU21wRFdtVmFhVXQ0UkV0SFpqSXRaazFXWlV0UVIzZHVVa05TVEZkWk5uRjNaRkZJZWtaSVJFUkRjbXRYU0ZCWVNHbHJhalpTWm5wdlp6TkdSMHQwVTNSVFVXNTFlREZLYzA4U0Z6SnpWRWxoY1hsclFqbGlYM0E0TkZBeExXRXpObEU0R2lKQlJITnlPV1pVTmxKU1NubFhkak5wZUd0WGVqQlZhMWhEWTNGM09HUlJURk4zIiwiZmN2IjoiMyIsImZjX2lkIjoiTDRQZU9Nb3FiMVNib0RKSkFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst Remote Indore",
+      "company_name": "Quik Hire Staffing",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Kit Job",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=EXnMhYM1rbCft3_VAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3NPQrCQBBAYWxzBKupJSSi2GglCGoh-HOAMEnG3dXNTtgZIem8gxfwbJ7ECDave3zJe5TMN6gI64C-F4UzNawE-1BzJPg8X3DjEoQwVhY4wJbZeBqvrGoryzwX8ZkRRXVVVnGTc6CSu3yY5JdCLEZqPSoVs8W0y9pgJunp4e6wcwNwUbxeXTDgwt9M4YC17RGOEWsS-wXtasMpowAAAA&shmds=v1_ARwrE231NGL1gw_l_hEOvoBt2K2BamYJE7iF_8naLXf0KgmmoA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=EXnMhYM1rbCft3_VAAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.kitjob.in/job/340052332/data-analyst-remote-indore",
+      "job_title": "Data Analyst Remote Indore",
+      "description": "Job Type: Full-time  \n\nRole: Data Analyst (Remote)Location: Remote (Work from Anywhere)Role Overview:We are hiring for one of our clients, seeking a Subject Matter Expert – Data & Statistical Chart Analysis (AI Benchmark) to work on a Full time basis. The role involves evaluating and interpreting statistical data and visual representations to assess AI performance benchmarks across diverse models and datasets. You will analyze trends, anomalies, and correlations to ensure accuracy and reliability in benchmarking results.Key Responsibilities:• Evaluate and interpret statistical data and visual representations to assess AI performance benchmarks• Analyze trends, anomalies, and correlations in AI benchmarking datasets• Validate data integrity and consistency across benchmarking reports• Collaborate with cross-functional teams to refine benchmarking methodologies• Document findings and present insights to stakeholdersRequired Skills & Qualifications:• Experience in data analysis with a focus on statistical methodologies• Proficiency in interpreting complex charts, graphs, and statistical reports• Familiarity with AI model performance metrics and benchmarking frameworks• Strong analytical and problem-solving skills• Ability to communicate technical findings to non-technical audiencesMore About the Prospect:This role offers a unique opportunity to work with a global leader in the Technology, Information and Internet industry, contributing to the advancement of AI benchmarking standards. The position requires meticulous attention to detail and a commitment to maintaining high standards in data analysis.Equal Prospect Employer:We hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications.Apply Now!",
+      "apply_options": [
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340052332/data-analyst-remote-indore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgUmVtb3RlIEluZG9yZSIsImNvbXBhbnlfbmFtZSI6IlF1aWsgSGlyZSBTdGFmZmluZyIsImh0aWRvY2lkIjoiRVhuTWhZTTFyYkNmdDNfVkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRIbFZXSEpoUkVGRFlUbE9la05RVUdrM1oyMHRhMlJLVWtwTldWTnNUM1ZSTURNMVRtNWpOVTlDVTNKdWNtTmFaSFJ5WHpKSFJHNW1ZMVI1TWtsaGFsWk1iRlppTFcwemQwWllaVTVvZFhsTFNXNWlka1prVEdSU2FHTk9kbXd0UjBFM2QyWlJlVVZTUVVoWFkyTnJNV3BJZFdNeFExQnFhVTlQT1Vwa1FrdzBVMGxvY0ZrU0Z6SnpWRWxoY1hsclFqbGlYM0E0TkZBeExXRXpObEU0R2lKQlJITnlPV1pSUmpOaVVtOXhkbnB3U1VKelYzQkVPRmxFVW5kVVozZFhiQzFSIiwiZmN2IjoiMyIsImZjX2lkIjoiRVhuTWhZTTFyYkNmdDNfVkFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst III",
+      "company_name": "Ruder Finn India",
+      "location": "Indore, Madhya Pradesh",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=SsRiUfkhdLXzb1gPAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3LPQrCQBBAYWxzBKtpDZIVwUYrQZQtBPECYZIdshvWmbCzQtJ5Bz2hJ_GneXzNK16zYnHAjLBnjJNmsNbC-_GEXhpQwtR6EIaTSBdpvvM5D7o1RjVWnWbMoa1auRlhamQ030l_qdVjoiFipnq9WY3VwF1ZXu-OEhwDM1h2ASH8IYmWcEbnJ4RLQkfqPyVNCDGXAAAA&shmds=v1_ARwrE20NqiLLZtk5E5Dub4szTcfUO9uNi3H5bUGCG1SswVQKBQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=SsRiUfkhdLXzb1gPAAAAAA%3D%3D",
+      "extensions": [
+        "21 days ago"
+      ],
+      "source_link": "https://bebee.com/in/jobs/data-analyst-iii-ruder-finn-india-indore--jobmesh-591414dd-8f6e-4ad7-8eee-9157ad683606",
+      "job_title": "Data Analyst III",
+      "description": "About the Company\nRuder Finn is seeking a Senior Data Analyst (Data Analyst III) to join its award-winning Emerging Technology & Analytics team. The chosen candidate will support the agency's new business efforts by spearheading the research activities such as but not limited to earned media analysis, social listening, influencer identification, data modeling and predictive analytics. This individual will collaborate with several account teams within the agency providing counsel as needed on the various research and analytics needs of the agency's clients.\n\n\nAs Data Analyst III, you will have the opportunity to work alongside the Chief Technology Officer based in New York, NY, on several innovative Consumer, Technology, and Healthcare-related client accounts. The ideal candidate would be a digital native with deep expertise in and a passion for data visualization and storytelling, statistics, web analytics, social media analytics, and the ability to connect the dots back to business objectives.\n\n\nThis position will be fully remote, and the working hours will be either 6:00 pm – 3:30 am IST / 8:30 am – 6:00 pm ET or 2:00 pm – 11:00 pm IST / 4:30 am – 1:30 pm ET.\n\n\nUltimately, your work will help define the business strategy for projects and clients and play a significant role in the growth of the agency.\n\n\nAbout the Role\nIf you are motivated by complex, purposeful challenges, this role, with one of the world's largest independent PR and Comms agencies, could be the fit you have been looking for!\n\n\nJob Responsibilities\nCollaborate with the global Emerging Technology & Analytics team colleagues in research projects pertaining to new business or client mandates involving sourcing, analysis, and reporting of data and insights tied to the concerned business objectivesDeliver market and audience intelligence, including social and digital landscape analysis, audience behavior analysis, sentiment analysis, keyword research, search performance, and competitor analysis including but not limited to share of voice and message pull throughBuild measurement frameworks, set up searches and dashboards using Boolean queries, and develop client-facing insights and reportsQualifications:\nBachelor's Degree in business analytics, computer science, marketing, psychology, or advertising preferredA minimum of 4 years of agency or in-house experience in a data or research analyst roleExperience and expertise with writing complex Boolean queries and operating data and media analytics tools such as Cision, Brandwatch, Rival IQ, Meltwater, Signal AI, etc.Expertise in Excel, Google Sheets, Google Analytics and one or more contemporary data visualization platforms (e.g.: Tableau, Power BI, Google Data Studio, etc.) along with SQLProficiency in AWS, Python, R, and any other statistical computing or functional programming language is a major plusExperience with data modeling and developing custom models is a plusExperience with custom LLMs and working with the contemporary LLMs (e.g. ChatGPT, Bard, etc.) is a plusExcellent problem-solving, creative thinking, general modeling, and data processing skillsStrong project management skills, self-starter, ability to adapt and multi-task, and a proven track record of delivering quality and accurate results in a fast-paced and high efficiency agency environmentExtremely strong verbal and written English language communication skills",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-iii-ruder-finn-india-indore--jobmesh-591414dd-8f6e-4ad7-8eee-9157ad683606?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Blackboardjob",
+          "link": "https://in.blackboardjob.com/detail/a/data-analyst-iii_indore_254598234?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSUlJIiwiY29tcGFueV9uYW1lIjoiUnVkZXIgRmlubiBJbmRpYSIsImh0aWRvY2lkIjoiU3NSaVVma2hkTFh6YjFnUEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyMU5ZV3MzVFRsdWRVMVdhamd5VVZoUVYwOHlja1J3Ym1saE1ubHJhREp1WTFCU1dtbEVjbVJmVkRaWGRUUndlRVZhVVRSSVZEaDNiMXBqTTFka04zaGtUVTV6V2xoMmExaFBPRVpQUVdGeFNFcDBjRWN0ZUV0YVFVUk9ibkk1UjJ0M01uVjRlRVpMYlZsZlZpMHlaMU5HVGpaM1NtdHRjM013YjFCRFIxSnlkMmgwY1c0U0Z6SnpWRWxoY1hsclFqbGlYM0E0TkZBeExXRXpObEU0R2lKQlJITnlPV1pST1hsNmRHRkhkek13YTNCTlNWQnZiRkZVZWxWMldGUXpkREJSIiwiZmN2IjoiMyIsImZjX2lkIjoiU3NSaVVma2hkTFh6YjFnUEFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst (Job Vacancy)",
+      "company_name": "Renowned Education Institution",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Jobs In Education",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=rpKYuistkqrOlL-dAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2MMQrCQBBFsc0RrKZUkUQUQbQSFFEQxMI2THaHbCTuhJ0JJp138BqeypOY2Hz-f_B-9BlEix0qwtZj2YrC6MQZ3NCgN-0Yvq833DsghME4YA8H5ryk4capVrJOEpEyzkVRCxMbfiTsKeMm6STpIxWHgaoSldL5ctbElc8nqyt5fnqysLe16dTu9-hFC63_vein5UBTOKN1LcIloCVxP-HZ_wKvAAAA&shmds=v1_ARwrE22oVwYR0_gssf3Z6TzBftKOBveN6AvBSD--G-jLoqTbsA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=rpKYuistkqrOlL-dAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4d8afaa6702e1c453ec/images/adnjGGbdvVcx0yafD1HQ5IDStA6pHuQ67hkiLZV600I.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.jobsineducation.net/job-details/Data-Analyst-Indore-JBID260800522264",
+      "job_title": "Data Analyst (Job Vacancy)",
+      "description": "The role of \nData Analyst\n is crucial in driving data-informed decision-making within our team. By leveraging analytical skills and innovative thinking, you will contribute significantly to our strategic goals and enhance our operational efficiency. This position offers a collaborative environment where you can grow your expertise while working alongside talented professionals dedicated to excellence.\n\nAs a \nData Analyst\n, you will:\n\n\nAnalyze complex datasets to identify trends and insights that inform business strategies.\n\nCollaborate with cross-functional teams to understand their data needs and provide actionable recommendations.\n\nDevelop and maintain dashboards and reports that visualize key performance indicators for stakeholders.\n\nUtilize statistical methods to validate data integrity and ensure accuracy in reporting.\n\nSupport data-driven projects by providing analytical expertise and insights throughout the project lifecycle.\n\nConduct exploratory data analysis to uncover hidden patterns and opportunities for improvement.\n\nAssist in the design and implementation of data collection systems and other strategies to optimize statistical efficiency and data quality.\n\nStay updated on industry trends and best practices in data analysis to continuously enhance our analytical capabilities.\n\nMentor junior analysts and contribute to a culture of learning and development within the team.\n\nPresent findings and recommendations to stakeholders in a clear and compelling manner, fostering a data-driven culture.\n\n\nTo excel in this role, you should possess the following qualifications and skills:\n\n\nProven experience as a Data Analyst or in a similar analytical role.\n\nStrong proficiency in data analysis tools such as SQL, Python, or R.\n\nExperience with data visualization tools like Tableau or Power BI.\n\nSolid understanding of statistical analysis and data modeling techniques.\n\nExcellent problem-solving skills and attention to detail.\n\nAbility to communicate complex data insights in a clear and concise manner.\n\nStrong organizational skills and the ability to manage multiple projects simultaneously.\n\nFamiliarity with database management and data warehousing concepts.\n\nKnowledge of business intelligence principles and practices.\n\nA degree in a relevant field such as Mathematics, Statistics, Computer Science, or a related discipline.",
+      "apply_options": [
+        {
+          "title": "Jobs In Education",
+          "link": "https://www.jobsineducation.net/job-details/Data-Analyst-Indore-JBID260800522264?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKEpvYiBWYWNhbmN5KSIsImNvbXBhbnlfbmFtZSI6IlJlbm93bmVkIEVkdWNhdGlvbiBJbnN0aXR1dGlvbiIsImh0aWRvY2lkIjoicnBLWXVpc3RrcXJPbEwtZEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNuaDBVWFUxYW1adlFtMVZTREl0UlVwYWJtbEtWbU41TWpKWFlucFNiSEl5ZDJWUlduWlBSR1JSZUZZeGNGYzBNMHh6VEdGbFFubFVaVVZvY3paWGNsOWtlWFJWUzNWeE9FcEtUVWRhVkVOUk0xZHJhRk50ZDA0dFVHc3RjbFpHTjBScllWVjBOWGN0YUZOa2VqQlBkRUpJU0U5NFZISmtYMHRHZUVkdFRtcEZhQzFFVGtvU0Z6SnpWRWxoY1hsclFqbGlYM0E0TkZBeExXRXpObEU0R2lKQlJITnlPV1pSWVRKcmFsaHFNMWxhTURKcloxSk9TWFpJY1ZCTlRGTmFSR05SIiwiZmN2IjoiMyIsImZjX2lkIjoicnBLWXVpc3RrcXJPbEwtZEFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst – AV Support Data Infrastructure & Analytics",
+      "company_name": "Pegasus Knowledge Solutions, Inc.",
+      "location": "Indore, Madhya Pradesh",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=gMnY99rm3wA97AL0AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOMQoCMRBFsfUIVlNZiOyKYKOVIIiIsKDYypgdk5WYCZkJaucdvJhn8CSu2vxX_Pfhd1-d7m6BijAP6O-i8H48Yb6HbY6Rk8KvW4VTQtGUjeZE0P_L2hj56Wc-ghAm44ADLJmtp97MqUaZlqWIL6wotnph-FJyoCPfynYk3ziIw0TRo9JhPBndihjsYFaRRckC68BXT7Ul2LLP2nCQYXvHFNCEljUnGsIGa3dHqBLWJO4DgW13TtMAAAA&shmds=v1_ARwrE23zghJ9DT5_5hhGD71c9mmcqBx3A2QNByB1whsbGp0FRw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=gMnY99rm3wA97AL0AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4d8afaa6702e1c453ec/images/00ECAzhnYGtO20q2UJnraiY58FFsGc3hnHjvItrmVQs.jpeg",
+      "extensions": [
+        "15 days ago",
+        "Internship"
+      ],
+      "source_link": "https://bebee.com/in/jobs/data-analyst-av-support-data-infrastructure-analytics-pegasus-knowledge-solutions-inc-indore--jobmesh-cf3e15e5-02f7-498c-b4a1-ef76aecea1f9",
+      "job_title": "Data Analyst – AV Support Data Infrastructure & Analytics",
+      "description": "Data Analyst - Autonomous Vehicle (AV) Operations & Infrastructure\n\n\nRole: Data Analyst – AV Support Data Infrastructure & Analytics\n\n\nExperience: 4–6 Years\n\n\nLocation: Remote / Flexible\nIndustry: Global Tech & Mobility Leader\n\n\nAbout the Team & Opportunity\n\n\nOur team owns the end-to-end data foundation driving autonomous vehicle (AV) support operations for one of the world's leading mobility platforms. Every operational metric, real-time rider contact, automated data-quality check, and pre-launch feature instrumentation flows through the systems we architect.\n\n\nWe sit directly at the intersection of AV Program Teams, Operational Analytics, and Core Data Engineering to turn complex operational data into actionable, trustworthy insights.\n\n\nWhat You'll Do\nRedefine the Core Data Layer: Transform organically grown data environments into a deliberate, clean \\\"gold layer.\\\" Consolidate overlapping tables, optimize upstream join logic, and establish unified canonical datasets.Deliver Business Analytics & Insights: Partner with AV program leadership to scope ambiguous business challenges, define metrics, build dashboards, and answer high-impact operational questions.Guide Instrumentation for New AV Products: Review Product Requirement Documents (PRDs) across launch lifecycles to ensure proper event logging and telemetry are live before new features ship.Maintain & Govern Data Infrastructure: Monitor daily pipelines for freshness, accuracy, and volume. Build governance frameworks around SLAs, change-management workflows, and automated incident alerting.Scale Real-Time Analytics: Expand streaming feeds (Kafka/Flink/Pinot) to lower latency and power real-time operational notifications as incidents develop.What You'll Need\n4–6 years in Data Analytics, Business Analytics, or Data Engineering with a focus on dataset and pipeline ownership (not just query consumption).Advanced SQL & Distributed Computing: Hands-on experience building production transformations in Spark SQL and Hive, authoring canonical patterns that other engineers build on.Customer Support Data Expertise: Hands-on familiarity with support operations metrics (contacts, tickets, handle time, CSAT) and the nuances of handling messy, multi-grained data.Strong Stakeholder Communication: Proven ability to scope vague business requests, push back when framing is off, and present clear takeaways to non-technical partners.AI Tool Integration: Practical experience using AI/agentic coding platforms to accelerate pipeline, analysis, and dashboard development with high validation rigor.Preferred Qualifications\nAV / Autonomous Systems Interest: Understanding of or genuine curiosity about how autonomous trip operations and support models work.Semantic & Metric Layers: Experience with dbt, LookML, or proprietary metric management systems.Streaming & Real-Time Analytics: Familiarity with Kafka, Flink, Pinot, or real-time event processing.Orchestration & Observability: Hands-on experience with Airflow and data observability tools.Dashboarding & Apps: Proficiency with Tableau, Streamlit, Retool, or custom internal tool suites.Anam Chaudhry\n[REDACTED PHONE]",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-av-support-data-infrastructure-analytics-pegasus-knowledge-solutions-inc-indore--jobmesh-cf3e15e5-02f7-498c-b4a1-ef76aecea1f9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Blackboardjob",
+          "link": "https://in.blackboardjob.com/detail/a/data-analyst-av-support-data-infrastructure-analytics_indore_254565394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3Qg4oCTIEFWIFN1cHBvcnQgRGF0YSBJbmZyYXN0cnVjdHVyZSBcdTAwMjYgQW5hbHl0aWNzIiwiY29tcGFueV9uYW1lIjoiUGVnYXN1cyBLbm93bGVkZ2UgU29sdXRpb25zLCBJbmMuIiwiaHRpZG9jaWQiOiJnTW5ZOTlybTN3QTk3QUwwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJa1NXNWtiM0psSUVScGRtbHphVzl1TEUxaFpHaDVZU0JRY21Ga1pYTm9MRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1dob1pFMVdVMFJtWVVWWWVFVkNObkkwY3pod1pFaE5WVXhOWmpocVVXUk1ZM0JRVDBaV1RXNURhVkJLVVRWZk5EQlBRMkpJWHpaUGJqbHZWMFpYTlhSRk4yVnFWbDh4TUhaUlNVMUxTMFZyUTFJdGEwRnlka3hVVERWeE4ySTVXakpHWkRseVRTMURRVEpQTVUwMFpGZHhNWFp1V0VsdFJXSnlZMFE1VTI0M1pWRkdabXNTRnpKelZFbGhjWGxyUWpsaVgzQTRORkF4TFdFek5sRTRHaUpCUkhOeU9XWlROazU2U0VkclZ6VjVSWEJwWm0wMlExRjROVGg2YjBkd04ycDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJnTW5ZOTlybTN3QTk3QUwwQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTWGhhYlhwcFgyNUtWQzFqTTJwUVJEbHJWVXBoYms1c2JFczBjbGRQT0UxR05HWlVRMUp6TjBodGJISldaa3RFVVc1aWFVMVRSRkpDTjA5RWIzUldialpJVEVaWFJuSkpObVo0UjBkR1pXWllWbmhMUkZkQ2J5MXliMlpQYTE5b1ZWQk1aR05aYW1kRGEweElWMEl0UVZweU9HNW9NRFpEYUdwVE9GZFFkMEZaY2tRMU1tWnhiSEppTkd4R1EyZFZXVzFoTUZaUmRXczFjRFZYZVVORU5FNXRaVEJpVkU5WVZsaDNlVVZaZW1ZNWMxQndXbVJQVW1Ka2JsTk1ORzloTkVFNWRDMW9NbUZNTldONllXNWlSWFEwTTFJelNrSjJaa1JtZVhGR1FtODRRV0U1VG14b1RUbG9NV3gyVDI5dExVbDVjbmgyZFV4alpGRlZjVVUxZVZCaVJGZDZVMFYxTUdocFV6WkZSSEpyTjIxM1kxUkRVSGhpYkZWWlNtVlZUMkZLTm5GUkxVZzJkaTFqYVY5VVgzQTJNV2xTWlhKVFNYZzNabkF6ZDNCNVVFSmpjRmhWVFZab2RGRjBhbWxTWXpOdFJqWnJVVTFQTldKd1kzVkxiblV3WDA1VVpUSlFSR1Y1UjFCdVIwNXZRMUI0V0hwR2MyMUtOMjlCVWxFMFFYSmlTbTlHUkU1MlJIRlhNVkUwZWxwbFUwZFNSakJMUzNWRFJEY3dVRXBCVTJNME5VRmxVRWRhVFhwQlJqWTBMVGhrYVUwek5HTkNZM1ppTjNFeFNWRmhNSFF4WW0xYWVsQmtORE5qZDFsYVRVNWlNRmgxTkhsVVUwRVNGekp6VkVsaGNYbHJRamxpWDNBNE5GQXhMV0V6TmxFNEdpSkJSSE55T1daVVRVOTJSVVJNVTNGbVRWSlBZM05EUlU4M2VVbHhkR0l4Ym1sUiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTWGhhYlhwcFgyNUtWQzFqTTJwUVJEbHJWVXBoYms1c2JFczBjbGRQT0UxR05HWlVRMUp6TjBodGJISldaa3RFVVc1aWFVMVRSRkpDTjA5RWIzUldialpJVEVaWFJuSkpObVo0UjBkR1pXWllWbmhMUkZkQ2J5MXliMlpQYTE5b1ZWQk1aR05aYW1kRGEweElWMEl0UVZweU9HNW9NRFpEYUdwVE9GZFFkMEZaY2tRMU1tWnhiSEppTkd4R1EyZFZXVzFoTUZaUmRXczFjRFZYZVVORU5FNXRaVEJpVkU5WVZsaDNlVVZaZW1ZNWMxQndXbVJQVW1Ka2JsTk1ORzloTkVFNWRDMW9NbUZNTldONllXNWlSWFEwTTFJelNrSjJaa1JtZVhGR1FtODRRV0U1VG14b1RUbG9NV3gyVDI5dExVbDVjbmgyZFV4alpGRlZjVVUxZVZCaVJGZDZVMFYxTUdocFV6WkZSSEpyTjIxM1kxUkRVSGhpYkZWWlNtVlZUMkZLTm5GUkxVZzJkaTFqYVY5VVgzQTJNV2xTWlhKVFNYZzNabkF6ZDNCNVVFSmpjRmhWVFZab2RGRjBhbWxTWXpOdFJqWnJVVTFQTldKd1kzVkxiblV3WDA1VVpUSlFSR1Y1UjFCdVIwNXZRMUI0V0hwR2MyMUtOMjlCVWxFMFFYSmlTbTlHUkU1MlJIRlhNVkUwZWxwbFUwZFNSakJMUzNWRFJEY3dVRXBCVTJNME5VRmxVRWRhVFhwQlJqWTBMVGhrYVUwek5HTkNZM1ppTjNFeFNWRmhNSFF4WW0xYWVsQmtORE5qZDFsYVRVNWlNRmgxTkhsVVUwRVNGekp6VkVsaGNYbHJRamxpWDNBNE5GQXhMV0V6TmxFNEdpSkJSSE55T1daVVRVOTJSVVJNVTNGbVRWSlBZM05EUlU4M2VVbHhkR0l4Ym1sUiIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst"
+  },
+  "_retrieved_at": "2026-10-09 10:41:28 UTC"
+}

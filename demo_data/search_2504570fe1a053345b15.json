@@ -1,0 +1,275 @@
+{
+  "search_metadata": {
+    "id": "6ac8c4dbf61b7d97eff90397",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BSR4H7DxxKTM3bknLtPVtRjLT39B5YVTlWLF0tpdVYI/6ac8c4dbf61b7d97eff90397.json",
+    "markdown_endpoint": "https://serpapi.com/searches/BSR4H7DxxKTM3bknLtPVtRjLT39B5YVTlWLF0tpdVYI/6ac8c4dbf61b7d97eff90397.md",
+    "created_at": "2026-10-09 10:41:31 UTC",
+    "processed_at": "2026-10-09 10:41:31 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst+fresher&uule=w+CAIQICIkSW5kb3JlIERpdmlzaW9uLE1hZGh5YSBQcmFkZXNoLEluZGlh&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/BSR4H7DxxKTM3bknLtPVtRjLT39B5YVTlWLF0tpdVYI/6ac8c4dbf61b7d97eff90397.html",
+    "total_time_taken": 4.15
+  },
+  "search_parameters": {
+    "q": "Data Analyst fresher",
+    "engine": "google_jobs",
+    "location_requested": "Indore, India",
+    "location_used": "Indore Division,Madhya Pradesh,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw",
+        "q": "Data Analyst fresher remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQxKsJKAB6BAgaEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A",
+            "q": "Data Analyst fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ",
+            "q": "Data Analyst fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA",
+            "q": "Data Analyst fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg",
+            "q": "Data Analyst fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A",
+            "q": "Data Analyst fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ",
+            "q": "Data Analyst fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA",
+            "q": "Data Analyst fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg",
+            "q": "Data Analyst fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0",
+            "q": "Data Analyst fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw",
+            "q": "Data Analyst fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8",
+            "q": "Data Analyst fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A",
+            "q": "Data Analyst fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0",
+            "q": "Data Analyst fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw",
+            "q": "Data Analyst fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8",
+            "q": "Data Analyst fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A",
+            "q": "Data Analyst fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuQKTNvQUwz0nRR5Lql9sTybzFhcw:1791542494574&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A&udm=8&sa=X&ved=2ahUKEwiok_Tv36yXAxXIgVYBHXlaKgMQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Data Analyst | IT Consulting MNC (Indore)",
+      "company_name": "Hindco Recruitment Consultants",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=kjXz1fdHBfdDGMUFAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zXOzwpBURCA8Ww9gtUske6VUmLlT2FBkr3GudM9R8fM7cwoysI7eBxv40mQbL7dV7_6s1afzNAQxozxqgY3WO5gKqznaIFLWK2n0FxyIYla8Lo_4CgHUMLkPAjDXKSM1Bh5s0qHea4as1INLbjMySkXpoNc8s-k3-zVY6IqotG-1-9esorL9mARuHACW3LpHOxEbH8BsikEhh-gAyss_BVhk7Ag9W8g0DLzvgAAAA&shmds=v1_ARwrE238XB-n5RMfVVzPQ1iYbnC1wzUE2VTZYwWT0fPoCmFIuA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=kjXz1fdHBfdDGMUFAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/data-analyst-it-consulting-mnc-indore/hindco-recruitment-consultants/19686468",
+      "job_title": "Data Analyst | IT Consulting MNC (Indore)",
+      "description": "- Collect, organize, clean and preprocess data from various sources, including databases, spreadsheets, and APIs to ensure accuracy and reliability.  \n- Perform exploratory data analysis to identify trends, patterns, and correlations.  \n\nRequired Candidate profile\n\n- 4+ years of experience working as Data Analyst or in similar role.  \n- Proficiency in SQL, Python, R or other programming languages used for data analysis.  \n- Experience with data visualization tools .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst-it-consulting-mnc-indore/hindco-recruitment-consultants/19686468?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340400047/data-analyst-it-consulting-mnc-indore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgfCBJVCBDb25zdWx0aW5nIE1OQyAoSW5kb3JlKSIsImNvbXBhbnlfbmFtZSI6IkhpbmRjbyBSZWNydWl0bWVudCBDb25zdWx0YW50cyIsImh0aWRvY2lkIjoia2pYejFmZEhCZmRER01VRkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVXBwVkRSMFNuaFVTbmhmVkhWVWVrNTVUQzE2Um5SWGRrcE1PRkkwTUMxYWJVaERkM2xVYVhVemNtRnFiMGRuVjFZMWVVNU1jVlZHTTJka1kyZENkRlpQWkc5MVpXbGhMVEEyTmxveldGWTVSRGRDYlRrNVRGQkxiRGxIUXpoT2RWWnlZMWxFUTNOalZtMXNMVko1UlhsVVZsaG5NSE00UnpST1EyazBVWGh2ZG1kTFZVNWFUSEpKU0RRU0ZqTnpWRWxoY1dselNYTnBSREp5YjFBdFlsTndSMUVhSWtGRWMzSTVabEZZUm10WFZ6TlBWWEJMYzE5RGQzRnBWVXcwYzA4eWJHcHhTMUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJralh6MWZkSEJmZERHTVVGQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Sr Data Analyst Indore (India)",
+      "company_name": "Lumenore",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=nl5tHPdVmAoVCi5zAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2NMQrCQBAAsc0TrBYrFcmJIIJWgiCCguADwiZZcpHLbrhdIen8g53P8yVGsJmphkneo2Rzi3BAQ9gzhl4NTlxKJJgOrnEGn-cL7pKDEsbCgzAcRapA4503a3XrnGpIKzW0ukgLaZww5dK5IdIfMvUYqQ1olK3Wyy5tuZpPzo-G-Pep-X9cwAVL3yNcI5ak_gtaIlCQnQAAAA&shmds=v1_ARwrE21svNNTSRKl-iu_7n75LaXBRm_oSVXncws-eNpLamgdqQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=nl5tHPdVmAoVCi5zAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/sr-data-analyst-indore-india/lumenore/19440811",
+      "job_title": "Sr Data Analyst Indore (India)",
+      "description": "Lumenore is looking for Sr. Data Analyst to join our energetic team and embark on a rewarding career journey. As a Senior Data Analyst, your role is to gather, analyze, and interpret complex data to provide valuable insights and support data-driven decision-making within an organization. You work with large datasets, employ statistical techniques, and use various tools and technologies to extract meaningful information.   \n\nHere are some key responsibilities and tasks typically associated with the role of a Senior Data Analyst:Data Collection and Exploration: Collecting and organizing data from various sources, such as databases, data warehouses, APIs, or external sources.   \n\nYou explore and understand the data, identify data quality issues, and ensure data integrity.Data Analysis and Modeling: Applying statistical analysis, data mining techniques, and advanced analytical methods to extract insights from data. You develop models and algorithms to uncover patterns, correlations, and trends, and generate actionable recommendations based on your findings.Data Visualization and Reporting: Creating visualizations, dashboards, and reports to present data analysis results in a transparent and compelling manner.   \n\nYou use tools like Tableau, Power BI, or Python libraries like Matplotlib and Seaborn to visually communicate complex data to stakeholders.Business Intelligence and Decision Support: Collaborating with business stakeholders to understand their requirements and translate them into data analysis projects.   \n\nYou provide analytical support to decision-making processes, helping stakeholders make informed and data-driven decisions.Data Quality and Governance: Ensuring data accuracy, consistency, and compliance with data governance policies. You validate and cleanse data, establish data quality standards, and implement data governance frameworks to maintain data integrity.   \n\nDisclaimer : This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/sr-data-analyst-indore-india/lumenore/19440811?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTciBEYXRhIEFuYWx5c3QgSW5kb3JlIChJbmRpYSkiLCJjb21wYW55X25hbWUiOiJMdW1lbm9yZSIsImh0aWRvY2lkIjoibmw1dEhQZFZtQW9WQ2k1ekFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVXBwVkRSMFMwMHlRVzFMUWxKbFdUbFJXV0pKVkhKcFZWOVhTWGQzUlhOMWNVeE9TVmhUVVhKTVYydHZTM1pqUWxOeFltOXhTR3BtYWpOdmQwVTFlSE15VWxKaFIycEplR3RoTmkxeFEzWkhkazkwTjNKdVNUSlZRa3MyVVhFdGRtZE9hRlJhUTBaM1JGYzVPR3BSWXkxb2FHZzNSMncwZDNkaFVqZzJiV1JZYVhCMFlVdHNUV05xZUUwU0ZqTnpWRWxoY1dselNYTnBSREp5YjFBdFlsTndSMUVhSWtGRWMzSTVabE5OY1VweGVFVXlTMngxYTJscFpGQmphVFEzUVdSb1FXVnpXRUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJubDV0SFBkVm1Bb1ZDaTV6QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Sr . Business Analyst (Indore)",
+      "company_name": "Tarento Technologies",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=1748zLu1Uz-5sh7CAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNMQrCQBAAsc0TrLZUkTsRRNBKG7EQBNOH9bLkTs7dcHtC0vkH_-DDfIkRmykGhineo2J9SWBg_9DApAo7xthrhsmRa0k0hc_zBTe5ghIm50EYDiJNpPHW59zqxlrVaBrNmIMzTu5WmK7S2SHSHyr1mKiNmKlarhadabmZmXJwnAVKcp4lShNIITD8t3M4Ye17hHPCmtR_AXkNDVOpAAAA&shmds=v1_ARwrE23arakqq6FTvb3Un1OChAGMcRllApwizap3PlVFKohGbg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=1748zLu1Uz-5sh7CAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAbAAEAAgIDAAAAAAAAAAAAAAAABQYCAwEEB__EACgQAAICAgEDAwMFAAAAAAAAAAECAAMEERIFIUExUWETFCIGI3GRof_EABcBAQEBAQAAAAAAAAAAAAAAAAABAwL_xAAbEQEAAgIDAAAAAAAAAAAAAAAAARESMQIDIf_aAAwDAQACEQMRAD8A9xiIgIiICIiAiIgYM4QFmICgbJPoJrxcrHzcavJxL676LRyrsqYMrD3BHrK9-rxa1mICnPFdHW1HAatyShUMp7N6HsSPOjvsY_8AT9Ng6yFUWlHDvk8i222ugWB7_A3x9guhudY-WxntiOWK77nG_mVTJ6Tn7to6dQaQb3s-s2QyaA19MAgNv8vy1rR46PY6mrIw-s5Aycj7ZqbLbdjhcxsQfSUcR31xLbG_nevI5pta47HkwSB6yqU4XUTZivj7qspZnP7LVIx49lcF25A9xvxvfiYV9KzLMaq77e9MpsNiwNumFnIdt70G47AP-ypa3bESJ6RSyZl700XY-Ga0C129t2DlyIHjsV_k_wBlIqTtqS2tq7FDIw0ysNgia8XDow6xVjVrVWDvio0N-87EQlRsiIhSIiAiIgIiICIiAiIgIiIH_9k.jpeg",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/sr-business-analyst-indore/tarento-technologies/19686883",
+      "job_title": "Sr . Business Analyst (Indore)",
+      "description": "Business Analyst Role & responsibilities\n\nWe are seeking an experienced Senior Business Analyst with deep expertise in the Supply Chain domain to drive business transformation initiatives. The ideal candidate will bring robust functional knowledge across end-to-end supply chain processes, combined with hands-on experience in ERP systems and stakeholder management at senior levels.\n\nThe Offshore BA is responsible for detailed requirements analysis, documentation, and supporting the onshore team with deep functional and technical artifacts. They work closely with developers, testers, and the onshore BA to ensure accurate and timely delivery of supply chain solutions.\n\nPreferred candidate profile\n\nRequired Skills\n\n- 7+ years of BA experience, with 3+ years in the supply chain domain\n- Solid understanding of supply chain processes: inventory management, demand planning, procurement, logistics\n- Experience writing detailed user stories, acceptance criteria, and FSDs\n- Hands-on experience with ERP/SCM tools\n- Proficiency in tools: JIRA, Confluence, MS Visio, etc. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/sr-business-analyst-indore/tarento-technologies/19686883?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/339848430/sr-business-analyst-indore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTciAuIEJ1c2luZXNzIEFuYWx5c3QgKEluZG9yZSkiLCJjb21wYW55X25hbWUiOiJUYXJlbnRvIFRlY2hub2xvZ2llcyIsImh0aWRvY2lkIjoiMTc0OHpMdTFVei01c2g3Q0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVXBwVkRSMFMxUmxWMVJNVm5BNFpHdFJlRUpYUkhSaGVDMXBSMkZvV0hoVlluWmpSQzFDYUZoV1F5MW9SMk5UTjBwdGJqSldNR1JRWkRGT1MyTmZkVWhXVFZoRmRtVXhXa1JxVjE4NVJqVm1lVk5TUW1zelUxOXpTa3hpTnpKSWQwNUxabVJDTVVOMU9ETk5PRjlMUm5oS01VcFBSbWRCWm10VVZqVkNUMms0UTJsdmJGcDZPV3R1YTJVU0ZqTnpWRWxoY1dselNYTnBSREp5YjFBdFlsTndSMUVhSWtGRWMzSTVabE5EU1U5RVRVaHJUM0F6TFhCclpIUnpkSGRKYmpWQ2NqZzBNWGMiLCJmY3YiOiIzIiwiZmNfaWQiOiIxNzQ4ekx1MVV6LTVzaDdDQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTbmhVU25oZlZIVlVlazU1VEMxNlJuUlhka3BNT0ZJME1DMWFiVWhEZDNsVWFYVXpjbUZxYjBkblYxWTFlVTVNY1ZWR00yZGtZMmRDZEZaUFpHOTFaV2xoTFRBMk5sb3pXRlk1UkRkQ2JUazVURkJMYkRsSFF6aE9kVlp5WTFsRVEzTmpWbTFzTFZKNVJYbFVWbGhuTUhNNFJ6Uk9RMmswVVhodmRtZExWVTVhVEhKSlNEUVNGak56VkVsaGNXbHpTWE5wUkRKeWIxQXRZbE53UjFFYUlrRkVjM0k1WmxGWVJtdFhWek5QVlhCTGMxOURkM0ZwVlV3MGMwOHliR3B4UzFFIiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&next_page_token=eyJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTbmhVU25oZlZIVlVlazU1VEMxNlJuUlhka3BNT0ZJME1DMWFiVWhEZDNsVWFYVXpjbUZxYjBkblYxWTFlVTVNY1ZWR00yZGtZMmRDZEZaUFpHOTFaV2xoTFRBMk5sb3pXRlk1UkRkQ2JUazVURkJMYkRsSFF6aE9kVlp5WTFsRVEzTmpWbTFzTFZKNVJYbFVWbGhuTUhNNFJ6Uk9RMmswVVhodmRtZExWVTVhVEhKSlNEUVNGak56VkVsaGNXbHpTWE5wUkRKeWIxQXRZbE53UjFFYUlrRkVjM0k1WmxGWVJtdFhWek5QVlhCTGMxOURkM0ZwVlV3MGMwOHliR3B4UzFFIiwiZmN2IjoiMyJ9&q=Data+Analyst+fresher"
+  },
+  "_retrieved_at": "2026-10-09 10:41:31 UTC"
+}

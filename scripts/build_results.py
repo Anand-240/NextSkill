@@ -8,7 +8,7 @@ ROOT = Path(__file__).resolve().parents[1]
 def summary(r):
     picks = headline_picks(r['ranked'])
     return {
-        **{k:r[k] for k in ('role','threshold','core_share','retrieved_dates','raw','deduplicated','ignored')},
+        **{k:r[k] for k in ('role','city','threshold','core_share','retrieved_dates','raw','deduplicated','ignored')},
         'experience_excluded':len(r['experience_excluded']), 'eligible':r['eligible_count'],
         'scored':len(r['jobs']), 'matches':r['ready'],
         'must_haves_met':r.get('must_haves_met',0),
@@ -26,11 +26,15 @@ def summary(r):
                  'hours_unknown':r['opportunity']['hours_unknown']}}
 
 def build():
-    output={}
+    output={};pairs={}
+    manifest=json.loads((ROOT/'demo_data/manifest.json').read_text())
     with patch('engine._request',side_effect=AssertionError('Offline build forbids requests')):
-        for role,city,resume in [('Frontend Developer','Bengaluru','HTML, CSS, JavaScript'),('Data Analyst','Noida','Excel, basic Python')]:
-            r=run(role,city,resume=resume,client=SerpClient(use_fixtures=True,cache_only=True),experience_level='Fresher')
-            output[city]=summary(r)
-    return {'note':'Generated offline by scripts/build_results.py. Seed 2026.','after':output}
+        for pair in manifest:
+            r=run(pair['role'],pair['city'],resume=pair['resume'],pages=pair['pages'],client=SerpClient(use_fixtures=True,cache_only=True),experience_level='Fresher')
+            row=summary(r);row['query_scope']=pair['query_scope']
+            pairs[pair['id']]=row
+            if pair['id'] in {'frontend-developer-bengaluru','data-analyst-noida'}:
+                output[pair['city']]=row
+    return {'note':'Generated offline by scripts/build_results.py. Seed 2026.','after':output,'pairs':pairs}
 if __name__=='__main__':
     (ROOT/'reports/final_results.json').write_text(json.dumps(build(),indent=2,ensure_ascii=False)+'\n')

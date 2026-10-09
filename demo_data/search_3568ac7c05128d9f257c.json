@@ -1,0 +1,584 @@
+{
+  "search_metadata": {
+    "id": "6ac8c4943c400694eea7bab0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/D1nzuGcgqtdsXu0_tIfHlRzI67M31vMDHS4c2TVR1J8/6ac8c4943c400694eea7bab0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/D1nzuGcgqtdsXu0_tIfHlRzI67M31vMDHS4c2TVR1J8/6ac8c4943c400694eea7bab0.md",
+    "created_at": "2026-10-09 10:40:20 UTC",
+    "processed_at": "2026-10-09 10:40:20 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIZSHlkZXJhYmFkLFRlbGFuZ2FuYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/D1nzuGcgqtdsXu0_tIfHlRzI67M31vMDHS4c2TVR1J8/6ac8c4943c400694eea7bab0.html",
+    "total_time_taken": 6.81
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Hyderabad, India",
+    "location_used": "Hyderabad,Telangana,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rMeKKsw4ANOHcSC9u8FZviLtJElUL0xt9nekIrDiNjSWHcY8JZpwwDjFK7ab_hhktl-pHqV9aA5ZdpyoLsVF7VMOU2RbMwQ-xEcO8diL2xE4aboGtHq8crNvPudzwmv4UXHvpmhJt36DBrRTe8WBgqNcVr1Y",
+        "q": "Data Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMeKKsw4ANOHcSC9u8FZviLtJElUL0xt9nekIrDiNjSWHcY8JZpwwDjFK7ab_hhktl-pHqV9aA5ZdpyoLsVF7VMOU2RbMwQ-xEcO8diL2xE4aboGtHq8crNvPudzwmv4UXHvpmhJt36DBrRTe8WBgqNcVr1Y&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QxKsJKAB6BAgfEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMeKKsw4ANOHcSC9u8FZviLtJElUL0xt9nekIrDiNjSWHcY8JZpwwDjFK7ab_hhktl-pHqV9aA5ZdpyoLsVF7VMOU2RbMwQ-xEcO8diL2xE4aboGtHq8crNvPudzwmv4UXHvpmhJt36DBrRTe8WBgqNcVr1Y"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRTaZmm8FZ9AJnHpmCYGMR2-9Ik_A8cXf-3_9sirzVUJIFFRxvjNb-2vwqRka9ByRWoXRRiT18VXa6DYfK2WYMkOnbP0g65cYU14dOEQkGv9TgVIN_9tWNRhvb7wMxBh3niTyEy0EaqMYumV4JM7zz9o_u2RHFzJlwyCe0yLbmFZiaVoWf8zp15YlSW9Np0t4F5AA4IxUqPVjpUBrIfkRw6SfydBbnamuezovBp5JXMjyhKLCgIif2ewRXeHmapMpNXfQ4zCIPCa9HybZqv0xHQ1GQ_IvEJEHFi2U_O2BoNCbo72KzA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtLkCZYDmLumJ6cntsQ4A3orJMOw5A1aF08N4VD5UyQdPGWbHYs0r839Mhiiutw9gcDDADP5aYMfY3xOatK-bmE2vJsUsfiVqJ9k27o0X0ODjtnJAI8kDZz8CGqj_NtQSAr-o1AbAS_mIEExIi04s_bq9M4OsOaiGzT1J4R05gSs2JyCYrQJtFUIEBKdTbMaJzdbpBEwMl3SdCb5Xve29f8A3rGg1MxoHmtLEARSHGVzhL1KIbFaZviMBKWmrN2aXs5Slph6LrOsaf7XbSD7UzVrBKRFOqiXpOGQDYOXsjNeYtEneHzU9Xk-NNOYvzKXgrLirT2cH7jB8dx6lOYt2fx53lzg"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09X9iwFpZk4iDNhTjCeXMO14cRkJSpdaIk0bTivKioTFLq1rXBP3a91-3zUD-rcrBd4xEeSdYU3ToGmw57msxj4rHnbJBBz_NUpbHJ_UpIcboD21055NOG-wSAlSuIoY2tUh3rzvXwSRzyqbMOe5d8SUnIlMxd05dCutXxRyNDNiXyNgMEJZ5wtsc6wTMRjkqWOLglFsDuIQ0RV3mACDm6XbO4xXeyELRqYVxURvsYLiLNtN_C3wjJu8Xy5FXMnuVII-qyQz6X1a2LV7xYja5ZrqZxdTs_oR-6I777xZmPXOesViNvTHfqDD-6m5blby_8wBqOE"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRONaUs7RVBTEaG_lLSlH3wfwbXcpZ0g1wcs-M2Zu_OtsYSM_9jLUE6lJvitvGsIBbE9Q8HYjxfZ-9YRZ_y2eNXJVgM_l5cWQfmlM9AUI1yYX6su27kddNA9C3ivYj4HUBiLk4C1gSsDycFY9DCOyBlLtbBX-G_bkrJzDH4CcMPI6_ZY0Wpyu-RI-4LDGlPVGb_vloNRMQ_1ICuA2e5FjlLjHMEvrXYL9QYGM1Yp6ooL586zVZGPthsyrHCaphJLFzJv_r2hmrjhFyhmCJHO06GUO_Zc5pHAR5Pbz-es2Ji0D84B0TKk6MOl54e_R9Qz-9LZHEi8biHEwniC3NVR1mTRD_zg"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxmdQwuQMHcwbq1SwvudW7FV7zUl8Ttcyuesw6WutpygtJae9r4P71YyC1cu-yLfxRdUnDknOlVk0ipNp7uZgoDgALgbq0XpTHo-M3fmTAXQY6dqCzc8orfKsK-0bGYkt90hGseCjdJmKafgVdAVrQ5mBZKp_LAQioYXYvZ_yHn_LNrh7augf42rbk2NvmuYJTOMur6fpUH2kGgoUYcus_JvqECvgztKDETqxPC3gELGueOq3OMXrRYakt4cXVGojIRzI_zVGApSlZ0uJbOesGQ19mqg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r__1oR1SlnptWLMWItKLhRWSDAL5jG2hV4b5t8tGF8zlxDUuei6UySNeJ4xeRbt1Ypo0fAjloQgNhF_064_9paVzQOqgaddS-UWoi7U0OtKWx_aD8hdC5xkLvUzMOyO4sKC61B3cN1ufT-lEXn1IqiOU6t1RUZE6lLZpmsBnSut3xNs5kr07ZFprqcr9jLrGl58oL_LyDhFVp3YzqR12W8SwFCgefhFvIpJ8eDZK9bpV9Plr0Rc5kpIg1NnsrIDd8ZnHZ8BxP_JxIDMZQxh8gvOGtj0eCoO6d67sZeXRqZ59GibMF4Kaj98wglpBQReOlYk5tBw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqWBc5kPwrkLOXd9ULglc-vwGpbqwda2LPb_GAdIPhZEql7KIv9G8MbP1oBgp8y4V7D27KyomaRY2ZiPqxybHsTvi5p32FWX-QTVgYzyoHx68PgMm9rLVjNg7bCoBs_ae56kCXC8MLxvzJhTovr7IjU0dqndrRfKxvqptXZFWfI8nHX_WajvXiJlZELxwTk-IHOZxnLssK1n-5PipbrmDFF5D4o6g-9r05rMLq_r2amyJwjmZxpNZhuQXvW53E_OIvYbgqcJHvdRIzRj1yaiH9mMEvL8AkXwJE8zHaGsHwHd9nDEH"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuMcjDkC4OFU1FspGzM6OTnpKF4_g:1791542426107&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX&udm=8&sa=X&ved=2ahUKEwiGwKHP36yXAxVs9rsIHW8CB70QkbEKegQIIhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rynJx5JjNcKXpwEGDFvVaC_Fxy_EK5S7BpjFERTLOQiEG3xZbpT7Hj4s6pTC8vySGYkcb_96fXle60oARSCTr7zmakNY5JdOGiaGY6TJgbsuUhF_I-GCj83V-Zxnq30Nv7gYnyl6DZXrDmG8Y3_Zhnw7sPHjv1ixzS4qDrfm7i_BxrzXAYPsjeXnw8ulMr_jpeZbMNHccwPb9Z8ziLC5xPFM1CPgU-upnkcEOMsABqe0efio7EvSgsCR9DBmuBCRWJNY5PZRXrz17_R46bFzhvgfow-NIln9xLpkyChUjp28KHtlX"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Data Analyst II, Tech",
+      "company_name": "Uber",
+      "location": "Hyderabad, Telangana",
+      "via": "Jobs.uber.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=c9x8DsxaypzC58RjAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TxGJrkTsRbLQSBE2vddhLlkvkshtut0g6e0t_6EtMmoEphik-q8Jd0RAujGlSg7LcwYPqFn7vL7wkgBLmWYXhJhITrc-t2aAn71WTi2poXe1q6b0wBRn9HOmCSlvMNCQ0qg7H_egGjtvNM1CGjuE-NZQxYLPsEnJExj97hg3TjgAAAA&shmds=v1_ARwrE22ir_TNesiQKD7AdrBQwh3s1H_GmEvs4suSa_NpHxF5qw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=c9x8DsxaypzC58RjAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAhCAMAAAC7gZh_AAAAY1BMVEX___8AAADGxsb09PTo6OjKyspmZmZ9fX1DQ0Obm5uOjo64uLhra2vr6-tZWVk9PT3Q0NDa2tpwcHCjo6OwsLCHh4dhYWFLS0uUlJR3d3epqak0NDQnJyfg4OAuLi4SEhIeHh5lG0xOAAABAklEQVQ4je2SyU7EMBBEu3BWOzF2FmeBMPP_X4ntziwkowhxQYKpU1VLrxVXh-ipPyOhdc3OakdG598GgYRdCtALXn8KFr8AmmnQ4_puUTqdm-CkJDWpA3CYEDWHkWKfeQtUgDwAgSGtrac7CkkmtaebAKJR9gh0MbQ-UKSJamDxfnOoHSg4vUEZvLPvMVKAD8HLHSXGDlc5D9abWq-r1JdzRPCjyqKcfACe0LJp9p96vt-_BeU6MmCwitOZyyljKMUjMBQ9WyuxgtBGLPnlHPkirOMlOzA5cQGSy6k4teuzo5YAJluQqMsKXVLSS1r6ltKmGOTtlxuyeMy-F3vwqf-pTzfXCoDMboqsAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "1 day ago",
+        "Full–time"
+      ],
+      "source_link": "https://jobs.uber.com/en/jobs/303068",
+      "job_title": "Data Analyst II, Tech",
+      "description": "About the Role\n\nWe are seeking a highly motivated and technically adept Senior Data Analyst to join our Data Engineering and Sharing Solutions Team, specializing in Ethics Compliance & Security data. In this high-impact role, you will be the technical bridge between complex data ecosystems and global regulatory requirements. You will assist in architecting data-sharing solutions and defining the rigorous SQL logic and Data Quality (DQ) frameworks that ensure our safety data is accurate, compliant, and audit-ready. To succeed, you must balance deep-dive technical work with the ability to consult cross-functionally, translating ambiguous legal needs into scalable analytical products.\n\nWhat the Candidate Will Do\n\nDefine Reporting Logic: Develop and refine the core SQL transformations and business logic that serve as the \"single source of truth\" for all compliance and safety datasets.Define Data Quality (DQ) Standards: Establish and implement automated DQ frameworks and validation scripts to ensure data integrity before it reaches external regulators.Assist in Solution Architecture: Collaborate on the design of data-sharing frameworks that allow Operations teams to fulfill law enforcement and regulatory requests at scale.Technical Consultation: Serve as the primary analytical point of contact for Legal and Public Policy teams, translating complex regulatory requirements into precise technical specifications.Drive Scalability: Identify patterns in recurring data requests and build the technical documentation and modular workflows required to automate fulfillment.\n\nWhat the Candidate Will Need\n\n4+ years of experience in data analytics, with a focus on logic building and data modeling. B.Tech/B.E. or equivalent degree in a quantitative field (Statistics, Computer Science, etc.) and background in Compliance, Risk, or Public Safety within FinTech, InsurTech, or a similar high-stakes environment.Advanced SQL Mastery: Expert-level ability to query multi-layered databases (CTEs, Window Functions) and build optimized data transformations.Data Quality Expertise: Proven track record of defining validation rules, exception reporting, and audit-ready datasets.Analytical Solution Design: Experience designing \"self-service\" data products or modular logic that enables other teams to execute with autonomy.Privacy Mindset: Deep understanding of data privacy (PII handling) and the technical nuances of data redaction. Ready to Ride?\n\n This isn't the kind of place where you follow a playbook — it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves — we'd love to hear from you.\n\n You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits.\n\n Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.\n\n Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.",
+      "apply_options": [
+        {
+          "title": "Jobs.uber.com",
+          "link": "https://jobs.uber.com/en/jobs/303068?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-ii-tech-uber-hyderabad--fj-2404262198?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/data-analyst-ii-tech/11566521?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cloud Sign In",
+          "link": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/requisitions/job/303068?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analyst-ii-tech-at-uber-4477194194?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/YSPWBZq1Ubglrhftdpy93G1QldZ0t9KQLnmeSwf2c7POYhyj4SfBRA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/uber-data-analyst-i-tech-hyderabad-4-to-6-years-7698?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Recruit.net",
+          "link": "https://www.recruit.net/job/data-analyst-tech-jobs/554D8C9437BBB9A6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSUksIFRlY2giLCJjb21wYW55X25hbWUiOiJVYmVyIiwiaHRpZG9jaWQiOiJjOXg4RHN4YXlwekM1OFJqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNsSk5TWFJoY1dKWFVUSkJSMjlYUTFKUmRIcGljVkYzU0cxVFJHWkRVSEJ6VUU1SVFYSkpWRk5QYUhwNVlqY3liMEZKWTA1emVsSkdjalJZVWw5allrcExWakIxVFVWNWNGaHZVQzFaY1d4ak4yOWZRVWxDVTNZMWJFRmZSeTFsZEdSRFRreFJUbkZUTkRVMlJqQnpPRFpqVVVKMVNUWk5VWGhPV21WamNYVkhVVmh2YTBnU0YyMXpWRWxoYjJGTVFuVjZjemRmVlZBM05GTmpOa0Z6R2lKQlJITnlPV1pSVUdKblpURTNhbXRKVVU1R1duSnlVRE55ZFhKSU5tNTVORGhSIiwiZmN2IjoiMyIsImZjX2lkIjoiYzl4OERzeGF5cHpDNThSakFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst, Risk",
+      "company_name": "Google",
+      "location": "Hyderabad, Telangana",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=m9YZbEY6QiGt3ZbmAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yXMsQrCQAyAYVz7CA6SWUtPBBedBEFncS-5Nlxrz-S4ZGg3Z1ff0CdRcfm37y-es2J1REM4MMZJrYRLrwO8Hy-4iQclzE0HwnASCZHm-84s6c451VgFNbS-qRq5O2HyMrov0l9q7TBTimhUb7brsUoclov_BHqG89RSRo9tCVeKyAEZP8hV4dONAAAA&shmds=v1_ARwrE23RFHGzvCKwLJhXSM6TpWIRtTds_q4n2Rv0EWRl-okWqg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=m9YZbEY6QiGt3ZbmAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4943c400694eea7bab0/images/JCTYwu0vPpM7GPpL1cZLFjmaeomRY7Ov9mp_Y2moqt4.jpeg",
+      "extensions": [
+        "1 day ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/L-PfLTZmbk2BSpyJqR9STF53C6jv9OyioiBaJAFRWjgqL3s2EjJBxA",
+      "job_title": "Data Analyst, Risk",
+      "description": "Minimum qualifications:\nBachelor's degree or equivalent practical experience.\n2 years of experience in data analysis, including identifying trends, generating summary statistics, and drawing insights from quantitative and qualitative data.\n2 years of experience managing projects and defining project scope, goals, and deliverables.\n\n\nPreferred qualifications:\nMaster's degree in a quantitative discipline.\n2 years of experience or familiarity with one or more of the following languages: SQL, R, Python, or C++.\n2 years of experience or familiarity with machine learning systems.\nExcellent written and verbal communication skills.\nAbout the job\nTrust & Safety team members are tasked with identifying and taking on the biggest problems that challenge the safety and integrity of our products. They use technical know-how, excellent problem-solving skills, user insights, and proactive communication to protect users and our partners from abuse across Google products like Search, Maps, Gmail, and Google Ads. On this team, you're a big-picture thinker and strategic team-player with a passion for doing what’s right. You work globally and cross-functionally with Google engineers and product managers to identify and fight abuse and fraud cases at Google speed - with urgency. And you take pride in knowing that every day you are working hard to promote trust in Google and ensuring the highest levels of user safety. At Google we work hard to earn our users’ trust every day. Trust & Safety is Google’s team of abuse fighting and user trust experts working daily to make the internet a safer place. We partner with teams across Google to deliver bold solutions in abuse areas such as malware, spam and account hijacking. A team of Analysts, Policy Specialists, Engineers, and Program Managers, we work to reduce risk and fight abuse across all of Google’s products, protecting our users, advertisers, and publishers across the globe in over 40 languages.\nResponsibilities\nAnalyze and solve complex problems using data and statistical methods.\nIdentify and prevent fraud and abuse.\nImprove tools and automated systems through data analysis, technical expertise, and present to stakeholders.\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/L-PfLTZmbk2BSpyJqR9STF53C6jv9OyioiBaJAFRWjgqL3s2EjJBxA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analyst-risk-at-google-4475987146?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/data-analyst-risk-google-hyderabad-4-to-6-years-experience-dea9b5dd-1e05-4e69-b481-c360bcf329ea?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SoftwareJobs4Me",
+          "link": "https://softwarejobs4me.in/jobs/Info/google_135283167169782470?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QsIFJpc2siLCJjb21wYW55X25hbWUiOiJHb29nbGUiLCJodGlkb2NpZCI6Im05WVpiRVk2UWlHdDNaYm1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNwSVYyaG1TVGczTnpscE5HeFRSRWRMVW1neVVrbEZVMnhPYmpWbmVqRTFZMjh5VW5SdlVuSlFNVTlJUzNadFZrRnBja1JmYzBKSE5IVkxRWFJXTmsxelZsWjFkWGh3U1hWc1J6WklXR2xDU1hOVlpYRmZhWGhaUmtkM1Z5MW9SR2R3WmpndFVVczBRM2xmVEhSdWJrTjFVbkZ5WTA1WVoySlFaSGRJZHpCb01uTnBVbWtTRjIxelZFbGhiMkZNUW5WNmN6ZGZWVkEzTkZOak5rRnpHaUpCUkhOeU9XWlRNazl3TW5sU1IyZEVVRVJWVG01blUwVnllV3hQY1hCUWNrVlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJtOVlaYkVZNlFpR3QzWmJtQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst, Risk",
+      "company_name": "Google",
+      "location": "Hyderabad, Telangana",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=TXZ1NRo8BdMOuHiGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yXMsQrCQAyAYVz7CA6SWUtPBBedBEFncS-5Nlxrz-S4ZGg3Z1ff0CdRcfm37y-es2J1REM4MMZJrYRLrwO8Hy-4iQclzE0HwnASCZHm-84s6c451VgFNbS-qRq5O2HyMrov0l9q7TBTimhUb7brsUoclov_BHqG89RSRo9tCVeKyAEZP8hV4dONAAAA&shmds=v1_ARwrE23RFHGzvCKwLJhXSM6TpWIRtTds_q4n2Rv0EWRl-okWqg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=TXZ1NRo8BdMOuHiGAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4943c400694eea7bab0/images/XaovIfVEn2ft4NkUSjDpC4ONkcbPOFJz9O1lvz1j07Y.jpeg",
+      "extensions": [
+        "1 day ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/data-analyst-risk-google-hyderabad--fj-2404320149",
+      "job_title": "Data Analyst, Risk",
+      "description": "Minimum qualifications:\nBachelor's degree or equivalent practical experience.\n\n\n2 years of experience in data analysis, including identifying trends, generating summary statistics, and drawing insights from quantitative and qualitative data.\n\n\n2 years of experience managing projects and defining project scope, goals, and deliverables.\n\n\n\nPreferred qualifications:\nMaster's degree in a quantitative discipline.\n\n\n2 years of experience or familiarity with one or more of the following languages: SQL, R, Python, or C++.\n\n\n2 years of experience or familiarity with machine learning systems.\n\n\nExcellent written and verbal communication skills.\n\n\n\nAbout the job:\nTrust & Safety team members are tasked with identifying and taking on the biggest problems that challenge the safety and integrity of our products. They use technical know-how, excellent problem-solving skills, user insights, and proactive communication to protect users and our partners from abuse across Google products like Search, Maps, Gmail, and Google Ads. On this team, you're a big-picture thinker and strategic team-player with a passion for doing what’s right.\nYou work globally and cross-functionally with Google engineers and product managers to identify and fight abuse and fraud cases at Google speed - with urgency. And you take pride in knowing that every day you are working hard to promote trust in Google and ensuring the highest levels of user safety.\n\n\nAt Google we work hard to earn our users’ trust every day. Trust & Safety is Google’s team of abuse fighting and user trust experts working daily to make the internet a safer place. We partner with teams across Google to deliver bold solutions in abuse areas such as malware, spam and account hijacking.\n\n\nA team of Analysts, Policy Specialists, Engineers, and Program Managers, we work to reduce risk and fight abuse across all of Google’s products, protecting our users, advertisers, and publishers across the globe in over 40 languages.\n\n\nResponsibilities:\n\nAnalyze and solve complex problems using data and statistical methods.\n\n\nIdentify and prevent fraud and abuse.\n\n\nImprove tools and automated systems through data analysis, technical expertise, and present to stakeholders.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-risk-google-hyderabad--fj-2404320149?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/data-analyst-risk-google-hyderabad-4-to-6-years-experience-dea9b5dd-1e05-4e69-b481-c360bcf329ea?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8124002793687089152?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QsIFJpc2siLCJjb21wYW55X25hbWUiOiJHb29nbGUiLCJodGlkb2NpZCI6IlRYWjFOUm84QmRNT3VIaUdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVERWVVEzaFlORnAzU1hkUGFuQjJSa2RQUVRCblJGUk1PVE15VlZBNU1VNDRVSFJKUkc1c1VUZHRlRzVyUVhNd1Z6bHpaRlU0WmsxV1YzQkROVUZEVkVKQ1FsbE5TRU5IY0ZWZllsZzJUMHgzWVhJNWR6aFlhM0pwY1d0bmR6WlRka2hvWDNGVmNuUklYMlJKWVRKa1RVRktkVlJXYTBGeVRXZEZWRkp4VW1OT1JrOHRabUlTRjIxelZFbGhiMkZNUW5WNmN6ZGZWVkEzTkZOak5rRnpHaUpCUkhOeU9XWlVSbTEzTFhGZlpUWjBRa3hFT1dvNExYTkxUVmwyYkdwMVdFbDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJUWFoxTlJvOEJkTU91SGlHQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Professional - Data Product Analyst",
+      "company_name": "GCC India",
+      "location": "Hyderabad, Telangana",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=tMvlCQ1FcFtOUm_3AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKuxFc2KYKM2EiHaWdiHyWbdrKwzYWeEpPMO9h7OkxibXzz42WeS7S-Jb04kMGGEJRxREUZrnlbhMNogCt_XG-5cgzhMtgUmKJl9dNNdq9rJ1hiRmHtR1GBzyw_D5GruzTjJP5W0mFwXUV213qz6vCM_n5VFAWdqAkIgOA2NS1hjs4Cri0geCX_VRlOaoQAAAA&shmds=v1_ARwrE217Vcy3GpX0fC22aaOs5OeqZobrZ_dPkODIQLMyBKNCZQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=tMvlCQ1FcFtOUm_3AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4943c400694eea7bab0/images/mgNIc15gwu2YQLcGMR_jI87MOiX-y-Dh5KmOxyFsE1E.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/QJTtcpTX4IBXcbPUgOF5LB-jY8AhF4m06T7JrRH39S3mMvbg7hzOLA",
+      "job_title": "Professional - Data Product Analyst",
+      "description": "Where Ambition Meets Innovation\n\n\n\nAt LPL’s Global Capability Center, you'll find a collaborative culture where your voice matters, integrity guides every decision, and technology fuels progress. Your skills, talents, and ideas will redefine what's possible. LPL's success reflects its exceptional employees, who together pursue one noble purpose: empowering financial advisors to deliver personalized advice for all who need it. We’re proud to be expanding and reaching new heights in Hyderabad.\n\n\n\nJoin us as we create something extraordinary together.\n\n\n\n\nJob Overview:\n\n\nLPL Financial is seeking a Data Product Analyst to support our Strategic Data Platforms, with a strong focus on how data is produced, shaped, governed, and delivered to downstream consumers across the firm.\n\n\nThis role sits at the intersection of Product Management, Data Product Ownership, and Advanced Analysis, and is designed for a senior individual contributor who can bring rigor and clarity to complex, data‑centric platform initiatives.\n\n\nThe Data Product Analyst focuses on data as a product—helping define data contracts, validate quality, assess downstream impact, and support data product and platform decisions.\n\n\nThe ideal candidate is comfortable working across upstream systems of record, platform services, and downstream consumers, and excels at turning complex data flows into actionable insights and decisions.\n\n\n\n\nResponsibilities:\n\n\nProduct Discovery & Capability Support\n\n\nSupport product discovery by helping translate business and platform needs into clear data‑centric problem statements.\n\n\nContribute to roadmap planning by evaluating value, risk, and complexity across data initiatives.\n\n\nHelp define outcomes and success measures for data platform capabilities (e.g., usability, reliability, adoption, quality).\n\n\nAdvanced Data Analysis & Problem Solving\n\n\nPerform hands‑on exploratory and diagnostic analysis across distributed data sources and platforms.\n\n\nInvestigate data quality issues, lineage gaps, and semantic inconsistencies that affect downstream consumers.\n\n\nConduct impact analysis for schema changes, new feeds, platform migrations, or system decommissions.\n\n\nIdentify systemic issues in data flow, transformation, or consumption and recommend durable solutions.\n\n\nData Product Ownership (Supporting / Platform‑Level)\n\n\nSupport Data Product Owners by helping define:\n\n\nData contracts, schemas, and semantic definitions\n\n\nData quality rules, validation logic, and controls\n\n\nUsage expectations and downstream dependencies\n\n\nMaintain traceability between business intent, data products, and technical implementation.\n\n\nPartner with engineering, architecture, and data platform teams to support scalable, reusable distribution patterns.\n\n\nAgile Execution & Delivery\n\n\nContribute to Jira artifacts (features, stories, acceptance criteria) with strong data and platform context.\n\n\nParticipate in backlog refinement, sprint planning, and demos to ensure work reflects validated platform and consumer needs.\n\n\nSupport prioritization decisions by providing evidence‑based impact and dependency analysis.\n\n\nStakeholder Communication & Influence\n\n\nAct as an analytical partner to Product Managers, Platform Owners, Engineering, and downstream consumer teams.\n\n\nCommunicate complex data flow and platform concepts in clear, decision‑ready narratives.\n\n\nHelp align stakeholders across domains by grounding conversations in data realities and trade‑offs.\n\n\n\n\nWhat are we looking for?\n\n\nWe’re looking for strong collaborators who deliver exceptional client experiences and thrive in fast-paced, team-oriented environments. Our ideal candidates pursue greatness, act with integrity, and are driven to help our clients succeed. We value those who embrace creativity, continuous improvement, and contribute to a culture where we win together and create and share joy in our work.\n\n\n\n\nRequirements:\n\n\n4+ years of experience in Product Analytics, Data Analysis, Data Product Ownership, or Platform‑oriented Product roles.\n\n\nStrong hands‑on experience with SQL (advanced querying, joins, performance awareness)\n\n\nExperience working with data platforms, distributed data systems, or integration layers.\n\n\nExperience adopting emerging AI‑enabled capabilities to improve the speed, depth, and effectiveness of data analysis\n\n\nExperience operating in Agile/Scrum environments with cross‑functional product and engineering teams.\n\n\nProven ability to work across ambiguity and translate complex data ecosystems into actionable insights.\n\n\nSolid understanding of:\n\n\nData modeling and semantic consistency\n\n\nData quality, lineage, and governance concepts\n\n\nPipelines, and event‑driven architectures (conceptual and analytical understanding)\n\n\n\n\nPreferences:\n\n\nExperience supporting advisor data platforms, or shared enterprise data services.\n\n\nBackground in financial services, wealth management, or other highly regulated data environments.\n\n\n\nCore Competencies:\n\n\nFamiliarity with downstream consumer needs (applications, analytics platforms, partners, regulatory consumers).\n\n\nExperience performing impact analysis for data changes across multiple consuming systems.\n\n\nLPL Global Business Services, LLP - PRIVACY POLICY",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/QJTtcpTX4IBXcbPUgOF5LB-jY8AhF4m06T7JrRH39S3mMvbg7hzOLA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/bristol-myers-squibb/job/data-analyst-product-master-data?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/professional-data-product-analyst-lpl-financial-global-capability-center-hyderabad-telangana--t7xk-869550843?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/professional-data-product-analyst--hyderabad--e35cabde11c35cdb01cbb6265a00666f6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4112-db563e358f44659dcc4be096718154e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/5100752499166412800?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/341393832/data-analyst-digital-product-analyst-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcm9mZXNzaW9uYWwgLSBEYXRhIFByb2R1Y3QgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkdDQyBJbmRpYSIsImh0aWRvY2lkIjoidE12bENRMUZjRnRPVW1fM0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpTSGxrWlhKaFltRmtMRlJsYkdGdVoyRnVZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVEpDUjBGTFJtZFNjMHAyVnpsb05FZzVSa1o1TWtWcGN6aFRkMjV0T0V4U1lVaFZVVGhaVVdZdGRHVkpOMDl2Y1VSTFNEZEpSamxNWHpKWFdIVlFVRFF4UkRjd1RHUkpOSEUwZDBWaVpXaFhia3d6WmpkblgwVllMWEV3UVdaR2FURnhlRGd4UkdZMWJrcERSMUJLUm5sd1NHMW1NbEkwTFdoeVkxTkhYM0EwZUd4eE5XMFNGMjF6VkVsaGIyRk1RblY2Y3pkZlZWQTNORk5qTmtGekdpSkJSSE55T1daU1RIbzRTMk42YlZWMFQwOVZObTl0VVZONVlWbFFhbmhFVDJGMyIsImZjdiI6IjMiLCJmY19pZCI6InRNdmxDUTFGY0Z0T1VtXzNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst II, Tech",
+      "company_name": "Uber",
+      "location": "Anywhere",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=pyh5qdn281pb_fDDAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TxGJrkTsRbLQSBE2vddhLlkvkshtut0g6e0t_6EtMmoEphik-q8Jd0RAujGlSg7LcwYPqFn7vL7wkgBLmWYXhJhITrc-t2aAn71WTi2poXe1q6b0wBRn9HOmCSlvMNCQ0qg7H_egGjtvNM1CGjuE-NZQxYLPsEnJExj97hg3TjgAAAA&shmds=v1_ARwrE22ir_TNesiQKD7AdrBQwh3s1H_GmEvs4suSa_NpHxF5qw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=pyh5qdn281pb_fDDAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4943c400694eea7bab0/images/gWCTeN93iUDfR6guBgDNrzNMVxVSWg3tP4ILhvWO8sI.jpeg",
+      "extensions": [
+        "1 day ago",
+        "Work from home",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/data-analyst-ii-tech-uber-hyderabad--techmap_in_YSPWBZq1Ubglrhftdpy93G1QldZ0t9KQLnmeSwf2c7POYhyj4SfBRA",
+      "job_title": "Data Analyst II, Tech",
+      "description": "About the Role\nWe are seeking a highly motivated and technically adept Senior Data Analyst to join our Data Engineering and Sharing Solutions Team, specializing in Ethics Compliance & Security data. In this high-impact role, you will be the technical bridge between complex data ecosystems and global regulatory requirements. You will assist in architecting data-sharing solutions and defining the rigorous SQL logic and Data Quality (DQ) frameworks that ensure our safety data is accurate, compliant, and audit-ready.\n\n\nTo succeed, you must balance deep-dive technical work with the ability to consult cross-functionally, translating ambiguous legal needs into scalable analytical products.\n\n\nWhat the Candidate Will Do\n\n\n\n\n\nDefine Reporting Logic: Develop and refine the core SQL transformations and business logic that serve as the \"single source of truth\" for all compliance and safety datasets.\n\n\nDefine Data Quality (DQ) Standards: Establish and implement automated DQ frameworks and validation scripts to ensure data integrity before it reaches external regulators.\n\n\nAssist in Solution Architecture: Collaborate on the design of data-sharing frameworks that allow Operations teams to fulfill law enforcement and regulatory requests at scale.\n\n\nTechnical Consultation: Serve as the primary analytical point of contact for Legal and Public Policy teams, translating complex regulatory requirements into precise technical specifications.\n\n\nDrive Scalability: Identify patterns in recurring data requests and build the technical documentation and modular workflows required to automate fulfillment.\n\n\n\n What the Candidate Will Need\n\n\n\n\n\n4+ years of experience in data analytics, with a focus on logic building and data modeling. B.Tech/B.E. or equivalent degree in a quantitative field (Statistics, Computer Science, etc.) and background in Compliance, Risk, or Public Safety within FinTech, InsurTech, or a similar high-stakes environment.\n\n\nAdvanced SQL Mastery: Expert-level ability to query multi-layered databases (CTEs, Window Functions) and build optimized data transformations.\n\n\nData Quality Expertise: Proven track record of defining validation rules, exception reporting, and audit-ready datasets.\n\n\nAnalytical Solution Design: Experience designing \"self-service\" data products or modular logic that enables other teams to execute with autonomy.\n\n\nPrivacy Mindset: Deep understanding of data privacy (PII handling) and the technical nuances of data redaction.\n\n\n\n Ready to Ride?\n\n\nThis isn't the kind of place where you follow a playbook - it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves - we'd love to hear from you.\n\n\nYou may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits.\n\n\nOffices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements.\n\n\nUber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.\n\n\nIf you have a disability or special need that requires accommodation, please let us know by completing this form.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-ii-tech-uber-hyderabad--techmap_in_YSPWBZq1Ubglrhftdpy93G1QldZ0t9KQLnmeSwf2c7POYhyj4SfBRA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=94bd420bbe7ac23a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/342140858/tech-data-analyst-india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSUksIFRlY2giLCJjb21wYW55X25hbWUiOiJVYmVyIiwiaHRpZG9jaWQiOiJweWg1cWRuMjgxcGJfZkREQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWOHhXRUpIWTB4MlRXNDNjbEZXUTJkNVZHeHZabkpsWjBodU1WQjZVM3AwY2xOMFVHRlBhelZ4V0c5b1kwMVZaakJHWlhkYWJIbFNkMDFaUjBodWVTMWFSWHBCVmpKUGVGaG5UVVJLZVRGbU5qVjJPVXBNTTNoUWMwSnVkMVJXWWpSa1MycFFPREUwTjJzNGNWOXZhamhHTmkxYVpUaFRMVU5VUkZCdWRIQnRhM2t5YzBNU0YyMXpWRWxoYjJGTVFuVjZjemRmVlZBM05GTmpOa0Z6R2lKQlJITnlPV1pVZHpOWFZtTkhOV1ZvTldOMFNYYzRORTVNTUdvMVgzWkhjbmRCIiwiZmN2IjoiMyIsImZjX2lkIjoicHloNXFkbjI4MXBiX2ZEREFBQUFBQT09In0="
+    },
+    {
+      "title": "Lead Data Analyst",
+      "company_name": "UnitedHealth Group",
+      "location": "Hyderabad, Telangana (+2 others)",
+      "via": "UnitedHealth Group Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=_K9EYadzJ1m-7Hw0AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU43F2lEcNFJENrBUWe5NkdSiXchd0K7-Q_iD_ol6vK2V70XVX0i9HBEQzgwplkNPs8X3KQHJSxDBGFoRUKi5T6aZd05p5qaoIY2Ds0gdydMvUzul_TPVSMWygmNrpvtemoyh7q-8GjkO8JkEdoijwwjQzd7KtijX8GZEnJAxi-ztEVFmAAAAA&shmds=v1_ARwrE22jB6qCpZqwy4yKTB_7EU4ouI8Fl3vdPWrupvbDb468Wg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=_K9EYadzJ1m-7Hw0AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAdVBMVEUsc-8tc-8wdfD____b5_wAYu0zePAscvElcO4AZO0AXOwAXuyowfckb-8Xau0AYe7D1fqauPXS4Pvh7P0AUuwAVu2QsPXK2vtQiPHs9P5Ui_ELZ-1mlfJEgu9Cf_BxnPO40PmCqPP1-v4AR-u0yfd6ovNfkfN2jZSeAAACHUlEQVRIie2X2bKjIBBA2URQQZYIIgSXGP__EweTOw9TM1WZm6r7lralWOpIS3cjAoreEgoQeEtQuWr4bakfIATf5QryAOF37YQf8AN-wB8CAUNF4bkdnI9BECL0SFVQn93wHCrlI-EBKtn_bCJAk0BJRAEj4oxzLiXn4rzZeGV5FJxHVHOBhESxqiKLSMoTZDOpxtCbWSzNko0h2hkya29cq3TVqdKloiBzXF27GGPyzlcnCihmU11tv9kmXOxYkdSaNLRm7re86Kj3idx6NlvTahWlU3yyN7fLL3C0FVHTCfYkVSqQ7O_Vsu7BhH3EpGs8xVwvURRwxCZ0X-CQbWWpJRd75QX0qW38PJi0uMHtI7lUHCuc3N48Zxz0Y8ZabJ11MlxIuISpt6kyxK_eqNCoYqoasVKHaZ1xm0_O8yk0epEUUAD5RCWkxSU1rQFFDNBMUc4RoLL4qNRy8Y_IZzcrWz967uNnALDiqYeeHuPHmkXksgalQFIgDniM8OlG8Fv_jhzuibP94hcmF69bfcSFL36XL0OO4l5WEcdu77rBJnNvcYOHvZMvQHZsnM0cJ3KQI3advzdbjzNxr0CQcVn8Bl_DjaR-d34-wTS_NrW841pA7vUc5o1qcw-lJf6VHX-CkCd3FRMAUxwdFfJYhRgZeg0CyBgDrOQUqEVJKVbimZX6a_A_5AN-wA_4Y-C7B923j9ZvSfkev_n78As23She1_v_UQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "4 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://careers.unitedhealthgroup.com/job/hyderabad/lead-data-analyst/34088/101329852672",
+      "job_title": "Lead Data Analyst",
+      "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start Caring. Connecting. Growing together.\n\n \n\nPrimary Responsibilities:\n\nAgentic AI Architecture & Delivery  Design and implement (multi) agentic workflows where LLMs plan, decompose tasks, invoke tools/APIs, and synthesize answers across heterogeneous data sources and servicesBuild retrieval augmented generation (RAG) and hybrid search pipelines to power robust question answering over clinical and operational dataDesign, code, test, document, and maintain high quality, scalable Big Data and cloud solutionsDevelop scalable microservices and APIs for integrating agent capabilities into clinician tools and internal appsCreate prototypes/POCs and conduct design/code reviews to derisk delivery and raise engineering qualityLLMs, GenAI & Model Adaptation  Leverage and adapt LLMs; perform prompt engineering, grounding, guard railing, and domain adaptation for healthcare terminology and tasksDesign intelligent frameworks and finetune models for compliance, accuracy, and ethical standardsEstablish evaluation frameworks (automatic + human in the loop) to measure faithfulness, helpfulness, bias, toxicity, privacy leakage, and overall qualityData & Platform Engineering  Partner with data engineering to build feature/retrieval stores, embeddings pipelines, and ETL/ELT jobs on Spark/Databricks; design analytics models and rules enginesDefine and develop APIs for integrations across the enterprise; improve data access patterns for low latency inferenceDelivery, MLOps & Reliability  Own MLOps/LLMOps: CI/CD for models/prompts, automated tests (unit/contract/eval), versioning, lineage, rollback; enable blue/green or canary releasesInstrument SLOs/SLIs (latency, availability, hallucination/defect rate) and cost KPIs (tokens, GPU hours) with dashboards and alertsLead production deployments on internal platforms (e.g., UAIS) with solid observability, reliability, and cost controlsSecurity, Privacy & Compliance  Champion HIPAA and regulated industry controls; integrate access controls, PHI/PPI safeguards, data minimization, encryption, and auditabilityCollaborate with legal, compliance, and clinical safety to operationalize Responsible AI principlesProduct, Estimation & CollaborationAnalyze and define customer requirements; assist in defining product technical architecture and delivery roadmapsProvide effort estimates and inputs for resource planning; collaborate with QA, architecture, and peer teamsWrite technical documentation, support production, and mentor engineers, and keep skills current through continuous learningComply with all applicable Company policies, procedures, and business directives, changes including those relating to work location, team assignments, work schedules, and flexible work arrangementsRequired Qualifications:\n\nBachelor's in Engineering, Computer Science, IT, or related fields.  10+ years of total technology experience8+ years hands on software development/data engineering/analytics with solid AI/ML delivery (Azure preferred) with Scala, Python, PySpark.  4+ years hands on with Databricks.  4+ years with ADF/Airflow (orchestration/scaling).  4+ years with big data & streaming (Hadoop, MapReduce/HDFS, Spark, Kafka); Docker/Kubernetes.  4+ years with MySQL and NoSQL databases.  4+ years with Agile/Scrum, GitHub, Jenkins CI/CD, JUnit; solid coding standards and code reviews.  2+ years with LLMs & GenAI (Langchain, LangGraph, RAG, Vector DB, Azure Open AI, MCP Server, Agents, LangFuse).  2+ years of experience with container (Docker/Kubernetes) 1+ years with Proficiency building services or full stack apps (e.g., FastAPI/Flask, Node.js, React/Angular, TypeScript, HTML/CSS)\nPreferred Qualifications: \n\nAt UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone - of every race, gender, sexuality, age, location and income - deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes - an enterprise priority reflected in our mission.\n\n#nic",
+      "apply_options": [
+        {
+          "title": "UnitedHealth Group Jobs",
+          "link": "https://careers.unitedhealthgroup.com/job/hyderabad/lead-data-analyst/34088/101329852672?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Sopra Steria",
+          "link": "https://careers.soprasteria.com/job/lead-data-analyst-oac-in-noida-india-jid-9096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Sopra Steria India",
+          "link": "https://careers.soprasteria.in/job/lead-data-analyst-oac-in-noida-india-jid-9096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/lead-data-analyst-oac-sopra-steria-JV_KO0,21_KE22,34.htm?jl=1010183654930&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/xg0m-trU6uz2vhaTLI-bjrHmDfiZp1BB39tfFuch7kHGafndEzNxvw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Smart Recruiters Jobs",
+          "link": "https://jobs.smartrecruiters.com/SopraSteria1/744000134930739-lead-data-analyst-oac-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/lead-data-analyst-oac-at-sopra-steria-4434957859?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JusRecruit",
+          "link": "https://jusrecruit.com/job/job-a6a9f1-lead-data-analyst-at-jusrecruit-by-exl-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlVuaXRlZEhlYWx0aCBHcm91cCIsImh0aWRvY2lkIjoiX0s5RVlhZHpKMW0tN0h3MEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpTSGxrWlhKaFltRmtMRlJsYkdGdVoyRnVZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTamd4VXpGVGFEazRVVXRaZVU5Q1JVUldaVE5oUWxCaWF6ZGpVVUZwYWpnNVdWTTRRVUpJYnpaYVZqWkdWbTFHZERKVWEyVTNNVUpxZWpaalNEUkhOMFJxYURsTFVqaFVkVWxKZUZWQ2NWbG1iakZrVjFaeVNESTJTSEZqTXpNMlgzVXhUbVI2YlROTmVIUlBlRmQzYlRoalRsVkVja3BWYjJoUFpEWmFZVTVSYkdadVR5MFNGMjF6VkVsaGIyRk1RblY2Y3pkZlZWQTNORk5qTmtGekdpSkJSSE55T1daU2RXSllTemxmTFRWRFdrSlZjREZUUjAwMVNsTjFVSEZCVTFaMyIsImZjdiI6IjMiLCJmY19pZCI6Il9LOUVZYWR6SjFtLTdIdzBBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst | IT Consulting MNC (Hyderabad)",
+      "company_name": "Hindco Recruitment Consultants",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=wzg6t-leK-hVMGMOAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z3OMQ4BURCA4WgdQTUlIrsioaASxCooRC-zbydvnzwzm53ZhEThDq7jNE6Cgubv_uRrP1vt1RINYc4Yr2pwg80BFsLaRAvsYbtbQDe7FlRjjkUPXvcHnCQHJaxdCcKwFvGROrPSrNJpmqrGxKuhBZc4OafClMsl_Uz6zVFLrKmKaHQcjYeXpGLfn2SBCyewJ1c3wc7E9kMgm0Jg-BsGcKCI7JHxDSlOwtO_AAAA&shmds=v1_ARwrE20n5aebleXL9Dymyf4kCyFrat-7hU8J0dR5HsUcr5FkKw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=wzg6t-leK-hVMGMOAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/data-analyst-it-consulting-mnc-hyderabad/hindco-recruitment-consultants/19705537",
+      "job_title": "Data Analyst | IT Consulting MNC (Hyderabad)",
+      "description": "- Collect, organize, clean and preprocess data from various sources, including databases, spreadsheets, and APIs to ensure accuracy and reliability.  \n- Perform exploratory data analysis to identify trends, patterns, and correlations.  \n\nRequired Candidate profile\n\n- 4+ years of experience working as Data Analyst or in similar role.  \n- Proficiency in SQL, Python, R or other programming languages used for data analysis.  \n- Experience with data visualization tools .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst-it-consulting-mnc-hyderabad/hindco-recruitment-consultants/19705537?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/2133232188450144256?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/341391454/data-analyst-it-consulting-mnc-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgfCBJVCBDb25zdWx0aW5nIE1OQyAoSHlkZXJhYmFkKSIsImNvbXBhbnlfbmFtZSI6IkhpbmRjbyBSZWNydWl0bWVudCBDb25zdWx0YW50cyIsImh0aWRvY2lkIjoid3pnNnQtbGVLLWhWTUdNT0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpTSGxrWlhKaFltRmtMRlJsYkdGdVoyRnVZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTV3BCZWkxTFRHMTFkVFp2ZW1NeU4wZHVOM2Q0UlZaMVlYTjBhblpyTUhObVh6TlpjRFZzTm1KVk1tZHJOVk51Y2xsbE1USlBUVmhRY21GNE1GY3hVM0ZJZVdjNWFIZFpNelkwUTNsMU4xOVVaR0Z4T0hwTWREQlhWVFV6VTA0MFlWRnVjazR0V1RkWldEUnBVV2hoYVRrelVVNHlWbEJTTjJoWllYcE5lSFF4U1hGcWREWVNGMjF6VkVsaGIyRk1RblY2Y3pkZlZWQTNORk5qTmtGekdpSkJSSE55T1daUk1Ha3Ria3RsYkRkaFpXUTVXSFp3UTFWc1dWRTJZWEJhTFhsQiIsImZjdiI6IjMiLCJmY19pZCI6Ind6ZzZ0LWxlSy1oVk1HTU9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Fresher hiring for Data Analyst",
+      "company_name": "Telus Digital Experience",
+      "location": "Anywhere",
+      "via": "Placement India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=hOlUkrD_y8so__3UAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLTQrCMBBAYdx6BFezFmmKIIiuhPpzAPdlmo5JJE7CTIR25x08hdfyJNbNW31v_pnNtych9STggwR2cEsCDRaEA2MctcD39YZ76kAJxXpIDOeUXKTF3peSdWeMaqycFizBVjY9TGLq0mCmSf9p1aNQjlioXW_qocrslvWV4lOhCS4UjHAcMkkgtgSB4TL2JNhhv4KJITtk_AFbzIE8rAAAAA&shmds=v1_ARwrE22LWLzcdIHEG6pjN8UhMNG7rlzxerZt1hLL7PBklYp6iQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=hOlUkrD_y8so__3UAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4943c400694eea7bab0/images/J9-kTxO6MlVqeS92AlmRFTHGNTnlnlFKijG4-1jBwZ4.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Work from home",
+        "Part-time"
+      ],
+      "source_link": "https://www.placementindia.com/job-detail/data-analyst-in-telus-digital-experience-at-hyderabad-1466492.htm",
+      "job_title": "Fresher hiring for Data Analyst",
+      "description": "Online Data Analyst - Urdu Speakers in India Research, evaluate data & improve digital maps from home. Part-time freelance opportunity - no experience required! Click here and apply: \n\nExperience\n\nFresher\n\nNo. of Openings\n\n100\n\nEducation\n\n10th Pass\n\nRole\n\nData Analyst\n\nIndustry Type\n\nRecruitment Consulting / Staffing Services\n\nGender\n\n[ Male / Female ]\n\nJob Country\n\nIndia\n\nType of Job\n\nPart Time\n\nWork Location Type\n\nWork from Home",
+      "apply_options": [
+        {
+          "title": "Placement India",
+          "link": "https://www.placementindia.com/job-detail/data-analyst-in-telus-digital-experience-at-hyderabad-1466492.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8727247649243136000?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcmVzaGVyIGhpcmluZyBmb3IgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiVGVsdXMgRGlnaXRhbCBFeHBlcmllbmNlIiwiaHRpZG9jaWQiOiJoT2xVa3JEX3k4c29fXzNVQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFREUTViVTlHZUZsSk56Tk9RazF5U1dSbFZqaHNaVnBSV25sT1lqUlRXVW94WldaRFdHWmhkR3gyTkZrNFFtcDFWbEU0YVZKblFWSTNZWEZUVWtKUFVUVjRXazFKTlVoMlRVNU5ka2N5T1MxNU5WcGZORXc1ZVRBMWJuaHhUbXBEWWpsMVdsVlVXWEZUTVhKak4xWkpNVmhLWm14QldWaHlRMDFIZVhKYVR6RjFhV05SY2xJU0YyMXpWRWxoYjJGTVFuVjZjemRmVlZBM05GTmpOa0Z6R2lKQlJITnlPV1pTUjBGSFowNWFkVE40WDB4SU1XNW1abmx4VUV4dFZWcElSVzUzIiwiZmN2IjoiMyIsImZjX2lkIjoiaE9sVWtyRF95OHNvX18zVUFBQUFBQT09In0="
+    },
+    {
+      "title": "Hiring Senior Data Analyst (Secunderabad)",
+      "company_name": "Aspire, Jordan",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=FJvfvgLbasGjqKrJAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3NMQrCQBBAUWxzBKupRCVkRbDRKiIYbLUPk2TYrKwzy84KSecdPIXX8iQq2Pzu8bPXJNtXLjq2cCZ2EuGACaFk9KMmmJ-pvXNHERvsFvB-POEqDShhbHsQhqOI9TTd9SkF3Rqj6gurCZNri1ZuRpgaGcwX6S-19hgpeExUrzeroQhsl7NSg4uUw0lihwyOoRr_zxwu5JEtMn4AMGKkdqwAAAA&shmds=v1_ARwrE209Y_EeT4XiheB7Y8QePXuonAIpG2G1g-Q1yMmns_0b7g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=FJvfvgLbasGjqKrJAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/hiring-senior-data-analyst-secunderabad/aspire-jordan/19703331?position_in_results=6566",
+      "job_title": "Hiring Senior Data Analyst (Secunderabad)",
+      "description": "Data Analyst  \n\nAbout the Role  \nWe are looking for a Data Analyst with robust SQL, dashboarding, and business analysis skills to transform business questions into clear, actionable analytical outputs.  \nThe ideal candidate will be comfortable working across business and technical teams, translating requirements into structured analysis, building dashboards and reports, and maintaining clear documentation around business metrics, definitions, and data logic.  \nKey Responsibilities  \n- Analyze data using SQL to identify trends, opportunities, anomalies, and business issues.  \n- Build, maintain, and enhance dashboards and recurring reports for business stakeholders.  \n- Gather, refine, and document business requirements through JIRA stories, acceptance criteria, and analyst workflows.  \n- Translate business needs into structured analysis plans and measurable outputs.  \n- Create and maintain semantic definitions, metric logic, business glossary content, and knowledge documentation.  \n- Validate data quality and investigate discrepancies across systems, dashboards, and reporting layers.  \n- Present analytical findings through clear summaries, visualizations, and actionable recommendations.  \n- Partner with Product, Engineering, Data, and Business teams to improve reporting clarity and data understanding.  \n- Ensure analytical outputs are accurate, well-documented, and aligned with business objectives.  \n\nRequirements  \nMust-Have Skills  \n- 3+ years of experience in Data Analysis, Business Intelligence, Analytics, or a related field.  \n- Strong SQL skills with experience working with large datasets.  \n- Hands-on experience building dashboards using Tableau, Power BI, or similar BI platforms.  \n- Experience documenting requirements using JIRA, user stories, acceptance criteria, or similar methodologies.  \n- Strong business acumen with the ability to understand business questions and translate them into analytical solutions.  \n- Excellent written communication skills, particularly in documenting semantic definitio .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/hiring-senior-data-analyst-secunderabad/aspire-jordan/19703331?position_in_results=6566&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/novartis-senior-rwe-scientific-data-analyst-hyderabad-telangana-india-2-to-4-years-339586?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337542958/senior-marketing-data-analyst-python-sql-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SoftwareJobs4Me",
+          "link": "https://softwarejobs4me.in/jobs/Info/salesForce_jr335903?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJIaXJpbmcgU2VuaW9yIERhdGEgQW5hbHlzdCAoU2VjdW5kZXJhYmFkKSIsImNvbXBhbnlfbmFtZSI6IkFzcGlyZSwgSm9yZGFuIiwiaHRpZG9jaWQiOiJGSnZmdmdMYmFzR2pxS3JKQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMxVlpiV2RtUjFGc1gzY3RTMjFYZVVWalZHbFJVVGxQZWxaTmNGUmlTMVY2TVhad1VsbHFkMlpKYW5RMlpreHpXVmcxT0ROb1ozbE5TWGw2V0ROc1JGTTJlWEZUU0hCVFdqTjBVRFl3Tms1bWFrbFBlbFZMVW5wNVdXdE9jQzF3YVRneFQwUkVZMVJYUW1Oc2RXZDBSekphTldaR2RrRlBPRE5zVVhGeGIyZGFNVkJGTlZRU0YyMXpWRWxoYjJGTVFuVjZjemRmVlZBM05GTmpOa0Z6R2lKQlJITnlPV1pVVHpoS2JYaFNVaTFSTkhZeVUwcEpaa1paZVdoT1ZrdHlPRTVSIiwiZmN2IjoiMyIsImZjX2lkIjoiRkp2ZnZnTGJhc0dqcUtySkFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Associate | Data Analyst | Hyderabad | Engineering as a Service/ Operate",
+      "company_name": "deloitte",
+      "location": "Hyderabad, Telangana",
+      "via": "Deloitte South Asia Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=A-lcgLqBq4b5Rgt8AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0WOsQrCQBBEsc0nWG0tkhPBRquAop1F7MPmslxOzt1we0gCFv6DX-Vv-CWelc0wA_OGKd6zoq-JvUSoVMV6TAQP2GNCqBjDpCnH09RRxBa77A_sPBNFzw5QAaGmePeWDJyHXMr45_mCq7SghNH2IAxHERdovutTGnRrjGoonSZM3pZWbkaYWhlNhvQnjfYYaQh5rFlvVmM5sFtAR0F8yvue_4eWcKGA7JDxC2vxvWLMAAAA&shmds=v1_ARwrE20tu6an2xhS-TeNElCxeRxBMSbsd9Fq0vlaQ4jxEm-5CQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=A-lcgLqBq4b5Rgt8AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAfCAMAAACF8f6iAAAAflBMVEX___8AAADAwMAPCwt5eHhwcHDLy8sLBgb6-voFAABqaWnU1NR1dXV9fX2RkZFXVlZlZGSamZnz8_NNTEze3t6ioqKqqqqJiYlSUVE0MzONxiZ1cniEg4MvLi1fXl4XFRUeHBxBQD_p6em0tLQGAAogKwhFXxVbgw0qOBBMahfJSj2dAAABgklEQVQ4je2T2ZqCMAyFE7bSssoi4BQVdbb3f8E5KTDqLVdemM-2IeY_TUMhetsrWeJtsoRS3mQhZW7V_t3w-OwqJf5jis8BBaW1Nh1ZrTGd58VC8jHPwZ7OChKjfgbDxB01ciS0FRPteN6Gr0Rcx2SYd_D8_90dGKFBFVHDUMVPO1BWjHGauCYqmFuA8reaq5_BmBnb1pzHsrMDiwukBqRXeKS4SaWqPZdz-AEMiSxGVIEEeCKqoMJ7DEEugQPPwBpoPYAlUZdQM2YuM5cTjUSZFDjdS4XOhMp7voOWyFzmGyHgVWJEraQXRKVjmL05w_BtBRUgbqgxQZoJ6NKwLuBxAaEnGcPn19JVNJVaqabNrr0AqMdDfBAQfhKd4XneEVPQWj4cvj_W97hDo53X8iIiMbePyI44Kbqyd7d7BoPeGFPLy1Hcd_bI2phJ82DtwLo2BoJZh-4MnR0k3IU-__yi1PmuqvVqSqvl5vI6i6DM2gW0y71JczZ_HZu_x7e9kv0BKiMVgv8ih9cAAAAASUVORK5CYII.png",
+      "extensions": [
+        "23 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://southasiacareers.deloitte.com/job/Hyderabad-Senior-Associate-Data-Analyst-Hyderabad-Engineering-as-a-Service-Operate/59799144/",
+      "job_title": "Senior Associate | Data Analyst | Hyderabad | Engineering as a Service/ Operate",
+      "description": "Mid Analytics + AI Engineer (3-7 Years)Job SummaryWe are seeking a highly skilled Analytics & AI Engineer to support executives and business leaders by delivering advanced analytics, AI-powered insights, and enterprise reporting solutions. As an Analytics & AI Engineer, you will play a critical role in shaping the organization's analytics strategy and enabling data-driven decision-making across Manufacturing, Quality, Supply Chain, Sales, Service, Marketing, Finance, HR, and Connected Vehicle Operations.You will leverage Tableau, Amazon Redshift, Python, AI technologies, and modern analytics practices to develop sophisticated dashboards, executive scorecards, forecasting models, self-service analytics solutions, and AI-driven insights that improve business performance and operational efficiency.Key ResponsibilitiesDesign, develop, and maintain enterprise Tableau dashboards, executive scorecards, KPI frameworks, and analytical applications.Partner directly with executives and business leaders to define strategic metrics, reporting standards, and performance measurement frameworks.Build and optimize Redshift-based analytical data models, semantic layers, and governed reporting datasets.Create reusable Tableau data sources, certified datasets, and standardized KPI definitions.Develop predictive analytics, anomaly detection, forecasting models, and AI-driven decision-support solutions using Python.Analyze manufacturing, quality, connected vehicle, charging, sales, finance, marketing, HR, and supply chain data to identify business opportunities and operational improvements.Build executive scorecards and operational dashboards supporting strategic and tactical decision-making.Conduct root-cause analysis, trend analysis, and performance assessments to drive business outcomes.Evaluate and implement Generative AI, conversational analytics, and AI-assisted reporting capabilities.Drive Tableau governance, dashboard standards, user adoption, and self-service analytics enablement.Collaborate with Data Platform and Data Engineering teams to optimize reporting architectures and data consumption layers.Deliver executive presentations and analytical insights that influence organizational strategy. Functional Knowledge·       Expertise in developing executive dashboards, KPI frameworks, and self-service analytics solutions using Tableau and Redshift.·       Strong understanding of Manufacturing, Quality, Connected Vehicle, and EV Charging analytics, including operational performance, telemetry, and customer usage insights.·       Experience analyzing Sales, Service, and Customer data to support revenue growth, customer acquisition, retention, and customer success initiatives.·       Familiarity with Supply Chain, Procurement, Inventory Management, Demand Forecasting, and Logistics analytics.·       Knowledge of Financial Planning, Budgeting, Forecasting, Profitability Analysis, and Executive Scorecard reporting.·       Ability to interpret HR and Workforce Analytics, including recruiting, retention, organizational effectiveness, and workforce planning.·       Experience applying advanced analytics, predictive modeling, machine learning, and Generative AI techniques to solve business challenges.·       Strong business partnering skills with the ability to translate complex business requirements into actionable insights and strategic recommendations. Qualifications·       Bachelor's or Master's degree in Data Science, Analytics, Computer Science, Engineering, Business Analytics, or related field.·       3-7 years of experience in Analytics Engineering, Business Intelligence, Data Science, or Applied AI.·       Advanced Tableau expertise includes dashboard development, performance optimization, LOD expressions, data modeling, Tableau Server/Tableau Cloud, and governance.·       Strong experience with Amazon Redshift, SQL optimization, dimensional modeling, and analytical data architecture.·       Strong Python programming skills for analytics, forecasting, machine learning, and AI applications.·       Experience developing executive dashboards, KPI frameworks, and enterprise reporting solutions.·       Familiarity with Generative AI, conversational analytics, and machine learning concepts.·       Manufacturing, EV, Automotive, Supply Chain, Finance, Sales, Marketing, HR, or Connected Vehicle Analytics experience strongly preferred.·       Excellent communication, stakeholder management, and business partnering skills.",
+      "apply_options": [
+        {
+          "title": "Deloitte South Asia Careers",
+          "link": "https://southasiacareers.deloitte.com/job/Hyderabad-Senior-Associate-Data-Analyst-Hyderabad-Engineering-as-a-Service-Operate/59799144/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/executive-manager-delivery-manager-hyderabad-engineering-as-a-service-operate-deloitte-JV_KO0,77_KE78,86.htm?jl=1010241784203&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/s8alNva9QWvO-wvQjB4HNitJWjwymgJS_Lnnvglt7jvw7sRjgS8PIg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-associate-sap-abap-hyderabad-engineering-as-a-service-operate-deloitte-hyderabad-telangana--t7xk-821636349?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/senior-associate-guidewire-integration-hyderabad-engineering-as-a-service-operate-deloitte-JV_KO0,81_KE82,90.htm?jl=1010207812498&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/lead-associate-guidewire-ba-hyderabad-engineering-as-a-service-operate-deloitte-intshyderabad-3-to-5-years-experience-d38ad6d3-e120-454d-be6b-dc94ddda29ec?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mployee.me",
+          "link": "https://www.mployee.me/jobs/view/senior-associate-data-analyst-hyderabad-engineering-as-a-service-operate-in-hyderabad-at-deloitte--jid--NHdmh0rLoMmtGHHr9aDYcEMO_AQf6h13NoYzdjZo8331ELZaPMuAZwNvBAx/s1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/7297248527241969664?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQXNzb2NpYXRlIHwgRGF0YSBBbmFseXN0IHwgSHlkZXJhYmFkIHwgRW5naW5lZXJpbmcgYXMgYSBTZXJ2aWNlLyBPcGVyYXRlIiwiY29tcGFueV9uYW1lIjoiZGVsb2l0dGUiLCJodGlkb2NpZCI6IkEtbGNnTHFCcTRiNVJndDhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdsYVYwZHBZMnBTUjNsV1puSnZkR2xDV25WbFFuazBVVXhZUVcxRlZuRndPWE50WmtwbVFXOXZjak5vYVRSYU1sUmtiMWhSV25WcGFIVmxlR05VVUhBek0waFZOa05SZUZsc1UxRk9lVWRGYWt4UFduUmhTVzV0TkRjdFUyaFhkWGhEWlc5SWRrUlNRVkJxWVhoeGJVeHVaSFJ4VUZsb1RVUnRRVGRoTlhGNFNGcHNWV2NTRjIxelZFbGhiMkZNUW5WNmN6ZGZWVkEzTkZOak5rRnpHaUpCUkhOeU9XWlRkVXRHYWxkSVVXeFRSVmRqVGtwWk5VdGFaMlZZUkRkd1preFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJBLWxjZ0xxQnE0YjVSZ3Q4QUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMmQwVUVKYVZUbGFUVE15U2tWSE0xTmxkVVV5YlV3M2RWSnJRMFpFZGxGV2JsQmpkbmhEUVRWbFJtWlFSMmhXVmt0alVFeGlWMWxxTm10VU4xSlRlblpFUW1WdlduaENZMWN0ZEVSVGNHeEZSalphVURaV1lrNU9UMXA1YkZCamQybDRibGswTTFKUVVEUllUUzFDTFVaTVFXUXdRVlpYYjFNd1FTMTRibVJvYjBZMGFGUlRaemRUVVZwc2FURlZka1pXTkVNMVkxaFlURE15YkRaaFMyaEJTMHBhV21nd1NrWnVOVEU1ZUVKV1UyOWpiREpJV0dsM2FsOXBUSEI0ZDBwSFRrVnZlRkJFZG5oSFF6ZFFZekY1V1djMGMxUlJiemxwYzFwZmVtMVJjbXRVY2tNNWRYQXdkR2x2WlRoelJHcHZha1JrTTJkTGVrNUtla1YxU0hVdGFXTnpSVFJ1WW1wNU1uWTRMVkl4ZUhCeFdIZFVYM2RvVVZOUlVqQklTRkZDTFhWUVJsZHVaMnQzV1ZOMk9YSjZkMk5yWDBSb1RVbEJlalJ0V1hkcU0wTnhjbEprT1ROUU9HWnVTbU5KUzFwalUwZEdSR2RwVG5kcVZrTTVZalI0Umt0aVZWaHBSbXBHUm5OTWFqRkhSRnA1UzNWVVVWQlpVVGwyTWw5WUxVOU5TMUZ2VEhOU1NtSnRiME5QUWpodGNHSlJiWEZuWjBkM05tNWZSMUJPYlZsc1ZXbGlMVFU1UkVwUmIwcGtNbFJqUzA5WFVWVktYM0ZFTUVwUGFrNUVYM0JTWVY5VFMyVXliMFJsVW1WTGIwMXBhM0ZHUjB0WVptY1NGMjF6VkVsaGIyRk1RblY2Y3pkZlZWQTNORk5qTmtGekdpSkJSSE55T1daVFMxTnZkRmcyUjJveFoxbGhhbE5PVjJOVmRHeFlkVk13TFRkQiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMmQwVUVKYVZUbGFUVE15U2tWSE0xTmxkVVV5YlV3M2RWSnJRMFpFZGxGV2JsQmpkbmhEUVRWbFJtWlFSMmhXVmt0alVFeGlWMWxxTm10VU4xSlRlblpFUW1WdlduaENZMWN0ZEVSVGNHeEZSalphVURaV1lrNU9UMXA1YkZCamQybDRibGswTTFKUVVEUllUUzFDTFVaTVFXUXdRVlpYYjFNd1FTMTRibVJvYjBZMGFGUlRaemRUVVZwc2FURlZka1pXTkVNMVkxaFlURE15YkRaaFMyaEJTMHBhV21nd1NrWnVOVEU1ZUVKV1UyOWpiREpJV0dsM2FsOXBUSEI0ZDBwSFRrVnZlRkJFZG5oSFF6ZFFZekY1V1djMGMxUlJiemxwYzFwZmVtMVJjbXRVY2tNNWRYQXdkR2x2WlRoelJHcHZha1JrTTJkTGVrNUtla1YxU0hVdGFXTnpSVFJ1WW1wNU1uWTRMVkl4ZUhCeFdIZFVYM2RvVVZOUlVqQklTRkZDTFhWUVJsZHVaMnQzV1ZOMk9YSjZkMk5yWDBSb1RVbEJlalJ0V1hkcU0wTnhjbEprT1ROUU9HWnVTbU5KUzFwalUwZEdSR2RwVG5kcVZrTTVZalI0Umt0aVZWaHBSbXBHUm5OTWFqRkhSRnA1UzNWVVVWQlpVVGwyTWw5WUxVOU5TMUZ2VEhOU1NtSnRiME5QUWpodGNHSlJiWEZuWjBkM05tNWZSMUJPYlZsc1ZXbGlMVFU1UkVwUmIwcGtNbFJqUzA5WFVWVktYM0ZFTUVwUGFrNUVYM0JTWVY5VFMyVXliMFJsVW1WTGIwMXBhM0ZHUjB0WVptY1NGMjF6VkVsaGIyRk1RblY2Y3pkZlZWQTNORk5qTmtGekdpSkJSSE55T1daVFMxTnZkRmcyUjJveFoxbGhhbE5PVjJOVmRHeFlkVk13TFRkQiIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst"
+  },
+  "_retrieved_at": "2026-10-09 10:40:20 UTC"
+}

@@ -1,0 +1,445 @@
+{
+  "search_metadata": {
+    "id": "6ac8c49b2c2bb41f30a85108",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1F2J9YPKdq6uHo1ar-FgcxgYaoCaFKAyFBR1Q_PWLn4/6ac8c49b2c2bb41f30a85108.json",
+    "markdown_endpoint": "https://serpapi.com/searches/1F2J9YPKdq6uHo1ar-FgcxgYaoCaFKAyFBR1Q_PWLn4/6ac8c49b2c2bb41f30a85108.md",
+    "created_at": "2026-10-09 10:40:27 UTC",
+    "processed_at": "2026-10-09 10:40:27 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst+fresher&uule=w+CAIQICIZSHlkZXJhYmFkLFRlbGFuZ2FuYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/1F2J9YPKdq6uHo1ar-FgcxgYaoCaFKAyFBR1Q_PWLn4/6ac8c49b2c2bb41f30a85108.html",
+    "total_time_taken": 0.78
+  },
+  "search_parameters": {
+    "q": "Data Analyst fresher",
+    "engine": "google_jobs",
+    "location_requested": "Hyderabad, India",
+    "location_used": "Hyderabad,Telangana,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw",
+        "q": "Data Analyst fresher remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A",
+            "q": "Data Analyst fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ",
+            "q": "Data Analyst fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA",
+            "q": "Data Analyst fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg",
+            "q": "Data Analyst fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A",
+            "q": "Data Analyst fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ",
+            "q": "Data Analyst fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA",
+            "q": "Data Analyst fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg",
+            "q": "Data Analyst fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0",
+            "q": "Data Analyst fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw",
+            "q": "Data Analyst fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8",
+            "q": "Data Analyst fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A",
+            "q": "Data Analyst fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0",
+            "q": "Data Analyst fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw",
+            "q": "Data Analyst fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8",
+            "q": "Data Analyst fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A",
+            "q": "Data Analyst fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnvBcKU-JsyBvuquEOZIAi9-kNXfGA:1791542427913&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A&udm=8&sa=X&ved=2ahUKEwib24_Q36yXAxUAmO4BHWpzO8cQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Fresher hiring for Data Analyst",
+      "company_name": "Telus Digital Experience",
+      "location": "Anywhere",
+      "via": "Placement India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=hOlUkrD_y8so__3UAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLTQrCMBBAYdx6BFezFmmKIIiuhPpzAPdlmo5JJE7CTIR25x08hdfyJNbNW31v_pnNtych9STggwR2cEsCDRaEA2MctcD39YZ76kAJxXpIDOeUXKTF3peSdWeMaqycFizBVjY9TGLq0mCmSf9p1aNQjlioXW_qocrslvWV4lOhCS4UjHAcMkkgtgSB4TL2JNhhv4KJITtk_AFbzIE8rAAAAA&shmds=v1_ARwrE211kQPRem8ws5T-njjXYoqzLj6PhyhoI4acjbkYKyVPNg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=hOlUkrD_y8so__3UAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c49b2c2bb41f30a85108/images/3g_IY_Eu9CpsL03WRt1u5VHqS6l8wLXsAe9VE7ZyK0M.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Work from home",
+        "Part-time"
+      ],
+      "source_link": "https://www.placementindia.com/job-detail/data-analyst-in-telus-digital-experience-at-hyderabad-1466492.htm",
+      "job_title": "Fresher hiring for Data Analyst",
+      "description": "Online Data Analyst - Urdu Speakers in India Research, evaluate data & improve digital maps from home. Part-time freelance opportunity - no experience required! Click here and apply: \n\nExperience\n\nFresher\n\nNo. of Openings\n\n100\n\nEducation\n\n10th Pass\n\nRole\n\nData Analyst\n\nIndustry Type\n\nRecruitment Consulting / Staffing Services\n\nGender\n\n[ Male / Female ]\n\nJob Country\n\nIndia\n\nType of Job\n\nPart Time\n\nWork Location Type\n\nWork from Home",
+      "apply_options": [
+        {
+          "title": "Placement India",
+          "link": "https://www.placementindia.com/job-detail/data-analyst-in-telus-digital-experience-at-hyderabad-1466492.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8727247649243136000?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcmVzaGVyIGhpcmluZyBmb3IgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiVGVsdXMgRGlnaXRhbCBFeHBlcmllbmNlIiwiaHRpZG9jaWQiOiJoT2xVa3JEX3k4c29fXzNVQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWWTVWak0zYW5oclkyZEpXRU5GZEZCdllsbHBhRlJYUmxwNWFXdDNUMDkwTlcxQ2NTMVdTbVJzYWpaV1l6UTVjRGg2WVhwQ1JFZ3RPV3ROUTFaWVNHWldZblJwVDE5RE5VeDJUMHRwYzJjME5VUmFVVU40Y1dWd2IzbE5hbTQ1Y0U1alUxaFdjVFYwV0ZSdmNXVlhaRk5WWmxoUldGcHZURTlsU0d0RFExcHFZVXhxVG00U0YyMDRWRWxoZEhWb1RqUkRkM1Z5T0ZBMmRXSjBkVkYzR2lKQlJITnlPV1pTT1d0amVqSjFXV2N0TVRac1dFOTFaRnBSTFZobE4xcFRjbE5uIiwiZmN2IjoiMyIsImZjX2lkIjoiaE9sVWtyRF95OHNvX18zVUFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst Fresher , Data Analytics (Hyderabad)",
+      "company_name": "Nova Technologies",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=_ACPmNxwE-Y2gAb-AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0WNMQrCQBBFsc0RrKY0ErIi2GgliIqFlX2YbIbdyDoTdhZJOu_gVTyRJzE22vziPR4_e02y0w4TwpYxDJpgH0k9RSjgj1NrFWbHoaGINTY5vB9PuEoNShitB2E4iLhA041PqdO1MaqhdJpwTEsrNyNMtfRmjPQ7lXqM1AVMVC1Xi77s2M3zs9wRLmQ9SxDXkkLL8LstRhWQHTJ-AHBIjuK3AAAA&shmds=v1_ARwrE21bOr0Mds3Llgm-tsudL_AKdpE9nRqBJhv4JQKcBaVoEQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=_ACPmNxwE-Y2gAb-AAAAAA%3D%3D",
+      "extensions": [
+        "17 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/data-analyst-fresher-data-analytics-hyderabad/nova-technologies/19579455",
+      "job_title": "Data Analyst Fresher , Data Analytics (Hyderabad)",
+      "description": "Job description\n\nWe are looking for Data Analyst Freshers , Data Analytics fresher to join our growing team. This is an excellent chance for recent graduates who are passionate about data, problem-solving, and business insights.\n\nJob Role- Data Analyst Fresher\n\nExperience: 0- 1 Year  \nEmployment Type: Full-Time\n\nKey Responsibilities:\n\n- Collect, clean, and analyze structured and unstructured data\n- Interpret data trends and patterns to generate actionable insights\n- Create reports, dashboards, and data visualizations\n- Support business teams with analytical requirements\n- Perform data validation and quality checks  \n\nSkills Required:\n\n- Basic computer knowledge\n- Basic Excel knowledge (preferred)\n- Good communication skills\n- Basic understanding of MS Excel\n- Basic knowledge of SQL is an added advantage\n- Familiarity with Power BI / Tableau\n\nKey Skills:  \nData Entry, Excel, Advanced Excel, MIS Reporting, Back Office Executive, Backend Operations, Computer Operator, Data Management, Reporting, Operations Executive, Microsoft Excel (Advanced Excel, Pivot Tables, VLOOKUP, Power Query) Data Analysis , Data Cleaning, Data Visualization, Exploratory Data Analysis (EDA),Statistical Analysis, Data Interpretation, SQL (MySQL / PostgreSQL / SQL Server),Python, Power BI , Tableau .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst-fresher-data-analytics-hyderabad/nova-technologies/19579455?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://in.talent.com/view?id=640659276380832683&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/335407729/data-analyst-iii-perception-analytics-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgRnJlc2hlciAsIERhdGEgQW5hbHl0aWNzIChIeWRlcmFiYWQpIiwiY29tcGFueV9uYW1lIjoiTm92YSBUZWNobm9sb2dpZXMiLCJodGlkb2NpZCI6Il9BQ1BtTnh3RS1ZMmdBYi1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU3pSSmVrRXdjbGRhU0RNdE5sWktWVmx5VjI0M01ubDJhRnBUTldab2IzWndRVlpTYjNWbVozaGtVWGQzT0d4S2JUSnFjVUZDVmpoWFZFa3pla1ZwUVdWWVpHcG5jbGw0Vlc1dlgwb3hYMHB3TWxodE1HNUtiV2Q1VGpOTVgxUmZlazFaUmpST05taE9WVVZSZDBSalpuSkRjWGh0VFZKQ1RYbzNaWHB6UjFnNWMxOUdXa1FTRjIwNFZFbGhkSFZvVGpSRGQzVnlPRkEyZFdKMGRWRjNHaUpCUkhOeU9XWlRibXg0UlZGclVqWkdabXhDVnpBMlVEaENhMnQ2UW05R2NHSkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJfQUNQbU54d0UtWTJnQWItQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Online For Data Analyst  (Freshers)",
+      "company_name": "JobAssist",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=gl7Lv25LdbwWbPC9AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVx9BKdzU5FGBBd1KUgVFxf3cmmPJBLvSi5Du_kO7j6cT2Jd_u3jn34m0-ONY2CCShKcMCOUjHHQDLCoEqmnpEv4vt7wEAtKmBoPwnAWcZFmB59zp3tjVGPhNGMOTdHI0wiTld6MSP-p1WOiLmKmervb9EXHbjW_ii1VwzgLDJehpYQW2zXcKSI7ZPwBtBSWhKEAAAA&shmds=v1_ARwrE20E9HUDbw4j2OrsGs_cvClzDkXWGHOYIPvkZRFfwmdxOA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=gl7Lv25LdbwWbPC9AAAAAA%3D%3D",
+      "extensions": [
+        "29 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/online-for-data-analyst-jobs-freshers/jobassist/19549352",
+      "job_title": "Online For Data Analyst  (Freshers)",
+      "description": "We are looking for a Data Analyst to join our team in Hyderabad. The candidate should have a keen interest in data analysis and a desire to learn. This role is suitable for those with 0 to 5 years of experience and only requires completion of the 12th grade.Key Responsibilities:- Data Collection: Gather data from various sources to ensure that the analysis is based on reliable and accurate information.- Data Cleaning: Identify and correct errors in data sets to maintain high-quality information for analysis.- Data Analysis: Analyze data using statistical methods and tools to find trends, patterns, and insights that can aid decision-making.- Reporting: Create clear and detailed reports and presentations that summarize findings and propose actionable solutions to help improve business operations.- Collaboration: Work closely with other teams to understand their data needs and provide support in making data-driven decisions.Required Skills and Expectations:Candidates should demonstrate strong analytical skills and have a basic understanding of statistical concepts. Familiarity with Excel or similar tools for data management is essential. A basic understanding of data visualization software, such as Tableau or Power BI, is a plus. Strong communication skills are necessary to present findings clearly and effectively to non-technical stakeholders. Candidates should be proactive, detail-oriented, and eager to learn and adapt in a fast-paced work environment.\n\nExperience\n\n0 - 5 Years\n\nNo. of Openings\n\n10\n\nEducation\n\n12th Pass\n\nRole\n\nData Analyst\n\nIndustry Type\n\nIT Services & Consulting\n\nGender\n\n[ Male / Female ]\n\nJob Country\n\nIndia\n\nType of Job\n\nFull Time\n\nWork Location Type\n\nWork from Office .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/online-for-data-analyst-jobs-freshers/jobassist/19549352?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJPbmxpbmUgRm9yIERhdGEgQW5hbHlzdCAgKEZyZXNoZXJzKSIsImNvbXBhbnlfbmFtZSI6IkpvYkFzc2lzdCIsImh0aWRvY2lkIjoiZ2w3THYyNUxkYndXYlBDOUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpTSGxrWlhKaFltRmtMRlJsYkdGdVoyRnVZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMEY0U21OdFkwMW1UVlpwVFdWMlExSTFaV3AxU0RSU2VVWjBhVFpJVVdOMU5VaHRkbkp5VG5JM1JYWk5ibWhOVURNd1N6aFBWMmhaVEcxSmJsOTRTblJJUWw5bmRYazNja0pZYUVoUVduZzVOakJpV1RKTlVEUlJVMUJTYVhBeWF6UnhiRmRVYVVFMFUyTkVOWEE0TUdNMlpUaDRVV3hZUTBWTFpYTnlNRnBEZFdWR1drMFNGMjA0VkVsaGRIVm9UalJEZDNWeU9GQTJkV0owZFZGM0dpSkJSSE55T1daVU0yVjJXR04yTlRSQmNqSmFSMVJ6UjNSWmFWRlRXbFpLWkdabiIsImZjdiI6IjMiLCJmY19pZCI6ImdsN0x2MjVMZGJ3V2JQQzlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst - Full Time",
+      "company_name": "SogetiLAB",
+      "location": "Hyderabad, Telangana",
+      "via": "Placement India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=KuAdP5IcKMTkKRqtAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ6CUAwA0LhyBKe6GuWriYtOGKMObrKTAs3nm_JLaE1g8w7c0JOoy9teMs2S7RkNIYvIoxqs4fJihjy0BJ_3BE8pQQn7qgGJcBXxTPNjY9bpwTlVTr0aWqjSSlonkUoZ3C_pn0Ib7KljNCp2-82QdtEvFw_xZOGenSBEuI019VhivYKcGKPHiF-pR0u5lgAAAA&shmds=v1_ARwrE2257J_00-dtc2XFdJkfN0lISO7Rq_mkiPNdDz4G8X2BtQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=KuAdP5IcKMTkKRqtAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c49b2c2bb41f30a85108/images/pUHPwONgA17WnmcQwsQDIsKVAbeUaUqaBFOkFus0ons.jpeg",
+      "extensions": [
+        "₹4L–₹15L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.placementindia.com/job-detail/data-analyst-in-sogetilab-at-hyderabad-1453671.htm",
+      "job_title": "Data Analyst - Full Time",
+      "description": "We are looking for a Data Analyst to join our team in Hyderabad. In this role, you will be responsible for collecting, analyzing, and interpreting data to help the organization make better decisions.Key Responsibilities:- Data Collection: Gather relevant data from various sources to ensure you have the necessary information for analysis.- Data Cleaning: Identify and correct errors in the data to maintain accuracy and reliability.- Data Analysis: Use statistical methods and tools to analyze data, uncovering trends, patterns, and insights that can support business strategies.- Reporting: Prepare detailed reports and visualizations to communicate findings effectively to stakeholders, ensuring they understand complex data.- Collaboration: Work with different teams to understand their data needs and provide analytical support to improve their operations and decision-making.- Continuous Learning: Stay updated with the latest data analysis tools and techniques to enhance your skills and contribute effectively to the team.Required Skills and Expectations:Candidates should possess strong analytical skills with a basic understanding of data analysis tools such as Excel, SQL, or Python. Familiarity with data visualization tools like Tableau or Power BI is a plus. Good problem-solving abilities and attention to detail are essential, as well as effective communication skills to present findings clearly. We welcome applicants with varying experience levels, including fresh graduates eager to learn and grow in the field of data analysis.\n\nExperience\n\n0 - 6 Years\n\nNo. of Openings\n\n50\n\nEducation\n\nGraduate\n\nRole\n\nData Analyst\n\nIndustry Type\n\nIT Services & Consulting\n\nGender\n\n[ Male / Female ]\n\nJob Country\n\nIndia\n\nType of Job\n\nFull Time\n\nWork Location Type\n\nWork from Office",
+      "apply_options": [
+        {
+          "title": "Placement India",
+          "link": "https://www.placementindia.com/job-detail/data-analyst-in-sogetilab-at-hyderabad-1453671.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBGdWxsIFRpbWUiLCJjb21wYW55X25hbWUiOiJTb2dldGlMQUIiLCJodGlkb2NpZCI6Ikt1QWRQNUljS01Ua0tScXRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xoaFVEYzRWRk5JUlZBM1prVlVRM05zTkROdmFIb3pOV3RhYVdwMFNua3RWMkpRVWxWUldVTnlOVzVPZDFCSVRYQlhTR015YWw5U01uTTJaVloyYTJKWFRXd3pkRWd5YkVkT1ZETTVaa2xaUldORmRVMHRRbVJKUVVWRmNXRnNibDl1TTNoQldGaFplSFExWW1FMGRVMTJNalZ6VDFCa2FqZHlPVXA2TmtoZlMzQmtPRzhTRjIwNFZFbGhkSFZvVGpSRGQzVnlPRkEyZFdKMGRWRjNHaUpCUkhOeU9XWlRaR1JyTVdkalJtRlpZM2RXYjJnd1ptRktURU5qVmtaeFdreFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJLdUFkUDVJY0tNVGtLUnF0QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Online For Data Analyst Jobs (Freshers)",
+      "company_name": "JobAssist",
+      "location": "Hyderabad, Telangana",
+      "via": "Placement India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=vF9VhEKBD0s93E1_AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBBAUWw9gtXYqUhWBBttDEgUGxv7MJsMuyvrTNjZIum8gzfwaJ7E2Pzu86afyfR44xiYoJIEJ8wIJWMcNMNVrMKiSqSeki7h-3rDQywoYWo8CMNZxEWaHXzOne6NUY2F04w5NEUjTyNMVnozTvpPrR4TdREz1dvdpi86dqv5yJSqYQQDw2VoKaHFdg13isgOGX-x15pOpQAAAA&shmds=v1_ARwrE20ziVg7d8I3LzUH4nim-diO3DXewb1dAAsNOJ7iDjFIEQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=vF9VhEKBD0s93E1_AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c49b2c2bb41f30a85108/images/BCCluzTKOpMs-a4ZThCPrYIojzTthp6Qhz7uwhuLqZo.jpeg",
+      "extensions": [
+        "₹3L–₹10L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.placementindia.com/job-detail/data-analyst-in-jobassist-at-hyderabad-1432394.htm",
+      "job_title": "Online For Data Analyst Jobs (Freshers)",
+      "description": "We are looking for a Data Analyst to join our team in Hyderabad. The candidate should have a keen interest in data analysis and a desire to learn. This role is suitable for those with 0 to 5 years of experience and only requires completion of the 12th grade.Key Responsibilities:- Data Collection: Gather data from various sources to ensure that the analysis is based on reliable and accurate information.- Data Cleaning: Identify and correct errors in data sets to maintain high-quality information for analysis.- Data Analysis: Analyze data using statistical methods and tools to find trends, patterns, and insights that can aid decision-making.- Reporting: Create clear and detailed reports and presentations that summarize findings and propose actionable solutions to help improve business operations.- Collaboration: Work closely with other teams to understand their data needs and provide support in making data-driven decisions.Required Skills and Expectations:Candidates should demonstrate strong analytical skills and have a basic understanding of statistical concepts. Familiarity with Excel or similar tools for data management is essential. A basic understanding of data visualization software, such as Tableau or Power BI, is a plus. Strong communication skills are necessary to present findings clearly and effectively to non-technical stakeholders. Candidates should be proactive, detail-oriented, and eager to learn and adapt in a fast-paced work environment.\n\nExperience\n\n0 - 5 Years\n\nNo. of Openings\n\n10\n\nEducation\n\n12th Pass\n\nRole\n\nData Analyst\n\nIndustry Type\n\nIT Services & Consulting\n\nGender\n\n[ Male / Female ]\n\nJob Country\n\nIndia\n\nType of Job\n\nFull Time\n\nWork Location Type\n\nWork from Office",
+      "apply_options": [
+        {
+          "title": "Placement India",
+          "link": "https://www.placementindia.com/job-detail/data-analyst-in-jobassist-at-hyderabad-1432394.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJPbmxpbmUgRm9yIERhdGEgQW5hbHlzdCBKb2JzIChGcmVzaGVycykiLCJjb21wYW55X25hbWUiOiJKb2JBc3Npc3QiLCJodGlkb2NpZCI6InZGOVZoRUtCRDBzOTNFMV9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNkVlVFdDZOWGRZVDA1M1VFa3dUMFJ5VW5wRFozbDVZamRKUm5SNmJqWmxMVlJuUkc1SmJWOWhTbXRpTFMwdFkwUk1PVWg1VmpJdFNuZG5ZamR5WWxScVMzSTViR1paWWpkNVpWVmhRWFJEUVdWV2FVNXJkekZhYXpBdE9HUm5aek42VFRablpFUktiMUkwZFVkbGIyZ3lUVkE0TFZwRGJHMTBNakI2U25aQlVUVk1VVXNTRjIwNFZFbGhkSFZvVGpSRGQzVnlPRkEyZFdKMGRWRjNHaUpCUkhOeU9XWlJlRGxmTnpCaVlsSk5TWHBTV0RkdFZUZHFZVzVuZDJ0QlgyWm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJ2RjlWaEVLQkQwczkzRTFfQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst and Operations [Data]",
+      "company_name": "Orbital",
+      "location": "Hyderabad, Telangana",
+      "via": "Cutshort",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=-ZmNLElhPQlCRQukAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TbNxaJCeCjVaCoF0aO5GwlyyXyLl73G6RdP7B0t_5EpNmmmGY4rsojmc0hBNjHNUAuYUqUUbrhRXus3zA7_2Bp3hQwtx0IAwXkRBpeezMkh6cU41lUJuypmzk5YTJy-CmSGfU2mGmFNGo3u23Q5k4rFdV9r1hhJ7hOrbT1GO7gRtF5ICMf4_LNO6eAAAA&shmds=v1_ARwrE22HsKMDxSJ8J2aQDjTzoeVwW0010qV4yjlhhUaNe-DeEA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=-ZmNLElhPQlCRQukAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAG1BMVEXm5ub____l5eXp6ens7Oz7-_v19fXx8fH4-Pin8JYcAAABK0lEQVRIie2U227EIAxEwTY2___F9QVCqu16SdWHPjBSJCxxGDxYKeXo6F8J4JcYcXmOKtZqrfKQDKyJfvgADayj9si18m6rN0wL1DXtkAuDKIG03MTYMa5YKhdfce45MLNBbc7AKJE-Y-JYr3WCnk5mGBhYU4FdoLkmwuHm7z63yyiyOUB3k0l1svuNZvMB0o0T6zIGHGJkU9CnxNQEwwwK2NIWmBgG1uwNPVhpmqa7Y56qxxEGerkWz3A1nIEWh1vN11hgPjnLaoF9A7xZRbDkhxWS3jIQllXjGWaJltNUYRnFZiTFWQgLpKmCGgWjM8Td_Wmc1no6AN4P3_vEnVThnucL2BPwBTNwHpY6yhCZ0HSlmoSDa_vPenDR73r3i4RPenvXo6OjP9EXyg0HVQ-pUoAAAAAASUVORK5CYII.png",
+      "extensions": [
+        "₹3L–₹10L a year",
+        "Full–time"
+      ],
+      "source_link": "https://cutshort.io/job/Data-Analyst-and-Operations-Data-Hyderabad-Orbital-mwar36eS",
+      "job_title": "Data Analyst and Operations [Data]",
+      "description": "0 to 3 years of experience (or equivalent understanding of data analysis & operations)Strong critical thinking mindset and willingness to do whatever it takes to complete the jobStrong communication skills in EnglishFamiliarity with Microsoft Excel, Google Spreadsheets or equivalent tool (VLOOKUPS, formulas, macros)Willingness and interest in learning new tech/processes (Python, Jupyter, Airflow, etc.)This role represents 3 vacancies. Willingness and commitment to learn is most important. \n\nNo pre-existing Python or other data science language experience required.",
+      "apply_options": [
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Data-Analyst-and-Operations-Data-Hyderabad-Orbital-mwar36eS?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/4397462772?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/9155169878192160768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NextRaise.ai",
+          "link": "https://nextraise.ai/jobs/data-analyst-and-operations-data-at-orbital-2720567aea93?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgYW5kIE9wZXJhdGlvbnMgW0RhdGFdIiwiY29tcGFueV9uYW1lIjoiT3JiaXRhbCIsImh0aWRvY2lkIjoiLVptTkxFbGhQUWxDUlF1a0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpTSGxrWlhKaFltRmtMRlJsYkdGdVoyRnVZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTaTFsTlVscWFWQmxNVXQyTkRseE5rNWtWa3BwT1VGT1ZrWTBPVnBMYkhCd1kyaFFiRFJ3V1d4UmQwcHBRMkpIVm5ZMVpqWkhXVGhtT0hoTU5taEpXRzF6T1hacGNrMVdiRlJCVjFGalpXUmpiemxJWlhGYU9GOUxkWGwxTmtSa0xVOXBSRkpTTjFocmEyWnROMFZHTkZobE0wNXBibVpDVEhGblNYZDNhazFpUjE5b1psa1NGMjA0VkVsaGRIVm9UalJEZDNWeU9GQTJkV0owZFZGM0dpSkJSSE55T1daUlpHTnRkMlpNUkcxclJrVlJWVWxhZGtWdVUzRTRXbEJDU2tsMyIsImZjdiI6IjMiLCJmY19pZCI6Ii1abU5MRWxoUFFsQ1JRdWtBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analytics Trainee",
+      "company_name": "Gigafactor Solutions",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=FnujwmK75efrUqkyAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCQAwAUFz7CU6ZpfREcNFJEOpu95Je4_XkTMolQrv5D65-nV9iXd72is-qcGc0hBNjmi16hSZjZCL4vt5wlw6UMPsBhKEWCYnWx8Fs1INzqqkKari0ysvDCVMnk1uS_ml1wExjQqN2t99O1chhU9Yx4A29SYarpKdFYYXIcJl7ythhX0JDCTkg4w95kluUnwAAAA&shmds=v1_ARwrE21cmsNiMkm0M1QoaN_PXjJdXAnWCPLcg5AwQ8Z8nhd_KA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=FnujwmK75efrUqkyAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/data-analytics-trainee/gigafactor-solutions/19449124",
+      "job_title": "Data Analytics Trainee",
+      "description": "The role of Data Analytics Visualization Trainee is essential to the organization as it involves supporting the analysis and visualization of data. The trainee will play a crucial role in interpreting data, identifying trends, and creating visual representations to communicate key insights to stakeholders and decision-makers.\n\n\nThis is a Remote position.\nKey ResponsibilitiesWork with data analysts to collect and interpret data\n\n\nCreate visualizations and dashboards to present data insights\n\n\nAssist in developing and maintaining data visualization tools\n\n\nConduct data quality checks and cleansing\n\n\nAssist in identifying patterns and trends in complex data sets\n\n\nSupport the implementation of data analysis and visualization best practices\n\n\nParticipate in training sessions to enhance data analytics and visualization skills\n\n\nCollaborate with cross-functional teams to support data-driven decision-making\n\n\nAssist in creating reports and presentations for internal and external stakeholders\n\n\nStay updated with the latest data visualization tools and techniques\n\n\nRequired QualificationsBachelors degree in Mathematics, Statistics, Computer Science, or a related field\n\n\nBasic understanding of data analysis and visualization concepts\n\n\nFamiliarity with data visualization tools such as Tableau, Power BI, or QlikView\n\n\nProficiency in SQL and database management\n\n\nKnowledge of programming languages such as Python or R\n\n\nStrong analytical and problem-solving skills\n\n\nExcellent verbal and written communication skills\n\n\nAbility to work well in a team environment\n\n\nDetail-oriented with strong attention to accuracy\n\n\nSelf-motivated and eager to learn new technologies .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analytics-trainee/gigafactor-solutions/19449124?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/primefactorx-data-analytics-trainee-hyderabad-telangana-india-0-to-1-years-469794?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5dGljcyBUcmFpbmVlIiwiY29tcGFueV9uYW1lIjoiR2lnYWZhY3RvciBTb2x1dGlvbnMiLCJodGlkb2NpZCI6IkZudWp3bUs3NWVmclVxa3lBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNOQlZHMWlWRzF3TFVod1R6UlpaRGRWWVV4RU9Fc3pYMmxyV0hGa1pETlNkRlE1WjFCelkzSjBPRk4yVDNaWGFIbGlUSE5vZFV4R1N6bElSbGxQVDBrdFZESk9jVFE1Y1U1UVoycFNNVGwxUkc5bFUyTkhhMjFRVkdaRVlYQjBaa2h5UjNkcGF6QjFRelpGWjFCaFRXVk9Na3BUT0hKaVh6WlNWbU5mZFRSQlZqUllUMmtTRjIwNFZFbGhkSFZvVGpSRGQzVnlPRkEyZFdKMGRWRjNHaUpCUkhOeU9XWlRXVkp5TjJka1gyVlRYMUJJWjJrM1QxZFZjRFJwZEVORU0yZG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJGbnVqd21LNzVlZnJVcWt5QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Hiring Data Analytics or Analyst Trainee",
+      "company_name": "Bytemetrics Solutions",
+      "location": "Hyderabad, Telangana",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=zJXnS-6j4od_PulTAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNMQ6CQBBFY8sRrKY2CsbERiuMifTSkwEmy5plhuyMCXTewYN4J08ixOYnr3jvJ59Vkhc-enZwRUPIGcNkvlGQ-Ac1KCN6JoLv6w0PqUEJY9OBMNxEXKD1uTMb9JRlqiF1ajgX0kb6TJhqGbNZ0mUq7TDSENCoOhz3Yzqw2-wuk1FPFpfXu4SneWEFz1BMLUWssd1CSQHZIeMPJtI5RbIAAAA&shmds=v1_ARwrE23NT_Cg6B5IFgw-1iLdqnDFC9X10ji6C-UPKybnT27R6Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=zJXnS-6j4od_PulTAAAAAA%3D%3D",
+      "extensions": [
+        "₹1L–₹50L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/bytemetrics-solutions-hiring-data-analytics-or-analyst-trainee-hyderabad-telangana-india-0-to-1-years-484247",
+      "job_title": "Hiring Data Analytics or Analyst Trainee",
+      "description": "Skills:Data Analysis, Statistical Analysis, SQL, Excel, Data Visualization, Critical Thinking, Problem Solving, Communication Skills,Company OverviewBytemetrics Solutions is dedicated to leveraging technology to address and solve business challenges. From enterprise software solutions to bespoke web applications, digital marketing, and eCommerce platforms, we deliver high-quality projects promptly and within budget. Headquartered in Bengaluru, Karnataka, our team of 11-50 employees is part of the dynamic Technology, Information, and Internet industry.It is very important to fill the form. You will receive Form when you will apply as well as fill your mail Id.This is a Remote PositionJob OverviewJoin Bytemetrics Solutions as a Data Analytics or Analyst Trainee. This entry-level position is ideal for freshers with 0-1 years of experience. You will have the chance to work remotely from various locations including Bengaluru, Pune, Hyderabad, Coimbatore, Lucknow, Mumbai, and Visakhapatnam. This full-time internship offers an excellent opportunity to begin a career in data analytics, offering exposure to diverse projects and insights.Qualifications And SkillsComprehensive knowledge of data analysis techniques and practices is essential (Mandatory skill).Proficiency in data visualization tools and methodologies is required for this role (Mandatory skill).Exceptional communication skills to effectively convey insights and complex data narratives (Mandatory skill).Strong statistical analysis capabilities to interpret complex datasets and derive actionable insights.Experience with SQL to query databases and manage large datasets efficiently is highly desirable.Advanced skills in Excel to perform data analysis, including pivot tables and advanced functions.Analytical and critical thinking ability to assess information and predict outcomes effectively.Problem-solving skills to identify data trends and anomalies, recommending solutions strategically.Roles And ResponsibilitiesCollaborate with team members to collect, process, and analyze data to solve business problems.Create detailed reports and presentations using data visualization techniques to communicate findings.Utilize statistical tools to summarize data and produce actionable insights for decision-making.Assist in the implementation of new data strategies and processes across different departments.Contribute to the development of performance metrics to measure the success of business initiatives.Ensure data integrity and quality by performing regular audits and troubleshooting data-related issues.Stay updated on the latest data analytics trends and tools to continuously improve current processes.Provide support in developing predictive models and advanced analytics projects for various clients.",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/bytemetrics-solutions-hiring-data-analytics-or-analyst-trainee-hyderabad-telangana-india-0-to-1-years-484247?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJIaXJpbmcgRGF0YSBBbmFseXRpY3Mgb3IgQW5hbHlzdCBUcmFpbmVlIiwiY29tcGFueV9uYW1lIjoiQnl0ZW1ldHJpY3MgU29sdXRpb25zIiwiaHRpZG9jaWQiOiJ6SlhuUy02ajRvZF9QdWxUQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRIRmxlRWhKYVZoWmFuVTJNelZ1U1dGcFNEZFdOV0ptZUdSVFpUWTJlbVJYYXpsclZWOXJOWFZxVjJkcWJVUlJWakV0TTNOSlpsODVXSFZpU3pGek0yWTBTR1JaYVdWeFIxOVRRMWd4VjNkT1FsRkVaRVJMTFdGRVYxaDJTREpCVmpsR1pIbFVkVEV3YmxOaWFIQTRNWGhPY0c0elJ6RTRlVVZTUnpKbVRWQlhjVzlvVUVZU0YyMDRWRWxoZEhWb1RqUkRkM1Z5T0ZBMmRXSjBkVkYzR2lKQlJITnlPV1pTUW5sek1IWkxXRTVoYVhKT1VVNTRNVXBzZFhodFZtUm5VV0puIiwiZmN2IjoiMyIsImZjX2lkIjoiekpYblMtNmo0b2RfUHVsVEFBQUFBQT09In0="
+    },
+    {
+      "title": "Implementation Analyst (Fresher)",
+      "company_name": "ZeroCodeHR",
+      "location": "Telangana",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=9cIBWptjhJPsdJXaAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMOwrCQBBAsc0FBKsp1SIrgoWmEsFPK1Y2YRKH3cjuzLKzRey8gnhDT2LSvOq9V3wmxfYSoqdAnDF3wrBn9C_NMD8mUkdpAb_3F57SgBKm1sHgnESsp1nlco66M0bVl1bHQVu2EowwNdKbIdIRtTpMFD1mqtebVV9GtsvpnZIc5EHnK3QMN_LIFhn_rfAfD5QAAAA&shmds=v1_ARwrE200IY8d1BuhFhVr1hMIlEy3FUs_oRWVwenwQ3hshXbszg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=9cIBWptjhJPsdJXaAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=8a2d021b5d50a3fa",
+      "job_title": "Implementation Analyst (Fresher)",
+      "description": "Job location: Hyderabad\n\n\n \n\n\n\n \n  \n   Years Experience: 0-1 Years\n\n\n   \n\n   \n\n\n  \n \n \n  \n   \n    \n     What is the role be like?\n     Implementation:\n\n\n     \n      You need to be able to gather customerâ€™s requirements and perform hands-on configuration of products to meet client needs.\n      You will need to be able to clearly understand conceptualize, document and execute project plans and manage document repository for customers.\n      Assist in documentation of the project and client-related activities.\n      Participate in client support activities upon escalation of more complex investigative support issues to your team.\n      Excellent mathematical/statistics skills\n      Working knowledge of programming languages/concepts, Ability to write and understand pseudo-code\n     \n     Quality Assurance:\n\n\n     \n      As part of the implementation process, you will need to perform quality assurance prior to delivery to clients.\n      You will assist in the development of bespoke test plans that will allow you to determine if the software configuration and data are correct for the clientâ€™s specific use cases.\n      You will participate in defect finding, logging defects, defect verification and preparing Implementation/QA test plans.\n      SQL & Reporting\n      Works with clients and internal teams to gather and define reporting needs.\n      SQL Query Tool experience.\n      Create efficient standard and custom reports utilizing data from multiple tables by leveraging SQL queries, pivot tables, statistical formulas, lookups, functions\n     \n    \n   \n  \n  \n   \n    \n     Who can apply?\n     \n      Four-year Bachelorâ€™s degree from a college or university required, Computer Science degree preferred. Knowledge of programming languages and SQL is a plus.\n      0-1 year experience with an IT/Software SaaS company in an implementation, Reporting/ QA role, working knowledge of SaaS and SQL.\n      Successful candidates will have a balance of functional (business) and technical experience. Ability to analyze problems and provide potential solutions. Ability to analyze and document business processes.\n      Be able to effectively communicate with technical development teams and with client teams about client requirements.\n      Superior written and verbal communication skills required.\n      Strong client and service orientation and a high level of passion for service excellence.\n      Excellent organization and time management skills with the ability to multi-task effectively prioritize deliverables and function in a flexible environment and delivering completed work on time and with accuracy.\n      Proficiency in MS Office Suite required.\n      Proficiency in SQL is required.\n     \n    \n   \n  \n  \n   \n    \n     What do we offer?\n     Health & Wellness\n\n\n     Paid time off\n\n\n     Learning at work\n\n\n     Fun at work\n\n\n     Perks and benefits\n\n\n     Care for family",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=8a2d021b5d50a3fa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJbXBsZW1lbnRhdGlvbiBBbmFseXN0IChGcmVzaGVyKSIsImNvbXBhbnlfbmFtZSI6Ilplcm9Db2RlSFIiLCJodGlkb2NpZCI6IjljSUJXcHRqaEpQc2RKWGFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU25oaGVVbFBhRWs1VDBsb1RYTmxUMUp5VVhFM1gxaHJURkpxWTNCWFJrSlFabmR5YTBobFR6YzNNV1JJUzBSVVpFTmxOWHAzZEdWR1NVcFNSMlV6UjJ0MVRESlVlR3hIVjNSSGNtRnNNbWxZY1VGNmFWVjBRbUZrVURBMFoyRlVTVGxCYW1welRqTk9TRVJoU2twNWJWY3dVbTAwVlRSWVZFcE5TVTVHUTB0V1pGWnlOVFVTRjIwNFZFbGhkSFZvVGpSRGQzVnlPRkEyZFdKMGRWRjNHaUpCUkhOeU9XWlNXalkwYVMxRVkxUmZiVU4zTFVGMGNuVnlORE5NVkRobWFYWkIiLCJmY3YiOiIzIiwiZmNfaWQiOiI5Y0lCV3B0amhKUHNkSlhhQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analytic | Fresher | Business Analytics (Hyderabad)",
+      "company_name": "Creative Hands HR",
+      "location": "Hyderabad, Telangana",
+      "via": "Kit Job",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=kc0hNnfsLrYcvvT6AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z3NPQrCQBAFYGxzBKspjUhWBBut_EHTKvZhkgy7kXU27KySgIV38DjexpO4NmkeDx4fL_mMktMeA8KG0fahqeAJB09iyMe2vUvDJDKsApO8r8ljiXUK39cbrq4EIfSVAcdwdE5bGq9NCK2slBKxmZaAkWaVuynHVLpORST_KMSgp9ZioGKxnHdZy3qa7jxF8CDIkWuB_AwNw3A7gwtZZI2MP14vBaC-AAAA&shmds=v1_ARwrE23AtBAAu18OvAFTa2gfe2f-Dmum7_xCnvRqynR7FkicNw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=kc0hNnfsLrYcvvT6AAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.kitjob.in/job/339797271/data-analytic-fresher-business-analytics-hyderabad",
+      "job_title": "Data Analytic | Fresher | Business Analytics (Hyderabad)",
+      "description": "Please apply for the job in Naukri.com. We will check & will update you. Do not search the number in Google and do not call us. The requirements are not yet active from Client's side.\n\nANY DEGREE IS PREFERRED\n\n1>positive Logical Skills.\n\n2>fresher Business Analytics\n\n3>fresher Data Analyst\n\n4>good Analytical Skills\n\nPlease apply for the job in Naukri.com. We will check & will update you. Do not search the number in Google and do not call us. The requirements are not yet active from Client's side.\n\nPlease apply for the job in Naukri.com. We will check & will update you. Do not search the number in Google and do not call us. The requirements are not yet active from Client's side.\n\nPlease apply for the job in Naukri.com. We will check & will update you. Do not search the number in Google and do not call us. The requirements are not yet active from Client's side.",
+      "apply_options": [
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/339797271/data-analytic-fresher-business-analytics-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5dGljIHwgRnJlc2hlciB8IEJ1c2luZXNzIEFuYWx5dGljcyAoSHlkZXJhYmFkKSIsImNvbXBhbnlfbmFtZSI6IkNyZWF0aXZlIEhhbmRzIEhSIiwiaHRpZG9jaWQiOiJrYzBoTm5mc0xyWWN2dlQ2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNUZE5jVFZsVTA1R1JFNDFObTA0UVRGR2IweHFRMHBSUXpGRFpWSmxNbGhuVEdjMFNETXlaV3BXWlhaRmNucEZNemwzYjBsNlUxVktXRWhWWW1NNFFrTkZlbnByYjJOdWJuTm1NMHRSZW04MVoyTnhVRTlyZG5wV1VEQkhZMU5HZUdwV1FUaHZibGxIYVVobGVrUjFRVWhyVW5oVFJEZERhM2xIZGtsdVJXVktYM0ZYWlRJU0YyMDRWRWxoZEhWb1RqUkRkM1Z5T0ZBMmRXSjBkVkYzR2lKQlJITnlPV1pUUkhoWlJYTkNhRWcwVDNGcmNrRnFZbko1VUc1dU1FTXhlblJuIiwiZmN2IjoiMyIsImZjX2lkIjoia2MwaE5uZnNMclljdnZUNkFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTMU5QYVhKWVNYVmhValZRVjBNNFJWUnJSVEJ5TTFZNWNHUTVNREkxVEdKT09WZzBTM0E1T0dSVGNUbGlWWFJYVTBNdE9WWmhSV2RMYURCblMyY3hSa0o2Y3pOd1ZVbE1abWswUW5aUVdUWTJOakZKY2taR2RFaHlkVkZtWjE5UmQwMVdkbmxMZDFOeWQxSkJMVnBIUm1WT09VdHBXR3BtTm1saFZVVnRaR2M0Vlc5MWFUWkZkRk13TTJGVVVISXpOMGhCY0c4NFZUWnFZMEpVZEZaV09XczJjek5GU1Rad2FXbDNPSE5JU0RKTFlXRm9SRU5wYjFwT1J5MVdSRFpLYzI0NGQyOXhORlZ3TVdvdFZUSjFZelZhUjB4dGNISldlSHBZT1dFMFRtY3dRVWxPVm1kc1JUTjZNR0ZmT1ZwQlNsSkNVVWxvYkZGM2MydDRkR1pHTm1Zd1kxaG1TbUZpTUc5WVFuUlNVMk15T0VOb2NFdFJkMDUxZEU0MmFFbHhRMkpSZEV4YVYzQkJaalJSVW1oVlgwTXdZMk5tTldSeFJsVlZhbGQ1YWw4d1JYUklOMmNTRjIwNFZFbGhkSFZvVGpSRGQzVnlPRkEyZFdKMGRWRjNHaUpCUkhOeU9XWlVSVVZGVTJrdGFTMTNTa3BpYzJrNVQxTlhSR1V4TUdSM1dFdG4iLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTMU5QYVhKWVNYVmhValZRVjBNNFJWUnJSVEJ5TTFZNWNHUTVNREkxVEdKT09WZzBTM0E1T0dSVGNUbGlWWFJYVTBNdE9WWmhSV2RMYURCblMyY3hSa0o2Y3pOd1ZVbE1abWswUW5aUVdUWTJOakZKY2taR2RFaHlkVkZtWjE5UmQwMVdkbmxMZDFOeWQxSkJMVnBIUm1WT09VdHBXR3BtTm1saFZVVnRaR2M0Vlc5MWFUWkZkRk13TTJGVVVISXpOMGhCY0c4NFZUWnFZMEpVZEZaV09XczJjek5GU1Rad2FXbDNPSE5JU0RKTFlXRm9SRU5wYjFwT1J5MVdSRFpLYzI0NGQyOXhORlZ3TVdvdFZUSjFZelZhUjB4dGNISldlSHBZT1dFMFRtY3dRVWxPVm1kc1JUTjZNR0ZmT1ZwQlNsSkNVVWxvYkZGM2MydDRkR1pHTm1Zd1kxaG1TbUZpTUc5WVFuUlNVMk15T0VOb2NFdFJkMDUxZEU0MmFFbHhRMkpSZEV4YVYzQkJaalJSVW1oVlgwTXdZMk5tTldSeFJsVlZhbGQ1YWw4d1JYUklOMmNTRjIwNFZFbGhkSFZvVGpSRGQzVnlPRkEyZFdKMGRWRjNHaUpCUkhOeU9XWlVSVVZGVTJrdGFTMTNTa3BpYzJrNVQxTlhSR1V4TUdSM1dFdG4iLCJmY3YiOiIzIn0%3D&q=Data+Analyst+fresher"
+  },
+  "_retrieved_at": "2026-10-09 10:40:27 UTC"
+}

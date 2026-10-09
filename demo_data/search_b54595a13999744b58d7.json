@@ -1,0 +1,248 @@
+{
+  "search_metadata": {
+    "id": "6ac8c4b28b61d6074d84c124",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fnfoolcNPKEo_pt4bLBBsQYCMRS6GDR59FayT85qXwk/6ac8c4b28b61d6074d84c124.json",
+    "markdown_endpoint": "https://serpapi.com/searches/fnfoolcNPKEo_pt4bLBBsQYCMRS6GDR59FayT85qXwk/6ac8c4b28b61d6074d84c124.md",
+    "created_at": "2026-10-09 10:40:50 UTC",
+    "processed_at": "2026-10-09 10:40:50 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst+fresher&uule=w+CAIQICIfUHVuZSBEaXZpc2lvbixNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/fnfoolcNPKEo_pt4bLBBsQYCMRS6GDR59FayT85qXwk/6ac8c4b28b61d6074d84c124.html",
+    "total_time_taken": 6.47
+  },
+  "search_parameters": {
+    "q": "Data Analyst fresher",
+    "engine": "google_jobs",
+    "location_requested": "Pune, India",
+    "location_used": "Pune Division,Maharashtra,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw",
+        "q": "Data Analyst fresher remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQxKsJKAB6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A",
+            "q": "Data Analyst fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ",
+            "q": "Data Analyst fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA",
+            "q": "Data Analyst fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg",
+            "q": "Data Analyst fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A",
+            "q": "Data Analyst fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ",
+            "q": "Data Analyst fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA",
+            "q": "Data Analyst fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg",
+            "q": "Data Analyst fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0",
+            "q": "Data Analyst fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw",
+            "q": "Data Analyst fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8",
+            "q": "Data Analyst fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A",
+            "q": "Data Analyst fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0",
+            "q": "Data Analyst fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw",
+            "q": "Data Analyst fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8",
+            "q": "Data Analyst fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A",
+            "q": "Data Analyst fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsdIloFMycfRmQPKThRVztxpV_lNA:1791542456916&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A&udm=8&sa=X&ved=2ahUKEwjt8fnd36yXAxXqTjABHbbMO4kQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Data Analyst (Off-Campus Hiring 2026)",
+      "company_name": "WNS Global Services",
+      "location": "Satara, Maharashtra",
+      "via": "MyInternships.in",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=efPPjhTMtL5-Ra2RAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOMQrCMBSAYVx7BKc3qmhTCjooCKJQF3Xo4FheQ5pE0qTkPaVu3sFTeC1PYl3-7YM_-YyS7QEZYefRPYlhcmmaxR7b7k5wtNF6DXmWr6bwfb3hFmoghVEaCB6KELRT441h7mgtBJFLNTGylakMrQhe1aEXA6J_KjIYVeeQVZUvsz7tvJ7NrucSChdqdFCq-LBSEVgP5fAUcQ4nHBCS4Yg_DUi7jqwAAAA&shmds=v1_ARwrE23k9NnBJje-Hzi27rswuLetrPbfdFwDtdOBW_hsQFWR1g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=efPPjhTMtL5-Ra2RAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4b28b61d6074d84c124/images/LtDFZGgx_LkAhqXz99S3pqukgZCXNajwFYvGhwX0DPg.png",
+      "extensions": [
+        "₹32K a month",
+        "Full–time"
+      ],
+      "source_link": "https://myinternships.in/jobs/wns-global-services-data-analyst-off-campus-hiring-2026-satara-83f6a1",
+      "job_title": "Data Analyst (Off-Campus Hiring 2026)",
+      "description": "WNS Global Services is looking for a Data Analyst (Off-Campus Hiring 2026) to join its Satara team. You will turn raw operational data into clear, trustworthy analysis, and work directly with the people who use it to run the business.\n\nAbout the role\nAs a Data Analyst (Off-Campus Hiring 2026) at WNS Global Services, your core responsibility is an open off-campus hiring drive for 2025-2026 graduates — apply from any college, selection on assessment and interview. You will work in SQL, Excel and Power BI every day, partner with business stakeholders to understand what they actually need, and deliver analysis that is accurate, reproducible and easy to act on.\n\nKey responsibilities\n• Write and optimise SQL to extract data from production and warehouse tables\n• Build and maintain dashboards and recurring reports for business teams\n• Investigate trends, anomalies and drops in key metrics and explain the cause\n• Translate open-ended business questions into a defined analysis plan\n• Own the accuracy of every number you publish\n• Validate and reconcile numbers before they are published, and document known data caveats\n• Automate recurring reporting so the team spends its time on analysis rather than refreshes\n• Present findings to non-technical stakeholders in clear, plain language\n\nRequired skills and tools\n• SQL\n• Advanced Excel\n• Power BI\n• Tableau\n• Python (Pandas)\n• Data Cleaning\n• Data Visualization\n• Descriptive Statistics\n• Dashboarding\n• Business Acumen\n• Stakeholder Communication\n• Documentation\n\nEligibility criteria\n• Education: any graduate — B.E./B.Tech, B.Sc, BCA/MCA, B.Com, BBA or MBA. Candidates from any recognised university are welcome.\n• Graduation year: 2023–2026 batches. Freshers and final-year students awaiting results may apply.\n• Minimum 60% / 6.0 CGPA in the highest qualification (indicative — strong practical skills can offset this).\n• Experience: 0–1 years in analytics, reporting, MIS or a closely related function.\n• Technical skills: SQL, Advanced Excel, Power BI, Tableau, Python (Pandas), Data Cleaning.\n• Soft skills: structured thinking, attention to detail, stakeholder communication, ownership and the confidence to flag a number that looks wrong.\n\nSalary and compensation\n• Annual CTC: ₹2,70,000 – ₹5,00,000 per year (2.7 LPA – 5 LPA), an indicative market range for this role in Satara.\n• Monthly equivalent: approximately ₹32,000 per month at the mid-point of the range.\n• Currency: INR (₹).\n• Performance bonus / variable pay as per WNS Global Services's policy, reviewed annually.\n• The exact offer is confirmed by WNS Global Services based on your interview performance and current compensation.\n\nPerks and benefits\n• Modern analytics tooling and licensed BI seats\n• Clear appraisal cycle and internal mobility\n• Employee wellness programmes\n• Team offsites and networking opportunities\n• Competitive salary as per market benchmarks\n• Annual performance bonus / variable pay\n• Health insurance for you and your dependants\n• Provident Fund and statutory benefits\n\nLocation, work mode and employment type\n• Location: Satara, Maharashtra\n• Work mode: Hybrid\n• Employment type: Full-time, permanent\n• Working hours: Standard business hours, Monday to Friday (5-day week)\n• Number of openings: 1\n• Joining: immediate to 60 days, as per your notice period\n\nSelection process\n• Round 1 — Resume screening and profile shortlisting by the talent acquisition team\n• Round 2 — Case study / take-home assignment on a real dataset, with a walkthrough of your approach\n• Round 3 — Technical interview 2 — BI tooling, dashboard design and metric definition\n• Round 4 — Business / stakeholder round — how you scope a question and communicate findings\n• Round 5 — HR discussion — compensation, notice period, joining date and offer roll-out\n\nWho should apply\nCandidates from any graduate — B.E./B.Tech, B.Sc, BCA/MCA, B.Com, BBA or MBA with up to 1 years of relevant experience who are based in Satara or willing to relocate. You should be comfortable with SQL, Advanced Excel, Power BI and able to explain your analysis to someone who has never seen the data. Portfolio projects, Kaggle work, a GitHub repo or published dashboards strengthen an application, especially for early-career candidates.\n\nWhy join WNS Global Services\nWNS Global Services gives analysts real ownership rather than ticket queues. You are close to the decision-makers, your recommendations are heard, and good work is visible. High performers move into senior and lead analyst roles, take ownership of a business vertical, or specialise in data science, data engineering or product analytics. You will leave every year of this role with an off-campus offer and a structured first year in analytics.\n\nHow to apply\nClick Apply Now. If you are not signed in you will be asked to log in or create a free MyInternships.in candidate account first, after which you will be taken directly to WNS Global Services's official careers page to submit your application. Applications close on 23 October 2026 and are reviewed on a rolling basis, so apply early.\n\nAdditional information\n• Documents required at the interview stage: updated resume, degree certificates or provisional certificate, and government photo ID.\n• Experienced candidates should also carry recent payslips and a relieving or experience letter.\n• There is no service bond for this position, and no equipment deposit is taken.\n• A laptop and licensed analytics tooling are provided by WNS Global Services for office and hybrid roles.\n• WNS Global Services and MyInternships.in never charge a fee at any stage of the application, selection or onboarding process. If anyone asks you for money in the name of this job, do not pay — report it. Responsibilities: Write and optimise SQL to extract data from production and warehouse tables; Build and maintain dashboards and recurring reports for business teams; Investigate trends, anomalies and drops in key metrics and explain the cause; Translate open-ended business questions into a defined analysis plan; Own the accuracy of every number you publish; Validate and reconcile numbers before publishing, and document data caveats; Automate recurring reporting to free up time for real analysis; Present findings clearly to non-technical stakeholders. Requirements: any graduate — B.E./B.Tech, B.Sc, BCA/MCA, B.Com, BBA or MBA from a recognised university; 0–1 years of experience in analytics, reporting or MIS — freshers and 2026 graduates are welcome; Working knowledge of SQL, Advanced Excel, Power BI; Comfort with SQL, Excel and Power BI and with cleaning messy, real-world data; Ability to define a metric precisely and explain a result to a non-technical stakeholder; Attention to detail, ownership and the discipline to document your work; Based in Satara, Maharashtra or willing to relocate.",
+      "apply_options": [
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/jobs/wns-global-services-data-analyst-off-campus-hiring-2026-satara-83f6a1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKE9mZi1DYW1wdXMgSGlyaW5nIDIwMjYpIiwiY29tcGFueV9uYW1lIjoiV05TIEdsb2JhbCBTZXJ2aWNlcyIsImh0aWRvY2lkIjoiZWZQUGpoVE10TDUtUmEyUkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHdFRZa0UwTmpseGFuZHhRbHA0V1ZkaWIydFBWelppTTJoeE1pMXFVbWcwUWxsTlozUTFTVE5FVVROdGNTMW1YMDh0UTJ3eVgzUjRRVEpSZVdwV2VtRndXbWwyZVhsbGNsaFhOVE14WW1relJHWXhlRGhCZVVwWFJtZDVia3BVY0RKSk9GWjJPR1p5TjBGdVJERlZSelp1ZHpKV1ptTm9VMXA2UVc5dGNHTjBNa1oxYXpFU0YzVk5WRWxoZFRJeFRpMXhaSGRpYTFCMGNHNTJlVkZuR2lKQlJITnlPV1pVTUdGdGJITjVSVFZvY0VOVlFraG5kemhwUlRCaVNXVkRTMWwzIiwiZmN2IjoiMyIsImZjX2lkIjoiZWZQUGpoVE10TDUtUmEyUkFBQUFBQT09In0="
+    },
+    {
+      "title": "Computer Operator",
+      "company_name": "Amazon",
+      "location": "Padavi, Maharashtra",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=9kLtV5tHVfC4y83SAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TBGHrIDkRbLQSCyvRH4TNueQid7fH7irBytLeH_oSYzPVzFTvWVUfOJW7kcC5kKCxwPf1gRt3oITiA3CGI3Mfab4LZkW3zqnGpldDG3zjOTnO1PHopkj_aDWgUIlo1K43q7Epua8X-4TP6TVkuOAVH8MSTjh5qMEEf71Eb1yLAAAA&shmds=v1_ARwrE22WhWdvHDr0Y7sNeWSHhE4dfMKj7de99OqVDS4-yWVV7g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=9kLtV5tHVfC4y83SAAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "₹16K–₹28K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/it-software-data-analyst-computer-operator-job-in-amazon-padvi-pune-0-to-0-years-1790749207-8435403-jid",
+      "job_title": "Computer Operator",
+      "description": "We are looking for a Computer Operator to join our team at at Amazon, contributing to software, data, or IT system development and support. This role offers an in-hand salary of ₹16,000 - ₹28,000 and a chance to work in a fast-paced, technology-driven environment.\n\nKey Responsibilities:\n\nDevelop, test, or maintain software applications, databases, or analytical tools\n\nAnalyze data, generate insights, and ensure system accuracy\n\nTroubleshoot issues and support daily IT operations\n\nCollaborate with teams to deliver high-quality, scalable solutions\n\nFollow documentation, security, and testing standards\n\nJob Requirements:\n\nThe minimum qualification for this role is 10th Pass and candidate must be a fresher. Hands-on knowledge of and modern tools is essential. Strong analytical, problem-solving, and communication skills required.\n\nAge criteria 18 to 29 years \n\nIt is a Both IT / Software / Data Analyst job for candidates with Freshers.More about this Computer Operator jobPlease go through the FAQs to get all answers related to the given Computer Operator jobCan freshers or experienced candidates apply for this Computer Operator role?\nAns :   Candidates who have a 10th Pass and above qualification can apply for this Computer Operator role.\n\nWhat salary is offered for this Computer Operator job?\nAns :   The salary for this Computer Operator job ranges between ₹16,000-₹28,000 per month.\n\nWhat is the work schedule for this Computer Operator job?\nAns :   This Computer Operator job has 5 days working days and timings from 10:00 AM - 06:00 PM.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Padvi, Pune.\n\nHow many vacancies are there for this Computer Operator job?\nAns :   There are 6 vacancies for this Computer Operator role.\n\nIs this job open for all genders?\nAns :   Yes, this Computer Operator job is open for both male and female candidates.\n\nWhat is the job location for this position?\nAns :   The job location for this Computer Operator position is Padvi, Pune.\n\nWhat makes this Computer Operator job a good opportunity?\nAns :   This Computer Operator job is a good opportunity as it offers a salary between ₹16,000-₹28,000 per month. This is a Both job and has 6 openings.\n\nCandidates can call HR for more info.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/it-software-data-analyst-computer-operator-job-in-amazon-padvi-pune-0-to-0-years-1790749207-8435403-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRlciBPcGVyYXRvciIsImNvbXBhbnlfbmFtZSI6IkFtYXpvbiIsImh0aWRvY2lkIjoiOWtMdFY1dEhWZkM0eTgzU0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFdEZWVWgwUVhsRlkyOVBRVWxUU1Y5MlYyUmpUR3d5UVVwWE5XRjFRbmhxVTJ0bWNtcERPSFo0WTFwTVJFUllZak5RWlc5MVIweE5hbmh5YldWSFJHOVVWWGRTV25Sd0xWOXZaMEpOVEdGaWFsRkxOVjlQY3psWlNVSTNXWEZ4WXpKYVNVTjRXVE5SUXkxTU9FOWpkbTgwYlZjNWJXNW9UVUpvTjJneVIzZHdNUzE0TTJVU0YzVk5WRWxoZFRJeFRpMXhaSGRpYTFCMGNHNTJlVkZuR2lKQlJITnlPV1pUTTIxeU9GUjRUa2RmYkZkUlNIcDFkeTFsVmpBNFJYWm9PSFYzIiwiZmN2IjoiMyIsImZjX2lkIjoiOWtMdFY1dEhWZkM0eTgzU0FBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUR3RUWWtFME5qbHhhbmR4UWxwNFdWZGliMnRQVnpaaU0yaHhNaTFxVW1nMFFsbE5aM1ExU1RORVVUTnRjUzFtWDA4dFEyd3lYM1I0UVRKUmVXcFdlbUZ3V21sMmVYbGxjbGhYTlRNeFlta3pSR1l4ZURoQmVVcFhSbWQ1YmtwVWNESkpPRloyT0daeU4wRnVSREZWUnpadWR6SldabU5vVTFwNlFXOXRjR04wTWtaMWF6RVNGM1ZOVkVsaGRUSXhUaTF4WkhkaWExQjBjRzUyZVZGbkdpSkJSSE55T1daVU1HRnRiSE41UlRWb2NFTlZRa2huZHpocFJUQmlTV1ZEUzFsMyIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&next_page_token=eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUR3RUWWtFME5qbHhhbmR4UWxwNFdWZGliMnRQVnpaaU0yaHhNaTFxVW1nMFFsbE5aM1ExU1RORVVUTnRjUzFtWDA4dFEyd3lYM1I0UVRKUmVXcFdlbUZ3V21sMmVYbGxjbGhYTlRNeFlta3pSR1l4ZURoQmVVcFhSbWQ1YmtwVWNESkpPRloyT0daeU4wRnVSREZWUnpadWR6SldabU5vVTFwNlFXOXRjR04wTWtaMWF6RVNGM1ZOVkVsaGRUSXhUaTF4WkhkaWExQjBjRzUyZVZGbkdpSkJSSE55T1daVU1HRnRiSE41UlRWb2NFTlZRa2huZHpocFJUQmlTV1ZEUzFsMyIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst+fresher"
+  },
+  "_retrieved_at": "2026-10-09 10:40:50 UTC"
+}

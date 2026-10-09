@@ -1,0 +1,405 @@
+{
+  "search_metadata": {
+    "id": "6ac8c4fcb24c5d49146ef16c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Fyfzi9rdZy8Ah5F_CPdm3285B8HgiqJJ330kUKDZ0Yg/6ac8c4fcb24c5d49146ef16c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Fyfzi9rdZy8Ah5F_CPdm3285B8HgiqJJ330kUKDZ0Yg/6ac8c4fcb24c5d49146ef16c.md",
+    "created_at": "2026-10-09 10:42:04 UTC",
+    "processed_at": "2026-10-09 10:42:04 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Accountant+fresher&uule=w+CAIQICIWSmFpcHVyLFJhamFzdGhhbixJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/Fyfzi9rdZy8Ah5F_CPdm3285B8HgiqJJ330kUKDZ0Yg/6ac8c4fcb24c5d49146ef16c.html",
+    "total_time_taken": 10.37
+  },
+  "search_parameters": {
+    "q": "Accountant fresher",
+    "engine": "google_jobs",
+    "location_requested": "Jaipur, India",
+    "location_used": "Jaipur,Rajasthan,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rM4C1ogCMDpmOJgEzBCm9o5kvacPmN3IW62sueo6TijjdIL5Rw1By0wvGG8T_ecKY_W5QK5AAqHvWNOa1zu95lFRcrSSOQnW1xazE7ym_vnXi-ox6IdEpOukUxD5j7W2HstQ89WMECgmRuj0O1T5144F3B0g",
+        "q": "Accountant fresher remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM4C1ogCMDpmOJgEzBCm9o5kvacPmN3IW62sueo6TijjdIL5Rw1By0wvGG8T_ecKY_W5QK5AAqHvWNOa1zu95lFRcrSSOQnW1xazE7ym_vnXi-ox6IdEpOukUxD5j7W2HstQ89WMECgmRuj0O1T5144F3B0g&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM4C1ogCMDpmOJgEzBCm9o5kvacPmN3IW62sueo6TijjdIL5Rw1By0wvGG8T_ecKY_W5QK5AAqHvWNOa1zu95lFRcrSSOQnW1xazE7ym_vnXi-ox6IdEpOukUxD5j7W2HstQ89WMECgmRuj0O1T5144F3B0g"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGXEeYfbKBqJUFul0SV-AZD3Tdjq7oAotkt0dE4mUi7Gjb266ZkZSdSpGuVwKkfNs3md0ME1ll5FoOeMnACqL2mVkLGgiy0O6ZTtGXx6XYb_wwRqLCjuNmkXe_JJ3uY9nNVXst03PTk7tlBKqPIASnaBRySexlR1cHmeaxM2A6zm8JqWMmNFxRBUF2zprCSHK5lF2thtWf5j9MKC5mVR16P65GrLGjsuX9HMGAq-9EIuhXef4SkvLoffsNhLGZQQo_IAW5xPXnI2jfIcAhyDGfcelMrihQ",
+            "q": "Accountant fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGXEeYfbKBqJUFul0SV-AZD3Tdjq7oAotkt0dE4mUi7Gjb266ZkZSdSpGuVwKkfNs3md0ME1ll5FoOeMnACqL2mVkLGgiy0O6ZTtGXx6XYb_wwRqLCjuNmkXe_JJ3uY9nNVXst03PTk7tlBKqPIASnaBRySexlR1cHmeaxM2A6zm8JqWMmNFxRBUF2zprCSHK5lF2thtWf5j9MKC5mVR16P65GrLGjsuX9HMGAq-9EIuhXef4SkvLoffsNhLGZQQo_IAW5xPXnI2jfIcAhyDGfcelMrihQ&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGXEeYfbKBqJUFul0SV-AZD3Tdjq7oAotkt0dE4mUi7Gjb266ZkZSdSpGuVwKkfNs3md0ME1ll5FoOeMnACqL2mVkLGgiy0O6ZTtGXx6XYb_wwRqLCjuNmkXe_JJ3uY9nNVXst03PTk7tlBKqPIASnaBRySexlR1cHmeaxM2A6zm8JqWMmNFxRBUF2zprCSHK5lF2thtWf5j9MKC5mVR16P65GrLGjsuX9HMGAq-9EIuhXef4SkvLoffsNhLGZQQo_IAW5xPXnI2jfIcAhyDGfcelMrihQ"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGUmm8AT-wGfeBhiWyC58Dnaj2NQU_3toQc3ON0csSuEYVRAOR12Of8R2bwk4eds7LWYjqXQevjbsxS6advbK5dYNqPay92gSHDMhzbMjGlZSwZZu2w0kfMDsOHNCjOZuaKwMs4bIdqdX36lTiRjuNL2uxgntD0ZwuV7n6RnDURcMGmp31O1sX9fT3-nCA9bGaGyNtIKnOVuOsPShz7bXIJ3dQI125sl6ZaWgFBqJrusTL8zCgPLstDQoG1K150BHN_ohIqvWdNNi_9qBQs8FKl1mgnYxQ",
+            "q": "Accountant fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGUmm8AT-wGfeBhiWyC58Dnaj2NQU_3toQc3ON0csSuEYVRAOR12Of8R2bwk4eds7LWYjqXQevjbsxS6advbK5dYNqPay92gSHDMhzbMjGlZSwZZu2w0kfMDsOHNCjOZuaKwMs4bIdqdX36lTiRjuNL2uxgntD0ZwuV7n6RnDURcMGmp31O1sX9fT3-nCA9bGaGyNtIKnOVuOsPShz7bXIJ3dQI125sl6ZaWgFBqJrusTL8zCgPLstDQoG1K150BHN_ohIqvWdNNi_9qBQs8FKl1mgnYxQ&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGUmm8AT-wGfeBhiWyC58Dnaj2NQU_3toQc3ON0csSuEYVRAOR12Of8R2bwk4eds7LWYjqXQevjbsxS6advbK5dYNqPay92gSHDMhzbMjGlZSwZZu2w0kfMDsOHNCjOZuaKwMs4bIdqdX36lTiRjuNL2uxgntD0ZwuV7n6RnDURcMGmp31O1sX9fT3-nCA9bGaGyNtIKnOVuOsPShz7bXIJ3dQI125sl6ZaWgFBqJrusTL8zCgPLstDQoG1K150BHN_ohIqvWdNNi_9qBQs8FKl1mgnYxQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FZ3t51J6EWDTCUs2NZK3ujISThAcvYz4x9dH38DGBZHYO3Od7osNa7VQBk5P9IvXjhUXvsRUmIcfrNP4M4zy4KoEjP2L8JdJlKXomXGZUEf81_NFsFbsYJ0dNebeJuw8qtUWYhsIduyISZMy_o-hk31VgdJzOy93j3fpo1FSuskm_jbuZggb-W1dy_UZfzd29TQVzU60bQuH0E36V-Vd3Yd7MO-5xBXd19TOft4DFEkSSuyMx1mKFC68fnC5L4aO-vW3V5gpKVTzFPTLWco5ABus_J7PToimqZcRtbWBnu3DB2SXig",
+            "q": "Accountant fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FZ3t51J6EWDTCUs2NZK3ujISThAcvYz4x9dH38DGBZHYO3Od7osNa7VQBk5P9IvXjhUXvsRUmIcfrNP4M4zy4KoEjP2L8JdJlKXomXGZUEf81_NFsFbsYJ0dNebeJuw8qtUWYhsIduyISZMy_o-hk31VgdJzOy93j3fpo1FSuskm_jbuZggb-W1dy_UZfzd29TQVzU60bQuH0E36V-Vd3Yd7MO-5xBXd19TOft4DFEkSSuyMx1mKFC68fnC5L4aO-vW3V5gpKVTzFPTLWco5ABus_J7PToimqZcRtbWBnu3DB2SXig&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FZ3t51J6EWDTCUs2NZK3ujISThAcvYz4x9dH38DGBZHYO3Od7osNa7VQBk5P9IvXjhUXvsRUmIcfrNP4M4zy4KoEjP2L8JdJlKXomXGZUEf81_NFsFbsYJ0dNebeJuw8qtUWYhsIduyISZMy_o-hk31VgdJzOy93j3fpo1FSuskm_jbuZggb-W1dy_UZfzd29TQVzU60bQuH0E36V-Vd3Yd7MO-5xBXd19TOft4DFEkSSuyMx1mKFC68fnC5L4aO-vW3V5gpKVTzFPTLWco5ABus_J7PToimqZcRtbWBnu3DB2SXig"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccmtgvFxmvd1asgKzXfJFj6vbk4y4PHfbNNlhXq467R0Mgx_Ll-KQmR9XKWO38CfUdRIpqEFgVWdkr0d4Mko_25llmqezpoNn54kweQXH5ToNF3u4jcgn-bZ1uIyKGGUz7O32AFhIuCLDPbx6iRCDJ37WTQzUlSVq2ERnMOTd8bAxZPBPXLuXBJgIxO45wUNZ11OhTAng9l7YL1zWIlUL-xSXFUqAeanhEQ2tsX7trbXttmJyGNWEhM6PLpch7wYG1DO3DQk9KXyg_kk3FTaGXDL_ehbfZuHbfmh0Q80GPEC9QXgcuw",
+            "q": "Accountant fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccmtgvFxmvd1asgKzXfJFj6vbk4y4PHfbNNlhXq467R0Mgx_Ll-KQmR9XKWO38CfUdRIpqEFgVWdkr0d4Mko_25llmqezpoNn54kweQXH5ToNF3u4jcgn-bZ1uIyKGGUz7O32AFhIuCLDPbx6iRCDJ37WTQzUlSVq2ERnMOTd8bAxZPBPXLuXBJgIxO45wUNZ11OhTAng9l7YL1zWIlUL-xSXFUqAeanhEQ2tsX7trbXttmJyGNWEhM6PLpch7wYG1DO3DQk9KXyg_kk3FTaGXDL_ehbfZuHbfmh0Q80GPEC9QXgcuw&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccmtgvFxmvd1asgKzXfJFj6vbk4y4PHfbNNlhXq467R0Mgx_Ll-KQmR9XKWO38CfUdRIpqEFgVWdkr0d4Mko_25llmqezpoNn54kweQXH5ToNF3u4jcgn-bZ1uIyKGGUz7O32AFhIuCLDPbx6iRCDJ37WTQzUlSVq2ERnMOTd8bAxZPBPXLuXBJgIxO45wUNZ11OhTAng9l7YL1zWIlUL-xSXFUqAeanhEQ2tsX7trbXttmJyGNWEhM6PLpch7wYG1DO3DQk9KXyg_kk3FTaGXDL_ehbfZuHbfmh0Q80GPEC9QXgcuw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGXEeYfbKBqJUFul0SV-AZD3Tdjq7oAotkt0dE4mUi7Gjb266ZkZSdSpGuVwKkfNs3md0ME1ll5FoOeMnACqL2mVkLGgiy0O6ZTtGXx6XYb_wwRqLCjuNmkXe_JJ3uY9nNVXst03PTk7tlBKqPIASnaBRySexlR1cHmeaxM2A6zm8JqWMmNFxRBUF2zprCSHK5lF2thtWf5j9MKC5mVR16P65GrLGjsuX9HMGAq-9EIuhXef4SkvLoffsNhLGZQQo_IAW5xPXnI2jfIcAhyDGfcelMrihQ",
+            "q": "Accountant fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGXEeYfbKBqJUFul0SV-AZD3Tdjq7oAotkt0dE4mUi7Gjb266ZkZSdSpGuVwKkfNs3md0ME1ll5FoOeMnACqL2mVkLGgiy0O6ZTtGXx6XYb_wwRqLCjuNmkXe_JJ3uY9nNVXst03PTk7tlBKqPIASnaBRySexlR1cHmeaxM2A6zm8JqWMmNFxRBUF2zprCSHK5lF2thtWf5j9MKC5mVR16P65GrLGjsuX9HMGAq-9EIuhXef4SkvLoffsNhLGZQQo_IAW5xPXnI2jfIcAhyDGfcelMrihQ&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGXEeYfbKBqJUFul0SV-AZD3Tdjq7oAotkt0dE4mUi7Gjb266ZkZSdSpGuVwKkfNs3md0ME1ll5FoOeMnACqL2mVkLGgiy0O6ZTtGXx6XYb_wwRqLCjuNmkXe_JJ3uY9nNVXst03PTk7tlBKqPIASnaBRySexlR1cHmeaxM2A6zm8JqWMmNFxRBUF2zprCSHK5lF2thtWf5j9MKC5mVR16P65GrLGjsuX9HMGAq-9EIuhXef4SkvLoffsNhLGZQQo_IAW5xPXnI2jfIcAhyDGfcelMrihQ"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGUmm8AT-wGfeBhiWyC58Dnaj2NQU_3toQc3ON0csSuEYVRAOR12Of8R2bwk4eds7LWYjqXQevjbsxS6advbK5dYNqPay92gSHDMhzbMjGlZSwZZu2w0kfMDsOHNCjOZuaKwMs4bIdqdX36lTiRjuNL2uxgntD0ZwuV7n6RnDURcMGmp31O1sX9fT3-nCA9bGaGyNtIKnOVuOsPShz7bXIJ3dQI125sl6ZaWgFBqJrusTL8zCgPLstDQoG1K150BHN_ohIqvWdNNi_9qBQs8FKl1mgnYxQ",
+            "q": "Accountant fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGUmm8AT-wGfeBhiWyC58Dnaj2NQU_3toQc3ON0csSuEYVRAOR12Of8R2bwk4eds7LWYjqXQevjbsxS6advbK5dYNqPay92gSHDMhzbMjGlZSwZZu2w0kfMDsOHNCjOZuaKwMs4bIdqdX36lTiRjuNL2uxgntD0ZwuV7n6RnDURcMGmp31O1sX9fT3-nCA9bGaGyNtIKnOVuOsPShz7bXIJ3dQI125sl6ZaWgFBqJrusTL8zCgPLstDQoG1K150BHN_ohIqvWdNNi_9qBQs8FKl1mgnYxQ&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGUmm8AT-wGfeBhiWyC58Dnaj2NQU_3toQc3ON0csSuEYVRAOR12Of8R2bwk4eds7LWYjqXQevjbsxS6advbK5dYNqPay92gSHDMhzbMjGlZSwZZu2w0kfMDsOHNCjOZuaKwMs4bIdqdX36lTiRjuNL2uxgntD0ZwuV7n6RnDURcMGmp31O1sX9fT3-nCA9bGaGyNtIKnOVuOsPShz7bXIJ3dQI125sl6ZaWgFBqJrusTL8zCgPLstDQoG1K150BHN_ohIqvWdNNi_9qBQs8FKl1mgnYxQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FZ3t51J6EWDTCUs2NZK3ujISThAcvYz4x9dH38DGBZHYO3Od7osNa7VQBk5P9IvXjhUXvsRUmIcfrNP4M4zy4KoEjP2L8JdJlKXomXGZUEf81_NFsFbsYJ0dNebeJuw8qtUWYhsIduyISZMy_o-hk31VgdJzOy93j3fpo1FSuskm_jbuZggb-W1dy_UZfzd29TQVzU60bQuH0E36V-Vd3Yd7MO-5xBXd19TOft4DFEkSSuyMx1mKFC68fnC5L4aO-vW3V5gpKVTzFPTLWco5ABus_J7PToimqZcRtbWBnu3DB2SXig",
+            "q": "Accountant fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FZ3t51J6EWDTCUs2NZK3ujISThAcvYz4x9dH38DGBZHYO3Od7osNa7VQBk5P9IvXjhUXvsRUmIcfrNP4M4zy4KoEjP2L8JdJlKXomXGZUEf81_NFsFbsYJ0dNebeJuw8qtUWYhsIduyISZMy_o-hk31VgdJzOy93j3fpo1FSuskm_jbuZggb-W1dy_UZfzd29TQVzU60bQuH0E36V-Vd3Yd7MO-5xBXd19TOft4DFEkSSuyMx1mKFC68fnC5L4aO-vW3V5gpKVTzFPTLWco5ABus_J7PToimqZcRtbWBnu3DB2SXig&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FZ3t51J6EWDTCUs2NZK3ujISThAcvYz4x9dH38DGBZHYO3Od7osNa7VQBk5P9IvXjhUXvsRUmIcfrNP4M4zy4KoEjP2L8JdJlKXomXGZUEf81_NFsFbsYJ0dNebeJuw8qtUWYhsIduyISZMy_o-hk31VgdJzOy93j3fpo1FSuskm_jbuZggb-W1dy_UZfzd29TQVzU60bQuH0E36V-Vd3Yd7MO-5xBXd19TOft4DFEkSSuyMx1mKFC68fnC5L4aO-vW3V5gpKVTzFPTLWco5ABus_J7PToimqZcRtbWBnu3DB2SXig"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccmtgvFxmvd1asgKzXfJFj6vbk4y4PHfbNNlhXq467R0Mgx_Ll-KQmR9XKWO38CfUdRIpqEFgVWdkr0d4Mko_25llmqezpoNn54kweQXH5ToNF3u4jcgn-bZ1uIyKGGUz7O32AFhIuCLDPbx6iRCDJ37WTQzUlSVq2ERnMOTd8bAxZPBPXLuXBJgIxO45wUNZ11OhTAng9l7YL1zWIlUL-xSXFUqAeanhEQ2tsX7trbXttmJyGNWEhM6PLpch7wYG1DO3DQk9KXyg_kk3FTaGXDL_ehbfZuHbfmh0Q80GPEC9QXgcuw",
+            "q": "Accountant fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccmtgvFxmvd1asgKzXfJFj6vbk4y4PHfbNNlhXq467R0Mgx_Ll-KQmR9XKWO38CfUdRIpqEFgVWdkr0d4Mko_25llmqezpoNn54kweQXH5ToNF3u4jcgn-bZ1uIyKGGUz7O32AFhIuCLDPbx6iRCDJ37WTQzUlSVq2ERnMOTd8bAxZPBPXLuXBJgIxO45wUNZ11OhTAng9l7YL1zWIlUL-xSXFUqAeanhEQ2tsX7trbXttmJyGNWEhM6PLpch7wYG1DO3DQk9KXyg_kk3FTaGXDL_ehbfZuHbfmh0Q80GPEC9QXgcuw&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccmtgvFxmvd1asgKzXfJFj6vbk4y4PHfbNNlhXq467R0Mgx_Ll-KQmR9XKWO38CfUdRIpqEFgVWdkr0d4Mko_25llmqezpoNn54kweQXH5ToNF3u4jcgn-bZ1uIyKGGUz7O32AFhIuCLDPbx6iRCDJ37WTQzUlSVq2ERnMOTd8bAxZPBPXLuXBJgIxO45wUNZ11OhTAng9l7YL1zWIlUL-xSXFUqAeanhEQ2tsX7trbXttmJyGNWEhM6PLpch7wYG1DO3DQk9KXyg_kk3FTaGXDL_ehbfZuHbfmh0Q80GPEC9QXgcuw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YizjrMESHhHpcDOZZN0U57bPBlFRdtXXOTgHJam6JiNNJUkNs79ve86E8Zx_gegizxfE6M-0AivS4_dQRBMnSqB3-tEYiA_Jh_ItM4m837H5aNoFf3Fjmr_UEICRgGFDkSJnymcKBpDtWwxK4v8mxj54ax5-Cx_xM172o5kBH1mxHDDqjZmKLppoLbAgI1lXO2PxYdsiMSshMR3pJlebmW0CiY3OMpvTqisKGuhaXEtx_b9b18Jv0IA0m08eZc7i8ZTwsjVYbmClbbOTmDj7LmMjOl-EltIGJjQTyWmxJ4DV-eaCM0XBhOjv1B1rxcgySok4QSA",
+            "q": "Accountant fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YizjrMESHhHpcDOZZN0U57bPBlFRdtXXOTgHJam6JiNNJUkNs79ve86E8Zx_gegizxfE6M-0AivS4_dQRBMnSqB3-tEYiA_Jh_ItM4m837H5aNoFf3Fjmr_UEICRgGFDkSJnymcKBpDtWwxK4v8mxj54ax5-Cx_xM172o5kBH1mxHDDqjZmKLppoLbAgI1lXO2PxYdsiMSshMR3pJlebmW0CiY3OMpvTqisKGuhaXEtx_b9b18Jv0IA0m08eZc7i8ZTwsjVYbmClbbOTmDj7LmMjOl-EltIGJjQTyWmxJ4DV-eaCM0XBhOjv1B1rxcgySok4QSA&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YizjrMESHhHpcDOZZN0U57bPBlFRdtXXOTgHJam6JiNNJUkNs79ve86E8Zx_gegizxfE6M-0AivS4_dQRBMnSqB3-tEYiA_Jh_ItM4m837H5aNoFf3Fjmr_UEICRgGFDkSJnymcKBpDtWwxK4v8mxj54ax5-Cx_xM172o5kBH1mxHDDqjZmKLppoLbAgI1lXO2PxYdsiMSshMR3pJlebmW0CiY3OMpvTqisKGuhaXEtx_b9b18Jv0IA0m08eZc7i8ZTwsjVYbmClbbOTmDj7LmMjOl-EltIGJjQTyWmxJ4DV-eaCM0XBhOjv1B1rxcgySok4QSA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSXR092H4bMt-eymNso6Lv0OJDdOQ7DpzLgFSOD2BDjykVV9KVrlNxZi6r6Q2DBg5PFPrzGMs4-Lf3cXkWBjcg20c75dfV5G7wWEbUiF65J-_Xte4_GkQaUv7sMMFS15wlScffyNn4ABAD7SqsmtslfjMMqN7mqZ20vNQiToC_Ky-2PGfS10LsaoZxGaEVyGRmJ9xScN9JkXedpDcJCjdonSt1pOGyxy1NJihb0Loz-Cx_v29B-UIK6LyIPr14A_oC85yxmM-FwpmijCK8TiTxlT3iyeg7RbzP1Rp8Eywqr2zRCa45JETv4cffmr0oGPFA9I68U",
+            "q": "Accountant fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSXR092H4bMt-eymNso6Lv0OJDdOQ7DpzLgFSOD2BDjykVV9KVrlNxZi6r6Q2DBg5PFPrzGMs4-Lf3cXkWBjcg20c75dfV5G7wWEbUiF65J-_Xte4_GkQaUv7sMMFS15wlScffyNn4ABAD7SqsmtslfjMMqN7mqZ20vNQiToC_Ky-2PGfS10LsaoZxGaEVyGRmJ9xScN9JkXedpDcJCjdonSt1pOGyxy1NJihb0Loz-Cx_v29B-UIK6LyIPr14A_oC85yxmM-FwpmijCK8TiTxlT3iyeg7RbzP1Rp8Eywqr2zRCa45JETv4cffmr0oGPFA9I68U&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSXR092H4bMt-eymNso6Lv0OJDdOQ7DpzLgFSOD2BDjykVV9KVrlNxZi6r6Q2DBg5PFPrzGMs4-Lf3cXkWBjcg20c75dfV5G7wWEbUiF65J-_Xte4_GkQaUv7sMMFS15wlScffyNn4ABAD7SqsmtslfjMMqN7mqZ20vNQiToC_Ky-2PGfS10LsaoZxGaEVyGRmJ9xScN9JkXedpDcJCjdonSt1pOGyxy1NJihb0Loz-Cx_v29B-UIK6LyIPr14A_oC85yxmM-FwpmijCK8TiTxlT3iyeg7RbzP1Rp8Eywqr2zRCa45JETv4cffmr0oGPFA9I68U"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspK7X64FPyoA_U4pWPo9iK_hbLg-QGrDRogfdAjjctLJpSlMhwyQAyBWlwAB0HdejTg4f2SXgg8yqvgcDcpmaOVuL_L6fnu3tP6P-QEgYyWKk-eiBvybG7s5hU0EhSwu-RflKfr2ss9XAKdS3bfGvekLcVE2xutyU1grS6Gry_1XMycJ87SnwpNSbbsBhhseG8JLrR0J5WxtegZSI30e54eiX-7AS16BQIN51T9dEKCXd9XMiyLhftGuYumVvx0BUBH_uDkZabDVb9YiDG7vv-FhQBvGOBX600If0pkoVrOeqb0lQdeOLOTiGYImwSr4NERaEks",
+            "q": "Accountant fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspK7X64FPyoA_U4pWPo9iK_hbLg-QGrDRogfdAjjctLJpSlMhwyQAyBWlwAB0HdejTg4f2SXgg8yqvgcDcpmaOVuL_L6fnu3tP6P-QEgYyWKk-eiBvybG7s5hU0EhSwu-RflKfr2ss9XAKdS3bfGvekLcVE2xutyU1grS6Gry_1XMycJ87SnwpNSbbsBhhseG8JLrR0J5WxtegZSI30e54eiX-7AS16BQIN51T9dEKCXd9XMiyLhftGuYumVvx0BUBH_uDkZabDVb9YiDG7vv-FhQBvGOBX600If0pkoVrOeqb0lQdeOLOTiGYImwSr4NERaEks&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspK7X64FPyoA_U4pWPo9iK_hbLg-QGrDRogfdAjjctLJpSlMhwyQAyBWlwAB0HdejTg4f2SXgg8yqvgcDcpmaOVuL_L6fnu3tP6P-QEgYyWKk-eiBvybG7s5hU0EhSwu-RflKfr2ss9XAKdS3bfGvekLcVE2xutyU1grS6Gry_1XMycJ87SnwpNSbbsBhhseG8JLrR0J5WxtegZSI30e54eiX-7AS16BQIN51T9dEKCXd9XMiyLhftGuYumVvx0BUBH_uDkZabDVb9YiDG7vv-FhQBvGOBX600If0pkoVrOeqb0lQdeOLOTiGYImwSr4NERaEks"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxjOFB9aAnF8T4PZ_17e0pLtxTFOzKDqqIuWhkyzoMoWyDiCmdPhucL9_H48_BsAZb1W78431N4M2ZdMfxrd361hPlan1fBOov46HvBus3mMefO5eX-WHxTGUSq9LSrJpfkqJy03F6rFJZBTSKqqmbPxPqHFxDvOOs1UcWvmLbtLBXOPo3RMNI1oJcupKftUHPeJT0F4naQa0XnbcUJprpLwEF4C9LK4Lvut-Bqo0r6By5b9zBPwWGu19dK4ReKs4CIcRpzzzTEQWNAoqqhfus2jamr2jj_Dh7sT7YG8K_oCFSgCED9-M4MQRoT6yAXOWI66uL5w",
+            "q": "Accountant fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxjOFB9aAnF8T4PZ_17e0pLtxTFOzKDqqIuWhkyzoMoWyDiCmdPhucL9_H48_BsAZb1W78431N4M2ZdMfxrd361hPlan1fBOov46HvBus3mMefO5eX-WHxTGUSq9LSrJpfkqJy03F6rFJZBTSKqqmbPxPqHFxDvOOs1UcWvmLbtLBXOPo3RMNI1oJcupKftUHPeJT0F4naQa0XnbcUJprpLwEF4C9LK4Lvut-Bqo0r6By5b9zBPwWGu19dK4ReKs4CIcRpzzzTEQWNAoqqhfus2jamr2jj_Dh7sT7YG8K_oCFSgCED9-M4MQRoT6yAXOWI66uL5w&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxjOFB9aAnF8T4PZ_17e0pLtxTFOzKDqqIuWhkyzoMoWyDiCmdPhucL9_H48_BsAZb1W78431N4M2ZdMfxrd361hPlan1fBOov46HvBus3mMefO5eX-WHxTGUSq9LSrJpfkqJy03F6rFJZBTSKqqmbPxPqHFxDvOOs1UcWvmLbtLBXOPo3RMNI1oJcupKftUHPeJT0F4naQa0XnbcUJprpLwEF4C9LK4Lvut-Bqo0r6By5b9zBPwWGu19dK4ReKs4CIcRpzzzTEQWNAoqqhfus2jamr2jj_Dh7sT7YG8K_oCFSgCED9-M4MQRoT6yAXOWI66uL5w"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YizjrMESHhHpcDOZZN0U57bPBlFRdtXXOTgHJam6JiNNJUkNs79ve86E8Zx_gegizxfE6M-0AivS4_dQRBMnSqB3-tEYiA_Jh_ItM4m837H5aNoFf3Fjmr_UEICRgGFDkSJnymcKBpDtWwxK4v8mxj54ax5-Cx_xM172o5kBH1mxHDDqjZmKLppoLbAgI1lXO2PxYdsiMSshMR3pJlebmW0CiY3OMpvTqisKGuhaXEtx_b9b18Jv0IA0m08eZc7i8ZTwsjVYbmClbbOTmDj7LmMjOl-EltIGJjQTyWmxJ4DV-eaCM0XBhOjv1B1rxcgySok4QSA",
+            "q": "Accountant fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YizjrMESHhHpcDOZZN0U57bPBlFRdtXXOTgHJam6JiNNJUkNs79ve86E8Zx_gegizxfE6M-0AivS4_dQRBMnSqB3-tEYiA_Jh_ItM4m837H5aNoFf3Fjmr_UEICRgGFDkSJnymcKBpDtWwxK4v8mxj54ax5-Cx_xM172o5kBH1mxHDDqjZmKLppoLbAgI1lXO2PxYdsiMSshMR3pJlebmW0CiY3OMpvTqisKGuhaXEtx_b9b18Jv0IA0m08eZc7i8ZTwsjVYbmClbbOTmDj7LmMjOl-EltIGJjQTyWmxJ4DV-eaCM0XBhOjv1B1rxcgySok4QSA&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YizjrMESHhHpcDOZZN0U57bPBlFRdtXXOTgHJam6JiNNJUkNs79ve86E8Zx_gegizxfE6M-0AivS4_dQRBMnSqB3-tEYiA_Jh_ItM4m837H5aNoFf3Fjmr_UEICRgGFDkSJnymcKBpDtWwxK4v8mxj54ax5-Cx_xM172o5kBH1mxHDDqjZmKLppoLbAgI1lXO2PxYdsiMSshMR3pJlebmW0CiY3OMpvTqisKGuhaXEtx_b9b18Jv0IA0m08eZc7i8ZTwsjVYbmClbbOTmDj7LmMjOl-EltIGJjQTyWmxJ4DV-eaCM0XBhOjv1B1rxcgySok4QSA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSXR092H4bMt-eymNso6Lv0OJDdOQ7DpzLgFSOD2BDjykVV9KVrlNxZi6r6Q2DBg5PFPrzGMs4-Lf3cXkWBjcg20c75dfV5G7wWEbUiF65J-_Xte4_GkQaUv7sMMFS15wlScffyNn4ABAD7SqsmtslfjMMqN7mqZ20vNQiToC_Ky-2PGfS10LsaoZxGaEVyGRmJ9xScN9JkXedpDcJCjdonSt1pOGyxy1NJihb0Loz-Cx_v29B-UIK6LyIPr14A_oC85yxmM-FwpmijCK8TiTxlT3iyeg7RbzP1Rp8Eywqr2zRCa45JETv4cffmr0oGPFA9I68U",
+            "q": "Accountant fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSXR092H4bMt-eymNso6Lv0OJDdOQ7DpzLgFSOD2BDjykVV9KVrlNxZi6r6Q2DBg5PFPrzGMs4-Lf3cXkWBjcg20c75dfV5G7wWEbUiF65J-_Xte4_GkQaUv7sMMFS15wlScffyNn4ABAD7SqsmtslfjMMqN7mqZ20vNQiToC_Ky-2PGfS10LsaoZxGaEVyGRmJ9xScN9JkXedpDcJCjdonSt1pOGyxy1NJihb0Loz-Cx_v29B-UIK6LyIPr14A_oC85yxmM-FwpmijCK8TiTxlT3iyeg7RbzP1Rp8Eywqr2zRCa45JETv4cffmr0oGPFA9I68U&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSXR092H4bMt-eymNso6Lv0OJDdOQ7DpzLgFSOD2BDjykVV9KVrlNxZi6r6Q2DBg5PFPrzGMs4-Lf3cXkWBjcg20c75dfV5G7wWEbUiF65J-_Xte4_GkQaUv7sMMFS15wlScffyNn4ABAD7SqsmtslfjMMqN7mqZ20vNQiToC_Ky-2PGfS10LsaoZxGaEVyGRmJ9xScN9JkXedpDcJCjdonSt1pOGyxy1NJihb0Loz-Cx_v29B-UIK6LyIPr14A_oC85yxmM-FwpmijCK8TiTxlT3iyeg7RbzP1Rp8Eywqr2zRCa45JETv4cffmr0oGPFA9I68U"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspK7X64FPyoA_U4pWPo9iK_hbLg-QGrDRogfdAjjctLJpSlMhwyQAyBWlwAB0HdejTg4f2SXgg8yqvgcDcpmaOVuL_L6fnu3tP6P-QEgYyWKk-eiBvybG7s5hU0EhSwu-RflKfr2ss9XAKdS3bfGvekLcVE2xutyU1grS6Gry_1XMycJ87SnwpNSbbsBhhseG8JLrR0J5WxtegZSI30e54eiX-7AS16BQIN51T9dEKCXd9XMiyLhftGuYumVvx0BUBH_uDkZabDVb9YiDG7vv-FhQBvGOBX600If0pkoVrOeqb0lQdeOLOTiGYImwSr4NERaEks",
+            "q": "Accountant fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspK7X64FPyoA_U4pWPo9iK_hbLg-QGrDRogfdAjjctLJpSlMhwyQAyBWlwAB0HdejTg4f2SXgg8yqvgcDcpmaOVuL_L6fnu3tP6P-QEgYyWKk-eiBvybG7s5hU0EhSwu-RflKfr2ss9XAKdS3bfGvekLcVE2xutyU1grS6Gry_1XMycJ87SnwpNSbbsBhhseG8JLrR0J5WxtegZSI30e54eiX-7AS16BQIN51T9dEKCXd9XMiyLhftGuYumVvx0BUBH_uDkZabDVb9YiDG7vv-FhQBvGOBX600If0pkoVrOeqb0lQdeOLOTiGYImwSr4NERaEks&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspK7X64FPyoA_U4pWPo9iK_hbLg-QGrDRogfdAjjctLJpSlMhwyQAyBWlwAB0HdejTg4f2SXgg8yqvgcDcpmaOVuL_L6fnu3tP6P-QEgYyWKk-eiBvybG7s5hU0EhSwu-RflKfr2ss9XAKdS3bfGvekLcVE2xutyU1grS6Gry_1XMycJ87SnwpNSbbsBhhseG8JLrR0J5WxtegZSI30e54eiX-7AS16BQIN51T9dEKCXd9XMiyLhftGuYumVvx0BUBH_uDkZabDVb9YiDG7vv-FhQBvGOBX600If0pkoVrOeqb0lQdeOLOTiGYImwSr4NERaEks"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxjOFB9aAnF8T4PZ_17e0pLtxTFOzKDqqIuWhkyzoMoWyDiCmdPhucL9_H48_BsAZb1W78431N4M2ZdMfxrd361hPlan1fBOov46HvBus3mMefO5eX-WHxTGUSq9LSrJpfkqJy03F6rFJZBTSKqqmbPxPqHFxDvOOs1UcWvmLbtLBXOPo3RMNI1oJcupKftUHPeJT0F4naQa0XnbcUJprpLwEF4C9LK4Lvut-Bqo0r6By5b9zBPwWGu19dK4ReKs4CIcRpzzzTEQWNAoqqhfus2jamr2jj_Dh7sT7YG8K_oCFSgCED9-M4MQRoT6yAXOWI66uL5w",
+            "q": "Accountant fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnuO3Mwb-aOg7FMArldQIQbzAYYncg:1791542534937&q=Accountant+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxjOFB9aAnF8T4PZ_17e0pLtxTFOzKDqqIuWhkyzoMoWyDiCmdPhucL9_H48_BsAZb1W78431N4M2ZdMfxrd361hPlan1fBOov46HvBus3mMefO5eX-WHxTGUSq9LSrJpfkqJy03F6rFJZBTSKqqmbPxPqHFxDvOOs1UcWvmLbtLBXOPo3RMNI1oJcupKftUHPeJT0F4naQa0XnbcUJprpLwEF4C9LK4Lvut-Bqo0r6By5b9zBPwWGu19dK4ReKs4CIcRpzzzTEQWNAoqqhfus2jamr2jj_Dh7sT7YG8K_oCFSgCED9-M4MQRoT6yAXOWI66uL5w&udm=8&sa=X&ved=2ahUKEwj1gJSD4KyXAxW1RjABHX2UOnoQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Accountant+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxjOFB9aAnF8T4PZ_17e0pLtxTFOzKDqqIuWhkyzoMoWyDiCmdPhucL9_H48_BsAZb1W78431N4M2ZdMfxrd361hPlan1fBOov46HvBus3mMefO5eX-WHxTGUSq9LSrJpfkqJy03F6rFJZBTSKqqmbPxPqHFxDvOOs1UcWvmLbtLBXOPo3RMNI1oJcupKftUHPeJT0F4naQa0XnbcUJprpLwEF4C9LK4Lvut-Bqo0r6By5b9zBPwWGu19dK4ReKs4CIcRpzzzTEQWNAoqqhfus2jamr2jj_Dh7sT7YG8K_oCFSgCED9-M4MQRoT6yAXOWI66uL5w"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "US Accountant - Fresher",
+      "company_name": "Singhal Nitin & Associates",
+      "location": "Jaipur, Rajasthan",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant+fresher&htidocid=Iga6ab-9V-m2HIg8AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMQrCQBAAsc0TrLayEM0FwUarNAoWFgZr2RzH3YVz97jdQEr_4Ad8my8xNgMDM9VnUTX3DlpreSRFUtjCqTgJrsD39YaBexCHxQZggjOzT255DKpZDsaIpNqLokZbW34aJtfzZOZJ_nhIwOJyQnWP3b6Z6kx-bbpIPmCCa9RIsIJWhG2cG4HZLxjzWDZwwwFFA9IPTG85x6MAAAA&shmds=v1_ARwrE221k6WGAEX-UsFdicYtPWzNligG_BYoqYkyse9iE6_zTw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant+fresher&htidocid=Iga6ab-9V-m2HIg8AAAAAA%3D%3D",
+      "extensions": [
+        "18 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/us-accountant-fresher/singhal-nitin-associates/19565551",
+      "job_title": "US Accountant - Fresher",
+      "description": "Were Hiring  US Accounting Fresher!\n\n\nSinghal Nitin & Associates (SNA) is looking for enthusiastic and motivated freshers to join our US Accounting team in Jaipur.\n\n\nIf you have a background in B.Com, M.Com, or CA Inter/Dropout and want to build your career in US Accounting, this is a great opportunity to start your professional journey.\n\n\n Position: US Accounting  Fresher Location: Jaipur, Rajasthan\n\n\n Work Mode: Work From Office\n\n\n Working Hours: 10:00 AM  7:00 PM\n\n\n Working Days: Monday to Saturday\n\n\n Experience: Fresher / 01 Year\n\n\n Key Responsibilities\n\n\nAssist with bookkeeping and accounting activities for US-based clients.Maintain and update financial records accurately.Assist with accounts payable and accounts receivable activities.Support bank and account reconciliations.Work on basic financial reporting and accounting tasks.Learn and work with US accounting principles and practices.Coordinate with the team to ensure timely completion of assigned work. Who Can Apply B.Com / M.Com graduates.CA Inter / CA Dropouts can also apply.Candidates with a basic understanding of accounting concepts.Good communication and analytical skills.Willingness to learn US Accounting.Candidates who are comfortable working from the Jaipur office. What Youll GainPractical exposure to US Accounting & Bookkeeping.Opportunity to work with US-based clients.Professional learning and development.Growth opportunities within the organization. Interested candidates can apply by sharing their updated CV or visiting our office for an interview.\nJoin SNA and take the first step toward building your career in US Accounting!\n#Hiring #USAccounting #USAccountant #JuniorAccountant #AccountingJobs #FreshersJobs #BComJobs #MComJobs #CAInter #JaipurJobs #JobOpening #AccountingCareers #FreshersHiring .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/us-accountant-fresher/singhal-nitin-associates/19565551?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/us-accountant-fresher-singhal-nitin-associates-jaipur-rajasthan--t7xk-846616634?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJVUyBBY2NvdW50YW50IC0gRnJlc2hlciIsImNvbXBhbnlfbmFtZSI6IlNpbmdoYWwgTml0aW4gXHUwMDI2IEFzc29jaWF0ZXMiLCJodGlkb2NpZCI6IklnYTZhYi05Vi1tMkhJZzhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXU21GcGNIVnlMRkpoYW1GemRHaGhiaXhKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVjk1YTFnMVpETkZiV1JuVDJSMVJHSldRMWhzYkV0WGRXUXhkVk5vU3pkdFYwMUhhelkxTFhOUmNUaGhhM010TVZCd09IYzRZak5LU2xndFEwRXhWazVKYVhOMlZVSlNhVTFWY2xKT1gyVnVUV2g1Wm5SNVEweFFTRW80ZVRWeE0xSlNWVzlJWlRkRVYwMHhZM1JuZURSRFgwdHFibVY0V1ZCUFdWWXdiVE41ZUZWQ1VIZ1NGMEp6V0VsaGRsaHNUMHhYVG5kaWExQmZZV3B4TUZGakdpSkJSSE55T1daVWRqZHdjRkpMV0hwc1NIUm9ZVjlJZVhsRUxXSXRhMUZpWDBabiIsImZjdiI6IjMiLCJmY19pZCI6IklnYTZhYi05Vi1tMkhJZzhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Freshers For Office Accountant - Jaipur",
+      "company_name": "Energy Plus Solar EPC",
+      "location": "Jaipur, Rajasthan",
+      "via": "Jeevika India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant+fresher&htidocid=B_l7u4ZzeyljLSFXAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3NMQrCMBSAYVx7BKc3F21EcNFFkVZwsegB5DW8Jikxr-SlUDfv4DG8lSdRweXfPv7sNcm2VSSxFAUqjnBqW6cJdlrzEBKGBHM4ouuHCO_HEzpuQAijtsABDszG03RjU-plrZSIL4wkTE4Xmm-KAzU8qi-SX65iMVLvMdF1uVqMRR9MnpeBorlD7QeBC3uMUNZ7cOG_ncEZO5RkMXwAJd9-vK4AAAA&shmds=v1_ARwrE23T_r_go3gzohooPWLq3dfWD4ueblYWnbcBfxrm_qG_vw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant+fresher&htidocid=B_l7u4ZzeyljLSFXAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "₹1.25L–₹1.5L a year",
+        "Full–time"
+      ],
+      "source_link": "https://jeevikaindia.com/jobs.php?job=JEV26109BB4A35946",
+      "job_title": "Freshers For Office Accountant - Jaipur",
+      "description": "Work in Office for Accounting Make Call and Manage Office.ExperienceFresherNo. of Openings1Education12th PassRoleOffice AccountantIndustry TypeOil / Gas / PetroleumGenderFemaleJob CountryIndiaType of JobFull TimeWork Location TypeWork from Office",
+      "apply_options": [
+        {
+          "title": "Jeevika India",
+          "link": "https://jeevikaindia.com/jobs.php?job=JEV26109BB4A35946&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcmVzaGVycyBGb3IgT2ZmaWNlIEFjY291bnRhbnQgLSBKYWlwdXIiLCJjb21wYW55X25hbWUiOiJFbmVyZ3kgUGx1cyBTb2xhciBFUEMiLCJodGlkb2NpZCI6IkJfbDd1NFp6ZXlsakxTRlhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXU21GcGNIVnlMRkpoYW1GemRHaGhiaXhKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURk5OU25GRWRtOVFWbEI2TXpaTFUyWmFXVFJDYm5GR1Iwa3pRVlJYYTBwWVkwaGhUR2Q0VTI4ek1uUTBiemRWVEhKVlVVbDZNR3R1VWpsNlZUQkpPWEF0VkVoUk9HcHlTMVJMU1ZKNVptdHRkRmMzV1hremJWbzBSRlZuWTFsbloxbFpVMjV4U1dkaE5GUllYeTFuYTJoSkxVVktVVVZWVWs4MGVXTkdjbEpXT1ZOTlgwSVNGMEp6V0VsaGRsaHNUMHhYVG5kaWExQmZZV3B4TUZGakdpSkJSSE55T1daUmVVMTFhR0pqYldFemNGaGZZVEJSWkZwNFIxRkZiVFZ6WDNGMyIsImZjdiI6IjMiLCJmY19pZCI6IkJfbDd1NFp6ZXlsakxTRlhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Accountant - Fresher",
+      "company_name": "Winway Consultancy Services Private Limited (Bhopal, India)",
+      "location": "Jaipur, Rajasthan",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant+fresher&htidocid=y2etiKLXnhVAI6iJAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMW4CQQwAlZYnpHIZENxFSGlIFZBAiVKgUFAis1i3Rnv2au27QJc_5D95DC_h0kw1oxn9PYxmbyFoJ47iMIN1IYtU4PbzC2c9ghGWEEEFNqpNosfX6J5tUddmqWrM0TlUQdtahY56qYfI_nGwiIVyQqfD_OX5UmVpJts9yzdeYaViXRqW4Qo7Kj0HMtgW7gcbPrllpxM8LaNmTFN4lxPjGFjgAzl3ZQpfeEbziHIH_o1ztMEAAAA&shmds=v1_ARwrE22SI6ep54Pi7iy1dm1FDGsx3cSg6IOVWpxjEegbMitNJQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant+fresher&htidocid=y2etiKLXnhVAI6iJAAAAAA%3D%3D",
+      "extensions": [
+        "16 days ago",
+        "₹4L–₹6L a year",
+        "Full–time"
+      ],
+      "source_link": "https://in.jooble.org/jdp/5153024536094020234",
+      "job_title": "Accountant - Fresher",
+      "description": "Actively hiring \n\nAccountant                        \n\n\n\n\n\n\n\n\n\n\n\nStart Date                                \n\n Starts  Immediately                            \n\n\n\n CTC (ANNUAL) \n\n₹ 4,00,000 - 6,00,000                                    ₹ 4,00,000 - 6,00,000 /year                                \n\n\n\nExperience\n                                \n\n No experience required \n\n No experience required \n\n\n\n Apply By \n\n23 Oct' 26\n\n\n\n Posted 2 weeks ago \n\n\n\n International \n\n Fresher Job \n\n171 applicants \n\n\n\n About the job Key responsibilities: \n\n\n\n1. Perform data entry tasks using Tally software. \n2. Assist in managing the day-to-day operations of the unit.  Skill(s) required  Accounting  Accounting Software  Finance  Journal Entries  MS-Excel  MS-Office  Retail Management  Tally \n\n Earn certifications in these skills \n\n Salary  Probation: \n\n Duration: \n\nSalary during probation:     \n\n After probation: \n\n Annual CTC: ₹ 4,00,000 - 6,00,000 /year \n\n Perks 5 days a week \n\n Number of openings 10    \n\nAbout Winway Consultancy Services Private Limited (Bhopal, India)                At Winway Consultancy, we are dedicated to building lasting relationships between candidates and businesses. By understanding both parties' needs and goals, we create meaningful connections that foster long-term success.    \n\n\n\n Activity on Internshala \n\n\n\n Hiring since February 2025\n\n305 opportunities posted \n\n Additional Questions \n\n\n\n Sign up to continue \n\n\n\n Candidate sign up \n\nSign up/ Login with Google\n                    \n\nSign up with Email\n                    \n\n\n\n OR \n\nBy continuing as a candidate, you agree to our  T&C  .\n            \n\n Already registered?\n                                     Login \n\n\n\n Sign up to continue \n\n\n\n Candidate sign up \n\nSign up/ Login with Google\n                    \n\nSign up with Email\n                    \n\n\n\n OR \n\nBy continuing as a candidate, you agree to our  T&C  .\n            \n\n Already registered?\n                                     Login",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/5153024536094020234?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/job/detail/fresher-accountant-job-in-jaipur-at-winway-consultancy-services-private-limited1789799261?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IC0gRnJlc2hlciIsImNvbXBhbnlfbmFtZSI6IldpbndheSBDb25zdWx0YW5jeSBTZXJ2aWNlcyBQcml2YXRlIExpbWl0ZWQgKEJob3BhbCwgSW5kaWEpIiwiaHRpZG9jaWQiOiJ5MmV0aUtMWG5oVkFJNmlKQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2pSdlUyMURiVUZ0TW1nNGFqWTRTbTFaYmtoRU1UQTVUbGRJU0ZKZmEwMU1jMlYwU0hwNFduSkpjRTlCUWpkdGVHdGZRaTFPTjBONGRGZHZWa2xaY2xseU5sRXRWMnRRYTFsdVlVMWxWa0U0TUdSbVduTk9SMEkwWm1oRWMxUXdOelJhYkRCMlQyWkhUVkp5UVRkeFlra3plR0ZQVG5aNmJVUk9aV3QzZDJKSU1saGFja2NTRjBKeldFbGhkbGhzVDB4WFRuZGlhMUJmWVdweE1GRmpHaUpCUkhOeU9XWlJiVFJuT1ZKYWNFNHhlRVJ2UmpocVMxSTJVMU5LZVdSbmFEVlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ5MmV0aUtMWG5oVkFJNmlKQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Fresher Accountant",
+      "company_name": "Whispering Palms Hotel",
+      "location": "Jaipur, Rajasthan",
+      "via": "MyInternships.in",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant+fresher&htidocid=u9OonBtY2QrldwgMAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU43W2lEcNHJRcVJXBzLNRxNSnoXclfo6D84-H9-ibq87VXvRVWfCmmgAkfvZWJDNvg8XzBIB0pYfABhOIv0iZaHYJZ175xqano1tOgbL6MTpk5m90v6p9WAhXJCo3a728xN5n5VP0LUTCVyDzdMo8JFjBJEhivGPJU13HFAtYD8BZ80pq2aAAAA&shmds=v1_ARwrE23lN7HiKuK8e2-iA7MVOdUeyM_xPuPkT7eyOMpQUWqOpg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant+fresher&htidocid=u9OonBtY2QrldwgMAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://myinternships.in/internships/whispering-palms-hotel-hiring-fresher-accountant-jaipur-1qousj",
+      "job_title": "Fresher Accountant",
+      "description": "Looking to build a career as a Fresher Accountant? Whispering Palms Hotel wants someone dependable, quick to learn and ready to own their work, based in Jaipur. Day to day, you will handle the core tasks of the finance & accounting function, support senior colleagues, and make sure your work is accurate, on time and to a high standard. You will get structured guidance early on and increasing independence as you grow into the role. We care most about attitude: strong communication, reliability, and a real desire to learn. Relevant skills (Accounting, Tally, Excel, GST, Bookkeeping) are a plus but many can be taught on the job. You will be trained and mentored throughout, work to clear expectations, and have a genuine path to grow into a more senior position as you deliver. If that sounds like you, we would love to hear from you.",
+      "apply_options": [
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/whispering-palms-hotel-hiring-fresher-accountant-jaipur-1qousj?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcmVzaGVyIEFjY291bnRhbnQiLCJjb21wYW55X25hbWUiOiJXaGlzcGVyaW5nIFBhbG1zIEhvdGVsIiwiaHRpZG9jaWQiOiJ1OU9vbkJ0WTJRcmxkd2dNQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1ZjdE9FUndSM2xyVUdSblVFbFFjalZETm5OTFRtUlZjMGhtUkRkSk4zWTRVazh3ZFZjMlduZzFjVVJIUTNONFJsQm5UbU5VU2tobFNIWXpaMEZTVVZGVE5WOUJMVGxLUW5BeFNFaDFaVk5HWWxWQ1pVSk5RV3BtY1c1cWNqa3phbHB1VDJaUVRuVjVSRTlMWlU5bGNVazNZM0ozU1d0aldIaDFOMjEzY3pBelRuTm9UbVlTRjBKeldFbGhkbGhzVDB4WFRuZGlhMUJmWVdweE1GRmpHaUpCUkhOeU9XWlRNMDU2ZWpoNmFFRTRiRXgwZWpKZlZYTnNSMWd4VTBwTlRWaG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJ1OU9vbkJ0WTJRcmxkd2dNQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Freshers For Office Accountant - Jaipur",
+      "company_name": "Energy Plus Solar EPC",
+      "location": "Jaipur, Rajasthan",
+      "via": "PlacementIndia.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant+fresher&htidocid=FFJuvIq2KHLR2pMzAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3NMQrCMBSAYVx7BKc3F21EcNFFkVZwsegB5DW8Jikxr-SlUDfv4DG8lSdRweXfPv7sNcm2VSSxFAUqjnBqW6cJdlrzEBKGBHM4ouuHCO_HEzpuQAijtsABDszG03RjU-plrZSIL4wkTE4Xmm-KAzU8qi-SX65iMVLvMdF1uVqMRR9MnpeBorlD7QeBC3uMUNZ7cOG_ncEZO5RkMXwAJd9-vK4AAAA&shmds=v1_ARwrE23T_r_go3gzohooPWLq3dfWD4ueblYWnbcBfxrm_qG_vw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant+fresher&htidocid=FFJuvIq2KHLR2pMzAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4fcb24c5d49146ef16c/images/2O2FbyacMlXS0su5qFPTe5lgXGGSFQG8e2joLmmfQOE.jpeg",
+      "extensions": [
+        "₹1.25L–₹1.5L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.placementindia.com/job-detail/office-accountant-in-energy-plus-solar-epc-at-jaipur-1422659.htm",
+      "job_title": "Freshers For Office Accountant - Jaipur",
+      "description": "Work in Office for Accounting Make Call and Manage Office.\n\nExperience\n\nFresher\n\nNo. of Openings\n\n1\n\nEducation\n\n12th Pass\n\nRole\n\nOffice Accountant\n\nIndustry Type\n\nOil / Gas / Petroleum\n\nGender\n\nFemale\n\nJob Country\n\nIndia\n\nType of Job\n\nFull Time\n\nWork Location Type\n\nWork from Office",
+      "apply_options": [
+        {
+          "title": "PlacementIndia.com",
+          "link": "https://www.placementindia.com/job-detail/office-accountant-in-energy-plus-solar-epc-at-jaipur-1422659.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcmVzaGVycyBGb3IgT2ZmaWNlIEFjY291bnRhbnQgLSBKYWlwdXIiLCJjb21wYW55X25hbWUiOiJFbmVyZ3kgUGx1cyBTb2xhciBFUEMiLCJodGlkb2NpZCI6IkZGSnV2SXEyS0hMUjJwTXpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXU21GcGNIVnlMRkpoYW1GemRHaGhiaXhKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUR2R2VEdGSGJrTkRTeTFUVEVkTGRWaEpNVTFqY1ZKcll6bE1iSFoyT1hWdUxXaEhZWFY2UVZwSVkxRjNVVnBVUjFOTGJHaHFTMEY1UW5aUU1tZERObFptZFVodmJGcE5Na051V2s0MlNHVkVTMDVRZUVKd2JFWm1ZVWRGYVZkbWJIZEhNbUZRVVRGaU1VNVNXVzVTWkU5bk5XUnBhRkJLUVc1bWNYSXhiMGhLVm5KaWVrWVNGMEp6V0VsaGRsaHNUMHhYVG5kaWExQmZZV3B4TUZGakdpSkJSSE55T1daVFdqaEpXRFJ0UlZFM1lUbERSR1ZRT0d0MFYxWlhYekUxZGs1biIsImZjdiI6IjMiLCJmY19pZCI6IkZGSnV2SXEyS0hMUjJwTXpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Direct Walk-In For Accountant",
+      "company_name": "Star Vision Placement",
+      "location": "Jaipur, Rajasthan",
+      "via": "Star Vision Placement",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant+fresher&htidocid=wjb6ul4mJ_2vHHfeAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TrLYOmhNBC60EUbQSBS3D5liSi5fb43YDKf2DL_BrvsTYTDcz2WeSrfcukVV4oH_OTwEOnGBnLfdBMSh8X29ouQIhTLYBDnBkrj1Nt41qlI0xIr6oRVGdLSx3hgNVPJhRkj9KaTBR9KhULleLoYihzvObYoK7EzcGLx4tdTTOXIAzutinGVyxRdEGww_xRUQ_pAAAAA&shmds=v1_ARwrE21t4_oElMOmSlbZb1RMd5NtaGPz1Lz6NG3WzqkqEHDUuA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant+fresher&htidocid=wjb6ul4mJ_2vHHfeAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.starvisionplacement.com/job-openings-for-accountant-jaipur-1242651.htm",
+      "job_title": "Direct Walk-In For Accountant",
+      "description": "An Accountant helps businesses make critical financial decisions by collecting, tracking, and correcting the company's finances. They are responsible for financial audits, reconciling bank statements,",
+      "apply_options": [
+        {
+          "title": "Star Vision Placement",
+          "link": "https://www.starvisionplacement.com/job-openings-for-accountant-jaipur-1242651.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/direct-walk-in-for-accountant/star-vision-placement/19544435?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaXJlY3QgV2Fsay1JbiBGb3IgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IlN0YXIgVmlzaW9uIFBsYWNlbWVudCIsImh0aWRvY2lkIjoid2piNnVsNG1KXzJ2SEhmZUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMycHJkbkJYWDJKcWNraFBWVkJ2V1RseE0xTnpaSGRuYzJsV2JHNW5iMDl0Y1RaZk5ucHFYMWczUWtGaGEwUlBkRFI2ZDBsSlVHdGhWakZQUkhoUmMzbDFSRzQ1ZG1SQ2NuUnZXbWxrTnpGWlIxcGxjbTkxTUhFNFRXRk5PRTVaWWpOUVZXNU1abWt3YlVFMFNreGtUVWhEYlZSRloyVlBaRTlMY1d4dlVsZFFSRVEzTURZU0YwSnpXRWxoZGxoc1QweFhUbmRpYTFCZllXcHhNRkZqR2lKQlJITnlPV1pTWDNvd1kyMVFTVlYzYldGemNIZG5NVEYzYmxKS1lrOWlWMUpCIiwiZmN2IjoiMyIsImZjX2lkIjoid2piNnVsNG1KXzJ2SEhmZUFBQUFBQT09In0="
+    },
+    {
+      "title": "US Accounts Associate (Bhainslana)",
+      "company_name": "MYCPE ONE",
+      "location": "Jaipur, Rajasthan",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant+fresher&htidocid=hHi7s105WEgU51ERAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMPQrCQBBAYWxzBAuZUkWyItiYKkoQBH9QLKzCZFmyG9aZJbOBlN7BzuN5EmPzuu8ln1GS3W-Qa80dRYFchLXDaGC6tehIPBLO4Pt6Q8MViMFWW2CCPXPtzTizMQbZKCXi01oiRqdTzU_FZCru1YDkn1Istib44Vyu1ss-DVTPJ8fH7lLA-VSAIzigC127gCs2KNEi_QBKlLBxnQAAAA&shmds=v1_ARwrE205FCbiFqBtI7NgRqmuAdBCFli9jncP8TC4xcefSiGIVg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant+fresher&htidocid=hHi7s105WEgU51ERAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/us-accounts-associate-bhainslana/mycpe-one/19498652",
+      "job_title": "US Accounts Associate (Bhainslana)",
+      "description": "We are looking for a motivated and detail-oriented US Tax Accountant to join our team. This opportunity is ideal for CA Freshers or CA Inter candidates who are interested in building a career in US Accounting and Taxation. The candidate will support tax compliance, accounting operations, financial reporting, and bookkeeping activities while working closely with senior team members.\n\nKey Responsibilities\n\n- Prepare journal entries and maintain general ledger records.\n- Perform bank, credit card, and account reconciliations.\n- Assist in month-end and year-end closing activities.\n- Support preparation of financial statements and management reports.\n- Handle bookkeeping activities using accounting software such as QuickBooks or NetSuite.\n- Assist with accounts payable and accounts receivable processes.\n- Maintain organized financial records and documentation.\n- Support budgeting, reporting, and financial data analysis activities.\n- Ensure accuracy and completeness of accounting entries and records.\n- Coordinate with internal teams for financial and accounting requirements.\n\nRequired Qualifications \n- CA Fresher / CA Inter / Bachelor's degree in Commerce, Accounting, or Finance.\n- Basic understanding of accounting principles and taxation concepts.\n- Interest in US Accounting\n- Familiarity with MS Excel and accounting software is preferred.\n- Good analytical and problem-solving skills.\n- Strong attention to detail and willingness to learn.\n- Good verbal and written communication skills.\n- Ability to work in a team-oriented and deadline-driven workplace. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/us-accounts-associate-bhainslana/mycpe-one/19498652?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJVUyBBY2NvdW50cyBBc3NvY2lhdGUgKEJoYWluc2xhbmEpIiwiY29tcGFueV9uYW1lIjoiTVlDUEUgT05FIiwiaHRpZG9jaWQiOiJoSGk3czEwNVdFZ1U1MUVSQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZsU2VHcExTMjl3TTBwcVZGaFBZekJNYTA5WVoxbHVhMHhVWDFKdVpIUnFTR05HTFU1V0xUbHdlbmRPYmtKSE4xOURTV1pwWlVNMWRqTkRUMFp1V1dwSGF5MUtjVmxsZDNwRlJqWXhSVXRvVjNoT2RYSjBjRXBZYlc1cFNHWTBiVEoxY21VNVUyMWtNa1ZqTmtoRGExbE5SWFpNUjJwc2FYWTFWR1o2U2tsVGExUjNTeTBTRjBKeldFbGhkbGhzVDB4WFRuZGlhMUJmWVdweE1GRmpHaUpCUkhOeU9XWlRjV2cxY1VoNWNucG1iMnhDYzNaTlowazFSME5tUTNGUFpFVkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJoSGk3czEwNVdFZ1U1MUVSQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Accountant/ Account Executive",
+      "company_name": "Petrobot Technologies",
+      "location": "Jaipur, Rajasthan",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant+fresher&htidocid=mYyG5xRQz5RtUnsvAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3LMQrCQBBAUWxzBKupg2RF0EIrCxGsROzDZBl2N8SZZWciKb2DJ_BqnkQFm89rfvWaVZu99zKyIZuDv-EwkR8t3Qnejyf00oESFh9BGI4iYaD5Lppl3TqnOjRBDS35xsvNCVMnk_tO-kurEQvlAY3a1Xo5NZlDXZ_JinRicCUfWQYJiRQSwwlTHssCLtijWkT-AFKoCPWkAAAA&shmds=v1_ARwrE2154TCW2fAVUgCLPzgWoZtJQVHyJ4Q1KYtxU37TdAN7YQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant+fresher&htidocid=mYyG5xRQz5RtUnsvAAAAAA%3D%3D",
+      "extensions": [
+        "₹1L–₹50L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/petrobot-technologies-accountant-account-executive-jaipur-rajasthan-2-to-4-years-774290",
+      "job_title": "Accountant/ Account Executive",
+      "description": "Company DescriptionPetroBot Technologies is a robotic technology start-up located in Jaipur. Our flagship product is the PetroBot ITIS Rover, which is a remotely-operated robotic crawler that carries out on-stream inspection of hydrocarbon storage tanks. We also offer the MagRover, a remotely-operated wall-climbing robot for external inspection of industrial equipment. Our team of experts is dedicated to providing cutting-edge solutions that make inspection cost-effective, affordable, and efficient.Job DescriptionGood knowledge of day-to-day accounting, Direct and Indirect Taxes like TDS & GST, Accounts payables, Accounts Receivable, Bank Reconciliation, Vendor Reconciliation, Invoice Processing, Ledger n journal entries, Financial Documents etc. Role & responsibilitiesQualificationsEducationUG:B. Com in Any SpecializationPreferred candidate profile:Qualification: B. Com /M. Com,Experience: Min 2 yrs of experience in accounting and Finance.Additional InformationRole:Accountant/ Account ExecutiveIndustry Type:Accounting/ AuditingDepartment:Finance & AccountingEmployment Type:Full Time, PermanentRole Category:Accounting & TaxationKey Skills:AccountingTallyVendor PaymentsTDSAccount PayablesGSTTaxationBank Reconciliation",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/petrobot-technologies-accountant-account-executive-jaipur-rajasthan-2-to-4-years-774290?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50LyBBY2NvdW50IEV4ZWN1dGl2ZSIsImNvbXBhbnlfbmFtZSI6IlBldHJvYm90IFRlY2hub2xvZ2llcyIsImh0aWRvY2lkIjoibVl5RzV4UlF6NVJ0VW5zdkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXNUhTemh5VjFWcFVFczNSMFJQYUd0S1kyRnlTRWwyU2pBM1ozcDZWSEl0TlRacVIwNUhTRGhqWm5VMVYweFliemR2VlV0clptSldYMmRXTjNwVmFFTXRXR3RoYkhkVllrOUdNMmhCTlVGTlJVdHBkekY2Wm5GVFlWRXlSRXBOY0ZndGJWWlFRV3cwV0c1eVRtNDFTRkpZUWxab1lUQmpUbXBzT1VSdGRGODVibEIxZVdNU0YwSnpXRWxoZGxoc1QweFhUbmRpYTFCZllXcHhNRkZqR2lKQlJITnlPV1pVVHpCSFVsQlRSMk5zWDBvdGVXVjRiMmcxWTNrNVkxVlBSbmRuIiwiZmN2IjoiMyIsImZjX2lkIjoibVl5RzV4UlF6NVJ0VW5zdkFBQUFBQT09In0="
+    },
+    {
+      "title": "Female - Walk-In Interview For Tally Operator",
+      "company_name": "Maharia Automobile Pvt Ltd",
+      "location": "Sikar, Rajasthan",
+      "via": "Placement India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant+fresher&htidocid=Pm6Z4ABJPY_I2itbAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBBFsc0RrKYWTUSw0comElAUFSzDJA7ZTTY7YXeMsfMOnsULeRLX5sN78OBHn1GUptSiIZjBFU0zyyxkVsj1mh6QsoMLGvOEQ0cOJeD39YaaC_CErlTAFrbMlaHxWol0fpUk3pu48oKiy7jkNmFLBQ9JiPx_cq_QUWdQKF8s50Pc2WoS7zFYjbC5C7dc6HDo2Avs5Abawlk36KZwwhq9KLQ_hDHGJrgAAAA&shmds=v1_ARwrE21cO2Ffv6zfW79nwM1pbjUCcbKob5lEXNY09OavEVYJWA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant+fresher&htidocid=Pm6Z4ABJPY_I2itbAAAAAA%3D%3D",
+      "extensions": [
+        "₹80K–₹1.75L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.placementindia.com/job-detail/tally-operator-in-maharia-automobile-pvt-ltd-at-sikar-1425191.htm",
+      "job_title": "Female - Walk-In Interview For Tally Operator",
+      "description": "We are looking for a skilled Tally Operator to join our team in Sikar, India. The ideal candidate should have 1 to 2 years of experience and be a graduate. This role is essential for managing and maintaining financial records accurately.Key Responsibilities:1. Data Entry: Input financial transactions and data into the Tally software with precision and attention to detail to ensure accurate record-keeping.2. Account Reconciliation: Regularly reconcile accounts to verify that records are correct and up to date, ensuring alignment with bank statements and other financial documents.3. Financial Reporting: Prepare various financial reports using Tally, including profit and loss statements and balance sheets, to assist management in making informed decisions.4. Inventory Management: Track and manage inventory records using Tally, helping to ensure that stock levels are maintained efficiently.5. Communication: Collaborate with team members and other departments to ensure smooth operations and address any discrepancies in financial data.Required Skills and Expectations:The successful candidate must be proficient in using Tally software and have strong knowledge of accounting principles. Attention to detail is crucial, as errors can lead to significant issues. Effective communication skills are necessary for collaboration and presenting financial information clearly. The candidate should also be organized, able to manage multiple tasks, and work efficiently within a team environment. A commitment to maintaining confidentiality and integrity in financial matters is essential.\n\nExperience\n\n1 - 2 Years\n\nNo. of Openings\n\n1\n\nEducation\n\nGraduate (B.Com)\n\nRole\n\nTally Operator\n\nIndustry Type\n\nAutomobile / Auto Ancillaries\n\nGender\n\nFemale\n\nJob Country\n\nIndia\n\nType of Job\n\nFull Time\n\nWork Location Type\n\nWork from Office\n\nWalk-in interview location\n\nMaharia automobile PVT. Ltd. Near puniya wines, sikar, Rajasthan.332001",
+      "apply_options": [
+        {
+          "title": "Placement India",
+          "link": "https://www.placementindia.com/job-detail/tally-operator-in-maharia-automobile-pvt-ltd-at-sikar-1425191.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGZW1hbGUgLSBXYWxrLUluIEludGVydmlldyBGb3IgVGFsbHkgT3BlcmF0b3IiLCJjb21wYW55X25hbWUiOiJNYWhhcmlhIEF1dG9tb2JpbGUgUHZ0IEx0ZCIsImh0aWRvY2lkIjoiUG02WjRBQkpQWV9JMml0YkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRGUmxXV3RxWlhaWmNuUjNSazUxUzAxNlVuVjJjbmRIWDNOTk1GOXdZV2xaUVMxR2RFd3hXV1V6Y1V4R1duSmFUbXBPVW1ObGNuZE9TRU4yU2swNFlYTkpUV3BKTkcxeE1IQXphbEpKYjBaZlRuSTJUMDVDV2tWWmJVbGxUMjFwYUUxTVZtVmtjMHBOVTFKaFkwaGhTa1ZmVTJJd1dHMDViMk40YW01TFowUXpZMms1TlRjU0YwSnpXRWxoZGxoc1QweFhUbmRpYTFCZllXcHhNRkZqR2lKQlJITnlPV1pSZEhOQ1l6bGlhMnRJZUVKNldYRTRiVGxSTlhSTVkzcFBjRkozIiwiZmN2IjoiMyIsImZjX2lkIjoiUG02WjRBQkpQWV9JMml0YkFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVjk1YTFnMVpETkZiV1JuVDJSMVJHSldRMWhzYkV0WGRXUXhkVk5vU3pkdFYwMUhhelkxTFhOUmNUaGhhM010TVZCd09IYzRZak5LU2xndFEwRXhWazVKYVhOMlZVSlNhVTFWY2xKT1gyVnVUV2g1Wm5SNVEweFFTRW80ZVRWeE0xSlNWVzlJWlRkRVYwMHhZM1JuZURSRFgwdHFibVY0V1ZCUFdWWXdiVE41ZUZWQ1VIZ1NGMEp6V0VsaGRsaHNUMHhYVG5kaWExQmZZV3B4TUZGakdpSkJSSE55T1daVWRqZHdjRkpMV0hwc1NIUm9ZVjlJZVhsRUxXSXRhMUZpWDBabiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&next_page_token=eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVjk1YTFnMVpETkZiV1JuVDJSMVJHSldRMWhzYkV0WGRXUXhkVk5vU3pkdFYwMUhhelkxTFhOUmNUaGhhM010TVZCd09IYzRZak5LU2xndFEwRXhWazVKYVhOMlZVSlNhVTFWY2xKT1gyVnVUV2g1Wm5SNVEweFFTRW80ZVRWeE0xSlNWVzlJWlRkRVYwMHhZM1JuZURSRFgwdHFibVY0V1ZCUFdWWXdiVE41ZUZWQ1VIZ1NGMEp6V0VsaGRsaHNUMHhYVG5kaWExQmZZV3B4TUZGakdpSkJSSE55T1daVWRqZHdjRkpMV0hwc1NIUm9ZVjlJZVhsRUxXSXRhMUZpWDBabiIsImZjdiI6IjMifQ%3D%3D&q=Accountant+fresher"
+  },
+  "_retrieved_at": "2026-10-09 10:42:04 UTC"
+}

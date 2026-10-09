@@ -165,3 +165,18 @@ No network search was used. Ranking and course-rule result changes are retained.
 - Verify: Git 3.726111 hours, three qualifying videos, standard duration confidence.
   New calls: 1. Fastest winners remain Responsive Design and SQL. Diff reviewed.
 - Record: C Account baseline usage 0 / 250 left; phase cap 105, total 160.
+
+## C2 - Eight-pair priority snapshot collection
+
+- Research: used documented role/city Jobs requests and shared course queries;
+  reused the two existing snapshots and saved courses.
+- Plan/acceptance: at least eight pairs, tier-2 cities, non-developer work and an
+  honest limited-data case; all run offline. Remaining seven pairs deferred.
+- Build: added six pairs, saved manifest and budgeted collection script. Dehradun
+  deliberately uses one base page; this scope is disclosed, not presented as a census.
+- Test: every saved pair runs with network blocked; golden data regenerated.
+- Verify: eligible counts: Bengaluru frontend 23, Noida analyst 20, Hyderabad analyst
+  16, Pune analyst 14, Jaipur analyst 17, Indore analyst 5, Jaipur accountant 14,
+  Dehradun marketing 5. Limited-data flags on Indore and Dehradun.
+- Record: step uses durable phase ledger; exact attempts in reports/build_usage.json.
+  Responses redacted before saving. Diff reviewed. Extra pairs deferred by priority.

@@ -1,0 +1,512 @@
+{
+  "search_metadata": {
+    "id": "6ac8c49dbde97980214a6cec",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/JIptizzu8ADOV2ltsEP0K8ILVvvliPqu_7tSigu03F8/6ac8c49dbde97980214a6cec.json",
+    "markdown_endpoint": "https://serpapi.com/searches/JIptizzu8ADOV2ltsEP0K8ILVvvliPqu_7tSigu03F8/6ac8c49dbde97980214a6cec.md",
+    "created_at": "2026-10-09 10:40:29 UTC",
+    "processed_at": "2026-10-09 10:40:29 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Junior+Data+Analyst&uule=w+CAIQICIZSHlkZXJhYmFkLFRlbGFuZ2FuYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/JIptizzu8ADOV2ltsEP0K8ILVvvliPqu_7tSigu03F8/6ac8c49dbde97980214a6cec.html",
+    "total_time_taken": 5.14
+  },
+  "search_parameters": {
+    "q": "Junior Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Hyderabad, India",
+    "location_used": "Hyderabad,Telangana,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHnjL-cLBgWFh2Rjf_gduiVKiE54Z95kiNRN7uRfZZI8TAyI-Ne8-w4I8q9bxQpCtk6EVqdY5q9I4I3QjUntBLeMxkfzdHq75TY-PEohv_Rgq5KXBxGRkVIPMj-HszomJwOgUsr8y1QyHnRL23dTbxCcy-2s",
+        "q": "Junior Data Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHnjL-cLBgWFh2Rjf_gduiVKiE54Z95kiNRN7uRfZZI8TAyI-Ne8-w4I8q9bxQpCtk6EVqdY5q9I4I3QjUntBLeMxkfzdHq75TY-PEohv_Rgq5KXBxGRkVIPMj-HszomJwOgUsr8y1QyHnRL23dTbxCcy-2s&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQxKsJKAB6BAgfEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHnjL-cLBgWFh2Rjf_gduiVKiE54Z95kiNRN7uRfZZI8TAyI-Ne8-w4I8q9bxQpCtk6EVqdY5q9I4I3QjUntBLeMxkfzdHq75TY-PEohv_Rgq5KXBxGRkVIPMj-HszomJwOgUsr8y1QyHnRL23dTbxCcy-2s"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw",
+            "q": "Junior Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIJBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew",
+            "q": "Junior Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIJBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ",
+            "q": "Junior Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIJBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ",
+            "q": "Junior Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIJBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw",
+            "q": "Junior Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIJBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew",
+            "q": "Junior Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIJBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ",
+            "q": "Junior Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIJBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ",
+            "q": "Junior Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIJBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg",
+            "q": "Junior Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIIxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c",
+            "q": "Junior Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIIxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M",
+            "q": "Junior Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIIxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg",
+            "q": "Junior Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIIxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg",
+            "q": "Junior Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIIxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c",
+            "q": "Junior Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIIxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M",
+            "q": "Junior Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIIxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg",
+            "q": "Junior Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQntmaMdOKXbZV9jjGVDmLjXBiwtGcg:1791542433404&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg&udm=8&sa=X&ved=2ahUKEwiN_d7S36yXAxWLE1kFHffHPGsQkbEKegQIIxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Junior Data Analyst",
+      "company_name": "Brillius Technologies",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=Bg6SFMkkbzL8IVlYAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKupJWZFsNFKERRr-zDZDJuVcSbsbCDpvIOdx_MkxuY3j198FkV5GyRqgjNmhKMgT5bh-3rDQxswwuQ7UIGLamBaHrqce9s7Z8ZVsIw5-srr06lQo6ObJ_untg4T9YyZ6u1uM1a9hNX6lCJzHAzu5DtR1hDJIApcp5YSNtiWMzFKQMEfAi5qPJ0AAAA&shmds=v1_ARwrE22Yw1B0vZhtTJK4NSlYu9hjCg7nEeN-aDqfROB8drdTOA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=Bg6SFMkkbzL8IVlYAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/junior-data-analyst/brillius-technologies/19507619",
+      "job_title": "Junior Data Analyst",
+      "description": "Role Description:\nThe Junior Data Analyst will be responsible for collecting, analyzing, and interpreting data to help drive business decisions. The role will involve working closely with the data team to ensure data quality and accuracy.\n\n\nQualifications\n\n\n\nData Analysis, Data Interpretation, and Data Collection skills\n\n\nProficiency in data analysis tools like Excel, SQL, or Python\n\n\nStrong analytical and problem-solving abilities\n\n\nAbility to work collaboratively in a team environment\n\n\nAttention to detail and accuracy in work\n\n\nGood communication and presentation skills\n\n\nBachelor's degree in Data Science, Statistics, Mathematics, Computer Science, or a related field .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-data-analyst/brillius-technologies/19507619?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/junior-data-analyst-straive-intshyderabad-to-3-years-experience-d182fedd-2417-4dc9-9c80-487f4da4ddfa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/programmers-io-junior-data-analyst-hyderabad-0-to-1-years-626509?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/jobs/analytics-vidhya-junior-data-analyst-hyderabad-985e89?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Meskohire",
+          "link": "https://www.meskohire.com/jobs/junior-data-analyst-hyderabad-india-elixir-india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiQnJpbGxpdXMgVGVjaG5vbG9naWVzIiwiaHRpZG9jaWQiOiJCZzZTRk1ra2J6TDhJVmxZQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWVTBjbmRXU3paaFNWaHZVRVZGT1Y5UmFsbGtUbEZsYkVsSldqZ3liMHBzUVVZNFFrdHRhVzV1VEZkbWNHVnpUV3hRZFRoT09EaGtSMU5tV2pVelgxSldWalZtYjFocWIxbFNOVEJTWkcwdE0zbzNUR1ZwTjI5b2FuUndjVzVVUW0xbVpYTkphRlYyUW5ReWJGRTVlR1JpYmtoS00xUjBjREZaYlVSaU1HNUxZMDVDYmtvU0YyOWpWRWxoY3pKdlIwbDFialZPYjFBNU5GOTZNbEZaR2lKQlJITnlPV1pSWjI1aFEwZzJRazFFZVhWVFZrbEZTMDU1Y2xjMmRrcEhkamRCIiwiZmN2IjoiMyIsImZjX2lkIjoiQmc2U0ZNa2tiekw4SVZsWUFBQUFBQT09In0="
+    },
+    {
+      "title": "Jr Analyst | Hyderabad, IN",
+      "company_name": "Arcesium LLC",
+      "location": "Hyderabad, Telangana",
+      "via": "EFinancialCareers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=ai5S4iQl28r2tpPaAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_-Oawchl7FWk4JiXmFNZXKJQo-BRmZJalJiUmKKj4Omn8KhhskJWfpJCcWpiUXKGQn6egnt-fnpOqpR1RklJQbGVvn5xcY5eenFJYklmsl5yfq5-fl5qUn6FPlBTMYiIL85ILEotyEksSY03MjWo0CvIS9dScSxKTi3OLM1V8PFxVsjMQ7Y0JDUnMS89MS8RALn-96ebAAAA&shmds=v1_ARwrE21IyEqv_fUhk4X5Qr6o5WG_bBW78DeHGglQ7HXk47b03w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=ai5S4iQl28r2tpPaAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEX8_v____-XoabY3N_I4fNwt-Pj8Pny-P1Gp92ayuqlrbLY6vestLjC3vJNqd642fDn6uxns-F-veXS1tnP5fWPmqBer-C-xMizur4Al9f09vgAk9YAjtSs0-3Dys3g5OaPxegnntqutQbVAAABFElEQVRIie2S3XKDIBBG86mAZCsIgn-t0bz_S1aNxLTNRc1dZjgzOCuzZxaWPZ0ikUjkPQD-Rv_yHNvy-7Y5JPJuM8_nZDxSE9TZOR8fSZ-km4gnp36yk31KoE16BBGFErOK9da3hZpuMR6bor-o8SVOd9GYAVxwOAJ4BlC2_grORQai3aSLX64XRKG4AlPaTExqpuuMScmKHHoyzOYyd8FE5at-F6EtdYI5kQMin-S1yKVghYKWNZ835RBakfoqfTgqzCRrbZ24QgyKUBDPlJ0rDouo7iJGf_nRnKWSM9ZBKuVIMTuvwZKpjTRc1EFE6Ztfz4HtQZYOYv3swd7W0rcvDQDGNmS3zbFhfXHII5FI5A34BrYJDNBaxmQYAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.efinancialcareers.com/jobs-India-Hyderabad-Jr_Analyst.id24864367",
+      "job_title": "Jr Analyst | Hyderabad, IN",
+      "description": "Jr Analyst\r\n\r\nCompany Overview \r\n \r\n Arcesium is a global financial technology firm that solves complex data-driven challenges faced by some of the world's most sophisticated financial institutions. We constantly innovate our platform and capabilities to meet tomorrow's challenges, anticipate the risks our clients encounter, and design advanced solutions to help our clients achieve transformational business outcomes. \r\n \r\n Financial technology is a high-growth industry as change and innovation continue to disrupt the status-quo and prompt major transformation. Arcesium is at a particularly interesting time in our own growth as we look to leverage our successfully established market position and expand operations in pursuit of strategic new business opportunities. We value intellectual curiosity, proactive ownership, and collaboration with colleagues, and we empower you to meaningfully contribute from day one and accelerate your professional development. \r\n \r\n We are looking for a Jr Analyst to join our Financial Operation group. This group is responsible for various post-trade activities and is an integral part of our global operations. If hired, you will one of the sub-departments mentioned below \r\n \r\n Trade Accounting and Operation : Fund accounting, position and cash reconciliation, resolution of trade and settlement issues, and provide business analysis to firm wide SIP initiatives. \r\n \r\n Middle Office : Securities and Transaction Management, Asset Servicing and Corporate Action management across various asset classes, Reference, and Static data management. \r\n \r\n Treasury:  Manage liquidity, margin related movements, and optimize financing arrangements. \r\n \r\n Pricing : Build valuation tools and provide valuation for the firm's investments, reconcile, and analyze prince difference between Arcesium's platform and Admin/Street \r\n \r\n What You'll Do: \r\n  \r\n• Develop a thorough understanding of Arcesium platform, various asset classes and market standards supporting post trade life cycle management. \r\n• Be accountable for your work output: Daily and monthly processes around trade and security management, reconciliations margin management. \r\n• Liaise with multiple internal and external counterparts as required for issue resolution. \r\n• Provide adequate support to various process supporting the investment life cycle. \r\n• Ensure all activities are captured correctly and book appropriate adjustments wherever required.  \r\n What You'll Need \r\n  \r\n• At a minimum a bachelor's degree \r\n• Strong analytical and problem-solving skills \r\n• Strong interpersonal skills with a collaboration zones. \r\n• Good oral/written communications skills \r\n• Proficient in Microsoft Office application especially MS Excel \r\n• Hands on experience with VBA macros / Python will be a big plus.  \r\n Arcesium's Personal Data Privacy Notice for Candidates is linked here. \r\n \r\n Recruiting Security Emails from genuine Arcesium recruiters who are employees of the company will always come from the @arcesium.com domain. In some cases, you may also be contacted by independent search firms engaged to recruit on our behalf; emails from their employees should always come from their firm's applicable domain. We'll never ask for your banking information or any payment as part of the recruiting process. If something seems off or you're contacted by an unexpected third party, please reach out to us at [REDACTED EMAIL] (US/UK), [REDACTED EMAIL] (India) or [REDACTED EMAIL] (Portugal/Sweden). \r\n \r\n Arcesium is an equal opportunity employer.",
+      "apply_options": [
+        {
+          "title": "EFinancialCareers",
+          "link": "https://www.efinancialcareers.com/jobs-India-Hyderabad-Jr_Analyst.id24864367?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKciBBbmFseXN0IHwgSHlkZXJhYmFkLCBJTiIsImNvbXBhbnlfbmFtZSI6IkFyY2VzaXVtIExMQyIsImh0aWRvY2lkIjoiYWk1UzRpUWwyOHIydHBQYUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpTSGxrWlhKaFltRmtMRlJsYkdGdVoyRnVZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbEJYTm5ocmRGUlFRWGxoYkhwWmVHWjNPSEU0Vm1ONmFubGthMXB6UkV0VlIwSk1WbWsxYjE5WFJqZFVZVnB5VGpOd2NrVndhR04yTUhsT1VXMUtPVnBmUVZsWmMxcHpSbGMxUmpaUlowVlpZVVpXY1hZeFZsVjZPWGRYU0ZaSVNFRklkMDFxTFMxdGRESnphbEpSWlhObk5sTkJRVUl3YkVGcU9EaEdWVEZhT0ZwbmVYa1NGMjlqVkVsaGN6SnZSMGwxYmpWT2IxQTVORjk2TWxGWkdpSkJSSE55T1daVFZtbzFZWE5XVDBaVVNrazVWRVI1ZFhwV2NIaHFiWFJoVjNOMyIsImZjdiI6IjMiLCJmY19pZCI6ImFpNVM0aVFsMjhyMnRwUGFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Data Science Analyst - Agriculture & Agribusiness",
+      "company_name": "YuvaIntern",
+      "location": "Hyderabad, Telangana",
+      "via": "YuvaIntern",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=mj-djiDwKRG2NWlkAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3LOwrCQBCAYWxzBKvBwkI0EcFGq4DgoxNtrGSyDpuVdTbszErSeQev4ok8iY_mh6_4s1cv2-8SuxBhhYpwMI7YEJSMvhOFCZQ2OpO8pkgw_KtK4phE4P14wjVUIITR1BAY1iFYT_1lrdrIoihEfG5FUZ3JTbgVgakKbfGd5Jez1Bip8ah0ns2nbd6wHQ1O6Y5bVooMjmHTXShihZcxHMkjW2T8AG3Rv_q3AAAA&shmds=v1_ARwrE225jiXIrR6HcVu71MBvMIz9VYWubjOOXuXkyd9GEYDxaQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=mj-djiDwKRG2NWlkAAAAAA%3D%3D",
+      "extensions": [
+        "Internship"
+      ],
+      "source_link": "https://yuvaintern.com/internship/junior-data-science-analyst-agriculture-agribusiness-internship-in-hyderabad",
+      "job_title": "Junior Data Science Analyst - Agriculture & Agribusiness",
+      "description": "As a Junior Data Science Analyst in the Agriculture & Agribusiness sector, you will be responsible for analyzing agricultural data using Python for Data Science techniques. Your tasks may include data cleaning, exploratory data analysis, developing predictive models, and presenting actionable insights to improve agricultural practices.",
+      "apply_options": [
+        {
+          "title": "YuvaIntern",
+          "link": "https://yuvaintern.com/internship/junior-data-science-analyst-agriculture-agribusiness-internship-in-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBTY2llbmNlIEFuYWx5c3QgLSBBZ3JpY3VsdHVyZSBcdTAwMjYgQWdyaWJ1c2luZXNzIiwiY29tcGFueV9uYW1lIjoiWXV2YUludGVybiIsImh0aWRvY2lkIjoibWotZGppRHdLUkcyTldsa0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpTSGxrWlhKaFltRmtMRlJsYkdGdVoyRnVZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVkJtWm1sRU4yWmZSVkpNV2xKMlVFVXdUMDE1V21SRE0xWnRkblJKUTFwQmVsaEZZbnBVYjJoMVNrOWhWR3ByWlU1Tk56WlFUbmMzUzBkclZuWllValZ5UkhsTk9YVnFiamN0VUdjd1ZYRjJWMkpaU1VwdGVqRnRSMHR2VlhVMlpVMVVZVkJGYTJKeU1ubGlSR1J4Tm0xQmNWRldhakpRZEMwemMzQnFVRGMwWTA5VVVuY1NGMjlqVkVsaGN6SnZSMGwxYmpWT2IxQTVORjk2TWxGWkdpSkJSSE55T1daVU1qRnlXVGxoU1VaelRFTmpTRlJRT0d4TmJYSmxiVVpaUjFOMyIsImZjdiI6IjMiLCJmY19pZCI6Im1qLWRqaUR3S1JHMk5XbGtBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company_name": "JOBDHA Curated",
+      "location": "Hyderabad, Telangana",
+      "via": "JOBDHA",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=LEDqTP6bet6F-kwUAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ6CQBBA0dhyBKupLAzZNSY2WqEkEhobezLAZsGsM2RnSKDzDtzQk4jNL17yk2WTpOVIPUfIUREywjCLwvezwItrEIex6YAJ7sw-uO2lUx3kbK1IMF4UtW9Mw2_L5Gqe7DrJP5V0GN0QUF11PB0mM5Df78rHNS8yuI1x9RZ6gmJuXcQa2xSeLiB5JPwBfX-MSZYAAAA&shmds=v1_ARwrE23bwPiLC4l24i8LspV3YvFM2ixwsWDwS5T75ZpRnO1WTQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=LEDqTP6bet6F-kwUAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c49dbde97980214a6cec/images/sgyipt3KoblemwiYAf1AZrTjmO2r34cTBv4AQ7nFTO4.png",
+      "extensions": [
+        "₹3L–₹5L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobdha.com/job/view/843/junior-data-analyst-hyderabad",
+      "job_title": "Junior Data Analyst",
+      "description": "Entry-Level Junior Data Analyst jobs in Hyderabad. Full-Time. Any Graduate, B.Tech/B.E., B.Sc, MCA required. Industry: IT Services & Consulting, Analytics / KPO / Research, Software Product. Skills: python, python, sql, excel, hyderabad, data visualization, business intelligence. Verified listings — apply instantly.\n\nSeeking an enthusiastic Junior Data Analyst to support data-driven decision-making. Responsibilities include collecting, cleaning, and analyzing data, creating reports, and developing dashboards to provide actionable insights. This role is ideal for a fresher eager to grow in the data analytics domain.",
+      "apply_options": [
+        {
+          "title": "JOBDHA",
+          "link": "https://www.jobdha.com/job/view/843/junior-data-analyst-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/junior-data-analyst-stier-solutions-inc-hyderabad-2-to-4-years-experience-9590873a-1095-4125-883e-7c2c66fc8895?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/creditsafe-technology-junior-data-analyst-hyderabad-telangana-india-3-to-5-years-343523?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiSk9CREhBIEN1cmF0ZWQiLCJodGlkb2NpZCI6IkxFRHFUUDZiZXQ2Ri1rd1VBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU25Gb1NGZEVVME5CYTNoNlZVRlJRekJaWlhVeVF6UmZlR1JNYXpSa04wMUNjRGxzVHpJNGNuQjRTWGxzYkUxc0xTMXBObEJ4WlhGVVdGOXRTa1oxVEROdGN6QjNUakJ3YmtaTlFsa3RUekkzU0U5aVZrRnBNVXhFTXkxamFXWXlZbkkwU1hkNlpsZGZValZHWVVSMFpFbzFXa2s1Ym5OeVprMU9Ta3h1VW1KdVp6SjNRMGtTRjI5alZFbGhjekp2UjBsMWJqVk9iMUE1TkY5Nk1sRlpHaUpCUkhOeU9XWlVOVzVJY0ZFdGJrdGxhR0pDV21oaWJHSktORlpYZGxodE1WZG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJMRURxVFA2YmV0NkYta3dVQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior Data Analyst, Model Risk Management (Hyderabad)",
+      "company_name": "Intercontinental Exchange Holdings",
+      "location": "Hyderabad, Telangana",
+      "via": "Kit Job",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=H6UUmEtzn-ix1FNpAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2OPQrCQBBGsfUIVlOqSCKCjVaC4g-IIPYy2Qyb1XUm7IwQO-_grTyGJzE2Nq_5eHyv--50D7s7B0mwRENYMMaH2gj2UlKEY9Ar7JHR043YoL95lJSwwHIAn-cLLlKAEiZXgTCsRXyk3rwyq3WW56ox82powWVObrkwFdLkraQ_nLXCRHVEo_NkOm6ymv1wtmWj5IQtcPuIEVaNq5A9wUZiGdgrBIZ_xwhOFNu5bfwCRvoWuM0AAAA&shmds=v1_ARwrE20l2qjpAAUljd_Ife05sDmDDxOLVbnfHX8ImkDUG91xog&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=H6UUmEtzn-ix1FNpAAAAAA%3D%3D",
+      "extensions": [
+        "15 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.kitjob.in/job/337178396/junior-data-analyst-model-risk-management-hyderabad",
+      "job_title": "Junior Data Analyst, Model Risk Management (Hyderabad)",
+      "description": "Job Description: \n\nJob Purpose\n\nThe Junior Data Analyst will join the Model Risk Management (MRM) team as part of the global Enterprise Risk Management function that delivers and supports company-wide financial risk model validation and risk governance. The primary role of this position will be to provide advanced data visualization methods for model validations and develop dashboards for executive reporting, thereby translating complex statistical models and data structures into easy-to-understand objects for use within the MRM group and beyond.\n\nResponsibilities\n\n- Design, build and maintain advanced data visualization tools to enable model validation reports using Tableau\n- Coordinate with model validators to gather visualization requirements from statistical model outputs, perform data transformations as required for the visuals\n- Produce monthly validation reports, along with improvements and automations as required for business units\n- Create self-service tools, including ServiceNow, to develop and maintain business process tracking dashboards\n- Document data sources, transformation logic, and dashboard designs to support the maintainability of reporting processes\n\nKnowledge and Experience\n\n- Bachelor’s Degree in Engineering, Finance, Applied Mathematics, Economics, Computer Science, or similar field\n- Passionate about data storytelling and visualizations\n- Strong analytical and problem-solving skills with high attention to detail\n- Basic programming knowledge in Python or R\n- Ability to understand basic statistical models\n- Creative, creative, and customer focused attitude\n- Strong presentation, communication, and business writing skills\n\nPreferred\n\n- Experience in data visualizations tools like Tableau\n- Hands-on experience with SQL\n- Basic understanding of statistics and financial markets",
+      "apply_options": [
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337178396/junior-data-analyst-model-risk-management-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0LCBNb2RlbCBSaXNrIE1hbmFnZW1lbnQgKEh5ZGVyYWJhZCkiLCJjb21wYW55X25hbWUiOiJJbnRlcmNvbnRpbmVudGFsIEV4Y2hhbmdlIEhvbGRpbmdzIiwiaHRpZG9jaWQiOiJINlVVbUV0em4taXgxRk5wQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwaE5kR1ZCY1ZkaFExaHBNa1ZrY0ZWUGFETm1aRjlhTVZoMGRYaFRhbVl5V2tOVGRrbFJhM1ZwVTFscWNuSmZjVWt4TmxjMmVHWjJTelF5UTJaS1JrcGtiVnBpTFU1d1N6TkNOV1pHYzA5dVgwZzBRME5IV1UxMVkwTmFORUpuV2xWMFExQTBhRU5JUzNKb1YyMXFSRTQyYkZkR1MwSkRWWEJNV2psc1JqTjBkR2hvWTB3U0YyOWpWRWxoY3pKdlIwbDFialZPYjFBNU5GOTZNbEZaR2lKQlJITnlPV1pTUlRoTmJIazJjRTFMYTFCcWIxSmZNR3RsWDJWS0xWQmlObTFSIiwiZmN2IjoiMyIsImZjX2lkIjoiSDZVVW1FdHpuLWl4MUZOcEFBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Data Analyst, Model Risk Management",
+      "company_name": "Intercontinental Exchange Holdings, Inc.",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=ZXPURken9Ho3oJU4AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOPQrCQBBGsfUIVlNLSESw0UZR8QdsxF4mm2GzupkJOyPEzjt4JU_iSYzNV73H-4afwXB9fHCQBBs0hBVjfKplcJKKIpyD3uGEjJ4aYoPv6w03KUEJk6tBGHYiPtJoUZu1Oi8K1Zh7NbTgcidNIUyldEUv6X-uWmOiNqLRdTqbdHnLfrw8sFFywha4r2CEbedqZE-wl1gF9prBgV0OgWH_rChhiVUGF4o91L_7AbAH3dXHAAAA&shmds=v1_ARwrE20iVS06VoCF8nFqP18C1u0325AAAD_gGLZb3IY3OGTETg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=ZXPURken9Ho3oJU4AAAAAA%3D%3D",
+      "extensions": [
+        "13 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/junior-data-analyst-model-risk-management/intercontinental-exchange-holdings-inc/19592555",
+      "job_title": "Junior Data Analyst, Model Risk Management",
+      "description": "Job Purpose\n\nThe Junior Data Analyst will join the Model Risk Management (MRM) team as part of the global Enterprise Risk Management function that delivers and supports company-wide financial risk model validation and risk governance. The primary role of this position will be to provide advanced data visualization methods for model validations and develop dashboards for executive reporting, thereby translating complex statistical models and data structures into easy-to-understand objects for use within the MRM group and beyond.\n\n \n\nResponsibilities\n\nDesign, build and maintain advanced data visualization tools to enable model validation reports using TableauCoordinate with model validators to gather visualization requirements from statistical model outputs, perform data transformations as required for the visualsProduce monthly validation reports, along with improvements and automations as required for business unitsCreate self-service tools, including ServiceNow, to develop and maintain business process tracking dashboardsDocument data sources, transformation logic, and dashboard designs to support the maintainability of reporting processesKnowledge and Experience\n\nBachelors Degree in Engineering, Finance, Applied Mathematics, Economics, Computer Science, or similar fieldPassionate about data storytelling and visualizationsStrong analytical and problem-solving skills with high attention to detailBasic programming knowledge in Python or RAbility to understand basic statistical modelsCreative, innovative, and customer focused attitudeStrong presentation, communication, and business writing skillsPreferred\n\nExperience in data visualizations tools like TableauHands-on experience with SQLBasic understanding of statistics and financial markets .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-data-analyst-model-risk-management/intercontinental-exchange-holdings-inc/19592555?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-data-analyst-model-risk-management-intercontinental-exchange-hyderabad-telangana--t7xk-852141835?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ResumeKart",
+          "link": "https://www.resumekart.com/jobs/cmuj4ms8fd0fb94af45cb44eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Connecting Odds",
+          "link": "https://connectingodds.com/jobs/discover/ae57ecae-88e3-487e-96c2-0c61f653a11e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337357391/junior-data-analyst-model-risk-management-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0LCBNb2RlbCBSaXNrIE1hbmFnZW1lbnQiLCJjb21wYW55X25hbWUiOiJJbnRlcmNvbnRpbmVudGFsIEV4Y2hhbmdlIEhvbGRpbmdzLCBJbmMuIiwiaHRpZG9jaWQiOiJaWFBVUmtlbjlIbzNvSlU0QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFN6bFpSelV0UTB0d1pHUm9hME55YVdsdmMwWmhWMHRvTldab05rUnhWR0ZxVVd4bGFWZ3pSR1pZU21oTFdVWlFhUzA1WTFkeFR6bHpUVU4xWDFkS05URnZTamh1VVd3NFpGcFhMVXd5U2tVNE0wZzVZMkpxWlY5U1RsWk1VVXA2YVZReVYxWXRXR3hNWkRSMU16RjVjbTVFUjNRelpYcDBUSGgxWTI1NGRtVnhWbVZEZDFZU0YyOWpWRWxoY3pKdlIwbDFialZPYjFBNU5GOTZNbEZaR2lKQlJITnlPV1pVVWtkWmFUSTBiRkZtTnpWVk9FTmZZV1pxUVhJeGNuVnRYMGRuIiwiZmN2IjoiMyIsImZjX2lkIjoiWlhQVVJrZW45SG8zb0pVNEFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst I",
+      "company_name": "Syneos Health",
+      "location": "Serilingampalle (M), Telangana",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=1ASH-Ko4Iahk0nYBAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLPQrCQBBAYWxzBKvp_EGyIthoJQhqYRX7MAnD7spkdslMkXTewcL7eRJj84oPXvGZFYszGsJJkEc1uMH39YZnakAJ-zZAErik5Jnmx2CW9eCcKpdeDS22ZZs6l4SaNLhp0n9qDdhTZjSqd_vtUGbxa1eNQknhSsgWIApU1EeO4rHLyEywvK828CDGiQR_lwBGzZoAAAA&shmds=v1_ARwrE20XFM8wsonKQCuGVZeuoTVdIHFEErvk5F-BMToe8SZdxA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=1ASH-Ko4Iahk0nYBAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c49dbde97980214a6cec/images/Jw6y_OcpuJI3phL5vghNYzVqI3DxDcOLnmUoaBxkVNA.jpeg",
+      "extensions": [
+        "21 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/data-analyst-i-at-syneos-health-4469215076",
+      "job_title": "Data Analyst I",
+      "description": "Description\n\nData Analyst I\n\nSyneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress.\n\nOur Clinical Solutions team members act with a drug development mindset, applying their years of experience and deep expertise to truly understand customer needs and represent those in the solutions we shape.\n\nWhether you join us in a Functional Service Provider partnership or a Full-Service environment, you’ll collaborate with passionate problem solvers, innovating as a team to help our customers achieve their goals. We are agile and driven to deliver – for one another, our customers, and, most importantly, for those in need.\n\nDiscover what your 25,000 future colleagues already know:\n\nWhy Syneos Health\n\n We are passionate about developing our people, through career development and progression; supportive and engaged line management; technical and therapeutic area training; peer recognition and total rewards program. We are committed to building an inclusive culture – where you can authentically be yourself. Central to this is our purpose – Driven to Deliver – which captures the passion of our colleagues to show up each day and shape solutions that have the ability to dramatically impact someone’s life. We are continuously building the company we all want to work for and our customers want to work with. Why? Because we know that when we bring together smart colleagues from across the world, we can shape the future of healthcare, driving impact for customers and defining the pace of patient progress.\n\nJob Responsibilities\n\nPrimary Roles and Responsibilities\n\nDevelop and optimize complex SQL queries, including joins and Common Table Expressions (CTEs), for data extraction and transformation.Proven ability to lead client engagements and present complex findings.Able to work independently without the needs for close supervision and collaboratively as part of cross team effortsExtremely strong organizational and analytical skills with strong attention to detailsEnsure business logic and data quality checks are implemented and functioning correctly within ADF and Databricks pipelines.Troubleshoot and resolve data-related issues by conducting detailed root cause analysis and implementing corrective actions.Ensure timely data delivery by tracking system performance and proactively addressing issues within defined SLAs.Collaborate with technical and business stakeholders to support operational and analytical data needs.Maintain strong documentation practices to ensure continuity and clarity across the team.Work closely with Azure DevOps for CI/CD and understand release processes (Dev to Ops Handover) and have experience on release management.Understand data integrations with third-party platforms such as Veeva CRM and Salesforce.Provide support during shift hours as per business requirements in EST time zones.Communicate effectively within team and across departments to align on objectives and tasks.\n\nPreferred Qualifications: -\n\nBachelor’s degree in Computer Science, Engineering, IT, or a related field.2–4 years of professional experience in data analysis, data engineering, or ETL processes.Must hold an Azure Data Engineer Associate (DP-203) certification.Databricks certifications are highly desirable.Experience with root cause analysis and troubleshooting in production environmentsStrong communication, collaboration, and teamwork skills\n\nTechnical Skills: -\n\nPrimary Skills:Azure Data FactoryAzure DatabricksAzure Logic AppsAzure Data Lake Gen2(ADLS)SQLPython/PySparkSecondary Skills: -Unity CatalogLakehouse Architecture\n\nNice to Have: -SalesforceJIRAAzure Key VaultAzure Automation Account\nGet to know Syneos Health\n\nOver the past 5 years, we have worked with 94% of all Novel FDA Approved Drugs, 95% of EMA Authorized Products and over 200 Studies across 73,000 Sites and 675,000+ Trial patients.\n\nNo matter what your role is, you’ll take the initiative and challenge the status quo with us in a highly competitive and ever-changing environment. Learn more about Syneos Health.\n\nhttp://www.syneoshealth.com\n\nAdditional Information\n\nTasks, duties, and responsibilities as listed in this job description are not exhaustive. The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description. The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above. Further, nothing contained herein should be construed to create an employment contract. Occasionally, required skills/experiences for jobs are expressed in brief terms. Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees. The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job.\n\nSummary\n\nWe are seeking a detail-oriented and technically proficient IT Data Analyst to join our team. The ideal candidate will have a strong background in Data Engineering or ETL processes with hands-on experience in Azure Data Factory, Databricks, and SQL. This role will support business-critical data integration and operational processes, ensuring smooth pipeline execution, system reliability, and timely data delivery. The analyst will also collaborate with stakeholders across IT and business functions to resolve issues, implement improvements, and ensure data integrity across platforms like Veeva CRM, Salesforce, and Azure-based data systems",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analyst-i-at-syneos-health-4469215076?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSSIsImNvbXBhbnlfbmFtZSI6IlN5bmVvcyBIZWFsdGgiLCJodGlkb2NpZCI6IjFBU0gtS280SWFoazBuWUJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNOSVRYQnhjRmRzVFMxWFpXdFplRzFsUWpGRWJHdG9XV3RqU1VKVk1URXRObEJEUzI5VlpVdHVOblZ0UzNBM1pGcEVRWGxDUW5GcGIxUktkV2hDUm5kSFYyVmxORmRLZEMxSU4yaElaelIyYzJNNU1XcElabWcyVjJsTFpXTkxkR2xwYlVOMFJqQTBZakJYU0dGUk1qTklXR1Z2V0ZSVlJqRnBZekV0YmxWaFZFa3lhemNTRjI5alZFbGhjekp2UjBsMWJqVk9iMUE1TkY5Nk1sRlpHaUpCUkhOeU9XWlJabXh2Wlc5SmFXNHlWWGswYVhkbWNqWnJialJrVG1KaVZFcG4iLCJmY3YiOiIzIiwiZmNfaWQiOiIxQVNILUtvNElhaGswbllCQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst, Specialist (Marketing Analytics)",
+      "company_name": "Vanguard Careers",
+      "location": "Hyderabad, Telangana",
+      "via": "Vanguard Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=CB2TtcKsxwIo5gHJAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWLMQrCQBAAsc0TrLaMEnIi2GglCrGxUmzDJlkup-fdcbtC0vkHP-KbfIknNtPMTPaeZNUeBWHr0I4sBZwCtQatYYH8iPFGYpz-azEtz-DzfMHVN8CEse3BO6i815amm14k8FopZltqFkx92fq78o4aP6g08Q819xgpWBSql6vFUAan5_kFnX5g7GCXJEUG4-AwdhSxwa6AM9kUoMMv9UrW2rMAAAA&shmds=v1_ARwrE23bm6-ALh-MOTY9YgC84Qm73oEsdRxHSna92eeXRFtwoQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=CB2TtcKsxwIo5gHJAAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.vanguardjobs.com/job/23684225/data-analyst-specialist-marketing-analytics-hyderabad-in/?source=Corporate_Website",
+      "job_title": "Data Analyst, Specialist (Marketing Analytics)",
+      "description": "About Vanguard\nFounded in 1975, Vanguard is one of the world's leading investment management companies. The firm offers investments, advice, and retirement services to tens of millions of individual investors around the globe—directly, through workplace plans, and through financial intermediaries. \n\n \n\nVanguard India\n\nVanguard’s office in India is a significant milestone in our global expansion. We are committed to establishing an enduring technology center in Hyderabad, Telangana and are excited to be adding talent who will focus on Artificial Intelligence (AI), mobile, and cloud-based technologies that drive our business outcomes and deliver a world-class experience for our clients.  \n\nRole Summary\n\n\n\nThe Data Analyst, Specialist is responsible for leveraging data-driven insights to support strategic business decisions and improve operational efficiency. This role involves structuring complex business requests into well-defined analytical projects, extracting and analyzing large datasets from multiple sources and developing automated reporting solutions to enhance data accessibility and decision-making.\n\n\nResponsibilities\n\nEngage with internal stakeholders to understand business objectives, translate requirements into analytical projects, and drive end-to-end execution with structured problem-solving.\n\n Gather, clean and validate structured and unstructured datasets from multiple sources, ensuring accuracy, completeness and consistency in data processing.\n\nAnalyze and integrate data from multiple sources, including advertising platforms, Adobe Analytics, and CRM systems, to generate actionable business insights.\n\nDevelop end-to-end marketing and sales funnel analytics by tracking customer journeys from campaign engagement through lead generation and sales conversion.\n\nLeverage Microsoft Dynamics (CRM) data, sales interactions, opportunity pipelines, and revenue metrics to provide a holistic view of marketing effectiveness and business performance.\n\nConduct advanced statistical analyses, including A/B testing, experimentation, regression analysis, and campaign performance measurement to optimize marketing strategies.\n\nDesign, build, and maintain dashboards and reporting solutions across marketing, events, content engagement, and operational performance metrics.\n\nAnalyze user engagement and content utilization data from platforms such as Seismic to assess content effectiveness and adoption trends.\n\nExplore and onboard new data sources, including Adobe Workfront, to create reporting solutions and measure operational efficiency, productivity, and ROI.\n\nPerform deep-dive analysis and statistical modelling to identify trends, correlations and business drivers, enabling data-backed decision-making.\n\nDesign and develop visually compelling dashboards and reports using Power BI, Tableau, or similar tools to simplify complex data for business users.\n\nAutomate recurring reporting and analytics workflows using SQL and Python, reducing manual efforts and improving data accessibility.\n\nImplement predictive models, clustering techniques and forecasting algorithms to support business strategy, risk assessment and operational planning.\n\nWork closely with data engineers, IT teams and business stakeholders to enhance data architecture, ensuring seamless data integration and availability.\n\nValidate, optimize and standardize analytical methodologies, ensuring accuracy, efficiency and best practices in data analysis.\n\nMentor, train and provide guidance to junior analysts, fostering a culture of knowledge sharing and continuous learning within the analytics team.\n\n\n\nQualifications and Skills\n\nMinimum 5 years of relevant work experience, with at least 3 years in advanced data analysis, statistical modeling or business intelligence.\n\nBachelor’s degree (B.E./B.Tech) in Computer Science, IT, or a Bachelor’s in Statistics/Mathematics.\n\nStrong proficiency in SQL for querying, data extraction and performance optimization.\n\nExpertise in Python for scripting, data manipulation, automation and advanced analytics.\n\nHands-on experience with data visualization tools like Power BI, Tableau or Looker to create interactive reports and experience in marketing concepts of A/B testing.\n\nExpertise in marketing and digital analytics, A/B testing, campaign effectiveness measurement, customer behaviour analysis, and conversion optimization to drive data-driven business outcomes\n\nNice to have skills- Generative AI, Claude Code, experience in Adobe suite or Google Analytics\n\nLocation\n\nThis role is based in Hyderabad, Telangana at Vanguard India. Only qualified external applicants will be considered.\n\n\nOur mission\n\nVanguard adheres to a simple purpose: To take a stand for all investors, to treat them fairly, and to give them the best chance for investment success.\n\n \n\nOur commitment to you \n\nVanguard takes the same long-term view of your success—at work and in life—with Benefits and Rewards packages that reflect what you care about, throughout all the phases and stages of your life. Our Total Rewards programs provide you and your loved ones with wellness support for key areas in your life: \n\n\nFinancial wellness \nWe're committed to enabling your financial success and provide competitive offers and programs. \n\n\nPhysical wellness \nWe're committed to providing benefits that support your physical health and wellness. \n\n\nPersonal wellness \nWe're committed to providing resources that help support the full scope of your life. \n\n\nHow we work\n\nVanguard has implemented a hybrid working model for most of our employees (crew members), designed to capture the benefits of enhanced flexibility while enabling in-person learning, collaboration, and connection. We believe our mission-driven and highly collaborative culture is a critical enabler to support long-term client outcomes and enrich the employee experience.",
+      "apply_options": [
+        {
+          "title": "Vanguard Careers",
+          "link": "https://www.vanguardjobs.com/job/23684225/data-analyst-specialist-marketing-analytics-hyderabad-in/?source=Corporate_Website&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst-specialist-marketing-analytics/vanguard-careers/19457342?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-specialist-marketing-analytics-vanguard-hyderabad--t7xk-853232487?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "HiringGo",
+          "link": "https://hiringgo.com/job/data-analyst-specialist-vanguard-india-104575?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/6902786498710470656?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://in.talent.com/view?id=632360456504092632&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "RevOps Careers",
+          "link": "https://revopscareers.com/job/vanguard-data-analyst-specialist-marketing-analytics-hyderabad-telangana-india/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Myjobb AI",
+          "link": "https://myjobb.ai/jobs/data-analyst-specialist/10756311?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QsIFNwZWNpYWxpc3QgKE1hcmtldGluZyBBbmFseXRpY3MpIiwiY29tcGFueV9uYW1lIjoiVmFuZ3VhcmQgQ2FyZWVycyIsImh0aWRvY2lkIjoiQ0IyVHRjS3N4d0lvNWdISkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpTSGxrWlhKaFltRmtMRlJsYkdGdVoyRnVZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMjQyYW5nNVdIbE9jazl0TjFwelNYYzRUV000V2tONlNrTklMVGxOT0hWWVRHOUhOekpaUjBWVk1YbHlaek5PWVhwWmNVMDJUbFpPZUVzMWJGTmtXbnBwVVZoNE1rWjRZMk5ZVkMxTmRWQlJlV3B6Tkdzell6WTNibWRMV0dsbWJHUlJkamxvYTFGeExWSjFaamxFVjJwME0wOTFjVjh3ZG1kaGVHTkZjRlJOUlZCWGJ6RVNGMjlqVkVsaGN6SnZSMGwxYmpWT2IxQTVORjk2TWxGWkdpSkJSSE55T1daVVozWkNRVTVWY2pWRWEwbGZaRmRKTFU5WlVXODVSVEJtZEdsQiIsImZjdiI6IjMiLCJmY19pZCI6IkNCMlR0Y0tzeHdJbzVnSEpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst/Business Analyst (SAP BW)",
+      "company_name": "Unison Group",
+      "location": "Hyderabad, Telangana",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=R7LuNkJBC-pwh9KpAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zWMMQrCQBAAsc0TrLawUJGcCDZaSIKgpaBiGTbJcjk5947bCySdf_ALvsyXaAqbKQZmkvco2e0xImSMtpeo8lYMk8hfwPScnSC_zeDzfMHdlSCEoWrAMRyc05bG2yZGLxulRGyqJWI0VVq5h3JMpevUL5IBhTQYyFuMVKzWyy71rOeTKxsZXsG1HgzDsa8pYIn1Ai5kkTUyfgE-ejowpwAAAA&shmds=v1_ARwrE22XujuFGYoTjYIcxnvP-fNSU7KiTj3GGcvH9d6BWscSqQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=R7LuNkJBC-pwh9KpAAAAAA%3D%3D",
+      "extensions": [
+        "14 days ago",
+        "₹5L–₹20L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/fdCyJPxEiXoyNOJS9NeH3HrW_dZ-K4k9SVhGZafQ-wgqp1llhLvLSA",
+      "job_title": "Data Analyst/Business Analyst (SAP BW)",
+      "description": "Translate business needs into technical specs for data engineers; define and validate data quality across ETL processes and systems\nCollaborate with cross-functional teams (Business, IT functional and Technical Teams) to support Data Engineers build the data products.\nAnalyze complex SAP/Non-SAP datasets to help in data modeling\nSupport data mappings, verify the correctness of Data Products and adhering to Data Quality Norms  Develop data collection and automation workflows using cloud services and analytics tools.\nProvide insights that support strategic and operational decision-making.\nMentor junior analysts on analytics best practices, data modeling, and coding standards.\n\n\n\n\n\n\nRequirements\n\nRequired Qualifications:\n\n\n7-9+ years of professional experience in data analysis with demonstrated expertise in both SAP and Non-SAP environments.\nStrong Experience required in SAP BW\nExposure in SQL, Python, or R and Azure Services like ADF, DataBricks etc.,\nStrong technical expertise in data modelling, analytical and reporting tools (Tableau, Power BI, Looker).  Bachelor's degree in Engineering, Statistical, Business or equivalent work experience.\nStrong analytical and problem-solving skills; ability to work with large, complex datasets and draw meaningful insights.\nExcellent communication and presentation skills; ability to translate technical concepts for business audiences and vice versa. Preferred Skills/Experience:\nExposure to machine learning and advanced predictive analytics.\nFamiliarity with Azure based cloud data platforms\nUnderstanding of data governance frameworks and adhereing governance across all data products verification, quality etc.,\nExperience working in Manufacturing Industries as Business Analyst, Data Analyst, Functional Consultant.",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/fdCyJPxEiXoyNOJS9NeH3HrW_dZ-K4k9SVhGZafQ-wgqp1llhLvLSA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010273943808&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-business-analyst-sap-bw-unison-group-hyderabad-telangana--t7xk-868030969?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analyst-business-analyst-sap-bw-at-unison-group-4471866028?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs By Workable",
+          "link": "https://jobs.workable.com/view/8bkStkmWaZQnHuRLEygqaq/data-analyst%2Fbusiness-analyst-(sap-bw)-in-hyderabad-at-unison-group?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8981667767962828800?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QvQnVzaW5lc3MgQW5hbHlzdCAoU0FQIEJXKSIsImNvbXBhbnlfbmFtZSI6IlVuaXNvbiBHcm91cCIsImh0aWRvY2lkIjoiUjdMdU5rSkJDLXB3aDlLcEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpTSGxrWlhKaFltRmtMRlJsYkdGdVoyRnVZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVlZEVlhwd1UzazNNMU5zWmt0ak1GVm1SRE5PYlVWM1FtWkJWRVUxVXpGblRYRXdhMjVoTUd0bmRVTk9kMDExU1c5eFltWXRaVGhrYTJSdFRqZG1RVWt4UVZKRmRtaG5RMmxwUmtSM2IweGpjeTFLVDJKaFZqaFNRbXA2Ym5kNFdtWXdUVjl1VG10SlJGZGpWSEJoWmtOalNEaHFRM1k1TUZCaVUycE5hUzF1V1ZOb1lYTVNGMjlqVkVsaGN6SnZSMGwxYmpWT2IxQTVORjk2TWxGWkdpSkJSSE55T1daVWFtVk9UVzUyWm10UlZIcE5hbGs1VUZwc1lWZEtNVWswWVZwUiIsImZjdiI6IjMiLCJmY19pZCI6IlI3THVOa0pCQy1wd2g5S3BBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst Trainer",
+      "company_name": "ANUDIP FOUNDATION FOR SOCIAL WELFARE",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=tWMnBd_e6W9XJSWQAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ6CMBSA4bhyBKc3G6XGxEVdGgElIWAQ40ge8FIwtSVtB9i8g7fwWJ5EXP58y-99Zt4qQIfAFcrROigMdooMfF9veOgKLKGpW9AKTloLSfN961xvd4xZK31hHbqu9mv9ZFpRpQc2Tfaf0rZoqJfoqNxs14PfK7E48PQWxBeIslsa8CLO0ok5XLNjzBO4h0nE8xA6BeexIYMVNksoSKISqPAHtE7uu60AAAA&shmds=v1_ARwrE20uPl8ssMCbv6LDiD2kXT0DWjuFniMu5jP-4ZK5kAri4Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=tWMnBd_e6W9XJSWQAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/data-analyst-trainer/anudip-foundation-for-social-welfare/19686440",
+      "job_title": "Data Analyst Trainer",
+      "description": "Job Title: Trainer  Data Analyst Trainer.\n\nNOTE: Kindly apply those who have teaching/ faculty experience.\n\nJob Summary:\n\nThe Trainer will deliver training in Business Analytics, Data Processing, SQL, ETL, Data Visualization, Statistics, and Generative AI.\n\nKey Responsibilities:\n\nDeliver training on Data Processing, Business Analysis, Statistics, Data Visualization, SQL/MySQL, ETL, IT Fundamentals, Projects, and AI.Conduct practical assignments using real datasets.Design business case studies.Evaluate learner performance and support placements.Required Technical Skills:\n\nAdvanced ExcelSQL/MySQLPower BI/TableauPythonETL ConceptsStatisticsAI-assisted AnalyticsQualification:\n\nGraduate in Computer Science, Statistics, Mathematics, Engineering, or related disciplines.\n\nExperience:\n\n26 years in Data Analytics or Business Analytics.\n\nInterested candidates can share the updated resume to hidden_email and contact on- hidden_mobile\n\nCompensation: 205,013.73 - 750,000.16 per year\n\nBenefits:\n\nProvident FundAbility to commute/relocate:\n\nHyderabad, Telangana: Reliably commute or planning to relocate before starting work (Preferred)Application Question(s):\n\nAre you comfortable for project based role Experience:\n\ntrainer: 2 years (Preferred)advanced excel: 3 years (Preferred)Power BI: 3 years (Preferred)Python: 3 years (Preferred)Language:\n\nTelugu (Preferred)Location:\n\nHyderabad, Telangana (Preferred)Willingness to travel:\n\n25% (Preferred)Work Location: In person .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst-trainer/anudip-foundation-for-social-welfare/19686440?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/BQ4Lkv9ny-7pSPypWOEYQGIHRd8C6nK90l9bwbCOOaSniDbKRM6esA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340217966/data-analyst-trainer-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgVHJhaW5lciIsImNvbXBhbnlfbmFtZSI6IkFOVURJUCBGT1VOREFUSU9OIEZPUiBTT0NJQUwgV0VMRkFSRSIsImh0aWRvY2lkIjoidFdNbkJkX2U2VzlYSlNXUUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpTSGxrWlhKaFltRmtMRlJsYkdGdVoyRnVZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbmxoVG1Rd1F6SkJOVk53Y21nNGEybFRTRkY0V2swelZYSjZSVmQxUlhOd01rSldVRTg0Um1GMU5IRXlRa1pzTm0wdGFHMURPR3gyTVhoamRIQkZkRlJPWW00elRYWlRPWGxSVGxCQ1lrZDFNWFphYUhsRlptdFlXVFpaTUc5dVowUjNNVFJEWmpOZmVGQjVjVWs1VUZseGQwNUlOVGxTYkdWU1ptUnNZVXQxVG1VMVdIUVNGMjlqVkVsaGN6SnZSMGwxYmpWT2IxQTVORjk2TWxGWkdpSkJSSE55T1daVFRtUnVRVTEzYUdkdWVrMVphblppWDJ0dWJIUm1iVVJZYlZOUiIsImZjdiI6IjMiLCJmY19pZCI6InRXTW5CZF9lNlc5WEpTV1FBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBURmhzY1VGVFYySm5RbVJSUnpCTWFqZHJRalpmV1cxMVVUUmZiRUoyWmxsdFNFWjRVVFZKTFU5YWRGUlFiVEIzWm5WbWN6UlpiRk5PZVVsaVNsWlpRalV3V1daSGVUSmpVMGhHUVhGR1prUlZSMWczVW1KSE5qRTNPVkZ3VjJGa1pXMDVaMnhTU2sweFpWVXlSVTk2ZUdrNExXZDBOVFJLWm1aUmNUazBXRTFEU0c5VmJXMXNRMnhXYTJGTlFreGFOVTlzWHpkWUxYYzRUVXRRVFZwaU5VMXFPSEZXTkZjd1gwODFTRVZuZGkxTVYzTkJWa2hzUW1aRlRGaGZaa1V4Um1vM04xWXRWMGRaVnpKNmREWXdTVnB4U0c5RlowZ3lOekJFT1ZoWVNWVlJaRXh5VVU4eWFsUjVPR2xNYm5GUWJUbFBVM1Y2YW5OYWNqbFdaMlJCUTFobFVuRXRjVzl1VjBSdU4weG9NSGRUUkRSQ01tVkJWR3REVlVKSk4weE1TeTFXVjNSVFgxWkJTbGd0VFVKSGNtOTZMVEpzUmxBd01rUjVZbGxsTTAwd1ptVkZVazRTRjI5alZFbGhjekp2UjBsMWJqVk9iMUE1TkY5Nk1sRlpHaUpCUkhOeU9XWlRSbmRLTVdsVFQwMXZXakZEWDB4MWVWTjFWV0kwU0hCYU5IaFIiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBURmhzY1VGVFYySm5RbVJSUnpCTWFqZHJRalpmV1cxMVVUUmZiRUoyWmxsdFNFWjRVVFZKTFU5YWRGUlFiVEIzWm5WbWN6UlpiRk5PZVVsaVNsWlpRalV3V1daSGVUSmpVMGhHUVhGR1prUlZSMWczVW1KSE5qRTNPVkZ3VjJGa1pXMDVaMnhTU2sweFpWVXlSVTk2ZUdrNExXZDBOVFJLWm1aUmNUazBXRTFEU0c5VmJXMXNRMnhXYTJGTlFreGFOVTlzWHpkWUxYYzRUVXRRVFZwaU5VMXFPSEZXTkZjd1gwODFTRVZuZGkxTVYzTkJWa2hzUW1aRlRGaGZaa1V4Um1vM04xWXRWMGRaVnpKNmREWXdTVnB4U0c5RlowZ3lOekJFT1ZoWVNWVlJaRXh5VVU4eWFsUjVPR2xNYm5GUWJUbFBVM1Y2YW5OYWNqbFdaMlJCUTFobFVuRXRjVzl1VjBSdU4weG9NSGRUUkRSQ01tVkJWR3REVlVKSk4weE1TeTFXVjNSVFgxWkJTbGd0VFVKSGNtOTZMVEpzUmxBd01rUjVZbGxsTTAwd1ptVkZVazRTRjI5alZFbGhjekp2UjBsMWJqVk9iMUE1TkY5Nk1sRlpHaUpCUkhOeU9XWlRSbmRLTVdsVFQwMXZXakZEWDB4MWVWTjFWV0kwU0hCYU5IaFIiLCJmY3YiOiIzIn0%3D&q=Junior+Data+Analyst"
+  },
+  "_retrieved_at": "2026-10-09 10:40:29 UTC"
+}

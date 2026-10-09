@@ -1,0 +1,475 @@
+{
+  "search_metadata": {
+    "id": "6ac8c50d9b215188512db5ee",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Y05dAxw8jaSyyJzRKIZHLbZguT3zubFxKB6zqp6rqwU/6ac8c50d9b215188512db5ee.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Y05dAxw8jaSyyJzRKIZHLbZguT3zubFxKB6zqp6rqwU/6ac8c50d9b215188512db5ee.md",
+    "created_at": "2026-10-09 10:42:21 UTC",
+    "processed_at": "2026-10-09 10:42:21 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Bookkeeping+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/Y05dAxw8jaSyyJzRKIZHLbZguT3zubFxKB6zqp6rqwU/6ac8c50d9b215188512db5ee.html",
+    "total_time_taken": 2.59
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Bookkeeping full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 4879908,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "The Only BOOKKEEPING Tutorial You Need 2026 | For Beginners",
+      "link": "https://www.youtube.com/watch?v=24TFLVCceiQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=24TFLVCceiQ",
+      "video_id": "24TFLVCceiQ",
+      "channel": {
+        "name": "LYFE Accounting",
+        "link": "https://www.youtube.com/@LYFEAccounting",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kbzUHcjCOlDhV-dAw90gK14BOpJxeWqiNu826m2lVX_so=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 256573,
+      "length": "1:58:34",
+      "description": "Work with Us: https://schedule.lyfetaxes.com/discoveryapplication?video=24TFLVCceiQ Bookkeeping for beginners (2025) ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/24TFLVCceiQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA15NKT_r8RdEBno_DTUHME6SFTzw",
+        "rich": "https://i.ytimg.com/an_webp/24TFLVCceiQ/mqdefault_6s.webp?du=3000&sqp=CIjwotYG&rs=AOn4CLDwZ9cjs401in0bSckrfNc-mNlqfg"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Bookkeeping and Accounting Course for Beginners | From Basics to Trial Balance",
+      "link": "https://www.youtube.com/watch?v=Wi82FpxMSW4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Wi82FpxMSW4",
+      "video_id": "Wi82FpxMSW4",
+      "channel": {
+        "name": "SkillUp Smart",
+        "link": "https://www.youtube.com/@SkillUpSmart",
+        "thumbnail": "https://yt3.ggpht.com/GMwIlsExxrz_tYakoaowyqNjAob8AUR001GXgRVANbrUYEyYHvCF8VrengA36AOixzDtXrFGCw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 97821,
+      "length": "35:24",
+      "description": "Find updated full course for beginners here https://www.youtube.com/watch?v=m58r-5LTxoI&feature=youtu.be Learn ...",
+      "extensions": [
+        "Beginner"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Wi82FpxMSW4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpNTzw7vLwyeYgInxGAiPoOAwjsg"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Bookkeeping and Accounting Course for Beginners | Basics Explained | Financial Statements",
+      "link": "https://www.youtube.com/watch?v=m58r-5LTxoI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=m58r-5LTxoI",
+      "video_id": "m58r-5LTxoI",
+      "channel": {
+        "name": "SkillUp Smart",
+        "link": "https://www.youtube.com/@SkillUpSmart",
+        "thumbnail": "https://yt3.ggpht.com/GMwIlsExxrz_tYakoaowyqNjAob8AUR001GXgRVANbrUYEyYHvCF8VrengA36AOixzDtXrFGCw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 24162,
+      "length": "2:24:01",
+      "description": "Are you looking to learn bookkeeping from scratch? This Bookkeeping Course for Beginners is a complete, step-by-step ...",
+      "extensions": [
+        "4K",
+        "Beginner"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/m58r-5LTxoI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn_rngvO27R7G3m74MKYy9SNZhsA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Accounting Full Course for Beginners | Learn Accounting Basics to Advanced Step by Step",
+      "link": "https://www.youtube.com/watch?v=vO09q2V8TGQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vO09q2V8TGQ",
+      "video_id": "vO09q2V8TGQ",
+      "channel": {
+        "name": "Accounting Guy",
+        "link": "https://www.youtube.com/@AccountingGuys",
+        "thumbnail": "https://yt3.ggpht.com/ALFKjT7y28Zfd9XctDXrh0Uwh6GQKmb9K-dFE2wWmSBBRGYZuyB0YRPywei9ng1SZcPJ244p=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 498939,
+      "length": "1:40:15",
+      "description": "Accounting Survival Cheat Sheets https://accountingguy.gumroad.com/l/Cheatsheets Accounting Practice Workbook ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vO09q2V8TGQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1KP7VL83v4CfLfg3II4ERliC7ow",
+        "rich": "https://i.ytimg.com/an_webp/vO09q2V8TGQ/mqdefault_6s.webp?du=3000&sqp=CJTkotYG&rs=AOn4CLBsOaWDzuOtgCFa9VSgCsh6yxuVcQ"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "How to do a full month of bookkeeping in QBO {full tutorial}",
+      "link": "https://www.youtube.com/watch?v=ewI_X5M_Awg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ewI_X5M_Awg",
+      "video_id": "ewI_X5M_Awg",
+      "channel": {
+        "name": "Financial Tech Lab by Clara CFO Group",
+        "link": "https://www.youtube.com/@financialtechlab",
+        "thumbnail": "https://yt3.ggpht.com/nnMfGai6Nzv_IX-qkuz_88-pVGhQ9mUmfSK0yzyxCxZ6y3eUiz0piu4bCkRZBmqhwh55Lscq_Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 927004,
+      "length": "45:15",
+      "description": "Do you have Quickbooks Online (QBO), but don't know how to do the bookkeeping!? If you aren't ready to hire a bookkeeper yet, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ewI_X5M_Awg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAkNoPQX4YOOd8YUkakniVzFFskQ",
+        "rich": "https://i.ytimg.com/an_webp/ewI_X5M_Awg/mqdefault_6s.webp?du=3000&sqp=CLjuotYG&rs=AOn4CLDlmmL8D0CfUNaYXDpUQ7jexLbR_g"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Complete Financial Accounting Course - 11-Hour Full Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=eyXKvOrDoqw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eyXKvOrDoqw",
+      "video_id": "eyXKvOrDoqw",
+      "channel": {
+        "name": "Tony Bell",
+        "link": "https://www.youtube.com/@Tony-Bell",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/BTCYtCZJSCBKkU34r95KjLiCjab4C1yzJWbQpzm3GI2mlwulpqREsvXa2nyBidOI9w752uBbkg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1069713,
+      "length": "11:00:01",
+      "description": "Download the Workbook: http://www.tonybell.com (Free, no sign-in) Unlock 100+ Members Accounting Tutorials: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eyXKvOrDoqw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDehOTs6jhEJSeWT2z1bgYY_WVkBg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "COMPLETE Bookkeeping Basics Masterclass | Free Course | The Home Bookkeeper",
+      "link": "https://www.youtube.com/watch?v=xszrcjhKAVk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xszrcjhKAVk",
+      "video_id": "xszrcjhKAVk",
+      "channel": {
+        "name": "The Home Bookkeeper",
+        "link": "https://www.youtube.com/@thehomebookkeeper",
+        "thumbnail": "https://yt3.ggpht.com/HafPEw38vGR_g51YcQPT5H6f35CfFgFex3l05kAdUt4JuPo20zDawOIq5hcvI-Wv6Uhv5dFsgA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 15902,
+      "length": "1:02:08",
+      "description": "COMPLETE Bookkeeping Basics Masterclass | Free Course | The Home Bookkeeper Thanks for watching. Don't forget to like and ...",
+      "extensions": [
+        "8 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xszrcjhKAVk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm0UOom92J_aIXgrxeKD-kwUNjnw"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Accounting Principles Full Course | Learn Everything in One Comprehensive Tutorial",
+      "link": "https://www.youtube.com/watch?v=EN4BVPO70CU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EN4BVPO70CU",
+      "video_id": "EN4BVPO70CU",
+      "channel": {
+        "name": "Accounting How To",
+        "link": "https://www.youtube.com/@AccountingHowTo",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nSiVvBRj039KSYhR-fEnDh8nbj3qhYOVKm8iMW-iZrUg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 11438,
+      "length": "5:35:27",
+      "description": "Free Accounting Cheat Sheet: payhip.com/b/dwZvi Surviving Financial or Intermediate Accounting? Get the guide: ...",
+      "extensions": [
+        "College",
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EN4BVPO70CU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMZlRV4_S5cZZO1ANyVo_RP7T8Iw",
+        "rich": "https://i.ytimg.com/an_webp/EN4BVPO70CU/mqdefault_6s.webp?du=3000&sqp=COTlotYG&rs=AOn4CLD4LBszbu8_BlDlDOAGjj0-4Ltk5g"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "How To Do One Month of Bookkeeping in Quickbooks Online {2025 version}",
+      "link": "https://www.youtube.com/watch?v=9cMDoHOG238",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9cMDoHOG238",
+      "video_id": "9cMDoHOG238",
+      "channel": {
+        "name": "Financial Tech Lab by Clara CFO Group",
+        "link": "https://www.youtube.com/@financialtechlab",
+        "thumbnail": "https://yt3.ggpht.com/nnMfGai6Nzv_IX-qkuz_88-pVGhQ9mUmfSK0yzyxCxZ6y3eUiz0piu4bCkRZBmqhwh55Lscq_Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 138976,
+      "length": "21:56",
+      "description": "For a free 30 day trial and 30% off for 12-months, go to https://www.financialtechlab.com/QBO See exactly what it takes to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9cMDoHOG238/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMnf3CgE54xJMvkyr2ftze1ZoOVQ",
+        "rich": "https://i.ytimg.com/an_webp/9cMDoHOG238/mqdefault_6s.webp?du=3000&sqp=CMXootYG&rs=AOn4CLCh0WvD18Mnssd0rNxozL7BgekSMQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "How To Become A Bookkeeper W/ No Experience In 2026 (Step-by-step Guide)",
+      "link": "https://www.youtube.com/watch?v=J6lpIQBnzHE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=J6lpIQBnzHE",
+      "video_id": "J6lpIQBnzHE",
+      "channel": {
+        "name": "Whitney Bonds",
+        "link": "https://www.youtube.com/@WhitneyBonds",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/lPFzwt1SOjlfz607eUO6TcemO8So_eHXEAX94sat4dDRVcyBS9GrYo2uWTahLXhXDbHsvM_OZQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 64385,
+      "length": "23:30",
+      "description": "Click here to see if Bookkeeping is right for you -- https://triedandtruemomjobs.com/BookkeeperYT Here's the interview of the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/J6lpIQBnzHE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB32B_wF_7i3S6sETdtfXOXzWIh2A",
+        "rich": "https://i.ytimg.com/an_webp/J6lpIQBnzHE/mqdefault_6s.webp?du=3000&sqp=CN_wotYG&rs=AOn4CLC1ZVECn_uNRTQEOww5a6Q8de7fUA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "LEARN ACCOUNTING in Under 5 Hours!",
+      "link": "https://www.youtube.com/watch?v=gPBhGkBN30s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gPBhGkBN30s",
+      "video_id": "gPBhGkBN30s",
+      "channel": {
+        "name": "Accounting Stuff",
+        "link": "https://www.youtube.com/@AccountingStuff",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/cUf1lQq_tQ6vcI8y9Es6FvGg85sN0novGefe2hgOGukJ3WvNrXXaqR7GgKDLP9pEDgz0Wz5g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2142489,
+      "length": "4:50:59",
+      "description": "NEW: Complete Accounting Study Bundle https://accountingstuff.com/shop A collection of Accounting tutorials that I have put ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gPBhGkBN30s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiiWmSMBtIXYji8CmZdIjai51dyA",
+        "rich": "https://i.ytimg.com/an_webp/gPBhGkBN30s/mqdefault_6s.webp?du=3000&sqp=CKX1otYG&rs=AOn4CLBObgpX1ZIIyu0GlNfJoRbYLf869w"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "2026 QuickBooks Beginners Course: 2.5-Hour Course for Small Business Owners (Start to Finish)",
+      "link": "https://www.youtube.com/watch?v=LFQ9tWJZkxo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LFQ9tWJZkxo",
+      "video_id": "LFQ9tWJZkxo",
+      "channel": {
+        "name": "Profit Logic Accounting",
+        "link": "https://www.youtube.com/@ProfitLogicBookkeeping",
+        "thumbnail": "https://yt3.ggpht.com/0UG26JMFbNFJHnWfqNvop1J61ukQ-2k4CRovo7XuZcj8_h9taR4YFOA95wf1E4WWQdVQhqbpDQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 48718,
+      "length": "2:25:01",
+      "description": "Want to master QuickBooks Online and finally feel confident in your bookkeeping? This full QuickBooks course walks you ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LFQ9tWJZkxo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXo9OC-7xRmt0Yp7jtbELZeicFQA",
+        "rich": "https://i.ytimg.com/an_webp/LFQ9tWJZkxo/mqdefault_6s.webp?du=3000&sqp=CMr8otYG&rs=AOn4CLAY0Ql8YJJGuxLCny6IongFo3oAow"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Accounting For Slow Learners",
+      "link": "https://www.youtube.com/watch?v=NyRhgoqhitg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NyRhgoqhitg",
+      "video_id": "NyRhgoqhitg",
+      "channel": {
+        "name": "thequickbooksdude",
+        "link": "https://www.youtube.com/@worldwidequickbooks",
+        "thumbnail": "https://yt3.ggpht.com/DQakpu0MHOMfuPt27u4hRUuqjlvcXBW4ESD6va3y9eU7oly0UtbD7IqOpzxcu24cXBuuWnqXDQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 501375,
+      "length": "4:11:31",
+      "description": "This basic accounting course will help slow learners, learn beginner accounting, as it entertains and engages you while your ...",
+      "extensions": [
+        "CC",
+        "Professional Training"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/NyRhgoqhitg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACtGE1o1mdB_MvD43N48x47RLwTw",
+        "rich": "https://i.ytimg.com/an_webp/NyRhgoqhitg/mqdefault_6s.webp?du=3000&sqp=CMjhotYG&rs=AOn4CLBaEkECwMwDK_dLGJpZxCSZ-mEeOQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "QuickBooks Online Tutorial (2026): 5-Hour Beginner’s Course with AI Agents and New Updates",
+      "link": "https://www.youtube.com/watch?v=8TRA3o6ZeVU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8TRA3o6ZeVU",
+      "video_id": "8TRA3o6ZeVU",
+      "channel": {
+        "name": "Simon Sez IT",
+        "link": "https://www.youtube.com/@SimonSezIT",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5n5ruLbcevwzMRUwDYTpV-MMWyhH9IdJFU2lby8CC8Ls=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8mo ago",
+      "views": 115530,
+      "length": "4:49:36",
+      "description": "This complete 5-hour QuickBooks Online 2026 beginner tutorial walks you through everything you need to confidently manage a ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/8TRA3o6ZeVU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRdDf1pIoy9TicA1jKz27vmZhMYQ"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Mastering Bookkeeping Basics: Understanding Debit and Credit | Bookkeeping 101",
+      "link": "https://www.youtube.com/watch?v=Av3ckLx8jvM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Av3ckLx8jvM",
+      "video_id": "Av3ckLx8jvM",
+      "channel": {
+        "name": "Hey! It's Kajea",
+        "link": "https://www.youtube.com/@kajeavlogs",
+        "thumbnail": "https://yt3.ggpht.com/wxR6v8H11ta0igSulYzwkkAphnJNeoSql2r4s9sTQh7IMzknEYNo_SvHoKxtGbjlyStJ_3B2m1c=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 104650,
+      "length": "24:53",
+      "description": "Are you baffled by the concepts of debit and credit in bookkeeping? In this video I'll guide you to understand debit and credit, we ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Av3ckLx8jvM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbcKX_PbhIvXcKpGdi-2joxgBFeA",
+        "rich": "https://i.ytimg.com/an_webp/Av3ckLx8jvM/mqdefault_6s.webp?du=3000&sqp=CM3totYG&rs=AOn4CLClgpl5llqjQizOSZ9oviGQ36dMWA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Introduction to QuickBooks Desktop - 4hr Full Tutorial",
+      "link": "https://www.youtube.com/watch?v=DiViSlmyHBM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DiViSlmyHBM",
+      "video_id": "DiViSlmyHBM",
+      "channel": {
+        "name": "Hector Garcia CPA",
+        "link": "https://www.youtube.com/@HectorGarciaCPA",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/kDbz4RC2xzGPn3trq7LhTh7CNv4umIvD0Xa53Vxbt9cx6mSfiXOgJ-uS8aqX3yQdcWQ6B2Vo=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1404547,
+      "length": "3:46:02",
+      "description": "Purchase more courses: https://www.hectorgarcia.com/qbcourse Complete Course. Learn how to use QuickBooks Tutorial for ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/DiViSlmyHBM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHQvOu-WaADhfx4o04RdhWE09F3g",
+        "rich": "https://i.ytimg.com/an_webp/DiViSlmyHBM/mqdefault_6s.webp?du=3000&sqp=CIvVotYG&rs=AOn4CLBlQpB-_of-C1XoQbndVrLUdmisZg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "QuickBooks Online Complete Tutorial",
+      "link": "https://www.youtube.com/watch?v=aoWghI3kvpc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aoWghI3kvpc",
+      "video_id": "aoWghI3kvpc",
+      "channel": {
+        "name": "thequickbooksdude",
+        "link": "https://www.youtube.com/@worldwidequickbooks",
+        "thumbnail": "https://yt3.ggpht.com/DQakpu0MHOMfuPt27u4hRUuqjlvcXBW4ESD6va3y9eU7oly0UtbD7IqOpzxcu24cXBuuWnqXDQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1438243,
+      "length": "3:30:02",
+      "description": "This QuickBooks Online Full course will help you learn the latest version of QuickBooks Online. It's the clearest and best full ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/aoWghI3kvpc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm1XT7lKUrZstROTQT-dv6FJ9SaQ",
+        "rich": "https://i.ytimg.com/an_webp/aoWghI3kvpc/mqdefault_6s.webp?du=3000&sqp=CPP0otYG&rs=AOn4CLAcVslZG6kqv3kDeBytCszwM6o9BQ"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Complete Managerial Accounting Course - 10-Hour Full Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=0J3WoNxJWTg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0J3WoNxJWTg",
+      "video_id": "0J3WoNxJWTg",
+      "channel": {
+        "name": "Tony Bell",
+        "link": "https://www.youtube.com/@Tony-Bell",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/BTCYtCZJSCBKkU34r95KjLiCjab4C1yzJWbQpzm3GI2mlwulpqREsvXa2nyBidOI9w752uBbkg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 215883,
+      "length": "10:00:42",
+      "description": "Download the Workbook: http://www.tonybell.com -Unlock 100+ Members Accounting Tutorials: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0J3WoNxJWTg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXspX16SKFSvI-BgRPi7rxZzvg3g"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Full Financial Accounting Course in One Video (10 Hours)",
+      "link": "https://www.youtube.com/watch?v=v-djL7SPw4c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=v-djL7SPw4c",
+      "video_id": "v-djL7SPw4c",
+      "channel": {
+        "name": "Tony Bell",
+        "link": "https://www.youtube.com/@Tony-Bell",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/BTCYtCZJSCBKkU34r95KjLiCjab4C1yzJWbQpzm3GI2mlwulpqREsvXa2nyBidOI9w752uBbkg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 2643939,
+      "length": "10:01:51",
+      "description": "For workbooks and templates: https://accountingworkbook.com Channel Members get MANY MORE PRACTICE VIDEOS: ...",
+      "extensions": [
+        "Walkthrough"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/v-djL7SPw4c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC40F1thh-4MzcdK7ANRFqirgCAFQ"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Excel for Finance and Accounting Full Course Tutorial (3+ Hours)",
+      "link": "https://www.youtube.com/watch?v=hkybRW7Z3Yk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hkybRW7Z3Yk",
+      "video_id": "hkybRW7Z3Yk",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "link": "https://www.youtube.com/@learnskillsdaily",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WwrBREpkRbdALebIg_xlBFBSwc7H8_tBcqgjLSP4fpZkMcPp3hSledFRan866itfUwsEKg-AUQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1692735,
+      "length": "3:58:34",
+      "description": "Excel for Finance and Accounting Full Course Tutorial (3+ Hours) Join Learn Skills Daily for ad-free training, exams, certificates, ...",
+      "extensions": [
+        "2 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hkybRW7Z3Yk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPa-gk-3zpFIgTGlSnY9WkTLZRJQ"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Bookkeeping+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Bookkeeping%20full%20course%20for%20beginners&sp=EgIYAkgUggELMjRURkxWQ2NlaVGCAQtXaTgyRnB4TVNXNIIBC201OHItNUxUeG9JggELdk8wOXEyVjhUR1GCAQtld0lfWDVNX0F3Z4IBC2V5WEt2T3JEb3F3ggELeHN6cmNqaEtBVmuCAQtFTjRCVlBPNzBDVYIBCzljTURvSE9HMjM4ggELSjZscElRQm56SEWCAQtnUEJoR2tCTjMwc4IBC0xGUTl0V0paa3hvggELTnlSaGdvcWhpdGeCAQs4VFJBM282WmVWVYIBC0F2M2NrTHg4anZNggELRGlWaVNsbXlIQk2CAQthb1dnaEkza3ZwY4IBCzBKM1dvTnhKV1RnggELdi1kakw3U1B3NGOCAQtoa3liUlc3WjNZa7IBBgoECBUQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELMjRURkxWQ2NlaVGCAQtXaTgyRnB4TVNXNIIBC201OHItNUxUeG9JggELdk8wOXEyVjhUR1GCAQtld0lfWDVNX0F3Z4IBC2V5WEt2T3JEb3F3ggELeHN6cmNqaEtBVmuCAQtFTjRCVlBPNzBDVYIBCzljTURvSE9HMjM4ggELSjZscElRQm56SEWCAQtnUEJoR2tCTjMwc4IBC0xGUTl0V0paa3hvggELTnlSaGdvcWhpdGeCAQs4VFJBM282WmVWVYIBC0F2M2NrTHg4anZNggELRGlWaVNsbXlIQk2CAQthb1dnaEkza3ZwY4IBCzBKM1dvTnhKV1RnggELdi1kakw3U1B3NGOCAQtoa3liUlc3WjNZa7IBBgoECBUQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Bookkeeping+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Bookkeeping+full+course+for+beginners&sp=EgIYAkgUggELMjRURkxWQ2NlaVGCAQtXaTgyRnB4TVNXNIIBC201OHItNUxUeG9JggELdk8wOXEyVjhUR1GCAQtld0lfWDVNX0F3Z4IBC2V5WEt2T3JEb3F3ggELeHN6cmNqaEtBVmuCAQtFTjRCVlBPNzBDVYIBCzljTURvSE9HMjM4ggELSjZscElRQm56SEWCAQtnUEJoR2tCTjMwc4IBC0xGUTl0V0paa3hvggELTnlSaGdvcWhpdGeCAQs4VFJBM282WmVWVYIBC0F2M2NrTHg4anZNggELRGlWaVNsbXlIQk2CAQthb1dnaEkza3ZwY4IBCzBKM1dvTnhKV1RnggELdi1kakw3U1B3NGOCAQtoa3liUlc3WjNZa7IBBgoECBUQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELMjRURkxWQ2NlaVGCAQtXaTgyRnB4TVNXNIIBC201OHItNUxUeG9JggELdk8wOXEyVjhUR1GCAQtld0lfWDVNX0F3Z4IBC2V5WEt2T3JEb3F3ggELeHN6cmNqaEtBVmuCAQtFTjRCVlBPNzBDVYIBCzljTURvSE9HMjM4ggELSjZscElRQm56SEWCAQtnUEJoR2tCTjMwc4IBC0xGUTl0V0paa3hvggELTnlSaGdvcWhpdGeCAQs4VFJBM282WmVWVYIBC0F2M2NrTHg4anZNggELRGlWaVNsbXlIQk2CAQthb1dnaEkza3ZwY4IBCzBKM1dvTnhKV1RnggELdi1kakw3U1B3NGOCAQtoa3liUlc3WjNZa7IBBgoECBUQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 10:42:21 UTC"
+}

@@ -1,0 +1,506 @@
+{
+  "search_metadata": {
+    "id": "6ac8c4a8d3982ce2564b9303",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/GFz_0sYs4ltOG-Xx7Ci2-OiEssnmRr_kPmiI8UATh1c/6ac8c4a8d3982ce2564b9303.json",
+    "markdown_endpoint": "https://serpapi.com/searches/GFz_0sYs4ltOG-Xx7Ci2-OiEssnmRr_kPmiI8UATh1c/6ac8c4a8d3982ce2564b9303.md",
+    "created_at": "2026-10-09 10:40:40 UTC",
+    "processed_at": "2026-10-09 10:40:40 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIfUHVuZSBEaXZpc2lvbixNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/GFz_0sYs4ltOG-Xx7Ci2-OiEssnmRr_kPmiI8UATh1c/6ac8c4a8d3982ce2564b9303.html",
+    "total_time_taken": 10.39
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Pune, India",
+    "location_used": "Pune Division,Maharashtra,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rKcok5DfJ0McLo4pNazFuA1s4AUHNs7xwysErETczS71TvmvjCeXBA1egt7Wei_rurbAZYf6a-Z9i5WAwwjxPQLj5_2HxSpg34QPipPxvjX3ENjzNNV0AMnNGqBza12bVp5u4p27B-w9DVhelR1VbaS5y-Lc",
+        "q": "Data Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKcok5DfJ0McLo4pNazFuA1s4AUHNs7xwysErETczS71TvmvjCeXBA1egt7Wei_rurbAZYf6a-Z9i5WAwwjxPQLj5_2HxSpg34QPipPxvjX3ENjzNNV0AMnNGqBza12bVp5u4p27B-w9DVhelR1VbaS5y-Lc&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQxKsJKAB6BAghEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKcok5DfJ0McLo4pNazFuA1s4AUHNs7xwysErETczS71TvmvjCeXBA1egt7Wei_rurbAZYf6a-Z9i5WAwwjxPQLj5_2HxSpg34QPipPxvjX3ENjzNNV0AMnNGqBza12bVp5u4p27B-w9DVhelR1VbaS5y-Lc"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4C47aP_2X6KrvxGCyWhrCCNZD4Vwsp17USkE3cqsdD9aUJdDLHmZo0BRMee05sfiUGy_G2Pgewr9sOeCczwoqQmgguJy-8a3nrbsLA1JMUCqiVVmW4JnGEDclXZG1MdhjH3lTCwTaJobvPER-yGYyMVUF2URItIiK35yMbAgu5otazlHD8cojLeBgNtSLhc99kgNziIy71l28fn9RYbjhT4PqTrzUAecELM7q6yCVdRGPWXUevzJp7euOh3ep1Z1AnCDLHyL1wx9R9p4fDszsj0V_LjhFVEXeW3QClHfL7mXvG2dXr_jtj1vHNKNZaTQncYqLQ",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4C47aP_2X6KrvxGCyWhrCCNZD4Vwsp17USkE3cqsdD9aUJdDLHmZo0BRMee05sfiUGy_G2Pgewr9sOeCczwoqQmgguJy-8a3nrbsLA1JMUCqiVVmW4JnGEDclXZG1MdhjH3lTCwTaJobvPER-yGYyMVUF2URItIiK35yMbAgu5otazlHD8cojLeBgNtSLhc99kgNziIy71l28fn9RYbjhT4PqTrzUAecELM7q6yCVdRGPWXUevzJp7euOh3ep1Z1AnCDLHyL1wx9R9p4fDszsj0V_LjhFVEXeW3QClHfL7mXvG2dXr_jtj1vHNKNZaTQncYqLQ&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4C47aP_2X6KrvxGCyWhrCCNZD4Vwsp17USkE3cqsdD9aUJdDLHmZo0BRMee05sfiUGy_G2Pgewr9sOeCczwoqQmgguJy-8a3nrbsLA1JMUCqiVVmW4JnGEDclXZG1MdhjH3lTCwTaJobvPER-yGYyMVUF2URItIiK35yMbAgu5otazlHD8cojLeBgNtSLhc99kgNziIy71l28fn9RYbjhT4PqTrzUAecELM7q6yCVdRGPWXUevzJp7euOh3ep1Z1AnCDLHyL1wx9R9p4fDszsj0V_LjhFVEXeW3QClHfL7mXvG2dXr_jtj1vHNKNZaTQncYqLQ"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4C47aP_2X6KrvxGCyWhrCCNZD4Vwsp17USkE3cqsdD8jAEpNMVWGsv5xMly7J8QyIQDZt7LtxkvMRk1hmMrzBIJcc8e-RgWDEYZY6UF-r_E0X0gZGS2afBMOPQa4zL1A9KJzR8_NDqymQWyeQJCaGfKcRLf5PdC8PcnFr6F1XhmUSTV4u0PWYdzvvRCSYdZs7nST_UiPJClfHtup_BCqTY2wC-W8CL0hMwoKdaR-GhZO1Mc41zO_GkaDLfMHitbfDbetHDZvrwU6uzs5UNcDpqoquPzvmLFD7Ked3OSpT9kE21ZROS8j2eHh9ABXpKTEpMyyNQ",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4C47aP_2X6KrvxGCyWhrCCNZD4Vwsp17USkE3cqsdD8jAEpNMVWGsv5xMly7J8QyIQDZt7LtxkvMRk1hmMrzBIJcc8e-RgWDEYZY6UF-r_E0X0gZGS2afBMOPQa4zL1A9KJzR8_NDqymQWyeQJCaGfKcRLf5PdC8PcnFr6F1XhmUSTV4u0PWYdzvvRCSYdZs7nST_UiPJClfHtup_BCqTY2wC-W8CL0hMwoKdaR-GhZO1Mc41zO_GkaDLfMHitbfDbetHDZvrwU6uzs5UNcDpqoquPzvmLFD7Ked3OSpT9kE21ZROS8j2eHh9ABXpKTEpMyyNQ&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4C47aP_2X6KrvxGCyWhrCCNZD4Vwsp17USkE3cqsdD8jAEpNMVWGsv5xMly7J8QyIQDZt7LtxkvMRk1hmMrzBIJcc8e-RgWDEYZY6UF-r_E0X0gZGS2afBMOPQa4zL1A9KJzR8_NDqymQWyeQJCaGfKcRLf5PdC8PcnFr6F1XhmUSTV4u0PWYdzvvRCSYdZs7nST_UiPJClfHtup_BCqTY2wC-W8CL0hMwoKdaR-GhZO1Mc41zO_GkaDLfMHitbfDbetHDZvrwU6uzs5UNcDpqoquPzvmLFD7Ked3OSpT9kE21ZROS8j2eHh9ABXpKTEpMyyNQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rr_-cmUyT81LwsHJQs9rc0tjOUYQvKnUHf18rR6sjGv3RRjQxmb5neRI6go_YIvFO89UHY5SH1qo06An0AqXW77h3lN79MIBca96RLSgrYWztNs2A6PwUQHBa5B8wZbzl7eDgCKD9_0yJNLV9jbf6jEH3hB8ZfiZiVMr9bPQQsPaGYWRyAuYNLgVZhxZ1CV6rExbeY_kipuRvhWUsr-Eh22t3JLwTL_ybrrvaTsebteLoKF83VpxBzZa5Vt4bQWvnLac-Zt9oRDiZVyi0d1K9D2E20iklDhIwNbUZYDD7zI1c4NqJhSHcwV9xgiuHuvaT_WEygQ",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rr_-cmUyT81LwsHJQs9rc0tjOUYQvKnUHf18rR6sjGv3RRjQxmb5neRI6go_YIvFO89UHY5SH1qo06An0AqXW77h3lN79MIBca96RLSgrYWztNs2A6PwUQHBa5B8wZbzl7eDgCKD9_0yJNLV9jbf6jEH3hB8ZfiZiVMr9bPQQsPaGYWRyAuYNLgVZhxZ1CV6rExbeY_kipuRvhWUsr-Eh22t3JLwTL_ybrrvaTsebteLoKF83VpxBzZa5Vt4bQWvnLac-Zt9oRDiZVyi0d1K9D2E20iklDhIwNbUZYDD7zI1c4NqJhSHcwV9xgiuHuvaT_WEygQ&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rr_-cmUyT81LwsHJQs9rc0tjOUYQvKnUHf18rR6sjGv3RRjQxmb5neRI6go_YIvFO89UHY5SH1qo06An0AqXW77h3lN79MIBca96RLSgrYWztNs2A6PwUQHBa5B8wZbzl7eDgCKD9_0yJNLV9jbf6jEH3hB8ZfiZiVMr9bPQQsPaGYWRyAuYNLgVZhxZ1CV6rExbeY_kipuRvhWUsr-Eh22t3JLwTL_ybrrvaTsebteLoKF83VpxBzZa5Vt4bQWvnLac-Zt9oRDiZVyi0d1K9D2E20iklDhIwNbUZYDD7zI1c4NqJhSHcwV9xgiuHuvaT_WEygQ"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rvAxWS0cKGwlZx978_MsSisJMPlLNuUuanj1rjdvq1ADpUKz3fLL7T8g1tXRyAVPL_UXAW96T4lHaIuPDjrZJ7-G2C2RnmAPLcWauwUnacaV0T-CY1n7a5boxsLWtujic3Qpcfwum-3bldlIp2o2pD9NrsVAK9Vl9Q3EnBkhG_pUpizIW5Fp-FgFemMBxaJT7MLSOQ6JmdpIUl8wScuZVgXZJrAvAiOYBqSEAB1ztGs6j6Pr6BZf35pnlCGDWmJVV7BCt0DnfWtYVVrZkM5D4eIuZcaBOyQ-6tg7k41S0WxoDbAmQ3zNV8TT-5zcUAlPZBZQIug",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rvAxWS0cKGwlZx978_MsSisJMPlLNuUuanj1rjdvq1ADpUKz3fLL7T8g1tXRyAVPL_UXAW96T4lHaIuPDjrZJ7-G2C2RnmAPLcWauwUnacaV0T-CY1n7a5boxsLWtujic3Qpcfwum-3bldlIp2o2pD9NrsVAK9Vl9Q3EnBkhG_pUpizIW5Fp-FgFemMBxaJT7MLSOQ6JmdpIUl8wScuZVgXZJrAvAiOYBqSEAB1ztGs6j6Pr6BZf35pnlCGDWmJVV7BCt0DnfWtYVVrZkM5D4eIuZcaBOyQ-6tg7k41S0WxoDbAmQ3zNV8TT-5zcUAlPZBZQIug&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rvAxWS0cKGwlZx978_MsSisJMPlLNuUuanj1rjdvq1ADpUKz3fLL7T8g1tXRyAVPL_UXAW96T4lHaIuPDjrZJ7-G2C2RnmAPLcWauwUnacaV0T-CY1n7a5boxsLWtujic3Qpcfwum-3bldlIp2o2pD9NrsVAK9Vl9Q3EnBkhG_pUpizIW5Fp-FgFemMBxaJT7MLSOQ6JmdpIUl8wScuZVgXZJrAvAiOYBqSEAB1ztGs6j6Pr6BZf35pnlCGDWmJVV7BCt0DnfWtYVVrZkM5D4eIuZcaBOyQ-6tg7k41S0WxoDbAmQ3zNV8TT-5zcUAlPZBZQIug"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4C47aP_2X6KrvxGCyWhrCCNZD4Vwsp17USkE3cqsdD9aUJdDLHmZo0BRMee05sfiUGy_G2Pgewr9sOeCczwoqQmgguJy-8a3nrbsLA1JMUCqiVVmW4JnGEDclXZG1MdhjH3lTCwTaJobvPER-yGYyMVUF2URItIiK35yMbAgu5otazlHD8cojLeBgNtSLhc99kgNziIy71l28fn9RYbjhT4PqTrzUAecELM7q6yCVdRGPWXUevzJp7euOh3ep1Z1AnCDLHyL1wx9R9p4fDszsj0V_LjhFVEXeW3QClHfL7mXvG2dXr_jtj1vHNKNZaTQncYqLQ",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4C47aP_2X6KrvxGCyWhrCCNZD4Vwsp17USkE3cqsdD9aUJdDLHmZo0BRMee05sfiUGy_G2Pgewr9sOeCczwoqQmgguJy-8a3nrbsLA1JMUCqiVVmW4JnGEDclXZG1MdhjH3lTCwTaJobvPER-yGYyMVUF2URItIiK35yMbAgu5otazlHD8cojLeBgNtSLhc99kgNziIy71l28fn9RYbjhT4PqTrzUAecELM7q6yCVdRGPWXUevzJp7euOh3ep1Z1AnCDLHyL1wx9R9p4fDszsj0V_LjhFVEXeW3QClHfL7mXvG2dXr_jtj1vHNKNZaTQncYqLQ&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4C47aP_2X6KrvxGCyWhrCCNZD4Vwsp17USkE3cqsdD9aUJdDLHmZo0BRMee05sfiUGy_G2Pgewr9sOeCczwoqQmgguJy-8a3nrbsLA1JMUCqiVVmW4JnGEDclXZG1MdhjH3lTCwTaJobvPER-yGYyMVUF2URItIiK35yMbAgu5otazlHD8cojLeBgNtSLhc99kgNziIy71l28fn9RYbjhT4PqTrzUAecELM7q6yCVdRGPWXUevzJp7euOh3ep1Z1AnCDLHyL1wx9R9p4fDszsj0V_LjhFVEXeW3QClHfL7mXvG2dXr_jtj1vHNKNZaTQncYqLQ"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4C47aP_2X6KrvxGCyWhrCCNZD4Vwsp17USkE3cqsdD8jAEpNMVWGsv5xMly7J8QyIQDZt7LtxkvMRk1hmMrzBIJcc8e-RgWDEYZY6UF-r_E0X0gZGS2afBMOPQa4zL1A9KJzR8_NDqymQWyeQJCaGfKcRLf5PdC8PcnFr6F1XhmUSTV4u0PWYdzvvRCSYdZs7nST_UiPJClfHtup_BCqTY2wC-W8CL0hMwoKdaR-GhZO1Mc41zO_GkaDLfMHitbfDbetHDZvrwU6uzs5UNcDpqoquPzvmLFD7Ked3OSpT9kE21ZROS8j2eHh9ABXpKTEpMyyNQ",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4C47aP_2X6KrvxGCyWhrCCNZD4Vwsp17USkE3cqsdD8jAEpNMVWGsv5xMly7J8QyIQDZt7LtxkvMRk1hmMrzBIJcc8e-RgWDEYZY6UF-r_E0X0gZGS2afBMOPQa4zL1A9KJzR8_NDqymQWyeQJCaGfKcRLf5PdC8PcnFr6F1XhmUSTV4u0PWYdzvvRCSYdZs7nST_UiPJClfHtup_BCqTY2wC-W8CL0hMwoKdaR-GhZO1Mc41zO_GkaDLfMHitbfDbetHDZvrwU6uzs5UNcDpqoquPzvmLFD7Ked3OSpT9kE21ZROS8j2eHh9ABXpKTEpMyyNQ&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4C47aP_2X6KrvxGCyWhrCCNZD4Vwsp17USkE3cqsdD8jAEpNMVWGsv5xMly7J8QyIQDZt7LtxkvMRk1hmMrzBIJcc8e-RgWDEYZY6UF-r_E0X0gZGS2afBMOPQa4zL1A9KJzR8_NDqymQWyeQJCaGfKcRLf5PdC8PcnFr6F1XhmUSTV4u0PWYdzvvRCSYdZs7nST_UiPJClfHtup_BCqTY2wC-W8CL0hMwoKdaR-GhZO1Mc41zO_GkaDLfMHitbfDbetHDZvrwU6uzs5UNcDpqoquPzvmLFD7Ked3OSpT9kE21ZROS8j2eHh9ABXpKTEpMyyNQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rr_-cmUyT81LwsHJQs9rc0tjOUYQvKnUHf18rR6sjGv3RRjQxmb5neRI6go_YIvFO89UHY5SH1qo06An0AqXW77h3lN79MIBca96RLSgrYWztNs2A6PwUQHBa5B8wZbzl7eDgCKD9_0yJNLV9jbf6jEH3hB8ZfiZiVMr9bPQQsPaGYWRyAuYNLgVZhxZ1CV6rExbeY_kipuRvhWUsr-Eh22t3JLwTL_ybrrvaTsebteLoKF83VpxBzZa5Vt4bQWvnLac-Zt9oRDiZVyi0d1K9D2E20iklDhIwNbUZYDD7zI1c4NqJhSHcwV9xgiuHuvaT_WEygQ",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rr_-cmUyT81LwsHJQs9rc0tjOUYQvKnUHf18rR6sjGv3RRjQxmb5neRI6go_YIvFO89UHY5SH1qo06An0AqXW77h3lN79MIBca96RLSgrYWztNs2A6PwUQHBa5B8wZbzl7eDgCKD9_0yJNLV9jbf6jEH3hB8ZfiZiVMr9bPQQsPaGYWRyAuYNLgVZhxZ1CV6rExbeY_kipuRvhWUsr-Eh22t3JLwTL_ybrrvaTsebteLoKF83VpxBzZa5Vt4bQWvnLac-Zt9oRDiZVyi0d1K9D2E20iklDhIwNbUZYDD7zI1c4NqJhSHcwV9xgiuHuvaT_WEygQ&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rr_-cmUyT81LwsHJQs9rc0tjOUYQvKnUHf18rR6sjGv3RRjQxmb5neRI6go_YIvFO89UHY5SH1qo06An0AqXW77h3lN79MIBca96RLSgrYWztNs2A6PwUQHBa5B8wZbzl7eDgCKD9_0yJNLV9jbf6jEH3hB8ZfiZiVMr9bPQQsPaGYWRyAuYNLgVZhxZ1CV6rExbeY_kipuRvhWUsr-Eh22t3JLwTL_ybrrvaTsebteLoKF83VpxBzZa5Vt4bQWvnLac-Zt9oRDiZVyi0d1K9D2E20iklDhIwNbUZYDD7zI1c4NqJhSHcwV9xgiuHuvaT_WEygQ"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rvAxWS0cKGwlZx978_MsSisJMPlLNuUuanj1rjdvq1ADpUKz3fLL7T8g1tXRyAVPL_UXAW96T4lHaIuPDjrZJ7-G2C2RnmAPLcWauwUnacaV0T-CY1n7a5boxsLWtujic3Qpcfwum-3bldlIp2o2pD9NrsVAK9Vl9Q3EnBkhG_pUpizIW5Fp-FgFemMBxaJT7MLSOQ6JmdpIUl8wScuZVgXZJrAvAiOYBqSEAB1ztGs6j6Pr6BZf35pnlCGDWmJVV7BCt0DnfWtYVVrZkM5D4eIuZcaBOyQ-6tg7k41S0WxoDbAmQ3zNV8TT-5zcUAlPZBZQIug",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rvAxWS0cKGwlZx978_MsSisJMPlLNuUuanj1rjdvq1ADpUKz3fLL7T8g1tXRyAVPL_UXAW96T4lHaIuPDjrZJ7-G2C2RnmAPLcWauwUnacaV0T-CY1n7a5boxsLWtujic3Qpcfwum-3bldlIp2o2pD9NrsVAK9Vl9Q3EnBkhG_pUpizIW5Fp-FgFemMBxaJT7MLSOQ6JmdpIUl8wScuZVgXZJrAvAiOYBqSEAB1ztGs6j6Pr6BZf35pnlCGDWmJVV7BCt0DnfWtYVVrZkM5D4eIuZcaBOyQ-6tg7k41S0WxoDbAmQ3zNV8TT-5zcUAlPZBZQIug&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rvAxWS0cKGwlZx978_MsSisJMPlLNuUuanj1rjdvq1ADpUKz3fLL7T8g1tXRyAVPL_UXAW96T4lHaIuPDjrZJ7-G2C2RnmAPLcWauwUnacaV0T-CY1n7a5boxsLWtujic3Qpcfwum-3bldlIp2o2pD9NrsVAK9Vl9Q3EnBkhG_pUpizIW5Fp-FgFemMBxaJT7MLSOQ6JmdpIUl8wScuZVgXZJrAvAiOYBqSEAB1ztGs6j6Pr6BZf35pnlCGDWmJVV7BCt0DnfWtYVVrZkM5D4eIuZcaBOyQ-6tg7k41S0WxoDbAmQ3zNV8TT-5zcUAlPZBZQIug"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEmE081s1bgYgHVMMDHnqDnmPAZBwskjKTaYqfpO9LLebXSEQD3D1sCPsWRgR8Jdu_Q7wsJN9gbB_SqUkSnCNqxBxgUgGLxdLl6nLr2Ae-n-IEGVlSaRolx5rDRg7RLhi3AK0s78jTY7z9RvqqN-rGrIBLC4SMQWskXjj5FEUs0WjuctXrmexKO5441LsChW72Mgtk6sORBCi-wrz3UJHlDPEC2DBdWbrvKV5_3S2zUyUZkLYPGXs-ziNnamfFRKrE3LU7py_YAaxKZHIJRGaIKyc485qyRJ-fFKC45qfJD9kMrlGI054fob4M0FGlmWSdqwr5GI",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEmE081s1bgYgHVMMDHnqDnmPAZBwskjKTaYqfpO9LLebXSEQD3D1sCPsWRgR8Jdu_Q7wsJN9gbB_SqUkSnCNqxBxgUgGLxdLl6nLr2Ae-n-IEGVlSaRolx5rDRg7RLhi3AK0s78jTY7z9RvqqN-rGrIBLC4SMQWskXjj5FEUs0WjuctXrmexKO5441LsChW72Mgtk6sORBCi-wrz3UJHlDPEC2DBdWbrvKV5_3S2zUyUZkLYPGXs-ziNnamfFRKrE3LU7py_YAaxKZHIJRGaIKyc485qyRJ-fFKC45qfJD9kMrlGI054fob4M0FGlmWSdqwr5GI&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEmE081s1bgYgHVMMDHnqDnmPAZBwskjKTaYqfpO9LLebXSEQD3D1sCPsWRgR8Jdu_Q7wsJN9gbB_SqUkSnCNqxBxgUgGLxdLl6nLr2Ae-n-IEGVlSaRolx5rDRg7RLhi3AK0s78jTY7z9RvqqN-rGrIBLC4SMQWskXjj5FEUs0WjuctXrmexKO5441LsChW72Mgtk6sORBCi-wrz3UJHlDPEC2DBdWbrvKV5_3S2zUyUZkLYPGXs-ziNnamfFRKrE3LU7py_YAaxKZHIJRGaIKyc485qyRJ-fFKC45qfJD9kMrlGI054fob4M0FGlmWSdqwr5GI"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtVKivCvRXSQCqYDAtjFylHPiqWY5_ZFg_1CwMGItKKJm0a7u3-6UZWKwQZJ7I4zdy56qQsSRIORapRM-YV_6awJql_-Ap1SKFP0JNzhdajbhcnwcVsLg-Nt3Y61JYZ2Ku99Hl7xTD3OmgHodOBmPIP9XKPXr2AttuUPbxCnvc8AjJ4F2Tf0gkYJKAJ4SdZhnbsxJ4EqD3KLuUfx17-UXD6kpmRww7adgG6_ulf6RAH_nMOMlDKSUlrr4ZcTijoviPnwgo4c3jZGb63mnxjFcGvVLR_Kq8qxtvUhfotO78tqnlpARUMuRclsx9VqMoTGYT81De8WcNlUTuuYBfoqYcVaQZd8",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtVKivCvRXSQCqYDAtjFylHPiqWY5_ZFg_1CwMGItKKJm0a7u3-6UZWKwQZJ7I4zdy56qQsSRIORapRM-YV_6awJql_-Ap1SKFP0JNzhdajbhcnwcVsLg-Nt3Y61JYZ2Ku99Hl7xTD3OmgHodOBmPIP9XKPXr2AttuUPbxCnvc8AjJ4F2Tf0gkYJKAJ4SdZhnbsxJ4EqD3KLuUfx17-UXD6kpmRww7adgG6_ulf6RAH_nMOMlDKSUlrr4ZcTijoviPnwgo4c3jZGb63mnxjFcGvVLR_Kq8qxtvUhfotO78tqnlpARUMuRclsx9VqMoTGYT81De8WcNlUTuuYBfoqYcVaQZd8&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtVKivCvRXSQCqYDAtjFylHPiqWY5_ZFg_1CwMGItKKJm0a7u3-6UZWKwQZJ7I4zdy56qQsSRIORapRM-YV_6awJql_-Ap1SKFP0JNzhdajbhcnwcVsLg-Nt3Y61JYZ2Ku99Hl7xTD3OmgHodOBmPIP9XKPXr2AttuUPbxCnvc8AjJ4F2Tf0gkYJKAJ4SdZhnbsxJ4EqD3KLuUfx17-UXD6kpmRww7adgG6_ulf6RAH_nMOMlDKSUlrr4ZcTijoviPnwgo4c3jZGb63mnxjFcGvVLR_Kq8qxtvUhfotO78tqnlpARUMuRclsx9VqMoTGYT81De8WcNlUTuuYBfoqYcVaQZd8"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRevyfd8yN3vXH67tvC7qfMwMkXl923GXpXlGl5uNKlTz5x31v5KKx6AckUKhEoODm6WsioFS3LqE4-S_ICLUhUUgSt562rhXPvKxhwUOD4N1fyQUBwL4Pnk-1Kdb_sJIJj9zSz8IiJ1HmLuiFcq6zTKJk5HJyW_WluqUJyplPrAYfOILE-hk8qYQt30wO4D02ov-emRdE2HoVSNfQo4n3c760Q6o6FQzVvgT3LA-XF6oWBg1Cg5bmz2bj7F1jTRH7blf5Qdupq6q-cYUd5rD0MvDLmzLwUkKTS_sS354chV_OyLHhTHcKHN4vJpFX1VKsRVVW-M",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRevyfd8yN3vXH67tvC7qfMwMkXl923GXpXlGl5uNKlTz5x31v5KKx6AckUKhEoODm6WsioFS3LqE4-S_ICLUhUUgSt562rhXPvKxhwUOD4N1fyQUBwL4Pnk-1Kdb_sJIJj9zSz8IiJ1HmLuiFcq6zTKJk5HJyW_WluqUJyplPrAYfOILE-hk8qYQt30wO4D02ov-emRdE2HoVSNfQo4n3c760Q6o6FQzVvgT3LA-XF6oWBg1Cg5bmz2bj7F1jTRH7blf5Qdupq6q-cYUd5rD0MvDLmzLwUkKTS_sS354chV_OyLHhTHcKHN4vJpFX1VKsRVVW-M&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRevyfd8yN3vXH67tvC7qfMwMkXl923GXpXlGl5uNKlTz5x31v5KKx6AckUKhEoODm6WsioFS3LqE4-S_ICLUhUUgSt562rhXPvKxhwUOD4N1fyQUBwL4Pnk-1Kdb_sJIJj9zSz8IiJ1HmLuiFcq6zTKJk5HJyW_WluqUJyplPrAYfOILE-hk8qYQt30wO4D02ov-emRdE2HoVSNfQo4n3c760Q6o6FQzVvgT3LA-XF6oWBg1Cg5bmz2bj7F1jTRH7blf5Qdupq6q-cYUd5rD0MvDLmzLwUkKTS_sS354chV_OyLHhTHcKHN4vJpFX1VKsRVVW-M"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlO7TaIExH5f-XvYwbgeIEZm_TfXnDkbsOKUxENJWm4yBFmXzal2NbtXPzdG8GbNHvarKZH_TVtLbERN75pyRwPreStvJnTnvPTrMkXn8-GnLXUgNdvQeetCFFCuVokZXK_lAhn7rqh7wOiLC5s3a-_CSep9mFiPoOqFxNQNJosew3R0SqSZhWAlknbJwZLQKdApD0z9i7aHDpgYXvo8JBvGVFIFB66m-mfeJXtBeoKGoiC-3wUqdEuIJsE3_IHXEmQeuUAyE3-WSmwQrcaX_zk-4lqCnpLbcNtoX7l5fRBYyB_2VdQcyEPU-kUmiO_M2mUND_Rw",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlO7TaIExH5f-XvYwbgeIEZm_TfXnDkbsOKUxENJWm4yBFmXzal2NbtXPzdG8GbNHvarKZH_TVtLbERN75pyRwPreStvJnTnvPTrMkXn8-GnLXUgNdvQeetCFFCuVokZXK_lAhn7rqh7wOiLC5s3a-_CSep9mFiPoOqFxNQNJosew3R0SqSZhWAlknbJwZLQKdApD0z9i7aHDpgYXvo8JBvGVFIFB66m-mfeJXtBeoKGoiC-3wUqdEuIJsE3_IHXEmQeuUAyE3-WSmwQrcaX_zk-4lqCnpLbcNtoX7l5fRBYyB_2VdQcyEPU-kUmiO_M2mUND_Rw&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlO7TaIExH5f-XvYwbgeIEZm_TfXnDkbsOKUxENJWm4yBFmXzal2NbtXPzdG8GbNHvarKZH_TVtLbERN75pyRwPreStvJnTnvPTrMkXn8-GnLXUgNdvQeetCFFCuVokZXK_lAhn7rqh7wOiLC5s3a-_CSep9mFiPoOqFxNQNJosew3R0SqSZhWAlknbJwZLQKdApD0z9i7aHDpgYXvo8JBvGVFIFB66m-mfeJXtBeoKGoiC-3wUqdEuIJsE3_IHXEmQeuUAyE3-WSmwQrcaX_zk-4lqCnpLbcNtoX7l5fRBYyB_2VdQcyEPU-kUmiO_M2mUND_Rw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEmE081s1bgYgHVMMDHnqDnmPAZBwskjKTaYqfpO9LLebXSEQD3D1sCPsWRgR8Jdu_Q7wsJN9gbB_SqUkSnCNqxBxgUgGLxdLl6nLr2Ae-n-IEGVlSaRolx5rDRg7RLhi3AK0s78jTY7z9RvqqN-rGrIBLC4SMQWskXjj5FEUs0WjuctXrmexKO5441LsChW72Mgtk6sORBCi-wrz3UJHlDPEC2DBdWbrvKV5_3S2zUyUZkLYPGXs-ziNnamfFRKrE3LU7py_YAaxKZHIJRGaIKyc485qyRJ-fFKC45qfJD9kMrlGI054fob4M0FGlmWSdqwr5GI",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEmE081s1bgYgHVMMDHnqDnmPAZBwskjKTaYqfpO9LLebXSEQD3D1sCPsWRgR8Jdu_Q7wsJN9gbB_SqUkSnCNqxBxgUgGLxdLl6nLr2Ae-n-IEGVlSaRolx5rDRg7RLhi3AK0s78jTY7z9RvqqN-rGrIBLC4SMQWskXjj5FEUs0WjuctXrmexKO5441LsChW72Mgtk6sORBCi-wrz3UJHlDPEC2DBdWbrvKV5_3S2zUyUZkLYPGXs-ziNnamfFRKrE3LU7py_YAaxKZHIJRGaIKyc485qyRJ-fFKC45qfJD9kMrlGI054fob4M0FGlmWSdqwr5GI&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEmE081s1bgYgHVMMDHnqDnmPAZBwskjKTaYqfpO9LLebXSEQD3D1sCPsWRgR8Jdu_Q7wsJN9gbB_SqUkSnCNqxBxgUgGLxdLl6nLr2Ae-n-IEGVlSaRolx5rDRg7RLhi3AK0s78jTY7z9RvqqN-rGrIBLC4SMQWskXjj5FEUs0WjuctXrmexKO5441LsChW72Mgtk6sORBCi-wrz3UJHlDPEC2DBdWbrvKV5_3S2zUyUZkLYPGXs-ziNnamfFRKrE3LU7py_YAaxKZHIJRGaIKyc485qyRJ-fFKC45qfJD9kMrlGI054fob4M0FGlmWSdqwr5GI"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtVKivCvRXSQCqYDAtjFylHPiqWY5_ZFg_1CwMGItKKJm0a7u3-6UZWKwQZJ7I4zdy56qQsSRIORapRM-YV_6awJql_-Ap1SKFP0JNzhdajbhcnwcVsLg-Nt3Y61JYZ2Ku99Hl7xTD3OmgHodOBmPIP9XKPXr2AttuUPbxCnvc8AjJ4F2Tf0gkYJKAJ4SdZhnbsxJ4EqD3KLuUfx17-UXD6kpmRww7adgG6_ulf6RAH_nMOMlDKSUlrr4ZcTijoviPnwgo4c3jZGb63mnxjFcGvVLR_Kq8qxtvUhfotO78tqnlpARUMuRclsx9VqMoTGYT81De8WcNlUTuuYBfoqYcVaQZd8",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtVKivCvRXSQCqYDAtjFylHPiqWY5_ZFg_1CwMGItKKJm0a7u3-6UZWKwQZJ7I4zdy56qQsSRIORapRM-YV_6awJql_-Ap1SKFP0JNzhdajbhcnwcVsLg-Nt3Y61JYZ2Ku99Hl7xTD3OmgHodOBmPIP9XKPXr2AttuUPbxCnvc8AjJ4F2Tf0gkYJKAJ4SdZhnbsxJ4EqD3KLuUfx17-UXD6kpmRww7adgG6_ulf6RAH_nMOMlDKSUlrr4ZcTijoviPnwgo4c3jZGb63mnxjFcGvVLR_Kq8qxtvUhfotO78tqnlpARUMuRclsx9VqMoTGYT81De8WcNlUTuuYBfoqYcVaQZd8&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtVKivCvRXSQCqYDAtjFylHPiqWY5_ZFg_1CwMGItKKJm0a7u3-6UZWKwQZJ7I4zdy56qQsSRIORapRM-YV_6awJql_-Ap1SKFP0JNzhdajbhcnwcVsLg-Nt3Y61JYZ2Ku99Hl7xTD3OmgHodOBmPIP9XKPXr2AttuUPbxCnvc8AjJ4F2Tf0gkYJKAJ4SdZhnbsxJ4EqD3KLuUfx17-UXD6kpmRww7adgG6_ulf6RAH_nMOMlDKSUlrr4ZcTijoviPnwgo4c3jZGb63mnxjFcGvVLR_Kq8qxtvUhfotO78tqnlpARUMuRclsx9VqMoTGYT81De8WcNlUTuuYBfoqYcVaQZd8"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRevyfd8yN3vXH67tvC7qfMwMkXl923GXpXlGl5uNKlTz5x31v5KKx6AckUKhEoODm6WsioFS3LqE4-S_ICLUhUUgSt562rhXPvKxhwUOD4N1fyQUBwL4Pnk-1Kdb_sJIJj9zSz8IiJ1HmLuiFcq6zTKJk5HJyW_WluqUJyplPrAYfOILE-hk8qYQt30wO4D02ov-emRdE2HoVSNfQo4n3c760Q6o6FQzVvgT3LA-XF6oWBg1Cg5bmz2bj7F1jTRH7blf5Qdupq6q-cYUd5rD0MvDLmzLwUkKTS_sS354chV_OyLHhTHcKHN4vJpFX1VKsRVVW-M",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRevyfd8yN3vXH67tvC7qfMwMkXl923GXpXlGl5uNKlTz5x31v5KKx6AckUKhEoODm6WsioFS3LqE4-S_ICLUhUUgSt562rhXPvKxhwUOD4N1fyQUBwL4Pnk-1Kdb_sJIJj9zSz8IiJ1HmLuiFcq6zTKJk5HJyW_WluqUJyplPrAYfOILE-hk8qYQt30wO4D02ov-emRdE2HoVSNfQo4n3c760Q6o6FQzVvgT3LA-XF6oWBg1Cg5bmz2bj7F1jTRH7blf5Qdupq6q-cYUd5rD0MvDLmzLwUkKTS_sS354chV_OyLHhTHcKHN4vJpFX1VKsRVVW-M&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRevyfd8yN3vXH67tvC7qfMwMkXl923GXpXlGl5uNKlTz5x31v5KKx6AckUKhEoODm6WsioFS3LqE4-S_ICLUhUUgSt562rhXPvKxhwUOD4N1fyQUBwL4Pnk-1Kdb_sJIJj9zSz8IiJ1HmLuiFcq6zTKJk5HJyW_WluqUJyplPrAYfOILE-hk8qYQt30wO4D02ov-emRdE2HoVSNfQo4n3c760Q6o6FQzVvgT3LA-XF6oWBg1Cg5bmz2bj7F1jTRH7blf5Qdupq6q-cYUd5rD0MvDLmzLwUkKTS_sS354chV_OyLHhTHcKHN4vJpFX1VKsRVVW-M"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlO7TaIExH5f-XvYwbgeIEZm_TfXnDkbsOKUxENJWm4yBFmXzal2NbtXPzdG8GbNHvarKZH_TVtLbERN75pyRwPreStvJnTnvPTrMkXn8-GnLXUgNdvQeetCFFCuVokZXK_lAhn7rqh7wOiLC5s3a-_CSep9mFiPoOqFxNQNJosew3R0SqSZhWAlknbJwZLQKdApD0z9i7aHDpgYXvo8JBvGVFIFB66m-mfeJXtBeoKGoiC-3wUqdEuIJsE3_IHXEmQeuUAyE3-WSmwQrcaX_zk-4lqCnpLbcNtoX7l5fRBYyB_2VdQcyEPU-kUmiO_M2mUND_Rw",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnsXbUFjbL7p4y0xA7g4LQEvxBUi5A:1791542449353&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlO7TaIExH5f-XvYwbgeIEZm_TfXnDkbsOKUxENJWm4yBFmXzal2NbtXPzdG8GbNHvarKZH_TVtLbERN75pyRwPreStvJnTnvPTrMkXn8-GnLXUgNdvQeetCFFCuVokZXK_lAhn7rqh7wOiLC5s3a-_CSep9mFiPoOqFxNQNJosew3R0SqSZhWAlknbJwZLQKdApD0z9i7aHDpgYXvo8JBvGVFIFB66m-mfeJXtBeoKGoiC-3wUqdEuIJsE3_IHXEmQeuUAyE3-WSmwQrcaX_zk-4lqCnpLbcNtoX7l5fRBYyB_2VdQcyEPU-kUmiO_M2mUND_Rw&udm=8&sa=X&ved=2ahUKEwjQq6za36yXAxVJTDABHdkuJdQQkbEKegQIIhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlO7TaIExH5f-XvYwbgeIEZm_TfXnDkbsOKUxENJWm4yBFmXzal2NbtXPzdG8GbNHvarKZH_TVtLbERN75pyRwPreStvJnTnvPTrMkXn8-GnLXUgNdvQeetCFFCuVokZXK_lAhn7rqh7wOiLC5s3a-_CSep9mFiPoOqFxNQNJosew3R0SqSZhWAlknbJwZLQKdApD0z9i7aHDpgYXvo8JBvGVFIFB66m-mfeJXtBeoKGoiC-3wUqdEuIJsE3_IHXEmQeuUAyE3-WSmwQrcaX_zk-4lqCnpLbcNtoX7l5fRBYyB_2VdQcyEPU-kUmiO_M2mUND_Rw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Senior Executive – Supply Chain Data Analyst",
+      "company_name": "Kohler India Corporation",
+      "location": "Pune, Maharashtra",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=_PcC4HXfCcwFfpxlAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2NMQrCQBBFsc0RrKYWTUSw0UqiBBFByAFkjEN2Zd1ZdiaSdN7Bs3ghT-Jq85vHez97j7KqJm85wq6nplP7IPg8X1B3IbgBSoPWwxYVYePRDaJ_euMLCGFsDLCHirl1NF4b1SCrohBxeSuKapu84XvBni7cF0mS35zFYKTgUOm8WM77PPh2MjuwcRRh768WoeQYOKZAqqf_U-dpCkdMHorRiF_TnSJ4uAAAAA&shmds=v1_ARwrE23FdwdgH29AGQI1tIShUeBNK6GZxDEORoyRqpszG4el0g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=_PcC4HXfCcwFfpxlAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAYFBMVEX___8AAAD29vaOjo6ZmZlaWlr6-vrv7-_z8_OVlZXn5-eSkpIqKiqfn5_IyMjV1dU3Nze-vr4cHByoqKhVVVUWFha0tLTf399wcHBmZmaCgoILCwtISEhhYWF2dnYiIiJdxn4EAAABK0lEQVRIie1SyZaEIBCjcAERcRtFbW3__y87gN2Dc5pzP3IorUBCWBhLSEhI-HKUUpaMSV-VFY4SQoIXopTC9Vw4YJ6f80FNlLGN6GErArRhFh_mqG0nkv4PuOqvMCdqelAmjBD1aiAdDAsvzDwdKjWx8NBE4wz2Wf0QTe3phFUszJXC-NESdbEQ2BkkOdoDpprOeV5jYdYapFrY8FeoObhJoYVx0V2hb1ENskzuPO4rNv8RAksZC2FEoghuIaq2dgtC7o-pthZRH_GCTlhhP93o_Grs9Lwdjmmt32OLKCuimJtQnhA9r4Dmdh0wWt7X8cQNa2HbjzBjbgN5fj0ARTSEs9w9E4QwWhnM137k4clxXvqKVijpqDdTOhYfXwPLuWTxu0tISEj4TrwAeysNrnUjLPgAAAAASUVORK5CYII.png",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010288164149",
+      "job_title": "Senior Executive – Supply Chain Data Analyst",
+      "description": "About Us\nAt Kohler, our mission is to help people live gracious, healthy, and sustainable lives. We believe that empowering our associates is essential to making this vision a reality. That’s why we invest in personal and professional growth, encourage collaboration across teams and functions, and offer a comprehensive wellness package that supports the well-being of every team member.\n\n\nKohler is an equal opportunity employer. Along with competitive compensation and benefits, we offer something more enduring—a legacy built on bold innovation, creative excellence, and a deep commitment to our people and communities. Learn more about our culture and career opportunities at www.kohler.co.in/careers.\n\n\nOur approach to hiring reflects our commitment to Global Inclusion. We recruit, hire, and promote qualified individuals in all roles without regard to race, religion, age, sex, sexual orientation, gender identity or expression, marital status, national origin, or disability. If you are an individual with a disability and require reasonable accommodation during the recruitment process, please let your recruiter know so we can support you appropriately.\n\n\n\nJob Description:\n\n\nAbout the position:\n\n\nWe (Kohler India Technical Center) are a global center responsible for providing technical and nontechnical services for all the businesses and product lines for Kohler Co. globally (including Kitchen and Bath, Hospitality). We are on the journey of establishing a center for excellence, responsible for bringing cutting edge solutions with the latest technologies and creating a delivery function for various implementations across functions.\n\n\nWe are looking for a Senior Executive, Supply Chain Analyst to join our team and strengthen our Supply Chain Analytics Organization. This role will play a critical part in building and sustaining the foundational data capabilities required for supply chain network modeling, optimization, and visualization. As a key enabler of the Network Design COE, the analyst will manage data pipelines, automate workflows, and deliver actionable insights through advanced analytics and visualization. This is an exciting opportunity to collaborate, learn, and grow within a dynamic global supply chain environment, working closely with the broader analytics team and various Supply Chain COEs\n\n\n\n\n\nRole and Responsibilities\n\n\nData Management & Pipeline Development\nDesign, build, and maintain robust data pipelines to support supply chain network modeling and analytics.\nIntegrate and transform data from multiple sources including SAP, TMS, WMS, and external datasets using tools like SQL, Python, and Alteryx.\nAutomate data workflows and ensures accuracy, consistency, and availability for modeling and visualization purposes.\nCollaborate with IT and data engineering teams to streamline data ingestion and transformation processes.\n\n\n\nData Analysis, Coding, and Visualization\nPerform exploratory and statistical data analysis to uncover trends, patterns, and insights across the supply chain.\nDevelop and maintain interactive dashboards and reports using Power BI or Tableau to support decision-making.\nUse Python for data wrangling, automation, and advanced analytics tasks such as forecasting, clustering, or optimization support.\nLeverage Excel (including VBA scripting) and Power Query for quick-turnaround analysis, prototyping, and ad hoc reporting.\nPrepare and validate datasets for use in supply chain network modeling tools (e.g., Llamasoft, Optilogic)\n\n\n\nCollaboration & Support\nWork closely with the Network Design COE team to provide data-driven support for strategic initiatives.\nPartner with Advanced Analytics, Procurement, Logistics, and Finance teams to align data requirements and outputs.\nAssist in the development of standardized data models, templates, and reusable scripts for recurring analyses.\n\n\n\nProcess Improvement & Documentation\nIdentify opportunities to streamline data processes and improve data quality and accessibility.\nDocument data sources, transformation logic, automation scripts, and reporting standards to ensure transparency and repeatability.\nContribute to the development of best practices for data governance, coding standards, and analytics within the supply chain function.\n\n\n\nWhat we are looking for from your past experience\n\n\nExperience requirement:\n\n\nMust Have’s\n5–7 years of experience in data analysis, preferably within a supply chain or operations environment.\nStrong proficiency in SQL and Python for data manipulation, automation, and analytics.\nExperience with data transformation tools such as Alteryx or similar ETL platforms.\nHands-on experience with data visualization tools like Power BI or Tableau.\nProficiency in Excel, including advanced formulas and VBA scripting for automation.\nFamiliarity with supply chain concepts such as sourcing, inventory, transportation, and capacity planning.\nExperience working with large datasets from ERP systems (e.g., SAP) and integrating data from multiple sources.\nStrong analytical mindset with attention to detail and a passion for solving complex problems with data.\nExcellent communication skills with the ability to present insights clearly and effectively.\nAdded Advantage\nExposure to supply chain network modeling tools (e.g., Llamasoft, Optilogic) is a plus.\nExperience with cloud-based data platforms (e.g., Azure, AWS, Fabric) is an advantage.\nKnowledge of data governance and master data management principles.\nWork experience\n7+ Years of overall experience in Supply Chain/ Data Analysis and/or related field\nEducational Qualification requirement:\n\n\nDegree in Engineering, Data Analysis, Operations Research, Data Science or similar\n\n\nOrganizational Relationships:\n\n\nReports to Senior Manager – Supply Chain Operations & Design\nRegular interactions with Global Supply Chain and Operations teams\nFrequent interaction with Internal stakeholders including SC Leadership teams\nOther Details:\n\n\nThe associate should have the flexibility to work in shifts to accommodate an overlap with US Stakeholders timings.\n\n\n\n\nMandatory Skills:\nSupply Chain Analyst, Data Specialist, Power BI, Python, SQL, Data Analytics\n\n\nLocation:\nPune, Maharashtra, India\n\n\nExperience:\n5 to 8 years",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010288164149&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/_CIg4e8vKa1nxeL1c8Ylh-ovNHMwSv9JNDCTyD6rzCk4cI_4inCYGQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRXhlY3V0aXZlIOKAkyBTdXBwbHkgQ2hhaW4gRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiS29obGVyIEluZGlhIENvcnBvcmF0aW9uIiwiaHRpZG9jaWQiOiJfUGNDNEhYZkNjd0ZmcHhsQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEc5dlkzZDJZbkJDUWs1UFkwb3hlRVZWY2paRk1rWXpVbWhCWm14b1ZWazRWemxrVG1OM1lWSnBTVXBFTmpkYVoyaHRPVjlEWDJ3Mk9GQndNalExVTFGS2RUZGlZbnBxY0d0dWFsQTVRMEZCYTFwaFZWRlBYMVZWZEZKUloyZHlUMmhGVTNFNVJVeE1PRzFsUzB0dWRuUXRNamRWTXpZMlJuUkZVamRNU0U1dmF6UjRiVWdTRjNOalZFbGhjRU5RUm1OdFdYZGlhMUF5WkRKVmIxRXdHaUpCUkhOeU9XWlNjM05JWVUxQ1ZEUnRjVE5NVTFseFRFUTNNekV6ZUZBd0xWRm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJfUGNDNEhYZkNjd0ZmcHhsQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst Intern (Marketing)",
+      "company_name": "Kreative & Co.",
+      "location": "Solapur, Maharashtra",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=U00BHHvK47gkX_5sAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLQQrCMBAAQLz2CZ72VFQkEUEQPYmCiPTkA8palqQasyG7Sr35Bx_g33yJ9TK3KT6DYrlDRdhEDE9ROESlHGFUYb6SttGN4ft6w4XPIIS58cAR9swu0HDtVZOsrBUJxomito1p-GY50pk72yf5U4vHTCmgUj1fzDqTopuUx0x9eBCUsGUDbYQTB0z3PIUK-4DiNeMPIUPZF6IAAAA&shmds=v1_ARwrE20k64uIcpfWb4TPKeOMeCG5ZYg_V04QuHkzQw-BoTvKGA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=U00BHHvK47gkX_5sAAAAAA%3D%3D",
+      "extensions": [
+        "18 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/data-analyst-intern-marketing/kreative-co/19569378",
+      "job_title": "Data Analyst Intern (Marketing)",
+      "description": "Role Description The Data Analyst Intern (Marketing) role is a full-time on-site position based in Navi Mumbai. The intern will support the marketing team by collecting, cleaning, and analyzing campaign and user data from various digital channels. Day-to-day tasks include preparing dashboards and reports, identifying trends and patterns in performance metrics, and assisting in building data-driven recommendations to optimize campaigns and improve ROI.\n\n\nThe role also involves collaborating with marketers and designers to translate insights into actionable strategies and testing hypotheses through A/B experiments. This position offers hands-on exposure to marketing analytics tools, performance marketing workflows, and real-world business decision-making.\n\n\nQualifications - Strong analytical skills with the ability to interpret quantitative data and identify meaningful trends.\n\n\nFoundational knowledge of data analytics and data modeling for marketing or business use cases.Basic understanding of statistics, including descriptive statistics and hypothesis testing.Effective communication skills to present insights clearly to non-technical stakeholders.Familiarity with Excel/Google Sheets; exposure to analytics or BI tools (e.g., Google Analytics, Power BI, Tableau) is a plus.Pursuing or recently completed a degree in Marketing, Data Science, Statistics, Economics, Engineering, or a related field.Ability to work on-site in Navi Mumbai and collaborate in a fast-paced, team-oriented environment.Curiosity, attention to detail, and a strong interest in performance marketing and ROI optimization. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst-intern-marketing/kreative-co/19569378?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-2927-1e7997963b931289bf8f2c0147f3f0f3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSW50ZXJuIChNYXJrZXRpbmcpIiwiY29tcGFueV9uYW1lIjoiS3JlYXRpdmUgXHUwMDI2IENvLiIsImh0aWRvY2lkIjoiVTAwQkhIdks0N2drWF81c0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRGQjRXWFpwV21kWlVIazFkV1EwUjI1Q1RWRjBkRlpQVVRrM1FWZFdXbnAwU0Y5aFIyMTBRVnBaWjFOV2RVbzVXR0pWU1UxUFJGZFlXVTB4VW10bmN6TXdRbmhRWm5GRmQyUlpVMnhaVFMwM2VUaEZkRjlWYUdwUE56Tm9abXRxYkV4bVJtTkZiVTFIZEU5M2RUWXhjbVZYVVZoT01HVkNjbGxqYjNSdExURmhRa05UVEZZU0YzTmpWRWxoY0VOUVJtTnRXWGRpYTFBeVpESlZiMUV3R2lKQlJITnlPV1pVVEZORFMzZHZWa1ZTY0ZWWVlrSXpTMEpqTldGMGFuZEVjWGhuIiwiZmN2IjoiMyIsImZjX2lkIjoiVTAwQkhIdks0N2drWF81c0FBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Technical Data Analyst - Assistant Vice President",
+      "company_name": "Citi",
+      "location": "India",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=iZrPIazCCD8pzZCxAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWwDXsBqasGsCDZaBQWxUxTbMNkM2ZF1NuxMETvv4AG8mycxNh9-8YrPpDhfSDhluJIPwh4j7NEQKsH4VIMFVKqshmJwY09wyqTc0rjf1xvuqQElzD5AEjik1EWabYNZrxvnVGPZjdbYlz49XBJq0uBGpP_UGjBTH9GoXq2XQ9lLN5_u2BhY4Cgt4w8gXiIsogAAAA&shmds=v1_ARwrE21AxuUKA6x-rjaCo53xpa6sjs6l0d8MU-ysoNKylOLXAw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=iZrPIazCCD8pzZCxAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4a8d3982ce2564b9303/images/XGfe_HQydxLJnlND1UC74GRemJd-EKqHMd_G4ng_mxA.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/senior-technical-data-analyst-assistant-vice-president-at-citi-4475493820",
+      "job_title": "Senior Technical Data Analyst - Assistant Vice President",
+      "description": "Job Profile Name: Technical Data Analyst - C12\n\nJob Description:\n\nThe Technical Data Analyst is a senior-level position responsible for bridging the gap between complex business requirements and technical data solutions, leveraging advanced analytical and technical skills to develop data-driven solutions, with a focus on regulatory reporting and liquidity risk initiatives. This role will liaise extensively with business stakeholders and technology teams to articulate data needs, extract insights, and ensure data quality and integrity.\n\nResponsibilities:\n\nConsult with business clients to determine system functional specifications and partner with multiple management teams and other units to meet organizational objectives.Define, document, and validate detailed data requirements, data flows, and data lineage for new or enhanced systems and applications.Provide technical input during the development and implementation phases, including formulating and defining systems scope, data objectives, and necessary data architecture enhancements for complex, high-impact projects.Design and develop robust data models (conceptual, logical, physical) to support reporting, analytics, and business processes.Prepare and curate data for AI/ML model development, working closely with AI engineers to ensure data quality, feature engineering, and model validation.Utilize advanced SQL for data extraction, manipulation, and analysis from various relational databases, data warehouses, and Big Data platforms.Develop and maintain data visualization dashboards and reports using tools such as Tableau, Power BI, or QlikView, translating complex data into understandable business insights.Lead the analysis of complex data sets to identify trends, patterns, and anomalies relevant to regulatory reporting, liquidity risk, and other critical financial functions.Identify and communicate data-related risks and impacts and propose risk mitigation options, considering business implications of the application of technology to the current business environment.Evaluate new data technologies, analytical tools, and evolving business requirements, and recommend appropriate systems alternatives and/or enhancements to current systems by analyzing business processes, systems and industry standards.Serve as advisor or coach to new or lower level analysts.Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.\n\nQualifications:\n\n6-8 years of experience as a Technical Data Analyst or similar role within the Financial Services industry, preferably in regulatory reporting (e.g., Basel, CCAR, FR 2052a) and liquidity risk.Advanced proficiency in SQL for complex data querying, analysis, and optimization across large datasets.Strong experience with relational databases (e.g., Oracle, SQL Server, DB2) and data warehousing concepts (e.g., dimensional modeling, star/snowflake schemas).Demonstrated expertise with Big Data technologies including Hadoop, Spark (PySpark/Scala Spark), Kafka, and cloud-based data platforms (e.g., AWS S3, Databricks).Demonstrated experience with data modeling tools and techniques.Proficiency in data visualization tools (e.g., Tableau, Power BI, QlikView) and strong Excel skills for data manipulation and presentation.Experience with scripting languages for data analysis (e.g., Python, R) is highly desirable.Experience with data preparation for AI/ML models and understanding of core AI/ML concepts and workflows is highly desirable.Comprehensive knowledge of data analysis principles, methodologies, and data governance frameworks.Experience across all phases of the Software Development Life Cycle (SDLC), with a focus on data-centric projects.Consistently demonstrates clear and concise written and verbal communication.Demonstrated problem-solving and decision-making skills.Ability to work under pressure and manage deadlines or unexpected changes in expectations or requirements.\n\nEducation:\n\nBachelor's degree/University degree or equivalent experience.Master's degree preferred.\n\n------------------------------------------------------\n\nJob Family Group: \n\nTechnology\n\n------------------------------------------------------\n\nJob Family:\n\nApplications Development\n\n------------------------------------------------------\n\nTime Type:\n\nFull time\n\n------------------------------------------------------\n\nMost Relevant Skills\n\nPlease see the requirements listed above.\n\n------------------------------------------------------\n\nOther Relevant Skills\n\nFor complementary skills, please see above and/or contact the recruiter.\n\n------------------------------------------------------\n\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\n\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.\n\nView Citi’s EEO Policy Statement and the Know Your Rights poster.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/senior-technical-data-analyst-assistant-vice-president-at-citi-4475493820?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bayt.com",
+          "link": "https://www.bayt.com/en/india/jobs/senior-data-engineer-assistant-vice-president-75138956/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/7131225157665816576?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgVGVjaG5pY2FsIERhdGEgQW5hbHlzdCAtIEFzc2lzdGFudCBWaWNlIFByZXNpZGVudCIsImNvbXBhbnlfbmFtZSI6IkNpdGkiLCJodGlkb2NpZCI6ImlaclBJYXpDQ0Q4cHpaQ3hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMDVCY21ZeFNUQkdNREIyTFVGMGJsaHBNWGx0YTNGSVNHdzVWVzVZYlVkVFlXZDVkMUJwVGtvMFpHeEpaVm80V2w5WmNFcE5UVEpyYUZWVFgzbHNNRXQwU1hoa2JqbEljRE4zV1RKallrMTVRVFZaUnpkWmFGaFRaVmRNT0VwT1JGWmlNR1pmZEZKRVYzcEpOalZRWlU1MldIbFBhVmd0ZWsweGVucFlNbVpCUjFwUVVUTVNGM05qVkVsaGNFTlFSbU50V1hkaWExQXlaREpWYjFFd0dpSkJSSE55T1daVVgyTjVRelJPZVhKaVJtcG1Ta05WWnpoQ05GWlZNRjlsZUUxbiIsImZjdiI6IjMiLCJmY19pZCI6ImlaclBJYXpDQ0Q4cHpaQ3hBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst – Off Campus Hiring",
+      "company_name": "Careers | MHTECHIN",
+      "location": "Pune, Maharashtra",
+      "via": "Careers | MHTECHIN",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=_5IHRnXmXrcLfadxAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3LMQrCMBSAYVx7BKe3CSKNCC52kirWoergXl5LmkTSJOS9QgUH7-ARvJknsbr8wwd_8p4k2Q4ZYevQ3onh83zBuW0hxy70BIWJxqm_3nwNJDE2GryDg_fKymmmmQNthCCyqSJGNk3a-E54J2s_iHGiXyrSGGWwyLJarZdDGpyaz_LRZCR4QFlc93lxPIFxcOmdXECJ44GkOeIXtTVBuKYAAAA&shmds=v1_ARwrE22yhIufpiaJ4JxcdQr8x6EkMqs0LllRphF35v-gZWiEsQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=_5IHRnXmXrcLfadxAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://careers.mhtechin.com/index.php/jobs/data-analyst-off-campus-hiring-2025/",
+      "job_title": "Data Analyst – Off Campus Hiring",
+      "description": "Job Title: Data Analyst – Off-Campus Hiring 2026\n\n\n\n\n\nLocation: Pune – Hybrid  \n\n\n\n\n\nEmployment Type: Full-time | Batch: 2025 & 2026 Graduates\n\n\n\n\n\n\n\n\n\nAbout the Opportunity\n\n\n\nWe are excited to announce our Off-Campus Hiring Drive for 2025 & 2026 batches!\nIf you are a recent graduate or in your final year and passionate about uncovering insights from data, this is your chance to launch your career as a Data Analyst with a high-growth, innovation-driven organization.\n\n\n\n\n\nYou will join a collaborative analytics team that partners with product, marketing, finance, and operations to deliver data-driven solutions that directly impact business decisions.\n\n\n\n\n\n\n\n\n\nKey Responsibilities\n\n\n\n\nCollect, clean, and transform large, complex data sets from multiple sources.\n\n\n\nBuild and maintain dashboards and visualizations using Tableau / Power BI / Looker.\n\n\n\nConduct exploratory data analysis (EDA), identify trends, and present actionable insights.\n\n\n\nDesign and evaluate A/B tests, perform statistical analysis, and generate predictive reports.\n\n\n\nCollaborate with cross-functional teams to translate business questions into analytical models.\n\n\n\nEnsure data quality, accuracy, and security across pipelines and reporting layers.\n\n\n\nDocument findings and communicate recommendations clearly to both technical and non-technical stakeholders.\n\n\n\n\n\n\n\n\nEligibility & Qualifications\n\n\n\n\nGraduation Year: 2025 or 2026 (B.E./B.Tech, B.Sc, M.Sc, M.Tech, MBA Analytics, or equivalent).\n\n\n\nField of Study: Computer Science, Statistics, Mathematics, Data Science, Economics, or related discipline.\n\n\n\nStrong knowledge of SQL and advanced Excel.\n\n\n\nFamiliarity with Python or R for data analysis.\n\n\n\nUnderstanding of statistics, probability, and hypothesis testing.\n\n\n\nExcellent analytical thinking and problem-solving skills.\n\n\n\nStrong written and verbal communication in English.\n\n\n\n\n\n\n\n\nPreferred Skills\n\n\n\n\nExperience or academic projects with cloud data warehouses (BigQuery, Snowflake, Redshift).\n\n\n\nKnowledge of ETL concepts, data modelling, or tools like dbt/Airflow.\n\n\n\nExposure to machine learning basics or product analytics platforms (Amplitude, Mixpanel).\n\n\n\nInternship or project experience in data analytics, BI, or related field.\n\n\n\n\n\n\n\n\nWhy Join Us\n\n\n\n\nBe part of a next-generation analytics team driving strategic decisions.\n\n\n\nAccess to mentorship and training from senior data scientists and business leaders.\n\n\n\nCompetitive salary with performance bonuses.\n\n\n\nFlexible work culture with opportunities to explore diverse projects across domains.\n\n\n\nClear growth path toward Senior Analyst and Data Scientist roles.\n\n\n\n\n\n\n\n\nApplication Process\n\n\n\n\nOnline Application: Submit your resume and academic transcripts via application link\n\n\n\nAptitude & SQL/Python Assessment.\n\n\n\nTechnical Interview – problem solving and case study discussion.\n\n\n\nHR/Managerial Round – culture fit and career aspirations.\n\n\n\n\n\n\n\n\nHow to Apply\n\n\n\nApply now through the LinkedIn or directly at company careers page link\nFor any queries, Call us on 02269711557 with the subject “Data Analyst – Off-Campus”.",
+      "apply_options": [
+        {
+          "title": "Careers | MHTECHIN",
+          "link": "https://careers.mhtechin.com/index.php/jobs/data-analyst-off-campus-hiring-2025/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3Qg4oCTIE9mZiBDYW1wdXMgSGlyaW5nIiwiY29tcGFueV9uYW1lIjoiQ2FyZWVycyB8IE1IVEVDSElOIiwiaHRpZG9jaWQiOiJfNUlIUm5YbVhyY0xmYWR4QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBoVlJFMDNlR1p4UkRKelRIWTJVVXBIWDB3M1ZGQkJZVlJMYVRWWFZVRjFRWFEyYW5aV05GSnpiRlZTV1Rsa2EwbEhOMlJIYzJ4MGIyeFRTVVpYWVc1blVsTkhhakJJY0hsaFRFUkNWell6UWtsYVUwMTRMVzVJTUZWM09EVXdNemRzVjNsdllqbHRaVkZ1VmtkeWVEazVNRkF5ZWtGNE0xOXJPVkowVWxVMWVVaE9XRzRTRjNOalZFbGhjRU5RUm1OdFdYZGlhMUF5WkRKVmIxRXdHaUpCUkhOeU9XWlVNQzFSYVMxeFltSlBjblpVYlRCc2NXYzFXRlY1VUMxc1UwMVIiLCJmY3YiOiIzIiwiZmNfaWQiOiJfNUlIUm5YbVhyY0xmYWR4QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst - Global Procurement & Planning COE",
+      "company_name": "Revvity",
+      "location": "Thane, Maharashtra",
+      "via": "Revvity Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=sE3aODinHbDegS8oAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCUAyAYVx7BEHI5CDaiuCik6gUB7GIe0lL6Ku8JuUllnbzDh7Ce3kSdfmn74_eo-h0QEPYMfpBDRaQeinQQxakfARqiA2mkHlkrrmC_eUIn-cL7lKAEobSgTCkIpWn8daZtbpJElUfV2podRmX0iTCVEif_Cb9J1eHgVqPRvlqvezjlqvZ5EpdV9sANcPNIdMczvhzqM4CfgGAl_DOqgAAAA&shmds=v1_ARwrE23ZojjcQvYe1RcU94xY0kp-zxy-sf9fU44AmO4ht2qZXw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=sE3aODinHbDegS8oAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4a8d3982ce2564b9303/images/ULq5VKzbeGMbUb8o2BvpWyQM2K6m-McSV17U8hzzxOc.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://jobs.revvity.com/job/thane/data-analyst-global-procurement-and-planning-coe/20539/100975023968",
+      "job_title": "Data Analyst - Global Procurement & Planning COE",
+      "description": "Revvity is a global innovator in life sciences, diagnostics, and applied genomics — empowering scientists, clinicians, and healthcare systems to improve human health outcomes. With operations in 190+ countries and a portfolio spanning newborn screening, oncology, immunology, and reproductive health, Revvity offers a dynamic environment where analytical excellence creates real-world impact.\n\n\n\nKey Responsibilities\n\nAdvanced Analytics & Business Insights\n\nLead complex data analysis to identify business opportunities, operational risks, and performance gaps across Revvity's supply chain and customer operations.Translate business requirements into analytical models and actionable insights.Develop executive dashboards, visualizations, and strategic performance reports.Perform predictive, trend, and root-cause analysis to improve operational outcomes.Provide recommendations that drive efficiency, customer satisfaction, inventory optimization, and service-level improvements aligned with Revvity's growth targets.Process Mapping & Transformation\n\nLead cross-functional efforts to map and optimize end-to-end fulfillment processes across:Customer CareLogistics & FreightManufacturingProcurement & SuppliersCommercial OperationsIdentify and deploy process improvements aligned with Revvity's business objectives and e-commerce growth strategies.Drive operational standardization and digital transformation initiatives.Digital Supply Chain & Technology Enablement\n\nSupport adoption of advanced technologies including:Artificial Intelligence (AI)Machine Learning (ML)Robotic Process Automation (RPA)Advanced Data AnalyticsDigital Supply Chain SolutionsEvaluate and recommend technology solutions to improve visibility, reporting, and decision-making.Act as a key user and subject matter expert for analytics platforms and reporting tools within Revvity's technology ecosystem.SAP Analytics & Integration\n\nDevelop deep expertise in SAP ECC and SAP S/4HANA environments.Analyze end-to-end business processes across SAP modules.Support data governance, master data quality, and system optimization initiatives.Design and improve reporting structures utilizing SAP and enterprise data sources.KPI Governance & Performance Management\n\nDefine and manage key operational KPIs across Revvity's supply chain and customer operations.Develop measurement frameworks covering:Order Fulfillment & Backlog PerformanceInventory ManagementLogistics PerformanceCustomer Service MetricsForecast AccuracySupplier PerformanceMonitor KPI effectiveness and lead continuous improvement activities.Change Management & Stakeholder Engagement\n\nAct as a change advocate supporting process and technology adoption across Revvity's global teams.Train users on new tools, reports, dashboards, and operating procedures.Partner with global stakeholders to drive successful implementation of business initiatives.Support projects across multiple geographies and time zones, including Revvity's India operations hub.Qualifications\n\nEducation\n\nBachelor's degree in Supply Chain, Business Analytics, Engineering, Information Systems, Statistics, or a related field.Master's degree preferred.Experience\n\n5–8+ years of experience in Data Analytics, Supply Chain Analytics, Operations Analytics, or Business Transformation.Experience supporting global supply chain or commercial operations — life sciences, diagnostics, or medical devices experience strongly preferred.Demonstrated success driving measurable business improvements through analytics.Technical Skills\n\nStrong SAP ECC and SAP S/4HANA knowledge.Advanced Microsoft Excel expertise.Power BI, Tableau, or equivalent analytics platforms.SQL and data modeling experience.Experience with AI, Machine Learning, RPA, or advanced analytics solutions preferred.Understanding of supply chain planning systems and digital transformation initiatives.Core Competencies\n\nAdvanced analytical and problem-solving skillsBusiness process improvement expertiseStrategic thinking & executive communicationStakeholder and change managementProject leadershipAbility to work independently in a fast-paced, global environmentPreferred Industry Experience\n\nLife Sciences / Diagnostics / Medical Devices (Revvity's core markets)Supply Chain & ManufacturingLogistics & DistributionCommercial Operations & E-commerce Fulfillment",
+      "apply_options": [
+        {
+          "title": "Revvity Careers",
+          "link": "https://jobs.revvity.com/job/thane/data-analyst-global-procurement-and-planning-coe/20539/100975023968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5895469995?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/2637900759196434511?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analyst-global-procurement-planning-coe-at-revvity-4470642747?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/revvity-data-analyst-global-procurement-planning-coe-thane-maharashtra-5-to-10-years-1810065?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Empleos",
+          "link": "https://in.empleos.io/jobs/view/55572?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/976aae27-0f96-4c2e-9147-8ccf9ea755e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/data-analyst-global-procurement-planning-coe--thane--e4a9a7b2b14c386e94efb63d8c7fb59fb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBHbG9iYWwgUHJvY3VyZW1lbnQgXHUwMDI2IFBsYW5uaW5nIENPRSIsImNvbXBhbnlfbmFtZSI6IlJldnZpdHkiLCJodGlkb2NpZCI6InNFM2FPRGluSGJEZWdTOG9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMjE0U2sxUWNqQkVTRFpWY1haZlZqaDNhMFp6Vldzd1kwVmpkV2hETVhGT2FFSktOMU4zYzFKZlJtdE5jRGRZWm1SdlRUSkpUVXhhVURWbVZsZDVNV1YzZWpCV01USnhNMUphUlhsamJXWldSSEpPTkdGcWJ6ZENRMmRxZGt0NldrTmFlbXhJU1hoUU5qRmhVVlJNYVZsTmEwUTVXVmQ0WXpaMWIxbFFabTFpUm5nNWNtd1NGM05qVkVsaGNFTlFSbU50V1hkaWExQXlaREpWYjFFd0dpSkJSSE55T1daVE1XeHJMVk00YjIxV2RGUTJZV1pZU201RVNtUktNMnBEZFZoUiIsImZjdiI6IjMiLCJmY19pZCI6InNFM2FPRGluSGJEZWdTOG9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst and Data Science Trainer",
+      "company_name": "Arc Technologies And Institutions",
+      "location": "Nagpur, Maharashtra",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=W_B8d5rMKm6SCcREAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2OMQoCQQxFsd0jWKUW2RFBEAVhQRALbdxe4hhmRsZkmUTQzjt4GO_jSVxtfvHgPX71HlSrNRpCw5gfaoB8hj84-ETsCdqCianA5_mCi5xACYuPIAwbkZBpuIxmnS6cU811UENLvvZydcJ0krvrJf3NUSMW6jIaHaezyb3uOIzmTfHQko8sWUIi7Y-cYctqyW6WhBUSwx5Ddytj2GGfQI1W8AtqVlPXugAAAA&shmds=v1_ARwrE20_NPeLnHawmfcotIpYybPlvVdUEsk1Xo23fBfXv-vMKg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=W_B8d5rMKm6SCcREAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/data-analyst-and-data-science-trainer/arc-technologies-and-institutions/19702918",
+      "job_title": "Data Analyst and Data Science Trainer",
+      "description": "Data Science and Data Analyst Trainer:-\n\n\nARC Technologies & Institutions\n\n\nJob Summary:-\n\n\nARC Technologies & Institutions, an IT EdTech organization focused on technology training, skill development, and industry-oriented projects, is looking for a Data Science and Data Analyst with strong expertise in Data Analytics, Python, SQL, Machine Learning, Power BI, and Advanced Excel.\n\n\nThe trainer will be responsible for delivering structured and engaging technical training, conducting practical sessions, bootcamps, revision sessions, assessments, and project-based learning activities, while also contributing to data analytics and industry-oriented projects.\n\n\nKey Responsibilities\nTraining & Student Engagement\n\nConduct engaging and interactive regular training classes on Data Analytics, Data Science, Python, SQL, Power BI, Advanced Excel, and Machine Learning.\nConduct technical bootcamps, workshops, practice sessions, revision sessions, doubt-clearing sessions, and interview preparation sessions.\nDesign and deliver hands-on learning activities using real-world datasets, projects, case studies, and industry use cases.\nEngage students through discussions, demonstrations, assignments, coding exercises, practical tasks, and project-based learning.\nConduct assessments, mock tests, practical evaluations, and skill-based assessments to track student progress.\nProvide constructive feedback and identify areas requiring improvement.\nMentor students during their academic and industry-oriented projects.\nSupport students with technical interview preparation and practical problem-solving.\nMaintain an engaging classroom environment and ensure effective participation from learners.\nAdapt training methodologies according to different student skill levels.\n\nData Analytics & Project Responsibilities\n\nAnalyze, interpret, and visualize structured and unstructured datasets.\nPerform data cleaning, preprocessing, Exploratory Data Analysis (EDA), and validation.\nDevelop interactive dashboards and analytical reports using Power BI and Advanced Excel.\nWrite, optimize, and manage SQL queries for data extraction and analysis.\nApply statistical and machine learning techniques to real-world business and analytical problems.\nDevelop, test, and evaluate predictive models.\nWork with Python libraries including NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.\nPrepare MIS, analytical, and management reports.\nWork on industry-oriented projects and convert data into meaningful business insights.\nUtilize Generative AI, AI tools, and Prompt Engineering to enhance training, analytics, and productivity.\n\nTraining Content & Internal Responsibilities\n\nContribute to the development and improvement of training materials, presentations, assignments, practice exercises, and project content.\nAssist in planning training schedules, bootcamps, revision modules, and assessment activities.\nCollaborate with the internal academic and placement teams to align training with industry requirements.\nKeep training content updated with current industry practices, tools, technologies, and job requirements.\nParticipate in internal knowledge-sharing sessions and trainer development activities.\nMaintain student performance records and provide regular feedback to the concerned team.\n\nRequired Skills:-\nPython | SQL | Advanced Excel | Power BI | Data Analysis | Statistics | Machine Learning | NumPy | Pandas | Data Visualization | EDA | MIS Reporting | Generative AI | Prompt Engineering | Training & Presentation Skills | Excellent Communication Skills\nEducational Qualification:-\n\n\nBachelors or Masters degree in Computer Science, Information Technology, Data Science, Statistics, Mathematics, Engineering, or a related field.\n\n\nPreferred Profile:-\n\n\n\nStrong analytical and problem-solving abilities.\nGood understanding of Data Analytics and Data Science concepts.\nStrong classroom training, presentation, and communication skills.\nAbility to explain technical concepts in a simple, practical, and engaging manner.\nHands-on experience with real-world datasets, academic projects, or industry projects.\nAbility to conduct classes, bootcamps, practice sessions, revision sessions, assessments, and project-based training.\nPassion for teaching, mentoring, and engaging with students.\nAbility to work effectively with students from beginner to advanced skill levels.\nCandidates with relevant industry, training, project, or teaching experience are preferred.\nFreshers with strong practical knowledge, presentation skills, and excellent communication skills may also be considered.Role & responsibilities .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst-and-data-science-trainer/arc-technologies-and-institutions/19702918?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-and-data-science-trainer-arc-technologies-and-institutions-nagpur--t7xk-860048424?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/4543262170732822528?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/341704087/data-analyst-and-data-science-trainer-nagpur?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgYW5kIERhdGEgU2NpZW5jZSBUcmFpbmVyIiwiY29tcGFueV9uYW1lIjoiQXJjIFRlY2hub2xvZ2llcyBBbmQgSW5zdGl0dXRpb25zIiwiaHRpZG9jaWQiOiJXX0I4ZDVyTUttNlNDY1JFQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xNeVIyMWhNMmhpZG5CQlowUXdVMjFhUmtwVlJEVllaR1JCVGs1Q2EzSnpaRkZWYWs1NkxUTmFXV1JsWDBaSk5UbGpSRzB4V1VGc2VtSklSVVZDWlZsbU1UWlhkREJ6WWtocE9HazJSRzFKVjJaemJUUTJRbHBxTFZaUFRIWkRkbmRHZFZoSVQwTnFZbTlHZEcxaFFWUnRkWE14T1d0MVdHMVFObVF4VEV4ZlpVSTBSRUlTRjNOalZFbGhjRU5RUm1OdFdYZGlhMUF5WkRKVmIxRXdHaUpCUkhOeU9XWlJSREpqYWpkek16VkZaRWt3Y2paa05ucEdSMnhGZGpONVRXVm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJXX0I4ZDVyTUttNlNDY1JFQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst - Cx",
+      "company_name": "IDFC FIRST Bank",
+      "location": "Mumbai, Maharashtra",
+      "via": "IDFC FIRST Bank",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=3ABL1NDxYWy2jDncAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQ6CMBAA0LjyCU43ORClxsRFJ4VgGFjUnRykadHSI70zqZu_YPxDv0Rc3vaS9yxJCxSEg0f3ZIEV5BG-rw_cqAXWGDoL5OFEZJye763IyDulmF1mWFD6LutoUOR1S1FNif80bDHo0aHoZrNdx2z0Jl1URZlDWZ0vVziiv0PvoX4MLfZLqHEKyFYC_gDwyf0WlAAAAA&shmds=v1_ARwrE23x5dcOtnPACCgKC7Psid98uf6asjq3JdqiFlO3TIs9ag&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=3ABL1NDxYWy2jDncAAAAAA%3D%3D",
+      "extensions": [
+        "25 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://careers.idfcfirst.bank.in/in/en/job/P-226390/Data-Analyst-Cx",
+      "job_title": "Data Analyst - Cx",
+      "description": "Job Requirements \nAbout the RoleAs a Data Analyst in the Data & Analytics function at IDFC FIRST Bank, you will play a key role in identifying business needs, designing analytical tools, and supporting the delivery of data-driven solutions. You will work closely with senior analysts and lead analysts to develop test strategies, apply analytical frameworks, and contribute to impactful business outcomes. This role is ideal for individuals who are passionate about data, problem-solving, and continuous improvement.\n\nKey ResponsibilitiesPrimary ResponsibilitiesIdentify and scope business requirements and priorities through structured information gathering and analysis.Design and apply analytics techniques to address current and future business needs.Demonstrate a robust understanding of data structures and fields required for effective analysis.Map analytical frameworks to available data sources to ensure alignment with business objectives.Collect, clean, and organize data from multiple sources to ensure accuracy and reliability.Conduct statistical analysis and create visualizations to present findings in a clear, actionable mannerSupport ongoing monitoring of business performance through regular reporting and ad-hoc analysis.Develop test strategies and systematic procedures to validate solution performance and accuracy.Select and apply algorithms and advanced computational methods to enable systems to learn, adapt, and deliver desired outcomes.Approach problems with creativity and develop innovative, data-driven solutions.Challenge existing processes to drive continuous improvement and operational efficiency.Maintain a strong focus on goal achievement and follow through on initiatives.Understand the broader business context and how data-driven decisions impact overall outcomes.What We Are Looking ForEducationBachelor’s Degreein B.Sc or B.Tech or BCAPostgraduate Degreein M.Sc or M.Tech or MCAExperience2–5 years of relevant experiencein data analysis, business intelligence, or related roles.Skills and AttributesStrong analytical and problem-solving skills.Proficiency in data modelling, data architecture, and analytical tools.Familiarity with structured and unstructured data handling.Experience in designing and executing test strategies for data solutions.Excellent communication and stakeholder management skills.A proactive mindset with a focus on innovation and continuous improvement.Understanding of how data-driven decisions contribute to broader business goals.Key Success MetricsDevelopment and deployment of analytical tools.Delivery of impactful business use cases.Accuracy and reliability of analytical outputs.Timely execution of assigned tasks and projects.",
+      "apply_options": [
+        {
+          "title": "IDFC FIRST Bank",
+          "link": "https://careers.idfcfirst.bank.in/in/en/job/P-226390/Data-Analyst-Cx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/data-analyst-cx-idfc-mumbai-66617337?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst-cx/idfc-first-bank/19501771?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/7389927993341396659?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mployee.me",
+          "link": "https://www.mployee.me/jobs/view/data-analyst-cx-in-mumbai-at-idfc-first-bank--jid--446385957360684/s1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analyst-cx-at-idfc-first-bank-4457487545?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-cx-idfc-first-bank-mumbai-maharashtra--t7xk-819764124?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olibr",
+          "link": "https://olibr.com/jobs/data-analyst-cx-idfc-first-bank-wjov8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBDeCIsImNvbXBhbnlfbmFtZSI6IklERkMgRklSU1QgQmFuayIsImh0aWRvY2lkIjoiM0FCTDFORHhZV3kyakRuY0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzVnRPV05RVkRVeFMyMVpiRWxqVm5sUVJqUlpNMnc1UlVKc2IxZGpPR2hyVkcxUU1WOWFha0ZmYnpKR1ZESnZXbmRUUVZGVGRETm5aSFpzTnkxRWJFdDFUSFZwZGxkQ2JVVkdVMUpDZWxsb1lXbG9abmhMWmtsUE5VTlNNVFprT0RSRlRUSjVSV3R2U25sYU5uSlhiMmgxZG1KUmMzTk9ZVzg1YkRKR09HUkVlbUZqWDFvU0YzTmpWRWxoY0VOUVJtTnRXWGRpYTFBeVpESlZiMUV3R2lKQlJITnlPV1pSWkROUlZYVmpWbVUzWVVad1RWOXlOM1F3TjFOcWFuVndaR0puIiwiZmN2IjoiMyIsImZjX2lkIjoiM0FCTDFORHhZV3kyakRuY0FBQUFBQT09In0="
+    },
+    {
+      "title": "Junior - Data Analyst| Thane",
+      "company_name": "CSB Bank",
+      "location": "Maharashtra",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=MJOIlZMFOPJ1RwHGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7AoLTzYKJCF10sgqC4KR7uYbQtMa7kDuhgoMv4OQb-iTW5Z--v3hPivJ4p44zLGCPirAljA_RJ1wCkofv6wM9NyAeswvABAfmNvrZJqgmWVsrEk0rito54_hmmXzDgx0n-aeWgNmniOrrVbkcTKJ2Pt2dK6iQrtARnHAUKEEz_gDTh_-0kAAAAA&shmds=v1_ARwrE218iJV7-Wu4Xe_uG-rOX7ycLpeMGwAQDjGedDHaWog5WQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=MJOIlZMFOPJ1RwHGAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4a8d3982ce2564b9303/images/Sdu4ozuuNFazwNiL4QjJ2HdWuYC1V95ynfmTienj08A.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=6c94cd9f69a62a3a",
+      "job_title": "Junior - Data Analyst| Thane",
+      "description": "Job Description \n\n\n\n\n\n \n  \n   Junior data analyst who will support data driven decision making by collecting, analyzing, and interpreting data.\n  \n  \n   The role involves working with business teams to generate insights, build reports, and improve operational efficiency.\n  \n  \n   Creating reports/dashboards to enable data-driven decision making.\n  \n \n\n\n\n Responsibilities \n\n\n\n \n  \n   Collect, clean and validate data from multiple sources\n  \n  \n   Perform basic to intermediate data analysis\n  \n  \n   Create dashboards using tools like Power BI/Excel\n  \n  \n   Generate daily/weekly/monthly MIS reports\n  \n  \n   Identify trends, patterns and anomalies In data\n  \n  \n   Support business team ( sales, risk, operations) with insights\n  \n  \n   Assist in building and maintaining data pipelines\n  \n  \n   Build and support data lakes and data warehouses for enterprise analytics\n  \n  \n   Prepare presentations and reports for the stakeholders.\n  \n  \n   Write SQL queries to extract and manipulate data.\n  \n  \n   SQL, Excel & Power BI\n  \n  \n   Ensure risk and compliance while doing data analysis and creating the models.\n  \n  \n   Ensure data quality, integrity, and security across data systems\n  \n \n\n\n\n Qualifications \n\n\n\n Graduate/ Post Graduate/ MBA\n\n\n Min Exp: 3 years\n\n\n Max Exp: 5 years",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=6c94cd9f69a62a3a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/Lz1godBNDb1Bk_tRwVHH688yS6BBXuyW_yTdL1eZFtTWqdWXHwT9jA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgLSBEYXRhIEFuYWx5c3R8IFRoYW5lIiwiY29tcGFueV9uYW1lIjoiQ1NCIEJhbmsiLCJodGlkb2NpZCI6Ik1KT0lsWk1GT1BKMVJ3SEdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVUpzT1dkRmFFNWxUa1IyZVdaQ2JuaGphSEZyTlZabFJrSnpVM0l5VVZoRmVUSXdhV0l5ZFU0NFkwSmxZVWhaYkhneWJHbzVVelZKTm5STGNEbGZkVkU0VjJ0YU9VbHdRVWR1Tkhvd1ZWbDRaR2t3VUdKa1JWOTNhVUp6UWxWNFFWSnZZVVZMUjJjd1EwWmhiVEpqWm5aSU0yOHpZVjluWlVKWE1qTlJTRUp5UjI0MlJqa1NGM05qVkVsaGNFTlFSbU50V1hkaWExQXlaREpWYjFFd0dpSkJSSE55T1daUkxXVTBaWGxtWVdsSE0yOHlSSGhyTUhSUVl6Wk1WWGx3UjB0MyIsImZjdiI6IjMiLCJmY19pZCI6Ik1KT0lsWk1GT1BKMVJ3SEdBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Associate - Lead Data Analyst",
+      "company_name": "Tiaa External Schroder Internal",
+      "location": "Mumbai, Maharashtra",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=ttNWmE9qTrtMeuJHAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2NMQrCQBBFsc0RrKYWTUTQQrEIKCKYKvZhshmyK5udsDNC7LyDV_FEnsQINq_48P5L3pNkX1JwHCEXYeNQCRZwIWzggIqQB_QPUfg8X3DjGoQwGgsc4MTceprurGov2ywT8WkriupMarjLOFDNQzZK8kMlFiP1fgxUq_VySPvQzjZXhwjHQSmOHSiNjdxQhHP4Ly5Ace9qdHMocDxAsRrxC7chWmy3AAAA&shmds=v1_ARwrE22bKJDntT8sl4s7WT20dCrsqRQvVnw-y9RFKaabMurNaQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=ttNWmE9qTrtMeuJHAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/senior-associate-lead-data-analyst-tiaa-external-schroder-internal-mumbai-india--t7xk-866859726",
+      "job_title": "Senior Associate - Lead Data Analyst",
+      "description": "Senior Specialist - Program Management - IN The role will be performing a non-technical project completion using an internal customer perspective, typically from initiation to delivery. They coordinate cross-functional teams through meetings and progress measurement activities which bring distinct, specific projects to completion both on time and within budget.\n\n\nKey Responsibilities and Duties\n\nThis role has project management responsibility\nThis job manages specific projects that have a distinct beginning and end. The job requires people and resource management through others; and incumbents are part of cross-functional teams required to complete the project.\n\nEducational Requirements\n\nUniversity (Degree) Preferred\n\nWork Experience\n\n5+ Years Required; 7+ Years Preferred\n\nPhysical Requirements\n\nPhysical Requirements: Sedentary Work\n\nCareer Level\n8IC\nLead Data Analyst \n\n The Lead Data Analyst reviews and approves complex analytics and statistical modeling on large data sets that identify current market sector trends and customer patterns. This job directs the examination and identification of data patterns and trends that help answer business questions and improve decision-making.\n\n\nThe Lead Data Analyst oversees the collection of data sources, as well as the analysis and extraction of key data and information. This job also ensures that data quality meets the organization's information system needs and requirements.\nKey Responsibilities and Duties\n\nApproves mathematical, statistical, and economic techniques that determine market conditions, project consumer needs and inform business initiatives.\nAnalyzes and reviews trends found from modelling to inform other lines of business such as product development and marketing decisions.\nOversees data mining models, statistical reporting and data analysis methodologies to identify key customer segments and to simulate impact of potential business decisions.\nDevelops and presents detailed reports and conclusions for business, finance, and investment management based on data summaries.\nPartners with other areas of the business to model outcome of implementing potential business strategies.\nManages large, complex projects or processes with limited oversight while working with other team members to ensure accurate findings and results.\n\n\n\nRelated SkillsCollaboration, Continuous Improvement Mindset, Data-Driven Business Intelligence, Data Engineering/Analytics, Data Visualization, Predictive Modeling, Problem Solving, Programming, Resourcefulness, Statistics, Story Telling\n_____________________________________________________________________________________________________\nCompany Overview\nTIAA Global Capabilities was established in 2016 with a mission to tap into a vast pool of talent, reduce risk by insourcing key platforms and processes, as well as contribute to innovation with a focus on enhancing our technology stack. TIAA Global Capabilities is focused on building a scalable and sustainable organization , with a focus on technology , operations and expanding into the shared services business space.\nWorking closely with our U.S. colleagues and other partners, our goal is to reduce risk, improve the efficiency of our technology and processes and develop innovative ideas to increase throughput and productivity.\n\n\nWe are an Equal Opportunity Employer. TIAA does not discriminate against any candidate or employee on the basis of age, race, color, national origin, sex, religion, veteran status, disability, sexual orientation, gender identity, or any other legally protected status.\n\n\nOur Culture of Impact\nAt TIAA, we're on a mission to build on our 100+ year legacy of delivering for our clients while evolving to meet tomorrow's challenges. We equip our associates with future-focused skills and AI tools that enable us to advance our mission. Together, we are fighting to ensure a more secure financial future for all and for generations to come.\nWe are guided by our values: Champion Our People, Be Client Obsessed, Lead with Integrity, Own It, and Win As One. They influence every decision we make and how we work together to serve our clients every day. We thrive in a collaborative in-office environment where teams work across organizational boundaries with shared purpose, accelerating innovation and delivering meaningful results.\n\n\nOur workplace brings together TIAA and Nuveen's entrepreneurial spirit, where we work hard and work together to create lasting impact. Here, every associate can grow through meaningful learning experiences and development pathways—because when our people succeed, our impact on clients' lives grows stronger.\n\n\nAccessibility Support\nTIAA offers support for those who need assistance with our online application process to provide an equal employment opportunity to all job seekers, including individuals with disabilities.\nIf you are a U.S. applicant and desire a reasonable accommodation to complete a job application please use one of the below options to contact our accessibility support team:\n\n\nPhone: (800) 842-2755\n\n\nEmail: [REDACTED EMAIL]\n\n\nPrivacy Notices For Applicants of TIAA, Nuveen and Affiliates residing in US (other than California), click here.\n\n\nFor Applicants of TIAA, Nuveen and Affiliates residing in California, please click here.\n\n\nFor Applicants of TIAA Global Capabilities, click here.\n\n\nFor Applicants of Nuveen residing in Europe and APAC, please click here.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-associate-lead-data-analyst-tiaa-external-schroder-internal-mumbai-india--t7xk-866859726?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQXNzb2NpYXRlIC0gTGVhZCBEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJUaWFhIEV4dGVybmFsIFNjaHJvZGVyIEludGVybmFsIiwiaHRpZG9jaWQiOiJ0dE5XbUU5cVRydE1ldUpIQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU25KaldVUlNjRzl2Tld0V01XZ3RTbXB4WkZwTVFVdGZaVzU2ZVhSb1JreGtXVGxyWkZoUFRGaG1lRlZTYjBkbk5uTmlUREpuUkVVNGFFeG5ZMmhCTW5kTFIzUnFVMUkwTFRoeGVrY3dRbXA2U2tSbWJFaFRja0l0ZVU5bVRqVXRaSEUwVjJOTFRHNDRTM1JpU2xwaVdVWmlVelpYY1c1cE0yZ3haRkZCY0RnM1NVOU9iVllTRjNOalZFbGhjRU5RUm1OdFdYZGlhMUF5WkRKVmIxRXdHaUpCUkhOeU9XWlJaVWhFV1ZscGVtSTNlWGxoUTNGU1VVWnRWVWx0V2tGZmNEVjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJ0dE5XbUU5cVRydE1ldUpIQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Business Intelligence Data Analyst",
+      "company_name": "Siemens Limited",
+      "location": "Pune, Maharashtra",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=D5hZdY31kNTfQaUbAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKsprESyItiYShFEUBA8QJisw-7KZiZkJhA77-AFPJsnUZtfvV-8J0W1GzQxqcKRjXJOgdgT7NEQtoz5oQaf5wvu0oAS9j6CMBxEQqZpFc063TinmsughpZ86aV1wtTI6H6T_lNrxJ66jEb1ar0cy47DfHZN1BIrnFKbjG6QGC4D0wLO-OOo0Xr8AuwS61-jAAAA&shmds=v1_ARwrE22oXLOel4y20kpsvtHdc6isW8rDKhn0uCBfIoUUEVAe1Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=D5hZdY31kNTfQaUbAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/business-intelligence-data-analyst/siemens-limited/19528928",
+      "job_title": "Business Intelligence Data Analyst",
+      "description": "What role you will play in team: Analyze business data to identify trends and patterns, providing insights to improve business strategies.What you will do: You'll create dashboards and reports to communicate your findings effectively to stakeholders.Key responsibility:Collect and analyze large business datasets using SQL and other tools.Develop visualizations and dashboards to communicate findings.Identify trends and patterns in business data.Prepare reports and presentations for stakeholders.Collaborate with business users to understand their requirements.Required Qualification and Skills:Bachelor's degree in Business Analytics, Statistics, or a related field.1-3 years of experience in business intelligence.Strong proficiency in SQL.Experience with data visualization tools (Tableau, Power BI).Excellent communication and presentation skills.Benefits Included:Competitive salary and benefits package.Opportunities for career growth and development.Collaborative and supportive work environment.Hybrid working model available.A Day in the Life:A day will involve interacting with different business units, collecting data, creating insightful reports and presentations, and working with the team to improve operational efficiency. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/business-intelligence-data-analyst/siemens-limited/19528928?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/siemens-limited-business-intelligence-data-analyst-pune-1-to-3-years-778597?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBJbnRlbGxpZ2VuY2UgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiU2llbWVucyBMaW1pdGVkIiwiaHRpZG9jaWQiOiJENWhaZFkzMWtOVGZRYVViQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU205S1RFRTFkMjl0WWpSMVVEbG5TMDluZG0xNmJrMUxUVjh6U1VKT05WcGlUMU5oV0hkNFMzUXlibm8yTkdOa1ZXaFhhMll5VFdWMVdETlVjMlZCU0RscU0wNWhhbGxEWVVsVE1WcHpjRmxrWVdZMFZHcDJaekpSZWtsdFZVbEhRMXBpYldOUGFWSjRUM1pxTW5WR1UwaHZha3RWTFdwS2IzSlVTWFpRWWtaQ1dXSlhlbEFTRjNOalZFbGhjRU5RUm1OdFdYZGlhMUF5WkRKVmIxRXdHaUpCUkhOeU9XWlNhWGxDUTFKTGR6ZGtZVTV2UWxacVZqaENPSEpsTUc1S1IxUm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJENWhaZFkzMWtOVGZRYVViQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTM1kwWHpWa1EwcDRNRzVSU0hReGRURTRSMWxTU1VWMWJYY3dlbXRRVUdsRmMyZENaME5JZG0xTWFqRjNTMkp5UkdweldWbEJURnBwT0RacGJqVnViVFIxY0hWb2MzazVlbk42TXpVMllXTjZhRkl3VkdSSmQySTFVRW94YlUwNFdtZzFiRUZOV0VGMmEyY3dka3hIVUZSUVpqSnlYekZ5VjBGUlJHRjFhWEZzUW5veGVFSjBNR3RJV1hWc1pEWmpTVE5XVDJJM1RGZEVNVzVGWm1kdU5uSjNWWE5NYm1VM1pHWnJNV0Y0V1ZkeFNHbExlakl3T0dkbmVFMVVUSEpSUTNWemQyeFZUMHc1TWtWM1kxbG9UaTA1ZVRFemEzY3hPR3RZVDNneWRHMHdiV014TVdsZk1ESlROMDlSVWtSRWRsSm5VMkZPZWxKNmN6TkxRa3B0WmtaU1VVOWZNMFZ0TWtvemN6aHNSMlk1UzFwd1RYRXhSVjl0Y2s1cmEwcHFVMWcyVEdKaWJrOWFWVWxIWVZZd01tUklMWEU1TUdKaVlVUjBjVTR3TjBkRGVsbDVXRGhrY25WMFpURTVhR3RNT0ZSSVVXWmxlV2xLUVRoVWFteDZTV2RwZVdFMlpreHFTalo1Vlc4MGMzaDBTbVl0TTNseFJHazNVREJZTFc5RU1VTm9kR1ZOZFhadFJFRkRXVFEyVUhsUGJIVXRUWEZTT0c1WE9EQmhOVGMzTmxsSWNWQlBRa1pzWkVSMFRsRlJUV1ExVVd3d1ZUUjRjR2hxTjJwWldGOTBla2hhV1dsMFpYVkVaR3hJVG5ZNFFWQk9VMmxoWkVKalVXY1NGM05qVkVsaGNFTlFSbU50V1hkaWExQXlaREpWYjFFd0dpSkJSSE55T1daU1JqbERjRm8xUmxVeVVsRXpSMEpDUVRsME0ySldTbFpMVFhkQiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTM1kwWHpWa1EwcDRNRzVSU0hReGRURTRSMWxTU1VWMWJYY3dlbXRRVUdsRmMyZENaME5JZG0xTWFqRjNTMkp5UkdweldWbEJURnBwT0RacGJqVnViVFIxY0hWb2MzazVlbk42TXpVMllXTjZhRkl3VkdSSmQySTFVRW94YlUwNFdtZzFiRUZOV0VGMmEyY3dka3hIVUZSUVpqSnlYekZ5VjBGUlJHRjFhWEZzUW5veGVFSjBNR3RJV1hWc1pEWmpTVE5XVDJJM1RGZEVNVzVGWm1kdU5uSjNWWE5NYm1VM1pHWnJNV0Y0V1ZkeFNHbExlakl3T0dkbmVFMVVUSEpSUTNWemQyeFZUMHc1TWtWM1kxbG9UaTA1ZVRFemEzY3hPR3RZVDNneWRHMHdiV014TVdsZk1ESlROMDlSVWtSRWRsSm5VMkZPZWxKNmN6TkxRa3B0WmtaU1VVOWZNMFZ0TWtvemN6aHNSMlk1UzFwd1RYRXhSVjl0Y2s1cmEwcHFVMWcyVEdKaWJrOWFWVWxIWVZZd01tUklMWEU1TUdKaVlVUjBjVTR3TjBkRGVsbDVXRGhrY25WMFpURTVhR3RNT0ZSSVVXWmxlV2xLUVRoVWFteDZTV2RwZVdFMlpreHFTalo1Vlc4MGMzaDBTbVl0TTNseFJHazNVREJZTFc5RU1VTm9kR1ZOZFhadFJFRkRXVFEyVUhsUGJIVXRUWEZTT0c1WE9EQmhOVGMzTmxsSWNWQlBRa1pzWkVSMFRsRlJUV1ExVVd3d1ZUUjRjR2hxTjJwWldGOTBla2hhV1dsMFpYVkVaR3hJVG5ZNFFWQk9VMmxoWkVKalVXY1NGM05qVkVsaGNFTlFSbU50V1hkaWExQXlaREpWYjFFd0dpSkJSSE55T1daU1JqbERjRm8xUmxVeVVsRXpSMEpDUVRsME0ySldTbFpMVFhkQiIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst"
+  },
+  "_retrieved_at": "2026-10-09 10:40:40 UTC"
+}

@@ -1,0 +1,466 @@
+{
+  "search_metadata": {
+    "id": "6ac8c510f6e926206ef612fa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cXa4uktXywO64ykLXlwh2mgaXAT-RSFJOhHOFFFYgjY/6ac8c510f6e926206ef612fa.json",
+    "markdown_endpoint": "https://serpapi.com/searches/cXa4uktXywO64ykLXlwh2mgaXAT-RSFJOhHOFFFYgjY/6ac8c510f6e926206ef612fa.md",
+    "created_at": "2026-10-09 10:42:24 UTC",
+    "processed_at": "2026-10-09 10:42:24 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Tally+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/cXa4uktXywO64ykLXlwh2mgaXAT-RSFJOhHOFFFYgjY/6ac8c510f6e926206ef612fa.html",
+    "total_time_taken": 2.96
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Tally full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 1254967,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "The Ultimate Tally Tutorial | Learn every feature step by step!",
+      "link": "https://www.youtube.com/watch?v=nySwxjRMXZU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nySwxjRMXZU",
+      "video_id": "nySwxjRMXZU",
+      "channel": {
+        "name": "Great Learning",
+        "link": "https://www.youtube.com/@greatlearning",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m_o6r4liwONXrrjZ2v2ZJ_WlaYXZQF9lrOy3J_aBAWeCU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 87149,
+      "length": "5:39:02",
+      "description": "... with Tally in our comprehensive pro course: https://bit.ly/tally-payroll Course Introduction / Overview This Tally full course tutorial ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/nySwxjRMXZU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2q7mygtokMjJd-kmilikjNGaLgQ",
+        "rich": "https://i.ytimg.com/an_webp/nySwxjRMXZU/mqdefault_6s.webp?du=3000&sqp=CIyFo9YG&rs=AOn4CLAIKrROoCoVinQN7XmymWIBO533XQ"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Tally Prime Full Course | Tally Complete Course in in 1 Hour | Every Thing in 1 Video",
+      "link": "https://www.youtube.com/watch?v=Vi7TzAPjXu0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Vi7TzAPjXu0",
+      "video_id": "Vi7TzAPjXu0",
+      "channel": {
+        "name": "New Tally Prime",
+        "link": "https://www.youtube.com/@NewTallyPrime",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nK_yDNIY3b78Xif-D9s0AelAwQJIrnsfcJQUtmOCA1Ww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 142075,
+      "length": "1:10:02",
+      "description": "Tally Prime Full Course | Tally Complete Course in in 1 Hour | Every Thing in 1 Video | TallyPrime : Learn Tally in 20 mins | Tally ...",
+      "extensions": [
+        "2 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Vi7TzAPjXu0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdmQ-W6SU_tt5LjUQhBNktt041hg",
+        "rich": "https://i.ytimg.com/an_webp/Vi7TzAPjXu0/mqdefault_6s.webp?du=3000&sqp=CNz8otYG&rs=AOn4CLDv6XgmqVGrFUUWxVHQaXdOnl09dQ"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Tally Prime Full Course | Tally Prime",
+      "link": "https://www.youtube.com/watch?v=fRItV43W11k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fRItV43W11k",
+      "video_id": "fRItV43W11k",
+      "channel": {
+        "name": "Great Learning",
+        "link": "https://www.youtube.com/@greatlearning",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m_o6r4liwONXrrjZ2v2ZJ_WlaYXZQF9lrOy3J_aBAWeCU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 31495,
+      "length": "1:46:19",
+      "description": "Learn Tally Prime, the top accounting software for managing business finances! Understand essential concepts like recording, ...",
+      "extensions": [
+        "CC",
+        "Lecture"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fRItV43W11k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeFGrRgLQSE1hpaJLSxKjT0L0BBQ",
+        "rich": "https://i.ytimg.com/an_webp/fRItV43W11k/mqdefault_6s.webp?du=3000&sqp=CPH2otYG&rs=AOn4CLDLohPvhOrgp91m-Y_KdRwunvOmrw"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Tally Prime Full Course in telugu|Tally Complete Course",
+      "link": "https://www.youtube.com/watch?v=E8LavWoybU8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=E8LavWoybU8",
+      "video_id": "E8LavWoybU8",
+      "channel": {
+        "name": "Venki Tally Tech",
+        "link": "https://www.youtube.com/@VenkiTallyTech",
+        "thumbnail": "https://yt3.ggpht.com/UObWzozmVi3RGRcFe0D_kldSVkCKri8RwD1imGpGXSCYjftsPz3BQltX_Oaxe0VRVh73phSQrg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 165524,
+      "length": "1:25:48",
+      "description": "Special Offer: Tally Prime 7.1 Complete Practical PDF Notes at just ₹149/- Only! Accelerate your learning with our step-by-step ...",
+      "extensions": [
+        "4K",
+        "Advanced"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/E8LavWoybU8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6L_6IIdjqst5IHqzu8PDodNuvLA",
+        "rich": "https://i.ytimg.com/an_webp/E8LavWoybU8/mqdefault_6s.webp?du=3000&sqp=COqHo9YG&rs=AOn4CLBQQ-nv0twjcHqP1QDasY3gea-QWg"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Tally.ERP 9 : Learn Tally in 20 mins | Tally Erp 9 Full Tutorial in English",
+      "link": "https://www.youtube.com/watch?v=_Ghu1JlnoZI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_Ghu1JlnoZI",
+      "video_id": "_Ghu1JlnoZI",
+      "channel": {
+        "name": "Discover Tally",
+        "link": "https://www.youtube.com/@DiscoverTally",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mhWe7-Gh4qp9kCPWnz8eK4Nw6pPb0azQfyq3S2L_ZsUA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10y ago",
+      "views": 1109654,
+      "length": "20:02",
+      "description": "Tally Course : Tally erp 9 full tutorial in English. Learn Tally. Become Tally Expert within 20 minutes. Also Start working in Tally ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_Ghu1JlnoZI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdblpnBTnFs_XNYOkotxhPvS7vTQ",
+        "rich": "https://i.ytimg.com/an_webp/_Ghu1JlnoZI/mqdefault_6s.webp?du=3000&sqp=CIz-otYG&rs=AOn4CLBDm7qUS7cQnlOSRI0iv1Ih9o9PaQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Tally Prime Complete Tutorial in Tamil | Tally complete Tutorial in Tamil",
+      "link": "https://www.youtube.com/watch?v=rG_eHA3vN1I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rG_eHA3vN1I",
+      "video_id": "rG_eHA3vN1I",
+      "channel": {
+        "name": "Tutor Joe's Stanley",
+        "link": "https://www.youtube.com/@tutorjoes",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/u-hLy6dcQ3-7RWARJpflg1A89Zt7ltNyKVnfSNrm1vrT5RYbhrlWf-ZIw2I3AAU9hRvJrvUk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 883392,
+      "length": "10:37:09",
+      "description": "Tally Prime Complete Tutorial in Tamil Tally Prime Book Material : https://www.tutorjoes.in/tally_prime_tutorial/index Tally Erp9 ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rG_eHA3vN1I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEz4C6HTqbLVuKlUxcH7E4YiEkPg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Tally Prime with GST Full Course in Just 3 Hours | Tally Prime in One Shot | @ComputerTechAcademy",
+      "link": "https://www.youtube.com/watch?v=0D7lSlhspog",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0D7lSlhspog",
+      "video_id": "0D7lSlhspog",
+      "channel": {
+        "name": "Computer Tech Academy",
+        "link": "https://www.youtube.com/@ComputerTechAcademy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/yY5yXzy6UyxHQlUtOAkG7n-3p67UObRKOpgZdEkhzGwCUXI7LIN_wZtlM_YEbmu81ASqIiqchQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 2186073,
+      "length": "3:31:41",
+      "description": "Join WhatsApp Channel (Notes & PDF): https://whatsapp.com/channel/0029VbAya0OKwqSUcr2Z1i0U Course Enquiry: ...",
+      "extensions": [
+        "14 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0D7lSlhspog/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDV4N7n7iG8cjGnZFM0JZh2uudDEA",
+        "rich": "https://i.ytimg.com/an_webp/0D7lSlhspog/mqdefault_6s.webp?du=3000&sqp=CNj4otYG&rs=AOn4CLDEaZFD7zhXCFxjNLKdorYlZxbqXg"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Tally Prime ERP 6.0 Full Course for Beginners | Basic to Voucher Entry Explained MALAYALAM 2025",
+      "link": "https://www.youtube.com/watch?v=HfvvOC48PxA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HfvvOC48PxA",
+      "video_id": "HfvvOC48PxA",
+      "channel": {
+        "name": "Excel With Ashif",
+        "link": "https://www.youtube.com/@ExcelWithAshif",
+        "thumbnail": "https://yt3.ggpht.com/QMitN6prI8m4EemXJmzoCciEcJQL9ZyR5lnCnCPG4JJVeZAszY7r-gEbJp67AJttST6JENid-A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 65108,
+      "length": "1:38:20",
+      "description": "Important Update – Excel With Ashif Please join our WhatsApp Channel first to receive all important updates, notes, and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HfvvOC48PxA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzDXdRq87xprTT67ytqq6scAKZSQ",
+        "rich": "https://i.ytimg.com/an_webp/HfvvOC48PxA/mqdefault_6s.webp?du=3000&sqp=CMD8otYG&rs=AOn4CLBWQxTjWSOYiTKOHuQoiwYTlToKUQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Tally Prime Mastery: 5-Hour Full Course from Basic to Advanced",
+      "link": "https://www.youtube.com/watch?v=oMoDk8Rz-pw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oMoDk8Rz-pw",
+      "video_id": "oMoDk8Rz-pw",
+      "channel": {
+        "name": "Learn More",
+        "link": "https://www.youtube.com/@Learn_More_Pro",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/eQJKdbw2JKuelQ1Z1udfD4j7-3avK_eq1j2Of2JSV4RLtQcXuwix0jWFrk1C1f0ApQqN_bi8Nj8=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1034792,
+      "length": "5:19:16",
+      "description": "Tally Prime Mastery: 5-Hour Full Course from Basic to Advanced Unlock your full potential in Tally Prime with this comprehensive ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/oMoDk8Rz-pw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYIVD8zWMu-R6hLaPcNLw_6xysuA",
+        "rich": "https://i.ytimg.com/an_webp/oMoDk8Rz-pw/mqdefault_6s.webp?du=3000&sqp=CJiJo9YG&rs=AOn4CLDJP4LnUKYcf3scSi9RnrepaSbG_w"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Tally Prime Full Course in Telugu I Learn Complete Tally Prime in 7 Hrs I By Tally Lokesh",
+      "link": "https://www.youtube.com/watch?v=IL6mciyriyY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IL6mciyriyY",
+      "video_id": "IL6mciyriyY",
+      "channel": {
+        "name": "TALLY LOKESH",
+        "link": "https://www.youtube.com/@TALLYLOKESH",
+        "thumbnail": "https://yt3.ggpht.com/Zmd7-kvywuwf2yjq002OqU1Nn1PRRlcKyrnDTa1DVoZpaux1rn7jCLcR0armKlR2-7Nribb-qg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 362220,
+      "length": "7:31:39",
+      "description": "tallyprimefullcourse #learntally #tally #tallylokesh కేవలం రూ. 999/- Tally Hard Copy Practical Material పొందండి .",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/IL6mciyriyY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc3_6fo4cdpHkaC154_ot3SXOheA",
+        "rich": "https://i.ytimg.com/an_webp/IL6mciyriyY/mqdefault_6s.webp?du=3000&sqp=CNzIotYG&rs=AOn4CLBe0JQgACtU-6G1mF5OrpiTMxGDMQ"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Tally Prime for Beginners Course in Hindi | Tally Tutorial",
+      "link": "https://www.youtube.com/watch?v=fHFOEnI8QaQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fHFOEnI8QaQ",
+      "video_id": "fHFOEnI8QaQ",
+      "channel": {
+        "name": "Tally Tutorial",
+        "link": "https://www.youtube.com/@TallyTutorial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kc8b3ACsG15-pvZt9LoULzxpuHDKpbGgTu2HEHfWE3jw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 2532106,
+      "length": "3:13:15",
+      "description": "Download free resume/invoice/business/education templates: https://bit.ly/3GIfjIl In this video you will learn Tally Prime beginners ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fHFOEnI8QaQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpliHpIYrUWuTK131iFCvUQH6sGQ",
+        "rich": "https://i.ytimg.com/an_webp/fHFOEnI8QaQ/mqdefault_6s.webp?du=3000&sqp=CLjwotYG&rs=AOn4CLAkalRjEd2s6UYiNMyZv6cO_BSPlg"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Complete Tally Prime Course | Master Tally Prime Course in Just 17 Hours",
+      "link": "https://www.youtube.com/watch?v=hkS0IeBkpQc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hkS0IeBkpQc",
+      "video_id": "hkS0IeBkpQc",
+      "channel": {
+        "name": "Happy Learny",
+        "link": "https://www.youtube.com/@HappyLearny",
+        "thumbnail": "https://yt3.ggpht.com/fkm5O0S0O8uHLOC3ya0pvb5JNMDjirawI5ukRX0XssfxbYQB6hsa_hAquGnJeDWxJocxgULfAQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 4050901,
+      "length": "16:29:28",
+      "description": "... Tally Course in Hindi Tally Prime Tutorial Tally Prime Tally Prime Free Course Tally Prime Step By Step Tally Prime Full Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hkS0IeBkpQc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG-9DyHybhVWaRDesQroxYPAMQWA",
+        "rich": "https://i.ytimg.com/an_webp/hkS0IeBkpQc/mqdefault_6s.webp?du=3000&sqp=CMXootYG&rs=AOn4CLDxb-_BLtEZno9V0TzCygIrJ-6Sbg"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Complete Financial Accounting Course - 11-Hour Full Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=eyXKvOrDoqw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eyXKvOrDoqw",
+      "video_id": "eyXKvOrDoqw",
+      "channel": {
+        "name": "Tony Bell",
+        "link": "https://www.youtube.com/@Tony-Bell",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/BTCYtCZJSCBKkU34r95KjLiCjab4C1yzJWbQpzm3GI2mlwulpqREsvXa2nyBidOI9w752uBbkg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1069713,
+      "length": "11:00:01",
+      "description": "Download the Workbook: http://www.tonybell.com (Free, no sign-in) Unlock 100+ Members Accounting Tutorials: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eyXKvOrDoqw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDehOTs6jhEJSeWT2z1bgYY_WVkBg"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "TallyPrime 7.0 Full Course 2026 | Complete Tutorial for Beginners | GST, Accounting",
+      "link": "https://www.youtube.com/watch?v=pQry4EN19xc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pQry4EN19xc",
+      "video_id": "pQry4EN19xc",
+      "channel": {
+        "name": "Accounts Expert",
+        "link": "https://www.youtube.com/@Accounts_Experts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/tMs84O-lN4vy-RgXykgI0b2Da4YN47RjXROd9vl9PMr7Hji1NL5e2NGNBuoMoILBgwQeSxYjWQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 90461,
+      "length": "7:33:12",
+      "description": "TallyPrime 7.0 Complete Tutorial | Zero to Hero Tutorial Welcome to the most comprehensive TallyPrime 7.0 tutorial available on ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pQry4EN19xc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxF_VOc0_Pb3bVC8IOwZvWzJuWVA",
+        "rich": "https://i.ytimg.com/an_webp/pQry4EN19xc/mqdefault_6s.webp?du=3000&sqp=CNvaotYG&rs=AOn4CLBAjJauTq_rsyPiTjFqBXZ9AgyH6Q"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Tally Prime 7.0 Full Course With GST | Zero to Hero | Complete Practical Tutorial",
+      "link": "https://www.youtube.com/watch?v=QQUcccxcjn0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QQUcccxcjn0",
+      "video_id": "QQUcccxcjn0",
+      "channel": {
+        "name": "Accounts Expert",
+        "link": "https://www.youtube.com/@Accounts_Experts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/tMs84O-lN4vy-RgXykgI0b2Da4YN47RjXROd9vl9PMr7Hji1NL5e2NGNBuoMoILBgwQeSxYjWQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 293160,
+      "length": "11:44:48",
+      "description": "Tally Prime 7.0 Complete Course | Zero to Hero Tutorial | GST Included | Full Practical Training If you want to learn Tally from ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/QQUcccxcjn0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8socatHenzaBl3ZvcubbzWEYvXA",
+        "rich": "https://i.ytimg.com/an_webp/QQUcccxcjn0/mqdefault_6s.webp?du=3000&sqp=CKjvotYG&rs=AOn4CLD7FpGaB5R7xTwRnUg9IcyWWLWlqg"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Tally Tutorial for Beginners (हिंदी ) - Tally Tutorial to learn complete Basic Accounting in Tally",
+      "link": "https://www.youtube.com/watch?v=gOmL4-sUJ2g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gOmL4-sUJ2g",
+      "video_id": "gOmL4-sUJ2g",
+      "channel": {
+        "name": "Tally Tutorial",
+        "link": "https://www.youtube.com/@TallyTutorial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kc8b3ACsG15-pvZt9LoULzxpuHDKpbGgTu2HEHfWE3jw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 8489848,
+      "length": "3:38:21",
+      "description": "Tally Tutorial for Beginners in Hindi - दोस्तों ये एक ही वीडियो आपको Tally बेसिक से ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gOmL4-sUJ2g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4oweGQ_2HZcj__yer7oTZcvetdw",
+        "rich": "https://i.ytimg.com/an_webp/gOmL4-sUJ2g/mqdefault_6s.webp?du=3000&sqp=CPD3otYG&rs=AOn4CLAPKxsNuq2LehkWuyYH8ECDKua9Fg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "TallyPrime Full Course I Learn Complete TallyPrime in 4Hrs I Vedanta Educational Academy",
+      "link": "https://www.youtube.com/watch?v=Sw2H56aMe-g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Sw2H56aMe-g",
+      "video_id": "Sw2H56aMe-g",
+      "channel": {
+        "name": "Vedanta Educational Academy",
+        "link": "https://www.youtube.com/@VedantaEducationalAcademy",
+        "thumbnail": "https://yt3.ggpht.com/btFG_E9QDIL5fDVtPL3QDGiR-p3yS2EeQ4Ox4lFZc_uEFSXPPiGf9RXL0l2iJPnrKwmpa4eDPA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 636468,
+      "length": "4:13:03",
+      "description": "For all online courses visit https://vedantacourses.com/ Chart of Accounts Link ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Sw2H56aMe-g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXqC8GR0_O-rSvcvNSg7usqiXphA",
+        "rich": "https://i.ytimg.com/an_webp/Sw2H56aMe-g/mqdefault_6s.webp?du=3000&sqp=COj8otYG&rs=AOn4CLChre49gzQiTpuEKo8_1l-DOdmxMA"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Finance and Accounting Basics with demo on Tally Prime and Tally ERP 9",
+      "link": "https://www.youtube.com/watch?v=V22o7tDuRTw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V22o7tDuRTw",
+      "video_id": "V22o7tDuRTw",
+      "channel": {
+        "name": "Great Learning",
+        "link": "https://www.youtube.com/@greatlearning",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m_o6r4liwONXrrjZ2v2ZJ_WlaYXZQF9lrOy3J_aBAWeCU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 18417,
+      "length": "11:43:01",
+      "description": "In this video, learn about Tally ERP9 and Tally Prime. We start with the basics of accounting. You'll learn about bookkeeping, ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/V22o7tDuRTw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFHMaT4GbP98dSBSMtnftyuohJHw"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "#tallyprimefullcourse #tallyprime",
+      "link": "https://www.youtube.com/watch?v=7vQqIQi-R6M",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7vQqIQi-R6M",
+      "video_id": "7vQqIQi-R6M",
+      "channel": {
+        "name": "INSTITUTE FOR ACCOUNTANTS",
+        "link": "https://www.youtube.com/@instituteforaccountants486",
+        "thumbnail": "https://yt3.ggpht.com/HL1yaC_KzDrvG2fVyrLzTSSxrBySChTaicEpTvDmNxS3bIgXUpgmTM5Nf7a7Msu3h5PODPKHHA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 67971,
+      "length": "8:36:24",
+      "description": "... courses with practical & Live examples from us please contact [REDACTED PHONE],[REDACTED PHONE] Tally Prime Full Course Chapters 3:52 ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7vQqIQi-R6M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMf5jMgbPAv9SvxKtCsCMATU3rjA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Tally Prime with GST for Beginners – Complete Course in Hindi | Accounting & Taxation Made Easy",
+      "link": "https://www.youtube.com/watch?v=M8WHCL52cs0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=M8WHCL52cs0",
+      "video_id": "M8WHCL52cs0",
+      "channel": {
+        "name": "Accounts Expert",
+        "link": "https://www.youtube.com/@Accounts_Experts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/tMs84O-lN4vy-RgXykgI0b2Da4YN47RjXROd9vl9PMr7Hji1NL5e2NGNBuoMoILBgwQeSxYjWQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 379051,
+      "length": "7:44:04",
+      "description": "Welcome to this complete GST tutorial in Tally Prime, updated with all the latest 2025 changes! Whether you're a student, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/M8WHCL52cs0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVr166NPhy-LCDzW_CjjFt_aLFiw",
+        "rich": "https://i.ytimg.com/an_webp/M8WHCL52cs0/mqdefault_6s.webp?du=3000&sqp=CI_iotYG&rs=AOn4CLDoXNgPdTKgDX91dZabtIJU92EdXQ"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Tally+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Tally%20full%20course%20for%20beginners&sp=EgIYAkgUggELbnlTd3hqUk1YWlWCAQtWaTdUekFQalh1MIIBC2ZSSXRWNDNXMTFrggELRThMYXZXb3liVTiCAQtfR2h1MUpsbm9aSYIBC3JHX2VIQTN2TjFJggELMEQ3bFNsaHNwb2eCAQtIZnZ2T0M0OFB4QYIBC29Nb0RrOFJ6LXB3ggELSUw2bWNpeXJpeVmCAQtmSEZPRW5JOFFhUYIBC2hrUzBJZUJrcFFjggELZXlYS3ZPckRvcXeCAQtwUXJ5NEVOMTl4Y4IBC1FRVWNjY3hjam4wggELZ09tTDQtc1VKMmeCAQtTdzJINTZhTWUtZ4IBC1YyMm83dER1UlR3ggELN3ZRcUlRaS1SNk2CAQtNOFdIQ0w1MmNzMLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELbnlTd3hqUk1YWlWCAQtWaTdUekFQalh1MIIBC2ZSSXRWNDNXMTFrggELRThMYXZXb3liVTiCAQtfR2h1MUpsbm9aSYIBC3JHX2VIQTN2TjFJggELMEQ3bFNsaHNwb2eCAQtIZnZ2T0M0OFB4QYIBC29Nb0RrOFJ6LXB3ggELSUw2bWNpeXJpeVmCAQtmSEZPRW5JOFFhUYIBC2hrUzBJZUJrcFFjggELZXlYS3ZPckRvcXeCAQtwUXJ5NEVOMTl4Y4IBC1FRVWNjY3hjam4wggELZ09tTDQtc1VKMmeCAQtTdzJINTZhTWUtZ4IBC1YyMm83dER1UlR3ggELN3ZRcUlRaS1SNk2CAQtNOFdIQ0w1MmNzMLIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Tally+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Tally+full+course+for+beginners&sp=EgIYAkgUggELbnlTd3hqUk1YWlWCAQtWaTdUekFQalh1MIIBC2ZSSXRWNDNXMTFrggELRThMYXZXb3liVTiCAQtfR2h1MUpsbm9aSYIBC3JHX2VIQTN2TjFJggELMEQ3bFNsaHNwb2eCAQtIZnZ2T0M0OFB4QYIBC29Nb0RrOFJ6LXB3ggELSUw2bWNpeXJpeVmCAQtmSEZPRW5JOFFhUYIBC2hrUzBJZUJrcFFjggELZXlYS3ZPckRvcXeCAQtwUXJ5NEVOMTl4Y4IBC1FRVWNjY3hjam4wggELZ09tTDQtc1VKMmeCAQtTdzJINTZhTWUtZ4IBC1YyMm83dER1UlR3ggELN3ZRcUlRaS1SNk2CAQtNOFdIQ0w1MmNzMLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELbnlTd3hqUk1YWlWCAQtWaTdUekFQalh1MIIBC2ZSSXRWNDNXMTFrggELRThMYXZXb3liVTiCAQtfR2h1MUpsbm9aSYIBC3JHX2VIQTN2TjFJggELMEQ3bFNsaHNwb2eCAQtIZnZ2T0M0OFB4QYIBC29Nb0RrOFJ6LXB3ggELSUw2bWNpeXJpeVmCAQtmSEZPRW5JOFFhUYIBC2hrUzBJZUJrcFFjggELZXlYS3ZPckRvcXeCAQtwUXJ5NEVOMTl4Y4IBC1FRVWNjY3hjam4wggELZ09tTDQtc1VKMmeCAQtTdzJINTZhTWUtZ4IBC1YyMm83dER1UlR3ggELN3ZRcUlRaS1SNk2CAQtNOFdIQ0w1MmNzMLIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 10:42:24 UTC"
+}

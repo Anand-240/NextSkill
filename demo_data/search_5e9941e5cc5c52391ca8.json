@@ -1,0 +1,202 @@
+{
+  "search_metadata": {
+    "id": "6ac8c4e16b036f7480778729",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BBU0UY2WcnAmcN5nEvr2ue6aueBHaw8GMOS5LSOQPog/6ac8c4e16b036f7480778729.json",
+    "markdown_endpoint": "https://serpapi.com/searches/BBU0UY2WcnAmcN5nEvr2ue6aueBHaw8GMOS5LSOQPog/6ac8c4e16b036f7480778729.md",
+    "created_at": "2026-10-09 10:41:37 UTC",
+    "processed_at": "2026-10-09 10:41:37 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Junior+Data+Analyst&uule=w+CAIQICIkSW5kb3JlIERpdmlzaW9uLE1hZGh5YSBQcmFkZXNoLEluZGlh&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/BBU0UY2WcnAmcN5nEvr2ue6aueBHaw8GMOS5LSOQPog/6ac8c4e16b036f7480778729.html",
+    "total_time_taken": 16.53
+  },
+  "search_parameters": {
+    "q": "Junior Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Indore, India",
+    "location_used": "Indore Division,Madhya Pradesh,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHnjL-cLBgWFh2Rjf_gduiVKiE54Z95kiNRN7uRfZZI8TAyI-Ne8-w4I8q9bxQpCtk6EVqdY5q9I4I3QjUntBLeMxkfzdHq75TY-PEohv_Rgq5KXBxGRkVIPMj-HszomJwOgUsr8y1QyHnRL23dTbxCcy-2s",
+        "q": "Junior Data Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHnjL-cLBgWFh2Rjf_gduiVKiE54Z95kiNRN7uRfZZI8TAyI-Ne8-w4I8q9bxQpCtk6EVqdY5q9I4I3QjUntBLeMxkfzdHq75TY-PEohv_Rgq5KXBxGRkVIPMj-HszomJwOgUsr8y1QyHnRL23dTbxCcy-2s&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QxKsJKAB6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHnjL-cLBgWFh2Rjf_gduiVKiE54Z95kiNRN7uRfZZI8TAyI-Ne8-w4I8q9bxQpCtk6EVqdY5q9I4I3QjUntBLeMxkfzdHq75TY-PEohv_Rgq5KXBxGRkVIPMj-HszomJwOgUsr8y1QyHnRL23dTbxCcy-2s"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw",
+            "q": "Junior Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew",
+            "q": "Junior Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ",
+            "q": "Junior Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ",
+            "q": "Junior Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw",
+            "q": "Junior Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew",
+            "q": "Junior Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ",
+            "q": "Junior Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ",
+            "q": "Junior Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg",
+            "q": "Junior Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c",
+            "q": "Junior Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M",
+            "q": "Junior Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg",
+            "q": "Junior Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg",
+            "q": "Junior Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c",
+            "q": "Junior Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M",
+            "q": "Junior Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg",
+            "q": "Junior Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnuADVsJZLLDknkSp77Yt2kFvVEgXA:1791542513445&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg&udm=8&sa=X&ved=2ahUKEwii8fP436yXAxW3nWoFHQa-Nb8QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg"
+        }
+      ]
+    }
+  ],
+  "search_information": {
+    "jobs_results_state": "Fully empty"
+  },
+  "error": "Google hasn't returned any results for this query.",
+  "_retrieved_at": "2026-10-09 10:41:37 UTC"
+}

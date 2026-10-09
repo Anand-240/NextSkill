@@ -1,0 +1,477 @@
+{
+  "search_metadata": {
+    "id": "6ac8c4a2ee2318d3d8171004",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9bBwvBoyzGZ0YwgCo4nMjg0oNnxrt1DtFVzq-RdipE0/6ac8c4a2ee2318d3d8171004.json",
+    "markdown_endpoint": "https://serpapi.com/searches/9bBwvBoyzGZ0YwgCo4nMjg0oNnxrt1DtFVzq-RdipE0/6ac8c4a2ee2318d3d8171004.md",
+    "created_at": "2026-10-09 10:40:34 UTC",
+    "processed_at": "2026-10-09 10:40:34 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Statistics+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/9bBwvBoyzGZ0YwgCo4nMjg0oNnxrt1DtFVzq-RdipE0/6ac8c4a2ee2318d3d8171004.html",
+    "total_time_taken": 4.55
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Statistics full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 6353351,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Teach me STATISTICS in half an hour! Seriously.",
+      "link": "https://www.youtube.com/watch?v=kyjlxsLW1Is",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kyjlxsLW1Is",
+      "video_id": "kyjlxsLW1Is",
+      "channel": {
+        "name": "zedstatistics",
+        "link": "https://www.youtube.com/@zedstatistics",
+        "thumbnail": "https://yt3.ggpht.com/7EhoJciW3-vkO-YGvHYJu8kSHv0e9R9iYdgMeG0Cj4yM2qTnVoSKr1Fi1a33zcmCqqufCWJ9Hw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 3450202,
+      "length": "42:09",
+      "description": "THE CHALLENGE: \"teach me statistics in half an hour with no mathematical formula\" The RESULT: an intuitive overview of ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/kyjlxsLW1Is/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWNK4EWoHCmlT2A5hC8457brOLQg"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "All of Statistics in 1 Hour (ultimate study guide)",
+      "link": "https://www.youtube.com/watch?v=_Pyi12dn4Kw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_Pyi12dn4Kw",
+      "video_id": "_Pyi12dn4Kw",
+      "channel": {
+        "name": "JensenMath",
+        "link": "https://www.youtube.com/@MrJensenMath10",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mxxha2ojazWobzUeFhjH08_PptmffnVkvY9hwVsEL60g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8mo ago",
+      "views": 706070,
+      "length": "1:03:24",
+      "description": "Here are all of the main topics you need to know for any high school or first year university statistics course. Make sure to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_Pyi12dn4Kw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0isy3EV4BvFckPllnEmlbIrQmfA",
+        "rich": "https://i.ytimg.com/an_webp/_Pyi12dn4Kw/mqdefault_6s.webp?du=3000&sqp=CJDCotYG&rs=AOn4CLDiqYEuxEzhKg0Ln1sLmZ0L5O1juQ"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Statistics - A Full University Course on Data Science Basics",
+      "link": "https://www.youtube.com/watch?v=xxpc-HPKN28",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xxpc-HPKN28",
+      "video_id": "xxpc-HPKN28",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 3925927,
+      "length": "8:15:04",
+      "description": "Learn the essentials of statistics in this complete course. This course introduces the various methods used to collect, organize, ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xxpc-HPKN28/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBbhs6v30lm8MPuBi-PMyZIY8MAA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "1. Introduction to Statistics",
+      "link": "https://www.youtube.com/watch?v=VPZD_aij8H0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VPZD_aij8H0",
+      "video_id": "VPZD_aij8H0",
+      "channel": {
+        "name": "MIT OpenCourseWare",
+        "link": "https://www.youtube.com/@mitocw",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/swNtJDBP8xHP_zwrbL4tCUQt02B-7Mr8XggFMBjANHn_Q5aUtPmxPs8f8Ag3wO2O-rJpsQQGpA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 2356676,
+      "length": "1:18:03",
+      "description": "NOTE: This video was recorded in Fall 2017. The rest of the lectures were recorded in Fall 2016, but video of Lecture 1 was not ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/VPZD_aij8H0/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFEoQTAP&rs=AOn4CLA5FyMU7xgoTUbFXo6RV4ZzWi4caw",
+        "rich": "https://i.ytimg.com/an_webp/VPZD_aij8H0/mqdefault_6s.webp?du=3000&sqp=CNDmotYG&rs=AOn4CLCtVCpxobAmC4W8Vv3gVFBsaQCW1Q"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Statistics - A Full Lecture to learn Data Science (2025 Version)",
+      "link": "https://www.youtube.com/watch?v=K9teElePNkk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=K9teElePNkk",
+      "video_id": "K9teElePNkk",
+      "channel": {
+        "name": "numiqo",
+        "link": "https://www.youtube.com/@numiqo",
+        "thumbnail": "https://yt3.ggpht.com/TX_WJExd_RuSDd9iN9-8o6gSKxsUihwb0Ii-OZcuSg9-uqcGI6BnvIgrOaF5XIfL8BSra33h=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 658689,
+      "length": "4:55:09",
+      "description": "Welcome to our comprehensive and free statistics tutorial (Full Lecture)! In this video, we'll explore essential tools and techniques ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/K9teElePNkk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKasm-crKpCv95J_tmnzkcZbZNFA",
+        "rich": "https://i.ytimg.com/an_webp/K9teElePNkk/mqdefault_6s.webp?du=3000&sqp=CKflotYG&rs=AOn4CLA2RreBP_251AKe1VZ2BnIaLmx_9w"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Introduction to Statistics",
+      "link": "https://www.youtube.com/watch?v=XZo4xyJXCak",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XZo4xyJXCak",
+      "video_id": "XZo4xyJXCak",
+      "channel": {
+        "name": "The Organic Chemistry Tutor",
+        "link": "https://www.youtube.com/@TheOrganicChemistryTutor",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lOQikQsmqQS3dG9VBvbJ03Eqqw7NshUvDNorj5UAZL6M0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 2684062,
+      "length": "56:46",
+      "description": "This video tutorial provides a basic introduction into statistics. It explains how to find the mean, median, mode, and range of a data ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/XZo4xyJXCak/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJbq4i9lTPzG1kq53UvNsdGuLJQg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Statistics and Probability Full Course || Statistics For Data Science",
+      "link": "https://www.youtube.com/watch?v=sbbYntt5CJk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sbbYntt5CJk",
+      "video_id": "sbbYntt5CJk",
+      "channel": {
+        "name": "Geek's Lesson",
+        "link": "https://www.youtube.com/@GeeksLesson",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nMvQAUf-AftPxYplMWZWb7rRUDs0ae4rBnCyhwwZgcWeQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 1455449,
+      "length": "11:39:38",
+      "description": "Statistics is the discipline that concerns the collection, organization, analysis, interpretation and presentation of data. In applying ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/sbbYntt5CJk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Rc8UOlEBF9pJ1n08s3QLVu53RA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "What is Statistics? A Beginner's Guide to Statistics (Data Analytics)!",
+      "link": "https://www.youtube.com/watch?v=Gi4GxE4obAc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Gi4GxE4obAc",
+      "video_id": "Gi4GxE4obAc",
+      "channel": {
+        "name": "numiqo",
+        "link": "https://www.youtube.com/@numiqo",
+        "thumbnail": "https://yt3.ggpht.com/TX_WJExd_RuSDd9iN9-8o6gSKxsUihwb0Ii-OZcuSg9-uqcGI6BnvIgrOaF5XIfL8BSra33h=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 267088,
+      "length": "20:21",
+      "description": "If you want to finally understand statistics, this is the place to be! After this video, you will know what statistics is, what descriptive ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Gi4GxE4obAc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHB6jDYU8nNmdADmQGu1-X8hEQqA",
+        "rich": "https://i.ytimg.com/an_webp/Gi4GxE4obAc/mqdefault_6s.webp?du=3000&sqp=CNvUotYG&rs=AOn4CLCQNqB2Uqpt-MrkxYa9s4mSihbBYw"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Probability and Statistics: Overview",
+      "link": "https://www.youtube.com/watch?v=sQqniayndb4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sQqniayndb4",
+      "video_id": "sQqniayndb4",
+      "channel": {
+        "name": "Steve Brunton",
+        "link": "https://www.youtube.com/@Eigensteve",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mx14E_G8xV2RfuwQ6pmFJq3gsbBjo_kcrRiBd7WAzCA_k=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 715585,
+      "length": "29:43",
+      "description": "This is the introductory overview video in a new series on Probability and Statistics! Probability and Statistics are cornerstones of ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/sQqniayndb4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq3w5nnV9K3dgO04rjnvYW5rVsiw",
+        "rich": "https://i.ytimg.com/an_webp/sQqniayndb4/mqdefault_6s.webp?du=3000&sqp=CKz8otYG&rs=AOn4CLAIdS46y2jCvhYssBrfxXz9unEypA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Statistic for beginners | Statistics for Data Science",
+      "link": "https://www.youtube.com/watch?v=hjZJIVWHnPE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hjZJIVWHnPE",
+      "video_id": "hjZJIVWHnPE",
+      "channel": {
+        "name": "Geek's Lesson",
+        "link": "https://www.youtube.com/@GeeksLesson",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nMvQAUf-AftPxYplMWZWb7rRUDs0ae4rBnCyhwwZgcWeQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 838349,
+      "length": "9:15:58",
+      "description": "In this comprehensive #statistics course you will learn about fundamental concept of statistics which is beginner friendly.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hjZJIVWHnPE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW2PsxmLzlEcYLQVQWTevyFAfgnA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Statistics - A Full Lecture to learn Data Science",
+      "link": "https://www.youtube.com/watch?v=Ym1iH8-GQOE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ym1iH8-GQOE",
+      "video_id": "Ym1iH8-GQOE",
+      "channel": {
+        "name": "numiqo",
+        "link": "https://www.youtube.com/@numiqo",
+        "thumbnail": "https://yt3.ggpht.com/TX_WJExd_RuSDd9iN9-8o6gSKxsUihwb0Ii-OZcuSg9-uqcGI6BnvIgrOaF5XIfL8BSra33h=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 853107,
+      "length": "4:15:27",
+      "description": "Welcome to our full and free tutorial about statistics (Full-Lecture). We will uncover the tools and techniques that help us make ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ym1iH8-GQOE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPK0N0bkT9s0d1tk51sC8-L2kK7g",
+        "rich": "https://i.ytimg.com/an_webp/Ym1iH8-GQOE/mqdefault_6s.webp?du=3000&sqp=CL-Bo9YG&rs=AOn4CLDt8-kW8udgmRZEiFOCCrUiXq6N0Q"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Statistics Full Course For Beginners | Statistics For Data Science | Machine Learning @SCALER",
+      "link": "https://www.youtube.com/watch?v=LJa4_yGOmwo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LJa4_yGOmwo",
+      "video_id": "LJa4_yGOmwo",
+      "channel": {
+        "name": "SCALER",
+        "link": "https://www.youtube.com/@SCALER",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/sdQ3BLNpvXf5n2KS8sO3jzmVvMYmnWh6sYrKiJX-yemDtUw_c9wqU7XXOrxfHWoJPW007YNaYA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 231321,
+      "length": "7:38:24",
+      "description": "In this video, Sumit Shukla (DSML Educator), is explaining everything about Statistics for Data Science. This video covers ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LJa4_yGOmwo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuPllHd6-ERMHNMNUiuxcLT3jInw",
+        "rich": "https://i.ytimg.com/an_webp/LJa4_yGOmwo/mqdefault_6s.webp?du=3000&sqp=CIbkotYG&rs=AOn4CLC8PoT7x3RFKdXCAt24JniLbnO5Xw"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)",
+      "link": "https://www.youtube.com/watch?v=Vfo5le26IhY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Vfo5le26IhY",
+      "video_id": "Vfo5le26IhY",
+      "channel": {
+        "name": "Great Learning",
+        "link": "https://www.youtube.com/@greatlearning",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m_o6r4liwONXrrjZ2v2ZJ_WlaYXZQF9lrOy3J_aBAWeCU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 2231524,
+      "length": "7:12:51",
+      "description": "Go to https://bit.ly/StatisticsCourseforDataScience to master Statistics for Data Science with a 7-day free Pro+ trial—get job-ready ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Vfo5le26IhY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB62BnknKLAHAutn43ofIf8MiPshg",
+        "rich": "https://i.ytimg.com/an_webp/Vfo5le26IhY/mqdefault_6s.webp?du=3000&sqp=CID7otYG&rs=AOn4CLCSHbsHAL_7Tkm3Ed9RcGzjU4F3og"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "AP Statistics Full Course",
+      "link": "https://www.youtube.com/watch?v=eu3PjeVBUQE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eu3PjeVBUQE",
+      "video_id": "eu3PjeVBUQE",
+      "channel": {
+        "name": "Jesse Li - Free AP Courses & More",
+        "link": "https://www.youtube.com/@jesseli662",
+        "thumbnail": "https://yt3.ggpht.com/50KNsXNSPzn8TnBjhkvvARlycGW-kal0S8vMbODdwYzvpa8FL6q0XKp3Kv-YiNuT2zaS4kG7lRM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 105740,
+      "length": "1:40:53",
+      "description": "This video covers ALL the content in AP Statistics. You'll be amazed by just how much you can learn (and remember!) in one ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eu3PjeVBUQE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBvb96GxGGKxHpacEgrOKuueBsUw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Complete Statistics For Data Science In 6 hours By Krish Naik",
+      "link": "https://www.youtube.com/watch?v=LZzq1zSL1bs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LZzq1zSL1bs",
+      "video_id": "LZzq1zSL1bs",
+      "channel": {
+        "name": "Krish Naik",
+        "link": "https://www.youtube.com/@krishnaik06",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/r0lRsN4EgVg_h9TfhKoK-oa9SGtmC4QxvwhEYFB4VWoRXtxsQoyhh2WvrRxpxciTYwh4D4_W=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 2032434,
+      "length": "5:28:32",
+      "description": "Statistics is the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data. In applying ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LZzq1zSL1bs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBakcSnb_v5T_Fc5IZ7VHy7rbqRZQ",
+        "rich": "https://i.ytimg.com/an_webp/LZzq1zSL1bs/mqdefault_6s.webp?du=3000&sqp=CKDSotYG&rs=AOn4CLBxZBo0or3LgoAR0jS6uHsk84jAsg"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Statistics full Course for Beginner | Statistics for Data Science",
+      "link": "https://www.youtube.com/watch?v=74oUwKezFho",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=74oUwKezFho",
+      "video_id": "74oUwKezFho",
+      "channel": {
+        "name": "My CS",
+        "link": "https://www.youtube.com/@MyCS1",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lH5rlwfVhcGixsipNaGPc4zMjbDCyjV68MMa9Tf3Tb8Lo=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 531542,
+      "length": "8:15:02",
+      "description": "In this comprehensive #statistics course you will learn about fundamental concept of statistics which is beginner friendly.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/74oUwKezFho/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7740V9uxpwiPJzUvYUiMFOvzANg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "SPSS for Beginners - Full Course",
+      "link": "https://www.youtube.com/watch?v=ZpwZS3XnEZA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZpwZS3XnEZA",
+      "video_id": "ZpwZS3XnEZA",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 724410,
+      "length": "2:16:58",
+      "description": "SPSS Statistics is a software package used for interactive, or batched, statistical analysis. Learn how to use it in this full course.",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZpwZS3XnEZA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnpUQie44PA1oVPBSpx8lPg5R6gg",
+        "rich": "https://i.ytimg.com/an_webp/ZpwZS3XnEZA/mqdefault_6s.webp?du=3000&sqp=CKDQotYG&rs=AOn4CLBzmBqzgwwmP6rU8tSdxTmSmIO71g"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Statistics For Data Science: COMPLETE Course For Beginners (2025)| Statistics Tutorial | Intellipaat",
+      "link": "https://www.youtube.com/watch?v=cl1H0gY0mVo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cl1H0gY0mVo",
+      "video_id": "cl1H0gY0mVo",
+      "channel": {
+        "name": "Intellipaat",
+        "link": "https://www.youtube.com/@Intellipaat",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0UrFW02_vRoTxrCcv4H6vSDXFwUPcafCf3oXIA6yMFUsVtIvE8EZdS2UMzbdscI7ifON_U7DHQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 77685,
+      "length": "4:49:22",
+      "description": "Learn Statistics For Data Science: COMPLETE Course For Beginners (2025)| Statistics Tutorial! This full course covers everything ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/cl1H0gY0mVo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHrWdiWFidf0nZOgvcoq9Ntui-aA",
+        "rich": "https://i.ytimg.com/an_webp/cl1H0gY0mVo/mqdefault_6s.webp?du=3000&sqp=CNCCo9YG&rs=AOn4CLCBl2OX5UIPmzr7jgjA-veIF-mDDw"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Learn Data Analytics Full Course 2026 | Data Analytics Complete Course | Intellipaat",
+      "link": "https://www.youtube.com/watch?v=jaMOE1IJ7HM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jaMOE1IJ7HM",
+      "video_id": "jaMOE1IJ7HM",
+      "channel": {
+        "name": "Intellipaat",
+        "link": "https://www.youtube.com/@Intellipaat",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0UrFW02_vRoTxrCcv4H6vSDXFwUPcafCf3oXIA6yMFUsVtIvE8EZdS2UMzbdscI7ifON_U7DHQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 16h ago",
+      "views": 38792,
+      "length": "10:50:16",
+      "description": "Enroll for Data Analytics Course: https://intellipaat.com/data-analytic... Book your Free Masterclass: ...",
+      "extensions": [
+        "New"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jaMOE1IJ7HM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAA7tC5CSKslGYFnf6p1KSwg0Y9fQ",
+        "rich": "https://i.ytimg.com/an_webp/jaMOE1IJ7HM/mqdefault_6s.webp?du=3000&sqp=CIX-otYG&rs=AOn4CLC7w-MuybH36Z_HM8FpPIcM-rgwLw"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Algorithms and Data Structures Tutorial - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=8hly31xKli0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8hly31xKli0",
+      "video_id": "8hly31xKli0",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 5994516,
+      "length": "5:22:09",
+      "description": "In this course you will learn about algorithms and data structures, two of the fundamental topics in computer science. There are ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/8hly31xKli0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC35KCcVifdhZv6ygwhpmR11cmh8Q",
+        "rich": "https://i.ytimg.com/an_webp/8hly31xKli0/mqdefault_6s.webp?du=3000&sqp=CLq5otYG&rs=AOn4CLDvEVI8XqmWLdYSOl-pejhlBRS1IQ"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Statistics+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Statistics%20full%20course%20for%20beginners&sp=EgIYAkgUggELa3lqbHhzTFcxSXOCAQtfUHlpMTJkbjRLd4IBC3h4cGMtSFBLTjI4ggELVlBaRF9haWo4SDCCAQtLOXRlRWxlUE5ra4IBC1habzR4eUpYQ2FrggELc2JiWW50dDVDSmuCAQtHaTRHeEU0b2JBY4IBC3NRcW5pYXluZGI0ggELaGpaSklWV0huUEWCAQtZbTFpSDgtR1FPRYIBC0xKYTRfeUdPbXdvggELVmZvNWxlMjZJaFmCAQtldTNQamVWQlVRRYIBC0xaenExelNMMWJzggELNzRvVXdLZXpGaG-CAQtacHdaUzNYbkVaQYIBC2NsMUgwZ1kwbVZvggELamFNT0UxSUo3SE2CAQs4aGx5MzF4S2xpMLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELa3lqbHhzTFcxSXOCAQtfUHlpMTJkbjRLd4IBC3h4cGMtSFBLTjI4ggELVlBaRF9haWo4SDCCAQtLOXRlRWxlUE5ra4IBC1habzR4eUpYQ2FrggELc2JiWW50dDVDSmuCAQtHaTRHeEU0b2JBY4IBC3NRcW5pYXluZGI0ggELaGpaSklWV0huUEWCAQtZbTFpSDgtR1FPRYIBC0xKYTRfeUdPbXdvggELVmZvNWxlMjZJaFmCAQtldTNQamVWQlVRRYIBC0xaenExelNMMWJzggELNzRvVXdLZXpGaG-CAQtacHdaUzNYbkVaQYIBC2NsMUgwZ1kwbVZvggELamFNT0UxSUo3SE2CAQs4aGx5MzF4S2xpMLIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Statistics+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Statistics+full+course+for+beginners&sp=EgIYAkgUggELa3lqbHhzTFcxSXOCAQtfUHlpMTJkbjRLd4IBC3h4cGMtSFBLTjI4ggELVlBaRF9haWo4SDCCAQtLOXRlRWxlUE5ra4IBC1habzR4eUpYQ2FrggELc2JiWW50dDVDSmuCAQtHaTRHeEU0b2JBY4IBC3NRcW5pYXluZGI0ggELaGpaSklWV0huUEWCAQtZbTFpSDgtR1FPRYIBC0xKYTRfeUdPbXdvggELVmZvNWxlMjZJaFmCAQtldTNQamVWQlVRRYIBC0xaenExelNMMWJzggELNzRvVXdLZXpGaG-CAQtacHdaUzNYbkVaQYIBC2NsMUgwZ1kwbVZvggELamFNT0UxSUo3SE2CAQs4aGx5MzF4S2xpMLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELa3lqbHhzTFcxSXOCAQtfUHlpMTJkbjRLd4IBC3h4cGMtSFBLTjI4ggELVlBaRF9haWo4SDCCAQtLOXRlRWxlUE5ra4IBC1habzR4eUpYQ2FrggELc2JiWW50dDVDSmuCAQtHaTRHeEU0b2JBY4IBC3NRcW5pYXluZGI0ggELaGpaSklWV0huUEWCAQtZbTFpSDgtR1FPRYIBC0xKYTRfeUdPbXdvggELVmZvNWxlMjZJaFmCAQtldTNQamVWQlVRRYIBC0xaenExelNMMWJzggELNzRvVXdLZXpGaG-CAQtacHdaUzNYbkVaQYIBC2NsMUgwZ1kwbVZvggELamFNT0UxSUo3SE2CAQs4aGx5MzF4S2xpMLIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 10:40:34 UTC"
+}

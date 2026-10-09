@@ -1,0 +1,469 @@
+{
+  "search_metadata": {
+    "id": "6ac8c4b9e7a2a99bb03d8ef9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3z86x7WChjOnA2W5NQ8FNK0jyDqPAeNBOjNlchk7ruk/6ac8c4b9e7a2a99bb03d8ef9.json",
+    "markdown_endpoint": "https://serpapi.com/searches/3z86x7WChjOnA2W5NQ8FNK0jyDqPAeNBOjNlchk7ruk/6ac8c4b9e7a2a99bb03d8ef9.md",
+    "created_at": "2026-10-09 10:40:57 UTC",
+    "processed_at": "2026-10-09 10:40:57 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Junior+Data+Analyst&uule=w+CAIQICIfUHVuZSBEaXZpc2lvbixNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/3z86x7WChjOnA2W5NQ8FNK0jyDqPAeNBOjNlchk7ruk/6ac8c4b9e7a2a99bb03d8ef9.html",
+    "total_time_taken": 1.23
+  },
+  "search_parameters": {
+    "q": "Junior Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Pune, India",
+    "location_used": "Pune Division,Maharashtra,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHnjL-cLBgWFh2Rjf_gduiVKiE54Z95kiNRN7uRfZZI8TAyI-Ne8-w4I8q9bxQpCtk6EVqdY5q9I4I3QjUntBLeMxkfzdHq75TY-PEohv_Rgq5KXBxGRkVIPMj-HszomJwOgUsr8y1QyHnRL23dTbxCcy-2s",
+        "q": "Junior Data Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHnjL-cLBgWFh2Rjf_gduiVKiE54Z95kiNRN7uRfZZI8TAyI-Ne8-w4I8q9bxQpCtk6EVqdY5q9I4I3QjUntBLeMxkfzdHq75TY-PEohv_Rgq5KXBxGRkVIPMj-HszomJwOgUsr8y1QyHnRL23dTbxCcy-2s&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHnjL-cLBgWFh2Rjf_gduiVKiE54Z95kiNRN7uRfZZI8TAyI-Ne8-w4I8q9bxQpCtk6EVqdY5q9I4I3QjUntBLeMxkfzdHq75TY-PEohv_Rgq5KXBxGRkVIPMj-HszomJwOgUsr8y1QyHnRL23dTbxCcy-2s"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg",
+            "q": "Junior Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c",
+            "q": "Junior Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M",
+            "q": "Junior Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg",
+            "q": "Junior Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg",
+            "q": "Junior Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtsklNHbDoPPm35IoC7dbi5fCvscSnhD1Jmt1UmuKOcIW53gyvY0YLKIMTU5u65oSuV8vsUbuTnChERdmMnBXj3xn-3qsyIa-gsUdTQeCyGG7VFLzvQCYkRhd3-2HK6nH2wmTS3hASF0tBTiC4-mfBp84Xn-TibeV5_w7l5sCgiazLuVSABqh2pA3AJG84TZDrZBZv6lr-tKBRAro2bUkVMl-w4YJTAUJzgG6nmd2ImAyfw7O5Xin2AB5-zIJ_YzRH6W6IIEpKGP4tm1x30ePWHWzaiNRmdhAG8a8hkYgfQ2woxMTuSmviX09ZPQOXpiRJgjcHg"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c",
+            "q": "Junior Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpBrabVeZVfooK0HnTTVAVD1mhALUZcKjP0pK2jDUqjgIJXffN571D_CfLnNawxBOrMnHfjLGqY91a2J_ZPIcCZvIQgN2sXZVreV2dZGywwZNfLzyp3iGdq65ZUQWc_2Ngv56b-C4Cp6_OgDALj0gp9GVn8u-QHUkIvh6WrqMuPcg9n9eOq5XhYisCcJQpdMmyZRJN6XiInoMtnJMFZJhrgw-EB44oSGy1KHjpByQMHBis9Ee3KlOcmDtXT-LuGJ97pQklaX9QegHciEhr3lhVK1WEv_eQNzht3FwjhbZKJBRtrpPLprJP-S3-Tu2S4pPqk0o95c"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M",
+            "q": "Junior Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0RypIo9yO3LTeWs2d5ohs4_EckGWRLeW1PBMsjIlsJUQxKEy1UK8B57U6gNMXB8pK3JYSLPM6if5gqhWRVn3jl0C8hIHVXaXWuy_D0bqU8NO-zsfUw8PUsi0H-uWFI5Brof4Rq31C2jV7EP1u6VJOn1ObQIMgNNkDBNA89QfBAwcFblOo2mX-Y00GhB4QnXqeOy61AAaH68jF_cKaJD1MyyW7VLmOPPBQxl-VnMqzCLijJgXPF4HQlxZ5pgDFf34bpW48sIBmrkw44-E2Bfhl-bcELQ-_y9aM0PjJaukA4kpgf1-4a84WUqwtVXN31RcOSgImSTc2dKjEiNhCmG7VVrZV-M"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg",
+            "q": "Junior Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNZfSzKHQ13PP72YSt3BYdg7muV5Lm_LqMvzacC_oDcUHmBz1DQZm7P66GG6Rzh_gqDDzvHZXsJDQXeFwRQmD9Vbg8u4h6ui-O5QtdTLgJzkVu-qUUVGLMyoTs2wPlOOXSLzLRemY5jg3pfTjeP-FTG6iMFWefnj2emviiPNghzBT9LvUe17MF_4Vvgds2_hg1aMYUPI07zl0Bp8LX5VVb37w2PB8mRixq2Ao766OPl8CCJ5AEwFPS0bsuUu52QCsOm2dee8ieBloZth9ZKs0wnQ6bXf1GK5-hOqQKm2Sm_a48ilPDG0FKy_oemnQn2pToPtPF1uUQIfW6CcDCbkcDEDTqOg"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw",
+            "q": "Junior Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew",
+            "q": "Junior Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ",
+            "q": "Junior Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ",
+            "q": "Junior Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw",
+            "q": "Junior Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjVFil_s2IrOeyzgNHWIzRNsuUrR8q5PKtSiLV59JpSv8DD5MwiFmKB4xgPC-cCn44OkRt7DH2VG2sZTn6FKgzKnX7xwXyfKPMQfnp5JUkdjeUHQDE3wT3RqkHeTC0-9JveWTCtfqZ0-6BlEGghiHFKhfkcGYwPaAdQQrOUE4erafhpOMNm1YU0iukqoDRnh0JfDoxQx6pHBPQHk3wGuJETYD1OODRhiXcuHJDWHp8XDzTUwIJRfBJBmI6F6UiRtoaBXcOGyGax7Vilc1nEYE8jA4Umfgw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew",
+            "q": "Junior Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqmuRY-CXboRAxaO4Mx9CiEM8c4oBpa97lbzfulvQGjXiIprgEvvUHJQKlT4IbYCDY-CAUfqnmzxJtMMFN1nLwAdMBQlsMgs7dvxPSJGPqIWoB3cayBIyTgt-ZhhQvvwv3JgYUVIgxMdZk1b1WIDNCSnxHdUvSdQXpZ1KPN4uskjuXu7N34fpziAZG9bp8WdOI540pavVjimm_0ObIgcmH4iVAdGO2cF5hbBg2Natj9rX62Xtl40z4yK_gBIw1wE7FdjUXirlHIZLFb01b-VqCJV_KJ5sAR2EUclKCG1Dok6SYWGpWmGjs0uUs21GFc9S-fxfew"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ",
+            "q": "Junior Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roccvPP8wStjNYR1eUx0iShgH3phwoks7h7twGMXspoIvsp9c36UT3ouk00l_XiLeM25Z6lA4VuvmNYJtbHgcN2v6CB3FfzZ6xOuXXHvySvMu6SFKW_HNJPmtHv3oN0OyZBu-fshY8sSZ3u1iMtXpeKj1eaxCPmsBF3a9_H64QjSfsf1XWTHCixFkUkOUJ5TApztOnDCp_qmUdI_xqulwyXumd69yJUnW4ekz3A_wLdzYvngcilNo_MMXgIRjuH8ezHlXOIWLz1X_gtaTdjGJ-hwHNlA5IQv-p0o1tIgQRAjdXhTcjczLESs93AcUMm18CEv0ZQ"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ",
+            "q": "Junior Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&gl=in&hl=en&sxsrf=APpeQnu_PuxTYl2x4QbW61KaoQY2H4dfkw:1791542458752&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ&udm=8&sa=X&ved=2ahUKEwjQg-re36yXAxW4kWoFHVERFZsQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Data+Analyst+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r79ajYucGPdPeWtYo6rF7ALn3TFHazoUCHi_X2YMbnKdf6VSY0Zrgcq8Da2dpoX_Pdg92K3KuGTQBgxiScF24bXSo0-a_lolSe3qbjQA8s15s8gufviodl-YiURbGnQeAGI1elF1KRDHCicVx4HTNn7_lMzYbAZwxn_WUt985k5NKT3usbneMtPMmCqSSo1Eod3C1wh4deZFg8f0g2uefah0sUVkLmOspvG7ITPE46slxRRZpoVFUu1Tt55M7H00Da9JQMzvzzyHGIHOnHIjzgWnXV2qG2yLzcr0UIbml6cCHNWRb85TpXDBKtWHxq4XMiNWwuQ"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Jr. Data Analyst (Pune)",
+      "company_name": "Vijay Copolymers",
+      "location": "Pune, Maharashtra",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=2eEQBn_zB7JpQ5_2AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TrLYRVOQuCDamEgVBEKxswyYsuYTL7XG7QtL5B8EH-hKTZqoZJvsusvyWDFxQEU4B_SgK68cr0AZ-7w90XIEQptoBB7gyN56WhVONcrRWxJtGFLWtTc295UAVD3aKZEYpDhNFj0rl_pAPJoZmu3q2HY5w5sh-7CkJtAHm4Q7uOPkoThP-AYN4nCuZAAAA&shmds=v1_ARwrE22xgg09Qzym6pbyL82coUwcF3hCEgd3UO7Cc318s9Nyvw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=2eEQBn_zB7JpQ5_2AAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/jr-data-analyst-pune/vijay-copolymers/19686970",
+      "job_title": "Jr. Data Analyst (Pune)",
+      "description": "Job Summary\n\nAnalyze data from Zoho and other business systems to derive actionable insights for decision-making. Develop and maintain Zoho Dashboards to track business metrics, KPIs, and performance indicators. Use Zoho Analytics to gather, clean, and organize data from various sources, ensuring accuracy and consistency. Generate business insights and recommendations based on data trends, patterns, and analysis. Prepare and process data for further analysis using data prep techniques and tools. Create detailed reports and presentations that communicate key findings to stakeholders. Design and implement data models to support business intelligence initiatives and reporting needs. Work with cross-functional teams to understand business requirements and translate them into actionable data reports. Utilize Zoho IoT for data integration and analysis from connected devices, sensors, and machines. Monitor the performance of dashboards and data models, ensuring their effectiveness and alignment with business goals. Provide ongoing support and troubleshooting for Zoho Analytics and dashboard-related issues.\n\nSkills\n\n- Strong proficiency in Zoho Analytics, with the ability to create and manage reports, dashboards, and visualizations.\n- Experience with data preparation techniques to clean, format, and organize raw data for analysis.\n- Hands-on experience with Zoho IoT, including data integration and analysis from connected devices.\n- Solid understanding of business intelligence and data analytics principles.\n- Strong ability to generate meaningful business insights from complex datasets.\n- Proficiency in data visualization tools and techniques.\n- Advanced Excel skills, including pivot tables, formulas, and macros.\n- Strong analytical thinking and problem-solving skills.\n- Ability to work with large datasets and derive insights using statistical and analytical techniques.\n- Excellent communication skills to present data insights clearly to non-technical stakeholders.\n\nRequirements\n\n- Gender: Male/Female (open to both)\n- Age: 22-30 years\n- Experience: 2-4 years in data analysis, business intelligence, or a related field\n- Education: Bachelors degree in Computer Science, Statistics, Mathematics, Business Analytics, or a related field\n\nOther Expectations\n\n- Ability to work independently and as part of a collaborative team.\n- High attention to detail with a focus on accuracy and consistency.\n- Flexibility to adapt to changing business requirements and analytical needs.\n- A proactive approach to identifying data gaps and recommending solutions.\n- Robust time-management skills and the ability to handle multiple projects.\n\nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/jr-data-analyst-pune/vijay-copolymers/19686970?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340257956/jr-data-analyst-pune?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKci4gRGF0YSBBbmFseXN0IChQdW5lKSIsImNvbXBhbnlfbmFtZSI6IlZpamF5IENvcG9seW1lcnMiLCJodGlkb2NpZCI6IjJlRVFCbl96QjdKcFE1XzJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVXBHV1VKSlluRk1jbU0xWTNsQmFWbzBhaTAxY0ZvNGNubFplVGRvTjNCNmJYTkNMV3h3Vm04MlpVUTNWRlZsZUMxTFFUTTFWRzlKTlRsQlFsVjJWREJQVDBWVFlqTlBlR2swU0ZWM1ZWOWlUV3Q1Vms5dlQxODBMVEJuZVRCblRXZHZTalZTZVhkU2MyOU9UV1EzVVdoTU1uZHdlR2RCYzIxVVNuZ3RNalpvVUdOSGRsTVNGM1Z6VkVsaGRFTXRUR0pwYW5GMGMxQXdZVXhWTWtGckdpSkJSSE55T1daVWEyRnFYelZ0TTBaSlRGZDBhMGw2V1U5QlRGWXdTRkZvVFhoMyIsImZjdiI6IjMiLCJmY19pZCI6IjJlRVFCbl96QjdKcFE1XzJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Machine Learning Data Analyst - Agriculture & Agribusiness",
+      "company_name": "YuvaIntern",
+      "location": "Pune, Maharashtra",
+      "via": "YuvaIntern",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=j6AnkrC-wpo_Hjw4AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3OMQoCMRAFUGw9go1TWYjuimCjlSCIomCrjcyGIYnEyZKZiHbewdt4HE9itPnw4T_43Xene9pm9jHBHo3zTLAjTOzZwgoVYckYHqIwhqVN3uSgOREM_q3JUoAIfJ4vuMQGpFDjIDKsY7SBegun2sq8rkVCZUVRvalMvNaRqYn3uiD5xVkcJmoDKp2ns8m9atkO-8d8ww0rJQbPcMhMo_KyLFGcJvwCcsJeUL0AAAA&shmds=v1_ARwrE23E25edKy756ihq-Tlsdn7S7P1jcnJc1rb82e5UKgfShA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=j6AnkrC-wpo_Hjw4AAAAAA%3D%3D",
+      "extensions": [
+        "Internship"
+      ],
+      "source_link": "https://yuvaintern.com/internship/junior-machine-learning-data-analyst-agriculture-agribusiness-pune-981-internship-in-pune",
+      "job_title": "Junior Machine Learning Data Analyst - Agriculture & Agribusiness",
+      "description": "The Junior Machine Learning Data Analyst will be responsible for analyzing data related to agriculture and agribusiness using machine learning techniques. This role involves developing predictive models, conducting data analysis, and providing insights to optimize agricultural processes.",
+      "apply_options": [
+        {
+          "title": "YuvaIntern",
+          "link": "https://yuvaintern.com/internship/junior-machine-learning-data-analyst-agriculture-agribusiness-pune-981-internship-in-pune?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/data-science-data-science-ml-engineering-tcs-pune-4-to-12-years-experience-a0bdc06f-6023-458a-b916-2c7e8c14927d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/siemens-machine-learning-data-science-analyst-pune-maharashtra-india-0-to-15-years-431418?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgTWFjaGluZSBMZWFybmluZyBEYXRhIEFuYWx5c3QgLSBBZ3JpY3VsdHVyZSBcdTAwMjYgQWdyaWJ1c2luZXNzIiwiY29tcGFueV9uYW1lIjoiWXV2YUludGVybiIsImh0aWRvY2lkIjoiajZBbmtyQy13cG9fSGp3NEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyWjRiR3BYYTBWWFFqQTBTV3g1YUY5MldsVjZOV1pDZFRnM01FOUhXblZsT1ZCcFVtOWlURlZVWDJwQ2MxWjZNRVp3T0VwblJXOUhhbWRCVEdaaGRGWmhTRVUyU0VScGNHdzNTRFZMVkhWMFJWaDVlbkpGUlVSRGJsQkdOVlpFWjBwNVYydFdPRTQzUmxkbFZXOXlOVWxHV25KVGFYVlplbGR0YjB0SFdXZDRUM3BIYkhrU0YzVnpWRWxoZEVNdFRHSnBhbkYwYzFBd1lVeFZNa0ZyR2lKQlJITnlPV1pTWDNRMk5WcGhiRFpXVjJ4TFZYSlZZbmN3Vmt0ck5WWlllbVozIiwiZmN2IjoiMyIsImZjX2lkIjoiajZBbmtyQy13cG9fSGp3NEFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst (Clinical Operations)",
+      "company_name": "Quantum Integrators",
+      "location": "Pune, Maharashtra",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=ONBRbVYBitu-CReWAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBBAUWxzBKspo0hWBBtTiYJYiHqCMAnDbmQzE3YmEDvv4BU8mScxNr97_Owzy8ojGsKeMT7VID_EltsGI1x7SmitsC7g-3rDQ2pQwtQEEIaTiI80L4NZrzvnVGPh1SbQFI10TphqGd2E9J9KAybqIxpVm-16LHr2y_w-INvQwZmN_DSTpNAy3AamFVxwIqjBEv4A3f64RacAAAA&shmds=v1_ARwrE238YzT98kTC2r6oslCOplLdlHVn0M3ebbNx7BU7SZl1sw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=ONBRbVYBitu-CReWAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4b9e7a2a99bb03d8ef9/images/4UjA9Ffok3CgBvRREKJrvQR8g5ydaX4aGMQ666EpQ34.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/data-analyst-clinical-operations-at-quantum-integrators-4475419912",
+      "job_title": "Data Analyst (Clinical Operations)",
+      "description": "Role: Clinical Operations Data Analyst\n\nLocation: Pune/ Nagpur, Maharashtra - Onsite Office\n\nDuration: Fulltime\n\nExperience: 5+ years\n\nWorking Hours: UK time shift \n\nNotice Period: Immediate or 15 days max.\n\n\n\n\nJob Summary:\n\nWe are looking for a candidate with 5+ years of experience and strong Clinical Operations domain knowledge, along with good SQL and Reporting/Analytics skills, to provide support to business users.\n\n\n\n\nKey Responsibilities:\n\nResolve business user tickets independently.Support queries related to Clinical Operations.Analyze and troubleshoot reports and NLQ outputs.Investigate data discrepancies and perform data reconciliation.Work with business users to resolve reporting and data-related issues.\n\n\nRequired Skills:\n\n5+ years of relevant experience.Strong knowledge of Clinical Operations.Good hands-on experience with SQL.Experience in Reporting and Analytics.Strong analytical and problem-solving skills.Ability to work independently.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analyst-clinical-operations-at-quantum-integrators-4475419912?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-clinical-operations-quantum-integrators-pune-city--fj-2401791367?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKENsaW5pY2FsIE9wZXJhdGlvbnMpIiwiY29tcGFueV9uYW1lIjoiUXVhbnR1bSBJbnRlZ3JhdG9ycyIsImh0aWRvY2lkIjoiT05CUmJWWUJpdHUtQ1JlV0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXbGFOMkpWTlROT1YzQldjbU55ZDNCaGNUZFliRVExYzFFMGJGcFhTMDVKWlhCamVsQmtRWFpoU2t0UE5IWXlWR0l5Tm1odGNsQlVZMTlEVlRaMGNVSlZibkZrUjIxcE9UZDBWWFpDTTJsaVRHcEpTV1J0TkdwSFdEaHlTV0Y2TWpZelNWbzJNRjh4TTNadFNrWllZWE5CUzNsUlQyWkRRMGRzUjJ4a04xUXlkV3ByT1VnU0YzVnpWRWxoZEVNdFRHSnBhbkYwYzFBd1lVeFZNa0ZyR2lKQlJITnlPV1pTUWxKalFpMXViMmd5YmkweWMycGtZWEp0TTJsSGMyWk9iVFpuIiwiZmN2IjoiMyIsImZjX2lkIjoiT05CUmJWWUJpdHUtQ1JlV0FBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Data Analyst Internship",
+      "company_name": "confidential",
+      "location": "Mumbai, Maharashtra",
+      "via": "Careerwood Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=KmgLr11HqJGtr-5VAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLQQrCMBBAUdz2CK4G3IkkIoigK0EQhZ6hTGNsIulMyEyh7ryDS2_nSaybv3q_-syq3XWgyAVOqAhHwvQUhQupLyQhZvi-3vDgFsRjcQGY4MzcJT8_BNUse2tFkulEUaMzjnvL5Fse7TTJP40ELD4nVN9stuvRZOqWC8d0jzdPGjFBJKiHvsW4ghonjRK04A8Cg1UongAAAA&shmds=v1_ARwrE21uGhCfdqRhd6hCgICB71pC7QMmeEEfUV9EhebwiIuMkg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=KmgLr11HqJGtr-5VAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "₹15K–₹25K a month",
+        "Internship"
+      ],
+      "source_link": "https://careerwood.com/jobs/junior-data-analyst-internship-mumbai",
+      "job_title": "Junior Data Analyst Internship",
+      "description": "Join our client as a Junior Data Analyst Intern, where you will assist the data team with analysis and reporting. This role is ideal for fresh graduates looking to gain hands-on experience in data analytics. You will work closely with senior analysts to interpret data, generate reports, and provide insights that drive strategic decisions. This is a great opportunity to learn from industry professionals and build a strong foundation in data analytics.\n\nAs an intern, you will be part of a collaborative team that values creativity and innovation. Your contributions will be significant in helping the team understand trends and patterns that can influence business strategies. If you are passionate about data and eager to learn, we encourage you to apply.\n\n\nKey Responsibilities\nAssist in collecting and analyzing dataSupport the team in generating reportsHelp interpret data trends and patternsCollaborate with senior analysts on projects\nQualifications\nPursuing or completed a degree in a relevant fieldBasic understanding of data analysis toolsStrong analytical skills\nBenefits & Perks\nHands-on experience in data analyticsMentorship from industry professionalsOpportunity to work on real projects\nSkills\nAnalytical thinkingProficiency in ExcelBasic knowledge of data visualization toolsFamiliarity with programming languages like Python or RUnderstanding of SQL",
+      "apply_options": [
+        {
+          "title": "Careerwood Jobs",
+          "link": "https://careerwood.com/jobs/junior-data-analyst-internship-mumbai?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IEludGVybnNoaXAiLCJjb21wYW55X25hbWUiOiJjb25maWRlbnRpYWwiLCJodGlkb2NpZCI6IkttZ0xyMTFIcUpHdHItNVZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTemx1YUd0V1QwOU1RMmR3TXpoUU1VZEJPRlZhTjJ3d0xWSTFOV1JtTjNOTFkxVkxTMVpqWVZSNGJXaHRZM2xTTm5WYVkwVlNWRTA1ZEZSWE1XSnZkRmxxVjFScWVUZGxOMnhPT1dOVGRHaEtiVlZIVjNoRFVVaHZNbmMwVjJrelpYSnFWSHAwUzA0ek5raGpNMWh0TFZKeFgxRTNiRjlhZVZZd1VFSXlYMlJSTFVWNlUzRVNGM1Z6VkVsaGRFTXRUR0pwYW5GMGMxQXdZVXhWTWtGckdpSkJSSE55T1daVGRYWTFjRU5tT0hnMVRGRmFiRTlKZGtNNGFqVXdhWGRDYTJ0UiIsImZjdiI6IjMiLCJmY19pZCI6IkttZ0xyMTFIcUpHdHItNVZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company_name": "Advait Techserve India Pvt Ltd",
+      "location": "Thane, Maharashtra",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=Ir3iSup5p3R89UaYAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBAAQGzzBKutJeREtNEqIIiiYJE-bC5L7uTcC7driJ1_8AV-zZcYm-km-8yy_PRgHxPsURFKxvAUhe_rDbfYgBAm6yAyHGLsAs13TrWXrTEioehEUb0tbLybyNTE0UxJ_tTiMFEfUKlebZZj0XO3WJftgF6hIuuE0kBw5NYjXAeFs7bgGSqHTDlccOooThP-ANgh8IKkAAAA&shmds=v1_ARwrE23W079RTYLixUyZWTh4nJ1f3AchFFyEZsoulUBY9WwD9A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=Ir3iSup5p3R89UaYAAAAAA%3D%3D",
+      "extensions": [
+        "₹3L–₹6.5L a year",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/junior-data-analyst-advait-techserve-india-pvt-ltd-thane-maharashtra--t7xk-816188228",
+      "job_title": "Junior Data Analyst",
+      "description": "Position: Executive\nLocation: Thane\nExperience: 3 to 5 Years\nMandatory Skillset: Good working knowledge of MS excel & good interpersonal skills\n\n\nRoles & Responsibilities: Perform analysis of transaction patterns and trends, create MIS for management reporting, work with customers to obtain validation of billing and other analysis, work with the internal teams on initiatives like transaction improvement etc.\n\n\nQualification: Graduate (Minimum requirement)\n\n\nPay: ₹300,000.00 - ₹650,000.00 per year\n\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-data-analyst-advait-techserve-india-pvt-ltd-thane-maharashtra--t7xk-816188228?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/339600022/junior-data-analyst-thane?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiQWR2YWl0IFRlY2hzZXJ2ZSBJbmRpYSBQdnQgTHRkIiwiaHRpZG9jaWQiOiJJcjNpU3VwNXAzUjg5VWFZQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNOWE1FaDVZa3hSVDJvMlVsQTRUMnRQV0hsWWVqUkpTRW81VDNnNVpWTjVkVFp1WVdzNFEyeG5TSFowVkdSTllVWnJaek5SVFVaaFZIUTFVbE5UTWtKalJYVktVM1JCTWxGM01uWllRbVJXZEdGSk1XOWpXalJSTVhRMVUxbERaMnBqYVVwdWVXNXplbFJmZFUxUE5UQkxkV2RDWWpKSmVrRTJWbFpCUlUwMmJGcEdTVFVTRjNWelZFbGhkRU10VEdKcGFuRjBjMUF3WVV4Vk1rRnJHaUpCUkhOeU9XWlJSek5IYVhGNWFXOUhYMVZyTms0MFNqQXhZalJFT1VWVVUxSjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJJcjNpU3VwNXAzUjg5VWFZQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior - Data Analyst| Thane",
+      "company_name": "CSB Bank",
+      "location": "Maharashtra",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=MJOIlZMFOPJ1RwHGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7AoLTzYKJCF10sgqC4KR7uYbQtMa7kDuhgoMv4OQb-iTW5Z--v3hPivJ4p44zLGCPirAljA_RJ1wCkofv6wM9NyAeswvABAfmNvrZJqgmWVsrEk0rito54_hmmXzDgx0n-aeWgNmniOrrVbkcTKJ2Pt2dK6iQrtARnHAUKEEz_gDTh_-0kAAAAA&shmds=v1_ARwrE20-Bpd3w40PxPpNkHMIujZ_pcwk3-kJTVt2bWJOYK5J6A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=MJOIlZMFOPJ1RwHGAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4b9e7a2a99bb03d8ef9/images/q40-aVol87vdxs7zD9pyaJ5qK6NMCrv_ip391Wo5Mnw.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=6c94cd9f69a62a3a",
+      "job_title": "Junior - Data Analyst| Thane",
+      "description": "Job Description \n\n\n\n\n\n \n  \n   Junior data analyst who will support data driven decision making by collecting, analyzing, and interpreting data.\n  \n  \n   The role involves working with business teams to generate insights, build reports, and improve operational efficiency.\n  \n  \n   Creating reports/dashboards to enable data-driven decision making.\n  \n \n\n\n\n Responsibilities \n\n\n\n \n  \n   Collect, clean and validate data from multiple sources\n  \n  \n   Perform basic to intermediate data analysis\n  \n  \n   Create dashboards using tools like Power BI/Excel\n  \n  \n   Generate daily/weekly/monthly MIS reports\n  \n  \n   Identify trends, patterns and anomalies In data\n  \n  \n   Support business team ( sales, risk, operations) with insights\n  \n  \n   Assist in building and maintaining data pipelines\n  \n  \n   Build and support data lakes and data warehouses for enterprise analytics\n  \n  \n   Prepare presentations and reports for the stakeholders.\n  \n  \n   Write SQL queries to extract and manipulate data.\n  \n  \n   SQL, Excel & Power BI\n  \n  \n   Ensure risk and compliance while doing data analysis and creating the models.\n  \n  \n   Ensure data quality, integrity, and security across data systems\n  \n \n\n\n\n Qualifications \n\n\n\n Graduate/ Post Graduate/ MBA\n\n\n Min Exp: 3 years\n\n\n Max Exp: 5 years",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=6c94cd9f69a62a3a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/Lz1godBNDb1Bk_tRwVHH688yS6BBXuyW_yTdL1eZFtTWqdWXHwT9jA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgLSBEYXRhIEFuYWx5c3R8IFRoYW5lIiwiY29tcGFueV9uYW1lIjoiQ1NCIEJhbmsiLCJodGlkb2NpZCI6Ik1KT0lsWk1GT1BKMVJ3SEdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURWxVVTJ4TlpUZDJaVUpFV0ROSVZsVjZNMmhMYmtONFUyTmhUVmxYVVdWc05uTk9WVGR2ZGxWaVVFMWFORWxIUWs1Q01GazFTRWN0U1RGTFJFeHBWRUZvWjNGUU9XbHVUR2xKVjFGUFV6RTFjbnBIVVVkd1JsRjZWMEowV0hCSFYyMXJWWFJSTVZvNFlWaFBVMEpuUVdGNWFXTkdiRXRyY1ZOcVZHWkJhbU5uUlRoa2JHMFNGM1Z6VkVsaGRFTXRUR0pwYW5GMGMxQXdZVXhWTWtGckdpSkJSSE55T1daU1FXTkVXRE5GWjE5elZuRkZSVEoyZFdSTmRHdHZaSEY0WkZGbiIsImZjdiI6IjMiLCJmY19pZCI6Ik1KT0lsWk1GT1BKMVJ3SEdBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Data Support Analyst",
+      "company_name": "UBS",
+      "location": "Pune, Maharashtra",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=Qu-HmogSoVHUWYHiAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7BOJ0s0giootOiiAIglCcyzWEphLvQu4CdfMFnHxDn8S6_NP3V-9JtT4X6jnDERWhLilxVtgTxqcofF8fuHML4jG7AExwYu6in-2CapKttSLRdKKovTOOH5bJtzzYcZJ_GgmYfYqovlltloNJ1M2nt0MNPcG1kF_ABUeCEjTjD58o0DmQAAAA&shmds=v1_ARwrE212o6gAE8rgzizMABDWVdYrK22VbqDEy3DXqn68mTIXcw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=Qu-HmogSoVHUWYHiAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/junior-data-support-analyst/ubs/19509917",
+      "job_title": "Junior Data Support Analyst",
+      "description": "India Operations Asset Management Job Reference # 259106BRCity PuneJob Type Full Time Your role Are you curious about financial instruments and how the data is utilized in the asset management lifecycle  Are you passionate about solving business problems and making an impact  Do you want to learn more about the asset management Industry  We're looking for someone like that to:  support instrument and data sourcing, including the setup and maintenance of various instrument types  ensure data integrity of vendor data feeding internal systems.  proactively identify and resolve potential problems and risks before they arise and escalating issues in a timely manner when appropriate.  be involved in data projects, providing reports or business analysis to support the implementation of new system flows.  contribute to the maintenance of the knowledge base of procedures to ensure high-levels of cross-training and standardization.Your team You'll be working in the Knowledge Services team in India and supporting our global team during APAC business hours. Sitting at the intersection of business and technology teams, Knowledge Services provides data and support to our teams around the globe. The team is a part of the Asset Management COO and has a mandate to govern and commercialize data through innovative technology and services.Your expertise You have:  a university degree in an analytical field like business or finance or information technology  an understanding of major security asset classes (equities, bonds, futures and OTC instruments) and key data attributes associated with them  strong communication skills, verbal and written  excellent problem-solving skills  working knowledge of leading market data platforms (e.g. Bloomberg, Refinitiv, Simcorp Dimension) is a plus proficiency in Excel macros, Alteryx and basic SQL are preferred You are:  intellectually curious, accountable and data driven  a self-started with the ability to work with minimal supervision  an individual who possesses a positive, action-oriented attitude and understands the importance of taking initiative within a team environment  able to challenge the status quo and suggest viable and actionable alternative approachesAbout us UBS is the worlds largest and only truly global wealth manager. We operate through four business divisions: Global Wealth Management, Personal & Corporate Banking, Asset Management and the Investment Bank. Our global reach and the breadth of our expertise set us apart from our competitors. With more than 70,000 employees, we have a presence in all major financial centers in more than 50 countries. Do you want to be one of us How we hire This role requires an assessment on application. Learn more about how we hire: www.ubs.com/global/en/careers/experienced-professionals.htmlJoin us At UBS, we embrace flexible ways of working when the role permits. We offer different working arrangements like part-time, job-sharing and hybrid (office and home) working. Our purpose-led culture and global infrastructure help us connect, collaborate, and work together in agile ways to meet all our business needs. From gaining new experiences in different roles to acquiring fresh knowledge and skills, we know that great work is never done alone. We know that it's our people, with their unique backgrounds, skills, experience levels and interests, who drive our ongoing success. Together were more than ourselves. Ready to be part of #teamUBS and make an impact Contact Details UBS Recruiting IndiaDisclaimer / Policy Statements UBS is an Equal Opportunity Employer. We respect and seek to empower each individual and support the diverse cultures, perspectives, skills and experiences within our workforce. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-data-support-analyst/ubs/19509917?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/ubs-junior-data-support-analyst-pune-0-to-1-years-19706?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBTdXBwb3J0IEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJVQlMiLCJodGlkb2NpZCI6IlF1LUhtb2dTb1ZIVVdZSGlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTa1pmY25reGNrMVFRV1J5WkV4TVRsRTJTSGhCUkdSZlUxTXpNblppTUZZMGQySllMWFJ4ZFU4MUxUTTBWMGhRYURSck9VNVRNMkpYYWtSdldtbFJYM1ZyYzNOQ1NucGxWbXBEZVVSc1lsSmxORTl6ZW01cGIwaFVSVUV0V1hoclNGUnlTblJwZWpSalF6TTFiMEo0TFZSdFpVeHZhMVpCWW5GVlZtWXdibE5wVDNZMVZWRVNGM1Z6VkVsaGRFTXRUR0pwYW5GMGMxQXdZVXhWTWtGckdpSkJSSE55T1daUmNFcDZaV1ZhZDFSVVZVVnBVRmhXZVVjeVpERlVjMEpETkVabiIsImZjdiI6IjMiLCJmY19pZCI6IlF1LUhtb2dTb1ZIVVdZSGlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Data Science Analyst - Agriculture & Agribusiness",
+      "company_name": "YuvaIntern",
+      "location": "Mumbai, Maharashtra",
+      "via": "YuvaIntern",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=Px8l0exss2CMBVXSAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2LMQrCQBAAsc0TrNbGQjQRwUargCAKKcTKSjbHkju57IXbPYmdf_Ap_siXGG0GBmay9yg7HRO7EGGHinA2jtgQlIz-IQoLKJvoTPKaIsH0b3USxyQCn-cLbqEGIYzGQmDYh9B4Gm-taiebohDxeSOK6kxuQlsEpjr0xTDJD1exGKnzqHRdrZd93nEzm1zSHQ-sFBkcQ5XaGt0cKhxaFKsRv54ZegG2AAAA&shmds=v1_ARwrE203R0n7aK1EOdlDBh-tsEUFrksO7R3P7eYf_FWiEWA67w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=Px8l0exss2CMBVXSAAAAAA%3D%3D",
+      "extensions": [
+        "Internship"
+      ],
+      "source_link": "https://yuvaintern.com/internship/junior-data-science-analyst-agriculture-agribusiness-internship-in-mumbai",
+      "job_title": "Junior Data Science Analyst - Agriculture & Agribusiness",
+      "description": "As a Junior Data Science Analyst in the Agriculture & Agribusiness sector, you will be responsible for analyzing data related to agricultural processes, crop yields, and market trends. You will use Python for data cleaning, analysis, and visualization to provide insights that can optimize agricultural operations and decision-making. This role will involve working closely with agronomists, farmers, and other stakeholders to drive data-driven solutions in the agriculture industry.",
+      "apply_options": [
+        {
+          "title": "YuvaIntern",
+          "link": "https://yuvaintern.com/internship/junior-data-science-analyst-agriculture-agribusiness-internship-in-mumbai?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBTY2llbmNlIEFuYWx5c3QgLSBBZ3JpY3VsdHVyZSBcdTAwMjYgQWdyaWJ1c2luZXNzIiwiY29tcGFueV9uYW1lIjoiWXV2YUludGVybiIsImh0aWRvY2lkIjoiUHg4bDBleHNzMkNNQlZYU0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNrMVhYMk5FVFRKamFFRlBUVE55VDNSU05WZzJlV0poU1VSNWFUaGxjMU5yV0dsRVFUaDFNSEpYVkZCQldrSkZkWE5uTTNOcU1XWlBPREZQWjJJMlExRk1WRzlXWVdSWFdXMUlNVEE0YlZGR2FVdG9NVWRZWmpkalVIbGlZa3N3YWpRMmVFcExiWG80WW5sUFZqTm9SaTF2V0cxNFNpMVdOalpJWWxCMlkwVTRVV1ZLYjBnU0YzVnpWRWxoZEVNdFRHSnBhbkYwYzFBd1lVeFZNa0ZyR2lKQlJITnlPV1pUWVdWdWRsQm1Va3RGTlV4MVF6aERVbU5hYzJKTlIzUldjVGRuIiwiZmN2IjoiMyIsImZjX2lkIjoiUHg4bDBleHNzMkNNQlZYU0FBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company_name": "ISSINDIA",
+      "location": "Mumbai, Maharashtra",
+      "via": "Workday",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=7kXLnTR8GSv2XPUfAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCMBSAYVx7BBffLCURwUWnQkEq1KUHKC8hNJE0r-S9Qt08gJs39CTW5Z--v3hvivI2p0AZahSEKmF8ssD39YEHGWCH2XqgBFeiIbrtxYtMfNaaOaqBBSVYZWnUlJyhRa8T_9Ozx-ymiOL64-mwqCkN-13Tdc29bioICdp5NBhKaHGVyF4y_gBToBChjwAAAA&shmds=v1_ARwrE21XnZ1Av2uAQrIXs612ujsHDJlaHsqh9XaItIaQVrnU_w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=7kXLnTR8GSv2XPUfAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://issgovernance.wd1.myworkdayjobs.com/en-US/ISScareers/job/Junior-Data-Analyst_JR_10252",
+      "job_title": "Junior Data Analyst",
+      "description": "About ISS Institutional Shareholder Services Inc. (ISS) is the world’s leading provider of corporate governance and responsible investment (RI) solutions for asset owners, asset managers, hedge funds, and asset service providers. ISS’ solutions include: objective governance research and recommendations; RI data, analytics, and research; end-to-end proxy voting and distribution solutions; turnkey securities class-action claims management; and reliable global governance data and modeling tools. Please visit www.issgovernance.com ISS has more than 30-year history of working with institutional investors globally makes it the most experienced governance advisor in the sector enabling the financial community to manage governance risk for the benefit of shareholders. ISS is headquartered in US and is a global leader in Corporate Governance and Responsible Investment solutions for Financial community. We are a global multinational company into Financial Services domain (with focus on Governance) with more than 2000+ employees spread across 33 offices in 13 countries. Mumbai is our core technology office (established in 2011) and we have 600+ employees and growing very fast. Please visit our careers site https://www.issgovernance.com/join-the-iss-team/ ISS Corporate Solutions (ICS) is a wholly owned subsidiary of Institutional Shareholder Services, provides corporate governance and executive compensation related database & analytical tools as well as various advisory services to enable corporate issuers to improve shareholder value and reduce risk through the adoption of improved corporate governance practices. ICS works with more than 1,300 clients located in N America, EMEA and Asia who leverage ISS Corporate Solutions’ resources, tools and advisory services to help them design, manage and measure their corporate governance programs in order to improve shareholder value and reduce risk. Junior Data Analyst Overview This position will be permanent based in Mumbai office and will become an integral part of the data operations team. The role entails helping deliver data and research in assigned market. Our team is composed of 4 pillars listed below, with global coverage. Core (Individual) - identify (master data) management, employment history Core (Company) - board of directors, shareholder rights, stock, audit finding Compensation - burn rate, dilution, say-on-pay and equity plan proposals Pay - actual pay and grants received by top executives Responsibilities Search for, collect and verify data (of basic and intermediate levels of complexity) for companies under his/her assigned market based on current collection methodologies and acceptable sources Attend to internal/client queries and requests to ensure data captured is aligned with data methodology and policy guidelines Comply with established work process standards to ensure quality of data collected Meet pre-determined turn-around goals for work assignments Escalate data interpretation issues, as needed Perform root-cause analysis if data issues are identified Update internal documents for performance metrics monitoring Participate in working committees/ projects and/or tasks aside from his/her core responsibilities Maintain appropriate paper and electronic files as required by ISS and client file retention policies Qualifications Post-Graduation in Finance and Economics. Knowledge and experience in using MS Office; Excellent English communication (both oral and written) and reading comprehension skills; Strong analytical and problem solving skills, with clear attention to detail; Ability to prioritize and work under tight deadlines; Fast learner, able to master new concepts, theories, ideas and processes with ease; Willingness to work beyond traditional working hours/days as required by the business; Experience in data collection and analysis, corporate governance and business research would be an advantage. What You Can Expect from Us Our people are the moving force behind our work. We are committed to building a culture that values diverse skills, perspectives, and experiences. If you have the skills, passion, and drive to help us bring clarity and transparency to capital markets, we want to work with you. Together, we can grow your career in an environment that fuels creativity, drives innovation, and has real impact. About ISS STOXX ISS STOXX delivers world-class research, data, and technology solutions that empower capital market participants to pursue their visions with confidence. Our expertise spans indices, corporate governance, sustainability, cyber risk, and fund intelligence, giving clients the tools they need to uncover opportunities, manage risks, and navigate evolving regulations. We are made up of 4,000 professionals operating across 20 countries and serving approximately 5,000 clients, including many of the world’s leading institutional investors. Our scale and reach give us deep market knowledge, while our innovative methodologies allow us to offer our clients tailored insights that drive impact and success. ISS STOXX Governance delivers comprehensive corporate governance research, analytics, and investor voting solutions supported by a global, high‑quality data set spanning diverse markets and topics. Our offerings equip investors with the depth and scale needed to meet evolving stewardship priorities. We provide flexible voting policy options, including fully customizable reports, backed by experienced research teams located worldwide, ensuring clients benefit from both global insight and local market expertise. Visit our website: https://www.iss-stoxx.com/ View additional open roles: https://www.iss-stoxx.com/about/careers/ ISS STOXX is an equal employment opportunity employer and does not discriminate against any employee or applicant because of race, color, ethnicity, creed, religion, sex, age, height, weight, citizenship status, national origin, social origin, sexual orientation, gender identity or gender expression, pregnancy status, marital status, familial status, mental or physical disability, veteran status, military service or status, genetic information, or any other characteristic protected by law (referred to as “protected status”). All activities including, but not limited to, recruiting and hiring, recruitment advertising, promotions, performance appraisals, training, job assignments, compensation, demotions, transfers, terminations (including layoffs), benefits, and other terms, conditions, and privileges of employment, are and will be administered on a non-discriminatory basis, consistent with all applicable federal, state, and local requirements. ISS STOXX delivers world-class research, data, and technology solutions that empower capital market participants to pursue their visions with confidence. Our expertise spans indices, corporate governance, sustainability, cyber risk, and fund intelligence, giving clients the tools they need to uncover opportunities, manage risks, and navigate evolving regulations. We are made up of 4,000 professionals operating across 20 countries and serving approximately 5,000 clients, including many of the world’s leading institutional investors. Our scale and reach give us deep market knowledge, while our innovative methodologies allow us to offer our clients tailored insights that drive impact and success.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://issgovernance.wd1.myworkdayjobs.com/en-US/ISScareers/job/Junior-Data-Analyst_JR_10252?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Platform.uplers.com",
+          "link": "https://platform.uplers.com/talent/opportunities/HR1175011832240899?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/junior-data-analyst/10707902?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/junior-data-analyst-inde-wild-mumbai-67440895?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/WpwSB1RvL_8cGyvAed3yORqUYJuvNlaGj7TDsdImcQkYQXkIi598Sg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010232143685&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Pharmanika",
+          "link": "https://pharmanika.com/cognizant-pharmacovigilance-junior-data-analyst-mumbai/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-data-insight-analyst-inde-wild--jobted-6053e3dfb3611e2d86c6d8cbbb1ca494?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiSVNTSU5ESUEiLCJodGlkb2NpZCI6IjdrWExuVFI4R1N2MlhQVWZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURGhEU1ZkelNVVTNjRFZPV0c1MExXeFVhRVYxTjBWTVdXeGpaV3BWYWpabmRXTklSelZKVW5od1ZYZG9jREZtYjBsVWNVUmpWMGQzVEhaMFlsQldZVXQ0Y20weFN6WXROazFKTWw4MldrMHpZVkpKZUdwMmJFUnRZVVZWUkZSdFQycExhRUp2VVVONlZESlBVSFpvYzBwV2VXdFRlRkZQTTB4S1Mxa3hjVjlPZFc1ek5VNFNGM1Z6VkVsaGRFTXRUR0pwYW5GMGMxQXdZVXhWTWtGckdpSkJSSE55T1daVFUxZGhWM0F5ZFZZNE1EYzJWRWxOYjFWM1JHWm5UM2h3WWxkUiIsImZjdiI6IjMiLCJmY19pZCI6IjdrWExuVFI4R1N2MlhQVWZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company_name": "Institutional Shareholder Services",
+      "location": "Mumbai, Maharashtra",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Data+Analyst&htidocid=XUN1r6jSX512UolTAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TrLaWkBPBQq2EgCikygPC5lxyJ5fbcLuR2PkH_-DDfIlJM9UMk31XWX4bo-cEJSrCOWJ4icLv_YEHtyCEyTrgCBfmLtD65FQHORojEopOFNXbwnJvOFLLk5kjWdCIw0RDQKVmt99OxRC7zeEaRb2O6nn-QL0ojsOdEtSUnt6SgI9QjX2LPocKZwHFacI_JV9UOqkAAAA&shmds=v1_ARwrE20CyoJP4vKajmZFJmbBg3rMYh7dmlhNBONPzJ6ZGRt5Gg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Data+Analyst&htidocid=XUN1r6jSX512UolTAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAAAQYHAwX_xAAmEAAABgEDAwUBAAAAAAAAAAAAAQIDBBEFEiExE0FRBhQiMkKB_8QAFAEBAAAAAAAAAAAAAAAAAAAAAP_EABQRAQAAAAAAAAAAAAAAAAAAAAD_2gAMAwEAAhEDEQA_ANxAAAAAAAAAAAAARZeRN9hlM0kNply3lsyFsZOdoxslKzTJI1l9K_ZVRbHyPaxS22fWZaG25rktxa1KNKuvj_huhR8aOxcc9wF8vegGfJbJPqmWxFklIekuPOHNZQfuINF9FaiNJoOtJbd_6OLGUyreLxr07MzGUS4CpPX6KDM36TpaL4ccnXJ-QGjgZ0VmKPiMzPfnMlkpjzEZRo6iukRJTINq1s6q2SR735-N7Dtg8jKmR5qJ0x5xXs1nGS40SOu1qURPHt9jLTZdtjr5ALkAqfpdORJMX2NpxdHZSSVej86L3uqv8_2wAWui8CQAAAAARReAovAkAAAAAAAAAAAAAAAAAAf_2Q.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=09778a02f8927b43",
+      "job_title": "Junior Data Analyst",
+      "description": "About ISS\n\n\n Institutional Shareholder Services Inc. (ISS) is the world’s leading provider of corporate governance and responsible investment (RI) solutions for asset owners, asset managers, hedge funds, and asset service providers. ISS’ solutions include: objective governance research and recommendations; RI data, analytics, and research; end-to-end proxy voting and distribution solutions; turnkey securities class-action claims management; and reliable global governance data and modeling tools.\n\n\n Please visit www.issgovernance.com\n\n\n ISS has more than 30-year history of working with institutional investors globally makes it the most experienced governance advisor in the sector enabling the financial community to manage governance risk for the benefit of shareholders.\n\n\n \n\n\n ISS is headquartered in US and is a global leader in Corporate Governance and Responsible Investment solutions for Financial community. We are a global multinational company into Financial Services domain (with focus on Governance) with more than 2000+ employees spread across 33 offices in 13 countries. Mumbai is our core technology office (established in 2011) and we have 600+ employees and growing very fast. Please visit our careers site https://www.issgovernance.com/join-the-iss-team/\n\n\n \n\n\n ISS Corporate Solutions (ICS) is a wholly owned subsidiary of Institutional Shareholder Services, provides corporate governance and executive compensation related database & analytical tools as well as various advisory services to enable corporate issuers to improve shareholder value and reduce risk through the adoption of improved corporate governance practices. ICS works with more than 1,300 clients located in N America, EMEA and Asia who leverage ISS Corporate Solutions’ resources, tools and advisory services to help them design, manage and measure their corporate governance programs in order to improve shareholder value and reduce risk.\n\n\n \n\n\n  Junior Data Analyst\n\n\n \n\n\n  Overview \n\n\n This position will be permanent based in Mumbai office and will become an integral part of the data operations team. The role entails helping deliver data and research in assigned market. Our team is composed of 4 pillars listed below, with global coverage.\n\n\n \n  Core (Individual) - identify (master data) management, employment history\n  Core (Company) - board of directors, shareholder rights, stock, audit finding\n  Compensation - burn rate, dilution, say-on-pay and equity plan proposals\n  Pay - actual pay and grants received by top executives\n \n \n\n\n  Responsibilities\n\n\n \n  Search for, collect and verify data (of basic and intermediate levels of complexity) for companies under his/her assigned market based on current collection methodologies and acceptable sources\n  Attend to internal/client queries and requests to ensure data captured is aligned with data methodology and policy guidelines\n  Comply with established work process standards to ensure quality of data collected\n  Meet pre-determined turn-around goals for work assignments\n  Escalate data interpretation issues, as needed\n  Perform root-cause analysis if data issues are identified\n  Update internal documents for performance metrics monitoring\n  Participate in working committees/ projects and/or tasks aside from his/her core responsibilities\n  Maintain appropriate paper and electronic files as required by ISS and client file retention policies\n \n \n\n\n  Qualifications\n\n\n \n  Post-Graduation in Finance and Economics.\n  Knowledge and experience in using MS Office;\n  Excellent English communication (both oral and written) and reading comprehension skills;\n  Strong analytical and problem solving skills, with clear attention to detail;\n  Ability to prioritize and work under tight deadlines;\n  Fast learner, able to master new concepts, theories, ideas and processes with ease;\n  Willingness to work beyond traditional working hours/days as required by the business;\n  Experience in data collection and analysis, corporate governance and business research would be an advantage.\n \n \n\n    What You Can Expect from Us\n\n\n Our people are the moving force behind our work. We are committed to building a culture that values diverse skills, perspectives, and experiences. If you have the skills, passion, and drive to help us bring clarity and transparency to capital markets, we want to work with you.\n\n\n \n\n   Together, we can grow your career in an environment that fuels creativity, drives innovation, and has real impact.\n\n\n \n\n    About ISS STOXX\n\n\n ISS STOXX delivers world-class research, data, and technology solutions that empower capital market participants to pursue their visions with confidence. Our expertise spans indices, corporate governance, sustainability, cyber risk, and fund intelligence, giving clients the tools they need to uncover opportunities, manage risks, and navigate evolving regulations. We are made up of 4,000 professionals operating across 20 countries and serving approximately 5,000 clients, including many of the world’s leading institutional investors. Our scale and reach give us deep market knowledge, while our innovative methodologies allow us to offer our clients tailored insights that drive impact and success.\n\n\n \n\n    ISS STOXX Governance delivers comprehensive corporate governance research, analytics, and investor voting solutions supported by a global, high‑quality data set spanning diverse markets and topics. Our offerings equip investors with the depth and scale needed to meet evolving stewardship priorities. We provide flexible voting policy options, including fully customizable reports, backed by experienced research teams located worldwide, ensuring clients benefit from both global insight and local market expertise.\n\n\n \n\n   Visit our website: https://www.iss-stoxx.com/\n\n\n View additional open roles: https://www.iss-stoxx.com/about/careers/\n\n\n\n \n\n ISS STOXX is an equal employment opportunity employer and does not discriminate against any employee or applicant because of race, color, ethnicity, creed, religion, sex, age, height, weight, citizenship status, national origin, social origin, sexual orientation, gender identity or gender expression, pregnancy status, marital status, familial status, mental or physical disability, veteran status, military service or status, genetic information, or any other characteristic protected by law (referred to as “protected status”). All activities including, but not limited to, recruiting and hiring, recruitment advertising, promotions, performance appraisals, training, job assignments, compensation, demotions, transfers, terminations (including layoffs), benefits, and other terms, conditions, and privileges of employment, are and will be administered on a non-discriminatory basis, consistent with all applicable federal, state, and local requirements.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=09778a02f8927b43&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiSW5zdGl0dXRpb25hbCBTaGFyZWhvbGRlciBTZXJ2aWNlcyIsImh0aWRvY2lkIjoiWFVOMXI2alNYNTEyVW9sVEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNuVktYelJvT0V4Q1pIVnZRVkJDWmkxYWMzWm1aMUJJV0ZFNGFGcFZORzA0VkdSMmNWTjFNMUpoT1hwamIwbEdSUzF6V1hWWFZEaG5jamxqYzE5c2FsTTVjVTVmVm1KbWNTMUNPRE0yUWtkU04yeFlRVkpsVkdoc1ZYUmxWVUptWVhoVE9GQlBielZ3UWxGeFdYQTNTMnhtU1ZwMlVrRjFhV2N3V0V0NlUxVnZPWFJ5ZEZjU0YzVnpWRWxoZEVNdFRHSnBhbkYwYzFBd1lVeFZNa0ZyR2lKQlJITnlPV1pVUjNaVk1rUnlhSE5QUzFscWJFNDRXVVZSTldRM1IyOWxNamQzIiwiZmN2IjoiMyIsImZjX2lkIjoiWFVOMXI2alNYNTEyVW9sVEFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTV0ZFYlhOSGNuZHpaVjg1T1d4d1dVTmxTa3RUZDFkQmQyaEpkMDAwVjJFeGRsRm1VVkZSTFdaMk1HNWhiSGt6ZDJsRmNEQkZiRUp0YkRkbVZsZEtSM0kyTFdGaGFubElObmwwVkdwWllVTlNUVEJGVkhoRGF6TjNaREo0VkhsaVFuUkpOMFJMWDBaRGIxSTVZWHBwVlZwWGRtUXlRVlIwVEVJMk5rVlJORkp5TFZCTWFUTkVUR05QVUhseWFtazFNa1IxU2poeWRGVjRSVTVJWDNWdlJtaGxUbDlJZFRNMWVucFVkbGhFZG10UWJraEdTRlV5WW01TVJVeFJWMU5yVUhSZmIyOWlUbWRoTTNka1dXZFZPVkIxUzJWc1pIZHBiSFoxVG5sdmIwazJWa3RUYlV0UlEyTXhRekpZZEdrd2RtaGxWMFoxYlZGQ1dYVk9kWFpPTlhBeVExRnNXWGhaWVRaQlQzSjRhV3hhU25oV1NVc3pUVGhJWDFadFVrVXpZa2RZYVhwT01ucGlNMFJGYjNOVVRFOTRRbTE2TFdkbk5reG5VakZHZW5kblMzRkJRVmdTRjNWelZFbGhkRU10VEdKcGFuRjBjMUF3WVV4Vk1rRnJHaUpCUkhOeU9XWlVWRTlVV25BMFNHWktPV0ZGT0VGSGJtdEpiVTVITmpscE1IcEIiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTV0ZFYlhOSGNuZHpaVjg1T1d4d1dVTmxTa3RUZDFkQmQyaEpkMDAwVjJFeGRsRm1VVkZSTFdaMk1HNWhiSGt6ZDJsRmNEQkZiRUp0YkRkbVZsZEtSM0kyTFdGaGFubElObmwwVkdwWllVTlNUVEJGVkhoRGF6TjNaREo0VkhsaVFuUkpOMFJMWDBaRGIxSTVZWHBwVlZwWGRtUXlRVlIwVEVJMk5rVlJORkp5TFZCTWFUTkVUR05QVUhseWFtazFNa1IxU2poeWRGVjRSVTVJWDNWdlJtaGxUbDlJZFRNMWVucFVkbGhFZG10UWJraEdTRlV5WW01TVJVeFJWMU5yVUhSZmIyOWlUbWRoTTNka1dXZFZPVkIxUzJWc1pIZHBiSFoxVG5sdmIwazJWa3RUYlV0UlEyTXhRekpZZEdrd2RtaGxWMFoxYlZGQ1dYVk9kWFpPTlhBeVExRnNXWGhaWVRaQlQzSjRhV3hhU25oV1NVc3pUVGhJWDFadFVrVXpZa2RZYVhwT01ucGlNMFJGYjNOVVRFOTRRbTE2TFdkbk5reG5VakZHZW5kblMzRkJRVmdTRjNWelZFbGhkRU10VEdKcGFuRjBjMUF3WVV4Vk1rRnJHaUpCUkhOeU9XWlVWRTlVV25BMFNHWktPV0ZGT0VGSGJtdEpiVTVITmpscE1IcEIiLCJmY3YiOiIzIn0%3D&q=Junior+Data+Analyst"
+  },
+  "_retrieved_at": "2026-10-09 10:40:57 UTC"
+}

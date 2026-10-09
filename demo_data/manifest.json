@@ -1,0 +1,74 @@
+[
+  {
+    "id": "frontend-developer-bengaluru",
+    "role": "Frontend Developer",
+    "city": "Bengaluru",
+    "resume": "HTML, CSS, JavaScript",
+    "pages": 3,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
+  },
+  {
+    "id": "data-analyst-noida",
+    "role": "Data Analyst",
+    "city": "Noida",
+    "resume": "Excel, basic Python",
+    "pages": 3,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
+  },
+  {
+    "id": "data-analyst-hyderabad",
+    "role": "Data Analyst",
+    "city": "Hyderabad",
+    "resume": "Excel, basic Python",
+    "pages": 1,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
+  },
+  {
+    "id": "data-analyst-pune",
+    "role": "Data Analyst",
+    "city": "Pune",
+    "resume": "Excel, basic Python",
+    "pages": 1,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
+  },
+  {
+    "id": "data-analyst-jaipur",
+    "role": "Data Analyst",
+    "city": "Jaipur",
+    "resume": "Excel, basic Python",
+    "pages": 1,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
+  },
+  {
+    "id": "data-analyst-indore",
+    "role": "Data Analyst",
+    "city": "Indore",
+    "resume": "Excel, basic Python",
+    "pages": 1,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
+  },
+  {
+    "id": "accountant-jaipur",
+    "role": "Accountant",
+    "city": "Jaipur",
+    "resume": "Excel, Accounting",
+    "pages": 1,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
+  },
+  {
+    "id": "digital-marketing-executive-dehradun",
+    "role": "Digital Marketing Executive",
+    "city": "Dehradun",
+    "resume": "Canva, Social Media Marketing",
+    "pages": 1,
+    "query_scope": "base only",
+    "low_data_case": true
+  }
+]

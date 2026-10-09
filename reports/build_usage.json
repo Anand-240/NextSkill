@@ -6,6 +6,160 @@
       "engine": "youtube",
       "query": "Git full course for beginners",
       "location": null
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Hyderabad, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Data Analyst fresher",
+      "location": "Hyderabad, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Junior Data Analyst",
+      "location": "Hyderabad, India"
+    },
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "Statistics full course for beginners",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Pune, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Data Analyst fresher",
+      "location": "Pune, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Junior Data Analyst",
+      "location": "Pune, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Jaipur, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Data Analyst fresher",
+      "location": "Jaipur, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Junior Data Analyst",
+      "location": "Jaipur, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Indore, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Data Analyst fresher",
+      "location": "Indore, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Junior Data Analyst",
+      "location": "Indore, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Jaipur, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Accountant fresher",
+      "location": "Jaipur, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Junior Accountant",
+      "location": "Jaipur, India"
+    },
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "Bookkeeping full course for beginners",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "Tally full course for beginners",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "GST full course for beginners",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Digital Marketing Executive",
+      "location": "Dehradun, India"
+    },
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "Google Ads full course for beginners",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "SEO full course for beginners",
+      "location": null
     }
   ],
   "accounts": [

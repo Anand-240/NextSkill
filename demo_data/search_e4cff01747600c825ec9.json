@@ -1,0 +1,273 @@
+{
+  "search_metadata": {
+    "id": "6ac8c4bf7a3b052616266482",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aodpsPNmVjY3Q9C7wdsHDPa_hqsn2OTeFAVahqJhcDs/6ac8c4bf7a3b052616266482.json",
+    "markdown_endpoint": "https://serpapi.com/searches/aodpsPNmVjY3Q9C7wdsHDPa_hqsn2OTeFAVahqJhcDs/6ac8c4bf7a3b052616266482.md",
+    "created_at": "2026-10-09 10:41:03 UTC",
+    "processed_at": "2026-10-09 10:41:03 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst+fresher&uule=w+CAIQICIWSmFpcHVyLFJhamFzdGhhbixJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/aodpsPNmVjY3Q9C7wdsHDPa_hqsn2OTeFAVahqJhcDs/6ac8c4bf7a3b052616266482.html",
+    "total_time_taken": 2.79
+  },
+  "search_parameters": {
+    "q": "Data Analyst fresher",
+    "engine": "google_jobs",
+    "location_requested": "Jaipur, India",
+    "location_used": "Jaipur,Rajasthan,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw",
+        "q": "Data Analyst fresher remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQxKsJKAB6BAgaEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHfOjuRCfV2iX3EB0hrETeCWCuxXNpRt0SxvcqstNGteTkgqqHiZ_P9otrhQZjXzv_9oOv5tbonhrGny8exV3EcsFCO4TAYQ_j2ND2f8w0jVimHOrHXd4YEWwCS2PFNRIRlWx1d15Xq7cKw0GGPnVnAmslGw"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0",
+            "q": "Data Analyst fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIFxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw",
+            "q": "Data Analyst fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIFxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8",
+            "q": "Data Analyst fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIFxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A",
+            "q": "Data Analyst fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIFxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0",
+            "q": "Data Analyst fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIFxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxze5o2QXx9r57EPryt8L340j5_a91hACf5wagPVwmOVXlx6B9xACvC8j1sq1TEGk4-gUQkFCKB0BtLo_Z2R3p4H1tRKn3uEKb6bC7RTsG8B01_gAOkxt_GzpEokSLAN6Nvz_B2PU-rPdwOGnEPmJ7Ft0lWtipnQi0JxzDGRG_89G3wfMDzY00IvVCno4H45daVEp_Q9eL_dp0i1yIBvrigZNOkKFp1pf0I39-pV-_8vEJoKOo0aPphyGaIHqrjwN5f52BxvVoqv0xye5LK8-YdyhyY-482e_Eo6r1HbkKx1THZo-TtuajgI85vFuwbYgnXgZynyL0"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw",
+            "q": "Data Analyst fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIFxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejaaaEu_HqFcN4SN0oFB-GblgSWd85i4eOGdO8slaRrUKHTWeEt0rH1O5FL3G3o6wXKHJJpO9Olz0rvqO8SuM6lzzYoY-1Jg0MT11jkoY6cMsTaMQHXnI9fIgA_VISauQzUZP3zWWWhzRnzlTnwfszPV3DnmBBDxVhk5Mnckvjcoqcv-e6ic10b7lPaM336ERhmHcFCX2kghKXUf08-8CgXYYkZdnwmpWyI2IdK9LepHAzkr0DOwLiFW0K1o2EEvmJ2bVoPnQgctwCP3TEEJnxaA-u-eF9TGIQk2KUzQoZbH45ncVW5j63hqClkjcvj1tnLvK8dw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8",
+            "q": "Data Analyst fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIFxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJExhcb-5No6XTFtkT9u0wBO99Juu7kRDshYJTHcSPq0mmfyim8ZChrn-lopM0GfU-G9Iw3ZGpA2YbWvSbZxVaDkP5qvp7PXJmj4crr3gxQeqffw12BggmzI1wqvpM_isTWkQe4THbg9HtLYuwYx07XyngdteWXV7gtWPHriWXV3suiMpJV4ZkNuCZsj1VBSAy_RWqxCWJdiQWUKQ-mj13Br0NVTw3HWKFfL1rPThOaTfmA0-teRO94lCupPaA5C9F9WOpcPwfSZcpAF8FkFcWiTJ_7Ebj4s6YkK1rFzignmFNHs_HLDtEMx8-uZvE9pH89Z_lD8"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A",
+            "q": "Data Analyst fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIFxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVm54FxM2x5B2SD1_0sC3mxtbSrAUi4IUzpxlRxobWC2qiZAQ0h99TzRnI4ZG4jAEQ4D7GRYPDyF62myvbhr2xshFagWWtMI3OvZPxIe5iiI6kYt4kOuPhzRYQ9tWRtDQHdb9BCGtBhvr5SH0sBJDfwcAtyH7a85UFD5xHPewbvn4NTjrdqEK2tRyivw2pPzC6lxu4B3IDx1pYC4s2Nn3-QfREyp5DhjIyKmZoYB7vpciEi3W6mDIp2CsQsfk-XgDjdh7Z7Ogqz7ajBAgvPy966KkaX7vIJAAHD2TEp6kLhdBXGVsfYLjWUEA3jsjcEnSxiWpPclfBiZwjd1Xcf5SGiC799A"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A",
+            "q": "Data Analyst fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIGBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ",
+            "q": "Data Analyst fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIGBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA",
+            "q": "Data Analyst fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIGBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg",
+            "q": "Data Analyst fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIGBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A",
+            "q": "Data Analyst fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIGBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2eK7pBdo2FI8DXBMeqUG-tFM9bRBNEbUHYVQ3oJXkytofIze9_w5p0oWAgg4WV6DHwYk5WHgiBQJFSQqvIrnRrVMKT-agN5WSwAaVJSOedIlElnDmlEaqww62Jf3OW7dOMV0BIgy9nJAIU7m62IP61VmNDQvZH38iZvwG2x3_Nm21mFS4D0UnxEimPEzCs1R-Xm-2Bbk0nYHVJBdmrrl0Ca7xFoTrmVM0TTtjn_48nzGgqdWF-ixjuW6N_4PtfYVcW_u2AldI-zvEkepdOmvWAYgmsW1A"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ",
+            "q": "Data Analyst fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIGBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw7nzmkNw51RuTXWbnegSX2fGIdl9sLM_vd9uDbL4CzaV0ZmDLoXDhwGAOj_MGT7CuqnLDr1RXkmFeN4hExX85zX6UpGUjZI4BlHzI4qd9dWJRiMLq_cDgHIMIk1X0l5o1S3JZKh1wuTXOIuK3mE11PVOREItBwoM9x0m9QThqIEi1cCRICatyNdhC7LZaNU0s4qyf3PoAZS6dUICeI3ZpjGDiV17PgmnG9o9r9G4DalWSNkSPZjOHf9sdWu0M3yZu8DoqWlss9SdO-XZx9_AOwVhCJvR11Pn0UqG2FCM6ej6SwDfnQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA",
+            "q": "Data Analyst fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIGBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_2G_lwg9QiIaaFZMOWRYzwZsejvaaZvllouJaUo3zQ_epvwC8v4Y34u3t95xgkHYoG1cxqRTaUUbc3W1Y4C11mS5Z2l26UBgSonYPVztxyK00Kok9VoBo_8N78HLK7iwHpybNrh8uGFOMieQuEA-EpaOl8BT1ZL2JH_NW8oemGqMEMAhN7mIdVONCbEBrpl3aDDozX0fHZP484p7azkN-5tKBjqM_t2xTQww6WFCT6-1eQe_ZQbAU32HuQc_j6NEArETvZX4CSF9ULhx8Azs4f7Ukm7d-4yMBaQTbAZ82j7XrCd_nA"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg",
+            "q": "Data Analyst fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=d9398fac238fd9c6&hl=en&gl=in&sxsrf=APpeQnvuG7RIHMOK3pBaFYP8njGwZT6z_g:1791542464847&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg&udm=8&sa=X&ved=2ahUKEwj8h97h36yXAxXf8AIHHR5vDmUQkbEKegQIGBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&q=Data+Analyst+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07-wJ4XjrXCOux-sDiLrbYbqa9t4YpEd_8VZFqjKVT9XSFxkO9VatyTl0Bckb6Y6r3HWD-yYw27ioomg3o56nN8DQsPQPiorhu0vzjEiwzRGik2XbIy52H8ZIf6wsH2GpWsn32xXOa9jUB99bDXM-A5gZMKSpAD6Gj1Xx-fUL4EepZp5dzGeD8XQyyPm8WPgfKXFeKJ217suajZ3ahbZBM_jP5ezzHWI6AxLqeAUl_PKr0lf-AuoTS0qlmkWTdJihyOl7L7gd5Sl2CVoNgRvEhxpOVEhBKCGXZY_pB2fXoTlFfYtwg"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Reference Data Analyst Job at Deutsche Bank Jaipur | Freshers",
+      "company_name": "Deutsche Bank",
+      "location": "Jaipur, Rajasthan",
+      "via": "Talentd",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=QbBVGXWqXCvVGaAVAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_1WNMQrCQBAAsc0TrBZLkZwINlopQSFlCtuwOdZcYtw7bjcQwcI_-Bq_40uMYGMz1QyTvCbJqaAzRWJLkKEi7Bi7myjkvgJUyKhXsY5gj3yBHJvQR7jDIZI4igLvxxPaURXCaB14hqP3dUfTrVMNsjFGpEtrUdTGptZfjWeq_GDGSL4oxWGk0KFSuVovhzRwPZ_9bxv-nRdQYIuiDvkDpknxubwAAAA&shmds=v1_ARwrE20_lfxXOcZe0pCgnw7urDX3JM-7bcefHuzyAgFNgjTZBg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=QbBVGXWqXCvVGaAVAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4bf7a3b052616266482/images/hD6Ing4AHverdyZZ9lPsNhLnP3q1Xm4anyrfnfcfylY.jpeg",
+      "extensions": [
+        "17 days ago",
+        "₹4L–₹6L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.talentd.in/jobs/reference-data-analyst-job-at-deutsche-bank-jaipur-freshers",
+      "job_title": "Reference Data Analyst Job at Deutsche Bank Jaipur | Freshers",
+      "description": "Job DescriptionJob Title: Reference Data AnalystLocation: Jaipur, IndiaRole DescriptionReference Data Analyst in SSI Ops within IB CPO – Individual is[…]",
+      "apply_options": [
+        {
+          "title": "Talentd",
+          "link": "https://www.talentd.in/jobs/reference-data-analyst-job-at-deutsche-bank-jaipur-freshers?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZWZlcmVuY2UgRGF0YSBBbmFseXN0IEpvYiBhdCBEZXV0c2NoZSBCYW5rIEphaXB1ciB8IEZyZXNoZXJzIiwiY29tcGFueV9uYW1lIjoiRGV1dHNjaGUgQmFuayIsImh0aWRvY2lkIjoiUWJCVkdYV3FYQ3ZWR2FBVkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFREQlRNV1kwU0dOT2JIQXdhbTlPVm5OcVVUbFBZVTVWYWs1TmNGTktValp5UXpaU2FYTXhaRGhDY1dOR1ZIQjViR3BOYlc1dk1rd3hVbEJrUW5GelZuZFBWMXBYUWt4dlNWbDZhelJRZEdwRkxWSlJjRTQyWlVkQ1MxRmFNRU5NTkc1WWRtSm1SRTlZVFVWMVJGaEhkSEExY20xbFlsVnJUMkptVkhCWVNtOUtWa1poYlhZU0YzZE5WRWxoZG5sdVRUbGZhR2t0WjFCdWREWTFjVUZaR2lKQlJITnlPV1pUVmt4MVluUm5jbEUwV25kNldHMXVWblY0VFZGa2FHeHZibVZSIiwiZmN2IjoiMyIsImZjX2lkIjoiUWJCVkdYV3FYQ3ZWR2FBVkFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst at Toolyt",
+      "company_name": "Toolyt",
+      "location": "Jaipur, Rajasthan",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=IRrl-QHDmOrqk5bAAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3MMQoCMRBGYWz3CNpMLZKIYKOVIAiWYr_8G0KSJWbCzgi7nb2lN_QkKti87nvNc9bYIxR0KMiTKEHpypwnpffjRT13JB6Di8SFTswh-_k-qlbZWSuSTRCFJmcc3ywX3_Fov0h-aSVi8DVDfbvZrkdTS1gu_vdU6IxU78OKLughGlE-G_WvoY4AAAA&shmds=v1_ARwrE22Pl_I-D64zwv8oHOB449097jEW9rhEGvFZM6JPW-izRw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=IRrl-QHDmOrqk5bAAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8c4bf7a3b052616266482/images/15A7FSYngyLJ-Foc0O5VSjRNw1g0cDjEg-7gIMiKk7A.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/data-analyst-at-toolyt/toolyt/19509990",
+      "job_title": "Data Analyst at Toolyt",
+      "description": "Data Analyst at Toolyt LocationJaipur, IndiaSalary35000 - 45000 /monthJob TypeFull-timeDate PostedDecember 13th, 2023Apply NowWe are looking for a passionate certified Data Analyst. The successful candidate will turn data into information, information into insight and insight into business decisions.Data analyst responsibilities include conducting full lifecycle analysis to include requirements, activities and design. Data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans to identify improvements.ResponsibilitiesInterpret data, analyze results using statistical techniques and provide ongoing reportsDevelop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and qualityAcquire data from primary or secondary data sources and maintain databases/data systemsIdentify, analyze, and interpret trends or patterns in complex data setsFilter and clean data by reviewing computer reports, printouts, and performance indicators to locate and correct code problemsWork with management to prioritize business and information needsLocate and define new process improvement opportunitiesRequirementsProven working experience as a data analystBachelors degree in Computer science, Maths or statisticsAnalyze and organize raw dataBuild data systems and pipelinesEvaluate business needs and objectivesInterpret trends and patternsConduct complex data analysis and report on resultsHands on experience with SQL database design (advanced) .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst-at-toolyt/toolyt/19509990?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/toolyt-data-analyst-at-toolyt-jaipur-rajasthan-india-0-to-2-years-373674?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgYXQgVG9vbHl0IiwiY29tcGFueV9uYW1lIjoiVG9vbHl0IiwiaHRpZG9jaWQiOiJJUnJsLVFIRG1PcnFrNWJBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU21GNVV6TkJPRzVhTUMxT1VIcHVYMHBoTmpGemRqa3pTbTFZUTI5dU1tUmZUWGgwYm14Q1pWUjZUMU0zUjFGTVZsRlZTMVpoV25sc1RFY3dUMU5UTld0SllXaHRkVEJwV0RScWNtcFdYM2h6TVVGcmFrSldWR3RvY1ZkTU1tVmZVakJQUTFJMlNEZ3ROa3B3VHpSb1JqbGpOVTlTY0ZGU1JuWkhYMTlzUzB3MVIwNWplVlFTRjNkTlZFbGhkbmx1VFRsZmFHa3RaMUJ1ZERZMWNVRlpHaUpCUkhOeU9XWlJlRFE0YUd4cGJHRlpjbm8zYmpRNVZFWXlVVUV3Vms1bE1HaG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJJUnJsLVFIRG1PcnFrNWJBQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Equity Analysis Internship in Jaipur at Modani Financial Services",
+      "company_name": "Anita Finacial Service",
+      "location": "Jaipur, Rajasthan",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+fresher&htidocid=Q7zrvux6CEHZTxHjAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_02Ouw5BQRBAo_UJqqmRuyLRUCkQEg2dRsba3J2bNbt25srV-Qf_5EN8iUdDc7qTc9qPVns3O9ekV5gyhquQwJLVZRZPCYhhhZTqDKiwjkdkgjkxsiUMsHX5QtYJPG93qOIBxGG2HiLDIsYyuM7EqyYZGyMSilIUlWxh48lEdofYmLckH-zFY3YpoLr9cDRoisRltzdlUvz2_nO_qT5ssEJRj_wC7_GwnMkAAAA&shmds=v1_ARwrE22zOkS8mPKaHSe4EsxhjLO3FVr7KK4jWonsG6SiYtUvxQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+fresher&htidocid=Q7zrvux6CEHZTxHjAAAAAA%3D%3D",
+      "extensions": [
+        "₹1L–₹50L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/anita-finacial-service-equity-analysis-internship-in-jaipur-at-modani-financial-services-jaipur-0-to-1-years-10226",
+      "job_title": "Equity Analysis Internship in Jaipur at Modani Financial Services",
+      "description": "About Modani Financial ServicesWe provide financial services with the objective of meeting all the requirements of our clients efficiently. With our in-depth analysis and expertise, we fulfill and achieve goals and requirements. We provide capital market solutions, wealth management, project financing, insurance, taxation, and accounting services from advisory to execution-everything is served under one roof.Activity on InternshalaHiring since February 202116 opportunities posted10 candidates hiredAbout The InternshipSelected intern's day-to-day responsibilities include: Perform market analysis and in-depth research on the equity and debt market Work on the analysis of stocks on various parameters Conduct business studies on past, future, and comparative performance of equity markets Work on client's portfolio & their tax planningSkill(s) requiredMS-Excel MS-Office MS-PowerPointLearn these skills on Internshala TrainingsLearn MS-ExcelWho can applyOnly Those Candidates Can Apply Who are available for full time (in-office) internship can start the internship between 14th Jun'22 and 19th Jul'22 are available for duration of 3 months are from or open to relocate to Jaipur have relevant skills and interestsPerksCertificate Letter of recommendation 5 days a weekNumber of openings3",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/anita-finacial-service-equity-analysis-internship-in-jaipur-at-modani-financial-services-jaipur-0-to-1-years-10226?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFcXVpdHkgQW5hbHlzaXMgSW50ZXJuc2hpcCBpbiBKYWlwdXIgYXQgTW9kYW5pIEZpbmFuY2lhbCBTZXJ2aWNlcyIsImNvbXBhbnlfbmFtZSI6IkFuaXRhIEZpbmFjaWFsIFNlcnZpY2UiLCJodGlkb2NpZCI6IlE3enJ2dXg2Q0VIWlR4SGpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXU21GcGNIVnlMRkpoYW1GemRHaGhiaXhKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbEpDTWtVdFVtUjRNSGxxVEY5UGJEZE1lazV4V1ZsWE1GWTRkalpQWTNadVgydDBSV0ZSVmtGVGVqZHVkMjF2T1RCcGFGVTNTM1IyYWtnNWVrRjVWMEptYVVGeWJGRXdjMVV6YWxZd2NqUmlSRmh6TFhsc2NVeHJXbFZIYWpaRFVFMHljVmw2YXpkcFYzSkxiR1Z5VjJ3MlprMXpUa2g0TTNad1UzRlJWV1E1VlZwd1VEVVNGM2ROVkVsaGRubHVUVGxmYUdrdFoxQnVkRFkxY1VGWkdpSkJSSE55T1daU1ozQlpjbWt5Vm1GcVExRmFWRzQyUVV0RFpqWmFRVjl4U0dwMyIsImZjdiI6IjMiLCJmY19pZCI6IlE3enJ2dXg2Q0VIWlR4SGpBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUREJUTVdZMFNHTk9iSEF3YW05T1ZuTnFVVGxQWVU1VmFrNU5jRk5LVWpaeVF6WlNhWE14WkRoQ2NXTkdWSEI1YkdwTmJXNXZNa3d4VWxCa1FuRnpWbmRQVjFwWFFreHZTVmw2YXpSUWRHcEZMVkpSY0U0MlpVZENTMUZhTUVOTU5HNVlkbUptUkU5WVRVVjFSRmhIZEhBMWNtMWxZbFZyVDJKbVZIQllTbTlLVmtaaGJYWVNGM2ROVkVsaGRubHVUVGxmYUdrdFoxQnVkRFkxY1VGWkdpSkJSSE55T1daVFZreDFZblJuY2xFMFduZDZXRzF1Vm5WNFRWRmthR3h2Ym1WUiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&next_page_token=eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUREJUTVdZMFNHTk9iSEF3YW05T1ZuTnFVVGxQWVU1VmFrNU5jRk5LVWpaeVF6WlNhWE14WkRoQ2NXTkdWSEI1YkdwTmJXNXZNa3d4VWxCa1FuRnpWbmRQVjFwWFFreHZTVmw2YXpSUWRHcEZMVkpSY0U0MlpVZENTMUZhTUVOTU5HNVlkbUptUkU5WVRVVjFSRmhIZEhBMWNtMWxZbFZyVDJKbVZIQllTbTlLVmtaaGJYWVNGM2ROVkVsaGRubHVUVGxmYUdrdFoxQnVkRFkxY1VGWkdpSkJSSE55T1daVFZreDFZblJuY2xFMFduZDZXRzF1Vm5WNFRWRmthR3h2Ym1WUiIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst+fresher"
+  },
+  "_retrieved_at": "2026-10-09 10:41:03 UTC"
+}

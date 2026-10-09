@@ -6,7 +6,8 @@ ROOT=Path(__file__).resolve().parents[1]
 def render(data):
     rows=data['after']
     table='| Role / city | Eligible | Scored | Matches | Must-haves met among matches | Fastest win | Biggest unlock | Confidence |\n|---|---:|---:|---:|---:|---|---|---|\n'
-    for city,r in rows.items():
+    for pair_id,r in data.get('pairs', rows).items():
+        city=r.get('city',pair_id)
         table+=f"| {r['role']} / {city} | {r['eligible']} | {r['scored']} | {r['matches']} | {r['must_haves_met']} | {r['fastest_win'] or 'Unavailable'} | {r['biggest_unlock'] or 'Unavailable'} | {r['confidence']} |\n"
     f=rows['Bengaluru'];n=rows['Noida'];top=next(x for x in f['ranked'] if x['skill']==f['fastest_win'])
     findings=f"Bengaluru: {f['matches']} of {f['scored']} scored listings match; {top['skill']} adds {top['unlocked']} at {top['hours']:.2f} course hours. Confidence: {f['confidence']}.\n\nNoida: {n['matches']} of {n['scored']} scored listings match; fastest win {n['fastest_win']}, biggest unlock {n['biggest_unlock']}. Confidence: {n['confidence']}.\n\n"

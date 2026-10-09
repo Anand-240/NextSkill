@@ -3,6 +3,7 @@
   "after": {
     "Bengaluru": {
       "role": "Frontend Developer",
+      "city": "Bengaluru",
       "threshold": 0.5,
       "core_share": 0.25,
       "retrieved_dates": [
@@ -251,10 +252,12 @@
         "limited_data": false,
         "dictionary_warning": false,
         "hours_unknown": []
-      }
+      },
+      "query_scope": "base plus fresher and junior"
     },
     "Noida": {
       "role": "Data Analyst",
+      "city": "Noida",
       "threshold": 0.5,
       "core_share": 0.25,
       "retrieved_dates": [
@@ -532,7 +535,1783 @@
         "limited_data": false,
         "dictionary_warning": false,
         "hours_unknown": []
-      }
+      },
+      "query_scope": "base plus fresher and junior"
+    }
+  },
+  "pairs": {
+    "frontend-developer-bengaluru": {
+      "role": "Frontend Developer",
+      "city": "Bengaluru",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-07"
+      ],
+      "raw": 49,
+      "deduplicated": 45,
+      "ignored": 4,
+      "experience_excluded": 22,
+      "eligible": 23,
+      "scored": 19,
+      "matches": 9,
+      "must_haves_met": 1,
+      "fastest_win": "Responsive Design",
+      "biggest_unlock": "React",
+      "ranked": [
+        {
+          "skill": "Responsive Design",
+          "display_skill": "Responsive Design",
+          "unlocked": 6,
+          "hours": 0.84,
+          "course_confidence": "low",
+          "jobs_per_hour": 7.143,
+          "videos": [
+            {
+              "title": "Responsive design made easy",
+              "channel": "Kevin Powell",
+              "duration": "42:40",
+              "hours": 0.7111111111111111,
+              "link": "https://www.youtube.com/watch?v=bn-DQCifeQQ",
+              "language_query": "Responsive Design full course for beginners"
+            },
+            {
+              "title": "Figma Responsive Design: How Enterprise Teams Actually Do It",
+              "channel": "UI Collective",
+              "duration": "50:24",
+              "hours": 0.84,
+              "link": "https://www.youtube.com/watch?v=NzFXc6PULh8",
+              "language_query": "Responsive Design full course for beginners"
+            },
+            {
+              "title": "Become a CSS Media Queries & Responsive Design Pro! Learn EVERYTHING You Need to Know In Detail 🔍",
+              "channel": "Future Fullstack",
+              "duration": "1:16:03",
+              "hours": 1.2675,
+              "link": "https://www.youtube.com/watch?v=webzXg0q_x4",
+              "language_query": "Responsive Design full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "REST API",
+          "display_skill": "REST API",
+          "unlocked": 8,
+          "hours": 2.54,
+          "course_confidence": "standard",
+          "jobs_per_hour": 3.144,
+          "videos": [
+            {
+              "title": "Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
+              "channel": "freeCodeCamp.org",
+              "duration": "5:08:48",
+              "hours": 5.1466666666666665,
+              "link": "https://www.youtube.com/watch?v=2JYT5f2isg4",
+              "language_query": "REST API full course for beginners"
+            },
+            {
+              "title": "API Full Course for Beginners (2026) | REST APIs | Vishwa Sir | upGrad",
+              "channel": "upGrad",
+              "duration": "1:11:16",
+              "hours": 1.1877777777777778,
+              "link": "https://www.youtube.com/watch?v=-58TX3yCHI4",
+              "language_query": "REST API full course for beginners"
+            },
+            {
+              "title": "RESTful API with .NET Core (.NET 7) - Full Course for Beginners",
+              "channel": "DotNetMastery",
+              "duration": "2:32:39",
+              "hours": 2.5441666666666665,
+              "link": "https://www.youtube.com/watch?v=_uZYOgzYheU",
+              "language_query": "REST API full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "React",
+          "display_skill": "React",
+          "unlocked": 10,
+          "hours": 5.09,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.964,
+          "videos": [
+            {
+              "title": "React Tutorial Full Course - Beginner to Pro (React 19, 2025)",
+              "channel": "SuperSimpleDev",
+              "duration": "11:32:04",
+              "hours": 11.534444444444444,
+              "link": "https://www.youtube.com/watch?v=TtPXvEcE11E",
+              "language_query": "React full course for beginners"
+            },
+            {
+              "title": "React Full Course for free ⚛️",
+              "channel": "Bro Code",
+              "duration": "4:43:02",
+              "hours": 4.717222222222222,
+              "link": "https://www.youtube.com/watch?v=CgkZ7MvWUAA",
+              "language_query": "React full course for beginners"
+            },
+            {
+              "title": "Learn React JS - Full Course for Beginners - Tutorial 2019",
+              "channel": "freeCodeCamp.org",
+              "duration": "5:05:34",
+              "hours": 5.092777777777778,
+              "link": "https://www.youtube.com/watch?v=DLX62G4lc44",
+              "language_query": "React full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Git",
+          "display_skill": "Git",
+          "unlocked": 5,
+          "hours": 3.73,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.342,
+          "videos": [
+            {
+              "title": "Learn Git – Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "3:43:34",
+              "hours": 3.726111111111111,
+              "link": "https://www.youtube.com/watch?v=zTjRZNkhiEU",
+              "language_query": "Git full course for beginners"
+            },
+            {
+              "title": "Git and GitHub - Full Course",
+              "channel": "Boot dev",
+              "duration": "4:20:00",
+              "hours": 4.333333333333333,
+              "link": "https://www.youtube.com/watch?v=rH3zE7VlIMs",
+              "language_query": "Git full course for beginners"
+            },
+            {
+              "title": "Git & GitHub Crash Course for Beginners [2026]",
+              "channel": "freeCodeCamp.org and logicBase Labs",
+              "duration": "1:21:20",
+              "hours": 1.3555555555555556,
+              "link": "https://www.youtube.com/watch?v=mAFoROnOfHs",
+              "language_query": "Git full course for beginners"
+            }
+          ]
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.904,
+        "shares": {
+          "Responsive Design": 0.904,
+          "REST API": 0.04,
+          "React": 0.034,
+          "No scored pick": 0.022
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 0.9527,
+        "checks": 1500
+      },
+      "confidence": "Strong",
+      "curve": [
+        {
+          "skill": "Responsive Design",
+          "hours": 0.84,
+          "cumulative_hours": 0.84,
+          "gained": 6,
+          "total": 15
+        },
+        {
+          "skill": "REST API",
+          "hours": 2.54,
+          "cumulative_hours": 3.38,
+          "gained": 2,
+          "total": 17
+        },
+        {
+          "skill": "React",
+          "hours": 5.09,
+          "cumulative_hours": 8.48,
+          "gained": 2,
+          "total": 19
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 8,
+          "optimal_gained": 8,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Responsive Design",
+            "REST API"
+          ],
+          "optimal_skills": [
+            "REST API"
+          ],
+          "candidate_count": 4
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 10,
+          "optimal_gained": 10,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Responsive Design",
+            "REST API",
+            "React"
+          ],
+          "optimal_skills": [
+            "React"
+          ],
+          "candidate_count": 4
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 10,
+          "optimal_gained": 10,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Responsive Design",
+            "REST API",
+            "React"
+          ],
+          "optimal_skills": [
+            "React"
+          ],
+          "candidate_count": 4
+        }
+      ],
+      "distance": {
+        "0": 9,
+        "1": 10,
+        "2": 0,
+        "3+": 0,
+        "Unknown": 4
+      },
+      "flags": {
+        "limited_data": false,
+        "dictionary_warning": false,
+        "hours_unknown": []
+      },
+      "query_scope": "base plus fresher and junior"
+    },
+    "data-analyst-noida": {
+      "role": "Data Analyst",
+      "city": "Noida",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-07"
+      ],
+      "raw": 40,
+      "deduplicated": 34,
+      "ignored": 3,
+      "experience_excluded": 14,
+      "eligible": 20,
+      "scored": 17,
+      "matches": 1,
+      "must_haves_met": 0,
+      "fastest_win": "SQL",
+      "biggest_unlock": "SQL",
+      "ranked": [
+        {
+          "skill": "SQL",
+          "display_skill": "SQL",
+          "unlocked": 5,
+          "hours": 4.34,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.151,
+          "videos": [
+            {
+              "title": "SQL Course for Beginners [Full Course]",
+              "channel": "Programming with Mosh",
+              "duration": "3:10:19",
+              "hours": 3.1719444444444442,
+              "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Tutorial - Full Database Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "4:20:39",
+              "hours": 4.344166666666666,
+              "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero",
+              "channel": "Data with Baraa",
+              "duration": "29:48:28",
+              "hours": 29.807777777777776,
+              "link": "https://www.youtube.com/watch?v=SSKVgrwhzus",
+              "language_query": "SQL full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Data Cleaning",
+          "display_skill": "Data Cleaning",
+          "unlocked": 2,
+          "hours": 2.27,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.881,
+          "videos": [
+            {
+              "title": "Data Cleaning Full Course for Data Science, Data Analysis, Machine Learning [FREE] - 2024 Edition",
+              "channel": "WsCube Tech",
+              "duration": "3:29:35",
+              "hours": 3.4930555555555554,
+              "link": "https://www.youtube.com/watch?v=ITy8R4278sk",
+              "language_query": "Data Cleaning full course for beginners"
+            },
+            {
+              "title": "Learn Data Cleaning with Power Query in 60 Minutes (Full Course)",
+              "channel": "WsCube Tech",
+              "duration": "1:02:57",
+              "hours": 1.0491666666666666,
+              "link": "https://www.youtube.com/watch?v=Vh94CF9iBR0",
+              "language_query": "Data Cleaning full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Power BI",
+          "display_skill": "Power BI",
+          "unlocked": 2,
+          "hours": 3.68,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.543,
+          "videos": [
+            {
+              "title": "Power BI for Data Analytics - Full Course for Beginners",
+              "channel": "Luke Barousse",
+              "duration": "8:24:31",
+              "hours": 8.408611111111112,
+              "link": "https://www.youtube.com/watch?v=FwjaHCVNBWA",
+              "language_query": "Power BI full course for beginners"
+            },
+            {
+              "title": "Power BI FULL COURSE for Beginners | Learn Dashboards & Reports Fast!",
+              "channel": "Pragmatic Works",
+              "duration": "3:40:48",
+              "hours": 3.68,
+              "link": "https://www.youtube.com/watch?v=Dk25lwdTKow",
+              "language_query": "Power BI full course for beginners"
+            },
+            {
+              "title": "Power BI Full Course 2025: Complete Beginner to Advanced Tutorial in English",
+              "channel": "WsCube Tech! ENGLISH",
+              "duration": "3:26:00",
+              "hours": 3.433333333333333,
+              "link": "https://www.youtube.com/watch?v=_76bzIuz-dU",
+              "language_query": "Power BI full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Tableau",
+          "display_skill": "Tableau",
+          "unlocked": 2,
+          "hours": 6.0,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.333,
+          "videos": [
+            {
+              "title": "Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO",
+              "channel": "Data with Baraa",
+              "duration": "20:47:05",
+              "hours": 20.78472222222222,
+              "link": "https://www.youtube.com/watch?v=K3pXnbniUcM",
+              "language_query": "Tableau full course for beginners"
+            },
+            {
+              "title": "Tableau Full Course - Learn Tableau in 6 Hours | Tableau Training for Beginners | Edureka",
+              "channel": "edureka!",
+              "duration": "6:00:14",
+              "hours": 6.003888888888889,
+              "link": "https://www.youtube.com/watch?v=aHaOIvR00So",
+              "language_query": "Tableau full course for beginners"
+            },
+            {
+              "title": "Tableau Full Course - Learn Tableau In 6 Hours | Tableau Training for Beginners | Simplilearn",
+              "channel": "Simplilearn",
+              "duration": "5:34:49",
+              "hours": 5.580277777777778,
+              "link": "https://www.youtube.com/watch?v=HGMrIZq5dq0",
+              "language_query": "Tableau full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Data Visualization",
+          "display_skill": "Data Visualization",
+          "unlocked": 1,
+          "hours": 5.46,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.183,
+          "videos": [
+            {
+              "title": "Data Visualization with D3 – Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "19:32:37",
+              "hours": 19.54361111111111,
+              "link": "https://www.youtube.com/watch?v=xkBheRZTkaw",
+              "language_query": "Data Visualization full course for beginners"
+            },
+            {
+              "title": "Complete Data Visualization Course for Beginners |  Matplotlib & Seaborn | Sheryians AI School",
+              "channel": "Sheryians AI School",
+              "duration": "2:35:08",
+              "hours": 2.5855555555555556,
+              "link": "https://www.youtube.com/watch?v=-jTD74eEy2I",
+              "language_query": "Data Visualization full course for beginners"
+            },
+            {
+              "title": "Data Visualization Masterclass in Python | Matplotlib, Seaborn & Plotly for Beginners to Advanced",
+              "channel": "Codanics",
+              "duration": "5:27:54",
+              "hours": 5.465,
+              "link": "https://www.youtube.com/watch?v=MqppsRq3EJQ",
+              "language_query": "Data Visualization full course for beginners"
+            }
+          ]
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.576,
+        "shares": {
+          "SQL": 0.576,
+          "Data Cleaning": 0.366,
+          "Power BI": 0.036,
+          "Tableau": 0.012,
+          "No scored pick": 0.008,
+          "Data Visualization": 0.002
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 0.4727,
+        "checks": 1500
+      },
+      "confidence": "Uncertain",
+      "curve": [
+        {
+          "skill": "SQL",
+          "hours": 4.34,
+          "cumulative_hours": 4.34,
+          "gained": 5,
+          "total": 6
+        },
+        {
+          "skill": "Data Cleaning",
+          "hours": 2.27,
+          "cumulative_hours": 6.62,
+          "gained": 5,
+          "total": 11
+        },
+        {
+          "skill": "Tableau",
+          "hours": 6.0,
+          "cumulative_hours": 12.62,
+          "gained": 2,
+          "total": 13
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 5,
+          "optimal_gained": 5,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "SQL"
+          ],
+          "optimal_skills": [
+            "SQL"
+          ],
+          "candidate_count": 5
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 10,
+          "optimal_gained": 10,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "SQL",
+            "Data Cleaning"
+          ],
+          "optimal_skills": [
+            "SQL",
+            "Data Cleaning"
+          ],
+          "candidate_count": 5
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 12,
+          "optimal_gained": 12,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "SQL",
+            "Data Cleaning",
+            "Tableau"
+          ],
+          "optimal_skills": [
+            "SQL",
+            "Data Cleaning",
+            "Tableau"
+          ],
+          "candidate_count": 5
+        }
+      ],
+      "distance": {
+        "0": 1,
+        "1": 11,
+        "2": 5,
+        "3+": 0,
+        "Unknown": 3
+      },
+      "flags": {
+        "limited_data": false,
+        "dictionary_warning": false,
+        "hours_unknown": []
+      },
+      "query_scope": "base plus fresher and junior"
+    },
+    "data-analyst-hyderabad": {
+      "role": "Data Analyst",
+      "city": "Hyderabad",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-09"
+      ],
+      "raw": 30,
+      "deduplicated": 26,
+      "ignored": 2,
+      "experience_excluded": 10,
+      "eligible": 16,
+      "scored": 14,
+      "matches": 3,
+      "must_haves_met": 1,
+      "fastest_win": "Data Cleaning",
+      "biggest_unlock": "SQL",
+      "ranked": [
+        {
+          "skill": "Data Cleaning",
+          "display_skill": "Data Cleaning",
+          "unlocked": 4,
+          "hours": 2.27,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.761,
+          "videos": [
+            {
+              "title": "Data Cleaning Full Course for Data Science, Data Analysis, Machine Learning [FREE] - 2024 Edition",
+              "channel": "WsCube Tech",
+              "duration": "3:29:35",
+              "hours": 3.4930555555555554,
+              "link": "https://www.youtube.com/watch?v=ITy8R4278sk",
+              "language_query": "Data Cleaning full course for beginners"
+            },
+            {
+              "title": "Learn Data Cleaning with Power Query in 60 Minutes (Full Course)",
+              "channel": "WsCube Tech",
+              "duration": "1:02:57",
+              "hours": 1.0491666666666666,
+              "link": "https://www.youtube.com/watch?v=Vh94CF9iBR0",
+              "language_query": "Data Cleaning full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "SQL",
+          "display_skill": "SQL",
+          "unlocked": 7,
+          "hours": 4.34,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.611,
+          "videos": [
+            {
+              "title": "SQL Course for Beginners [Full Course]",
+              "channel": "Programming with Mosh",
+              "duration": "3:10:19",
+              "hours": 3.1719444444444442,
+              "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Tutorial - Full Database Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "4:20:39",
+              "hours": 4.344166666666666,
+              "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero",
+              "channel": "Data with Baraa",
+              "duration": "29:48:28",
+              "hours": 29.807777777777776,
+              "link": "https://www.youtube.com/watch?v=SSKVgrwhzus",
+              "language_query": "SQL full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Data Visualization",
+          "display_skill": "Data Visualization",
+          "unlocked": 6,
+          "hours": 5.46,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.098,
+          "videos": [
+            {
+              "title": "Data Visualization with D3 – Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "19:32:37",
+              "hours": 19.54361111111111,
+              "link": "https://www.youtube.com/watch?v=xkBheRZTkaw",
+              "language_query": "Data Visualization full course for beginners"
+            },
+            {
+              "title": "Complete Data Visualization Course for Beginners |  Matplotlib & Seaborn | Sheryians AI School",
+              "channel": "Sheryians AI School",
+              "duration": "2:35:08",
+              "hours": 2.5855555555555556,
+              "link": "https://www.youtube.com/watch?v=-jTD74eEy2I",
+              "language_query": "Data Visualization full course for beginners"
+            },
+            {
+              "title": "Data Visualization Masterclass in Python | Matplotlib, Seaborn & Plotly for Beginners to Advanced",
+              "channel": "Codanics",
+              "duration": "5:27:54",
+              "hours": 5.465,
+              "link": "https://www.youtube.com/watch?v=MqppsRq3EJQ",
+              "language_query": "Data Visualization full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Statistics",
+          "display_skill": "Statistics",
+          "unlocked": 4,
+          "hours": 8.25,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.485,
+          "videos": [
+            {
+              "title": "Statistics - A Full University Course on Data Science Basics",
+              "channel": "freeCodeCamp.org",
+              "duration": "8:15:04",
+              "hours": 8.251111111111111,
+              "link": "https://www.youtube.com/watch?v=xxpc-HPKN28",
+              "language_query": "Statistics full course for beginners"
+            },
+            {
+              "title": "Statistics and Probability Full Course || Statistics For Data Science",
+              "channel": "Geek's Lesson",
+              "duration": "11:39:38",
+              "hours": 11.660555555555556,
+              "link": "https://www.youtube.com/watch?v=sbbYntt5CJk",
+              "language_query": "Statistics full course for beginners"
+            },
+            {
+              "title": "Statistics Full Course For Beginners | Statistics For Data Science | Machine Learning @SCALER",
+              "channel": "SCALER",
+              "duration": "7:38:24",
+              "hours": 7.64,
+              "link": "https://www.youtube.com/watch?v=LJa4_yGOmwo",
+              "language_query": "Statistics full course for beginners"
+            }
+          ]
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.388,
+        "shares": {
+          "SQL": 0.574,
+          "Data Cleaning": 0.388,
+          "Data Visualization": 0.036,
+          "No scored pick": 0.002
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 0.5247,
+        "checks": 1500
+      },
+      "confidence": "Uncertain",
+      "curve": [
+        {
+          "skill": "Data Cleaning",
+          "hours": 2.27,
+          "cumulative_hours": 2.27,
+          "gained": 4,
+          "total": 7
+        },
+        {
+          "skill": "SQL",
+          "hours": 4.34,
+          "cumulative_hours": 6.62,
+          "gained": 5,
+          "total": 12
+        },
+        {
+          "skill": "Data Visualization",
+          "hours": 5.46,
+          "cumulative_hours": 12.08,
+          "gained": 2,
+          "total": 14
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 4,
+          "optimal_gained": 7,
+          "ratio": 0.5714285714285714,
+          "greedy_skills": [
+            "Data Cleaning"
+          ],
+          "optimal_skills": [
+            "SQL"
+          ],
+          "candidate_count": 4
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 9,
+          "optimal_gained": 10,
+          "ratio": 0.9,
+          "greedy_skills": [
+            "Data Cleaning",
+            "SQL"
+          ],
+          "optimal_skills": [
+            "SQL",
+            "Data Visualization"
+          ],
+          "candidate_count": 4
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 11,
+          "optimal_gained": 11,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Data Cleaning",
+            "SQL",
+            "Data Visualization"
+          ],
+          "optimal_skills": [
+            "SQL",
+            "Data Visualization",
+            "Data Cleaning"
+          ],
+          "candidate_count": 4
+        }
+      ],
+      "distance": {
+        "0": 3,
+        "1": 10,
+        "2": 1,
+        "3+": 0,
+        "Unknown": 2
+      },
+      "flags": {
+        "limited_data": false,
+        "dictionary_warning": false,
+        "hours_unknown": []
+      },
+      "query_scope": "base plus fresher and junior"
+    },
+    "data-analyst-pune": {
+      "role": "Data Analyst",
+      "city": "Pune",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-09"
+      ],
+      "raw": 22,
+      "deduplicated": 21,
+      "ignored": 3,
+      "experience_excluded": 7,
+      "eligible": 14,
+      "scored": 11,
+      "matches": 2,
+      "must_haves_met": 0,
+      "fastest_win": "Power BI",
+      "biggest_unlock": "Statistics",
+      "ranked": [
+        {
+          "skill": "Power BI",
+          "display_skill": "Power BI",
+          "unlocked": 3,
+          "hours": 3.68,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.815,
+          "videos": [
+            {
+              "title": "Power BI for Data Analytics - Full Course for Beginners",
+              "channel": "Luke Barousse",
+              "duration": "8:24:31",
+              "hours": 8.408611111111112,
+              "link": "https://www.youtube.com/watch?v=FwjaHCVNBWA",
+              "language_query": "Power BI full course for beginners"
+            },
+            {
+              "title": "Power BI FULL COURSE for Beginners | Learn Dashboards & Reports Fast!",
+              "channel": "Pragmatic Works",
+              "duration": "3:40:48",
+              "hours": 3.68,
+              "link": "https://www.youtube.com/watch?v=Dk25lwdTKow",
+              "language_query": "Power BI full course for beginners"
+            },
+            {
+              "title": "Power BI Full Course 2025: Complete Beginner to Advanced Tutorial in English",
+              "channel": "WsCube Tech! ENGLISH",
+              "duration": "3:26:00",
+              "hours": 3.433333333333333,
+              "link": "https://www.youtube.com/watch?v=_76bzIuz-dU",
+              "language_query": "Power BI full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "SQL",
+          "display_skill": "SQL",
+          "unlocked": 3,
+          "hours": 4.34,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.691,
+          "videos": [
+            {
+              "title": "SQL Course for Beginners [Full Course]",
+              "channel": "Programming with Mosh",
+              "duration": "3:10:19",
+              "hours": 3.1719444444444442,
+              "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Tutorial - Full Database Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "4:20:39",
+              "hours": 4.344166666666666,
+              "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero",
+              "channel": "Data with Baraa",
+              "duration": "29:48:28",
+              "hours": 29.807777777777776,
+              "link": "https://www.youtube.com/watch?v=SSKVgrwhzus",
+              "language_query": "SQL full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Data Visualization",
+          "display_skill": "Data Visualization",
+          "unlocked": 3,
+          "hours": 5.46,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.549,
+          "videos": [
+            {
+              "title": "Data Visualization with D3 – Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "19:32:37",
+              "hours": 19.54361111111111,
+              "link": "https://www.youtube.com/watch?v=xkBheRZTkaw",
+              "language_query": "Data Visualization full course for beginners"
+            },
+            {
+              "title": "Complete Data Visualization Course for Beginners |  Matplotlib & Seaborn | Sheryians AI School",
+              "channel": "Sheryians AI School",
+              "duration": "2:35:08",
+              "hours": 2.5855555555555556,
+              "link": "https://www.youtube.com/watch?v=-jTD74eEy2I",
+              "language_query": "Data Visualization full course for beginners"
+            },
+            {
+              "title": "Data Visualization Masterclass in Python | Matplotlib, Seaborn & Plotly for Beginners to Advanced",
+              "channel": "Codanics",
+              "duration": "5:27:54",
+              "hours": 5.465,
+              "link": "https://www.youtube.com/watch?v=MqppsRq3EJQ",
+              "language_query": "Data Visualization full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Statistics",
+          "display_skill": "Statistics",
+          "unlocked": 4,
+          "hours": 8.25,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.485,
+          "videos": [
+            {
+              "title": "Statistics - A Full University Course on Data Science Basics",
+              "channel": "freeCodeCamp.org",
+              "duration": "8:15:04",
+              "hours": 8.251111111111111,
+              "link": "https://www.youtube.com/watch?v=xxpc-HPKN28",
+              "language_query": "Statistics full course for beginners"
+            },
+            {
+              "title": "Statistics and Probability Full Course || Statistics For Data Science",
+              "channel": "Geek's Lesson",
+              "duration": "11:39:38",
+              "hours": 11.660555555555556,
+              "link": "https://www.youtube.com/watch?v=sbbYntt5CJk",
+              "language_query": "Statistics full course for beginners"
+            },
+            {
+              "title": "Statistics Full Course For Beginners | Statistics For Data Science | Machine Learning @SCALER",
+              "channel": "SCALER",
+              "duration": "7:38:24",
+              "hours": 7.64,
+              "link": "https://www.youtube.com/watch?v=LJa4_yGOmwo",
+              "language_query": "Statistics full course for beginners"
+            }
+          ]
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.432,
+        "shares": {
+          "Power BI": 0.432,
+          "SQL": 0.306,
+          "Data Visualization": 0.142,
+          "No scored pick": 0.082,
+          "Statistics": 0.038
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 0.7153,
+        "checks": 1500
+      },
+      "confidence": "Uncertain",
+      "curve": [
+        {
+          "skill": "Power BI",
+          "hours": 3.68,
+          "cumulative_hours": 3.68,
+          "gained": 3,
+          "total": 5
+        },
+        {
+          "skill": "Data Visualization",
+          "hours": 5.46,
+          "cumulative_hours": 9.14,
+          "gained": 4,
+          "total": 9
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 3,
+          "optimal_gained": 3,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Power BI"
+          ],
+          "optimal_skills": [
+            "Power BI"
+          ],
+          "candidate_count": 4
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 7,
+          "optimal_gained": 7,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Power BI",
+            "Data Visualization"
+          ],
+          "optimal_skills": [
+            "Data Visualization",
+            "Power BI"
+          ],
+          "candidate_count": 4
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 7,
+          "optimal_gained": 7,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Power BI",
+            "Data Visualization"
+          ],
+          "optimal_skills": [
+            "Data Visualization",
+            "Power BI"
+          ],
+          "candidate_count": 4
+        }
+      ],
+      "distance": {
+        "0": 2,
+        "1": 7,
+        "2": 2,
+        "3+": 0,
+        "Unknown": 3
+      },
+      "flags": {
+        "limited_data": false,
+        "dictionary_warning": false,
+        "hours_unknown": []
+      },
+      "query_scope": "base plus fresher and junior"
+    },
+    "data-analyst-jaipur": {
+      "role": "Data Analyst",
+      "city": "Jaipur",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-09"
+      ],
+      "raw": 23,
+      "deduplicated": 20,
+      "ignored": 3,
+      "experience_excluded": 3,
+      "eligible": 17,
+      "scored": 14,
+      "matches": 4,
+      "must_haves_met": 0,
+      "fastest_win": "Power BI",
+      "biggest_unlock": "Power BI",
+      "ranked": [
+        {
+          "skill": "Power BI",
+          "display_skill": "Power BI",
+          "unlocked": 4,
+          "hours": 3.68,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.087,
+          "videos": [
+            {
+              "title": "Power BI for Data Analytics - Full Course for Beginners",
+              "channel": "Luke Barousse",
+              "duration": "8:24:31",
+              "hours": 8.408611111111112,
+              "link": "https://www.youtube.com/watch?v=FwjaHCVNBWA",
+              "language_query": "Power BI full course for beginners"
+            },
+            {
+              "title": "Power BI FULL COURSE for Beginners | Learn Dashboards & Reports Fast!",
+              "channel": "Pragmatic Works",
+              "duration": "3:40:48",
+              "hours": 3.68,
+              "link": "https://www.youtube.com/watch?v=Dk25lwdTKow",
+              "language_query": "Power BI full course for beginners"
+            },
+            {
+              "title": "Power BI Full Course 2025: Complete Beginner to Advanced Tutorial in English",
+              "channel": "WsCube Tech! ENGLISH",
+              "duration": "3:26:00",
+              "hours": 3.433333333333333,
+              "link": "https://www.youtube.com/watch?v=_76bzIuz-dU",
+              "language_query": "Power BI full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "SQL",
+          "display_skill": "SQL",
+          "unlocked": 4,
+          "hours": 4.34,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.921,
+          "videos": [
+            {
+              "title": "SQL Course for Beginners [Full Course]",
+              "channel": "Programming with Mosh",
+              "duration": "3:10:19",
+              "hours": 3.1719444444444442,
+              "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Tutorial - Full Database Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "4:20:39",
+              "hours": 4.344166666666666,
+              "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero",
+              "channel": "Data with Baraa",
+              "duration": "29:48:28",
+              "hours": 29.807777777777776,
+              "link": "https://www.youtube.com/watch?v=SSKVgrwhzus",
+              "language_query": "SQL full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Data Visualization",
+          "display_skill": "Data Visualization",
+          "unlocked": 3,
+          "hours": 5.46,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.549,
+          "videos": [
+            {
+              "title": "Data Visualization with D3 – Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "19:32:37",
+              "hours": 19.54361111111111,
+              "link": "https://www.youtube.com/watch?v=xkBheRZTkaw",
+              "language_query": "Data Visualization full course for beginners"
+            },
+            {
+              "title": "Complete Data Visualization Course for Beginners |  Matplotlib & Seaborn | Sheryians AI School",
+              "channel": "Sheryians AI School",
+              "duration": "2:35:08",
+              "hours": 2.5855555555555556,
+              "link": "https://www.youtube.com/watch?v=-jTD74eEy2I",
+              "language_query": "Data Visualization full course for beginners"
+            },
+            {
+              "title": "Data Visualization Masterclass in Python | Matplotlib, Seaborn & Plotly for Beginners to Advanced",
+              "channel": "Codanics",
+              "duration": "5:27:54",
+              "hours": 5.465,
+              "link": "https://www.youtube.com/watch?v=MqppsRq3EJQ",
+              "language_query": "Data Visualization full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Statistics",
+          "display_skill": "Statistics",
+          "unlocked": 3,
+          "hours": 8.25,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.364,
+          "videos": [
+            {
+              "title": "Statistics - A Full University Course on Data Science Basics",
+              "channel": "freeCodeCamp.org",
+              "duration": "8:15:04",
+              "hours": 8.251111111111111,
+              "link": "https://www.youtube.com/watch?v=xxpc-HPKN28",
+              "language_query": "Statistics full course for beginners"
+            },
+            {
+              "title": "Statistics and Probability Full Course || Statistics For Data Science",
+              "channel": "Geek's Lesson",
+              "duration": "11:39:38",
+              "hours": 11.660555555555556,
+              "link": "https://www.youtube.com/watch?v=sbbYntt5CJk",
+              "language_query": "Statistics full course for beginners"
+            },
+            {
+              "title": "Statistics Full Course For Beginners | Statistics For Data Science | Machine Learning @SCALER",
+              "channel": "SCALER",
+              "duration": "7:38:24",
+              "hours": 7.64,
+              "link": "https://www.youtube.com/watch?v=LJa4_yGOmwo",
+              "language_query": "Statistics full course for beginners"
+            }
+          ]
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.306,
+        "shares": {
+          "SQL": 0.504,
+          "Power BI": 0.306,
+          "Data Visualization": 0.122,
+          "No scored pick": 0.068
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 0.5587,
+        "checks": 1500
+      },
+      "confidence": "Uncertain",
+      "curve": [
+        {
+          "skill": "Power BI",
+          "hours": 3.68,
+          "cumulative_hours": 3.68,
+          "gained": 4,
+          "total": 8
+        },
+        {
+          "skill": "SQL",
+          "hours": 4.34,
+          "cumulative_hours": 8.02,
+          "gained": 3,
+          "total": 11
+        },
+        {
+          "skill": "Data Visualization",
+          "hours": 5.46,
+          "cumulative_hours": 13.49,
+          "gained": 1,
+          "total": 12
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 4,
+          "optimal_gained": 4,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Power BI"
+          ],
+          "optimal_skills": [
+            "Power BI"
+          ],
+          "candidate_count": 4
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 7,
+          "optimal_gained": 8,
+          "ratio": 0.875,
+          "greedy_skills": [
+            "Power BI",
+            "SQL"
+          ],
+          "optimal_skills": [
+            "SQL",
+            "Data Visualization"
+          ],
+          "candidate_count": 4
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 8,
+          "optimal_gained": 8,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Power BI",
+            "SQL",
+            "Data Visualization"
+          ],
+          "optimal_skills": [
+            "SQL",
+            "Data Visualization"
+          ],
+          "candidate_count": 4
+        }
+      ],
+      "distance": {
+        "0": 4,
+        "1": 8,
+        "2": 2,
+        "3+": 0,
+        "Unknown": 3
+      },
+      "flags": {
+        "limited_data": false,
+        "dictionary_warning": false,
+        "hours_unknown": []
+      },
+      "query_scope": "base plus fresher and junior"
+    },
+    "data-analyst-indore": {
+      "role": "Data Analyst",
+      "city": "Indore",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-09"
+      ],
+      "raw": 13,
+      "deduplicated": 11,
+      "ignored": 1,
+      "experience_excluded": 6,
+      "eligible": 5,
+      "scored": 4,
+      "matches": 0,
+      "must_haves_met": 0,
+      "fastest_win": null,
+      "biggest_unlock": null,
+      "ranked": [],
+      "bootstrap": {
+        "top_share": 0.0,
+        "shares": {
+          "No scored pick": 0.708,
+          "Power BI": 0.174,
+          "SQL": 0.062,
+          "Data Visualization": 0.056
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 0.0,
+        "checks": 1500
+      },
+      "confidence": "Uncertain",
+      "curve": [],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 0,
+          "optimal_gained": 0,
+          "ratio": null,
+          "greedy_skills": [],
+          "optimal_skills": [],
+          "candidate_count": 5
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 0,
+          "optimal_gained": 3,
+          "ratio": 0.0,
+          "greedy_skills": [],
+          "optimal_skills": [
+            "Data Visualization",
+            "Power BI"
+          ],
+          "candidate_count": 5
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 0,
+          "optimal_gained": 3,
+          "ratio": 0.0,
+          "greedy_skills": [],
+          "optimal_skills": [
+            "Data Visualization",
+            "Power BI"
+          ],
+          "candidate_count": 5
+        }
+      ],
+      "distance": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3+": 0,
+        "Unknown": 1
+      },
+      "flags": {
+        "limited_data": true,
+        "dictionary_warning": false,
+        "hours_unknown": [
+          "Data Modeling"
+        ]
+      },
+      "query_scope": "base plus fresher and junior"
+    },
+    "accountant-jaipur": {
+      "role": "Accountant",
+      "city": "Jaipur",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-09"
+      ],
+      "raw": 29,
+      "deduplicated": 26,
+      "ignored": 2,
+      "experience_excluded": 12,
+      "eligible": 14,
+      "scored": 12,
+      "matches": 3,
+      "must_haves_met": 0,
+      "fastest_win": "Bookkeeping",
+      "biggest_unlock": "Bookkeeping",
+      "ranked": [
+        {
+          "skill": "Bookkeeping",
+          "display_skill": "Bookkeeping",
+          "unlocked": 4,
+          "hours": 1.72,
+          "course_confidence": "standard",
+          "jobs_per_hour": 2.328,
+          "videos": [
+            {
+              "title": "Bookkeeping and Accounting Course for Beginners | Basics Explained | Financial Statements",
+              "channel": "SkillUp Smart",
+              "duration": "2:24:01",
+              "hours": 2.4002777777777777,
+              "link": "https://www.youtube.com/watch?v=m58r-5LTxoI",
+              "language_query": "Bookkeeping full course for beginners"
+            },
+            {
+              "title": "COMPLETE Bookkeeping Basics Masterclass | Free Course | The Home Bookkeeper",
+              "channel": "The Home Bookkeeper",
+              "duration": "1:02:08",
+              "hours": 1.0355555555555556,
+              "link": "https://www.youtube.com/watch?v=xszrcjhKAVk",
+              "language_query": "Bookkeeping full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Tally",
+          "display_skill": "Tally",
+          "unlocked": 2,
+          "hours": 1.77,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.129,
+          "videos": [
+            {
+              "title": "Tally Prime Full Course | Tally Complete Course in in 1 Hour | Every Thing in 1 Video",
+              "channel": "New Tally Prime",
+              "duration": "1:10:02",
+              "hours": 1.1672222222222222,
+              "link": "https://www.youtube.com/watch?v=Vi7TzAPjXu0",
+              "language_query": "Tally full course for beginners"
+            },
+            {
+              "title": "Tally Prime Full Course | Tally Prime",
+              "channel": "Great Learning",
+              "duration": "1:46:19",
+              "hours": 1.7719444444444445,
+              "link": "https://www.youtube.com/watch?v=fRItV43W11k",
+              "language_query": "Tally full course for beginners"
+            },
+            {
+              "title": "Tally Prime with GST Full Course in Just 3 Hours | Tally Prime in One Shot | @ComputerTechAcademy",
+              "channel": "Computer Tech Academy",
+              "duration": "3:31:41",
+              "hours": 3.5280555555555555,
+              "link": "https://www.youtube.com/watch?v=0D7lSlhspog",
+              "language_query": "Tally full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "GST",
+          "display_skill": "GST",
+          "unlocked": 1,
+          "hours": 9.03,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.111,
+          "videos": [
+            {
+              "title": "Goods and Services Tax (GST) 2024 Fundamentals Full Course | What is GST?",
+              "channel": "Great Learning",
+              "duration": "1:20:26",
+              "hours": 1.3405555555555555,
+              "link": "https://www.youtube.com/watch?v=ZS4dThqfRbs",
+              "language_query": "GST full course for beginners"
+            },
+            {
+              "title": "🔥Master GST in One Video | Complete GST Tutorial in Tally Prime 2025 | Zero to Hero ✅",
+              "channel": "Accounts Expert",
+              "duration": "9:01:42",
+              "hours": 9.028333333333334,
+              "link": "https://www.youtube.com/watch?v=e9mB5Xh4zLo",
+              "language_query": "GST full course for beginners"
+            },
+            {
+              "title": "Tally Prime 7.0 Full Course With GST | Zero to Hero | Complete Practical Tutorial",
+              "channel": "Accounts Expert",
+              "duration": "11:44:48",
+              "hours": 11.746666666666666,
+              "link": "https://www.youtube.com/watch?v=QQUcccxcjn0",
+              "language_query": "GST full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Accounts Payable",
+          "display_skill": "Accounts Payable",
+          "unlocked": 1,
+          "hours": null,
+          "course_confidence": "low",
+          "jobs_per_hour": null,
+          "videos": []
+        },
+        {
+          "skill": "QuickBooks",
+          "display_skill": "QuickBooks",
+          "unlocked": 1,
+          "hours": null,
+          "course_confidence": "low",
+          "jobs_per_hour": null,
+          "videos": []
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.976,
+        "shares": {
+          "Bookkeeping": 0.976,
+          "No scored pick": 0.02,
+          "Tally": 0.004
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 0.848,
+        "checks": 1500
+      },
+      "confidence": "Likely",
+      "curve": [
+        {
+          "skill": "Bookkeeping",
+          "hours": 1.72,
+          "cumulative_hours": 1.72,
+          "gained": 4,
+          "total": 7
+        },
+        {
+          "skill": "Tally",
+          "hours": 1.77,
+          "cumulative_hours": 3.49,
+          "gained": 4,
+          "total": 11
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 8,
+          "optimal_gained": 8,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Bookkeeping",
+            "Tally"
+          ],
+          "optimal_skills": [
+            "Bookkeeping",
+            "Tally"
+          ],
+          "candidate_count": 3
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 8,
+          "optimal_gained": 8,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Bookkeeping",
+            "Tally"
+          ],
+          "optimal_skills": [
+            "Bookkeeping",
+            "Tally"
+          ],
+          "candidate_count": 3
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 8,
+          "optimal_gained": 8,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Bookkeeping",
+            "Tally"
+          ],
+          "optimal_skills": [
+            "Bookkeeping",
+            "Tally"
+          ],
+          "candidate_count": 3
+        }
+      ],
+      "distance": {
+        "0": 3,
+        "1": 4,
+        "2": 5,
+        "3+": 0,
+        "Unknown": 2
+      },
+      "flags": {
+        "limited_data": false,
+        "dictionary_warning": false,
+        "hours_unknown": [
+          "Accounts Payable",
+          "QuickBooks",
+          "Reconciliation"
+        ]
+      },
+      "query_scope": "base plus fresher and junior"
+    },
+    "digital-marketing-executive-dehradun": {
+      "role": "Digital Marketing Executive",
+      "city": "Dehradun",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-09"
+      ],
+      "raw": 10,
+      "deduplicated": 10,
+      "ignored": 0,
+      "experience_excluded": 5,
+      "eligible": 5,
+      "scored": 5,
+      "matches": 1,
+      "must_haves_met": 0,
+      "fastest_win": "SEO",
+      "biggest_unlock": "Google Ads",
+      "ranked": [
+        {
+          "skill": "SEO",
+          "display_skill": "SEO",
+          "unlocked": 2,
+          "hours": 1.95,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.025,
+          "videos": [
+            {
+              "title": "Complete SEO Course for Beginners: Learn to Rank #1 in Google",
+              "channel": "Ahrefs",
+              "duration": "1:57:03",
+              "hours": 1.9508333333333334,
+              "link": "https://www.youtube.com/watch?v=xsVTqzratPs",
+              "language_query": "SEO full course for beginners"
+            },
+            {
+              "title": "Complete AI SEO Course for Beginners: Learn AEO in 86 Minutes",
+              "channel": "Ahrefs",
+              "duration": "1:26:56",
+              "hours": 1.448888888888889,
+              "link": "https://www.youtube.com/watch?v=uza9GX0E2mw",
+              "language_query": "SEO full course for beginners"
+            },
+            {
+              "title": "Complete SEO Course (3 Hours): Rank #1 AI Search | Prompts Included",
+              "channel": "Nico | AI Ranking",
+              "duration": "3:19:42",
+              "hours": 3.328333333333333,
+              "link": "https://www.youtube.com/watch?v=ClGDDrsc_Xs",
+              "language_query": "SEO full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Google Ads",
+          "display_skill": "Google Ads",
+          "unlocked": 3,
+          "hours": 5.38,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.558,
+          "videos": [
+            {
+              "title": "Google Ads Course 2026 | 5+ Hours | 70+ Lessons | Timestamps | Free Training",
+              "channel": "Darren Taylor",
+              "duration": "5:48:30",
+              "hours": 5.808333333333334,
+              "link": "https://www.youtube.com/watch?v=_47prikuh_I",
+              "language_query": "Google Ads full course for beginners"
+            },
+            {
+              "title": "Free Google Ads Course 2026 (updated) | 5+ Hours | 60+ Lessons | Timestamps",
+              "channel": "Darren Taylor",
+              "duration": "5:22:50",
+              "hours": 5.3805555555555555,
+              "link": "https://www.youtube.com/watch?v=3KVxB-Rpu1c",
+              "language_query": "Google Ads full course for beginners"
+            },
+            {
+              "title": "Google Ads Full Course 2026 (With AI) – Beginner to PRO in One Video",
+              "channel": "WsCube Tech",
+              "duration": "1:48:35",
+              "hours": 1.8097222222222222,
+              "link": "https://www.youtube.com/watch?v=autzRHtt-RM",
+              "language_query": "Google Ads full course for beginners"
+            }
+          ]
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.562,
+        "shares": {
+          "SEO": 0.562,
+          "Google Ads": 0.288,
+          "No scored pick": 0.15
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 0.6653,
+        "checks": 1500
+      },
+      "confidence": "Uncertain",
+      "curve": [
+        {
+          "skill": "SEO",
+          "hours": 1.95,
+          "cumulative_hours": 1.95,
+          "gained": 2,
+          "total": 3
+        },
+        {
+          "skill": "Google Ads",
+          "hours": 5.38,
+          "cumulative_hours": 7.33,
+          "gained": 1,
+          "total": 4
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 2,
+          "optimal_gained": 2,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "SEO"
+          ],
+          "optimal_skills": [
+            "SEO"
+          ],
+          "candidate_count": 2
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 3,
+          "optimal_gained": 3,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "SEO",
+            "Google Ads"
+          ],
+          "optimal_skills": [
+            "Google Ads"
+          ],
+          "candidate_count": 2
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 3,
+          "optimal_gained": 3,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "SEO",
+            "Google Ads"
+          ],
+          "optimal_skills": [
+            "Google Ads"
+          ],
+          "candidate_count": 2
+        }
+      ],
+      "distance": {
+        "0": 1,
+        "1": 4,
+        "2": 0,
+        "3+": 0,
+        "Unknown": 0
+      },
+      "flags": {
+        "limited_data": true,
+        "dictionary_warning": false,
+        "hours_unknown": []
+      },
+      "query_scope": "base only"
     }
   }
 }

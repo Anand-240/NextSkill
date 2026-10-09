@@ -1,0 +1,483 @@
+{
+  "search_metadata": {
+    "id": "6ac8c524e396eb16890d2968",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aWjRc8jw3grC2qc3EqBvimPUA75V7ferRt6XOJ6dJjg/6ac8c524e396eb16890d2968.json",
+    "markdown_endpoint": "https://serpapi.com/searches/aWjRc8jw3grC2qc3EqBvimPUA75V7ferRt6XOJ6dJjg/6ac8c524e396eb16890d2968.md",
+    "created_at": "2026-10-09 10:42:44 UTC",
+    "processed_at": "2026-10-09 10:42:44 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=SEO+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/aWjRc8jw3grC2qc3EqBvimPUA75V7ferRt6XOJ6dJjg/6ac8c524e396eb16890d2968.html",
+    "total_time_taken": 2.71
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "SEO full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 1763321,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Complete SEO Course for Beginners: Learn to Rank #1 in Google",
+      "link": "https://www.youtube.com/watch?v=xsVTqzratPs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xsVTqzratPs",
+      "video_id": "xsVTqzratPs",
+      "channel": {
+        "name": "Ahrefs",
+        "link": "https://www.youtube.com/@AhrefsCom",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WGSuLikxFMe3DsJ6z4n1-V0Md5q6RWJDP-QYWjoxHOAzT7Xxv_rGxNzUKimI8Ff_Lc9Q2bTjpQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 4244291,
+      "length": "1:57:03",
+      "description": "Learn how to do search engine optimization in our complete SEO training course for beginners. Subscribe ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xsVTqzratPs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnm_a8K3CEPkNrm1F6Zm6OFLzpaQ",
+        "rich": "https://i.ytimg.com/an_webp/xsVTqzratPs/mqdefault_6s.webp?du=3000&sqp=CJ_jotYG&rs=AOn4CLBnWVzdND2k_bV3S-pOmeoXYXsi9g"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "The Complete SEO & AI SEO Course for 2026 (Full Beginner’s Guide)",
+      "link": "https://www.youtube.com/watch?v=7DRO4rEIHDk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7DRO4rEIHDk",
+      "video_id": "7DRO4rEIHDk",
+      "channel": {
+        "name": "Surfer Academy and Matt Kenyon",
+        "thumbnail": "https://yt3.ggpht.com/Bv-ZILjuT_wYllBIiy21S4bHSQqd3twvauDKxTr-AjP7TWSP29FZ2QUErta4PEAVg3hXqyYuxA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 279727,
+      "length": "50:46",
+      "description": "Learn SEO in 2026 and rank on Google + AI search (ChatGPT, AI Overviews, and more). Full step-by-step tutorial + 30-day action ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7DRO4rEIHDk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfspxj5AoIc9yboMBcqlzs65Dmzw",
+        "rich": "https://i.ytimg.com/an_webp/7DRO4rEIHDk/mqdefault_6s.webp?du=3000&sqp=CKProtYG&rs=AOn4CLDf1yM4FXe6qgGPw-nvj-IZPWg7WQ"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Complete AI SEO Course for Beginners: Learn AEO in 86 Minutes",
+      "link": "https://www.youtube.com/watch?v=uza9GX0E2mw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uza9GX0E2mw",
+      "video_id": "uza9GX0E2mw",
+      "channel": {
+        "name": "Ahrefs",
+        "link": "https://www.youtube.com/@AhrefsCom",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WGSuLikxFMe3DsJ6z4n1-V0Md5q6RWJDP-QYWjoxHOAzT7Xxv_rGxNzUKimI8Ff_Lc9Q2bTjpQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 103596,
+      "length": "1:26:56",
+      "description": "This complete AEO course teaches you everything you need to get traffic from AI search, from how AI search engines actually ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/uza9GX0E2mw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1AnlaXZV5so9BFtyTy-INcWJelA",
+        "rich": "https://i.ytimg.com/an_webp/uza9GX0E2mw/mqdefault_6s.webp?du=3000&sqp=CNSBo9YG&rs=AOn4CLCKor1UXk0Osdc_QldbKUXKcLCgJA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Complete SEO Course (3 Hours): Rank #1 AI Search | Prompts Included",
+      "link": "https://www.youtube.com/watch?v=ClGDDrsc_Xs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ClGDDrsc_Xs",
+      "video_id": "ClGDDrsc_Xs",
+      "channel": {
+        "name": "Nico | AI Ranking",
+        "link": "https://www.youtube.com/@Nico_AIRanking",
+        "thumbnail": "https://yt3.ggpht.com/Q4POXZNzweo5NaBcH7rrGmecFOce_VRmvhaJ5cOs7_hdXjZ7mPdkGZKc_Gizk0RPuWi9F1m031I=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 44150,
+      "length": "3:19:42",
+      "description": "All Assets From Video ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ClGDDrsc_Xs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnSs10ewR1xWOlSymrJOCSm40jlg",
+        "rich": "https://i.ytimg.com/an_webp/ClGDDrsc_Xs/mqdefault_6s.webp?du=3000&sqp=COmJo9YG&rs=AOn4CLBV7G2-aIqUJQsuFPijz94esLJMrA"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "SEO Full Course 2026 [FREE] | SEO Tutorial For Beginners | Complete SEO Training | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=jF71pyWlxx4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jF71pyWlxx4",
+      "video_id": "jF71pyWlxx4",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 44557,
+      "length": "5:13:05",
+      "description": "SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jF71pyWlxx4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXfyqJeTP53EZ4OmOUdMT740GOkA",
+        "rich": "https://i.ytimg.com/an_webp/jF71pyWlxx4/mqdefault_6s.webp?du=3000&sqp=CMbdotYG&rs=AOn4CLDV2JrFK1pac4zeaxfOBKh1zxix9A"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Full SEO Course for Beginners: Learn to Rank #1 in Google (2+ hours)",
+      "link": "https://www.youtube.com/watch?v=9aZqtrplInw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9aZqtrplInw",
+      "video_id": "9aZqtrplInw",
+      "channel": {
+        "name": "Vasco's SEO Tips",
+        "link": "https://www.youtube.com/@VascoSEOtips",
+        "thumbnail": "https://yt3.ggpht.com/4d4SPQie0-WibukIJnERNY4-fR79xLo_IxhdukGEVnjwZl5GXxDoOZDOXeWCnL4kIFH2M57tlw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 35698,
+      "length": "2:18:23",
+      "description": "Try my AI SEO Tool https://arvow.com/?utm_source=youtube9aZqtrplInw This is a complete course on how to do SEO (search ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9aZqtrplInw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKOa1nOpOThgXEoOlvdYipst13oA",
+        "rich": "https://i.ytimg.com/an_webp/9aZqtrplInw/mqdefault_6s.webp?du=3000&sqp=CPDvotYG&rs=AOn4CLDCdvXW-nPsRzVZHq8A2DZh3T0D5Q"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "SEO Full Course 2026 | SEO Tutorial for Beginners | SEO Training | SEO Explained | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=HJIwjXf9YFs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HJIwjXf9YFs",
+      "video_id": "HJIwjXf9YFs",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 45586,
+      "length": "6:28:52",
+      "description": "SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HJIwjXf9YFs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtXY9oQiF3HTVF0SWCFFC-KMj4LA",
+        "rich": "https://i.ytimg.com/an_webp/HJIwjXf9YFs/mqdefault_6s.webp?du=3000&sqp=CIn1otYG&rs=AOn4CLCMUWJNtFb2IsORtW486_ggIfCD4A"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Understand search engine optimization (SEO) | Google Digital Marketing & E-commerce Certificate",
+      "link": "https://www.youtube.com/watch?v=5Zz8VbFixOI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5Zz8VbFixOI",
+      "video_id": "5Zz8VbFixOI",
+      "channel": {
+        "name": "Grow with Google",
+        "link": "https://www.youtube.com/@growwithgoogle",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/2wrZdGoZcp6JeGIxiNO6lLfHjPgF8uTkUM1dURclf44qhuNouF6q8GPRuEpD2Ez0BmiLfL7cTg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 109253,
+      "length": "38:11",
+      "description": "This video is part of the Google Digital Marketing & E-commerce Certificate. If you're curious about the latest trends in technology ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5Zz8VbFixOI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP5Qb0pVafuXCGB_IyttjVDb4C2w",
+        "rich": "https://i.ytimg.com/an_webp/5Zz8VbFixOI/mqdefault_6s.webp?du=3000&sqp=CN7yotYG&rs=AOn4CLCeQ0hY9DRcfTLNgU0IZpVMBzu1Xw"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "The BEST SEO Tutorial for Businesses 2026 (Full Guide)",
+      "link": "https://www.youtube.com/watch?v=ZKZnDORR0ds",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZKZnDORR0ds",
+      "video_id": "ZKZnDORR0ds",
+      "channel": {
+        "name": "Caleb Ulku",
+        "link": "https://www.youtube.com/@calebulku",
+        "thumbnail": "https://yt3.ggpht.com/BDbekEiIDMjDRPoGQmqGVKz-txFnPyEyJe2CRK1ypS-yOZ-5Lg5QmvOS2Wmac3FiQeUvex201A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 100364,
+      "length": "42:04",
+      "description": "_ Join our exclusive AI SEO Mastery group for templates and resources: https://www.skool.com/ai-seo-mastery/ LeadSnap ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZKZnDORR0ds/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4vlFZCNEBqQAy1zGorvIsPgd_2g",
+        "rich": "https://i.ytimg.com/an_webp/ZKZnDORR0ds/mqdefault_6s.webp?du=3000&sqp=CJeAo9YG&rs=AOn4CLDEegl3_UFj3m_6l3eL4js8bq9XFw"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "SEO Full Course 2026 [FREE] | SEO Tutorial For Beginners | Digital Marketing SEO Course |Simplilearn",
+      "link": "https://www.youtube.com/watch?v=bxAe_nzAjIo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bxAe_nzAjIo",
+      "video_id": "bxAe_nzAjIo",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 13055,
+      "length": "4:49:08",
+      "description": "SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bxAe_nzAjIo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCt-eDPY2vr2lNy-igZQST5ZjKlhw",
+        "rich": "https://i.ytimg.com/an_webp/bxAe_nzAjIo/mqdefault_6s.webp?du=3000&sqp=COCAo9YG&rs=AOn4CLCaDfVCI14hQ7Ml8U0mnXTqoxlFlw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "SEO Full Course 2026 | SEO Tutorial For Beginners | SEO Course | SEO Training | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=JJfjQh1gIn0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JJfjQh1gIn0",
+      "video_id": "JJfjQh1gIn0",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 553604,
+      "length": "11:55:08",
+      "description": "SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JJfjQh1gIn0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAX_NW6CuVp4evvQF8eivdPzILEqg",
+        "rich": "https://i.ytimg.com/an_webp/JJfjQh1gIn0/mqdefault_6s.webp?du=3000&sqp=CNjXotYG&rs=AOn4CLAEeKghbOb0ZazRRX7SA4Hh9rVXzQ"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Complete SEO Course for Beginners 2026 | Learn SEO Step by Step",
+      "link": "https://www.youtube.com/watch?v=CQBrmEScfyQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CQBrmEScfyQ",
+      "video_id": "CQBrmEScfyQ",
+      "channel": {
+        "name": "BrightRoute",
+        "link": "https://www.youtube.com/@Bright_Route",
+        "thumbnail": "https://yt3.ggpht.com/jrdgS8_f3G1jfEKzvI7ohNcXURVxJQH-PzKiPziccArqgE0CX9nELL4WgCFElPD8Ba3HcO44sII=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 350,
+      "length": "3:19:42",
+      "description": "Want to learn SEO from scratch? This Complete SEO Course is designed for beginners who want to understand how search ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/CQBrmEScfyQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSSTHEkmRTer-P8eslyejo2yMCuA",
+        "rich": "https://i.ytimg.com/an_webp/CQBrmEScfyQ/mqdefault_6s.webp?du=3000&sqp=CJjTotYG&rs=AOn4CLBJBmZwzHzWh8IiyCuj5xdFFJlk3w"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "SEO Full Course 2026 | SEO Tutorial For Beginners | Search Engine Optimization Course | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=3AsUi4zwysw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3AsUi4zwysw",
+      "video_id": "3AsUi4zwysw",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 6287,
+      "length": "7:31:58",
+      "description": "\"  SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3AsUi4zwysw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsBtaSZd97spWugnULwj1KRWCMOQ",
+        "rich": "https://i.ytimg.com/an_webp/3AsUi4zwysw/mqdefault_6s.webp?du=3000&sqp=CLSAo9YG&rs=AOn4CLBy7StaqsJTVaNh3k-9RLodR4wKrg"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "SEO Full Course 2026 | SEO Tutorial For Beginners | Search Engine Optimisation Course | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=DHTvPb7AnMI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DHTvPb7AnMI",
+      "video_id": "DHTvPb7AnMI",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 4897,
+      "length": "4:50:49",
+      "description": "SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/DHTvPb7AnMI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB70f5-ez5vyGmLrpe-IGT5hE2wLQ",
+        "rich": "https://i.ytimg.com/an_webp/DHTvPb7AnMI/mqdefault_6s.webp?du=3000&sqp=CITzotYG&rs=AOn4CLBkRASu50zdajuiTaJXb-URr-ogYw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "SEO Tutorial For Beginners  | SEO Full Course | Search Engine Optimization Tutorial | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=OYRkIGaP80M",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OYRkIGaP80M",
+      "video_id": "OYRkIGaP80M",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 2421633,
+      "length": "8:26:47",
+      "description": "SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OYRkIGaP80M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEW22VU8CcUk_SgPdQaYGSo5rdaQ",
+        "rich": "https://i.ytimg.com/an_webp/OYRkIGaP80M/mqdefault_6s.webp?du=3000&sqp=CJPUotYG&rs=AOn4CLDyxxdPTXDpzdmrO9uTeYzF4SaXYA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Complete AI SEO Course 2026 (Rank #1 on Google Using Claude & ChatGPT)",
+      "link": "https://www.youtube.com/watch?v=P-vPlQ7GmTw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=P-vPlQ7GmTw",
+      "video_id": "P-vPlQ7GmTw",
+      "channel": {
+        "name": "Nico | AI Ranking",
+        "link": "https://www.youtube.com/@Nico_AIRanking",
+        "thumbnail": "https://yt3.ggpht.com/Q4POXZNzweo5NaBcH7rrGmecFOce_VRmvhaJ5cOs7_hdXjZ7mPdkGZKc_Gizk0RPuWi9F1m031I=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 27457,
+      "length": "1:19:52",
+      "description": "Get the Masterclass Guide for Free - https://skooltraffictracker.com/complete-system I will uncover the complete 2026 SEO system, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/P-vPlQ7GmTw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrg8_WVDSc9WtGfOe-pIvfDA5M4A",
+        "rich": "https://i.ytimg.com/an_webp/P-vPlQ7GmTw/mqdefault_6s.webp?du=3000&sqp=COT6otYG&rs=AOn4CLBrs7gKo3R2UD8g7MR3-GrLmzrKIg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Master SEO in 30 Minutes (Complete SEO Tutorial for Beginners)",
+      "link": "https://www.youtube.com/watch?v=cznm78evsO8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cznm78evsO8",
+      "video_id": "cznm78evsO8",
+      "channel": {
+        "name": "Rank Math SEO",
+        "link": "https://www.youtube.com/@RankMath",
+        "thumbnail": "https://yt3.ggpht.com/yPD2kptiOjPDN_b2IDjDEolW5sZGt4odG996f_2LirhSJ5t6ZOiG9Y1G54_5KtvWrWdgrFxA9A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 19339,
+      "length": "32:22",
+      "description": "Do you want to learn SEO fast?⏳In this video, learn to master SEO in just 30 minutes with practical tips, proven strategies that ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/cznm78evsO8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCczR5KGRGtx-jHOuGhIEKTS2aKuw",
+        "rich": "https://i.ytimg.com/an_webp/cznm78evsO8/mqdefault_6s.webp?du=3000&sqp=CMuBo9YG&rs=AOn4CLAuRs0d9XmtueHxdF2lb7YMWRjLuw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "SEO Full Course | Complete SEO Course Bangla | SEO For Beginners | বাংলা এসইও কোর্স | Khalid Farhan",
+      "link": "https://www.youtube.com/watch?v=74lOqjtoW2s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=74lOqjtoW2s",
+      "video_id": "74lOqjtoW2s",
+      "channel": {
+        "name": "Khalid Farhan",
+        "link": "https://www.youtube.com/@iamkhalidfarhan",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/5dxYD3ECa6JrqQi63o4_elDB5rkyJxBsRLCkYzcI_nY3_LIPnPWfhHsdYO3CVUaXVoWFRr_eygI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1288241,
+      "length": "7:48:25",
+      "description": "একটা ব্যবসা দাঁড় করিয়ে আয় করতে চান? অথবা ইন্টারনেট ভিত্তিক একটা ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/74lOqjtoW2s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZGlCt_613AJ0ZoQ7jtRSn3JE6Gg",
+        "rich": "https://i.ytimg.com/an_webp/74lOqjtoW2s/mqdefault_6s.webp?du=3000&sqp=CJbaotYG&rs=AOn4CLBjleZ4Zg8V9TtkRybjO1T13AcUNg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Complete SEO Course For Beginners | SEO Tutorial 2025",
+      "link": "https://www.youtube.com/watch?v=KjYXQGWkRVo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=KjYXQGWkRVo",
+      "video_id": "KjYXQGWkRVo",
+      "channel": {
+        "name": "HBA Services",
+        "link": "https://www.youtube.com/@hbaservices",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/sjjkwQ_FjR9pWW50pPfEnR9GrCDKJ9RA0rVKgo1Z5tA3Gj6X5kmIhMax8fodOJ8vMF40gkEWoWY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 154062,
+      "length": "2:17:13",
+      "description": "Asalam o Alekum! Complete SEO Course For Beginners | SEO Tutorial 2025 ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/KjYXQGWkRVo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpZNzEaowHw-Cqn0O14RzgaF2ZuA",
+        "rich": "https://i.ytimg.com/an_webp/KjYXQGWkRVo/mqdefault_6s.webp?du=3000&sqp=CJ6Go9YG&rs=AOn4CLDBioqtNolXOhGq2L7LHD5pXx7U_A"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "SEO Full Course 2026 | SEO Tutorial for Beginners | SEO Training Course | SEO Explained |Simplilearn",
+      "link": "https://www.youtube.com/watch?v=f-OugXil1os",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=f-OugXil1os",
+      "video_id": "f-OugXil1os",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 15220,
+      "length": "5:57:03",
+      "description": "SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/f-OugXil1os/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNT6TLmmqR4jssyqW6K_EOZO2YIQ",
+        "rich": "https://i.ytimg.com/an_webp/f-OugXil1os/mqdefault_6s.webp?du=3000&sqp=CKP2otYG&rs=AOn4CLDdcgN8xrUCqJ13N4-USa4Hns8-YA"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=SEO+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=SEO%20full%20course%20for%20beginners&sp=EgIYAkgUggELeHNWVHF6cmF0UHOCAQs3RFJPNHJFSUhEa4IBC3V6YTlHWDBFMm13ggELQ2xHRERyc2NfWHOCAQtqRjcxcHlXbHh4NIIBCzlhWnF0cnBsSW53ggELSEpJd2pYZjlZRnOCAQs1Wno4VmJGaXhPSYIBC1pLWm5ET1JSMGRzggELYnhBZV9uekFqSW-CAQtKSmZqUWgxZ0luMIIBC0NRQnJtRVNjZnlRggELM0FzVWk0end5c3eCAQtESFR2UGI3QW5NSYIBC09ZUmtJR2FQODBNggELUC12UGxRN0dtVHeCAQtjem5tNzhldnNPOIIBCzc0bE9xanRvVzJzggELS2pZWFFHV2tSVm-CAQtmLU91Z1hpbDFvc7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELeHNWVHF6cmF0UHOCAQs3RFJPNHJFSUhEa4IBC3V6YTlHWDBFMm13ggELQ2xHRERyc2NfWHOCAQtqRjcxcHlXbHh4NIIBCzlhWnF0cnBsSW53ggELSEpJd2pYZjlZRnOCAQs1Wno4VmJGaXhPSYIBC1pLWm5ET1JSMGRzggELYnhBZV9uekFqSW-CAQtKSmZqUWgxZ0luMIIBC0NRQnJtRVNjZnlRggELM0FzVWk0end5c3eCAQtESFR2UGI3QW5NSYIBC09ZUmtJR2FQODBNggELUC12UGxRN0dtVHeCAQtjem5tNzhldnNPOIIBCzc0bE9xanRvVzJzggELS2pZWFFHV2tSVm-CAQtmLU91Z1hpbDFvc7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SEO+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SEO+full+course+for+beginners&sp=EgIYAkgUggELeHNWVHF6cmF0UHOCAQs3RFJPNHJFSUhEa4IBC3V6YTlHWDBFMm13ggELQ2xHRERyc2NfWHOCAQtqRjcxcHlXbHh4NIIBCzlhWnF0cnBsSW53ggELSEpJd2pYZjlZRnOCAQs1Wno4VmJGaXhPSYIBC1pLWm5ET1JSMGRzggELYnhBZV9uekFqSW-CAQtKSmZqUWgxZ0luMIIBC0NRQnJtRVNjZnlRggELM0FzVWk0end5c3eCAQtESFR2UGI3QW5NSYIBC09ZUmtJR2FQODBNggELUC12UGxRN0dtVHeCAQtjem5tNzhldnNPOIIBCzc0bE9xanRvVzJzggELS2pZWFFHV2tSVm-CAQtmLU91Z1hpbDFvc7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELeHNWVHF6cmF0UHOCAQs3RFJPNHJFSUhEa4IBC3V6YTlHWDBFMm13ggELQ2xHRERyc2NfWHOCAQtqRjcxcHlXbHh4NIIBCzlhWnF0cnBsSW53ggELSEpJd2pYZjlZRnOCAQs1Wno4VmJGaXhPSYIBC1pLWm5ET1JSMGRzggELYnhBZV9uekFqSW-CAQtKSmZqUWgxZ0luMIIBC0NRQnJtRVNjZnlRggELM0FzVWk0end5c3eCAQtESFR2UGI3QW5NSYIBC09ZUmtJR2FQODBNggELUC12UGxRN0dtVHeCAQtjem5tNzhldnNPOIIBCzc0bE9xanRvVzJzggELS2pZWFFHV2tSVm-CAQtmLU91Z1hpbDFvc7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 10:42:44 UTC"
+}
