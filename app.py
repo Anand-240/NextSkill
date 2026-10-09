@@ -383,7 +383,12 @@ if result:
                     st.write(f"Alternatives: {alternative['text']}")
             else:
                 st.caption("This listing offers no either/or skill choices.")
-            st.markdown(f"**Time plan:** {time_range(plan)}: {plan['revision_minutes']:.0f} minutes of revision videos "
+            short = plan["shortest_route"]
+            st.markdown("**Shortest route to match this listing**")
+            st.write((", ".join(short["skills"]) or short["status"]) +
+                     (f" · {short['hours']:.2f} course hours" if short["hours"] is not None else ""))
+            st.caption("Exact among measured skills (up to 12); unknown hours may hide a shorter route. Coverage is not eligibility.")
+            st.markdown(f"**Full plan:** {time_range(plan)}: {plan['revision_minutes']:.0f} minutes of revision videos "
                         f"plus {plan['learning_hours']:.1f} hours of full courses.")
             st.caption(REVISION_LABEL)
             if plan["hours_unknown"] or plan["broad"]:

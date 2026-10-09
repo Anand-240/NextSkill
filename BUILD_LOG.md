@@ -105,3 +105,16 @@ current prose. Archived the original golden file; no results tuned to preserve i
   An exact title match still does not prove stack suitability or audio language.
   Golden-result test and UI agree. Diff reviewed; no claims tuned to old numbers.
 - Record: no searches. Old results preserved in reports/archive/pre_complete_build.json.
+
+## B5 - Shortest route and full prep
+
+- Research: build_plan totals every missing core skill even when one crosses the
+  selected threshold; course lookup already supports saved hours.
+- Plan/acceptance: separate minimum measured course hours from complete prep; a
+  known four-requirement example must choose the cheapest sufficient skill.
+- Build: exact subset search over up to 12 measured missing skills; already-match,
+  unknown-duration and no-measured-route states; full plan stays visible.
+- Test: cheapest-sufficient-skill regression added; full suite 75 tests passes.
+- Verify: UI exposes both plans and candidate-bound caveat. No live lookup added;
+  existing prep uses cache-only clients. Diff reviewed.
+- Record: zero searches.

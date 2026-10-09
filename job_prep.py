@@ -4,6 +4,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import itertools
 from typing import Callable
 
 from engine import (ROOT, coverage, experience_evidence, extract_skills, indicated_languages,
@@ -222,7 +223,9 @@ def build_plan(analysis: dict, index: int,
                            for video in item["revision_videos"])
     learning_hours = sum(item["hours"] for item in items if item["action"] == "learn" and item["hours"])
     years, phrase = experience_evidence(job)
+    shortest = shortest_route(core, user, threshold, course)
     return {"index": index, "job": job, "items": items, "alternatives": alternatives,
+            "shortest_route": shortest,
             "must_haves_status": must_have_status(stated_must_haves(description), user),
             "must_haves": [" or ".join(sorted(req)) for req in sorted(stated_must_haves(description), key=lambda r: sorted(r))],
             "core_total": len(core), "covered_now": covered_now, "covered_after": covered_after,
@@ -238,6 +241,27 @@ def build_plan(analysis: dict, index: int,
             "broad": sorted(item["skill"] for item in items if item["action"] == "learn" and item["broad"]),
             "missing_revision": sorted(item["skill"] for item in items
                                        if item["action"] == "revise" and item["revision_status"] != "found")}
+
+
+def shortest_route(requirements, user, threshold, course_lookup):
+    """Minimum course hours to the coverage threshold among measured missing skills."""
+    if coverage(requirements, user) >= threshold:
+        return {"skills": [], "hours": 0.0, "status": "already matches", "unknown": []}
+    missing = sorted(set().union(*requirements) - user - GENERIC) if requirements else []
+    hours = {skill: course_lookup(skill)[0] for skill in missing}
+    unknown = [skill for skill in missing if not hours[skill]]
+    measured = sorted((s for s in missing if hours[s]), key=lambda s: (hours[s], s))[:12]
+    best = None
+    for size in range(1, len(measured) + 1):
+        for subset in itertools.combinations(measured, size):
+            spent = sum(hours[s] for s in subset)
+            if best and spent >= best[0]:
+                continue
+            if coverage(requirements, user | set(subset)) >= threshold:
+                best = (spent, subset)
+    return {"skills": list(best[1]) if best else [], "hours": best[0] if best else None,
+            "status": "exact among measured skills (up to 12)" if best else "no measured route",
+            "unknown": unknown}
 
 
 def time_range(plan: dict) -> str:

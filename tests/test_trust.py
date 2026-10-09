@@ -5,6 +5,13 @@ from engine import SerpClient, rank_skills, stated_must_haves, must_have_status,
 
 
 class TrustTests(unittest.TestCase):
+    def test_shortest_route_chooses_cheapest_sufficient_skill(self):
+        from job_prep import shortest_route
+        req = {frozenset({s}) for s in ['HTML','CSS','React','SQL']}
+        route = shortest_route(req, {'HTML'}, .5, lambda s: ({'CSS':1,'React':5,'SQL':3}[s], [], 'standard'))
+        self.assertEqual(route['skills'], ['CSS'])
+        self.assertEqual(route['hours'], 1)
+
     def test_course_title_requires_skill_or_alias(self):
         videos = [{'title':'Figma full course','length':'2:00:00'},
                   {'title':'ReactJS full course','length':'1:00:00'},
