@@ -204,3 +204,38 @@ No network search was used. Ranking and course-rule result changes are retained.
 - Test: 78 full-suite tests pass; all eight saved pairs use configured defaults.
 - Verify: legacy app still opens correctly; collection and generator share config.
   Diff reviewed. No searches.
+
+## Handoff to a new agent
+
+Taken over 2026-10-09 16:26 IST. Feature freeze: 2026-10-10 12:00 IST (about 19.5 hours).
+Last pushed commit: 4235a58 (local main equals origin/main). CI at that commit: success.
+Offline suite at takeover: 78 tests, OK. Uncommitted at takeover: research/RESEARCH.md
+(14 added lines of Streamlit implementation references, correct, kept).
+
+Credits (Account API, free call): this_month_usage 23, total_searches_left 227.
+The plan's 160 cap leaves 137; the 90-search floor also leaves 137. Remaining budget: 137.
+Ledger (reports/build_usage.json): 23 attempts, all phase C (16 jobs, 7 course).
+Phase C remaining: 82 (of 105), of which revision videos 15.
+
+| Step | Status | Evidence / gap |
+|---|---|---|
+| A1 | DONE | research/RESEARCH.md A1, commit 1b69d2e |
+| A2 | DONE | A2 contract table, c95181f |
+| A3 | DONE | four primary sources, 6502c59 |
+| A4 | NOT STARTED | landscape comparison |
+| A5 | NOT STARTED | NPTEL/SWAYAM site: check |
+| B1-B7 | DONE | sections above; tests 75 at B7; golden data regenerated |
+| C1 | DONE | Git hours filled, 1 call |
+| C2 | PARTIAL | 8 pairs saved (needs tier-2, non-dev, low-data: all present); about 7 of the 15 target pairs not collected |
+| C3 | DONE | scan_data.py, redaction tests |
+| C4 | DONE | config/personas.json |
+| C5 | NOT STARTED | revision videos |
+| C6 | NOT STARTED | default Job Prep listing per pair |
+| D1, D2 | NOT STARTED | |
+| E1-E8 | NOT STARTED | app.py is still the single page |
+| F1-F3 | NOT STARTED | no evaluation/ directory |
+| G1 | PARTIAL | scripts/build_results.py exists and writes reports/final_results.json |
+| G2 | NOT STARTED | no check_consistency.py, not in CI |
+| H1 | PASS now | 78 tests, CI green |
+| H2-H8 | NOT STARTED | |
+| I1-I5 | NOT STARTED | README/DEMO exist from earlier phases |

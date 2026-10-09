@@ -78,3 +78,17 @@ Product inference: an inspectable local listing-to-skill comparison may help app
 choose a next step. We have not measured its benefit, and cannot attribute structural
 unemployment to individual skill gaps. No credible price study was verified here;
 we make no claim about an average monetary cost of career guidance.
+
+## Implementation references for later pages
+
+[Streamlit navigation](https://docs.streamlit.io/develop/api-reference/navigation/st.navigation)
+runs from the entry point and executes the selected Page with `.run()`. The page
+list may change on reruns, allowing a local-key-only live page.
+[Multipage concepts](https://docs.streamlit.io/develop/concepts/multipage-apps/page-and-navigation)
+explains the shared frame and page state.
+[Cache data](https://docs.streamlit.io/develop/api-reference/caching-and-state/st.cache_data)
+serializes cached outputs and returns copies; keep personal resume inputs out of
+shared cache keys by extracting a canonical skill set first.
+[File uploader](https://docs.streamlit.io/develop/api-reference/widgets/st.file_uploader)
+returns uploaded bytes suitable for the existing pypdf extractor. Cap PDF size and
+report parse/OCR limitations instead of exposing a traceback.
