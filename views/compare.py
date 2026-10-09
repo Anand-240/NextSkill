@@ -67,6 +67,8 @@ gap_frame = pandas.DataFrame([{"Role": row["role"], "City": row["city"], "Locate
                                "Pages fetched": row["pages_fetched"], "Snapshot": ", ".join(row["snapshot_dates"]),
                                "Most common other places": ", ".join(row["other_places"]) or "none"}
                               for row in gap["rows"]])
+typical = round(sum(row["listings"] for row in gap["rows"]) / len(gap["rows"]))
+st.write(f"Of the about {typical} listings Google Jobs returned for each query, how many were located in the named city.")
 gap_chart = alt.Chart(gap_frame).mark_bar().encode(
     x=alt.X("City:N", sort=["Bengaluru", "Pune", "Jaipur", "Indore", "Dehradun"], title=None),
     xOffset="Role:N", y=alt.Y("Located in the city:Q", title="Listings located in the city"),
@@ -78,5 +80,6 @@ st.caption("Listings visible through Google Jobs in this equal-query snapshot (t
            "variants, three pages), not the number of jobs in a city. Every query filled all three pages, so the page limit "
            "sets the total. A listing counts as located in the city when its location text names the city; suburbs under "
            "other names do not count. Fewer local listings means less evidence to plan from, and NextSkill flags small "
-           "samples instead of guessing.")
+           "samples instead of guessing. Saved markets use fresher and junior queries and an experience filter, so their counts "
+           "are smaller.")
 st.dataframe(gap_frame, hide_index=True, width="stretch")

@@ -72,6 +72,9 @@ def _render_plan(plan: dict, saved: bool, budget: int | None) -> None:
     musts.markdown(f'<div class="stat stat-sm">{plan["must_haves_status"].capitalize()}</div>'
                    f'<div class="stat-l">stated must-haves met ({", ".join(plan["must_haves"]) or "none stated"})</div>',
                    unsafe_allow_html=True)
+    if plan["must_haves_unplanned"]:
+        st.caption("This listing also requires: " + ", ".join(plan["must_haves_unplanned"]) +
+                   "; these are not covered by saved course data.")
     if plan["coverage_now"] >= plan["threshold"]:
         st.write("This listing already matches your profile.")
     elif plan["unlock_skills"]:

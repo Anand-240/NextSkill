@@ -94,6 +94,15 @@ class ShortestRouteAndNotesTests(unittest.TestCase):
     def lookup(self, table):
         return lambda skill: table.get(skill, (None, [], "low"))
 
+    def test_required_skills_outside_the_plan_are_named(self):
+        jobs = [job("Frontend Developer", "Target", "TypeScript and Next.js are required. HTML, React and REST API."),
+                *[job("Dev", name, "HTML, React, REST API") for name in ("One", "Two", "Three", "Four", "Five")]]
+        analysis = analyze_jobs(jobs, {"HTML"}, threshold=.5)
+        index = next(i for i, row in enumerate(analysis["jobs"]) if row["job"]["company_name"] == "Target")
+        plan = build_plan(analysis, index, self.lookup({}), no_revision)
+        self.assertEqual(plan["must_haves_unplanned"], ["Next.js", "TypeScript"])
+        self.assertTrue(all(item["skill"] not in {"Next.js", "TypeScript"} for item in plan["items"]))
+
     def test_standard_confidence_routes_win_over_a_shorter_low_confidence_one(self):
         table = {"Responsive Design": (0.8, [], "low"), "REST API": (2.5, [], "standard"), "React": (5.0, [], "standard")}
         plan = build_plan(self.analysis, self.index, self.lookup(table), no_revision)

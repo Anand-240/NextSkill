@@ -88,20 +88,25 @@ def baseline_rows(results: dict) -> list[dict]:
     return rows
 
 
+def _less_time(row: dict) -> bool:
+    """Shorter course time as the reader sees it: shorter and not the same rounded wording."""
+    hours, base = row["headline_hours"], row["hours"]
+    return hours is not None and base is not None and hours < base and hours_text(hours) != hours_text(base)
+
+
 def _reading(row: dict) -> str:
     more, same = row["headline_unlocked"] > row["unlocked"], row["headline_unlocked"] == row["unlocked"]
     hours, base_hours = row["headline_hours"], row["hours"]
-    if base_hours is None or hours is None:
-        shorter = None
-    else:
-        shorter = hours < base_hours
-    if (more or same) and shorter:
-        return "headline unlocks " + ("more" if more else "as many") + " listings in less course time"
+    about_same = hours is not None and base_hours is not None and hours_text(hours) == hours_text(base_hours)
+    shorter = _less_time(row)
+    if (more or same) and (shorter or about_same):
+        return ("headline unlocks " + ("more" if more else "as many") + " listings in " +
+                ("less" if shorter else "about the same") + " course time")
     if more:
         return "headline unlocks more listings"
     if shorter:
         return "headline unlocks fewer listings in less course time"
-    return "headline unlocks fewer listings"
+    return "headline unlocks fewer listings" + (" in about the same course time" if about_same else "")
 
 
 def baseline_summary(results: dict) -> dict:
@@ -110,8 +115,7 @@ def baseline_summary(results: dict) -> dict:
     differ = [row for row in rows if not row["agrees"]]
     return {"markets": len(rows), "agree": agree, "differ": differ,
             "at_least_as_many": sum(row["headline_unlocked"] >= row["unlocked"] for row in differ),
-            "faster": sum(row["headline_hours"] is not None and row["hours"] is not None and row["headline_hours"] < row["hours"]
-                          for row in differ)}
+            "faster": sum(_less_time(row) for row in differ)}
 
 
 def baseline_text(results: dict) -> str:

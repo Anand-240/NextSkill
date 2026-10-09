@@ -65,6 +65,7 @@ a:hover {background: var(--mark); color: var(--ink);}
 [data-testid="stCaptionContainer"] {color: var(--muted)}
 [data-testid="stAlert"] {background: var(--card); border: 1.5px solid var(--ink); border-radius: 4px; color: var(--ink)}
 [data-testid="stDataFrame"] {border: 1.5px solid var(--ink); border-radius: 4px}
+[data-testid="stMarkdownContainer"] table {display: block; max-width: 100%; overflow-x: auto}
 @media (max-width: 640px) {.block-container {padding-top: 4rem} .display {font-size: 2.2rem}}
 </style>"""
 

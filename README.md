@@ -8,9 +8,9 @@ them there, with every number linked to its source.**
 **Who it helps.** Freshers and early-career job seekers choosing what to learn next, especially outside the biggest hubs,
 where local listings are thin. It counts what local listings ask for instead of guessing from national trends.
 
-**Worked example.** Priya is a sample profile, not a real person. She knows HTML, CSS and JavaScript and wants a Frontend Developer job in Bengaluru. In **19** scored local listings pulled through SerpApi, her profile meets the core skills of **9**. **REST API** would add **8** more, for about 3 hours of free courses. Pick stability: Likely, based on 19 listings. Every listing and course behind that estimate is linked.
+**Worked example.** Priya is a sample profile, not a real person. She knows HTML, CSS and JavaScript and wants a Frontend Developer job in Bengaluru. In **19** scored listings pulled through SerpApi for Bengaluru searches (some are in nearby or other cities), her profile meets the core skills of **9**. **REST API** would add **8** more, for about 3 hours of free courses. Pick stability: Likely, based on 19 listings. Every listing and course behind that estimate is linked.
 
-**Key finding: the job-information gap.** Asked the same plain question for 2 roles in 5 cities, Google Jobs returned between 26 and 30 listings every time (the three-page limit). How many were located in the named city varied a lot: only 3 of 28 for Accountant in Dehradun (most of the rest were in New Delhi, Gurugram and Noida), against 27 of 28 for Data Analyst in Jaipur. A fresher outside the biggest hubs can see far less local evidence than the length of the list suggests.
+**Key finding: the job-information gap.** Asked the same plain question for 2 roles in 5 cities, Google Jobs returned between 26 and 30 listings every time (the three-page limit). How many were located in the named city varied a lot: only 3 of 28 for Accountant in Dehradun (the most common other places were New Delhi, Gurugram and Noida), against 27 of 28 for Data Analyst in Jaipur. A fresher outside the biggest hubs can see far less local evidence than the length of the list suggests.
 
 ## How it works
 
@@ -64,16 +64,16 @@ guessing. The chart is on the Compare cities page; the data is in [reports/job_g
 
 ## Does jobs-per-hour change the answer?
 
-A simple alternative is to recommend the missing core skill that the most scored listings ask for, with no course hours. The two methods agree in 4 of 14 markets that have a headline pick. In the other 10, the headline pick unlocks at least as many extra listings as the frequency-only pick in 5 and needs less course time in 9. So including course hours does change the answer, but it trades off listings against hours, and it rests on video lengths that are only a proxy for study time.
+A simple alternative is to recommend the missing core skill that the most scored listings ask for, with no course hours. The two methods agree in 4 of 14 markets that have a headline pick. In the other 10, the headline pick unlocks at least as many extra listings as the frequency-only pick in 5 and needs less course time in 7. So including course hours does change the answer, but it trades off listings against hours, and it rests on video lengths that are only a proxy for study time.
 
 | Market | Most asked skill (extra listings, course time) | Headline pick (extra listings, course time) | Reading |
 |---|---|---|---|
 | Frontend Developer / Bengaluru | React (+10, about 5 hours) | REST API (+8, about 3 hours) | headline unlocks fewer listings in less course time |
 | Data Analyst / Hyderabad | SQL (+7, about 4 hours) | Data Cleaning (+4, about 2 hours) | headline unlocks fewer listings in less course time |
 | Data Analyst / Pune | Statistics (+4, about 8 hours) | Power BI (+3, about 4 hours) | headline unlocks fewer listings in less course time |
-| Data Analyst / Jaipur | SQL (+4, about 4 hours) | Power BI (+4, about 4 hours) | headline unlocks as many listings in less course time |
+| Data Analyst / Jaipur | SQL (+4, about 4 hours) | Power BI (+4, about 4 hours) | headline unlocks as many listings in about the same course time |
 | Digital Marketing Executive / Dehradun | Google Ads (+3, about 5 hours) | SEO (+2, about 2 hours) | headline unlocks fewer listings in less course time |
-| Python Developer / Bengaluru | Django (+1, about 3 hours) | REST API (+1, about 3 hours) | headline unlocks as many listings in less course time |
+| Python Developer / Bengaluru | Django (+1, about 3 hours) | REST API (+1, about 3 hours) | headline unlocks as many listings in about the same course time |
 | Python Developer / Kochi | HTML (+2, about 5 hours) | PostgreSQL (+3, about 4 hours) | headline unlocks more listings in less course time |
 | Accountant / Indore | GST (+2, about 5 hours) | TDS (+2, about 2 hours) | headline unlocks as many listings in less course time |
 | Digital Marketing Executive / Pune | Market Research (+2, about 1 hour) | Email Marketing (+1, about 2 hours) | headline unlocks fewer listings |
@@ -127,7 +127,7 @@ and a user-test sheet are in [evaluation/](evaluation/README.md); a person must 
 - [Account API](https://serpapi.com/account-api): shows remaining credits in live mode; a failure never discards results.
 
 Requests time out after 75 seconds and are not retried. Live runs have a per-run budget and a Search Replay that shows
-what was live, cached or skipped. This build recorded 98 SerpApi search attempts (61 Google Jobs, 29 YouTube, 8 Google web search) in reports/build_usage.json; the Account API figures are in docs/BUILD_LOG.md.
+what was live, cached or skipped. This build recorded 106 SerpApi search attempts (61 Google Jobs, 37 YouTube, 8 Google web search) in reports/build_usage.json; the Account API figures are in docs/BUILD_LOG.md.
 
 ## Judge FAQ
 
@@ -200,5 +200,5 @@ step and the API budget.
 
 ## AI tools used
 
-OpenAI Codex and Claude Code assisted with implementation, tests, analysis and documentation. The running app does not call
-an LLM. Human labels, user feedback and Hindi approvals have not been collected, and an assistant must never generate them.
+OpenAI Codex and Claude Code assisted with implementation, tests, analysis and documentation; Claude (chat) helped with
+planning, prompts and reviews. The running app does not call an LLM. Human labels, user feedback and Hindi approvals have not been collected, and an assistant must never generate them.

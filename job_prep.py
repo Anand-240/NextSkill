@@ -250,7 +250,10 @@ def build_plan(analysis: dict, index: int,
         title_notes.append(f"The listing title names {skill}, which this plan does not include.")
     for skill in sorted((title_skills & planned) - set(shortest["skills"]) - user):
         title_notes.append(f"The listing title names {skill}, which the shortest route does not include.")
-    return {"index": index, "job": job, "items": items, "alternatives": alternatives,
+    musts = stated_must_haves(description)
+    unplanned = [" or ".join(sorted(req)) for req in sorted(musts, key=lambda r: sorted(r))
+                 if not req & user and not req & planned]
+    return {"index": index, "job": job, "items": items, "alternatives": alternatives, "must_haves_unplanned": unplanned,
             "shortest_route": shortest, "title_notes": title_notes,
             "must_haves_status": must_have_status(stated_must_haves(description), user),
             "must_haves": [" or ".join(sorted(req)) for req in sorted(stated_must_haves(description), key=lambda r: sorted(r))],

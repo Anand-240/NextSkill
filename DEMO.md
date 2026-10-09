@@ -6,7 +6,7 @@ Never show the key.
 
 | Time | Show and say |
 |---|---|
-| 0:00-0:20 | Home page. "Meet Priya, a sample fresher in Bengaluru who knows HTML, CSS and JavaScript. In 19 local listings pulled through SerpApi, she meets the core skills of 9. NextSkill counts which one skill unlocks the most extra listings, and shows every listing and free course behind that number." |
+| 0:00-0:20 | Home page. "Meet Priya, a sample fresher in Bengaluru who knows HTML, CSS and JavaScript. In 19 listings pulled through SerpApi for Bengaluru searches, she meets the core skills of 9. NextSkill counts which one skill unlocks the most extra listings, and shows every listing and free course behind that number." |
 | 0:20-0:55 | Job match, Frontend Developer in Bengaluru. The headline pick is REST API: +8 listings, about 3 hours of free courses. Open Evidence: the listings it adds, stated must-haves met in 1 of the 9 matches, and the free YouTube courses. Pick stability is Likely, based on 19 listings. Course length is not mastery. |
 | 0:55-1:20 | Job Prep for one listing (Frontend Developer (Fresher)): shortest route (REST API) versus the full plan, revise with short videos, learn with full courses. |
 | 1:20-1:45 | Compare cities, Job-information gap chart. Google Jobs returned 28 listings for Accountant in Dehradun, but only 3 were located there. Fewer local listings means less evidence, and NextSkill flags small samples instead of guessing. |
