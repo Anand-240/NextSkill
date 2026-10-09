@@ -3,6 +3,7 @@ import json
 import re
 from collections import Counter
 from pathlib import Path
+from engine import hours_text
 from findings import flag_text, key_findings, map_table
 ROOT = Path(__file__).resolve().parents[1]
 TIER2 = {"Jaipur", "Indore", "Kochi", "Dehradun"}
@@ -30,7 +31,7 @@ def usage_sentence() -> str:
     kinds = Counter(item["engine"] for item in attempts)
     return (f"This build recorded {len(attempts)} SerpApi search attempts "
             f"({kinds.get('google_jobs', 0)} Google Jobs, {kinds.get('youtube', 0)} YouTube, {kinds.get('google', 0)} Google web search) "
-            "in reports/build_usage.json; the Account API figures are in BUILD_LOG.md.")
+            "in reports/build_usage.json; the Account API figures are in docs/BUILD_LOG.md.")
 
 
 def render(data):
@@ -52,8 +53,8 @@ def render(data):
 
 Priya knows HTML, CSS and JavaScript and wants a frontend job in Bengaluru. NextSkill checked local listings
 through SerpApi. Her profile matches {bengaluru['matches']} of {bengaluru['scored']} scored listings.
-{top['display_skill']} could add {top['unlocked']} more, with {top['hours']:.2f} hours of free courses, and every listing and course behind
-that estimate is linked. Confidence: {bengaluru['confidence']}. Priya is an example profile, not a real person.
+{top['display_skill']} could add {top['unlocked']} more, with {hours_text(top['hours'])} of free courses, and every listing and course behind
+that estimate is linked. Pick stability: {bengaluru['confidence']}. Priya is an example profile, not a real person.
 
 ## Try it live
 
@@ -178,7 +179,7 @@ resumes. [License](LICENSE).
 
 The repository began on October 8, 2026 after a separate validation run. October 9: trust fixes (all measured skills
 compete, stated must-haves, course relevance), 15 saved markets, revision videos, a seven-page site, Hindi videos and the
-evidence kits. [BUILD_LOG.md](BUILD_LOG.md) records each verified step and the API budget.
+evidence kits. [docs/BUILD_LOG.md](docs/BUILD_LOG.md) records each verified step and the API budget.
 
 ## AI tools used
 
@@ -193,7 +194,7 @@ Use saved data for rehearsal. A live recording uses a small explicit budget.
 | Time | Show and say |
 |---|---|
 | 0:00-0:30 | Home page. Priya knows HTML, CSS and JavaScript and wants a frontend job in Bengaluru. NextSkill checked local listings through SerpApi. Her profile matches {bengaluru['matches']} of {bengaluru['scored']} scored listings. {top['display_skill']} could add {top['unlocked']} more; here are the listings and the free courses behind that estimate. Say who it helps: freshers choosing what to learn next, especially outside the biggest hubs. |
-| 0:30-1:05 | Find my next skill: the answer with confidence ({bengaluru['confidence']}) and snapshot date, Fastest win versus Biggest unlock, then Evidence: listings, stated must-haves and the free YouTube courses. Video duration is not mastery. |
+| 0:30-1:05 | Find my next skill: the answer with pick stability ({bengaluru['confidence']}) and snapshot date, Fastest win versus Biggest unlock, then Evidence: listings, stated must-haves and the free YouTube courses. Video duration is not mastery. |
 | 1:05-1:25 | Job Prep: shortest route versus full plan, revise with short videos, learn with full courses. |
 | 1:25-1:50 | Compare cities: the Data Analyst map across five cities; say that sample sizes differ and small samples are flagged. |
 | 1:50-2:20 | Live search (local only, budget 3): Search Replay shows what was live, the credit counter updates, partial results are handled. Do not show the key. |

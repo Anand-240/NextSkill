@@ -5,7 +5,7 @@ import altair as alt
 import pandas  # noqa: F401  Altair looks pandas up in sys.modules; import it before any chart.
 import streamlit as st
 
-from engine import (DICTIONARY_WARNING, SerpClient, ROLE_FIT_WARNING, headline_picks, hours_range, is_old, no_unlock_message,
+from engine import (DICTIONARY_WARNING, SerpClient, ROLE_FIT_WARNING, headline_picks, hours_parts, hours_text, is_old, no_unlock_message,
                     posted_text)
 from hindi import hindi_courses, hindi_revision
 from i18n import hindi_on, t
@@ -44,16 +44,23 @@ def hindi_block(skill: str, saved: bool, revision: bool = False) -> None:
 def render_answer(result: dict, saved: bool) -> None:
     count = len(result["jobs"])
     picks = headline_picks(result["ranked"])
-    fastest = picks["fastest"]
+    fastest, headline = picks["fastest"], picks["headline"]
     source = "saved listings" if saved else "listings found now"
-    if fastest:
-        gained, hours = fastest["unlocked_count"], max(1, round(fastest["hours"]))
-        st.subheader(t("headline", skill=fastest["display_skill"], gained=gained, hours=hours,
-                       listing_word="listing" if gained == 1 else "listings", hour_word="hour" if hours == 1 else "hours"))
+    if headline:
+        gained = headline["unlocked_count"]
+        listing_word = "listing" if gained == 1 else "listings"
+        if fastest:
+            number, unit = hours_parts(headline["hours"])
+            st.subheader(t("headline", skill=headline["display_skill"], gained=gained, hours=number,
+                           listing_word=listing_word, hour_word=unit))
+        else:
+            st.subheader(t("headline_no_hours", skill=headline["display_skill"], gained=gained, listing_word=listing_word))
     st.markdown(f"**{t('matches_line', ready=result['ready'], count=count, source=source, city=result['city'])}**")
-    label = result["robustness"]["label"]
-    st.markdown(f"Recommendation confidence: {confidence_pill(label)} · Snapshot date: {snapshot_range(result)} (UTC)",
-                unsafe_allow_html=True)
+    robustness = result["robustness"]
+    st.markdown(f"Pick stability: {confidence_pill(robustness['label'])} (based on {robustness['listings']} scored listings) "
+                f"· Snapshot date: {snapshot_range(result)} (UTC)", unsafe_allow_html=True)
+    if robustness.get("cap_note"):
+        st.caption(robustness["cap_note"])
     st.caption(f"Among these matches: stated must-haves met in {result.get('must_haves_met', 0)}; "
                f"none stated in {result.get('must_haves_none', 0)}. Other matches still lack an explicit requirement. "
                "A match means your profile covers enough of a listing's core skills; it is not a hiring prediction.")
@@ -73,7 +80,7 @@ def render_answer(result: dict, saved: bool) -> None:
         st.info(no_unlock_message(result))
 
     def summary(row):
-        return (f"+{row['unlocked_count']} matches · {hours_range(row['hours'])}" +
+        return (f"+{row['unlocked_count']} matches · {hours_text(row['hours'])}" +
                 (f" · {row['score']:.2f} matches per course hour" if row["score"] is not None else ""))
 
     if picks["same"]:
@@ -86,11 +93,16 @@ def render_answer(result: dict, saved: bool) -> None:
                                         (columns[1], "biggest", t("biggest_unlock"), "Most new matches, regardless of hours")):
             row = picks[key]
             with column.container(border=True):
-                st.markdown(f"**{name}: {row['display_skill']}**" if row else f"**{name}: unavailable**")
-                st.caption(f"{note}. " + (summary(row) if row else "No course hours were found."))
-    if fastest and fastest["confidence"] == "low" and fastest["hours"] is not None:
-        st.caption(f"Course-length confidence is low for {fastest['display_skill']}: fewer than two qualifying full courses, "
-                   "so its hours come from shorter videos.")
+                st.markdown(f"**{name}: {row['display_skill']}**" if row else f"**{name}: none qualifies**")
+                if row:
+                    st.caption(f"{note}. " + summary(row))
+                else:
+                    st.caption("No skill has course lengths from at least two full courses, so none can lead on hours.")
+    lowest = [row for row in result["ranked"] if row["confidence"] == "low" and row["hours"] is not None]
+    if lowest:
+        st.caption("Low course confidence (fewer than two full courses, so these hours come from other videos and are "
+                   "not used for the fastest win): " + ", ".join(row["display_skill"] for row in lowest[:4]) +
+                   (" and more." if len(lowest) > 4 else "."))
     if picks["biggest"]:
         st.caption("A short course can win per hour even if it opens fewer matches. Compare both before choosing.")
 
@@ -112,19 +124,21 @@ def render_evidence(result: dict, extra=None) -> None:
     if not result["ranked"]:
         st.info(no_unlock_message(result))
     confident = result["robustness"]["label"] in {"Strong", "Likely"}
-    for index, item in enumerate(result["ranked"]):
+    headline = headline_picks(result["ranked"])["headline"]
+    for item in result["ranked"]:
         with st.container(border=True):
             name = item.get("display_skill", item["skill"])
-            medal = index == 0 and confident and item["score"] is not None and not result["limited_data"]
+            medal = bool(headline) and item["skill"] == headline["skill"] and confident and not result["limited_data"]
             st.markdown(f"#### {'🥇 ' if medal else ''}{name}")
             a, b, c = st.columns(3)
             a.metric("More matches", f"+{item['unlocked_count']}")
-            b.metric("Estimated learning hours", hours_range(item["hours"]))
+            b.metric("Course length", hours_text(item["hours"]))
             c.metric("Matches per course hour", f"{item['score']:.2f}" if item["score"] is not None else "Unavailable")
             if item["confidence"] in {"budget", "failed"}:
                 st.caption("Hours unknown (" + ("live budget reached" if item["confidence"] == "budget" else "the course search failed") + ").")
             if item["confidence"] == "low" and item["hours"] is not None:
-                st.caption("Low confidence: fewer than two qualifying full courses; estimate uses videos of at least 30 minutes.")
+                st.caption("Low course confidence: fewer than two qualifying full courses, so this skill cannot be the fastest win. "
+                           "The estimate uses relevant videos of at least 30 minutes.")
             if item["videos"]:
                 st.markdown("**Free YouTube courses behind this hour estimate**")
                 video_lines(item["videos"])
@@ -147,8 +161,8 @@ def render_plan(result: dict) -> None:
         with st.container(border=True):
             names = pair.get("display_skills", pair["skills"])
             st.markdown(f"### Two-skill plan: {names[0]} + {names[1]}")
-            st.write(f"Together these could add {pair['unlocked_count']} matches. Combined learning hours: " +
-                     (f"{hours_range(pair['hours'])}; matches per hour: {pair['score']:.2f}." if pair["hours"] is not None
+            st.write(f"Together these could add {pair['unlocked_count']} matches. Combined course length: " +
+                     (f"{hours_text(pair['hours'])}; matches per hour: {pair['score']:.2f}." if pair["hours"] is not None
                       else "unavailable from current video data."))
             if pair["hours"] is not None:
                 for skill, videos in pair["source_videos"].items():
@@ -170,7 +184,7 @@ def render_plan(result: dict) -> None:
     st.caption("Each point shows how many listings would match after learning the named skill; course length is only a study-time estimate.")
     if steps:
         st.dataframe([{"Step": step["step"], "Skill": names.get(step["skill"], step["skill"]),
-                       "Hours range": hours_range(step["hours"]), "Matches gained": step["jobs_gained"],
+                       "Course length": hours_text(step["hours"]), "Matches gained": step["jobs_gained"],
                        "Total matches": step["total_jobs"]} for step in steps], width="stretch", hide_index=True)
     else:
         st.info("No measured skill adds a reachable match at this threshold.")
@@ -183,7 +197,8 @@ def render_checks(result: dict) -> None:
     robustness, bootstrap = result["robustness"], result["bootstrap"]
     st.markdown("### How we checked this")
     if bootstrap["top_skill"]:
-        top = result["ranked"][0].get("display_skill", bootstrap["top_skill"])
+        top = next((row["display_skill"] for row in result["ranked"] if row["skill"] == bootstrap["top_skill"]),
+                   bootstrap["top_skill"])
         others = [(skill, share) for skill, share in bootstrap["shares"].items()
                   if skill not in {bootstrap["top_skill"], "No scored pick"}]
         runner = max(others, key=lambda row: row[1]) if others else None
@@ -193,9 +208,12 @@ def render_checks(result: dict) -> None:
              "checks where each skill's hours vary from 0.75x to 1.5x, at thresholds 0.4, 0.5 and 0.6 plus yours.")
     for change in robustness["changes"]:
         st.write(f"- {change}")
-    st.write(f"**Confidence: {robustness['label']}.** The label uses the lower of the two shares. Strong means both are at least "
-             "85%; Likely means both are at least 60%; otherwise Uncertain. These checks measure sensitivity, not "
-             "recommendation accuracy or hiring chances.")
+    st.write(f"**Pick stability: {robustness['label']}** (based on {robustness['listings']} scored listings). The label uses the "
+             "lower of the two shares. Strong needs both at least 85%, at least 15 scored listings and a pick with standard course "
+             "confidence; Likely needs both at least 60%; otherwise Uncertain. Limited-data markets are never above Uncertain. "
+             "These checks measure sensitivity, not recommendation accuracy or hiring chances.")
+    if robustness.get("cap_note"):
+        st.caption(robustness["cap_note"])
     with st.expander("Greedy plan vs exact among measured skills"):
         st.dataframe([{"Budget": f"{row['budget']} hours", "Greedy matches gained": row["greedy_gained"],
                        "Exact best matches gained": row["optimal_gained"],
@@ -221,7 +239,7 @@ def render_checks(result: dict) -> None:
                 st.markdown(job_line(job))
     with st.expander("How the numbers are calculated"):
         st.write("We set aside listings that ask for more experience than the minimum of your selected band: 0, 1 or 3 years. Explicit description requirements override title-based estimates. We ignore negated skill mentions. Skills are alternatives only where the listing explicitly offers an 'or' or slash choice. Skills found in at least the selected share of eligible listings are core. A profile matches a listing when it meets the selected fraction of core requirements. Broad umbrella terms can count for matching but are never recommended.")
-        st.write("Course hours are the median length of up to three free videos whose titles name the skill. With fewer than two course-like videos of at least an hour, we fall back to videos of at least 30 minutes and mark low confidence. The displayed range is a rough 25% band, not a measured learning-time interval. These estimates do not establish competence or promise a job.")
+        st.write("Course hours are the median length of up to three free videos whose titles name the skill. Talks, webinars and videos about a different product are dropped. With fewer than two course-like videos of at least an hour, we fall back to relevant videos of at least 30 minutes and mark low course confidence; such a skill stays in the ranking but cannot be the fastest win. Hours are shown rounded, for example 'about 4 hours'. These estimates do not establish competence or promise a job.")
 
 
 def render_replay(result: dict) -> None:

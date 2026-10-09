@@ -17,16 +17,16 @@
       "scored": 19,
       "matches": 9,
       "must_haves_met": 1,
-      "fastest_win": "Responsive Design",
+      "fastest_win": "REST API",
       "biggest_unlock": "React",
       "ranked": [
         {
           "skill": "Responsive Design",
           "display_skill": "Responsive Design",
           "unlocked": 6,
-          "hours": 0.84,
+          "hours": 0.71,
           "course_confidence": "low",
-          "jobs_per_hour": 7.143,
+          "jobs_per_hour": 8.438,
           "videos": [
             {
               "title": "Responsive design made easy",
@@ -37,19 +37,19 @@
               "language_query": "Responsive Design full course for beginners"
             },
             {
-              "title": "Figma Responsive Design: How Enterprise Teams Actually Do It",
-              "channel": "UI Collective",
-              "duration": "50:24",
-              "hours": 0.84,
-              "link": "https://www.youtube.com/watch?v=NzFXc6PULh8",
-              "language_query": "Responsive Design full course for beginners"
-            },
-            {
               "title": "Become a CSS Media Queries & Responsive Design Pro! Learn EVERYTHING You Need to Know In Detail 🔍",
               "channel": "Future Fullstack",
               "duration": "1:16:03",
               "hours": 1.2675,
               "link": "https://www.youtube.com/watch?v=webzXg0q_x4",
+              "language_query": "Responsive Design full course for beginners"
+            },
+            {
+              "title": "Webflow Responsive Design for Total Beginners!",
+              "channel": "Envato Tuts+",
+              "duration": "40:47",
+              "hours": 0.6797222222222222,
+              "link": "https://www.youtube.com/watch?v=Ibz-hF51rZ0",
               "language_query": "Responsive Design full course for beginners"
             }
           ]
@@ -158,39 +158,42 @@
         }
       ],
       "bootstrap": {
-        "top_share": 0.904,
+        "top_share": 0.912,
         "shares": {
-          "Responsive Design": 0.904,
-          "REST API": 0.04,
-          "React": 0.034,
-          "No scored pick": 0.022
+          "REST API": 0.912,
+          "React": 0.05,
+          "Git": 0.016,
+          "No scored pick": 0.012,
+          "Angular": 0.006,
+          "Azure": 0.002,
+          "Node.js": 0.002
         },
         "samples": 500
       },
       "hour_variation": {
-        "top_share": 0.9527,
+        "top_share": 0.756,
         "checks": 1500
       },
-      "confidence": "Strong",
+      "confidence": "Likely",
       "curve": [
         {
           "skill": "Responsive Design",
-          "hours": 0.84,
-          "cumulative_hours": 0.84,
+          "hours": 0.71,
+          "cumulative_hours": 0.71,
           "gained": 6,
           "total": 15
         },
         {
           "skill": "REST API",
           "hours": 2.54,
-          "cumulative_hours": 3.38,
+          "cumulative_hours": 3.26,
           "gained": 2,
           "total": 17
         },
         {
           "skill": "React",
           "hours": 5.09,
-          "cumulative_hours": 8.48,
+          "cumulative_hours": 8.35,
           "gained": 2,
           "total": 19
         }
@@ -271,7 +274,7 @@
           "UI/UX"
         ],
         "shortest_route": [
-          "Responsive Design"
+          "REST API"
         ]
       }
     },
@@ -464,8 +467,9 @@
           "Data Cleaning": 0.366,
           "Power BI": 0.036,
           "Tableau": 0.012,
-          "No scored pick": 0.008,
-          "Data Visualization": 0.002
+          "No scored pick": 0.006,
+          "Data Visualization": 0.002,
+          "ERP": 0.002
         },
         "samples": 500
       },
@@ -594,16 +598,16 @@
       "scored": 19,
       "matches": 9,
       "must_haves_met": 1,
-      "fastest_win": "Responsive Design",
+      "fastest_win": "REST API",
       "biggest_unlock": "React",
       "ranked": [
         {
           "skill": "Responsive Design",
           "display_skill": "Responsive Design",
           "unlocked": 6,
-          "hours": 0.84,
+          "hours": 0.71,
           "course_confidence": "low",
-          "jobs_per_hour": 7.143,
+          "jobs_per_hour": 8.438,
           "videos": [
             {
               "title": "Responsive design made easy",
@@ -614,19 +618,19 @@
               "language_query": "Responsive Design full course for beginners"
             },
             {
-              "title": "Figma Responsive Design: How Enterprise Teams Actually Do It",
-              "channel": "UI Collective",
-              "duration": "50:24",
-              "hours": 0.84,
-              "link": "https://www.youtube.com/watch?v=NzFXc6PULh8",
-              "language_query": "Responsive Design full course for beginners"
-            },
-            {
               "title": "Become a CSS Media Queries & Responsive Design Pro! Learn EVERYTHING You Need to Know In Detail 🔍",
               "channel": "Future Fullstack",
               "duration": "1:16:03",
               "hours": 1.2675,
               "link": "https://www.youtube.com/watch?v=webzXg0q_x4",
+              "language_query": "Responsive Design full course for beginners"
+            },
+            {
+              "title": "Webflow Responsive Design for Total Beginners!",
+              "channel": "Envato Tuts+",
+              "duration": "40:47",
+              "hours": 0.6797222222222222,
+              "link": "https://www.youtube.com/watch?v=Ibz-hF51rZ0",
               "language_query": "Responsive Design full course for beginners"
             }
           ]
@@ -735,39 +739,42 @@
         }
       ],
       "bootstrap": {
-        "top_share": 0.904,
+        "top_share": 0.912,
         "shares": {
-          "Responsive Design": 0.904,
-          "REST API": 0.04,
-          "React": 0.034,
-          "No scored pick": 0.022
+          "REST API": 0.912,
+          "React": 0.05,
+          "Git": 0.016,
+          "No scored pick": 0.012,
+          "Angular": 0.006,
+          "Azure": 0.002,
+          "Node.js": 0.002
         },
         "samples": 500
       },
       "hour_variation": {
-        "top_share": 0.9527,
+        "top_share": 0.756,
         "checks": 1500
       },
-      "confidence": "Strong",
+      "confidence": "Likely",
       "curve": [
         {
           "skill": "Responsive Design",
-          "hours": 0.84,
-          "cumulative_hours": 0.84,
+          "hours": 0.71,
+          "cumulative_hours": 0.71,
           "gained": 6,
           "total": 15
         },
         {
           "skill": "REST API",
           "hours": 2.54,
-          "cumulative_hours": 3.38,
+          "cumulative_hours": 3.26,
           "gained": 2,
           "total": 17
         },
         {
           "skill": "React",
           "hours": 5.09,
-          "cumulative_hours": 8.48,
+          "cumulative_hours": 8.35,
           "gained": 2,
           "total": 19
         }
@@ -848,7 +855,7 @@
           "UI/UX"
         ],
         "shortest_route": [
-          "Responsive Design"
+          "REST API"
         ]
       }
     },
@@ -1041,8 +1048,9 @@
           "Data Cleaning": 0.366,
           "Power BI": 0.036,
           "Tableau": 0.012,
-          "No scored pick": 0.008,
-          "Data Visualization": 0.002
+          "No scored pick": 0.006,
+          "Data Visualization": 0.002,
+          "ERP": 0.002
         },
         "samples": 500
       },
@@ -1580,8 +1588,9 @@
           "Power BI": 0.432,
           "SQL": 0.306,
           "Data Visualization": 0.142,
-          "No scored pick": 0.082,
-          "Statistics": 0.038
+          "No scored pick": 0.08,
+          "Statistics": 0.038,
+          "Data Cleaning": 0.002
         },
         "samples": 500
       },
@@ -1846,7 +1855,9 @@
           "SQL": 0.504,
           "Power BI": 0.306,
           "Data Visualization": 0.122,
-          "No scored pick": 0.068
+          "No scored pick": 0.048,
+          "Accounting": 0.012,
+          "Agile": 0.008
         },
         "samples": 500
       },
@@ -2136,9 +2147,9 @@
           "skill": "GST",
           "display_skill": "GST",
           "unlocked": 1,
-          "hours": 9.03,
+          "hours": 4.79,
           "course_confidence": "standard",
-          "jobs_per_hour": 0.111,
+          "jobs_per_hour": 0.209,
           "videos": [
             {
               "title": "Goods and Services Tax (GST) 2024 Fundamentals Full Course | What is GST?",
@@ -2157,11 +2168,11 @@
               "language_query": "GST full course for beginners"
             },
             {
-              "title": "Tally Prime 7.0 Full Course With GST | Zero to Hero | Complete Practical Tutorial",
-              "channel": "Accounts Expert",
-              "duration": "11:44:48",
-              "hours": 11.746666666666666,
-              "link": "https://www.youtube.com/watch?v=QQUcccxcjn0",
+              "title": "GST Filing Course 2026 | GSTR 1, GSTR 2B, GSTR 3B | ITC, RCM & IMS Explained | 5 Hour Masterclass",
+              "channel": "FinTaxPro",
+              "duration": "4:47:08",
+              "hours": 4.785555555555556,
+              "link": "https://www.youtube.com/watch?v=JsLHRK4n3cs",
               "language_query": "GST full course for beginners"
             }
           ]
@@ -2189,7 +2200,8 @@
         "top_share": 0.976,
         "shares": {
           "Bookkeeping": 0.976,
-          "No scored pick": 0.02,
+          "Accounts Payable": 0.012,
+          "No scored pick": 0.008,
           "Tally": 0.004
         },
         "samples": 500
@@ -2655,7 +2667,9 @@
           "SQL": 0.49,
           "Django": 0.232,
           "REST API": 0.176,
-          "No scored pick": 0.102
+          "No scored pick": 0.064,
+          "CI/CD": 0.022,
+          "Agile": 0.016
         },
         "samples": 500
       },
@@ -3014,9 +3028,10 @@
           "PostgreSQL": 0.454,
           "REST API": 0.262,
           "HTML": 0.14,
-          "No scored pick": 0.09,
+          "No scored pick": 0.082,
           "SQL": 0.042,
-          "Django": 0.012
+          "Django": 0.012,
+          "AWS": 0.008
         },
         "samples": 500
       },
@@ -3232,9 +3247,9 @@
           "skill": "GST",
           "display_skill": "GST",
           "unlocked": 4,
-          "hours": 9.03,
+          "hours": 4.79,
           "course_confidence": "standard",
-          "jobs_per_hour": 0.443,
+          "jobs_per_hour": 0.836,
           "videos": [
             {
               "title": "Goods and Services Tax (GST) 2024 Fundamentals Full Course | What is GST?",
@@ -3253,11 +3268,11 @@
               "language_query": "GST full course for beginners"
             },
             {
-              "title": "Tally Prime 7.0 Full Course With GST | Zero to Hero | Complete Practical Tutorial",
-              "channel": "Accounts Expert",
-              "duration": "11:44:48",
-              "hours": 11.746666666666666,
-              "link": "https://www.youtube.com/watch?v=QQUcccxcjn0",
+              "title": "GST Filing Course 2026 | GSTR 1, GSTR 2B, GSTR 3B | ITC, RCM & IMS Explained | 5 Hour Masterclass",
+              "channel": "FinTaxPro",
+              "duration": "4:47:08",
+              "hours": 4.785555555555556,
+              "link": "https://www.youtube.com/watch?v=JsLHRK4n3cs",
               "language_query": "GST full course for beginners"
             }
           ]
@@ -3277,7 +3292,7 @@
         "shares": {
           "Tally": 0.982,
           "TDS": 0.016,
-          "No scored pick": 0.002
+          "Financial Reporting": 0.002
         },
         "samples": 500
       },
@@ -3474,9 +3489,9 @@
           "skill": "GST",
           "display_skill": "GST",
           "unlocked": 2,
-          "hours": 9.03,
+          "hours": 4.79,
           "course_confidence": "standard",
-          "jobs_per_hour": 0.222,
+          "jobs_per_hour": 0.418,
           "videos": [
             {
               "title": "Goods and Services Tax (GST) 2024 Fundamentals Full Course | What is GST?",
@@ -3495,11 +3510,11 @@
               "language_query": "GST full course for beginners"
             },
             {
-              "title": "Tally Prime 7.0 Full Course With GST | Zero to Hero | Complete Practical Tutorial",
-              "channel": "Accounts Expert",
-              "duration": "11:44:48",
-              "hours": 11.746666666666666,
-              "link": "https://www.youtube.com/watch?v=QQUcccxcjn0",
+              "title": "GST Filing Course 2026 | GSTR 1, GSTR 2B, GSTR 3B | ITC, RCM & IMS Explained | 5 Hour Masterclass",
+              "channel": "FinTaxPro",
+              "duration": "4:47:08",
+              "hours": 4.785555555555556,
+              "link": "https://www.youtube.com/watch?v=JsLHRK4n3cs",
               "language_query": "GST full course for beginners"
             }
           ]
@@ -3518,7 +3533,7 @@
         "top_share": 0.8773,
         "checks": 1500
       },
-      "confidence": "Strong",
+      "confidence": "Uncertain",
       "curve": [
         {
           "skill": "TDS",
@@ -3528,17 +3543,17 @@
           "total": 4
         },
         {
-          "skill": "Tally",
-          "hours": 1.77,
-          "cumulative_hours": 3.32,
-          "gained": 1,
-          "total": 5
+          "skill": "GST",
+          "hours": 4.79,
+          "cumulative_hours": 6.34,
+          "gained": 3,
+          "total": 7
         },
         {
-          "skill": "GST",
-          "hours": 9.03,
-          "cumulative_hours": 12.35,
-          "gained": 3,
+          "skill": "Tally",
+          "hours": 1.77,
+          "cumulative_hours": 8.11,
+          "gained": 1,
           "total": 8
         }
       ],
@@ -3560,14 +3575,16 @@
         },
         {
           "budget": 10,
-          "greedy_gained": 3,
-          "optimal_gained": 3,
+          "greedy_gained": 6,
+          "optimal_gained": 6,
           "ratio": 1.0,
           "greedy_skills": [
             "TDS",
+            "GST",
             "Tally"
           ],
           "optimal_skills": [
+            "GST",
             "TDS",
             "Tally"
           ],
@@ -3580,8 +3597,8 @@
           "ratio": 1.0,
           "greedy_skills": [
             "TDS",
-            "Tally",
-            "GST"
+            "GST",
+            "Tally"
           ],
           "optimal_skills": [
             "GST",
@@ -3642,7 +3659,7 @@
       "scored": 5,
       "matches": 0,
       "must_haves_met": 0,
-      "fastest_win": "Market Research",
+      "fastest_win": "Email Marketing",
       "biggest_unlock": "Market Research",
       "ranked": [
         {
@@ -3715,19 +3732,20 @@
         }
       ],
       "bootstrap": {
-        "top_share": 0.832,
+        "top_share": 0.3,
         "shares": {
-          "Market Research": 0.832,
-          "No scored pick": 0.106,
-          "Email Marketing": 0.062
+          "Market Research": 0.5,
+          "Email Marketing": 0.3,
+          "Lead Generation": 0.146,
+          "No scored pick": 0.054
         },
         "samples": 500
       },
       "hour_variation": {
-        "top_share": 1.0,
+        "top_share": 0.6667,
         "checks": 1500
       },
-      "confidence": "Likely",
+      "confidence": "Uncertain",
       "curve": [
         {
           "skill": "Market Research",
@@ -3876,7 +3894,8 @@
         "top_share": 0.732,
         "shares": {
           "SEO": 0.732,
-          "No scored pick": 0.268
+          "No scored pick": 0.25,
+          "Google Ads": 0.018
         },
         "samples": 500
       },
@@ -3884,7 +3903,7 @@
         "top_share": 1.0,
         "checks": 1500
       },
-      "confidence": "Likely",
+      "confidence": "Uncertain",
       "curve": [
         {
           "skill": "SEO",
@@ -3981,16 +4000,16 @@
       "scored": 11,
       "matches": 6,
       "must_haves_met": 2,
-      "fastest_win": "Responsive Design",
+      "fastest_win": "REST API",
       "biggest_unlock": "REST API",
       "ranked": [
         {
           "skill": "Responsive Design",
           "display_skill": "Responsive Design",
           "unlocked": 2,
-          "hours": 0.84,
+          "hours": 0.71,
           "course_confidence": "low",
-          "jobs_per_hour": 2.381,
+          "jobs_per_hour": 2.812,
           "videos": [
             {
               "title": "Responsive design made easy",
@@ -4001,19 +4020,19 @@
               "language_query": "Responsive Design full course for beginners"
             },
             {
-              "title": "Figma Responsive Design: How Enterprise Teams Actually Do It",
-              "channel": "UI Collective",
-              "duration": "50:24",
-              "hours": 0.84,
-              "link": "https://www.youtube.com/watch?v=NzFXc6PULh8",
-              "language_query": "Responsive Design full course for beginners"
-            },
-            {
               "title": "Become a CSS Media Queries & Responsive Design Pro! Learn EVERYTHING You Need to Know In Detail 🔍",
               "channel": "Future Fullstack",
               "duration": "1:16:03",
               "hours": 1.2675,
               "link": "https://www.youtube.com/watch?v=webzXg0q_x4",
+              "language_query": "Responsive Design full course for beginners"
+            },
+            {
+              "title": "Webflow Responsive Design for Total Beginners!",
+              "channel": "Envato Tuts+",
+              "duration": "40:47",
+              "hours": 0.6797222222222222,
+              "link": "https://www.youtube.com/watch?v=Ibz-hF51rZ0",
               "language_query": "Responsive Design full course for beginners"
             }
           ]
@@ -4131,33 +4150,36 @@
         }
       ],
       "bootstrap": {
-        "top_share": 0.44,
+        "top_share": 0.598,
         "shares": {
-          "Responsive Design": 0.44,
-          "REST API": 0.232,
-          "No scored pick": 0.176,
-          "React": 0.112,
-          "Git": 0.04
+          "REST API": 0.598,
+          "React": 0.186,
+          "Linux": 0.092,
+          "No scored pick": 0.056,
+          "Git": 0.04,
+          "MySQL": 0.012,
+          "Figma": 0.01,
+          "MongoDB": 0.006
         },
         "samples": 500
       },
       "hour_variation": {
-        "top_share": 0.6667,
+        "top_share": 0.5973,
         "checks": 1500
       },
       "confidence": "Uncertain",
       "curve": [
         {
           "skill": "Responsive Design",
-          "hours": 0.84,
-          "cumulative_hours": 0.84,
+          "hours": 0.71,
+          "cumulative_hours": 0.71,
           "gained": 2,
           "total": 8
         },
         {
           "skill": "REST API",
           "hours": 2.54,
-          "cumulative_hours": 3.38,
+          "cumulative_hours": 3.26,
           "gained": 2,
           "total": 10
         }
@@ -4241,7 +4263,7 @@
           "Responsive Design"
         ],
         "shortest_route": [
-          "Responsive Design"
+          "REST API"
         ]
       }
     }

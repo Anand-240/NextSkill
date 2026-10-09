@@ -66,6 +66,44 @@ class RevisionVideoTests(unittest.TestCase):
         self.assertEqual(revision_videos("SQL", FakeClient(unrelated)), ([], "none"))
 
 
+class ShortestRouteAndNotesTests(unittest.TestCase):
+    def setUp(self):
+        self.jobs = [job("Frontend Developer (React JS + Node JS)", "Target", "Strong HTML. Required: React and Responsive Design and REST API."),
+                     job("Dev", "One", "HTML, React"), job("Dev", "Two", "HTML, REST API"), job("Dev", "Three", "HTML, Responsive Design, React")]
+        self.analysis = analyze_jobs(self.jobs, {"HTML"}, threshold=.5)
+        self.index = next(i for i, row in enumerate(self.analysis["jobs"]) if row["job"]["company_name"] == "Target")
+
+    def lookup(self, table):
+        return lambda skill: table.get(skill, (None, [], "low"))
+
+    def test_standard_confidence_routes_win_over_a_shorter_low_confidence_one(self):
+        table = {"Responsive Design": (0.8, [], "low"), "REST API": (2.5, [], "standard"), "React": (5.0, [], "standard")}
+        plan = build_plan(self.analysis, self.index, self.lookup(table), no_revision)
+        self.assertEqual(plan["shortest_route"]["skills"], ["REST API"])
+        self.assertEqual(plan["shortest_route"]["low_confidence"], [])
+
+    def test_low_confidence_route_is_used_only_when_nothing_else_reaches_the_threshold(self):
+        table = {"Responsive Design": (0.8, [], "low"), "REST API": (2.5, [], "low")}
+        plan = build_plan(self.analysis, self.index, self.lookup(table), no_revision)
+        route = plan["shortest_route"]
+        self.assertEqual(route["skills"], ["Responsive Design"])
+        self.assertEqual(route["low_confidence"], ["Responsive Design"])
+        self.assertIn("low course confidence", route["status"])
+
+    def test_title_naming_a_tool_outside_the_plan_is_noted(self):
+        table = {"React": (5.0, [], "standard"), "REST API": (2.5, [], "standard"), "Responsive Design": (1.5, [], "standard")}
+        plan = build_plan(self.analysis, self.index, self.lookup(table), no_revision)
+        self.assertTrue(any("React" in note and "shortest route does not include" in note for note in plan["title_notes"]), plan["title_notes"])
+        self.assertTrue(any("Node.js" in note and "does not include" in note for note in plan["title_notes"]), plan["title_notes"])
+
+    def test_revise_and_learn_steps_are_numbered_separately(self):
+        table = {"React": (5.0, [], "standard"), "REST API": (2.5, [], "standard"), "Responsive Design": (1.5, [], "standard")}
+        plan = build_plan(self.analysis, self.index, self.lookup(table), no_revision)
+        for action in ("revise", "learn"):
+            numbers = [item["order"] for item in plan["items"] if item["action"] == action]
+            self.assertEqual(numbers, list(range(1, len(numbers) + 1)))
+
+
 class JobPrepPlanTests(unittest.TestCase):
     def setUp(self):
         self.jobs = [job("Analyst", "Target", "Strong SQL is required. Excel reporting. Power BI dashboards. Power BI reports."),

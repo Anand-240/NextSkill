@@ -84,7 +84,7 @@ class HindiPageTests(unittest.TestCase):
             self.assertFalse(app.exception)
             self.assertEqual(app.header[0].value, entries["find_header"]["hi"])
             self.assertIn("लगभग", app.subheader[0].value)
-            self.assertIn("Responsive Design", app.subheader[0].value)  # skill names stay English
+            self.assertIn("REST API", app.subheader[0].value)  # skill names stay English
             self.assertEqual(app.text_input[0].value, "SQL")
             self.assertNotIn("waiting for human review", "\n".join(c.value for c in app.caption))
 

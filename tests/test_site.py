@@ -56,7 +56,7 @@ class SiteTests(unittest.TestCase):
                 self.assertIn(f"matches {row['matches']} of {row['scored']} saved listings in {pair['city']}", text)
                 if row["fastest_win"]:
                     self.assertTrue(app.subheader and row["fastest_win"] in app.subheader[0].value)
-                self.assertIn(f"Recommendation confidence: ", text)
+                self.assertIn(f"Pick stability: ", text)
                 self.assertIn(row["retrieved_dates"][0], text)
 
     def test_find_page_accepts_added_skills_and_keeps_old_wording_out(self):
@@ -77,13 +77,18 @@ class SiteTests(unittest.TestCase):
                 expected = RESULTS[pair["id"]]["job_prep_default"]
                 self.assertEqual(app.subheader[0].value, f"{expected['title']} · {expected['company']}")
 
-    def test_compare_page_lists_five_data_analyst_cities_and_states_agreement(self):
+    def test_compare_page_lists_five_data_analyst_cities_and_states_reliability(self):
         app = self.open("views/compare.py")
         table = app.dataframe[0].value
         self.assertEqual(sorted(table["City"]), ["Hyderabad", "Indore", "Jaipur", "Noida", "Pune"])
-        wins = {RESULTS[f"data-analyst-{city.lower()}"]["fastest_win"] for city in table["City"]}
+        self.assertIn("Pages fetched", table.columns)
         notes = [item.value for item in app.info] + [item.value for item in app.success]
-        self.assertTrue(any("do not agree" in n for n in notes) == (len(wins - {None}) > 1))
+        reliable = [city for city in table["City"] if RESULTS[f"data-analyst-{city.lower()}"]["confidence"] != "Uncertain"
+                    and not RESULTS[f"data-analyst-{city.lower()}"]["flags"]["limited_data"]]
+        self.assertEqual(any("No reliable difference" in n for n in notes), not reliable)
+        self.assertFalse(any("do not agree" in n for n in notes) and not reliable)
+        warnings = " ".join(item.value for item in app.warning)
+        self.assertIn("not collected the same way", warnings)
 
     def test_methods_page_reports_pending_evidence(self):
         app = self.open("views/methods.py")

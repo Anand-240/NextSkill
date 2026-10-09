@@ -8,7 +8,7 @@ import streamlit as st
 from engine import ROOT
 
 STRINGS = {
-    "toggle_hindi": "हिंदी",
+    "toggle_hindi": "Prefer Hindi videos",
     "hero_tagline": "Your next skill, counted from local job listings in your city.",
     "find_header": "Find my next skill",
     "find_role_city": "Role and city",
@@ -21,6 +21,7 @@ STRINGS = {
     "tab_plan": "Learning plan",
     "tab_checks": "How we checked this",
     "headline": "Learn {skill} next: +{gained} more matching {listing_word}, about {hours} {hour_word} of free courses.",
+    "headline_no_hours": "Learn {skill} next: +{gained} more matching {listing_word}. No skill has a reliable course length yet.",
     "matches_line": "Your profile matches {ready} of {count} {source} in {city}.",
     "fastest_win": "Fastest win",
     "biggest_unlock": "Biggest unlock",
@@ -33,8 +34,8 @@ STRINGS = {
     "hindi_not_saved": "Hindi videos for {skill} are not in the saved data, so English videos are shown.",
     "hindi_fallback": "No Hindi video passed the filters for {skill} in the saved data, so English videos are shown.",
 }
-HINDI_WAITING = ("Hindi interface labels are waiting for human review, so English is shown. "
-                 "Hindi videos are shown where they pass the same filters.")
+HINDI_WAITING = ("The interface stays in English. Hindi videos are shown where they pass the same filters; "
+                 "otherwise English videos are shown.")
 
 
 def hindi_entries() -> dict:

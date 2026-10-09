@@ -17,21 +17,21 @@ def key_findings(results: dict) -> list[str]:
         "counted from the listings saved for that market, not from a national dataset.",
         f"The fastest win differs from the biggest unlock in {differ} of the {with_picks} markets with a measured pick, "
         "so a short course can beat a big skill per hour.",
-        f"Confidence is Strong in {labels['Strong']}, Likely in {labels['Likely']} and Uncertain in {labels['Uncertain']} markets; "
+        f"Pick stability is Strong in {labels['Strong']}, Likely in {labels['Likely']} and Uncertain in {labels['Uncertain']} markets; "
         f"{limited} markets are flagged as limited data. The example profile matched between "
         f"{low[0]:.0%} ({low[1]['role']}, {low[1]['city']}) and {high[0]:.0%} ({high[1]['role']}, {high[1]['city']}) of scored listings.",
     ]
 
 
 def flag_text(row: dict) -> str:
-    names = [label for key, label in (("limited_data", "limited data"), ("dictionary_warning", "outside strongest areas"))
+    names = [label for key, label in (("limited_data", "limited data"), ("dictionary_warning", "few skills detected"))
              if row["flags"].get(key)]
     return ", ".join(names) or "none"
 
 
 def map_table(rows: dict, only_cities: set[str] | None = None) -> str:
     """Markdown table of saved markets."""
-    text = ("| Role / city | Eligible | Scored | Matches | Must-haves met among matches | Fastest win | Biggest unlock | Confidence | Flags |\n"
+    text = ("| Role / city | Eligible | Scored | Matches | Must-haves met among matches | Fastest win | Biggest unlock | Pick stability | Flags |\n"
             "|---|---:|---:|---:|---:|---|---|---|---|\n")
     for row in rows.values():
         if only_cities and row["city"] not in only_cities:

@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import streamlit as st
 
-from engine import BudgetExceeded, SerpClient, course_videos, hours_range
+from engine import BudgetExceeded, SerpClient, course_videos, hours_text
 from i18n import hindi_on, t
 from job_prep import (REVISION_LABEL, build_plan, default_prep_index, is_cached, prep_candidates, revision_params,
                       revision_videos, time_range)
@@ -28,7 +28,7 @@ def _time_cell(item: dict, saved: bool) -> str:
         return "Not in the saved data" if saved else "Revision videos not fetched yet"
     if item["broad"]:
         return "Broad skill, no single course"
-    return hours_range(item["hours"]) + " course" if item["hours"] else "Hours unknown"
+    return hours_text(item["hours"]) + " course" if item["hours"] else "Hours unknown"
 
 
 def prep_section(result: dict, saved: bool, state_key: str, budget: int | None = None) -> None:
@@ -70,6 +70,8 @@ def _render_plan(plan: dict, saved: bool, budget: int | None) -> None:
         st.write("This listing already matches your profile.")
     elif plan["unlock_skills"]:
         st.write(f"Learning {' or '.join(plan['unlock_skills'])} alone would make it a match.")
+    for note in plan["title_notes"]:
+        st.caption(note)
     st.write(f"After learning every skill listed below: {plan['covered_after']} of {plan['core_total']} core skills.")
     if plan["experience_years"]:
         st.write(f"Experience: this listing asks for at least {plan['experience_years']} years (\"{plan['experience_phrase']}\").")
@@ -85,7 +87,10 @@ def _render_plan(plan: dict, saved: bool, budget: int | None) -> None:
         st.markdown(f"**{t('shortest_route')}**")
         st.write((", ".join(route["skills"]) or route["status"]) +
                  (f" · {route['hours']:.2f} course hours" if route["hours"] is not None else ""))
-        st.caption("Exact among measured skills (up to 12); unknown hours may hide a shorter route. Coverage is not eligibility.")
+        st.caption(route["status"][0].upper() + route["status"][1:] + ". Unknown hours may hide a shorter route. "
+                   "Coverage is not eligibility.")
+        if route.get("low_confidence"):
+            st.caption("Low course confidence for: " + ", ".join(route["low_confidence"]) + ".")
     with full.container(border=True):
         st.markdown(f"**{t('full_plan')}**")
         st.write(f"{time_range(plan)}: {plan['revision_minutes']:.0f} minutes of revision videos "
@@ -97,7 +102,7 @@ def _render_plan(plan: dict, saved: bool, budget: int | None) -> None:
             [f"{skill} (broad skill, no single course)" for skill in plan["broad"]]) + ".")
     st.markdown("**Suggested order**")
     st.caption("Ranked by importance in this listing (mentions, plus 2 if near must, required, strong or mandatory), then by how many eligible listings in this search ask for the skill.")
-    st.dataframe([{"Order": item["order"], "Skill": item["skill"], "Action": item["action"].title(),
+    st.dataframe([{"Order": f"{item['action'].title()} {item['order']}", "Skill": item["skill"], "Action": item["action"].title(),
                    "In this listing": f"{item['mentions']} mention{'s' if item['mentions'] != 1 else ''}" +
                                       (", marked required or strong" if item["emphasised"] else ""),
                    "Listings asking": f"{item['market']} of {item['market_total']}",

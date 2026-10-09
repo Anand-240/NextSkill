@@ -20,6 +20,8 @@ resume = left.text_area(t("find_resume"), height=150,
 manual = right.text_input(t("find_add_skills"), key=common.seed("find_manual", profile["manual"]))
 experience = right.selectbox(t("find_experience"), levels, key=common.seed("find_experience", profile["experience"]),
                              help="Uses the minimum of each band: 0, 1 or 3 years. Explicit listing requirements take precedence over titles.")
+if experience != "Fresher":
+    st.caption("Saved samples come from fresher and junior searches, so results for other experience levels are approximate.")
 with st.expander("Upload a PDF resume or change the match threshold"):
     pdf = st.file_uploader("PDF resume (selectable text, up to 5 MB)", type=["pdf"])
     threshold = st.slider("Match threshold", 0.2, 1.0, step=0.05, key=common.seed("find_threshold", float(profile["threshold"])),

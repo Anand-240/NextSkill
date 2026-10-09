@@ -10,11 +10,11 @@ from resume_pdf import extract_pdf_text
 from engine import (DEFAULT_THRESHOLD, SerpClient, age_days, analyze_jobs, canonical_manual_skills,
                     coverage, course_videos, deduplicate, is_old, parse_duration, rank_skills, run,
                     has_role_fit_warning, select_core_skills, select_course_videos, two_skill_plan,
-                    experience_required, experience_evidence, requirements_from_text, assess_robustness, hours_range,
+                    experience_required, experience_evidence, requirements_from_text, assess_robustness, leads_with_other_product, hours_text, hours_parts,
                     listing_confidence, dictionary_coverage_warning, fresher_queries, fetch_jobs,
                     no_unlock_message, MOSTLY_READY_MESSAGE, optional_serpapi_key,
                     greedy_opportunity, exact_opportunity, opportunity_quality,
-                    bootstrap_confidence, confidence_label, skill_distance,
+                    bootstrap_confidence, confidence_label, stability_note, skill_distance,
                     listing_age_days, retrieval_date, stamp_response, headline_picks,
                     BudgetExceeded, max_live_requests)
 from skills import GENERIC
@@ -132,6 +132,20 @@ class EngineTests(unittest.TestCase):
             result = select_course_videos([{"title": f"SQL course {language}", "length": "1:00:00"}], "SQL course")
             self.assertIsNone(result[0], language)
 
+    def test_course_relevance_drops_other_tools_talks_and_very_short_videos(self):
+        videos = [{"title": "Figma Responsive Design: How Enterprise Teams Actually Do It", "length": "50:24"},
+                  {"title": "Responsive design webinar with industry guests", "length": "1:30:00"},
+                  {"title": "Responsive design in 5 minutes", "length": "5:00"},
+                  {"title": "Responsive design made easy", "length": "42:40"},
+                  {"title": "Responsive Design full course", "length": "1:05:00"}]
+        hours, chosen, confidence = select_course_videos(videos, "Responsive Design full course", skill="Responsive Design")
+        self.assertEqual([video["title"] for video in chosen], ["Responsive design made easy", "Responsive Design full course"])
+        self.assertEqual(confidence, "low")
+        self.assertEqual(leads_with_other_product("Figma Responsive Design tips", "Responsive Design"), True)
+        self.assertEqual(leads_with_other_product("Responsive Design in Figma", "Responsive Design"), False)
+        self.assertEqual(leads_with_other_product("Excel tutorial", "Excel"), False)
+        self.assertEqual(leads_with_other_product("Excel for Python users", "Python"), True)
+
     def test_language_filter_low_confidence_cannot_restore_excluded_courses(self):
         videos = [{"title": "API full course Tamil", "length": "2:00:00"},
                   {"title": "API full course Hindi", "length": "3:00:00"},
@@ -141,18 +155,30 @@ class EngineTests(unittest.TestCase):
         self.assertEqual(select_course_videos(videos[:2], "API full course"), (None, [], "low"))
 
     def test_headline_picks_separate_fastest_win_and_biggest_unlock(self):
-        rows = [{"skill": "REST API", "unlocked_count": 7, "score": 2.2},
-                {"skill": "React", "unlocked_count": 10, "score": 1.9},
-                {"skill": "Angular", "unlocked_count": 12, "score": None}]
+        rows = [{"skill": "REST API", "unlocked_count": 7, "score": 2.2, "confidence": "standard"},
+                {"skill": "React", "unlocked_count": 10, "score": 1.9, "confidence": "standard"},
+                {"skill": "Angular", "unlocked_count": 12, "score": None, "confidence": "budget"}]
         picks = headline_picks(rows)
         self.assertEqual((picks["fastest"]["skill"], picks["biggest"]["skill"], picks["same"]),
                          ("REST API", "Angular", False))
+        self.assertEqual(picks["headline"]["skill"], "REST API")
         picks = headline_picks(rows[:2])
         self.assertEqual((picks["fastest"]["skill"], picks["biggest"]["skill"]), ("REST API", "React"))
-        same = headline_picks([{"skill": "SQL", "unlocked_count": 8, "score": 2.0},
-                               {"skill": "Excel", "unlocked_count": 8, "score": 1.0}])
+        same = headline_picks([{"skill": "SQL", "unlocked_count": 8, "score": 2.0, "confidence": "standard"},
+                               {"skill": "Excel", "unlocked_count": 8, "score": 1.0, "confidence": "standard"}])
         self.assertEqual((same["fastest"]["skill"], same["biggest"]["skill"], same["same"]), ("SQL", "SQL", True))
-        self.assertEqual(headline_picks([]), {"fastest": None, "biggest": None, "same": False})
+        self.assertEqual(headline_picks([]), {"fastest": None, "biggest": None, "headline": None, "same": False})
+
+    def test_low_course_confidence_never_leads_the_answer(self):
+        rows = [{"skill": "Responsive Design", "unlocked_count": 6, "score": 7.1, "confidence": "low"},
+                {"skill": "REST API", "unlocked_count": 8, "score": 3.1, "confidence": "standard"},
+                {"skill": "React", "unlocked_count": 10, "score": 2.0, "confidence": "standard"}]
+        picks = headline_picks(rows)
+        self.assertEqual(picks["fastest"]["skill"], "REST API")
+        self.assertEqual(picks["headline"]["skill"], "REST API")
+        only_low = headline_picks(rows[:1] + [{"skill": "React", "unlocked_count": 10, "score": 2.0, "confidence": "low"}])
+        self.assertIsNone(only_low["fastest"])
+        self.assertEqual(only_low["headline"]["skill"], "React")
 
     def test_two_skill_plan_and_limited_data(self):
         jobs = [job("A", "One", "SQL, Excel, Python"), job("B", "Two", "SQL, Excel, Python"),
@@ -330,8 +356,18 @@ class EngineTests(unittest.TestCase):
             a, b, _ = analysis["pair"]
             self.assertFalse(analysis["option_members"][a] & analysis["option_members"][b])
 
-    def test_robustness_and_hours_range(self):
-        self.assertEqual(hours_range(3.68), "~2–5 hours")
+    def test_hours_text_always_contains_the_estimate(self):
+        self.assertEqual(hours_text(0.84), "about 1 hour")
+        self.assertEqual(hours_text(3.73), "about 4 hours")
+        self.assertEqual(hours_text(0.3), "about 20 minutes")
+        self.assertEqual(hours_text(None), "Unavailable")
+        for tenths in range(1, 400):
+            hours = tenths / 10
+            number, unit = hours_parts(hours)
+            value = float(number) / (60 if unit == "minutes" else 1)
+            self.assertLessEqual(abs(value - hours), 0.5 if unit != "minutes" else 0.05, hours)
+
+    def test_robustness(self):
         jobs = [job("A", "One", "SQL, Excel and Figma"), job("B", "Two", "SQL, Python and Figma")]
         stable = assess_robustness(jobs, {"SQL"}, "Excel", {"Excel": 1.0}, core_share=.25)
         self.assertEqual(stable["label"], "Consistent across checked settings")
@@ -352,6 +388,16 @@ class EngineTests(unittest.TestCase):
         self.assertEqual(confidence_label(.95, .7), "Likely")
         self.assertEqual(confidence_label(.95, .5), "Uncertain")
         self.assertEqual(confidence_label(.9, .9), "Strong")
+
+    def test_pick_stability_caps_for_small_or_weak_evidence(self):
+        self.assertEqual(confidence_label(.95, .95, scored=14), "Likely")
+        self.assertEqual(confidence_label(.95, .95, scored=15), "Strong")
+        self.assertEqual(confidence_label(.95, .95, scored=30, standard_course=False), "Likely")
+        self.assertEqual(confidence_label(.95, .95, scored=30, limited=True), "Uncertain")
+        self.assertEqual(confidence_label(.7, .7, scored=9), "Likely")
+        self.assertIn("Limited data", stability_note(30, True, True))
+        self.assertIn("15", stability_note(14, True, False))
+        self.assertEqual(stability_note(20, True, False), "")
 
     def test_listing_confidence_boundaries(self):
         self.assertEqual([listing_confidence(n) for n in (0, 11, 12, 24, 25)],
@@ -523,7 +569,8 @@ class EngineTests(unittest.TestCase):
             self.assertEqual(result["ranked"][0]["skill"], "SQL")
             self.assertIsNotNone(result["ranked"][0]["hours"])
             self.assertEqual(result["robustness"]["label"], confidence_label(
-                result["bootstrap"]["top_share"], result["robustness"]["top_share"]))
+                result["bootstrap"]["top_share"], result["robustness"]["top_share"], len(result["jobs"]), True,
+                result["limited_data"]))
             self.assertTrue(all(event["source"] in {"demo", "cache missing"} for event in result["replay"]))
 
     def test_batch_d_courses_are_bundled_for_demo_mode(self):

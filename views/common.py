@@ -15,7 +15,7 @@ from skills import extract_skills
 
 MAX_PDF_BYTES = 5_000_000
 STYLE = """<style>
-.block-container {max-width: 1120px; padding-top: 1.2rem}
+.block-container {max-width: 1120px; padding-top: 4.5rem}
 .hero {background:#122b3a;color:#fff;padding:2rem;border-radius:18px;margin-bottom:1.2rem}
 .hero h1 {font-size:2.3rem;margin:0 0 .3rem;color:#fff}
 .hero p {font-size:1.05rem;color:#dbe8ed;margin:0}

@@ -28,10 +28,21 @@ SUBSTITUTE_PREFERENCE = {"Power BI": 3, "React": 3, "AWS": 3,
                          "Looker": 1, "Vue.js": 1, "Google Cloud": 1}
 LONG_VIDEO_SP = "EgIYAg=="  # YouTube Filters > Duration > Over 20 minutes, passed through SerpApi's `sp`.
 COURSE_TITLE = re.compile(r"\b(?:full course|complete|course|masterclass|bootcamp)\b", re.I)
+# Talks, webinars and similar are not courses, whatever their length.
+NOT_A_COURSE = re.compile(r"\b(?:webinars?|talks?|podcasts?|interviews?|keynotes?|panel|conference|meetups?|"
+                          r"live ?stream(?:ed)?|live session|ama|q&a|reaction|vlog)\b", re.I)
+# Products that make a video about something else, even when the skill name also appears
+# ("Figma Responsive Design" is a Figma video, not a course on responsive design).
+PRODUCT_SKILLS = {"Figma", "Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Adobe InDesign", "Adobe After Effects",
+                  "Adobe Premiere Pro", "Canva", "Blender", "AutoCAD", "WordPress", "Tableau", "Power BI", "Excel",
+                  "Salesforce", "HubSpot", "Mailchimp", "Tally", "QuickBooks", "Zoho Books", "SAP", "SAP FICO",
+                  "Jira", "Postman", "Selenium", "Playwright", "Docker", "Kubernetes", "Terraform", "Jenkins",
+                  "AWS", "Azure", "Google Cloud", "Looker", "Mixpanel", "Amplitude", "Databricks", "Snowflake"}
+MIN_COURSE_VIDEO_HOURS = 10 / 60
 DEFAULT_THRESHOLD = 0.50
 EXPERIENCE_LEVELS = {"Fresher": 0, "1-3 years": 1, "3+ years": 3}
 ROLE_FIT_WARNING = "Your profile is far from this role. Recommendations show what this role needs, but it may be a big switch."
-DICTIONARY_WARNING = "This role is outside NextSkill's strongest areas (tech, data, marketing, finance, design); results may be incomplete."
+DICTIONARY_WARNING = "Few skills from NextSkill's skill vocabulary were detected in these listings, so the results may be incomplete."
 MOSTLY_READY_MESSAGE = "You already match most jobs here. Your best next step is applying, or exploring a more senior role."
 
 
@@ -484,6 +495,15 @@ def dictionary_coverage_warning(jobs: list[dict]) -> tuple[bool, float]:
     return bool(counts) and median < 3, median
 
 
+def leads_with_other_product(title: str, skill: str) -> bool:
+    """True when the title is first about a different product, such as a Figma video for Responsive Design."""
+    mentions = skill_mentions(title, skip_headings=False)
+    if not mentions:
+        return False
+    leading = min(mentions, key=lambda item: (item[1], -(item[2] - item[1])))[0]
+    return leading != skill and leading in PRODUCT_SKILLS and skill not in PRODUCT_SKILLS
+
+
 def parse_duration(value: object) -> float | None:
     """Return hours from YouTube M:SS or H:MM:SS; reject live/malformed lengths."""
     if not isinstance(value, str) or not re.fullmatch(r"\d{1,3}:\d{2}(?::\d{2})?", value):
@@ -519,7 +539,7 @@ def indicated_languages(text: str) -> set[str]:
 
 def select_course_videos(results: list[dict], query: str,
                          requested_languages: set[str] | None = None, skill: str | None = None) -> tuple[float | None, list[dict], str]:
-    """Prefer named full courses >=1h; weaker >=30m fallback is labelled."""
+    """Prefer named full courses >=1h (standard confidence needs two); a weaker >=30m fallback is labelled low."""
     parsed = []
     skill = skill or re.split(r"\s+(?:full course|tutorial|course)", query, maxsplit=1, flags=re.I)[0]
     seen = set()
@@ -531,7 +551,9 @@ def select_course_videos(results: list[dict], query: str,
         channel = item.get("channel") or {}
         channel_name = str(channel.get("name") or "") if isinstance(channel, dict) else str(channel)
         title = item.get("title") or "untitled"
-        if not names_skill(title, skill):
+        if hours < MIN_COURSE_VIDEO_HOURS or not names_skill(title, skill):
+            continue
+        if NOT_A_COURSE.search(title) or leads_with_other_product(title, skill):
             continue
         if item.get("link") and item["link"] in seen:
             continue
@@ -687,11 +709,14 @@ def rank_skills(analysis: dict, client: SerpClient, include_hindi: bool = False,
 
 
 def headline_picks(ranked: list[dict]) -> dict:
-    """Fastest win is the best jobs per hour; biggest unlock ignores hours."""
-    fastest = next((row for row in ranked if row["score"] is not None), None)
+    """Fastest win is the best jobs per hour among skills with standard course confidence.
+
+    A skill whose hours come only from weak videos stays in the ranking but cannot lead the answer.
+    The headline is the fastest win, or the biggest unlock when no skill qualifies."""
+    fastest = next((row for row in ranked if row["score"] is not None and row.get("confidence") == "standard"), None)
     biggest = min(ranked, key=lambda row: (-row["unlocked_count"], row["score"] is None,
                                            -(row["score"] or 0), row["skill"])) if ranked else None
-    return {"fastest": fastest, "biggest": biggest,
+    return {"fastest": fastest, "biggest": biggest, "headline": fastest or biggest,
             "same": fastest is not None and biggest is not None and fastest["skill"] == biggest["skill"]}
 
 
@@ -711,12 +736,19 @@ def two_skill_plan(analysis: dict, hours_by_skill: dict[str, float | None] | Non
             "source_videos": {skill: (videos_by_skill or {}).get(skill, []) for skill in (first, second)}}
 
 
-def hours_range(hours: float | None) -> str:
+def hours_parts(hours: float) -> tuple[str, str]:
+    """Number and unit for a course-length estimate, always close to the measured value."""
+    if hours < 0.75:
+        return str(max(5, 5 * round(hours * 12))), "minutes"
+    count = max(1, round(hours))
+    return str(count), "hour" if count == 1 else "hours"
+
+
+def hours_text(hours: float | None) -> str:
+    """One wording for course length everywhere: 0.84 h reads 'about 1 hour'."""
     if hours is None:
         return "Unavailable"
-    low = max(1, math.floor(hours * .75))
-    high = max(low + 1, math.ceil(hours * 1.25))
-    return f"~{low}–{high} hours"
+    return "about " + " ".join(hours_parts(hours))
 
 
 def _ready_indices(analysis: dict, added: set[str]) -> set[int]:
@@ -856,17 +888,44 @@ def _bootstrap_cached(snapshot: tuple, user_skills: tuple[str, ...], measured_ho
                 continue
             appears = sum(any(skill in req for req in requirements) for requirements, _ in usable)
             results.append((skill, unlocked, appears))
-        # Match the product rule: shortlist by unlocked count, then rank by jobs/hour.
+        # Match the product rule: best jobs per hour among standard-confidence skills,
+        # otherwise the biggest unlock.
         scored = [row for row in results if hours.get(row[0])]
-        winner = min(scored, key=lambda row: (-row[1] / hours[row[0]], -row[1], row[0]))[0] if scored else "No scored pick"
+        if scored:
+            winner = min(scored, key=lambda row: (-row[1] / hours[row[0]], -row[1], row[0]))[0]
+        elif results:
+            winner = min(results, key=lambda row: (-row[1], row[0]))[0]
+        else:
+            winner = "No scored pick"
         winners[winner] += 1
     return tuple(sorted(winners.items(), key=lambda row: (-row[1], row[0])))
 
 
-def confidence_label(share: float, robustness_share: float | None = None) -> str:
+MIN_STABLE_LISTINGS = 15
+
+
+def confidence_label(share: float, robustness_share: float | None = None, scored: int | None = None,
+                     standard_course: bool = True, limited: bool = False) -> str:
+    """Pick stability. Strong needs 15 scored listings and standard course confidence; limited data caps it at Uncertain."""
     if robustness_share is not None:
         share = min(share, robustness_share)
-    return "Strong" if share >= .85 else "Likely" if share >= .60 else "Uncertain"
+    label = "Strong" if share >= .85 else "Likely" if share >= .60 else "Uncertain"
+    if limited:
+        return "Uncertain"
+    if label == "Strong" and ((scored is not None and scored < MIN_STABLE_LISTINGS) or not standard_course):
+        return "Likely"
+    return label
+
+
+def stability_note(scored: int, standard_course: bool, limited: bool) -> str:
+    """Why the label is capped, or an empty string."""
+    if limited:
+        return "Limited data caps the label at Uncertain."
+    if scored < MIN_STABLE_LISTINGS:
+        return f"Fewer than {MIN_STABLE_LISTINGS} scored listings caps the label at Likely."
+    if not standard_course:
+        return "No skill has standard course confidence, so the label is capped at Likely."
+    return ""
 
 
 def bootstrap_confidence(analysis: dict, hours_by_skill: dict[str, float | None],
@@ -891,7 +950,9 @@ def assess_robustness(jobs: list[dict], user_skills: set[str], top_skill: str | 
                       core_share: float = .25, experience_level: str | None = None,
                       base_threshold: float = .5, samples: int = 500, seed: int = 2026,
                       learning_limit: int = 5) -> dict:
-    """Independently perturb each measured skill's hours across threshold settings."""
+    """Independently perturb each standard-confidence skill's hours across threshold settings.
+
+    `hours_by_skill` holds only skills allowed to lead the answer; with none, the biggest unlock leads."""
     if samples < 1:
         raise ValueError("samples must be positive")
     randomizer = random.Random(seed)
@@ -905,9 +966,11 @@ def assess_robustness(jobs: list[dict], user_skills: set[str], top_skill: str | 
         analysis = analyze_jobs(jobs, user_skills, threshold, exclude_old, core_share, experience_level)
         candidates = [skill for skill in analysis["candidates"] if skill in measured]
         counts = {skill: len(analysis["unlocked"][skill]) for skill in candidates}
+        biggest = min(analysis["candidates"], key=lambda skill: (-len(analysis["unlocked"][skill]), skill)) \
+            if analysis["candidates"] else "No scored pick"
         local = Counter()
         for hours in draws:
-            winner = min(candidates, key=lambda skill: (-counts[skill] / hours[skill], -counts[skill], skill)) if candidates else "No scored pick"
+            winner = min(candidates, key=lambda skill: (-counts[skill] / hours[skill], -counts[skill], skill)) if candidates else biggest
             local[winner] += 1
         wins.update(local)
         share = local.get(top_skill, 0) / samples if top_skill else 0.0
@@ -931,36 +994,45 @@ def run(role: str, city: str, resume: str = "", manual_skills: str = "", thresho
     analysis = analyze_jobs(jobs, user, threshold, exclude_old, core_share, experience_level)
     ranked = rank_skills(analysis, client, include_hindi, learning_limit)
     hours = {row["skill"]: row["hours"] for row in ranked}
+    course_confidence = {row["skill"]: row["confidence"] for row in ranked}
     videos = {row["skill"]: row["videos"] for row in ranked}
     pair = analysis.get("pair")
     if pair:
         for skill in pair[:2]:
             if skill not in hours:
-                hours[skill], videos[skill], _ = course_videos(skill, client, include_hindi)
+                hours[skill], videos[skill], course_confidence[skill] = course_videos(skill, client, include_hindi)
     # Cached-only duration lookups for alternative threshold candidates never spend credits.
     cached_client = SerpClient(use_fixtures=client.use_fixtures, cache_only=True, cache_dir=client.cache_dir)
     for tested_threshold in (.4, .5, .6):
         variant = analyze_jobs(jobs, user, tested_threshold, exclude_old, core_share, experience_level)
         for skill in variant["candidates"]:
             if skill not in hours:
-                hours[skill], _, _ = course_videos(skill, cached_client, include_hindi)
+                hours[skill], _, course_confidence[skill] = course_videos(skill, cached_client, include_hindi)
     for skill in analysis["option_members"]:
         if skill not in GENERIC and skill not in hours:
-            hours[skill], _, _ = course_videos(skill, cached_client, include_hindi)
-    top_skill = ranked[0]["skill"] if ranked and ranked[0]["score"] is not None else None
-    threshold_check = assess_robustness(jobs, user, top_skill, hours, exclude_old,
+            hours[skill], _, course_confidence[skill] = course_videos(skill, cached_client, include_hindi)
+    headline = headline_picks(ranked)["headline"]
+    top_skill = headline["skill"] if headline else None
+    # Only standard-confidence skills may lead the answer, so only they enter the stability checks.
+    standard_hours = {skill: value for skill, value in hours.items() if course_confidence.get(skill) == "standard"}
+    threshold_check = assess_robustness(jobs, user, top_skill, standard_hours, exclude_old,
                                         core_share, experience_level, threshold, learning_limit=learning_limit)
-    bootstrap = bootstrap_confidence(analysis, hours, top_skill, learning_limit=learning_limit)
+    bootstrap = bootstrap_confidence(analysis, standard_hours, top_skill, learning_limit=learning_limit)
     opportunity = {"steps": greedy_opportunity(analysis, hours),
                    "quality": opportunity_quality(analysis, hours),
                    "hours_unknown": sorted(skill for skill in analysis["option_members"]
                                            if skill not in GENERIC and not hours.get(skill))}
     distances = skill_distance(analysis)
+    standard_course = bool(headline) and headline["confidence"] == "standard"
     analysis.update({"role": role, "city": city, "user_skills": sorted(user), "ranked": ranked,
                      "two_skill_plan": two_skill_plan(analysis, hours, videos), "replay": client.replay,
                      "role_fit_warning": has_role_fit_warning(analysis),
                      "robustness": {**threshold_check,
-                                    "label": confidence_label(bootstrap["top_share"], threshold_check["top_share"]),
+                                    "label": confidence_label(bootstrap["top_share"], threshold_check["top_share"],
+                                                              len(analysis["jobs"]), standard_course, analysis["limited_data"]),
+                                    "listings": len(analysis["jobs"]),
+                                    "cap_note": stability_note(len(analysis["jobs"]), standard_course, analysis["limited_data"]),
+                                    "headline_kind": "fastest" if headline and headline["confidence"] == "standard" else "biggest",
                                     "threshold_label": threshold_check["label"]},
                      "retrieved_dates": sorted({retrieval_date(job).isoformat() for job in analysis["all_listings"]
                                                  if retrieval_date(job) is not None}),

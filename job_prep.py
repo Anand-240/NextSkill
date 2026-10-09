@@ -225,9 +225,10 @@ def build_plan(analysis: dict, index: int,
             item.update({"revision_videos": videos, "revision_status": status})
         items.append(item)
     items.sort(key=lambda item: (-item["importance"], -item["market"], item["skill"]))
-    for position, item in enumerate(items, 1):
-        item["order"] = position
-
+    counters = {"revise": 0, "learn": 0}
+    for item in items:  # Revise and learn steps are numbered separately.
+        counters[item["action"]] += 1
+        item["order"] = counters[item["action"]]
     learned = {item["skill"] for item in items if item["action"] == "learn"}
     covered_now = sum(bool(req & user) for req in core)
     covered_after = sum(bool(req & (user | learned)) for req in core)
@@ -236,8 +237,15 @@ def build_plan(analysis: dict, index: int,
     learning_hours = sum(item["hours"] for item in items if item["action"] == "learn" and item["hours"])
     years, phrase = experience_evidence(job)
     shortest = shortest_route(core, user, threshold, course)
+    planned = {item["skill"] for item in items}
+    title_skills = {skill for skill, _, _ in skill_mentions(str(job.get("title") or ""), skip_headings=False)} - GENERIC
+    title_notes = []
+    for skill in sorted(title_skills - planned):
+        title_notes.append(f"The listing title names {skill}, which this plan does not include.")
+    for skill in sorted((title_skills & planned) - set(shortest["skills"]) - user):
+        title_notes.append(f"The listing title names {skill}, which the shortest route does not include.")
     return {"index": index, "job": job, "items": items, "alternatives": alternatives,
-            "shortest_route": shortest,
+            "shortest_route": shortest, "title_notes": title_notes,
             "must_haves_status": must_have_status(stated_must_haves(description), user),
             "must_haves": [" or ".join(sorted(req)) for req in sorted(stated_must_haves(description), key=lambda r: sorted(r))],
             "core_total": len(core), "covered_now": covered_now, "covered_after": covered_after,
@@ -256,24 +264,38 @@ def build_plan(analysis: dict, index: int,
 
 
 def shortest_route(requirements, user, threshold, course_lookup):
-    """Minimum course hours to the coverage threshold among measured missing skills."""
+    """Minimum course hours to the coverage threshold among measured missing skills.
+
+    Skills with standard course confidence are tried first; skills whose hours come from weaker videos
+    are used only when no standard-confidence route reaches the threshold, and the route says so."""
     if coverage(requirements, user) >= threshold:
-        return {"skills": [], "hours": 0.0, "status": "already matches", "unknown": []}
+        return {"skills": [], "hours": 0.0, "status": "already matches", "unknown": [], "low_confidence": []}
     missing = sorted(set().union(*requirements) - user - GENERIC) if requirements else []
-    hours = {skill: course_lookup(skill)[0] for skill in missing}
+    looked_up = {skill: course_lookup(skill) for skill in missing}
+    hours = {skill: looked_up[skill][0] for skill in missing}
+    standard = {skill for skill in missing if hours[skill] and looked_up[skill][2] == "standard"}
     unknown = [skill for skill in missing if not hours[skill]]
-    measured = sorted((s for s in missing if hours[s]), key=lambda s: (hours[s], s))[:12]
-    best = None
-    for size in range(1, len(measured) + 1):
-        for subset in itertools.combinations(measured, size):
-            spent = sum(hours[s] for s in subset)
-            if best and spent >= best[0]:
-                continue
-            if coverage(requirements, user | set(subset)) >= threshold:
-                best = (spent, subset)
+
+    def search(pool):
+        measured = sorted(pool, key=lambda s: (hours[s], s))[:12]
+        best = None
+        for size in range(1, len(measured) + 1):
+            for subset in itertools.combinations(measured, size):
+                spent = sum(hours[s] for s in subset)
+                if best and spent >= best[0]:
+                    continue
+                if coverage(requirements, user | set(subset)) >= threshold:
+                    best = (spent, subset)
+        return best
+
+    best = search(standard)
+    status = "exact among skills with standard course confidence (up to 12)"
+    if not best:
+        best = search({skill for skill in missing if hours[skill]})
+        status = "exact among measured skills (up to 12), includes low course confidence"
+    low = [skill for skill in (best[1] if best else []) if skill not in standard]
     return {"skills": list(best[1]) if best else [], "hours": best[0] if best else None,
-            "status": "exact among measured skills (up to 12)" if best else "no measured route",
-            "unknown": unknown}
+            "status": status if best else "no measured route", "unknown": unknown, "low_confidence": low}
 
 
 def time_range(plan: dict) -> str:
