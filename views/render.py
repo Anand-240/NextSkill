@@ -66,6 +66,9 @@ def render_answer(result: dict, saved: bool) -> None:
     if result.get("budget_reached"):
         st.info(f"Live search budget reached after {result['live_requests']} new searches. Results use the listings and "
                 "course data fetched so far; skills without course data show hours unknown. Raise the budget to fetch more.")
+    if result.get("request_failed"):
+        st.warning("A live search failed (for example a timeout) and was not retried, so these results use what was fetched. "
+                   "Skills without course data show hours unknown. Run again to fetch the rest.")
     if not result["ranked"]:
         st.info(no_unlock_message(result))
 
@@ -118,8 +121,8 @@ def render_evidence(result: dict, extra=None) -> None:
             a.metric("More matches", f"+{item['unlocked_count']}")
             b.metric("Estimated learning hours", hours_range(item["hours"]))
             c.metric("Matches per course hour", f"{item['score']:.2f}" if item["score"] is not None else "Unavailable")
-            if item["confidence"] == "budget":
-                st.caption("Hours unknown (live budget reached).")
+            if item["confidence"] in {"budget", "failed"}:
+                st.caption("Hours unknown (" + ("live budget reached" if item["confidence"] == "budget" else "the course search failed") + ").")
             if item["confidence"] == "low" and item["hours"] is not None:
                 st.caption("Low confidence: fewer than two qualifying full courses; estimate uses videos of at least 30 minutes.")
             if item["videos"]:
@@ -224,7 +227,7 @@ def render_checks(result: dict) -> None:
 def render_replay(result: dict) -> None:
     labels = {"demo": "Bundled demo data", "fixture": "Demo cache (validation fixture)", "cache": "Local cache",
               "live": "Live SerpApi request", "cache missing": "No cached response",
-              "budget reached": "Skipped (live budget reached)"}
+              "budget reached": "Skipped (live budget reached)", "failed": "Failed (not retried)"}
     with st.expander("Search replay"):
         for event in result["replay"]:
             query = event["query"].get("q") or event["query"].get("search_query")

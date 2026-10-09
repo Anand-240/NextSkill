@@ -134,6 +134,21 @@ class LiveWithKeyTests(unittest.TestCase):
             self.assertEqual(app.session_state["live_result"]["ready"], saved["ready"])
             self.assertIn("Credit balance unavailable", [x.value for x in app.info])
 
+    def test_failed_live_request_is_explained_and_results_are_kept(self):
+        from engine import SerpClient, run
+        saved = run("Frontend Developer", "Bengaluru", "HTML, CSS", pages=3, experience_level="Fresher",
+                    client=SerpClient(use_fixtures=True, cache_only=True))
+        saved["request_failed"] = True
+        with patch("engine.optional_serpapi_key", return_value="unit-test-placeholder"), \
+             patch("engine.run", return_value=saved), \
+             patch("engine.SerpClient.account", return_value={"this_month_usage": 1, "total_searches_left": 9}), \
+             patch("engine._request", side_effect=AssertionError("network requested")):
+            app = AppTest.from_file(str(ROOT / "views/live.py"), default_timeout=120).run()
+            app.button[0].click().run()
+            self.assertFalse(app.exception)
+            self.assertTrue(any("was not retried" in w.value for w in app.warning))
+            self.assertEqual(app.session_state["live_result"]["ready"], saved["ready"])
+
 
 if __name__ == "__main__":
     unittest.main()

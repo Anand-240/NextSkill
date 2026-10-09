@@ -125,6 +125,7 @@ class SerpClient:
         self.budget = budget
         self.live_calls = 0
         self.budget_reached = False
+        self.request_failed = False  # a live request failed (for example a timeout) and partial results were kept
         self.replay: list[dict] = []
         self.key: str | None = None
 
@@ -238,6 +239,13 @@ def fetch_jobs(role: str, city: str, pages: int = 3, client: SerpClient | None =
                 data = client.search(query, page=page)
             except BudgetExceeded:
                 # Keep the listings already fetched rather than failing the whole search.
+                return FetchedJobs(deduplicate(jobs), len(jobs))
+            except RuntimeError:
+                # A timeout or transport failure after earlier successes keeps what was fetched; no retry.
+                if not jobs:
+                    raise
+                client.request_failed = True
+                client.replay.append({"query": dict(query), "source": "failed", "variant": variant})
                 return FetchedJobs(deduplicate(jobs), len(jobs))
             _check_error(data)
             batch = data.get("jobs_results") or []
@@ -553,6 +561,12 @@ def course_videos(skill: str, client: SerpClient, include_hindi: bool = False) -
         except BudgetExceeded:
             if not results:
                 return None, [], "budget"
+            break
+        except RuntimeError:
+            client.request_failed = True
+            client.replay.append({"query": {"engine": "youtube", "search_query": query}, "source": "failed"})
+            if not results:
+                return None, [], "failed"
             break
         _check_error(data)
         results.extend(data.get("video_results") or [])
@@ -951,5 +965,6 @@ def run(role: str, city: str, resume: str = "", manual_skills: str = "", thresho
                      "retrieved_dates": sorted({retrieval_date(job).isoformat() for job in analysis["all_listings"]
                                                  if retrieval_date(job) is not None}),
                      "bootstrap": bootstrap, "opportunity": opportunity, "distance": distances,
-                     "budget_reached": client.budget_reached, "live_requests": client.live_calls})
+                     "budget_reached": client.budget_reached, "live_requests": client.live_calls,
+                     "request_failed": client.request_failed})
     return analysis

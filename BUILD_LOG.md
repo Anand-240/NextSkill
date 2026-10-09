@@ -379,3 +379,27 @@ Phase C remaining: 82 (of 105), of which revision videos 15.
   Evidence sections read the generated hand-label and user-test reports and say pending. The NPTEL and SWAYAM result
   is stated plainly in the SerpApi usage section.
 - Verify: check_consistency passes; the full suite passes.
+
+## Phase H - Verification gates (run 2026-10-09 17:00 to 17:25 IST)
+
+- H1: 101 offline tests pass; CI green at the last push before this section (see GitHub Actions).
+- H2: scripts/check_consistency rebuilds all 15 pairs from saved data and matches reports/final_results.json,
+  README, DEMO and the evidence reports: 0 problems.
+- H3: fresh clone of origin/main into a temp folder, new virtualenv, requirements install, 97 tests pass,
+  consistency check passes, app started with no .env: Home, Find, Job Prep, Compare, Methodology and About load with
+  0 exceptions; no Live search link; /live falls back to Home.
+- H4: scripts/security_scan: 488 history blobs scanned for the local key value and real-looking api_key values: 0
+  findings; 109 response files: no emails or phone numbers; no contact patterns in tests, reports or evaluation files.
+- H5: scripts/check_links: all relative links and images exist; web links resolve except two that need a note:
+  labour.gov.in/ncs answers with a redirect to www (browser fine, opened and read earlier) and
+  nextskill.streamlit.app answers with a cookie handshake redirect; both load in a browser.
+- H6: scripts/time_pages (server-side, AppTest): Bengaluru frontend, Jaipur analyst, Mumbai accountant: first load
+  0.04 to 0.39 s, adding a skill 0.13 to 0.22 s, repeat 0.04 s. Browser rendering time is not included.
+- H7: one local live run, Data Analyst in Kochi, 1 page. The first attempt (budget 3) stalled: a request timed out and
+  the whole run was lost although one response was saved. That was a real fault, fixed (commit after this section):
+  a failed request after earlier successes now keeps the partial results, is not retried, is shown in Search Replay
+  as failed and explained in the answer. Re-run with budget 2: Search Replay showed the live requests, the cached
+  base query and the skipped course search; the counter read "used 1, remaining 175"; partial results rendered with
+  limited-data and budget notes; 0 exceptions. Searches in H7: 4 of the cap of 5 (Account API: 72 -> 75 used,
+  the ledger shows 2 + 2 attempts). Screenshot: screenshots/live_run.png.
+- H8: pending (hosted app after this push).
