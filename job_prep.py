@@ -13,9 +13,12 @@ from skills import GENERIC, _BOUNDARY, _patterns, skill_mentions, names_skill
 
 MEDIUM_VIDEO_SP = "EgIYAw=="  # YouTube Filters > Duration > 4-20 minutes, passed through SerpApi's `sp`.
 REVISION_TITLE = re.compile(r"\b(?:revision|revise|crash course|one[ -]?shot|quick|"
-                            r"in \d+\s*(?:min|mins|minutes)|interview questions)\b", re.I)
+                            r"in \d+\s*(?:min|mins|minutes))\b", re.I)
 # School and exam revision (for example the CSS civil service exam) is a different subject.
 OFF_TOPIC = re.compile(r"\b(?:exams?|syllabus|subjects|strategy|mcqs?|board|a level|plus two|class \d+)\b|preparation", re.I)
+# Not a revision of the skill: version control "revisions", lists of interview questions, and OOP-only videos.
+NOT_REVISION = re.compile(r"\b(?:rev-parse|reflog|revision (?:selection|control|history|number)|(?:short|full) hash(?:es)?|"
+                          r"interview|questions? (?:and|&) answers?|object[- ]oriented|oops?)\b", re.I)
 EMPHASIS = re.compile(r"\b(?:must|required|strong|strongly|mandatory)\b", re.I)
 MIN_REVISION_MINUTES, MAX_REVISION_MINUTES = 5, 25
 REVISION_LABEL = "Quick revision videos. Not a full course and not a guarantee."
@@ -46,7 +49,7 @@ def select_revision_videos(results: list[dict], skill: str,
             continue
         if not REVISION_TITLE.search(title) or not names_skill(title, skill):
             continue
-        if OFF_TOPIC.search(title):
+        if OFF_TOPIC.search(title) or NOT_REVISION.search(title):
             continue
         if indicated_languages(title + " " + channel_name) - allowed:
             continue

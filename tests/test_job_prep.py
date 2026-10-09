@@ -50,9 +50,20 @@ class RevisionVideoTests(unittest.TestCase):
                    video("SQL exam revision strategy", "10:00"), video("SQL one shot revision", "5:00"),
                    video("SQL interview questions", "25:00"), video("SQL in 10 minutes", "12:00")]
         chosen = select_revision_videos(results, "SQL")
-        self.assertEqual([item["title"] for item in chosen], ["SQL one shot revision", "SQL interview questions"])
-        self.assertEqual([round(item["minutes"]) for item in chosen], [5, 25])
+        self.assertEqual([item["title"] for item in chosen], ["SQL one shot revision", "SQL in 10 minutes"])
+        self.assertEqual([round(item["minutes"]) for item in chosen], [5, 12])
         self.assertEqual(select_revision_videos(results[2:5], "SQL"), [])
+
+    def test_version_control_interview_and_oop_videos_are_not_revision(self):
+        results = [video("Git Revision Selection: Full and Short Hashes, rev-parse and the Reflog", "9:00"),
+                   video("5 Excel INTERVIEW Questions You NEED to Get RIGHT", "9:00"),
+                   video("Python Object Oriented Programming in 10 minutes", "10:00"),
+                   video("Python OOP crash course", "10:00"),
+                   video("Git and Github Explained in 7 Minutes", "7:37")]
+        self.assertEqual(select_revision_videos(results[:1] + results[4:], "Git")[0]["title"], "Git and Github Explained in 7 Minutes")
+        self.assertEqual(len(select_revision_videos(results[:1], "Git")), 0)
+        self.assertEqual(select_revision_videos(results[1:2], "Excel"), [])
+        self.assertEqual(select_revision_videos(results[2:4], "Python"), [])
 
     def test_language_filter_uses_title_and_channel(self):
         results = [video("SQL revision in Tamil", "10:00"), video("SQL quick revision", "10:00", "Telugu Tech"),

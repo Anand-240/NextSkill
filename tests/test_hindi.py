@@ -34,7 +34,8 @@ class HindiVideoTests(unittest.TestCase):
                 self.assertTrue(all("hindi" in (v["title"] + v["channel"]).lower() for v in courses))
                 self.assertTrue(all(skill.lower() in v["title"].lower() for v in courses))
                 revision, status = hindi_revision(skill, client)
-                self.assertEqual(status, "found")
+                # The only saved Hindi revision video for Excel is an interview-question list.
+                self.assertEqual(status, "none" if skill == "Excel" else "found")
                 self.assertTrue(all(5 <= v["minutes"] <= 25 for v in revision))
 
     def test_unsaved_skill_reports_not_saved_without_a_request(self):
