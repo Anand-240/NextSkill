@@ -253,7 +253,27 @@
         "dictionary_warning": false,
         "hours_unknown": []
       },
-      "query_scope": "base plus fresher and junior"
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Frontend Developer (Fresher)",
+        "company": "Team Geek Solutions",
+        "coverage_now": 0.429,
+        "must_haves_status": "none stated",
+        "revise": [
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ],
+        "learn": [
+          "React",
+          "REST API",
+          "Responsive Design",
+          "UI/UX"
+        ],
+        "shortest_route": [
+          "Responsive Design"
+        ]
+      }
     },
     "Noida": {
       "role": "Data Analyst",
@@ -536,7 +556,25 @@
         "dictionary_warning": false,
         "hours_unknown": []
       },
-      "query_scope": "base plus fresher and junior"
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Data Analyst | Government Project",
+        "company": "BDO India",
+        "coverage_now": 0.4,
+        "must_haves_status": "none stated",
+        "revise": [
+          "Excel",
+          "Python"
+        ],
+        "learn": [
+          "SQL",
+          "Data Analysis",
+          "Power BI"
+        ],
+        "shortest_route": [
+          "Power BI"
+        ]
+      }
     }
   },
   "pairs": {
@@ -792,7 +830,27 @@
         "dictionary_warning": false,
         "hours_unknown": []
       },
-      "query_scope": "base plus fresher and junior"
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Frontend Developer (Fresher)",
+        "company": "Team Geek Solutions",
+        "coverage_now": 0.429,
+        "must_haves_status": "none stated",
+        "revise": [
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ],
+        "learn": [
+          "React",
+          "REST API",
+          "Responsive Design",
+          "UI/UX"
+        ],
+        "shortest_route": [
+          "Responsive Design"
+        ]
+      }
     },
     "data-analyst-noida": {
       "role": "Data Analyst",
@@ -1075,7 +1133,25 @@
         "dictionary_warning": false,
         "hours_unknown": []
       },
-      "query_scope": "base plus fresher and junior"
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Data Analyst | Government Project",
+        "company": "BDO India",
+        "coverage_now": 0.4,
+        "must_haves_status": "none stated",
+        "revise": [
+          "Excel",
+          "Python"
+        ],
+        "learn": [
+          "SQL",
+          "Data Analysis",
+          "Power BI"
+        ],
+        "shortest_route": [
+          "Power BI"
+        ]
+      }
     },
     "data-analyst-hyderabad": {
       "role": "Data Analyst",
@@ -1322,7 +1398,25 @@
         "dictionary_warning": false,
         "hours_unknown": []
       },
-      "query_scope": "base plus fresher and junior"
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Junior Data Analyst",
+        "company": "Brillius Technologies",
+        "coverage_now": 0.4,
+        "must_haves_status": "none stated",
+        "revise": [
+          "Python",
+          "Excel"
+        ],
+        "learn": [
+          "Data Analysis",
+          "SQL",
+          "Statistics"
+        ],
+        "shortest_route": [
+          "SQL"
+        ]
+      }
     },
     "data-analyst-pune": {
       "role": "Data Analyst",
@@ -1569,7 +1663,26 @@
         "dictionary_warning": false,
         "hours_unknown": []
       },
-      "query_scope": "base plus fresher and junior"
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Data Analyst – Off Campus Hiring",
+        "company": "Careers | MHTECHIN",
+        "coverage_now": 0.429,
+        "must_haves_status": "none stated",
+        "revise": [
+          "Excel",
+          "Python"
+        ],
+        "learn": [
+          "SQL",
+          "Data Analysis",
+          "Statistics",
+          "Power BI"
+        ],
+        "shortest_route": [
+          "Power BI"
+        ]
+      }
     },
     "data-analyst-jaipur": {
       "role": "Data Analyst",
@@ -1823,7 +1936,25 @@
         "dictionary_warning": false,
         "hours_unknown": []
       },
-      "query_scope": "base plus fresher and junior"
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Data Analyst",
+        "company": "Menko Services Pvt Ltd",
+        "coverage_now": 0.4,
+        "must_haves_status": "none stated",
+        "revise": [
+          "Excel",
+          "Python"
+        ],
+        "learn": [
+          "Power BI",
+          "Data Analysis",
+          "Data Visualization"
+        ],
+        "shortest_route": [
+          "Power BI"
+        ]
+      }
     },
     "data-analyst-indore": {
       "role": "Data Analyst",
@@ -1909,7 +2040,18 @@
           "Data Modeling"
         ]
       },
-      "query_scope": "base plus fresher and junior"
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Data Analyst Remote Indore",
+        "company": "Quik Hire Staffing",
+        "coverage_now": 0.0,
+        "must_haves_status": "none stated",
+        "revise": [],
+        "learn": [
+          "Data Analysis"
+        ],
+        "shortest_route": []
+      }
     },
     "accountant-jaipur": {
       "role": "Accountant",
@@ -2136,7 +2278,25 @@
           "Reconciliation"
         ]
       },
-      "query_scope": "base plus fresher and junior"
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Fresher Accountant",
+        "company": "Whispering Palms Hotel",
+        "coverage_now": 0.4,
+        "must_haves_status": "none stated",
+        "revise": [
+          "Accounting",
+          "Excel"
+        ],
+        "learn": [
+          "Bookkeeping",
+          "Tally",
+          "GST"
+        ],
+        "shortest_route": [
+          "Bookkeeping"
+        ]
+      }
     },
     "digital-marketing-executive-dehradun": {
       "role": "Digital Marketing Executive",
@@ -2311,7 +2471,24 @@
         "dictionary_warning": false,
         "hours_unknown": []
       },
-      "query_scope": "base only"
+      "query_scope": "base only",
+      "job_prep_default": {
+        "title": "Business Development Executive – Digital Marketing & Web Development | Dehradun",
+        "company": "Propulsion Technologies",
+        "coverage_now": 0.25,
+        "must_haves_status": "none stated",
+        "revise": [
+          "Social Media Marketing"
+        ],
+        "learn": [
+          "Digital Marketing",
+          "Google Ads",
+          "SEO"
+        ],
+        "shortest_route": [
+          "SEO"
+        ]
+      }
     }
   }
 }

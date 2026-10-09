@@ -2,7 +2,8 @@
 import json
 from pathlib import Path
 from unittest.mock import patch
-from engine import run, SerpClient, headline_picks
+from engine import run, SerpClient, headline_picks, course_videos
+from job_prep import default_prep_index, build_plan, revision_videos
 from personas import saved_pairs
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -26,6 +27,16 @@ def summary(r):
         'flags':{'limited_data':r['limited_data'],'dictionary_warning':r['dictionary_warning'],
                  'hours_unknown':r['opportunity']['hours_unknown']}}
 
+def prep_default(r,client):
+    index=default_prep_index(r)
+    if index is None:return None
+    plan=build_plan(r,index,lambda skill:course_videos(skill,client),lambda skill:revision_videos(skill,client))
+    return {'title':plan['job'].get('title'),'company':plan['job'].get('company_name'),
+            'coverage_now':round(plan['coverage_now'],3),'must_haves_status':plan['must_haves_status'],
+            'revise':[i['skill'] for i in plan['items'] if i['action']=='revise'],
+            'learn':[i['skill'] for i in plan['items'] if i['action']=='learn'],
+            'shortest_route':plan['shortest_route']['skills']}
+
 def build():
     output={};pairs={}
     manifest=saved_pairs()
@@ -33,6 +44,7 @@ def build():
         for pair in manifest:
             r=run(pair['role'],pair['city'],resume=pair['resume'],pages=pair['pages'],client=SerpClient(use_fixtures=True,cache_only=True),experience_level='Fresher')
             row=summary(r);row['query_scope']=pair['query_scope']
+            row['job_prep_default']=prep_default(r,SerpClient(use_fixtures=True,cache_only=True))
             pairs[pair['id']]=row
             if pair['id'] in {'frontend-developer-bengaluru','data-analyst-noida'}:
                 output[pair['city']]=row

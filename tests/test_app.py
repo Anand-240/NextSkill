@@ -91,7 +91,8 @@ class PresentationTests(unittest.TestCase):
             self.assertIn("[CSS in 5 minutes]", text)
             captions = "\n".join(item.value for item in app.caption)
             self.assertIn("Quick revision videos. Not a full course and not a guarantee.", captions)
-            self.assertIn("Revision videos available in live search.", captions)
+            self.assertNotIn("Revision videos available in live search.", captions)
+            self.assertIn("[HTML in 5 minutes]", text)
             self.assertIn("**Your profile matches 9 of 19 saved listings in Bengaluru.**", [item.value for item in app.markdown])
             prep_buttons = [button for button in app.button if button.key and button.key.startswith("prep_")]
             self.assertEqual(len(prep_buttons), 19)

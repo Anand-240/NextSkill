@@ -19,8 +19,6 @@ OFF_TOPIC = re.compile(r"\b(?:exams?|syllabus|subjects|strategy|mcqs?|board|a le
 EMPHASIS = re.compile(r"\b(?:must|required|strong|strongly|mandatory)\b", re.I)
 MIN_REVISION_MINUTES, MAX_REVISION_MINUTES = 5, 25
 REVISION_LABEL = "Quick revision videos. Not a full course and not a guarantee."
-# Bengaluru demo listing that is one skill away; opened by default so visitors see a full plan.
-DEMO_JOB = ("Team Geek Solutions", "Frontend Developer (Fresher)")
 
 
 def revision_params(skill: str) -> dict:
@@ -87,11 +85,23 @@ def prep_candidates(analysis: dict) -> list[dict]:
 
 
 def default_prep_index(analysis: dict) -> int | None:
+    """Listing opened by default: one named skill away, with the most skills to revise, then the fewest to learn.
+
+    Falls back to the listing closest to the threshold, then to any match."""
+    user = analysis["user_skills_set"]
+    rank = []
     for row in prep_candidates(analysis):
-        job = row["job"]
-        if row["status"] == "one_away" and (job.get("company_name"), job.get("title")) == DEMO_JOB:
-            return row["index"]
-    return None
+        entry = analysis["jobs"][row["index"]]
+        requirements = entry["required_skills"]
+        unmet = sum(not req & user for req in requirements)
+        revisable = len(user & set().union(*requirements)) if requirements else 0
+        tier = 0 if row["status"] == "one_away" and row["unlock_skills"] else 1 if row["status"] == "one_away" else 2
+        rank.append((tier, -revisable, unmet, row["index"]))
+    if rank:
+        return min(rank)[-1]
+    below = [(-entry["coverage"], index) for index, entry in enumerate(analysis["jobs"])
+             if user & set().union(*entry["required_skills"], set())]
+    return min(below)[1] if below else None
 
 
 def evidence_line(text: str, start: int, end: int, width: int = 70) -> str:

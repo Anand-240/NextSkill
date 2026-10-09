@@ -239,3 +239,33 @@ Phase C remaining: 82 (of 105), of which revision videos 15.
 | H1 | PASS now | 78 tests, CI green |
 | H2-H8 | NOT STARTED | |
 | I1-I5 | NOT STARTED | README/DEMO exist from earlier phases |
+
+## C5 - Revision videos for persona skills
+
+- Research: Job Prep marks a held skill "revise" and looks up `<skill> revision` with the
+  4-20 minute YouTube duration filter (A2 table). Only skills the saved personas already
+  hold can appear as revise items, and CSS and JavaScript were already saved.
+- Plan/acceptance: fetch only the missing persona skills (deduplicated across pairs),
+  redact and save, then every saved persona skill has a revision response. Cap 15.
+- Build: scripts/fetch_revision.py computes the missing list from the saved pairs and uses
+  the budgeted build client. Fetched Accounting, Canva, Excel, HTML, Python, Social Media
+  Marketing. Git (Python Developer persona) is not fetched because no saved pair uses it yet.
+- Test/verify: existing selector (5-25 minutes, skill/alias in title, revision-style wording,
+  no exam topics, language filter) kept; 79 tests pass; scan_data: 73 files, zero findings.
+  Every persona skill of all 8 pairs now resolves to at least one video. The selector's
+  wording rule is loose for a few titles (for example "Create an Ebook in 30 Minutes with
+  Canva" matches "in N minutes"); kept as specified, noted as a limitation.
+- Credits: Account 23 -> 28 used (222 left). Ledger counts 6 attempts (29 total); one query
+  was apparently not billed by SerpApi. Revision calls this phase: 6 of 15.
+
+## C6 - Default Job Prep listing per pair
+
+- Research: the default listing was one hard-coded Bengaluru job.
+- Plan/acceptance: choose it by rule for every pair: one named skill away, most skills
+  to revise, then fewest to learn; fall back to the closest listing. Every pair needs one.
+- Build: default_prep_index implements the rule; DEMO_JOB removed; the chosen listing, its
+  revise/learn skills and shortest route are written to reports/final_results.json.
+- Test: new test opens a plan for all 8 pairs offline with no missing revision videos.
+  7 of 8 show both revise and learn sections. Indore (5 eligible, 0 matches) has no listing
+  with a skill the persona holds, so its plan is learn-only; this is disclosed, not hidden.
+  Bengaluru's choice is unchanged (Team Geek Solutions). 79 tests pass.

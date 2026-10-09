@@ -174,16 +174,36 @@ class DemoJobPrepTests(unittest.TestCase):
         with patch("engine._request", side_effect=AssertionError("network requested")):
             plan = build_plan(self.result, index, lambda skill: course_videos(skill, cached),
                               lambda skill: revision_videos(skill, cached))
-        self.assertEqual((plan["job"]["company_name"], plan["job"]["title"]), job_prep.DEMO_JOB)
+        self.assertEqual((plan["job"]["company_name"], plan["job"]["title"]), ("Team Geek Solutions", "Frontend Developer (Fresher)"))
         self.assertEqual((plan["covered_now"], plan["core_total"], plan["covered_after"]), (3, 7, 7))
         self.assertEqual(plan["unlock_skills"], ["REST API", "React", "Responsive Design"])
         items = {item["skill"]: item for item in plan["items"]}
         self.assertEqual((items["JavaScript"]["market"], items["JavaScript"]["market_total"]), (17, 23))
         self.assertEqual(items["JavaScript"]["revision_status"], "found")
         self.assertEqual(items["CSS"]["revision_status"], "found")
-        self.assertEqual(items["HTML"]["revision_status"], "not_saved")
+        self.assertEqual(items["HTML"]["revision_status"], "found")
         self.assertEqual(items["REST API"]["other_unlocks"], 7)
         self.assertTrue(items["UI/UX"]["broad"])
+
+    def test_every_saved_pair_opens_a_prep_plan(self):
+        from personas import saved_pairs
+        both = []
+        for pair in saved_pairs():
+            with patch("engine._request", side_effect=AssertionError("network requested")):
+                client = SerpClient(use_fixtures=True, cache_only=True)
+                result = run(pair["role"], pair["city"], resume=pair["resume"], pages=pair["pages"],
+                             client=client, experience_level="Fresher")
+                index = default_prep_index(result)
+                self.assertIsNotNone(index, pair["id"])
+                plan = build_plan(result, index, lambda skill: course_videos(skill, client),
+                                  lambda skill: revision_videos(skill, client))
+            actions = {item["action"] for item in plan["items"]}
+            self.assertEqual(plan["missing_revision"], [], pair["id"])
+            if actions == {"revise", "learn"}:
+                both.append(pair["id"])
+        # Indore has no listing with a skill to revise, so its plan can only teach.
+        self.assertEqual(len(both), len(saved_pairs()) - 1)
+        self.assertNotIn("data-analyst-indore", both)
 
 
 if __name__ == "__main__":
