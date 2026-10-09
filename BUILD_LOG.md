@@ -131,3 +131,18 @@ current prose. Archived the original golden file; no results tuned to preserve i
   today's jobs, Or list skills or unqualified exact-budget heading.
 - Verify: AppTest headline/caption checks pass; historical files retained as history.
   Diff reviewed. Zero searches.
+
+## B7 - Recomputed demos
+
+Research: compared original golden data with all B fixes. Plan/acceptance: regenerate
+from saved inputs, retain changed winners, pass golden tests and update documents.
+Build: ran build_results and render_docs. Test: full offline suite, 75 tests pass.
+Verify: engine, generated JSON, README and DEMO share the same current results.
+
+| City | Matches before/after | Winner before | Winner after | Bootstrap after | Hour variation after |
+|---|---|---|---|---|---|
+| Bengaluru | 9/9 | REST API | Responsive Design | 90.4% | 95.7% |
+| Noida | 1/1 | Data Cleaning | SQL | 57.6% | 47.3% |
+
+Diff reviewed. No search calls. Current requirements and videos remain linked;
+old screenshots are historical and will be replaced at the page screenshot gates.
