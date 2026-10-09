@@ -50,5 +50,5 @@ Bootstrap resamples the same eligible listings 500 times with a fixed seed and r
 ## Verification
 
 - **32 offline tests passed**, including bundled course replay, the confidence thresholds, UI/UX exclusion, alternatives, experience filtering, greedy vs exact on a known counterexample, and bootstrap reproducibility.
-- Both saved Streamlit demos rendered without an exception. See [Noida overview](../../screenshots/batch_d_noida.png), [Noida curve](../../screenshots/batch_d_noida_plan.png), [Bengaluru overview](../../screenshots/batch_d_frontend.png), and [Bengaluru curve](../../screenshots/batch_d_frontend_plan.png).
+- Both saved Streamlit demos rendered without an exception. See [Noida overview](../../screenshots/archive/batch_d_noida.png), [Noida curve](../../screenshots/archive/batch_d_noida_plan.png), [Bengaluru overview](../../screenshots/archive/batch_d_frontend.png), and [Bengaluru curve](../../screenshots/archive/batch_d_frontend_plan.png).
 - **4 credits remain** for the demo recording as checked after these calls; no further SerpApi calls were made in this batch.

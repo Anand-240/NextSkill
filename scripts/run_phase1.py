@@ -45,7 +45,7 @@ def main() -> None:
              f"Phase 1 search requests attempted: {__import__('json').loads((ROOT / 'cache' / 'ledger.json').read_text())['real_calls']} of 6 maximum. Free account checks before and after.",
              "", "## Saved-data demo", "", "Threshold: 0.4. Historical validation fixtures; missing course fixtures show unavailable hours.", "", *summary(offline),
              "", "## Live demo", "", "Threshold: 0.4; one new Google Jobs page so five YouTube queries fit the six-call cap.", "", *summary(live),
-             "", "## App verification", "", "Seven offline unit tests passed. Streamlit rendered both the saved-data and live-data runs end to end. Screenshots: [saved-data](../screenshots/fixture.png), [live-data](../screenshots/live.png).",
+             "", "## App verification", "", "Seven offline unit tests passed. Streamlit rendered both the saved-data and live-data runs end to end. Screenshots: [saved-data](../screenshots/archive/fixture.png), [live-data](../screenshots/archive/live.png).",
              "", "Learning hours are the median duration of up to three eligible free course videos per skill; videos under 20 minutes are excluded. These estimates do not guarantee job readiness or hiring.", "",
              "API field references: [Google Jobs](https://serpapi.com/google-jobs-api), [YouTube search](https://serpapi.com/youtube-search-api), [YouTube video results](https://serpapi.com/youtube-video-results), [Account](https://serpapi.com/account-api).", ""]
     report = ROOT / "reports" / "archive" / "phase1_report.md"

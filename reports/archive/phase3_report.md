@@ -45,4 +45,4 @@ The [README](../../README.md) explains the problem, Mermaid flow, SerpApi engine
 
 ## Verification
 
-Twelve offline unit tests passed, including the new default, generic-skill exclusion and role-fit warning. The app was checked in Demo data mode for both saved roles. [Noida screenshot](../../screenshots/phase3_noida.png) · [Frontend screenshot](../../screenshots/phase3_frontend.png).
+Twelve offline unit tests passed, including the new default, generic-skill exclusion and role-fit warning. The app was checked in Demo data mode for both saved roles. [Noida screenshot](../../screenshots/archive/phase3_noida.png) · [Frontend screenshot](../../screenshots/archive/phase3_frontend.png).

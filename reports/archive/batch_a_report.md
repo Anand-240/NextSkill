@@ -11,7 +11,7 @@ No SerpApi searches or Account API calls were made for this batch. All figures b
 5. Added a sample-size badge: High at 25+ eligible listings, Medium at 12–24, Low below 12.
 6. Added a dictionary-coverage warning when the median detected skills per eligible listing is below three.
 7. Added pypdf resume upload. Text-based PDFs use the existing matcher; blank/scanned PDFs request pasted text.
-8. Recomputed six personas, updated the README and captured new screenshots: [Noida](../../screenshots/batch_a_noida.png) and [Bengaluru](../../screenshots/batch_a_frontend.png).
+8. Recomputed six personas, updated the README and captured new screenshots: [Noida](../../screenshots/archive/batch_a_noida.png) and [Bengaluru](../../screenshots/archive/batch_a_frontend.png).
 
 ## Before and after personas
 

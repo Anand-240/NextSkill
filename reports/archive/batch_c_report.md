@@ -59,5 +59,5 @@ The cross-role personas have low readiness, which is expected from their listed 
 ## Verification and screenshots
 
 - Offline tests: **29 passed** (including known greedy/optimal, alternatives plus experience, seeded bootstrap, and known distance counts).
-- Streamlit cached demo rendered without an exception for both roles; chart captures are [Noida opportunity](../../screenshots/batch_c_noida_plan.png), [Noida distance](../../screenshots/batch_c_noida_distance.png), [Bengaluru opportunity](../../screenshots/batch_c_frontend_plan.png), and [Bengaluru distance](../../screenshots/batch_c_frontend_distance.png).
+- Streamlit cached demo rendered without an exception for both roles; chart captures are [Noida opportunity](../../screenshots/archive/batch_c_noida_plan.png), [Noida distance](../../screenshots/archive/batch_c_noida_distance.png), [Bengaluru opportunity](../../screenshots/archive/batch_c_frontend_plan.png), and [Bengaluru distance](../../screenshots/archive/batch_c_frontend_distance.png).
 - Course hours and listing samples are saved snapshots; no live freshness is implied.

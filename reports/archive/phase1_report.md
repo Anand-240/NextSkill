@@ -58,7 +58,7 @@ Search replay:
 
 ## App verification
 
-Seven offline unit tests passed. Streamlit rendered both the saved-data and live-data runs end to end. Screenshots: [saved-data](../../screenshots/fixture.png), [live-data](../../screenshots/live.png).
+Seven offline unit tests passed. Streamlit rendered both the saved-data and live-data runs end to end. Screenshots: [saved-data](../../screenshots/archive/fixture.png), [live-data](../../screenshots/archive/live.png).
 
 Learning hours are the median duration of up to three eligible free course videos per skill; videos under 20 minutes are excluded. These estimates do not guarantee job readiness or hiring.
 
