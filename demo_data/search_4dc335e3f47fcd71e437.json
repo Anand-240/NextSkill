@@ -1,0 +1,288 @@
+{
+  "search_metadata": {
+    "id": "6ac8e7b032a8e3821cc6624a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/E8ct738E67hHjZvzSlctoXt50WLVcydQYYidZigMj8Y/6ac8e7b032a8e3821cc6624a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/E8ct738E67hHjZvzSlctoXt50WLVcydQYYidZigMj8Y/6ac8e7b032a8e3821cc6624a.md",
+    "created_at": "2026-10-09 13:10:08 UTC",
+    "processed_at": "2026-10-09 13:10:08 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Accountant&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/E8ct738E67hHjZvzSlctoXt50WLVcydQYYidZigMj8Y/6ac8e7b032a8e3821cc6624a.html",
+    "prettify_html_file": "https://serpapi.com/searches/E8ct738E67hHjZvzSlctoXt50WLVcydQYYidZigMj8Y/6ac8e7b032a8e3821cc6624a.prettify",
+    "total_time_taken": 0.56
+  },
+  "search_parameters": {
+    "q": "Accountant",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBURm90Um5sVVRsZGZlRFZDWTA5ZmFGaEJObmRXUzJrNFN6SjBkMk42VTNkMWRGbFdVVmxCWHpCNVgySk5kVzFmWVV4a1IyaGxTV2RDVERWVGFXbHhUMVUxWDJwV05tZ3RkMlJFWW5oa2VUWlFXWEUzWjJOdVRGZG5OSFJmU0dSNlJqaHNZa1pyWmxsT1dHTm5hMHRCUzI5WlEyOHpOR3BmZVZWaU5qUXdkR0pwVlhObFpGcEdiekpNYlU0NGIyTllTVEV5T1hZeFZGQTRPR05oVDFGa2IwRnFYMlUzZFVkNFVIUkpNVk5QTmtaallVcGFhVFpOWkhwclNFWk1URkJuTUVZMVRFMVphRUZrVlRCNldFTlVVMjVFV0RoWmVqZDNhVFI0Y0RkVU1YQXhVMWt0VFZkeFgyUm9XRkZ6Y0c1T1QyUkVXbXhQVjJKbFZGbFNZVEV4ZG5sWlFrVmtTakYzUzNVNGFHMUVRVUYwTlRCcVh6STNSMUJWVW0xU1dVbGhjVzFPVkU5ck5YVjJjV2xFYkVaU1EyOXNSRTQzTXpJMlRWUkVjMjFRY0hJd05VZExSbEJaY1dJMFJUZHVjVkpUTURCQ1ozVjFiM0ZIVVVjeVl6VTRjR2g0WWs1cGJYQTNSVzh4VUVoNWFIVlhWVXhtVlc5emFqWlpNbkE1ZWt4U0xWaGFiRVJvVDBsb1ptSjZOVE4wYUhScmRqaHNObkprVlVKSWVqQlJlWEJoVGxOSlNsZFZXVlpMWjNCSFVHVXhTRGhLTWt3eVdFODFNbFJRVUdoU1Iyb3pjV0pYYmtNMk5XcHVPV1ZzVmxaSmFsUnVVekUzTlRkNWRHY1NGM0l0WmtsaGRsZzFRWE5xU1hBNE5GQmZTMm90TUVGekdpSkJSSE55T1daVWNtaFRaMmxRUVRGNFZHdFRWMlJDVGxjMmRGZHhiazlZZDBkUiIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "- Accountant",
+      "company_name": "Trigent Software Private Limited",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=Nm2D-a-cFjwQ4oOpAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQ7CMAxFxdojMHlhQdAgJCQEEywMMCDBXrnBpIHUrhIXOnIHdg7HSSjLX957P_sMstEUNtZKy4qs8H294SYlJMJoKxCGnYgLNFxXqk1aGZNSyF1SVG9zK7URplI600fpP0WqMFITUKmYL2Zd3rAbL8_RO-rvT3LVZ8_hGP2jV-Dga690Ac-wJXYY2thOYI-RUfGOP9e6-BmhAAAA&shmds=v1_ARwrE20h5NfvEciy2iAx3sy8T9xQbNtpng_Tz8KzPlC1ieKnAA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=Nm2D-a-cFjwQ4oOpAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEX1rzL____1rzH1sDb1qx774b_737n1riz0qRH1rCP0qhj1rSf__vz74b350pv62av-9uv858v--vT4yID2uFH2tUj4y4n0pwD3w3H979361qP1sz72u1v3vmT4xHb5z5LzoADu9C8UAAACIElEQVRIiZ2V28KqIBBGAUlOmpp5zP72-z_llsEDCgU1lzirKb81hPBPVY7oF-zW_ht-Aa-c9hilkVWkC1ZQQboSI0VjquvGDLCcUIJUizFKCAqW4leDVQ85txN-iwIVr2-ADRNn-kBccQTIeF-aBHqDIUJxGGR8GkwCdceWM1oEQSKbCrDsxdV2SHAAJDS5mARGKfYumX8GiVCFwVJGrR7W4E8gEXQ0DZcHPXTw6hOoeGsSqO7y-JxN-D3IeG0SGJ6cnZ5180vOLl6Q8adJoPxzMMR6LXnqAZm8L8G1ewLWwPmrZJ07cQ_uKj0Y2I1fDkgoWnanUML3zsDuG6dHkAixBJcn1B8u2F2rI6jkujqNfOvE3FF2yAad1fEV2N0zC3RXxzsw0R_M0Qraq_MBW-ye2Abuq-NNYCuwu-JoBR_r6lBvAnuB3Q3bQN_qeAdqu3OJDuB5dbwD9XswEaygszq-Uj3cxWgHPavjHajtVsQCVQxm7L4KZIExN_m8Ndru9Rd9AYLd7RpzPGjs5mtnPAh2_21eRYOb3d-CYPdzf_ux4G73lyDYfbfijgTB7ou0TiJBsPthd8WBYHdK7aM4UNuN2aEpCgS7x8PAKBDszk5rHgOC3S9xPIwAicqsdfoCBLvr860ZBsHukp-PwyDY3Tt3SxAEuwdnYBgEuyf3MguBYHflDgyCYHfjuT0DINidS8-T5d8qeVNC250g3xMN_gcUNhrRYK6wwwAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/accountant/trigent-software-private-limited/19470659",
+      "job_title": "- Accountant",
+      "description": "The person will be responsible for revenue accounting activities, contract reviews, journal bookings, preparation of reconciliations, and active participation in monthly business finance calls.\n Candidate should have 3 to 5 years of Experience (Revenue accounting experience is expected).\n Candidates should have a BCom / CA / MBA / ICWA qualification.\n FYI - 9 LPA .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/accountant/trigent-software-private-limited/19470659?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiItIEFjY291bnRhbnQiLCJjb21wYW55X25hbWUiOiJUcmlnZW50IFNvZnR3YXJlIFByaXZhdGUgTGltaXRlZCIsImh0aWRvY2lkIjoiTm0yRC1hLWNGandRNG9PcEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMDVsU0VKUlppMHhTak5sWjJkbmRrbEhkVTgzUXpNNVNXOU9PVE42ZEhWWVIwOWZaV2xyTkRCRlJGbEZVM3BUVVZJMFpHZHpUbFJOUjJFMFoydFZaVGwyZG5Wc04yeEZlRTR0YUc4M016RnlOblp5TmxvdFRuUjRkVkkyV25sb1NVbHVVbmN6UlZwQ1IyRnFPV2d3T0VWTlluaHlRVUZ5TW5oRkxWbzFkWEJVUWxWblJVSVNGM05QWmtsaGRUTjZSemgxZERWT2IxQXRURE5xZFVGckdpSkJSSE55T1daVFgxTXhXbEJOTFZoQ1FYWkVRM0psZEVOSk0yZGZWVWhaVTBKQiIsImZjdiI6IjMiLCJmY19pZCI6Ik5tMkQtYS1jRmp3UTRvT3BBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Accountant - Invoice Processing Services",
+      "company_name": "KK Group",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=9HMxgyJ_HB_KHuAGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKupRbMi2GgVmyBpBA8gk2XYrK4zy85uSOkdvIFH8yTG5hcPfvVZVE1jrRTOyBk2cOZRvCW4JLGk6tnBldI4k8L39Ya79KCEyQ4gDK2IC7Q8DjlHPRijGmqnGbO3tZWnEaZeJjNP-s9NB0wUA2a67fbbqY7sVtB10CYpETzDidhhKKmsocPEmPGBP3ckfcWlAAAA&shmds=v1_ARwrE23_-yZdFBb_eLRCCUClhrFz2-c9SziWufcW9w6LEUxxdA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=9HMxgyJ_HB_KHuAGAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e7b032a8e3821cc6624a/images/gNWQhS9bQOOl7-wxtyEl1eoPxj3e4K2HNEqyrjel3Do.jpeg",
+      "extensions": [
+        "14 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/accountant-invoice-processing-services-at-kk-group-4471839814",
+      "job_title": "Accountant - Invoice Processing Services",
+      "description": "Purpose of the Role:\n\nAn Accounts Payable Specialist is responsible for processing invoices, responding to accounts payable queries, reconciling supplier statements, and reconciling employee expense reports.\n\nThe role ensures that all invoices and payments are properly reviewed, approved, and processed in line with company policies.\n\nIt also involves maintaining accurate records of outstanding liabilities, performing vendor account reconciliations, monitoring invoice and payment deadlines, resolving discrepancies, supporting month-end closing activities, and ensuring compliance with internal controls and audit requirements.\n\n\n\n\nRoles & Responsibilities:\n\nReview invoices for accuracy and ensure proper approvals are obtained.Process invoices to ensure payments are correct and made on time.Match invoices to purchase orders and resolve discrepancies.Reconcile supplier statements and follow up on outstanding items.Reconcile employee expense reports in line with company policies.Maintain accurate records of accounts payable transactions and liabilities.Monitor invoice and payment deadlines to ensure timely processing.Respond to queries from suppliers, contractors, and internal stakeholders.Investigate and resolve invoice, payment, and account discrepancies.Support month-end closing activities related to accounts payable.Ensure compliance with internal controls, policies, and audit requirements.Assist the accounting team with ad hoc tasks and support as needed.\n\n\nTechnical Competencies:\n\nAttention to detail.Verbal and written communication skills.Vendor relationship management.Data entry skills.Time management and ability to meet deadlines.Problem-solving skills/Analytical thinking.Teamwork and collaboration.Adaptability and flexibility.\n\n\nEducation: \n\nBCom, MCom or MBA in Finance.\n\n\nRelevant Experience Required:\n\n1-3 years of experience.\n\n\nAbout KK Group:\n\nBuilding on more than 40 years of experience, KK Group is a leading systems supplier to the renewable energy industry. Our capabilities span developing state-of-the-art technologies, high-quality lean manufacturing, and flexible aftermarket services. KK Group is owned by A.P. Moller Holding, the parent company of the A.P. Moller Group, established in 1904 by Arnold Peter Moller. We are a global and diverse team of over 4000 people, working towards delivering products and services that enable a future powered by renewable energy.\n\nAt KK Group, our culture and DNA are built on a foundation of can-do attitude and innovation. We actively foster an inclusive work environment that embraces diversity, rejects any form of discrimination, and provides equal opportunities for all people. Our commitment lies in cultivating a strong culture centred around health, safety, wellbeing, and effective teamwork.\n\n\n\n\nWhy Us?\n\nNo matter your role, you will find yourself immersed in our strategy. At KK, all employees are encouraged to contribute their ideas – we want everyone to feel involved and heard. Our flat hierarchies allow us to make swift decisions and exchange ideas in an open, honest atmosphere where we help each other succeed. What is more, you will be collaborating across several functions, and you will experience a distinct team spirit as you work with international colleagues from all over the world.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/accountant-invoice-processing-services-at-kk-group-4471839814?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/accountant-invoice-processing-services-kk-group-bengaluru-bangalore-69179294?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Apna Jobs",
+          "link": "https://apna.co/job/bengaluru/global-payments-1643257823?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Levels.fyi",
+          "link": "https://www.levels.fyi/jobs?jobId=31o9sle2oqfew&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/accountant-invoice-processing-services-kk-group-bengaluru-karnataka--t7xk-857419131?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/kgk-group-accountant-invoice-processing-services-bengaluru-bangalore-karnataka-1-to-3-years-1820558?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/accountant-invoice-processing-services--bengaluru--ed3b832fb2bec2b16efe461f902f68ad8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4112-b8a9ffd99e7c30b378e2cc63f7051b8d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IC0gSW52b2ljZSBQcm9jZXNzaW5nIFNlcnZpY2VzIiwiY29tcGFueV9uYW1lIjoiS0sgR3JvdXAiLCJodGlkb2NpZCI6IjlITXhneUpfSEJfS0h1QUdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBseFdqWkpUR2hXUlVaaVJHeG9TMWswVjBka05UWlJURGQwY0doa1lsODBaMmREZERKVlMweG5aSGN3Y0Uxbk9IcDNXV1JEVjJWMVQwbDNVSFJCU1RkRmVWbHBOR1pzZUcxTGNXaENVMlIwVldveWMwdGlla0ZEVG5Zd1QzWlhWVmhRWWpsTGNuTm9OVWw2VDA1T1pWaFJhak54VGt4WlNERnBPRXBtZGs5aVdXaDRjMHdTRjNOUFprbGhkVE42UnpoMWREVk9iMUF0VEROcWRVRnJHaUpCUkhOeU9XWlVTbE5UTWpsRldVSkRVR053U0ZNeWRsQmtOM0p3YWpOVlZGaG4iLCJmY3YiOiIzIiwiZmNfaWQiOiI5SE14Z3lKX0hCX0tIdUFHQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Accountant",
+      "company_name": "Sri Balaji Tours & Travels",
+      "location": "Bengaluru, Karnataka",
+      "via": "WorkIndia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=sdoHeDUQqfbd2PJEAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU4HgoNIIwUXnezi4Gj3cg0hTY13IXeRjv6D4Af6Jerytle9F9XqZC0XUiSFz_MFEw8gDrMdgQnOzD665XFUTXIwRiTWXhQ12Nry3TC5gWfzS_KnlxGzSxHV9c1-N9eJ_Ka55gAtRpwCdFyywBq6jA8XBQJB68hjLLls4YKZUPGGXyYiw5iZAAAA&shmds=v1_ARwrE21f7fax-DvH_NLe9aUI8efJairPnXCoRvX1LRNy0IRoAQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=sdoHeDUQqfbd2PJEAAAAAA%3D%3D",
+      "extensions": [
+        "22 days ago",
+        "₹15K–₹20K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.workindia.in/jobs/accountant-rt_nagar-bengaluru-11239546/",
+      "job_title": "Accountant",
+      "description": "Salary Range : Rs. 15000 - Rs. 20000 , based on skills, experience, and interview performance\n\nEducational Requirement : 12th Pass\n\nWork Arrangement : Work From Office\n\nGender Preference : Both male and female can apply\n\nSkills Requirement : No predefined skills necessary\n\nExperience Requirement : Fresher\n\nLocation : RT Nagar\n\nWorking Hours : 10:00 AM - 6:00 PM | Monday to Saturday\n\nAdditional Info : Manage Financial Records, Prepare Tax Filings, And Ensure Compliance With Legal Regulations. Analyze Financial Data To Assist In Decision-Making. Provide Advice On Tax Planning And Savings Opportunities. Taxation, Book Keeping | Skills Needed : GST, Tally, TDS",
+      "apply_options": [
+        {
+          "title": "WorkIndia",
+          "link": "https://www.workindia.in/jobs/accountant-rt_nagar-bengaluru-11239546/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiU3JpIEJhbGFqaSBUb3VycyBcdTAwMjYgVHJhdmVscyIsImh0aWRvY2lkIjoic2RvSGVEVVFxZmJkMlBKRUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMUUwZEVObFYxOVVkbGhZUzBSdFVqZHRaSHBUZUdSTFZXUnlZM05vWDJaVGVVWndjemwzV25oT0xUSmxRVVZ3Vkc1S2NsWnlNMll5ZGxseVpIaEhZa2N0V0VsNU1ISTNXVFExTFRObmNpMVhOMDlhVVVwSGFHNTFlV2hCTlZCallVcEthM0ZIVm5SeVpreFlWRXhSYldwTlpWOVZibWR5Ymw5MmRrZENXVU4xVjFaTVRGa1NGM05QWmtsaGRUTjZSemgxZERWT2IxQXRURE5xZFVGckdpSkJSSE55T1daVFNrUjRURzlQZHkxUWJHczBWbGhoTlV4UU0xWjJZV2hpYjBGbiIsImZjdiI6IjMiLCJmY19pZCI6InNkb0hlRFVRcWZiZDJQSkVBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Accountant & Sr. Accountant - 2-6Yrs",
+      "company_name": "NoBrokerHood",
+      "location": "Bengaluru, Karnataka",
+      "via": "Foundit",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=jmMCNsqMWhKazjUMAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_03LMQrCQBBAUWxzBKspxEJMVgJaKBamURBsrKzCZF02MetMmNlASu_gDTyaJ1E7m188-MlrlGx31nJPESnCFM6SwR-kkKeriyi8H0-4cQXqUGwNTLBn9sGNN3WMna6NUQ2Z14ixsZnlu2FyFQ_mO-kvpdYorgsYXZkvF0PWkZ9NTlwIt04OzFdoCApHHkMv_RyOKIQRW_wA-jgWpqUAAAA&shmds=v1_ARwrE21uUbWnDogb4XHu4a9mrL9HZvTTrfBA0nP8JoihzytUbw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=jmMCNsqMWhKazjUMAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.foundit.in/job/accountant-sr-accountant-2-6yrs-nobrokerhood-bengaluru-bangalore-34372864",
+      "job_title": "Accountant & Sr. Accountant - 2-6Yrs",
+      "description": "Company Description\n\nNoBrokerHood is a technologically advanced visitor, community, and finance & asset management system aimed at making life secure and convenient for gated societies. Founded in 2018, NoBrokerHood is a subsidiary of NoBroker, India's first prop-tech unicorn. NoBrokerHood secures over 50 lac families across 21,000+ societies and offers services ranging from home maintenance to property transactions. It is the only community management app to achieve Level 1 PCI-DSS certification and guarantees data privacy with GDPR and ISO 27001 certifications. NoBroker recently raised $5 million from Google for expansion.\n\nRole Description\n\nThis is a full-time on-site role for an Accountant & Sr. Accountant located in Bengaluru. The Accountant & Sr. Accountant will oversee financial transactions, prepare financial statements, analyze budgets, and reconcile accounts. Responsibilities include maintaining accurate financial records, conducting audits, managing tax returns, and assisting with financial planning. The role requires collaboration with other departments to ensure compliance with financial regulations and company policies.\n\nQualifications\n\nProficiency in Accounting, Financial Analysis, and Financial ReportingExperience with Auditing, Taxation, and ComplianceSkills in Budgeting, Forecasting, and Financial PlanningExcellent attention to detail and organizational skillsStrong analytical and problem-solving abilitiesProficiency with accounting software and ERP systemsAbility to work independently and as part of a teamBachelor's degree in Accounting, Finance, or related field2-6 years of relevant experience in accounting or finance rolesRelevant certifications such as CPA or CA are a plus",
+      "apply_options": [
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/accountant-sr-accountant-2-6yrs-nobrokerhood-bengaluru-bangalore-34372864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/827589714419057683?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/5613528812139577344?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://in.talent.com/view?id=608075101025343892&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IFx1MDAyNiBTci4gQWNjb3VudGFudCAtIDItNllycyIsImNvbXBhbnlfbmFtZSI6Ik5vQnJva2VySG9vZCIsImh0aWRvY2lkIjoiam1NQ05zcU1XaEthempVTUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTa295UlUxblQwdzViVVJwTWtKUlFYSktORFJSVVVSRWJWTkVZbWhvZDFkQlUycG1aM3BuVERsSFEwbE5UbE5WVDJOQk9ISkpNbkJITW1wT1ZGOTJiR1ZRZEVjeVowYzFYMmhKZW14UVptcGpaV2h2VmpBd1NETmtXakJLV1hCbVl6SkZSM04yUVVKcmNVVjFhRU50UzNjdGNIbzBWSHBuTlZOWk16ZDVhRmhFTURCblpFRVNGM05QWmtsaGRUTjZSemgxZERWT2IxQXRURE5xZFVGckdpSkJSSE55T1daU01WQlhha00wYWtJekxWRnllVU53ZVRNNWRUZHFhazV1YTI1biIsImZjdiI6IjMiLCJmY19pZCI6ImptTUNOc3FNV2hLYXpqVU1BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Accountant",
+      "company_name": "Bcd Travel",
+      "location": "Machohalli",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=TUimKisEj7xQrzWwAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLoQ7CQAwA0GD3BQRVPbEjJBhQYFAo8EtXmt2Ro71cC5kk4RP4Q74EMM-95jVr2hNL0go7Ir2Lozh8nm-46gDGWCmCChxUx8yLbXQvtgnBLHejOXqijvQWVHjQKfyS_ektYuWS0blfrZdTV2Rs53u6wLnigzMkgSNS1Ig5py8YqRI2hgAAAA&shmds=v1_ARwrE215dI7hNmdBBqIVo3KOJD4j1_tcH6dQuAZMU8WEdRq8Ug&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=TUimKisEj7xQrzWwAAAAAA%3D%3D",
+      "extensions": [
+        "29 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/accountant-senior-accountant-job-in-bcd-travel-machohalli-bangalore-5-to-6-plus-years-1789047583-8322717-jid",
+      "job_title": "Senior Accountant",
+      "description": "Senior Accountant Put your creativity to work: Kickstart your career at BCD M&E Senior Accountant (Remote) Full time, India Join BCD Group as a Senior Accountant, where you will play a critical role in ensuring the integrity, accuracy, and completeness of financial records across assigned entities. This position is responsible for managing General Ledger accounting activities, month-end close activities and maintaining accurate financial records for balance sheet integrity and supporting timely and reliable financial reporting for assigned entities. Working within a global finance environment, you will collaborate closely with regional Finance teams and operational stakeholders to ensure efficient month-end and year-end close processes, strong financial governance, and compliance with accounting standards. You will also contribute to maintaining a robust internal control environment while supporting standardization and continuous improvement initiatives across finance operations. As a Senior Accountant, you will Preparing and posting general ledger journals in accordance with accounting policies and reporting requirements. Ensuring the accuracy, completeness, and integrity of general ledger balances for assigned entities. Preparing and reviewing balance sheet reconciliations. Supporting timely and accurate month-end and year-end close activities in line with global reporting deadlines. Managing accruals, prepayments, and other period-end adjustments. Reviewing and reconciling intercompany transactions and balances. Investigating and resolving accounting discrepancies and unusual ledger movements. Collaborating effectively with Accounts Payable, Accounts Receivable, Project Accounting, and Operational Finance teams. Supporting the preparation of financial statements and management reports. Coordinating with auditors and other external stakeholders and supporting audit requirements through the provision of documentation and analysis. Demonstrating hands-on experience with Indian accounting requirements, including GST, TDS, and FLA filings. Utilizing SAP S/4HANA, particularly the FI/CO modules, to support accounting and reporting activities. Identifying opportunities for process improvement and effectively operating within evolving or unstructured environments to streamline workflows. Applying strong analytical skills with a high level of attention to detail. Communicating confidently and effectively with global stakeholders across functions. Key responsibility: Execute General Ledger accounting activities, including journal processing, ledger maintenance, account analysis, and financial data validation. Support accurate and timely month-end and year-end close activities in line with global reporting timelines. Ensure balance sheet integrity through regular review and reconciliation of accounts. Support statutory and management reporting requirements. Monitor, investigate, and resolve open balance sheet items in a timely manner. Support intercompany accounting and reconciliation processes across multiple entities. Collaborate with Shared Services teams to ensure consistent application of accounting policies and accounting practices. Identify opportunities to improve financial processes and enhance reporting efficiency and effectiveness. About you Bachelor’s degree in accounting, Finance, or a related discipline (CA Inter preferred). Strong understanding of IFRS and/or local GAAP. Experience working within multinational organizations or Shared Services environments. Experience with ERP financial systems. Strong analytical, problem-solving, and organizational skills. Advanced Microsoft Excel skills. Experience within service-based, travel, or events industries would be an advantage. About us At BCD Meetings & Events (BCD M&E), we provide more than meeting and event planning services: we create connections that inspire, motivate and change behavior for our customers. As the world’s most trusted and innovative meetings and events agency, BCD M&E cultivates a culture of people, passion and purpose to drive business forward. Headquartered in Chicago, with locations in 60+ countries across the world, BCD M&E’s team of 2,000+ people are committed to sustainability and driving success for our customers, our business and ourselves. Our values are at the heart of everything we do, and we look for people that want to be a part of something special, can rise to our standards and love to bring their unique perspective to the table. While we can’t guarantee every day will be the best (who can?), we can promise a community of people who genuinely care and lead with empathy, a flexible workplace with awesome perks and challenging work that means something. See what life is about at BCD M&E at bcdme.com/careers Get to know us by reading our blog and checking out our social media: Latest Industry News & Insights From BCD Meetings & Events https://www.linkedin.com/company/bcdme https://www.instagram.com/bcdmeetingsandevents/ https://www.youtube.com/c/BCDME You’ll be offered Flexible Working We believe that a flexible working environment is key to getting the best out of our teams. We will support you to work where you need to and when you need to, depending on how you work best. Room to Grow Our line of work and business structure challenge our people in a way that inspires growth, with learning and development built into every role. We give individuals ownership over the direction and speed in which they grow. Everyone has a voice We thrive on conversations that spark curiosity and empathy. No matter how big or how small, every voice is heard, considered and respected. Make your move The diversity of roles across BCD M&E’s global locations means that our people often find new adventures during their time with us. Join us as a meeting planner role in the UK, stay for a global marketing career — there’s always room to move. We’ve got you covered Our extensive benefits include comprehensive healthcare, retirement plans, continued education support, diverse work locations, travel and hotel discounts, volunteer and sustainability opportunities and a successful employee recognition program. We’re positive. You’ll love it. It starts from the top. Our leaders lead with positivity, believe in our people and trust us to do the right thing. There will always be support along your journey, in little and big ways. Ready to join the journey? Apply now! We’re dedicated to building a diverse, inclusive and authentic workplace. If you’re excited about a role, but your experience doesn’t align perfectly, we still encourage you to apply. We are committed to providing reasonable and necessary accommodations to ensure all employees can perform their roles effectively. For accommodation requests or further information, contact our Talent Acquisition department at [REDACTED EMAIL]. #LI-Remote #LI-FB1 Experience Level Senior LevelIt is a Full Time Accountant job for candidates with 5 - 6+ years Experience.More about this Senior Accountant jobPlease go through the FAQs to get all answers related to the given Senior Accountant jobWhat are the eligibility criteria for this Senior Accountant job?\nAns :   Candidates should have All Education levels with 5-7 years of experience for this Senior Accountant job offered by Bcd Travel in Machohalli, Bangalore.\n\nWhat salary is offered for this Senior Accountant job?\nAns :   Salary details will be shared during the hiring process.\n\nWhat shift and timings does this job follow?\nAns :   This Senior Accountant job follows a Day shift.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Machohalli, Bangalore.\n\nHow many vacancies are there for this Senior Accountant job?\nAns :   There is 1 vacancy for this Senior Accountant role.\n\nIs this job open for all genders?\nAns :   Yes, this Senior Accountant job is open for both male and female candidates.\n\nWhat is the job location for this position?\nAns :   The job location for this Senior Accountant position is Machohalli, Bangalore.\n\nWhat makes this Senior Accountant job a good opportunity?\nAns :   The employer has not disclosed the salary for this role, but it is a Full Time opportunity with 1 opening.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-senior-accountant-job-in-bcd-travel-machohalli-bangalore-5-to-6-plus-years-1789047583-8322717-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkJjZCBUcmF2ZWwiLCJodGlkb2NpZCI6IlRVaW1LaXNFajd4UXJ6V3dBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU21GQ2IwUm9SRUZTUkc5eFNIVkdlVmhXVFhGTmNYSnJTWFZyTUdoU1VtbFZTMVJyVW0xSGNIaEtPVUphVVhwWE5ITmZRbkZJZDFveWJGazNaR2MyV21WQ2NteHFkMjF1Y201SFdVODFSbEJwTTFJd1psUnRZV3QzZGs0NWNVdEpPVlZyUTB0MmRsQjFWMGxtTlRkSmFubHZZbkZEYTJ0SlJHeEphVWR3YTNwaWVtaE5ORGtTRjNOUFprbGhkVE42UnpoMWREVk9iMUF0VEROcWRVRnJHaUpCUkhOeU9XWlJPRXRQTlVvMFR6azNiblpGWDFGVlNIaDRkVUZwTTBzMFMzRjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJUVWltS2lzRWo3eFFyeld3QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Qualified Chartered Accountant - Senior Audit Manager / Team Lead",
+      "company_name": "P Pattabiramen and Co",
+      "location": "Tamil Nadu",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=P_fVWfERcrHGu-hrAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMWrDQBBFcasjuPrgLmBtMKSJK-EijR0U7CqNGK3G0obVjNgdgcvcwffxYXySKM3nNY_3i8eq-P6aKYZr4A6HgZJxWqjyXmcxEsMWZ5agCdXcBcOJhHpOcLgwjTgydXj-3vGjLTJT8gNU8KHaR17vB7MpvzuXcyz7bGTBl15Hp8Kt3twi5f9p8lLmKZJxs3t7vZWT9C-bGjWZURsSjSwgWR4qguBCY4j4pG7-AxIRxyvBAAAA&shmds=v1_ARwrE21szOshAdGLdA2aJVAAVPI23xUblDyHwhOy9QL2XSMXXg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=P_fVWfERcrHGu-hrAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e7b032a8e3821cc6624a/images/fX-mq_Kj3rT02DITMjJtUXuvA_r3UBFO0_lbnXS5VF8.jpeg",
+      "extensions": [
+        "1 day ago",
+        "₹90K a month",
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=da5ffbbb9b92290b",
+      "job_title": "Qualified Chartered Accountant - Senior Audit Manager / Team Lead",
+      "description": "QUALIFICATION: QUALIFIED CHARTERED ACCOUNTANT\n\n\nEXPERIENCE: EXPERIENCED (No specific period)\n\n\nAGE: 25 TO 45\n\n\nIf you are looking to build a career, not just take up a role, this is an opportunity to be part of something bigger.\n\n\nOPPORTUNITY TO:\n\n\n\n Work with marquee, multinational and large corporate clients\n Handle diverse and challenging assignments across Big 4-calibre clients, multinational companies, large corporates and diverse businesses across industries\n Gain exposure to modern audit, advisory, taxation, compliance and business practices\n Work in a progressive and professionally driven environment\n Develop both technical expertise and leadership capabilities\n Opportunities to grow into leadership roles under the guidance of seasoned professionals\n\nROLES & RESPONSIBILITIES:\n\n\n\n Independently lead & motivate a team, supervision and finalization of taxation, audits and consultancy work.\n Collaborate and communicate effectively with clients, cross-functional teams and departments to achieve organizational goals.\n Manage multiple audit assignments, meet deadlines, and ensure the team's tasks are completed on time.\n\nKEY QUALITIES:\n\n\n\n Qualified Chartered Accountant with exposure to Audit and Assurance during Articleship / Post Qualification.\n Strong practice mindset with a genuine interest in building a long-term career in professional practice.\n Technology-oriented mindset with the willingness to embrace new-age audit tools, digital platforms, automation and emerging technologies to make audit processes more efficient and effective.\n\nPERKS & BENEFITS:\n\n\nSalary: In line with Market Norms; Salary is not a constraint for deserving candidates;\n\n\nOther Benefits: Career Mentorship, Leadership Opportunities, Recognition and Promotion\n\n\nCONTACT: +91-XXXXXXXXXX\n\n\n[REDACTED EMAIL]\n\n\nJob Types: Full-time, Permanent\n\n\nPay: From ₹90,000.00 per month\n\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=da5ffbbb9b92290b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJRdWFsaWZpZWQgQ2hhcnRlcmVkIEFjY291bnRhbnQgLSBTZW5pb3IgQXVkaXQgTWFuYWdlciAvIFRlYW0gTGVhZCIsImNvbXBhbnlfbmFtZSI6IlAgUGF0dGFiaXJhbWVuIGFuZCBDbyIsImh0aWRvY2lkIjoiUF9mVldmRVJjckhHdS1ockFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTemRTWDA1ZlFsTXRNalUzWldGNk1razNVbTF0T0d0MWJGcHFaVTA0VFhnd01rSkxUVGhaTUMweFNFVkdTMGgyUW5jeFIzSnllQzFaTm5Jd2MwMXRabUppWldwRE1uTkRMWGxOTmxkVWRHYzRjVWt5UlMwemNFbHZjRlZ2VVVKRlEzUnhhR2xmWW5wd1RGOHdkR1Z4VEVWaVR6TlRiMkUzZEhBM2IxOUpVVzFHVkRkc2Jub1NGM05QWmtsaGRUTjZSemgxZERWT2IxQXRURE5xZFVGckdpSkJSSE55T1daVWNrSk1NVXhJUkdZM2IzZE9ZV2RxYURSc1RuZE5SalJ4UW5kUiIsImZjdiI6IjMiLCJmY19pZCI6IlBfZlZXZkVSY3JIR3UtaHJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Finance Executive / Accountant (AP)",
+      "company_name": "Mapletree Investments Pte Ltd",
+      "location": "Bengaluru, Karnataka",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=yJSTCIBx8dWk33ZKAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBAAQGzzBKstVSQnQhq1iaAiKuQHsjmXS_SyF243IaV_8Cc-yZeozXSTvEfJZl8zsiXYDWQ7rXsCA7m1oWNFVpjkxRQ-zxfcQwlCGG0FgeEQgvM0XleqrayMEfGpE0WtbWpDYwJTGQbzS_LnKhVGaj0qXZfZYkhbdrPsgq0njURw5J5EG2IVKJTgrDeoGbbEDn0XuzmcMDIqPvALz-p85rUAAAA&shmds=v1_ARwrE21JEt1uSb3Oc5LRzcapeGQPLVC9a5aiVYk--uC8t2u0Tw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=yJSTCIBx8dWk33ZKAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAAAQcCAwYE_8QAKBAAAQQCAgIABQUAAAAAAAAAAQACAwQREgUhIjEGExQjQRUyUXGh_8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB_8QAGBEBAAMBAAAAAAAAAAAAAAAAAAIRQQH_2gAMAwEAAhEDEQA_ALxREQEREBERAREQMplcCGctPNXlPK8nH9TzVirIxhAayu0y6gDXr9jfL3379LzXuR5GKo2lJduRyRS3RHdklczcRyYjZhrfuPIIwOsgE9oLHysWva7OpBwcdKtjzd4usTDkbf6uyKo6vQa0uZMXxMLmuZg4BcXZd1r7zgLBs_JVHCD576VB93k5HSl74g6T6p2mXhjseJJAOA7v3hBZYlYX6hzdv4z2s8qvLd63Xr8n99snIj4eFqtbgjI-fY1lDywYx1pGQPxsseal5elffUHMSVom1GPq2rUrgHzOLt3O1YQ_Hj4HAA9DvImN63tYsXKKv47_AC7_AIjkZY5OOq9t9rYoZXvDJK_j0xmmHbDJ22yHHH4wipjv9QmFKINENOCCxYniZrLYLXSuyfIgBo_wBbsKUQRj-0wpRBGEUogIiICIiAiIgIiIP__Z.jpeg",
+      "extensions": [
+        "21 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/_OwzVg11yadD7wUazV2cRsD0ugS-j-RIEUja5rW1hr8ecefGh_5gPQ",
+      "job_title": "Finance Executive / Accountant (AP)",
+      "description": "This position will be responsible for the full spectrum of Accounts Payable function in the Finance department.\n\n\nJob Responsibilities\n\n\n\nResponsible for reviewing and involved in the full spectrum of the accounts payable ('AP') functions for portfolio of properties.\nEnsure compliance with statutory and regulatory requirements including statistical reports to government agencies.\nPrepare variance analysis and be involved in annual budgeting and forecasting.\nLiaise with auditors and tax agents for year-end audits and tax filing/compliance.\nAssist in ad-hoc operational projects, including conducting credit review for selection of vendors, testing of SAP system etc., as and when required.\nJob Requirements\n\n\n\nChartered Accountant (CA) with Degree in Accountancy or ACCA or its equivalent.\nMinimum of 5 to 8 years relevant accounting experinces, preferably in AP, supporting regional or global environment.\nGood knowledge of FRS and Companies Act.\nProficient in MS Excel.\nExperience with SAP system and/or real estate knowledge would be advantageous.\nMature, responsible, meticulous, good team player and able to work independently in a fast-paced environment.\nCandidates from the Big 4 audit firms are welcome to apply.",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/_OwzVg11yadD7wUazV2cRsD0ugS-j-RIEUja5rW1hr8ecefGh_5gPQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/accountant-finance-executive-playdawn-bangalore--ss-in-pe6p79?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/accountant-finance-executive-accounts-executive-gnaniai-bengaluru-2-to-3-years-experience-81a7e0af-5ca2-4b03-8707-8b6a267d73ea?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/playdawn-consulting-accountant-finance-executive-bengaluru-bangalore-karnataka-3-to-5-years-1750673?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Protocol Jobs",
+          "link": "https://app.protocoljobs.ai/job/details?id=6aad7d46dc3e4db3b1d93655&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340038476/accountant-finance-executive-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NiyukJobs | AI",
+          "link": "https://niyukjobs.ai/jobs/detail/06fe9c21-444e-11f1-ba03-0eb338c86b55?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGaW5hbmNlIEV4ZWN1dGl2ZSAvIEFjY291bnRhbnQgKEFQKSIsImNvbXBhbnlfbmFtZSI6Ik1hcGxldHJlZSBJbnZlc3RtZW50cyBQdGUgTHRkIiwiaHRpZG9jaWQiOiJ5SlNUQ0lCeDhkV2szM1pLQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNrMHdkVkZ1VGtsMmRreHBiMDFKVERRelpIWjJTa3h4V1UxbWIweGxlRlZDY21KeWQzTTRTMlowUkVJMU1rTnhlVkJmVkdsclUwbDZUVkF5VGtKclptZElVbEI1VlhONlJXb3pNVWRGTUhsQ1lYWjVTRmN4TUhsNU4yMUtRbDlKTTE5TVNrTkxRVlZVUlZvMWIwWk1OMFoyZGxCT2RtcFVNMTkzUkhoT2FFRnlTSFJ2VkRBU0YzTlBaa2xoZFRONlJ6aDFkRFZPYjFBdFRETnFkVUZyR2lKQlJITnlPV1pUWm1FNGNFUkdWRUpvV0V0R2FHTTNXRTFIZUhObWJuTnhSVGwzIiwiZmN2IjoiMyIsImZjX2lkIjoieUpTVENJQng4ZFdrMzNaS0FBQUFBQT09In0="
+    },
+    {
+      "title": "Regional Accountant | Bangalore - India (Office)",
+      "company_name": "Cohesity, Inc.",
+      "location": "Bengaluru, Karnataka",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=E-5NUliP2diZnl2cAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBAAsc0TrLYSlZiIYKOVsZBgIfiBsJ6by-m5G-42EMHCP_gR3-RL1Ga6YSZ5D5LySNYJo4eNMdKxIis8oEC26CUQzKDks0MYH-raGZrA5_mCi5wgEgbTgDDsRKyn4bpRbeMqz2P0mY2K6kxm5JYL00n6_CfFP6rYYKDWo1K1WM77rGU7HW2loej0nv56JgPHUND_oQtdCnsMjIpX_AKHbbTHswAAAA&shmds=v1_ARwrE20jQ9BWBAofrXgEEJTno-U2npmly2kKFjSgyhWv1g71Ww&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=E-5NUliP2diZnl2cAAAAAA%3D%3D",
+      "extensions": [
+        "8 days ago",
+        "₹11L–₹18L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobleads.com/in/job/regional-accountant-bangalore-india-office--bengaluru--e966a0a0b474977c32a8a853f1122c6eb",
+      "job_title": "Regional Accountant | Bangalore - India (Office)",
+      "description": "Cohesity opens in a new tab is the leader in AI-powered data security. Over 13,600 enterprise customers, including over 85 of the Fortune 100 and nearly 70% of the Global 500, rely on Cohesity to strengthen their resilience while providing Gen AI insights into their vast amounts of data. Formed from the combination of Cohesity with Veritas' enterprise data protection business, the company’s solutions secure and protect data on-premises, in the cloud, and at the edge. Backed by NVIDIA, IBM, HPE, Cisco, AWS, Google Cloud, and others, Cohesity is headquartered in Santa Clara, CA, with offices around the globe. We've been named a Leader by multiple analyst firms and have been globally recognized opens in a new tab for Innovation, Product Strength, and Simplicity in Design , and our culture opens in a new tab.\n\nWant to join the leader in AI-powered data security?\n\nKey ResponsibilitiesManage end-to-end General Ledger (GL) accounting and support monthly, quarterly, and annual close activities.Prepare and post journal entries for accruals, intercompany transactions, and other accounting adjustments.Record bank payment entries and perform periodic bank reconciliations.Liaise with AP, Tax, and Payroll teams to ensure accurate GL balances.Prepare monthly MIS reports and management reporting schedules.Perform monthly account reconciliations in FloQast and resolve reconciling items on a timely basis.Prepare monthly flux analysis and provide variance explanations to management.Coordinate with FP&A teams for accrual accounting and reporting requirements.Review payroll accounting entries and support payroll-related statutory filings and reconciliations.Maintain the Fixed Asset Register (FAR), including capitalization, depreciation, and asset tracking.Support internal and external audits by providing schedules, documentation, and required explanations.Ensure compliance with accounting policies, internal controls, and regulatory requirements.Participate in process improvement initiatives to enhance accounting efficiency and reporting accuracy.Perform other accounting and finance-related responsibilities as assigned.Build automated reporting and agentic AI solutions using approved AI tools (Claude, Copilot) and partner with the business to meet their financial reporting needs and hands on using Claude.Required Skills & QualificationsTechnical SkillsStrong understanding of GL accounting and month-end close processes.Working knowledge of US GAAP and IGAAP.Experience in reconciliations, accrual accounting, and financial reporting.Exposure to payroll and fixed asset accounting.Proficiency in Microsoft Excel and financial reporting tools.Proficiency in Excel, NetSuite, Coupa, and AI-enabled productivity tools.Preferred Systems KnowledgeExperience with the following applications will be preferred:\n\nNetSuiteSAP ConcurFloQastQualifications & ExperienceCommerce graduate with MBA (Finance) or CA Inter with relevant hands-on industry experience.4-6 years of relevant accounting experience, preferably in ITES/shared services environments.Strong exposure to GL accounting, reconciliations, financial close, and reporting activities.Experience in a cost-plus business model environment will be an added advantage.Exposure to US GAAP and IGAAP frameworks preferred.Strong analytical and problem-solving skills.High attention to detail and accuracy.Ability to manage multiple priorities and meet deadlines.Effective communication and stakeholder management skills.Collaborative and adaptable approach.Self-driven and proactive mindset.Strong analytical, communication, presentation, and stakeholder management skills.Demonstrated ability to leverage AI tools to enhance productivity, streamline workflows, and support decision making. #LI-DJ1Equal Employment Opportunity Employer (EEOE)\n\nCohesity is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status or any other category protected by law.\n\nIf you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, please contact us for assistance.\n\nWe strongly prefer candidates who are currently located in or near the designated job location. Candidates outside the area should apply only if they are committed to relocating prior to their start date and have the legal right to work in the job location.\n\nIn-Office ExpectationsCohesity employees who are within a reasonable commute (e.g. within a forty-five (45) minute average travel time) work out of our core offices 2-3 days a week of their choosing.\n\nAt Cohesity, we work hard and move fast—and we're not afraid to push boundaries to deliver exceptional work. We value integrity and respect, and here's what we promise: We'll give you the tools to be successful and welcome you into a culture that celebrates individual contributions and collective success. We'll empower you to grow, offer continuous learning opportunities, and surround you with ambitious, collaborative colleagues.\n\nWe strive to have a parity of benefits across regions, and while regulations differ from place to place, we believe taking care of our employees (and their families) is the right thing to do.\n\nHealthcare coverage for you and your familyPaid parental leaveFlexible paid time offAdditional company-wide days off throughout the yearA robust wellness programContinuous learning opportunitiesAnd a competitive salary and additional benefits package",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/regional-accountant-bangalore-india-office--bengaluru--e966a0a0b474977c32a8a853f1122c6eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZWdpb25hbCBBY2NvdW50YW50IHwgQmFuZ2Fsb3JlIC0gSW5kaWEgKE9mZmljZSkiLCJjb21wYW55X25hbWUiOiJDb2hlc2l0eSwgSW5jLiIsImh0aWRvY2lkIjoiRS01TlVsaVAyZGlabmwyY0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMEpRTjFOcFdXMDNWakl3UWxjM1VXMW5NREZ6T1VoUlNGTkVUV3hrZGt0YVRVVlpaR2xSZDNwVVUwaHFlSGROYkVoR1JVWlFWazF4TUROb05qWkROWHBQUTFrMWVrRkNOSGR1ZFMwMVUxTXRaVUp2V1RaVE0wMURhSEY2ZFc5Uk9UaEdPWEJsUzJkdk1tNUJValZXYmtzdFZHWTJOVFpLVlVvdFUybGhRV1Y2Ym5ObVJFb1NGM05QWmtsaGRUTjZSemgxZERWT2IxQXRURE5xZFVGckdpSkJSSE55T1daVGRHZHNTR2w2ZURsR1VYTnFOV1JzWWpOVE1uZDJlbWRDWjI5MyIsImZjdiI6IjMiLCJmY19pZCI6IkUtNU5VbGlQMmRpWm5sMmNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Accountant (24 Years Experience) | Bengaluru (India)",
+      "company_name": "Orbital Foods",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=WsqBcZLGYiJ-3LlcAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0WNMQ4BURBAo3UE1TQSRHZFaKhIEFEoaFQy-3ey-_lmNn9mky0U7uA2juMkqDSvei-v_Wq1jwdiLxEWzknNhmzQG0_gRBgVVk1F0RM76sMdlsQFhjrW0Nty7rEP78cTLpKBfm1XgjBsRIpAnXlpVuksTVVDUqiheZc4uaXClEmTfiP94awlRqoCGp3H01GTVFwMuvuYecMAa5FcwfP_PIQdRkbDK34AxAV3vb0AAAA&shmds=v1_ARwrE21NWYHjRjm0HpVPZ5ZQHZcx-3ck8Tb_E5VLypq2JNVKZQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=WsqBcZLGYiJ-3LlcAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/senior-accountant-years-experience-bengaluru-india/orbital-foods/19446155",
+      "job_title": "Senior Accountant (24 Years Experience) | Bengaluru (India)",
+      "description": "Accountant\n\nLocation: Bengaluru, Karnataka  \nJob Type: Full-Time | Work From Office  \nExperience: 24 Years\n\nAbout Orbital Foods\n\nOrbital Foods is a growing corporate and outdoor catering company based in Bengaluru, providing catering services to corporate offices, industries, institutions, weddings, bespoke events, and large-scale outdoor catering.\n\nWe are looking for a detail-oriented Accountant to manage day-to-day accounting operations, statutory compliance, financial reporting, and vendor payments while supporting the company's growing business operations.\n\nWebsite: www.orbitalfood.in\n\nKey Responsibilities\n\n- Maintain day-to-day accounting records and financial transactions.\n- Manage Accounts Payable (AP) and Accounts Receivable (AR).\n- Prepare and file GST, TDS, and other statutory compliances.\n- Perform bank reconciliations and monitor cash flow.\n- Prepare monthly MIS reports, P&L; statements, and financial reports.\n- Process vendor payments and employee reimbursements.\n- Coordinate with Chartered Accountants, auditors, and tax consultants.\n- Maintain payroll records and statutory compliance.\n- Ensure accurate bookkeeping using Tally Prime, Zoho Books, or similar accounting software.\n- Assist management with financial analysis and reporting.\n\nQualifications\n\n- Bachelor's Degree in Commerce (B.Com), Accounting, or Finance.\n- 24 years of accounting experience.\n- Solid knowledge of:\n- GST\n- TDS\n- Bank Reconciliation\n- Accounts Payable & Receivable\n- Payroll\n- MIS Reporting\n- Financial Statements\n- Hands-on experience with Tally Prime, Zoho Books, or similar accounting software.\n- Good knowledge of MS Excel.\n- Strong analytical and problem-solving skills.\n- Good communication and coordination abilities.\n\nPreferred Experience\n\nCandidates with experience in any of the following industries will be preferred:\n\n- Catering\n- Hospitality\n- Food Services\n- Restaurants\n- FMCG\n- Manufacturing\n\nWhy Join Orbital Foods \n\n- Opportunity to work with one of Bengaluru's growing corporate catering companies.\n- Direct exposure to finance and business operations.\n- Supportive work environment with career growth opportunities.\n- Opportunity to work closely with the leadership team.\n\nLanguages\n\nMandatory:\n\n- English\n- Hindi\n\nPreferred:\n\n- Kannada\n- Tamil\n\nWork Location: In person .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-accountant-years-experience-bengaluru-india/orbital-foods/19446155?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQWNjb3VudGFudCAoMjQgWWVhcnMgRXhwZXJpZW5jZSkgfCBCZW5nYWx1cnUgKEluZGlhKSIsImNvbXBhbnlfbmFtZSI6Ik9yYml0YWwgRm9vZHMiLCJodGlkb2NpZCI6IldzcUJjWkxHWWlKLTNMbGNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBjM2JGcFJPWE5JWVhKUlQxbGFkMWRZYm5nMU5GSTNWRU5RZFd4R2VHSkpSRjlGU0dabGRERkRUV2xXT0hSNGVUbHhVVTVDVjBWaFRGVkVla0ptTkRSRFVsZGtWRkJUVlV0dVdHMHpkSEE0VUVWMlZqbGxZbTh4Y1hwU1oxaGZXV0k1TlhsWlVIa3haVUpqWW1rNVNWRTVhMWRxZWxaRmFsWk1SemhVYUZGNWRrMUhVM29TRjNOUFprbGhkVE42UnpoMWREVk9iMUF0VEROcWRVRnJHaUpCUkhOeU9XWlROUzFZWkVoWlJsUnFkWEpqUkV3dFFtdFlUREpyUjNSUFNWTkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJXc3FCY1pMR1lpSi0zTGxjQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBURGcwYW5oemFuVnVhMk5GYm5CRlVESkRlR1p0UkVaSE5YVkdPRWcxUkVvNFpWTk9kVVJHZDFaSVV6UnRaR1pUZFZacldFMUxObWRaWDFsc1dtNU9hQzF3WmtrNFVVeEZSa05ITTE5dVltTkhSV3hMVURKc09HTm5OVzlwZDFGVFNFRmZTRkJZUVc4ek1qRkRUM0JUWVRCUFdtOXFkVVJLWTJGU2JXaG9WVnBuWm10ZlIyRTVRWFF5YjJsV2FFRkhWSEZTYTNsUmIxcHlUM0k1VkU0eWExbERXV2hKTkRFMlExVnlkM1Z5V1RoTFZVSXpSSFZ0VWpOcmNHZHVUVE5YUzFwbk1HVjFUall0U1ROUlYwMHhka1JDVjBGWVdWYzFUV3hEYkRRd04wZERhWE5MTjNweVlsQmtVMlJVTmkxck5rNXlZVTAyUm1WbWJsazNhV3R0TUdKSlRrRXllVXhUTkRkb1EyWjRUbG8wVGtKSGJrTkxXazVOWldkWVVtcGlSRTVHTkdKeWNDMXBSRFZQWW5GSUxWSkhiVVpvYlhneFJreDJNblp4VVU1aWEyaG9VRnBJY1ZoRFZtUlZOWEJzWnpoWWMycFRRVXBTUjJVMlZtdEtkbXBXVmxJeE1rSnRRMGhCVkhnNWJXTnhhMEZtTTNBeWVqUlhXRk5yV2s5blJHNUlkSFl4V0VremVqWXdNVWh3WW1FMVZYSTBSR1ozZFZWalYwdE1PVGhvV1RjdGNYQjZVVWRMTlUwMFZVUkVRM2RwTjA0dFUwWkpXbHBoV2xOaVZIQjZVbGd0WWhJWGMwOW1TV0YxTTNwSE9IVjBOVTV2VUMxTU0ycDFRV3NhSWtGRWMzSTVabE5qTms1Tk0zazFVRkZ0T0ZaSVJteGlNR3RZYjB4TE1rWmpkRkUiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBURGcwYW5oemFuVnVhMk5GYm5CRlVESkRlR1p0UkVaSE5YVkdPRWcxUkVvNFpWTk9kVVJHZDFaSVV6UnRaR1pUZFZacldFMUxObWRaWDFsc1dtNU9hQzF3WmtrNFVVeEZSa05ITTE5dVltTkhSV3hMVURKc09HTm5OVzlwZDFGVFNFRmZTRkJZUVc4ek1qRkRUM0JUWVRCUFdtOXFkVVJLWTJGU2JXaG9WVnBuWm10ZlIyRTVRWFF5YjJsV2FFRkhWSEZTYTNsUmIxcHlUM0k1VkU0eWExbERXV2hKTkRFMlExVnlkM1Z5V1RoTFZVSXpSSFZ0VWpOcmNHZHVUVE5YUzFwbk1HVjFUall0U1ROUlYwMHhka1JDVjBGWVdWYzFUV3hEYkRRd04wZERhWE5MTjNweVlsQmtVMlJVTmkxck5rNXlZVTAyUm1WbWJsazNhV3R0TUdKSlRrRXllVXhUTkRkb1EyWjRUbG8wVGtKSGJrTkxXazVOWldkWVVtcGlSRTVHTkdKeWNDMXBSRFZQWW5GSUxWSkhiVVpvYlhneFJreDJNblp4VVU1aWEyaG9VRnBJY1ZoRFZtUlZOWEJzWnpoWWMycFRRVXBTUjJVMlZtdEtkbXBXVmxJeE1rSnRRMGhCVkhnNWJXTnhhMEZtTTNBeWVqUlhXRk5yV2s5blJHNUlkSFl4V0VremVqWXdNVWh3WW1FMVZYSTBSR1ozZFZWalYwdE1PVGhvV1RjdGNYQjZVVWRMTlUwMFZVUkVRM2RwTjA0dFUwWkpXbHBoV2xOaVZIQjZVbGd0WWhJWGMwOW1TV0YxTTNwSE9IVjBOVTV2VUMxTU0ycDFRV3NhSWtGRWMzSTVabE5qTms1Tk0zazFVRkZ0T0ZaSVJteGlNR3RZYjB4TE1rWmpkRkUiLCJmY3YiOiIzIn0%3D&q=Accountant"
+  },
+  "_retrieved_at": "2026-10-09 13:10:08 UTC"
+}

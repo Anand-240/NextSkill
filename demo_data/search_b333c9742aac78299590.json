@@ -1,0 +1,296 @@
+{
+  "search_metadata": {
+    "id": "6ac8e78806ca7f687274176d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/hMxhucN1SU_rVfrja-W5_oD-2mqe2hv1ZENGR6hHnu8/6ac8e78806ca7f687274176d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/hMxhucN1SU_rVfrja-W5_oD-2mqe2hv1ZENGR6hHnu8/6ac8e78806ca7f687274176d.md",
+    "created_at": "2026-10-09 13:09:28 UTC",
+    "processed_at": "2026-10-09 13:09:28 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIfUHVuZSBEaXZpc2lvbixNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/hMxhucN1SU_rVfrja-W5_oD-2mqe2hv1ZENGR6hHnu8/6ac8e78806ca7f687274176d.html",
+    "prettify_html_file": "https://serpapi.com/searches/hMxhucN1SU_rVfrja-W5_oD-2mqe2hv1ZENGR6hHnu8/6ac8e78806ca7f687274176d.prettify",
+    "total_time_taken": 2.0
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Pune, India",
+    "location_used": "Pune Division,Maharashtra,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTM1kwWHpWa1EwcDRNRzVSU0hReGRURTRSMWxTU1VWMWJYY3dlbXRRVUdsRmMyZENaME5JZG0xTWFqRjNTMkp5UkdweldWbEJURnBwT0RacGJqVnViVFIxY0hWb2MzazVlbk42TXpVMllXTjZhRkl3VkdSSmQySTFVRW94YlUwNFdtZzFiRUZOV0VGMmEyY3dka3hIVUZSUVpqSnlYekZ5VjBGUlJHRjFhWEZzUW5veGVFSjBNR3RJV1hWc1pEWmpTVE5XVDJJM1RGZEVNVzVGWm1kdU5uSjNWWE5NYm1VM1pHWnJNV0Y0V1ZkeFNHbExlakl3T0dkbmVFMVVUSEpSUTNWemQyeFZUMHc1TWtWM1kxbG9UaTA1ZVRFemEzY3hPR3RZVDNneWRHMHdiV014TVdsZk1ESlROMDlSVWtSRWRsSm5VMkZPZWxKNmN6TkxRa3B0WmtaU1VVOWZNMFZ0TWtvemN6aHNSMlk1UzFwd1RYRXhSVjl0Y2s1cmEwcHFVMWcyVEdKaWJrOWFWVWxIWVZZd01tUklMWEU1TUdKaVlVUjBjVTR3TjBkRGVsbDVXRGhrY25WMFpURTVhR3RNT0ZSSVVXWmxlV2xLUVRoVWFteDZTV2RwZVdFMlpreHFTalo1Vlc4MGMzaDBTbVl0TTNseFJHazNVREJZTFc5RU1VTm9kR1ZOZFhadFJFRkRXVFEyVUhsUGJIVXRUWEZTT0c1WE9EQmhOVGMzTmxsSWNWQlBRa1pzWkVSMFRsRlJUV1ExVVd3d1ZUUjRjR2hxTjJwWldGOTBla2hhV1dsMFpYVkVaR3hJVG5ZNFFWQk9VMmxoWkVKalVXY1NGM05qVkVsaGNFTlFSbU50V1hkaWExQXlaREpWYjFFd0dpSkJSSE55T1daU1JqbERjRm8xUmxVeVVsRXpSMEpDUVRsME0ySldTbFpMVFhkQiIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Data Analyst III",
+      "company_name": "Jobrapido",
+      "location": "Kolhapur, Maharashtra",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=FaHGAgUO27J7xl7OAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQoCMRBAUWz3CFaDnSKJCDZaCYJE8QzLJIYkEjMhM8LaeQA7b-hJXJtfvd-9J938gIKwL5ifLGCMge_rAzeywB6bi0AFjkQh--kuilTeas2cVWBBSU45umsq3tKgx4n_6Tli8zWj-H69WQ2qlrCYncg2rOlKkAqcKUesj7aEC44YOUrDHw-c612PAAAA&shmds=v1_ARwrE20EZQEFpDZHArNBbzoCWvzd79jb9OL548F9aU0t-KT2cQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=FaHGAgUO27J7xl7OAAAAAA%3D%3D",
+      "extensions": [
+        "14 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jooble.org/jdp/3595097595507867861",
+      "job_title": "Data Analyst III",
+      "description": "About the Company: \n\n Ruder Finn is seeking a Senior Data Analyst (Data Analyst III) to join its award-winning Emerging Technology & Analytics team. The chosen candidate will support the agency’s new business efforts by spearheading the research activities such as but not limited to earned media analysis, social listening, influencer identification, data modeling and predictive analytics. This individual will collaborate with several account teams within the agency providing counsel as needed on the various research and analytics needs of the agency’s clients. As Data Analyst III, you will have the opportunity to work alongside the Chief Technology Officer based in New York, NY, on several innovative Consumer, Technology, and Healthcare-related client accounts. The ideal candidate would be a digital native with deep expertise in and a passion for data visualization and storytelling, statistics, web analytics, social media analytics, and the ability to connect the dots back to business objectives. \n\n\n\n This position will be fully remote, and the working hours will be either 6:00 pm – 3:30 am IST / 8:30 am – 6:00 pm ET  or 2:00 pm – 11:00 pm IST / 4:30 am – 1:30 pm ET  . \n\n\n\n Ultimately, your work will help define the business strategy for projects and clients and play a significant role in the growth of the agency. \n\n\n\n About the Role: \n\n If you are motivated by complex, purposeful challenges, this role, with one of the world's largest independent PR and Comms agencies, could be the fit you have been looking for!\n\n\n\n Job Responsibilities: \n\n\n\n Collaborate with the global Emerging Technology & Analytics team colleagues in research projects pertaining to new business or client mandates involving sourcing, analysis, and reporting of data and insights tied to the concerned business objectives  Deliver market and audience intelligence, including social and digital landscape analysis, audience behavior analysis, sentiment analysis, keyword research, search performance, and competitor analysis including but not limited to share of voice and message pull through  Build measurement frameworks, set up searches and dashboards using Boolean queries, and develop client-facing insights and reports \n\n Qualifications: \n\n\n\n Bachelor's Degree in business analytics, computer science, marketing, psychology, or advertising preferred  A minimum of 4 years of agency or in-house experience in a data or research analyst role  Experience and expertise with writing complex Boolean queries and operating data and media analytics tools such as Cision, Brandwatch, Rival IQ, Meltwater, Signal AI, etc.  Expertise in Excel, Google Sheets, Google Analytics and one or more contemporary data visualization platforms (e.g.: Tableau, Power BI, Google Data Studio, etc.) along with SQL  Proficiency in AWS, Python, R, and any other statistical computing or functional programming language is a major plus  Experience with data modeling and developing custom models is a plus  Experience with custom LLMs and working with the contemporary LLMs (e.g. ChatGPT, Bard, etc.) is a plus  Excellent problem-solving, creative thinking, general modeling, and data processing skills  Strong project management skills, self-starter, ability to adapt and multi-task, and a proven track record of delivering quality and accurate results in a fast-paced and high efficiency agency environment  Extremely strong verbal and written English language communication skills",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/3595097595507867861?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-2927-f379948832f4c4f062bac1520bd4c039?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WhatJobs",
+          "link": "https://en-in.whatjobs.com/jobs/data-analyst-iii/kolhapur-maharashtra?id=243863307&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSUlJIiwiY29tcGFueV9uYW1lIjoiSm9icmFwaWRvIiwiaHRpZG9jaWQiOiJGYUhHQWdVTzI3Sjd4bDdPQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU205NlJ6Sm1RVWhLVkhrMVVtVlFUR2wwTUhreGRTMVpWRGRaVHpWalpsVkpRMWhsYzFkVkxWTnljMGhKU0c4NE5GbE9jV0ZXU21oalN5MXdOMFpyTTFwNmRVZ3lRMmhtYVZadlkyVm9ZVzFFT1VaV2FEUnVWMDEyYUZrM2Rtb3dNSFF3WVRaTk5IWkJXRXBzTkd0VVdXdEtZV3RoUVhWemFVMW1ZVzFIWW5FMVNXVjRjMG9TRjJsbFprbGhka2hpU0dKNmIya3RaMUE0TjI1MGVWRmpHaUpCUkhOeU9XWlRZakZuUlhWNVUxZHVjbDlGVURkNWJscDJiR1o2T1Vkd1UzVjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJGYUhHQWdVTzI3Sjd4bDdPQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Data Analyst – Remote India",
+      "company_name": "Vamstar",
+      "location": "Pune, Maharashtra",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=zMuI-5YoV0ain4xxAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2LMQrCQBAAsc0TxGJrkZwINopFQBALQRRswyYuuZPLbrhdIXb-wc7n-RKjzRTDTPYeZZszcZAEWzSEgjE-1ODzfMGJWjGCPV8D_sVNKlDCVHsQhp1IE2m89madrpxTjXmjhhbqvJbWCVMlvRsm_aFUj4m6iEblYjnv846b6eSC7bAkCAzHO9MMDjhkqN4SfgHz-DuQnQAAAA&shmds=v1_ARwrE20tQtXP1VoHKoR-loYz55K5a-bhbrnuo5yoYrqsP82p5Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=zMuI-5YoV0ain4xxAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e78806ca7f687274176d/images/a37ApLEmDX9spePSNJN57w3YYaFf32R-opgDM66QKXk.jpeg",
+      "extensions": [
+        "28 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/senior-data-analyst-remote-india-vamstar-pune--talent-636890698549692501",
+      "job_title": "Senior Data Analyst – Remote India",
+      "description": "Company Description Vamstar equips leading global MedTech, Pharma, and Biotech organizations with agentic AI solutions designed to drive commercial performance, from tendering and pricing to market access and contracts.\n\n\nExisting Clients: Top 100 Lifesciences, MedTech and Pharma companies\n\n\nJob Requirements\nGather client business requirements to build and maintain end-to-end data reporting pipelines and visual dashboards Maintaining and improving our existing tools and processes with statistical methods and machine learningKnowledge of data management and business intelligence methodologiesThe ability to work to project deadlines efficientlyAbility to lead project deliverables and manage direct client communicationsCollaborate closely with Sr. Data Engineer to build and maintain AWS-based data pipelinesComfort working in an ambiguous, fast-moving startup environment with evolving processesBridge technical pipeline work with client-facing reporting and insightsSkills\nAdvanced knowledge of Excel, PowerBI, TableauB.Tech or technical degree with 4+ years of experience, including 4+ years of hands-on AWS, SQL and Python expertise Writing reusable code and preparing automation for future analyses, QAAdvanced prompt engineering and LLM codingHigh level of numerical accuracy and comfort working with large data setsPrior experience with finance and pricing analyticsAn interest or experience in healthcare and medical sectors with focus on pricing is a strong plusProficiency with Git/GitHub for version control and collaborative developmentData validation, reconciliation, and audit-trail practices for high-stakes data",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-data-analyst-remote-india-vamstar-pune--talent-636890698549692501?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-5549-cb37c8acc8d291cd18e7c0658406e4a8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Blackboardjob",
+          "link": "https://in.blackboardjob.com/detail/a/senior-data-analyst-remote-india_pune_254579863?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/335387820/senior-data-analyst-remote-india-pune?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IOKAkyBSZW1vdGUgSW5kaWEiLCJjb21wYW55X25hbWUiOiJWYW1zdGFyIiwiaHRpZG9jaWQiOiJ6TXVJLTVZb1YwYWluNHh4QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZZMWFIVXhaMTl1UWtoNk4xbE9Oak0yVjBFelVrMVJaa1YxY0dGZk5IQmZXVWhFU1ZKdWVtdEJUSEJxWkhaWmJWTktVMGN4Y2pWSmFETlFhSEU1UlRWNVRtRnJlbEZEWjJseFVsRm1UbGMzWWxoV1gyZ3hhR2MxUTB0amMxSkZWVTh5WjNWM0xWSkthbFp4UzBkNVpGUjVla000WVZscFNsaGtXWFJrUVZKbFNUVnFWMGtTRjJsbFprbGhka2hpU0dKNmIya3RaMUE0TjI1MGVWRmpHaUpCUkhOeU9XWlNVbmx6Y0U1c1VXNXRRVE5UZFVORVVGQmZNR3hrY25VNU9YWlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ6TXVJLTVZb1YwYWluNHh4QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Data Analyst - SQL and Microsoft Azure",
+      "company_name": "Yash Technologies Private Limited",
+      "location": "Pune, Maharashtra",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=6kb87hXS79ZS9c7SAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMW7CQBBFlZYjpPo1SmyElBRJhRRBY0sg0lChYZl4Fy0z1s6AgCp3yHm4TE4Sp3nVe290fxjN1yxJCz7ICTOhfDXHM9arBiR7tCkUNf1yzG6nwvj9_sFBdzCmEiJUsFDtMj--R_fe3uraLFedOXkKVdBjrcI7vdRDZP_YWqTCfSbn7fRlcql66cavG7KITw5RNGuX2LAs6Tw4aNIxOe-RBMuT8BNaGgaD7oX-AAL8jyXAAAAA&shmds=v1_ARwrE20ikMAgyKaX-OuTNUQO54429y1fCr3HJulZakQKt_rZ1A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=6kb87hXS79ZS9c7SAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/senior-data-analyst-sql-and-microsoft-azure/yash-technologies-private-limited/19686400",
+      "job_title": "Senior Data Analyst - SQL and Microsoft Azure",
+      "description": "Sr. Data Analyst - SQL Job YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation. At YASH, were a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth  bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future. We are looking forward to hire SQL Professionals in the following areas : Job description: Experience required: Exp - 3-5 years Role - SQL and Microsoft Azure  Design simple data models to meet the needs of the finance systems  Support and maintain data and database systems to meet business delivery specifications  Perform analysis, design of logical data models, creation of physical models, development, and maintenance of standards of meta data  Support on day-to-day reporting and data structure issues.  Work with vendor development team and partner on solutioning.  Ownership to ensure the proposed design/ architecture, deliverables meet the client expectation and solves the business problem with a high degree of quality.  Collaborate with other Client internal expertise teams - Finance, IT, Testing, etc. to ensure best in class technology solution.  Outlook for continuous improvement and innovation.  Provide regular updates to team lead and ensure the communication is up to the mark. Primary skills: SQL, Data analysis, Secondary Skills: MS Azure, Power BI At YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale. Our Hyperlearning workplace is grounded upon four principles Flexible work arrangements, Free spirit, and emotional positivity Agile self-determination, trust, transparency, and open collaboration All Support needed for the realization of business goals, Stable employment with a great atmosphere and ethical corporate culture Experience Level Senior Level .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-data-analyst-sql-and-microsoft-azure/yash-technologies-private-limited/19686400?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340040143/senior-data-analyst-sql-and-microsoft-azure-pune?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobSpri",
+          "link": "https://www.jobspri.com/jobs/senior-data-engineer-business-analyst-jira-confluence-power-bi-sql-agilekanban-nielseniq?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IC0gU1FMIGFuZCBNaWNyb3NvZnQgQXp1cmUiLCJjb21wYW55X25hbWUiOiJZYXNoIFRlY2hub2xvZ2llcyBQcml2YXRlIExpbWl0ZWQiLCJodGlkb2NpZCI6IjZrYjg3aFhTNzlaUzljN1NBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTV0ZUVDJSZk1qa3RkbWgyYVZRM1NsaERRbTlqYUhaRmJqaGZaakp3VjJNMVRuYzFXUzFTTTJzeGFXMVRaemR5VlhNMlRYTkNXbDlQUkV3MmNFbGxhMHR3WTNOVmEyOW5jMVIzYlhOU1RUUnljbFZaT0VjNFgydERjek5IU2w4MVpHaFZPVEJuT0dwUFNscGliVlZ4U2w4M2FVMTFkR2M0ZFdGVmJYaFZMV1k0Y0ZSV1VWb1NGMmxsWmtsaGRraGlTR0o2YjJrdFoxQTROMjUwZVZGakdpSkJSSE55T1daUlVUTkphWEJDVFZaalFqSlRaRm94TUZWTmRUQXdORnBwVkU5UiIsImZjdiI6IjMiLCJmY19pZCI6IjZrYjg3aFhTNzlaUzljN1NBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Data Analyst – Marketing (Off-roll)",
+      "company_name": "Crisil",
+      "location": "Mumbai, Maharashtra",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=juNOCGMdSPUFe_4XAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2NMQrCQBBFsc0RBGFKFc2KYKOVqFgFCw8QJmHdXZ3shJ0RYucdPII38yRGm9-89_jZe5AdzjYGTrBHRdhGpIcofJ4vKDDdrIboYHy6XOaJiSZ_cOUKxGKqPXCEI7MjO9x41VbWxohQ7kRRQ53X3BiOtuLO9JH8phSPybaEasvlatHlbXTT0S4FCQQhQnFvKgyz_r33ULwm_ALHEhmHpgAAAA&shmds=v1_ARwrE21zBfVZ7jnbE5BwZitMQqZCNwvhqnOiwftac-f31p8WzA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=juNOCGMdSPUFe_4XAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e78806ca7f687274176d/images/2X8NsusJ_hEeUUCMBRwogg4Lm0CGYX0GcLlBXKKKy94.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/senior-data-analyst-%E2%80%93-marketing-off-roll-at-crisil-4445742430",
+      "job_title": "Senior Data Analyst – Marketing (Off-roll)",
+      "description": "Role: Senior Data Analyst – Marketing (Off-roll)\nEmployment type: Third Party\nDepartment: Marketing\nLocation: Mumbai\n\nRole Overview\nWe are seeking a highly analytical and business-oriented Senior Data Analyst to drive marketing and digital decision-making through data, dashboards, automation, and AI-enabled insights. The role will be responsible for KPI reporting, marketing analytics, NPS analysis, web journey analysis, and executive dashboards.\nThe role will also drive automation by creating Agentic AI workflows that streamline reporting, generate insights, automate routine tasks, and improve business productivity. The candidate will work closely with business stakeholders and present insights to senior leadership.\n\nKey Responsibilities\n•    Data cleaning, preparation and validation\n•    Build Power BI and Excel dashboards\n•    KPI reporting and executive scorecards\n•    Marketing analytics and campaign measurement\n•    Website journey, funnel and conversion analysis\n•    NPS and customer experience analytics\n•    Reporting automation and self-service analytics\n•    Data quality and governance\n•    Agentic AI workflow creation & implementation\n•    Executive presentations\n\nRequired Skills\n•    Power BI\n•    Excel with Macros\n•    Adobe Analytics\n•    Data storytelling and executive communication\n•    Dashboard design\n•    AI/Copilot/GPT workflow exposure\n•    Basic Data Science (Regression, Clustering, Cohort Analysis, etc)\n\nGood to have\nWorking knowledge of Python\n\nCore Competencies\nBusiness Acumen, Stakeholder Management, Executive Presence, Storytelling with Data, Problem Solving, Ownership, Collaboration and Innovation.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/senior-data-analyst-%E2%80%93-marketing-off-roll-at-crisil-4445742430?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337018855/senior-data-analyst-marketing-mumbai?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IOKAkyBNYXJrZXRpbmcgKE9mZi1yb2xsKSIsImNvbXBhbnlfbmFtZSI6IkNyaXNpbCIsImh0aWRvY2lkIjoianVOT0NHTWRTUFVGZV80WEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwRTBTM1pGTVdKTFQxVkdNMUpFTTNadk9Ga3lTVGRxYUZreVRtUkZaMUZOWWpBM1NVaHZja0ZyWlZGMFIyRmFaM2xWT0hBMWF6ZEZZVzkwYkZFMFJqVXRaRzAzUlVKVU1sZFZkRTQwU21aVWFGOUhjRzl3ZWtjMVVXcFlkbEJGUVdobmVuZEZlblZ0VFU1dWJTMW1Ua3BWVG5CSVJ6UjNUbWd6TjFZNFprOHhUM05qWlVZU0YybGxaa2xoZGtoaVNHSjZiMmt0WjFBNE4yNTBlVkZqR2lKQlJITnlPV1pSUmxGNGFrTmZUVWd6V2psMVF5MVVSRTlCVW1SeExVVjFVMDlSIiwiZmN2IjoiMyIsImZjX2lkIjoianVOT0NHTWRTUFVGZV80WEFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "JobItUs",
+      "location": "Vasai-Virar, Maharashtra",
+      "via": "App.jobitus.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=mcJdHyzk3QfQ1ptNAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBRGYVz7CE4XxEW0EcFFJ0EQBUe7lj8hNJGYW3LvUDdXZ9_QJ7EuZ_pO9Z5U8yMUdMhIT1H6vj50Z0viUVwgznRi7pKf7oNqLztjRFLdiUKjqx0_DGdveTDjJP-0ElB8n6C-3WzXQ93nbjG7sD3rTShmaiCIqyYWlCVdMWpI0IIfw0YsrYwAAAA&shmds=v1_ARwrE237b211Dr-iW-c2ofFc_rbrju9Ii6NqHoe7tSlkbtuVGQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=mcJdHyzk3QfQ1ptNAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e78806ca7f687274176d/images/viu0U8QdBamAdH_Wv1NJ1XP9S9TIM5xrDkLJWlTbLxg.png",
+      "extensions": [
+        "26 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://app.jobitus.com/jobseeker/134325/data-analyst",
+      "job_title": "Data Analyst",
+      "description": "Job Description – Data Analyst\r\nPosition: Data Analyst\n Experience: 1–2 Years\n Location: [Location]\n Department: [Department Name]\n\n\r\nJob Summary:\r\nWe are looking for a detail-oriented and analytical Data Analyst with 1–2 years of relevant experience. The candidate will be responsible for collecting, analyzing, and interpreting data to help the organization make informed business decisions.\n\n\r\nKey Responsibilities:\r\n\r\nCollect, clean, and analyze data from various sources.\r\nPrepare daily, weekly, and monthly MIS reports.\r\nCreate dashboards and data visualizations using Excel, Power BI, or Tableau.\r\nIdentify trends, patterns, and business insights from data.\r\nSupport management with data-driven recommendations.\r\nMaintain data accuracy and ensure proper documentation.\r\nCoordinate with different departments for data collection and reporting.\r\nGenerate ad-hoc reports as per business requirements.\r\n\r\nRequired Skills:\r\n\r\nGood knowledge of MS Excel (VLOOKUP, Pivot Table, Formulas).\r\nBasic understanding of SQL and databases.\r\nKnowledge of Power BI/Tableau preferred.\r\nStrong analytical and problem-solving skills.\r\nGood communication and presentation skills.\r\nAttention to detail and accuracy.\r\n\r\nQualification:\r\n\r\nBachelor’s degree in Computer Science, Statistics, Mathematics, Commerce, or related field.\r\nCertification in Data Analytics will be an added advantage.\r\n\r\nExperience:\r\n\r\n1–2 years of experience in Data Analysis, MIS, or Reporting role preferred.",
+      "apply_options": [
+        {
+          "title": "App.jobitus.com",
+          "link": "https://app.jobitus.com/jobseeker/134325/data-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-recex-vasai--ss-in-79r2qe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJKb2JJdFVzIiwiaHRpZG9jaWQiOiJtY0pkSHl6azNRZlExcHROQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1d4VVNXbEpSRGhqVjNSRmJHUXRhamhsVFhSblRHUkNWek5sVFVGbWQzQlBObmd5TFVzemNsOUhWREEzYTNaV0xXbFZOa2xUVGtreExVSnVOVEF4VlhabWRuTjBkM0I2VW5nM1MzRk5TSGs0WTFacVdHNUlNakIxUTI1eE0ycFRZMUJWTTBwR1ltNVpSMXB1ZFRoNllXbzBhV3gxTWpNeU1IcERObE5NYzIxcGVHcFFTa1VTRjJsbFprbGhka2hpU0dKNmIya3RaMUE0TjI1MGVWRmpHaUpCUkhOeU9XWlRjMlZHWVMxemQwUnJWSFpXUW1wUVFUbG1NbkF3TFZKYWFFSjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJtY0pkSHl6azNRZlExcHROQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Data Analyst - SQL & Azure",
+      "company_name": "Persistent",
+      "location": "Maharashtra",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=7_cd1hVAAXzvWQB3AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzA62mshDMimATq4Bgo6DkAGEShuyGdSbsjBCtvIOe0JMYm1-9n31mWVERB0lwQEMoGeNDDdZQXU-whPJ5TwTf1xt6aUAJU-tBGI4iXaTF3psNWjinGvNODS20eSs3J0yNjG6a9J9aPSYaIhrV291mzAfuVvMLJQ1qxAaB4YyTQfWW8AdslRMmlwAAAA&shmds=v1_ARwrE206J0z0-81OE3RG-WSFJIxMjf8HgAJmZeVzxjknwhYxww&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=7_cd1hVAAXzvWQB3AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e78806ca7f687274176d/images/Dgs2Ympz3EflnVVVxJiavSZ99IaTESQnh3Re00ynKu0.jpeg",
+      "extensions": [
+        "17 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=0a0bc99662d6230a",
+      "job_title": "Senior Data Analyst - SQL & Azure",
+      "description": "Job Description\n  \n  \n\n\n  \n   \n     About Persistent\n\n\n    \n\n\n    \n\n      We are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what's next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 20 Fortune 50 companies and 4 of the 5 top banks in both the US and India, and numerous innovators across the healthcare ecosystem.\n\n\n    \n\n\n    \n\n      Our disruptor's mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum. Persistent has been recognized across top industry platforms for innovation, leadership, and inclusion. We reported $1,654.4M FY26 revenue with 17.4% Y-o-Y growth. We have delivered 24 sequential quarters of growth with $436.0M in Q4 FY26 revenue, up 3.2% Q-o-Q and 16.2% Y-o-Y growth. Our 27,500+ global team members, located in 18 countries, have been instrumental in helping the market leaders transform their industries. We have been recognized as the Fastest Growing IT Services Brand Globally in the 2026 Brand Finance IT Services 25 Report. We named a Leader in the Everest Group Private Equity (PE) Services PEAK Matrix Assessment 2026 and Software Product Engineering PEAK Matrix Assessment 2026.\n\n\n    \n\n\n    \n\n       About Position:\n\n\n    \n\n\n    \n\n      We are seeking an experienced Senior Data Analyst with strong expertise in SQL, Azure, and Data Analytics to support enterprise data initiatives and drive data-driven decision-making. The ideal candidate will be responsible for analyzing complex datasets, identifying business insights, optimizing analytical models, and supporting strategic transformation programs within Banking and Financial Services environments. The role requires strong experience in Data Warehousing, Data Lakes, Azure technologies, and stakeholder collaboration to deliver high-quality analytical solutions.\n\n\n    \n\n\n    \n     \n\n        Role: Senior Data Analyst - SQL & Azure\n      Location: Mumbai\n      Experience: 5 to 9 Years\n      Job Type: Full-Time Employment\n    \n    \n\n\n    \n\n       What You'll Do:\n\n\n    \n\n    \n\n\n    \n     Analyze large volumes of structured and unstructured data to uncover actionable business insights.\n     Lead data analysis activities and support business transformation and strategic initiatives.\n     Develop, optimize, and maintain complex SQL queries, stored procedures, and analytical datasets.\n     Perform data profiling, reconciliation, validation, and quality assessments.\n     Work with Data Lakes, Data Warehouses, and cloud-based analytical platforms.\n     Design and enhance analytical models to support reporting and business intelligence requirements.\n     Collaborate with business stakeholders to understand data requirements and translate them into analytical solutions.\n     Partner with QA, Platform, Engineering, and DevOps teams for successful solution delivery.\n     Support dashboarding, reporting, and ad-hoc analysis requests.\n     Participate in data architecture discussions and contribute to data strategy initiatives.\n     Identify trends, patterns, and opportunities through advanced data analysis techniques.\n     Present findings, recommendations, and business insights to stakeholders and leadership teams.\n     Ensure data accuracy, consistency, and compliance with organizational standards.\n    \n    \n\n\n    \n\n       Expertise You'll Bring:\n\n\n    \n\n    \n\n\n    \n     5 to 9 years of experience in Data Analysis, Business Intelligence, or Analytics roles.\n     Strong expertise in SQL development, query optimization, and stored procedure analysis.\n     Hands-on experience with Azure Data Services, Databricks, Azure Synapse, or similar cloud technologies.\n     Experience working with Data Lake, Data Warehouse, and enterprise data platforms.\n     Strong understanding of OLTP systems, Data Warehouse concepts, and dimensional data models.\n     Experience leading or contributing significantly to enterprise data analytics projects.\n     Knowledge of Data Architecture, Data Modeling, and Analytical Frameworks.\n     Strong understanding of RDBMS concepts, data structures, and analytical algorithms.\n     Experience creating reports, dashboards, and business intelligence solutions.\n     Ability to analyze complex datasets and convert findings into meaningful business recommendations.\n     Experience working with cross-functional teams including QA, Platform Delivery, Engineering, and DevOps.\n     Strong problem-solving, analytical thinking, and decision-making abilities.\n     Excellent communication, stakeholder management, and presentation skills.\n     Experience working within Banking or Financial Services environments is highly preferred.\n    \n    \n\n\n    \n\n       Benefits:\n\n\n    \n\n    \n\n\n    \n     Competitive salary and benefits package\n     Culture focused on talent development with quarterly growth opportunities and company-sponsored higher education and certifications\n     Opportunity to work with cutting-edge technologies\n     Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards\n     Annual health check-ups\n     Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents\n    \n    \n\n\n    \n\n       Values-Driven, People-Centric & Inclusive Work Environment:\n\n\n\n    \n\n\n    Persistent is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds.\n\n\n    \n\n    \n\n\n    \n     We support hybrid work and flexible hours to fit diverse lifestyles.\n     Our office is accessibility-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities.\n     If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment\n    \n    \n\n\n    \n\n       Let's unleash your full potential at Persistent - persistent.com/careers\n\n\n    \n\n\n    \n\n        \"Persistent is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind.\"\n\n\n   \n  \n \n \n\n\n \n  \n   \n    1\n   \n   \n    \n     Open Positions\n    \n   \n  \n \n \n  \n   \n    Databricks SQL Advanced\n   \n   \n    \n     Skills Required\n    \n   \n  \n \n \n  \n   \n    Mumbai, Maharashtra, India\n   \n   \n    \n     Location\n    \n   \n  \n \n \n  \n   \n    Databricks SQL Advanced\n   \n   \n    \n     Desirable Skills\n    \n   \n  \n \n \n  \n   \n    187233\n   \n   \n    \n     Job Code",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=0a0bc99662d6230a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IC0gU1FMIFx1MDAyNiBBenVyZSIsImNvbXBhbnlfbmFtZSI6IlBlcnNpc3RlbnQiLCJodGlkb2NpZCI6IjdfY2QxaFZBQVh6dldRQjNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUSFZoZWtWcE5teHdZMDFJWVZwb05uSlVhbmg2TWpGVWFFUm1SVk5NWmkwMVJFbEpTekYyVDJrMVpWWTRSa1ZIYW1kamQwazFRMjV6VGtWTmRFMHljRWx4UjBSbGJEZHJURTFpZERkSmJWQnZjbk13VVY5UU1qWlhSVGxGVkc1bWNWYzNNbk5RTWtWUWVHWkJVa3BmTkU5M0xWVmtYMjFOZDFkNFEwazFXVkJZYzIxQ01tTVNGMmxsWmtsaGRraGlTR0o2YjJrdFoxQTROMjUwZVZGakdpSkJSSE55T1daU1lYcElOVEZOVGtKeU5WWkNTMlk1UldKZlIyWkdVbXQwVGpKUiIsImZjdiI6IjMiLCJmY19pZCI6IjdfY2QxaFZBQVh6dldRQjNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Jr. Data Analyst",
+      "company_name": "VIJAY COPOLYMERS",
+      "location": "Chhatrapati Sambhajinagar, Maharashtra",
+      "via": "Adzuna",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=DB9yvDuwO6K4eif2AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCMBRAce0RnP6qSCKCS51KFbFYKhaETuW3hKQlTUJ-hrp5B6_gyTyJcXnL473ks0hWhWdwxICQGdRPCvB9vWG0HZBA3yuwBs7WSi2WBxWCo5RzIs0kBQxDz3o7cWtEZ2ceI_qjJYVeOI1BtLv9dmbOyHX6uBRZA3l1q65NebrXMBjIlcLg0cUT1Dh1CsfBoES_gRLjBElF_QMYPAZRpwAAAA&shmds=v1_ARwrE23TNlZB_XtUOAEi2oygvt4OYYg7IUB1xlnznjDLfhCv0A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=DB9yvDuwO6K4eif2AAAAAA%3D%3D",
+      "extensions": [
+        "26 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.adzuna.in/details/5883870481",
+      "job_title": "Jr. Data Analyst",
+      "description": "Analyze data from Zoho and other business systems to derive actionable insights for decision-making.\nDevelop and maintain Zoho Dashboards to track business metrics, KPIs, and performance indicators.\nUse Zoho Analytics to gather, clean, and organize data from various sources, ensuring accuracy and consistency.\nGenerate business insights and recommendations based on data trends, patterns, and analysis.\nPrepare and process data for further analysis using data prep techniques and tools.\nCreate detailed reports and presentations that communicate key findings to stakeholders.\nDesign and implement data models to support business intelligence initiatives and reporting needs.\nWork with cross-functional teams to understand business requirements and translate them into actionable data reports.\nUtilize Zoho IoT for data integration and analysis from connected devices, sensors, and machines.\nMonitor the performance of dashboards and data models, ensuring their effectiveness and alignment with business goals.\nProvide ongoing support and troubleshooting for Zoho Analytics and dashboard-related issues.\n\n\nDesired Skills and Attributes:\n\n\nStrong proficiency in Zoho Analytics, with the ability to create and manage reports, dashboards, and visualizations.\nExperience with data preparation techniques to clean, format, and organize raw data for analysis.\nHands-on experience with Zoho IoT, including data integration and analysis from connected devices.\nSolid understanding of business intelligence and data analytics principles.\nStrong ability to generate meaningful business insights from complex datasets.\nProficiency in data visualization tools and techniques.\nAdvanced Excel skills, including pivot tables, formulas, and macros.\nStrong analytical thinking and problem-solving skills.\nAbility to work with large datasets and derive insights using statistical and analytical techniques.\nExcellent communication skills to present data insights clearly to non-technical stakeholders.\n\n\nRequirementsGender: Male/Female (open to both)\nAge: 22-30 years\nExperience: 2-4 years in data analysis, business intelligence, or a related field\nEducation: Bachelor's degree in Computer Science, Statistics, Mathematics, Business Analytics, or a related field\nSkills: Proficiency in Zoho Analytics, data preparation, Zoho IoT, business insight generation, and dashboard creation\n\nOther Expectations:\n\n\nAbility to work independently and as part of a collaborative team.\nHigh attention to detail with a focus on accuracy and consistency.\nFlexibility to adapt to changing business requirements and analytical needs.\nA proactive approach to identifying data gaps and recommending solutions.\nStrong time-management skills and the ability to handle multiple projects.\n\n\nBenefitsOpportunities for professional development, training, and career advancement.",
+      "apply_options": [
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5883870481?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKci4gRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiVklKQVkgQ09QT0xZTUVSUyIsImh0aWRvY2lkIjoiREI5eXZEdXdPNks0ZWlmMkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRIQmZjamgxVlRRMk1HSXlXalF6VVY5VU1raFlhbXhWTVVwSFRHWndWWFZtVERSR05IZ3hWRXBLVUZwUk5UQjNhamhFTTBGU1UzZG1hRWRNTnpKM2NEVXlVMUl4YzBJNGEyd3hPRVppWkZCWExVMUJlbWg0WldGZmVucFVaVk5uWkRsa2RpMTNiVE52YjFjd05tUXpPSEZxUzNneGQwVlBXRXRIY1RVeFZWOTZTUzFQV1drU0YybGxaa2xoZGtoaVNHSjZiMmt0WjFBNE4yNTBlVkZqR2lKQlJITnlPV1pVZEVOd2VHUlBhV1pzT1RKSk9ISjZPRkpVY1ZNdGVEWXlhMlpuIiwiZmN2IjoiMyIsImZjX2lkIjoiREI5eXZEdXdPNks0ZWlmMkFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst Intern (Marketing)",
+      "company_name": "Kreative & Co.",
+      "location": "Navi Mumbai, Maharashtra",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=teduvt7C_8Zbdp0yAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLQQrCMBAAQLz2CZ72JFokEUEQPYmCiNQvyLYsTTTNluxa6s0_-AR_5kusl7lN9hll6wMqwi5ieIrCKSqlCNMC053Ux3oG39cbblyCEKbKAUc4MteBxlun2srGWpFgalFUX5mKG8uRSu7tkOTPVRwmagMqXZerRW_aWOf5OdEQOoIJ7NmAj3DBzkPxaEr0cyhwSChOE_4AXTINXqYAAAA&shmds=v1_ARwrE22M2zY4Fb9LdsQfWi--O3ez3TlPFCAsASEhT54oRTIIpA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=teduvt7C_8Zbdp0yAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAAAwUCBgcE_8QAJRAAAgICAgEDBQEAAAAAAAAAAQIAAwQRBRIGEzFBIlGBkaEh_8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC_8QAGREBAQEAAwAAAAAAAAAAAAAAAAERAiEx_9oADAMBAAIRAxEAPwDuMREBERAREQEREBIcjJpxghvsCCyxa138sx0B-5NKnyXjMnlePSjDyRjXLfXatxGynU72B8ma4SXlJbkWLaYu61r2dgq_djoTQsvxDyG7Hvsp5i-vJa-opUvKZAQ0rUqsnYg9SbF79upPxv6jK_P8B8lzlevL5x8pBtgbeRyFF7Bq2rDooCp16MOyjZ7dtbEl9R0fBzcbkMcZGFel1JJUOh2NgkH-gz0TlLcXydbZeCvluRTbX3D013XWFMphYyac_wC-n6RJI-Gr37zePCRcvj9IyMq3It9Sws1trWFNsSF7MqsQAQBse0XN6F9ERIEREBERAgbDxWZ2bGpLOwZyax9RHsT9yNSSmquisV01pWg9lRdAfiZxAREQEREBERAREQERED__2Q.jpeg",
+      "extensions": [
+        "23 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/data-analyst-intern-marketing-kreative-co-navi-mumbai-maharashtra--t7xk-843830525",
+      "job_title": "Data Analyst Intern (Marketing)",
+      "description": "Role Description The Data Analyst Intern (Marketing) role is a full-time on-site position based in Navi Mumbai. The intern will support the marketing team by collecting, cleaning, and analyzing campaign and user data from various digital channels.\n\n\nDay-to-day tasks include preparing dashboards and reports, identifying trends and patterns in performance metrics, and assisting in building data-driven recommendations to optimize campaigns and improve ROI. The role also involves collaborating with marketers and designers to translate insights into actionable strategies and testing hypotheses through A/B experiments. This position offers hands-on exposure to marketing analytics tools, performance marketing workflows, and real-world business decision-making.\n\n\nQualifications\n\nStrong analytical skills with the ability to interpret quantitative data and identify meaningful trends.\nFoundational knowledge of data analytics and data modeling for marketing or business use cases.\nBasic understanding of statistics, including descriptive statistics and hypothesis testing.\nEffective communication skills to present insights clearly to non-technical stakeholders.\nFamiliarity with Excel/Google Sheets; exposure to analytics or BI tools (e.g., Google Analytics, Power BI, Tableau) is a plus.\nPursuing or recently completed a degree in Marketing, Data Science, Statistics, Economics, Engineering, or a related field.\nAbility to work on-site in Navi Mumbai and collaborate in a fast-paced, team-oriented environment.\nCuriosity, attention to detail, and a strong interest in performance marketing and ROI optimization.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-intern-marketing-kreative-co-navi-mumbai-maharashtra--t7xk-843830525?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "India Jobs Expertini",
+          "link": "https://in.expertini.com/job/data-analyst-intern-marketing-navi-mumbai-kreative-co-637869215251431973/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Define Digital Institute",
+          "link": "https://definedigital.in/career/jobs/106199/data-analyst-intern-marketing-navi-mumbai-maharashtra-india-kreative-co?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/coursera-python-data-analyst-intern-navi-mumbai-524daa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NiyukJobs | AI",
+          "link": "https://niyukjobs.ai/jobs/detail/data-analyst-intern-marketing-at-kreative-and-co-navi-mumbai-maharashtra-india-428195?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSW50ZXJuIChNYXJrZXRpbmcpIiwiY29tcGFueV9uYW1lIjoiS3JlYXRpdmUgXHUwMDI2IENvLiIsImh0aWRvY2lkIjoidGVkdXZ0N0NfOFpiZHAweUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVdFpOalZWT1ZCaWQxY3pjMGd0Tm5sd04zSkhTVlJ3YzJKRFMxZENWQzFpVlV4QmRqQndPSFowUldNd1RqUnNZMEZwVTJSaWVUaGFZMHMxVGxkSFkyUkdZMmwxYlhwa1pIWnBiRW96V0hFdFIxVjFNREIxZVVKT0xYcFVObFJrYldaUFJraGliR3h3WjJaMllteEhWbWhvT1RWMlRtc3dRbFpOYlcxTVJVRkJSR3BxWXpNU0YybGxaa2xoZGtoaVNHSjZiMmt0WjFBNE4yNTBlVkZqR2lKQlJITnlPV1pTTlVSME5UQkxNakpXUm1sMVdIWm5RMGRvVWxaeFYwbE9NMjFSIiwiZmN2IjoiMyIsImZjX2lkIjoidGVkdXZ0N0NfOFpiZHAweUFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Business Analyst - Business Analyst (Finance,Risk) - Pune",
+      "company_name": "Photon",
+      "location": "Pune, Maharashtra",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=zn85fY6Anv0pdZ0lAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_2WNMQrCQBBFsc0RtJlSJWZFsNFKEa2EYGMZJmHJrq4zITOB2HkHj-KNPImrrc0vPu_9n7wGyXmHirDtxJMVgQ1huIvC7L8a7z0hVTY9eblOIpF3ZOH9eMKFSxCLbeWACQ7MdbDDtVNtZGWMSMhqUVRfZRXfDJMtuTdRkm8U4rC1TUC1xWI577OG6ukod6xxy9PvJYUjRgrFaYsf7uGMMrYAAAA&shmds=v1_ARwrE228I6KgFLE8JzapRPg3gqrc89c462qWGhBSooZ_7nC9qA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=zn85fY6Anv0pdZ0lAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e78806ca7f687274176d/images/ocnjqerkY_Dk6aUwdPgxeo9Ulm0Rlsu_-6Sa-d9SgHA.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/kVTE5RQ8fel5JwbCVDpso5op4dANJAuVn6QOjyGYDjnSI3rmrgDAZg",
+      "job_title": "Data Business Analyst - Business Analyst (Finance,Risk) - Pune",
+      "description": "Key Responsibilities:\n\n\nGather, analyze, and document business requirements from stakeholders in finance, treasury, compliance, and risk management functions.\n\n\nTranslate business requirements into functional specifications for development teams.\n\n\nWork closely with data teams to analyze financial and risk data for decision-making.\n\n\nCollaborate with cross-functional teams to support system upgrades, enhancements, and integrations.\n\n\nFacilitate workshops, conduct gap analysis, and prepare business process models.\n\n\nEnsure compliance with regulatory requirements (e.g., Basel III/IV, IFRS 9, SOX, CCAR, DFAST).\n\n\nSupport development of risk models, exposure calculations, and financial reporting.\n\n\nValidate data lineage, quality, and governance processes related to risk and finance data.\n\n\nParticipate in testing (UAT), validate results, and support issue resolution.\n\n\nPrepare documentation including BRDs, FRDs, process flows, and user guides.\n\n\nRequired Qualifications:\n\n\nBachelor's or Master's degree in Finance, Business, Economics, Risk Management, or related field.\n\n\n5+ years of experience as a Business Analyst, with at least 3 years in Finance and Risk domains.\n\n\nStrong knowledge of financial products (loans, derivatives, securities) and risk types (credit, market, operational, liquidity).\n\n\nExperience working with regulatory frameworks such as Basel, IFRS, CCAR, or equivalent.\n\n\nFamiliarity with data management and analytics tools (e.g., SQL, Excel, Power BI, Tableau).\n\n\nStrong documentation and presentation skills.\n\n\nExperience with Agile/Scrum and traditional Waterfall methodologies",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/kVTE5RQ8fel5JwbCVDpso5op4dANJAuVn6QOjyGYDjnSI3rmrgDAZg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/business-data-analyst-corporate-functions-technology-mgpru-mandgprudential-pune--t7xk-859706451?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mployee.me",
+          "link": "https://www.mployee.me/jobs/view/data-analyst-business-consultant-in-pune-at-cgi-15092601394124052/s1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/data-analyst-business-consultant-persistent-systems-pune-2-to-5-years-experience-8a637f93-dae9-4f23-b1cf-70b5d3553a07?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/epam-systems-data-business-analyst-team-lead-pune-maharashtra-india-10-to-17-years-274270?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobsora",
+          "link": "https://in.jobsora.com/job-53970937172?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEJ1c2luZXNzIEFuYWx5c3QgLSBCdXNpbmVzcyBBbmFseXN0IChGaW5hbmNlLFJpc2spIC0gUHVuZSIsImNvbXBhbnlfbmFtZSI6IlBob3RvbiIsImh0aWRvY2lkIjoiem44NWZZNkFudjBwZFowbEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHODBWMDR0TVVaalZucFdWVlozWjNZdGQwbG1OVXcxUjFoU2JXWlFaMWxxYWw4dFVrNW5VME5OWlhGQ1lsSmlUV3MxVFRGemVqQTFZbEJLYUUwNVNWbHhXbkJwYTJaS05tSjZlblV5VTAxRE1teHFNRWRZZFhOMlJtSkhlVkpHT1VvNWVrTk9lRTlDUW05U2VFbFpOelJXTUhSeFMzRXdRMVpzU21nMU4xRnBXa3hQZW1jU0YybGxaa2xoZGtoaVNHSjZiMmt0WjFBNE4yNTBlVkZqR2lKQlJITnlPV1pUZERNME4wTkVjRFZUTW1sU2IxQjNkMkpUTTNrMlRXUmlkVmRCIiwiZmN2IjoiMyIsImZjX2lkIjoiem44NWZZNkFudjBwZFowbEFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMHRtTFhoYVRUSnZiWFJoYVZkMmVXMUxUR0pCYjFKWE5XeHliM2xtT0hwalJGUmtVRTFTWDFKT1FtWlhiR2d6VmtVeFptbHRNRWg1T0VJME5HeFlUa3RsWW0xQlIzY3RSM1JIYm1wdGFUWjBTMjU2ZVdkTU1XeHhVRlZFTFd0SWFGbzRWVU14YzNoRU56RjNYMnhrUkVKWGFFVXhRVlYyYmxkeFJVRjBPRTFmUTBKWFMzaExWMmhoY0hsM1NXVkRNbkpJWjBScGNURmxUbVJ4VVZoRFNuVnBjRGhHUlZSV1ExcHJOSGRzWVMxTWFpMWlNbFJIUVhoQ1RXOXVOVTluWjFaQmJESkhiRk14ZDB0SVVEbHdhbWhqU2tWb1ptaFRhak5UYTFoa1RUQXpaMlpVTURsWGNHcDRiVzB6UlVWQ1UzY3dVbnBGY2xsMVYxOUNkVmw0ZEdremMzZE5VRjgwZWxvM2NHMTBYemRDYjNReGEweGpha0ZhWTFkcFYxbFNiREYxU2xSamNEQnRUWGhZV0dSaGJtUnVXVTFPVEVKNU9UQlNTek5DVW1kMVUzaHNWRzlsYUhKWlpGTmpZMlkzWjFSWVRDMTJRVWxuT1VGRExYWkdaVkJLWm0xSE1sRnhSbWgyZHpoSGIxRm5kMEpyYlZWV2VHbGtZVkpmYVZGTlRUaGxUa00xVTFoeU9GQjRWa3MwWTFGVk5ERkliVk5yUldWNGRFRXljMHhDVjBGemNUUlRaRzFZVW5oSlowWkJRVFU1U21oQlJrTkliVzVOV1VGS1JFVkJZM05pVmtvNE9HRlRNRXRXYm1aS01WRkhTV2hmTFdaWmJXY1NGMmxsWmtsaGRraGlTR0o2YjJrdFoxQTROMjUwZVZGakdpSkJSSE55T1daU1Fqa3laMGQxYWs5UVpHWlFVMXBhUzBFMGRVVjVPV3BpWkVWQiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMHRtTFhoYVRUSnZiWFJoYVZkMmVXMUxUR0pCYjFKWE5XeHliM2xtT0hwalJGUmtVRTFTWDFKT1FtWlhiR2d6VmtVeFptbHRNRWg1T0VJME5HeFlUa3RsWW0xQlIzY3RSM1JIYm1wdGFUWjBTMjU2ZVdkTU1XeHhVRlZFTFd0SWFGbzRWVU14YzNoRU56RjNYMnhrUkVKWGFFVXhRVlYyYmxkeFJVRjBPRTFmUTBKWFMzaExWMmhoY0hsM1NXVkRNbkpJWjBScGNURmxUbVJ4VVZoRFNuVnBjRGhHUlZSV1ExcHJOSGRzWVMxTWFpMWlNbFJIUVhoQ1RXOXVOVTluWjFaQmJESkhiRk14ZDB0SVVEbHdhbWhqU2tWb1ptaFRhak5UYTFoa1RUQXpaMlpVTURsWGNHcDRiVzB6UlVWQ1UzY3dVbnBGY2xsMVYxOUNkVmw0ZEdremMzZE5VRjgwZWxvM2NHMTBYemRDYjNReGEweGpha0ZhWTFkcFYxbFNiREYxU2xSamNEQnRUWGhZV0dSaGJtUnVXVTFPVEVKNU9UQlNTek5DVW1kMVUzaHNWRzlsYUhKWlpGTmpZMlkzWjFSWVRDMTJRVWxuT1VGRExYWkdaVkJLWm0xSE1sRnhSbWgyZHpoSGIxRm5kMEpyYlZWV2VHbGtZVkpmYVZGTlRUaGxUa00xVTFoeU9GQjRWa3MwWTFGVk5ERkliVk5yUldWNGRFRXljMHhDVjBGemNUUlRaRzFZVW5oSlowWkJRVFU1U21oQlJrTkliVzVOV1VGS1JFVkJZM05pVmtvNE9HRlRNRXRXYm1aS01WRkhTV2hmTFdaWmJXY1NGMmxsWmtsaGRraGlTR0o2YjJrdFoxQTROMjUwZVZGakdpSkJSSE55T1daU1Fqa3laMGQxYWs5UVpHWlFVMXBhUzBFMGRVVjVPV3BpWkVWQiIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst"
+  },
+  "_retrieved_at": "2026-10-09 13:09:28 UTC"
+}

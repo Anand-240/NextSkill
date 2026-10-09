@@ -1,0 +1,238 @@
+{
+  "search_metadata": {
+    "id": "6ac8e78fa26f5669d884ada1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5aoyP3j0MA78FX7TbOvq4UdpAgc0oom7bOXgaUKJ2FU/6ac8e78fa26f5669d884ada1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/5aoyP3j0MA78FX7TbOvq4UdpAgc0oom7bOXgaUKJ2FU/6ac8e78fa26f5669d884ada1.md",
+    "created_at": "2026-10-09 13:09:35 UTC",
+    "processed_at": "2026-10-09 13:09:35 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIkSW5kb3JlIERpdmlzaW9uLE1hZGh5YSBQcmFkZXNoLEluZGlh&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/5aoyP3j0MA78FX7TbOvq4UdpAgc0oom7bOXgaUKJ2FU/6ac8e78fa26f5669d884ada1.html",
+    "prettify_html_file": "https://serpapi.com/searches/5aoyP3j0MA78FX7TbOvq4UdpAgc0oom7bOXgaUKJ2FU/6ac8e78fa26f5669d884ada1.prettify",
+    "total_time_taken": 0.55
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Indore, India",
+    "location_used": "Indore Division,Madhya Pradesh,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTek5pUm1WTlZHcEVRVjlaVUZSemJVSTNZakZtWlhZM1V6VlFVRkZXV0ZsWGRXSXhaakJRYVhSSVRqWkpYMmxVZGtOb09YUTNlR0ZIVjJ4ZmFucGpNbEp1VUdWelRuVlhkaTAxY2xKNWVtOXNUVzE2T1ZGMFMxQjZhVVZRZGtJM2NsRkVNVkU0ZFcwd09YVTFUREJmTFhCS1ZGSTFORWxIYTNkWFZucE9SREpIUmxsMWNHTlFNbFF3YlZCS1lVWXdObTA1ZVhZMmVtTlJjRmh3YW5OSk1rVnVjVEZVU0dSVVkxaHBlbWRoU2tkMk4xcGpPREZKZDJweGQybzRhVlpEVG1aT1NHSllNekZRUkRoT2QyeDNiMEZUUWpCZlMxaHhYMFY1UkVsYWFIVTBiSFYyYVZjeVpWSjRlbWRLWm5sSU5FRkRlbm95Tm5OWlVGcFNWRmcyWkZaSmNXZHNNV2RWYW00d1MxWkNOMEZIYUZkV2RHaGhiRGM0VjJGM1RYSXhZWFZYYlc1dFNIcDFOSGwyVVVGa1FsZEJYM2R1Wm1GaVFscFlVRWR3WW1GcVdXeFFWakV0YkdkeVVqTnlVVmhhWWxsTFFYazJOMVYzY2poUWR6aDBNM0l4WVhWRFEwaElXbUYwYTJOWGEyVk5Wa1ZKUnpGUFQydENWMTlPWmpaNVJubEZWSFJIYlVGVlZtWXRaVE5UZW1GRWMyMTVVV3MyUzFod2FFaE5kMmsyYVdsaWNtbFpTMjV4Y25wTllsZzBkREY1TVRBMWJrSlZOMmd4UVVWYVNrNWFRekpMU1JJWGFuVm1TV0Z3U0VSTFlXSjFjblZGVUhkaVMxOHdVVTBhSWtGRWMzSTVabEk1UkZZdGRVeENOakZWZFRsRkxUQlFURU14TWs5bVZEVkVNbEUiLCJmY3YiOiIzIn0="
+  },
+  "jobs_results": [
+    {
+      "title": "Equity and Data Analyst",
+      "company_name": "Growthx Capital",
+      "location": "Indore, Madhya Pradesh",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=xneVFyIYM8ixR26cAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU63KtIUwUUnUSkOgn9Qrs3RRGIu5k5sN__Bzc_zS9Tlba94T4rqcLt7HQGjhT0qwjZiGEXh83zBhVsQwtw54Ag1cx9ounGqSdbGiISyF0X1Xdnx1XCklgfzS_KnEYeZUkClZrmqhjLFfj6rMz_UDbDD5BUD-AjHaDnTAk5o3YhwzmhJ3BdZe9wZnQAAAA&shmds=v1_ARwrE20CPYQJGdmVJER7iUVEfhevucZ_CIjvdvWwSfOcU6SGXQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=xneVFyIYM8ixR26cAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAkFBMVEX9/f/z8f/49//+/v/y8P/6+f/29f/39v/8/P/5+P/7+//8+//08v/08//18//19P/7+v/////z8v/9/P/x7/+JUf+HTf+CQ/+ESP/f0v/v6f/j2f9/Pf+ykf/p4f/Cqv+QXP+edP+qhf+siv+lgP+Yaf/Ou/++pP+0lv/Hsf/azf94L/+VZP/Tw//XyP+je/802RsoAAACDUlEQVRIie3X23KbMBAGYBkQSMIOWgcdOIPPTp3k/d+ui2tPfUiD4K7T/sMM44tvsHdXsiAAQJMXTJIkISaK8Ioiz/M4hlK8KJUYEccMrz6xD0DAn6fBDLOczxeLG99b72zPUPSQvRKM7zOCcBkEo6HPfELTKRAYSabC5TRI/sPJkNPxkAsiJJUCh0uOgBzqZtPa0qhttQvQOkJSdKXVl9jyswA3SPZGK2vstutOeFO63IMLFAejtK2ykDIiw+ygra2e4ewJymOp9KkmkvftoAxmh9IFRjU+r53R332UkB0coFhbZQp5NwBfVfURhjkWY0WGJ+cR8nejzBsfD2VlVRlF4yHrtG59hyF/gInXar1hV3hBLB6GM4SVuK6ONM3TPrk3CINbCNvyV368+UPwBeH6+lWhO4+6UiYbgi/ipHVHLpDs15iVdoIbrTRci0PwPwlS6wJpg32svZt2iNwJeoVR9ijGwzDCH9lybwC+Pq8OusNH7v3xMKFbrOIO+BXGrjDKsXNmnQMTOGxY150jTHitcE3arnnPso9j1X8oC+IAQ55uTL8vGoy1eP+sfeECQ09kK4UGY0x7qHFHdoNhSElQ7JqmOX7kEtjzevwjxG5QwRghWKGvFvI38Psd4N+AwdST1V8EJxaHkcU0KAmfBvnEo3UcTzrMg6DQb9V83mexuIPh3VvEjReC8hjgJ6dLdqd31RzEAAAAAElFTkSuQmCC24",
+      "extensions": [
+        "₹18,750–₹25,000 a month",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/equity-and-data-analyst-growthx-capital-indore--t7xk-825613441",
+      "job_title": "Equity and Data Analyst",
+      "description": "Role & responsibilities\n\n\nWe are looking for a detail-oriented candidate with strong working knowledge of MS Excel and a basic to intermediate understanding of the Indian Equity Markets. The candidate will support the research team in collecting, analysing, maintaining, and presenting financial and market-related data.\n\n\nKey Responsibilities\n\nCollect, organize, and maintain financial and equity market data from stock exchange websites.\nPerform data analysis and prepare Excel-based reports, MIS and dashboards.\nTrack company financials, shareholding, corporate announcements, IPOs, and other market developments.\n\nRequired Skills\n\nStrong MS Excel skills: Pivot Tables, VLOOKUP/XLOOKUP, SUMIFS, IF functions, data cleaning, formatting, charts, etc.\nBasic to intermediate understanding of Indian Equity Markets and financial terminology.\n\nQualification\n\nBCom/MCom/BBA/MBA\n\nLocation Preference\nPreference to Indore based candidates.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/equity-and-data-analyst-growthx-capital-indore--t7xk-825613441?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFcXVpdHkgYW5kIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6Ikdyb3d0aHggQ2FwaXRhbCIsImh0aWRvY2lkIjoieG5lVkZ5SVlNOGl4UjI2Y0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRGOVRaRXQyVDBzM1dsVTRhelpWYUVwRVpWRTVkbWx6YldoaU4xRkhURVJpYUVsdU5reDRPREpvVlRSTVVEZGFXak5QWjNKWE1uVmtNbWxDZUcxWFYxcFpWRlZ6YlV0eVdUYzRYemx3T1ZvNFVtRXRUbTEwUXpOcmVtZDRNbWRNZDFWNmQxRjVWekp4ZUcxMlNWRk9NbVZPTm5nNE1reEpjMGhDYWtSQ09XOUtORVZqWDBvU0Yyb3Raa2xoZEdrM1REWkRialZPYjFBdGRqWXliVkZuR2lKQlJITnlPV1pTTkhaQ1RFWm9VM013Unpoa1FuRlphbFZQUjNsUVJGbFhjVTFuIiwiZmN2IjoiMyIsImZjX2lkIjoieG5lVkZ5SVlNOGl4UjI2Y0FBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst and Coordination Executive (Indore)",
+      "company_name": "The MEP Club",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Kit Job",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=cL3dozmjKw3DD8yrAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNMQrCQBBFsc0RrKYSFcmKYKOVxCApAinswyQ7ZCPrTtjZSNJ5By_imTyJEZtfvfd-9J5F2RkDwsmhHSUAOg0Js9etw9Cyg3Sgug_tg2CZOc2eVvB5vuDGFQihrw1M0IW5sTQ_mhA6OSglYuNGwlSo45rvih1VPKhJkt-UYtBTZzFQudtvh7hzzXpxNQR5WkBi-wpaB_-7DeSozYhQeNQk5gv1LXx2swAAAA&shmds=v1_ARwrE21J2kMpT3cxwKp3uEU6GfLiYegJxueEanLfRp7EfbfOAw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=cL3dozmjKw3DD8yrAAAAAA%3D%3D",
+      "extensions": [
+        "11 days ago",
+        "Part-time"
+      ],
+      "source_link": "https://www.kitjob.in/job/339501989/data-analyst-and-coordination-executive-indore",
+      "job_title": "Data Analyst and Coordination Executive (Indore)",
+      "description": "Looking for someone who can support with data research, database preparation, outreach coordination, follow-ups, and basic analysis for an upcoming initiative.\n\nThis will be a part time or project-based role for the next 2 to 3 months.\n\nResponsibilities:\n\n- Research and prepare structured databases\n- Collect and organize relevant information from different sources\n- Maintain clean trackers in Excel or Google Sheets\n- Identify the right people or organizations to connect with\n- Send qualified messages and emails when required\n- Follow up in a timely and organized manner\n- Coordinate calls and meetings\n- Prepare weekly progress reports\n- Analyze collected data and share simple insights\n- Support planning and coordination of upcoming activities\n\nEligibility:\n\n- Good research skills\n- Ability to organize data properly\n- Good written communication skills\n- Ability to follow up professionally\n- Who can work independently\n\nPrior experience in data analysis, research, coordination, outreach, business development, or admin support will be an added advantage.\n\nSomeone based in India is preferred.",
+      "apply_options": [
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/339501989/data-analyst-and-coordination-executive-indore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgYW5kIENvb3JkaW5hdGlvbiBFeGVjdXRpdmUgKEluZG9yZSkiLCJjb21wYW55X25hbWUiOiJUaGUgTUVQIENsdWIiLCJodGlkb2NpZCI6ImNMM2Rvem1qS3czREQ4eXJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUREZ3VmtGT1F6RlpUa2N5VWs1NmFWSXhkbk50T0ZOVFdUQjRja1J2UkMxemVqaHlTbkZEYlcweE5UWkRPRzVITm5Sc1V6Qm1SV3RsYW1WMU9VTnpablEyTVdsNlRrSm5lSGhEUjJRd09XUkhObVZRV2tkQlJXcGtWakJUVkdsMFdqVkhRVlkyTFhwVWEwNHRiREV0WlRSQldWRmtiVGxTWDJGT1ZGUm1RVXRZV2kxWlpWTVNGMm90WmtsaGRHazNURFpEYmpWT2IxQXRkall5YlZGbkdpSkJSSE55T1daU2FYZHdYMnRCUkdOa1gxbzVNV1V0ZUVkNE1rUkVRVUV3TlhaUiIsImZjdiI6IjMiLCJmY19pZCI6ImNMM2Rvem1qS3czREQ4eXJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Quality Analyst (Data Auditor)",
+      "company_name": "Rifa Ai",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Blackboardjob",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=IUgyQS-2NcjiScBRAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBBAUWxzBKuxU5GsCCJoFRDEQlAvECbZMbuy7oSdCSSdd7Dyep5EbX73-Nl7lG0uHQavAxQRwyAK0z0qQtFZr5xm8Hm-4M4VCGGqHXCEA3MTaLxzqq1sjREJeSOK6uu85ofhSBX35ofkn1IcJmoDKpWr9bLP29jMJ1d_-008-AjHaDnRAk5o3YBwTmhJ3Bc4vkmEnAAAAA&shmds=v1_ARwrE20rddWqG2Rz9oZLhDywR4_sp_roABkJnKQKN36375KBBA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=IUgyQS-2NcjiScBRAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEX___8AAAD6-vp-fn6-vr7m5uZeXl6rq6v09PTw8PArKytERESzs7Pp6eng4OAQEBBZWVmgoKCRkZFLS0uXl5fLy8tlZWU5OTmLi4va2trR0dFTU1MiIiLExMRzc3MXFxcyMjJP0NfqAAABRUlEQVRIie2SzZKDIBCEe1AMYBBRY4xZTd7_KXcgJJq9bOW2W0UfphT4oOcHyMrKyvonupRPyY-4A22aPwHbiBTeG45hwUoZnhYNh7kr92el4KBiBKrAnaCA_gHGixYM1OBI5NTGnWiKFuULrHElupweoLsqXRPsgffMm7mR3A-wxRfRYU5gC3Sk5sIW5qtY4Eff-bChaWUnb2Af_DXpxZvpCr7qSE19c3W5Uu_4lzUQTL8HVyugOJXzEyQ6gkGFqoeijk1UMfmVF-0OVItHNxWUqurGmYYAarQ1muDuWsXSmPrO12ygGFY4znF85Tjx6QSCzrKkAFbOD56rtoFcvpKfuxSpHZxHTTKA_ZlbSbF6kMEGFip3xTH3NDlTHADN3bdaWK6jDpMghY5Lse9WpQ807jVxd_37oO0lnvoMy8rKyvr7-gZIYA0YFOJvWQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "19 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.blackboardjob.com/detail/a/quality-analyst-data-auditor_indore_254658111",
+      "job_title": "Quality Analyst (Data Auditor)",
+      "description": "Quality Analyst Rifa AI | Full time | 1.5 to 3 years of experience About Rifa AI Rifa AI builds voice and chat AI agents for enterprise clients. Our bots handle live conversations at scale, and every conversation has to meet strict compliance, accuracy, and quality standards. The Quality Analyst makes sure they do. What you will do Audit voicebot and chatbot conversations against SOPs, compliance rules, and quality standards Build and maintain QA scorecards and audit frameworks for new and existing bot flows Run root cause analysis on failed or flagged interactions and document findings clearly Track quality trends, error patterns, and KPIs, and report them to product and engineering Run calibration sessions with auditors to keep scoring consistent Give structured feedback that turns into Linear tickets, SOP updates, or prompt changes Support release testing by validating bot behaviour before and after deployments What we are looking for 1.5 to 3 years in a Quality Analyst or QA role with hands on audit experience across voice, chat, or email channels Strong grasp of scorecard design, RCA, calibration, and quality trend analysis Advanced Excel skills: pivot tables, VLOOKUP, data validation, and clean reporting Comfort working with SOPs, SLAs, and compliance requirements in a regulated environment Clear written communication; your audit notes will be read by engineers and clients Attention to detail and the patience to listen to a lot of calls Good to have Exposure to Power Automate or any workflow automation tool Experience in fintech, collections, or BFSI Familiarity with AI voicebot or chatbot products A track record of performance recognition in previous roles Working hours Night shift aligned to US business hours.",
+      "apply_options": [
+        {
+          "title": "Blackboardjob",
+          "link": "https://in.blackboardjob.com/detail/a/quality-analyst-data-auditor_indore_254658111?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/335503469/quality-analyst-data-auditor-indore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indore Jobs Expertini",
+          "link": "https://indore.in.expertini.com/job/quality-analyst-data-auditor-indore-rifa-ai-638356926257632506/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJRdWFsaXR5IEFuYWx5c3QgKERhdGEgQXVkaXRvcikiLCJjb21wYW55X25hbWUiOiJSaWZhIEFpIiwiaHRpZG9jaWQiOiJJVWd5UVMtMk5jamlTY0JSQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJa1NXNWtiM0psSUVScGRtbHphVzl1TEUxaFpHaDVZU0JRY21Ga1pYTm9MRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzAwMmVHNUhXbWQxZWpGRlUzRnZSVlZKTUZwQlpFdzFUV2xMZFdOTlNFb3dUVEpGYTJOV2JpMUhRa2RxY0VNeVYyYzBWVEkyUlRGSVVESkxiMHR6VjFoR2NEUlJZWFpJTUhZd1J6UnFUMFY2VDNOVU1IYzJWMDVPZG5OQmRUVktXbTVtY1dad1FYbG9OSGN4TUhacWVHVklTM0JJZFRoWmJ6WndhekZDZFZCblpYb3dSUzBTRjJvdFprbGhkR2szVERaRGJqVk9iMUF0ZGpZeWJWRm5HaUpCUkhOeU9XWlRWRXRDTldoRVNuSlBWRVUwVlhORVVHSnBZekU0T1VOWFlWbDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJJVWd5UVMtMk5jamlTY0JSQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst Intern at Eicher Motors",
+      "company_name": "Eicher Motors",
+      "location": "Pithampur, Madhya Pradesh",
+      "via": "MyInternships.in",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=XetBvvTvRPjB9-O5AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_1XNMQrCQBBAUWxzBKupg2RFsFEsBEUsArlBmGyG7MpmZ9kZIem8g5fwXJ5ELW1-9_jFa1EcTqgIx4hhFoVrVMoRUOHsraMMNStngffjCTfuQAizdcARLsxDoOXeqSbZGSMSqkEU1dvK8mg4UseT-SL5pRWHmVJApXazXU9VikNZ_k98hMarwzHd8wpq7N2M0GTsSdwHVagOD6sAAAA&shmds=v1_ARwrE22Bcsbknr4YxXkUTKAfdawHeqhwR3BQp56U0XFSdPa1KA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=XetBvvTvRPjB9-O5AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAlCAMAAAAgENppAAAAeFBMVEX_____AAB9fX14eHiAgID8_Pyfn590dHTAwMD_p6empqasrKyKior_ra2amprW1tb_0tL_t7f_5-eTk5Ozs7P_eXn_3d3_n5_Pz8_c3Nzq6urx8fH_l5f_Ghr_QkL_wMD_7-__Vlb_Ly__g4P_Zmb_i4v_cHBra2vKaaLyAAABdUlEQVRIie2R63KDIBCFFxZFFEWFRNGkufTi-79hF2Pa1Ew72l_tTM4Mw2X34ywLwEP_QHV50Upsx9i-zNVutyvLegX3xNiGpm2plGqq5eSGscNlVeaNavJoIXdkLL-ut5XK1dKHVuwmsyayWgg2DbluT8fJM1f5T9m3jufnF8ZYM21LtdSR3hh0_rjosBCE1wu55gMnnUbwbT0I-T6QS5vyRcea9BtwqdoiJqXgrPW0s8KayBYJuMJCEkJxBnFRFKmZgQlyRCkg5thCKjlHF0l0kKKEjGJSatB0ymVyBybGmAAaLwVmNgPkBHIC6TJvPIHCc67noNBWJyPoaAB0EQpyEAEUWlPsO5DKyUaQHDo6ugVRDg60EHR9NwfRdF0_glS29omLkMc-plKpAt9TjBwFj--aIzjnU3NohdKNb8xGUFDjQnNEizhvjkSSgAJlC72VKJNooNJTOUAWYgQSDojDrNZoVJjCru-i8eg6PmNTwkN_TO_EEhJu03R3bAAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "₹30K a month",
+        "Internship"
+      ],
+      "source_link": "https://myinternships.in/internships/eicher-motors-data-analyst-intern-pithampur-xzky1",
+      "job_title": "Data Analyst Intern at Eicher Motors",
+      "description": "Eicher Motors is hiring a Data Analyst Intern in Pithampur. Eicher Motors is a OEM (commercial vehicles) and one of the most recognised names in the Indian automotive industry, and this internship places you inside a team that designs, builds and ships vehicles used by millions of people every day.\n\nAs a Data Analyst Intern at Eicher Motors Pithampur, you will work alongside experienced engineers and managers on live programmes rather than sample projects. You will spend time on the shop floor and in design reviews, learn how a product moves from concept to a road-ready vehicle, and take genuine ownership of a scoped piece of work.\n\nWhat you will do:\n• Support day-to-day data analyst work on active Eicher Motors programmes in Pithampur.\n• Apply SQL, Advanced Excel, Power BI, Python to real problems, with review and mentorship from senior engineers.\n• Collect and analyse data, document your findings and present them to the team.\n• Work cross-functionally with design, manufacturing, quality and supply-chain colleagues.\n• Follow safety, quality and compliance standards expected in automotive manufacturing.\n\nWho should apply:\n• Students and recent graduates in engineering or a related discipline.\n• Working knowledge of SQL, Advanced Excel, Power BI — depth matters more than breadth.\n• Curiosity about how vehicles are engineered and a willingness to learn on the floor.\n• Strong communication and the discipline to document work clearly.\n\nWhat you get: a monthly stipend of ₹30,000, a 12-month structured programme, mentorship from automotive professionals, and experience at Eicher Motors that carries real weight on an engineering CV.\n\nIf you want to build a career in the automobile industry in Pithampur, apply now — we would like to meet you. Responsibilities: Support data analyst work on live Eicher Motors programmes in Pithampur; Apply SQL, Advanced Excel, Power BI to real engineering problems; Analyse data, document findings and present them to the team; Collaborate with design, manufacturing, quality and supply-chain teams. Requirements: Working knowledge of SQL, Advanced Excel, Power BI, Python; Open to students and recent graduates; Interest in the automobile / mobility industry; Strong problem-solving, documentation and communication skills.",
+      "apply_options": [
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/eicher-motors-data-analyst-intern-pithampur-xzky1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSW50ZXJuIGF0IEVpY2hlciBNb3RvcnMiLCJjb21wYW55X25hbWUiOiJFaWNoZXIgTW90b3JzIiwiaHRpZG9jaWQiOiJYZXRCdnZUdlJQakI5LU81QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJa1NXNWtiM0psSUVScGRtbHphVzl1TEUxaFpHaDVZU0JRY21Ga1pYTm9MRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1VSS1kyaEtiemx0VkRWUmRETmljekY0UmpSaU16UmliRmRDVDFKQkxXTTNUVlkyYjFJM1lVcFNhWEZzTjNoSE9FeFJVVWhmU0Vkb09Fd3RXa1pmV2pSb1dHdzJNMFpZTVhOc2VFdFdVSEF3WlVaMmFrdEVibk5VWVZSU1pVTldUbkpwWWxWVU5IRjJkWE0zV1hjM1pVUlZkV3hrY21nM1dtRkVhRFY1VUcwMmVrUXRVRGdTRjJvdFprbGhkR2szVERaRGJqVk9iMUF0ZGpZeWJWRm5HaUpCUkhOeU9XWlRVSFJaVVUxT0xYazNSR05DYkhGSVIyd3lXUzFSYkZOT016aFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJYZXRCdnZUdlJQakI5LU81QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "environmental data analyst",
+      "company_name": "Destiny Careers Solutions",
+      "location": "Indore, Madhya Pradesh",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=Ay6sqf4KWnb__X6aAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKupRbKi2GipIBaC4AHCJDtkVzYzYWeUpPMOHsJ7eRJj85vHLz6zYkP8jFm4IzZM4NEQkDGNavB9veEuNShhbgIIw0mkTTTfB7Ned86pprJVQ4tN2UjnhKmWwU2T_lNpwEx9QqNqvV0NZc_tYnMktcgjHCajrHCT9LAorBAZzuwl0xIu6MOIcM3oScMPqZB1xqoAAAA&shmds=v1_ARwrE21JIo8QGErQtt_QO1Mu7TgHjdcrzjE7FlCf0zQnEKIf3A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=Ay6sqf4KWnb__X6aAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e78fa26f5669d884ada1/images/6R5m1GGPzhTGPsPz6RkQt-6I03LsYff-28FLJhXmXas.jpeg",
+      "extensions": [
+        "9 days ago",
+        "₹50K–₹60K a month",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/environmental-data-analyst-destiny-careers-solutions-indore--t7xk-859942816",
+      "job_title": "environmental data analyst",
+      "description": "Responsibilities\nCollaborate with cross-functional teams on sustainability initiativesAnalyze environmental data using PM10 & PM2.5 methodsPrepare regular reports on air quality trends\nPerks and benefits\nAnnual bonus, Provident fund, Health insurance",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/environmental-data-analyst-destiny-careers-solutions-indore--t7xk-859942816?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/341688793/environmental-data-analyst-indore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJlbnZpcm9ubWVudGFsIGRhdGEgYW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkRlc3RpbnkgQ2FyZWVycyBTb2x1dGlvbnMiLCJodGlkb2NpZCI6IkF5NnNxZjRLV25iX19YNmFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbGRoVXpKeFJVeHRWM3BMTkRSaldHaFlRWGhEV2tkYVJtSmZiWEZNUldoM01qVjRSRUkzUVhKMU1GWjJkblprV0dWdVJYQTJRamh3VFZWNVdVWkhjRkJrYUZKaVNrRmhXVEJyYTJWcWVWUllkazlDYzFVMVZrWm9VazFJWHpkNExYWk5NVzVOYWtKNWRGWkZiRWxFYkhaUFUxaFVObFExUkZCR05tOXJVakUwZFUxdWVHc1NGMm90WmtsaGRHazNURFpEYmpWT2IxQXRkall5YlZGbkdpSkJSSE55T1daVVIyMXdPRGhuU0ZVdFNWcFRSelkwU20xeWFqRnlRbTVmYWkxMyIsImZjdiI6IjMiLCJmY19pZCI6IkF5NnNxZjRLV25iX19YNmFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst – AV Support Data Infrastructure & Analytics (Indore)",
+      "company_name": "Pegasus Knowledge Solutions",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Kit Job",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=Gbp4eBGKtC-7APJmAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yXNMYoCQRAFUEw9glFFsisyI4LJGgmCiAiCYCZSzpTdI21V01WNmnkHj-YNPImuJj_5__Hbj1Z7O0VDmDCGqxo8b3eYbGCdY5Rk8OnmfEiolnJlORF0v2NrKoWfOdeS6PfjjrIHJUyVB2GYibhAnbE3i_pXlqqhcGr4dkUlp1KY9nIp30j_Y6ceE8WARrvhaHApIrveaEUONSssWM6BakewlpCtEVZoGL7vfVhi7a8Iq4Q1qX8Bb1MLy9YAAAA&shmds=v1_ARwrE21g2Hyo49mj0hXmXd06xj65zKX3VF3r4Q61rJS5bP3IuA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=Gbp4eBGKtC-7APJmAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e78fa26f5669d884ada1/images/qJrV5yAaMiD-7m_XIPtzrDuiIIZ0EoKtQSZEmD8WlUE.jpeg",
+      "extensions": [
+        "17 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.kitjob.in/job/336957370/data-analyst-av-support-data-infrastructure-analytics-indore",
+      "job_title": "Data Analyst – AV Support Data Infrastructure & Analytics (Indore)",
+      "description": "Data Analyst - Autonomous Vehicle (AV) Operations & Infrastructure \n\nRole:  Data Analyst – AV Support Data Infrastructure & Analytics \n\nExperience:  4–6 Years \n\nLocation:  Remote / Flexible \n\nIndustry:  Global Tech & Mobility Leader \n\nAbout the Team & Opportunity \n\nOur team owns the end-to-end data foundation driving autonomous vehicle (AV) support operations for one of the world's leading mobility platforms. Every operational metric, real-time rider contact, automated data-quality check, and pre-launch feature instrumentation flows through the systems we architect. \n\nWe sit directly at the intersection of AV Program Teams , Operational Analytics , and Core Data Engineering  to turn complex operational data into actionable, trustworthy insights. \n\nWhat You’ll Do \n\n- Redefine the Core Data Layer:  Transform organically grown data environments into a deliberate, clean \"gold layer.\" Consolidate overlapping tables, optimize upstream join logic, and establish unified canonical datasets. \n- Deliver Business Analytics & Insights:  Partner with AV program leadership to scope ambiguous business challenges, define metrics, build dashboards, and answer high-impact operational questions. \n- Guide Instrumentation for New AV Products:  Review Product Requirement Documents (PRDs) across launch lifecycles to ensure proper event logging and telemetry are live before new features ship. \n- Maintain & Govern Data Infrastructure:  Monitor daily pipelines for freshness, accuracy, and volume. Build governance frameworks around SLAs, change-management workflows, and automated incident alerting. \n- Scale Real-Time Analytics:  Expand streaming feeds (Kafka/Flink/Pinot) to lower latency and power real-time operational notifications as incidents develop. \n\nWhat You’ll Need \n\n- 4–6 years  in Data Analytics, Business Analytics, or Data Engineering with a focus on dataset and pipeline ownership (not just query consumption). \n- Advanced SQL & Distributed Computing:  Hands-on experience building production transformations in Spark SQL  and Hive , authoring canonical patterns that other engineers build on. \n- Customer Support Data Expertise:  Hands-on familiarity with support operations metrics (contacts, tickets, handle time, CSAT) and the nuances of handling messy, multi-grained data. \n- Strong Stakeholder Communication:  Proven ability to scope vague business requests, push back when framing is off, and present transparent takeaways to non-technical partners. \n- AI Tool Integration:  Practical experience using AI/agentic coding platforms to accelerate pipeline, analysis, and dashboard development with high validation rigor. \n\nPreferred Qualifications \n\n- AV / Autonomous Systems Interest:  Understanding of or genuine curiosity about how autonomous trip operations and support models work. \n- Semantic & Metric Layers:  Experience with dbt, LookML, or proprietary metric management systems. \n- Streaming & Real-Time Analytics:  Familiarity with Kafka, Flink, Pinot, or real-time event processing. \n- Orchestration & Observability:  Hands-on experience with Airflow and data observability tools. \n- Dashboarding & Apps:  Proficiency with Tableau, Streamlit, Retool, or custom internal tool suites. \n\nAnam Chaudhry",
+      "apply_options": [
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/336957370/data-analyst-av-support-data-infrastructure-analytics-indore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3Qg4oCTIEFWIFN1cHBvcnQgRGF0YSBJbmZyYXN0cnVjdHVyZSBcdTAwMjYgQW5hbHl0aWNzIChJbmRvcmUpIiwiY29tcGFueV9uYW1lIjoiUGVnYXN1cyBLbm93bGVkZ2UgU29sdXRpb25zIiwiaHRpZG9jaWQiOiJHYnA0ZUJHS3RDLTdBUEptQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJa1NXNWtiM0psSUVScGRtbHphVzl1TEUxaFpHaDVZU0JRY21Ga1pYTm9MRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU3pKd05FWmhUa3hNZG5wYWNscE9hWEpuY2s1ck5YUlBTVVJxVVdWa1UyMXJTWE5sVkdSV1UxWXhMV2w0UzNSUVUyUkJlV1l6VXkxZmNIVkpTR3BIYUVwRE9HdFJTV3h0WVRWTVJETTNWV3BIY1RFNGIwOUZYM0ZUZVY5WFkxbERPQzFCUmt0bWJFaDVZbmhQTkc0MlFVWnpWVkZFWlRGRlVXUnhjVm8xZFdJMlNtRkViMllTRjJvdFprbGhkR2szVERaRGJqVk9iMUF0ZGpZeWJWRm5HaUpCUkhOeU9XWlNObWx6Vm5ZeVdXbHVTVGxTZFVGUFF6VjJPVEoyUm1VemNtOW4iLCJmY3YiOiIzIiwiZmNfaWQiOiJHYnA0ZUJHS3RDLTdBUEptQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Quantitative Data Analyst (Financial Markets)",
+      "company_name": "Indo Thai",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=e2JrmYkE_Mdb3jH4AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBBFsc0RrAZsVCQrgo1WgkQsBAX7MEmG7Oo6G3ZGSTrv4C08licxaT684r2ffEdJdnkiq1NU9yLYoyLsGH0nCtPMMXLp0MMJ451UZvB7f-AWChDCWFoIDIcQak_jrVVtZGOMiE9rGXplWoaHCUxFaE0vyTC5WIzUeFTKV-tlmzZczydHrgJcLTpwDANEWvSnle0QzhErEvsHncuDv60AAAA&shmds=v1_ARwrE215esuulKEVhD-ZD732ZABTIBO83cpDaXWSXj_6lZLguw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=e2JrmYkE_Mdb3jH4AAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/quantitative-data-analyst-financial-markets/indo-thai/19470096",
+      "job_title": "Quantitative Data Analyst (Financial Markets)",
+      "description": "Role Overview\n\n\nWe are looking for a Data Analyst with a strong quantitative background to extract actionable insights from raw stock market data. In this role, you wont just be building dashboards; you will be digging into massive datasetsranging from tick-by-tick price data to fundamental corporate metricsusing statistics, inference, and machine learning.\n\n\nThe ideal candidate bridges the gap between data science and financial markets, possessing the coding rigor to clean messy financial data and the analytical mindset to discover market anomalies, alpha signals, or risk factors.\n\n\nKey Responsibilities\n\n\nData Exploration & Engineering: Ingest, clean, and preprocess massive volumes of structured and unstructured financial data (e.g., price-volume series, order book data, corporate filings, macroeconomic indicators).\nStatistical Modeling & Inference: Apply rigorous statistical methods (time-series analysis, regression models, hypothesis testing) to validate market hypotheses and identify historical anomalies.\nPredictive Modeling: Design and prototype machine learning models to forecast market trends, price movements, or fundamental metrics.\nFeature Engineering: Extract and engineer high-quality features from raw price actions and financial statements to feed into quantitative strategies.\nTesting & Validation: Collaborate with stakeholders to test analytical insights and predictive models against historical data, ensuring robustness against overfitting.\nInsight Delivery: Standardize data pipelines and translate complex quantitative findings into clear, data-driven recommendations for the broader team.\nRequired Skills & Qualifications\n\n\nPython: Proficiency in Python is mandatory. Working knowledge of the core data science stack: pandas/polars, numpy, scipy, and scikit-learn required.\nDatabase & SQL: Working knowledge of querying large relational databases and dealing with time-series databases (e.g., SQL, PostgreSQL, etc.).\nQuantitative Foundation: Solid grasp of probability, statistical inference, linear algebra, and time-series econometrics.\nVersion Control: Clean Git hygiene and familiarity with collaborative workflows.\nCompensation & Other Details\n\n\nStipend: 10,000  15,000 per month.\nWork Mode: In-Office\nDuration: 4 months.\nPPO Opportunity based on Performance\nAdditional Perks: Free meals .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/quantitative-data-analyst-financial-markets/indo-thai/19470096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJRdWFudGl0YXRpdmUgRGF0YSBBbmFseXN0IChGaW5hbmNpYWwgTWFya2V0cykiLCJjb21wYW55X25hbWUiOiJJbmRvIFRoYWkiLCJodGlkb2NpZCI6ImUySnJtWWtFX01kYjNqSDRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTV2hFYWpoV1VHRlNPREpFY1RsUWJsQndjblp1V1VjelkzaERUVGt5WW5jd1N6TlNTVmxZVTNSS1ZrRnBTWEJSV0RoblVHTjJkRzVrYzFOM1RVaERhVTlRUlRWWGFIcENjalI2VkZocmFHcFFlbWN5TURoUVdVMXBhV3R3Vm5sMFVWVnpaRTlYVG5oR01FUlBkMTlrWkdKU1JUZENXRGRxYjJWcmVYWTJOa2d0U2pSWFV6UVNGMm90WmtsaGRHazNURFpEYmpWT2IxQXRkall5YlZGbkdpSkJSSE55T1daVGJHSTBlRzlZVEdrMGQzaFRRMFZxWWw5d1NVbEZNM2xQZERKQiIsImZjdiI6IjMiLCJmY19pZCI6ImUySnJtWWtFX01kYjNqSDRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data & Insights Analyst",
+      "company_name": "Ecomm-Inroads",
+      "location": "Indore, Madhya Pradesh",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=OkLijKkU25y_E2U_AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TrLZSEM0FwUYrQZEUgj8Im9xyF7ncHrdbJJ1_sPF9vsTYTDXDFJ9FUV1QEVZQR-mdV4FzxDCJwvf1hie3IIS588ARbswu0PLkVZMcjREJpRNF7buy48FwpJZHM0fyRyMeM6WASs3-UI1lim6zvs7msKtjZrQCfZzHljNt4Y7WTwiPjJbE_wBybNkumwAAAA&shmds=v1_ARwrE23Rwf7MAiEEPtfADVYxs7hlHboAOEQneix7vexGMYNB1g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=OkLijKkU25y_E2U_AAAAAA%3D%3D",
+      "extensions": [
+        "1 month ago",
+        "Internship"
+      ],
+      "source_link": "https://bebee.com/in/jobs/data-insights-analyst-ecomm-inroads-indore--jobmesh-d5971d0b-95f5-402c-87fe-21bf20c19629",
+      "job_title": "Data & Insights Analyst",
+      "description": "Why Join Us\nWe're a small but mighty Amazon & TikTok growth agency with real momentum, and we're still small enough that every person on the team genuinely matters. No layers, no bureaucracy. Just a tight group of smart, fun people doing great work together.\n\n\nWork directly with the founders. You'll work alongside the people who built this business from the ground up.A ringside seat to everything. You'll play a pivotal role in preparing for client conversations, the beating heart of this business, and get visibility into every corner of how we operate.Interesting & varied set of clients, across a diverse range of product categories with different contexts & challenges. No day will be same.Real ownership from day one. We're at that exciting stage where there's momentum and staying power, but still tons of room to build, create, and make your mark.If solving problems with a group of smart & fun individuals is what gets you out of bed every day, you will love it here.\nAbout the Role\nDo you get genuinely excited when you open a spreadsheet? Do you love playing data detective — digging into the numbers, spotting patterns, and figuring out the story hiding underneath? If so, we'd love to meet you.\n\n\nWe're looking for a Data & Insights Analyst who will be the analytical heartbeat of our client work. You'll turn raw data from platforms like Amazon and TikTok into crisp, compelling slides that walk into client meetings and do the talking. This isn't a behind-the-scenes number-crunching role, you'll be a key part of how we show up for our clients every week.\n\n\nThe bulk of your work will be building presentation-ready slides and reports. If that sounds like your happy place, keep reading.\n\n\nWhat You'll Do\nDig Into the Data\nPull, consolidate, and organize data from Amazon, TikTok, and other sources into clean, usable formatsPlay data detective, explore what's working, what's not, and most importantly, whyRespond to ad hoc data questions quickly and confidentlyBuild Slides That Wow\nCreate polished, client-ready status and performance slides every week — slides that go straight to the meeting with zero touch-ups neededChoose the right chart for every story (bar, line, pie, scatter — you know when to use which and why)Highlight the 'so what' in every visual so the insight lands immediatelyTake complex data and turn it into clear, beautiful, persuasive PowerPoint presentationsWork toward standardization and repeatable processesPower Up Client Meetings\nPrepare crisp briefing materials and data summaries before every client meetingThink ahead, anticipate questions & have the supporting data ready to goFollow up post-meeting with any additional analysis or updated numbersOwn the Data Platforms\nNavigate the Amazon and TikTok data shops with confidence to answer questions and pull reportsKeep data files clean, organized, and ready for fast turnaroundOversee & improve our dashboardsWho You Are:\nYou're a Great Fit If You...\n\n\nLight up when you open datasets, it's genuinely fun for you, not a choreAre an Excel wizard: VLOOKUPs, INDEX/MATCH, pivot tables, pivot charts, joining datasets — all second natureLove playing detective in data: you form hypotheses, chase down anomalies, and always want to know the 'why'Know how to tell a story with slides: you pick the right chart, highlight what matters, and produce decks that are ready to present as-isAre smart about using AI tools like ChatGPT or Claude to work faster, but you don't need them as a crutch, you can spot when the AI is wrong and get to the right answer on your ownStay calm and resourceful when tools go down. You find a way throughBonus Points For...\nExperience with Power BI, Tableau, or other BI tools — though if you're strong in Excel, you'll pick these up quickly!Familiarity with Amazon Seller Central, Amazon DSP, TikTok Ads, or similar platformsA background in a client-facing analytics, or marketing agency setting2+ years in a data analysis, reporting, or business intelligence roleWhere You'll Work:\nThis is a fully remote role. Work from wherever you do your best thinking!\n\n\nWherever you're based, you'll need significant overlap with US business hours (ET/CT/PT) — enough to be responsive, join calls, and keep things moving together as a team.\n\n\nWhat Great Looks Like\nWithin your first 90 days, you'll be hitting your stride when you...Deliver weekly status slides that head straight to the client. No edits, no questionsKnow your way around Amazon and TikTok data like it's home turfHave built slick, reusable Excel models that make recurring reporting a breezeAre already flagging interesting trends and data stories before anyone asksHave become the go-to person the team leans on every time a client meeting is on the calendar",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-insights-analyst-ecomm-inroads-indore--jobmesh-d5971d0b-95f5-402c-87fe-21bf20c19629?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFx1MDAyNiBJbnNpZ2h0cyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRWNvbW0tSW5yb2FkcyIsImh0aWRvY2lkIjoiT2tMaWpLa1UyNXlfRTJVX0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzQnVhREF3U0c1SU1GWmFjMk5NVGpCMlRDMWFXVmhMYmxsV1NUQkhVbVJ3VkZCMlUyZGhZbE0yVVRKWFMydEpaSEJIVDJOcmVsSjBTbTlFYkZneFptNWZka2QxYW1KdFYwZGljV1ZxVERsdWRUVlFSWE5pU1RkemRFUXdiME10WlRoMFJtSlJXRU5HV1ZJd2RHMUlkMmxEY1ZJNVUxbFhPVkZYVDJ4QmMzaE1ORzlzTjFBU0Yyb3Raa2xoZEdrM1REWkRialZPYjFBdGRqWXliVkZuR2lKQlJITnlPV1pUVUZKelQxQXdhMGMyVVdkRFNEUndSV2d5Tm01d1ZUVm5MV3RuIiwiZmN2IjoiMyIsImZjX2lkIjoiT2tMaWpLa1UyNXlfRTJVX0FBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Data Analytics Program Manager (Remote)",
+      "company_name": "Bitcot Technologies",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Cutshort",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=74fHv3amFhSNVh5VAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBAAsc0TrLZU0UQEG60UQSwEUfuwXpa7k8tuuN1CO__gW_yQLzE2080wxWdQ7C_EUTLs0BA2jOlp0SmcsviMLRyR0VOG0ZlaMRrD9_WGu9xACbMLIAx7EZ9ouA5mna6qSjWVXg37TumkrYTpJo-ql_SPWgNm6hIa1Yvl_FF27CezbTQnBldygSWJj6QQGQ7cSKZpv9GEJ_ZX2JCGH4lOHES4AAAA&shmds=v1_ARwrE203cMUupLe61uZ4atVY0SKPRLfexp4Pl6oDovB4GVxm-w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=74fHv3amFhSNVh5VAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAG1BMVEXm5ub____l5eXp6ens7Oz7-_v19fXx8fH4-Pin8JYcAAABK0lEQVRIie2U227EIAxEwTY2___F9QVCqu16SdWHPjBSJCxxGDxYKeXo6F8J4JcYcXmOKtZqrfKQDKyJfvgADayj9si18m6rN0wL1DXtkAuDKIG03MTYMa5YKhdfce45MLNBbc7AKJE-Y-JYr3WCnk5mGBhYU4FdoLkmwuHm7z63yyiyOUB3k0l1svuNZvMB0o0T6zIGHGJkU9CnxNQEwwwK2NIWmBgG1uwNPVhpmqa7Y56qxxEGerkWz3A1nIEWh1vN11hgPjnLaoF9A7xZRbDkhxWS3jIQllXjGWaJltNUYRnFZiTFWQgLpKmCGgWjM8Td_Wmc1no6AN4P3_vEnVThnucL2BPwBTNwHpY6yhCZ0HSlmoSDa_vPenDR73r3i4RPenvXo6OjP9EXyg0HVQ-pUoAAAAAASUVORK5CYII.png",
+      "extensions": [
+        "₹15L–₹25L a year",
+        "Full–time"
+      ],
+      "source_link": "https://cutshort.io/job/Senior-Data-Analytics-Program-Manager-Indore-Chennai-Bitcot-Technologies-BNaeayP2",
+      "job_title": "Senior Data Analytics Program Manager (Remote)",
+      "description": "Role Summary\n\nProvide hands-on leadership across data and analytics initiatives, helping drive execution, coordination, and delivery in a fast-moving, evolving environment.\n\n\n\n\nKey Responsibilities\n\n• Partner closely with Data & Analytics leadership to translate priorities into executable plans.\n\n• Drive delivery across cross-functional teams (data engineering, analytics, platform).\n\n• Manage dependencies, risks, and timelines in a complex enterprise setting.\n\n• Act as a trusted execution lead during periods of rapid change.\n\n\n\n\nKey Skills\n\n• Strong experience in data and analytics programs in large enterprises.\n\n• Comfortable operating with ambiguity and evolving strategy.\n\n• Excellent stakeholder communication and coordination skills.\n\n• Prior healthcare or regulated-industry experience preferred.",
+      "apply_options": [
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Senior-Data-Analytics-Program-Manager-Indore-Chennai-Bitcot-Technologies-BNaeayP2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXRpY3MgUHJvZ3JhbSBNYW5hZ2VyIChSZW1vdGUpIiwiY29tcGFueV9uYW1lIjoiQml0Y290IFRlY2hub2xvZ2llcyIsImh0aWRvY2lkIjoiNzRmSHYzYW1GaFNOVmg1VkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNqTmlWVWhRVHpaMWMwTjFibloyTW5VdGJFZGFXbko2Vm5saGMxZEVjM0JuU3pCNWVVaHFSall5VmxaQmNrdFlWM0pDYVhCa05FOTBRMjlvWjNselJqTTVXRTlpZFdaQ1NtdE5RMnMzZW1kTVozbEVOV1F6WXpGcGJsWmtZbTFpTWtjeVZWbEdiR05RYm1oV05VZFpVWEIzWTFVME0wTlhZVkl0WldKaVh6aDJNMGhQTFV3U0Yyb3Raa2xoZEdrM1REWkRialZPYjFBdGRqWXliVkZuR2lKQlJITnlPV1pUWDFSNlgwWTVOV2xSUkd4RE5YaDFTMnRZVVd4VVYwSjJiVkpSIiwiZmN2IjoiMyIsImZjX2lkIjoiNzRmSHYzYW1GaFNOVmg1VkFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTbTFDZWtJM2FEWXpZMDlDVjAxZlZqUmZlbDlGUnpsZlkxWkZXVVl5WW1wRmRHbExOVTFRTW5GdFNFWm5RM1JLYmt0Q1FrdGFialp5UzNaR2MzSTRUM2hTZFRKVlVWbEhibE51VDFOcGFsQjJhVVJETm5WeWJWWkZkMjVQT0hnME0xcGhSRnBMWmtGUmRHbFJTMm8wYnpKYWFHcDNSSGRYYVV0eE5rNDJRaTFRYmkxc1ZEZDBiMWcwU25ORFQyeHJURXQxZUdrNVQxQkxTRXA0VjFKNFFtaFZNVUk1VEhOUVMzQkdjRFZ5UzNwMVlreHBXa1pEWldkNlR6RnRkemhYVWpOTmJGcHdjRWhTV1dwc2NETkVjV3N6ZFV0dlNXazNVMWh6WjNKTVdtWnNSMlI0YkZGSk5WbGhhak5LVW05dlZYQkRXa2hYT1d0WFJIWjZZamw0VWpGeWJ5MDNUREptUTNCbVJFVjRlbTFhVDBKdk9IaDFSelo0YVV4eFluQTNaR1pzWjA5NE1WWXlZMFYwUjNKSlRrTkJkVVp6Y2pSM05VOVhRVmxtU1dOWlJXRm1VVUY2YmtJNVJWazVZbEZxT0docU1Ya3hMV055UW1obFZGRk5kVVZ0Y3pGSlpXSjBkMUF4UjJoUFEwcE9OelJCZEhBNE5FRktVak5CV0ZkeFJVbE1Va2x2Tm0xYVJFdHBTazVGWTBsTmF6Rm1UbmgyVkhkNVdHVkxlbEYzUkZGNWJESlVZMGhZZHpNdGFWRkRWR05rWkVkQ2RXMUtWRkEyVVhsS1JqZDROemhvVEJJWGFpMW1TV0YwYVRkTU5rTnVOVTV2VUMxMk5qSnRVV2NhSWtGRWMzSTVabEY2YW1GTGVpMWFkRzVpUVU1c2JrSnNZMWRQY2xFMVkyVlFabmMiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&next_page_token=eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTbTFDZWtJM2FEWXpZMDlDVjAxZlZqUmZlbDlGUnpsZlkxWkZXVVl5WW1wRmRHbExOVTFRTW5GdFNFWm5RM1JLYmt0Q1FrdGFialp5UzNaR2MzSTRUM2hTZFRKVlVWbEhibE51VDFOcGFsQjJhVVJETm5WeWJWWkZkMjVQT0hnME0xcGhSRnBMWmtGUmRHbFJTMm8wYnpKYWFHcDNSSGRYYVV0eE5rNDJRaTFRYmkxc1ZEZDBiMWcwU25ORFQyeHJURXQxZUdrNVQxQkxTRXA0VjFKNFFtaFZNVUk1VEhOUVMzQkdjRFZ5UzNwMVlreHBXa1pEWldkNlR6RnRkemhYVWpOTmJGcHdjRWhTV1dwc2NETkVjV3N6ZFV0dlNXazNVMWh6WjNKTVdtWnNSMlI0YkZGSk5WbGhhak5LVW05dlZYQkRXa2hYT1d0WFJIWjZZamw0VWpGeWJ5MDNUREptUTNCbVJFVjRlbTFhVDBKdk9IaDFSelo0YVV4eFluQTNaR1pzWjA5NE1WWXlZMFYwUjNKSlRrTkJkVVp6Y2pSM05VOVhRVmxtU1dOWlJXRm1VVUY2YmtJNVJWazVZbEZxT0docU1Ya3hMV055UW1obFZGRk5kVVZ0Y3pGSlpXSjBkMUF4UjJoUFEwcE9OelJCZEhBNE5FRktVak5CV0ZkeFJVbE1Va2x2Tm0xYVJFdHBTazVGWTBsTmF6Rm1UbmgyVkhkNVdHVkxlbEYzUkZGNWJESlVZMGhZZHpNdGFWRkRWR05rWkVkQ2RXMUtWRkEyVVhsS1JqZDROemhvVEJJWGFpMW1TV0YwYVRkTU5rTnVOVTV2VUMxMk5qSnRVV2NhSWtGRWMzSTVabEY2YW1GTGVpMWFkRzVpUVU1c2JrSnNZMWRQY2xFMVkyVlFabmMiLCJmY3YiOiIzIn0%3D&q=Data+Analyst"
+  },
+  "_retrieved_at": "2026-10-09 13:09:35 UTC"
+}

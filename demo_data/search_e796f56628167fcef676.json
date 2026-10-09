@@ -1,0 +1,285 @@
+{
+  "search_metadata": {
+    "id": "6ac8e78c50849c4ada8bd610",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/XicOUP52TfhwrPPZFNAgciN9gWDBk7QLpZuRMUI-_vE/6ac8e78c50849c4ada8bd610.json",
+    "markdown_endpoint": "https://serpapi.com/searches/XicOUP52TfhwrPPZFNAgciN9gWDBk7QLpZuRMUI-_vE/6ac8e78c50849c4ada8bd610.md",
+    "created_at": "2026-10-09 13:09:32 UTC",
+    "processed_at": "2026-10-09 13:09:32 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIWSmFpcHVyLFJhamFzdGhhbixJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/XicOUP52TfhwrPPZFNAgciN9gWDBk7QLpZuRMUI-_vE/6ac8e78c50849c4ada8bd610.html",
+    "prettify_html_file": "https://serpapi.com/searches/XicOUP52TfhwrPPZFNAgciN9gWDBk7QLpZuRMUI-_vE/6ac8e78c50849c4ada8bd610.prettify",
+    "total_time_taken": 0.42
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Jaipur, India",
+    "location_used": "Jaipur,Rajasthan,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTWGRYWW1VdGMwVllObGd6YzJsNlR6QkhNVFpUU0ZkNGVHWjJZbU51VVdKaWRtSkpObTVZYjI1UGFVeEtaMFZ6Wm01MFZYTmZlbUY1V1dSWU5UaHRXRWhsVWtac05VWktjMmh0UjBnMkxYTkJPSFphUVhOeVMwMUxhbEl4TWw5SlFUQjBXbTE1WWpOdVNtdzVORTh0UkdaQlRHOVRlbk5IUzNCc1gyNTRXbTQ0TjBkR1l6TjFhRTV1ZEROR2VtWXRkRTlIWkRabFMyZEVNVEV4Tm1ObWFscFJNSEZaZEcxNlRVZHFValJzVDBKS1drVklSV05yVVc5NlRXTk9NRTkwZGtka2FHaFVTV0ZUUkZvdGFGVm1VelpYYTJaTFVtbFNiRVYyTlRKaFZ6QlZja050UTNKSGQzUjVTR3RHZEhOTFoybE1WelJYWjFoemNYRnVTRW95TkV0UGEwUlBZVkowUW1oeUxWbEtMV0ZQY0VaeVNXbzVjblEzWVZCd2NubHlYM2hsU1VSdlZqSmxiRFZCYVdKNWNuVTJUREZDTVRCdFJuRlpWMlV0UWxwZmFUaHVkMUJqU2tab1FuUjJkR0ZyYkhabmFVVmxXR1pCWjJadWFUTlpOV0pCUTJWeFQzSlZkRVJpUVU0MFdsQXpORmhLYW5adGRqZEtSMUJEWjNOZlgyVXpjM05HWDJSSlR6ZFZhRmRCYkhCVVMyNXBabEE1WmpSb2VVSk5RMWxyU0RWbVIwNWxaRVJyTFROWFlUSm1SbVphZFdSM1pVdGpZMjlVVjFkUWNUbGlUVzVPY21SNE1FaG1VV2h6YzI1bFZsWkpjR1JTV0UxWGNGRVNGM1pqVkVsaGRVTlFReTFMV0hKMVJWQTNUbFJCYlZGakdpSkJSSE55T1daUmNHZG1lVTFEU2xwNFVXZGZPVGRHVEZkUFJ6ZGxOWGxxZDE5MyIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Data Scientist",
+      "company_name": "Celebal Technologies",
+      "location": "Jaipur, Rajasthan",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=WDzx5sTNRsnJLe09AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU63iSKNCC46KgiO6l6u4UhS0ruQO6GjvyD-oV-iLm97zWvWLE5oCDefiC2pwef5hkF6UMLqIwjDWSRkmh-iWdG9c6q5DWpoybdeRidMvUzul_RPpxErlYxG3Xa3mdrCYbU8UqYeM9zJR5YsIZFCYrhgKo-6hisOqBaRv4BmcQWUAAAA&shmds=v1_ARwrE21RLXSt-Ma2ff7sjTCxe5pSNY3dQbCRyAGTck3dQS-68A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=WDzx5sTNRsnJLe09AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e78c50849c4ada8bd610/images/eVEP-9jiy_sY6-B1bROc_-WTLxjN6P3l-w3SFpATH2s.jpeg",
+      "extensions": [
+        "16 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/data-scientist-at-celebal-technologies-4469418381",
+      "job_title": "Data Scientist",
+      "description": "Job Title: Data Scientist\n\nJob Location: Jaipur\n\nExperience: 3+ years\n\nJob Description:\n\nWe are seeking a highly skilled and innovative Data Scientist to join our dynamic and forward-thinking team. This role is ideal for someone who is passionate about advancing the fields of Classical Machine Learning, Conversational AI, and Deep Learning Systems, and thrives on translating complex mathematical challenges into actionable machine learning models. The successful candidate will focus on developing,designing, and maintaining cutting-edge AI-based systems, ensuring seamless and engaging user experiences. Additionally, the role involves active participation in a wide variety of Natural Language Processing (NLP) tasks, including refining and optimizing prompts to enhance the performance of Large Language Models (LLMs).\n\nKey Responsibilities:\n\n• Generative AI Solutions: Develop innovative Generative AI solutions using machine learning and AI technologies, including building and fine-tuning models such as GANs, VAEs, and Transformers.\n\n• Classical ML Models: Design and develop machine learning models (regression, decision trees, SVMs,random forests, gradient boosting, clustering, dimensionality reduction) to address complex business challenges.\n\n• Deep Learning Systems: Train, fine-tune, and deploy deep learning models such as CNNs, RNNs, LSTMs, GANs, and Transformers to solve AI problems and optimize performance.\n\n• NLP and LLM Optimization: Participate in Natural Language Processing activities, refining and optimizing prompts to improve outcomes for Large Language Models (LLMs), such as GPT, BERT, and T5.\n\n• Data Management & Feature Engineering: Work with large datasets, perform data preprocessing,\n\naugmentation, and feature engineering to prepare data for machine learning and deep learning models.\n\n• Model Evaluation & Monitoring: Fine-tune models through hyperparameter optimization (grid search, random search, Bayesian optimization) to improve performance metrics (accuracy, precision, recall, F1-score). Monitor model performance to address drift, overfitting, and bias.\n\n• Code Review & Design Optimization: Participate in code and design reviews, ensuring quality and\n\nscalability in system architecture and development. Work closely with other engineers to review algorithms,\n\nvalidate models, and improve overall system efficiency.\n\n• Collaboration & Research: Collaborate with cross-functional teams including data scientists, engineers, and product managers to integrate machine learning solutions into production. Stay up to date with the latest AI/ML trends and research, applying cutting-edge techniques to projects.\n\nQualifications:\n\n• Educational Background: Bachelor’s or Master’s degree in Computer Science, Mathematics, Statistics, Data Science, or any related field.\n\n• Experience in Machine Learning: Extensive experience in both classical machine learning techniques (e.g., regression, SVM, decision trees) and deep learning systems (e.g., neural networks, transformers). Experience with frameworks such as TensorFlow, PyTorch, or Keras.\n\n• Natural Language Processing Expertise: Proven experience in NLP, especially with Large Language Models (LLMs) like GPT, BERT, or T5. Experience in prompt engineering, fine-tuning, and optimizing model outcomes is a strong plus.\n\n• Programming Skills: Proficiency in Python and relevant libraries such as NumPy, Pandas, Scikit-learn, and natural language processing libraries (e.g., Hugging Face Transformers, NLTK, SpaCy).\n\n• Mathematical & Statistical Knowledge: Strong understanding of statistical modeling, probability theory, and mathematical optimization techniques used in machine learning.\n\n• Model Deployment & Automation: Experience with deploying machine learning models into production environments using platforms such as AWS SageMaker or Azure ML, GCP AI, or similar. Familiarity with MLOps practices is an advantage.\n\n• Code Review & System Design: Experience in code review, design optimization, and ensuring quality in large-scale AI/ML systems. Understanding of distributed computing and parallel processing is a plus.\n\nSoft Skills & Behavioural Qualifications:\n\n• Must be a good team player and self-motivated to achieve positive results\n\n• Must have excellent communication skills in English.\n\n• Exhibits strong presentation skills with attention to detail.\n\n• It’s essential to have a strong aptitude for learning new techniques.\n\n• Takes ownership for responsibilities\n\n• Demonstrates a high degree of reliability, integrity, and trustworthiness\n\n• Ability to manage time, displays appropriate sense of urgency and meet/exceed all deadlines\n\n• Ability to accurately process high volumes of work within established deadlines.\n\nInterested Candidate Can share cv or reference at [REDACTED EMAIL]",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-scientist-at-celebal-technologies-4469418381?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/_QNf6EhdToTx6wqDppUoJgxiZGAPHPY0YCFwVf9pkbK2O-xrbM5d1g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-3103756014878201010?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/celebal-data-scientist-jaipur-rajasthan-3-to-5-years-1627678?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-scientist-systems-limited-jaipur--jobted-25b77f0dd939b778f3a4a619ccbdec7d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/data-scientist-celebal-technologies-JV_KO0,14_KE15,35.htm?jl=1010224342069&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/data-scientist--jaipur--e4c929fef8670a8704be2368040e4f6b1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Zip Recruiter",
+          "link": "https://www.ziprecruiter.in/jobs/601306557-data-scientist-at-insight-global?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImNvbXBhbnlfbmFtZSI6IkNlbGViYWwgVGVjaG5vbG9naWVzIiwiaHRpZG9jaWQiOiJXRHp4NXNUTlJzbkpMZTA5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdsVVFuZDRhV050UmtSQlgxTlJUVmczV2pNM2JuaDZVa1JqV2pCWlVYRnJVMUoxVUdaVVNHMXBWVTl6WjFWVlNqbHJWMEV0YkdKWlYxQnVXV2h4TVc5MU5WcHFUV1UxY0hwUVNqUnZiRm8wWTNaVGNVMVdOelkzV1U5a1lta3hWRnBqVUhOTE4zYzFUREZaWDNKQlJsVlpNVWxVWkRkckxTMUZNak5TWmpFMU1VVjVVRElTRjJwUFprbGhkbUY2U2w4elpqVk9iMUJ2WkhaS01rRXdHaUpCUkhOeU9XWlRXRzFCYlZkUFVFZHhPVXhaTjBJNE4weEhiekU1V0c1U2JITkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJXRHp4NXNUTlJzbkpMZTA5QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Supply Chain Data Analyst",
+      "company_name": "L&T Technology Services",
+      "location": "Anywhere",
+      "via": "MyInternships.in",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=gcXwYLRBIZg0NRl7AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCMBSAYVx7BKc3OUhppOCikygI4mTdy2sISUrMC3mv0m7ewQN4N09iXf7t4y8-i6JuhpTCBEeHPsIJBeEQMUws8H29oacO2GDWDijCmcgGs9w7kcQ7pZhDZVlQvK40PRRF09GoZsT_tOwwmxRQTFtvN2OVol2X19Ud7ka7SIHsBI3JT68Nw7y_oE9DLuGGPbI4jD_zG61_ogAAAA&shmds=v1_ARwrE22LkixPqeRW_Iaf9aZr9SNq9KySstzPzN4qhhtIZMomUw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=gcXwYLRBIZg0NRl7AAAAAA%3D%3D",
+      "extensions": [
+        "₹57K a month",
+        "Work from home",
+        "Full–time"
+      ],
+      "source_link": "https://myinternships.in/jobs/l-and-t-technology-services-supply-chain-data-analyst-jaipur-827034",
+      "job_title": "Supply Chain Data Analyst",
+      "description": "Join L&T Technology Services in Jaipur as a Supply Chain Data Analyst. The role sits close to the business: you will define the metrics, build the reporting behind them, and be the person the team asks when a number looks wrong.\n\nAbout the role\nIn this Supply Chain Data Analyst position you will be trusted with real business questions. Day to day that means analysing demand, inventory and logistics data across the supply chain with Excel, SQL and ERP data, and holding a high bar on data quality, documentation and clarity of communication.\n\nKey responsibilities\n• Analyse demand patterns and build forecast inputs\n• Track inventory turns, fill rates, ageing and stock-outs\n• Measure logistics cost, transit time and vendor performance\n• Build supply chain dashboards for planning reviews\n• Identify and quantify cost-saving opportunities\n• Validate and reconcile numbers before they are published, and document known data caveats\n• Automate recurring reporting so the team spends its time on analysis rather than refreshes\n• Present findings to non-technical stakeholders in clear, plain language\n\nRequired skills and tools\n• Advanced Excel\n• SQL\n• Demand Forecasting\n• Inventory Analytics\n• ERP (SAP/Oracle) Data\n• Power BI\n• Logistics KPIs\n• Statistics\n• Cost Analysis\n• Data Visualization\n• Problem Solving\n• Communication\n\nEligibility criteria\n• Education: B.E./B.Tech (Mech/Industrial/Production)/BBA/MBA (Ops)/B.Sc or an equivalent degree. Candidates from any recognised university are welcome.\n• Graduation year: any, provided the experience requirement is met.\n• Minimum 60% / 6.0 CGPA in the highest qualification (indicative — strong practical skills can offset this).\n• Experience: 1–4 years in analytics, reporting, MIS or a closely related function.\n• Technical skills: Advanced Excel, SQL, Demand Forecasting, Inventory Analytics, ERP (SAP/Oracle) Data, Power BI.\n• Soft skills: structured thinking, attention to detail, stakeholder communication, ownership and the confidence to flag a number that looks wrong.\n\nSalary and compensation\n• Annual CTC: ₹4,30,000 – ₹9,40,000 per year (4.3 LPA – 9.4 LPA), an indicative market range for this role in Jaipur.\n• Monthly equivalent: approximately ₹57,000 per month at the mid-point of the range.\n• Currency: INR (₹).\n• Performance bonus / variable pay as per L&T Technology Services's policy, reviewed annually.\n• The exact offer is confirmed by L&T Technology Services based on your interview performance and current compensation.\n\nPerks and benefits\n• Team offsites and networking opportunities\n• Competitive salary as per market benchmarks\n• Annual performance bonus / variable pay\n• Health insurance for you and your dependants\n• Provident Fund and statutory benefits\n• Structured onboarding and mentorship\n• Learning & certification support (SQL, Power BI, Tableau, cloud)\n• Paid leaves and public holidays\n\nLocation, work mode and employment type\n• Location: Jaipur, Rajasthan\n• Work mode: Remote (Work From Home)\n• Employment type: Full-time, permanent\n• Working hours: Standard business hours, Monday to Friday (5-day week)\n• Number of openings: 2\n• Joining: immediate to 60 days, as per your notice period\n\nSelection process\n• Round 1 — Resume screening and profile shortlisting by the talent acquisition team\n• Round 2 — Hiring manager discussion — role expectations, ownership and team fit\n• Round 3 — Online assessment — SQL, Excel and quantitative aptitude\n• Round 4 — Technical interview 1 — SQL joins, aggregations, window functions and data modelling\n• Round 5 — HR discussion — compensation, notice period, joining date and offer roll-out\n\nWho should apply\nCandidates from B.E./B.Tech (Mech/Industrial/Production)/BBA/MBA (Ops)/B.Sc or an equivalent degree with 1 to 4 years of relevant experience who are based in Jaipur or willing to relocate. You should be comfortable with Advanced Excel, SQL, Demand Forecasting and able to explain your analysis to someone who has never seen the data. Portfolio projects, Kaggle work, a GitHub repo or published dashboards strengthen an application, especially for early-career candidates.\n\nWhy join L&T Technology Services\nAt L&T Technology Services the analytics function is treated as core, not a back-office service. You will have direct access to stakeholders, room to challenge assumptions and support to keep learning. Career growth is performance-linked and reviewed on a regular cycle, with internal mobility across analytics, product and business teams actively supported. You will leave every year of this role with forecasts and inventory analysis that cut real working capital.\n\nAbout this employer — Large enterprise / multinational\nL&T Technology Services is a large, well-established employer in Engineering Services with a substantial India footprint. Expect a structured internship: formal onboarding, a named mentor, documented processes, defined review checkpoints and the chance to see how analytics works at scale across several business units.\n\nHow to apply\nClick Apply Now. If you are not signed in you will be asked to log in or create a free MyInternships.in candidate account first, after which you will be taken directly to L&T Technology Services's official careers page to submit your application. Applications close on 28 September 2026 and are reviewed on a rolling basis, so apply early.\n\nAdditional information\n• Documents required at the interview stage: updated resume, degree certificates or provisional certificate, and government photo ID.\n• Experienced candidates should also carry recent payslips and a relieving or experience letter.\n• There is no service bond for this position, and no equipment deposit is taken.\n• A laptop and licensed analytics tooling are provided by L&T Technology Services for office and hybrid roles.\n• L&T Technology Services and MyInternships.in never charge a fee at any stage of the application, selection or onboarding process. If anyone asks you for money in the name of this job, do not pay — report it. Responsibilities: Analyse demand patterns and build forecast inputs; Track inventory turns, fill rates, ageing and stock-outs; Measure logistics cost, transit time and vendor performance; Build supply chain dashboards for planning reviews; Identify and quantify cost-saving opportunities; Validate and reconcile numbers before publishing, and document data caveats; Automate recurring reporting to free up time for real analysis; Present findings clearly to non-technical stakeholders. Requirements: B.E./B.Tech (Mech/Industrial/Production)/BBA/MBA (Ops)/B.Sc or an equivalent degree from a recognised university; 1–4 years of experience in analytics, reporting or MIS — relevant hands-on experience required; Working knowledge of Advanced Excel, SQL, Demand Forecasting; Comfort with Excel, SQL and ERP data and with cleaning messy, real-world data; Ability to define a metric precisely and explain a result to a non-technical stakeholder; Attention to detail, ownership and the discipline to document your work; Based in Jaipur, Rajasthan or willing to relocate (remote candidates across India may also apply).",
+      "apply_options": [
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/jobs/l-and-t-technology-services-supply-chain-data-analyst-jaipur-827034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdXBwbHkgQ2hhaW4gRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTFx1MDAyNlQgVGVjaG5vbG9neSBTZXJ2aWNlcyIsImh0aWRvY2lkIjoiZ2NYd1lMUkJJWmcwTlJsN0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNucG5XbkprTlcxaGVtbGZObmx4UTJSTVIyUmpXSE0yV0U1eVFtTmZSVFZyT0VWNlJubG5NVXBxWjFSWFZqZE9OWGxQT1ZOYU56RkpRVzlGTm1KM2EzUjFUR0pRTmxaRmFHOVJjREZtYlhoVWEwdENjMWN6V0U1cmF6RnpOVzVDTFRSUldVUmFWbWsxT1dOMExXMU1WMFUxUjBaek5IaHpRV1JOZUMwMVZXRTBlbk53UjBZU0YycFBaa2xoZG1GNlNsOHpaalZPYjFCdlpIWktNa0V3R2lKQlJITnlPV1pST1VseFNVMURTekpoVW5GSlVuWk9Wa2RQTW1GSlpsbGlPVlIzIiwiZmN2IjoiMyIsImZjX2lkIjoiZ2NYd1lMUkJJWmcwTlJsN0FBQUFBQT09In0="
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "company_name": "KDK Software India Pvt. Ltd.",
+      "location": "Jaipur, Rajasthan",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=a3zVS5che0Rd3TmHAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TrLYWuVNBC60UQTQWog8Im2RNLpx7IbvR2PkHP-G7fImxmWYYJvoMosWmFcckAntW8t4VxBnBmtE_ReH7ekMVUhDCJishMOxCKDwNV6VqLUtrRbwpRFFdZrJws4EpDZ3tI_kjkRIbqj0qJbP5pDM1F6NpvI3hEq766F0_zh3C6a4GjpobcAwHdHXbjOGMFYqWyD-EW1x7qwAAAA&shmds=v1_ARwrE21zaeZLxybZJ1-DfPWIVOjpGOWcx66VLwT_herFIopxTQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=a3zVS5che0Rd3TmHAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAilBMVEX____9fXIycZz7_P0baZUXZ5XU3-cAXJAvb5tEe6Pl7PDi6e394Nz9dGgRZJXF0t1fi6p2m7Zaiavv9Pb88_JThKf61NH74-D8-ff7joX7hnymvc77gXb6x8KatMY3dJwAVYu3ydf7uLSDpLz7qKH97er7mZFrk7GOrcEATIb5raj8wr36zcv7bWBykrOqAAABrklEQVRIie2TW3ejIBRGPzFcjBEleGudxjaWttM2___vzQFNNXly5mke3EtZyGLL4RwANjY21tAePO3a6fE-YIGHzPO4VlQ6wFFnUWCtuGMe3uFX9C8iw1M2i6ag5tQLiKRKKiPoK-1zwFbFnchzRNEsHhOge-4AoQtjdvJEonwBEm5vRZXgnN2KuRyoIyStg3cpgljI9C5ULdqrd_kK4l6_40e0eiAxH7S426Mq8Dp52cGPHfuem1kETUh1xfm9qPfuMmoPY_mPqh_8niYxpr-kmg9MxTeiMngbvU-knR8reIreJ2IUO_pJSrHn0ixFpe0h7DCr8aJ7TFkVsvBZPeW58b2QVTNGPon8hMcQZgmjKb9ExXwdqR7iWUrJP3wdf_vQlbQLMRw2CtMmnI2itVMbWzv2qReHdhZ1hzHMnCs2iavY4YuuRIkPrdhVpLtVUl2aBnFdwjkH0OOHXPMjCmTZK51CHo5sENu6Re1KfNPsmvwzNWeH5qlEPYv4vHxD7BRbirSMN_zitFJzoLeBK50P4kobOZw0YwtxLXEl-ZXxiK42F_yNt7GxsfGf8wfUtxrCCDVnFQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "₹7L–₹8L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/H_zQUg_wAtCjn1B-m5UlAqbehwZTsFhW4fAo2lRxgeaMw0FGTEt2SA",
+      "job_title": "Business Intelligence Analyst",
+      "description": "Experience Required: Minimum 8 Years\n\nAbout the Role:\n\nKey Responsibilities\n\nDesign and manage organization-wide MIS reports, dashboards, and executive reports.Develop automated reporting solutions using Python, VBA Macros, Power Query, and Advanced Excel.Analyze large datasets and provide business insights to leadership.Eligibility Criteria\n\n5+ years of experience in Business Intelligence, MIS, Business Analytics, or Data Analytics.Strong analytical and logical thinking with the ability to understand business requirements and convert data into meaningful business insights.Experience in developing dashboards and management reports using any Business Intelligence tool (Power BI, Tableau, Zoho Analytics, etc.).Call - [REDACTED PHONE]\n\nApply Now:\n\nhttps://zfrmz.com/pAKb2ynfomIsuNwRfRbV?utm_source=indeed\n\nPay: ₹700,000.00 - ₹800,000.00 per year\n\nBenefits:\n\nProvident FundWork Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/H_zQUg_wAtCjn1B-m5UlAqbehwZTsFhW4fAo2lRxgeaMw0FGTEt2SA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/business-intelligence-analyst-kdk-software-JV_IC2942216_KO0,29_KE30,42.htm?jl=1010224233008&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/business-intelligence-analyst/kdk-software-india-pvt-ltd/19417568?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-4589934569930347287?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/business-intelligence-analyst-kdk-software-india-pvt-ltd-jaipur-rajasthan--t7xk-793830159?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/business-intelligence-analyst-blucognition-jaipur-to-3-years-experience-a3b4f594-a2ce-45e2-915f-64430e8d6079?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/business-intelligence-analyst--jaipur--e91e1a2cc6a42bbc8f1e6e9ba07f60fa4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/6108366945092894720?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBJbnRlbGxpZ2VuY2UgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IktESyBTb2Z0d2FyZSBJbmRpYSBQdnQuIEx0ZC4iLCJodGlkb2NpZCI6ImEzelZTNWNoZTBSZDNUbUhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXU21GcGNIVnlMRkpoYW1GemRHaGhiaXhKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMWRrVGtwSVZFZFlVM1JCWlVKVGJtTjNSRkJWVjJoMkxYWkNUWFJqWTBoQ0xYTklVRTloTWxVMVVUSm9ORk5KVlVOUU4wRlBaRjlwYldJMGRXaGpaa2xxVDB3MWIwTmtOM0oyT1VsVGNISnJXazkzU1RoeFNFVnNhemd5TTBkclRVcEtRbEkyWVZkSllrVXdabms0WkhvMU1GSmxiMU52VmxVd1RXTnpTMUp4VkRnelVXWVNGMnBQWmtsaGRtRjZTbDh6WmpWT2IxQnZaSFpLTWtFd0dpSkJSSE55T1daVU5teHpSM2R5YlhOd01XcEtkalJrWjFWd2VrdHdRV2d5VEVWUiIsImZjdiI6IjMiLCJmY19pZCI6ImEzelZTNWNoZTBSZDNUbUhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst (SQL/Tableau FOR REMOTE",
+      "company_name": "Disha Consultant",
+      "location": "Jaipur, Rajasthan",
+      "via": "Disha Consultant",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=zXKOLAVJcvSWKpUjAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKtpBBHJimCjWIiJgijBmF4mYcluWHeWzARi5x08gjfzJMbmFw9-9BlF2wQFYefRPVlgerueVYGl09jBIcshTy9ZkcL39YaGSmCNbWWAPByJaqfHGyMSeK0Us4trFhRbxRU9FHldUq-Gif-5s8FWB4ei78vVoo-Dr2eTxA4Me_LcOUEvYD2c0IaunUOODbIY9D-M2LXqpgAAAA&shmds=v1_ARwrE21YhqlcXFm4qPqw4DOFSuhJnTkd4jGXmnDylO-Ebp0nfw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=zXKOLAVJcvSWKpUjAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.dishaconsultant.com/job-openings-for-data-analyst-jaipur-1014863.htm",
+      "job_title": "Data Analyst (SQL/Tableau FOR REMOTE",
+      "description": "Required skills:rnÂ· Bachelor's Degree in IT / EngineeringrnÂ· 4+ years of relevant work experiencernÂ· Strong experience in SQL scriptingrnÂ· Proficiency with ETL and ETL tools is requiredrn",
+      "apply_options": [
+        {
+          "title": "Disha Consultant",
+          "link": "https://www.dishaconsultant.com/job-openings-for-data-analyst-jaipur-1014863.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKFNRTC9UYWJsZWF1IEZPUiBSRU1PVEUiLCJjb21wYW55X25hbWUiOiJEaXNoYSBDb25zdWx0YW50IiwiaHRpZG9jaWQiOiJ6WEtPTEFWSmN2U1dLcFVqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1U1elEwdEJORUZzY0RaemVHbDVSblZuTlUweldXMUZjbGRPWkhSdlExUmFjekk0TVhGdVUxUlhWRzR0UVhSd1NrTkZOelY2TUdjd00xWkpjMmRsVkdGRFJIa3hOVkp3VkVwd2FEaEdhV0pITFU5TldHbDNkREYyWDBkTldIQXpNVEZyWld0eVNuVkhVMGRRVlhBd1gyUnhNbmxzT0VKUmIwUTNlV0kwYkhKWFpVVllZemNTRjJwUFprbGhkbUY2U2w4elpqVk9iMUJ2WkhaS01rRXdHaUpCUkhOeU9XWlJkVFJ5U3psNmVYTm5RekJJTjFrdGMyOTFWVkJrUVZKUWNtRjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJ6WEtPTEFWSmN2U1dLcFVqQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Turkish Data Analyst (Remote) (Jaipur)",
+      "company_name": "Hire Feed",
+      "location": "Jaipur, Rajasthan",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=niO_kHvPM9PbxStJAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yXNMQrCQBBAUWxzBAuZ0ohkRbDRQgRRsQz2YRKH7MbNTtiZQOy8g72H8yQqNr97_OQ1SraXPt6cWNijIuwC-rsoTHNqWSmF6Rld18cU3o8nNFyCEMbKAgc4Mteexhur2snaGBGf1aKorsoqbg0HKnkwXyS_FGIxUudRqViuFkPWhXo2OblIcCC6ggvwf80hxwZFLYYPFE7cfaEAAAA&shmds=v1_ARwrE20zDMSCCvXlKl-_wVmBqf3fTXlIMiwUPskfanyACYn-3Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=niO_kHvPM9PbxStJAAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jobrapido.com/jobpreview/4534253322210639872",
+      "job_title": "Turkish Data Analyst (Remote) (Jaipur)",
+      "description": "- Role:  Turkish Data Analyst (Remote) \n- Location : Remote (Work from Anywhere) \n\nRole Overview: \n\nWe are hiring for one of our clients, seeking a Business Analyst (Turkish Language) to work on a full time basis. The role requires strong analytical and English comprehension skills, with the ability to read, summarize, and break down large content into smaller logical blocks. Candidates will conduct online research, validate claims made in the content, and work with large language models (LLMs) to solve analytical puzzles. \n\nKey Responsibilities: \n\n• Read extensive documents in Turkish and English, summarize key points, and organize information into logical sections. \n\n• Perform online research to verify factual statements and provide source‑based validation. \n\n• Deliver detailed annotations and constructive feedback on LLM outputs to improve model accuracy. \n\n• Design and execute analytical scenarios that challenge LLMs, such as sales distribution analyses and logical sequencing puzzles. \n\n• Collaborate with AI engineering teams to integrate feedback and refine model training data. \n\n• Document findings and create clear reports that communicate insights to technical and non‑technical stakeholders. \n\n• Maintain consistent quality standards while handling a variety of analytical questions across domains. \n\nRequired Skills & Qualifications: \n\n• Multilingual capability in both English and Turkish is mandatory for content analysis and communication. \n\n• Strong analytical and research skills, demonstrated through the ability to break down complex information and validate claims. \n\n• Ability to provide constructive feedback and detailed annotations that guide LLM improvement. \n\n• Creative and lateral thinking abilities to develop novel scenarios for model training. \n\n• Excellent written and verbal communication skills to convey findings clearly and effectively. \n\nMore About the Opportunity: \n\nThis role involves working with a global leader in the artificial intelligence industry, contributing directly to the fine‑tuning and improvement of large language models used in mission‑critical applications. The position supports the development of AI systems that enhance analytical capabilities across multiple sectors. \n\nEqual Opportunity Employer: \n\nWe hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications. \n\nApply Now!",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/4534253322210639872?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/336667117/data-privacy-analyst-remote-jaipur?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJUdXJraXNoIERhdGEgQW5hbHlzdCAoUmVtb3RlKSAoSmFpcHVyKSIsImNvbXBhbnlfbmFtZSI6IkhpcmUgRmVlZCIsImh0aWRvY2lkIjoibmlPX2tIdlBNOVBieFN0SkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRIQnFVbWxUVkRsdk16ZFVVVWhOT1hZMlVtazNZakV3VmpRMVRtTTNiM05rUlU5V1gwTTNVM0ZTYjBoR1YyeFJZMWR2YmtWTE1HeGlOV2xPUWtaU1h6UXdOV0V5WTNWbFIyaHBUWE5hYmpWV1gxcHdjek5IU0MxdUxXWkROR2RWTUVFMFFXOVNjbmRHVHpOS01HTkhZM2xtZWpGR2JXSmthRVpSV25obFpIZFVhMkl4VWpZU0YycFBaa2xoZG1GNlNsOHpaalZPYjFCdlpIWktNa0V3R2lKQlJITnlPV1pSUkRsUGJIcFlUVXRTVVhVelgycFVPVFp6UWxVdFMwaEZRbkYzIiwiZmN2IjoiMyIsImZjX2lkIjoibmlPX2tIdlBNOVBieFN0SkFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Operations Analyst (Jaipur)",
+      "company_name": "Prominent Management Solutions",
+      "location": "Jaipur, Rajasthan",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=2vWdNlqvDoPpUuUZAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOMQrCQBBFsc0RrKZUkUQUC7USBEEQRQ8QJmHZTdjMLDsTiJ138BxeypOYkObxm_d5yXeS7E6oCLdgImrFJHAk9C9RmF2wCm2cw-_9gZoLEIOxdMAEZ2brzfTgVIPss0zEp1a0PyjTkpuMyRTcZb0kA3JxGE3wqCZfb1ddGsguNvfITUWGFK5IaE0zzCf7dsyoCMaAJTywRlGH9Ae-7A4GsAAAAA&shmds=v1_ARwrE21EbZKEO3NaP-uA-LnLl7HuSWIigzlWjzAAfmG18Rx3AQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=2vWdNlqvDoPpUuUZAAAAAA%3D%3D",
+      "extensions": [
+        "14 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/data-operations-analyst-jaipur/prominent-management-solutions/19590986",
+      "job_title": "Data Operations Analyst (Jaipur)",
+      "description": "The Data Operations Lead is responsible for executing data analysis, developing queries, and supporting data-driven initiatives across prospect, customer, and internal projects. This role focuses on ensuring the accuracy, consistency, and organization of data to enable effective reporting and insights. The specialist works with complex data sets, implements effective processes, and collaborates with cross-functional teams to support strategic decision-making and optimize data utilization across the organization .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-operations-analyst-jaipur/prominent-management-solutions/19590986?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337411396/data-operations-analyst-jaipur?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIE9wZXJhdGlvbnMgQW5hbHlzdCAoSmFpcHVyKSIsImNvbXBhbnlfbmFtZSI6IlByb21pbmVudCBNYW5hZ2VtZW50IFNvbHV0aW9ucyIsImh0aWRvY2lkIjoiMnZXZE5scXZEb1BwVXVVWkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHdzJkSGhrUjFocWREaDFPVUppYjFoVlMzaFNVVkk0TkZReE9EZDNTRGRqY2pKTVRIUnFRMk5OUWxKdlVucHNOVXB5WDFJd1JXVllXVTF5ZDNKNVNuaFpNbUZyVURKTmFubFNhRWsxV1hWRGR6ZHRTVWRKTUdaV2RVNUlNRmRZTWsxRFNYWlRaazlFYW5ScE9UVTNiR2xGYWtkVlgweHFSM2wxTUVSU1pHeHlTR2R5UTBnU0YycFBaa2xoZG1GNlNsOHpaalZPYjFCdlpIWktNa0V3R2lKQlJITnlPV1pSTFMxaWFrdDBRV2RGTms1dlluWkRWMUJyTjFOTU0yZHJaWEYzIiwiZmN2IjoiMyIsImZjX2lkIjoiMnZXZE5scXZEb1BwVXVVWkFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Privacy Analyst (Remote)",
+      "company_name": "Quik Hire Staffing",
+      "location": "Jaipur, Rajasthan",
+      "via": "Blackboardjob",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=b45lOq4atoquT72wAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLPQrCMBQAYFx7BKe3-YM0IuigkyAoTloPUF5DmqSmSch7lXbzDu4ezpOoy7d92XuUbQ7ICJdkHygH2Ht0AzFMC9UGVjP4PF_QhApIYZIGgodjCNqp8c4wR9oKQeRyTYxsZS5DK4JXVejFL9GfkgwmFR2yKlfrZZ9Hr-eTa2fvcLJJwY2xrq3XYD2c0cYuLaDABokN-i9TVDGioQAAAA&shmds=v1_ARwrE22GyMwaI61SZR-nNvzKP9BxNHpUv90ZcFdodUQyesNKyA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=b45lOq4atoquT72wAAAAAA%3D%3D",
+      "extensions": [
+        "26 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.blackboardjob.com/detail/a/data-privacy-analyst-remote_jaipur_254675752",
+      "job_title": "Data Privacy Analyst (Remote)",
+      "description": "Role : Data Privacy Analyst (Remote) Location : Remote (Work from Anywhere) Role Overview: A leading organization is seeking a Data Privacy Analyst to review and improve data privacy practices, policies, and procedures. The role involves ensuring compliance with privacy regulations and protecting organizational data assets. This position requires collaboration with cross-functional teams to identify risks and implement mitigation strategies. Key Responsibilities: • Conduct data protection impact assessments and audits to evaluate compliance with privacy laws and internal policies. • Monitor and analyze changes in privacy regulations to recommend updates to policies and practices. • Develop and maintain data privacy documentation, including privacy notices, consent forms, and records of processing activities. • Collaborate with IT and security teams to assess data handling processes and recommend technical safeguards. • Report findings and recommendations to stakeholders and provide guidance on privacy best practices. Required Skills & Qualifications: • Experience in data privacy compliance, including GDPR, CCPA, or other regional regulations. • Proficiency in conducting risk assessments and audits related to data protection. • Strong understanding of data privacy frameworks, policies, and governance structures. • Ability to analyze complex regulatory requirements and translate them into actionable policies. • Familiarity with data security principles and technical controls for protecting personal data. More About the Opportunity: This role offers a unique opportunity to work with a global leader in the Technology, Information and Internet industry, contributing to the development of robust data privacy frameworks. The position involves direct impact on safeguarding sensitive information and ensuring regulatory adherence. Equal Opportunity Employer: We hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications. Apply Now!",
+      "apply_options": [
+        {
+          "title": "Blackboardjob",
+          "link": "https://in.blackboardjob.com/detail/a/data-privacy-analyst-remote_jaipur_254675752?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/359866923808194560?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WhatJobs",
+          "link": "https://en-in.whatjobs.com/jobs/data-privacy-analyst-remote/jaipur-rajasthan?id=244161072&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFByaXZhY3kgQW5hbHlzdCAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6IlF1aWsgSGlyZSBTdGFmZmluZyIsImh0aWRvY2lkIjoiYjQ1bE9xNGF0b3F1VDcyd0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRGUlJjVjlSWVcxc1F5MURNSEZPWjNCNGRHVTNPRkJtY0hCT1dWOTJWRkJ3UzJ4SFRtMW9lRjlvVlZkMWFTMVdZbkIyYmpaTGJYaExhVE5JU25GUU1HTmhPVVl5YUhGSFUxTjZaa3N0WHpoNFJrZzFUMnB0VVdOaWRXeFhXVWRxU0dNMmFYVXdlWGxuV2xOVU5rMXBVVlpoUkhWa1NIQTFZMDQ1ZFcxT2IzUTFlRlkwVmtvU0YycFBaa2xoZG1GNlNsOHpaalZPYjFCdlpIWktNa0V3R2lKQlJITnlPV1pVZFdwQk9EaFpiRmhrTW5Sek0zZFVielJuU0hBelZuVjJiVFpSIiwiZmN2IjoiMyIsImZjX2lkIjoiYjQ1bE9xNGF0b3F1VDcyd0FBQUFBQT09In0="
+    },
+    {
+      "title": "Technical Analyst",
+      "company_name": "Cyntexa",
+      "location": "Jaipur, Rajasthan",
+      "via": "Cyntexa",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=WHp4coWRQ0Ukx3IeAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CeJwc5FGBBedxEFwFPdyDUeSEu9C7oR2c_MD_EO_RF3e9prXomlv5CMnjxmOjHlWg8_zDaMMoITVRxCGs0jItDxEs6J751RzF9TQku-83J0wDTK5X9I_vUasVDIa9dvdZuoKh3Z1mtloQkgMF0zlUddwxRHVIvIXeYvD3IoAAAA&shmds=v1_ARwrE20F7YQMgeodiGWWmnAnluey4fmkBv1-weVbRCKoyNlhkg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=WHp4coWRQ0Ukx3IeAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAYFBMVEX__v_____m5eb8_PwAAAB4eHj49_iRkZFXV1fKysrT0tOXl5fd3N2gn6Campra2trs7Oytra0hISFvb29nZ2eGhYZ_f3--vb5gYGC1tbUyMjIaGhpDQ0MQERAlJiUrKys9vdcwAAABP0lEQVRIie2T2ZKCMBBFc5POyiJREEHR__9Lm4ALVTPW6JNVQ546NKf79hIhIT47K7iCK7iC3wHidchfQaj9S3ICMZ2HBQFD44fJToa4_fMAYRpnlSzYJ0tjW1cHmILiBmgPB4_OA5WFyty-whPIwW1oelAFaCupDpE2xlIRUPTBk8_Zs4046lDQjUxgsWMNCtmeQ5icJSLTk1SqBPwJ7VbvEB07ivoZ1DEVoUiUGvnAiuMhgRWdh-HIgONLM5ayuSwy1lMPSk1yBusEglTqSNffM_ZzgxKoqAnlKJfYx1JTRly0Rxx8cF5yZX0EjTWe8qnMqavKuoav2AaW14yKImB0BvjadWi5q6aBsS6TWbUzWM6R23DGvDHzCH-YI56k3pfl1P19cxegf2PjF7v6zkv5pve4giu4gv8AFOqjcwWtUwy-wwb5eQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://cyntexa.com/careers/technical-analyst/",
+      "job_title": "Technical Analyst",
+      "description": "Cyntexa is seeking an experienced and knowledgeable Technical Analyst for our team. You are required to provide support and guidance to not only the IT team but to the wider business on how to optimize systems, whilst reducing costs and increasing profits. You should be able to communicate effectively and clearly with both team members and customers and be up to date with industry and economic trends.",
+      "apply_options": [
+        {
+          "title": "Cyntexa",
+          "link": "https://cyntexa.com/careers/technical-analyst/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/technical-analyst--jaipur--e3976e9ce7ac0f7c510ffa472662eaa91?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/1255987385984876544?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337254806/technical-analyst-jaipur?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJUZWNobmljYWwgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkN5bnRleGEiLCJodGlkb2NpZCI6IldIcDRjb1dSUTBVa3gzSWVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXU21GcGNIVnlMRkpoYW1GemRHaGhiaXhKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURk50WHpWRWJYaERkRWgwYVVWMVJtaEhWakpLV0RrNVYxbFFTbVYyZUZoWE1XTkhUbkZ6VFUxbmNtWm5iMHBsZDNGSU0wUTVibmRpWmxOSVdXbHhUV0ppTWs5TmRuQm9YMWx0VnpKd1pTMVFaVEYwVlMxTGRtMHdTbmhvUjFaTldUWnNNRVJmTlZWV1IwSnpjekpEUnpkQmQwZEVMVE5ZY2pScGNEaDRhMWhwTTNCNVRrb1NGMnBQWmtsaGRtRjZTbDh6WmpWT2IxQnZaSFpLTWtFd0dpSkJSSE55T1daVVdESjRSMHM0WVdsVU1FOU1UVmxNTkRsU2JFMU1kMmgzTTA5QiIsImZjdiI6IjMiLCJmY19pZCI6IldIcDRjb1dSUTBVa3gzSWVBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTbmc0VURNdE9VSXpOMWRyTm5OcWNXeGtNR0o1TkVwRU5sZzRiMlJsVGtZMldYUTVNa2RNTlhWNGRFMW1TSFZRVm5WRFdHZEhVMmh0TnpCSlZFRnBWMWxwWkVSUFluSmhRVUpUV25VeVZ6UldaVmR0V214TmRHSXpha2hJVm5KWVZuUm9PVmsxVkhWdFluRndhMWhDTFZWcU5uSkhiRTlRZFdwblJrMXpSaTFQZWxoTGJXNXlNR2wyWWtoa1lYSkxiR2swTTJ0WFlYUkhhalp2YURsZmFtWnhUWFpFYzA5WGNtcFpkelpNV0V4TlJXMHpjVEJxWDJ4clYxVmhXa1o0Y2tJeldqTjRUa1ZOVVhwd1l6SlZVbkpCV1haWk1VSlNiMFUwVlRnMWJXZGtjMU50TkZGMlVYcE9TVWRVU3paM05WOVViamt5UkRWdU9HdFZPR0p6UjI5blgxSkRkbTlRWTFwWGVUWnFUMWxLUlUxM1JURTNlSHB4UVdkT1FVSlZjV0l0Y0VFMU1XVmtNRFV3WTBKUE1ESlZha1IwU0hReVNFSkJSM2huYjFvd1UwRkRWVlJXVlVoRWFYUjVlbE5DWmtoU2NVbG9jbkIwVEhWSVFXOXdhMGxvUlVGcFMzVjJRMWh0Y2s5NmFXTXlVbmsxV0ZkUGNEUjFjREZhTVRGdmNWcGZhVWRzWkRaemRuTnBVVk10UzBVeUxURllSMjUwYUdGSlR6ZE1YM0l0V1ZCR1EwVlRVR2xwZG05aWRsRmhSVTFDUjBoTVVqaDNUMjB4UzI5UlVsVlJSelpFYnhJWGFrOW1TV0YyWVhwS1h6Tm1OVTV2VUc5a2Rrb3lRVEFhSWtGRWMzSTVabEprWDBKcmFqaHFaRXR3ZFZZNU9WSlhURGROYmtJMlVGcFZaMUUiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&next_page_token=eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTbmc0VURNdE9VSXpOMWRyTm5OcWNXeGtNR0o1TkVwRU5sZzRiMlJsVGtZMldYUTVNa2RNTlhWNGRFMW1TSFZRVm5WRFdHZEhVMmh0TnpCSlZFRnBWMWxwWkVSUFluSmhRVUpUV25VeVZ6UldaVmR0V214TmRHSXpha2hJVm5KWVZuUm9PVmsxVkhWdFluRndhMWhDTFZWcU5uSkhiRTlRZFdwblJrMXpSaTFQZWxoTGJXNXlNR2wyWWtoa1lYSkxiR2swTTJ0WFlYUkhhalp2YURsZmFtWnhUWFpFYzA5WGNtcFpkelpNV0V4TlJXMHpjVEJxWDJ4clYxVmhXa1o0Y2tJeldqTjRUa1ZOVVhwd1l6SlZVbkpCV1haWk1VSlNiMFUwVlRnMWJXZGtjMU50TkZGMlVYcE9TVWRVU3paM05WOVViamt5UkRWdU9HdFZPR0p6UjI5blgxSkRkbTlRWTFwWGVUWnFUMWxLUlUxM1JURTNlSHB4UVdkT1FVSlZjV0l0Y0VFMU1XVmtNRFV3WTBKUE1ESlZha1IwU0hReVNFSkJSM2huYjFvd1UwRkRWVlJXVlVoRWFYUjVlbE5DWmtoU2NVbG9jbkIwVEhWSVFXOXdhMGxvUlVGcFMzVjJRMWh0Y2s5NmFXTXlVbmsxV0ZkUGNEUjFjREZhTVRGdmNWcGZhVWRzWkRaemRuTnBVVk10UzBVeUxURllSMjUwYUdGSlR6ZE1YM0l0V1ZCR1EwVlRVR2xwZG05aWRsRmhSVTFDUjBoTVVqaDNUMjB4UzI5UlVsVlJSelpFYnhJWGFrOW1TV0YyWVhwS1h6Tm1OVTV2VUc5a2Rrb3lRVEFhSWtGRWMzSTVabEprWDBKcmFqaHFaRXR3ZFZZNU9WSlhURGROYmtJMlVGcFZaMUUiLCJmY3YiOiIzIn0%3D&q=Data+Analyst"
+  },
+  "_retrieved_at": "2026-10-09 13:09:32 UTC"
+}

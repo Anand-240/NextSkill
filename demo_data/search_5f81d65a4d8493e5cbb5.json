@@ -1,0 +1,279 @@
+{
+  "search_metadata": {
+    "id": "6ac8e7babca7e5ae96d99f34",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/94mMY5dXW-8cJ_cN-r39BpUFLjkKKWKdPK6pw-Po6nI/6ac8e7babca7e5ae96d99f34.json",
+    "markdown_endpoint": "https://serpapi.com/searches/94mMY5dXW-8cJ_cN-r39BpUFLjkKKWKdPK6pw-Po6nI/6ac8e7babca7e5ae96d99f34.md",
+    "created_at": "2026-10-09 13:10:18 UTC",
+    "processed_at": "2026-10-09 13:10:18 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Accountant&uule=w+CAIQICIfUHVuZSBEaXZpc2lvbixNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/94mMY5dXW-8cJ_cN-r39BpUFLjkKKWKdPK6pw-Po6nI/6ac8e7babca7e5ae96d99f34.html",
+    "prettify_html_file": "https://serpapi.com/searches/94mMY5dXW-8cJ_cN-r39BpUFLjkKKWKdPK6pw-Po6nI/6ac8e7babca7e5ae96d99f34.prettify",
+    "total_time_taken": 2.14
+  },
+  "search_parameters": {
+    "q": "Accountant",
+    "engine": "google_jobs",
+    "location_requested": "Pune, India",
+    "location_used": "Pune Division,Maharashtra,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTbXRyWld3M05qUlNiRFF3ZEhoWWJtUXljRmcwYWsxdU9WWnJVa3RDVjJaSFFWOTBMWEpaTlZGVVNsTkJlbGxsVVVSaGVHcEpURFJpUTNsVWVWbG1Na3BQTWpkVFlrNVphbFZaTkZwNGJGVlNZMWwwZEc5Rk5XaFFVbWRuZUVObGFYVjNkV05HTFU1U1ozTmlOQzFMUzFaSk5IUXpPRGxhVEZScFptb3laSEo1ZUhSZllrUllTWGQ1VlRJemNsTmxlamRSVWw4eGREbHZXR2wxVVRGTmRraFpaMlkyYzBWVVVHMTBjVWxwZEZWamF5MHdOVEpsUkhCbmNFWjRNV1pEYkMxRVUxWlphRzlJT0VjNFNVaEhlSG81YmtONFJHNHhPVzFPWTBsTWVIWlRSbUo0UTBwZlJIVnZjeTFGYWpoRE1VbEdXbVpMZEVjMWRXUnFUalpwUldOUlowMXdOM3BWYVVObFVVdzBRbE51UmpodVFWSk9TWEZCT0ZoQmFUaFBOWEk0Y0dsWlVWRXRWMkk1VkdwTU9VVmxWR2haY2tOT2JWZ3diRUphYWs1NVgwOXplRmhpU3pSc05Ua3diMmxqYW00Mk1GTTVabm80Y2pscFFqUlZWMjFPVjNOSGNHUkhkV3BJU0dGd1ExODVlbnB1ZUd0aWRHbGZha3hZZWxkUWJGWnRTa0pvZVZBMFdsTmxhRVpwTjJoSU1IRkJWVFZ3TWs1WFIxZERjalJHVUhRd1l6Wk1kM2xKY1VOWFJVOWlkME5CUlhKUGRGQk5ZazkxVEdjMWRrOVNORVZsY3pkUGRIb3paemRpY0dkc1JUZDBYMkZPYUVsMWEyY1NGM1F0WmtsaGNHNU9SSFkzY0drdFoxQnBXVFpmYzBGVkdpSkJSSE55T1daVGFub3pNblJSTXpVeVYzQXRVbVJHUmw5cFl6Vm1NV1pIVWtwQiIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Financial Accountant",
+      "company_name": "Hmak Global Services",
+      "location": "Mumbai, Maharashtra",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=UOx5RV8WXdYxv3EoAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNPQ7CMAxAYbH2CEye-WkQEgtMLJSlEweonChqAqkdxS7qyB2YuB4noSxv-_Sqz6LaXiIhuYgJzs7xSIqk8H294c4WxGNxAZigYe6TX56CapajMSKp7kVRo6sdD4bJW57MjOSfTgIWnxOq7_aH3VRn6lfr64APaBLb-Xbz5RmdF4gE7ThYjBtocVYoQQv-AMkARGCcAAAA&shmds=v1_ARwrE235nLEVUh-3mz4gkDojYhtfCbUy3sQOdAioSiwLnYlVlw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=UOx5RV8WXdYxv3EoAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "₹40K–₹50K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/accountant-financial-accountant-job-in-hmak-global-services-sanpada-mumbai-6-plus-0-years-1791280114-8471513-jid",
+      "job_title": "Financial Accountant",
+      "description": "HR Hanishka - [REDACTED EMAIL]\n\n\nJob Description\n\n\nRole Overview\n\nWe are seeking a dedicated Senior Accountant to oversee the financial health of our institute and cafe operations. The ideal candidate is a \"numbers person\" who possesses an impeccable eye for detail, deep technical knowledge of Indian taxation, and the ability to communicate financial insights clearly to management.\n\n\nKey Responsibilities\n\n~Manage all day-to-day accounting transactions using Tally Prime.\n\n~Prepare, analyze, and maintain accurate Balance Sheets and Profit & Loss (P&L) Accounts.\n\n~Handle end-to-end GST Reconciliation and filing.\n\n~Manage TDS deductions, payments, and returns.\n\n~Ensure all filings comply with Generally Accepted Accounting Principles (GAAP).\n\n~Ensure the organization stays 100% compliant with all local financial policies and government regulations.\n\n~Monitor cash flow, verify vendor invoices, and manage payroll-related accounting data.\n\n~Utilize Advanced MS Excel for financial modelling, data sorting, and high-level reporting.\n\nIt is a Full Time Accountant job for candidates with 6+ years of experience.More about this Financial Accountant jobPlease go through the FAQs to get all answers related to the given Financial Accountant jobWhat skills and experience do you need for this Financial Accountant job?\nAns :   To apply for this Financial Accountant job, candidates should have skills like Audit, Balance Sheet, Book Keeping, GST, MS Excel, Tax Returns, Taxation - VAT & Sales Tax, TDS along with 7-7 years of experience.\n\nHow much can you earn in this position?\nAns :   You can earn between ₹40,000-₹50,000 per month in this Financial Accountant position.\n\nWhat is the work schedule for this Financial Accountant job?\nAns :   This Financial Accountant job has 6 days working days and timings from 09:30 AM - 05:30 PM.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Sanpada, Mumbai.\n\nHow many vacancies are there for this Financial Accountant job?\nAns :   There is 1 vacancy for this Financial Accountant role.\n\nWhich candidates are eligible to apply?\nAns :   Candidates with a Graduate and above qualification and 7-7 years of experience are eligible to apply for this Financial Accountant role. Only male candidates are eligible.\n\nWhat work will you do in this role?\nAns :   As a Financial Accountant, you will work on skills like Audit, Balance Sheet, Book Keeping, GST, MS Excel, Tax Returns, Taxation - VAT & Sales Tax, TDS.\n\nWhat is the job location for this position?\nAns :   The job location for this Financial Accountant position is Sanpada, Mumbai.\n\nWho is the right fit for this Financial Accountant job?\nAns :   A candidate having skills like Audit, Balance Sheet, Book Keeping, GST, MS Excel, Tax Returns, Taxation - VAT & Sales Tax, TDS with 7-7 years of experience is the right fit for this Financial Accountant job.\n\nWhat makes this Financial Accountant job a good opportunity?\nAns :   This Financial Accountant job is a good opportunity as it offers a salary between ₹40,000-₹50,000 per month. This is a Full Time job and has 1 openings.\n\nCandidates can call HR for more info.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-financial-accountant-job-in-hmak-global-services-sanpada-mumbai-6-plus-0-years-1791280114-8471513-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-7204975057855451892?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Search At Monster Thailand",
+          "link": "https://www.monster.co.th/job/financial-accountant-carbon-clean-solutions-mumbai-48699615?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/financial-accountant-hitesh-prashant-associates-mumbai--t7xk-824600307?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Beco Capital",
+          "link": "https://careers.becocapital.com/companies/wahed-invest/jobs/90960508-financial-accountant?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/financial-accountant-aleido-india-formerly-ibruk-consulting-mumbai-2-to-5-years-experience-19d54882-4ca4-4e61-bf08-655bedf0b146?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Saarthi",
+          "link": "https://joinsaarthi.com/jobs/blubot-robotics/financial-accountant-mumbai/b15fed88-cadf-4a19-8c33-bcb35f58d24e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/financial-accountant--mumbai--e60905aedfb1cc9e8284a896aea0b0ead?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGaW5hbmNpYWwgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkhtYWsgR2xvYmFsIFNlcnZpY2VzIiwiaHRpZG9jaWQiOiJVT3g1UlY4V1hkWXh2M0VvQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU3pkUGJTMUlWMk4zVms1UGFHRm9kbkYwY0RGeGNURnplbFZmUjBJMk0xWm5ibFl4YVRkR2NVZDFhbFZ4YjBKR2JHSk9jMk5hTVd4VVR6STNZbDl0UzJRNFNqbEdiR0pXWldkeldUQnJOMnA2ZEVOc1JtdHdUMU5IYldFM1dURlZSbE5yVG5OVVFuWmtUR0pKWkROQ1FrTnJaMUE1ZVZkT1NHbDBaV3h5UjBNMGF6RlFjRmNTRjNVdFprbGhkR28zUm5VMlpYZE9ORkJ5VFVjMk9FRnZHaUpCUkhOeU9XWlRjSGs0YzNsNVZWSnZWVXhZVVZWa2MzUnRNREI2UlROQlZGQlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJVT3g1UlY4V1hkWXh2M0VvQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Accountant",
+      "company_name": "MAP FILTERS INDIA Private Limited",
+      "location": "Padgha, Maharashtra",
+      "via": "Internshala",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=PSgeM9xRHHKNlRKaAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMOwrCQBBAsc0RrKYOkhVBEK0CfggkEox9GDdLdiXZCTujpPQOHsGbeRJj86r3XvSZRXFlvKMAqdb08IJe4Pt6w51uwAaDtkAeTkRtZ-Y7KzLwVinmLmlZUJxONPWKvLnRqKaI_6jZYjBDh2Lq1Xo5JoNv402RlnDM8uvhUkF23mcplME9Jwdy1zsxDTgPJTatxQUUOC2QrQT8AQk4ui6mAAAA&shmds=v1_ARwrE20s90ofw-zYDW7IByUhZxdntrIjZ1s9O37FwKASsu38eg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=PSgeM9xRHHKNlRKaAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "₹2.5L–₹4L a year",
+        "Full–time"
+      ],
+      "source_link": "https://internshala.com/job/detail/senior-accountant-job-in-padgha-at-map-filters-india-private-limited1791362968",
+      "job_title": "Senior Accountant",
+      "description": "About the job:\n\nWe are looking for a detail-oriented and responsible Accounts Executive to manage day-to-day accounting activities and support the finance department. The candidate will be responsible for maintaining accurate financial records, handling invoices and payments, managing GST-related activities, bank reconciliation, and ensuring proper accounting documentation.\n\n\n\nKey Responsibilities:\n\n\n\n1. Maintain day-to-day accounting transactions in Tally / ERP software.\n\n2. Prepare and maintain sales invoices, purchase entries, debit notes and credit notes.\n\n3. Handle Accounts Payable and Accounts Receivable.\n\n4. Maintain records of customer outstanding payments and supplier payments.\n\n5. Perform regular bank reconciliation and cash reconciliation.\n\n6. Prepare and maintain GST-related records, including purchase and sales data.\n\n7. Assist in the preparation and filing of GST returns and other statutory compliance documents.\n\n8. Verify and process vendor bills, employee expenses and payment requests.\n\n9. Maintain proper records of petty cash and company expenses.\n\n10. Coordinate with vendors, customers, banks and internal departments regarding accounts-related matters.\n\n11. Assist in preparing monthly financial reports and management reports.\n\n12. Maintain proper documentation and filing of invoices, vouchers and other financial records.\n\n13. Support the preparation of data required for audits and statutory compliance.\n\n14. Monitor outstanding payments and follow up with customers where required.\n\n15. Assist management with financial data, reports and other accounting requirements.\n\n16. Ensure accuracy, confidentiality and proper maintenance of all financial records.\n\n\n\nKey Competencies:\n\n\n\n1. Accuracy and attention to detail\n\n2. Financial and numerical skills\n\n3. Time management\n\n4. Problem-solving ability\n\n5. Confidentiality and integrity\n\n6. Team coordination\n\n7. Strong organisational skills\n\nWho can apply:\n\nOnly those candidates can apply who:\n\nhave minimum 1 years of experience\n\nSalary:\n\n₹ 2,50,000 - 4,00,000 /year\n\nExperience:\n\n1 year(s)\n\nDeadline:\n\n2026-11-06 23:59:59\n\nSkills required:\n\nAccounting, Tally and MS-Excel\n\nOther Requirements:\n\nGood knowledge of Microsoft Excel, including formulas, reports and data management.Understanding of Accounts Payable, Accounts Receivable and Bank Reconciliation.Strong numerical and analytical skills.Good communication and coordination skills.Ability to work independently and meet deadlines.High level of accuracy and attention to detail.Experience in a manufacturing, engineering or industrial company will be preferred.Knowledge of inventory accounting and purchase accounting will be an added advantage.Familiarity with Tally systems will be beneficial.\n\nAbout Company:\n\nMAP FILTERS INDIA PRIVATE LIMITED, a Global Engineering and Manufacturing Company specializing in innovative turnkey solutions for the Pharmaceutical, Biotechnology, and Healthcare/Hospital segments. With over two decades of experience in the manufacturing, sales, and installation of Cleanroom Equipment and various types of filters, we have grown into a leading Engineering & Construction Partner for the Pharmaceutical, Hospital, Electronics, and Food Processing industries.",
+      "apply_options": [
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/job/detail/senior-accountant-job-in-padgha-at-map-filters-india-private-limited1791362968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6Ik1BUCBGSUxURVJTIElORElBIFByaXZhdGUgTGltaXRlZCIsImh0aWRvY2lkIjoiUFNnZU05eFJISEtObFJLYUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNUSklkMjlPT1VOWVVsUTNlVXAzVTNwVGNUTm1Tbk5HVFZWYWRHVlNlRmN4ZGxoc1JGOW9UemhQUjJzeVJsVldiMUZQWTJGWFRqWnVZa2cwVUcxbmJrZDNOM1JhWjJaWVJsaFJPR1IzY1RCTWJucHRRak5zV1dkTVVGQmtNV2xOWVdkbVEyZHFibnAzYlVoeE55MTBVMjA0TWxaRldsRkdOemRIUTJoMU1GcDVhVTFXZVZrU0YzVXRaa2xoZEdvM1JuVTJaWGRPTkZCeVRVYzJPRUZ2R2lKQlJITnlPV1pTVlVsalgzbEZOREJNV21KRk1ISlJhRkpDVFRRNVoyOUxhbTVSIiwiZmN2IjoiMyIsImZjX2lkIjoiUFNnZU05eFJISEtObFJLYUFBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Accountant - Fresher",
+      "company_name": "Maulika Varma & Associates",
+      "location": "Pune, Maharashtra",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=guEFrwGDtmujBh6QAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKupLESzItpolUZBCFjZhnEZsqubmbAzgZTewSt4Mk9ibH71X_GZFbvLwFEyVN7LwIZssIZTJg2U4ft6w0PuoITZBxCGs0ibaH4MZr0enFNNZauGFn3ppXPCdJfRTUj_aTRgpj6hUbPdb8ay53bpahxSfCLcMHcIC6hUxcfpUYgM14FpBTVOEjVYxh84rWUdpwAAAA&shmds=v1_ARwrE23krJ87r6mvXSwHNX70cd_hIst4ryWLA5RUEinCQLsoaw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=guEFrwGDtmujBh6QAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/junior-accountant-fresher/maulika-varma-associates/19519822",
+      "job_title": "Junior Accountant - Fresher",
+      "description": "About the job:\n\nKey responsibilities:\n\n\n\n1. Handle day-to-day accounting tasks, including maintaining financial records and preparing financial reports\n\n2. Reconcile accounts and ensure compliance with financial regulations\n\n3. Assist with audits and process invoices in a timely manner\n\n4. Support the senior accounting team as needed\n\n\n\nRequirements:\n\n\n\n1. Proficiency in accounting practices and procedures\n\n2. Experience with financial reporting and compliance\n\n3. Skills in reconciling accounts and managing financial records\n\n4. Knowledge of accounting software and tools\n\n5. Strong analytical and numerical skills\n\n6. Excellent attention to detail and accuracy\n\n7. Ability to work independently and as part of a team\n\n8. Bachelor's degree in Accounting, Finance, or related field\n\n9. Experience in the financial consultancy industry is a plus\n\nWho can apply:\n\nOnly those candidates can apply who:\n\nare from Pune only\n\nSalary:\n\n 2,00,000 /year\n\nExperience:\n\nNo experience required\n\nDeadline:\n\n2026-09-03 23:59:59\n\nOther perks:\n\n5 days a week, Free snacks & beverages\n\nSkills required:\n\nMS-Office, Accounting, Tally, MS-Excel, English Proficiency (Spoken) and English Proficiency (Written)\n\nOther Requirements:\n\n1. Must have own vehicle for commute2. Good proficiency in English3. BCom, MCom, and past pursuit of professional courses (semi-qualified CA)\n\nAbout Company:\n\nWe offer various services in our combined capacity as chartered accountants. The gamut of services ranges from the incorporation of companies, obtaining initial registrations, financial advisory, to accounting and assurance (audit) services. Our strength is our team of qualified, experienced, and trained professionals who treasure the value of diligence and knowledge. We have been able to create a niche in a very short span of time and are still raring to go! .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-accountant-fresher/maulika-varma-associates/19519822?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-accountant-celoxis-celoxis-technologies-pune--t7xk-796205941?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/335381593/junior-accountant-celoxis-pune?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CallCenterJob.co.in",
+          "link": "https://callcenterjob.co.in/junior-accountant-pune_645691?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQWNjb3VudGFudCAtIEZyZXNoZXIiLCJjb21wYW55X25hbWUiOiJNYXVsaWthIFZhcm1hIFx1MDAyNiBBc3NvY2lhdGVzIiwiaHRpZG9jaWQiOiJndUVGcndHRHRtdWpCaDZRQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2s1dlJVOWhTVEV5WmsxSVExaDZPR1Z4Vnpnd1RtazJiamh3ZURobWRWOWxlV2MwTUUxaVpYaG1RVGRwV0VGTU4wZE5kMFZyUkZsMlkxVkZNa3hHTmxOVVMyMVllamhTVHpSclNEUmpaRUZVZEU0NFpXb3pjVFJXVkRGVVdWWmFlVXg1WkRST09HaEJTalJJWlZwcWQzYzVPVzVWU0VaT05EVmZja05UTFhGUE5tSXdWMjRTRjNVdFprbGhkR28zUm5VMlpYZE9ORkJ5VFVjMk9FRnZHaUpCUkhOeU9XWlJlVFpyUjI1TFJqYzJOWEp1YkhOVWVsUTVla05SYWtFNWRucEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJndUVGcndHRHRtdWpCaDZRQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Cost Accountant - Service industry",
+      "company_name": "Tresbien Hr Consultancy",
+      "location": "Mumbai, Maharashtra",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=_mUQc_BttySmYE6AAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQ6CQBAAY8sTrLY2ehgTG60MhTZU2pPl3MCZY5fcLgY6_-AvfJYvEZvpJjPZZ5EdC1GDk_cysCEbbOBK6Rk8QeD7oJYm-L7e8JAalDD5FoThLNJEWh5bs14Pea4aXaOGFrzz0uXCVMuYz5L-UWmLifqIRtVuvx1dz83K3RJpHYjhkqAQ1iHOA36au1AOXY1hDSXOImprCX9C0JtMrQAAAA&shmds=v1_ARwrE23x5uW54ok-kLOT6x9UuH8P2XLlAC4nIcuguTiJqpNXFQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=_mUQc_BttySmYE6AAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAbFBMVEX__P3_8PT_-_z_-Pr_8fX__v7_7vP_9_n_9Pf_9fj_7_P__f7_8vb_-vv_8_b_-fv_7_T______f3_8vX_-vz_8_f_7fL_-frvNzfwPz_3nJ7xTk_4r7D4trf1i4zvMzP7x8rvKyv0eXrxSUkUl_DAAAABMUlEQVRIie3XbW-DIBAH8ONOi4iK57Pbunbb9_-OAxe7ZIomZH3R1L8m-ubnESA5BGamtq6zoijaolBJkqhWSSmVkr17ElFvjMnzxgYRKwDEmBlYi-6UpqUQIoqiOrNfaBPH1YRnaaFVAFBpHcdYWShOpxWoNmEMMVAXAhkhC4UiDOpQWD1Bxf8cqiKye9PYnQn2BtBTcLeiur6tpd-tSO8fl2XGBPcq_sJhHEcvrKBcDvX8k89h_DrP-TtUvYCZnUkyZBp-GcbXxjc5y4q35WgclORdjgeC3i23DeGAWzBwOQ74BPByn4qpt3fUaZeSr3dsQUWu5wTAzW51wHtAfCQYhcEcZBikwKO1fWVdrh3mb5BWICPZwzyzjIQoo3rKBGfp_iOUvXqnKXfc5Nj0hMzfGYN5FMNaOocAAAAASUVORK5CYII.png",
+      "extensions": [
+        "3 days ago",
+        "₹66,667–₹1,25,000 a month",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/cost-accountant-service-industry-tresbien-hr-consultancy-mumbai--t7xk-867752082",
+      "job_title": "Cost Accountant - Service industry",
+      "description": "Analyse business costs, identify unnecessary expenditure, recommend and implement cost-saving initiatives, and track measurable financial savings.Candidate will be responsible for understanding where money is being spent, identifying cost leakages,\n\n\nRequired Candidate profile\n5+yrs experience in Costing, Cost Control, Management Accounting, FP&A, Business Finance, Financial Analysis or Cost Optimisation..in Healthcare, Insurance, TPA, BPO, Technology an advantage.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/cost-accountant-service-industry-tresbien-hr-consultancy-mumbai--t7xk-867752082?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb3N0IEFjY291bnRhbnQgLSBTZXJ2aWNlIGluZHVzdHJ5IiwiY29tcGFueV9uYW1lIjoiVHJlc2JpZW4gSHIgQ29uc3VsdGFuY3kiLCJodGlkb2NpZCI6Il9tVVFjX0J0dHlTbVlFNkFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbDlCWWsxRUxVazNhbTR6VDFORFdGRkpaR2t6ZGtweVRGVjJkelJhYWxoRU1XUk1abXRVV1V4MFQyOXhTMjV5VTNNMWRuRTRiMnN3TTJkc2NUQldVbmRsZUV4aVMxTXhSak5YU0dSSE5HVjZTV1p4VEVjM2NUWjBNV1J4VEVzelltMWxaMFJSWkRsZlYySjJSR3RsYTNoWGJrVm1abll4TjIxNFIzZFBRazE2ZFdOMFh6SVNGM1V0WmtsaGRHbzNSblUyWlhkT05GQnlUVWMyT0VGdkdpSkJSSE55T1daUmRsZG9iMEo2ZVMweU0xUjZZbnB6ZDB0MFYzaGZkVEZHZG5aQiIsImZjdiI6IjMiLCJmY19pZCI6Il9tVVFjX0J0dHlTbVlFNkFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Accountant",
+      "company_name": "T M Enterprises (T M Enterprises)",
+      "location": "Dhanore, Maharashtra",
+      "via": "WorkIndia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=movgm7tLrbl6FNBoAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_12MMQrCQBAAsc0TrBZsVCQngoVaCYpVOvuwOZa7k7h73K6Q0j9Y-zlfYmxtphiYqd6Tanb0Xh5syAaf5wtu0oESFh9BGC4ioafpIZpl3Tun2tdBDS352svdCVMngxsj_aHViIVyj0btZrse6sxhubtCA2c2KrkkJYX5n1hAYjhFZCm0ggbHB2q0gl9jyPn2oAAAAA&shmds=v1_ARwrE22b3Pa9t6ZECACRDEokb53GL_yAB1LciLM_m5aN8xkFlQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=movgm7tLrbl6FNBoAAAAAA%3D%3D",
+      "extensions": [
+        "29 days ago",
+        "₹35K–₹45K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.workindia.in/jobs/accountant-dhanore-pune-11156896/",
+      "job_title": "Accountant",
+      "description": "Salary Range : Rs. 35000 - Rs. 47000 , based on skills, experience, and interview performance\n\nEducational Requirement : Graduate\n\nWork Arrangement : Work From Office\n\nGender Preference : Both male and female can apply\n\nSkills Requirement : No predefined skills necessary\n\nExperience Requirement : 2+ Years of Experience\n\nLocation : Dhanore\n\nWorking Hours : 9:30 AM - 6:30 PM | Monday to Saturday\n\nAdditional Info : Manage Financial Records, Prepare Tax Filings, And Ensure Compliance With Legal Regulations. Analyze Financial Data To Assist In Decision-Making. Provide Advice On Tax Planning And Savings Opportunities. More Than 2 Years Experience Compulsory.  | Skills Needed : Tally, GST, TDS, Finalization | Book Keeping, Audit, Taxation",
+      "apply_options": [
+        {
+          "title": "WorkIndia",
+          "link": "https://www.workindia.in/jobs/accountant-dhanore-pune-11156896/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiVCBNIEVudGVycHJpc2VzIChUIE0gRW50ZXJwcmlzZXMpIiwiaHRpZG9jaWQiOiJtb3ZnbTd0THJibDZGTkJvQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzB0SU5rRlRSMlJMU1hWV2MwaGtTMDFJT0ZrNWFGZFBYM2xyVVhkM1Z6RjNSa0ZMYm10WlZWcEVWbW95ZUc5TFNHaFBSekp3YTI4MlIyZFRWelpvVldrMGRWOVVRbXBQV25sMVZXYzRaVVpvY0ZFdFNEWTRTRGhUUldwVFR6UnhkblV6Y0RBdGVXZ3lOV1JUZVV4UGRqbGpkV1pYWkhsWVNEaHBUWHB6Tm1OMmVGQlpVVzRTRjNVdFprbGhkR28zUm5VMlpYZE9ORkJ5VFVjMk9FRnZHaUpCUkhOeU9XWlRVVGRNYjFJM0xXMDBaa1ZzVVVwTlRHSllTR1JPWTNCSk5FcEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJtb3ZnbTd0THJibDZGTkJvQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Accountant – CA Office",
+      "company_name": "Deziners Studio",
+      "location": "Nashik, Maharashtra",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=Kelt16erM0GpoJCjAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2LMQrCQBAAsc0TrLayEMmpYKNVULBSCx8QNucmd3rehtsNBCv_YOP7fInRZpgpJnuPskVhLXdRMSp8ni_YFnCqa2_pX1euQAiTdcAR9sxNoPHGqbayNkYk5I0oqre55bvhSBX3Zpjkh1IcJmoDKpXL1bzP29hMJzt6-EhJ4KzdxTP4CEcU528zOOAwDK4Jv2qMtDebAAAA&shmds=v1_ARwrE20HQRWMATCjYGLhL7JD1HNi1tEr1tUZM3I4SX7t44IOIg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=Kelt16erM0GpoJCjAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "₹25K–₹30K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/HgzmwsqKqF792x0X25Sb9X80VI1EbmMEaScXWwyALUYmGo4JKpgQ5g",
+      "job_title": "Accountant – CA Office",
+      "description": "Job Title: Accountant – CA Office\nLocation: Nashik, Maharashtra\nExperience: 2–4 Years\nSalary: ₹25,000 – ₹30,000 per month\nEmployment Type: Full-time\n\nJob Summary\n\nWe are looking for an experienced Accountant to join a Chartered Accountant office in Nashik. The candidate will be responsible for day-to-day accounting, bookkeeping, GST/TDS-related work, reconciliations, documentation and supporting multiple client accounts.\n\nKey Responsibilities\n\nMaintain day-to-day accounting records.Handle sales, purchase, receipt and payment entries.Maintain ledgers and accounting records.Perform bank and ledger reconciliation.Prepare and maintain client-wise accounts.Assist in GST return preparation and related documentation.Handle TDS-related accounting and documentation.Assist in preparation of financial statements.Verify invoices, vouchers and supporting documents.Maintain proper accounting documentation.Assist with audit and taxation-related activities.Coordinate with clients to collect required financial documents.Follow up with clients regarding pending information.Prepare accounting reports as required.Use Tally and MS Excel for regular accounting work.Ensure accuracy and timely completion of assigned tasks.Maintain confidentiality of financial and client information.Requirements\n\n2–4 years of experience in accounting.Previous experience in a CA firm will be preferred.B.Com/M.Com or relevant accounting qualification.Good knowledge of Tally and MS Excel.Working knowledge of GST and TDS.Knowledge of bookkeeping and bank reconciliation.Basic understanding of taxation and accounting principles.Good attention to detail.Ability to manage multiple client accounts.Good communication and organisational skills.Pay: ₹25,000.00 - ₹30,000.00 per month\n\nBenefits:\n\nCell phone reimbursementProvident FundWork Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/HgzmwsqKqF792x0X25Sb9X80VI1EbmMEaScXWwyALUYmGo4JKpgQ5g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/accountant-ca-office-deziners-studio-nashik-maharashtra--t7xk-869869150?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IOKAkyBDQSBPZmZpY2UiLCJjb21wYW55X25hbWUiOiJEZXppbmVycyBTdHVkaW8iLCJodGlkb2NpZCI6IktlbHQxNmVyTTBHcG9KQ2pBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbWhWZVRKSGVuaDVkSHBSWTJzeGVGcG9abWRyT0hCcFdWZHZaV2RvUjJGc05scEtNbXhsZUZkdGMwcG5jbFZTYjJVNVNrdHdhbEZPTURSNGJrVjJhR3BXV1ZSUGMzZFViRnAwTFVKWlJtaFBSVXB1WkVkRGFtRlJlR0Y2ZUZZeFlqaFphMjh3TFhCWmFGSXpOa1JFWW1wNE1Wb3lUMmR3VFdabGJrdDJWemRoVEhWdmQzTVNGM1V0WmtsaGRHbzNSblUyWlhkT05GQnlUVWMyT0VGdkdpSkJSSE55T1daVVVFMWhWSGQzZEhwTllWVTRkMVJ1T1c5VVNFczNORkF4UVdOUiIsImZjdiI6IjMiLCJmY19pZCI6IktlbHQxNmVyTTBHcG9KQ2pBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Associate Accountant (CA Freshers)",
+      "company_name": "BDO India",
+      "location": "Mumbai, Maharashtra",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=ZMyBDWCJGeEesJjiAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsfUJVluqSE4EG1NFRbEIPiFsziV3kuyG2w2k9A-2vs6XGJupZpj5ZzbPC1XxEY2g8F4GNmSD5amASyINlHQF39cbnlKDEiYfQBiuIk1LizyY9XpwTrXNGjW06DMvnROmWkY3RfpHpQET9e10qXb77Zj13KzheL7DjR8RITKUQ1dj3ECJk4oaLOEPmnFXR58AAAA&shmds=v1_ARwrE22FnMLmQpdhAfAI2m9Fz55Nxu57E3GdT3PWq_BR-6-6iQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=ZMyBDWCJGeEesJjiAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e7babca7e5ae96d99f34/images/x_MbqRavRdMTBV2ddmAOCbXyIJ1f8tJV1KDd61GqmWg.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/associate-accountant-ca-freshers-at-bdo-india-4476169792",
+      "job_title": "Associate Accountant (CA Freshers)",
+      "description": "About BDO India\n\nBDO is a global network of professional services firms with a presence in over 166 countries, revenue of over USD 14 billion, and experience of over 60 years. Its a leading service provider for the mid-markets with client service at its heart.\n\nBDO India Services Private Limited (or ‘BDO India’) is the India member firm of BDO International. BDO India offers strategic, operational, accounting and tax, and regulatory advisory & assistance for both domestic and international organizations across a range of industries. BDO India is led by more than 300+ Partners & Directors with a team of over 10,000 professionals operating across 14 cities and 20 offices. We expect to grow sizably in the coming 3-5 years, adding various dimensions to our business and multiplying and increasing the current team size multi-fold.\n\n\n\n\nThe Opportunity\n\nWe are looking for a newly qualified Chartered Accountant to join our Finance & Accounting team. The role will provide exposure to financial accounting, taxation and statutory compliance, audit coordination, reconciliations, and MIS reporting. The ideal candidate should have strong accounting fundamentals, analytical ability, and a keen eye for detail.\n\n\n\n\nKey Responsibilities\n\nFinancial Accounting\n\nAssist in preparing and finalizing monthly, quarterly, and annual financial statements in accordance with applicable Indian Accounting Standards (Ind AS).Support month-end and year-end closing activities.Ensure accuracy and completeness of accounting records and financial information.\n\n\nTaxation & Compliance\n\nAssist in ensuring timely compliance with applicable statutory and regulatory requirements.Support preparation and filing of GST, TDS, and Income Tax returns.Assist in maintaining tax records and supporting documentation.\n\n\nAudits\n\nSupport internal, statutory, and tax audits.Coordinate with external auditors and provide required schedules, documents, and supporting information.Assist in addressing audit queries and closing audit requirements.\n\n\nReconciliations\n\nPerform regular bank, vendor, and customer ledger reconciliations.Identify discrepancies and coordinate with relevant stakeholders for timely resolution.Ensure reconciliation statements and supporting documentation are properly maintained.\n\n\nMIS Reporting\n\nPrepare accurate and timely MIS reports for management review.Assist in variance analysis against budgets, forecasts, and prior-period results.Highlight significant variances and provide relevant insights to support decision-making.\n\n\nQualifications:\n\nCA Fresher / Newly Qualified Chartered Accountant.Strong academic and accounting fundamentals.Candidates with relevant articleship exposure in financial accounting, taxation, audit, and compliance will be preferred.Should demonstrate a willingness to learn and take ownership of assigned responsibilities.Strong understanding of accounting principles and financial reporting.Basic knowledge of Ind AS, GST, TDS, and Income Tax.Strong analytical and numerical skills.Good command of MS Excel and accounting/ERP systems.High attention to detail and accuracy.Ability to work independently as well as collaborate with internal and external stakeholders.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/associate-accountant-ca-freshers-at-bdo-india-4476169792?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc3NvY2lhdGUgQWNjb3VudGFudCAoQ0EgRnJlc2hlcnMpIiwiY29tcGFueV9uYW1lIjoiQkRPIEluZGlhIiwiaHRpZG9jaWQiOiJaTXlCRFdDSkdlRWVzSmppQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBWdWRGRlBRalV4UlZSNWFuWnlSMDlmZDBReFltdExMVE5VWWxCUWFISkpZMGxTUzBKUGNGbDJObkZVU25oSk5HeGpUelZzY0hkdWNYSmpVak50ZG1GbVVqQndlUzFDYUVjeFZXNXpkWGczTFRVdFNqQlFha2xLYmxwRU1FMHlhVkZWZW5saE1rTjFZbEZUZFdWaVUwaHpURUZwYVVZeWVqQXhjalZ0YlV0eVpFbFBaMDhTRjNVdFprbGhkR28zUm5VMlpYZE9ORkJ5VFVjMk9FRnZHaUpCUkhOeU9XWlVVMnd6UmtvMVEyRlBlRU5hUkd4VFowMUZjRmRwZFY5RVZUSm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJaTXlCRFdDSkdlRWVzSmppQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Accountant - Compliance & Audits",
+      "company_name": "SKF",
+      "location": "Pune, Maharashtra",
+      "via": "SKF Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=9FtNHTxwuZelUKYCAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzArGaykI0K4KNNgZBCxGEHEAm65Jd2cwsOxNI6R2svJ4nMTa_er_4TIpD7Shwhspa7kmRFFZw5C7FgGQdzKHqH0EFvq83PLkBcZitByY4M7fRzfZeNcnOGJFYtqKowZaWO8PkGh7MOMk_d_GYXYqo7r7ZrocyUbuY1pcTBIJbT24JVxwJiteMP3QdtN2cAAAA&shmds=v1_ARwrE21hqYv7LQPPod09ZU-Ggj0KmD7p5Fb1NOmj5IlsmHaKIQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=9FtNHTxwuZelUKYCAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAfCAMAAACF8f6iAAAAZlBMVEX///8ATdoAUdpMc+AARNkASdkAQtgJVNtDbd/V3PY6Z97P1/UAPNgAT9oAR9lRduHc4vgjXdxhguPFz/Py9PxwjOUuY92Moumgr+yxvu/p7fp+ludVeeGquu6YrOsAMtYZWNu6xfGVUlHmAAAA8ElEQVQ4je2RSXLEIAxFxQwGDG06wRMe7n/JyG5XVnibbPyqKERJH6EPwMPDvzFoxpoG1wiA4QRg2KwNwMyYbo4M06UmXFrCol35GgEcJTMYx/maALwXvTHxJbnLVSHxHYC1FmOnaBcdsym9AYgSKIeEjFWhFK+c87LkEb68+ibtVZbxxuy4MzczxlJ6RBBnoQiFbO8zkYSfeinXG6HZ93jsSrX201HRbd+HETuS5c5RZJJy+hWeM0qlhHADzqjU9aiqUJDOIIRye7kqKaXtgK767SyxxVaEPQtMIyHoCDqc/3gcEswhdJ+GdVcfHv6AH1w6DV0bxGAdAAAAAElFTkSuQmCC24",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://career.skf.com/job/Pune-Senior-Accountant-Compliance-&-Audits/1412495833/",
+      "job_title": "Senior Accountant - Compliance & Audits",
+      "description": "About SKF SKF started its operations in India in 1923. Today, SKF provides industrial engineered solutions through its five technology-centric platforms: bearings and units, seals, mechatronics, lubrication solutions and services. Over the years the company has evolved from being a pioneer ball bearing manufacturing company to a knowledge-driven engineering company helping customers achieve sustainable and competitive business excellence.   SKF's solutions provide sustainable ways for companies across the automotive and industrial sectors to achieve breakthroughs in friction reduction, energy efficiency, and equipment longevity and reliability. With a strong commitment to research-based innovation, SKF India offers customized value-added solutions that integrate all its five technology platforms. About the organization: www.skf.com/in   SKF Purpose Statement Together, we re-imagine rotation for a better tomorrow.  By creating intelligent and clean solutions for people and the planet     JOB DESCRIPTION   Job Title:          Senior Accountant – Compliance & Audit Reports to:        Chief Accountant R2R Role Type:        Team Manager/Individual contributor Location:          Chinchwad, Pune   Job Roles & Responsibilities:   Your day-to-day work/ Key Responsibilities  Supervise the preparation of journal entries and reconciliation of financial statements and accounts ensuring data accuracy. Ensure effective maintenance of general ledger accounts Manage monthly account reconciliations, general ledger accounts, review financial reports to identify and explain variances, and follow documentation & maintain accounting files Perform general ledger closing, preliminary financial statements, consolidation, and month-end reports Direct accounting analysis and reporting and prepare journal entries for accruals and variances  Provide technical support and advice to Process Analysts Maintain all financial information and records  Ensure documentations are prepared in compliance with all related regulatory guidelines and applicable policies  Lead the team in performing month-end and year-end closing by ensuring any reconciling items are addressed and overall timely execution of high quality and accurate processes  Respond in an effective and timely manner to all Business Unit needs concerning areas such as expenditures and inventory Responsible for Fixed Assets Accounting, Inventory Accounting and Payroll Accounting Lead Statutory Audit and Complete it within the required time frame   Provide support to all internal and external audits as initiated from time to time Work in close collaboration with external service provider/outsource partner  Lead all continuous improvement and optimization projects for R2R  Responsible for performance delivery according to agreed SLAs & KPIs in line with the Shared Service Centre standards and respective country norms Calculation of tax provision including deferred tax working Prepare withholding Tax return Prepare Monthly, Quarterly return of Indirect Tax GST etc. Provide guidance to the team on application of accounting standard for any special business transactions Perform Weekly review of Trial balance and ensure correctness in accounting Perform Cost Center wise review    We offer:  A stimulating and challenging job in an international and developing environment Opportunity to be part of an experienced and open-minded team Get an in-depth knowledge of best-in-class Finance processes     We expect you to have  Superior understanding of overall Finance & Accounting with strong exposure to R2R processes Expert Knowledge on Accounting Standards Experience in Audit and Preparation of Financial Statements Leadership skills for team management and keep team motivated. Good Organizational and planning skills, including ability to: prioritize work, handle multiple tasks simultaneously, set goals and enforce deadlines, while maintaining flexibility to reassess and prioritize goals Experience with MS Office required and superior understanding of Finance systems/ERP Strong written and verbal communication and analytical skills Ability to challenge the standard/Status- Quo in order to secure accounting and improve processes. Open minded when it comes to changes.    Academic & Work Profile   CA – Qualified  5+ years of professional work experience in R2R function (Accounting, Reporting and Audits) with 2+ years of experience in leading a team responsible for ongoing reporting and processing Experience of working in a Manufacturing Set-up/ Exposure working in a Shared services Centre will be an added advantage    Relevant Experience/ Knowledge in reputed Captive/Outsourcing RTR Ops.  Good Written/Verbal Communication Excel Knowledge. Preferred someone with exposure of SAP for 2+ years Stakeholder Management experience Power BI Dashboard/ Worked with Power Query for data cleaning, transformation, and preparation  Quality Lean/Process Improvement knowledge    Interested candidate/s can share their resume to [REDACTED EMAIL]",
+      "apply_options": [
+        {
+          "title": "SKF Jobs",
+          "link": "https://career.skf.com/job/Pune-Senior-Accountant-Compliance-&-Audits/1412495833/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQWNjb3VudGFudCAtIENvbXBsaWFuY2UgXHUwMDI2IEF1ZGl0cyIsImNvbXBhbnlfbmFtZSI6IlNLRiIsImh0aWRvY2lkIjoiOUZ0TkhUeHd1WmVsVUtZQ0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHeHJYMDkyYldKTVZWUnZhV0ZKV1hOc2NFSlRkMkZKUVZCb1ExZzNObTEwVlRKalYxYzNSMU41WDJGb2JVOVZRMXBaV2sxTlIweGlhRVo0WWpKRWVrZHNVM2hWU0RkNlNHaHBOWGx3TWpKRVgwUnliMjVrWDFkVWJWZENXVGxEZWtnMU1sUk9VVTF3TUdsTWRtUXpNV2xqVTFCRVJsRTJVRnBIT1hSb2IyeFZVbE16WmxNU0YzVXRaa2xoZEdvM1JuVTJaWGRPTkZCeVRVYzJPRUZ2R2lKQlJITnlPV1pUWkdobVptbFpVVk5xVDJWSVJHTXlhMEZ1VFRjemRGWnZZMVZuIiwiZmN2IjoiMyIsImZjX2lkIjoiOUZ0TkhUeHd1WmVsVUtZQ0FBQUFBQT09In0="
+    },
+    {
+      "title": "Sr. Accountant Executive",
+      "company_name": "Belgundi Resort Pvt Ltd",
+      "location": "Belagavi, Karnataka",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=veAtb96evsKmOqbxAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQ3CMBBAUdFmBKqrEbIBiQYqkBAFFAgGiC7OyTEYX-S7RCnZgQWYjUkIzW-efvGZFMtbNrBzjrukmBQOA7lOQ0_wfb3hzhUIYXYNcIIjs4803TaqrWysFYnGi6IGZxw_LSeqeLDjJP-U0mCmNqJSuVovBtMmPzN7ir5LdYArCWeFS69w1hpCgpHQYx_mcMKcUPGBP7sodkqjAAAA&shmds=v1_ARwrE22Ef-zWFZPvuOUzaqapNMxblGI40lEX3t0qZTrfXQpDjA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=veAtb96evsKmOqbxAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "₹40K–₹46K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010286853779",
+      "job_title": "Sr. Accountant Executive",
+      "description": "ob Summary:\n\nWe are looking for an experienced and responsible Senior Accounts Executive to join our team. The candidate should have 4+ years of relevant experience in accounting and finance operations.\n\nKey Responsibilities:\n\nManage day-to-day accounting activities.\n\nHandle accounts payable and receivable.\n\nPrepare invoices, vouchers, and financial reports.\n\nMaintain accurate accounting records.\n\nHandle bank reconciliation and ledger reconciliation.\n\nAssist with GST, TDS, and other statutory compliances.\n\nCoordinate with auditors and external consultants.\n\nSupport monthly closing and other finance-related activities.\n\nPay: ₹40,000.00 - ₹46,000.00 per month\n\nBenefits:\n\nFood providedProvident FundWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010286853779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/sr-accountant-executive-belgundi-resort-pvt-ltd-belgaum--techmap_in_ao1pXK7fdcgZDFRZVuNp3ep1I-ArPri3o-xb-YL2zHuh8IcIFa4u2A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/ao1pXK7fdcgZDFRZVuNp3ep1I-ArPri3o-xb-YL2zHuh8IcIFa4u2A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gQWNjb3VudGFudCBFeGVjdXRpdmUiLCJjb21wYW55X25hbWUiOiJCZWxndW5kaSBSZXNvcnQgUHZ0IEx0ZCIsImh0aWRvY2lkIjoidmVBdGI5NmV2c0ttT3FieEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXcFZNekY0VFZNemNtOU5NMFV0WkhsSFVIbG5OR05DVlVWSFpqQTBaMHhPVEdKM2FHaHBTSGhIV2preE5qbFNlR1ZZV1UxWlRVbFNaRUo0VGtSYVprNVRaVkJQYmpSTVVVeGlTblZYYTNNelRFOXNZMHQ1VDNGNGVXSlRTMjU0TFZGR2VVMURXRGhsTlhCNlEwOXJkelEyTVhNd04wTkpSR2RxWjB0aWRESnBUamRFZGxVU0YzVXRaa2xoZEdvM1JuVTJaWGRPTkZCeVRVYzJPRUZ2R2lKQlJITnlPV1pVZGxKRlpGVnVkR1UyT0ZwSWFqZE5aMVZhWTFkeFUxcGlPRWhSIiwiZmN2IjoiMyIsImZjX2lkIjoidmVBdGI5NmV2c0ttT3FieEFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBURGR3YUZSV1kwOXZSRzlSYjNKdmMzZDNPVE5YYVdsVFgydG5URTlvYmxaQlZFWjFhVWg0VlVnM1JVRkVNemxrVG1SVU1DMWFjMkZPU1VaUmR6Qk1ORVIyVkVGMVNGVjBVV0pmYTJKVVQxTlpObUZKYmpCSmRGVldURXRWWjE5TVRVUjVWVlpDUzBwSmRUbFdjelUxVlVWdlZtcGpkVlJ3Tms5TVVGQkhhM2RMZVVNMlZYVjVXV3cxTkdkNmFHZzNORzE2V1RGQlJFOW9VbGhITkhoclZTMTNXV1Y2VUU4NU4xcGxTVWRLVkROc1NrOXhhbmN5U1hBMWFHaEVSQzF3UlRkV2RUSXlNR0ZxWDIxUlEwVklRWGRTVjJrNGEyUk9RbFYzZFZoS04zUmZSakUzYVhwTVltSm1kbTVwZWtsWVJIZG1Oa1Z2V0dSdE4xRjFiVWh2VXpGeGJpMUdRalJrVDJOUmFITTNTRmxZVDNGclZVZ3phV2hCVmxsQmJFWm1lbmhYU25SaFJYcDZibUZuZGxaVlEyMW1VWE5hTFVjeVYyVm1UemMzVkRaSFFsRk5TRk42UTFrNFNuRnhiRzUxUlZCV1ZISTRaVVJpYVRsbFRIaHlSbVZ2WTBZd1lWaHBlVzlWTWxkUlh6RnVTMDVvYVhocFNFMTJXbHA1VjJkeE9XOVJSbDlOUms0MGFsUlpkMmRPZEUweWJUVkVibDlEWm05QmQwSlplRFZ3T0hodlZtRnphemhXVEhFemJrUk5UbEZxVUVjeldXcEViRFExYm01RmMwYzJhemQxUVJJWGRTMW1TV0YwYWpkR2RUWmxkMDQwVUhKTlJ6WTRRVzhhSWtGRWMzSTVabEZST1hWaGVUbFZWVUpEU0VOd1NTMVZWbTF4YURCNWFrcFNUbEUiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&next_page_token=eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBURGR3YUZSV1kwOXZSRzlSYjNKdmMzZDNPVE5YYVdsVFgydG5URTlvYmxaQlZFWjFhVWg0VlVnM1JVRkVNemxrVG1SVU1DMWFjMkZPU1VaUmR6Qk1ORVIyVkVGMVNGVjBVV0pmYTJKVVQxTlpObUZKYmpCSmRGVldURXRWWjE5TVRVUjVWVlpDUzBwSmRUbFdjelUxVlVWdlZtcGpkVlJ3Tms5TVVGQkhhM2RMZVVNMlZYVjVXV3cxTkdkNmFHZzNORzE2V1RGQlJFOW9VbGhITkhoclZTMTNXV1Y2VUU4NU4xcGxTVWRLVkROc1NrOXhhbmN5U1hBMWFHaEVSQzF3UlRkV2RUSXlNR0ZxWDIxUlEwVklRWGRTVjJrNGEyUk9RbFYzZFZoS04zUmZSakUzYVhwTVltSm1kbTVwZWtsWVJIZG1Oa1Z2V0dSdE4xRjFiVWh2VXpGeGJpMUdRalJrVDJOUmFITTNTRmxZVDNGclZVZ3phV2hCVmxsQmJFWm1lbmhYU25SaFJYcDZibUZuZGxaVlEyMW1VWE5hTFVjeVYyVm1UemMzVkRaSFFsRk5TRk42UTFrNFNuRnhiRzUxUlZCV1ZISTRaVVJpYVRsbFRIaHlSbVZ2WTBZd1lWaHBlVzlWTWxkUlh6RnVTMDVvYVhocFNFMTJXbHA1VjJkeE9XOVJSbDlOUms0MGFsUlpkMmRPZEUweWJUVkVibDlEWm05QmQwSlplRFZ3T0hodlZtRnphemhXVEhFemJrUk5UbEZxVUVjeldXcEViRFExYm01RmMwYzJhemQxUVJJWGRTMW1TV0YwYWpkR2RUWmxkMDQwVUhKTlJ6WTRRVzhhSWtGRWMzSTVabEZST1hWaGVUbFZWVUpEU0VOd1NTMVZWbTF4YURCNWFrcFNUbEUiLCJmY3YiOiIzIn0%3D&q=Accountant"
+  },
+  "_retrieved_at": "2026-10-09 13:10:18 UTC"
+}

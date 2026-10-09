@@ -1,0 +1,254 @@
+{
+  "search_metadata": {
+    "id": "6ac8e7c1e6590e71d5a06ed4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4Ntmp2c2WnGw5wNzF43UO6dissIkkNYuVBLx8Vb5Kcs/6ac8e7c1e6590e71d5a06ed4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/4Ntmp2c2WnGw5wNzF43UO6dissIkkNYuVBLx8Vb5Kcs/6ac8e7c1e6590e71d5a06ed4.md",
+    "created_at": "2026-10-09 13:10:25 UTC",
+    "processed_at": "2026-10-09 13:10:25 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Accountant&uule=w+CAIQICIkSW5kb3JlIERpdmlzaW9uLE1hZGh5YSBQcmFkZXNoLEluZGlh&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/4Ntmp2c2WnGw5wNzF43UO6dissIkkNYuVBLx8Vb5Kcs/6ac8e7c1e6590e71d5a06ed4.html",
+    "prettify_html_file": "https://serpapi.com/searches/4Ntmp2c2WnGw5wNzF43UO6dissIkkNYuVBLx8Vb5Kcs/6ac8e7c1e6590e71d5a06ed4.prettify",
+    "total_time_taken": 1.42
+  },
+  "search_parameters": {
+    "q": "Accountant",
+    "engine": "google_jobs",
+    "location_requested": "Indore, India",
+    "location_used": "Indore Division,Madhya Pradesh,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMGRRZGxnelRHSktWamw1ZURkMlpHVnBOQzFhZFRKUFVUZHlPR3AwWkV4SFZURkRTemRqUkRoSFJqZDNaRGMwTFZkcmVraFNXWFJTWVhCV1NqTlRVRk5XYkhwNGRrUktTbFJsU1VKclNrUnBZVFJuYnpRM2JVNHlkM1o1YkdjdE5DMDJaM0E0UlhWa1psaEpjbFUzTVZKMlUxcERjR3RhUkdNd1ZrUkNValp3VWxNd1YwazBVVTVaUzJwTlpuVlBkbTAyZUdWc1UxVjJiMEpmUWxONWQweHdWMVZEVkZJeWVqbE5iR1ZRZGxGemRqSmpZbTFZUzBaeVdWSnNTSGd3VFZoVFNXazNka0Y0TURaUmJtVTRjbHB5TXpGQlIzSmthQzFHUkhOdk1EaEZZVFZpTnpCWFQyRkhiakJMV1UwNVJYUlhPVmR1YUd0RGQyMHpiSG8wVW1sRGJVeERSMHRKVUVWV2JIZEtOVlpmWkhWSWRubHlVMTlYY21rNE9VcEVWMDV6WVRCVVNWRmpabUYyUlZwb05XRjZWMXBPUW5RelZrbFlXR3cwZW5GMk1UWjNaa1F0VlVsV01rcG5VbHBrV1VGbFUwRlpNekJtZW1oZmFEWmtZbWxWVlZnM1MzWjBSMnRYV0ZCRlYxazViRXBTTW1wSVlVMXJNVEZLVjI5b2JXcGFhbTFOV0ZabFRIZEVVSEpFYlZNM1pXWlVkbGhRWmpCRFlqZE9jVU5EZUY5RlMwcDFVSGxsT0RSQmVXOVZVa3RNTjA1UVdrcFpXRzVzYlV4d2VuVkpia054VjJsWk0wOUhlRTR0YVRWQ2RHNTJZVU5CU25ONVIxRVNGekJOTTBsaGMyazFSVjlsY0hKMVJWQXdaVzFLTFVGVkdpSkJSSE55T1daUlVIaG5XbXhTY2xGRVpHNUVOemhUT1VNdFRreHZaMnBvZWxKMyIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Accountant",
+      "company_name": "TestHiring",
+      "location": "Kannod, Madhya Pradesh (+1 other)",
+      "via": "Talent.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=aE2UwJbZ4NgrTo5ZAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU4HOok0Irjo5KQggoN7uaZHklLvQu6Eujm6-4d-ibq87VWvSTXbey93NmSDz_MNvbSghMVHEIaDSBhouotmWbfOqQ51UENLvvZyc8LUyuh-Sf80GrFQHtCoWW9WY505LOZXUjumkjhAYjghs3RLOGMXHwiXgh1p_AL2-5G7iwAAAA&shmds=v1_ARwrE20C6VQvl3_wv1aASXg2F5ztslXGXsCm4yXYXF96V9xcLw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=aE2UwJbZ4NgrTo5ZAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAAAwQFBgf_xAA0EAABAwIEAAkNAQAAAAAAAAABAAIDBBEFEhMhBhQxNlFxcoKyFiI0QVVjgZOhorHB0RX_xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQQC_8QAGhEBAQEAAwEAAAAAAAAAAAAAAAERAxIhAv_aAAwDAQACEQMRAD8A9xREQES6yq_H6Gjqo6UyatQ97Wace-Uk236PymDVREQEREBVsRrYcPo5aqoJEcYF8oudzYfUqysThnzbrO542qybZBymLcKa_E38XogaeF2wDT57us-r4LKoYpIcVo2ysLXa8Zse0FBR6nGotHLqZhlzcl1ckNQMYpDU5NQPjtk5LZlr6yTI6erIuVqcf0MUjoHGYudlBeDsCeTZdDQPc-C73Em53KyWWOVlERQFicM-bdX3PG1bapYzQDE8Olo3SGMSZbuAvaxB_Ss8ujyeN7o3tew5XDcHoU9NLJNiNM6V5c7VYLntBdZ5CR-0H_KH9UkHAiOGeOXj7zkeHW0hvY9a03l-XWrz4InytmdEwyt2a8tGYdRWth3o_eKj_wA_3v2qzTw6MeTNfe91mt1KlREUQREQEREBERAREQf_2Q.jpeg",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.talent.com/view?id=640012860762623692",
+      "job_title": "Accountant",
+      "description": "Record and maintain daily accounting transactions using Tally.\nPrepare books of accounts ledgers journals and vouchers.\nManage accounts payable and accounts receivable.\nPrepare invoices payment vouchers and reconcile bank statements.\nHandle GST-related documentation and maintain statutory records.\nMonitor daily cash flow and financial transactions.\nPrepare monthly financial reports and MIS reports.\nAssist in month-end and year-end closing processes.\nCoordinate with auditors and ensure compliance with accounting standards.\nMaintain accurate financial records and support management with financial information.\n\n\nRequirementsBachelors Degree in Commerce () or a related field.\n35 years of relevant accounting experience.\nStrong working knowledge of Tally ERP.\nBasic understanding of GST taxation bookkeeping and financial accounting.\nProficiency in Microsoft Excel and MS Office.\nStrong numerical analytical and problem-solving skills.\nExcellent attention to detail and organizational abilities.\nAbility to maintain confidentiality and meet deadlines.\nGood communication and coordination skills.\nAbility to work independently and as part of a team.\n\n\n\n\n\n\nRequired Skills:\n\nBachelors Degree in Commerce () or a related field. 35 years of relevant accounting experience. Strong working knowledge of Tally ERP. Basic understanding of GST taxation bookkeeping and financial accounting. Proficiency in Microsoft Excel and MS Office. Strong numerical analytical and problem-solving skills. Excellent attention to detail and organizational abilities. Ability to maintain confidentiality and meet deadlines. Good communication and coordination skills. Ability to work independently and as part of a team. \n\n\n  Employment Type : Full Time\n  Experience:  years\n  Vacancy:  1 \n  Monthly Salary Salary:  18000 - 25000",
+      "apply_options": [
+        {
+          "title": "Talent.com",
+          "link": "https://in.talent.com/view?id=640012860762623692&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "School Jobs In India",
+          "link": "https://schooljobsinindia.com/jobs/shree-shrinivas-vidya-vihar-indore-road-1459-accountant-e4bb6292?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NiyukJobs | AI",
+          "link": "https://niyukjobs.ai/jobs/detail/4cccb8aa-043c-4ba9-8460-ae1a1478c289?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiVGVzdEhpcmluZyIsImh0aWRvY2lkIjoiYUUyVXdKYlo0TmdyVG81WkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzVk9RbXR2VHkxTlRuQmhZV3BhYW5seFdFUmpTMjFQZVdKV05uWk5SM0JqVTJadWQyOTZaVlJZWlVOemJXSm9iVkI0UzFWNE4weFlNazloYUdsTlFtOVdaM2R3TWpsSWJFdEtVRXBZVHpVM1QzcGxSRUpLYkhsRFVXNTVRbGRFUTNRNFNtWkVhRUYwUjBkNldFSllla0ZEV0ZSM2FGUnlNVGREZWxOc1dsWndPVGxIWTNNU0YzZGxaa2xoZEhWclRsQlBVM2QwTUZCMFNsQTBlVUZOR2lKQlJITnlPV1pSWmxoMmVIYzVXVWxGVFZORE9YcEZSa1V3TnpNdFpYbGllVWRuIiwiZmN2IjoiMyIsImZjX2lkIjoiYUUyVXdKYlo0TmdyVG81WkFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Accountant (Basheer Bagh)",
+      "company_name": "Important Group",
+      "location": "Kukshi, Madhya Pradesh",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=yDvcC_HHP2wV8tqsAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3NTQrCMBBAYdz2CK5maUUaEVyoK7spIoLgAco0HZJomwmZFOrOO3gEb-ZJ_Nm83cfLXpNscyHvOMJeax58Qp9gVqJYogglGpvD-_GEKzcghFFbYA8Vs-lourMpBdkqJdIVRhImpwvNvWJPDY_qi-SXWixGCh0mqlfr5VgEb-b5oQ8c_78q8hDAeTgON7FuASds7R3hHLElsR_BnM6MpgAAAA&shmds=v1_ARwrE20vWhOVUUQTXAq7UjJc3hO0a0TO6Zrhk2I8MGDKGZq1_g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=yDvcC_HHP2wV8tqsAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jobrapido.com/jobpreview/5362878682568327168",
+      "job_title": "Senior Accountant (Basheer Bagh)",
+      "description": "Position - Senior Accountant   \n\nQualifications - Dropped out CA/CA Semi Qualified  \n\nSalary - 22000 - 40000 per month  \n\nExperience - 2-5 years   \n\nRoles and Responsibilities:  \n\n1, Candidate must be Valuable & have practical Knowledge and experience of Audit & Accounts (handle independently)  \n\n2. Candidate should have good & practical knowledge and experience of GST  \n\n3. Candidate should have Good & practical knowledge of TDS   \n\n4. Candidate should Independently prepare the financial statements and other legal requirements.  \n\n5. Candidate should have Experience of filing ITR , ROC and other work assigned.  \n\nAbout Company- It is a firm of chartered accountants which was established in 1987. Revered to our technical expertise of over three decades and our team of highly competent professionals, we provide ideal solutions to our clients' needs.",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/5362878682568327168?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQWNjb3VudGFudCAoQmFzaGVlciBCYWdoKSIsImNvbXBhbnlfbmFtZSI6IkltcG9ydGFudCBHcm91cCIsImh0aWRvY2lkIjoieUR2Y0NfSEhQMndWOHRxc0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWbGlWM2RTWHpKQ1kyTnFNM2RHYjJaWU0yWk1ZM2xUVUdaUmJ6bG5VV05NZDE5RFEwTk1SMEl4U1U5NGRIaFdhMHRJUTNsVE9YWjJVbFZ0WlZwZlZHVktVSEZwVVRSWlQycGhUV040WW05UVpXbFhSRXBwZW5FMGREaDBhazg1WVZGUGNXZHhWbXRTTFRnMGMyWXpXRUp6VlRka2FETldVVmQ0ZVdweFFXRmphRTk2YlZvU0YzZGxaa2xoZEhWclRsQlBVM2QwTUZCMFNsQTBlVUZOR2lKQlJITnlPV1pSWm1oSVIzaGlMV1ZwY1ZSVFdtOVpUMGs1WTE5UFdsVjViMGhSIiwiZmN2IjoiMyIsImZjX2lkIjoieUR2Y0NfSEhQMndWOHRxc0FBQUFBQT09In0="
+    },
+    {
+      "title": "Accountant",
+      "company_name": "Balaji Railroad Systems Pvt Ltd (BARSYL)",
+      "location": "Itarsi, Madhya Pradesh",
+      "via": "Built In",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=0MrPAqm8Stu2oM2FAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBAAQGzzBKsFGxVJRLDRKmlEiBCSyko2lyN34XIbbldJOv_gH3yYL1Gb6SZ6z6JFqhTdvaAX-Dxf0FENrDEoA-ThRNQ6PT8akYEPScLs4pYFxapYUZ-Q1zWNyS_xnxsbDHpwKPq222_HePDtOsvQYWehROsCYQPVxKJ7huIhkEsDyywtq2u-AuvhLBjYbuCCjZkQioCNZvMFB6PW1KkAAAA&shmds=v1_ARwrE22mIrQgAcP-DLlyeGDM0qAS-sCoxAuuqc7xxBP1roRkYQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=0MrPAqm8Stu2oM2FAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAaVBMVEX____sHCTrAADzhIfrCBXxcHPsFB7sGSHrAAzsDhnrABDuQUf3r7HrAAj0io397e785OXxa2_4vL7-9fXyeXz1lZj6zs_719jtKjH5xsf1mp32o6XwY2ftMDf3q63_-vrwWV3vS1DuO0Efh4vxAAAB1UlEQVRIie1WyZaDIBBUJCBmUaNZNWOS___IMQtdrbiQy7w5pE-iVBc0VS1B8I3_H1VEUX2Cy4SkENkHwFyGFDL3xx1EyEIcvIFXw4Hm6ovbdwhbyr0ncKm6QLX0w217hC3l1gt41H2guvjgVg5hS7maxzUhERp60mEzCzyvCRddCLmeFV4habIoUCYtixngJrFzk00Q3BUfTUUKDtNynFCodToJLEnd8e4xvhGlLKdwGQj1s45MfZP2qkndtozQu6nHcbCTDp1XU_ZCekgFixi3FzakjwPbHrcX7MTtgEKP2Qs66cxIGeWwvWAnceLvIxIT2wEL2EndOh_SBBmH7MXU3SvCLiZK4-LO9NUpe6MoZ3zu47id6KCtyCryqGsv2MlQ567u9klT1r69UsoJMaex-Hk_rkbthVOGfWqpaRaOqmuvbCDjQw_kiO2IvaBk2kPx3BdpBXLk9joMNKXX4rV898XToL3QIF4NI4BT5MKZA2Ehm1a28VJbtrrlTcRKGeunvgthKytsuNyah7Vd5Wy6Xf3Gqfy7ZBf414r_nhgKaYuRg_L59_oR3fFjDfWCRR65lK2kmjihi8nM_7OkS0wSN8G-pKvQzO8hSDG19L0WfONv4hc2bRXwfCc7UQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://builtin.com/job/accountant/11567779",
+      "job_title": "Accountant",
+      "description": "Accountant will do all the accounting work related to the project.\n\n\nGraduate. Must have experience of working as accountant for at least two years in a Railway Infrastructure Project.",
+      "apply_options": [
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/accountant/11567779?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/accountant-at-balaji-railroad-systems-pvt-ltd-barsyl-4421843462?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Saarthi",
+          "link": "https://joinsaarthi.com/jobs/balaji-railroad-systems-pvt-ltd-barsyl/accountant-itarsi/5acf9e6a-0384-4809-a0ae-3618db0b922e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Sorce",
+          "link": "https://www.sorce.jobs/jobs/accountant-barsyl-j1_Cf3VZs0CS5uCuxF7HoCQEObKz0cd2Fh8jIbx2twKQcdodDvOLA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337115875/accountant-itarsi?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiQmFsYWppIFJhaWxyb2FkIFN5c3RlbXMgUHZ0IEx0ZCAoQkFSU1lMKSIsImh0aWRvY2lkIjoiME1yUEFxbThTdHUyb00yRkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVTnFlV0YxVlU1Q1ZuYzJVMTk2UkZkTFoxOW9NR1JhT1RKc2VHWmxiazFCY0VSSFpHa3plR0psYnpCSVVFdG1TalV6VW0xelRGVTVhamRUVFU1SWRXeFlXSGx2YlVacFYydEJhVXhpZGw5Q1dVMXNVMjl1UkZWSFRXNXdUR1JqVUd0TGJFTk1aVTQ1YTNKcFpqVnZNM0JTUTIxMlZIZGFPSEI1WkhVemVsTXhRMjVsZVVnU0YzZGxaa2xoZEhWclRsQlBVM2QwTUZCMFNsQTBlVUZOR2lKQlJITnlPV1pVVUhCRmNFdGpRMUJ2YlZOWGFYZElTVjh0TlY5aVVXbFhTRzlCIiwiZmN2IjoiMyIsImZjX2lkIjoiME1yUEFxbThTdHUyb00yRkFBQUFBQT09In0="
+    },
+    {
+      "title": "Accountant Trainee",
+      "company_name": "klassy.in",
+      "location": "Bhopal, Madhya Pradesh",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=K88c-e0EZUXmTCDbAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKsBO5VdEWy00sZKsLAPk82Qja4zy84ISecNLLyhJ1Hh87pfvSbVYh-CPNiQDS4FeyaCz_MNV2lACUuIIAxHkS7RdBfNsm69V02uU0Prgwty98LUyOB_k_6pNWKhnNCoXm9Wg8vczWe3hKqj6xl-HaJkTEs4YRtHhHPBljR-AdssjdKSAAAA&shmds=v1_ARwrE234vjeflKFBlC4YcsYyHDyqWF1crMOVBjvB-OVRmKF53Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=K88c-e0EZUXmTCDbAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e7c1e6590e71d5a06ed4/images/tr43yZ2daSvpkB5Bj1MY15kuaAQp-1Q4JSJvdc6Clww.jpeg",
+      "extensions": [
+        "8 days ago",
+        "₹10K–₹16K a month",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/accountant-trainee-klassyin-bhopal--t7xk-861369864",
+      "job_title": "Accountant Trainee",
+      "description": "Key Responsibilities:\n\nTally & GST knowledge\nMS Excel skillsDaily bookkeepingBank reconciliationBilling & P&LShopify/COD accountingCourier reconciliationCA coordination\n• Detail-oriented",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/accountant-trainee-klassyin-bhopal--t7xk-861369864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IFRyYWluZWUiLCJjb21wYW55X25hbWUiOiJrbGFzc3kuaW4iLCJodGlkb2NpZCI6Iks4OGMtZTBFWlVYbVRDRGJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbEF3UldKQ1JtUk5UbGRaYWxSRWVtSllZbVpHVG1JdGIyOWxOSFpNZWpGME1uRkRTa1U1VFVORU5IaFRZWEpwZEZnNWNrOUdXWGh2TmpkTFJFazBiVEE0TmkxYU1IWnhXamRJUW5Gd1gyY3RUV3BwUW1JeE5FeFdSM0JOV1RCdVpFTnpaREpsY205YWNUVldZUzAyWmtadVRESkxia2xHZG1sTWVreHNkRFp4U0U0M1puZ1NGM2RsWmtsaGRIVnJUbEJQVTNkME1GQjBTbEEwZVVGTkdpSkJSSE55T1daUmRqQlRkRWw2VlZSZmVVaE9WVmx1UXpCc2NHVmhTVlppTjBObiIsImZjdiI6IjMiLCJmY19pZCI6Iks4OGMtZTBFWlVYbVRDRGJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Tally Accountant",
+      "company_name": "Shreetraders",
+      "location": "Dhar, Madhya Pradesh",
+      "via": "WorkIndia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=5Uv7wBqUQoe_aB_bAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLsQrCMBBAce0nON3gokgigotOguAkCLqXa3oklZgLuRPazS9w8Q_9EtvlDY_3qs-sWt4xxgGOzvErKSaF3_sLD25ACIsLwAnOzD7S_BBUs-ytFYnGi6J2zjh-Wk7UcG_HSSbUErBQjqhUb3eb3uTkV4tbKERasKUi0CU4jdEaLtiGAeE6eQl_WeRGypEAAAA&shmds=v1_ARwrE23Xu3_bZJE0L-jxW2lIACZcNeeCEFipLgPL5rPQ_QDQXg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=5Uv7wBqUQoe_aB_bAAAAAA%3D%3D",
+      "extensions": [
+        "27 days ago",
+        "₹6K–₹10K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.workindia.in/jobs/tally_accountant-dhar-dhar-11173900/",
+      "job_title": "Tally Accountant",
+      "description": "Salary Range : Rs. 6000 - Rs. 11000 , based on skills, experience, and interview performance\n\nEducational Requirement : 12th Pass / Female Only\n\nWork Arrangement : Work From Office\n\nGender Preference : Female only\n\nSkills Requirement : No predefined skills necessary\n\nExperience Requirement : 1 - 2 Years of Experience\n\nLocation : Dhar\n\nWorking Hours : 9:30 AM - 6:30 PM | Monday to Saturday\n\nAdditional Info : Manage Financial Records, Prepare Tax Filings, And Ensure Compliance With Legal Regulations. Analyze Financial Data To Assist In Decision-Making. Provide Advice On Tax Planning And Savings Opportunities. 1 - 2 Years Experience Compulsory.  | Skills Needed : Tally | Taxation",
+      "apply_options": [
+        {
+          "title": "WorkIndia",
+          "link": "https://www.workindia.in/jobs/tally_accountant-dhar-dhar-11173900/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJUYWxseSBBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiU2hyZWV0cmFkZXJzIiwiaHRpZG9jaWQiOiI1VXY3d0JxVVFvZV9hQl9iQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJa1NXNWtiM0psSUVScGRtbHphVzl1TEUxaFpHaDVZU0JRY21Ga1pYTm9MRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU25NeGFIazRWWEJEYTNkNFJsZGpZbmhOUW5SME1qWTVVRlI0TlVRNVYzRXdhalZXWlcxRGVqSlFiVmRIV2tKMFgwTnZVWG8zVEdvd1pEQlZXRFpwVm01cGNVSXpRM2N0ZGpWTFIxcEJORlp4YTJkVVlVWlNWelJtYlVWVFMydGlYM2c0TjBWaFVsVldVMEZvYVhwMmNUZzROazFMVW1FMGRVaHBUbmR3U0hsS1FqTldZUzBTRjNkbFprbGhkSFZyVGxCUFUzZDBNRkIwU2xBMGVVRk5HaUpCUkhOeU9XWlRaRkpRYWtaV2FEbFBkbEZuZVZSUlZFNTZVRkYzTUhaVlJtZFIiLCJmY3YiOiIzIiwiZmNfaWQiOiI1VXY3d0JxVVFvZV9hQl9iQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Accountant | Tally & GST",
+      "company_name": "Apro Store",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=l4t4_LD6KaAsWa3vAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKspxEIkq4KNVqmChSDEPkw2Qzay7iw7IyRg4R0ED-hJjM3nNT_7zLJtYS0_gmJQeMIVvR9hCWV1he_rDTduQAiTdcABSubO0_zoVKMcjBHxeSeK2tvc8t1woIYHM03yTy0OE0WPSvVuvxnyGLrVooiJoVJOBH2AU2gnreGMrRsRLglbEvcDc6tt55kAAAA&shmds=v1_ARwrE20-o6ys6o7hZcGhfzCcFQk8YUDwRqsdL2wkAMxMzTajVg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=l4t4_LD6KaAsWa3vAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/accountant-tally-gst/apro-store/19452138",
+      "job_title": "Accountant | Tally & GST",
+      "description": "Were Hiring  Accountant | Tally & GST\n\nApro Store is looking for a responsible, detail-oriented, and experienced Accountant to join our team in Indore.\n\nLocation: Indore | Work From Office\nExperience: 13 Years\nJob Type: Full-Time\n\nKey Responsibilities:\n\nManage day-to-day accounting and financial transactionsMaintain sales, purchase, expense, receipt, and payment entriesHandle Tally / Tally Prime for accounting and ledger managementPrepare invoices, vouchers, and other accounting documentsMaintain and reconcile bank accountsAssist with GST, TDS, and other compliance-related activitiesMaintain accurate financial records and accounting dataSupport monthly accounting and closing activitiesPrepare basic financial reports and statements as requiredEnsure timely and accurate recording of all accounting transactionsRequirements:\n\nGood knowledge of Tally / Tally PrimeWorking knowledge of GST & TDSGood knowledge of MS ExcelStrong understanding of basic accounting principlesGood attention to detail and accuracyGood communication and organizational skillsB.Com / M.Com preferredWho Can Apply \n\nCandidates with 13 years of experience in accounting and hands-on knowledge of Tally, GST & TDS are preferred.\n\nInterested candidates can share their updated CV with us.\n\nCompensation: 10,000.00 - 15,000.00 per month\n\nWork Location: In person .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/accountant-tally-gst/apro-store/19452138?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IHwgVGFsbHkgXHUwMDI2IEdTVCIsImNvbXBhbnlfbmFtZSI6IkFwcm8gU3RvcmUiLCJodGlkb2NpZCI6Imw0dDRfTEQ2S2FBc1dhM3ZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbXhKTjJjM1RXMW9TRzlrTlVoQ1J6TkNlRlo1Y1VWUGFHdFlabmxHTURaclFVc3hRbTluVDIwNGFuWmtiWFpPTmtNeGJtcFdNSEJqZFVWcWQzZG9NVVpaUjFRMk5rZzFWMWM0Vm05R05FZHJURkJPT1ZkS2NqbG5kRGxqVFVKbWJYTjNVMmcxVFdWWmNWSnNUVlZIWTBoUWNrdHJMV2htTW1GSVgyZFpNakZpV1RjeVRrMFNGM2RsWmtsaGRIVnJUbEJQVTNkME1GQjBTbEEwZVVGTkdpSkJSSE55T1daVVZ6SjJXbFUyUlcxQ2VuZFllbloyUXpCaloxSktlRkpqZERaUiIsImZjdiI6IjMiLCJmY19pZCI6Imw0dDRfTEQ2S2FBc1dhM3ZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Accounts Tally Operater",
+      "company_name": "Ksvp Construction",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=wx1YCy20d8YhJPT7AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBBAUWxzBKupVbJBsNFKLEREtLAPk82QTVh3lp2JJJ13sPV0nsTY_O6_7DPLir213AcVuKP3I1wjJVRK8H29oeMKhDBZBxzgyNx4mu-capStMSI-b0RRW5tbfhgOVPFgpkn-KcVhougnrVxviiGPoVksz_KMcOAgmnqr7cS2AU6h5kQruGDtRoRbwprE_QAyJYOQnwAAAA&shmds=v1_ARwrE22Zg0hp2kEI8zFP9ip0m8yEcyS4oLw2V_EtyXUu4vCgZg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=wx1YCy20d8YhJPT7AAAAAA%3D%3D",
+      "extensions": [
+        "₹10K–₹15K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/accountant-tally-operater-job-in-ksvp-construction-scheme-no-136-indore-0-to-2-years-1785575700-8086446-jid",
+      "job_title": "Accounts Tally Operater",
+      "description": "We are looking for an Tally Operater to join our team at Ksvp Construction. The role involves managing financial transactions, preparing accurate reports, and ensuring compliance with tax regulations. The position offers ₹ 10,000 - ₹ 15,000 and opportunities for professional growth. \n\nKey Responsibilities:\n\nCheck & manage daily accounting tasks including payments, deposits, and expenses.Prepare and maintain accurate financial statements and budget forecasts.Balance/match bank statements and ensure timely completion of tax filings.Audit financial records to ensure compliance with policies and regulations.Analyze financial data to provide insights on the company’s liquidity and financial health.Job Requirements:\n\nThe minimum qualification for this role is below 10th and 0.5 - 2 years of experience. Additionally, candidates are required to have a degree in Accounting, Finance, or a related field. Additional certification (if any) is a plus. Applicants must have strong attention to detail, analytical skills, and knowledge of GAAP (Generally Accepted Accounting Principles).\n\nIt is a Full Time Accountant job for candidates with 6 months - 2 years of experience.More about this Accounts Tally Operater jobPlease go through the FAQs to get all answers related to the given Accounts Tally Operater jobWhat skills and experience do you need for this Accounts Tally Operater job?\nAns :   To apply for this Accounts Tally Operater job, candidates should have skills like Audit, Balance Sheet, Cash Flow, GST, Tally, TDS along with 1-2 years of experience.\n\nWhat salary is offered for this Accounts Tally Operater job?\nAns :   The salary for this Accounts Tally Operater job ranges between ₹10,000-₹15,000 per month.\n\nWhat are the working days and timings for this job?\nAns :   This Accounts Tally Operater job has 6 days working days and timings from 10:00 PM - 06:30 AM.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Scheme No 136 Indore, Indore.\n\nHow many openings are available for this position?\nAns :   There is 1 opening available for this position.\n\nWho can apply for this job?\nAns :   Candidates who have All Education levels with 1-2 years of experience can apply for this Accounts Tally Operater job. Only female candidates can apply.\n\nWhat does the role of Accounts Tally Operater involve?\nAns :   As a Accounts Tally Operater, your work will involve skills like Audit, Balance Sheet, Cash Flow, GST, Tally, TDS. This role is part of Accountant category.\n\nWhere is this job located?\nAns :   This Accounts Tally Operater job is located in Scheme No 136 Indore, Indore.\n\nWhat kind of candidate is ideal for this job?\nAns :   A candidate with skills like Audit, Balance Sheet, Cash Flow, GST, Tally, TDS along with 1-2 years of experience is ideal for this Accounts Tally Operater job.\n\nWhy should you apply for this Accounts Tally Operater job?\nAns :   This Accounts Tally Operater job offers a salary between ₹10,000-₹15,000 per month. This is a Full Time opportunity and has 1 openings available.\n\nCandidates can call HR for more info.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-tally-operater-job-in-ksvp-construction-scheme-no-136-indore-0-to-2-years-1785575700-8086446-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50cyBUYWxseSBPcGVyYXRlciIsImNvbXBhbnlfbmFtZSI6IktzdnAgQ29uc3RydWN0aW9uIiwiaHRpZG9jaWQiOiJ3eDFZQ3kyMGQ4WWhKUFQ3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJa1NXNWtiM0psSUVScGRtbHphVzl1TEUxaFpHaDVZU0JRY21Ga1pYTm9MRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzJwaFIwSllNSFo0VldsWlF6QjNlWEZOVDJkcE9GbFpPSEIwTWtwRk0xQXpWR1JpU0RaNGRETXdhVlJKTTBweU9Ya3llUzFxT0V4MWJrVXpkMUJTZDNWVlZtaGlaRWN6ZEhBMWJWTktRMWRtZWtJdGRuQm1NV05ZWW5CTE9WOVhVRVJyVEhGQ016SjRWRFYxUlc0eFlsSXllblp5UjJkRlpHZGpRM055UW1GNU1taExhbTBTRjNkbFprbGhkSFZyVGxCUFUzZDBNRkIwU2xBMGVVRk5HaUpCUkhOeU9XWlRSMmhaY2tScWFFOXVlazlhTkZsYU1WaFZaREZVZUd4UWFsRkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ3eDFZQ3kyMGQ4WWhKUFQ3QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Financial Accountant",
+      "company_name": "Hypeman",
+      "location": "Indore, Madhya Pradesh",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=Gn2XJBAun0pPgearAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLOwoCMRAAUGz3CFZjK5KIaKOVjZ9CEDzAMpsdNpHsTMhE2O28g-ABPYnavO5V70m1vhEHyXAIjOwCRtg7Jw8uyAU-zxfcpQElzM6DMBxFukjTnS8l6dZa1Wg6LViCM056K0yNDPaX9E-tHjOliIXq1WY5mMTdfHYaE_XIEBjO3EqmBVyw9SPCNWNL6r-P_z9lmQAAAA&shmds=v1_ARwrE22Ewy71m2S47VRs3WbpkyJrTfLp-pHELWgrFXSqWyh_Mg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=Gn2XJBAun0pPgearAAAAAA%3D%3D",
+      "extensions": [
+        "11 days ago",
+        "₹15K–₹30K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/CB35r7iDIQ7LmEWJaOFGHaxF3OfRnxYKEcHjuY2Ms36dcQrs0U3_8A",
+      "job_title": "Senior Financial Accountant",
+      "description": "Hiring: Senior Financial Accountant\n\nCompany: KhataServe\nLocation: Indore, Madhya Pradesh\nWork Mode: In-Office\nExperience: 2+ Years\nSalary: ₹15,000 – ₹30,000 per month\n\nAbout KhataServe\n\nKhataServe is a finance and accounting company focused on helping businesses manage their accounting, bookkeeping, reconciliations, reporting, and financial operations efficiently.\n\nWe Are Looking For\n\nWe are looking for an MBA Finance professional with 2+ years of experience who can work closely with businesses and handle finance and accounting-related operations.\n\nCandidates from any relevant industry background are welcome, provided they have strong practical finance and accounting knowledge.\n\nKey Responsibilities\n\nHandle day-to-day accounting and finance activities\n\nPrepare and analyze financial reports\n\nManage accounts receivable and accounts payable\n\nPerform bank and cash reconciliations\n\nAssist with GST and other financial reconciliations\n\nPrepare MIS reports and financial summaries\n\nMonitor customer dues and vendor payments\n\nWork with business clients and understand their financial requirements\n\nMaintain accurate financial records and documentation\n\nSupport management with financial analysis and reporting\n\nRequirements\n\nMBA in Finance or equivalent qualification\n\n2+ years of relevant experience\n\nStrong understanding of accounting and finance\n\nGood knowledge of Excel and financial reporting\n\nUnderstanding of GST, reconciliations, and MIS\n\nGood analytical and problem-solving skills\n\nStrong communication and client-handling skills\n\nAbility to work independently and manage multiple clients or tasks\n\nPreferred\n\nCandidates currently based in or willing to work from Indore\n\nCandidates with experience in accounting firms, finance companies, startups, CA firms, fintech, or other business environments\n\nSalary\n\n₹15,000 – ₹30,000 per month\n\nSalary will depend on experience, skills, and practical knowledge.\n\nJob Type\n\nFull-time\n\nIn-office\n\nLocation: Indore, Madhya Pradesh\n\nTo Apply: Send your CV along with your current experience, expected salary, and notice period.\n\nPay: ₹15,000.00 - ₹30,000.00 per month\n\nBenefits:\n\nFlexible scheduleWork Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/CB35r7iDIQ7LmEWJaOFGHaxF3OfRnxYKEcHjuY2Ms36dcQrs0U3_8A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-financial-accountant-hypeman-indore-madhya-pradesh--t7xk-857359638?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRmluYW5jaWFsIEFjY291bnRhbnQiLCJjb21wYW55X25hbWUiOiJIeXBlbWFuIiwiaHRpZG9jaWQiOiJHbjJYSkJBdW4wcFBnZWFyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJa1NXNWtiM0psSUVScGRtbHphVzl1TEUxaFpHaDVZU0JRY21Ga1pYTm9MRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU21OcVRISkJlbk50Vm13M0xVTktYMFpFTWpoRWEybHRRMnhvYlhCclJEWkVlRVZoU0RoUFJsbFBkRTlQZEZka2RXZGpRbDlOVUhoYVFVOVFPVkU1Y2tJNU9FSm9XbkF6ZUUxTU5FTmFTR0oyYkhKVmIwMWhiVFl5ZEcxblVWcGtkamhKTFZCbVFXWmZSbTFYZGpsb00yZHNkVEl0Y1VkMVUyTktVa3B3YUdSSFVXRlpWSG9TRjNkbFprbGhkSFZyVGxCUFUzZDBNRkIwU2xBMGVVRk5HaUpCUkhOeU9XWlNORjlmZDBFdFJ6WTVSRlpQVlc5aFJXMVhZMVZ0Tms5dFMySjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJHbjJYSkJBdW4wcFBnZWFyQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Accountant",
+      "company_name": "GHORI POULTRY PRODUCT PVT LTD",
+      "location": "Indore, Madhya Pradesh",
+      "via": "WorkIndia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=lnORlH5D5NND74lGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLQQqCQBQAUNp6hFYf2kU4EURQq0gwwXAQDVrJdxwcw-bL_Als1x1adrtOUm3e7gXvSTDbK0V369F6-DxfcKUaWKNTBshCTNT2eroz3g-8FYK5D1v26DsVKroJsrqmUfwS_6nYoNNDj15Xq_VyDAfbzjfxMcsTkFmZFvkFZJ5F5aEAeS4gLSLoLCS2IacXcMLGPBCkw0az-QL2eWdengAAAA&shmds=v1_ARwrE21juWaT963Y96NuRD0TuaibC98GjQRjPYfJRXeu4tQtgg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=lnORlH5D5NND74lGAAAAAA%3D%3D",
+      "extensions": [
+        "18 days ago",
+        "₹18K–₹21K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.workindia.in/jobs/accountant-manik_bagh_road-indore-11272388/",
+      "job_title": "Accountant",
+      "description": "Salary Range : Rs. 18000 - Rs. 21000 , based on skills, experience, and interview performance\n\nEducational Requirement : Graduate / Male Only\n\nWork Arrangement : Work From Office\n\nGender Preference : Male only\n\nSkills Requirement : No predefined skills necessary\n\nExperience Requirement : 2+ Years of Experience\n\nLocation : Manik Bagh Road\n\nWorking Hours : 9:30 AM - 6:30 PM | Monday to Saturday\n\nAdditional Info : Manage Financial Records, Prepare Tax Filings, And Ensure Compliance With Legal Regulations. Analyze Financial Data To Assist In Decision-Making. Provide Advice On Tax Planning And Savings Opportunities. More Than 2 Years Experience Compulsory.  | Skills Needed : Tally, TDS",
+      "apply_options": [
+        {
+          "title": "WorkIndia",
+          "link": "https://www.workindia.in/jobs/accountant-manik_bagh_road-indore-11272388/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiR0hPUkkgUE9VTFRSWSBQUk9EVUNUIFBWVCBMVEQiLCJodGlkb2NpZCI6ImxuT1JsSDVENU5ORDc0bEdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURk5SY2pkdldUaEVaWFZXZDNnemNVbGZVbG8yYWs5aVV6UnRXSEJYV25VeGIySkhjM2d4V1RoemNHUldNRmQ0TkhNNU9HTnpVVVJYTUhWcWVuZERWMFpNY1c1ek5IUm5aM3BPYzJGSk5VNVVVMlF6ZVU1a2FrUm5TMkpRTjNacWFVZHBSMnhsV1cxQ1ZubERNbk0wWWtaT2Eyb3dja2hmUlUwNU5VRkxlVmwxYjNVeUxWOFNGM2RsWmtsaGRIVnJUbEJQVTNkME1GQjBTbEEwZVVGTkdpSkJSSE55T1daVGVWOHlSRW80WkRoM2NITldiSFZHVUV0Q1pXdENaMnBFT1VkMyIsImZjdiI6IjMiLCJmY19pZCI6ImxuT1JsSDVENU5ORDc0bEdBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBUSGRUV1VoUU5HMXpZVWRuTTA1MGEyUlNhWFZVV0dSTGVIRTROVkpNV0Vsc09IWjNaM05MZVZCVFJFdFdWak5QVkhVd1NEZzVaWFpyVDFKTlVHVXlaVmhaTVZZeVQxcG5aSEYzZGpScWJGVkpZVGxKT0dWbmQyTmZiVU5TUlRSeVV6UjRVMlpKZHpjeGFVNUdjRlkxVVRoR2VURlJZMmh0ZDNSdlluQmthREUzU0ZGQ1IzQm9abDgzWTIxMVNsRnFPVkIzVkdwclNEZEZibFl0YWxZMFZuUldhVmRMYlVOM2JWUkhWRFJCTmxKV00zQnVjRk5MVkVKb2RXUTRiRGwwZW1oclRqaE5TVEpmV0VSWGIyTjNRVFZNT1ZWMVFVOXpWRlUxTWpGNE1tVmxhVXBLZEZoYUxVVjVYMTl3U3pSQlNFZHBTVk5HTkhrelVHaE9ZbkpPT1dZNFVuVTJabEkzYURGVmVXYzNkMFJ0U0ZSblJFbFlaWEEzUW5oMFRtWXdjekpwYWpoZlNHVllSbWt4VURoTVNHRlhUV1Z0TXpaQk1uWlBkRGRKV25ocU5VOTFjRlJJWDA1QmRsQjNaWFIwTlRSMlEweHdMV1JLYzIwMlRFazRZVzFrVG1jMVRsUm9iazB6ZEhKc2RWcFZabWRYVnpad2FsVmlYMEpuZDJkV1VrTTNTbFJwZWtsWFdYWjVRbXRyYW1OaVpVTkhkVzFMZDFSaFRtOTFhMFpSTlV0MFUzVjZOR3h4Tm10bFkydEdaMmsyUTFOcmREZGxPWFV0VTNGMVVtSmtaakZXT1JJWGQyVm1TV0YwZFd0T1VFOVRkM1F3VUhSS1VEUjVRVTBhSWtGRWMzSTVabE42ZWtrd1NWOHpSbWQzY25wQ1pFNU1kVlI0ZG5wR2EwSlZNRUUiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&next_page_token=eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBUSGRUV1VoUU5HMXpZVWRuTTA1MGEyUlNhWFZVV0dSTGVIRTROVkpNV0Vsc09IWjNaM05MZVZCVFJFdFdWak5QVkhVd1NEZzVaWFpyVDFKTlVHVXlaVmhaTVZZeVQxcG5aSEYzZGpScWJGVkpZVGxKT0dWbmQyTmZiVU5TUlRSeVV6UjRVMlpKZHpjeGFVNUdjRlkxVVRoR2VURlJZMmh0ZDNSdlluQmthREUzU0ZGQ1IzQm9abDgzWTIxMVNsRnFPVkIzVkdwclNEZEZibFl0YWxZMFZuUldhVmRMYlVOM2JWUkhWRFJCTmxKV00zQnVjRk5MVkVKb2RXUTRiRGwwZW1oclRqaE5TVEpmV0VSWGIyTjNRVFZNT1ZWMVFVOXpWRlUxTWpGNE1tVmxhVXBLZEZoYUxVVjVYMTl3U3pSQlNFZHBTVk5HTkhrelVHaE9ZbkpPT1dZNFVuVTJabEkzYURGVmVXYzNkMFJ0U0ZSblJFbFlaWEEzUW5oMFRtWXdjekpwYWpoZlNHVllSbWt4VURoTVNHRlhUV1Z0TXpaQk1uWlBkRGRKV25ocU5VOTFjRlJJWDA1QmRsQjNaWFIwTlRSMlEweHdMV1JLYzIwMlRFazRZVzFrVG1jMVRsUm9iazB6ZEhKc2RWcFZabWRYVnpad2FsVmlYMEpuZDJkV1VrTTNTbFJwZWtsWFdYWjVRbXRyYW1OaVpVTkhkVzFMZDFSaFRtOTFhMFpSTlV0MFUzVjZOR3h4Tm10bFkydEdaMmsyUTFOcmREZGxPWFV0VTNGMVVtSmtaakZXT1JJWGQyVm1TV0YwZFd0T1VFOVRkM1F3VUhSS1VEUjVRVTBhSWtGRWMzSTVabE42ZWtrd1NWOHpSbWQzY25wQ1pFNU1kVlI0ZG5wR2EwSlZNRUUiLCJmY3YiOiIzIn0%3D&q=Accountant"
+  },
+  "_retrieved_at": "2026-10-09 13:10:25 UTC"
+}

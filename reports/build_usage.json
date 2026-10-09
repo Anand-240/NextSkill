@@ -510,6 +510,181 @@
       "engine": "youtube",
       "query": "Git revision",
       "location": null
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Bengaluru, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Bengaluru, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Bengaluru, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Pune, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Pune, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Jaipur, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Jaipur, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Indore, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Indore, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Dehradun, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Dehradun, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Data Analyst",
+      "location": "Dehradun, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Bengaluru, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Bengaluru, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Bengaluru, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Pune, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Pune, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Pune, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Jaipur, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Jaipur, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Indore, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Indore, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Dehradun, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Dehradun, India"
+    },
+    {
+      "phase": "J",
+      "category": "gap",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Dehradun, India"
     }
   ],
   "accounts": [
@@ -557,6 +732,11 @@
       "label": "C5 after",
       "this_month_usage": 71,
       "total_searches_left": 179
+    },
+    {
+      "label": "J before",
+      "this_month_usage": 75,
+      "total_searches_left": 175
     }
   ]
 }

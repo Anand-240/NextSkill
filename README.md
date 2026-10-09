@@ -112,7 +112,7 @@ same filters; Hindi interface labels stay in English until a person approves the
 - [Account API](https://serpapi.com/account-api): shows remaining credits in live mode; a failure never discards results.
 
 Requests time out after 75 seconds and are not retried. Live runs have a per-run budget and a Search Replay that shows
-what was live, cached or skipped. This build recorded 73 SerpApi search attempts (36 Google Jobs, 29 YouTube, 8 Google web search) in reports/build_usage.json; the Account API figures are in docs/BUILD_LOG.md.
+what was live, cached or skipped. This build recorded 98 SerpApi search attempts (61 Google Jobs, 29 YouTube, 8 Google web search) in reports/build_usage.json; the Account API figures are in docs/BUILD_LOG.md.
 
 ## Questions a judge might ask
 

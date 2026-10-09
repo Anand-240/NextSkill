@@ -1,0 +1,311 @@
+{
+  "search_metadata": {
+    "id": "6ac8e7c880a078e4c8b66892",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/HSWdrocsHcuhn4d6Hvu7R7PWjCnY1xHsfxrOxCQmAuw/6ac8e7c880a078e4c8b66892.json",
+    "markdown_endpoint": "https://serpapi.com/searches/HSWdrocsHcuhn4d6Hvu7R7PWjCnY1xHsfxrOxCQmAuw/6ac8e7c880a078e4c8b66892.md",
+    "created_at": "2026-10-09 13:10:32 UTC",
+    "processed_at": "2026-10-09 13:10:32 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Accountant&uule=w+CAIQICIaRGVocmFkdW4sVXR0YXJha2hhbmQsSW5kaWE&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/HSWdrocsHcuhn4d6Hvu7R7PWjCnY1xHsfxrOxCQmAuw/6ac8e7c880a078e4c8b66892.html",
+    "prettify_html_file": "https://serpapi.com/searches/HSWdrocsHcuhn4d6Hvu7R7PWjCnY1xHsfxrOxCQmAuw/6ac8e7c880a078e4c8b66892.prettify",
+    "total_time_taken": 0.51
+  },
+  "search_parameters": {
+    "q": "Accountant",
+    "engine": "google_jobs",
+    "location_requested": "Dehradun, India",
+    "location_used": "Dehradun,Uttarakhand,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTMEkyVmt0SmVqZzJVRTFJUnpZNU4wWlFNRkl5ZGs1TWNVSjFZMnBIYUZoSWVHMDNVMk16VWxnd09VTkRhRGQzUmpWTVJXUnRRelpGUjJkSlYydFpNMlU1VFRKTlkydDFXRFppWm5KdlFtbHhPVmhIWDNKRVNGUk1kVk51ZURsa1EwMXRWVEJsYTNwSlV5MUxkalJyVmxocmJVMXZkVWxmTm1kb1FrbHdSWEZIT1U0M01UWktXRlExUlVobFowUXdUMDV5TW1aVlRHaHhTamhpUkZOeE5qRTFTRlZsZEU1SVZYWTNVRTlqVjNKU1NXOUdSRWMzT1Vnd1NXUjVZMkZ2VW5OeE9YRTFkbk53TldRd2RXOVVVek01UjNaM1pYTk9URzVaY1dWYVgyTnpjMWR5YXpSa1JUZHJlbXh4Um10dmFWQkRWM1p3ZG1Wc1ExRnFlaTF0V1VOalZtWkdTM05HTW5CVFNEWmhlR1YzYlU1elQzaDRWR2t6Tm05SU1sRkdOMTl5Y21SU05EaDRTemxWWVhkRU5sTnNUa05SV1U1MUxWOTNjRTltV1U5MlpUUlhhRjh6UjBwUGRqTXpjak5HVlVjeGVETkhTMEZFVG1wRFNtdERiWE5hTkZrdGFXYzJkVzAxYmpSak1EVm5NMjFwUzJzelZHVnRTakJRYjI5bU5GRlVRVzVRTTBSNllVSTBlRzVzUTJ4NlMyUkRNekZ1VEdSWVltWlJOVlZwVEdabFZIUmphbmRZVFVvNFdsTXpjbFpwU2xscllVTm5TWFEzTVVjNVlYSlhiWHBHYXhJWGVDMW1TV0Z3VDIxS1pqTm1OVTV2VUc5a2Rrb3lRVEFhSWtGRWMzSTVabEl4VW1ScFdXTnlXREJ0ZWtveFpVdFdRVzVmZUhaTmVEVklNR2MiLCJmY3YiOiIzIn0="
+  },
+  "jobs_results": [
+    {
+      "title": "Junior Accountant",
+      "company_name": "High Heads",
+      "location": "Zirakpur, Punjab",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=CBfWOAPT7HUr2pc_AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLoQ7CMBAA0GD3CQhyeiErIcGAQrGg0JjlVpq2o9w1vWsyiUXzh3wJYJ57zWvRtOdKkQscreVKiqTweb5h4hHEYbEBmODE7JNbHoJqlr0xIqnzoqjRdpYfhsmNPJtfkj-DBCwuJ1Q3bHebucvk21UffYDe4U0gElxjwXuuZQ2XShOOX6fEBYqMAAAA&shmds=v1_ARwrE21M98vPBOk7VRSUF0PtJ_ONDitQQtx6NV-UdT7atDJPwQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=CBfWOAPT7HUr2pc_AAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "₹15K–₹25K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/69VgGIgbbgQHEFrW3rxuBeLbHSXr6r94Ijq49OOVNwO6u4LkCTue6g",
+      "job_title": "Junior Accountant",
+      "description": "About High Heads Pvt. Ltd.\n\nHigh Heads Pvt. Ltd. is an international fashion & lifestyle brand operating in the USA and European markets, focused on premium products. We are building a strong global presence through e-commerce and performance-driven marketing\n\nWe’re Hiring: Junior Accountant (Full-Time | On-Site – Zirakpur)\n\nAre you a detail-oriented accounting professional looking to grow your career? We’re looking for a Junior Accountant with 1-2 years of hands-on experience to join our team in Zirakpur.\n\nKey Responsibilities\n\nMaintain accurate and up-to-date records of daily financial transactions.Record and verify sales, purchases, expenses, receipts, payments, and journal entries.Prepare and maintain invoices, vouchers, bills, and supporting financial documentation.Assist in managing Accounts Payable and Accounts Receivable.Perform regular bank, cash, and ledger reconciliations.Assist with GST-related records, documentation, and routine compliance activities.Monitor outstanding receivables and payables and maintain proper records.Assist in monthly accounting closing and preparation of financial reports.Maintain organized documentation for audits and internal financial reviews.Coordinate with internal departments regarding invoices, expenses, payments, and supporting documents.Identify discrepancies in financial records and report them to the senior finance team.Provide general accounting and administrative support to the finance department as requiredRequirements\n\nBachelor’s degree in Commerce (B.Com) or a related field.1–2 years of relevant accounting experience.Good knowledge of basic accounting principles.Familiarity with Tally/ERP and MS Excel.Basic understanding of GST and taxation.Strong attention to detail and accuracy.Good organizational and communication skills.Ability to manage multiple tasks and meet deadlines.Job Types: Full-time, Permanent\n\nPay: ₹15,000.00 - ₹25,000.00 per month\n\nBenefits:\n\nPaid sick timePaid time offProvident FundExperience:\n\nAccounting: 1 year (Preferred)Work Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/69VgGIgbbgQHEFrW3rxuBeLbHSXr6r94Ijq49OOVNwO6u4LkCTue6g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkhpZ2ggSGVhZHMiLCJodGlkb2NpZCI6IkNCZldPQVBUN0hVcjJwY19BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lhUkdWb2NtRmtkVzRzVlhSMFlYSmhhMmhoYm1Rc1NXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXVlFNbG81WkRVNGFUWlhZVXhhYkdFMmQyVTFlVlJIUkV4cmQwbHpZa3R6UkRscFVHTjROblpDTUZkbmRUVkhWV3BmVkhaMFQwaEJNSGhZTUd3emRXUkpVbE5ZY0hFelNISlNNVTVuVG5oWlgwbHpUVXBvZUZReVgwSnJVV2MzVVdOeGNreFpSazVGT0c1R2IxYzRiekYxUjBsQlpDMUJhRWRQVXpGblNWZHVSV0pVVDFrU0YzbGxaa2xoZFY4NFFXSmZiRFZPYjFBMVpqWnlORkU0R2lKQlJITnlPV1pVTWxaWlpHeHpibEUwYWxVeFRtcEZlVkJWYldwRWIxVk9TR1JuIiwiZmN2IjoiMyIsImZjX2lkIjoiQ0JmV09BUFQ3SFVyMnBjX0FBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Accountant",
+      "company_name": "Clarivate",
+      "location": "Noida, Uttar Pradesh",
+      "via": "Clarivate",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=qVq8DvuUFzIetP9WAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKuxDbIrgo1WYmEngliHyWbIrqwzYWeUlB7Azht6EmPziwe_es-q-kKcpMA-BHmwIRt8Xx-4SQtKWEIEYTiK9Jnmu2g26NZ71ex6NbQUXJC7F6ZWRj9N-k-jEQsNGY2a9WY1uoH7enHIWNJzMkgMJ0kdLuFqhgXOBTvS-APim38ZjwAAAA&shmds=v1_ARwrE226egxVhlJgt_pXktzrxIyptmV4SEChJU05tx6rCLzXSA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=qVq8DvuUFzIetP9WAAAAAA%3D%3D",
+      "extensions": [
+        "16 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://careers.clarivate.com/job/JREQ136554/Senior-Accountant",
+      "job_title": "Senior Accountant",
+      "description": "We are looking for a Senior Accountant to join our Accruals and Prepaid Accounting Team in Noida. This is an amazing opportunity to work on a centralized process global accounting team.\n\nWe would love to speak with you if you have skills in Global accounting, including accruals and prepaids processes and understand USGAAP, IFRS concepts\n\n\nAbout You – experience, education, skills, and accomplishments  \n\nB. Com Graduate /MBA Finance/CA Inter with relevant accounting background.Minimum 2 years of experience in Global AccountingKnowledge, skills, or abilities in general ledger accounting and balance sheet reconciliations, Variance and Trend Analysis.Good exposure in Prepaids & Accruals of reconciliation process and month-closure accounting activitiesAdvanced computer literacy in M.S. Office products especially in MS Excel and OutlookProactive, willing to learn and follow, adaptable, clear in accounting concepts, approachable, team player, self-starter, timeliness, all would be key factors to succeed. \n\nIt would be great if you also had . . .  \n\nProven track records in General accounting activities, Reconciliation, reporting, and Month closure activities.Working knowledge of Net Suite & OneStreamCandidate should be ready to deliver on critical timelines with accuracy.Candidate should be open to taking up any General accounting Functions roles including P2P, O2C, IC, PC, PA, Bank, and shuffle as per needs. \n\nWhat will you be doing in this role? \n\nAnalyse general ledger accounts to identify and upload monthly accrual journalsMonth End Close Execution. Own the timely preparation and posting of accrual and prepaid journal entries on a tight deadlineReconcile prepayment amortization schedules to prepare and upload monthly prepayment journalsIdentify invoices with prepayment terms and reclassify to balance sheet accounts for future releasesAnalyse actual expenses, investigate fluctuations, and explain material variances.Prepare Balance sheet reconciliations after month-end closing to ensure completeness and accuracyPrepare and post correction entries & reclass entries identified during balance sheet reconciliation exercisesLiaise with Controllers and other departments to solve accounting issuesWork along with the team members in accounting technical aspects and all applicable activities.  \n\nAbout the Team   \n\nIt is a Strong centralized accounting team with proficient knowledge in global accounting and with good exposure through centralized accounting system based in United States & Noida.\n\nHours of Work  \n\nThis is a permanent role with Clarivate, 9 hours per day including 1 hour lunch break.\n\nShift time: 11AM to 8PM\n\n\nAt Clarivate, we are committed to providing equal employment opportunities for all  qualified persons with respect to hiring, compensation, promotion, training, and other terms, conditions, and privileges of employment. We comply with applicable laws and regulations governing non-discrimination in all locations.",
+      "apply_options": [
+        {
+          "title": "Clarivate",
+          "link": "https://careers.clarivate.com/job/JREQ136554/Senior-Accountant?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Emp.jobylon.com",
+          "link": "https://emp.jobylon.com/jobs/385546-accedo-senior-accountant/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Apna Jobs",
+          "link": "https://apna.co/job/noida/senior-accountant-415208300?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/senior-accountant-at-brut-india-4445196142?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/senior-foreign-outsourcing-accountant-mounee-consulting-services-private-limited-noida-64974954?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/senior-foreign-outsourcing-accountant-mounee-consulting-services-JV_IC4477468_KO0,37_KE38,64.htm?jl=1010212523581&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-accountant/blue-consulting/19413401?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-accountant-mishra-refrigeration-engineers-noida--t7xk-865074676?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkNsYXJpdmF0ZSIsImh0aWRvY2lkIjoicVZxOER2dVVGeklldFA5V0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWFSR1ZvY21Ga2RXNHNWWFIwWVhKaGEyaGhibVFzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBkTk9HZE5UMDQzWHpCeVMyUlNVVlZ5ZFY5SmRUbHlVbVpDTjNWUVdrUnRlR0ZNY0hod1FraElXR1JWU25KUFltTkZRbXRVVHpKd1MzZHhlV1kwYTJwalFUZ3lOek5NYXpsQ00wczNNVWRaZW1WaU1GUjFTR2RYUnpCRldVUmlURGRLWkdWelVITkNSRFUzTUdzM1FrdFVTM1JsU1c5ek5EVjNOSGhrYlRaak5reENSemdTRjNsbFprbGhkVjg0UVdKZmJEVk9iMUExWmpaeU5GRTRHaUpCUkhOeU9XWlJNR1pmUW1vMlZUWktWWEl4VWtOTldsbDVYekpqVDBWNE5YaG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJxVnE4RHZ1VUZ6SWV0UDlXQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior Accountant - Fresher",
+      "company_name": "Arete Technologies India Private Limited",
+      "location": "Panchkula, Haryana",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=igdonyT5h0rsOvzGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLPQrCQBBAYWw9gtXUoomINgpCGv-wsLCXyWbIrm5mws5EtPMOHsUbeRK1edX3-u9ef7bvOEiCwjnp2JANxrBOpJ4SfJ4vuEgJSpicB2HYiNSRBktv1uoiz1VjVquhBZc5aXJhKuWe_yb956weE7URjc7T-eSetVwPV0UiIziR8yxR6kAKO64CwjGF24_CITTBqILAcER2_tpFHMEW0wMZvyQqOJC2AAAA&shmds=v1_ARwrE227PCngOclhBALqGipQ5iXPC3WsOzWRrUCf81hQ8FEmQg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=igdonyT5h0rsOvzGAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "₹15,000–₹15,250 a month",
+        "Full–time"
+      ],
+      "source_link": "https://in.jooble.org/jdp/-2693892921899384020",
+      "job_title": "Junior Accountant - Fresher",
+      "description": "Actively hiring \n\nJunior Accountant                        \n\n\n\n\n\n\n\n\n\n\n\nStart Date                                \n\n Starts  Immediately                            \n\n\n\n CTC (ANNUAL) \n\n₹ 2,00,000 - 2,10,000                                    ₹ 2,00,000 - 2,10,000 /year                                \n\n\n\nExperience\n                                \n\n No experience required \n\n No experience required \n\n\n\n Apply By \n\n4 Nov' 26\n\n\n\n Posted few hours ago \n\n Fresher Job \n\n Be an early applicant \n\n\n\n About the job We are looking for a fresher accountant to support our finance team in day-to-day accounting activities related to the US staffing business. The candidate will be trained in billing, payroll accounting, and basic US staffing finance processes. This is a great opportunity for fresh graduates to build a career in the US recruitment industry. \n\n\n\nKey Responsibilities: \n\nA. Billing and invoicing support: \n1. Prepare client invoices based on consultant timesheets \n2. Verify billing details as per contracts \n3. Maintain invoice records and supporting documents \n4. Assist in Accounts Receivable (AR) follow-ups \n\nB. Payroll and payments support: \n1. Assist in payroll data preparation \n2. Help process vendor and consultant payments \n3. Maintain salary and payment records \n\nC. Accounting and finance: \n1. Entry of journal vouchers and expenses \n2. Maintain general ledger data \n3. Assist in bank reconciliation \n4. Support month-end closing activities \n\nD. Compliance and records: \n1. Maintain proper accounting documentation \n2. Support internal audits and reporting \n3. Follow company accounting policies \n\nE. Reporting: \n1. Prepare basic MIS reports (billing, expenses, and collections)\n2. Update Excel trackers for management  Skill(s) required  MS-Excel  MS-Office  Tally \n\n Earn certifications in these skills \n\n Other requirements \n\n1. Basic knowledge of accounting principles                \n\n2. Good knowledge of MS Excel (basic formulas, VLOOKUP, and Pivot Tables – preferred)                \n\n3. Willingness to learn US staffing and payroll processes                \n\n4. Good communication skills                \n\n5. Strong attention to detail                \n\n6. Ability to work in a team environment                \n\n7. BCom/MCom/BBA/MBA (Finance)                \n\n8. Freshers with accounting internship experience preferred                \n\n9. CA Inter/CMA Inter candidates can also apply                \n\n Salary  Probation: \n\n Duration: 6 months \n\nSalary during probation: ₹15,000 - 15,250 /month (only for freshers)    \n\n After probation: \n\n Annual CTC: ₹ 2,00,000 - 2,10,000 /year \n\n Perks  Informal dress code  5 days a week  Free snacks & beverages  Cab/Transportation facility \n\n Number of openings 2    \n\nAbout Arete Technologies India Private Limited                Arete Technologies is a subsidiary of a USA-based entity and works for the backend consultancy operations of Arete USA.    \n\n\n\n Activity on Internshala \n\n\n\n Hiring since February 2026\n\n174 opportunities posted \n\n4 candidates hired \n\n Additional Questions \n\n\n\n Sign up to continue \n\n\n\n Candidate sign up \n\nSign up/ Login with Google\n                    \n\nSign up with Email\n                    \n\n\n\n OR \n\nBy continuing as a candidate, you agree to our  T&C  .\n            \n\n Already registered?\n                                     Login \n\n\n\n Sign up to continue \n\n\n\n Candidate sign up \n\nSign up/ Login with Google\n                    \n\nSign up with Email\n                    \n\n\n\n OR \n\nBy continuing as a candidate, you agree to our  T&C  .\n            \n\n Already registered?\n                                     Login",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-2693892921899384020?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQWNjb3VudGFudCAtIEZyZXNoZXIiLCJjb21wYW55X25hbWUiOiJBcmV0ZSBUZWNobm9sb2dpZXMgSW5kaWEgUHJpdmF0ZSBMaW1pdGVkIiwiaHRpZG9jaWQiOiJpZ2RvbnlUNWgwcnNPdnpHQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJYVJHVm9jbUZrZFc0c1ZYUjBZWEpoYTJoaGJtUXNTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUR2d6YzBRNVJISXhVWFF3VGpkQlRuZFFhSGR1U3pSS1psODNiekU0VWpSbFpETnJVMFI2VlVoc1NreE1kR1psU3paaFluWTRjRWQzY1VkTlpFOTBXVzU1U0RWQ2QzWlFSMDlxVFhGdExWcGtabUV3YUd0MFJFMVVkSGxaT1ZaTFRtZGhaamhFTkhaTmFrMURZalV6VUhkSFMzTnpkM1ZSTW1KcFJIbFVNR295VmxWUE5tMFNGM2xsWmtsaGRWODRRV0pmYkRWT2IxQTFaalp5TkZFNEdpSkJSSE55T1daU1drbFJTalUyUzA5bWMxTmpXbVJTUm1saVZERlpjR0puWjNwMyIsImZjdiI6IjMiLCJmY19pZCI6ImlnZG9ueVQ1aDByc092ekdBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Accountant (Delhi)",
+      "company_name": "JobTrade",
+      "location": "New Delhi, Delhi",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=Mmy3-6GXZxtoJI4XAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_-PqZ-QyCk7Ny8wvUnBMTs4vzStJzCtR0HBJzcnI1FR41DBZISs_SaE4NbEoOUMhP0_BPT8_PSdVyjqjpKSg2Epfv7g4Ry-9uCSxJDNZLzk_Vz8_LzUpv0IfqKkYRMQXZyQWpRbkJJakxhuZGlToFeSla8l45SeFFCWmpCpk5in4pZYrgG3TgVAA-Clks5IAAAA&shmds=v1_ARwrE22CmPD_4DHcqCZKXs2PJgmCA-X0BNs9SgLI0FyfKqKgWQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=Mmy3-6GXZxtoJI4XAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/senior-accountant-delhi/jobtrade/19681881",
+      "job_title": "Senior Accountant (Delhi)",
+      "description": "Position: Senior Accountant Company: Vikair Systems Experience: 68 Years Salary: 45000 to 50,000/month  No bar for the right candidate Job Summary: Vikair Systems is looking for an experienced and responsible Senior Accountant to manage day-to-day accounting operations, financial records, taxation, reconciliations, and compliance activities. The ideal candidate should have strong knowledge of accounting principles and hands-on experience in managing accounts independently.\n\nKey Responsibilities: Manage day-to-day accounting and financial transactions.\n\nMaintain accurate books of accounts, ledgers, journals and vouchers. Handle GST, TDS, income tax and other statutory compliances . Prepare and review GST returns, TDS returns and related documentation .\n\nPerform bank, vendor, customer and ledger reconciliations. Manage accounts payable and accounts receivable. Prepare monthly financial reports, MIS and accounting statements.\n\nHandle invoicing, billing, payments and receipts. Monitor outstanding payments and coordinate with vendors/customers. Assist in preparation of balance sheet, profit & loss account and other financial statements.\n\nCoordinate with auditors, consultants, banks and other financial institutions. Ensure proper documentation and compliance with applicable accounting requirements. Support management with financial data, reports and accounting analysis.\n\nMaintain confidentiality and accuracy of financial information.\n\nRequired Skills: Strong knowledge of Tally / Tally Prime . Good working knowledge of GST & TDS .\n\nStrong understanding of accounting principles.\n\nExperience in finalization of accounts . Positive knowledge of MS Excel.\n\nExperience handling accounts independently. Good reconciliation and analytical skills. Strong attention to detail and accuracy.\n\nGood communication and coordination skills.\n\nCandidate Profile: 68 years of relevant experience in accounting. Candidates who can independently manage complete accounting operations will be preferred.\n\nExperience with GST, TDS, taxation and statutory compliance is highly preferred.\n\nSalary is negotiable for the right candidate with strong experience and skills. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-accountant-delhi/jobtrade/19681881?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/5328754102249717760?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337126221/senior-accountant-delhi?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQWNjb3VudGFudCAoRGVsaGkpIiwiY29tcGFueV9uYW1lIjoiSm9iVHJhZGUiLCJodGlkb2NpZCI6Ik1teTMtNkdYWnh0b0pJNFhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lhUkdWb2NtRmtkVzRzVlhSMFlYSmhhMmhoYm1Rc1NXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzUlhaRmx4YTFoVlRWQkRUMVJSZVhadmIxcGlSelJJU1MwellUUklPR1ZHWTJoUWNteFdOVkYwVEdOcGRGTnNNM2xzZVVGbVJ6WkViMkYwUVUxUlgwSXljbGxPZDNoaVNGcE9TVVZvYXpKdVpGQlJjRTlvTlRaTFpIQjRSazR3U3pWNGRrSnZTVkJpTW1GVE0wRkRkVmRJTmpOVFRqUnVkWFpRVUV0MGRHeEZOa1YwTURnU0YzbGxaa2xoZFY4NFFXSmZiRFZPYjFBMVpqWnlORkU0R2lKQlJITnlPV1pVV1RWd1FuWkJPR2ROU1VkZlZFOUVWRTVMUzFSa1ptRlJlamhuIiwiZmN2IjoiMyIsImZjX2lkIjoiTW15My02R1haeHRvSkk0WEFBQUFBQT09In0="
+    },
+    {
+      "title": "Accountant",
+      "company_name": "Thinkstitch Clothing Private Limited",
+      "location": "Gurugram, Haryana",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=m9ho5oVF-cd2jq9sAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQoCMRBFsd0jWA3YiWxEsFArsdDCwsJeZmNIRrOZJTMra-cdrL2cJzE2Hz68_371GVWTrbXcJ8Wk8H294cYNiMNsA3CCPbOPbrwJqp2sjRGJtRdFJVtbbg0n1_Bgykj-cZGA2XUR1V0Wy_lQd8lPV-dA6S5KWpy7yFqqh1OmR8HgSC2puwKVsz73PmM7gwPmJyb8AekIt9egAAAA&shmds=v1_ARwrE21ZZKM0E0bJlU8fs2bS84wXQgwfB39UcCeAiByeo0kmTA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=m9ho5oVF-cd2jq9sAAAAAA%3D%3D",
+      "extensions": [
+        "6 days ago",
+        "₹25K–₹35K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/accountant-accountant-job-in-thinkstitch-clothing-private-limited-sector-37-gurgaon-4-to-6-plus-years-1791012219-8454244-jid",
+      "job_title": "Accountant",
+      "description": "We are looking for a experience accountant who has been working in manufacturing sector and has full knowledge of accounting and setting systems and work sops .\n\nIt is a Full Time Accountant job for candidates with 4 - 6+ years Experience.More about this Accountant jobPlease go through the FAQs to get all answers related to the given Accountant jobWhat skills and experience do you need for this Accountant job?\nAns :   To apply for this Accountant job, candidates should have skills like Audit, Balance Sheet, Book Keeping, Cash Flow, GST, MS Excel, Tally, Tax Returns, Taxation - VAT & Sales Tax, TDS along with 4-7 years of experience.\n\nWhat is the salary and job type for this role?\nAns :   The salary for this Accountant job ranges between ₹25,000-₹35,000 per month. This is a Full Time job.\n\nWhat are the working days and timings for this job?\nAns :   This Accountant job has 6 days working days and timings from 09:30 AM - 06:30 PM.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Sector 37 Gurgaon, Gurgaon.\n\nHow many openings are available for this position?\nAns :   There are 5 openings available for this position.\n\nWho can apply for this job?\nAns :   Candidates who have a Graduate and above qualification with 4-7 years of experience can apply for this Accountant job. Only female candidates can apply.\n\nWhat are the key responsibilities of this Accountant job?\nAns :   As a Accountant, key responsibilities include skills like Audit, Balance Sheet, Book Keeping, Cash Flow, GST, MS Excel, Tally, Tax Returns, Taxation - VAT & Sales Tax, TDS. This role is part of Accountant category.\n\nWhere is this job located?\nAns :   This Accountant job is located in Sector 37 Gurgaon, Gurgaon.\n\nWhat kind of candidate is ideal for this job?\nAns :   A candidate with skills like Audit, Balance Sheet, Book Keeping, Cash Flow, GST, MS Excel, Tally, Tax Returns, Taxation - VAT & Sales Tax, TDS along with 4-7 years of experience is ideal for this Accountant job.\n\nWhy should you apply for this Accountant job?\nAns :   This Accountant job offers a salary between ₹25,000-₹35,000 per month. This is a Full Time opportunity and has 5 openings available.\n\nCandidates can call HR for more info.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-accountant-job-in-thinkstitch-clothing-private-limited-sector-37-gurgaon-4-to-6-plus-years-1791012219-8454244-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiVGhpbmtzdGl0Y2ggQ2xvdGhpbmcgUHJpdmF0ZSBMaW1pdGVkIiwiaHRpZG9jaWQiOiJtOWhvNW9WRi1jZDJqcTlzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJYVJHVm9jbUZrZFc0c1ZYUjBZWEpoYTJoaGJtUXNTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVk5uU3pWRFZ5MXBSMDVoV210Zk9HTTNZMUJ2V2tsZmRFZDNla05JVWtsNFVIbG5VazFXYlVVd01sTk5abTl3ZVdKeFQyUjBSMmx0WjJKRmVsOHdWbVZPYkhsMVRGWlpWMVZwUlRoU01GZG5NR1ZqVUZWUGRXOHRjRUZLWlZaTU1WOHhNVUYxTlVsTE9EUjJjM0pHU1UxalEycDRjRkJLVHpOaFZuQjRYMnMxZDNkZlRtd1NGM2xsWmtsaGRWODRRV0pmYkRWT2IxQTFaalp5TkZFNEdpSkJSSE55T1daVFoyTk1aVXAyZVdST1ZrYzBjbTU0WjJKMGVGazNVbWRvZWpCbiIsImZjdiI6IjMiLCJmY19pZCI6Im05aG81b1ZGLWNkMmpxOXNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "UK Accountant – Year End Accounts",
+      "company_name": "The Ozark & Co.",
+      "location": "Delhi",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=VrJJOaEhLswf2ZPuAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_-OayshlE-qt4JicnF-aV5KYV6LwqGGyQmRqYpGCa14KTLwYLJqVn6RQDJRJzlDIz1Nwz89Pz0mVss4oKSkottLXLy7O0UsvLkksyUzWS87P1c_PS03Kr9AHaioGEfHFGYlFqQU5iSWp8UamBhV6BXnpWhIhGakK_lWJRdkKagrO-XoKmXkKLqk5GZkAhj0kRpgAAAA&shmds=v1_ARwrE22QxH_2ahpLlXOLRQytxtkxfYn9ixGPPT6Vuz5KyWXf7g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=VrJJOaEhLswf2ZPuAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "₹40K–₹80K a month",
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=1c02ad5fe4d6b1f1",
+      "job_title": "UK Accountant – Year End Accounts",
+      "description": "Overview :-\n\n\nWe are looking for a skilled and detail-oriented UK Accountant specializing in Year-End Finalization to join our UK Accounting team. The ideal candidate should have hands-on experience in preparing and finalizing UK year-end accounts for various business structures, along with a strong understanding of UK accounting standards, tax compliance, and statutory filing requirements.\n\n\nThe candidate will also be responsible for reviewing accounting records, resolving discrepancies, communicating with clients, and ensuring that year-end accounts are accurate, complete, and submitted within the required deadlines.\n\n\nKey Responsibilities :-\n\n\n\n Prepare and finalize UK year-end accounts for:\n Limited Companies\n Partnerships\n Sole Traders\n Trusts\n Review bookkeeping records, ledgers, trial balances, and supporting documentation before finalization.\n Perform detailed year-end adjustments and accounting reconciliations.\n Prepare and review:\n Profit & Loss Accounts\n Balance Sheets\n Trial Balances\n Fixed Asset Schedules\n Accruals and Prepayments\n Director’s Loan Accounts\n Depreciation calculations\n Other year-end journals and adjustments\n Identify and resolve accounting discrepancies and unusual balances.\n Ensure accounts are prepared in accordance with relevant UK accounting standards and statutory \n\nRequirements :-\n\n\n\n Handle Corporation Tax computations and coordinate with the tax team where required.\n Assist with preparation and review of Self Assessment / Partnership Tax Returns where applicable.\n Prepare accounts and supporting schedules for statutory submission.\n Liaise directly with UK clients to obtain missing information, clarify accounting transactions, and resolve queries.\n Review client bookkeeping and provide appropriate accounting adjustments or recommendations.\n Ensure all assigned jobs are completed accurately and within agreed deadlines.\n Maintain proper documentation and working papers for all accounts and tax assignments.\n Support senior team members in complex accounting, tax, and year-end finalization matters.\n Stay updated with changes in UK accounting, taxation, and Companies House requirements.\n\nRequired Technical Skills :-\n\n\nCandidates should have practical experience with one or more of the following:\n\n\n\n Xero\n QuickBooks\n FreeAgent\n KashFlow\n TaxCalc\n IRIS\n Capium\n Tax Filer\n CCH\n Microsoft Excel / MS Office\n\nRequired Knowledge :-\n\n\n\n Strong knowledge of UK GAAP / UK accounting principles\n Understanding of UK statutory accounts preparation\n Knowledge of Corporation Tax\n Understanding of UK VAT and basic VAT compliance\n Knowledge of bookkeeping and bank reconciliation\n Understanding of year-end journals and adjustments\n Familiarity with Companies House filing requirements\n Understanding of accounts for companies, partnerships, sole traders, and trusts\n Ability to identify accounting errors and recommend appropriate corrections\n\nClient Communication :-\n\n\n\n Act as a key point of contact for assigned UK clients.\n Communicate professionally with clients through email, telephone, and online meetings.\n Follow up with clients for missing documents and information.\n Explain accounting adjustments and year-end requirements clearly to clients.\n Handle client queries professionally and ensure timely resolution.\n\nCandidate Profile :-\n\n\n\n 2–5 years of relevant experience in UK accounting, preferably within a UK accounting firm, KPO, or CA firm.\n Graduate in Commerce / Accounting / Finance or equivalent qualification.\n CA Inter / ACCA / AAT qualification or relevant professional qualification will be an advantage.\n Strong practical experience in UK Year-End Accounts Finalization.\n Good analytical and problem-solving skills.\n Strong attention to detail and accuracy.\n Good written and verbal communication skills.\n Ability to independently manage multiple accounting assignments and meet deadlines.\n Ability to work effectively in a client-facing environment.\n Strong organizational and time-management skills.\n\nKey Competencies :-\n\n\n\n UK Year-End Accounts Finalization\n UK Statutory Accounts\n UK Bookkeeping\n Corporation Tax\n VAT\n Account Reconciliation\n Financial Statement Preparation\n Accounting Adjustments\n Client Communication\n Quality & Compliance\n Analytical & Problem-Solving Skills\n Attention to Detail\n\nWhat We Offer :-\n\n\n\n Opportunity to work on UK-based accounting and taxation assignments.\n Exposure to multiple UK business structures and industries.\n Opportunity to develop expertise in UK year-end accounts and taxation.\n Professional and collaborative working environment.\n Career growth opportunities within the UK Accounting & Tax team.\n\nPay: ₹40,000.00 - ₹80,000.00 per month\n\n\nBenefits:\n\n\n\n Paid sick time\n Paid time off\n\nApplication Question(s):\n\n\n\n How many years of experience do you have in preparing UK year-end accounts, and which types of entities have you worked on (Ltd companies, partnerships, sole traders, or trusts)?\n Which UK accounting and tax software have you used? Please mention your experience with tools such as Xero, QuickBooks, FreeAgent, TaxCalc, IRIS, CCH, or Capium.\n Are you experienced in independently handling year-end finalisation, including TB review, P&L, Balance Sheet, fixed assets, accruals/prepayments, director’s loans, and corporation tax coordination?\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=1c02ad5fe4d6b1f1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJVSyBBY2NvdW50YW50IOKAkyBZZWFyIEVuZCBBY2NvdW50cyIsImNvbXBhbnlfbmFtZSI6IlRoZSBPemFyayBcdTAwMjYgQ28uIiwiaHRpZG9jaWQiOiJWckpKT2FFaExzd2YyWlB1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJYVJHVm9jbUZrZFc0c1ZYUjBZWEpoYTJoaGJtUXNTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM1Z3ZGpZeVVuZElja3AyWkhaeU1GTjZiamxVZHpad1VFVmFjMGczWkRocExWaEtiakp3WW5VMWVYa3pWMFV4T0hwTWJHOUlOVU5NUTNkRE1uZDRZVkJTT0ZkbVJWaDFUVWhsTWxWT1NFUlNVRXBMYUROQmNGWkJTMDUwWmtrdGJqRk1NMFpIWlRod05HOW9aSE4zYmpac0xXVkhlVkI0YWpGVGJqWkNXbkJHWjIxclUwVVNGM2xsWmtsaGRWODRRV0pmYkRWT2IxQTFaalp5TkZFNEdpSkJSSE55T1daVVJWWlJZMWREUVZwdVVqUmFTbTVQZGtWa1RVOW1hRUYyVkcxQiIsImZjdiI6IjMiLCJmY19pZCI6IlZySkpPYUVoTHN3ZjJaUHVBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior accountant ( Chandigarh )",
+      "company_name": "Naukripay group",
+      "location": "Chandigarh",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=gnlMkFSTSTqm_Mm8AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_03NMQoCMRBAUWz3CIIwpVokIliopYWdjQdYZmNIorszITOBtfMOFt7Pk6idze8ev3lNmu3ZU-IC6BxXUiSFORwi0iUFLBEW8H484codiMfiIjDBkTn0frqPqll21or0JoiiJmccD5bJdzzaL5JfWolYfO5RfbverEaTKSxnJ6y3kjLeIRSuGRL9bT9Wyis6mgAAAA&shmds=v1_ARwrE23_6pL11TBOMtQ1N1H0VUlKOmik5ccqikwaNNiFJOb2hg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=gnlMkFSTSTqm_Mm8AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAbAAEAAgIDAAAAAAAAAAAAAAAABAYCAwEFB__EACoQAAICAgEDAgYCAwAAAAAAAAECAAMEERIFITETQRRRYXGBkSKhBjJS_8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBA__EABwRAQACAgMBAAAAAAAAAAAAAAABEQISMVFhA__aAAwDAQACEQMRAD8A9xiIgImNli1oXc6USIeoIL_RNbizjz4bUvx_6473r8QJsTGt1sRXrYMrDYI95lAREQERECPkaN2OG8eof3xOpWbg9n-QYhfqbjIXqDVCoCsH0_SZvGtkaI7_AF-feWnIWtqW9VuKgbLb1x133v21IluC9t1VrNSbKn5Jb6ZDb4le-j37Mfp38TYVE034gC3ZSr_qLN6-RKgkf3v8yTNVFS018QSxJ2zMe7H5mbZiSIiBpy9_C3cV5Hg2lA3vt4nUl8zFf01rtsNSitbeBbkpDEH6nsqn77953kTll89strVGVRSsdVyuo5WFn43wbmu3GtC6pbZ3SCq_flyH4Am45fU7aB6tAK2rcj1HGfYIB4qSD29hvwdnR8bsMTpEUbeK7mdQz8e3p2Ph1qDdhtZ6RoYnmrVDj5_iNOQSfHaYHq_VuT6wbf4vT2-Gbw1jI6g-_EBTy8d9-PFhampr0vNam1FZFfXcKSCR-eK_oTjIoqyajVfWr1nW1bwdS4yjouEXoGXdn9C6bmZQUX5GLVbaEBChmUE6B8DZiTgAAABoDwImTylzERMCIiAiIgIiIH__2Q.jpeg",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/senior-accountant-chandigarh-at-naukripay-group-4474240923",
+      "job_title": "Senior accountant ( Chandigarh )",
+      "description": "Senior Accountant to oversee general accounting operations by controlling and verifying our financial transactions.\nSenior Accountant responsibilities include reconciling account balances and bank statements, maintaining general ledger and preparing month-end close procedures. A successful Senior Accountant combines excellent analytical skills with a thorough knowledge of accounting principles to analyze financial reports and forecasts. The ideal candidate has also experience collaborating and/or managing a team of Accountants and Junior Accountants.\nSenior Accountant duties also include ensuring accuracy and effectiveness in all of our accounting tasks.\nResponsibilitiesVerify, allocate, post and reconcile accounts payable and receivableProduce error-free accounting reports and present their resultsAnalyze financial information and summarize financial statusSpot errors and suggest ways to improve efficiency and spendingProvide technical support and advice on Management AccountantReview and recommend modifications to accounting systems and proceduresManage accounting assistants and bookkeepersParticipate in financial standards setting and in forecast processProvide input into department’s goal setting processPrepare financial statements and produce budget according to scheduleAssist with tax audits and tax returnsDirect internal and external audits to ensure compliancePlan, assign and review staff’s workSupport month-end and year-end close processDevelop and document business processes and accounting policies to maintain and strengthen internal controlsEnsure compliance with GAAP principlesLiaise with our Financial Manager and Accounting Manager to improve financial proceduresRequirements and skillsProven experience as a Financial Controller, Accounting Supervisor, chief or senior accountantThorough knowledge of basic accounting proceduresIn-depth understanding of Generally Accepted Accounting Principles (GAAP)Awareness of business trendsFamiliarity with financial accounting statementsExperience with general ledger functions and the month-end/year-end close processHands-on experience with accounting software packages, like FreshBooks and QuickBooksAdvanced MS Excel skills including Vlookups and pivot tablesAccuracy and attention to detailAptitude for numbers and quantitative skillsBS degree in Accounting, Finance or relevantRelevant certification (e.g. CMA or CPA) will be preferred",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/senior-accountant-chandigarh-at-naukripay-group-4474240923?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-accountant-chandigarh-naukripay-chandigarh--vonq-eb4b0a317e061a6b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-367509128773603448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobfinder-Ai",
+          "link": "https://www.jobfinder-ai.com/jobs/naukripay-senior-accountant-chandigarh-1k46h0kzcg3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Scovai",
+          "link": "https://app.scovai.com/es/jobs/a2dd5efa-9868-4cde-804d-157b87d2d350/chandigarh-senior-accountant-chandigarh-naukripay?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgYWNjb3VudGFudCAoIENoYW5kaWdhcmggKSIsImNvbXBhbnlfbmFtZSI6Ik5hdWtyaXBheSBncm91cCIsImh0aWRvY2lkIjoiZ25sTWtGU1RTVHFtX01tOEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWFSR1ZvY21Ga2RXNHNWWFIwWVhKaGEyaGhibVFzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2tSTWFWbElVVlE1VXpaUFZ5MW5XVm8wWXpKWGJsQkRTMEpSVUdrek5uVndSbFZNTkVSR1RERTRiRTF6V25wMUxYZHpkREpCYzFKbVJYQnlVM2hpUzBOTWFtMVRhMDlKYURKclEzRTVjbmxsWkZkb1kyNVNUVk40VmtGa1IwTkhRMjlzUVZWSWRXRnBNMDUzVTJSNlFqRktObm8xUVdocE5VODVXSFZ0WlhnMFNteFZNV0VTRjNsbFprbGhkVjg0UVdKZmJEVk9iMUExWmpaeU5GRTRHaUpCUkhOeU9XWlVWV2gwTVVOVU0xOU1Xa0pJU1c1WlpGODFVbFJYY0hCQ04zUlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJnbmxNa0ZTVFNUcW1fTW04QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "General Ledger Accountant",
+      "company_name": "inDrive",
+      "location": "New Delhi, Delhi",
+      "via": "InDrive Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=MRKr1murpuKuS6PzAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yXLMQoCMRBAUWz3CNpMLZLIgo1WwsI24hWWbBySSJwJmVG39AQ23tCTqNj8V_3mOWvaHgmry3DAU8AKe-_5SupI4f14wZlHEHTVR2CCnjlknO-iapGttSLZBFGnyRvPF8uEI0_2O8kvg0RXsWSnOLSb9WQKheUiUVfTDSERHPEOHeaYVn8-OL6rGJEAAAA&shmds=v1_ARwrE23aTCrGcKt3kJ8jcsMpZneg4Is7yF1N-6-JCMwZ47o3XQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=MRKr1murpuKuS6PzAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://indrive.pinpointhq.com/postings/d805e4c2-a13c-4498-a2c4-0c085cf7d61f",
+      "job_title": "General Ledger Accountant",
+      "description": "General Ledger AccountantDepartment: Global Financial Reporting, Accounting and Tax\n\nEmployment Type: Full Time\n\nLocation: India\n\n\nDescriptionJoin the inDrive Accounting Hub in India as a Senior Accountant/Accountant specializing in the Procure-to-Pay (P2P) cycle. This is a high-impact, individual contributor role designed for a technically proficient and commercially awareAs a key member of our Global Shared Services Center (SSC), you will ensure the integrity of our financial data by managing the end-to-end accounting for expenses. You will serve as a vital bridge between global operations and financial reporting, maintaining a balance between operational excellence and strategic business partnership in a fast-paced, highly international environment.\n\nNote: We are hiring for either a GL Accountant or Senior GL Accountant role. The final grade will be determined based on the candidate's technical interview performance and overall experience.\nKey Responsibilities\nGL Reconciliations & Balance Sheet Integrity (Primary Focus)\nOwn preparation and review of monthly balance sheet reconciliations with complete and accurate supporting documentation.\nEnsure timely identification, investigation, and resolution of reconciling items, with clear tracking of aging balances.\nMaintain reconciliation trackers and ensure completeness across all key GL accounts.\nDrive discipline around balance sheet reviews and sign-offs, ensuring strong controllership.\n\n\n\n\n\nAudit & Compliance (Quarterly/Annual)\nLead preparation and review of PBC (Prepared By Client) schedules for quarterly and annual audits.\nAct as the primary point of contact for auditors, managing queries and ensuring timely closure.\nEnsure all audit requirements are supported with proper documentation and reconciliations.\n Support implementation and monitoring of internal controls (SOX/ICFR, where applicable).\n\n\n\n\n\nAccruals Support \nSupport the accrual process during month-end by preparing select accrual entries and validating supporting data.\nAssist in variance analysis between accruals and actuals for assigned areas.\nCoordinate with relevant teams to ensure completeness of expense recognition.\n\n\n\n\n\nProcess Improvement & Controls\nDrive standardization and automation of reconciliation and audit processes.\nDevelop and maintain SOPs for GL reconciliations and audit support activities.\n Identify process gaps and implement improvements to enhance accuracy, efficiency, and audit readiness.\n\n\n\n\n\nStakeholder Management\nCollaborate with Auditors, Controllers, FP&A, AP, and business teams to resolve discrepancies and improve data quality.\n Partner with internal stakeholders to strengthen financial controls and reporting accuracy.\n\n\n\n\nSkills, Knowledge & Expertise\n\nProfessional Qualification: Must be a Qualified Chartered Accountant (CA).\n\nPost-Qualification Experience: 4–5 years of experience in a global accounting environment or a Tier-1 Shared Services Center (SSC).\n\nBig 4 experience strongly preferred.\n\nTechnical Expertise: 2–3 years of hands-on experience with NetSuite is mandatory.\n\nGAAP Knowledge: Proficiency in U.S. GAAP and local statutory reporting requirements.\n\nIndustry Context: Experience operating in a fast-paced, international environment (Tech or Hyper-growth startups preferred).\n\n\nWhy join us\nHelp us challenge injustice by creating fair choices for millions of people across 47 countries.\nDevelop your professional skills with access to mentoring, career consulting, and learning programs.\nCollaborate with teams around the world and gain international experience through our Global Talent Exchange Program.\nEngage in company-wide challenges, awards, sports activities, employee-led social impact and volunteering projects.\nWork alongside people who take initiative, speak openly, and challenge themselves to grow.\nImprove your language skills through co-financed courses and internal speaking clubs.\nFinal benefits may vary depending on the location.",
+      "apply_options": [
+        {
+          "title": "InDrive Careers",
+          "link": "https://indrive.pinpointhq.com/postings/d805e4c2-a13c-4498-a2c4-0c085cf7d61f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/general-ledger-accountant-indrive-new-delhi-delhi--t7xk-858082697?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/general-ledger-accountant-innova-esi-delhi-2-to-5-years-experience-0c05536d-d12d-4419-85c5-95981eb89881?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/6006169813192278016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJHZW5lcmFsIExlZGdlciBBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiaW5Ecml2ZSIsImh0aWRvY2lkIjoiTVJLcjFtdXJwdUt1UzZQekFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWFSR1ZvY21Ga2RXNHNWWFIwWVhKaGEyaGhibVFzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNwYWJIZFlNbEYyU1hSMU4wWTBRbU5HV205NWJqZFBRV3MwU1VJeVVtNVBla3d3ZWxkNlJ6SkJXRWR2YlhGTVRUWkVYek5CWTNSMmFYSnVUVGRKZUd3MVUyWmxaalpGYWxkMlZrZERka0Z4Y0cxaU5VUjRWV1Z0TXpkVlJUWmZOMVpTV1d0MVYyRTBUVmxHYjBkeE5WUndSR0ZTUnprd2RGcDNjR2RUU0doSE5rdHFaRWtTRjNsbFprbGhkVjg0UVdKZmJEVk9iMUExWmpaeU5GRTRHaUpCUkhOeU9XWlRhbVZhYW0xaVRrRlNlSEJTUVhGQ2VHMVJiRm8yTjJRMk9UTkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJNUktyMW11cnB1S3VTNlB6QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Assistant Accountant",
+      "company_name": "AUM & Associates",
+      "location": "New Delhi, Delhi",
+      "via": "WorkIndia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=OG9ZhPRoR1JIRiAyAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_-OaxMil61hcnFlckphXouCYnJxfmgdmPmqYrJCVn6RQnJpYlJyhkJ-n4J6fn56TKmWdUVJSUGylr19cnKOXDtRXkpmsl5yfq5-fl5qUX6EP1FQMIuKLMxKLUgtyEktS441MDSr0CvLStVQcQ30V1BSANuYnZwJlihUy8xT8UssVXFJzMjJ1IBQAQU6RLZUAAAA&shmds=v1_ARwrE21Ek1oo6nHHal_YbC9zHRUUM8IBM5wyMmGsVu_lJKjkyQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=OG9ZhPRoR1JIRiAyAAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "₹15K–₹40K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.workindia.in/jobs/assistant_accountant-tilak_nagar-delhi-11462893/",
+      "job_title": "Assistant Accountant",
+      "description": "Salary Range : Rs. 15000 - Rs. 40000 , based on skills, experience, and interview performance\n\nEducational Requirement : Graduate\n\nWork Arrangement : Work From Office\n\nGender Preference : Both male and female can apply\n\nSkills Requirement : No predefined skills necessary\n\nExperience Requirement : 1 - 2 Years of Experience\n\nLocation : Tilak nagar\n\nWorking Hours : 10:30 AM - 7:30 PM | Monday to Saturday\n\nAdditional Info : Manage Financial Records, Prepare Tax Filings, And Ensure Compliance With Legal Regulations. Analyze Financial Data To Assist In Decision-Making. Provide Advice On Tax Planning And Savings Opportunities. 1 - 2 Years Experience Compulsory.  | Skills Needed : Tally, GST, TDS, Finalization | Book Keeping, Taxation, Audit",
+      "apply_options": [
+        {
+          "title": "WorkIndia",
+          "link": "https://www.workindia.in/jobs/assistant_accountant-tilak_nagar-delhi-11462893/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc3Npc3RhbnQgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkFVTSBcdTAwMjYgQXNzb2NpYXRlcyIsImh0aWRvY2lkIjoiT0c5WmhQUm9SMUpJUmlBeUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWFSR1ZvY21Ga2RXNHNWWFIwWVhKaGEyaGhibVFzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZCMFNYQjJUa1JKZWpZd1QzUTVTVXRETFdadmEyVmpjVXRDZVc5dlJHeHBNamhMTkV0S1NHdFZjRkp0VjBWVFdtWXpWVTFtWDJSRVYwUklWMUZpVWw5c01Ib3RRMFZtWldrMmNrbElaelEwY1VzMk1HeHZPWGhFVUROemNISlFaVTV6VUZkNGF6Qm5iRUZDU0dwelIzQjVkMWx5V25NM01USXpWVFJNYkMweVUydEphbEFTRjNsbFprbGhkVjg0UVdKZmJEVk9iMUExWmpaeU5GRTRHaUpCUkhOeU9XWlJVVTk1Wm1KUllrZEpSVEpmTlRSRFNrZFljRzUyZGpJNFpHZEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJPRzlaaFBSb1IxSklSaUF5QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Intermediate Accountant",
+      "company_name": "CLOTHWARI PRINTING PVT LTD",
+      "location": "New Delhi, Delhi",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=iOltAViPsZjnaDesAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWMMQrCMBRAce0RnP4s0hTBRadioQZKLSXoWNL4aSJpfmkidvQOHsC7eRIrLu9N70XvRZRwF3Ds8WpkQEiVorsL0gX4PF9woxY8ylFpIAc5UWdxudchDH7HmPc27nyQwahYUc_IYUsTmyP_Q-O1HHGw87fZbJMpHly3ig_FSRwvac2hqnkpeJlDdRZQiAyMgxIfkKHVZv3XFz8dWXiiAAAA&shmds=v1_ARwrE23wIfmalixqStv2R6_67oBgs74cMjd0B0BOmTPECbtPwg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=iOltAViPsZjnaDesAAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "₹30K–₹50K a month",
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=188d41c04aae3d23",
+      "job_title": "Intermediate Accountant",
+      "description": "Senior Accountant\n\n\nExperience: 5–6+ Years\nDepartment: Accounts & Taxation\n\n\nWe are looking for an experienced Senior Accountant with 5–6+ years of relevant experience in accounting, taxation, compliance, and litigation matters. The candidate should have strong practical knowledge of GST, Income Tax, TDS, banking, and financial accounting.\n\n\nKey Responsibilities\n\n\n\n Handle day-to-day accounting, bookkeeping, and financial records.\n Prepare and file GST returns and ensure timely GST compliance.\n Prepare and file Income Tax Returns (ITR) and related compliance.\n Handle GST notices, assessments, and GST-related cases, including drafting and submitting replies.\n Handle Income Tax notices, assessments, and litigation matters, including preparation and submission of replies.\n Coordinate and follow up on GST and Income Tax litigation/cases with consultants, CA, and legal professionals.\n Prepare and submit replies to bank queries/notices and coordinate with banks for documentation and compliance.\n Reconcile GST, TDS, bank, and ledger accounts.\n Ensure proper maintenance of accounting records and supporting documents.\n Coordinate with CA/CS, tax consultants, auditors, and other professionals whenever required.\n Prepare MIS reports and other financial statements as required.\n\nRequired Skills\n\n\n\n 5–6+ years of relevant experience in Accounts & Taxation.\n Strong knowledge of GST Filing & GST Compliance.\n Good knowledge of ITR Filing & Income Tax Compliance.\n Practical experience in GST and Income Tax case handling/litigation.\n Good knowledge of Tally and Advanced Excel.\n Experience in handling bank replies and banking documentation.\n Strong communication, drafting, coordination, and follow-up skills.\n Ability to independently handle taxation and accounting matters.\n\nPay: ₹30,000.00 - ₹50,000.00 per month\n\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=188d41c04aae3d23&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJbnRlcm1lZGlhdGUgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkNMT1RIV0FSSSBQUklOVElORyBQVlQgTFREIiwiaHRpZG9jaWQiOiJpT2x0QVZpUHNaam5hRGVzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJYVJHVm9jbUZrZFc0c1ZYUjBZWEpoYTJoaGJtUXNTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVWhOUjFVeE5tWnNTbmRWZDNwV09UTjNiMTlFYUVwUE9IRlBiSFJyY2w5cmFWQlRiMGxoYWxWRVNsWnNURjl0TUdOTVVqaG1hV3BOZERoaFRXZHhVMTlvTldrM2VEUkRjSE5XY0ZkcVVXRklkM0EzT1VSNk1uTkxjekZRVmxnemRXSlBNV1UzWjBSdVFqTTJNa2QwTjA1bWVFaFlVVlY0YlRGU2NtbHZjemxFTUdsRlVIY1NGM2xsWmtsaGRWODRRV0pmYkRWT2IxQTFaalp5TkZFNEdpSkJSSE55T1daVVQycFVZMGxsYjFaWlpFaERZelkzU0dKUFkyWnRhRzkyZGxkUiIsImZjdiI6IjMiLCJmY19pZCI6ImlPbHRBVmlQc1pqbmFEZXNBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBURVoxTFVKQ1NqVlZRVmsxZEd0WlUxZDROemhaTTNGRVVHMDFXRzlJTjE4dFNGaGhiMUV0Y0MxcllqQnpSM2RvV2pFM1REWkRiREJ2VmpSU2FHOXZhMmxMYlRkb1MwOWlZMDU2VkdaSE1XZEdiekpXUkZJNVoyYzJUWE14YjNwWVh6SXlPVTlpU1Vod2FqQnZaWGxmYUdrMFpGTlNjVXR1UkVOM1lWUTFUalk1VXpSRlgxRnNlV1k0TjJjdFdVNXBTVGhxWmxad04wbEtSbFo2VUVONlVIZFBjWFpLZDJGMmJXd3RaMHBFWVVzMFNDMVFaREF4ZFRSa1dFaFNRa3BWYmpkdWMzbHFRbTlzZUdKTVZVTXlkbGRuU1ZrMmRERnJZMGRwVkhZeVRIRTNMWEUxUTA5b2QyTkRRbXhyYlZGeVJIQnJNa2RMY0VGdE1VbERYMmxTVlhWTllWcEljbUp5Y0VweWNVVk1VV3RMT0hWdWVsSlZXWG96TlVsek1GWXdSV0ZTY1ZrdE5ucG5hbXRGZUc5M1ZFNDJSbUZrZUhOQ1YxOUJSamt3YzE5UmIyZFBiWEJvUjBwMlNIQkpVVEZxV1V4clZtRjZVMkYyVTJkcGFuUjFZMUEzYTJZMk1VNUVYMnhZUlZKSmNYZHJabEpyWWpOak4wZE5ZUzFLY0VoV05sbFVjR2g2YjBzeWVVRkdUWFpZYWtkT2RFTnJZMlJ5U3pCWE9XOHdlbkJwTkV3elkwb3RRbEJJUW5kZk5YbFdNMk5RTmswdExUVXRZVzFpVDE5VU1GVmhXSFZmV0cxMk1sWlJNVkJOUmkxWU9WaHJPVGxxY0hka1VGRVNGM2xsWmtsaGRWODRRV0pmYkRWT2IxQTFaalp5TkZFNEdpSkJSSE55T1daUlJYVllVRFptVVhOVFNsSXhXbE42U25CQ1JGbHVOMlZyV1VOMyIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBURVoxTFVKQ1NqVlZRVmsxZEd0WlUxZDROemhaTTNGRVVHMDFXRzlJTjE4dFNGaGhiMUV0Y0MxcllqQnpSM2RvV2pFM1REWkRiREJ2VmpSU2FHOXZhMmxMYlRkb1MwOWlZMDU2VkdaSE1XZEdiekpXUkZJNVoyYzJUWE14YjNwWVh6SXlPVTlpU1Vod2FqQnZaWGxmYUdrMFpGTlNjVXR1UkVOM1lWUTFUalk1VXpSRlgxRnNlV1k0TjJjdFdVNXBTVGhxWmxad04wbEtSbFo2VUVONlVIZFBjWFpLZDJGMmJXd3RaMHBFWVVzMFNDMVFaREF4ZFRSa1dFaFNRa3BWYmpkdWMzbHFRbTlzZUdKTVZVTXlkbGRuU1ZrMmRERnJZMGRwVkhZeVRIRTNMWEUxUTA5b2QyTkRRbXhyYlZGeVJIQnJNa2RMY0VGdE1VbERYMmxTVlhWTllWcEljbUp5Y0VweWNVVk1VV3RMT0hWdWVsSlZXWG96TlVsek1GWXdSV0ZTY1ZrdE5ucG5hbXRGZUc5M1ZFNDJSbUZrZUhOQ1YxOUJSamt3YzE5UmIyZFBiWEJvUjBwMlNIQkpVVEZxV1V4clZtRjZVMkYyVTJkcGFuUjFZMUEzYTJZMk1VNUVYMnhZUlZKSmNYZHJabEpyWWpOak4wZE5ZUzFLY0VoV05sbFVjR2g2YjBzeWVVRkdUWFpZYWtkT2RFTnJZMlJ5U3pCWE9XOHdlbkJwTkV3elkwb3RRbEJJUW5kZk5YbFdNMk5RTmswdExUVXRZVzFpVDE5VU1GVmhXSFZmV0cxMk1sWlJNVkJOUmkxWU9WaHJPVGxxY0hka1VGRVNGM2xsWmtsaGRWODRRV0pmYkRWT2IxQTFaalp5TkZFNEdpSkJSSE55T1daUlJYVllVRFptVVhOVFNsSXhXbE42U25CQ1JGbHVOMlZyV1VOMyIsImZjdiI6IjMifQ%3D%3D&q=Accountant"
+  },
+  "_retrieved_at": "2026-10-09 13:10:32 UTC"
+}

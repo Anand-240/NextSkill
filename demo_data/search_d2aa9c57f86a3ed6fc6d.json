@@ -1,0 +1,332 @@
+{
+  "search_metadata": {
+    "id": "6ac8e7bcb77a0ae92e18f690",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/XYU6r81gf_g859N1u90vyo-F06mvKxc0i8Mt8AyzXZk/6ac8e7bcb77a0ae92e18f690.json",
+    "markdown_endpoint": "https://serpapi.com/searches/XYU6r81gf_g859N1u90vyo-F06mvKxc0i8Mt8AyzXZk/6ac8e7bcb77a0ae92e18f690.md",
+    "created_at": "2026-10-09 13:10:20 UTC",
+    "processed_at": "2026-10-09 13:10:20 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Accountant&uule=w+CAIQICIfUHVuZSBEaXZpc2lvbixNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/XYU6r81gf_g859N1u90vyo-F06mvKxc0i8Mt8AyzXZk/6ac8e7bcb77a0ae92e18f690.html",
+    "prettify_html_file": "https://serpapi.com/searches/XYU6r81gf_g859N1u90vyo-F06mvKxc0i8Mt8AyzXZk/6ac8e7bcb77a0ae92e18f690.prettify",
+    "total_time_taken": 1.14
+  },
+  "search_parameters": {
+    "q": "Accountant",
+    "engine": "google_jobs",
+    "location_requested": "Pune, India",
+    "location_used": "Pune Division,Maharashtra,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBURGR3YUZSV1kwOXZSRzlSYjNKdmMzZDNPVE5YYVdsVFgydG5URTlvYmxaQlZFWjFhVWg0VlVnM1JVRkVNemxrVG1SVU1DMWFjMkZPU1VaUmR6Qk1ORVIyVkVGMVNGVjBVV0pmYTJKVVQxTlpObUZKYmpCSmRGVldURXRWWjE5TVRVUjVWVlpDUzBwSmRUbFdjelUxVlVWdlZtcGpkVlJ3Tms5TVVGQkhhM2RMZVVNMlZYVjVXV3cxTkdkNmFHZzNORzE2V1RGQlJFOW9VbGhITkhoclZTMTNXV1Y2VUU4NU4xcGxTVWRLVkROc1NrOXhhbmN5U1hBMWFHaEVSQzF3UlRkV2RUSXlNR0ZxWDIxUlEwVklRWGRTVjJrNGEyUk9RbFYzZFZoS04zUmZSakUzYVhwTVltSm1kbTVwZWtsWVJIZG1Oa1Z2V0dSdE4xRjFiVWh2VXpGeGJpMUdRalJrVDJOUmFITTNTRmxZVDNGclZVZ3phV2hCVmxsQmJFWm1lbmhYU25SaFJYcDZibUZuZGxaVlEyMW1VWE5hTFVjeVYyVm1UemMzVkRaSFFsRk5TRk42UTFrNFNuRnhiRzUxUlZCV1ZISTRaVVJpYVRsbFRIaHlSbVZ2WTBZd1lWaHBlVzlWTWxkUlh6RnVTMDVvYVhocFNFMTJXbHA1VjJkeE9XOVJSbDlOUms0MGFsUlpkMmRPZEUweWJUVkVibDlEWm05QmQwSlplRFZ3T0hodlZtRnphemhXVEhFemJrUk5UbEZxVUVjeldXcEViRFExYm01RmMwYzJhemQxUVJJWGRTMW1TV0YwYWpkR2RUWmxkMDQwVUhKTlJ6WTRRVzhhSWtGRWMzSTVabEZST1hWaGVUbFZWVUpEU0VOd1NTMVZWbTF4YURCNWFrcFNUbEUiLCJmY3YiOiIzIn0="
+  },
+  "jobs_results": [
+    {
+      "title": "Chartered Accountant- Tax and Reporting",
+      "company_name": "Capgemini",
+      "location": "Pune, Maharashtra",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=goM3c5QEDCP5KARCAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsfUJFrK1aE4EG22UFFaCiH3YXJbLSbJ73G4gpX_wAf7NlxibqWaY-Wc2P5UtZqNMDZy9l4EN2TbwwBGQG7hTkmyRA3xfb3hKDUqYfQvCcBEJHS2OrVnSg3OqXRHU0KIvvPROmGoZ3RTpH5VOJ0odGlW7_XYsEofVssQUqI8cITLcBqY1XHESUVvL-AP6hybKogAAAA&shmds=v1_ARwrE20BeBXLDevvqhWTphRdLWH-vC-ElwKubR4Uzz7IsunWBQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=goM3c5QEDCP5KARCAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAaVBMVEX///8AWKoAUKcAVqkATabM1ef4+fz09vrb4e7h5vH8/P2ZrNEAUqi4xN4ARqPq7fVHcbWouNcAL5x2ksQAQ6JsisA5abGMosxkhb4AEZVZe7nCy+IAJZnV3OuRp84vYa4APaCDnMkANZ6EQRJkAAABWUlEQVRIie2S0XKEIAxFLyICKgKLopUq6v9/ZJHuy3Y67nM7nodMJuZmzA3Azc3NzT9npEVz9X3hz6TKsZ5alRNnwD+qC+EcnsnnOUEVLe2mlMjPJBqf87hOQagalUS9VGuan4qABrM5wdBRQmjnAGvyNNXOEN4XDKtpuI7G1nTsg35IzAu8LDYNmn6vJEnnV1dhnPIeLVL7QwcXCIx2gTk+G7U204rI4K3dLVrwPulIacuewfpTaBQKLXuw0uzoxBC8VNGxfRIzDoZykMrhgO6Srmgi6VTaUQJNF8SDKc9jYL5p2b4J7gsrvAO10yr7EjKKTcAXtPUqbud+++H8KDq/UDORIRllXbQDjdzI+qEwGBBjU30mLILPdGBbI7MvQsnsHkT2SZjT/+/7sNfD1NkO48JrGUs8L1LC/eh/iz5SCGmtq+fwK+E8N/WXD/AC/r7l5ubm5q/wBWeUExct/wZWAAAAAElFTkSuQmCC24",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/chartered-accountant-tax-and-reporting/capgemini/19501022",
+      "job_title": "Chartered Accountant- Tax and Reporting",
+      "description": "We are looking for an experienced Chartered Accountant Tax & Reporting to manage tax compliance, reporting, and audit support for operations across MENA and Asian countries. The role requires strong handson tax experience in multinational environments and excellent technical knowledge of direct and indirect taxes.\n\n\nKey Responsibilities\n\nHandle monthly, quarterly, and annual tax reporting, including:\n\nTax provisions\n\nDeferred tax\n\nCash tax forecasts\n\nForeign tax credits\n\nPrepare and review corporate income tax, VAT/GST, and withholding tax calculations and filings\n\nEnsure timely submission of tax returns and tax payments\n\nPrepare auditready tax disclosures, notes, and documentation\n\nSupport statutory and tax audits\n\nMaintain accurate tax workpapers, reconciliations, and records\n\nTrack tax law changes and assess business impact\n\nSupport crossborder tax matters and treaty applications\n\nReview tax clauses in contracts and agreements\n\nStrengthen tax controls, documentation, and audit trails\n\nManage einvoicing compliance requirements\n\nIdentify opportunities for process improvement and automation\n\nSupport adhoc tax and reporting assignments\n\n\nRequired Skills & Qualifications\n\nQualified Chartered Accountant (CA)\n\n3+ years of strong handson experience in taxation\n\nExperience with\n\nCorporate tax\n\nVAT/GST\n\nWithholding tax\n\nMulticountry tax compliance\n\nWorking knowledge of GAAP / IFRS\n\nStrong proficiency in MS Excel\n\nExperience with ERP systems (SAP / Oracle preferred)\n\nExcellent written and verbal communication skills\n\nAbility to work in a fastpaced, multinational environment\n\n\nPreferred\n\nWorking knowledge of Arabic .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/chartered-accountant-tax-and-reporting/capgemini/19501022?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/chartered-accountant-tax-and-reporting-capgemini-pune--t7xk-815474383?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/tresvista-associate-statutory-reporting-and-tax-pune-maharashtra-3-to-5-years-732945?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDaGFydGVyZWQgQWNjb3VudGFudC0gVGF4IGFuZCBSZXBvcnRpbmciLCJjb21wYW55X25hbWUiOiJDYXBnZW1pbmkiLCJodGlkb2NpZCI6ImdvTTNjNVFFRENQNUtBUkNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTekJ3VmxabFgyczRRMk01TUVoSFNuTmlkVkkyVURjd2NTMDBSbWRwYW1sSFF6aDVjMDltTWtzMlYza3dTbTl2T0ZWalpWRkdPWFV3VnpoeVMzUkJUbmxUTlZKd1lreFpjMjU2YkhsdVVrOXJNblV5TUZCamVXTkJkRXRqZDJoME4yaFNaMmxJWDBaWVRUVnlZbTEyTkc4MU5rRjJUREp5VjNaT1FtNDJZM0JWYUVkUFdsOFNGM1pQWmtsaGNrdERUMlJ5YkRCUVJWQnlZek4wWjFFd0dpSkJSSE55T1daVVQzaE9MVXBzU0RCTllYTlNiRWd5UzNGak1YWkxSWFkyWW1sQiIsImZjdiI6IjMiLCJmY19pZCI6ImdvTTNjNVFFRENQNUtBUkNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Accountant",
+      "company_name": "World Hire Exhibition",
+      "location": "Mumbai, Maharashtra",
+      "via": "WorkIndia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=xvJ4qBYBH05UXgsCAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CE4HblIaEVx0chBdOjuWSwzJSZoruStk9BEE39AnsS7_9v3Ne9Vszs7xnBWzwvf1gSdbEI_FReAMV-aQ_PoUVSc5GiOSuiCKSq5zPBrO3nI1C5J_BolY_JRQ_bA_7Go35bBt71zSA25UPFxqJEtKy5oy9PNokVrocWEoUQv-APBa3seTAAAA&shmds=v1_ARwrE23CIRJjNNT1z9NUalNddjP_rw04zdL9cKVJD642WnzCaQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=xvJ4qBYBH05UXgsCAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "₹21K–₹30K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.workindia.in/jobs/accountant-powai-mumbai-11435956/",
+      "job_title": "Accountant",
+      "description": "Salary Range : Rs. 21000 - Rs. 30000 , based on skills, experience, and interview performance\n\nEducational Requirement : Graduate / Female Only\n\nWork Arrangement : Work From Office\n\nGender Preference : Female only\n\nSkills Requirement : No predefined skills necessary\n\nExperience Requirement : 2+ Years of Experience\n\nLocation : Powai\n\nWorking Hours : 10:00 am - 6:30pm | Monday to Saturday\n\nAdditional Info : Responsible For Billing And Invoicing, Maintaining Balance Sheet, Accounts, Bank Statements Vendor Co-Ordination. More Than 2 Years Experience Compulsory.  | Skills Needed : Tally, Finalization, GST, TDS | Book Keeping, Taxation",
+      "apply_options": [
+        {
+          "title": "WorkIndia",
+          "link": "https://www.workindia.in/jobs/accountant-powai-mumbai-11435956/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiV29ybGQgSGlyZSBFeGhpYml0aW9uIiwiaHRpZG9jaWQiOiJ4dko0cUJZQkgwNVVYZ3NDQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdocFdGRmpNV2d3ZEUxaGNuZEZWRjlrVFRCb1JGRTVlVkE1Y1RKNk5WZFZielphYTFCbU5VUTJUbDlYVGpSbFRXUnBkVGh4VVVKaWFEVkhURUZMZUZwR1dYbHVXVWxpYzBkRVIzYzJWbFpaTmpaSmVYQkhSamhpZW1wd09WSk9WRzVIV2s5R09FTnJkMGxCUmxkVGJ6QkhhbTVGWWpSWldUUnZUWFZWWjIxQ1lXNUdkRVlTRjNaUFprbGhja3REVDJSeWJEQlFSVkJ5WXpOMFoxRXdHaUpCUkhOeU9XWlJZbUY0YTNWeFdHcFFPV05mU2xBMVluRTBhWGRUWjBKRlpVWm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJ4dko0cUJZQkgwNVVYZ3NDQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Intercompany Accountant",
+      "company_name": "Randstad",
+      "location": "Pune, Maharashtra",
+      "via": "Randstad India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=CCGLxfbGu2Ybm_xbAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TBGFrkbsg2GhlJRaC-IGwuSy5SNw9bjcQO19g4w99iWcz1cxU70VVn9koB3kk5CccQ5CJDdng-_rAXVpQwhwiCMNJpB9peYhmSffeq46uV0MbgisDL0ytzL5E-kejETOlEY2a7a6eXeJ-vbohd6XpYGC4TkwbuGDxUKNl_AFWWIhekQAAAA&shmds=v1_ARwrE23OAObZR8TxPZQUfX9YIUP1z_eyl0WHy5LxkBZkUoVTcA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=CCGLxfbGu2Ybm_xbAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEUgddn___8Aa9cbc9nz9vzu9PwNcNgAbtjH1vM_hd0Aada5zvCPsukAZ9aStOmLsOjY5PcAZNUAYNVwnuPM2vQue9syftulwe2-0vFRi97m7vp3o-RZkuCvyO-euupomOGBqud6eZL2AAAB8UlEQVRIie2W23KjMAyGLR8kwGDMOZx5_6esSJsGk20z7dXObv4ZRmDxGWEZCSFe-uuE8iB84lf3cVXV0V25PHMyP7jr6k5iCkfZJOQSG7jTe0iYwzfkiYP8azAgz1wApvAl-cAdQ1VNfFTl7-TO-SpwN8dlDYRZfSN3rs4w9D-m63Oe9iPaa5ztN3eeJTUDHVHHRj-k9RloiMzvQMRfgr9-4gv8J0CNqH8K0oWLkkW0XMQu9ANQEJdB-jT_n55WEtX-cbhpnpENrNdbVJDIxLiwK3HV-yh870apHdyLZeXltYC-jyYmPYKIk6A-lkIh9S0bvkBYk7gX5HSmENmplIz78ghiOhhwoGEg642GOWl5s3mYLgDRwNtunnYnogc96LBbLVkclwlsM6zFCMIPMotghKkQ0ukC-7ZEGDtoCndqOomQ1TzrZR4yoWCCnFQMKwyT5FATJUd2Om-lSIL-mJqMIpidWaznVs3ghryqU1tzJ2BQeuicdsNMotAnUMBYlDewNzaTFS9O6QCdLnmOotTLZSioDULlSUkPWwS3J-bQpRoqu3mTVLCM4Lcauh6izQT9ce34lS7ejeu2p9fGcvNR38Wzt60i55c48ulWybX2VT4d-yPthyTkhPElKf5BIUX7kNq_yv0MkbeIvJqXXhJvOGwdGLi_5QEAAAAASUVORK5CYII.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.randstad.in/jobs/intercompany-accountant_pune_810df4cd-728e-49de-ad5f-15c79f9ab951/",
+      "job_title": "Intercompany Accountant",
+      "description": "Core Competencies\n\nIntercompany Accounting: Cross-Entity Settlements, Dispute Resolution, Transfer Pricing Adjustments, IC Balancing.\n\nGR/IR & AP Processing: 3-Way Matching, Clearing Open Items, Exception Handling, Vendor Reconciliations.\n\nFinancial Reporting & Close: Journal Entries, Accruals/Deferrals, Trial Balance Analysis, Schedule Reconciliations.\n\nSystems & Automation: SAP ERP, Microsoft Dynamics 365 (D365), Advanced Excel (VLOOKUP, XLOOKUP, Pivot Tables, Macros).\n\nProcess & Quality Control: Internal Controls, Audit Compliance (SOX), SLA/KPI Adherence, Root-Cause Analysis.\n\n\nexperience8working at a client of randstad india\n\n\nnull",
+      "apply_options": [
+        {
+          "title": "Randstad India",
+          "link": "https://www.randstad.in/jobs/intercompany-accountant_pune_810df4cd-728e-49de-ad5f-15c79f9ab951/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Randstad",
+          "link": "https://www.randstad.com/jobs/intercompany-accountant_pune_47279285/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/intercompany-accountant-ibu-consulting-pune--t7xk-799104815?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/johnson-controls-intercompany-accountant-pune-maharashtra-india-5-to-10-years-379858?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NextRaise",
+          "link": "https://nextraise.ai/jobs/intercompany-accountant-at-randstad-b955da002ab2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJbnRlcmNvbXBhbnkgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IlJhbmRzdGFkIiwiaHRpZG9jaWQiOiJDQ0dMeGZiR3UyWWJtX3hiQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1VGTlFtMU1ZMFZxTFc4dFpVOW9OazR6WDNSTk1GRXlTM2RaZFZodGFFWjZORXMyUTNwNVoyeEVVV1ZrVHpWQ00ycExTRkpoYTNoSmFYazROVkpWV25aWFkwdFVRMnRsVGs4eVRrSm5VSE5KTkRSTU9GQkVXVmR2WWpOblRWa3RPR2hLZFUxVmRYRlBObTFHYXpWTFZVRnZhVnAyTnpsdlZEQjVjRWt3YkZJeFIwNVRURklTRjNaUFprbGhja3REVDJSeWJEQlFSVkJ5WXpOMFoxRXdHaUpCUkhOeU9XWlNSVEZEWVVOM2FHdFRjVnBqVTBFeVJtRnJRMjkzYlVSQ1ZWWm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJDQ0dMeGZiR3UyWWJtX3hiQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Fund Services - Senior Fund Accountant",
+      "company_name": "The Citco Group Limited",
+      "location": "Mumbai, Maharashtra",
+      "via": "Financial Crime Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=1AVGhd9rnRzS_kpFAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2LMQrCQBAAsc0TrLYWvYhgo4WIYBpTaR82lyV3ktwetxtJ6R_8h4_yJUabYRiY7D3LDuchNHCl9PCWBFaTBs8J_vloLQ9BMSh8ni-4cw1CmKwDDlAwtx3N9041yi7PRTrTiqJ6ayz3OQeqecynSX6oxGGi2KFStdmuRxNDuzA3R3DyahmKxEOEi--9UgM-QDn0NfollDiNKE4TfgGcY2PRsQAAAA&shmds=v1_ARwrE21zyze7-5bVrcWCCkQWcn9jsZv1s8TY3xeYnGyIYjNWJg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=1AVGhd9rnRzS_kpFAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://careers.acfcs.org/job/fund-services-senior-fund-accountant/86292450/",
+      "job_title": "Fund Services - Senior Fund Accountant",
+      "description": "Job Description \n \n About Citco: \n \n The market leader. The premier provider. The best in thebusiness. At Citco, we've been the front-runner in our field since ourincorporation in 1948 led to the evolution of the asset servicing sectoritself. This pioneering spirit continues to guide us today as we innovate andexpand, push beyond the boundaries of our industry, and shape its future. Fromworking exclusively with hedge funds to serving all alternatives, corporationsand private clients, our organization has grown immensely across asset classesand geographies. For us, this progress is a pattern that we'll only maintain aswe move forward, always prioritizing our performance. So for those who want toplay at the top of their game and be at the vanguard of their space, we say:Welcome to Citco. \n \n About the Team & Business Line:  \n \n Fund Administration is Citco's core business, and ouralternative asset and accounting service is one of the industry's mostrespected. Our continuous investment in learning and technology solutions meansour people are equipped to deliver a seamless client experience. \n \n Responsibilities \n\nYour Role:  \n  Performing the administration of and any services pursuant to administration agreements in respect of a portfolio of hedge fund clients; Consolidation and validation review of functional handovers across teams and locations Preparation and/or review of Net Asset Value calculations, financial statements and associated reports Valuation of hedge fund portfolio holdings Analysis of fund performance and prepare performance/P and L related reports Demonstrate ownership of assigned work and ensure timely completion, in line with demanding client service agreements Escalate priority issues to supervisor and/or assistant vice president in a timely and detailed manner Maintaining day-to-day relationships with Citco Internal COE and non-COE teams including Operational Support, Middle Office, Pricing, Investor Relations and Relationship Management Fund Accounting teams  Support queries from external parties, including clients, auditors and other advisors  Maintain a current and thorough understanding of applicable best practice policies and client specific agreements. Support training of new fund accountants and on-boarding of new clients and/or funds to Citco Assist supervisor and/or assistant vice president as required Contribute to team and/or departmental initiatives  \n Qualifications \n\nAbout You: \n  Degree qualified in Accounting or Finance related area and/or studying for a professional accounting qualification 2-3 years of experience in Financial Services with high volume operational environment and/ or hedge fund industry is an advantage Display an active interest in the financial markets and hedge fund industry Strong financial and/or accounting and analytical skills Proficient in Microsoft Applications (Word, Excel etc.)  \n Our Benefits \n \n Your wellbeing is of paramount importance to us, and central to our success. We provide a range of benefits, training and education support, and flexible working arrangements to help you achieve success in your career while balancing personal needs. Ask us about specific benefits in your location. \n \n We embrace diversity, prioritizing the hiring of people from diverse backgrounds. Our inclusive culture is a source of pride and strength, fostering innovation and mutual respect. \n \n Citco welcomes and encourages applications from people with disabilities. Accommodations are available upon request for candidates taking part in all aspects of the selection.",
+      "apply_options": [
+        {
+          "title": "Financial Crime Jobs",
+          "link": "https://careers.acfcs.org/job/fund-services-senior-fund-accountant/86292450/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-business-development-manager-digital-marketing-services-in-vashi/passionmojo-pvt-ltd/19525013?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "IIM Jobs",
+          "link": "https://www.iimjobs.com/j/senior-manager-manager-business-development-retail-1737883?ref=rl&jobPos=10&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/senior-business-development-representative-team-leader-lseg-mumbai-5-to-10-years-experience-2eefa90c-dd8a-4272-8733-fc207b120bcd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/hi/sales-business-development-senior-manager-business-development-in-financial-services-job-in-ernst-young-llp-ey-india-ambernath-west-mumbai-6-plus-0-years-1790170488-8400111-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/talent-leads-hr-solutions-pvt-ltd-senior-manager-business-development-amc-mutual-fund-mumbai-7-to-16-years-1368336?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mployee.me",
+          "link": "https://www.mployee.me/jobs/view/fund-services-senior-fund-accountant-in-mumbai-at-citco--jid--1102650148112592/s3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/fund-services-senior-fund-accountant--mumbai--e2f7d1a9c4c56806c1cde5ae2b0273192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdW5kIFNlcnZpY2VzIC0gU2VuaW9yIEZ1bmQgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IlRoZSBDaXRjbyBHcm91cCBMaW1pdGVkIiwiaHRpZG9jaWQiOiIxQVZHaGQ5cm5SelNfa3BGQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZlVIVnVaU0JFYVhacGMybHZiaXhOWVdoaGNtRnphSFJ5WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZGNWNIZFVWWGx4UWxSQlFYQTNjak5tTlZWR05sTlVhM1ZLVGtwMVdsQnVUVFJOYkdwQ1RFZFJRamhOVkc4MFlqSk5Oa1JqWVc0NVNtTllNV1kwVVZOUGJrSmhPSE16YURsbFNVazRSa2QzWVdvMFFrVklVazFwUzJSTFRuUm5ORGRIWkRaWlNVVmFiMmhJVm5SUWNIZFJWbHBvZW00eFNFMHdWM1EyWDNGQ1pWTTJjV1lTRjNaUFprbGhja3REVDJSeWJEQlFSVkJ5WXpOMFoxRXdHaUpCUkhOeU9XWlNkM2RUYkhwVVNUTjVhMFU1VVc1TWRYcFRhbFpvZHpsZk5YTjMiLCJmY3YiOiIzIiwiZmNfaWQiOiIxQVZHaGQ5cm5SelNfa3BGQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Accountant ( Tax )",
+      "company_name": "ima india",
+      "location": "Pune, Maharashtra",
+      "via": "Foundit",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=IxEa5MXRAtNED3tbAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLvwrCMBCAcVz7CA5yo_9IRHDRyclJcHAv1xiSlPQu9K7Q0dnVN_RJbJff9H3VZ1Htrs7xQIqksIYnjrCB3_sLLTcgHnsXgQluzCH75SWqFjlbK5JNEEVNzjjuLJNveLTTJDO1ROx9yai-Pp4OoykUtqvUISR6pVl4DOT3cMcpRIna4x9XhhCBjQAAAA&shmds=v1_ARwrE20gt8VpeoEITcFaLsLOvvCHQXwBtO76xnx51mMOLZznNw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=IxEa5MXRAtNED3tbAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.foundit.in/job/accountant-tax-ima-india-pune-66615633",
+      "job_title": "Accountant ( Tax )",
+      "description": "4 days left\n\nEmployer Simplicity First\n\nLocation Pune\n\nPosted Sep 09, 2026\n\nCloses Sep 22, 2026\n\nRef 5876480360\n\nRole Accountant / Management Accountant\n\nLevel Staff\n\nCertification Other\n\nWork Mode Work from office\n\nHours Full Time\n\nOrganization Type Corporate\n\n\n\n You need to sign in or create an account to save Apply(This will open in a new window from which you will be automatically redirected to an external site after 5 seconds) \n\nMinimum Qualifications And Requirements\n\nBachelor s degree in Accounting or Finance or Taxation (Commerce)Chartered AccountantOne to three years of progressive experienceKnowledge of indirect tax strongly preferred, VAT/GST is a plusProficient in NetSuite or equivalent ERP applicationsAdvanced experience with Microsoft ExcelStrong written and oral communication skillsStrong analytical skillsMust work collaboratively and possess a strong work ethicMust be comfortable interacting with external tax advisorsTrack record of identifying inefficiencies and developing solutions to improve processesAble to work independently in a fast-paced, high-volume environment\n\nPrincipal Duties And Responsibilities\n\nResponsible for indirect tax compliance filings including working with accounting data, personnel, and outside advisorsAssist global tax compliance and external tax advisors in the preparation of various indirect tax filings to ensure accurate and timely filings, mainly focusing on VAT and GSTPerform general accounting functions including preparation and review of journal entries, balance sheet reconciliations, and sub-ledger reconciliationsMonitor and analyze financial transactions to ensure accounting records are complete and accurateParticipate in the annual financial audit process including interactions with internal and external auditorsAssist with other tax related projects on an ad hoc basis and general administrative tasks\n\nSkills: Microsoft Excel, Collaboration, Accountant, Communication Skills, Analytical Skills\n\nExperience: 1.00-3.00 Years\n\nShare\n\nFacebookTwitterLinkedIn\n\nApply(This will open in a new window from which you will be automatically redirected to an external site after 5 seconds)\n\nSimilar jobs\n\nFinancial AnalystPuneEmerson4 days left You need to sign in or create an account to save F&A Senior Admin Assistant (Accounts Payable))PuneUPS4 days left You need to sign in or create an account to save \nMore searches like this\n\nAccountant / Management Accountant Staff Other jobs in Pune",
+      "apply_options": [
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/accountant-tax-ima-india-pune-66615633?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/2562619188132259321?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/accountant-tax-ima-india-pune-division-maharashtra--t7xk-836545797?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/6000868620958171136?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50ICggVGF4ICkiLCJjb21wYW55X25hbWUiOiJpbWEgaW5kaWEiLCJodGlkb2NpZCI6Ikl4RWE1TVhSQXRORUQzdGJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMk5RY2xGR1pHeDZTbTFZWm5wUGJHWTFZV3BaWWxaUmJWcFVPRUZuTWtKS05FOUtjMHB0T0dac2FqSXdjRE4zYUdsaGVEbGZNWEpLTjBWNlptZFVVRlZTUlhKRlZWOUJOa1pKWDFWWFV6QTVUbkJrVFcxVWJIQnVaa2xVVjNkaVNWazVZWFoyU2pSWmJFbzViVloxVFV0NWFqWk5aRXBLTFdOcFNWOUxTRFpDY0hkSVp6Y1NGM1pQWmtsaGNrdERUMlJ5YkRCUVJWQnlZek4wWjFFd0dpSkJSSE55T1daU1RGazVWV2szWWpKdGJFMTRVRkZtT0ZKRE4wRnZiWFEyY25kbiIsImZjdiI6IjMiLCJmY19pZCI6Ikl4RWE1TVhSQXRORUQzdGJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Accountant",
+      "company_name": "Mithi Software Technologies Pvt. Ltd.",
+      "location": "Pune, Maharashtra",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=vhZAxsD6G7nGt67CAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TrLYOcieCTaysBDEQ0D6s55k7OXfD7UZT-gff4Md8ibGZZpgpPrOi3A8UOcPWOR5IkRS-rzfc-AziMbsATLBj7pKfb4JqL5W1Isl0oqjRGcd3y-TPPNopkj9aCZh9n1B9u1ovR9NTV1Z11BDhyFd9ThZO3gXixF30As1DDRz0YiASNAP5BdQ4TVCCZvwBQWGzzagAAAA&shmds=v1_ARwrE23alqm8rJz-tLCKKkZp0W3YwJVYku5VUZcqrZicDVJP_g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=vhZAxsD6G7nGt67CAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e7bcb77a0ae92e18f690/images/5XxYuqzcjiF7hDuf_yXKAYxEDqV-NfKczmpGLQP5j_A.jpeg",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.glassdoor.co.in/job-listing/junior-accountant-mithi-software-technologies-JV_IC2856202_KO0,17_KE18,45.htm?jl=1010249713425",
+      "job_title": "Junior Accountant",
+      "description": "Location :\nPune\n\n\nStart Date :\n\n\nImmediately\n\n\nJob Type :\n\n\nWork from Office\n\n\nPerks :\n\n\n5 days a week, Health Insurance\n\n\nNo of opening :\n\n\n1\n\n\nExperience :\n\n\nFresher\n\n\nJob Description\nThis role is designed for individuals who want more than just a routine accounting job. As a Junior Accountant at Mithi, you will be directly involved in core financial operations, compliance, and process improvements that influence business efficiency. You will gain hands-on exposure to real business scenarios, work closely with cross-functional teams, and build a strong foundation in corporate accounting practices.\n\n\nKey Responsibilities\nAccounts Receivable & Billing - Process invoices and track payments with accuracy and timeliness. Update and maintain invoice records in Tally. Update and maintain invoice records in Tally. Actively monitor and reduce accounts receivable backlog. Create and maintain SOP documentation for receivable workflows. Coordinate internally to ensure timely follow-ups on outstanding payments\nStatutory Compliance & Reporting - Support timely and accurate filing of tax returns. Assist in GST filings (GSTR-1, GSTR-3B). Ensure adherence to statutory and regulatory requirements.\nAudit & Compliance Support - Work closely with auditors during internal and external audits. Maintain proper audit trails and documentation. Identify discrepancies and support resolution of compliance gaps\nFinancial Records & Documentation - Maintain well-structured and organized financial records. Ensure every transaction is backed by proper documentation. Enable quick and efficient retrieval of financial data.\nProcess Improvement - Identify inefficiencies in accounting workflows. Contribute to improving systems and processes. Track the effectiveness of implemented improvements.\nData Accuracy & Reconciliation - Perform regular reconciliations to ensure financial accuracy. Maintain high standards of data integrity across records.\nRegulatory Compliance - Stay updated with evolving accounting and tax regulations. Ensure all processes align with current compliance standards.\nWho Should Apply\nB.Com graduates with Accounting/Finance as majors\nCMA (pursuing/completed), BBA (Finance), MBA (Finance/Accounts) candidates\nIndividuals looking to build a strong, hands-on foundation in accounting\nWhat Sets You Apart\nStrong attention to detail and ownership mindset\nCuriosity to learn beyond textbooks and understand business impact\nComfort working with numbers, systems, and structured processes\nProficiency in MS Excel and accounting tools\nWhy Join Mithi\nEarly Responsibility: Work on real financial operations from day one\nLearning Culture: Gain exposure to audits, compliance, and process optimization\nGrowth-Oriented Environment: Performance-driven progression with clear learning outcomes\nStrong Foundation: Build practical accounting expertise in a tech-driven business setting",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/junior-accountant-mithi-software-technologies-JV_IC2856202_KO0,17_KE18,45.htm?jl=1010249713425&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/5O8kpbwfxcsrUSQq0EFR7q4NhkU-Gg4S03Q_QAqY_Vl2jg5DPH5vIg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-accountant-turnaround-international-pune--techmap_in_DVN62jGcxeM35qj_uRhJ3igb4ofzyTHCnVPyc7c0NanB1xku57i2cQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-junior-accountant-job-in-av-core-baner-pune-1-to-2-years-1790842637-8443285-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/2836095096634372967?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WorkIndia",
+          "link": "https://www.workindia.in/jobs/junior_accountant-katraj_kondhwa_road-pune-8416659/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mployee.me",
+          "link": "https://www.mployee.me/jobs/view/junior-accountant-in-pune-at-propacity--jid--iYUhsUmQS_W5aeVTUFZjGvmnunjpGeG3DpvU8zN_snQAWRe3-CiWOQDjXPR/s3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/job/detail/junior-accountant-job-in-pune-at-patel-engineering-company1791378800?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6Ik1pdGhpIFNvZnR3YXJlIFRlY2hub2xvZ2llcyBQdnQuIEx0ZC4iLCJodGlkb2NpZCI6InZoWkF4c0Q2RzduR3Q2N0NBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVFZmZEZCdlpsODBObGczU2xoQlNFczFlUzFXZFVWNFUwRnhaa3B3WlcxNlpFOXFOMG95Ym1wTmRXOVhNWEpmV1dsdVRYcEJVR3BHUTNCZk4ybGpUSFpYY1ZWME5XeDJPRE01TlZORllWVllNRzgzWlc4eVNsbG5UMnRvZFVWQlFqZHlWMmhrUkhkWU5GQTJNVlJoVVhGSk1tODFUVWhRT0RCalVtRmFSMUI0TFV0MWFYY1NGM1pQWmtsaGNrdERUMlJ5YkRCUVJWQnlZek4wWjFFd0dpSkJSSE55T1daU1VFdzJOV1ZYUlRkWlRqVTRRVWg0TVRWd2RqaHVlbEF4Vm1KQiIsImZjdiI6IjMiLCJmY19pZCI6InZoWkF4c0Q2RzduR3Q2N0NBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Accountant - R2R/IFRS/Blackline - Pune & Chennai",
+      "company_name": "Wolters Kluwer",
+      "location": "Pimpri-Chinchwad, Maharashtra",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=hkstPaKMfrmk9hV6AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMYoCQRAAMfUJRh0ZHLojgskZqaCICMsaGEo7NjujY_cy3YuG_sEP-RZfcntJFRRU_9PrlwfiKBkW3kvLhmwwhmpaue26OrhlQn9LkamLZdtpCKtAzBjh-3rDVc6ghNkHEIaNSJ1oMA9mjf46p5qKWg0t-sLL3QnTWZ6um_QfJw2YqUlodJrOJs-i4frHHSUZZYVdah-UITKU8d7kOF6FyD488DKCPXYnarCMf5zU_lrDAAAA&shmds=v1_ARwrE22XVz_v3mUrxoecg2eTurTPiKNOOGTgJUoD9oSjX0hQIA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=hkstPaKMfrmk9hV6AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e7bcb77a0ae92e18f690/images/CFSDH5nw9kMJNMjBNpjeTwW5v13a5TCh98UGNhYkuhI.jpeg",
+      "extensions": [
+        "14 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/senior-accountant-r2r-ifrs-blackline-pune-chennai-at-wolters-kluwer-4444095987",
+      "job_title": "Senior Accountant - R2R/IFRS/Blackline - Pune & Chennai",
+      "description": "Wolters Kluwer is a global leader in professional information, software solutions, and services for the health, tax & accounting, governance, risk & compliance, and legal & regulatory sectors. Headquartered in Alphen aan den Rijn, the Netherlands, Wolters Kluwer serves customers in over 180 countries, operates in more than 40 countries, and employs approximately 19,000 people worldwide. Every day, our customers make critical decisions to help save lives, improve the way they do business, and strengthen legal and regulatory systems. We help them get it right.\n\nAbout The Role -\n\nThe Senior Accountant is responsible for executing and supporting core accounting, reconciliation, and close activities, ensuring financial information is recorded accurately, timely, and in compliance with IFRS and corporate accounting policies. This role plays an important part in maintaining the integrity of financial reporting and supporting a strong internal control environment for the businesses supported by Wolters Kluwer.\n\nEssential Duties And Responsibilities\n\nExecute assigned aspects of the month‑end close and reporting process in alignment with the Corporate Reporting calendar\n\nEnsure assigned transactions are recorded and reported in a timely, complete, and accurate manner\n\nIdentify accounting issues within assigned areas, assess impact, and escalate to management with supporting analysis\n\nPerform and review reconciliations (GL, AP, AR, bank) on a monthly, quarterly, or semi‑annual basis, ensuring timely resolution of reconciling items with appropriate documentation\n\nMaintain desktop procedures for assigned processes, supporting updates as directed\n\nAdhere to close checklists and internal controls, ensuring timely and accurate completion of assigned tasks\n\nPrepare supporting schedules, analyses, and reports with clear documentation and transparency\n\nSupport accounting‑related inquiries by partnering effectively with accounting, finance, and operations teams\n\nCollaborate with peers and management to support knowledge sharing and best‑practice adoption\n\nIndependently manage assigned ad hoc requests and tasks, maintaining accountability for accuracy and timeliness\n\nParticipate in process improvements, standardization, automation, and efficiency initiatives\n\nJob Qualifications\n\nEducation: Bachelor’s degree in Commerce (B.Com) with an academic specialization in Accounting only (required)\n\n(Accounting, Accountancy, Accounting & Auditing, or Accounting & Taxation)\n\nRequired Experience:\n\n7–9 years of progressive, relevant accounting and/or audit experience\n\n3–5 years of hands‑on general ledger and/or Record‑to‑Report (RTR) experience\n\nStrong understanding of IFRS and ability to apply corporate accounting policies\n\nExperience working within a controlled close environment, including documentation and audit support\n\nExperience working in large, complex general ledger environments\n\nPrior experience in a shared services, multinational, or global corporate environment\n\nStrong proficiency in Microsoft Excel, Word, and PowerPoint\n\nPreferred / Highly Desirable Experience:\n\nCA or CPA certification\n\nPublic accounting or external audit background\n\nRevenue recognition experience under IFRS 15 (ASC 606 knowledge a plus)\n\nHands‑on experience with SAP, NetSuite, Great Plains, or similar ERP platforms\n\nExperience using Blackline or similar close and reconciliation tools\n\nStrong reporting, analytical, and data interpretation capabilities\n\nOur Interview Practices\n\nTo maintain a fair and genuine hiring process, we kindly ask that all candidates participate in interviews without the assistance of AI tools or external prompts. Our interview process is designed to assess your individual skills, experiences, and communication style. We value authenticity and want to ensure we’re getting to know you—not a digital assistant. To help maintain this integrity, we ask to remove virtual backgrounds and include in-person interviews in our hiring process. Please note that use of AI-generated responses or third-party support during interviews will be grounds for disqualification from the recruitment process.\n\nApplicants may be required to appear onsite at a Wolters Kluwer office as part of the recruitment process.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/senior-accountant-r2r-ifrs-blackline-pune-chennai-at-wolters-kluwer-4444095987?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQWNjb3VudGFudCAtIFIyUi9JRlJTL0JsYWNrbGluZSAtIFB1bmUgXHUwMDI2IENoZW5uYWkiLCJjb21wYW55X25hbWUiOiJXb2x0ZXJzIEtsdXdlciIsImh0aWRvY2lkIjoiaGtzdFBhS01mcm1rOWhWNkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNucHRSbXhUWm5OQ09XRnNSSE5pVFZOS1JVd3lSaTFKZFRodWFqbGtTWGRmV2taWVQyMWFURzE0ZDA5UVJEZEVORkp6VFZGdVNYUXdTRFZsUzJ0TlkwSnNYemhHTjJkTmRITmxPVEJDTXpjeGVHdENlWEJ5WTNKM2FGaEJiMmMwYURWaGJHWk5iRWc1VWpkT1EwcDRjbVZ4VFd0RlVFVjRRM2xNYWpoSk1XdDNPRGt4VFdnU0YzWlBaa2xoY2t0RFQyUnliREJRUlZCeVl6TjBaMUV3R2lKQlJITnlPV1pSWW5CZlUxUmxkV1pyTUdwd01GQlVNM0YwU2pCS2FuWjZMWFJCIiwiZmN2IjoiMyIsImZjX2lkIjoiaGtzdFBhS01mcm1rOWhWNkFBQUFBQT09In0="
+    },
+    {
+      "title": "Accountant - SCAS Business",
+      "company_name": "Institutional Shareholder Services",
+      "location": "Mumbai, Maharashtra",
+      "via": "Apna Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=vPSYPAdO90eLNoUXAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQ3CQAxAUdFmBCrXCBIEogCqQIEoqDJA5BxW7tDFjs4OomQH5mApJiFpfvV-9p1l29I5GdiQDVZQncsKToMGJlX4vT_wkAaUMDkPwnARaSPNj96s10NRqMa8VUMLLnfSFcLUyKsYJ51Sq8dEfUSjerNbv_Ke28X-ymrBBgvCGKGaiJd4pwQVpWdwpBAYbkPXYFjCDUeA6i3hH-ygJr-wAAAA&shmds=v1_ARwrE23cEmJbGB95_pP_ioo_kvfZbPQ1JZ-Qd_JFexE79vAPWw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=vPSYPAdO90eLNoUXAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEBAAMBAQAAAAAAAAAAAAAABgMEBQcB_8QALxAAAAUDAwMCAwkAAAAAAAAAAAECAwQFESEGEjETQWFRcRUigQcUMjRSgqHB8f_EABQBAQAAAAAAAAAAAAAAAAAAAAD_xAAUEQEAAAAAAAAAAAAAAAAAAAAA_9oADAMBAAIRAxEAPwD3EAAAAAAAAAAAAAEnG11T3KdU50hl5hqA90VFhSnFGZkRJL6dxWDyfS1CRqKkakgKeNlRzyW25a5JURq5LuXJfUBYUXVUqqTI7S9P1CLHkEZtyXC-W1jMr4xew1Fa9KRIkJo1EqFSYjq2rfZT8pn45uNGj1yuUKuQtO6kbakNyC2R5TR5MuCv6-nBH7jRkQa79niJEqmOMzaKp3etlzCkXsRX_grlfyQC4qleYpcWDJlMSNktxLe1CNymzUkzK6ee1sZHRiSo8xhL8V1DrSuFIO5f6JypzoVTpdHnSEqRCkEtxxJ8pScdwz47-3cc1Z1cnGvh6Y3xs20dcmjVnBfmC_Be37v04AXYDHH6vQb-8bOrtLf077b97XzYfAGUSMbRRw4U5iHV5cd2VJKR1miJKkGV8Y5LIrgASdL0YUertVWq1WVU5bJWZN0iSlHm2c5PwNR_QUmW2mLP1NUpMEjIzYVa529VGf8AQtwAcao6dhzocCFudYjQnErbQyraZklJkSb8kWffA6USJHhMEzFaS02Vz2pLufJn6n5GcAAAAAAAAAAAAAAAAAAf_9k.jpeg",
+      "extensions": [
+        "4 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://apna.co/job/mumbai/scas-accountant-1058978264",
+      "job_title": "Accountant - SCAS Business",
+      "description": "SCAS Accountant ISS STOXX is actively hiring a SCAS Accountant for Mumbai (Goregaon East) location. Overview: Seeking a motivated professional to handle the collection and payment functions of our SCAS contingency business as well as General Ledger (GL) function. This position will work closely with the Finance and SCAS business teams to ensure proper recording of activity in our system. Responsibilities: Oversee lockbox activity in the SCAS bank accounts for claims received from administrators. Prepare daily cash receipts report related to SCAS business. Reconcile the checks received against the detail listing of checks expected to be received and work with the business group to determine differences. Initiate the payment process in our AP system once notification is received from the business group. Create Wires, Checks and ACH set up and process once approved by Finance team. Prepares Daily, Monthly and Weekly reports which show status and activities for the period. Prepare fund transfer related to SCAS business revenue earned. Prepares bank reconciliation and other Balance sheet reconciliation as needed. Other general responsibilities and special projects as required. Qualifications: BS Accountancy degree is with at least 2.5 to 5 years professional work experience. Preferably a Certified Public Accountant (CPA) With experience in Accounts Payable processing to Disbursement. With experience in General Ledger (bank reconciliation, balance sheet schedule preparation) Preferably exposed to a wider scope of work, not only limited to Accounts Payable and General Ledger. Fluent in English with exceptional MS Excel skills. Detail oriented, analytical and hard working. Strong organizational skills with the ability to multi-task. #ANALYST #LI-DS1 What You Can Expect from Us Our people are the moving force behind our work. We are committed to building a culture that values diverse skills, perspectives, and experiences. If you have the skills, passion, and drive to help us bring clarity and transparency to capital markets, we want to work with you. Together, we can grow your career in an environment that fuels creativity, drives innovation, and has real impact. About ISS STOXX ISS STOXX delivers world-class research, data, and technology solutions that empower capital market participants to pursue their visions with confidence. Our expertise spans indices, corporate governance, sustainability, cyber risk, and fund intelligence, giving clients the tools they need to uncover opportunities, manage risks, and navigate evolving regulations. We are made up of 4,000 professionals operating across 20 countries and serving approximately 5,000 clients, including many of the world’s leading institutional investors. Our scale and reach give us deep market knowledge, while our innovative methodologies allow us to offer our clients tailored insights that drive impact and success. Visit our website: https://www.iss-stoxx.com/ View additional open roles: https://www.iss-stoxx.com/about/careers/ ISS STOXX is an equal employment opportunity employer and does not discriminate against any employee or applicant because of race, color, ethnicity, creed, religion, sex, age, height, weight, citizenship status, national origin, social origin, sexual orientation, gender identity or gender expression, pregnancy status, marital status, familial status, mental or physical disability, veteran status, military service or status, genetic information, or any other characteristic protected by law (referred to as “protected status”). All activities including, but not limited to, recruiting and hiring, recruitment advertising, promotions, performance appraisals, training, job assignments, compensation, demotions, transfers, terminations (including layoffs), benefits, and other terms, conditions, and privileges of employment, are and will be administered on a non-discriminatory basis, consistent with all applicable federal, state, and local requirements.",
+      "apply_options": [
+        {
+          "title": "Apna Jobs",
+          "link": "https://apna.co/job/mumbai/scas-accountant-1058978264?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-accountant-scas-business-job-in-institutional-shareholder-services-ambernath-west-mumbai-2-to-5-years-1789738439-8369752-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/accountant-scas-business-institutional-shareholder-services-mumbai-bombay--techmap_in_1347402855?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IC0gU0NBUyBCdXNpbmVzcyIsImNvbXBhbnlfbmFtZSI6Ikluc3RpdHV0aW9uYWwgU2hhcmVob2xkZXIgU2VydmljZXMiLCJodGlkb2NpZCI6InZQU1lQQWRPOTBlTE5vVVhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTekUxTFZoSFYwNVJVRlZFUkROVFgydDJSbHBMYlhRNFIwTnZSSFl3ZUcxcWJFWlJiVVl5VDFWTFZHdE5TMlF4YmpkZk1EWkdjakZrWkZsSGIzQmhVbTR5U2xveFRWOXhZbm95YURoUWVrUkRWV3B5UzBOcU5sRk1RVmN3YlVGS2JFSmFSV3BpUVRKWlpVMU9VamxrVDJsak9YWTRjR28xVVZCT1kxQXRSbmx4ZWt0ME5sb1NGM1pQWmtsaGNrdERUMlJ5YkRCUVJWQnlZek4wWjFFd0dpSkJSSE55T1daUlJVOWhNVzFDVGw5MFZYRkJUV2xNVG10Q2FqSTVTVlUxUkVkMyIsImZjdiI6IjMiLCJmY19pZCI6InZQU1lQQWRPOTBlTE5vVVhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Accountant and Assistant Accountant",
+      "company_name": "MS G S Sethi & Sons",
+      "location": "Mumbai, Maharashtra",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=_NnjHDybdX_PvsH4AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_03LMQrCQBCFYWxzBKupLIJkRbBRm1SpUu0Bwuy6ZFeSmSUzgZTewUN4L09itLJ58PP4itemuNbe80yKpIB0g1okya_-jvfjCXd2IAEnH4EJGuZ-CNtLVM1yNkZkqPrVafKV59EwBceLWZF8p5OIU8gDauiOp8NSZerLsrXQgAUbNCbYgWUSSATtPDpMe2hxRShRJ_wAYP95M6oAAAA&shmds=v1_ARwrE227o0WkQNFc3Vmnh-w5lQDbMm6ePjcgI0_MKIqPNTyeSA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=_NnjHDybdX_PvsH4AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAARVBMVEX____58ur37uT9_Pr059ny49Pjw53r0rbw3sn79_L8-fb69O7269_x4M7u2sT47-ft173pz67mx6bivpbds4Het4fcr3oGflmwAAAAsElEQVRIie3PS24EIQwE0AL84Q_ddM_9jzq0kskBskokvwULS4XLgDHGmD_E9fqbWNAZ4zGA0VJuBaiUiSuTH_AeSPT8zSG17HIug8JnnzKyEPzp3dKGcimtntpZVhUJOBYHXLNKkXn7fk332TjZDfU72BfPG3mKSgxescYTvPcMXQ9JouPV4tm_g2OK073pqepaAogCs8sufFX1tJ-6m8Q9yqXyz5EtcpwBxhhj_qM39hsGZ6w2F1IAAAAASUVORK5CYII.png",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/accountant-and-assistant-accountant-ms-g-s-sethi-sons-mumbai--techmap_in_051026005137",
+      "job_title": "Accountant and Assistant Accountant",
+      "description": "Wanted Accountant , Account Assistant having knowledge of Tally Erp, ,Data Entry and General Accounting, those who can join immediately can apply.\n\n\nKindly contact [REDACTED PHONE]/[REDACTED PHONE]\nEmail: [REDACTED EMAIL]",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/accountant-and-assistant-accountant-ms-g-s-sethi-sons-mumbai--techmap_in_051026005137?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Virtual Staffer PH",
+          "link": "https://www.virtualstaffer.ph/job/executive-and-personal-assistant-at-wing-assistant-hybrid-b197c77c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/667582501429968896?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IGFuZCBBc3Npc3RhbnQgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6Ik1TIEcgUyBTZXRoaSBcdTAwMjYgU29ucyIsImh0aWRvY2lkIjoiX05uakhEeWJkWF9QdnNINEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNtZHpUM0JhVjBacGMwVldUMnhYVldzM1kyMTFlVEE1VmxaeFVUTkxhamhFWkdoeVpWWnlaV1pGU2xWRFEyUkliM3B2TjJkRmIwbG1lbGt5ZFZGa2NXVm5WbGxKWHpocGQxRmFNWEJYU1U5TWNuaG9hekY0ZUc0ek56ZGtXbmxTZFZwaWQxcEdhakJLYzBnNE1GRTNNRkJwT0ZwbFNsVlNNVFphWmxwMWIxUTFSVkZEV0RjU0YzWlBaa2xoY2t0RFQyUnliREJRUlZCeVl6TjBaMUV3R2lKQlJITnlPV1pVWWxWUlpXUkZTeTB6WWtwQloxbG9PWFF0TlhOdVUwaE9VbXRuIiwiZmN2IjoiMyIsImZjX2lkIjoiX05uakhEeWJkWF9QdnNINEFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBURVZ1V0VSUmFUaDJPV1EwY2pKVFFpMVBOVTVEV1dSaVMwRTJkbFpMTkVadk1ETlhabTR4UTJwU2FXdEdjWHA0TTFkelowbHpZM0F3Tm5WV2JDMVhiVzVSWVdwNGVGVXlTWFZNYW5Wc1JWODROa3BTTUVselRHdE1VMHQ1YlRoMVgyeExNM0ZEYURkSVN5MHRjSGQxYjJwa1kyMDBXa3RSUjNwa2EzWmFNR1pNTjNob01YcHlWVUp5UW5seWNIQnpOVEZ0Y0ZCNU4xTnNlR2wyUzFseFkzVTRSV1ZyYVVOQldsaDVhM0ZVUldsbVkzSnhTR1IxYWxoeGFIaEJha2d6YjJ4RWIzQndPRTh4Y0doeGR6aFJUWFZtU0hWUmMzbE9abWhWZHpaVGNGVkNWa3RCYzBScFl6ZFRSMUE0VUZCeVlXbzNOVE0wUVVvMFdHcHFZbDlFYUZkU2Rtc3hkVVpFZFVKc1lrRnBVV3BhYlhoeldIRjVkRFZOTUd4UFMxWk9VRFpxY0RCWU5uUmZZVTVGT1ZoUE1UQkZWMFZOY0V4Vk5EVXRTelpSVnpKNlYxaFZhMlI0YmxCbmMxQTBiR2R5YzNKUk5sTmxSR04zTmxvMVptUkNZWFJPZVdwS1pUYzFOa0pvY21WV2RuaFBiR2s0TldWUVpTMXdjMFJZY0VoVWEzcFJVVXhKTVVwUFgzQnZUamxrTFdwMlYyNXlTVVJNU21kTlZuTnRhSEZPWm1zNFdHeGZZWHBwT1VSQ2N6RmlZbDgzVTAxME4wdGtVbEoyYW01ZlNGQmhWRzFmVHhJWGRrOW1TV0Z5UzBOUFpISnNNRkJGVUhKak0zUm5VVEFhSWtGRWMzSTVabFJrUTFCTFNuSmtTM2hTTkZKalNFVlJkV3BZYUdsMFpqaGlWSGMiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&next_page_token=eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBURVZ1V0VSUmFUaDJPV1EwY2pKVFFpMVBOVTVEV1dSaVMwRTJkbFpMTkVadk1ETlhabTR4UTJwU2FXdEdjWHA0TTFkelowbHpZM0F3Tm5WV2JDMVhiVzVSWVdwNGVGVXlTWFZNYW5Wc1JWODROa3BTTUVselRHdE1VMHQ1YlRoMVgyeExNM0ZEYURkSVN5MHRjSGQxYjJwa1kyMDBXa3RSUjNwa2EzWmFNR1pNTjNob01YcHlWVUp5UW5seWNIQnpOVEZ0Y0ZCNU4xTnNlR2wyUzFseFkzVTRSV1ZyYVVOQldsaDVhM0ZVUldsbVkzSnhTR1IxYWxoeGFIaEJha2d6YjJ4RWIzQndPRTh4Y0doeGR6aFJUWFZtU0hWUmMzbE9abWhWZHpaVGNGVkNWa3RCYzBScFl6ZFRSMUE0VUZCeVlXbzNOVE0wUVVvMFdHcHFZbDlFYUZkU2Rtc3hkVVpFZFVKc1lrRnBVV3BhYlhoeldIRjVkRFZOTUd4UFMxWk9VRFpxY0RCWU5uUmZZVTVGT1ZoUE1UQkZWMFZOY0V4Vk5EVXRTelpSVnpKNlYxaFZhMlI0YmxCbmMxQTBiR2R5YzNKUk5sTmxSR04zTmxvMVptUkNZWFJPZVdwS1pUYzFOa0pvY21WV2RuaFBiR2s0TldWUVpTMXdjMFJZY0VoVWEzcFJVVXhKTVVwUFgzQnZUamxrTFdwMlYyNXlTVVJNU21kTlZuTnRhSEZPWm1zNFdHeGZZWHBwT1VSQ2N6RmlZbDgzVTAxME4wdGtVbEoyYW01ZlNGQmhWRzFmVHhJWGRrOW1TV0Z5UzBOUFpISnNNRkJGVUhKak0zUm5VVEFhSWtGRWMzSTVabFJrUTFCTFNuSmtTM2hTTkZKalNFVlJkV3BZYUdsMFpqaGlWSGMiLCJmY3YiOiIzIn0%3D&q=Accountant"
+  },
+  "_retrieved_at": "2026-10-09 13:10:20 UTC"
+}

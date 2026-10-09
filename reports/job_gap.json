@@ -1,0 +1,186 @@
+{
+  "note": "Equal-query snapshot: plain role name, base query only, up to 3 pages. Counts are listings visible through Google Jobs, not the number of jobs in a city. Generated offline by scripts/job_gap.py.",
+  "rows": [
+    {
+      "role": "Data Analyst",
+      "city": "Bengaluru",
+      "pages_fetched": 3,
+      "more_pages_after": true,
+      "listings": 26,
+      "in_city": 22,
+      "remote": 4,
+      "other_places": [],
+      "distinct_employers": 25,
+      "snapshot_dates": [
+        "2026-10-09"
+      ],
+      "status": "ok"
+    },
+    {
+      "role": "Data Analyst",
+      "city": "Pune",
+      "pages_fetched": 3,
+      "more_pages_after": true,
+      "listings": 29,
+      "in_city": 6,
+      "remote": 1,
+      "other_places": [
+        "Mumbai (6)",
+        "Maharashtra (3)",
+        "Chhatrapati Sambhajinagar (2)"
+      ],
+      "distinct_employers": 28,
+      "snapshot_dates": [
+        "2026-10-09"
+      ],
+      "status": "ok"
+    },
+    {
+      "role": "Data Analyst",
+      "city": "Jaipur",
+      "pages_fetched": 3,
+      "more_pages_after": true,
+      "listings": 28,
+      "in_city": 27,
+      "remote": 1,
+      "other_places": [],
+      "distinct_employers": 26,
+      "snapshot_dates": [
+        "2026-10-09"
+      ],
+      "status": "ok"
+    },
+    {
+      "role": "Data Analyst",
+      "city": "Indore",
+      "pages_fetched": 3,
+      "more_pages_after": true,
+      "listings": 28,
+      "in_city": 23,
+      "remote": 1,
+      "other_places": [
+        "Pithampur (2)",
+        "Ujjain (2)"
+      ],
+      "distinct_employers": 27,
+      "snapshot_dates": [
+        "2026-10-09"
+      ],
+      "status": "ok"
+    },
+    {
+      "role": "Data Analyst",
+      "city": "Dehradun",
+      "pages_fetched": 3,
+      "more_pages_after": true,
+      "listings": 29,
+      "in_city": 21,
+      "remote": 0,
+      "other_places": [
+        "Yamuna Nagar (3)",
+        "Haridwar (1)",
+        "Rajgarhi (1)"
+      ],
+      "distinct_employers": 29,
+      "snapshot_dates": [
+        "2026-10-09"
+      ],
+      "status": "ok"
+    },
+    {
+      "role": "Accountant",
+      "city": "Bengaluru",
+      "pages_fetched": 3,
+      "more_pages_after": true,
+      "listings": 29,
+      "in_city": 26,
+      "remote": 0,
+      "other_places": [
+        "Machohalli (1)",
+        "Tamil Nadu (1)",
+        "Thurahalli (1)"
+      ],
+      "distinct_employers": 28,
+      "snapshot_dates": [
+        "2026-10-09"
+      ],
+      "status": "ok"
+    },
+    {
+      "role": "Accountant",
+      "city": "Pune",
+      "pages_fetched": 3,
+      "more_pages_after": true,
+      "listings": 28,
+      "in_city": 8,
+      "remote": 0,
+      "other_places": [
+        "Mumbai (10)",
+        "Maharashtra (3)",
+        "Belagavi (1)"
+      ],
+      "distinct_employers": 27,
+      "snapshot_dates": [
+        "2026-10-09"
+      ],
+      "status": "ok"
+    },
+    {
+      "role": "Accountant",
+      "city": "Jaipur",
+      "pages_fetched": 3,
+      "more_pages_after": true,
+      "listings": 30,
+      "in_city": 9,
+      "remote": 0,
+      "other_places": [
+        "New Delhi (5)",
+        "Rajasthan (4)",
+        "Gurugram (2)"
+      ],
+      "distinct_employers": 29,
+      "snapshot_dates": [
+        "2026-10-09"
+      ],
+      "status": "ok"
+    },
+    {
+      "role": "Accountant",
+      "city": "Indore",
+      "pages_fetched": 3,
+      "more_pages_after": true,
+      "listings": 29,
+      "in_city": 17,
+      "remote": 0,
+      "other_places": [
+        "Bhopal (2)",
+        "Dr. Ambedkar Nagar (2)",
+        "Acharpura (1)"
+      ],
+      "distinct_employers": 29,
+      "snapshot_dates": [
+        "2026-10-09"
+      ],
+      "status": "ok"
+    },
+    {
+      "role": "Accountant",
+      "city": "Dehradun",
+      "pages_fetched": 3,
+      "more_pages_after": true,
+      "listings": 28,
+      "in_city": 3,
+      "remote": 0,
+      "other_places": [
+        "New Delhi (6)",
+        "Gurugram (3)",
+        "Noida (3)"
+      ],
+      "distinct_employers": 27,
+      "snapshot_dates": [
+        "2026-10-09"
+      ],
+      "status": "ok"
+    }
+  ]
+}

@@ -3,6 +3,8 @@ import altair as alt
 import pandas  # noqa: F401
 import streamlit as st
 
+import findings
+
 from scripts.build_results import summary
 from views import common
 
@@ -34,7 +36,7 @@ for pair in cities:
                  "Flags": ", ".join(name for name, on in (("limited data", row["flags"]["limited_data"]),
                                                           ("few skills detected", row["flags"]["dictionary_warning"])) if on) or "none"})
 frame = pandas.DataFrame(rows)
-chart = alt.Chart(frame).mark_bar().encode(
+chart = alt.Chart(frame).mark_bar(color="#0f6b73").encode(
     x=alt.X("City:N", sort="-y"), y=alt.Y("Share matched:Q", axis=alt.Axis(format="%"), scale=alt.Scale(domain=[0, 1])),
     tooltip=["City", "Matches", "Scored", "Fastest win", "Confidence"])
 st.altair_chart(chart, width="stretch")
@@ -57,3 +59,24 @@ if len({row["Pages fetched"] for row in rows}) > 1 or len({row["Snapshot"] for r
 weak = [row["City"] for row in rows if row["Confidence"] == "Uncertain" or row["Scored"] < 12]
 if weak:
     st.warning("Small or uncertain samples: " + ", ".join(weak) + ". Differences between cities may be noise.")
+
+st.markdown("### Job-information gap")
+gap = common.job_gap()
+gap_frame = pandas.DataFrame([{"Role": row["role"], "City": row["city"], "Located in the city": row["in_city"],
+                               "Visible listings": row["listings"], "Distinct employers": row["distinct_employers"],
+                               "Pages fetched": row["pages_fetched"], "Snapshot": ", ".join(row["snapshot_dates"]),
+                               "Most common other places": ", ".join(row["other_places"]) or "none"}
+                              for row in gap["rows"]])
+gap_chart = alt.Chart(gap_frame).mark_bar().encode(
+    x=alt.X("City:N", sort=["Bengaluru", "Pune", "Jaipur", "Indore", "Dehradun"], title=None),
+    xOffset="Role:N", y=alt.Y("Located in the city:Q", title="Listings located in the city"),
+    color=alt.Color("Role:N", scale=alt.Scale(range=["#0f6b73", "#c76f00"])),
+    tooltip=["Role", "City", "Located in the city", "Visible listings", "Most common other places"])
+st.altair_chart(gap_chart, width="stretch")
+st.write(findings.gap_sentence(gap))
+st.caption("Listings visible through Google Jobs in this equal-query snapshot (the plain role name, no fresher or junior "
+           "variants, three pages), not the number of jobs in a city. Every query filled all three pages, so the page limit "
+           "sets the total. A listing counts as located in the city when its location text names the city; suburbs under "
+           "other names do not count. Fewer local listings means less evidence to plan from, and NextSkill flags small "
+           "samples instead of guessing.")
+st.dataframe(gap_frame, hide_index=True, width="stretch")

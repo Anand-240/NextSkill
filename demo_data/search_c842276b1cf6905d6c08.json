@@ -1,0 +1,295 @@
+{
+  "search_metadata": {
+    "id": "6ac8e7bed649a93f486bb6ce",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/RJ7PHlzlkUqqal7WLwGOdXGUwK6sCkI2eT4GXVOjnhw/6ac8e7bed649a93f486bb6ce.json",
+    "markdown_endpoint": "https://serpapi.com/searches/RJ7PHlzlkUqqal7WLwGOdXGUwK6sCkI2eT4GXVOjnhw/6ac8e7bed649a93f486bb6ce.md",
+    "created_at": "2026-10-09 13:10:22 UTC",
+    "processed_at": "2026-10-09 13:10:22 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Accountant&uule=w+CAIQICIWSmFpcHVyLFJhamFzdGhhbixJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/RJ7PHlzlkUqqal7WLwGOdXGUwK6sCkI2eT4GXVOjnhw/6ac8e7bed649a93f486bb6ce.html",
+    "prettify_html_file": "https://serpapi.com/searches/RJ7PHlzlkUqqal7WLwGOdXGUwK6sCkI2eT4GXVOjnhw/6ac8e7bed649a93f486bb6ce.prettify",
+    "total_time_taken": 0.81
+  },
+  "search_parameters": {
+    "q": "Accountant",
+    "engine": "google_jobs",
+    "location_requested": "Jaipur, India",
+    "location_used": "Jaipur,Rajasthan,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTVTFGVkZWdE1VOVFMVWxPZGt4R1dYYzRSbVJpYVVReGVWZHpUVTVQUWtaQlNETnhVREZpYms5b1pFUjZha3gxUlVGTk1XRkZjRVJTWHpKd1p6aEZYelI2VlZKbk9WRjRlV0oxUkdkMU9HNDVibmxXY21OdVoyMUdSekV4WDJoSVpWOVdUMHBrTmpseWNVdEZOV2hIWlc4MmQwSktURVZqVnpoR1RVWkNPVTV6T0VkMGFVMHRXRVJyWWt0aGFXVjJUMmRhVmpaV1VHTXdaVVpuV2pSM1Z6UTNhVnBrU0ZKdU1IaExkWEJSTm10S1dUTnVXVGx2YkZoSWJUUlhSa2xIVldkalZFTmZTRmxTVlZGRE9WbEhkVkZUWm5GRmIzZENXRWxVVFhaWk1uUjJValpPT1dwWk9EVm9iMEZOTjBkWWNETm5XV3RZUVRKT1NqUk9ZVmRzVlhOMFpWSnJielJFWm5ZMWRqVk5ObFZpYm5wTExWZ3lhakE0ZDJ4cFdISmxhVVZwVDJSdFJ6Wk1URkpIUTNoT2JqZGFMVXc1UVZkMlVsQk5PVTV1VlhsS1ZtOU5UbFJPZGpkM1JHWm5ZamxoVlhOSU0zZDBSRlJXUzNWYVlVOVVWa1pqVGkxYU1sUkdNR3RKZGxOV2JGSjNabUpqYWtzM2RsOTBNMDQxVTNKeE1EQnFkVWh6TFZGMFNrRjBOMVJSTFZkQ1QwbFpMWGxzUlZGU1JYUjVjbUZzYUV0cVUyOXNXRVEyVVdSRVVrdDFObFpuWjFZdE5qQkthVlp5VG1vMlluZGljM1Z0UW1wRlVFbFNMVEpyUmpCQ1pYWmtWVGswVjBkTlgwRVNGMTlOVkVsaGNHSmpRVmxmZEcxTVVWQnRiell4YlVFNEdpSkJSSE55T1daUldXMDJSR3RuYTBReVZVeHhlbE0zYzBaSFRuRXRVR1ZWT0VobiIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Accountant",
+      "company_name": "Pravin bohra and associates",
+      "location": "Nagaur, Rajasthan",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=6JgG3qgPCOd7xZAFAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMQrCQBBFsc0RrAbsRLJBsNHKKp2IFwg_67KbEGfCzkRSegc9oScxNq94vFd8VsXm7L1MbGCj7-tNvbSkAdknEqZaJA5hfUpmox6dUx3KqAbrfOnl4YRDK7NbJv2j0YQcxgEWmv2hmsuR47a6Zjw7plZSBoHvBFXx3RIpLf6CiCnv6IYeagn8A64GRAeXAAAA&shmds=v1_ARwrE21iV-Vaxe1PcGIjgb7Nmy5LmuGDr0x7utmntTbANeatgA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=6JgG3qgPCOd7xZAFAAAAAA%3D%3D",
+      "extensions": [
+        "1 day ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/accountant-at-pravin-bohra-and-associates-4475460967",
+      "job_title": "Accountant",
+      "description": "The ideal candidate will be involved with preparing financial reports and statements, bank reconciliations, and conducting cyclical audits. Moreover, the candidate must have strong interpersonal skills and possess a strong business acumen. \n Responsibilities\n\n\nCreate ad-hoc reports for various business needs Prepare tax documents Compile and analyze financial statements Manage budgeting and forecasting\n\nQualifications\nBachelor's degree in Accounting or related field Ability to interpret and analyze financial statements and periodicals Fluency in Microsoft Office suite (Outlook, Excel, Word, PowerPoint, etc.)",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/accountant-at-pravin-bohra-and-associates-4475460967?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "School Jobs India",
+          "link": "https://schooljobsinindia.com/jobs/sohan-lal-bhagwan-das-shikshan-santhan-thanwala-08140212532-accountant-51712335?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/336967240/accountant-nagaur?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiUHJhdmluIGJvaHJhIGFuZCBhc3NvY2lhdGVzIiwiaHRpZG9jaWQiOiI2SmdHM3FnUENPZDd4WkFGQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xGUk4zVnZNVlZQUlRKaVlYZHZPSGRpWTNoVE9IZFZhVk5vTFV4a1lURnpkR3hFVjBkSlMxQTNSMGRYVUU5cVptWTJUblozUTJwb05FUkpRMlJNTFZKeExWZDRibU0yYW1OSVRUZEZSM1ZwYmpOak1tczRNRkpDVG5ZMVlqUktkVTVqVUdGcE5IaHdlVGhhZVVvdFdIazBiazExYkV0d2NFVlBVVk5LWTB3d1ZUUlNWRWNTRjNaMVprbGhjbkV5VFZCdGJHbzVORkJvT0ZSNGMwRnpHaUpCUkhOeU9XWlVNMHhxUmxSRVQyNDRhWFZLTURSeE1WaERUMVJCVUhWMk9XcDMiLCJmY3YiOiIzIiwiZmNfaWQiOiI2SmdHM3FnUENPZDd4WkFGQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Accountant",
+      "company_name": "Safe Point",
+      "location": "Pilani, Rajasthan",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=hua-ECWov-jJjf6ZAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQoCMRBAUWz3CDYO2IkkIthoZWW76AGW2TAmWeJM2BlhS8EjeENP4tr87vGb96JZn0OQJxuywff1gUF6UMIxJBCGi0gstDwls6pH71WLi2poObggDy9MvUx-RvpPpwlHqgWNuv1hN7nKcbO64Z2glTwfMkObC3LewhUHVEvIP8gAsRmGAAAA&shmds=v1_ARwrE23m5C-jb_bfesf08LjLAx7PM-Dx1RLFYTsx1H4XIPFepg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=hua-ECWov-jJjf6ZAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "₹8K–₹15K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/accountant-accountant-job-in-safe-point-pilani-jhunjhunu-0-to-2-years-1791195883-8464621-jid",
+      "job_title": "Accountant",
+      "description": "We are looking for an Accountant to join our team at at Safe Point. The role involves managing financial transactions of the organization, preparing accurate reports, and ensuring compliance with tax regulations. The position offers ₹8,000 - ₹15,000 and opportunities for professional growth.  Key Responsibilities:\n\n    Ensure timely tax filings, computations, and compliance with regulatory requirements.   Securely manage and back up financial data while maintaining confidentiality.   Prepare accurate financial statements, balance sheets, and profit/loss reports.   Oversee daily financial transactions, including accounts payable, receivable, and reconciliations.   Job Requirements:\n\n A perfect candidate for this role should have a keen eye for numerical accuracy. The minimum qualification for this role is 12th Pass and 6 months - 2 years of experience. Applicants must have knowledge about accounting and GAAP (Generally Accepted Accounting Principles).It is a Full Time Accountant job for candidates with 6 months - 2 years of experience.More about this Accountant jobPlease go through the FAQs to get all answers related to the given Accountant jobWhat qualifications and experience are required for this Accountant position?\nAns :   Candidates should have a 12th Pass and above qualification with 1-2 years of experience and skills like Book Keeping, MS Excel.\n\nWhat is the salary and job type for this role?\nAns :   The salary for this Accountant job ranges between ₹8,000-₹15,000 per month. This is a Full Time job.\n\nWhat is the work schedule for this Accountant job?\nAns :   This Accountant job has 5 days working days and timings from 09:00 AM - 06:00 PM.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Pilani, Jhunjhunu.\n\nHow many vacancies are there for this Accountant job?\nAns :   There are 5 vacancies for this Accountant role.\n\nIs this job open for all genders?\nAns :   Yes, this Accountant job is open for both male and female candidates.\n\nWhat are the key responsibilities of this Accountant job?\nAns :   As a Accountant, key responsibilities include skills like Book Keeping, MS Excel. This role is part of Accountant category.\n\nWhat is the job location for this position?\nAns :   The job location for this Accountant position is Pilani, Jhunjhunu.\n\nWho is the right fit for this Accountant job?\nAns :   A candidate having skills like Book Keeping, MS Excel with 1-2 years of experience is the right fit for this Accountant job.\n\nWhat makes this Accountant job a good opportunity?\nAns :   This Accountant job is a good opportunity as it offers a salary between ₹8,000-₹15,000 per month. This is a Full Time job and has 5 openings.\n\nCandidates can call HR for more info.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-accountant-job-in-safe-point-pilani-jhunjhunu-0-to-2-years-1791195883-8464621-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "School Jobs India",
+          "link": "https://schooljobsinindia.com/jobs/birla-school-pilani-birla-school-pilani-rajasthan-hostel-beh-7898-accountant-b9d3106d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiU2FmZSBQb2ludCIsImh0aWRvY2lkIjoiaHVhLUVDV292LWpKamY2WkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXUTNkVTgyWW0xaWNqZFdRVzFNY1RacWFXVTVZbU5VU0d4TWJGRlpWbTVRUWxVdFdWaDBTM1pSUVVvd1ZDMUxNbXRtVWtKaVprRXhkblp0Tm5KNVJHOHRiVTlIYkdsck9VWjBRbFV5UWtoTmRIWnZVRTFuVkVaSFduQndURWh3YkVWNU9UbFVjRGhyVVhwT0xWcFpNMFpQVmxFeGNrVllSbXRGWDNoQ2NUVkNOSGc0UTBvU0YzWjFaa2xoY25FeVRWQnRiR281TkZCb09GUjRjMEZ6R2lKQlJITnlPV1pTT0ROdGJtVmhVR1ZJVG00ME56QXdlRlE0Y0dKRFNrSXpNR2hSIiwiZmN2IjoiMyIsImZjX2lkIjoiaHVhLUVDV292LWpKamY2WkFBQUFBQT09In0="
+    },
+    {
+      "title": "Sr. Accountant",
+      "company_name": "Bansal Projects",
+      "location": "Rajasthan",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=YxtiLD0yAlNCsGdsAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQoCMRAAQGzvCWKxnWCRiGCjldfYij7g2AtLciHuhuwKV1r4A3_oS9Rmuulei259aw5OIciDDdng83xDlhGUsIUEwnAWiYWWx2RW9eC9anFRDW0KLsjdC9Mos_8l_TNowka1oNGw229nVzluVj2yYoFLk0zBFCaGK2ZUS8hfqAyaZocAAAA&shmds=v1_ARwrE21u7RjpHGSZuEkNSYPtdMRS6zNDArSAp-QNO5lUQm-Z2w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=YxtiLD0yAlNCsGdsAAAAAA%3D%3D",
+      "extensions": [
+        "₹14,386.81–₹35,000.00 a month",
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=5256a07309cc6e93",
+      "job_title": "Sr. Accountant",
+      "description": "Hi,\n\n\nWe are looking for an accountant who has at least 5 years of experience in bookkeping, have a knowledge of GST and TDS\n\n\nCan single handedly prepare books.\n\n\nOffice location - Vaishali Nagar\n\n\nTiming 9:30-6PM\n\n\n6 Days working\n\n\nPay: ₹14,386.81 - ₹35,000.00 per month\n\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=5256a07309cc6e93&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/BjZV9om4VNwOhFGjVKLSWv60jtYhQfrsI7CoHZI_k70An5V__N9u1w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/sr-accountant-kajal-consultancy-udaipur--techmap_in_ChYhatUByp3OMJzCOsA0tBPkJN_cqlBTVZ3IprYcZeHvleby-BMP2g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkJhbnNhbCBQcm9qZWN0cyIsImh0aWRvY2lkIjoiWXh0aUxEMHlBbE5Dc0dkc0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHRnBSSFpFZWpSWFF6aHJZekF3VEY4NVgyWmhTR2xTY2pKQ2JISk9jMlZ3ZFZSelJrMU1TMlJIT1RaWVh6ZHZSMU5yYUhoU1FsWnRWRlJtTWxaQ1pIcEZWMnRGYTA1dWNXOXhUall0T0hOb1JYQjJiazFOZGxKWWJuUnphMDB3TUVodVdVcHJhM3BLWlRSVGJsWjJSWEJaYm5kWmNYcFhjM0JIVERobVZXc3diMWRZWlhnU0YzWjFaa2xoY25FeVRWQnRiR281TkZCb09GUjRjMEZ6R2lKQlJITnlPV1pUWVVkNlkwbExRbFJzYzBkcFVsVXpkVUZGU1hjeE0yNWhlRXgzIiwiZmN2IjoiMyIsImZjX2lkIjoiWXh0aUxEMHlBbE5Dc0dkc0FBQUFBQT09In0="
+    },
+    {
+      "title": "Admin & Accountant",
+      "company_name": "DVM Sales and Suppliers",
+      "location": "Rajasthan",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=bA-wEHidT4FB1tnYAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBBAUWxzBKspxEIhK4KNVgHBysaAbZhshmzCZmbJTCClRxC8oScxNr97_Oy9yvZFM3QMWyi8l4kN2eD7-kAvNSjh6AMIw02kjbS-BLOkZ-dUY96qoXU-9zI4YapldgvSfyoNOFKKaFQdT4c5T9zuNtfnHUqMpIDcQDmlFDsaFZb9A3tUC8g_d9r6-5MAAAA&shmds=v1_ARwrE23r_OjT8idlRdFsXnvdWFjc_bdK-Az5csqfdfAOQiVRIA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=bA-wEHidT4FB1tnYAAAAAA%3D%3D",
+      "extensions": [
+        "20 days ago",
+        "₹5K–₹10K a month",
+        "Full–time and Part-time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=5f53bb6cffbdc6c1",
+      "job_title": "Admin & Accountant",
+      "description": "Office Admin\n\n\nBack Office\n\n\nClint Calling\n\n\nAccounting\n\n\nTaxation\n\n\nData Management/Data Entry\n\n\nOther office related work\n\n\nPay: ₹5,000.00 - ₹10,000.00 per month\n\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=5f53bb6cffbdc6c1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/lrt8sEIM-Bwt1TTsL7OpaVF7jbuUG9u9hJz6VDkw1GxQczp6-wbwWA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBZG1pbiBcdTAwMjYgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkRWTSBTYWxlcyBhbmQgU3VwcGxpZXJzIiwiaHRpZG9jaWQiOiJiQS13RUhpZFQ0RkIxdG5ZQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEcxM2R6aHVkalI2WnpocVZsRmFOVWhtTlhWbGIwcHRPVWRXTTBVNVRsaHRTelExTUVrMU16bHBhelZrVkU5V1JGWnpTM2M0TUdwV1V6SkJORTh6WlVsdE5rOVNiMEpYTFU0MFRFaEtNbkZHTTI5bVQxaHFVSFF5U0hJelluTjJXbFl0UTNnelVtbGZRMUJUZEUxcFZuSlJjek5PZVdaUWNraG9WMFV3VTBGVllUQlNPRkFTRjNaMVprbGhjbkV5VFZCdGJHbzVORkJvT0ZSNGMwRnpHaUpCUkhOeU9XWlJWVWRQVDFSM05qSmlXa3BvVTFsSVJESkZNVmMwUVRodmRXdFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJiQS13RUhpZFQ0RkIxdG5ZQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Accountant",
+      "company_name": "Diwakar Renewable",
+      "location": "Rajasthan",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=EV4n-paUZPMmctIaAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CQ5yc4dGBBedBMG9fkC5hiNJjXchd9KOrs7-oV-iLm97zWvVtFfiJBVO3suDDdng83zDJCMoYfURhOEiEjKtj9Gs6ME51dwFNbTkOy93J0yjLO6X9M-gESuVjEbDbr9dusKh3ZzTjDes0BPTjGMmSAw9TqgWkb-a4H6zjAAAAA&shmds=v1_ARwrE22QMpwBMHhps574yhaXPfLanGH-mboxnoOiyiF55255dg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=EV4n-paUZPMmctIaAAAAAA%3D%3D",
+      "extensions": [
+        "₹30K–₹60K a month",
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=79e353280ed156c2",
+      "job_title": "Senior Accountant",
+      "description": "Senior Accountant Job Opening\n\n\nWe are looking for an experienced Senior Accountant to join our finance team. The ideal candidate should have strong knowledge of accounting principles, financial reporting, taxation, and compliance, with excellent analytical and problem-solving skills.\n\n\nJob Title:\n\n\nSenior Accountant\n\n\nExperience:\n\n\n3–7+ years\n\n\nLocation:\n\n\nJaipur\n\n\nEmployment Type:\n\n\nFull-Time\n\n\nSalary:\n\n\nAs per experience / Industry standards\n\n\nKey Responsibilities:\n\n\n\n Manage day-to-day accounting operations\n Prepare monthly, quarterly, and annual financial reports\n Handle accounts payable and accounts receivable\n Reconcile bank statements and ledger accounts\n Ensure compliance with tax regulations, GST, TDS, and statutory requirements\n Assist in budget planning and financial forecasting\n Maintain accurate accounting records and documentation\n Support internal and external audits\n Monitor cash flow and financial transactions\n Identify process improvements to enhance efficiency\n\nRequired Skills:\n\n\n\n Strong knowledge of accounting principles and financial reporting\n Experience with Tally, Microsoft Excel, or ERP systems\n Good understanding of GST, TDS, and taxation laws\n Excellent analytical and numerical skills\n Attention to detail and accuracy\n Strong communication and problem-solving abilities\n\nQualifications:\n\n\n\n Bachelor’s degree in Accounting, Finance, or Commerce (B.Com / M.Com)\n\nPay: ₹30,000.00 - ₹60,000.00 per month\n\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=79e353280ed156c2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/YDl9k96qSb4ZIi7-ifKRuqiU0n79KYpcdPlM1XlOoGCc-2f-aqVmnw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WhatJobs",
+          "link": "https://en-in.whatjobs.com/jobs/senior-accountant/rajasthan?id=244035842&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Valiro",
+          "link": "https://valiro.in/job-listings-senior-accountant-top-manpower-management-services-private-jagatpura-2-to-2-years-100266299?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkRpd2FrYXIgUmVuZXdhYmxlIiwiaHRpZG9jaWQiOiJFVjRuLXBhVVpQTW1jdElhQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzA5c1QyVm1iRGxvWkcxV2NrUTFja2RwVURCaFRFNUJjRFF6ZFUxVk5FaFBlbUpUY1MxWFJYRXpRVFZpVm14V1VFSkJiMDlaVlRCdVFqZHNjVFJDWVVWTFEydEZVM0pqVjNsbFgzWnBRek5FVVZGRFZ6ZHVaSGRoVjJzNGNsSktNRnBuVm01SmFXRTFUbGhwVTFoYU9VbDFNVmxoV1daeE4wcE9lVTUwZEdGM1JEVTBVREFTRjNaMVprbGhjbkV5VFZCdGJHbzVORkJvT0ZSNGMwRnpHaUpCUkhOeU9XWlNTVEJxVlV4Tk5VaDVXRk5zWlZsek4xVlNXblpaZFhwVmFFRkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJFVjRuLXBhVVpQTW1jdElhQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Part-time Accountant",
+      "company_name": "Creaters India Private Limited",
+      "location": "Gautam Buddha Nagar, Uttar Pradesh",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=Cy4uAFjHcXAiBIEuAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNTQrCMBCFcdsjuJq12EYEN7ryB0QQ6cZ1mSZDE2mSkplKl97Bm3gkT2LcPHgf7-MVn1lR1pikFOcJ9lrHMQgGge_rDY_YAhMmbSEGOMfY9TTfWZGBt0ox91XHguJ0paNXMVAbJ5Ul_kfDFhMNPQo1681qqobQLU7HRBkkhkswDqFO7pk7XJ13QgZcvsFR0MNhNMYi3LDDtIS7CKa8RkNsfy1QVqO1AAAA&shmds=v1_ARwrE21RtDD_LbnXkiPy49_c3ll1BBSsXQPK7lSL-D7GXmUNCg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=Cy4uAFjHcXAiBIEuAAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "₹8.5K–₹10K a month",
+        "Part-time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/OQUopLSw4ieOtRGVV_WnWuuVDzNZmUJtTubPy4QBABqZdWzKq_pkTg",
+      "job_title": "Part-time Accountant",
+      "description": "Creaters India Pvt. Ltd is the company behind Playtoons, a growing brand dedicated to manufacturing and retailing high-quality, BIS-certified soft toys. We are looking for a detail-oriented and reliable Part-Time Accountant to join our Greater Noida team to help maintain our financial health as we scale our domestic manufacturing, retail presence, and offline distribution channels.\n\nKey Responsibilities:\n\nInventory & Cost Accounting: Track raw material purchases (fabrics, stuffing, trims), work-in-progress, and finished soft toy inventory. Reconcile physical inventory with system records and track manufacturing costs.Bank Reconciliation: Perform weekly and monthly bank reconciliations to ensure accurate cash flow tracking.Invoicing & Billing: Process B2B invoices for offline retail buying managers and distributors, ensuring all commercial terms and pricing structures are accurately reflected.Financial Reporting: Prepare basic monthly P&L statements and assist in the preparation of documents for annual statutory audits.Pay: ₹8,500.00 - ₹10,000.00 per month\n\nBenefits:\n\nFlexible scheduleWork Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/OQUopLSw4ieOtRGVV_WnWuuVDzNZmUJtTubPy4QBABqZdWzKq_pkTg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/part-time-accountant-creaters-india-private-limited-gautam-budh-nagar-uttar-pradesh--t7xk-871821631?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQYXJ0LXRpbWUgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkNyZWF0ZXJzIEluZGlhIFByaXZhdGUgTGltaXRlZCIsImh0aWRvY2lkIjoiQ3k0dUFGakhjWEFpQklFdUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFREZDZVMGRPZDI5d1FucEJjMjFFV2xWRmNEQmZNVkpaVmtGYVYySlRSM2hDWTJ4VE5YVm9SVlEzYUVKcFJHVnpVSEp0V1dwRWMzbHRhVlppUVd0RFNIRndZVGxJVDFaRFowODNkRVpsY25wQmVreE9VV2hyVmswM1lYQlZaRGh5YlRCdFVEaERSVGg2Y1ZkdE5FaG1hbmxqUjFoUGJXTTJjamRXU0VSRVkwdGlkVWszVkRrU0YzWjFaa2xoY25FeVRWQnRiR281TkZCb09GUjRjMEZ6R2lKQlJITnlPV1pVYWpWeFZHMWpSMlJhVERSdGFtMU1ZWE5yUWsxbVJpMVZaMlZCIiwiZmN2IjoiMyIsImZjX2lkIjoiQ3k0dUFGakhjWEFpQklFdUFBQUFBQT09In0="
+    },
+    {
+      "title": "Accountant",
+      "company_name": "Aaryam Hotel & Resorts Private Limited",
+      "location": "Sawai Madhopur, Rajasthan",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=0vFo0ghhEXyvjxmpAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCMBSAYVx7BKcHgoNII4KLTsVBBwWpByivaWhS0ryQ96p18w4ewnt5EnX5p-_P3pNsVmhNQxAMAp_nCzqqgQ0mbYECHIhab6Y7KxJ5qxSzz1sWFKdzTb2iYGoa1W_ifyq2mEz0KKZab1ZjHkO72BeYHtjDkcR4mENpmJIwXJK7_SCcXO_ENOACXPGODs7YWIpDWkKJHbJYDF_Qp0i0qgAAAA&shmds=v1_ARwrE22qpXfJzdDVRKszmuNLoQdCyLCj6NMaE9c8xwZYqAXqyQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=0vFo0ghhEXyvjxmpAAAAAA%3D%3D",
+      "extensions": [
+        "₹22K–₹25K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/accountant-accountant-job-in-aaryam-hotel-resorts-private-limited-alanpur-sawaimadhopur-2-to-5-years-1788435396-8268158-jid",
+      "job_title": "Accountant",
+      "description": "We are looking for an Accountant hospitality Industry to join our team at at Aaryam Hotel & Resorts Private Limited. The role involves managing financial transactions of the organization, preparing accurate reports, and ensuring compliance with tax regulations. The position offers ₹22,000 - ₹25,000 and opportunities for professional growth.  Key Responsibilities:\n\n    Ensure timely tax filings, computations, and compliance with regulatory requirements.   Securely manage and back up financial data while maintaining confidentiality.   Prepare accurate financial statements, balance sheets, and profit/loss reports.   Oversee daily financial transactions, including accounts payable, receivable, and reconciliations.   Job Requirements:\n\n A perfect candidate for this role should have a keen eye for numerical accuracy. The minimum qualification for this role is Graduate and 2 - 5 years of experience. Applicants must have knowledge about accounting and GAAP (Generally Accepted Accounting Principles).It is a Full Time Accountant job for candidates with 2 - 5 years of experience.More about this Accountant jobPlease go through the FAQs to get all answers related to the given Accountant jobWhat skills and experience do you need for this Accountant job?\nAns :   To apply for this Accountant job, candidates should have skills like Audit, Balance Sheet, Book Keeping, Cash Flow, GST, MS Excel, Tally, Tax Returns, TDS along with 2-5 years of experience.\n\nHow much can you earn in this position?\nAns :   You can earn between ₹22,000-₹25,000 per month in this Accountant position.\n\nWhat are the working days and timings for this job?\nAns :   This Accountant job has 6 days working days and timings from 09:00 AM - 06:00 PM.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Alanpur, Sawaimadhopur.\n\nHow many openings are available for this position?\nAns :   There is 1 opening available for this position.\n\nIs this job open for all genders?\nAns :   Yes, this Accountant job is open for both male and female candidates.\n\nWhat work will you do in this role?\nAns :   As a Accountant, you will work on skills like Audit, Balance Sheet, Book Keeping, Cash Flow, GST, MS Excel, Tally, Tax Returns, TDS.\n\nWhere is this job located?\nAns :   This Accountant job is located in Alanpur, Sawaimadhopur.\n\nWhat kind of candidate is ideal for this job?\nAns :   A candidate with skills like Audit, Balance Sheet, Book Keeping, Cash Flow, GST, MS Excel, Tally, Tax Returns, TDS along with 2-5 years of experience is ideal for this Accountant job.\n\nWhy should you apply for this Accountant job?\nAns :   This Accountant job offers a salary between ₹22,000-₹25,000 per month. This is a Full Time opportunity and has 1 openings available.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-accountant-job-in-aaryam-hotel-resorts-private-limited-alanpur-sawaimadhopur-2-to-5-years-1788435396-8268158-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "School Jobs India",
+          "link": "https://schooljobsinindia.com/jobs/arihant-sr-sec-vidya-mandir-gangapur-city-08100318402-accountant-b4c42f6c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiQWFyeWFtIEhvdGVsIFx1MDAyNiBSZXNvcnRzIFByaXZhdGUgTGltaXRlZCIsImh0aWRvY2lkIjoiMHZGbzBnaGhFWHl2anhtcEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRGbFVRbkpDUTBoTGRqZENhWFV6VUVnMk9FaGtRMGw2VlRZMWEwSnBTbU5UU0VGbFlXdDFTR3g1UkV0Qk56aEZUbmhHTmtNellYRnFhWEZxTWpKWlRFcFhielZvYzI5cVZVNVdZbnBMV25aQlQxUTJhbkpEVGxWelpIUndVMGx2TTNoblZ6UlFjV1poUVcxdmNUZDZPV1pxWldoNlgyZFBWakoyWm5aalp6VXlWVWRrTlhjU0YzWjFaa2xoY25FeVRWQnRiR281TkZCb09GUjRjMEZ6R2lKQlJITnlPV1pTZEZCa01HNUhiVnA1VEVkU2MxVmlWR3BKY0RKTU5XWndkMFIzIiwiZmN2IjoiMyIsImZjX2lkIjoiMHZGbzBnaGhFWHl2anhtcEFBQUFBQT09In0="
+    },
+    {
+      "title": "Urgent | HIRING SENIOR ACCOUNTANT FEMALE",
+      "company_name": "SHARDA CONSULTANCY SERVICES",
+      "location": "New Delhi, Delhi",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=F8lUSmnkUdLP7xpuAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOvQrCMBRGce0jON1ZpBHBRaeQxrZQU-iP4FTSckkrNSlNwA4OvoNP4iv5JFZcvjMdzue9Fx4tR4XawQOiOItFCDkXcZoBZSwtRUFFAUd-ogmHz_MFV1ODRTk2LRgNoTGqx-WhdW6we0Ks7X1lnXRd4zfmRozG2kxkluxvKtvKEYdeOqy2u83kD1qtSB7RLKDAUpGXydxjl_lCdo4Zz6HTIPAOAfZtt_7jC3I2WBe0AAAA&shmds=v1_ARwrE22uC_EQhGu4rO_PXblg_AngwbWKR3OvgY4ncW1_LygaPA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=F8lUSmnkUdLP7xpuAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAbAAEAAwADAQAAAAAAAAAAAAAAAQIEBQYHA__EACgQAAIBAwIFBAMBAAAAAAAAAAABAgMEERIhBTEyQWFxgZHRIlHBE__EABcBAQADAAAAAAAAAAAAAAAAAAABAgP_xAAYEQEBAQEBAAAAAAAAAAAAAAAAARECIf_aAAwDAQACEQMRAD8A9xAAAAAAAAAAEAz3F5QtnitPS9Orpb29ikeJ2kumrndrpfbP0MRsfS-u6NjaVrq4k40qUdUsJt-iS5vwcTwvjVevTrXFzZ1qNDTqpxnp17c01nbtt67mq8vLS4xRdVbPMoyi8P3x-_4YItRqxldXNGNmsTjCEJNzXZN42S7r52LyTGfXV3yuxLcGV39soxk5vEpKKeh7t8iq4naOMX_o8S5fi_H2vkrjTY2ArSqRqwU4PMX4BCVsDCJAEYQwiQBXCGEWAEAkAAAAAAAAAAAB_9k.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/urgent-hiring-senior-accountant-female-at-sharda-consultancy-services-4475179986",
+      "job_title": "Urgent | HIRING SENIOR ACCOUNTANT FEMALE",
+      "description": "Position: Senior Accountant\n\nGender: Female\n\nExperience: Minimum 3 Years in Accounting\n\nSalary: Up to 40,000/month\n\nShift: 10:00 AM 7:00 PM\n\nWorking Days: 6 Days\n\nSalary Date: 1st of every month\n\nCab: Not Available\n\nRequired Skills Expertise\n\n\n\n Strong knowledge of GST, Tally TDS Balance Sheet Finalization Finalization of Accounts GST Returns Compliance TDS Statutory Compliance Accounting Bookkeeping Financial Reporting Bank Reconciliation Ledger Management Strong knowledge of accounting principles Ability to independently handle accounting matters\n\nThis job is provided by Shine.com",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/urgent-hiring-senior-accountant-female-at-sharda-consultancy-services-4475179986?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/urgent-hiring-senior-accountant-female-sharda-consultancy-services--fj-2401561044?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJVcmdlbnQgfCBISVJJTkcgU0VOSU9SIEFDQ09VTlRBTlQgRkVNQUxFIiwiY29tcGFueV9uYW1lIjoiU0hBUkRBIENPTlNVTFRBTkNZIFNFUlZJQ0VTIiwiaHRpZG9jaWQiOiJGOGxVU21ua1VkTFA3eHB1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2paWlJVSkRiblpKTFU5Q1oxUkNUekk0VEU1M05tMU5kVFJKVDFScFRqWmtTWFZOYjI1RFluVk1TMU5uU3kwd1pIRlBNazVGV0Mwd04wMXhlamRVYkV4WmNuZFdZMk5QTlVobVoybG9UV0poVWxSV05GWmZiRlJCU205Q1VEaFlORFZtVldaS2VYUkNjakk1V1cxVVgxSkZkRVl6YlROUmExb3hPSFJZWDB4b1R6bHdZMndTRjNaMVprbGhjbkV5VFZCdGJHbzVORkJvT0ZSNGMwRnpHaUpCUkhOeU9XWlNiRUUyVlhaQ1VtTktTVnBSVEVGMmNEVkNTbGwyUmtORmFqaDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJGOGxVU21ua1VkTFA3eHB1QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Accountant",
+      "company_name": "Vimal Syntex Pvt Ltd",
+      "location": "Bhilwara, Rajasthan",
+      "via": "WorkIndia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=oJM6BX2ie_lFyV8vAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU4HbiqNCC461cXFQRRcyzWGJiW9C71T4-YfOPiHfom6vO0Vr1ExqazlKymSwuf5ho4bEIeD9cAEO-Y2uvHGqyZZGyMSy1YUNdjScm-YXMPZ_JL8qcXj4FJEdfVytchlonY6O4ceI5wepC7D4aaw1wsEgq0P8Y4DzuGIHYp6pC8b0H2YkgAAAA&shmds=v1_ARwrE21GrylGfxgsOszBg1SpEX50rPsrz0Ie8JrrpF2Kptc4Nw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=oJM6BX2ie_lFyV8vAAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "₹10K–₹15K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.workindia.in/jobs/accountant-bhopal_ganj-bhilwara-11453743/",
+      "job_title": "Accountant",
+      "description": "Salary Range : Rs. 10000 - Rs. 15000 , based on skills, experience, and interview performance\n\nEducational Requirement : 12th Pass\n\nWork Arrangement : Work From Office\n\nGender Preference : Both male and female can apply\n\nSkills Requirement : No predefined skills necessary\n\nExperience Requirement : 1 - 2 Years of Experience\n\nLocation : Bhopal Ganj\n\nWorking Hours : 9:30 AM - 6:30 PM | Monday to Saturday\n\nAdditional Info : Manage Financial Records, Prepare Tax Filings, And Ensure Compliance With Legal Regulations. Analyze Financial Data To Assist In Decision-Making. Provide Advice On Tax Planning And Savings Opportunities. 1 - 2 Years Experience Compulsory.",
+      "apply_options": [
+        {
+          "title": "WorkIndia",
+          "link": "https://www.workindia.in/jobs/accountant-bhopal_ganj-bhilwara-11453743/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiVmltYWwgU3ludGV4IFB2dCBMdGQiLCJodGlkb2NpZCI6Im9KTTZCWDJpZV9sRnlWOHZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXU21GcGNIVnlMRkpoYW1GemRHaGhiaXhKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM1ZrU3kxT1NIUnplR0prTVRsVmFsbzJUV0ozWVVOTE4wdFBhbFpHT0hkSlIyTlBaRUZWTFMxRlREZHFlRnBZVjA0M2JsazBaa3d3VDFWcFQzQmtNVGxKZDFOeWFsUmtRV2hyWlc1dGVXWkdkRlpyWWpCcFFuQldWa3MwYzJjdGQzWjFVM2RxTUdoblRXa3pTUzFXWVUxelFYRm1VbXhQVFZaMWMzbE9TbXBKTVdsaldpMFNGM1oxWmtsaGNuRXlUVkJ0YkdvNU5GQm9PRlI0YzBGekdpSkJSSE55T1daVVMzRlBXRk0yYWtGdk5GUndlakU1T0hKa1IwZGlOVFZ0YzJWbiIsImZjdiI6IjMiLCJmY19pZCI6Im9KTTZCWDJpZV9sRnlWOHZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Trainee Accountant",
+      "company_name": "Jain & Sharma Chartered Accountants",
+      "location": "Rajasthan",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=JB--42cT8TKXxpK3AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_02NMQrCQBBFsc0RrKayUMgGwUYrSSFYqn2YrEM2YTMTdkZI6R1sPZ0nce1s_i_--7zivSg2t4Q9E8HRe3mwIRt8ni8YpAUlTD6AMJxEukjLQzCbdO-caiw7NbTel15GJ0ytzC6f9BeNBkw0RTRqtrtqLifu1tU5i2AF17yNCHUuo0T3P7NCJi44oFpA_gJ0wR9rnwAAAA&shmds=v1_ARwrE22uJybyQzNSYJoy8PQWRrdSUPT7533q5E8NZHlboY3ePA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=JB--42cT8TKXxpK3AAAAAA%3D%3D",
+      "extensions": [
+        "24 days ago",
+        "₹3.5K a month",
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=2cd2d7c89b21fe0d",
+      "job_title": "Trainee Accountant",
+      "description": "B.Com graduate (mandatory) with knowledge of accounting and its principles, including understanding of debit and credit, journal entries, and ledgers; basic knowledge of Tally or other accounting software is preferred; working knowledge of MS Excel; detail-oriented, eager to learn, and able to support day-to-day accounting activities under guidance\n\n\nJob Types: Full-time, Fresher\n\n\nPay: From ₹3,500.00 per month\n\n\nBenefits:\n\n\n\n Flexible schedule\n\nEducation:\n\n\n\n Bachelor's (Preferred)\n\nLocation:\n\n\n\n Bhiwadi, Rajasthan (Preferred)\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=2cd2d7c89b21fe0d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJUcmFpbmVlIEFjY291bnRhbnQiLCJjb21wYW55X25hbWUiOiJKYWluIFx1MDAyNiBTaGFybWEgQ2hhcnRlcmVkIEFjY291bnRhbnRzIiwiaHRpZG9jaWQiOiJKQi0tNDJjVDhUS1h4cEszQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzAxZlNraHpibGh3UVhkM2NYQkhVazU2T1hSdVJuZDFlRzVYYjJaeVFXVlBTV1ZEWTBGdldYWmtaVEJXTlV0TmRHaGtkbnB5TmxBdE1tMTJZbkp6WDFCS00wMWtWM0ZxYUZGcGVFSm5lRGgyU2pOVlNXdzFhRTU2Wm5oWWJrMVdOMlF4VkRsTlJFczNUVmw0WDFOalFsbEVXRUZ3UkVsRWJVRkpWVEpWVERkQk5rMTVaRUlTRjNaMVprbGhjbkV5VFZCdGJHbzVORkJvT0ZSNGMwRnpHaUpCUkhOeU9XWlJSbGN0TFdwV1ZHUlFWRWxJYlZWS2JsQmtiVkZaVm1KcFUxWlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJKQi0tNDJjVDhUS1h4cEszQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTbGRVVDFaWFNXb3dNWHBhTUdadllXOVJjbGRUVTBad0xWTkZNV2hKVUhsbFZsSkhNVjh3ZFVRNGFFcFpNbEpFVTBKUlkydFBSekJoTFVaTFkwWklObXR2VDA1WFVUTmxhV1JxV1ROb01taGFhWFp6VUZkbmQxRm9kRzEyTWkxSk4zaFdjRVIwVjIxT01GZHJXUzEyVkVzeVV6QkViblJWV2xKZlZ6QlJNM1pIVmtzeGRuZHRVVVp5V0ZKWVZYQXpibEJDZDE5YWNqRlFjMGRrTFhWdWNHSmtSRXRaWWs1TWFqSm1NR00yWlc0eWNXZHJXbWczU1VWcE5rZEROWEY2UzIxMGQyMUVXVmg1VkY5TVVYY3hOMjVoZFdVeFMzWTRTSEZVTkZCdWVYZG1TSEY2TUVaVlR6ZEtTbmRZUzFSQ1YzRkJiMlJtU25aSlkyMHlORmhLUlU1SFYybFhXa1ptU0Zaek5rWklSRWgwVGt4Q05tUlNSMmRGWDJzMFExVTNZa2xyUWtKZmJHbElRa2RhU2tkVmEwTkpNMFpPT1dORVRuVnVhbXhtUnpsT09FeEZVakJEZFRsWGJXNHlUMEZ6T0ZoaFIyRlpSMjF1UkhOcmQxOTNOM05CVVZaSlNsSllhVGwxUWpGeFNXeGZia0ZNTjBWSmRYcFJlRWhsVFhFeE9VeFJSMWhOYWpkelduSlZVRzR5UTBRdFJtYzNXbUpYWnkxd1psbGpUbFJrTjB4WGEzWmpkRzVSWjNkZmQyaHRWVmRmZHpFM2VrVlpja0pIZDJkbVNrMVNaSFJOV1V4d1FXaGpVVEpRTTBWSWQzQkNla3gwTkRaM2VYY1NGM1oxWmtsaGNuRXlUVkJ0YkdvNU5GQm9PRlI0YzBGekdpSkJSSE55T1daVE9IazRXa3N5Y25KUFdWSk9kR3N6VEZKRk1HcFlaRTFtUm5wQiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTbGRVVDFaWFNXb3dNWHBhTUdadllXOVJjbGRUVTBad0xWTkZNV2hKVUhsbFZsSkhNVjh3ZFVRNGFFcFpNbEpFVTBKUlkydFBSekJoTFVaTFkwWklObXR2VDA1WFVUTmxhV1JxV1ROb01taGFhWFp6VUZkbmQxRm9kRzEyTWkxSk4zaFdjRVIwVjIxT01GZHJXUzEyVkVzeVV6QkViblJWV2xKZlZ6QlJNM1pIVmtzeGRuZHRVVVp5V0ZKWVZYQXpibEJDZDE5YWNqRlFjMGRrTFhWdWNHSmtSRXRaWWs1TWFqSm1NR00yWlc0eWNXZHJXbWczU1VWcE5rZEROWEY2UzIxMGQyMUVXVmg1VkY5TVVYY3hOMjVoZFdVeFMzWTRTSEZVTkZCdWVYZG1TSEY2TUVaVlR6ZEtTbmRZUzFSQ1YzRkJiMlJtU25aSlkyMHlORmhLUlU1SFYybFhXa1ptU0Zaek5rWklSRWgwVGt4Q05tUlNSMmRGWDJzMFExVTNZa2xyUWtKZmJHbElRa2RhU2tkVmEwTkpNMFpPT1dORVRuVnVhbXhtUnpsT09FeEZVakJEZFRsWGJXNHlUMEZ6T0ZoaFIyRlpSMjF1UkhOcmQxOTNOM05CVVZaSlNsSllhVGwxUWpGeFNXeGZia0ZNTjBWSmRYcFJlRWhsVFhFeE9VeFJSMWhOYWpkelduSlZVRzR5UTBRdFJtYzNXbUpYWnkxd1psbGpUbFJrTjB4WGEzWmpkRzVSWjNkZmQyaHRWVmRmZHpFM2VrVlpja0pIZDJkbVNrMVNaSFJOV1V4d1FXaGpVVEpRTTBWSWQzQkNla3gwTkRaM2VYY1NGM1oxWmtsaGNuRXlUVkJ0YkdvNU5GQm9PRlI0YzBGekdpSkJSSE55T1daVE9IazRXa3N5Y25KUFdWSk9kR3N6VEZKRk1HcFlaRTFtUm5wQiIsImZjdiI6IjMifQ%3D%3D&q=Accountant"
+  },
+  "_retrieved_at": "2026-10-09 13:10:22 UTC"
+}

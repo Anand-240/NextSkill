@@ -470,3 +470,27 @@ No market is Strong now. The label is honest, not tuned.
   first and says so when it must use a weaker one. A title that names a tool the plan or route lacks gets a note.
 - The "outside strongest areas" warning (which fired for marketing) now says few skills were detected.
   Experience levels other than Fresher show a note that the saved samples came from fresher and junior searches.
+
+## 2.1 and 2.2 Job-information gap
+
+- Research: SerpApi Google Jobs documentation read again before any call (`q`, `location`, `gl`, `hl`, `next_page_token`,
+  ten results per page, `start` discontinued). 75 s timeout, no retry, durable attempt counter (phase J, cap 35).
+- Account API before: 75 used, 175 left. After: 98 used, 152 left (floor 90). Ledger: 25 attempts in phase J; the
+  Account API counted 23, so two were not billed. Saved pages already on disk were reused (page 1 for five markets).
+- Equal queries: the plain role names "Data Analyst" and "Accountant", no fresher or junior variants, in Bengaluru,
+  Pune, Jaipur, Indore and Dehradun, up to three pages following `next_page_token`. Responses redacted before saving.
+- Result: every one of the 10 queries filled all three pages (26 to 30 listings). The page limit, not the city, sets
+  the total, so total visible listings cannot show a gap. What differs is how many of those listings are located in
+  the named city (its name in the listing's location text):
+
+| Role | Bengaluru | Pune | Jaipur | Indore | Dehradun |
+|---|---:|---:|---:|---:|---:|
+| Data Analyst | 22 of 26 | 6 of 29 | 27 of 28 | 23 of 28 | 21 of 29 |
+| Accountant | 26 of 29 | 8 of 28 | 9 of 30 | 17 of 29 | 3 of 28 |
+
+  Google Jobs fills the list with nearby cities: 10 of 28 Pune accountant listings are in Mumbai and 6 of 28 Dehradun
+  accountant listings are in New Delhi or Gurugram. This is stated as visible listings in an equal-query snapshot,
+  never as the number of jobs in a city. The in-city test is conservative: suburbs under other names are not counted.
+- Built `scripts/job_gap.py` (offline rebuild, `--plan`, `--fetch`), `reports/job_gap.json`, a section on the Compare
+  cities page with a chart, table and caveat, and tests (`tests/test_job_gap.py`). `check_consistency` rebuilds the file.
+- Verified: 113 tests pass; consistency check 0 problems; security scan: 529 history blobs, 134 response files, 0 findings.

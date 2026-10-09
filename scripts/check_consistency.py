@@ -8,7 +8,7 @@ import json
 import sys
 import tempfile
 from pathlib import Path
-from scripts import build_results, render_docs, score_labels, summarise_user_test
+from scripts import build_results, job_gap, render_docs, score_labels, summarise_user_test
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -20,6 +20,9 @@ def problems() -> list[str]:
     if saved != fresh:
         differing = sorted(key for key in saved["pairs"] if saved["pairs"].get(key) != fresh["pairs"].get(key))
         found.append("reports/final_results.json differs from a fresh rebuild: " + (", ".join(differing) or "top level"))
+    gap_saved = json.loads((ROOT / "reports/job_gap.json").read_text())
+    if gap_saved != json.loads(json.dumps(job_gap.build(), ensure_ascii=False)):
+        found.append("reports/job_gap.json differs from a fresh rebuild; run python -m scripts.job_gap")
     for path, body in render_docs.render(saved).items():
         if (ROOT / path).read_text() != body:
             found.append(f"{path} differs from render_docs output; run python -m scripts.render_docs")

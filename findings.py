@@ -40,3 +40,30 @@ def map_table(rows: dict, only_cities: set[str] | None = None) -> str:
                  f"{row['must_haves_met']} | {row['fastest_win'] or 'Unavailable'} | {row['biggest_unlock'] or 'Unavailable'} | "
                  f"{row['confidence']} | {flag_text(row)} |\n")
     return text
+
+
+def gap_rows(gap: dict) -> list[dict]:
+    return gap["rows"]
+
+
+def gap_sentence(gap: dict) -> str:
+    """The job-information gap in one honest sentence, computed from reports/job_gap.json."""
+    rows = gap_rows(gap)
+    totals = [row["listings"] for row in rows]
+    low = min(rows, key=lambda row: (row["in_city"] / row["listings"], row["role"], row["city"]))
+    high = max(rows, key=lambda row: (row["in_city"] / row["listings"], row["role"], row["city"]))
+    others = ", ".join(low["other_places"][:2])
+    return (f"Asked the same plain question in {len({row['city'] for row in rows})} cities, Google Jobs returned between {min(totals)} and "
+            f"{max(totals)} listings every time (the three-page limit), but only {low['in_city']} of {low['listings']} "
+            f"{low['role']} listings for {low['city']} were located there (the rest were in {others} and elsewhere), against "
+            f"{high['in_city']} of {high['listings']} for {high['role']} in {high['city']}. A fresher outside the biggest hubs "
+            "can see far less local evidence than the list length suggests.")
+
+
+def gap_table(gap: dict) -> str:
+    text = ("| Role | City | Visible listings | Located in the city | Distinct employers | Pages | Snapshot |\n"
+            "|---|---|---:|---:|---:|---:|---|\n")
+    for row in gap_rows(gap):
+        text += (f"| {row['role']} | {row['city']} | {row['listings']} | {row['in_city']} | {row['distinct_employers']} | "
+                 f"{row['pages_fetched']} | {', '.join(row['snapshot_dates'])} |\n")
+    return text

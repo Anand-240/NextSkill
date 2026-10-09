@@ -1,0 +1,469 @@
+{
+  "search_metadata": {
+    "id": "6ac8e7c4dbb9ff52fcbbc92e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/oK0XPO26dJLCKBC3jx6ZB7x0EKHf6Z-HjkAKdHhHfCA/6ac8e7c4dbb9ff52fcbbc92e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/oK0XPO26dJLCKBC3jx6ZB7x0EKHf6Z-HjkAKdHhHfCA/6ac8e7c4dbb9ff52fcbbc92e.md",
+    "created_at": "2026-10-09 13:10:28 UTC",
+    "processed_at": "2026-10-09 13:10:28 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Accountant&uule=w+CAIQICIaRGVocmFkdW4sVXR0YXJha2hhbmQsSW5kaWE&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/oK0XPO26dJLCKBC3jx6ZB7x0EKHf6Z-HjkAKdHhHfCA/6ac8e7c4dbb9ff52fcbbc92e.html",
+    "total_time_taken": 1.6
+  },
+  "search_parameters": {
+    "q": "Accountant",
+    "engine": "google_jobs",
+    "location_requested": "Dehradun, India",
+    "location_used": "Dehradun,Uttarakhand,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rKlWVD0kkgR7NAc1Un5S2tzs2sUke6XTOoakpqfuuoCSln1TfBzFKGyTwK1KJrHzYNmjM6beij3IgirCUMqwRV18ge3k8pwSTzghDLFeSUzMF4KOxW_U381ERfDElVmYUPl5_JSCpSYBVI751zKx5tcxVf0I",
+        "q": "Accountant remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKlWVD0kkgR7NAc1Un5S2tzs2sUke6XTOoakpqfuuoCSln1TfBzFKGyTwK1KJrHzYNmjM6beij3IgirCUMqwRV18ge3k8pwSTzghDLFeSUzMF4KOxW_U381ERfDElVmYUPl5_JSCpSYBVI751zKx5tcxVf0I&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQxKsJKAB6BAgWEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKlWVD0kkgR7NAc1Un5S2tzs2sUke6XTOoakpqfuuoCSln1TfBzFKGyTwK1KJrHzYNmjM6beij3IgirCUMqwRV18ge3k8pwSTzghDLFeSUzMF4KOxW_U381ERfDElVmYUPl5_JSCpSYBVI751zKx5tcxVf0I"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg",
+            "q": "Accountant full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w",
+            "q": "Accountant part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq",
+            "q": "Accountant contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9",
+            "q": "Accountant internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg",
+            "q": "Accountant full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w",
+            "q": "Accountant part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq",
+            "q": "Accountant contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9",
+            "q": "Accountant internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA",
+            "q": "Accountant since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg",
+            "q": "Accountant in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw",
+            "q": "Accountant in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg",
+            "q": "Accountant in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA",
+            "q": "Accountant since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg",
+            "q": "Accountant in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw",
+            "q": "Accountant in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg",
+            "q": "Accountant in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnt0HzLiiWkpBjqF5l33DBYs7xddTA:1791551429534&q=Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg&udm=8&sa=X&ved=2ahUKEwj-kbeUga2XAxVOFRAIHXNQAhwQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&q=Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Looking for a full time accountant for Hotel",
+      "company_name": "Confidential",
+      "location": "Dehradun, Uttarakhand",
+      "via": "OLX India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=HY2EiBiDcGNuUq1EAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3LPQ7CMAxAYbH2CExeWBBqEBILjIBgYGWu3NRNQlO7SlypI3fgGNyKk_CzvOXTK16z4nQV6QI7aCUBQjvGCBp6ArRWRlZk_dNFlCK8H0-4Sw2ZMFkPwnAWcZHme6865J0xOcfSZUUNtrTSG2GqZTLfKf9SZY-JhohK1Wa7nsqB3XJxEG5DQ6wBIwSGI_mEzcgruKliws4jNx9On8w-rgAAAA&shmds=v1_ARwrE20RF853PyqOflyEI7pNj6Ofo-gUhRNp-dBCJ_aORgPjmQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=HY2EiBiDcGNuUq1EAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.olx.in/item/accountant-c1441-full-time-in-anupam-vihar-dehradun-iid-1857890413",
+      "job_title": "Looking for a full time accountant for Hotel",
+      "description": "Looking for a full time experienced accountant for hotel accounts ... should be able to file GST - TDS maintain proper accounts immediate joining",
+      "apply_options": [
+        {
+          "title": "OLX India",
+          "link": "https://www.olx.in/item/accountant-c1441-full-time-in-anupam-vihar-dehradun-iid-1857890413?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-4688054317485438333?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMb29raW5nIGZvciBhIGZ1bGwgdGltZSBhY2NvdW50YW50IGZvciBIb3RlbCIsImNvbXBhbnlfbmFtZSI6IkNvbmZpZGVudGlhbCIsImh0aWRvY2lkIjoiSFkyRWlCaURjR051VXExRUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWFSR1ZvY21Ga2RXNHNWWFIwWVhKaGEyaGhibVFzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEhJeU1rbHBSbTk2VVdWbk0zWktkVWxTYkRkdVJETnRSMGh5TjNCSFowNTZlRlJmVFRSTGNHbzNUVEJ6VkRObmFteDRiVFpzZEZoMlNsZE5ZME5RZEY5elRGZE9TVVpwTWxoQmVYcENNR0pNVlZWdFpFdzBlalpQYVU5U1FqbHNPVVpvYTJobGNHODJZblJwU1VSbldGQnlZM2hPT0RaYVVucGxTWEZtVm1JM1JrNUxiMllTRjNobFprbGhjalppU1UwMmNYZFFRVkE0TmtOS05FRkZHaUpCUkhOeU9XWlRabkZtY1VGNGVsbFlhM1JUUW5Oa1FWVk5UbFIwYUdJMGRVcDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJIWTJFaUJpRGNHTnVVcTFFQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Accountant/ Accounts Executive",
+      "company_name": "Kj Jewellers",
+      "location": "Dehradun, Uttarakhand",
+      "via": "Apna Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=GpIrgpRrV4LsEvsnAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3LMQrCQBBAUWxzBKtpbESyIoiglaAIWluHyWbIJq4zYWeiKb2DtZfzJCrYfF7zs9coW229l54N2Rz8rbAfyPfW3Ajejye0UoISJh9AGA4idaTxJph1unZONea1Glrjcy9XJ0ylDO476S-FBkzURTQqFsv5kHdcTyenFo50pxgpKTQMOwoJq55ncDbDhJeAXH0AojylT6AAAAA&shmds=v1_ARwrE23q7LGRY0v06f8zVUlOkSN1DQ0TW4azwjGV5lOuULyGnQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=GpIrgpRrV4LsEvsnAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAApVBMVEX___-DveQAAABNOVErt5P_0WZKNU56ueIHsov_zllkVGdIMkx9cX86Hz_m5uZAKEVELUhUu7F7vOndzJf_0WE4Gz12aXnDw8Ph3uE1Fzu_usDt6-2AgICTlJTy8vLHw8hbSl_SztO0rrWFeof_2GkxpYfhu2GimqSpoqoxDjZqXG1UQliMgo6akpwsADFEtqsocV6Xf0X0yWUfX04pjnTDolSCbjydLezGAAAB-ElEQVRIie3X35OaMBAH8K3boy0RNvUuSEAJop4K2N711___p3WDMgJ3D5CXe_H7kGFCPgObOMwKs0tWyxBGJFyurgCacT0GtVnfYDzFAcQtzKY5gOwCRxXXT2jhpPrarBm6OGC2coMrWLrBJThsjY0ju-eeD0xsEnP79qSJuX1QTHK5ESeJSQfsQIqIVM7zOVF01EQ6AYiI_A3fOBUA8yDgK132YRJIIkRRAfgeekQeok5hLuw1IgYAZ5IkEeW8L_ODSSpEFTfQT0oP5aGBWDBUIcTl0RQs9dsyDxJpY2GQwobQKy3kmYhnruXzpeqXmUT8PGxhBqlCrCxkEjUjFGWzRPU-w1EgpJIdmOk-DHnTPFJiAI1CUWe3V80gDtDLOzA9EsojbEUfHhvSrZFnRN2FWzvYiV6NBW95XksPRWQhVlt-bbXpwlrybs3teZw7MFO8WpIvZd1A4lqID2wuhWbIYxif-JiklwsqupsT51pXBrbaWCgKTwc1T5-jqAyh5jEFg1r7cRr9GPzqsrbm666-PebbkvdzgQ5xhrlWJye4CZ3YPR8b5-bBuV1xbpBmX4f5ufgyyOLx2yBP3Mu9fB7k-6dhFo9PD73sXm3buZ8Md8-XRncq3P1qW-v9JGif1zbzL-Ph7uG18y9gNvv9Zz8GPv_9dwX_AYSuLmToEcXbAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "4 days ago",
+        "₹10K–₹25K a month",
+        "Full–time"
+      ],
+      "source_link": "https://apna.co/job/dehradun/accountant-accounts-executive-617008575",
+      "job_title": "Accountant/ Accounts Executive",
+      "description": "Responsible and genuine person billing and cash handle bank reconciliation",
+      "apply_options": [
+        {
+          "title": "Apna Jobs",
+          "link": "https://apna.co/job/dehradun/accountant-accounts-executive-617008575?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50LyBBY2NvdW50cyBFeGVjdXRpdmUiLCJjb21wYW55X25hbWUiOiJLaiBKZXdlbGxlcnMiLCJodGlkb2NpZCI6IkdwSXJncFJyVjRMc0V2c25BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lhUkdWb2NtRmtkVzRzVlhSMFlYSmhhMmhoYm1Rc1NXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNuTmhSVWxtUTFVdFJraFpXbFJ2Tm5rMVIyNTRUMnQxYUdkSFRsOHpjRXhsVXpaalNWOVFTR2hLT1ZWcWFrY3lhR1JvY2taVlduWlZNMUYxV25vdFVHMDNTSEpSV1ZaTlNIVjZPRTgwY0hjelYxWnRSSEoxU3kxNE9VWklOMGhHVFhKclgyOUdWbEZmU25kamJrdEJlbWRtY25sU1ZVOTNNRWhCUWt0SGFHVnBURGgxWVVrU0YzaGxaa2xoY2paaVNVMDJjWGRRUVZBNE5rTktORUZGR2lKQlJITnlPV1pVT1hOeFRXRTJVbDlHUVZGSVJubFNXV0pVYUZvNFluY3dUM1JCIiwiZmN2IjoiMyIsImZjX2lkIjoiR3BJcmdwUnJWNExzRXZzbkFBQUFBQT09In0="
+    },
+    {
+      "title": "Accountant",
+      "company_name": "Chica",
+      "location": "Dehradun, Uttarakhand",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=QTBrLJ0C61WNaAK5AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQoCMRAAQGzvCRayYCeSiGCjlSj4AutjLxey0XM3ZPfgSvEL_tCXqM1007xmzfIYgoxsyAaf5xtu0oFGrIFAGC4iaYjzA5kV3XuvOrikhpaDC_LwwrGTyf-S_mmVsMYyoMV2u9tMrnBaLU6UA0JmOEeq2I-8hqsZVrwTcv8Fhm5TZIUAAAA&shmds=v1_ARwrE22o3rhmUsn_x8-9YTWLn6AKenmJle0ghtedAT9Qrjz2DA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=QTBrLJ0C61WNaAK5AAAAAA%3D%3D",
+      "extensions": [
+        "14 days ago",
+        "₹11,034.44–₹20,000.00 a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/wXmpgne8AO_oaNaYHVV9a5ee1BGFeaVPPEWUDrxWWOfEJAWzvYh0mA",
+      "job_title": "Accountant",
+      "description": "Requirements:\n\nMust have restaurant experienceMust have experience working on POS (Point of Sale) systems.Knowledge of billing, cash handling & daily cash reconciliationBasic accounting and maintaining daily sales recordsResponsible, accurate and trustworthyImmediate joining preferredPosition: Accountant\nIndustry: Restaurant\n\nPay: ₹11,034.44 - ₹20,000.00 per month\n\nBenefits:\n\nFood providedWork Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/wXmpgne8AO_oaNaYHVV9a5ee1BGFeaVPPEWUDrxWWOfEJAWzvYh0mA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiQ2hpY2EiLCJodGlkb2NpZCI6IlFUQnJMSjBDNjFXTmFBSzVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lhUkdWb2NtRmtkVzRzVlhSMFlYSmhhMmhoYm1Rc1NXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWUkZNRE5uUmpWWFdqRkpNa2hsZURsM2JrNUNSWGRIYXpoR2FHTkRhRE40VjBSSVJGRnJVMFpaTjA1ZlUzSlpjVXR4Y21SelkxOUVTVGRHTkMxa09XRXdPSFo1WW05M00wUnhlV3d5Y1ZwSk0zaGtabVpMU2xkWVIyUmpSbk5WVEdSbk5Gb3dMVUZNVURoRlJUaHZTVVUyVDFGMVZqZDBlV0pDTjJSWFRITlZXR2xDVURJU0YzaGxaa2xoY2paaVNVMDJjWGRRUVZBNE5rTktORUZGR2lKQlJITnlPV1pSWDBSU1kzRlhjMVpEU1ROQ2JraG5lREJGU1hadVZVSkpORXRuIiwiZmN2IjoiMyIsImZjX2lkIjoiUVRCckxKMEM2MVdOYUFLNUFBQUFBQT09In0="
+    },
+    {
+      "title": "Part-time Accountant",
+      "company_name": "Creaters India Private Limited",
+      "location": "Gautam Buddha Nagar, Uttar Pradesh",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=Cy4uAFjHcXAiBIEuAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNTQrCMBCFcdsjuJq12EYEN7ryB0QQ6cZ1mSZDE2mSkplKl97Bm3gkT2LcPHgf7-MVn1lR1pikFOcJ9lrHMQgGge_rDY_YAhMmbSEGOMfY9TTfWZGBt0ox91XHguJ0paNXMVAbJ5Ul_kfDFhMNPQo1681qqobQLU7HRBkkhkswDqFO7pk7XJ13QgZcvsFR0MNhNMYi3LDDtIS7CKa8RkNsfy1QVqO1AAAA&shmds=v1_ARwrE21RtDD_LbnXkiPy49_c3ll1BBSsXQPK7lSL-D7GXmUNCg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=Cy4uAFjHcXAiBIEuAAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "₹8.5K–₹10K a month",
+        "Part-time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/OQUopLSw4ieOtRGVV_WnWuuVDzNZmUJtTubPy4QBABqZdWzKq_pkTg",
+      "job_title": "Part-time Accountant",
+      "description": "Creaters India Pvt. Ltd is the company behind Playtoons, a growing brand dedicated to manufacturing and retailing high-quality, BIS-certified soft toys. We are looking for a detail-oriented and reliable Part-Time Accountant to join our Greater Noida team to help maintain our financial health as we scale our domestic manufacturing, retail presence, and offline distribution channels.\n\nKey Responsibilities:\n\nInventory & Cost Accounting: Track raw material purchases (fabrics, stuffing, trims), work-in-progress, and finished soft toy inventory. Reconcile physical inventory with system records and track manufacturing costs.Bank Reconciliation: Perform weekly and monthly bank reconciliations to ensure accurate cash flow tracking.Invoicing & Billing: Process B2B invoices for offline retail buying managers and distributors, ensuring all commercial terms and pricing structures are accurately reflected.Financial Reporting: Prepare basic monthly P&L statements and assist in the preparation of documents for annual statutory audits.Pay: ₹8,500.00 - ₹10,000.00 per month\n\nBenefits:\n\nFlexible scheduleWork Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/OQUopLSw4ieOtRGVV_WnWuuVDzNZmUJtTubPy4QBABqZdWzKq_pkTg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/part-time-accountant-creaters-india-private-limited-gautam-budh-nagar-uttar-pradesh--t7xk-871821631?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQYXJ0LXRpbWUgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkNyZWF0ZXJzIEluZGlhIFByaXZhdGUgTGltaXRlZCIsImh0aWRvY2lkIjoiQ3k0dUFGakhjWEFpQklFdUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWFSR1ZvY21Ga2RXNHNWWFIwWVhKaGEyaGhibVFzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEVWTE1GODJUVVp3ZEc1SlNXdEtNbE0zTFhkVVpVeHRkMjU0ZFRaMFNuQnZVRkphTTFrek5VdzBVblV5Wms1Rlgxb3RlR1E0YkRaTmRrMU9PVEkyZG1vdGVFdElSR1ZPUVVkUU1qUXRUVlkxY2xseFZtTmpXbmhHVmpSQlIybFhiV3gyYzJWSWVHSlFWekpUYW0xWVdWUlFXVU5yU2xwcU5HNHlkbGRZVDBaM04zbDVibXNTRjNobFprbGhjalppU1UwMmNYZFFRVkE0TmtOS05FRkZHaUpCUkhOeU9XWlVTVlZaUWxod1NXZ3hUQzFUTW1ORlNrMW5OWFJpZDE5UE5XVkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJDeTR1QUZqSGNYQWlCSUV1QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Chartered Accountant in Real Estate and Construction",
+      "company_name": "Building Services Design & Energy Institute - MEPa2z",
+      "location": "Meerut, Uttar Pradesh",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=Cjcdvdvy-g5m9Nq2AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMU4DQQxFRZsjULmiQLCLIqWBCpIVolgpIkodObPW7KCJvbI9KFBxB46XjpMw2_ziS-__t7hcLfr1iOqkNMBzCFLYkR0Swzthhs4cnQB5gLWwuZbgSRj-fn7hQ45ghBpGqM2rSMx0_TS6T_bYtma5iTOdQhPk1ArTUc5thWyOg9VbmnJdPyxXD-dm4njbv5SUh8QRdqSfKZDBhixFhhvomDR-wVuVSF6q0z303RaX37NrT6TF72DvjgpbxYFs_Ae8jAfx3gAAAA&shmds=v1_ARwrE22fjQDGy5IhaASRrdZ31f66haImS8NQ5V8FFou9bTWkVA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=Cjcdvdvy-g5m9Nq2AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e7c4dbb9ff52fcbbc92e/images/DtwtVHAy4eP0H2hwoepS7uwkzxkb2hKV--w-5dM2SAo.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/chartered-accountant-in-real-estate-and-construction-at-building-services-design-energy-institute-mepa2z-4475197277",
+      "job_title": "Chartered Accountant in Real Estate and Construction",
+      "description": "We are seeking a skilled Chartered Accountant with expertise in the real estate and construction sectors to join our team in the Delhi-NCR region. The ideal candidate will have a strong background in financial management, compliance, and reporting, specifically tailored to the unique challenges of the real estate and construction industries. As a Chartered Accountant, you will be responsible for managing financial records, preparing financial statements, and ensuring compliance with relevant regulations. You will play a crucial role in budgeting, forecasting, and financial analysis, providing insights that will drive strategic decision-making within the organization. Key responsibilities include: - Preparing and reviewing financial statements and reports in accordance with accounting standards. - Conducting audits and ensuring compliance with tax regulations and financial reporting requirements. - Collaborating with project managers and stakeholders to provide financial insights and support for ongoing projects. - Assisting in the preparation of budgets and forecasts, monitoring financial performance against targets. - Advising on financial implications of business decisions and strategies within the real estate and construction sectors. The successful candidate will possess strong analytical skills, attention to detail, and the ability to communicate complex financial information clearly. Proficiency in accounting software and a solid understanding of financial regulations in the real estate and construction industries are essential. If you are a proactive and detail-oriented Chartered Accountant looking to make a significant impact in the real estate and construction sectors, we encourage you to apply for this exciting opportunity.\n\nThis job is provided by Shine.com",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/chartered-accountant-in-real-estate-and-construction-at-building-services-design-energy-institute-mepa2z-4475197277?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/chartered-accountant-in-real-estate-and-construction-building-services-design-energy-institute-mepa2--fj-2401563368?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8568269537860911104?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDaGFydGVyZWQgQWNjb3VudGFudCBpbiBSZWFsIEVzdGF0ZSBhbmQgQ29uc3RydWN0aW9uIiwiY29tcGFueV9uYW1lIjoiQnVpbGRpbmcgU2VydmljZXMgRGVzaWduIFx1MDAyNiBFbmVyZ3kgSW5zdGl0dXRlIC0gTUVQYTJ6IiwiaHRpZG9jaWQiOiJDamNkdmR2eS1nNW05TnEyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJYVJHVm9jbUZrZFc0c1ZYUjBZWEpoYTJoaGJtUXNTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURUZzY0RkNk1qWkVSMW96UldobWNtZFZSVkY1WlhsSVJITXlZVTU1TlRoMVNHeFNSa1ZNTW1GNE9FOWZaVmxWYzBsRk55MTNTRGhrYzNaek9XeFRkRWRZVEZaUmFHNDRVV2hxUjFCWGFFTnFaVzVsUlRodVNuUlZSM2RmWDI5UFN5MW5VR1ZsU2swelVqa3lkbWhUVVU1SmJUTnFVVXBWZVZSdWVXbDNOVms0VTJKMU1sb1NGM2hsWmtsaGNqWmlTVTAyY1hkUVFWQTROa05LTkVGRkdpSkJSSE55T1daU2NqQXlWbE5YVFZNM1RtWXlhbGgzUTNWUE4wNVpOV1JzVVUxMyIsImZjdiI6IjMiLCJmY19pZCI6IkNqY2R2ZHZ5LWc1bTlOcTJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "R2R Accountant",
+      "company_name": "Career Craft Consultants",
+      "location": "New Delhi, Delhi",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=xjPwBxaBAyGlDT7iAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNMQrCQBBFsc0RrKYTJGQlYKOVrGBnkQuEzTLuRtaZsDPBlN5BT-hJTLD5Dx48fvFZFZumbuDkPY-kjhS-rzfcuQNBl30EJrgwh4TrY1Qd5GCMSKqCqNPeV54fhgk7nswcyTKtRJdxSE6xrfe7qRoobEs7O8xgs7spWCYZ03In0BNc8QlnTLEv__gBOHgmaJcAAAA&shmds=v1_ARwrE20E9SrDk9qhlF_QhCRCSa-JyJ0bqItUlbNCk1PL6-bDxg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=xjPwBxaBAyGlDT7iAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e7c4dbb9ff52fcbbc92e/images/4bGJJX2Zbgs3V-q-PsdeUcA_9dw4X0S8-e3yClnZwGE.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/r2r-accountant-at-career-craft-consultants-4474693129",
+      "job_title": "R2R Accountant",
+      "description": "We are seeking a detail-oriented R2R Accountant to join our finance team in the Delhi-NCR region. The ideal candidate will be responsible for managing the Record to Report (R2R) process, ensuring accurate and timely monthly closing activities. This role requires proficiency in SAP and a strong understanding of accounting principles to facilitate effective financial reporting and compliance. Key Responsibilities: - Oversee the monthly closing process, ensuring all financial transactions are recorded accurately and in a timely manner. - Prepare and review journal entries, reconciliations, and financial statements to ensure compliance with accounting standards. - Collaborate with cross-functional teams to gather necessary data for financial reporting and analysis. - Assist in the preparation of monthly, quarterly, and annual financial reports. - Identify and implement process improvements to enhance the efficiency of the R2R process. - Support audits by providing necessary documentation and explanations as required. Required Skills: - Strong knowledge of R2R processes and financial accounting principles. - Proficiency in SAP for financial reporting and analysis. - Experience with monthly closing activities and financial reconciliations. - Excellent analytical and problem-solving skills. - Strong attention to detail and ability to work under tight deadlines. - Effective communication skills to collaborate with various stakeholders. If you are a motivated individual with a passion for finance and accounting, we encourage you to apply for this exciting opportunity to contribute to our team.\n\nThis job is provided by Shine.com",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/r2r-accountant-at-career-craft-consultants-4474693129?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/r2r-accountant/career-craft-consultants/19715944?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSMlIgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkNhcmVlciBDcmFmdCBDb25zdWx0YW50cyIsImh0aWRvY2lkIjoieGpQd0J4YUJBeUdsRFQ3aUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWFSR1ZvY21Ga2RXNHNWWFIwWVhKaGEyaGhibVFzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzJ4RFpFOTZjbk55TjB4eFlsaHBOa1owTlZsdFpXUm5RMnBEZVVjMlEyVjRWMlpzWkcxNWQxRTBUSEIyWDB4WlQwTjZhSFpTV1MxVWExSnNkMVp5UkRoV0xXNW1kVXB6TW10MFpXUTNkSHA1Y1U1eWFuSnNUV0ZFVTFNNGRHSmhlbnBZUVRsS1JYcFNUMGRFYzFSaVFXeDRjM1l3WVdaVFJFY3lTbll0YW05RVVIQm9aVWtTRjNobFprbGhjalppU1UwMmNYZFFRVkE0TmtOS05FRkZHaUpCUkhOeU9XWlJSSGxxVWtsSU1qVXlVbVZ6VlVKdVVFTjVhWGsxWTJST1kxVkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ4alB3QnhhQkF5R2xEVDdpQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Accountant",
+      "company_name": "Jobwala99.com",
+      "location": "Zirakpur, Punjab",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=HBZ3MqHvRef3d1VCAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU4nbiKNCA7VyUlwcnYplxCS1vQu5K7Y0cUv8A_9Eu3ytle9F9X67ByPpEgK39cHerYgHouLwAQX5pD88hRVsxyNEUl1EEXtXO14MEze8mT-SWZaiVh8Tqi-3R92U50pbFZXtk9M2DRzgY7g3hV85LFs4TZSj_YHZyPBwogAAAA&shmds=v1_ARwrE23zqunfdG5GBF410zVJKfvXQssBTmsjG8cAT_S9U9HBlA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=HBZ3MqHvRef3d1VCAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "₹20K–₹25K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/accountant-accountant-job-in-jobwala99-com-zirakpur-chandigarh-2-to-3-years-1791195807-8464610-jid",
+      "job_title": "Accountant",
+      "description": "We are looking for an Accountant to join our team at at Jobwala99.com. The role involves managing financial transactions of the organization, preparing accurate reports, and ensuring compliance with tax regulations. The position offers ₹20,000 - ₹25,000 and opportunities for professional growth.  Key Responsibilities:\n\n    Ensure timely tax filings, computations, and compliance with regulatory requirements.   Securely manage and back up financial data while maintaining confidentiality.   Prepare accurate financial statements, balance sheets, and profit/loss reports.   Oversee daily financial transactions, including accounts payable, receivable, and reconciliations.   Job Requirements:\n\n A perfect candidate for this role should have a keen eye for numerical accuracy. The minimum qualification for this role is Graduate and 2 - 3 years of experience. Applicants must have knowledge about accounting and GAAP (Generally Accepted Accounting Principles).It is a Full Time Accountant job for candidates with 2 - 3 years of experience.More about this Accountant jobPlease go through the FAQs to get all answers related to the given Accountant jobWhat skills and experience do you need for this Accountant job?\nAns :   To apply for this Accountant job, candidates should have skills like Balance Sheet, Book Keeping, Cash Flow, GST, MS Excel, Tally, Tax Returns, TDS along with 2-3 years of experience.\n\nHow much can you earn in this position?\nAns :   You can earn between ₹20,000-₹25,000 per month in this Accountant position.\n\nWhat are the working days and timings for this job?\nAns :   This Accountant job has 6 days working days and timings from 09:30 AM - 06:00 PM.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Zirakpur, Chandigarh.\n\nHow many openings are available for this position?\nAns :   There are 2 openings available for this position.\n\nWho can apply for this job?\nAns :   Candidates who have a Graduate and above qualification with 2-3 years of experience can apply for this Accountant job. Only female candidates can apply.\n\nWhat work will you do in this role?\nAns :   As a Accountant, you will work on skills like Balance Sheet, Book Keeping, Cash Flow, GST, MS Excel, Tally, Tax Returns, TDS.\n\nWhere is this job located?\nAns :   This Accountant job is located in Zirakpur, Chandigarh.\n\nWhat kind of candidate is ideal for this job?\nAns :   A candidate with skills like Balance Sheet, Book Keeping, Cash Flow, GST, MS Excel, Tally, Tax Returns, TDS along with 2-3 years of experience is ideal for this Accountant job.\n\nWhy should you apply for this Accountant job?\nAns :   This Accountant job offers a salary between ₹20,000-₹25,000 per month. This is a Full Time opportunity and has 2 openings available.\n\nCandidates can call HR for more info.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-accountant-job-in-jobwala99-com-zirakpur-chandigarh-2-to-3-years-1791195807-8464610-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/AJxnkCelV8NHoQ5v7Xne_nsC_XYqBMyZWocSEPslqKZMXY6Azv59nA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/accountant-vashist-consultancy-zirakpur-punjab--t7xk-819943120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/1727552392536260608?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CallCenterJob.co.in",
+          "link": "https://callcenterjob.co.in/accountant-zirakpur_821775?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NiyukJobs | AI",
+          "link": "https://niyukjobs.ai/jobs-at-discount-store?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiSm9id2FsYTk5LmNvbSIsImh0aWRvY2lkIjoiSEJaM01xSHZSZWYzZDFWQ0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWFSR1ZvY21Ga2RXNHNWWFIwWVhKaGEyaGhibVFzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xwTFNuaHFVazlUTFcxak9ITkJjRFF5VkZGR1ZETkJUR3c0VVVwdGFGcEJaSGMyZEVSNFNHWTViazFhY0habFRIZDJSWHBGU1Zwa1VFNW1iVWRSYmtkNVdFdDNiREJKZVZZNFQwcGxhR1JYUzA1a2NVUkNWRTlDTVZaeFZpMU1NV2R0UzBnMExWRjBRVVpHZUZWR1VrcHBiMkpPVDNGWFVGQjVjMFYyYnpOaFVITndNV2dTRjNobFprbGhjalppU1UwMmNYZFFRVkE0TmtOS05FRkZHaUpCUkhOeU9XWlJRV2xUWVU5ZlJtbFFUMDFEU1VwTWJ5MVNVbXBqVkUxelMyVm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJIQlozTXFIdlJlZjNkMVZDQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Semi Qualified Chartered Accountant (MIS & FP&A)",
+      "company_name": "5-Curves Business Ventures Private Limited",
+      "location": "Haryana",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=RPVVqhUTW0jzbjp9AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOvYoCQRCEMfURjDoSFdwVYRMvUsEfUPAQTKWda3dbdnuW6R7RzHfwge5d7kluTIqi-Iqq7m-nuz1Sw_AdseYr0w8sKwxGIbm5cz6KoRgM9tsj9GF16M-H8Pd6w81fQAmDq8ALrL0va-p9VWatzvJctc5KNTR2mfNN7oUu_pGnkn7krGmD2hqNztNi8shaKUdFMV7GcCeFRVQWUoUTicWQkkPge4Jhxw1besYCGwxPFPwHMswdAcIAAAA&shmds=v1_ARwrE20_dRMAwtZV0Npjzj7rvPDfxxXqPY9YJZ2UGyaPSvCdnw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=RPVVqhUTW0jzbjp9AAAAAA%3D%3D",
+      "extensions": [
+        "6 days ago",
+        "₹25K–₹40K a month",
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=3fae9109207937bc",
+      "job_title": "Semi Qualified Chartered Accountant (MIS & FP&A)",
+      "description": "We are looking for a Semi Qualified Chartered Accountant (CA Inter) to join our finance team in Gurgaon. The role focuses on MIS reporting and FP&A support, and suits someone who is comfortable using AI tools to work faster and smarter. Freshers who have completed their articleship are welcome to apply.\n\n\nKey Responsibilities\n\n\nPrepare monthly, quarterly and annual MIS reports, including P&L, balance sheet and cash flow summaries.\n\n\nSupport FP&A activities: budgeting, forecasting, variance analysis and management dashboards.\n\n\nAnalyse financial and operational data and highlight trends, risks and cost-saving opportunities.\n\n\nAssist with month-end closing, reconciliations and schedules.\n\n\nUse AI tools (e.g. ChatGPT, Claude, Copilot) to automate reports, speed up analysis and improve accuracy.\n\n\nCoordinate with business teams to collect data and present insights to management.\n\n\nRequirements\n\n\nSemi Qualified CA (CA Inter cleared, articleship completed).\n\n\n0-1 year of post-articleship experience; freshers are welcome.\n\n\nGood understanding of MIS preparation and FP&A concepts.\n\n\nStrong MS Excel skills (pivot tables, lookups, charts); exposure to Power BI or similar tools is a plus.\n\n\nWorking knowledge of AI tools and a keen interest in applying them to finance work.\n\n\nGood accounting fundamentals; familiarity with Tally, Zoho Books or any ERP is an advantage.\n\n\nStrong analytical, communication and presentation skills.\n\n\nJob Details\n\n\nLocation: Gurgaon, Haryana (work from office)\n\n\nJob type: Full-time, Permanent\n\n\nSalary: Rs. 25,000 - Rs. 40,000 per month\n\n\nPay: ₹25,000.00 - ₹40,000.00 per month\n\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=3fae9109207937bc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/3Hi-uqhkZ-iBtVKJkgc4J8atkoiDR3wg6PAwiFndPWnI3wXeL59_eg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW1pIFF1YWxpZmllZCBDaGFydGVyZWQgQWNjb3VudGFudCAoTUlTIFx1MDAyNiBGUFx1MDAyNkEpIiwiY29tcGFueV9uYW1lIjoiNS1DdXJ2ZXMgQnVzaW5lc3MgVmVudHVyZXMgUHJpdmF0ZSBMaW1pdGVkIiwiaHRpZG9jaWQiOiJSUFZWcWhVVFcwanpianA5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJYVJHVm9jbUZrZFc0c1ZYUjBZWEpoYTJoaGJtUXNTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVTlFWVhCNVUzRTJVV3RUU1hsSFZqaGhkRUV3VG10dmRscEVZVWd5YUdWakxUVnZhMEZJT1d0dk56TkVWbEo0TWxCc1dIRk9iVVZCV2pGck5scDRUR2REUW05WVN6STNkRXRvV2tSc2REVlBRakJKWTJweFpEUjVZbU41TW5odVdXZHhjREp1WW0xbFIxVjRRakI1WWs5U1oybFpaWFZ2TjI0MGRrRk5TRTVrT1dWd2FtVVNGM2hsWmtsaGNqWmlTVTAyY1hkUVFWQTROa05LTkVGRkdpSkJSSE55T1daUlVFRkVkblJRWkdOcWFXNW9WMkYyTkVKVk9USnRPVzFpV1dGUiIsImZjdiI6IjMiLCJmY19pZCI6IlJQVlZxaFVUVzBqemJqcDlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Supply Chain Accountant | Noida, IN | Hybrid",
+      "company_name": "Aristocrat",
+      "location": "Noida, Uttar Pradesh",
+      "via": "EFinancialCareers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=pdcYCopx2ROKZN0BAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2OMQrCQBBFsc0RrAZLkawINloFEbUJgliHyWbJrqw7y84EErDwDl7Cc3kSI9h8XvN4P3tPsv2li9EPsLPoAhRaUxcEg8ADSnINLuBUjnwc6uQa-DxfcKMa2GDSFijAgaj1Zrq1IpE3SjH7vGVBcTrXdFcUTE29GiX-TcUWk4kexVSr9bLPY2jnsyI5FtIJBcYT_-5VBBOcEzaG7RfrGjOiqwAAAA&shmds=v1_ARwrE22RFh_F6JszthKv5z8cW0Ji765yzzX3s2jQ60UgT0A4fQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=pdcYCopx2ROKZN0BAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAbFBMVEUHLEr___8ADjkABjbZ2djV19kAJ0cAADEAJkcABTIAKkkAI0UAGD4AETtyeYKtsLTMzMzCxMXp6uoAHkIAFzcAHzrx8_Q7SFkACzO1t7oqOU0iNUsAGzm6vb9RWmaOkpifo6dHUmB6gYhjbHcl8-dEAAABMElEQVRIie2W27aCIBCGBQ-IQqGkqB2sfP933Fhrt9rGDNhde_Xdf-uf4TAQRV_-M0UpJKVSlMUqLZPNZqvSVG03jczC06ipyIPK0MDUrOvJH_ouKLQcarKg3pd-Lx-W2syQ-7zi8JJ3yzz4-oyPLo-QI_UUenJ7hJzwYmkKiQqNLJwrc2ePdalHWBw1IsoKFiuJiMy5F3fq-F2RY2KLiOzdREykChYVtjj6DItnbDvyCyxe0EvJwSbRFm2tV0i8YpVaWOL2EjzQDhzjFgfv2NGTy5s8hc4IhzkJv2czzWJpaxOQN5Pz8enMtiP3jrhfCt1N_S227qdOr3k-7JvDdk2zYyJgFL_IlvXWWmgMgo5HoRIQhe0lR0ZHi53WDxKF_TBAoIsT2S8KRNAF-fJp_AD2YhBY5_qOCgAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "1 day ago",
+        "₹7,93,977–₹14,74,530 a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.efinancialcareers.com/jobs-India-Noida-Supply_Chain_Accountant.id24867044",
+      "job_title": "Supply Chain Accountant | Noida, IN | Hybrid",
+      "description": "At Aristocrat, we are passionate about crafting world-class gaming experiences that entertain millions of people across the globe. Our mission is to lead by example in the global gaming industry, encouraging an inclusive and innovative culture that values outstanding talent and creativity. Aristocrat is looking for a Supply Chain Accountant to join our outstanding team! This role is a critical part of our Global Supply Chain Finance team and will support the financial accounting of our integration centers. \r\n \r\nWhat You'll Do \r\n \r\n• Perform month-end close activities including preparation of journal entries, Balance Sheet reconciliations, and account analysis. \r\n \r\n• Prepare and upload annual standard costs into Microsoft Dynamics 365 \r\n \r\n• Monitor and analyze integration center costs, standard costs, and production variances, providing regular performance reporting and insights. \r\n \r\n• Provide accounting guidance to both accounting and non-accounting colleagues \r\n \r\n• Support personnel at integration centers and their associated business unit management with ad hoc accounting information and analysis \r\n \r\n• Prepare audit support and documentation for internal and external auditors \r\n \r\n• Ensure compliance with accounting standards and company policies. \r\n \r\n• Support continuous improvement initiatives within the finance and supply chain departments. \r\n \r\n• Provide insights and recommendations for process improvements. \r\n \r\nWhat We're Looking For \r\n \r\n• Bachelor's degree in Accounting \r\n \r\n• More than 3 years of accounting experience, ideally within a supply chain setting \r\n \r\n• Proven track record of success in financial analysis and reporting \r\n \r\n• Strong knowledge of accounting principles and practices \r\n \r\n• Outstanding analytical and problem-solving skills \r\n \r\n• Excellent communication and collaboration abilities \r\n \r\n• Proficiency in accounting software (Microsoft Dynamics 365 preferred) and Microsoft Office Suite \r\n \r\n• Strong Excel skills (pivot tables, xlookups, sumifs, etc.) \r\n \r\n• Capacity to work autonomously and collaboratively with others \r\n \r\n• Diligent with a dedication to maintaining flawless accuracy \r\n \r\n• Ambitious approach with a drive to compete and excel in a dynamic environment. \r\n \r\nAbout Us: Aristocrat and Aristocrat Gaming \r\n \r\nAristocrat is an Australia-based entertainment and content-creation company powered by technology to deliver world-leading mobile and casino games, entertaining millions of people across the globe daily. The Aristocrat organisation includes three prestigious business units: Aristocrat Gaming, Product Madness, and Aristocrat Interactive. As an award-winning organization, we thank our wonderful people for earning us numerous prestigious honors and recognitions. \r\n \r\nAristocrat understands that keeping you engaged and excited about your professional setting is the ultimate fuel for our success and creativity, and we strive to keep your best interests our top priority. In addition to competitive pay, we're proud to offer world-class benefits, flexible work environments, and a workplace that is unparalleled. Apply today and take your career on a journey of fascinating tomorrows. \r\n \r\nAristocrat is proud to be an equal opportunity employer. \r\n \r\nWe celebrate diversity and do not discriminate based on gender, race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability status, or any other applicable characteristics protected by law. Diversity and Inclusion are integral to our values of Talent Unleashed, Collective Brilliance, Good Business, Good Citizen, and It's All About the Player. \r\n \r\nAdditional Information \r\n \r\nDepending on the nature of your role, you may be required to register with the Nevada Gaming Control Board (NGCB) and/or other gaming jurisdictions in which we operate. \r\n \r\nThis job description may have been reviewed and enhanced using AI-assisted tools to improve clarity, consistency, and inclusivity. All final content, role requirements and hiring decisions remain subject to human review and approval by Aristocrat. \r\n \r\n Compensation Philosophy \r\nWe offer a comprehensive pay and benefits package designed to stay competitive in the market, support your wellbeing, and recognise your contribution to our success. Our approach is underpinned by a pay-for-performance belief in rewarding individual impact. Your specific compensation package will be determined by factors such as your skills, experience, qualifications, and location. \r\n \r\nDepending on your role and location, you may be eligible for annual bonuses and incentives, health and wellbeing benefits, paid time off, retirement plans, insurance coverage, and other local or statutory benefits. \r\n \r\nSpecific details about compensation and benefits for this position will be discussed during the recruitment process.",
+      "apply_options": [
+        {
+          "title": "EFinancialCareers",
+          "link": "https://www.efinancialcareers.com/jobs-India-Noida-Supply_Chain_Accountant.id24867044?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdXBwbHkgQ2hhaW4gQWNjb3VudGFudCB8IE5vaWRhLCBJTiB8IEh5YnJpZCIsImNvbXBhbnlfbmFtZSI6IkFyaXN0b2NyYXQiLCJodGlkb2NpZCI6InBkY1lDb3B4MlJPS1pOMEJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lhUkdWb2NtRmtkVzRzVlhSMFlYSmhhMmhoYm1Rc1NXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWcFZaREJFVVRseGNHcGlZWEJUTURSS2MzQk9WM2RuYUd4NlF6ZHhZbnBZZDBSa1EydE5Ta2xMY1V0aU1GbzFlbFJ1YlVWUmRtcHJkRkJqUTFOMk1HOVlSMU5pVG5GM1JFTklaM2hDUzNkMGFGZGhNRmhuVTBRNGJrUldZVUpIYUV4VE4xY3lNM0poVmpoellucHZWRzlETUhkR2FWb3lVMEV3UVMwM1VISk9SSEJIT1hFU0YzaGxaa2xoY2paaVNVMDJjWGRRUVZBNE5rTktORUZGR2lKQlJITnlPV1pTU0Vrd2VHOWtWbmhKVjB0VmVFOVdSVWxqV2s5Wk1UWlhXV0YzIiwiZmN2IjoiMyIsImZjX2lkIjoicGRjWUNvcHgyUk9LWk4wQkFBQUFBQT09In0="
+    },
+    {
+      "title": "Head Accountant, Junior Accountant ,Senior Accountant",
+      "company_name": "RCP Universe Group of Institutions",
+      "location": "Roorkee, Uttarakhand",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=3k-q3licDtfluEeHAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_13LPQrCQBBAYWxzBKupJSQi2GglFv4UIpHUMtmMyWqcCTsTSekdPJXX8CRqJzav-OBFz0G0WxOWsHBOOjZki2HbsZfwQxAf6J9e9wecpQAlDK4GYViJVA0N57VZq7M0VW2SSg3Nu8TJNRWmQvr0M-k3R60xUNug0XEyHfdJy9Voli33kLO_UVCCVZCuBTnBhtW8deaFFTxDJhIuRDHkZhjwUiOXb12-EZ7MAAAA&shmds=v1_ARwrE205Tt-vg8eTPc6zty5H1m1m0I-MdYWJAF1GNzvAOMT2gA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=3k-q3licDtfluEeHAAAAAA%3D%3D",
+      "extensions": [
+        "29 days ago",
+        "₹15K–₹40K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/03uSqZoMqo7BOaXyE9ftOur67ZwxysNs3y6Z-ShO185Rx_EIiH75rA",
+      "job_title": "Head Accountant, Junior Accountant ,Senior Accountant",
+      "description": "Junior accountant- Seeking a detail-oriented and efficient recent graduate to join our finance team as a Junior Accountant. The ideal candidate will have a solid understanding of basic accounting principles and be eager to learn and contribute to daily accounting tasks, including maintaining financial records, performing bank reconciliations, and assisting with financial reporting.\n\nHead accountant-Our Institution is seeking an experienced and dedicated Accountant to manage our company's financial records and transactions. The ideal candidate will be proficient in accounting software, adept at preparing financial statements, and capable of ensuring compliance with accounting standards. They will also play a key role in month-end closing, budget preparation, and managing accounts payable and receivable.\n\nSenior accountant-We are hiring a Senior Accountant to lead our finance department's reporting and reconciliation duties. The successful applicant will have at least 5 years of experience, strong analytical skills, and the ability to prepare timely and accurate financial statements. This role is perfect for a professional with a keen eye for detail who can support strategic business decisions\n\nJob Type: Full-time\n\nPay: ₹15,000.00 - ₹40,000.00 per month\n\nBenefits:\n\nInternet reimbursementWork Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/03uSqZoMqo7BOaXyE9ftOur67ZwxysNs3y6Z-ShO185Rx_EIiH75rA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJIZWFkIEFjY291bnRhbnQsIEp1bmlvciBBY2NvdW50YW50ICxTZW5pb3IgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IlJDUCBVbml2ZXJzZSBHcm91cCBvZiBJbnN0aXR1dGlvbnMiLCJodGlkb2NpZCI6IjNrLXEzbGljRHRmbHVFZUhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lhUkdWb2NtRmtkVzRzVlhSMFlYSmhhMmhoYm1Rc1NXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyaE9aMWxQUW5sSFpIUmxNazVCWW5abE5WcDJiMjgxU2xGNlRrWTFkMWxXZW1KdVdWWTRkbXRhWkcwNU5tRnZkM1pJVWxKNlZWSTBXSEpVYjFKYWNraEtZa2RqYVhKQ2JFbHpVRjlrZDBRNE1WRjVaSGx1ZGt0aloxWlRjMDAwU0hGMGVGbE1iWEpEZUY5UVMyaGFlSGxXU3pkcmRqTjRUalZDUVVSbmEzUnpNMnhQVEcwU0YzaGxaa2xoY2paaVNVMDJjWGRRUVZBNE5rTktORUZGR2lKQlJITnlPV1pSYW1kMldEWm5hMHhyZFhBek5rMXlUa3BCU0ZOVllVSjJSbU5SIiwiZmN2IjoiMyIsImZjX2lkIjoiM2stcTNsaWNEdGZsdUVlSEFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMkZFYTI5cGVGSlZia1V0U1VkblEyWlFObUpyUjFSWGRsODVObXhVTlRGbk9VNVlaR0ZMUmxkWlJqUnZOVFZSVWkxVkxUVmpUREF3WDBOSFFYVlFTM0pEWVdweGFYbFhjRjgwTFdKS2NTMUVWWGxYVUhCbVZpMUxiMGt4UzFSRGFXSlpTREppZURsd1kxRlNVMXBxTmpoV2IwVjRlVWxaUlhFd1JFNXdXR1ZXYTBaUVp6QklVRTFVU3pCTVJEVTBaa296Y1dWU1N6SlhWM0JWWVdWNVpWODNUM1JTVXkxMVozcHNVVzVvVVZjM05TMU1VM2xrUmt0aFYzaEpkRWRxWW1SelVreGFaalo2VEhKVU9VRklaalJWWWtkbGFuQXpTRkJTUVUweWFsOHhWM1l3WTNReGRtMUJWRjlPUld0RlZFcERaR2hOVHpZek9FUnlha2RITkVGc1ZrOTJhMUUyVDIxcVZEYzRkVWh2UW1aTGNVMUNWMTh4WW01bFN6QnZVMjFLWlhwMWRVeHFZV1YwWVhOMlgzQjRXVE5zVWs1cWVFdEJVMkZxVG5sWWQyNWFiemRvUjBwaFUyRmZUVXM1Wm5GbFJrVlZYMWxpVVdWaWVFdG5SSFJaVDNOSk5uSTBWRGRwYjNWV1ZVSkZiMUozV1ZoZmJuQnlWMjl3ZFhkRVMydFhUVkZzV0RGMFowUlpaRU5xZDNWV1YxaEZjbEZhY0ZWSWVteE1aelp2TkhWc1ZHZHdUMmxXTlc4MVprVTVTVFY0UmpWYVIxZFRRa3BGVXpGc1QyNUxOazR3YlRWa1VYQkRPR0ZXVEd0c1NYRjJVRkp1WjAweVYxRVNGM2hsWmtsaGNqWmlTVTAyY1hkUVFWQTROa05LTkVGRkdpSkJSSE55T1daVU1uWldhbGh1Vm1ZMVlXaDZWazVGVFhwd1JtaGFPVlZKV1VaUiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMkZFYTI5cGVGSlZia1V0U1VkblEyWlFObUpyUjFSWGRsODVObXhVTlRGbk9VNVlaR0ZMUmxkWlJqUnZOVFZSVWkxVkxUVmpUREF3WDBOSFFYVlFTM0pEWVdweGFYbFhjRjgwTFdKS2NTMUVWWGxYVUhCbVZpMUxiMGt4UzFSRGFXSlpTREppZURsd1kxRlNVMXBxTmpoV2IwVjRlVWxaUlhFd1JFNXdXR1ZXYTBaUVp6QklVRTFVU3pCTVJEVTBaa296Y1dWU1N6SlhWM0JWWVdWNVpWODNUM1JTVXkxMVozcHNVVzVvVVZjM05TMU1VM2xrUmt0aFYzaEpkRWRxWW1SelVreGFaalo2VEhKVU9VRklaalJWWWtkbGFuQXpTRkJTUVUweWFsOHhWM1l3WTNReGRtMUJWRjlPUld0RlZFcERaR2hOVHpZek9FUnlha2RITkVGc1ZrOTJhMUUyVDIxcVZEYzRkVWh2UW1aTGNVMUNWMTh4WW01bFN6QnZVMjFLWlhwMWRVeHFZV1YwWVhOMlgzQjRXVE5zVWs1cWVFdEJVMkZxVG5sWWQyNWFiemRvUjBwaFUyRmZUVXM1Wm5GbFJrVlZYMWxpVVdWaWVFdG5SSFJaVDNOSk5uSTBWRGRwYjNWV1ZVSkZiMUozV1ZoZmJuQnlWMjl3ZFhkRVMydFhUVkZzV0RGMFowUlpaRU5xZDNWV1YxaEZjbEZhY0ZWSWVteE1aelp2TkhWc1ZHZHdUMmxXTlc4MVprVTVTVFY0UmpWYVIxZFRRa3BGVXpGc1QyNUxOazR3YlRWa1VYQkRPR0ZXVEd0c1NYRjJVRkp1WjAweVYxRVNGM2hsWmtsaGNqWmlTVTAyY1hkUVFWQTROa05LTkVGRkdpSkJSSE55T1daVU1uWldhbGh1Vm1ZMVlXaDZWazVGVFhwd1JtaGFPVlZKV1VaUiIsImZjdiI6IjMifQ%3D%3D&q=Accountant"
+  },
+  "_retrieved_at": "2026-10-09 13:10:28 UTC"
+}

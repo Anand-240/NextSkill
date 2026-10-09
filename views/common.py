@@ -67,6 +67,16 @@ def final_results() -> dict:
     return _read_results((ROOT / "reports/final_results.json").stat().st_mtime_ns)
 
 
+@st.cache_data(show_spinner=False)
+def _read_gap(version: int) -> dict:
+    return json.loads((ROOT / "reports/job_gap.json").read_text())
+
+
+def job_gap() -> dict:
+    """Equal-query listing counts per city; cached by the file's modification time."""
+    return _read_gap((ROOT / "reports/job_gap.json").stat().st_mtime_ns)
+
+
 def pairs() -> list[dict]:
     return saved_pairs()
 

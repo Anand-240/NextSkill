@@ -1,0 +1,269 @@
+{
+  "search_metadata": {
+    "id": "6ac8e792c83b3faeebc075ff",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d4yQzTIOz_jDZliFz8X40n9x0BbGteMXIYyJ_KLoDU8/6ac8e792c83b3faeebc075ff.json",
+    "markdown_endpoint": "https://serpapi.com/searches/d4yQzTIOz_jDZliFz8X40n9x0BbGteMXIYyJ_KLoDU8/6ac8e792c83b3faeebc075ff.md",
+    "created_at": "2026-10-09 13:09:38 UTC",
+    "processed_at": "2026-10-09 13:09:38 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIaRGVocmFkdW4sVXR0YXJha2hhbmQsSW5kaWE&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/d4yQzTIOz_jDZliFz8X40n9x0BbGteMXIYyJ_KLoDU8/6ac8e792c83b3faeebc075ff.html",
+    "prettify_html_file": "https://serpapi.com/searches/d4yQzTIOz_jDZliFz8X40n9x0BbGteMXIYyJ_KLoDU8/6ac8e792c83b3faeebc075ff.prettify",
+    "total_time_taken": 0.91
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Dehradun, India",
+    "location_used": "Dehradun,Uttarakhand,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVxRUVDdUlEUVVwcFZEUjBURzFzVFVabFlrcERiRTlNWDFselNWTjZVbWhCYlRKWlMwZERZM1Z2VHpJd1kzWTVUMkpFY1hSTlYxOUVhRmxMU21WS2NteHVRMmx3TFRaWExYRlBRbmRRUjFwcGNWZ3RUako0YmxaalN6WTJhVkJsVEVGRWJtTk1SbDlOY0Y4dExTMXNXVTlLWjJJMFVHeG5OMlY1VUhCek1YSTFZUzE1VTBaNGNqTkVNMWRSWVhKRmVIcEJZMEZyVTBsRFgyVllVbnBuTFVnelZYWkRPV0pxWDNabVJtYzFSRkJxT1hKWFJXbHBOMlZoYlZSaExUVlpOR3RKV2kxa1QxTTJkV0pJWDFGdFdHbFNaMlV3UlhacmVVZFJTbEY2VkRkYWNYWjNTREJIYTJac2JXcHhTVWxFVFhKNVkwMU1XRkYzWWtSak1GTm9WbkpCZERkNmJqRTBPV3RsUW5WSlMyTTBORTl2WTFSUmJXOWhkM1pxZW0xaWIybFlTWFZzY21WU1VUbFFaalJhVVc0eVV6TkROM3B4ZDNKU1MwZFZVM1ZYYWxReFRsOHRjVVYyWWpWelgyeFVWMmR1Y0VKUE9IVkxRbDlFVWtkNmVHMW5lRTQwUkhGT1dVTnRSVVpqZW10dlgwNTBhR2RSVDNKdGRHbEdkRWhLZVdOd2VrcG5TREUzV2t0aU9IUnlNbTVSTUc1eWR6SjZSR3N3WHpoblRsTkhaRGRYU1UwNVEzQmxhMEpETlRCTE1ETkJMVlpWVVhaT2NHWXpjVzVvVEhWUlFtMXlNM0U0U1hWWU5qTllPRU5QUTBwMU5tRmFZak42VW5oVVFuSkxkMUJDWVdSMFdIY1NGbXRQWmtsaGNETlJUMHRQVUhKMVJWQTVPWEZEV1ZFYUlrRkVjM0k1WmxGWmRGRjZTVXBrWm5GdFdtWm9NMWh1ZVZCcGFscE5WaTB6TjJjIiwiZmN2IjoiMyJ9"
+  },
+  "jobs_results": [
+    {
+      "title": "Data Quality Analyst",
+      "company_name": "Sambodhi Research and Communications Pvt. Ltd.",
+      "location": "Dehradun, Uttarakhand",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=WrAbuxmtFu3s_WAsAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3MPQ6CQBBA4dhyBKupjS7GxEYrIwmNhT-xJgNs2NVlhjCDgc47eBYv5EnExOZ134vek2iRoCKcOgxeB9gRhkEUPs8X3DgHsdgWDpggZa6CnW6daiObOBYJphJF9YUpuI6ZbM59PCL5JROHrW0Cqs1W62VvGqpm6QXrnEvn4Wz_Z6QS9lzXHflifDEJHB9q4KClAU-QWNdi2dEcrqrY4t2N4gvJp_eCuAAAAA&shmds=v1_ARwrE21ZAhJLpXkEtx4eWoj3vi4nsc4SZHb3FTm_FQBmIcfQqA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=WrAbuxmtFu3s_WAsAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAAclBMVEXw_f_w-f_x_v_w-__v__7____w-_70_v_39_efpKT0_P6goKDW3-HFy8zJz9Dy8vKzu7zp9PbP19ja5ebd4-KVmZqkqquvtLSHi4vIyMjXnqHRP0_Y2NjCwsJub2-6wcHVd4HmpavTjJTMpKrYTF777u-JKhiRAAABMElEQVQ4jdWS3XKDIBBGCQQQZBExsrGNJenP-79iF00nyUWd0d40Z2Z3VDwz-wGM77fBNnp7xjfyTOJzoeWNP4h6yj03zhY3YRarqnTOQquJOLWouyVzFpvDJDoTe6yNSRmxPwZYFKthaPqX13AaJe_w-HbMue-TMXVIQS-JzQmHdL6cRpQUimbkXJebUR4Yv2V-QCllZZ3G9H451KNUlI7rK21JGlutWOt0-Vziq5lJbMZxMB-f2SfJcwuQEHwCjBERAoJpO_CRQmdvPN6Lkja0kV8VNdVlD9EHQOeCY87TG_3ryIwOIi3qH1EIe3eOSs1DlqLFMjXTQrEp7hRCkEXFxKMoZtS1foctrv4vcbeRdaIVVltCrBRtrkMmIIqVIiQXodyQleLOajr1DaPe8w0CzBnRC7XwuQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "1 month ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/data-quality-analyst-sambodhi-research-and-communications-pvt-ltd-dehradun--jobmesh-9ddefbbf-04bd-49d3-a973-e6cbdf48b1a4",
+      "job_title": "Data Quality Analyst",
+      "description": "Company Description\nSambodhi Research and Communications Pvt. Ltd. is a knowledge-based organization that focuses on promoting accountability in the public domain. We provide project management, monitoring & evaluation, and research solutions to implementers, governments, aid agencies, and philanthropic foundations.\n\n\nOur expertise lies in evaluating large-scale interventions in sectors such as public health, nutrition, sanitation, renewable energy, livelihoods, and microfinance. We are committed to enhancing evidence-based functioning among development organizations and practitioners through initiatives such as the Community of Evaluators-South Asia (CoE-SA) and the South Asian Journal for Evaluation in Practice (SAJEP).\n\n\nRole Description\nThis is a full-time remote role for a Data Quality Analyst. The Data Quality Analyst will be responsible for ensuring the accuracy and integrity of data through data quality assessments, data governance, and data management activities. The role involves analyzing data, identifying data quality issues, developing and implementing data quality improvement plans, and collaborating with cross-functional teams to ensure data quality standards are met.\n\n\nQualifications\nData Quality and Data Governance SkillsAnalytical Skills and Data ManagementData AnalyticsStrong attention to detail and problem-solving skillsProficiency in data analysis tools and techniquesExperience in data quality assessment and improvementKnowledge of data governance frameworks and best practicesAbility to work independently and remotelyExcellent written and verbal communication skillsBachelor's degree in a relevant field (e.g., data science, statistics, computer science)",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-quality-analyst-sambodhi-research-and-communications-pvt-ltd-dehradun--jobmesh-9ddefbbf-04bd-49d3-a973-e6cbdf48b1a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Blackboardjob",
+          "link": "https://in.blackboardjob.com/detail/a/data-quality-analyst_dehradun_254727448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFF1YWxpdHkgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlNhbWJvZGhpIFJlc2VhcmNoIGFuZCBDb21tdW5pY2F0aW9ucyBQdnQuIEx0ZC4iLCJodGlkb2NpZCI6IldyQWJ1eG10RnUzc19XQXNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lhUkdWb2NtRmtkVzRzVlhSMFlYSmhhMmhoYm1Rc1NXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHZERjV1pZY1hGSE5rVlVka1Z3ZFhGZlZtMDViRGxsU1dwWGFISmFhMGRZVWpWS1gwTXpaVXBDUVhSM1dHZFZkVVZQZERCV1VWZFVWMkl3ZEhGR1ltRjZiUzFvYkVSak5URm5kVkJ6VlVOU2FsYzFVVTlST1cxc1FqTktla1IxTVUxSGMyNWhPVGRhUzNOTVFXRXpibU5WV0UxdVFURnFiMFZLZW5CRFdrNXVla2xGUmpBU0YydDFaa2xoY1ZjMVNFbFhaR3RRU1ZCMmNrUlJaMUYzR2lKQlJITnlPV1pUWkU5alJrNUpkRGRUY3pkelYwTjBjamQxUzNaNU4waHFSbVYzIiwiZmN2IjoiMyIsImZjX2lkIjoiV3JBYnV4bXRGdTNzX1dBc0FBQUFBQT09In0="
+    },
+    {
+      "title": "Hiring: Senior Data Analyst (Dehradun)",
+      "company_name": "System Soft Technologies",
+      "location": "Dehradun, Uttarakhand",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=p00zkJPDi2PFu9rcAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zXNMQ4BURCA4WgdQTUlIrtINKsQySb0Sy1jd7z3eDuzeTMSOndwEldyEhSav_vz9V-9_mobUmBXQEUcJEGJhrBmjHc1GJbkEzZXHsH78YSzHEEJU-1BGDYiLtJg6c06LfJcNWZODS3UWS1tLkxHueXfSX85qMdEXUSjw3wxvWUdu_Gs-jLUQiUngx3VniWKC6QQGP74BPZmmPDikZsPaTe7yrQAAAA&shmds=v1_ARwrE21tAqdw774PKyXS2swphcZVt6dXskCnylY5M_yFsttAIQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=p00zkJPDi2PFu9rcAAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jobrapido.com/jobpreview/6470997974561325056",
+      "job_title": "Hiring: Senior Data Analyst (Dehradun)",
+      "description": "Job Summary:  \n- We are seeking a skilled Data Analyst with expertise in Microsoft Dynamics 365, Power Platform, Dataverse, and Power BI to support enterprise reporting, analytics, and business intelligence initiatives. The ideal candidate will be responsible for gathering, analyzing, and visualizing data from Dynamics 365 and related systems to provide actionable insights that drive business decisions.  \n- The successful candidate will collaborate with business stakeholders, functional teams, and technical teams to develop dashboards, reports, and data solutions that improve operational efficiency and data-driven decision-making.  \n\nResponsibilities:  \n- Analyze business data from Dynamics 365 Customer Engagement (CE), Finance & Operations (F&O;), and Dataverse.  \n- Create and maintain interactive dashboards, reports, and scorecards using Power BI.  \n- Gather and document business reporting requirements from stakeholders.  \n- Develop KPIs, metrics, and analytical models to identify business trends and opportunities.  \n- Design and optimize data models for reporting and analytics.  \n- Extract, transform, and analyze data using SQL, Power Query, and Power Platform tools.  \n- Build automated reporting solutions using Power Automate and Power Platform.  \n- Ensure data accuracy, integrity, and consistency across multiple business applications.  \n- Collaborate with Dynamics 365 administrators, developers, and business users to improve data quality.  \n- Perform data validation, cleansing, and reconciliation activities.  \n- Support data migration and integration initiatives involving Dynamics 365 and external systems.  \n- Provide recommendations based on analytical findings and business insights.  \n- Create documentation and train end users on reports and dashboards.  \n\nExperience:  \n- Bachelor's degree in Computer Science, Information Systems, Data Analytics, Business Analytics, or related field.  \n- 5+ years of experience as a Data Analyst, Business Intelligence Analyst, or Reporting Analyst.  \n- Hands-on exper",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/6470997974561325056?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "India Jobs Expertini",
+          "link": "https://in.expertini.com/job/hiring-senior-data-analyst-dehradun-aspire-jordan-636468215314979536/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340862417/hiring-senior-data-analyst-dehradun?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJIaXJpbmc6IFNlbmlvciBEYXRhIEFuYWx5c3QgKERlaHJhZHVuKSIsImNvbXBhbnlfbmFtZSI6IlN5c3RlbSBTb2Z0IFRlY2hub2xvZ2llcyIsImh0aWRvY2lkIjoicDAwemtKUERpMlBGdTlyY0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWFSR1ZvY21Ga2RXNHNWWFIwWVhKaGEyaGhibVFzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNOWGVsWnhVRXRvTUVwVVltNU1lRTUwZFdkRFdFVm9aR2gzVHpCU09VcDVOR2h4VTJWbmJqTm9jRU5oVEV3M1YwbFZaMHQwVGtkemNtdDRla0p2YW1aamMwNXFkRTEwZG04d1dVeExPVmwxVEZSUllucG5OVWhaUlRKelEycEJNMHhpVEVwVGFqWk5iMFEwUm1kc2FHZzJWazR4ZG1wTlZFRnBia2xhY21SWVZTMVliM2NTRjJ0MVprbGhjVmMxU0VsWFpHdFFTVkIyY2tSUloxRjNHaUpCUkhOeU9XWlNZMGQ0TkdsRFN6SlpNWFI2VEhoYVYzbFJhR3BLV2t0TFNURkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJwMDB6a0pQRGkyUEZ1OXJjQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "Gupta Hardware",
+      "location": "Uttarakhand",
+      "via": "WorkIndia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=tkLffw6UQpn1FR1UAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQoCMRAAsb0nCMI2NhaJCDZaCcL5AetjLxeS07gbsiueneAT_KEvMTbTDMM071mzPKIiHAjTUxS-rw9cuAfxWFwEJmiZQ_LzfVTNsrNWJJkgijo64_hmmXzPk62R_NFJxOJzQvXdZrueTKawWrT3XCcnLMOjWhgJzqpY8BqRhh_6gE7YhgAAAA&shmds=v1_ARwrE20LQmUu_5gxlaSiHEEI1ZfCo-vnS8tFumDJDI4m859Nuw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=tkLffw6UQpn1FR1UAAAAAA%3D%3D",
+      "extensions": [
+        "15 days ago",
+        "₹10K–₹12K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.workindia.in/jobs/data_analyst-ajabpur_khurd-dehradun-11326241/",
+      "job_title": "Data Analyst",
+      "description": "Salary Range : Rs. 10000 - Rs. 12000 , based on skills, experience, and interview performance\n\nEducational Requirement : 12th Pass / Female Only\n\nWork Arrangement : Work From Office\n\nGender Preference : Female only\n\nSkills Requirement : No predefined skills necessary\n\nExperience Requirement : Fresher\n\nLocation : Ajabpur Khurd\n\nWorking Hours : 09:30 am - 6:30pm | Monday to Saturday\n\nAdditional Info : Check Govt Tenders, Generation Of Data, Make Reports, Interact With Vendors, Intract With Customer, Data Analytics.",
+      "apply_options": [
+        {
+          "title": "WorkIndia",
+          "link": "https://www.workindia.in/jobs/data_analyst-ajabpur_khurd-dehradun-11326241/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-3112-8849a783fa29fcc2428bd915588656c7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJHdXB0YSBIYXJkd2FyZSIsImh0aWRvY2lkIjoidGtMZmZ3NlVRcG4xRlIxVUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWFSR1ZvY21Ga2RXNHNWWFIwWVhKaGEyaGhibVFzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2twRk9FUnhha0Z1VWpaeGJFaFNaM1ZFTW5kaFlYZDFVSEZIYmtKMlMzRnhaVVI0UzNVNU5rYzNUbE56V1dObFlrWlBVR1JtYVhWZmVGbE1UVGhhTnpGaFgxWlpTVFJLUlhZelVUZFBkMEprYlY4eWVtSXdMWEk1YURnNE1XUTNhekZhYVVGcFRtMVhNMTgyWVhwUmRYZElhVkZSUlZKTE4yNUNObTlqZDJWeE5XVkdkR3NTRjJ0MVprbGhjVmMxU0VsWFpHdFFTVkIyY2tSUloxRjNHaUpCUkhOeU9XWlNkRGs1VFhGMlJHa3lNSGd3T1d4MWNUQXlia1pwYm04MWNXTlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ0a0xmZnc2VVFwbjFGUjFVQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst III (Dehradun)",
+      "company_name": "Ruder Finn India",
+      "location": "Dehradun, Uttarakhand",
+      "via": "Kit Job",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=m3h0wVSx5uy_aNevAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zXNsQrCMBCAYVz7CE43WpFERBedhKJkFZzLtQlNNF5K7gp18x3cfTifRB1c_u3jL16TYl2hIOwJ450FjDEwq5zPaAcq4f14wiU1wA5z6yERHFPqopvuvEjPW62Zo-pYUEKr2nTTiVyTRv1F_EvNHrPrI4qrV5vlqHrq5uVpsC7DIRCBIRsQAsF_uoCzCGa8eiT7AWRXBpWhAAAA&shmds=v1_ARwrE22p6yJq0Cp0DdpM791O11H2POHK6CU4AKiIluYgH3NMtw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=m3h0wVSx5uy_aNevAAAAAA%3D%3D",
+      "extensions": [
+        "20 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.kitjob.in/job/335350276/data-analyst-iii-dehradun",
+      "job_title": "Data Analyst III (Dehradun)",
+      "description": "About the Company: \n\nnRuder Finn is seeking a Senior Data Analyst (Data Analyst III) to join its award-winning Emerging Technology & Analytics team. The chosen candidate will support the agency’s new business efforts by spearheading the research activities such as but not limited to earned media analysis, social listening, influencer identification, data modeling and predictive analytics. This individual will collaborate with several account teams within the agency providing counsel as needed on the various research and analytics needs of the agency’s clients.\n\nAs Data\n\nAnalyst III, you will have the opportunity to work alongside the Chief Technology Officer based in New York, NY, on several innovative Consumer, Technology, and Healthcare-related client accounts. The ideal candidate would be a digital native with deep expertise in and a passion for data visualization and storytelling, statistics, web analytics, social media analytics, and the ability to connect the dots back to business objectives.\n\nn\n\nnThis position will be fully remote, and the working hours will be either 6:00 pm – 3:30 am IST / 8:30 am – 6:00 pm ET  or 2:00 pm – 11:00 pm IST / 4:30 am – 1:30 pm ET .\n\nn\n\nnUltimately, your work will help define the business strategy for projects and clients and play a significant role in the growth of the agency.\n\nn\n\nnAbout the Role: \n\nnIf you are motivated by complex, purposeful challenges, this role, with one of the world's largest independent PR and Comms agencies, could be the fit you have been looking for!\n\nn\n\nnJob Responsibilities: \n\nn\n\nn\n\nn \n- Collaborate with the global Emerging Technology & Analytics team colleagues in research projects pertaining to new business or client mandates involving sourcing, analysis, and reporting of data and insights tied to the concerned business objectives\nn \n- Deliver market and audience intelligence, including social and digital landscape analysis, audience behavior analysis, sentiment analysis, keyword research, search performance, and competitor analysis including but not limited to share of voice and message pull through\nn \n- Build measurement frameworks, set up searches and dashboards using Boolean queries, and develop client-facing insights and reports\nn\n\nn \n\nnQualifications: \n\nn\n\nn\n\nn \n- Bachelor's Degree in business analytics, computer science, marketing, psychology, or advertising preferred\nn \n- A minimum of 4 years of agency or in-house experience in a data or research analyst role\nn \n- Experience and expertise with writing complex Boolean queries and operating data and media analytics tools such as Cision, Brandwatch, Rival IQ, Meltwater, Signal AI, etc.\nn \n- Expertise in Excel, Google Sheets, Google Analytics and one or more contemporary data visualization platforms (e.g.: Tableau, Power BI, Google Data Studio, etc.) along with SQL\nn \n- Proficiency in AWS, Python, R, and any other statistical computing or functional programming language is a major plus\nn \n- Experience with data modeling and developing custom models is a plus\nn \n- Experience with custom LLMs and working with the contemporary LLMs (e.g. ChatGPT, Bard, etc.) is a plus\nn \n- Excellent problem-solving, creative thinking, general modeling, and data processing skills\nn \n- Strong project management skills, self-starter, ability to adapt and multi-task, and a proven track record of delivering quality and accurate results in a fast-paced and high efficiency agency workplace\nn \n- Extremely strong verbal and written English language communication skills\nn",
+      "apply_options": [
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/335350276/data-analyst-iii-dehradun?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSUlJIChEZWhyYWR1bikiLCJjb21wYW55X25hbWUiOiJSdWRlciBGaW5uIEluZGlhIiwiaHRpZG9jaWQiOiJtM2gwd1ZTeDV1eV9hTmV2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJYVJHVm9jbUZrZFc0c1ZYUjBZWEpoYTJoaGJtUXNTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVTVLVFVOQlJIVkNURmx1VEd3eWEyRXliRE5RTFUxVE5IaEpMVGQyYW14NlVrTTRVVVYwYjNkblduZFNiRXhuVWxjNE1ucHZVbGR4WkRKRFdGZEVWMUY0ZUhOM1NYTlBjSHBxWmpSd1NsVkNVRUZDUzJaeU5HSlVlV0pqWWkxV01uZG5RMUZDZGpsd01FTndVR1JaUzFaWWFGUmlZVWhvY0U1YU4zcG9iVnBtVEhSWWNUTVNGMnQxWmtsaGNWYzFTRWxYWkd0UVNWQjJja1JSWjFGM0dpSkJSSE55T1daU09XUnVhWGszZW05RlVGWmlVMDltZFZkaVVIQlhNalJHYkhKMyIsImZjdiI6IjMiLCJmY19pZCI6Im0zaDB3VlN4NXV5X2FOZXZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Financial Data Analyst Intern",
+      "company_name": "HDFC Bank",
+      "location": "Dehradun, Uttarakhand",
+      "via": "MyInternships.in",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=BQw5ibMrWMHXgJsvAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ7CMAwAQLH2CUwWI0INQoIBpkJV4AHMlZtGTWiwq9hIZeMPTHyPlwDLbZe9J9mmCoRkA0YoUREKwvgQhTOpSwSf5wuu3IA4TNYDExyZu-imO686yNYYkZh3oqjB5pZvhsk1PJpfkj-1eExuiKiuXq2XYz5QN5-dyuoAe6QeAkHpfML2Tgu4qGLC3iO1X9gq5p2cAAAA&shmds=v1_ARwrE22-QADCEs8nvGAJYNIqjp0koCpedwgHncoUECYDR8Xzog&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=BQw5ibMrWMHXgJsvAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAANlBMVEXi4uJ4eHjm5uZ1dXWFhYWAgIBycnKampqWlpa5ubnBwcHT09Pq6uq8vLyMjIzExMRsbGygoKBd8J7eAAAAf0lEQVRIie3UWwqAIBBAUcdRs_JR-99sJhUVQmoQSHO-HOgSacgYIT_EV8nhodNCiHl7mM9hcHklF4io97BTiDI7hFOIABTeQhMPkJvS0Nk-sq4sBFSbsC4KL754Izo_RL7wG-t3taU_p5EQKkM5qekIdRgg85obV8mBEELeWQD3agXpprfNiwAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "₹28K a month",
+        "Internship"
+      ],
+      "source_link": "https://myinternships.in/internships/hdfc-bank-financial-data-analyst-intern-dehradun-7a315d",
+      "job_title": "Financial Data Analyst Intern",
+      "description": "HDFC Bank is hiring a Financial Data Analyst Intern in Dehradun. This is a hands-on, mentor-led BFSI internship built for students and 2026 freshers who want real exposure to how a private bank actually runs its numbers — not a certificate-only programme.\n\nAbout the role\nAs a Financial Data Analyst Intern at HDFC Bank, your core focus will be building BFSI dashboards and analysing customer and portfolio data. You will be attached to a named mentor, join the team's daily stand-ups and reviews, and be trusted with work that genuinely matters rather than filing and formatting. Questions are encouraged, mistakes are treated as teaching moments, and your output is reviewed properly so you actually improve.\n\nWhat you'll do day to day\n• Support building BFSI dashboards and analysing customer and portfolio data alongside the core private bank team\n• Work in Excel and the company's internal systems on live financial data\n• Prepare schedules, reconciliations and reports that go to real reviewers\n• Research companies, customers, products or regulations as the work demands\n• Turn your analysis into clear notes and decks for senior stakeholders\n• Follow the documentation and control standards a regulated business requires\n• Take part in reviews, ask questions and act on the feedback you receive\n\nSkills you'll build\nYou will build practical, demonstrable experience in SQL, Advanced Excel, Power BI, Tableau, Python (Pandas), Data Cleaning, Statistics, Financial Metrics, Dashboarding, Storytelling with Data — the exact toolkit that separates a hireable finance fresher from a CV full of coursework. No prior work experience is required. Curiosity, numerical comfort and care with detail matter far more here than a polished résumé, and every one of these skills is taught on the job.\n\nWho should apply\nStudents in their final year or recent graduates from B.Tech/BCA/MCA/B.Sc (Stats)/B.Com/MBA based in or willing to work from Dehradun. You should be comfortable with numbers, willing to learn SQL, Advanced Excel, Power BI, and able to communicate clearly in writing. Relevant coursework, certifications (NISM, CFA L1, GST, Tally) or a strong academic record in SQL will strengthen your application, but none of them are mandatory.\n\nInternship details\nThis is a 2-month internship in Dehradun, Uttarakhand, with a stipend of ₹28,000 per month. You will be given a defined project so that you leave with a production dashboard used by a business team. Working hours follow the team's normal business hours and the internship includes a certificate on successful completion.\n\nYou will finish this internship able to read a set of financial statements with confidence, work comfortably in Excel at speed, and explain exactly how your work fed a real business decision. Strong performers are considered for a Pre-Placement Offer (PPO) and a full-time role.\n\nHow to apply\nClick Apply Now. If you are not logged in you will be asked to sign in and register first, after which you will be taken to HDFC Bank's official careers page to complete your application. Applications are reviewed on a rolling basis and seats for this SQL-focused internship are limited, so apply early. Responsibilities: Support building BFSI dashboards and analysing customer and portfolio data alongside the core private bank team; Work in Excel and internal systems on live financial data; Prepare schedules, reconciliations and reports for senior review; Research companies, customers, products or regulations as required; Present analysis clearly in notes and decks for stakeholders; Follow documentation and control standards required in a regulated business. Requirements: Pursuing or recently completed B.Tech/BCA/MCA/B.Sc (Stats)/B.Com/MBA — 2026 freshers & final-year students welcome; Working knowledge of SQL, Advanced Excel, Power BI (or a genuine willingness to learn them); Strong numerical ability and comfort working in MS Excel; Care with detail and the discipline to document work properly; Clear written and verbal communication in English; Based in or willing to work from Dehradun, Uttarakhand.",
+      "apply_options": [
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/hdfc-bank-financial-data-analyst-intern-dehradun-7a315d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGaW5hbmNpYWwgRGF0YSBBbmFseXN0IEludGVybiIsImNvbXBhbnlfbmFtZSI6IkhERkMgQmFuayIsImh0aWRvY2lkIjoiQlF3NWliTXJXTUhYZ0pzdkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWFSR1ZvY21Ga2RXNHNWWFIwWVhKaGEyaGhibVFzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzAxMmNGQkNjMjFaTkc1RmVVOUxYeTFxYlU1MlkxWnRRVUo1YTJKcllXbGhUMjVmY2t0Q1FVOXVlVWhVV0ZKck5sOWtkVlptUnpsNGVuRkNkbGRFVEdaNmFrSXdVMDR5YWxwalFXdEZPWFl4U25WTlVHNDBWall6Wmt0dGVEaDRhalZWTW5kNk9ESjBUSGg0Y0c1aFNVdGxialpwYmpSeGFEa3dTVEJUZW1VMGN6TlFRekVTRjJ0MVprbGhjVmMxU0VsWFpHdFFTVkIyY2tSUloxRjNHaUpCUkhOeU9XWlJiRGRTZFRWMlUySkZaM1poVDBKWmJYRXphMUZEZVY5cWRtbDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJCUXc1aWJNcldNSFhnSnN2QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Visualization Intern",
+      "company_name": "Novanectar Services Pvt. Ltd.",
+      "location": "Dehradun, Uttarakhand",
+      "via": "NNHire",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=-GwFHKJgimuSZW9cAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMQrCQBAAsc0TrLYWuZOAFtoGRBARRNuwXpbcadwLt5sQrPyDr_BbvsTYTDMz2WeS5QUqwiVIh014oobIsGOlxPB9veEWryCEyXkYxTbGuqHpxqu2srZWpDG16Hg54-LDRqZrHOw4yR-leEzUNqhU5svFYFquZ6tD7JHJKSY4UeqDI4Fjrwb2WhkIDAX5hFXHczjrWOHdI1c_b0M_RqwAAAA&shmds=v1_ARwrE21nXwUFAU25SQr2Jz13Q02v2srhRjCOToetYuMvXRxCyA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=-GwFHKJgimuSZW9cAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e792c83b3faeebc075ff/images/d4-ApUsuCQilHTySm0s-bcMtFciDyHgYmH7sWFE-GFU.jpeg",
+      "extensions": [
+        "₹4K–₹5K a month",
+        "Internship"
+      ],
+      "source_link": "https://nnhire.com/job/novanectar-services-pvt-ltd/data-visualization-intern/dehradun/uttarakhand/fresher/6a07f59cf6972003c4697a3d",
+      "job_title": "Data Visualization Intern",
+      "description": "Data Visualization Intern Location: GMS Road, Near Kamla Palace, Dehradun Job Type: Internship Duration: 3 Months Stipend: Up to ₹5,000 per month Job Overview We are looking for a detail-oriented and analytical Data Visualization Intern to join our team. The candidate should have a basic understanding of data analysis and visualization tools with the ability to present data in a clear and meaningful format. This internship will provide practical exposure to dashboards, reporting, and business insights generation. Key Responsibilities Develop and maintain interactive dashboards and reports Convert raw data into meaningful visual insights Create charts, graphs, and presentations for business reporting Work with datasets for data cleaning and analysis Collaborate with teams to understand reporting requirements Ensure accuracy and timely delivery of reports and visualizations Required Skills Basic knowledge of Excel, Power BI, Tableau, or Google Data Studio Understanding of charts, dashboards, and reporting concepts Analytical and problem-solving skills Attention to detail and good communication skills Eligibility Criteria Freshers and students can apply Candidates with Data Analytics/Data Visualization courses or certifications preferred Basic projects or portfolio will be an added advantage Performance & Growth Opportunity Based on performance evaluation during the internship period: Stipend may be increased , or Candidates may be offered a permanent full-time opportunity within the organization",
+      "apply_options": [
+        {
+          "title": "NNHire",
+          "link": "https://nnhire.com/job/novanectar-services-pvt-ltd/data-visualization-intern/dehradun/uttarakhand/fresher/6a07f59cf6972003c4697a3d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFZpc3VhbGl6YXRpb24gSW50ZXJuIiwiY29tcGFueV9uYW1lIjoiTm92YW5lY3RhciBTZXJ2aWNlcyBQdnQuIEx0ZC4iLCJodGlkb2NpZCI6Ii1Hd0ZIS0pnaW11U1pXOWNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lhUkdWb2NtRmtkVzRzVlhSMFlYSmhhMmhoYm1Rc1NXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMybFdZa0Z2T1ZOVFVVcG9OblpoUm5Gd1FtZFZlbTFNTjA5Tk0wczRhME5aVjJJd0xVaFViMDExYzB4RExXeHVTVXh2VkhvelZGbHVNbnBtYmxrMmNHVnhiRGxLZDBSTFVEZEtPRE5JV0V0c1dGWkxhREJqVTNGVGRqQk9UbE13Wm00emQxaHpNbFJZV0hrMFkwVkhNMDFrUVhSbGNXOWZOV3h5VG5JelJWaDFSa3d6U3kwU0YydDFaa2xoY1ZjMVNFbFhaR3RRU1ZCMmNrUlJaMUYzR2lKQlJITnlPV1pSV2tadVZUTnFUa1pXZURaSFZGcEdPWE52UTJkT1kyUmxRM0ZCIiwiZmN2IjoiMyIsImZjX2lkIjoiLUd3RkhLSmdpbXVTWlc5Y0FBQUFBQT09In0="
+    },
+    {
+      "title": "Manufacturing & Quality Data Analyst Intern",
+      "company_name": "Tata Advanced Systems",
+      "location": "Dehradun, Uttarakhand",
+      "via": "MyInternships.in",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=oYt8DiLuUii-ow3jAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3NPQrCQBBAYWxzBKupLEQ2IthoJQTEwkLUOkw2Yza6mQ07E0k67-BRvJEn8ad53eNLXqMk2yN3F7TaxZormMChQ1_rABkqwobRD6KwY6XI8H484RoKEMJoHQSGbQiVp_HaqbaySlMRbypR1NoaG5o0MBWhT7-T_JKLw0itR6V8sZz3puVqak5_qrwjWyrh-AWpEagZMnIRy45ncFbFiDeHXH4AxKi99LYAAAA&shmds=v1_ARwrE221ZS0lig923_OobgohErxlUR5Dvi2uEJDkQN6nvZRwMA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=oYt8DiLuUii-ow3jAAAAAA%3D%3D",
+      "extensions": [
+        "₹12K a month",
+        "Internship"
+      ],
+      "source_link": "https://myinternships.in/internships/tata-advanced-systems-manufacturing-and-quality-data-analyst-intern-dehradun-862ffe",
+      "job_title": "Manufacturing & Quality Data Analyst Intern",
+      "description": "Tata Advanced Systems has an open Manufacturing & Quality Data Analyst Intern position in Dehradun for motivated freshers and final-year students. You will work on live manufacturing analytics and quality data projects and finish with something you can genuinely talk about in interviews.\n\nAbout the role\nAs a Manufacturing & Quality Data Analyst Intern at Tata Advanced Systems, your core focus will be analysing production, downtime and defect data to lift yield and OEE on the shop floor. You are attached to a named mentor, join the team's stand-ups and reviews, and are trusted with work that matters rather than filler tasks. Questions are encouraged, your output is reviewed properly, and you get the feedback you need to actually improve.\n\nWhat you'll do day to day\n• Work on analysing production, downtime and defect data to lift yield and OEE on the shop floor alongside the core team\n• Use Excel, SQL, Statistical Process Control (SPC), OEE & Downtime Analysis, Root-Cause Analysis (5-Why, Fishbone) on live, production-facing problems\n• Turn your work into clear documentation, notes or decks for reviewers\n• Take part in reviews and act on the feedback you receive\n• Collaborate across functions — engineering, product, design or business as the work demands\n• Follow the team's quality, testing and documentation standards\n• Track and report your own progress against an agreed plan\n\nSkills you'll build\nYou will build practical, demonstrable experience in Excel, SQL, Statistical Process Control (SPC), OEE & Downtime Analysis, Root-Cause Analysis (5-Why, Fishbone), Power BI, Quality Metrics (PPM, Yield), Lean & Six Sigma Basics, MES / ERP Data, Report Writing — the exact toolkit that separates a hireable fresher from a CV full of coursework. No prior work experience is required. Curiosity, problem-solving ability and a willingness to learn matter far more here than a polished résumé, and every one of these skills is taught on the job.\n\nWho should apply\nStudents in their final year or recent graduates from B.E./B.Tech (Mechanical / Production / Industrial / Electrical), B.Sc (Statistics) or Diploma + degree based in or willing to work from Dehradun. You should be willing to learn Excel, SQL, Statistical Process Control (SPC) and able to communicate clearly in writing. Personal projects, coursework, certifications or open-source contributions strengthen your application, but none of them are mandatory.\n\nInternship details\nThis is a 4-month internship in Dehradun, Uttarakhand, with a stipend of ₹12,000 per month. You will be given a defined project so that you leave with a defect or downtime analysis that improved a line metric. Working hours follow the team's normal business hours and the internship includes a certificate on successful completion.\n\nYou will finish this internship with practical, demonstrable skills, real project work to point at, and a much clearer sense of how the industry actually operates day to day. Strong performers are considered for a Pre-Placement Offer (PPO) and a full-time role.\n\nAbout this employer — Large enterprise / multinational\nTata Advanced Systems is a large, well-established employer in Aerospace & Defence with a substantial India footprint. Expect a structured internship: formal onboarding, a named mentor, documented processes, defined review checkpoints and the chance to see how analytics works at scale across several business units.\n• Employer scale: Large enterprise / multinational\n• Industry: Aerospace & Defence\n• Careers page: https://www.tataadvancedsystems.com/careers (applications go to the company's own site — MyInternships.in never charges a candidate a fee)\n\nEligibility criteria\n• Education: B.E./B.Tech (Mechanical / Production / Industrial / Electrical), B.Sc (Statistics) or Diploma + degree\n• Graduating batch: 2025, 2026 or 2027 — final-year students and recent graduates are both eligible\n• Academics: 60% / 6.0 CGPA and above preferred; consistent academics help, but a strong project or portfolio is weighed alongside marks\n• Technical skills: Excel, SQL, Statistical Process Control (SPC), OEE & Downtime Analysis, Root-Cause Analysis (5-Why, Fishbone)\n• Also useful: Power BI, Quality Metrics (PPM, Yield), Lean & Six Sigma Basics, MES / ERP Data, Report Writing\n• Soft skills: clear written and spoken English, ownership of your work, comfort asking questions, and the discipline to check your own work before you ship it\n• Experience: none required — this is a fresher internship. Academic projects, certifications, GitHub work or a previous internship strengthen an application but are not mandatory\n• Location: based in Dehradun, Uttarakhand or willing to work from there for the internship period\n\nAdditional information\n• Joining date: immediate / rolling — selected candidates usually start within 4-6 weeks of accepting the offer, and start dates can be adjusted around end-semester exams\n• Working hours: Monday to Friday, standard business hours (about 8-9 hours a day) at the office\n• Duration: 4 months, with a certificate issued on successful completion\n• Documents at joining: college ID or degree certificate, a government photo ID, and a No-Objection Certificate from your college where your programme requires one\n• Equipment: a workstation, software licences and all tool access are provided at the office — you do not need to bring your own machine\n• Bond: no bond and no service agreement is attached to this internship\n• Fees: Tata Advanced Systems and MyInternships.in never charge a candidate any fee at any stage of the application, selection or onboarding process. Report anyone who asks you for money in the name of this internship\n\nHow to apply\nClick Apply Now. If you are not logged in you will be asked to sign in and register first, after which you will be taken to Tata Advanced Systems's official careers page to complete your application. Applications are reviewed on a rolling basis and seats are limited, so apply early. Responsibilities: Work on analysing production, downtime and defect data to lift yield and OEE on the shop floor alongside the core team; Apply Excel, SQL, Statistical Process Control (SPC), OEE & Downtime Analysis to live, production-facing problems; Document your work clearly for reviewers and stakeholders; Participate in reviews and act on the feedback you receive; Collaborate across engineering, product, design or business as required; Follow the team's quality, testing and documentation standards. Requirements: Pursuing or recently completed B.E./B.Tech (Mechanical / Production / Industrial / Electrical), B.Sc (Statistics) or Diploma + degree; Graduating batch 2025, 2026 or 2027 — final-year students and recent graduates welcome; 60% / 6.0 CGPA and above preferred; strong project work is considered alongside academics; Working knowledge of Excel, SQL, Statistical Process Control (SPC) (or a genuine willingness to learn them); Exposure to OEE & Downtime Analysis, Root-Cause Analysis (5-Why, Fishbone), Power BI is an advantage; Clear written and verbal communication in English, and care with detail in your work; No prior work experience required — this is a fresher-friendly internship; Based in Dehradun, Uttarakhand or willing to work from there for the internship period.",
+      "apply_options": [
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/tata-advanced-systems-manufacturing-and-quality-data-analyst-intern-dehradun-862ffe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYW51ZmFjdHVyaW5nIFx1MDAyNiBRdWFsaXR5IERhdGEgQW5hbHlzdCBJbnRlcm4iLCJjb21wYW55X25hbWUiOiJUYXRhIEFkdmFuY2VkIFN5c3RlbXMiLCJodGlkb2NpZCI6Im9ZdDhEaUx1VWlpLW93M2pBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lhUkdWb2NtRmtkVzRzVlhSMFlYSmhhMmhoYm1Rc1NXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFREQlNTV2xpZUVOTllrZFdja1pPZGxCeExUQklOakJ2VWxaSlJqQTNTV1JNZUZWVFVHbElPRzgwVVZGRVozVk9UMGxKUVd4SFpVMWtXa2RLT1RVeWRURXhaV1JaVW1welJWVlBNalUzUVVKWE5IaEJhbEF3ZUdsME5rSm1jV0l5WjIxSFFtZG5jRkZhV0Voek9HUklSQzFCTW5sTmRHZE5SMFpGYmkweGJuWlBTazV1VGpnU0YydDFaa2xoY1ZjMVNFbFhaR3RRU1ZCMmNrUlJaMUYzR2lKQlJITnlPV1pTY2tWM01uQnRMWHA0VTNBM2JEUnlNSEExTjJ4SVJHRnJhelIzIiwiZmN2IjoiMyIsImZjX2lkIjoib1l0OERpTHVVaWktb3czakFBQUFBQT09In0="
+    },
+    {
+      "title": "Business Analyst - Ecommerce || Dehradun",
+      "company_name": "EbizON",
+      "location": "Dehradun, Uttarakhand",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=FNXn9d2Oc5aQAGMXAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2NMQ6CQBAAY8sTbNzaKGdMbLTCSOy0sibLseFOjz1yeyRoKPyDL_BrvkRsbKabmeQ9SbJ9J5ZJBDJGd5cIS8i1bxoKmmAY4EAmYNUxfJ4vuPoShDBoA57h6H3taLozMbayVUrEpbVEjFanY0J5ptL3apTkh0IMBmodRirWm1WftlzPZ3lpH-cTWP6fFnCJEQPeDHL1BQ1-RNWkAAAA&shmds=v1_ARwrE231104uTkBOTBsCzhLj7jB-DTUyHBcRZlSPxGjMKRWxtQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=FNXn9d2Oc5aQAGMXAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBEQACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAAAwQHBQL_xAAnEAACAQMDAgYDAAAAAAAAAAABAgADBBEFEjEhQRMUIlFxkQZhgf_EABgBAQADAQAAAAAAAAAAAAAAAAACAwQB_8QAJBEBAAEDAwIHAAAAAAAAAAAAAAECAxFBYXESUQQTITGBobH_2gAMAwEAAhEDEQA_ANxgICAgICAgICAgICAgICBS1HVtO0tA-o31vbA8eLUCk_A7wLaOtRFdGDKwBUjgiB6gICAgUtXsDqVjUtVu7m0L8VrZ9rj-wMkq_i15aflSaBdu90moOlTzQYgtSUkvnnrgEc-3vKa7XVcprz7JxVimY7tUZ7rbUpqhUBXUKqnoADtwcfHeYarniKuqnHfSd8YnHGq2KaIxPCQ1K59Kmo4wNxNMpg5HHHbP1LPMuz6RmfjGscbudNOqC7ub1KVd7YVGZcBVagScbhlgOmcDJA5MnZuXKrsxMzjeMffb9RrpiKd-VZLrUqtfwbapXagz0x5ivZlGXIfeMEDOMJ1xgFu_A2qnU01rnNzSuizeFW2U6rLtNRdqnPTpySOntAuQInt6L3FO5ekhr01ZEqEepQ2MgH97R9QJYCAgICAgICAgICAgICAgICAgIH__2Q.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/business-analyst-ecommerce-dehradun-at-ebizon-4454542090",
+      "job_title": "Business Analyst - Ecommerce || Dehradun",
+      "description": "EbizON is looking for Analytical E-commerce Business Analyst for our Dehradun office who can help our PMO team with the business requirements, client communication, analyzing key metrics to generate insights and reports for marketing, UX, payment, and overall strategy and delivery for our customers in US/Canada market.\n\nThe ideal candidate would come with an experience in Technology services and a bright academic record - Btech/MBA from a good college.\n\nResponsibilities: \n\n\n\n Reviewing, analyzing, and evaluating business systems and Client needs Researching, defining, and documenting current As is business processes and recommending improvements Eliciting requirements using interviews, document analysis, requirements workshops, business process descriptions, use cases, business analysis, and workflow analysis Creating and maintaining updated documentation on business processes, applications and business solutions including process flows, use cases, functional specifications, test cases, training and system manuals, and job aids Serving as the conduit for the flow of requirements between the customer community (both internal and external and the technology and support teams Leading and/or assisting project management activities for small to medium projects Anchor key discussions with the clients around Enterprise CMS, E-commerce and M-commerce, CRM, Product Engineering Delivers and customizes best in class presentations on products & services\n\nRequirements:\n\nMin. 3 years of Experience in technology/IT servicesExcellent Communication Skills Ability to work independently under time constraintWorking knowledge of the IT services industry will be considered as an advantageMBA (preferred) from reputed college/UniversityProficient knowledge of Excel / Ppt / Word would a requirementSelf-driven and highly motivated, with strong interpersonal & analytical skillsProficiency with using Power BI, Google Data studio to create data visualizations from disparate data sourcesComprehensive understanding of Google Analytics(UA v4.0)Strong ability to clearly articulate business performance metrics through data and datavisualizationWell versed in automated reporting methods such as Google APIs, Adobe Report Builder, Adobe Workspace, and other reporting efficiency toolsHigh proficiency with Excel - including manipulating large data sets, using pivot tables, automating data pulls through 3rd party pluginsStrong Microsoft Office Skills that can be leveraged to best communicate analytics findings\n\nAbout Us:\n\nWe’re an international team that specialize in building technology products & then helping brands grow with multi-channel demand generation marketing. We have in-house experience working for Fortune companies, e-commerce brands, technology SaaS companies & VC-funded startups.\n\nWe have assisted over a dozen billion-dollar companies with consulting, technology, operations, and digital agency capabilities in managing their unique brand online.\n\nWe have a fun and friendly work culture that also encourages employees personally and professionally.\n\nEbizON has many values that are important to our success as a company: integrity, creativity, innovation, mindfulness and teamwork. We thrive on the idea of making life better for people by providing them with peace of mind.\n\nThe people here love what they do because everyone from management all way down understands how much it means living up close-to someones' ideals which allows every day feel less stressful knowing each person has somebody cheering him.\n\nEqual Opportunity Employer:\n\nEbizON is committed to providing equal opportunity for all employees, and we will consider any qualified applicant without regard to race or other prohibited characteristics.\n\nFlexible Timings:\n\nFlexible working hours are the new normal.\n\nWe at EbizON believe giving employees freedom to choose when to work, how to work. It helps them thrive and also balance their life better.\n\nPowered by JazzHR\n\njWkp7uh4O6",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/business-analyst-ecommerce-dehradun-at-ebizon-4454542090?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Ebizon - JazzHR",
+          "link": "https://ebizon.applytojob.com/apply/QBvdLjflrn/Business-Analyst-Ecommerce-Dehradun?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/T2ceuDCkJNV71aSrcRp96OK3WXMRifBROtVvaU69CDPSN3FWWHZwKg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5803788833?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/7556534547946861279?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/business-analyst-ecommerce-dehradun-ebizon-dehradun--ss-in-180i8ph?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dehradun Jobs Expertini",
+          "link": "https://dehradun.in.expertini.com/job/business-analyst-ecommerce-dehradun-dehradun-ebizon-ccfe8ba867f64c73933c2fd5adb87cf2105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8329026751233523712?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBBbmFseXN0IC0gRWNvbW1lcmNlIHx8IERlaHJhZHVuIiwiY29tcGFueV9uYW1lIjoiRWJpek9OIiwiaHRpZG9jaWQiOiJGTlhuOWQyT2M1YVFBR01YQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJYVJHVm9jbUZrZFc0c1ZYUjBZWEpoYTJoaGJtUXNTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTalpqWkZKUlZWTm1VMk5rVGs1M09FNXBkMkZPWTNselFYbEtRalpCWVVrdGNFTmxVbWxOTTFsRFQzcHFPVEJyVkRCSUxXeHZTM04yVUZVMVUwOVBOWFp2TW1wUmVqQTJabkJVYzBzM1UzUk9abXROT1ZkUE4wcGpOa3RwTVhWdlZXSnJSWFZzYUVOcE1HNVNPVWg2T1d4ZmFVbE9NRVU1WkRkR056SktVWFZMV2tjeVNFTVNGMnQxWmtsaGNWYzFTRWxYWkd0UVNWQjJja1JSWjFGM0dpSkJSSE55T1daVGVUbExRM0JHUW0wd1pGRmhka2RsTlU1MExWVnNkR3RGWm5GQiIsImZjdiI6IjMiLCJmY19pZCI6IkZOWG45ZDJPYzVhUUFHTVhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analytics Trainer",
+      "company_name": "IIT Guwahati",
+      "location": "Dehradun, Uttarakhand",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=nBSw0zybOf9bIOnYAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ6CUAwA0LhyBKcuLsbwjYmLTiYkhB1nUqDho5-W_JaIm3cwXtCTiMvbXvJZJS5DQ7gwhqf1jUIZsWeK8H294SY1KGFsPAhDLtIFWp-92agn51RD2qnh0tJGBidMtcxuSfqnUo-RxoBG1eG4n9ORu-2mKErIpwf6pUHPkJGP2E68g6sZRrx75PYHDhJ8g5gAAAA&shmds=v1_ARwrE22T_FfcGWZEXDZZRE51huNOyj4h0nH0usnC5jlwPMEE7A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=nBSw0zybOf9bIOnYAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e792c83b3faeebc075ff/images/Y0qfgWOt93J62SnOuQ6ORNVsjGkK8ItM8ef-jXKfW_w.png",
+      "extensions": [
+        "₹1L–₹50L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/iit-guwahati-data-analytics-trainer-dehradun-uttarakhand-india-2-to-4-years-281789",
+      "job_title": "Data Analytics Trainer",
+      "description": "Job descriptionJob Description -Data Analytics \"Trainer\" (Delhi & Dehradun Location)Salary - NegotiableExp- 2 to 4 yearsLocation- Delhi NCRNotice: Immediate to 15 days..!!Job descriptionDesignation - Data Analytics Trainer, Trainer needs to relocate to DELHI/ Dehradun.Location - Delhi & Dehradun.Exp - min 2.5 years1. To teach Python, Power BI, Data visualization, Tableau, SAS, Machine learning, Deep Learning, NLP, Computer Vision, Reinforcement Learning. Good understanding of Machine Learning, Deep Learning, Computer Vision, NLP, reinforcement learning, Algorithms, Time series and forecasting, SQL.Conduct online and classroom training sessions by providing practical use cases and assignmentsDesign and make the trainees develop mini or major real-time projects for practical exposure Experience / Skills - Excellent communication skills in English & Hindi Educational Background: B.Tech/ M.Tech/ Ph.D in computer science or equivalent from a top educational institutionRole: Technical TrainerIndustry Type: Training & ConsultingFunctional Area: Teaching & TrainingEmployment Type: Full Time, PermanentRole Category: Corporate TrainingEducationUG :Any GraduatePG :Any Postgraduate.Skills Required : 1. Python 2.Machine learning3 Tableau 4. Power Bi5 MS Excel.6. SQLKey Skills : PythonMachine LearningSQL.",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/iit-guwahati-data-analytics-trainer-dehradun-uttarakhand-india-2-to-4-years-281789?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5dGljcyBUcmFpbmVyIiwiY29tcGFueV9uYW1lIjoiSUlUIEd1d2FoYXRpIiwiaHRpZG9jaWQiOiJuQlN3MHp5Yk9mOWJJT25ZQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJYVJHVm9jbUZrZFc0c1ZYUjBZWEpoYTJoaGJtUXNTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURGxXYjBwMFVWY3hSVXhCU1U4emNrcHJOM0ZhZW5CRGRWSTROeTFaWDAxRGRXNUVWRXczYW01S1puVm5ZVUY1VFRWR1FVWlhkRkpUVG1SVWRVZ3laMW94UVUxak1WWjNORlZxUzFSRVFVMVFMVjlUZEhVNVlXRm1SWGd4V1dGUmFrWmZjemRqVWxoNVRVZHFURXd5WlZKYU1GbE5NV3hzVEhCaFJuQmlNakZoVXpKbWFURVNGMnQxWmtsaGNWYzFTRWxYWkd0UVNWQjJja1JSWjFGM0dpSkJSSE55T1daU1ExZG9jRUpoVEY5dGRFSlZORWRyUkVzMlUxTkxVM1ZVY2xkMyIsImZjdiI6IjMiLCJmY19pZCI6Im5CU3cwenliT2Y5YklPbllBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTbVpYV2tSc05tbHJaR3RKZFZreFIwVTRMVmxJTlZKVVNVWTBkbEUxWmxkUVZqZG9TVzgwVjFSd2NtWTBjMmxHYTFObE9WRlpOR1pqYmxnMmFtWXdSMjlHT1hGWU1rUlFZbE5VTVhJMk0xQmpZa1JOU0dGSVZHTjVVbkpuTVVrMWIxbDZhbWgyZEc1aFVUWjNlR1UxTkZOR1FuVmtRbHBJT1VoR2JGSXRiRkkyVEMxQ1F6WnZjVmhFTkZGSGR6Rm5VMnh2TUV3MVVrdEhWRnBhV1RScU4ycHVabkZUZDJsM1l6RkpZblY1TTNKYVNqSXpNSEYxU0c4MFFqWlJkMlpJYTNaMlNGZEhNbU5TV21rNFNrbDNOVFpUT0dSaFFVOXZNRk0yZEVKQ09WSnBUR2xWV2tGNFZqUlBOVlJsWmxoaGRUbEVZV2t0WTFWc2FqWTJaVXd3YTJGMFNuSkhhbUV0TFZKRFVVRlVZemRZTm5ORlIySktkRmN5V0VoVU0yWTRYMlpaWlMwd1VrUm1kbFIyZVd0dFkyeGZOSHBQWTI5MWQwRjVWR1V0V1dsZldFVnhkSGRQZGxOWGFUVmtabFpzZW1zelUweFpjalExZEhCNVpVVnRWM1Z5VjNkR1gwNW9hemRCY0hkeVlXVm5Za2g0Tm1aeFZVcHVObDh3WkhKMlZtczFRVFk0TTBwUmEweExaREo2UWxwUU5EZHFlRUZSZFdrNU1TMUpVR1kxY0hrMWEzb3RZMGRCYUdwbU0zY3hNV3B4U0hoNVdXMU9TRTF3VTNkUmFXdzNaWFpUVVJJWGEzVm1TV0Z4VnpWSVNWZGthMUJKVUhaeVJGRm5VWGNhSWtGRWMzSTVabEpZUlUwNFdFc3dUVGxRVGtFMU1uRjJhRmcxWm5kaU4wazVURkUiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Dehradun%2C+India&next_page_token=eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTbVpYV2tSc05tbHJaR3RKZFZreFIwVTRMVmxJTlZKVVNVWTBkbEUxWmxkUVZqZG9TVzgwVjFSd2NtWTBjMmxHYTFObE9WRlpOR1pqYmxnMmFtWXdSMjlHT1hGWU1rUlFZbE5VTVhJMk0xQmpZa1JOU0dGSVZHTjVVbkpuTVVrMWIxbDZhbWgyZEc1aFVUWjNlR1UxTkZOR1FuVmtRbHBJT1VoR2JGSXRiRkkyVEMxQ1F6WnZjVmhFTkZGSGR6Rm5VMnh2TUV3MVVrdEhWRnBhV1RScU4ycHVabkZUZDJsM1l6RkpZblY1TTNKYVNqSXpNSEYxU0c4MFFqWlJkMlpJYTNaMlNGZEhNbU5TV21rNFNrbDNOVFpUT0dSaFFVOXZNRk0yZEVKQ09WSnBUR2xWV2tGNFZqUlBOVlJsWmxoaGRUbEVZV2t0WTFWc2FqWTJaVXd3YTJGMFNuSkhhbUV0TFZKRFVVRlVZemRZTm5ORlIySktkRmN5V0VoVU0yWTRYMlpaWlMwd1VrUm1kbFIyZVd0dFkyeGZOSHBQWTI5MWQwRjVWR1V0V1dsZldFVnhkSGRQZGxOWGFUVmtabFpzZW1zelUweFpjalExZEhCNVpVVnRWM1Z5VjNkR1gwNW9hemRCY0hkeVlXVm5Za2g0Tm1aeFZVcHVObDh3WkhKMlZtczFRVFk0TTBwUmEweExaREo2UWxwUU5EZHFlRUZSZFdrNU1TMUpVR1kxY0hrMWEzb3RZMGRCYUdwbU0zY3hNV3B4U0hoNVdXMU9TRTF3VTNkUmFXdzNaWFpUVVJJWGEzVm1TV0Z4VnpWSVNWZGthMUJKVUhaeVJGRm5VWGNhSWtGRWMzSTVabEpZUlUwNFdFc3dUVGxRVGtFMU1uRjJhRmcxWm5kaU4wazVURkUiLCJmY3YiOiIzIn0%3D&q=Data+Analyst"
+  },
+  "_retrieved_at": "2026-10-09 13:09:38 UTC"
+}

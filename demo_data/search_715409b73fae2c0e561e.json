@@ -1,0 +1,526 @@
+{
+  "search_metadata": {
+    "id": "6ac8e799b9fc5fd993b73d5f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/irOK24BJ4Ce7ZnDwfdJ7EEeCf35G_046mhA9tURNUBk/6ac8e799b9fc5fd993b73d5f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/irOK24BJ4Ce7ZnDwfdJ7EEeCf35G_046mhA9tURNUBk/6ac8e799b9fc5fd993b73d5f.md",
+    "created_at": "2026-10-09 13:09:45 UTC",
+    "processed_at": "2026-10-09 13:09:45 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Accountant&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/irOK24BJ4Ce7ZnDwfdJ7EEeCf35G_046mhA9tURNUBk/6ac8e799b9fc5fd993b73d5f.html",
+    "total_time_taken": 20.01
+  },
+  "search_parameters": {
+    "q": "Accountant",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rKlWVD0kkgR7NAc1Un5S2tzs2sUke6XTOoakpqfuuoCSln1TfBzFKGyTwK1KJrHzYNmjM6beij3IgirCUMqwRV18ge3k8pwSTzghDLFeSUzMF4KOxW_U381ERfDElVmYUPl5_JSCpSYBVI751zKx5tcxVf0I",
+        "q": "Accountant remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKlWVD0kkgR7NAc1Un5S2tzs2sUke6XTOoakpqfuuoCSln1TfBzFKGyTwK1KJrHzYNmjM6beij3IgirCUMqwRV18ge3k8pwSTzghDLFeSUzMF4KOxW_U381ERfDElVmYUPl5_JSCpSYBVI751zKx5tcxVf0I&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKlWVD0kkgR7NAc1Un5S2tzs2sUke6XTOoakpqfuuoCSln1TfBzFKGyTwK1KJrHzYNmjM6beij3IgirCUMqwRV18ge3k8pwSTzghDLFeSUzMF4KOxW_U381ERfDElVmYUPl5_JSCpSYBVI751zKx5tcxVf0I"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg",
+            "q": "Accountant full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w",
+            "q": "Accountant part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq",
+            "q": "Accountant contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9",
+            "q": "Accountant internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg",
+            "q": "Accountant full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w",
+            "q": "Accountant part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq",
+            "q": "Accountant contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9",
+            "q": "Accountant internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA",
+            "q": "Accountant since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg",
+            "q": "Accountant in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw",
+            "q": "Accountant in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg",
+            "q": "Accountant in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA",
+            "q": "Accountant since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg",
+            "q": "Accountant in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw",
+            "q": "Accountant in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg",
+            "q": "Accountant in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=2cd7c0326b86c6e2&hl=en&gl=in&sxsrf=APpeQnvoAVKl8rntNOovIq_0Kj_vNs2Kjw:1791551405119&q=Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg&udm=8&sa=X&ved=2ahUKEwjb3-SIga2XAxWlfjABHUm_MXMQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Accountant",
+      "company_name": "Sriman Trading & Co",
+      "location": "Thurahalli, Karnataka",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=KzyPSQ3qgwXYuya0AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7CE4HgoOURgQXncTBwVH3co0hiU3vQu4KHX0EwTf0SazLD9_wV-9FtTpZyyMpksL39YEndyAOiw3ABBdmn9zyGFSzHIwRSY0XRY22sTwYJtfxZOZJ_mklYHE5obp2t99OTSa_qW8lDkhwL_iI5GENZ4Y4O4wFA6YUa7hiIVTs8QfUQAl_kwAAAA&shmds=v1_ARwrE22Mt8ujYhadSl18_LW0-mfgdzFtXSZMyJFZCCdXWJlRHA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=KzyPSQ3qgwXYuya0AAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "₹13K–₹20K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/accountant-accountant-job-in-sriman-trading-co-thurahalli-bangalore-0-to-0-years-1791263226-8468518-jid",
+      "job_title": "Accountant",
+      "description": "good to start with good boss in a mid size company\n\nyou can get best experience.... if you really Worth we will pay as per market.........Rather then be a small part responsible person in big company \n\nIt is a Full Time Accountant job for candidates with Freshers.More about this Accountant jobPlease go through the FAQs to get all answers related to the given Accountant jobWhat skills and experience do you need for this Accountant job?\nAns :   To apply for this Accountant job, candidates should have skills like Audit, Balance Sheet, Book Keeping, Cash Flow, MS Excel, Tally along.\n\nWhat is the salary and job type for this role?\nAns :   The salary for this Accountant job ranges between ₹13,000-₹20,000 per month. This is a Full Time job.\n\nWhat are the working days and timings for this job?\nAns :   This Accountant job has 6 days working days and timings from 09:00 AM - 06:00 PM.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Thurahalli, Bangalore.\n\nHow many openings are available for this position?\nAns :   There is 1 opening available for this position.\n\nIs this job open for all genders?\nAns :   Yes, this Accountant job is open for both male and female candidates.\n\nWhat are the key responsibilities of this Accountant job?\nAns :   As a Accountant, key responsibilities include skills like Audit, Balance Sheet, Book Keeping, Cash Flow, MS Excel, Tally. This role is part of Accountant category.\n\nWhere is this job located?\nAns :   This Accountant job is located in Thurahalli, Bangalore.\n\nWhat kind of candidate is ideal for this job?\nAns :   A candidate with skills like Audit, Balance Sheet, Book Keeping, Cash Flow, MS Excel, Tally along is ideal for this Accountant job.\n\nWhy should you apply for this Accountant job?\nAns :   This Accountant job offers a salary between ₹13,000-₹20,000 per month. This is a Full Time opportunity and has 1 openings available.\n\nCandidates can call HR for more info.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-accountant-job-in-sriman-trading-co-thurahalli-bangalore-0-to-0-years-1791263226-8468518-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiU3JpbWFuIFRyYWRpbmcgXHUwMDI2IENvIiwiaHRpZG9jaWQiOiJLenlQU1EzcWd3WFl1eWEwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNrbHRlVE5JUzNObFYwOUlPVjlEUlRWd2FURlVVbWxDVVZwcVYweGlNemRPV0dveWNsRktSVzlyZDFOc09IWTRka0paUzE5S2NFcHphMlE1WjIxRFMyOW1iVlJzWlRJeldUSlBka05qVlhWNGREVjJla1ozTTJWSmVHWmFiRTlWTlZZd1dVbGplamR4YkVKT2RUVlhVRVJFZHpOWmIzRnlabEJLWkVSVFowTTBhR0l0VURBU0YzSmxaa2xoY0haV1FuRllPWGRpYTFCNVpqZEhiVkZqR2lKQlJITnlPV1pUWmtGQ1RHcHVkV3QzVTFRdFJqTTNiMTlHVkVsc2NIRTRSRzlCIiwiZmN2IjoiMyIsImZjX2lkIjoiS3p5UFNRM3Fnd1hZdXlhMEFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Accountant For CBSE SChool In Horamavu, Bangalore",
+      "company_name": "Samsidh International School, Horamavu",
+      "location": "Bengaluru, Karnataka",
+      "via": "Internshala",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=gSNCDM2d2v7NdPq5AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2OTQrCMBCFcdsjuJq1lFYENwqCLf7hSnKAMsahqaYzJUmlS-_gxTyDJzHduHnw4H28L_lMkosibsTBVmvpOSAH2MdaFmoHqjQiFk4MR3HY4rNPoUCu0Yoj-L7ecJcreEKnDQjDQaS2NF2bEDq_ynPvbVb7gKHRmZY2F6arDHmE_BiVN-iosxioWiznQ9ZxPdsobH1zM_E1kOPICqMFpUeV9C8CDUNBo0rvotUZxyk-8AfIrwwZ0wAAAA&shmds=v1_ARwrE2135dyEv67h4oZ-C9eVgonfgfSMYOUY_uLO-rcDBs88sA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=gSNCDM2d2v7NdPq5AAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "₹4L–₹5L a year",
+        "Full–time"
+      ],
+      "source_link": "https://internshala.com/job/detail/senior-accountant-for-cbse-school-in-horamavu-bangalore-job-in-bangalore-at-samsidh-international-school-horamavu1791397866",
+      "job_title": "Senior Accountant For CBSE SChool In Horamavu, Bangalore",
+      "description": "About the job:\n\nJob Description  Senior AccountantPosition: Senior Accountant\n\nLocation: Horamavu, Bengaluru\n\nSalary: 35,000  40,000 per month\n\nQualification: B.Com / M.Com / CA Articleship\n\nExperience: Relevant experience in School Accounts / CA Articleship\n\nTravel: Required  Bangalore and outstation school visitsJob SummaryWe are looking for a Senior Accountant with strong accounting knowledge and hands-on experience in managing school/education-sector accounts.The ideal candidate should either have completed 3 years of CA Articleship or have relevant experience as a Senior Accountant handling the accounts and financial activities of multiple schools (preferably 45 schools).The candidate will be based at Horamavu, Bengaluru and will be responsible for supporting and reviewing accounting and financial activities across multiple schools.Key ResponsibilitiesManage and review accounting and financial activities across multiple school branches.Handle/oversee school-wise accounts, fee collections, expenses, payments, bank reconciliations, ledgers and other accounting transactions.Review financial records and ensure accuracy and completeness of branch accounts.Conduct financial reviews and audits of schools and identify discrepancies or areas requiring correction.Visit schools in Bangalore and outside Bangalore for financial reviews, accounting support, training and other assigned activities.Coordinate with School Admin, HR and Accounts teams for smooth financial operations.Support and train school-level staff on accounting processes, documentation and financial procedures.Prepare and review MIS, branch-wise financial reports, reconciliations and other management reports.Coordinate with auditors and provide necessary financial records and supporting documents.Ensure proper compliance with accounting processes, statutory requirements and internal financial controls.Monitor outstanding items and ensure timely closure of accounting-related issues.Assist the management/central accounts team with financial analysis and other assigned responsibilities.Candidate ProfileCandidates should meet either of the following criteria:Option 1  CA ArticleshipShould have completed 3 years of CA Articleship.Strong practical exposure to accounting, audit and financial processes.OROption 2  School Accounts ExperienceRelevant experience in school/education-sector accounts.Should have handled accounts and financial activities of 45 schools as a Senior Accountant or in a similar role.Strong understanding of branch-wise accounting and financial review processes.Mandatory RequirementsB.Com / M.Com or relevant accounting qualification.Strong knowledge of accounting and financial processes.Good working knowledge of MS Excel and accounting software/Tally.Experience in handling multiple branches/schools will be strongly preferred.Good understanding of audit, reconciliation and financial controls.Willingness to travel to schools within Bangalore and outside Bangalore as required.Strong communication and coordination skills.Language RequirementThe candidate should be able to communicate effectively in:English  MandatoryKannada  MandatoryTelugu  MandatoryCompensation35,000  40,000 per month, depending on experience, qualifications and suitability for the role. \n\nWho can apply:\n\nOnly those candidates can apply who:\n\nhave minimum 4 years of experience\n\nSalary:\n\n₹ 4,00,000 - 5,00,000 /year\n\nExperience:\n\n4 year(s)\n\nDeadline:\n\n2026-12-05 23:59:59\n\nSkills required:\n\nAuditing\n\nOther Requirements:\n\nMin Education: Graduation/Diploma",
+      "apply_options": [
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/job/detail/senior-accountant-for-cbse-school-in-horamavu-bangalore-job-in-bangalore-at-samsidh-international-school-horamavu1791397866?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/7990271908495489035?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQWNjb3VudGFudCBGb3IgQ0JTRSBTQ2hvb2wgSW4gSG9yYW1hdnUsIEJhbmdhbG9yZSIsImNvbXBhbnlfbmFtZSI6IlNhbXNpZGggSW50ZXJuYXRpb25hbCBTY2hvb2wsIEhvcmFtYXZ1IiwiaHRpZG9jaWQiOiJnU05DRE0yZDJ2N05kUHE1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXUjZPSEJwZVdJMmExZFFiSGROWTI4eVVreFFVRmN3TUVSNVZ6SnFjelIyUzFsakxVRklRbWgyYWpScU9GbEpjRzVWYjBkTFoyTnJRVTVKYkhONlptbGpOVjlFZVdKbmFsOUVUMnB4TWtKRlJpMVBaMGMzU1daM1VDMWhPVzVWVldwaWIxOVRSVlY0UkdsNlNYSmZhall4WldwNmRTMTZkblpRTUdaNWRVNTJTVjk1YkdzU0YzSmxaa2xoY0haV1FuRllPWGRpYTFCNVpqZEhiVkZqR2lKQlJITnlPV1pUVFVWVFFtUkdiVEJwUjA0NWEyaE9SVGswUlZwM2J5MHpOelZuIiwiZmN2IjoiMyIsImZjX2lkIjoiZ1NOQ0RNMmQydjdOZFBxNUFBQUFBQT09In0="
+    },
+    {
+      "title": "Semi-Qualified Chartered Accountant | Full-time | On-site, HSR Layout, Bengaluru",
+      "company_name": "BHD AND ASSOCIATES",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=bQceSNdYS1Q0Vno4AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0WOTU4CQRCF45YjuKo1mR9j4kZXA4IYiESbPSmacqahp2rSXZ1g4sI7eDVP4EloVizey7f58t7o72bkDPWufE_o3aejPUw7DEohU2OtJFZkhW-YJ-9LdT1lXnMZnVIBC_MBK_ySpAVMiFv0KST4__mFg-wgEgbbgTC8iLSebp861SE-1nWMvmqjojpbWelrYdrJqc5SvNQ25g80eFTa3j_cnaqB2_F4sniG5i3HmPX0tdnMDDi-zhawxMCoeMQzVgtaeNcAAAA&shmds=v1_ARwrE23CvjJZawBmTlvnp_dTxq5lY6JRCsvOFzmSuODdLv1hrw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=bQceSNdYS1Q0Vno4AAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/semi-qualified-chartered-accountant-full-time-on-site-hsr-layout-bengaluru-at-bhd-and-associates-4473649699",
+      "job_title": "Semi-Qualified Chartered Accountant | Full-time | On-site, HSR Layout, Bengaluru",
+      "description": "About Us\n\nB H D & Associates, Chartered Accountants, is a Bengaluru-based firm providing audit, accounting, taxation, CFO and advisory services to clients across industries. We focus on accurate, compliant and timely work that supports sound business decisions. We value technical excellence, professional ethics and the growth of our team.\n\nThe Role\n\nYou will work closely with the principal and clients on audit, tax and advisory assignments.\n\nKey Responsibilities\n\nSupport statutory, tax and internal audits: planning, execution, documentation and working papersReview bookkeeping and scrutinise ledgersPrepare and analyse financial statementsAssist with direct and indirect tax computations, returns and related complianceEnsure compliance with applicable accounting standards and regulationsLiaise with clients to gather information, resolve queries and share updatesSupport advisory assignments, MIS reporting and process improvementsMaintain accurate records and meet deadlinesWhat We're Looking For\n\nCA Intermediate cleared (one or both groups)Sound knowledge of accounting and auditing principlesHands-on experience in financial statement preparation and ledger scrutinyWorking knowledge of Income Tax and GST, including computations and return filingProficiency in MS Excel; experience with Tally or other accounting/ERP software is a plusStrong attention to detail and documentation skillsClear communication and a professional approach with clientsWillingness to learn and keep up with regulatory changesGood organisation and time managementPrior audit experience or articleship with a CA firm preferredLocation: #1162, 3rd Floor, 5th Main, HSR Layout, Sector-7, Bengaluru – 560102\n\nExperience: 1–3 years (post-articleship or equivalent)\n\nCTC: ₹4.5 – 6 LPA (based on experience and skills)\n\nJoining: Immediate. Candidates who can join right away or within 15 days will be given preference.\n\nHow to Apply:\n\nApply directly through this LinkedIn job post, orEmail your CV to [REDACTED EMAIL] with the subject line \"Application – Semi-Qualified CA\"",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/semi-qualified-chartered-accountant-full-time-on-site-hsr-layout-bengaluru-at-bhd-and-associates-4473649699?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW1pLVF1YWxpZmllZCBDaGFydGVyZWQgQWNjb3VudGFudCB8IEZ1bGwtdGltZSB8IE9uLXNpdGUsIEhTUiBMYXlvdXQsIEJlbmdhbHVydSIsImNvbXBhbnlfbmFtZSI6IkJIRCBBTkQgQVNTT0NJQVRFUyIsImh0aWRvY2lkIjoiYlFjZVNOZFlTMVEwVm5vNEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbTVUYVhWQ1pXbHJja1Z5UWxWV1lYUlRXR2Q0Y0RKSlJVZEdkVXRFVlVReVVscDBYM2hITlVwd2JUaDVjRnBMZVdoeVJFczFiR0pyUnpsUk1IWnZhMUJXVTNkU05YSnJSV2M0TWpkbmJtMWZia1ZSVjFoVVlUQnVUREJzUlZvNFgxbHZPVkZuYlRWTVdWaERYME00YVZSUE1sVTFSMnhaYWtWcVoydDZRMnhwVjJWQ2NsZ1NGM0psWmtsaGNIWldRbkZZT1hkaWExQjVaamRIYlZGakdpSkJSSE55T1daU1QyaHlSemxWZHpWdE5rMXdUVTVuZFVKRldUTTRjR3hDYTBwMyIsImZjdiI6IjMiLCJmY19pZCI6ImJRY2VTTmRZUzFRMFZubzRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Statutory Accountant",
+      "company_name": "Snowflake",
+      "location": "Bengaluru, Karnataka",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=077Run6WR6aKHUofAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ7CMAwAQLH2CUxmRahBCBaYYGFg7AMqNzJpabCr2BFl4w9IPJCXUJbbrvjMim1F3EmCytCySXrC0XvJbMgG39cbbtKAEibfgjCcRUKk-aE1G3TvnGosg06386WXuxOmRkY3Jf1Ta4uJhohG9Wa3HsuBw3JRsTyuEXuCjuFEHDDmlFdwwcRo2OMPxhH5_pkAAAA&shmds=v1_ARwrE205ZkVF0jQXUdmLoPcJ1Qg4tVlVpno12NV56GDV_UGFUg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=077Run6WR6aKHUofAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e799b9fc5fd993b73d5f/images/Pq8y58bBOuyLSQzl38bdO2ZcfadrUWTOC3VFwSaemi8.png",
+      "extensions": [
+        "13 hours ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010290580913",
+      "job_title": "Senior Statutory Accountant",
+      "description": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\n\nSenior Solutions Engineer\nLocation: Bangalore, India | Workplace: Hybrid\n\nTeam: Solutions Engineering | Business Unit: Go-to-Market\n\n\nAt Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don't just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset, rapidly testing emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\n\nSnowflake is about empowering enterprises to achieve their full potential, and people too. With a culture that's all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology and careers to the next level.\n\n\nWe are hiring a Senior Solutions Engineer to help customers across India turn complex data and AI priorities into measurable business outcomes. You will combine deep technical expertise, consultative discovery, and executive communication to shape secure, scalable solutions on the Snowflake AI Data Cloud.\n\n\n\n\nAS A SENIOR SOLUTIONS ENGINEER AT SNOWFLAKE, YOU WILL:\nLead technical discovery with customers and translate business priorities into architectures built on the Snowflake AI Data Cloud.\n\n\nDesign and demonstrate solutions using Snowflake capabilities such as Cortex AI, Snowpark, Dynamic Tables, Streamlit in Snowflake, and secure data sharing.\n\n\nBuild proofs of concept that validate performance, governance, interoperability, and business value for high-priority customer workloads.\n\n\nAdvise customers on modernizing data platforms and migrating analytical workloads to Snowflake while reducing complexity and operational overhead.\n\n\nPartner with Account Executives, Product Management, Professional Services, and Snowflake partners to develop account strategies and remove technical barriers.\n\n\nGuide customer stakeholders on security, governance, privacy, and responsible AI patterns using Snowflake Horizon and related platform controls.\n\n\nInfluence technical and executive decision makers through clear architecture narratives, workshops, demonstrations, and value-focused presentations.\n\n\nMentor Solutions Engineering peers and contribute reusable field assets, reference architectures, and product feedback that improve execution across the region.\n\n\nOUR IDEAL SENIOR SOLUTIONS ENGINEER WILL HAVE:\n12+ years of relevant experience in solutions engineering, data architecture, cloud platforms, analytics, or an equivalent customer-facing technical role.\n\n\nA strong foundation in data warehousing, data engineering, analytics, cloud architecture, and enterprise security.\n\n\nExperience leading technical discovery and designing solutions for complex enterprise requirements.\n\n\nThe ability to explain technical concepts clearly to engineers, architects, business leaders, and executives.\n\n\nHands-on proficiency with SQL and at least one major cloud platform as supporting capabilities for solution design and validation.\n\n\nA record of influencing customer decisions through consultative problem solving, demonstrations, and proofs of concept.\n\n\nStrong collaboration skills and the ability to lead across sales, product, services, partners, and customer teams without direct authority.\n\n\nA bachelor’s degree in computer science, engineering, information systems, or a related field, or equivalent practical experience.\n\n\nBONUS POINTS FOR THE FOLLOWING:\nExperience with Snowflake, Cortex AI, Snowpark, Streamlit in Snowflake, or native application development.\n\n\nFamiliarity with GenAI architectures, retrieval-augmented generation, model governance, and AI-assisted solution engineering workflows.\n\n\nExperience supporting data platform modernization or migration programs in large enterprises.\n\n\nKnowledge of data governance, security, privacy, and regulatory considerations relevant to customers in India.\n\n\nExperience mentoring technical presales professionals or leading cross-account technical initiatives.\n\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\n\nHow do you want to make your impact?\n\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010290580913&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/OyX23ZKh-mT6E_VJ2dOdxRWwu91MJ_kQF9ElO8LNt3Ov8Rwh-IwYYg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU3RhdHV0b3J5IEFjY291bnRhbnQiLCJjb21wYW55X25hbWUiOiJTbm93Zmxha2UiLCJodGlkb2NpZCI6IjA3N1J1bjZXUjZhS0hVb2ZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBOMFpIQTNSbUV4TVZBNE1ITm5ValJGV1d0Q1QyaGxUMmh5Y2tkU1RIZFBjVmt4UWpWaVRrbzNkbVpGZUVaZlkxbFplVVZmUmxsSFRuTkpWVzlSWVdoUVZtRnljWFptUTBsYVJ6UkpMVTV1TTI1TlZqaGZlbDlLWlRnemFISm1iSHAxYTNaUE1FMW9SWEZTVm5rNVozSldjVVZEUkZsV1ZtTnRZbWxEV1VkeVlUSlBialVTRjNKbFprbGhjSFpXUW5GWU9YZGlhMUI1WmpkSGJWRmpHaUpCUkhOeU9XWlRhMGhVUW5oVFVYQjFObVJTYW5WTVRXWkthMHhpU3pac1JXZG4iLCJmY3YiOiIzIiwiZmNfaWQiOiIwNzdSdW42V1I2YUtIVW9mQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Semi-Qualified Chartered Accountant (Audit & Taxation Focus)",
+      "company_name": "Pirgal Consulting",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=CrPCbHI_DHVQRgzzAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMW7CQBBFlZYjpJoKxSixEVKaUBmkUNCAQmo0Xk_WS5YZa2dWcskdcqDcJSdh03x9_aenP_t9mH1-0DW8HDPG8BWoh-2AySiV1jonmQ3Z4KnNfTCYwwkntCAM7-KyVvB3-4GLdKCEyQ1QwE7ER3pcD2ajvjWNaqy9WrFc7eTaCFMnU1Mk_Y-zlj8aIxqdV6_LqR7ZL6pDSB4jbIU1RwvsITBsiMuYU36GPSZGw2-8AyX48vvCAAAA&shmds=v1_ARwrE21b7VrEu9z5BjIFmVl1JJHDhHhVROQ4x1IYyta_zLPQlQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=CrPCbHI_DHVQRgzzAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e799b9fc5fd993b73d5f/images/0bjsTlL-ot0b24vY-wyv7v0SySIizYjT6cK6gb5k8ig.jpeg",
+      "extensions": [
+        "4 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/semi-qualified-chartered-accountant-audit-taxation-focus-at-pirgal-consulting-4470299275",
+      "job_title": "Semi-Qualified Chartered Accountant (Audit & Taxation Focus)",
+      "description": "Company Description\n\nPirgal Consulting is a multi-disciplinary professional services firm offering tailored solutions to meet the business needs of clients. With a team of trained Chartered Accountants, Company Secretaries, and Lawyers, we deliver sustainable value across various business sectors. Our services include Business Tax, Indirect Tax, Transfer Pricing, Human Capital, Company Law, Company Secretary, Auditing, Assurance, and Legal Consulting.\n\n\n\n\nRole Description\n\nThis is a full-time on-site role for a Semi-Qualified Chartered Accountant (Audit & Taxation Focus) at Pirgal Consulting in Bengaluru. The role involves working across domains such as direct and indirect taxes, transfer pricing, human capital services, company law, auditing, and legal consulting.\n\n\n\n\nResponsibilities\n\nIndependently handle end-to-end statutory audits, tax audits, and GST audits for clients across industries.Take full ownership of assignments — from audit planning, execution, documentation, to finalization and reporting.Lead and supervise junior team members during audit engagements, ensuring timely and high-quality deliverables.Prepare and file GST returns, TDS returns, and support other direct and indirect tax compliance activities.Coordinate directly with clients to collect data, clarify queries, and ensure the smooth execution of audits.Work closely with partners to discuss audit findings, design strategies, and suggest actionable insights.Keep up to date with regulatory, statutory, and industry changes that impact taxation and audits.Ensure all work complies with firm standards, timelines, and maintains client confidentiality.\n\n\nRequirements\n\nSuccessfully completed 3 years of articleship from a reputed CA firm, with substantial experience in audit and taxation.Capable of leading a team and independently managing client assignments.Proficient in Winman software, Excel, and relevant audit tools.Strong understanding of Income Tax, GST, TDS laws, and hands-on experience in filing returns.Demonstrated excellence in communication, coordination, and analytical thinking.Self-driven, dependable, and committed to long-term professional growth.CA Final aspirants are preferred; exam leaves will be accommodated as per company policy.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/semi-qualified-chartered-accountant-audit-taxation-focus-at-pirgal-consulting-4470299275?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/pirgal-consulting-titlesemi-qualified-chartered-accountant-audit-taxation-focus-bengaluru-bangalore-karnataka-3-to-5-years-733932?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW1pLVF1YWxpZmllZCBDaGFydGVyZWQgQWNjb3VudGFudCAoQXVkaXQgXHUwMDI2IFRheGF0aW9uIEZvY3VzKSIsImNvbXBhbnlfbmFtZSI6IlBpcmdhbCBDb25zdWx0aW5nIiwiaHRpZG9jaWQiOiJDclBDYkhJX0RIVlFSZ3p6QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyODFSMFZsYzBWNFFqUm5kbDlwY1ZKdVVVUklPRjlrWkhCeE9USkhjVll5WDFkTFpHWjFNVEIzV0hWd1luSmZkazlKTVhKcVEwRTFRWFpTU1RKMVdHeENhV053V2xkVlFWUmhUMWN6T0RGTWRUZHJXV3BOUVhWM1duaE5SVEJhTmxOcGVHcGlVSEI0VFV4T2REQm5MWGx5YUhab2IwMTZaMWRCY0VReFMyaEJWazVHZGpNU0YzSmxaa2xoY0haV1FuRllPWGRpYTFCNVpqZEhiVkZqR2lKQlJITnlPV1pVY3pOdFoxWm9lbTFQU2tOWlRVODFiWFYwVFU1SFVtdFBXa05CIiwiZmN2IjoiMyIsImZjX2lkIjoiQ3JQQ2JISV9ESFZRUmd6ekFBQUFBQT09In0="
+    },
+    {
+      "title": "Qualified Chartered Accountant - 3 To 7 Years - Bangalore",
+      "company_name": "Rise Finconnect",
+      "location": "Bengaluru, Karnataka",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=Ou_trL12Tjobo9XDAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBBFsfUIVtMJookoImilghZWBhsrGdcxWV1nws4EUnoHb-NxPIlr8_mfx-d1P51ucWgw-JunK2wqjEYxtZVz0rAhG4xgCkeBOZwIo6a5Ri4xSCT4vt5wlwtoIq4CYdiJlIF6y8qs1kWeq4asVEPzLnPyzIXpIm2eTvqPsyYj1QGNzpPZuM1qLgf9wivB1rMTZnIGnmFNf2cTmyHsMTIaPvAHP2S2w70AAAA&shmds=v1_ARwrE22ry13RLEf0ftmSR3SlexyPq55fM0YN5n3gL3cV8uYUzQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=Ou_trL12Tjobo9XDAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e799b9fc5fd993b73d5f/images/hZC_I1tr3iQzyjWF4C52Q-GcrTDcCj0hNCFodIy4JkQ.jpeg",
+      "extensions": [
+        "6 days ago",
+        "₹66,667–₹1,33,333 a month",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/qualified-chartered-accountant-3-to-7-years-bangalore-rise-finconnect-bengaluru--t7xk-864867014",
+      "job_title": "Qualified Chartered Accountant - 3 To 7 Years - Bangalore",
+      "description": "Role & responsibilities\n\n\n\n\n\nHandling Statutory audit of Listed and Private limited companies along with the Compliance of accounting standards, Company law provisions and other statutory compliance and lead the engagement as the in-charge from different sector.\n\n\nHandling of the routine audit functions & proper maintenance of accounting records.\n\n\nPreparation of key deliverables like audit report, CARO report, IFC report and conducting variance analysis by performing overall analytical review.\n\n\nShould have exposure in preparation and finalization of accounts of the Company, Firm, Individual and Charitable Trust\n\n\nShould Have explicit and in depth knowledge in GST and Income Tax.\n\n\nClose interaction with the client and internal teams (direct and indirect tax , audit, accounting) to discuss key audit procedures and conclusions.\n\n\nGetting the financials cleared and reviewing the work of Junior Subordinates.\n\n\nTeam building training subordinates and assigning to clients, ensure deliverables accuracy, and maintain task completion time efficiency.\n\n\nResponsible for delegating and guiding and coaching work to the team personnel.\n\n\nInvolvement in planning of audit approach including risk assessments, scoping and materiality related to statutory audit for clients following Ind AS or AS.\n\n\nConducted the audit of Internal Financial Control and Test of Controls and made appropriate recommendations to the management.\n\n\n\nInterested candidates can send their resumes at [REDACTED EMAIL]",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/qualified-chartered-accountant-3-to-7-years-bangalore-rise-finconnect-bengaluru--t7xk-864867014?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NESQIRA",
+          "link": "https://nesqira.space/job/external/6306/system-engineer-1-to-3-years-phonepe-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJRdWFsaWZpZWQgQ2hhcnRlcmVkIEFjY291bnRhbnQgLSAzIFRvIDcgWWVhcnMgLSBCYW5nYWxvcmUiLCJjb21wYW55X25hbWUiOiJSaXNlIEZpbmNvbm5lY3QiLCJodGlkb2NpZCI6Ik91X3RyTDEyVGpvYm85WERBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEVOQ2FERklhWHBqWVRSdFJVWmtkMjl6WjFGV00zaHVjSEF5Vm0xVFMxVnRjVEIwZDIxMGVHWlVlR2RKVDI5eFVqUnhhVUpyVFZCRlJFTnVVamxUZEUxdk9HcHNlRkJsUW1GVWMyWnFjRXRvZFZrNFJUZGtMWEpzY0Rsak9VUjFiR0p2WjA5RVpUZzNiVFpwUlc5VGRHTTFOMVl0TFd4MGRHWTFSMVJ6WVcxdlMwUnllblFTRjNKbFprbGhjSFpXUW5GWU9YZGlhMUI1WmpkSGJWRmpHaUpCUkhOeU9XWlJRWFoyT1dseE1XdHJRVjlVTm1RdFJtczNTRzEwZUVaRVNTMVIiLCJmY3YiOiIzIiwiZmNfaWQiOiJPdV90ckwxMlRqb2JvOVhEQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Accountant - Fixed Assets",
+      "company_name": "Servicenow Software Development India Private Limited",
+      "location": "Bengaluru, Karnataka",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=tlkEq-10ckzYyNhaAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOQWrCUBBA6dYjdDVraRMRumi7UkQRLRRyABm_YzL6MxP-TGKWvUMP1Xt4En83b_UevMnf0-S9ImFNsAhBe3EUh1dY80gnWJiRG9x_fuGiRzDCFBpQgY1qHen5s3Hv7KMszWJRm6NzKIK2pQoddSxzZP84WIOJuohOh_nbbCw6qadfFaWBA4neoNKz37ICKxooatdSvtjKiRG-Ew-5gz237PmJBZYkNcY-9S-wwyToeMUHMWWi8soAAAA&shmds=v1_ARwrE23C3BJf33-gZzPquW3z_fNoUMJikfoUK5lG-EQVrh0y3w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=tlkEq-10ckzYyNhaAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e799b9fc5fd993b73d5f/images/7LVBL68dkglLZgMEO0zYTT6u-0B3Wer5H5ViEurD8bM.png",
+      "extensions": [
+        "4 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/accountant-senior-accountant-fixed-assets-job-in-servicenow-software-development-india-private-limited-nelamangala-bangalore-5-to-6-plus-years-1791207374-8467427-jid",
+      "job_title": "Senior Accountant - Fixed Assets",
+      "description": "Senior Accountant – Fixed Assets Accounting Company Description It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started. Join us to put AI to work for people. Job Description We are looking for a detail-oriented Senior Accountant to join our dynamic Corporate Accounting Team. In this pivotal role, you’ll be responsible for Fixed Assets Accounting , ensuring full compliance with US GAAP (ASC 360) and supporting the preparation of financial reports , audits , and continuous process improvements . What we are looking for: An energetic and ambitious CA/CPA/CMA with 5+ years of experience in Accounting or Finance, who aims to build a career in Corporate Accounting. You will have the opportunity to learn alongside best-in-class professionals, in a role that will grow as you develop and are able to take on increased responsibility. Excellent task prioritization and organizational skills are a must, as is the ability to cope with complexity in a fast-paced environment. What you get to do in this role: Prepare and post journal entries related to lease additions, modifications, re-measurements, and terminations. Assist in reviewing and interpreting lease agreements to ensure proper accounting treatment. Maintain and reconcile lease schedules for ROU assets and lease liabilities. Support disclosure requirements for lease accounting in financial statements. Conduct monthly, quarterly, and annual close processes for lease accounting. Perform lease-related account reconciliations, and variance analysis, and ensure accuracy in reporting. Assist in the preparation of financial statements, footnotes, and regulatory reporting related to lease assets. Fixed Asset Accounting Responsibilities: Maintain and update the Fixed Asset Register, ensuring timely capitalization, depreciation, and disposals in accordance with company policies. Review and analyze capital project costs to ensure appropriate accounting treatment in line with US GAAP (ASC 360) and internal policies. Perform monthly capital expenditure (CapEx) reconciliations and prepare related reports. Collaborate with Business and FP&A teams to ensure accurate capitalization of costs and adherence to accounting policies. Support month-end and quarter-end close processes related to fixed assets. Prepare journal entries and account reconciliations for fixed asset activities. Provide variance analysis and commentary for MoM, QoQ, and YoY changes. Contribute to the preparation of materials for the CAO deck related to fixed assets. Assist in analyzing multiple fixed asset thresholds and other related assessments. Support the preparation of financial statements and footnote disclosures related to fixed assets. Ensure compliance with SOX controls, company policies, and US GAAP requirements. Monitor and ensure timely testing of internal controls, proactively addressing any deficiencies. Support internal and external audit processes by providing required documentation and resolving audit requests promptly. Identify and drive opportunities for process improvements and automation in fixed asset accounting. Qualifications To be successful in this role you have: Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry. 5+ years of accounting experience, preferably in an accounting centre of excellence for a US MNC managing close for WW region. CA, CPA, CMA, and bachelor’s degree in accounting or finance is required. Strong organizational skills and detail-oriented self-starter with the ability to work independently to meet deadlines. Great interpersonal skills and ability to work well with others. Ability to multi-task, work under pressure, and meet deadlines in a fast-paced environment with accuracy. Ability to work effectively across time zones/geographies with key stakeholders. Experience working in a matrix organization would be an advantage. A working knowledge of SAP is a must. Strong attention to detail. Ability to question, execute, and proactively follow up Excellent communication skills – verbal and written. Ability to work independently, manage multiple priorities, and meet deadlines in a fast-paced environment with accuracy. Proficiency with MS Office, especially Excel. Additional Information Work Personas We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here . To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service. Equal Opportunity Employer ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. Accommodations We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact [REDACTED EMAIL] for assistance. Export Control Regulations For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities. From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license. Experience Level Senior LevelIt is a Full Time Accountant job for candidates with 5 - 6+ years Experience.More about this Senior Accountant - Fixed Assets jobPlease go through the FAQs to get all answers related to the given Senior Accountant - Fixed Assets jobWho is eligible to apply for this Senior Accountant - Fixed Assets job at Servicenow Software Development India Private Limited?\nAns :   Candidates should have All Education levels for this Senior Accountant - Fixed Assets job offered by Servicenow Software Development India Private Limited.\n\nHow much can you earn in this position?\nAns :   Salary details will be shared during the hiring process.\n\nWhat shift and timings does this job follow?\nAns :   This Senior Accountant - Fixed Assets job follows a Day shift.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Nelamangala, Bangalore.\n\nHow many vacancies are there for this Senior Accountant - Fixed Assets job?\nAns :   There is 1 vacancy for this Senior Accountant - Fixed Assets role.\n\nIs this job open for all genders?\nAns :   Yes, this Senior Accountant - Fixed Assets job is open for both male and female candidates.\n\nWhat is the job location for this position?\nAns :   The job location for this Senior Accountant - Fixed Assets position is Nelamangala, Bangalore.\n\nWhat makes this Senior Accountant - Fixed Assets job a good opportunity?\nAns :   The employer has not disclosed the salary for this role, but it is a Full Time opportunity with 1 opening.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-senior-accountant-fixed-assets-job-in-servicenow-software-development-india-private-limited-nelamangala-bangalore-5-to-6-plus-years-1791207374-8467427-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/booking-holdings-nasdaq-bkng-senior-accountant-fixed-assets-lease-accounting-bengaluru-bangalore-karnataka-5-to-10-years-531010?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/senior-accountant-fixed-assets--bengaluru--ee55391fb2f539d90791987c2227d0cb1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQWNjb3VudGFudCAtIEZpeGVkIEFzc2V0cyIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2Vub3cgU29mdHdhcmUgRGV2ZWxvcG1lbnQgSW5kaWEgUHJpdmF0ZSBMaW1pdGVkIiwiaHRpZG9jaWQiOiJ0bGtFcS0xMGNrell5TmhhQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNtNVVXa1pYTkhVMFdHUmxjMEZuTjNZd1FsQnpWSEpaTkVOMlNrcDVXV05ZU201Sk5XdGhjRFYyTUZwaVlURjZZV3cwUlZKVlF6QXhNbXhxZFVscVRHcDNSMkpOU1hKcU5raHVkSGN5ZFdwclkwZGFRM3BVU1dKRVlUTlRiRkUwV0dsSU5GbEJWamMzTUZNd01uVmhWblUwVVhjMGMwOUVkVXBLZDJvMVFqZHNYMUJXTTI4U0YzSmxaa2xoY0haV1FuRllPWGRpYTFCNVpqZEhiVkZqR2lKQlJITnlPV1pUVEdka0xVeDJSa3BhTVU5RWRtNUVRalp0ZEc1dVgxVXpZelZSIiwiZmN2IjoiMyIsImZjX2lkIjoidGxrRXEtMTBja3pZeU5oYUFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Revenue Accountant",
+      "company_name": "Intuit",
+      "location": "Bengaluru, Karnataka",
+      "via": "Intuit Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=4vL79fwD7t4daB6DAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBAAQGzzBAvZWiQnARuttBGx0weEzbFcTi-74XZPUvoF8Ye-RG2mm-o1q5orcZQMF3oQF4K991LYkA0-zzfcpAMlzL4HYTiKhETzXW826tY51VQHNbToay-DE6ZOJvdL-qfVHjONCY3aZrOe6pHDcnFiK9EgMhyIA6aSywrOmBkN7_gFsTLSMpQAAAA&shmds=v1_ARwrE20ciD1lSUHhd_sMImxmnidZS4a3mRVZv0jFlJcSDj5w8A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=4vL79fwD7t4daB6DAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEUjbP____8AY_8dav8YaP8AX_8AYf8AXf_j6v89eP8OZf-etv8yc__7_P-Oq_-Xsf9sk_9jjv--zf9Wh__q7_-juv9Mgf92m_9vl__b4_9De_-Gpv-swP9fi__I1f8AUP8AV__y9f9NnSkzAAABI0lEQVRIie2S2W6DMBBFueMlMLFZzBZIGpL__8kOpKJR61TqU6XK58HCHh37zogsSyQSiT9Cqd8WHnA96GhBDw3_4OkRcPuO7H6JKoCT1vaVrE8irqHWXCb3JT8iKuWA2lZ-Mq-itrO8oqjIKDMdKp19dKfnlviIPC5KBTA5-g44V1hpgZl65FaibgeXWFquPHDIgcnDl_Ltd9GI6NeTPtqmfdvE69JIr0uH8uY-xeZWIV_i49H1Jh5pAIqD9EjFk2hf9vhNLI2IhXkSb_H_4Kt4HUW8zPddvI9t1NzEDv1DnGSITkaFDp1MtaHzOlWKiWoIgfsw6iIEp9xFVhemsg49hzAoLoPUolkVccYkNVovJlkVWdbEikkyMlHcSyQSiX_IO3OIDglEjErxAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://jobs.intuit.com/job/bengaluru/senior-revenue-accountant/27595/101386863648?k=&l=cheapest%2525252525252520place%2525252525252520to%2525252525252520buy%2525252525252520fc%252525252525252026%2525252525252520coins%2525252525252520Buyfc26coins.com%2525252525252520is%2525252525252520FC%252525252525252026%2525252525252520coins%2525252525252520official%2525252525252520site..rxlY",
+      "job_title": "Senior Revenue Accountant",
+      "description": "This is an accounting role as a Senior Accountant on the Revenue Recognition team within the Controllership, Assurance, and Operations (CAO) organization. The position is located in Bangalore. The position will be responsible for applying revenue recognition principles through the performance of revenue accounting, while also charged with gaining efficiencies and work product improvements that address financial risk and support business growth.\n\nIntuit’s Finance team drives business growth and profitability through strategic, financial and operational leadership. Our team is comprised of finance, accounting, supply chain, corporate strategy, and development and tax professionals that support and enhance Intuit's operating efficiencies. \n\nCompany Overview \n\nIntuit is a global technology platform that helps consumers and small businesses overcome their most important financial challenges. Serving more than 100 million customers worldwide, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible. \n\n\nResponsibilities\n\nThis position will require strong cross-functional skills, revenue accounting application, and ability to scope and centralize new accounting requirements that come from organic growth within the business. \n\nResponsible for applying, enforcing, and executing the Company's revenue recognition policy as it relates to the performance of revenue accounting.Stay current on evolving Accounting Standards pronouncements and updates under prevailing regulatory bodies (FASB, SEC), incorporating into current Company policy as necessary.Apply professional skepticism and an inquisitive approach to review and analyze the appropriateness and reasonableness of underlying accounting principles that support revenue recognition.Work closely with business unit partners, accounting leads, and internal/external auditors on accounting matters.Comfortable working with cross functional teams in order to understand company offerings and implement accounting models that properly recognize revenue and expense according to accounting principles and company policy.Participate in the month- and quarter-end close process and related responsibilities, including preparing journal entries and maintaining account reconciliations consistent with GAAP and corporate accounting policies and ensuring close timelines are met.Perform analysis to support deferrals and other revenue and expense impacting entries.Able to clearly articulate results and variances and demonstrate an understanding of root cause to management.Streamline systems and reporting tools to ensure efficient and accurate recording and classification of revenue.Establish controls necessary to ensure that revenue forecasts, deferred revenue balances and revenue accounting execution are compliant with Intuit company policy and GAAP.Prepare and maintain reports and analysis for management, as well as prepare schedules requested by internal and external auditors.\nQualifications\n\nBackground in understanding and applying software and SaaS revenue accounting literature and related concepts.Ability to manage complexity well and demonstrated experience managing across functions and businesses to accomplish large scale goals in a large, public company environment.Confidence, good judgment, energy, and personality to work in a dynamic, multi-business unit environment across all levels of management and across business units and functions.Strong end-to-end process orientation with demonstrated analytical thinking, organizational skills, and problem-solving skills.Ability to influence people indirectly and work with people in multi-functional roles.Excellent analytical and organizational skills, time prioritization, and risk assessment.Chartered Accountant/CPA with minimum of 4 years experience preferred. Candidates should have strong technical (GAAP) and financial accounting skills and Public accounting or large public company experience is strongly preferred.Software industry and Shared Service Center experience a plusWorking knowledge of Oracle, Siebel/BRM, BlackLine, and QlikSense is a plus.Strong attention to detail, excellent organizational and multitasking skills, strong written and oral communication skills and influencing skills, including the ability to raise issues appropriately to the right level internally and externally to resolve.\nIntuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.",
+      "apply_options": [
+        {
+          "title": "Intuit Careers",
+          "link": "https://jobs.intuit.com/job/bengaluru/senior-revenue-accountant/27595/101386863648?k&l=cheapest%2525252525252520place%2525252525252520to%2525252525252520buy%2525252525252520fc%252525252525252026%2525252525252520coins%2525252525252520Buyfc26coins.com%2525252525252520is%2525252525252520FC%252525252525252026%2525252525252520coins%2525252525252520official%2525252525252520site..rxlY&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Xactly Corp Careers",
+          "link": "https://careers.xactlycorp.com/jobs/2582?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/senior-revenue-accountant-at-mediakind-4463824641?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/senior-revenue-accountant-okta-bengaluru-bangalore-67383758?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Search At Monster Thailand",
+          "link": "https://www.monster.co.th/job/senior-revenue-accountant-mediakind-bengaluru-bangalore-66491546?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/senior-revenue-accountant-okta-JV_IC2940587_KO0,25_KE26,30.htm?jl=1010260376066&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-revenue-accountant-intuit-bengaluru-karnataka--t7xk-861600401?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-8122776615706379301?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUmV2ZW51ZSBBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiSW50dWl0IiwiaHRpZG9jaWQiOiI0dkw3OWZ3RDd0NGRhQjZEQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNsSm9kSGRMUWtNNVduVkpUM0l5ZEVSaU1UZ3dTa3gxWldneFQwWnVUV3hSZGpOSlgxSTFTWFp0TWtSbk5FeG5hVmh0UjFWNGFqbERXVzl1TjBSaFUwZDJXazlYUnpkdVZHNVBiSGx6Y0Y5VlRVTkpSV2xhWjJaNFZtTk9hMUJuTmxJeFRVRmxiM1I2WVhJNWNHVkljREZ0TlRseGFISXdOVlJwVkdoaGR6RlhMVTVPVjA0U0YzSmxaa2xoY0haV1FuRllPWGRpYTFCNVpqZEhiVkZqR2lKQlJITnlPV1pVYUcxU1RIcFVWR0p4VVRCM2JFUXpYemRFVFZCNlpqYzRPVGhCIiwiZmN2IjoiMyIsImZjX2lkIjoiNHZMNzlmd0Q3dDRkYUI2REFBQUFBQT09In0="
+    },
+    {
+      "title": "Chartered Accountant",
+      "company_name": "Millennium",
+      "location": "Bengaluru, Karnataka",
+      "via": "Careers At Millennium",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=JDyK2_C2DdWAkJifAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ7CMAxAUbH2CEwWI4IGIbHABAwMiDNUbrDSQGpXsSN15AhI3JCTUJa_vV-9Z9X63GE2ynSHo_dS2JANvq8PPKQFJcy-A2G4iIRE80NnNujeOdVUBzW06GsvvROmVkY3If2n0WlLQ0KjZrvbjPXAYbm4xZSIOZYeIsOJOGAquazgipnR8Ik_Ih0_hZMAAAA&shmds=v1_ARwrE23Z34nhJ5Ys-gxqSf4OH9iNa99FwW2q72UxIaZ5YOPUwA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=JDyK2_C2DdWAkJifAAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://career.mlp.com/careers/job/755953851214-chartered-accountant-bangalore-karnataka-india",
+      "job_title": "Chartered Accountant",
+      "description": "Chartered Accountant\n\nAbout Millennium\n\nMillennium is a global, diversified alternative investment firm, founded in 1989. Defined by evolution, innovation and focus, Millennium’s mission is to deliver results for our investors.\n\nOur people are empowered with both independence and support: the autonomy to pursue ideas with conviction and the backing of a global network committed to collaboration, disciplined risk management and continuous learning. With opportunities to deepen expertise and accelerate development, talent at Millennium is equipped to adapt, evolve and build lasting impact over time. Discover how transformative growth accelerates impact.  \n\n\nMeet the Team \n\nThe Finance Department provides best in class advice, support and control to our businesses and investors through an experienced and dedicated global team. We are seeking a detail-oriented Financial Analyst with CA qualification to join our Bengaluru Finance team.\n\n  \nWhat You'll Do \n\n  * Basis thorough understanding of the applicable legal entity and/or given process in line with applicable GAAP, responsible for preparing journal entries, reconciliations and balance substantiation.\n  * Assist in reconciling data and responding to requests for information on.\n  * Consolidation by parent US Company as per US GAAP.\n  * Data and disclosure note for all local filings as applicable as per local GAAP.\n  * Facilitate requests from various departments including external auditors.\n  * Interaction with various internal stakeholders across finance and various departments in Asia, Europe and NY and external stakeholders including banks and auditors.\n  * Identify opportunities and participate in various finance related projects (local and regional), assist in ad-hoc projects as needed.  \n\n\n\n\nWhat You Bring \n\n  * 1 to 3 years post-qualification.\n  * Chartered Accountant with relevant corporate accounting experience.\n  * Good knowledge of IFRS and US GAAP. India GAAP experience preferred.\n  * Excellent analytical and communication skills (both oral and written) required.\n  * Strong excel skills and accounting software knowledge.\n  * Excellent time management skills.\n  * Ability to multi-task as well as meet short deadlines in a demanding environment.\n  * Solid analytical skills and judgment – strong attention to detail. Team player and good interpersonal skills.",
+      "apply_options": [
+        {
+          "title": "Careers At Millennium",
+          "link": "https://career.mlp.com/careers/job/755953851214-chartered-accountant-bangalore-karnataka-india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/chartered-accountant-at-millennium-4464863585?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/job/detail/fresher-chartered-accountant-job-in-bangalore-at-broadwings-multi-family-office1790188480?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/chartered-accountant-mudrex-bengaluru-bangalore-65723282?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Instahyre",
+          "link": "https://www.instahyre.com/job-438595-chartered-accountant-rtr-f2f-drive-at-tata-consultancy-services-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/chartered-accountant/narayana-nethralaya/19519758?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "IIM Jobs",
+          "link": "https://www.iimjobs.com/j/operational-controller-chartered-accountant-1729539?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/chartered-accountant-hyreasy-JV_IC2940587_KO0,20_KE21,28.htm?jl=1010273121030&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDaGFydGVyZWQgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6Ik1pbGxlbm5pdW0iLCJodGlkb2NpZCI6IkpEeUsyX0MyRGRXQWtKaWZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzJsQ1JEVk5RblpMV1djMmNEbENlSFpWV2tWbFdXWXphRmRuTFhWT2RFRmZVaTE0WDI1TFNuaG5SbTg0Y25WalgxWjZUVU5MV0hWcVYzaExZMWRqTUV0cVNVaDBRVEJSTUZaV1FYUnRWVlpNVjJocVVsWjJZakl5UlV4eE9HWnVWVlF0UW5jNFZrbERaM2hxT0cxRGFtWnZNRlJYYUU1bVVuSnFXbVJaWVdwRlVDMU5SVElTRjNKbFprbGhjSFpXUW5GWU9YZGlhMUI1WmpkSGJWRmpHaUpCUkhOeU9XWlVjazF1UzBKeE1rcDNOMTlLV1RVM1RITjVhRkI0WDFBd2JVbG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJKRHlLMl9DMkRkV0FrSmlmQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior Accountant Executive",
+      "company_name": "Thomasmount Consulting",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=nSpRlnbD8L5vAh6xAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQoCMRBAUWw9gtXUIomINlqpiKCt_TIbQhLNziyZiWzpHTyCN_Mkus3vHn_6mUzXl0qJC-yd40qKpHAavKuanh6-rzfcuQXxWFwEJjgzh-xnu6jay9ZakWyCKGpyxnFnmXzLg_0jGdNIxOL7jOqb1WY5mJ7C3Nwidyjd-IMjk9SsiQIkgoOngLmWuoArFkLFB_4AayBTIKYAAAA&shmds=v1_ARwrE2302icux1d59bihJ1ocfZa2kUXXg46mNFMSnNC1WFaTHA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=nSpRlnbD8L5vAh6xAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/junior-accountant-executive/thomasmount-consulting/19682597",
+      "job_title": "Junior Accountant Executive",
+      "description": "Accounts Executive  Bangalore | WFO\n\n \n\nExperience: 12 years\n\nLocation: Bangalore\n\nWork Mode: Work From Office\n\n \n\nKey Responsibilities:\n\n \n\nMaintain books of accounts and record day-to-day financial transactions.Prepare journal entries, ledgers, and account reconciliations.Assist with month-end and year-end closing activities.Handle banking transactions, cash flow, petty cash, and bank reconciliation.Prepare and file GST returns such as GSTR-1 and GSTR-3B.Maintain documentation for input tax credit and ensure GST compliance.Process payroll, reimbursements, deductions, and statutory payments.Handle PF, ESI, TDS, and other statutory compliance activities.Process domestic and international payments/outward remittances and maintain required documentation.Assist with internal and external audits and prepare audit schedules/documents.Coordinate with consultants and regulatory authorities when required. \n\nRequired Skills:\n\n \n\nBachelor's degree in Commerce, Finance, Accounting, or related field.12 years of relevant accounting/finance experience.Good knowledge of GST, TDS, PF, ESI, and statutory compliance.Hands-on experience with Tally and Zoho; Relyon TDS is an advantage.Good working knowledge of MS Excel.Good analytical and communication skills. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-accountant-executive/thomasmount-consulting/19682597?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Junior-Accountant-Executive-Bengaluru-Bangalore-Thomasmount-Consulting-1oDMnRNC?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-accountant-executive-amisolglobal-bengaluru--t7xk-861098569?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8694349574145310720?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NextRaise",
+          "link": "https://nextraise.ai/jobs/junior-accountant-executive-at-thomasmount-consulting-fd897c548cdc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Connecting Odds",
+          "link": "https://connectingodds.com/jobs/discover/3b37e2d5-be6f-47c6-883e-04af725b0a74?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/341426686/junior-accountant-executive-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQWNjb3VudGFudCBFeGVjdXRpdmUiLCJjb21wYW55X25hbWUiOiJUaG9tYXNtb3VudCBDb25zdWx0aW5nIiwiaHRpZG9jaWQiOiJuU3BSbG5iRDhMNXZBaDZ4QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyZG9NR0UzYURKS2IxSnpMVGhQWkROck9FeEdOVUU0YlRaR1pVcE9NSFJXU1ZOa1RHcFpjVkpuUkhKMU56aGhVRmQzVUc5NFYwbFZOVzFQYzBwQlUxQjRVV3BsVTNkUlkwdHNWMkV3WVhRMVJWTjRNVTlUTlVaUlZUUlljR3B1ZUhsNFNVTnhWM0ZOWTNaaGNUQnJNM2hWV205S2VtcEtTSEUxV1docUxWcE1OWE5XZGxrU0YzSmxaa2xoY0haV1FuRllPWGRpYTFCNVpqZEhiVkZqR2lKQlJITnlPV1pUVXpSRWRFRkZhVXMyYWpRNVJVTnZjM1ZrTWtoT00wZ3lVMFpSIiwiZmN2IjoiMyIsImZjX2lkIjoiblNwUmxuYkQ4TDV2QWg2eEFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMUJWWlVKMFVYVjRUR0ZRTTNKZldqQlJaVVp5YlU5SFgzWmxRVmhQWDBablZFWllSbVZxUlhCVlVGWnVjRFJSUlRJMU1tczNZMkZTZVRkeU1HTkdaVUo2Tm5Wek1rWkNTbXhUUmtrNFQzSktaM0kxTVhVM2NEQjRNVkZ4U21odE5VMHpNbG8yYm5oT2EwRmxOVUpIVkRacVprMVBaRlZ6ZEcxdlh6ZGhiV2gxTVRKamEweElORWN5UkdGU2RIUmZibVJCYkc1d1lVOW9ZazlTVFVkalNWVk5aVGhsUzJSa1JVTlRNSGs0V0dkcWIxTkJhR2RNVmtGb1ZITm5ZM0JaTjFScWFEQkNTVE52VVV0T2FWQkRTVVZWY1hGalJIZGxUMFl0ZVRsNU1HeHdkVjlXTVZkVU1GZEVRMFpEU3pST1owNW9SMDFoUW1wMWNsbDNaWHBoT1RocUxXRnBSSE5tWXpsQmNFdzJiV2RZWHpOdWFXOVZUMlJxUXpJeWVIaGtWRUZpWTAwNGFqaENOVWsyUkc4NVprOXJhRk10TkZNeFNHNTJPRWh5UlhOR09XOUZRVm96TkZabVFqZERSRFJtZVhkWk4xRnBNMUkwWlc5SFV6WTFRVkJEZUZVeE1rZzRZMFZTZG5BM1NFeDNVV0ZCZDNGTFFWbHJRa2hUTVc1RGFrY3pWVFU0YkRaSFl6TlRkVEJvUTNwYVpFUnNUVmRPVlc1SUxVMW9ibE5yVFVvd2MzcFNTVTFoWXkxSWNrdzFVazFWWDFoZmNVRnZUSEI0UmxCeU9XczViRTFNYUVrNVNVbFpTRXczV21aTGNGSjNZVEJsT0ZoSVpGRVNGM0psWmtsaGNIWldRbkZZT1hkaWExQjVaamRIYlZGakdpSkJSSE55T1daVVpuRXRUVEZqVmxabVEzSnFXbXBtU0Y5Uk5GbEVjaTB5WWkxUiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMUJWWlVKMFVYVjRUR0ZRTTNKZldqQlJaVVp5YlU5SFgzWmxRVmhQWDBablZFWllSbVZxUlhCVlVGWnVjRFJSUlRJMU1tczNZMkZTZVRkeU1HTkdaVUo2Tm5Wek1rWkNTbXhUUmtrNFQzSktaM0kxTVhVM2NEQjRNVkZ4U21odE5VMHpNbG8yYm5oT2EwRmxOVUpIVkRacVprMVBaRlZ6ZEcxdlh6ZGhiV2gxTVRKamEweElORWN5UkdGU2RIUmZibVJCYkc1d1lVOW9ZazlTVFVkalNWVk5aVGhsUzJSa1JVTlRNSGs0V0dkcWIxTkJhR2RNVmtGb1ZITm5ZM0JaTjFScWFEQkNTVE52VVV0T2FWQkRTVVZWY1hGalJIZGxUMFl0ZVRsNU1HeHdkVjlXTVZkVU1GZEVRMFpEU3pST1owNW9SMDFoUW1wMWNsbDNaWHBoT1RocUxXRnBSSE5tWXpsQmNFdzJiV2RZWHpOdWFXOVZUMlJxUXpJeWVIaGtWRUZpWTAwNGFqaENOVWsyUkc4NVprOXJhRk10TkZNeFNHNTJPRWh5UlhOR09XOUZRVm96TkZabVFqZERSRFJtZVhkWk4xRnBNMUkwWlc5SFV6WTFRVkJEZUZVeE1rZzRZMFZTZG5BM1NFeDNVV0ZCZDNGTFFWbHJRa2hUTVc1RGFrY3pWVFU0YkRaSFl6TlRkVEJvUTNwYVpFUnNUVmRPVlc1SUxVMW9ibE5yVFVvd2MzcFNTVTFoWXkxSWNrdzFVazFWWDFoZmNVRnZUSEI0UmxCeU9XczViRTFNYUVrNVNVbFpTRXczV21aTGNGSjNZVEJsT0ZoSVpGRVNGM0psWmtsaGNIWldRbkZZT1hkaWExQjVaamRIYlZGakdpSkJSSE55T1daVVpuRXRUVEZqVmxabVEzSnFXbXBtU0Y5Uk5GbEVjaTB5WWkxUiIsImZjdiI6IjMifQ%3D%3D&q=Accountant"
+  },
+  "_retrieved_at": "2026-10-09 13:09:45 UTC"
+}

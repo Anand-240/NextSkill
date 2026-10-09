@@ -1,0 +1,270 @@
+{
+  "search_metadata": {
+    "id": "6ac8e78549579a8a6a230a2c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Vb16bj3fZD842hzJP9s17Y6jO1KsHMNitS5-KMmzgHA/6ac8e78549579a8a6a230a2c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Vb16bj3fZD842hzJP9s17Y6jO1KsHMNitS5-KMmzgHA/6ac8e78549579a8a6a230a2c.md",
+    "created_at": "2026-10-09 13:09:25 UTC",
+    "processed_at": "2026-10-09 13:09:25 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/Vb16bj3fZD842hzJP9s17Y6jO1KsHMNitS5-KMmzgHA/6ac8e78549579a8a6a230a2c.html",
+    "prettify_html_file": "https://serpapi.com/searches/Vb16bj3fZD842hzJP9s17Y6jO1KsHMNitS5-KMmzgHA/6ac8e78549579a8a6a230a2c.prettify",
+    "total_time_taken": 0.94
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTM2N5Y0dwbmFtaEdkakJOYjNaTFRTMHhlRUZVUVRZNFVFMTZSblV6T1hkelpYTkZUekZwVmxCRU5Fb3dUemRmVW5oSFRYRmxkVzFXUW1FMFkyWm9WekZpZFhsZmNXOWlXbWRLWHpWUFVVSjBXRzVWYTJaM1oyTk1VSGhpWjNGcFdsUlZka2R3V2xkSGJ6RkdlSE5mU1ZwTU5HTnFORlY0TWxselQyWnBMVlJwVGtodlJYUXdSMnBNU2tGTWIzZzNiSFpEVEhGSmFtaEZPVFZ2YWtGdGNuVlVkVWd6WmxObk1XdDFPV2hGTkZkUlQwZ3hXR2R6ZG1ORlV5MHhRVlpHT1d0U1VXOVdkekZ6TVV4UldYcFBObVJoTVROMVRWZ3hjemhxU0hKSWExWk5Zakp2UXpVeVRrWkJPVGxIVWtSdVNXOUZTSE13Um5CTWJUQlhVRVJqVDJ3MExWbDJjbFJ2UnpKbFV5MUNhWFZ6V0ZGeWRFaDVWR3gwUzNKSVkzQnJTbVp3VG5GemVtdzNlVEppT0UxeGQydGFaRzFqVW10SE9IcFBlUzB0Y3kxWVkwVk5iRmRuVFY5ZlJXSnNkREE1VWtWa2RuUXlSV3BuV25Sck5sUk9XRWhsUVVOd1VFeHJYMU5mWkRCSk1tMDFhMmhXVDNSTmNWZHFNazFMWWpadmVFSjFZbFZWWVdOWlRXNVVZMFZrVUdGeGIyTm9WSEZpT1hCWVNWSTVSMWg1YUhSUVRISlJhbWh5V2pKRWRqaENkVEZpTjBwNVVrOW5XVE10TTFOb1dWUm5UVXRuZEdsTFkyMVNjWGxWYTNsTU9HTjRPRXB2ZEZWS2MwRVNGMmhQWmtsaGIwdGlRMkZUYzNGMGMxQTJObVUwTmxGTkdpSkJSSE55T1daUmJFNVRTWFpuY21FNGNFaGhlV2xDU0djNGJFbFNVM3BzY1U1biIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Data Analyst (Platform Insights & Growth Analytics) Entry Level",
+      "company_name": "Broklet",
+      "location": "Bengaluru, Karnataka",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=sdgFeQdCRVgsYzYDAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOsQ4BURBFo_UJGlMJIrsi0VARIkKh1MnYjPeWZ2bzZrDb-Qc_43t8iRXNqe7JPc13o7lfoCHMGEOlBt1dQDtJvMKaNXfeFDqwivIw_99YnmkPlmyxgi3dKcDn-YKzHEEJY-ZBGFYiLlBr6s0KnaSpakicGtZuksk1FaajlGkt6Q8H9RipqI_pMBoPy6Rg12_Po1wCGeQMc2KH4RZvA9hg5Lr3gl-28V9RuwAAAA&shmds=v1_ARwrE23dBx_2qm0gpcxb8t57jrajy_xCXxYxJ1AV4DEltPlzIQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=sdgFeQdCRVgsYzYDAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "₹3L–₹5.2L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobleads.com/in/job/data-analyst-platform-insights-growth-analytics-entry-level--bengaluru--ecd45d612f5f5763a91f8d2782cc9a1a8",
+      "job_title": "Data Analyst (Platform Insights & Growth Analytics) Entry Level",
+      "description": "Data Analyst (Platform Insights & Growth Analytics) Entry LevelData Analyst (Platform Insights & Growth Analytics) Entry LevelJob Title: Data Analyst (Platform Insights & Growth Analytics) Entry LevelLocation:Banglore , India\n\nPosted at:Dec 11, 2025\n\nResponsibilities1. Platform Data AnalysisAnalyse daily property listings: source, location, type, category\n\nTrack which areas/cities are generating the highest supply\n\nMonitor which listings perform best (views, leads, conversions)\n\nIdentify patterns in fake listings, duplicates, or quality drops\n\nTrack how users move across the website/app\n\nAnalyse which pages perform best or where users bounce\n\nMonitor lead-to-visit, visit-to-call, and call-to-conversion funnels\n\nIdentify weak points in the user journey and suggest improvements\n\n3. Market Trend AnalysisAnalyse rental and PG demand based on location, price, season\n\nPredict upcoming hotspots using listing and search data\n\nCompare platform trends with real-estate market trends\n\nRecommend new locations for Broklet expansion\n\n4. Location & Geographic AnalysisIdentify top-performing micro-markets\n\nAnalyse where listings are growing or dropping\n\nMap owner activity by area, city, and property type\n\nProvide insights for sales team on where to focus outreach\n\n5. Quality & Verification InsightsTrack listing rejection reasons\n\nFind patterns in incorrect or suspicious data\n\nProvide insights to improve verification and QC workflows\n\nCreate daily, weekly, and monthly dashboards\n\nBuild reports on listings, users, operations, and marketing KPIs\n\nPresent insights to founders and product team\n\nMaintain a clean, structured data repository\n\n7. Strategic Decision SupportCity expansion\n\nOwner onboarding focus areas\n\nUser experience improvements\n\nRequirementsStrong analytical skills and ability to understand complex datasets\n\nBasic knowledge of tools like Excel/Google Sheets, SQL, Power BI, Tableau (any)\n\nUnderstanding of KPIs: CTR, CPL, LTV, occupancy, funnel metrics, etc.\n\nAbility to create dashboards and convert data into insights\n\nStrong problem-solving and pattern recognition\n\nGood communication skills to present insights clearly\n\nCurious, detail-oriented, and excited to work in a data-driven startup\n\nFresher-friendly if skilled with data tools\n\nWhat’s on OfferDirect influence on Broklet’s growth strategy using real data\n\nOpportunity to build analytics systems from scratch\n\nLearn deeply about real estate markets & consumer behaviour\n\nFreedom to experiment, create dashboards, and run data projects\n\nWork directly with founders, product, sales, and marketing\n\nFast growth into Data Scientist / Analytics Lead role",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/data-analyst-platform-insights-growth-analytics-entry-level--bengaluru--ecd45d612f5f5763a91f8d2782cc9a1a8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKFBsYXRmb3JtIEluc2lnaHRzIFx1MDAyNiBHcm93dGggQW5hbHl0aWNzKSBFbnRyeSBMZXZlbCIsImNvbXBhbnlfbmFtZSI6IkJyb2tsZXQiLCJodGlkb2NpZCI6InNkZ0ZlUWRDUlZnc1l6WURBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU25KU2EyVjRTelpzVFhNd1RuZERXa0pYWmxKUVFXaDFWbTVmUTNreFdGQlpVMkZvVFRKbFVXVlNlbkY0YUVOSGRUSkpORzlJTm5SbVdGWTRRVTFwTlVSSVJrYzVOV2RhT1hKemQzbHBNVzF4VG1JemVubHBhV1UwYzBFMWVYZEJWMUZxU0U1eWJ6bFROVkZHYURGdmF6TkVUR2R4WlhGZmRXWjNWRzF4Vkd4a1JrSldXR2tTRjJobFprbGhjR2t3VDNKVGJ6Vk9iMUJ6TnpOV2IwRmpHaUpCUkhOeU9XWlJkVUp2UlZKbE5URmlUR0l4TkdkdFFWTm9WbnBoVkRVdFNqUm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJzZGdGZVFkQ1JWZ3NZellEQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior Data Analyst - Business Analytics with Python",
+      "company_name": "YuvaIntern",
+      "location": "Bengaluru, Karnataka",
+      "via": "YuvaIntern",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=njXI7p17iEcSW-ktAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOMQrCQBAAsc0TrBZL0ZwINloZBFERbK3CJhy503Mv3O5p0vkHP-KbfIknNlMMDEz2HmTHfSTrA2xQENaErmeBKRSRLWnmvxJbMzysGDj1YjzB5_mCi6-ANYbaQDJb7xunhysj0vJSKWaXNyyY0rz2N-VJV75TKeIfSjYYdOtQdDlfzLq8pWY8Osc77kh0ILAEhaYGXQxxAgcMlAav-AXB_VCsswAAAA&shmds=v1_ARwrE21pSUQKnF3r6VK9zfmqZzI7o7qd3kwQVThQPcTwiSdTAw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=njXI7p17iEcSW-ktAAAAAA%3D%3D",
+      "extensions": [
+        "Internship"
+      ],
+      "source_link": "https://yuvaintern.com/internship/junior-data-analyst-business-analytics-with-python-internship-in-bangalore",
+      "job_title": "Junior Data Analyst - Business Analytics with Python",
+      "description": "As a Junior Data Analyst, you will be responsible for analyzing data using Python to extract insights and trends that can be used to make informed business decisions. You will work on real-world datasets related to the Agriculture & Agribusiness sector, applying statistical methods and data visualization techniques.",
+      "apply_options": [
+        {
+          "title": "YuvaIntern",
+          "link": "https://yuvaintern.com/internship/junior-data-analyst-business-analytics-with-python-internship-in-bangalore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Sign On",
+          "link": "https://s01schneiderele.taleo.net/careersection/jobdetail.ftl?job=1453599&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/business-analyst-data-and-analytics-schneider-electric-bangalore--fj-2326805809?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/azentio-software-private-limited-entri-data-analyst-business-analytics-bangalore-2-to-4-years-1369536?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IC0gQnVzaW5lc3MgQW5hbHl0aWNzIHdpdGggUHl0aG9uIiwiY29tcGFueV9uYW1lIjoiWXV2YUludGVybiIsImh0aWRvY2lkIjoibmpYSTdwMTdpRWNTVy1rdEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVzFGT1Rsb05Ya3hUa1ZxYkVGRE1sSlJhMlpKUTBnNWRXRmtPRGhJVW14bU5scFdZME5yWTJ4dFpXZFJia2hKWWsxVlYzWlVjMVp6YTB3NGIza3hSRkpHTm1OeFFpMDBZeTFMYmtaTFFWZzJka2hXUzJaaVZsazNkbkpKZVZvNE5EVTJNWG80V1VsSFJ6bFdWVGczYkRONldXNU5PRkZYVFRCQlVXbFNTM1Z1TlVGc1ZVVVNGMmhsWmtsaGNHa3dUM0pUYnpWT2IxQnpOek5XYjBGakdpSkJSSE55T1daVWNHTnViWGszY1V4WGRGWnBiRmRzUTBoMlRFMXVaSGN4VW5aQiIsImZjdiI6IjMiLCJmY19pZCI6Im5qWEk3cDE3aUVjU1cta3RBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst at An IT Service Company",
+      "company_name": "Talentzo Delhi",
+      "location": "Anywhere",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=Q1oCGvEqIcuLpml3AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBAAsc0TrLayEMmJYKMgqAERS9OHzbFcopfdcLeRxMo_-AY_5kuMzTDNwCSfSbLLUBH2jH6ICqijwjmHK4VHbQmO0rTIA3xfb7hJCZEw2AqE4STiPE23lWobN8bE6FMXFbW2qZXGCFMpvRmj-EcRKwzUelQqVutln7bs5rMcPbE-BTLyVQ01w4HYoe9Ct4ALBh7n7vgDzkvfAagAAAA&shmds=v1_ARwrE22vG7uutbQ9RKVFYmzdL-PdgqfROcgK8qKRI-rxHCpnWQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=Q1oCGvEqIcuLpml3AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBEQACEQEDEQH_xAAaAAADAQADAAAAAAAAAAAAAAABAgUEAAMH_8QAKBAAAgIABAMJAQAAAAAAAAAAAAECAxESMkEEE3IFFiEiMTZhksIV_8QAGQEBAAMBAQAAAAAAAAAAAAAAAQIEBQMA_8QAKBEBAAIAAwcDBQAAAAAAAAAAAAECAxFRBBIUFSFhwQUxcTQ1QYGR_9oADAMBAAIRAxEAPwD2lybZXmZmXWIcR54yJQBECIMiUARDNuV3YyEMN3bPB0XTqslNTg8H5WUsT1LZ8K80tPWOyxTZMW9YtEdJL_e4DDXP6MjzbZdZ_iXA42h6e2-BtthXCc3KclFeXdk8P1TZr2ilZ6z2RtsWNWs2mPZTRpKYiGbcruxkIDl1t4uuDfzFHt2uj29OqPZCHeeuOWOXJ6YeGlmRasczrGX48SvxM8HM9_K2qq001XDHpRsxSujP3p1diOiAiGbcruxkIMiUBFs90V9H5Zj2-6V-PEr8fRT8-VxG0zjIkBEMxXdjIQZEoCROq3vJXby58vJryvDS9zKth35jF8umXv8AqV2L14Sa59c_KyjXUDIkBEMxXdjIQZEoAiBQgyJARedDi08GcJjKXSJzcR54yJQBEChBkSgCLz__2Q.jpeg",
+      "extensions": [
+        "13 hours ago",
+        "₹1,16,667–₹1,50,000 a month",
+        "Work from home",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/data-analyst-at-an-it-service-company-talentzo-delhi-bengaluru--t7xk-871789039",
+      "job_title": "Data Analyst at An IT Service Company",
+      "description": "Responsibilities\n\n\n\nUnderstand client processes and convert them into digital workflows.\n\n\nIdentify inefficiencies and improve business processes.\n\n\nManage end-to-end implementation, onboarding, and go-live.\n\n\nValidate data and reporting using SQL and Excel.\n\n\nBuild dashboards based on business metrics.\n\n\nSupport API integrations and troubleshoot issues.\n\n\nDrive platform adoption and long-term customer success.\n\n\n\nPreferred candidate profile\n\n\n\nExperience in Customer Success, Consulting, Operations, or Analytics.\n\n\nAdvanced SQL skills.\n\n\nStrong Excel and data-handling skills.\n\n\nBasic understanding of APIs and system integrations.\n\n\nExperience with dashboards, reporting, and business metrics.\n\n\nStrong problem-solving and analytical skills.\n\n\nAbility to work independently in ambiguous environments.\n\n\nStrong communication and stakeholder management skills.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-at-an-it-service-company-talentzo-delhi-bengaluru--t7xk-871789039?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/6530612395507712000?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337272725/siem-engineer-at-an-it-service-company-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgYXQgQW4gSVQgU2VydmljZSBDb21wYW55IiwiY29tcGFueV9uYW1lIjoiVGFsZW50em8gRGVsaGkiLCJodGlkb2NpZCI6IlExb0NHdkVxSWN1THBtbDNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEVkclpsbFBhWG94Y1Y5SVZsQkZkVXQxTW05dmNuUXpMVlJqV2poUU1scEJjVFpYVWtoM2F6SnlkRXh4YTBkelN6RlRRVXRJWlZWMlpURm1SRlIyVVZoMWVrUmhOSEJXTFRoc1RqRkRVRFZ1WkdSaU1XMURhWGhoUm5RNWNtdHFZa0ZZY0RodmRtSlFkRU5sZUZCM09UZEdNWEV6VkZOdFYwcDVNamRxYkZWMGQweGpZVWtTRjJobFprbGhjR2t3VDNKVGJ6Vk9iMUJ6TnpOV2IwRmpHaUpCUkhOeU9XWlNWVVJEWVVKNlNYSm5lRWRHZGtZdFFWQldNR0k0VmtGVVVtbDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJRMW9DR3ZFcUljdUxwbWwzQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Business Analyst - (DataBricks, SAP, Azure) (Bengaluru)",
+      "company_name": "Unison Group",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=uv_L3sRUKtTg4XB6AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2OsQrCMBRFce0nOL3BoUptRHDRqUVwcBGkc3kNoY2NLyEvgerkP_g3fo5fYru43OVy7rnJZ5ZURwwIZWRNihkKQvPgAGtIp6L0WvacwbW4ZFA8o1dLSEtFLZro4xK-rzfcbAOs0MsOLMHJ2tao-aELwfFeCGaTtxwwaJlLexeWVGMHMUI8Rc0deuUMBlVvd5shd9SuFhVpnra8jQ40wd-YwRk9jcd6_AFIcR0mvQAAAA&shmds=v1_ARwrE23RguilGUD6BhA41tQr7rMkBNQni83x9fmhPbJoDt27Dw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=uv_L3sRUKtTg4XB6AAAAAA%3D%3D",
+      "extensions": [
+        "14 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/data-business-analyst-databricks-sap-azure-bengaluru/unison-group/19599560",
+      "job_title": "Data Business Analyst - (DataBricks, SAP, Azure) (Bengaluru)",
+      "description": "Job Description\n\nWe are looking for an experienced Data Analyst / Data Business Analyst with strong expertise across SAP and Non-SAP data environments, data modelling, data quality, and cloud-based data platforms. The role will work closely with Business, IT, Functional, Technical, and Data Engineering teams to translate business requirements into high-quality data products.\n\nKey Responsibilities\n\n- Translate business requirements into technical specifications for Data Engineers and support the development of data products.\n- Define, establish, and validate data quality standards across ETL processes, systems, and data products.\n- Collaborate with Business, IT Functional, Technical, and Data Engineering teams to deliver scalable data solutions.\n- Analyze complex SAP and Non-SAP datasets to support data modelling, transformation, and analytics requirements.\n- Develop and validate data mappings, ensuring accuracy, completeness, consistency, and adherence to data quality standards.\n- Verify the correctness and usability of data products across various business and technical requirements.\n- Develop data collection, transformation, and automation workflows using cloud services and analytics tools.\n- Analyze large and complex datasets to generate meaningful business insights and recommendations.\n- Develop and support analytical dashboards and reporting solutions using tools such as Power BI, Tableau, or Looker.\n- Work with stakeholders to translate technical data concepts into clear business insights and actionable outcomes.\n- Mentor junior analysts on data analysis, data modelling, analytics best practices, and coding standards.\n- Contribute to continuous improvement of data processes, governance, quality, and analytics capabilities.\n\nRequired Skills & Experience\n\n- Professional experience in Data Analysis / Business Analysis with demonstrated expertise in both SAP and Non-SAP environments.\n- Strong understanding of data modelling, data mapping, ETL processes, and data quality.\n- Hands-on or working knowledge of SQL, Python, or R.\n- Exposure to Microsoft Azure services, particularly Azure Data Factory (ADF), Databricks, and related cloud data services.\n- Strong experience with analytical and reporting tools such as Power BI, Tableau, or Looker.\n- Ability to work with large and complex datasets and derive meaningful business insights.\n- Robust analytical, problem-solving, and critical-thinking skills.\n- Excellent communication and presentation skills, with the ability to translate business requirements into technical specifications and technical concepts into business language.\n- Bachelor's degree in Engineering, Statistics, Business, Computer Science, or a related discipline, or equivalent professional experience.\n\nGood to Have\n\n- Exposure to Machine Learning, AI, and advanced predictive analytics.\n- Familiarity with Azure-based cloud data platforms and modern data architecture.\n- Understanding of Data Governance, Data Quality frameworks, metadata, and data standards.\n- Experience in validating data products against governance, quality, and compliance requirements.\n- Experience in the Manufacturing industry in roles such as Business Analyst, Data Analyst, Functional Consultant, or Data Consultant.\n- Experience working with SAP data, business processes, and manufacturing-related datasets.\n- Exposure to modern data platforms, data lakes, data warehouses, and cloud analytics ecosystems. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-business-analyst-databricks-sap-azure-bengaluru/unison-group/19599560?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEJ1c2luZXNzIEFuYWx5c3QgLSAoRGF0YUJyaWNrcywgU0FQLCBBenVyZSkgKEJlbmdhbHVydSkiLCJjb21wYW55X25hbWUiOiJVbmlzb24gR3JvdXAiLCJodGlkb2NpZCI6InV2X0wzc1JVS3RUZzRYQjZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU25SYWJFTnhXVEppVTFoSmRVWk9lbVJxU0Mwd1UybHZlV1JRVWtGaVFsaGFjRFJKWVd0V2QzRnpWVkJHZWpGVVdFOUxjVVp5WkU5blJVWkdka3g0TW5sVU5VWkphVkJFZFROSGJFbEhWbVpLVDNkdVNtVXlPRmMxWTNaTk5uTklhelZ1T1ZWV1pFMVFOVXRtYWkxNVpHMUVNSGRmV2xwa1dGTlNhbGs1YjA1WmVFcFlNVlFTRjJobFprbGhjR2t3VDNKVGJ6Vk9iMUJ6TnpOV2IwRmpHaUpCUkhOeU9XWlROVEZYTVVOVFVIRjJiemxMYTJwbWRHTlhNSFIwU2pCaloyNVIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ1dl9MM3NSVUt0VGc0WEI2QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Business Analyst (NIT or IIT)",
+      "company_name": "propelld",
+      "location": "Bengaluru, Karnataka",
+      "via": "NextLeap",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=6JIz41eo1vZLnF62AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCQAwAUFz7CU4ZVaQngg462UWK4NS9pDVcqzE5Lleom__g4P_5Jerytpe9J9m2GKwXMoODID8swexcVqARyrKaw-f5gqs2YISx7UAFjqqeabrvUgq2c86Mc28JU9_mrd6dCjU6ul-yP7V1GCkwJqrXm9WYB_ELCFEDMV-gFyhIPPIQhyWcMAomvOEXhY21VZoAAAA&shmds=v1_ARwrE20kI76oLtpd7YJCZODzJ_d_7wuPmAxRUBXlBs-X7t21eg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=6JIz41eo1vZLnF62AAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://nextleap.app/jobs/data-analyst/business-analyst-nit-or-iit-propelld/k8eqwplr",
+      "job_title": "Business Analyst (NIT or IIT)",
+      "description": "Location:** HSR Layout, Bangalore | **Work Mode:\nOn-site\n\n\n#### Experience:\n1–3 years\n\n\n#### Education:\nGraduates from IIT, BITS,IIIT or NIT preferred\n\n\n#### About Propelld\n\n\nPropelld is a leading fintech NBFC transforming the education financing landscape. We leverage **data-driven insights and cutting-edge technology** to optimize financial solutions and enable better business decisions.\n\nWe are looking for a **Business Analyst** to join our team and work on high-impact analytical projects in a fast-paced, growth-oriented environment.\n\n### Key Responsibilities\n\n\n- Extract, analyze, and interpret complex datasets to generate actionable business insights.\n\n- Develop, optimize, and maintain **SQL queries** for data retrieval, transformation, and analysis.\n\n- Utilize **Python** for data manipulation, automation, analysis, and data-driven modelling.\n\n- Build insightful **reports and dashboards** using Excel and relevant visualization tools.\n\n- Collaborate with cross-functional teams to understand business requirements and implement data-backed solutions.\n\n- Identify **trends, correlations, patterns, and opportunities** to support business performance and decision-making.\n\n- Translate business requirements into structured analytical problems and actionable insights.\n\n- Support stakeholders with accurate and timely analysis for business and operational decisions.\n\n### Key Requirements\n\n\n- **1–3 years of hands-on experience** in business/data analysis or a related analytical role.\n\n- Strong proficiency in **SQL**, including querying, data extraction, joins, aggregations, and data transformation.\n\n- Strong working knowledge of **Python** for data manipulation, analysis, and automation.\n\n- Proficiency in **Excel**, including Pivot Tables, VLOOKUP and data visualization.\n\n- Strong analytical and problem-solving skills with the ability to work with large and complex datasets.\n\n- Excellent attention to detail and a strong focus on data accuracy.\n\n- Strong communication skills with the ability to present and explain complex insights clearly to non-technical stakeholders.\n\n- Ability to work collaboratively with cross-functional teams and understand business requirements.\n\n### Preferred Educational Background\n\n\nGraduates from **IIT, BITS, IIIT or NIT** are preferred. Candidates from other strong quantitative or technical backgrounds with relevant hands-on experience in **SQL, Python, Excel, and analytics** may also be considered.\n\n### Life at Propelld\n\n\n- Competitive salary and performance-driven growth opportunities.\n\n- Flexible working environment.\n\n- Comprehensive healthcare coverage for employees and their dependents.\n\n- Recognition and rewards for employee contributions and achievements.\n\n- Thoughtfully designed holiday and leave policies to support work-life balance.\n\n- Learning and development opportunities to help employees build skills aligned with current and future industry standards.\n\n- A vibrant workplace with great food, games, and an engaging office environment.\n\nIf you enjoy solving business problems through data and turning insights into action, we'd love to hear from you.",
+      "apply_options": [
+        {
+          "title": "NextLeap",
+          "link": "https://nextleap.app/jobs/data-analyst/business-analyst-nit-or-iit-propelld/k8eqwplr?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/business-analyst-nit-or-iit/propelld/19686438?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/business-analyst-nit-or-iit-propelld-bengaluru--fj-2392282335?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NiyukJobs | AI",
+          "link": "https://niyukjobs.ai/jobs/detail/business-analyst-nit-or-iit-at-propelld-bengaluru-karnataka-india-446268?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBBbmFseXN0IChOSVQgb3IgSUlUKSIsImNvbXBhbnlfbmFtZSI6InByb3BlbGxkIiwiaHRpZG9jaWQiOiI2Skl6NDFlbzF2WkxuRjYyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyMWliMFJaVmxGYVZuSkJUMGg0VERWVUxWVXRZbEprWlRkeWRFaGlPVGg2Y0dOS1ZsSkJSRU5VWlhNeE5FNHdOemgyUkdoMVVrTkVOblZUVVZKWWNtdGlRekkzY1ZBMmJqRjVWRloyVTBwUFlXWTVjbkJUTlU1c1pUVnVMVzVQYzA0MGFYSktiM051VTNZeFRVcFZlbnB1WDJ4aGNsRkhYMGQxZUMxMVExSjZiVE5HV21nU0YyaGxaa2xoY0drd1QzSlRielZPYjFCek56TldiMEZqR2lKQlJITnlPV1pTU1RWa2RtcEpNRUoyVWsxa1JtRjJTWE50TW5sQ1p6VlRhMFpuIiwiZmN2IjoiMyIsImZjX2lkIjoiNkpJejQxZW8xdlpMbkY2MkFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst Jobs at Airbus (Bangalore) | Apply Now",
+      "company_name": "Airbus",
+      "location": "Bengaluru, Karnataka",
+      "via": "Talentd",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=ezBMKadZLpJ44fAIAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2OQQrCMBAA8doneJA9qkgjghc9tQiCil8omxLS1pgN2S224ME_-Ax_5UtswcvchpnkM0kuBxSEzKPrWeBEmgEFsjrqlmGeo7foKJoFPCELwfVwpQd8X29oSAMbjGUF5OFIZJ2Z7iuRwDulmF1qWVDqMi3prsgbTZ0aJB5RcIXRBIdiis123aXB2-XsX6095GbstrFdwRmjHxZv-AOCHB0VrgAAAA&shmds=v1_ARwrE23GJ48KEUADpPRSogZXzFdgss24K053zr3li297ORD20w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=ezBMKadZLpJ44fAIAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAbFBMVEUHGT3u7u4AEzoAFTsADDf39_YAADIvOFL09PPx8vT4-fpcYXEAFjsAACv19vcAAC0jLUoAACcYJEMpMk6kqLPj5emAhJObn6sRIECIjZpzd4eQlaGvsrsAACS0uME3QFe-wclES2HLzdRMUmUdnVZmAAABHElEQVRIie3U2XaDIBAGYMIykRTFJai0abrk_d-xyNLG9hiZXvNfchw_huFASElJCTaKMUYZvo71g0tP0V5tGhdJsCaM4uBSTRoJgjn4yBlHghWhsJrqf4GO7DEk2CoVVmcEeQcuZP5I4MWDxiBJxX2FeJ58vWxzSR3BrpcoknHfmxihPqNIHXZoQLE2kJcsUqkAWiAkkccc8ht0g6eJ7PbrGAnf2lcA4JFsMsgIhtlbHcnrLslm-XNp3H67SyDf9si4txg3kkxyDS6XoM4j0_mfUkYYAvn-kGTxkk3tMWZQWV0mcOY0RhGaQaZ5r1-o1OUH3yzUV7GkWb8WdDj55c_tB48--dx-_RpuYf1Bj9znzymE5e2dlpSU3OcLRMQPyx5dfKAAAAAASUVORK5CYII.png",
+      "extensions": [
+        "9 days ago",
+        "₹6L–₹12L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.talentd.in/jobs/data-analyst-jobs-at-airbus-bangalore-apply-now",
+      "job_title": "Data Analyst Jobs at Airbus (Bangalore) | Apply Now",
+      "description": "Job DescriptionAs a Data Analyst, you will be responsible for collecting, cleaning, analyzing, and visualizing data to help the organization make info[…]",
+      "apply_options": [
+        {
+          "title": "Talentd",
+          "link": "https://www.talentd.in/jobs/data-analyst-jobs-at-airbus-bangalore-apply-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Navaloom Hiring",
+          "link": "https://hire.navaloom.app/jobs/analytics-jobs-find-151-data-analyst-jobs-6ae62232-4350-4fc8-aaba-f2c6911f242b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSm9icyBhdCBBaXJidXMgKEJhbmdhbG9yZSkgfCBBcHBseSBOb3ciLCJjb21wYW55X25hbWUiOiJBaXJidXMiLCJodGlkb2NpZCI6ImV6Qk1LYWRaTHBKNDRmQUlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2pWQlYxRldRbUZFTTIwd1JVOXZPVkJXVVhKTGFUUXpUVkJVWDJaa00zazRTVVY0Y25Gd1YwdEZRV3QwV0hGa2R6WkdPVzB3UlhONmJVdEZhV2xpV0dka1dtUjJWRWRuT1VkVGVXeElhbFptWTJ0MU0wSlBRbVJRUzI0d01WVk1iVWcyZW1Wb09FODJiMkZ0WW5CWmEwZ3lVM2s0WTFoUGVuUkxVa28zV0ZsTlF6bFVXUzBTRjJobFprbGhjR2t3VDNKVGJ6Vk9iMUJ6TnpOV2IwRmpHaUpCUkhOeU9XWlJhazVSTlZocmRXNHdTa1ZyVkRGdmRrNVRMV3N6UTBGbldVVm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJlekJNS2FkWkxwSjQ0ZkFJQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "End to End Product Data Analyst",
+      "company_name": "PVH Services India Private Limited",
+      "location": "Bengaluru, Karnataka",
+      "via": "PVH Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=kbyc8GpRZY334qJQAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBBFsfUIVlOLJCIIopWiqGgREGxl3AzJ6mYm7Ewkdt7Bo3gjT2Js_m_e5_3-p9efbTgHE_hXFiVvnMEaDWHJGJ5q8H294SZXUMLoShCGrUgRaLAozWqdp6lqSAo1NO8SJ1UqTFdp026k_7hoiZHqgEaXyXTcJjUXw3l23sGJ4sM7Uthz7rHT-0cHwdFX3igHz7AiLjA0sRnBASN3v-74A4-zD7C2AAAA&shmds=v1_ARwrE23K5ym6um-hVz9pcKfKuE5I8w4w79zdAUDlyzEG2yDWbQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=kbyc8GpRZY334qJQAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEUAAAAEBAT////n5+dAQEAsLCzr6+s6OjpDQ0PBwcFYWFhLS0u0tLSnp6dgYGC8vLyHh4f5+fnIyMhSUlIxMTEWFhaUlJTZ2dlmZmZ9fX11dXX08/QcHRxvb28QEBCfn58lJSWRkf8bAAAA8ElEQVRIie2SW3eCQAyEh0EBuSihutjai///VzabpWh7xAuPduch2eTMR/ZkQTJTSDBLEYxgBCMYwQj+EzBfqHJ/2hYhA8Wi2mkovGs3dv+AGU2rBKWmyrecHgANWy32ZHYRTAPIHujJemg1Bi61WJPp1ES336irwKtNssnLu8A1cCDfLLbAiuxg4Hv4zCRYAkJ+AI2/8Set48Ev51x9BezqLGziqClvBydHTYKmjS86XUtv970LFJHUWVGaUTCAxxvLqcYiPE7zA97a6ssJbDn4HwX9ejucg9N/jvwCG7G3UB1EwkTpL4IPKYJPA87UN6v7CPRWyHNxAAAAAElFTkSuQmCC24",
+      "extensions": [
+        "30 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://careers.pvh.com/de/de/job/R61687/End-to-End-Product-Data-Analyst",
+      "job_title": "End to End Product Data Analyst",
+      "description": "About Us:\n\n\n\nWe are brand builders who focus our passion and creativity to build Calvin Klein and TOMMY HILFIGER into the most desirable lifestyle brands in the world and at the same time position PVH as one of the best-performing brand groups in our sector. Guided by our values and enabled by our scale and global reach, we are driving fashion forward for good, as one team with one vision and one plan. That’s the Power of Us, that’s the Power of PVH+.   \n\n \n\nOne of PVH’s greatest strengths is our people. Our collective desire is to create a workplace environment where every individual is valued, and every voice is heard, and we are committed to fostering an inclusive and diverse community of associates with a strong sense of belonging. Learn more about Inclusion & Diversity at PVH here.\n\n\n\nPosition OverviewThe End-to-End Product Data Analyst is responsible for supporting the quality, integrity, and operational readiness of product and article master data across PVH's global technology landscape. As part of the Global SAP-ERP Team, this IT role partners with Product Creation, Merchandising, Planning, Sourcing, Supply Chain, and Technology teams to ensure product and article data is complete, accurate, and ready to support end-to-end business processes.\n\nThis role serves as PVH's technical and functional expert for product and article data, including article structures, style-color-size relationships, GTIN management, product hierarchies, and enterprise data flows across SAP, PLM, MDM, PIM, and downstream applications. The role supports global transformation initiatives, validates product data readiness, analyzes complex data issues, and drives continuous improvement to reduce downstream business process failures.\n\nThis position is based in Bangalore, India, and partners with global business and IT teams across North America, Europe, and Asia.\n\nKey ResponsibilitiesProduct & Article Data ManagementServe as the IT subject matter expert for enterprise product and article master data.Analyze and support product data including styles, colors, sizes, SKUs/articles,  product hierarchies, attributes, and business associations.Ensure product and article data is complete, accurate, and validated before supporting downstream business processes.Maintain a deep understanding of PVH's product and article structures, numbering conventions, business rules, and end-to-end data flows.Product Data Quality & ReadinessPerform detailed analysis of product and article data across SAP, PLM, MDM, PIM, and related enterprise applications.Identify missing or incorrect product data before it impacts planning, sourcing, procurement, distribution, retail, wholesale.Validate article creation, GTIN assignments, size relationships, and product hierarchy structures.Support the identification, validation, and publication of golden product data.Global Deployments & Solution DeliverySupport product and article data activities for global ERP projectsValidate product data mappings, conversions, interfaces, and deployment readiness.Support mock conversions, cutover activities, and post-deployment validation.Develop and execute end-to-end product data testing scenarios covering multiple business processes and data variations.Business & Technology PartnershipPartner with Product Creation, Merchandising, Planning, Sourcing, Supply Chain, PLM, MDM, PIM, SAP, and Integration teams to resolve product data issues.Provide guidance on SAP product and article data requirements, business rules, and downstream system impacts.Support global projects by ensuring product data changes are evaluated for their impact across the end-to-end technology landscape.Partner with the Enterprise Data Governance team to support enterprise data standards and quality initiatives.Continuous ImprovementAnalyze recurring product and article data issues and drive root cause resolution.Develop documentation, validation procedures, and best practices for enterprise product data.Identify opportunities to automate product data validation and improve operational efficiency.Develop reporting and metrics to monitor product data quality and readiness across the enterprise.Qualifications5+ years of experience supporting product or article master data within retail, apparel, fashion, or consumer products.Strong experience with SAP product master data and enterprise applications including PLM, MDM, and PIM.Deep understanding of apparel product structures including styles, colors, sizes, SKUs/articles, GTINs, attributes, and product hierarchies.Experience supporting ERP projects, master data migrations, or global deployment initiatives.Strong understanding of end-to-end product data flows from Product Creation through Planning, Sourcing, Distribution, and Sales.Advanced analytical and problem-solving skills with strong Microsoft Excel proficiency.Excellent communication and stakeholder management skills with the ability to work across global business and IT teams.Bachelor's degree required.Key CompetenciesProduct & Article Master DataSAP Material MasterArticle ManagementStyle, Color & Size StructuresGTIN ManagementProduct HierarchiesPLM, MDM & PIMData Quality & ValidationGlobal DeploymentsEnd-to-End Business ProcessesRoot Cause Analysis\n\n\n\nPVH Corp. or its subsidiary (\"PVH\") is an equal opportunity employer and considers all applicants for employment on the basis of their individual capabilities and qualifications without regard to race, ethnicity, color, sex, gender identity or expression, age, religion, national origin, citizenship status, sexual orientation, genetic information, physical or mental disability, military status or any other characteristic protected under federal, state or local law. In addition to complying with all applicable laws, PVH is also committed to ensuring that all current and future PVH associates are compensated solely on job-related factors such as skill, ability, educational background, work quality, experience and potential.",
+      "apply_options": [
+        {
+          "title": "PVH Careers",
+          "link": "https://careers.pvh.com/de/de/job/R61687/End-to-End-Product-Data-Analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/end-to-end-product-data-analyst-at-pvh-corp-4469607399?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/1xd2LaDqjRszFIrDxjtCDlBIdwYubmEGMkBs7lQ-5MHOnpzyPqH7fA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010271820515&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/end-to-end-product-data-analyst-pvh-bengaluru--t7xk-834030320?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/end-to-end-product-data-analyst--bengaluru--ea07ad8fcd490f3c8307ed7a4b8b72870?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WhatJobs",
+          "link": "https://en-in.whatjobs.com/jobs/end-to-product-data-analyst/bangalore-karnataka?id=243893015&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "India Jobs Expertini",
+          "link": "https://in.expertini.com/job/end-to-end-product-data-analyst-bangalore-pvh-corp-a302464c0b06449892914f96e10b7e83105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbmQgdG8gRW5kIFByb2R1Y3QgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiUFZIIFNlcnZpY2VzIEluZGlhIFByaXZhdGUgTGltaXRlZCIsImh0aWRvY2lkIjoia2J5YzhHcFJaWTMzNHFKUUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURWxVWTNvNFV6UkpUMGh0YjNKcmIxRm1YMnR1U1RoaFZraFBPVmMxVjFGdE56UldOVk4wTnpSeVFWaHpiVVJIVDNsek9GVTNNVXAyUlVsTGRYVkZVR3d5WDB4RlgwUjFWR0ZuZWsxaWFFdGxNVGgyUWpGd01GSlBkMGRQVDJ0S2RtbEJjVzFMT0ZwWWJVUnNNVlJpWjNoT2FFTXdibTR6Vm1Kc1FYZzNSWEpEV0RNNE1tTVNGMmhsWmtsaGNHa3dUM0pUYnpWT2IxQnpOek5XYjBGakdpSkJSSE55T1daVFoyd3lkR3MxYW1sT2RqRmpWbXhQUzJwa1NHOVBRWFZZZFRaQiIsImZjdiI6IjMiLCJmY19pZCI6ImtieWM4R3BSWlkzMzRxSlFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Business Analyst – Freshers Only",
+      "company_name": "Haus Of Brands",
+      "location": "Bengaluru, Karnataka",
+      "via": "NextLeap",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=xn8IoHqJM-LZa9bhAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2NMQrCQBAAsc0TrLayEMmJYGMqU6hg4RPCJq53iede2L2DpPMP_sCn-RKjzRQDw2TvWVaUSVsmVdgz-lEjfJ4vOAipI1G4sB__pgs1KKE0DgLDMQTraV64GHvdGaPqc6sRY9vkTXiYwFSHwUyR_lCpQ6HeY6Rqs10Pec92uThhmgY3KAX5qtAylMQWfZK0gjMKY8Q7fgFXc950pQAAAA&shmds=v1_ARwrE23YNNpbnOqp7rILqkwuhNQOHdkO-cu6PcCxSnGlqE7IAA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=xn8IoHqJM-LZa9bhAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAbAAEBAAIDAQAAAAAAAAAAAAAABgUHAgMEAf_EACkQAAICAgEDAgUFAAAAAAAAAAECAAMEEQUGITESQQcTUWGRFiIkcYH_xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv_EABYRAQEBAAAAAAAAAAAAAAAAAAABEf_aAAwDAQACEQMRAD8A0bERAREQEREBERATlWpdwiqWZjoADZJnGe3hs5uL5fC5GtFd8TIS9UbwxRg2j-IFLd0pg19E4vOGzLTLty7cayh9BayisxPjfhfEwuHxuLkYgzQ9zVU3KmVSpAdFbw6nwR7eO3-y-5HNfL-GnH8hlUiqnK53JZ_Sg0qujDfYDeu_f7SJ4Sq_Ev5DGdG3bjGpQO4dyw9Gvrs-JN1UkZ_qToTB479Tpg5mQ1vAPQbBeF1fXbrwR4IJ--5C5BqNrmhWSssSis3qKj2BOhv8TdHV6jO5n4g4vKH5PGY1NWRVev7P5IRPlqSNfM3sjTb1rtqaSlJIiICduNYlWRXZbV82tWBasnXrG-437b8TqiBR2dRYj0NSOMuFbKV9JznK6_oifMfqDCoyBYOHX0omq1W8qVbvttge-x2H0k7ECkt6g4-5EF3DvaU7A25rWfj1A6k3EQEREBERAREQEREBERA__9k.jpeg",
+      "extensions": [
+        "4 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://nextleap.app/jobs/data-analyst/business-analyst-freshers-only-haus-of-brands/ovfoem18",
+      "job_title": "Business Analyst – Freshers Only",
+      "description": "*We’re Hiring | Business Analyst – Freshers Only*\n\nAt *Haus Of Brands*, we help restaurant brands grow their online business across Swiggy, Zomato, Ownly, Toing, and other delivery platforms.\n\nWe’re looking for a *Business Analyst* who is curious about numbers, comfortable working with people, and keen to understand what makes a business grow.\n\n*What you’ll do:*\n\n•⁠ ⁠Track sales, customer funnels, ratings, reviews, and performance across multiple restaurant brands\n\n•⁠ ⁠Analyze platform data to identify trends, understand issues, and highlight growth opportunities\n\n•⁠ ⁠Support brand level P&L analysis to understand how sales, discounts, and costs affect profitability\n\n•⁠ ⁠Compare performance across outlets and platforms to understand what’s working, what’s falling behind, and why\n\n•⁠ ⁠Maintain dashboards, performance reports, and action trackers that help the team make decisions\n\n•⁠ ⁠Study customer feedback, ordering patterns, and menu performance to recommend improvements\n\n•⁠ ⁠Work closely with Growth Managers to explain your findings, recommend next steps, and track whether those actions improve results\n\nWho we’re looking for:\n\n•⁠ ⁠Fresh graduates or candidates with up to 6 months of internship experience\n\n•⁠ ⁠Good working knowledge of *Excel and Google Sheets*\n\n•⁠ ⁠Strong analytical thinking and attention to detail\n\n•⁠ ⁠Clear communication and the confidence to ask questions, share an opinion, and explain your findings\n\n•⁠ ⁠Someone who takes ownership, follows through, and is eager to learn\n\nYou’ll get hands on exposure to how restaurant businesses operate and grow online from understanding performance to helping the team decide what to do next.\n\n*📍 Koramangala, Bengaluru | Work From Office | Monday – Friday*\n\nBeing based nearby helps, but being able to commute reliably matters most.\n\n📩 Send your CV to [REDACTED EMAIL] and [REDACTED EMAIL], or DM us on LinkedIn.",
+      "apply_options": [
+        {
+          "title": "NextLeap",
+          "link": "https://nextleap.app/jobs/data-analyst/business-analyst-freshers-only-haus-of-brands/ovfoem18?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBBbmFseXN0IOKAkyBGcmVzaGVycyBPbmx5IiwiY29tcGFueV9uYW1lIjoiSGF1cyBPZiBCcmFuZHMiLCJodGlkb2NpZCI6InhuOElvSHFKTS1MWmE5YmhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVERGU1RWQXdVR3huTlZSaWIxTkNiM1puT1UxVE5qWXpjRVZ1YnpkUU5rSk5kR3BFT0ZGdlREbGlhM1JxTUVWTk9EQnhUbTFzYUdSclVWZENOVUZyYlVsNlgyOVdjMFp2TmxCWWJtOUVZelJhU0hSMk16VktUbTlpYzJ0VmEwdHFSa1pFV2t0dFgxcE5kR3hLYzBzemFDMWlUakJuYjAxTmJUbHhhblpSVWs0M2IxOUpjbW9TRjJobFprbGhjR2t3VDNKVGJ6Vk9iMUJ6TnpOV2IwRmpHaUpCUkhOeU9XWlVkSHB0YmkxSGRTMWZaaTFaUVVkU2FFOU1TbkY0UkV4a1pGbDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJ4bjhJb0hxSk0tTFphOWJoQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTblpYYUdOMU1FMU1lSFpUTlZoVU1FMVhRVW8zWkRWek1WZEhNMk5xVEVOUU1HRnJTWFp1Y0VSTE9IWmZkMHRGY1UxNFltUmhSMk15TlRZeVZUWmxiWHBpTldKRU4zZFdPR28yTWpOWmRrZE9Ra3BoYTJSME5FWnZTMVY0UTJ4VlNUQmxaMDlCVkVsM1RVZG9abTF5TVRjMlgwcFdWVkZWU2xZMlVUQmpOMGxPVkRkbFRFWlhWM2RWWlUxaU9XNW1VRUZDTkRkNE1HdFFXV1F0VDBKRk1uQTRWMng0WW1wbk9HcHlhbTFrTFdGYWRTMVlZMHB3V2pCblFXcDFlR05yY2pOUFFpMTVXVVl4TjNGSWJFZE5RMEZuV201WllYSm1jWE53WVRKWk9FdGtSWGRPZFVaR05pMW9RMHMxVkdRd1drZFNUVzUwZVcxUVRtdHVkWFpwVmtoRVNVVmZlREkzTUhFMU1GaGZkbTFsV2psWVdEQkNhVzVVVlRSTmNVTjFUVmQ2TVZaVWRIVmtTRVZtY1RBMVJVRkVUM2syVHpKSFQxZE1aMUZXVDNFMVdEUjViemRCZFZVM2NFSm5VbXhqY0ZJemNtbHBlWEpTWkRkR1V6bHVhbWxNUVZOM1ZtaHJjMjF4UVhwd2NFcGlPRTF5UzI5aWN6ZDZjRFpZWWxBNWMxaEZlVEZ5T0RWVWJIQlhMVXBJU0ZKeE5VNWxiMUZmZG5FdExUWnNNVFZaWmtGSFRHSnpVMDUxV2poclUxOHhZMHRDZDNWelJVNDBUa1J4ZFRWemRFeFFhRWRuUmhJWGFHVm1TV0Z3YVRCUGNsTnZOVTV2VUhNM00xWnZRV01hSWtGRWMzSTVabEkzVlhOTFowTlhPVXh1YWxwNGQwVlJhVXBKVjJsNVZXa3djR2MiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTblpYYUdOMU1FMU1lSFpUTlZoVU1FMVhRVW8zWkRWek1WZEhNMk5xVEVOUU1HRnJTWFp1Y0VSTE9IWmZkMHRGY1UxNFltUmhSMk15TlRZeVZUWmxiWHBpTldKRU4zZFdPR28yTWpOWmRrZE9Ra3BoYTJSME5FWnZTMVY0UTJ4VlNUQmxaMDlCVkVsM1RVZG9abTF5TVRjMlgwcFdWVkZWU2xZMlVUQmpOMGxPVkRkbFRFWlhWM2RWWlUxaU9XNW1VRUZDTkRkNE1HdFFXV1F0VDBKRk1uQTRWMng0WW1wbk9HcHlhbTFrTFdGYWRTMVlZMHB3V2pCblFXcDFlR05yY2pOUFFpMTVXVVl4TjNGSWJFZE5RMEZuV201WllYSm1jWE53WVRKWk9FdGtSWGRPZFVaR05pMW9RMHMxVkdRd1drZFNUVzUwZVcxUVRtdHVkWFpwVmtoRVNVVmZlREkzTUhFMU1GaGZkbTFsV2psWVdEQkNhVzVVVlRSTmNVTjFUVmQ2TVZaVWRIVmtTRVZtY1RBMVJVRkVUM2syVHpKSFQxZE1aMUZXVDNFMVdEUjViemRCZFZVM2NFSm5VbXhqY0ZJemNtbHBlWEpTWkRkR1V6bHVhbWxNUVZOM1ZtaHJjMjF4UVhwd2NFcGlPRTF5UzI5aWN6ZDZjRFpZWWxBNWMxaEZlVEZ5T0RWVWJIQlhMVXBJU0ZKeE5VNWxiMUZmZG5FdExUWnNNVFZaWmtGSFRHSnpVMDUxV2poclUxOHhZMHRDZDNWelJVNDBUa1J4ZFRWemRFeFFhRWRuUmhJWGFHVm1TV0Z3YVRCUGNsTnZOVTV2VUhNM00xWnZRV01hSWtGRWMzSTVabEkzVlhOTFowTlhPVXh1YWxwNGQwVlJhVXBKVjJsNVZXa3djR2MiLCJmY3YiOiIzIn0%3D&q=Data+Analyst"
+  },
+  "_retrieved_at": "2026-10-09 13:09:25 UTC"
+}

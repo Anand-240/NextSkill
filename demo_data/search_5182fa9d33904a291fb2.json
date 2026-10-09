@@ -1,0 +1,320 @@
+{
+  "search_metadata": {
+    "id": "6ac8e7bf0257bbca437b4c84",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2X6oIee1gSbzu0b1fozuEM1eBmze7_C4mKIjySWQlB8/6ac8e7bf0257bbca437b4c84.json",
+    "markdown_endpoint": "https://serpapi.com/searches/2X6oIee1gSbzu0b1fozuEM1eBmze7_C4mKIjySWQlB8/6ac8e7bf0257bbca437b4c84.md",
+    "created_at": "2026-10-09 13:10:23 UTC",
+    "processed_at": "2026-10-09 13:10:23 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Accountant&uule=w+CAIQICIWSmFpcHVyLFJhamFzdGhhbixJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/2X6oIee1gSbzu0b1fozuEM1eBmze7_C4mKIjySWQlB8/6ac8e7bf0257bbca437b4c84.html",
+    "prettify_html_file": "https://serpapi.com/searches/2X6oIee1gSbzu0b1fozuEM1eBmze7_C4mKIjySWQlB8/6ac8e7bf0257bbca437b4c84.prettify",
+    "total_time_taken": 1.06
+  },
+  "search_parameters": {
+    "q": "Accountant",
+    "engine": "google_jobs",
+    "location_requested": "Jaipur, India",
+    "location_used": "Jaipur,Rajasthan,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTbGRVVDFaWFNXb3dNWHBhTUdadllXOVJjbGRUVTBad0xWTkZNV2hKVUhsbFZsSkhNVjh3ZFVRNGFFcFpNbEpFVTBKUlkydFBSekJoTFVaTFkwWklObXR2VDA1WFVUTmxhV1JxV1ROb01taGFhWFp6VUZkbmQxRm9kRzEyTWkxSk4zaFdjRVIwVjIxT01GZHJXUzEyVkVzeVV6QkViblJWV2xKZlZ6QlJNM1pIVmtzeGRuZHRVVVp5V0ZKWVZYQXpibEJDZDE5YWNqRlFjMGRrTFhWdWNHSmtSRXRaWWs1TWFqSm1NR00yWlc0eWNXZHJXbWczU1VWcE5rZEROWEY2UzIxMGQyMUVXVmg1VkY5TVVYY3hOMjVoZFdVeFMzWTRTSEZVTkZCdWVYZG1TSEY2TUVaVlR6ZEtTbmRZUzFSQ1YzRkJiMlJtU25aSlkyMHlORmhLUlU1SFYybFhXa1ptU0Zaek5rWklSRWgwVGt4Q05tUlNSMmRGWDJzMFExVTNZa2xyUWtKZmJHbElRa2RhU2tkVmEwTkpNMFpPT1dORVRuVnVhbXhtUnpsT09FeEZVakJEZFRsWGJXNHlUMEZ6T0ZoaFIyRlpSMjF1UkhOcmQxOTNOM05CVVZaSlNsSllhVGwxUWpGeFNXeGZia0ZNTjBWSmRYcFJlRWhsVFhFeE9VeFJSMWhOYWpkelduSlZVRzR5UTBRdFJtYzNXbUpYWnkxd1psbGpUbFJrTjB4WGEzWmpkRzVSWjNkZmQyaHRWVmRmZHpFM2VrVlpja0pIZDJkbVNrMVNaSFJOV1V4d1FXaGpVVEpRTTBWSWQzQkNla3gwTkRaM2VYY1NGM1oxWmtsaGNuRXlUVkJ0YkdvNU5GQm9PRlI0YzBGekdpSkJSSE55T1daVE9IazRXa3N5Y25KUFdWSk9kR3N6VEZKRk1HcFlaRTFtUm5wQiIsImZjdiI6IjMifQ=="
+  },
+  "jobs_results": [
+    {
+      "title": "Jr. Accountant",
+      "company_name": "A N Industries",
+      "location": "Ghaziabad, Uttar Pradesh",
+      "via": "Apna Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=b-2CeNfLqgn4ASzqAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CE63CUUSEVx06iQ6iItzuaZHE4m5kLtCcfIZ9A19Euvyb99fvRfV6lwMNM7xmBSTwvf1gTt3IITFeeAER-Yh0vLgVbPsrRWJZhBFDc44flhO1PFkZyT_tOKxUI6o1G53m8nkNNR1Axc4pX4ULYEEwrz1-AzYYb-GmyoWuBbsSfwPvF0bCpUAAAA&shmds=v1_ARwrE20DNaAwpCkDvmppweaQQ2ioyVETNn96_NS-Uvxvpvk2jg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=b-2CeNfLqgn4ASzqAAAAAA%3D%3D",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAApVBMVEX///+DveQAAABNOVErt5P/0WZKNU56ueIHsov/zllkVGdIMkx9cX86Hz/m5uZAKEVELUhUu7F7vOndzJf/0WE4Gz12aXnDw8Ph3uE1Fzu/usDt6+2AgICTlJTy8vLHw8hbSl/SztO0rrWFeof/2GkxpYfhu2GimqSpoqoxDjZqXG1UQliMgo6akpwsADFEtqsocV6Xf0X0yWUfX04pjnTDolSCbjydLezGAAAB+ElEQVRIie3X35OaMBAH8K3boy0RNvUuSEAJop4K2N711///p3WDMgJ3D5CXe/H7kGFCPgObOMwKs0tWyxBGJFyurgCacT0GtVnfYDzFAcQtzKY5gOwCRxXXT2jhpPrarBm6OGC2coMrWLrBJThsjY0ju+eeD0xsEnP79qSJuX1QTHK5ESeJSQfsQIqIVM7zOVF01EQ6AYiI/A3fOBUA8yDgK132YRJIIkRRAfgeekQeok5hLuw1IgYAZ5IkEeW8L/ODSSpEFTfQT0oP5aGBWDBUIcTl0RQs9dsyDxJpY2GQwobQKy3kmYhnruXzpeqXmUT8PGxhBqlCrCxkEjUjFGWzRPU+w1EgpJIdmOk+DHnTPFJiAI1CUWe3V80gDtDLOzA9EsojbEUfHhvSrZFnRN2FWzvYiV6NBW95XksPRWQhVlt+bbXpwlrybs3teZw7MFO8WpIvZd1A4lqID2wuhWbIYxif+JiklwsqupsT51pXBrbaWCgKTwc1T5+jqAyh5jEFg1r7cRr9GPzqsrbm666+PebbkvdzgQ5xhrlWJye4CZ3YPR8b5+bBuV1xbpBmX4f5ufgyyOLx2yBP3Mu9fB7k+6dhFo9PD73sXm3buZ8Md8+XRncq3P1qW+v9JGif1zbzL+Ph7uG18y9gNvv9Zz8GPv/9dwX/AYSuLmToEcXbAAAAAElFTkSuQmCC24",
+      "extensions": [
+        "1 day ago",
+        "₹20K–₹25K a month",
+        "Full–time"
+      ],
+      "source_link": "https://apna.co/job/ghaziabad/jr-accountant-987155074",
+      "job_title": "Jr. Accountant",
+      "description": "Jr. Accountant job opportunity.",
+      "apply_options": [
+        {
+          "title": "Apna Jobs",
+          "link": "https://apna.co/job/ghaziabad/jr-accountant-987155074?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKci4gQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkEgTiBJbmR1c3RyaWVzIiwiaHRpZG9jaWQiOiJiLTJDZU5mTHFnbjRBU3pxQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdSMlNXdE5kRXBaWmpaTVVFVnpSMlJwYW5OZlFVNTNjbXhUVVhWdWJUUTJaMEoxVmpreGRHMVNaa2xqVVVSdVRscGFkMU53VEc4eGFtUndMVE5sVmpaR2RUUXdjVTVKTlRSWVdsTTRUbVpXZVZWQlUzRlNNWFZITkU1RU5WVnJYMWhtTm5NeWRXMWhaRmRDTVUwdFYzUm1WMWR0Y25oalNUaEZiRTh0T0RGa2FUbFFPVGtTRjNkUFprbGhkblp0UlhBM1VUVk9iMUF4WDBSZmEwRnJHaUpCUkhOeU9XWlJla2xQVjFGYWFqWjFhMkpxWWxWNWJHWkhRbTgxVVRBNFJVaG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJiLTJDZU5mTHFnbjRBU3pxQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior Accountant - Fresher",
+      "company_name": "Healing Himalayas Foundation",
+      "location": "Gurugram, Haryana",
+      "via": "Internshala",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=xnlLEzE6yY-tjz1BAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQ3CMBCFYdFmBKqrEcSAoIGKJkQsER3Gcoycu-jOlpKOHdiBwZgE07zuf1_1WVSHW6bAAhdrOVNCSrCBRpz2TuD7esOT76AOxfbABFdmH93y3Kc06skY1Vh7TZiCrS0PhsndeTIl0v902qO4MWJy3f64neqR_GrXOoyBPLRhwIgzKjTFfpSTIoSCZMlecFhDizIj4Q8sAEguqQAAAA&shmds=v1_ARwrE208_uLg0dPzOYiYvFL9H8mrvyM62QCyDj5copXVHbSF5g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=xnlLEzE6yY-tjz1BAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "₹2L–₹2.4L a year",
+        "Full–time"
+      ],
+      "source_link": "https://internshala.com/job/detail/fresher-junior-accountant-job-in-gurgaon-at-healing-himalayas-foundation1791179142",
+      "job_title": "Junior Accountant - Fresher",
+      "description": "About the job:\n\nKey Responsibilities: \n\n\n\n1. Managing day-to-day bookkeeping and financial records\n\n2. Maintaining vouchers, invoices, bills, and supporting financial documents\n\n3. Assisting in data entry and record maintenance in tally and spreadsheets\n\n4. Supporting the accounts team in expense tracking, reimbursements, and payment follow-ups\n\n5. Organizing and maintaining project-related financial documentation\n\n6. Assisting in preparation of reports, utilization records, and basic financial statements\n\n7. Coordinating with internal teams for collection of bills and financial documents\n\nWho can apply:\n\nOnly those candidates can apply who:\n\n\n\nSalary:\n\n₹ 2,00,000 - 2,40,000 /year\n\nExperience:\n\nNo experience required\n\nDeadline:\n\n2026-11-04 23:59:59\n\nOther perks:\n\nInformal dress code, Free snacks & beverages\n\nSkills required:\n\nTally\n\nOther Requirements:\n\n1. Knowledge of Tally Prime\n\nAbout Company:\n\nFounded in 2016, Healing Himalayas Foundation aims to preserve the fragile ecosystem and cultural heritage of the Himalayan region. In response to the environmental degradation caused by increasing tourism and human activity, the organization focuses on educating tourists, trekkers, and local communities about sustainable waste management. Healing Himalayas conducts year-round clean-up drives, establishes material recovery facilities, and promotes responsible tourism practices. By engaging with local communities, the foundation not only protects the natural beauty and ecological balance of the Himalayas but also enhances livelihoods and supports sustainable development in the region.",
+      "apply_options": [
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/job/detail/fresher-junior-accountant-job-in-gurgaon-at-healing-himalayas-foundation1791179142?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/4997494215591207790?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CallCenterJob.co.in",
+          "link": "https://callcenterjob.co.in/junior-accountant-gurgaon_678309?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQWNjb3VudGFudCAtIEZyZXNoZXIiLCJjb21wYW55X25hbWUiOiJIZWFsaW5nIEhpbWFsYXlhcyBGb3VuZGF0aW9uIiwiaHRpZG9jaWQiOiJ4bmxMRXpFNnlZLXRqejFCQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEU1WVpsRmxjVUpmVTJNMldWcEZkR3BxY1dVeFl6UmtkSGxuYURWRU1uZ3djbTV1UVdrNVNWZFlVVnBNYlRSS09HTTJkbmhOYkVoNVlrcGpUWGxyY0dKdWRGRjJUak5LYkhsbFZYUkZRV3BQUzJseWEyZE9laTB6VFZoT1dtMWtkME51YkdWNFlqUmlVMFpZWlZGVmJWbFhWa2hrVTNsb1FrSkpWalJqTjAxaVFrUlRXbWNTRjNkUFprbGhkblp0UlhBM1VUVk9iMUF4WDBSZmEwRnJHaUpCUkhOeU9XWlVha1psWW1KcGFVRnBaMGt4ZWpCT01WQkVlbTVhVFV3NVJFNUIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ4bmxMRXpFNnlZLXRqejFCQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Chartered Accountant in Real Estate and Construction",
+      "company_name": "Building Services Design & Energy Institute - MEPa2z",
+      "location": "Gurugram, Haryana",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=hDbtZyrM0kvNUEUhAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMU4DQQxFRZsjULlKgchuFIkGqiSsQopICA4QObPW7KCJvbI9KKHiDhyOnpMw2_ziS-__N_u9mR22A6qTUg_rEKSwIzskhjfCDJ05OgFyD1thcy3BkzD8ff_Ah5zACDUMUJudSMx0-zS4j_bYtma5iROdQhPk3ArTSS5thWyKo9VbGnNdP64elpdm5Hi335SU-8QR3kk_UyCDZ7IUGebQMWm8wr5KJC_VaQGH7hVXX5PrrmiJiud7eEG9IuM_iNRjuNoAAAA&shmds=v1_ARwrE22NxVQO3Xc26tF9_d4XNTU2n0QpxCNPIyhVC1vWSdjEhQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=hDbtZyrM0kvNUEUhAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e7bf0257bbca437b4c84/images/fUd9vNBXYZyT-1gyyo-iKJmQ9PB2rtmzUAHNPOeIjWc.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/chartered-accountant-in-real-estate-and-construction-at-building-services-design-energy-institute-mepa2z-4475185697",
+      "job_title": "Chartered Accountant in Real Estate and Construction",
+      "description": "We are seeking a skilled Chartered Accountant with expertise in the real estate and construction sectors to join our team in the Delhi-NCR region. The ideal candidate will have a strong background in financial management, compliance, and reporting, specifically tailored to the unique challenges of the real estate and construction industries. As a Chartered Accountant, you will be responsible for managing financial records, preparing financial statements, and ensuring compliance with relevant regulations. You will play a crucial role in budgeting, forecasting, and financial analysis, providing insights that will drive strategic decision-making within the organization. Key responsibilities include: - Preparing and reviewing financial statements and reports in accordance with accounting standards. - Conducting audits and ensuring compliance with tax regulations and financial reporting requirements. - Collaborating with project managers and stakeholders to provide financial insights and support for ongoing projects. - Assisting in the preparation of budgets and forecasts, monitoring financial performance against targets. - Advising on financial implications of business decisions and strategies within the real estate and construction sectors. The successful candidate will possess strong analytical skills, attention to detail, and the ability to communicate complex financial information clearly. Proficiency in accounting software and a solid understanding of financial regulations in the real estate and construction industries are essential. If you are a proactive and detail-oriented Chartered Accountant looking to make a significant impact in the real estate and construction sectors, we encourage you to apply for this exciting opportunity.\n\nThis job is provided by Shine.com",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/chartered-accountant-in-real-estate-and-construction-at-building-services-design-energy-institute-mepa2z-4475185697?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/chartered-accountant-in-real-estate-and-construction-building-services-design-energy-institute-mepa2--fj-2401562901?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDaGFydGVyZWQgQWNjb3VudGFudCBpbiBSZWFsIEVzdGF0ZSBhbmQgQ29uc3RydWN0aW9uIiwiY29tcGFueV9uYW1lIjoiQnVpbGRpbmcgU2VydmljZXMgRGVzaWduIFx1MDAyNiBFbmVyZ3kgSW5zdGl0dXRlIC0gTUVQYTJ6IiwiaHRpZG9jaWQiOiJoRGJ0WnlyTTBrdk5VRVVoQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU210NldURjBNSEJaVTBsaGJUbFZhV0k1YUU5R1JIRmFjME4wVnpWSk1sWTJXSFJDUjFoaGFqZDZNRmhSUjJwQlpsOVdVQzFLWWxnNVUwRXhjMVpQU1U0MFltUTJlbEEwYkZkTVpISnRiV0pSV2pWaVIxbFhjRGhSWTJOdFZEVjNTMnRXVXpGWFV6UkNkMlYzZVZGQ1FuTm5jWHB5YVVOeVNVdDRWMk5JZGs1blQyVm1Na0VTRjNkUFprbGhkblp0UlhBM1VUVk9iMUF4WDBSZmEwRnJHaUpCUkhOeU9XWlVkako0Y1hKdVpWRTJUR1JoVTNRMmRIWlVTblZoY2taWFlUSkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJoRGJ0WnlyTTBrdk5VRVVoQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Urgent | HIRING SENIOR ACCOUNTANT  FEMALE",
+      "company_name": "Sharda Consultancy Services",
+      "location": "New Delhi, Delhi",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=sA-0_5NhkTrEcgSQAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWLTQqCQBhAaesRWn3rCCeCNrUyMxNqBH_WMk4fakwz4jeVQYvu0E06UifJaPMePHjOe-Ss865CbeEBuyiJeAhpwKM4Ac_345xnHs8AtsHB2wfweb7gZEogFJ2swWgIjakUjle1tS0tGSNSbkVW2Ea60pyZ0Viang0T_VBQLTpslbBYzBez3m11NWHpEI8CfKPpoqzQ8g4pdtdGIkGjgeMNNqjqZvrXF8JE0ja1AAAA&shmds=v1_ARwrE200iAiQ8CD_v3pbV-t14st6VGrbsJ7Q8ROlDbGKc7LSgw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=sA-0_5NhkTrEcgSQAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "₹4L–₹4.5L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/urgent-hiring-senior-accountant-female/sharda-consultancy-services/19719069",
+      "job_title": "Urgent | HIRING SENIOR ACCOUNTANT  FEMALE",
+      "description": "Position: Senior Accountant\n Gender: Female\n Experience: Minimum 3 Years in Accounting\n Salary: Up to 40,000/month\n Shift: 10:00 AM 7:00 PM\n Working Days: 6 Days\n Salary Date: 1st of every month\n Cab: Not Available\n\n\r\nRequired Skills & Expertise:\n\n\r\n\r\nStrong knowledge of GST, Tally & TDS\r\nBalance Sheet Finalization\r\nFinalization of Accounts\r\nGST Returns & Compliance\r\nTDS & Statutory Compliance\r\nAccounting & Bookkeeping\r\nFinancial Reporting\r\nBank Reconciliation & Ledger Management\r\nStrong knowledge of accounting principles\r\nAbility to independently handle accounting matters",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/urgent-hiring-senior-accountant-female/sharda-consultancy-services/19719069?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJVcmdlbnQgfCBISVJJTkcgU0VOSU9SIEFDQ09VTlRBTlQgIEZFTUFMRSIsImNvbXBhbnlfbmFtZSI6IlNoYXJkYSBDb25zdWx0YW5jeSBTZXJ2aWNlcyIsImh0aWRvY2lkIjoic0EtMF81TmhrVHJFY2dTUUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXczBiRFZMV0hwaVZqaEhNRkJtTlZvMGVVaDNOV2hRVGpReFFVdG1ZazB0ZW05UWExZHdTMWhQWlRKd2RuUlJRMWxYZGtjMFRUVmFTbVZLVjBOaVRra3RabGxKWDJ4M2FreFJiRGxTTVV4SmQzRXhXa1JxZEhZd2RXWmFZazB5U3pab2JqRkVlbEpWZEc1aE9ITkpNMDlFUmxaWFoxRjRRWGhGVnpaM1dsbEJMV1pqWW00U0YzZFBaa2xoZG5adFJYQTNVVFZPYjFBeFgwUmZhMEZyR2lKQlJITnlPV1pSYmpaU1RXRkdTbWxqT0dwcFEzaGZVWHB1Y0ZaNGJrMUVOblZuIiwiZmN2IjoiMyIsImZjX2lkIjoic0EtMF81TmhrVHJFY2dTUUFBQUFBQT09In0="
+    },
+    {
+      "title": "Male-Accountant | Bawana",
+      "company_name": "Dabs India",
+      "location": "New Delhi, Delhi",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=HHpSe_rEERqn-n8oAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yXLMQrCQBBAUWxzBAuZWjSrgo1WSkAs9Aphsg7ZDetMyIwkhYVHELyhJ1Gx-a_62XOULU-YaL7zXm5syAZ32GOPjPB-vKCRCpSw8wGE4SBSJxpvg1mrG-dUU16roUWfe7k6YapkcN9Jfyk1YEdtQqNytV4Mecv1dFJgpXDkS0SIDGfqoaAU4uzPB3Hdxc-TAAAA&shmds=v1_ARwrE2243MgWxbn61ZeLRfxa70Ui-FeMBjwtt350stfBFVDLCA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=HHpSe_rEERqn-n8oAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e7bf0257bbca437b4c84/images/2YZt6kxvByt1eGOElOqy1q3rnVcN8Z8AOFBf7eHqoy8.png",
+      "extensions": [
+        "3 days ago",
+        "₹20,833–₹25,000 a month",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/male-accountant-bawana-dabs-india-new-delhi--t7xk-869301329",
+      "job_title": "Male-Accountant | Bawana",
+      "description": "Handle day-to-day accounting and journal entries.\n\n\nManage billing and maintain accounting records.\n\n\nPrepare and maintain BR & BP.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/male-accountant-bawana-dabs-india-new-delhi--t7xk-869301329?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYWxlLUFjY291bnRhbnQgfCBCYXdhbmEiLCJjb21wYW55X25hbWUiOiJEYWJzIEluZGlhIiwiaHRpZG9jaWQiOiJISHBTZV9yRUVScW4tbjhvQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1NtRnBjSFZ5TEZKaGFtRnpkR2hoYml4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xOaVJXVlVUelEwZFhGcldWUlBVbXhYVWpCZlZqYzFSRUkwVEhVNU4wSjFka3B6WW5kVGRrcHBkMVoxWlZnNFdHTTBMVVZCTFVGcGRUWlJVSFYwUTBKaU1rbHBaelp4VlRSbVZVWnhObU5YUkZFMllrVkJZazF3WjNRNGJFWkRhekpQYm1KemJVWXdaVEV4VDJaU1RHRjNZVW95WVZOeFpXOTJNa0pHT0c4NFoyVkxhVE1TRjNkUFprbGhkblp0UlhBM1VUVk9iMUF4WDBSZmEwRnJHaUpCUkhOeU9XWlRVRVp5TVRCbVVqY3dabGg2TWpob2VrMUJabUpTTkZoa2QwaG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJISHBTZV9yRUVScW4tbjhvQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Supply Chain Accountant | Noida, IN | Hybrid",
+      "company_name": "Aristocrat",
+      "location": "Noida, Uttar Pradesh",
+      "via": "EFinancialCareers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=pdcYCopx2ROKZN0BAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2OMQrCQBBFsc0RrAZLkawINloFEbUJgliHyWbJrqw7y84EErDwDl7Cc3kSI9h8XvN4P3tPsv2li9EPsLPoAhRaUxcEg8ADSnINLuBUjnwc6uQa-DxfcKMa2GDSFijAgaj1Zrq1IpE3SjH7vGVBcTrXdFcUTE29GiX-TcUWk4kexVSr9bLPY2jnsyI5FtIJBcYT_-5VBBOcEzaG7RfrGjOiqwAAAA&shmds=v1_ARwrE22RFh_F6JszthKv5z8cW0Ji765yzzX3s2jQ60UgT0A4fQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=pdcYCopx2ROKZN0BAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAbFBMVEUHLEr___8ADjkABjbZ2djV19kAJ0cAADEAJkcABTIAKkkAI0UAGD4AETtyeYKtsLTMzMzCxMXp6uoAHkIAFzcAHzrx8_Q7SFkACzO1t7oqOU0iNUsAGzm6vb9RWmaOkpifo6dHUmB6gYhjbHcl8-dEAAABMElEQVRIie2W27aCIBCGBQ-IQqGkqB2sfP933Fhrt9rGDNhde_Xdf-uf4TAQRV_-M0UpJKVSlMUqLZPNZqvSVG03jczC06ipyIPK0MDUrOvJH_ouKLQcarKg3pd-Lx-W2syQ-7zi8JJ3yzz4-oyPLo-QI_UUenJ7hJzwYmkKiQqNLJwrc2ePdalHWBw1IsoKFiuJiMy5F3fq-F2RY2KLiOzdREykChYVtjj6DItnbDvyCyxe0EvJwSbRFm2tV0i8YpVaWOL2EjzQDhzjFgfv2NGTy5s8hc4IhzkJv2czzWJpaxOQN5Pz8enMtiP3jrhfCt1N_S227qdOr3k-7JvDdk2zYyJgFL_IlvXWWmgMgo5HoRIQhe0lR0ZHi53WDxKF_TBAoIsT2S8KRNAF-fJp_AD2YhBY5_qOCgAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "1 day ago",
+        "₹7,93,977–₹14,74,530 a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.efinancialcareers.com/jobs-India-Noida-Supply_Chain_Accountant.id24867044",
+      "job_title": "Supply Chain Accountant | Noida, IN | Hybrid",
+      "description": "At Aristocrat, we are passionate about crafting world-class gaming experiences that entertain millions of people across the globe. Our mission is to lead by example in the global gaming industry, encouraging an inclusive and innovative culture that values outstanding talent and creativity. Aristocrat is looking for a Supply Chain Accountant to join our outstanding team! This role is a critical part of our Global Supply Chain Finance team and will support the financial accounting of our integration centers. \r\n \r\nWhat You'll Do \r\n \r\n• Perform month-end close activities including preparation of journal entries, Balance Sheet reconciliations, and account analysis. \r\n \r\n• Prepare and upload annual standard costs into Microsoft Dynamics 365 \r\n \r\n• Monitor and analyze integration center costs, standard costs, and production variances, providing regular performance reporting and insights. \r\n \r\n• Provide accounting guidance to both accounting and non-accounting colleagues \r\n \r\n• Support personnel at integration centers and their associated business unit management with ad hoc accounting information and analysis \r\n \r\n• Prepare audit support and documentation for internal and external auditors \r\n \r\n• Ensure compliance with accounting standards and company policies. \r\n \r\n• Support continuous improvement initiatives within the finance and supply chain departments. \r\n \r\n• Provide insights and recommendations for process improvements. \r\n \r\nWhat We're Looking For \r\n \r\n• Bachelor's degree in Accounting \r\n \r\n• More than 3 years of accounting experience, ideally within a supply chain setting \r\n \r\n• Proven track record of success in financial analysis and reporting \r\n \r\n• Strong knowledge of accounting principles and practices \r\n \r\n• Outstanding analytical and problem-solving skills \r\n \r\n• Excellent communication and collaboration abilities \r\n \r\n• Proficiency in accounting software (Microsoft Dynamics 365 preferred) and Microsoft Office Suite \r\n \r\n• Strong Excel skills (pivot tables, xlookups, sumifs, etc.) \r\n \r\n• Capacity to work autonomously and collaboratively with others \r\n \r\n• Diligent with a dedication to maintaining flawless accuracy \r\n \r\n• Ambitious approach with a drive to compete and excel in a dynamic environment. \r\n \r\nAbout Us: Aristocrat and Aristocrat Gaming \r\n \r\nAristocrat is an Australia-based entertainment and content-creation company powered by technology to deliver world-leading mobile and casino games, entertaining millions of people across the globe daily. The Aristocrat organisation includes three prestigious business units: Aristocrat Gaming, Product Madness, and Aristocrat Interactive. As an award-winning organization, we thank our wonderful people for earning us numerous prestigious honors and recognitions. \r\n \r\nAristocrat understands that keeping you engaged and excited about your professional setting is the ultimate fuel for our success and creativity, and we strive to keep your best interests our top priority. In addition to competitive pay, we're proud to offer world-class benefits, flexible work environments, and a workplace that is unparalleled. Apply today and take your career on a journey of fascinating tomorrows. \r\n \r\nAristocrat is proud to be an equal opportunity employer. \r\n \r\nWe celebrate diversity and do not discriminate based on gender, race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability status, or any other applicable characteristics protected by law. Diversity and Inclusion are integral to our values of Talent Unleashed, Collective Brilliance, Good Business, Good Citizen, and It's All About the Player. \r\n \r\nAdditional Information \r\n \r\nDepending on the nature of your role, you may be required to register with the Nevada Gaming Control Board (NGCB) and/or other gaming jurisdictions in which we operate. \r\n \r\nThis job description may have been reviewed and enhanced using AI-assisted tools to improve clarity, consistency, and inclusivity. All final content, role requirements and hiring decisions remain subject to human review and approval by Aristocrat. \r\n \r\n Compensation Philosophy \r\nWe offer a comprehensive pay and benefits package designed to stay competitive in the market, support your wellbeing, and recognise your contribution to our success. Our approach is underpinned by a pay-for-performance belief in rewarding individual impact. Your specific compensation package will be determined by factors such as your skills, experience, qualifications, and location. \r\n \r\nDepending on your role and location, you may be eligible for annual bonuses and incentives, health and wellbeing benefits, paid time off, retirement plans, insurance coverage, and other local or statutory benefits. \r\n \r\nSpecific details about compensation and benefits for this position will be discussed during the recruitment process.",
+      "apply_options": [
+        {
+          "title": "EFinancialCareers",
+          "link": "https://www.efinancialcareers.com/jobs-India-Noida-Supply_Chain_Accountant.id24867044?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdXBwbHkgQ2hhaW4gQWNjb3VudGFudCB8IE5vaWRhLCBJTiB8IEh5YnJpZCIsImNvbXBhbnlfbmFtZSI6IkFyaXN0b2NyYXQiLCJodGlkb2NpZCI6InBkY1lDb3B4MlJPS1pOMEJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXU21GcGNIVnlMRkpoYW1GemRHaGhiaXhKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVmxzTkcxS1pIWlVSVEZYVDBsYWMzVTBZekZHYkUxWFZuQjRORFp2TmkxMVNGUXhTamxOYlVKVldHZ3dkMWgyYWxjMVVEUjNaVk5yTlZwWlpEYzVOMnhzYjJkMFEzTnJjV1ZDUmtsQlgyMVFkWEZ5U25rNVgxSTBhRGRHUWtzelkydDRUMEZHYnpCblYzaFRYME51VDA0NVpYUjBRekk1ZVdwQlJESkljR1V3WmtKeGVUQVNGM2RQWmtsaGRuWnRSWEEzVVRWT2IxQXhYMFJmYTBGckdpSkJSSE55T1daU04yeEpaMEk1ZUdwd1VFOXJPWHBLYm0xaWQyNWtkVUZ3Y2xCQiIsImZjdiI6IjMiLCJmY19pZCI6InBkY1lDb3B4MlJPS1pOMEJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "R2R Accountant",
+      "company_name": "Career Craft Consultants",
+      "location": "New Delhi, Delhi",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=xjPwBxaBAyGlDT7iAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNMQrCQBBFsc0RrKYTJGQlYKOVrGBnkQuEzTLuRtaZsDPBlN5BT-hJTLD5Dx48fvFZFZumbuDkPY-kjhS-rzfcuQNBl30EJrgwh4TrY1Qd5GCMSKqCqNPeV54fhgk7nswcyTKtRJdxSE6xrfe7qRoobEs7O8xgs7spWCYZ03In0BNc8QlnTLEv__gBOHgmaJcAAAA&shmds=v1_ARwrE20E9SrDk9qhlF_QhCRCSa-JyJ0bqItUlbNCk1PL6-bDxg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=xjPwBxaBAyGlDT7iAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8e7bf0257bbca437b4c84/images/2n4_eFJgeVvAUiiD4ULIMbnpdOT_clDBhUHEAh23vv8.jpeg",
+      "extensions": [
+        "3 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/r2r-accountant-at-career-craft-consultants-4474693129",
+      "job_title": "R2R Accountant",
+      "description": "We are seeking a detail-oriented R2R Accountant to join our finance team in the Delhi-NCR region. The ideal candidate will be responsible for managing the Record to Report (R2R) process, ensuring accurate and timely monthly closing activities. This role requires proficiency in SAP and a strong understanding of accounting principles to facilitate effective financial reporting and compliance. Key Responsibilities: - Oversee the monthly closing process, ensuring all financial transactions are recorded accurately and in a timely manner. - Prepare and review journal entries, reconciliations, and financial statements to ensure compliance with accounting standards. - Collaborate with cross-functional teams to gather necessary data for financial reporting and analysis. - Assist in the preparation of monthly, quarterly, and annual financial reports. - Identify and implement process improvements to enhance the efficiency of the R2R process. - Support audits by providing necessary documentation and explanations as required. Required Skills: - Strong knowledge of R2R processes and financial accounting principles. - Proficiency in SAP for financial reporting and analysis. - Experience with monthly closing activities and financial reconciliations. - Excellent analytical and problem-solving skills. - Strong attention to detail and ability to work under tight deadlines. - Effective communication skills to collaborate with various stakeholders. If you are a motivated individual with a passion for finance and accounting, we encourage you to apply for this exciting opportunity to contribute to our team.\n\nThis job is provided by Shine.com",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/r2r-accountant-at-career-craft-consultants-4474693129?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/r2r-accountant/career-craft-consultants/19715944?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSMlIgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkNhcmVlciBDcmFmdCBDb25zdWx0YW50cyIsImh0aWRvY2lkIjoieGpQd0J4YUJBeUdsRFQ3aUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMxUmFSbkJKY0dzd05ubERPWFYwTlZoalJrTXhVRXQwVFROdGJWWkxNVTFLVVdGamRXc3hZMUk0VTJoMlNURndWbTl1VmxKWGRqZENPSEI1U3psMFRHVnFlbmR1YUVOUVdISnRWbmxOYVRGMGJtOWZMVGM1TjJSM1pVaHVRazExZG5WdFIzbEdaMHRwUWpSS2RXRXlaVVpIYjNsclUyRllWMlExUkUxNlZrRjRPVTFsVVhRU0YzZFBaa2xoZG5adFJYQTNVVFZPYjFBeFgwUmZhMEZyR2lKQlJITnlPV1pUVm1odWEwWmliMmhVY1VGeVdtWmlVSHByVjFwa2RFMXNXbk5CIiwiZmN2IjoiMyIsImZjX2lkIjoieGpQd0J4YUJBeUdsRFQ3aUFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Accountant- UK Process",
+      "company_name": "AskUs Consultants LLP",
+      "location": "New Delhi, Delhi",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=bu6L6KWOh26YgI7RAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNMQrCQBAAsc0TrLZVNCeCFqYKChYGCUjqcDmW3Om5G24vmNI_-AHf5ks02MxUwyTvSbK9IDkOkBvDPUVNcQnVCcrABkXg83zBlRsQ1MFYYIIjc-txmtkYO9kpJeLTVqKOzqSG74oJGx7UL5IRtVgdsPM6Yr3erIa0o3Y-y-VWCeyZpPfjU6AoSnAEZ3zAAb11i7--71U0AKMAAAA&shmds=v1_ARwrE22brB76X8a83fwRXQjdrEzq-AKS0rYXkEzo5pqgPZhG-w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=bu6L6KWOh26YgI7RAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "₹3.6L–₹8L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/lybAJROox_pb-jgFzWCkjK-UwxNUxZfOZmY7q9SYQ5dzEee9s_qyBg",
+      "job_title": "Senior Accountant- UK Process",
+      "description": "We are seeking a Sr. UK Accountant to join the AskUs Consultants LLP team based in India (Delhi) Office with a focus on The UK/Ireland accounting functions.\n\nResponsibilities:\n\nGeneral Ledger Management: Maintain and reconcile general ledger accounts, including journal entries, intercompany journals, accruals, and adjustments.Period end Closing: Preparation of year end accounts, ensuring timely and accurate financial reporting.Reconciliations: Conduct periodic reconciliations of bank statements, balance sheet accounts, P&L accounts and other financial records to ensure accuracy and identify discrepancies.Calculating Corporation Tax, Quarterly VAT returns preparation.Ensure accuracy of financial statements in accordance with IFRS/GAAP and compliance to Internal policies.You will be provided, detailed to a moderate level of instructions on daily work tasks and detailed instructions on new assignments and the decisions that you make that would impact your work.Your expected interactions are within your team, partner and with the client’s representatives.Training the team members as and when required.Perform other duties assigned as and when required i.e., process improvement initiatives, system implementation and ad-hoc projects.What you’ll bring:\n\nBachelor’s degree in Accounting, Finance or a related field.Relevant accounting experience 2.5 + years.Proficiency in using accounting software and tools.Effective communication skills.Attention to detail and accuracy.Time management: Ability to manage multiple tasks, prioritize responsibilities and meet deadlines.Strong ethics and a commitment to maintain confidentiality and financial transparency.High level of English proficiency (both written and verbal).Proactive attitude: ability to take initiatives and to get things done.Strong Microsoft Excel and IT skills.What we Offer:\n\nEarned leaves: 18 per yearEmployee referral programA learning and growing environmentJob Type: Full-time\n\nPay: ₹360,000.00 - ₹800,000.00 per year\n\nApplication Question(s):\n\nWhat is your present residential location?Education:\n\nBachelor's (Required)Experience:\n\nIndian CA Firm: 1 year (Preferred)The UK accounting: 2 years (Required)Total: 3 years (Preferred)Language:\n\nEnglish (Preferred)Work Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/lybAJROox_pb-jgFzWCkjK-UwxNUxZfOZmY7q9SYQ5dzEee9s_qyBg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-accountant-uk-process-askus-consultants-llp-delhi--techmap_in_lybAJROox_pb-jgFzWCkjK-UwxNUxZfOZmY7q9SYQ5dzEee9s_qyBg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/deloitte-big4job-tax-business-process-solutions-senior-executive-delhi-delhi-1-to-3-years-257112?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQWNjb3VudGFudC0gVUsgUHJvY2VzcyIsImNvbXBhbnlfbmFtZSI6IkFza1VzIENvbnN1bHRhbnRzIExMUCIsImh0aWRvY2lkIjoiYnU2TDZLV09oMjZZZ0k3UkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwcFpRWEpGVlZrd1RtUkNTMFZVWW5CSU5rRlFXa1JsTlVweGJFWTBlVVIwVTJjMGJFYzNZMTl6YkVoTGRuUnJXa0U1VjB0MmVHMDRSSEJIVVdWdlFYRTJOa1pLUlZsVk5UZ3daek5XZDFkUllXUXdOMnQzUlhGdlVubHlUelpVTWpkbFkxYzJOVmh5ZDJoTlp6Rk9RV2R4Y25aRVZISjVkVmwyVFVoS1RpMDNVbVJ5U2xjU0YzZFBaa2xoZG5adFJYQTNVVFZPYjFBeFgwUmZhMEZyR2lKQlJITnlPV1pSVTJGeGVrUkdORVpIU0hwa2JXRTNlR0p1VkVKNFREQndUREIzIiwiZmN2IjoiMyIsImZjX2lkIjoiYnU2TDZLV09oMjZZZ0k3UkFBQUFBQT09In0="
+    },
+    {
+      "title": "Accountant",
+      "company_name": "Varel Energy Solutions",
+      "location": "Faridabad, Haryana",
+      "via": "Varel Energy Solutions - JazzHR",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=qcrCpUxjAx5R4ElwAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLvwrCMBCAcVz7CE4HblIaEVx0cvDPLriWSxqSSLwruSu0m48g-IY-iXX5hh981XtRrY7O8UCKpPB9feDBFsRjcRGY4MIcsl8eomove2NEchNEUZNrHD8Nk7c8mnmSf1qJWHyfUX273W3Gpqewru-zZTiRL2GCG-dBE5NAIjhjSR1a7Gq4YpmQ8AfOJ9O3kwAAAA&shmds=v1_ARwrE23dumFAUL-bH1ozRPgJvGBClo1VdS-AxQmfWWCYk8eNCQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=qcrCpUxjAx5R4ElwAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://varelenergysolutions.applytojob.com/apply/UdsGTPmHCW/Accountant",
+      "job_title": "Accountant",
+      "description": "Varel Energy Solutions (VES) is one of the world’s largest independent manufacturer and suppliers of downhole drilling and completions products to the energy sector. The key to the company's success is underpinned by the virtues and the cultural framework of our employees.  VES offers an exciting and fast paced work environment, attractive benefits, and competitive pay. If you’re looking to invest in your career development, Varel Energy Solutions is the right place for you.  Come join our team!\n\nSummary: VES is looking for an Accountant to join our team in Faridabad, India location. The accountant will be responsible for managing accounting, banking, and treasury operations for an export/import-oriented manufacturing business. The role requires hands-on experience in banking coordination, trade finance activities, export documentation, statutory compliance, and financial reporting while ensuring adherence to company policies and regulatory requirements\n\nEssential Duties and Responsibilities include the following. Other duties may be assigned.\n\nManage day-to-day accounting and banking operations.Handle treasury-related activities including fund management and banking transactions.Coordinate with banks for LC, BG, foreign remittances, and other trade finance requirements.Ensure smooth processing and monitoring of export/import documentation and banking compliance.Prepare monthly MIS, profitability analysis, and financial reports.Validate freight invoices, maintain freight rate masters, and post accruals as required.Process vendor invoices using 3-way matching and ensure GST/TDS compliance.Follow up on customer collections and support DSO improvement initiatives.Manage fixed asset accounting including capitalization, reconciliation, and depreciation accounting.Support payroll inputs and statutory compliance activities including PF, ESI, PT, and TDS.Compute and track export incentives such as RoDTEP and GST refunds.Validate Incoterms in contracts and shipping documents.Coordinate with cross-functional teams including logistics, operations, and finance for smooth execution of financial processes.Maintain proper documentation for audits and regulatory reviews.Ensure adherence to internal controls, company policies, and statutory regulations.Education and/or Experience:\n\nCA with any graduation specialization in Accounting/Taxation or related field.Strong understanding of revenue recognition, statutory compliance, and trade finance practices.Knowledge of export incentives, payroll compliance, and financial reporting frameworks\n\nThank you for your interest in a career with Varel Energy Solutions.",
+      "apply_options": [
+        {
+          "title": "Varel Energy Solutions - JazzHR",
+          "link": "https://varelenergysolutions.applytojob.com/apply/UdsGTPmHCW/Accountant?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-accountant-job-in-ppestate-com-sector-81-faridabad-2-to-6-plus-years-1784185657-7951130-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/job/detail/accountant-job-in-faridabad-at-i-smokestack1789015698?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Wellfound",
+          "link": "https://wellfound.com/jobs/2318401-accountant?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/import-export-accountant/cadfin-tech-private-limited/19672568?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/jQvSNSnab3nPiRS4zx5ucRe6w0XSZmF62XUnqOrYUAC1B4kpe-tYaA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Naukri Mitra",
+          "link": "https://naukrimitra.in/job/accountant-jobs-in-faridabad/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5841510736?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiVmFyZWwgRW5lcmd5IFNvbHV0aW9ucyIsImh0aWRvY2lkIjoicWNyQ3BVeGpBeDVSNEVsd0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdTbUZwY0hWeUxGSmhhbUZ6ZEdoaGJpeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWaEdXWHBtV0UwNWVFZFNkMEpuWTNCT1JrNXRVMmhHYVRSc1FXbFBlSGh2YkZOaVN6SnBjREEyTFVsYVl6bEhkakUwVWtoMWVsQnBTRkJMVDBwWU5VMVRhMjVKUjNsWFZXdHlSMmRyUlZJemRWbEphSEZ4VGxGaFQxOVFaV2g0WmtzelVURm5OamhhZFVremVuRlVWMUF6WXpKdU5qRTRNRlJsVG5relYzTnVOeTF5ZDBRU0YzZFBaa2xoZG5adFJYQTNVVFZPYjFBeFgwUmZhMEZyR2lKQlJITnlPV1pVUW5nd1VFMUZURU5vWVdKUlRHdHJWRlpDU1cxV1NrdzNNazUzIiwiZmN2IjoiMyIsImZjX2lkIjoicWNyQ3BVeGpBeDVSNEVsd0FBQUFBQT09In0="
+    },
+    {
+      "title": "Chartered Accountant / CFO",
+      "company_name": "Sone India group of industry",
+      "location": "Bhiwadi, Rajasthan",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=tZ8j-tM5DV7owLX6AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQ3CMBBFRZsRqK5GKEZBNFBBJBAVEgwQHbaxHQWf5buI0LEDOzAYkxCar1e894vPpFjWHrPYbA1staY-CkYBBfX-BN_XG1q6AlvM2gNFOBC5zk43XiTxWinmrnQsKEGXmu6Kor3SoMaI_9PweG5Th2KbarUYyhTdrLqMFhyjCQguU5-AbhCi6VnycwTY-fBAE-ZwxhZZPMYftNBv5akAAAA&shmds=v1_ARwrE23i-3UHoLzxLGDBGoYxjbq_ks4jOm7NdWfFkDDLzG7eGg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=tZ8j-tM5DV7owLX6AAAAAA%3D%3D",
+      "extensions": [
+        "24 days ago",
+        "₹10L–₹16L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.glassdoor.co.in/job-listing/chartered-accountant-cfo-sone-india-group-of-industry-JV_IC4470285_KO0,24_KE25,53.htm?jl=1010169810779",
+      "job_title": "Chartered Accountant / CFO",
+      "description": "The Account Head will oversee the entire spectrum of accounting, taxation, compliance, financial reporting, and internal controls for Ken group. This is a 360° strategic leadership role demanding proficiency in Indian Accounting Standards (Ind AS), export-related taxation, cost optimization, ERP-based automation, and multi-statutory compliance.\nThe role will ensure financial discipline, operational efficiency, and value-driven insights to support decision-making by the CFO & CEO.\nü Skills & Qualifications:\n\nChartered Accountant (ICAI) or equivalent10+ years of progressive accounting and finance experience, preferably in manufacturing / exportsStrong grasp of Ind AS, GST, Export incentives (e.g., MEIS/SEIS), transfer pricingFamiliarity with ERP systems, audit frameworks, tax planning toolsLeadership, analytical, and communication capabilitiesü Core Duties:\n\nOversee full accounting cycle: AP, AR, ledgers, reconciliation, fixed assets, inventory accounting.Monthly closing of books and MIS finalisation and it’s analysis.Monthly/weekly review of accounts department.Handle financial consolidation across fabric and apparel verticals.Ensure compliance with applicable laws and standards:o Statutory: Companies Act, Income Tax Act, GST, Customs & Export Regulations, ROC filings, NSE, SEBI & RBI.\no Accounting Standards: Ind AS (as applicable), AS, and IFRS amendments.\n\nPrepare timely financial statements, budgets, forecasts, and management reports (Monthly/Quarterly/Yearly)Banking compliance which includes MSOD (Monthly), QPR (Quarterly) & HOS (Half yearly)Manage audits: statutory, internal, cost, tax, and ESG.Liaise with auditors, tax authorities, banks, and consultants.Drive process improvements: ERP optimizations, internal controls, cost-benefit analysis.Support the CFO and strategy team in raising funds, debt management, credit rating, etc.Mentor and supervise finance/accounting team across units.ü Key Responsibility Areas (KRAs):\nKRA Description\nAccounting Accuracy & Compliance Timely, error-free statutory financials; smooth external audits; 100% compliance with ROC, GST, TDS, customs, export rebates, Companies Act, Income Tax Act, Export Regulations, NSE, SEBI & RBI.\nBanking support Preparation of MSOD (Monthly), QPR (Quarterly) & HOS (Half yearly)\nFinancial Reporting & Analysis Monthly MIS, variance analysis; actionable insights for business stakeholders.\nBudgeting & Cost Control Prepare annual budgets; monitor variances; optimize manufacturing cost & overheads; initiate cost-saving measures.\nInternal Controls / Risk Management Implement SOPs; safeguard assets; minimize financial risks.\nTaxation & Export Benefits Maximize export incentives; ensure accurate GST and customs filings; manage advance rulings and incentives.\nERP & Process Enhancements Automate reporting; digitize accounting workflows; reduce closing cycle.\nLeadership & Team Development Build team competency; ensure retention; cross-functional collaboration.\nStrategic Collaboration Provide financial support for expansion, new ventures, fund-raising projects.\nKey Performance Indicators (KPIs)\n\nTimeliness: Financial closures within target (e.g., <7 days post-month-end); audit close within 30 days of fiscal year.Accuracy: Zero or negligible audit observations.Compliance Score: 100% compliance with statutory filings (ROC, GST, customs, NSE, SEBI & RBI).Budget Variance: Variance ≤5% for P&L; ≤10% for capex spending.Cost Reduction: Yearly reduction in manufacturing/operational costs (target %).Process Efficiency: Reduction in closing cycle time; result of automation/ERP improvements.Team Metrics: Retention, training advancements, succession planning.Export Incentives: Captured rebates/enhancements; recoverable tax reduction valuePay: ₹1,000,000.00 - ₹1,600,000.00 per year\n\nApplication Question(s):\n\nCurrent Salary or CTC ?Expected Salary or CTC ?Notice Period ?Experience:\n\nTotal: 10 years (Preferred)CA: 10 years (Preferred)Work Location: In person",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/chartered-accountant-cfo-sone-india-group-of-industry-JV_IC4470285_KO0,24_KE25,53.htm?jl=1010169810779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/bulKZSKFGEo_ev9DeeDaKkD5rWa5pyzdEBqhSXGYNP9JvEBRSd4Rlw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/chartered-accountant-cfo-sone-india-group-of-industry-JV_IC4470285_KO0,24_KE25,53.htm?jl=1010169810779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CA Sansaar",
+          "link": "https://www.casansaar.com/jobs-CA/ca-firm/chartered-accountant-fresher/15058.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/335179771/chartered-accountant-bhiwadi?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDaGFydGVyZWQgQWNjb3VudGFudCAvIENGTyIsImNvbXBhbnlfbmFtZSI6IlNvbmUgSW5kaWEgZ3JvdXAgb2YgaW5kdXN0cnkiLCJodGlkb2NpZCI6InRaOGotdE01RFY3b3dMWDZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXU21GcGNIVnlMRkpoYW1GemRHaGhiaXhKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTemhKVmxveU5WbEdiakJVZFhCVWFsQTFTelE1WHpJNGFtVktRMDVJUVRkTFlrVm1ialJIZEZWTU5ESmtZalpyWlhwalZuYzBhMTlCWDNWcVYwZDBhMFJWUm13dExXZzNUMHRPY1ZOUUxYUnJVVFJpV0VKc01DMUtSbGd4VERjMGFWcHBiRlV5VEU1alpISnlZbll3YlZwTlQyMWhPV3RMVURONlIwaFRkbTlmVUdjd2JYb1NGM2RQWmtsaGRuWnRSWEEzVVRWT2IxQXhYMFJmYTBGckdpSkJSSE55T1daVExUSjNTRVJFVERoeVJVTjVhRmgwYmpGdWNXSnVWa1JwUlRCbiIsImZjdiI6IjMiLCJmY19pZCI6InRaOGotdE01RFY3b3dMWDZBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTbVJsWDJkeU5YSmxUV0pzWWtNMFduQmpWWEZzU0MxSFVUWXhVMlY1VnpSeVEwSnhkeTFyUm5WaU4wUmlPRGx6VEdWSmRYZE1WRzVNTmtGVk4xcGtYMFZOWW1aUGFVcDBUREppY0RWR1ltcEJSMmt0UjBjd1NIbENUQzFKYjNKbmVuSlVXRzFpWmswNFpsVlRVemROV0dSR1NsWXdlSFJzVlRKM05IcERNMVk0YVY5RGFuVjNOWHA1V25JNE1DMHlNMXB0ZDFWZmRFbHNhbGx3TWxoWU1scGpOVk5zWDJjMVEwTlllbkpvUkUwM2F6Qk9XbkEzTTFjNWNqSTBXRE5hWjJzNFRsSjVVVGhUUzBGNVpWVkVNblZuU2xabWJtZGZTamR1YlZGb09IUk5YemhqV0VSc1oydFNYMnMyZDA5WVpFcE5NREZzTVVaaGNWOTRRWGxUTVUxUlJuUXRlblJCUVc4MGNtcFhTRkF4UkVaQmJqUldiVWhuUlhaRllpMXpjbTExUkdsUGVFbFdOVTFJT1RGT1VGUk1OVVZsTlVoVGRuSjBVRkF3UTFoMFRTMDBOM2RrWVZwS2RGSlNYMk5HY1RoZlFuQklWMEkwT1UxZlpUTXdRVFJFT1V0NU9EUkVYM1pQYTI5b1pXZHRSRkJpWDJwYWIwVTFhMHA2WmtrNFpsTTRPVlV5UmtGTmEydEdWMWhrUld3MFZXbFlSMGhKYVRSNloxWklkM2RXTjFwTlVteEpabVZNV1ZKTmFYWnlSa1F6TTNGM1JrOWFPSFpGVWtOWGFXaGxSVGRyVURseWQyRmtORnBJWTA4MllVVllVbk4yVTNwZk4zY1NGM2RQWmtsaGRuWnRSWEEzVVRWT2IxQXhYMFJmYTBGckdpSkJSSE55T1daVWRXWm1hVzF4Y0RoclUzSTROMnhxZERSbFJETXpSVkJZU1cxUiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Jaipur%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTbVJsWDJkeU5YSmxUV0pzWWtNMFduQmpWWEZzU0MxSFVUWXhVMlY1VnpSeVEwSnhkeTFyUm5WaU4wUmlPRGx6VEdWSmRYZE1WRzVNTmtGVk4xcGtYMFZOWW1aUGFVcDBUREppY0RWR1ltcEJSMmt0UjBjd1NIbENUQzFKYjNKbmVuSlVXRzFpWmswNFpsVlRVemROV0dSR1NsWXdlSFJzVlRKM05IcERNMVk0YVY5RGFuVjNOWHA1V25JNE1DMHlNMXB0ZDFWZmRFbHNhbGx3TWxoWU1scGpOVk5zWDJjMVEwTlllbkpvUkUwM2F6Qk9XbkEzTTFjNWNqSTBXRE5hWjJzNFRsSjVVVGhUUzBGNVpWVkVNblZuU2xabWJtZGZTamR1YlZGb09IUk5YemhqV0VSc1oydFNYMnMyZDA5WVpFcE5NREZzTVVaaGNWOTRRWGxUTVUxUlJuUXRlblJCUVc4MGNtcFhTRkF4UkVaQmJqUldiVWhuUlhaRllpMXpjbTExUkdsUGVFbFdOVTFJT1RGT1VGUk1OVVZsTlVoVGRuSjBVRkF3UTFoMFRTMDBOM2RrWVZwS2RGSlNYMk5HY1RoZlFuQklWMEkwT1UxZlpUTXdRVFJFT1V0NU9EUkVYM1pQYTI5b1pXZHRSRkJpWDJwYWIwVTFhMHA2WmtrNFpsTTRPVlV5UmtGTmEydEdWMWhrUld3MFZXbFlSMGhKYVRSNloxWklkM2RXTjFwTlVteEpabVZNV1ZKTmFYWnlSa1F6TTNGM1JrOWFPSFpGVWtOWGFXaGxSVGRyVURseWQyRmtORnBJWTA4MllVVllVbk4yVTNwZk4zY1NGM2RQWmtsaGRuWnRSWEEzVVRWT2IxQXhYMFJmYTBGckdpSkJSSE55T1daVWRXWm1hVzF4Y0RoclUzSTROMnhxZERSbFJETXpSVkJZU1cxUiIsImZjdiI6IjMifQ%3D%3D&q=Accountant"
+  },
+  "_retrieved_at": "2026-10-09 13:10:23 UTC"
+}
