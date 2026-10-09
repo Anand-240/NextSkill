@@ -180,3 +180,16 @@ No network search was used. Ranking and course-rule result changes are retained.
   Dehradun marketing 5. Limited-data flags on Indore and Dehradun.
 - Record: step uses durable phase ledger; exact attempts in reports/build_usage.json.
   Responses redacted before saving. Diff reviewed. Extra pairs deferred by priority.
+
+## C3 - Redacted responses and provenance
+
+- Research: response text can contain recruiter contacts; source URLs and opaque IDs
+  may contain digits that are not phone numbers. Retrieval dates drive age calculations.
+- Plan/acceptance: strip key/account fields, redact email/Indian phone text, preserve
+  source links, require retrieval timestamps and scan all responses.
+- Build: added repeatable response scanner and redaction/budget regression tests.
+- Test: 78 full-suite tests pass, including redaction and stopping before a cap breach.
+- Verify: 67 demo/fixture response files scanned; zero contact/timestamp findings.
+  Existing URLs are preserved and excluded only from phone-pattern detection, not
+  email checks. New data is scrubbed before disk writes. Diff reviewed.
+- Record: no additional searches.
