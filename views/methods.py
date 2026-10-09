@@ -3,6 +3,8 @@ import re
 
 import streamlit as st
 
+from views import common
+
 from engine import ROOT
 
 
@@ -23,6 +25,7 @@ def body(path: str) -> str:
     return re.sub(r"\A# .*\n+", "", read(path)).strip()
 
 
+common.language_bar()
 st.header("Methodology and evidence")
 st.markdown("### What the numbers mean")
 st.markdown("""

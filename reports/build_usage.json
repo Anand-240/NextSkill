@@ -202,6 +202,118 @@
       "engine": "youtube",
       "query": "Social Media Marketing revision",
       "location": null
+    },
+    {
+      "phase": "D",
+      "category": "public",
+      "engine": "google",
+      "query": "\"Bookkeeping\" course (site:nptel.ac.in OR site:swayam.gov.in)",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "public",
+      "engine": "google",
+      "query": "\"Data Cleaning\" course (site:nptel.ac.in OR site:swayam.gov.in)",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "public",
+      "engine": "google",
+      "query": "\"Google Ads\" course (site:nptel.ac.in OR site:swayam.gov.in)",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "public",
+      "engine": "google",
+      "query": "\"Power BI\" course (site:nptel.ac.in OR site:swayam.gov.in)",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "public",
+      "engine": "google",
+      "query": "SQL course site:nptel.ac.in",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "public",
+      "engine": "google",
+      "query": "site:nptel.ac.in Python",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "public",
+      "engine": "google",
+      "query": "site:onlinecourses.nptel.ac.in Python",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "public",
+      "engine": "google",
+      "query": "site:swayam.gov.in Python",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "course",
+      "engine": "youtube",
+      "query": "Excel tutorial in Hindi",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "course",
+      "engine": "youtube",
+      "query": "SQL tutorial in Hindi",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "course",
+      "engine": "youtube",
+      "query": "Python tutorial in Hindi",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "course",
+      "engine": "youtube",
+      "query": "JavaScript tutorial in Hindi",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "Excel revision in Hindi",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "SQL revision in Hindi",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "Python revision in Hindi",
+      "location": null
+    },
+    {
+      "phase": "D",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "JavaScript revision in Hindi",
+      "location": null
     }
   ],
   "accounts": [
@@ -219,6 +331,21 @@
       "label": "C5 after",
       "this_month_usage": 28,
       "total_searches_left": 222
+    },
+    {
+      "label": "D before",
+      "this_month_usage": 29,
+      "total_searches_left": 221
+    },
+    {
+      "label": "D hindi before",
+      "this_month_usage": 36,
+      "total_searches_left": 214
+    },
+    {
+      "label": "D hindi after",
+      "this_month_usage": 44,
+      "total_searches_left": 206
     }
   ]
 }

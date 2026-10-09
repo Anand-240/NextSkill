@@ -1,0 +1,503 @@
+{
+  "search_metadata": {
+    "id": "6ac8cd007ec029fd9d8a92ae",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/sUxi5zyNTxiG1ruHLnOlqvDafv-jdW8hkmpgcU-50o8/6ac8cd007ec029fd9d8a92ae.json",
+    "markdown_endpoint": "https://serpapi.com/searches/sUxi5zyNTxiG1ruHLnOlqvDafv-jdW8hkmpgcU-50o8/6ac8cd007ec029fd9d8a92ae.md",
+    "created_at": "2026-10-09 11:16:16 UTC",
+    "processed_at": "2026-10-09 11:16:16 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Python+revision+in+Hindi&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/sUxi5zyNTxiG1ruHLnOlqvDafv-jdW8hkmpgcU-50o8/6ac8cd007ec029fd9d8a92ae.html",
+    "total_time_taken": 2.9
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Python revision in Hindi",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 7305832,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Learn to Build Data Pipelines",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CneBuAc3IapuTE8eqv8IPwJWWiAaC7LrdiQHTuv_qnxWwkB8QASAAYMn-4IiApLQWggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAZWJzYUDqAMEyAMKqgSkAk_QRUAQptBdq2XBIx3wdTT6Uc74QdnHY6YWhwsog0DkQY31vCChawnrAPxwnN5QQuSzwvwFsll-xoOsxEqZeyZ_S9O8ydgh5lgV2kS5uwbYYPwk4EhTL2FfZa6Nk3DH0iWvZQ4Iqblb_MJv2znxCy_6Tf4KO4CElYcvqegBB6qiBwitSipqKaV4zqlOCigPnBB6mlHhOJtOE-jLSJlyPXdOnFJhaSXyj0mwrwmzG8aFcBRSC-Q_92jIy6kx4FU3LVWCTNo1PasZTdJ4ip66mxLqtgTnV2LIvAcAfCZFBPFhaocx1DYRxaVR4RB4n-ZJzb5vweQHhSFvCZGmvjxLq_Q0g9hMyPpRAOT9Y-mXfZLDZByh2Kqv4CZPUOtCu0HR8cHSAByIBfXY18BWkgUHCBN47PTANqAGboAHhKPfNZAHBKgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYmIKF0eeslwNgAZoJPmh0dHBzOi8vd3d3LnNub3dmbGFrZS5jb20vZGF0YS1jbG91ZC1hY2FkZW15LWRhdGEtZW5naW5lZXJpbmcvsQlRTE2sWtHNXsgJAMgJigKYCwG6Cz0IAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDBXZpY2Jm0AsS0gwCEAGaDQESqg0CVVPIDQHSDagCaHR0cHM6Ly93d3cuc25vd2ZsYWtlLmNvbS9kYXRhLWNsb3VkLWFjYWRlbXktZGF0YS1lbmdpbmVlcmluZy8_dXRtX3NvdXJjZT1nZGEmdXRtX21lZGl1bT1kaXNwbGF5JnV0bV9jYW1wYWlnbj1uYS11cy1lbi1wcm9zLWRpc3BsYXktZ2RhLWV2Zy1hdWRpZW5jZS1sb29rLWRlbmcmdXRtX2NvbnRlbnQ9Z2RhLWRnaW1hZ2UtZXZnLWFjLWRhdGEtY2xvdWQtYWNhZGVteS1kYXRhLWVuZ2luZWVyaW5nLTIwMjUmdXRtX3Rlcm09Yy0tLTc4MjMzNDUyMDc3NiZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjMyMjExMDM3MzO4E____________wGIFAGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXff_OHn0v2Oi6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMI25eF0eeslwMVR9VPAh3AigVhEAEYASAAEgIf7fD_BwE&num=1&cid=CAASwwHkaCI1GPL6T529PT3WOsRUyxFC5bRlnkCHFhiKWlPQ9gLhzvshr5MkGT08ti9Zk9WUz3v1wgEj6z9lFtE4zqhBcdqn2Lhw9cRu8hoLkOMQ-XFKBeZh4Dip2Qjm34ucbaXoLpKmb1qADVw6qsixn3UUfY06kk0O3d7pCYLK4r1x7FrxCLVqg3HlzeLOrzDpIjVe0ZfODyMUM3ALc_Dv4-tMx6Q7zBPIfvrs2ikdJgqRtR7KFWtjINnnXznN0gWKMcuc32A&sig=AOD64_0Q4Kcl8aylWj7WNRrOWXvG9pywxQ&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Snowflake",
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/XaUjc5aQgFJIbxZ7yJHWIAW3lTwq0V9gQN59VE6MOOPFjWGqNxgYayGJBiv6LOVTDcl_nsQrRiMrs0c23JyDoJ0cKclOqGKKnZNqbdeVygEhQ7gMJzMRrU7Y941Poa54FY0"
+      },
+      "description": "Discover the Latest Trends and Skill Sets for Data Engineers with 15 New Free Sessions.",
+      "thumbnail": {
+        "static": "https://lh4.googleusercontent.com/proxy/XaUjc5aQgFJIbxZ7yJHWIAW3lTwq0V9gQN59VE6MOOPFjWGqNxgYayGJBiv6LOVTDcl_nsQrRiMrs0c23JyDoJ0cKclOqGKKnZNqbdeVygEhQ7gMJzMRrU7Y941Poa54FY0"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "$6,000 TikTok Ads Bonus",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CxBeFAc3IapuTE8eqv8IPwJWWiAbvgtTviQGfrMqA0hawkB8QAiAAYMn-4IiApLQWggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAYSMmbwCqAMEyAMKqgSmAk_QRUAQptBdq2XBIx3wdTT6Uc74QdnHY6YWhwsog0DkQY31vCChawnrAPxwnN5QQuSzwvwFsll-xoOsxEqZeyZ_S9O8ydgh5lgV2kS5uwbYYPwk4EhTL2FfZa6Nk3DH0iWvZQ4Iqblb_MJv2znxCy_6Tf4KO4CElYcvqegBB6qiBwitSipqKaV4zqlOCigPnBB6mlHhOJtOE-jLSJlyPXdOnFJhaSXyj0mwrwmzG8aFcBRSC-Q_92jIy6kx4FU3LVWCTNo1PasZTdJ4ip66mxLqtgTnV2LIvAcAfCZFBPFhaocx1DRExaVR4RBp_uxKzb5vuudjdO2qJjxAkdqboWykq_OAyYYtmfEMPIvH-4ji-haD1LJSRhRdkX1wmU_JMwT2F-YpyogFwuz-3FmSBQgIE3iX96THAaAGboAH9f7zxgGQBwSoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWJiChdHnrJcDYAGaCS1odHRwczovL2dldHN0YXJ0ZWQudGlrdG9rLmNvbS9nbG9iYWwtc2hvcC1hZHOxCQtPOXcfJG-gyAkAyAmKApgLAboLPQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIFugMFdmljYmbQCxKiDCFqGgoYY29tLnNzLmFuZHJvaWQudWdjLnRyaWxseACIAQDSDAIQAZoNARKqDQJVU8gNAdINugFodHRwczovL2dldHN0YXJ0ZWQudGlrdG9rLmNvbS9nbG9iYWwtc2hvcC1hZHM_bGFuZz1lbiZhdHRyX3NvdXJjZT1nb29nbGUmYXR0cl9tZWRpdW09ZGVtYW5kLWdlbiZhdHRyX2FkZ3JvdXBfaWQ9MTk3NTc1MzU1OTgzJmNyZWF0aXZlPTgxODk4OTE0OTMwMyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQwODU3NzE4NDK4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAboXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMI25eF0eeslwMVR9VPAh3AigVhEAEYAiAAEgJeGvD_BwE&num=2&cid=CAASwwHkaCI1GPL6T529PT3WOsRUyxFC5bRlnkCHFhiKWlPQ9gLhzvshr5MkGT08ti9Zk9WUz3v1wgEj6z9lFtE4zqhBcdqn2Lhw9cRu8hoLkOMQ-XFKBeZh4Dip2Qjm34ucbaXoLpKmb1qADVw6qsixn3UUfY06kk0O3d7pCYLK4r1x7FrxCLVqg3HlzeLOrzDpIjVe0ZfODyMUM3ALc_Dv4-tMx6Q7zBPIfvrs2ikdJgqRtR7KFWtjINnnXznN0gWKMcuc32A&sig=AOD64_0QBG0sSgdtAZ8DsqEdsMA3_3yd9w&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "TikTok For Business",
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/oZEFdGESRdrCUB6f0wyDA3DFdM7sTEHx9soA4NMCWhV2mxx0GTwSRyrk7XlGwNoT1diycTmKlQ67MO1JA9NFG0J4jxFn79plpYBnS6Egvq89AcOJJlUdhOY9yqVuw1640A"
+      },
+      "description": "Make this your biggest year yet. Claim your $6,000 ad coupon and launch TikTok Shop Ads.",
+      "thumbnail": {
+        "static": "https://lh5.googleusercontent.com/proxy/oZEFdGESRdrCUB6f0wyDA3DFdM7sTEHx9soA4NMCWhV2mxx0GTwSRyrk7XlGwNoT1diycTmKlQ67MO1JA9NFG0J4jxFn79plpYBnS6Egvq89AcOJJlUdhOY9yqVuw1640A"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Learn for real with Student Spaces in Adobe Acrobat.",
+      "link": "https://www.youtube.com/watch?v=1-8yJ80P-QU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1-8yJ80P-QU",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CsFRhAc3IapuTE8eqv8IPwJWWiAaY-KePigHFmLqKkBawkB8QAyAAYMn-4IiApLQWggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTWAk_QRUAQptBdq2XBIx3wdTT6Uc74QdnHY6YWhwsog0DkQY31vCChawnrAPxwnN5QQuSzwvwFsll-xoOsxEqZeyZ_S9O8ydgh5lgV2kS5uwbYYPwk4EhTL2FfZa6Nk3DH0iWvZQ4Iqblb_MJv2znxCy_6Tf4KO4CElYcvqegBB6qiBwitSipqKaV4zqlOCigPnBB6mlHhOJtOE-jLSJlyPXdOnFJhaSXyj0mwrwmzG8aFcBRSC-Q_92jIy6kx4FU3LVWCTNo1PasZTdJ4ip66mxLqtgTnV2LIvAcAfCZFBPF5agitFrAYzaXz-YY4PO-72RxjJf7Co-9PzjFSgQRFU6OhNNFFFSy3AdLc3TC8Tj8pT46jnrLH1X8deMmEFdVaDxy1RbJ17W-FNHBPS89mpTYQ7QpY13iKUJ_jUZBl6lnA2WR4g5pRr_6ditLWEqTgSw504kA7S4gF5tDvrViSBQgIE3j6zZ-VAaAGoQGAB7eFgJUBkAcEqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfCyLECkggLMS04eUo4MFAtUVWoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiYgoXR56yXA2ABmgksaHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9zdHVkZW50c3BhY2VzL2hvbWWxCRfwjB2BShmCyAkXyAmPAcgJwgG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBA4ACAYgCEroDBXZpY2Jm0AsT4AsBogwfYhgKFmNvbS5hZG9iZS5lY2hvc2lnbi5pb3N4AIgBANIMAhABmg0BE6oNAlVTyA0B0g2RBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OOTcyOTUyLjI3OTM4MkJJRE1BTkFHRVJfREZBU0lURS9CMjIzNDQ0MTMuMjQxNTM5MzIxO2RjX3Rya19haWQ9NDM4MTI4NjIyO2RjX3Rya19jaWQ9MTEyODg0NjEzO2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDak1LREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhNSTV0RHZyVmlvQXNPNDlBR3dBc3lXNHVrRFFEc1FsLWU2QWFwU28zTGo2OUhxbVJTR0Q3TmxKdGM9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQ2pGVVg0WlBBYmN6YU01dkRZNWVPT1RDMFJMbkR1SGtTMVNwa2ZpSDdiYXgzbDRvaVZWR2tGcXBCLUw3YWFmQ29UeWdsX2Yteml0S3RDaUE7ZGNfcHViaWQ9Nj9odHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXM_c2RpZD0yNVhMQ0Q1SCZnYWRfc291cmNlPTKwE6rftyW4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgGoFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgB&gclid=EAIaIQobChMI25eF0eeslwMVR9VPAh3AigVhEAEYAyAAEgJolfD_BwE&num=3&cid=CAASwwHkaCI1GPL6T529PT3WOsRUyxFC5bRlnkCHFhiKWlPQ9gLhzvshr5MkGT08ti9Zk9WUz3v1wgEj6z9lFtE4zqhBcdqn2Lhw9cRu8hoLkOMQ-XFKBeZh4Dip2Qjm34ucbaXoLpKmb1qADVw6qsixn3UUfY06kk0O3d7pCYLK4r1x7FrxCLVqg3HlzeLOrzDpIjVe0ZfODyMUM3ALc_Dv4-tMx6Q7zBPIfvrs2ikdJgqRtR7KFWtjINnnXznN0gWKMcuc32A&ad_cpn=%5BCPN%5D&sig=AOD64_1CmehsvAORK0NCeIh6bSK92P2U0g&ctype=110&video_id=1-8yJ80P-QU&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Acrobat",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is your free, go-to study partner.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/15539910322651327380"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "15 Minute Python Tutorial For Beginners In Hindi (Full & Complete Python Crash Course)",
+      "link": "https://www.youtube.com/watch?v=fr1f84rg4Nw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fr1f84rg4Nw",
+      "video_id": "fr1f84rg4Nw",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 2463898,
+      "length": "17:37",
+      "description": "Python Udemy Course: https://goharry.in/python Get this course at 90% Discount if you use this link Source Code ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fr1f84rg4Nw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXqJKNCxRdSmkeLbY2mqAUWHQGCQ",
+        "rich": "https://i.ytimg.com/an_webp/fr1f84rg4Nw/mqdefault_6s.webp?du=3000&sqp=CNT3otYG&rs=AOn4CLAW9eZ0dcgR9zNjxFA0hg3VhvWXpg"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Python in 8 Minutes (in Hindi) 🐍",
+      "link": "https://www.youtube.com/watch?v=JdG1cVFyj5A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JdG1cVFyj5A",
+      "video_id": "JdG1cVFyj5A",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1534258,
+      "length": "8:29",
+      "description": "Python Udemy Course: https://goharry.in/python Get this course at 90% Discount if you use this link Python in 8 minutes in Hindi: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JdG1cVFyj5A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI8boHIgsP9IB2ml3z5wCS8ACQjA",
+        "rich": "https://i.ytimg.com/an_webp/JdG1cVFyj5A/mqdefault_6s.webp?du=3000&sqp=CKDlotYG&rs=AOn4CLA9WqlipJDxJheFVAIJ40rqmUTPYg"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "10 Important Python Concepts In 20 Minutes",
+      "link": "https://www.youtube.com/watch?v=Gx5qb1uHss4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Gx5qb1uHss4",
+      "video_id": "Gx5qb1uHss4",
+      "channel": {
+        "name": "Indently",
+        "link": "https://www.youtube.com/@Indently",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/68ZQuFvv8mZTJQD65biYl2BWjKKMxkDS5k_sIdAGpRY9-p1vYsqwE1jNMTDEveZoSpkfOpKG=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1648146,
+      "length": "18:49",
+      "description": "In today's video we are going to be learning about 10 important Python concepts. ▷ Become job-ready with Python: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Gx5qb1uHss4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBEBFVOzsLpm5Msfq-tf3c5RL53A",
+        "rich": "https://i.ytimg.com/an_webp/Gx5qb1uHss4/mqdefault_6s.webp?du=3000&sqp=CIiNo9YG&rs=AOn4CLDa9G4mg9s0ReDzGtmEnY9m2bkqVw"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Day 1 - Complete Revision | Python Revision Tour | Class 12 Computer Science | Board Exam 24🔥",
+      "link": "https://www.youtube.com/watch?v=TBCv1Ez-H9w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TBCv1Ez-H9w",
+      "video_id": "TBCv1Ez-H9w",
+      "channel": {
+        "name": "Pradnya's Class",
+        "link": "https://www.youtube.com/@pradnyasclass",
+        "thumbnail": "https://yt3.ggpht.com/wvWxsinKD9LRjFXEjTGGaguRnU1-KA7zhDTCOqkke3vB-ApqVVZfvej00tDCzppULPWeoYoRW2s=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 4756,
+      "length": "16:41",
+      "description": "Class 12 Computer Science: 23-Day Comprehensive Revision Journey! Day 1 - Revision of Chapter 1- Python Revision Tour",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TBCv1Ez-H9w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAz8JTL2XkT1pspGuH6wpvkCPQ9TQ"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Class 12 CS Python Revision Tour 1 | ONE SHOT in 10 MINUTES | Score 100%",
+      "link": "https://www.youtube.com/watch?v=jBz0jBcpPnk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jBz0jBcpPnk",
+      "video_id": "jBz0jBcpPnk",
+      "channel": {
+        "name": "TechSyntax",
+        "link": "https://www.youtube.com/@TechSyntax",
+        "thumbnail": "https://yt3.ggpht.com/VD7597w5VcYd1Lrds_SWPYL0UcwspsosSUZ0dL3K61hHDXnGvAKcTvuffhCtRnATXHTsA8Bk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 595,
+      "length": "10:32",
+      "description": "Class 12 CS Python Revision Tour 1 | One Shot in 10 Mins | Score 70/70 Class 12 Python Revision Tour ONE SHOT - Completed ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jBz0jBcpPnk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxocolz0dhFnOC9c8T1TOVyRf5ww",
+        "rich": "https://i.ytimg.com/an_webp/jBz0jBcpPnk/mqdefault_6s.webp?du=3000&sqp=COvdotYG&rs=AOn4CLByWx6wPrJSGJ2YaZbxTgcCTQg1ow"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Class 12 Computer Science Python | Revision of Class 11th",
+      "link": "https://www.youtube.com/watch?v=f2PMfGfBOPo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=f2PMfGfBOPo",
+      "video_id": "f2PMfGfBOPo",
+      "channel": {
+        "name": "Apni Kaksha Official",
+        "link": "https://www.youtube.com/@officialapnikaksha",
+        "thumbnail": "https://yt3.ggpht.com/yu4Gg3-3UzD4EDKAcRfSDQ8-vRI3avVXM6wvHX4hAgA6IKIG0wpdPWYIvlMAleDDBMhbRxw4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1718742,
+      "length": "17:05",
+      "description": "📝 Physics for JEE/NEET by Aman Bhaiya - https://bit.ly/3iahSdr\n\nInstagram:https://www.instagram.com/apnikaksha/\nTelegram of ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/f2PMfGfBOPo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM2AaW0yXk98tRAWPcE5tjswGTGw",
+        "rich": "https://i.ytimg.com/an_webp/f2PMfGfBOPo/mqdefault_6s.webp?du=3000&sqp=CPLhotYG&rs=AOn4CLCEljYHmJs5PLpBKUeRF5kPnAyCtQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Complete Python Learning RoadMap (A to Z)",
+      "link": "https://www.youtube.com/watch?v=XV-lIaO00H8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XV-lIaO00H8",
+      "video_id": "XV-lIaO00H8",
+      "channel": {
+        "name": "Apna College",
+        "link": "https://www.youtube.com/@ApnaCollegeOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FEcjRtez5od8UowDo6tTt9WlE-MrIFEmcwPMTORmK9Swk6KCklOmA3xfIG9WuLWfNYfNThQE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 1183084,
+      "length": "13:43",
+      "description": "How to start learning Python Language ? How to learn Python Faster & resources for learning. Python Playlist (complete) ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/XV-lIaO00H8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBetHIKj8cdfqF0jUIOl3x4pohquQ",
+        "rich": "https://i.ytimg.com/an_webp/XV-lIaO00H8/mqdefault_6s.webp?du=3000&sqp=CNqXo9YG&rs=AOn4CLDoe7k0zqvFuh3_N-plqLTVNuGX7Q"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Introduction to Python (Hindi) | What is Python? full Explanation",
+      "link": "https://www.youtube.com/watch?v=qYhrd2Lhq0g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qYhrd2Lhq0g",
+      "video_id": "qYhrd2Lhq0g",
+      "channel": {
+        "name": "Learn Coding",
+        "link": "https://www.youtube.com/@LearnCodingOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mn9umLrs-t0NhhxsU_5qBaStKYUVQYzVdKsyawKVoh7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1507335,
+      "length": "12:51",
+      "description": "Python Download Link? https://www.python.org/downloads/ Please Subscribe our Channel....! Learn Coding Like ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qYhrd2Lhq0g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmFEiilxj3gUd6wIUWENeDjVrrhg",
+        "rich": "https://i.ytimg.com/an_webp/qYhrd2Lhq0g/mqdefault_6s.webp?du=3000&sqp=CKj1otYG&rs=AOn4CLC38k-PuETAb11h_DB2MKxHC9RIrA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "What is Python With Full Information? – [Hindi] – Quick Support",
+      "link": "https://www.youtube.com/watch?v=3dy_PYF9xOI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3dy_PYF9xOI",
+      "video_id": "3dy_PYF9xOI",
+      "channel": {
+        "name": "Quick Support",
+        "link": "https://www.youtube.com/@QuickSupport",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kpsYfXu95lHC_GWc08qhcOrMAajIr2eLSNXl99bsnBooI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 2261710,
+      "length": "8:56",
+      "description": "PythonLanguage #QuickSupport What is Python With Full Information? – [Hindi] – Quick Support. इस विडियो में हम ...",
+      "extensions": [
+        "3 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3dy_PYF9xOI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDPZkOYtxC3G2ujoVO7PFCl6pZhQ",
+        "rich": "https://i.ytimg.com/an_webp/3dy_PYF9xOI/mqdefault_6s.webp?du=3000&sqp=COaPo9YG&rs=AOn4CLCeiO0Ke9KPxZ7qJG5QXiJ45oDaZA"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Python Viva Questions | Python Viva Questions & Answers | Hindi | 16 Best Python Viva Voce Questions",
+      "link": "https://www.youtube.com/watch?v=KxTi2iyeU7E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=KxTi2iyeU7E",
+      "video_id": "KxTi2iyeU7E",
+      "channel": {
+        "name": "One Bit Extra",
+        "link": "https://www.youtube.com/@OneBitExtra",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_knP1pg8WM4rbOs1XPqyqHptJIYHkKHB2Y-d7m6A_XXZg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 40894,
+      "length": "11:43",
+      "description": "16 Best Questions of Python Programming\nThis video contains Python viva questions with answers for bca, msc computer science ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/KxTi2iyeU7E/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhcIEgocjAP&rs=AOn4CLCaDEyd9pUv8IcX_7PdbQ1ymrWHOA"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Python tutorial in Hindi 24 : basics for search engine concept part 2 , quick revision",
+      "link": "https://www.youtube.com/watch?v=itLfn3Wfnko",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=itLfn3Wfnko",
+      "video_id": "itLfn3Wfnko",
+      "channel": {
+        "name": "Harshit vashisth",
+        "link": "https://www.youtube.com/@Harshitvashisth",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_noTjuPxp7QDTyD9z2eITMhrrLULvEmjAEZwABaEq7t5uU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 13298,
+      "length": "6:27",
+      "description": "Python tutorial in Hindi 24 : basics for search engine concept part 2 , quick revision . Sorry due to cough problem might this video ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/itLfn3Wfnko/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBnb5ayml28QWFmemSh8IhpDcpoWA",
+        "rich": "https://i.ytimg.com/an_webp/itLfn3Wfnko/mqdefault_6s.webp?du=3000&sqp=CNT5otYG&rs=AOn4CLCUISaJ-x2oQHnYUfNPEXhDbzHA7A"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Functional Programming in PYTHON | Explained Simply | Hindi",
+      "link": "https://www.youtube.com/watch?v=uNnAqohTTFs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uNnAqohTTFs",
+      "video_id": "uNnAqohTTFs",
+      "channel": {
+        "name": "Kiran Academy - Python & Mern",
+        "link": "https://www.youtube.com/@KiranAcademy-PythonMern",
+        "thumbnail": "https://yt3.ggpht.com/sWtFSCYV9CpP0U6U6A4HKAPf8ATim-ZL4yzvZ-yK1AMyEDG1bxUS1XcUjDO4FaVyEl3AgN4p6Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1279,
+      "length": "10:08",
+      "description": "🔰Enroll for Advanced Certification Course - https://bit.ly/jbkgshub7\n\nLearn Functional Programming in Python! This video ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/uNnAqohTTFs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG1PkX9qIKBPcbolv0Gjf8qdFkLA",
+        "rich": "https://i.ytimg.com/an_webp/uNnAqohTTFs/mqdefault_6s.webp?du=3000&sqp=CN-Eo9YG&rs=AOn4CLDxSq1r-TnIv_ULn9XdcVlDxvdnqA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "13. Python f String Tutorial In Hindi | Complete Python Tutorial For Beginners To Advanced In Hindi",
+      "link": "https://www.youtube.com/watch?v=o722dlRQLDU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=o722dlRQLDU",
+      "video_id": "o722dlRQLDU",
+      "channel": {
+        "name": "Coding & Programming Tutorials",
+        "link": "https://www.youtube.com/@CodingProgrammingTutorials",
+        "thumbnail": "https://yt3.ggpht.com/9vcbMg1U8rSXlTRfUH5BwfaDqnRUjHepeXzCkyPBVzcQLrWZj5MY4T6-Hs_Nb2WHhAB9uflZfg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 521,
+      "length": "8:36",
+      "description": "Python #PythonTutorial #LearnPython #PythonProgramming #PythonInHindi #FStrings Unlock the power of Python f-strings with ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/o722dlRQLDU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-tUvc5W8GtfJ2VI8YDkes-WciNg",
+        "rich": "https://i.ytimg.com/an_webp/o722dlRQLDU/mqdefault_6s.webp?du=3000&sqp=CPbdotYG&rs=AOn4CLB_XSPmFUZ-OcMRstAARYvQ7-0gdg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Learn python through Memes | Hindi | By Harkat with unlimited ",
+      "link": "https://www.youtube.com/watch?v=fPPSIcFEAN4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fPPSIcFEAN4",
+      "video_id": "fPPSIcFEAN4",
+      "channel": {
+        "name": "Harkat With Unlimited",
+        "link": "https://www.youtube.com/@harkatwithunlimited",
+        "thumbnail": "https://yt3.ggpht.com/2eFD8kCLXmYNTEE5h5JSKXV6st4Sp7IZo5J8Mt0rqjdSYjV5In04hPLzywuVETgQ8Z7aWhrjpA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1mo ago",
+      "views": 71904,
+      "length": "6:36",
+      "description": "Want to learn Python without boring lectures? In this video, we explain Python Programming in Hindi with funny memes, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fPPSIcFEAN4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXIFAZu4WgnwBKuDvCJ7y842Q0kg",
+        "rich": "https://i.ytimg.com/an_webp/fPPSIcFEAN4/mqdefault_6s.webp?du=3000&sqp=CKDwotYG&rs=AOn4CLAfzfdg73nI9NO44CrGG0S15Pn_Hg"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Chapter: 1 - Variables - Learn Python Easily (In Hindi)",
+      "link": "https://www.youtube.com/watch?v=XfFkz_ND5jg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XfFkz_ND5jg",
+      "video_id": "XfFkz_ND5jg",
+      "channel": {
+        "name": "Technical Sagar",
+        "link": "https://www.youtube.com/@technicalsagarindia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/P5WIKROswcpft74EGoI-ne-vqi4tE1h2_GcfIki73ptLE-QwWhoR0y6uM2dV0uAuN-v3iOWS=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 846098,
+      "length": "13:51",
+      "description": "LEARN HACKING ‍   BUY My Hacking Courses 1. HACKSTARS: https://imojo.in/2c72o51 2. Tech Master Hacking Course: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/XfFkz_ND5jg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY8_4mBuSuBK_p8lNgv_zuCdiFJQ",
+        "rich": "https://i.ytimg.com/an_webp/XfFkz_ND5jg/mqdefault_6s.webp?du=3000&sqp=CPiJo9YG&rs=AOn4CLC_GinwGKDq16JtXZwXMbY3eWgNXg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Python Tutorial in Hindi #32 - Python GUI with Tkinter",
+      "link": "https://www.youtube.com/watch?v=t1pTPF0s-Rs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t1pTPF0s-Rs",
+      "video_id": "t1pTPF0s-Rs",
+      "channel": {
+        "name": "Mohit Decodes",
+        "link": "https://www.youtube.com/@MohitDecodes",
+        "thumbnail": "https://yt3.ggpht.com/004aCebqgvVTFxzvK2LBW4OMMXqGrlR8EuTqs615zu-W9tFZBO2qE-uFbQCBYirCi_32BFDyp0w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 3950,
+      "length": "9:41",
+      "description": "Welcome to the world of GUI Programming with Python using Tkinter! In this beginner-friendly video by Mohit Decodes, you'll ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/t1pTPF0s-Rs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWgx1vMJPKkstufKhqXJVhj04Cbw",
+        "rich": "https://i.ytimg.com/an_webp/t1pTPF0s-Rs/mqdefault_6s.webp?du=3000&sqp=CPGGo9YG&rs=AOn4CLBNSFi-LSJ2ETeHi74z0VH8L_sYpA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Introduction to Python (Hindi)",
+      "link": "https://www.youtube.com/watch?v=URfNAAuZ52w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=URfNAAuZ52w",
+      "video_id": "URfNAAuZ52w",
+      "channel": {
+        "name": "Geeky Shows",
+        "link": "https://www.youtube.com/@geekyshows",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_CPBkAdTFO5ID4Ra2ugCg0I6fodU9ruvavueExdaMtyc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 407061,
+      "length": "8:42",
+      "description": "What is Python Python History Python Version Python Features Applications for Python Python Playlist: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/URfNAAuZ52w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqfxVH_G7mV54eqljejbk-UCMpGQ"
+      }
+    },
+    {
+      "position_on_page": 21,
+      "title": "History of Python | Python For Beginners in Hindi 🔥| Story & Timeline |  Knhow Code | #3",
+      "link": "https://www.youtube.com/watch?v=1t9-yQLTrns",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1t9-yQLTrns",
+      "video_id": "1t9-yQLTrns",
+      "channel": {
+        "name": "KnHow Code",
+        "link": "https://www.youtube.com/@KnhowCode",
+        "thumbnail": "https://yt3.ggpht.com/K03Ml8Q4OvuYQ5ATdoBVBcw0fMeOJNl6DEr6lJLlAlXCPeNw9UstU8m58EoA7O8iGEFOkV6CoQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 791,
+      "length": "5:58",
+      "description": "This video include History of python in a story telling manner *Topic Timestamps* 0:00 - Intro 0:08 - Inspiration 1:23 - Foundation ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/1t9-yQLTrns/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3qRf6SwpGDtu8TPNL_Np8JkcPtg",
+        "rich": "https://i.ytimg.com/an_webp/1t9-yQLTrns/mqdefault_6s.webp?du=3000&sqp=CKGSo9YG&rs=AOn4CLCvYa31510yvzd5M73O9dnApM0gGw"
+      }
+    },
+    {
+      "position_on_page": 22,
+      "title": "Python in Hindi - What is Python? Full Explanation",
+      "link": "https://www.youtube.com/watch?v=f20z06UJMR8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=f20z06UJMR8",
+      "video_id": "f20z06UJMR8",
+      "channel": {
+        "name": "TutorialInHindi",
+        "link": "https://www.youtube.com/@tutorialinhindiofficial",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lBQLsCgYIaa_t6bbHWEQnckdKbjdOSyWjcGDCg-o7IdQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 108429,
+      "length": "10:18",
+      "description": "Python in Hindi - What is Python?\nPython is a general-purpose, high-level, and popular computer programming language. The ...",
+      "extensions": [
+        "Beginner",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/f20z06UJMR8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx1qOJAV-ygH-r_TW23Fwl11Uztw",
+        "rich": "https://i.ytimg.com/an_webp/f20z06UJMR8/mqdefault_6s.webp?du=3000&sqp=CPD4otYG&rs=AOn4CLB4G7IvMXmTu7tc6k29OZPH9fxFtA"
+      }
+    },
+    {
+      "position_on_page": 23,
+      "title": "Python tutorial in Hindi 25 : list part 1",
+      "link": "https://www.youtube.com/watch?v=nHmx-XJWgMk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nHmx-XJWgMk",
+      "video_id": "nHmx-XJWgMk",
+      "channel": {
+        "name": "Harshit vashisth",
+        "link": "https://www.youtube.com/@Harshitvashisth",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_noTjuPxp7QDTyD9z2eITMhrrLULvEmjAEZwABaEq7t5uU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 13026,
+      "length": "5:19",
+      "description": "Python tutorial in Hindi 25 : list part 1 Next part soon will be uploaded I made this video around 18 minute long but due to some ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/nHmx-XJWgMk/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IFQocjAP&rs=AOn4CLDRmkzSEVkcYl67mFyJRzYYmcUjYQ",
+        "rich": "https://i.ytimg.com/an_webp/nHmx-XJWgMk/mqdefault_6s.webp?du=3000&sqp=CM-So9YG&rs=AOn4CLCCfeuEaid7ZUVfwPDg88Um07W5dw"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Python+revision+in+Hindi&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Python%20revision%20in%20Hindi&sp=EgIYA0gUggELZnIxZjg0cmc0TneCAQtKZEcxY1ZGeWo1QYIBC0d4NXFiMXVIc3M0ggELVEJDdjFFei1IOXeCAQtqQnowakJjcFBua4IBC2YyUE1mR2ZCT1BvggELWFYtbElhTzAwSDiCAQtxWWhyZDJMaHEwZ4IBCzNkeV9QWUY5eE9JggELS3hUaTJpeWVVN0WCAQtpdExmbjNXZm5rb4IBC3VObkFxb2hUVEZzggELbzcyMmRsUlFMRFWCAQtmUFBTSWNGRUFONIIBC1hmRmt6X05ENWpnggELdDFwVFBGMHMtUnOCAQtVUmZOQUF1WjUyd4IBCzF0OS15UUxUcm5zggELZjIwejA2VUpNUjiCAQtuSG14LVhKV2dNa7IBBgoECBcQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELZnIxZjg0cmc0TneCAQtKZEcxY1ZGeWo1QYIBC0d4NXFiMXVIc3M0ggELVEJDdjFFei1IOXeCAQtqQnowakJjcFBua4IBC2YyUE1mR2ZCT1BvggELWFYtbElhTzAwSDiCAQtxWWhyZDJMaHEwZ4IBCzNkeV9QWUY5eE9JggELS3hUaTJpeWVVN0WCAQtpdExmbjNXZm5rb4IBC3VObkFxb2hUVEZzggELbzcyMmRsUlFMRFWCAQtmUFBTSWNGRUFONIIBC1hmRmt6X05ENWpnggELdDFwVFBGMHMtUnOCAQtVUmZOQUF1WjUyd4IBCzF0OS15UUxUcm5zggELZjIwejA2VUpNUjiCAQtuSG14LVhKV2dNa7IBBgoECBcQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Python+revision+in+Hindi&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Python+revision+in+Hindi&sp=EgIYA0gUggELZnIxZjg0cmc0TneCAQtKZEcxY1ZGeWo1QYIBC0d4NXFiMXVIc3M0ggELVEJDdjFFei1IOXeCAQtqQnowakJjcFBua4IBC2YyUE1mR2ZCT1BvggELWFYtbElhTzAwSDiCAQtxWWhyZDJMaHEwZ4IBCzNkeV9QWUY5eE9JggELS3hUaTJpeWVVN0WCAQtpdExmbjNXZm5rb4IBC3VObkFxb2hUVEZzggELbzcyMmRsUlFMRFWCAQtmUFBTSWNGRUFONIIBC1hmRmt6X05ENWpnggELdDFwVFBGMHMtUnOCAQtVUmZOQUF1WjUyd4IBCzF0OS15UUxUcm5zggELZjIwejA2VUpNUjiCAQtuSG14LVhKV2dNa7IBBgoECBcQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELZnIxZjg0cmc0TneCAQtKZEcxY1ZGeWo1QYIBC0d4NXFiMXVIc3M0ggELVEJDdjFFei1IOXeCAQtqQnowakJjcFBua4IBC2YyUE1mR2ZCT1BvggELWFYtbElhTzAwSDiCAQtxWWhyZDJMaHEwZ4IBCzNkeV9QWUY5eE9JggELS3hUaTJpeWVVN0WCAQtpdExmbjNXZm5rb4IBC3VObkFxb2hUVEZzggELbzcyMmRsUlFMRFWCAQtmUFBTSWNGRUFONIIBC1hmRmt6X05ENWpnggELdDFwVFBGMHMtUnOCAQtVUmZOQUF1WjUyd4IBCzF0OS15UUxUcm5zggELZjIwejA2VUpNUjiCAQtuSG14LVhKV2dNa7IBBgoECBcQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:16:16 UTC"
+}

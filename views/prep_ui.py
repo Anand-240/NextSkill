@@ -4,9 +4,11 @@ from __future__ import annotations
 import streamlit as st
 
 from engine import BudgetExceeded, SerpClient, course_videos, hours_range
+from i18n import hindi_on, t
 from job_prep import (REVISION_LABEL, build_plan, default_prep_index, is_cached, prep_candidates, revision_params,
                       revision_videos, time_range)
 from views.common import live_key
+from views.render import hindi_block
 
 
 def _status_text(row: dict) -> str:
@@ -80,12 +82,12 @@ def _render_plan(plan: dict, saved: bool, budget: int | None) -> None:
     short, full = st.columns(2)
     with short.container(border=True):
         route = plan["shortest_route"]
-        st.markdown("**Shortest route to match this listing**")
+        st.markdown(f"**{t('shortest_route')}**")
         st.write((", ".join(route["skills"]) or route["status"]) +
                  (f" · {route['hours']:.2f} course hours" if route["hours"] is not None else ""))
         st.caption("Exact among measured skills (up to 12); unknown hours may hide a shorter route. Coverage is not eligibility.")
     with full.container(border=True):
-        st.markdown("**Full plan**")
+        st.markdown(f"**{t('full_plan')}**")
         st.write(f"{time_range(plan)}: {plan['revision_minutes']:.0f} minutes of revision videos "
                  f"plus {plan['learning_hours']:.1f} hours of full courses.")
         st.caption(REVISION_LABEL)
@@ -101,8 +103,7 @@ def _render_plan(plan: dict, saved: bool, budget: int | None) -> None:
                    "Listings asking": f"{item['market']} of {item['market_total']}",
                    "Also unlocks": f"{item['other_unlocks']} other listings" if item["action"] == "learn" else "",
                    "Time": _time_cell(item, saved)} for item in plan["items"]], hide_index=True, width="stretch")
-    for action, heading in (("revise", "Revise: skills you have that this job asks for"),
-                            ("learn", "Learn: skills this job asks for that you lack")):
+    for action, heading in (("revise", t("revise_heading")), ("learn", t("learn_heading"))):
         rows = [item for item in plan["items"] if item["action"] == action]
         st.markdown(f"**{heading}**")
         if not rows:
@@ -118,6 +119,8 @@ def _render_plan(plan: dict, saved: bool, budget: int | None) -> None:
                 st.markdown(f"- [{video['title']}]({video['link']}) · {video['channel']} · {video['duration']}")
             if action == "revise" and item["revision_status"] != "found":
                 st.caption(_time_cell(item, saved) + ".")
+            if hindi_on() and not item.get("broad"):
+                hindi_block(item["skill"], saved, revision=action == "revise")
     missing = [item["skill"] for item in plan["items"] if item["action"] == "revise"
                and item["revision_status"] == "not_saved" and not is_cached(revision_params(item["skill"]), False)]
     if missing and not saved and live_key():

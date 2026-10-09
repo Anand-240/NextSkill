@@ -1,14 +1,16 @@
 """Job Prep: revise the skills you have and learn the ones you lack for one listing."""
 import streamlit as st
 
+from i18n import t
 from views import common
 from views.prep_ui import prep_section
 
-st.header("Job Prep")
+common.language_bar()
+st.header(t("prep_header"))
 st.write("Pick one listing. Revise the skills you already have with short videos, and learn the missing ones with full courses.")
 pairs = common.pairs()
 labels = [common.pair_label(pair) for pair in pairs]
-pair = pairs[labels.index(st.selectbox("Role and city", labels, key=common.seed("prep_pair", common.start_label(labels))))]
+pair = pairs[labels.index(st.selectbox(t("find_role_city"), labels, key=common.seed("prep_pair", common.start_label(labels))))]
 profile = common.current_profile(pair)
 st.markdown("**Your skills**")
 common.chips(profile["skills"])

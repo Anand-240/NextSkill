@@ -5,8 +5,10 @@ import altair as alt
 import pandas  # noqa: F401  Altair looks pandas up in sys.modules; import it before any chart.
 import streamlit as st
 
-from engine import (DICTIONARY_WARNING, ROLE_FIT_WARNING, headline_picks, hours_range, is_old, no_unlock_message,
+from engine import (DICTIONARY_WARNING, SerpClient, ROLE_FIT_WARNING, headline_picks, hours_range, is_old, no_unlock_message,
                     posted_text)
+from hindi import hindi_courses, hindi_revision
+from i18n import hindi_on, t
 from views.common import confidence_pill
 
 
@@ -26,6 +28,19 @@ def video_lines(videos: list[dict]) -> None:
         st.markdown(f"- [{video['title']}]({video['link']}) — {video['channel']} · {video['duration']}")
 
 
+def hindi_block(skill: str, saved: bool, revision: bool = False) -> None:
+    """Hindi videos that pass the relevance filters for one skill, or a note that English videos are shown."""
+    client = SerpClient(use_fixtures=saved, cache_only=True)
+    videos, status = (hindi_revision if revision else hindi_courses)(skill, client)
+    if videos:
+        st.markdown(f"**{t('hindi_videos')}**")
+        video_lines(videos)
+        if not revision:
+            st.caption("Hours above are estimated from the English courses listed.")
+    else:
+        st.caption(t("hindi_not_saved" if status == "not_saved" else "hindi_fallback", skill=skill))
+
+
 def render_answer(result: dict, saved: bool) -> None:
     count = len(result["jobs"])
     picks = headline_picks(result["ranked"])
@@ -33,9 +48,9 @@ def render_answer(result: dict, saved: bool) -> None:
     source = "saved listings" if saved else "listings found now"
     if fastest:
         gained, hours = fastest["unlocked_count"], max(1, round(fastest["hours"]))
-        st.subheader(f"Learn {fastest['display_skill']} next: +{gained} more matching listing{'s' if gained != 1 else ''}, "
-                     f"about {hours} hour{'s' if hours != 1 else ''} of free courses.")
-    st.markdown(f"**Your profile matches {result['ready']} of {count} {source} in {result['city']}.**")
+        st.subheader(t("headline", skill=fastest["display_skill"], gained=gained, hours=hours,
+                       listing_word="listing" if gained == 1 else "listings", hour_word="hour" if hours == 1 else "hours"))
+    st.markdown(f"**{t('matches_line', ready=result['ready'], count=count, source=source, city=result['city'])}**")
     label = result["robustness"]["label"]
     st.markdown(f"Recommendation confidence: {confidence_pill(label)} · Snapshot date: {snapshot_range(result)} (UTC)",
                 unsafe_allow_html=True)
@@ -64,8 +79,8 @@ def render_answer(result: dict, saved: bool) -> None:
             st.caption(summary(fastest))
     elif picks["biggest"]:
         columns = st.columns(2)
-        for column, key, name, note in ((columns[0], "fastest", "Fastest win", "Most new matches per course hour"),
-                                        (columns[1], "biggest", "Biggest unlock", "Most new matches, regardless of hours")):
+        for column, key, name, note in ((columns[0], "fastest", t("fastest_win"), "Most new matches per course hour"),
+                                        (columns[1], "biggest", t("biggest_unlock"), "Most new matches, regardless of hours")):
             row = picks[key]
             with column.container(border=True):
                 st.markdown(f"**{name}: {row['display_skill']}**" if row else f"**{name}: unavailable**")
@@ -225,12 +240,12 @@ def render_replay(result: dict) -> None:
 
 
 def render_full(result: dict, saved: bool) -> None:
-    answer, evidence, plan, checks = st.tabs(["Answer", "Evidence", "Learning plan", "How we checked this"])
+    answer, evidence, plan, checks = st.tabs([t("tab_answer"), t("tab_evidence"), t("tab_plan"), t("tab_checks")])
     with answer:
         render_answer(result, saved)
         render_sample(result)
     with evidence:
-        render_evidence(result)
+        render_evidence(result, (lambda item: hindi_block(item['skill'], saved)) if hindi_on() else None)
     with plan:
         render_plan(result)
     with checks:

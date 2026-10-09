@@ -1,0 +1,484 @@
+{
+  "search_metadata": {
+    "id": "6ac8ccfcd868dd8c65251566",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BVXr8vpQbya-Bx-y1S9yCdf6vhiQWT926FLAOmBIRoI/6ac8ccfcd868dd8c65251566.json",
+    "markdown_endpoint": "https://serpapi.com/searches/BVXr8vpQbya-Bx-y1S9yCdf6vhiQWT926FLAOmBIRoI/6ac8ccfcd868dd8c65251566.md",
+    "created_at": "2026-10-09 11:16:12 UTC",
+    "processed_at": "2026-10-09 11:16:12 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=SQL+revision+in+Hindi&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/BVXr8vpQbya-Bx-y1S9yCdf6vhiQWT926FLAOmBIRoI/6ac8ccfcd868dd8c65251566.html",
+    "total_time_taken": 3.72
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "SQL revision in Hindi",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 3578806,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Learn Basic SQL in 15 Minutes | Business Intelligence For Beginners | SQL Tutorial For Beginners 1/3",
+      "link": "https://www.youtube.com/watch?v=kbKty5ZVKMY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kbKty5ZVKMY",
+      "video_id": "kbKty5ZVKMY",
+      "channel": {
+        "name": "Adam Finer - Learn BI",
+        "link": "https://www.youtube.com/@LearnBI",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/QzfYVHje5eQrL5AaVd_dSZlM1eP9Stzyd4HcUvBU6Em278seWnQEe74bsZZIQdcYubLEI6zgig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 3568250,
+      "length": "17:40",
+      "description": "Download the SQL tutorial resource pack: Get the SQLite database, Part 1 SQL queries and companion setup guide here: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/kbKty5ZVKMY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4hVVUoOXUgLBVnKlm-OgpzV5NDA",
+        "rich": "https://i.ytimg.com/an_webp/kbKty5ZVKMY/mqdefault_6s.webp?du=3000&sqp=CJL6otYG&rs=AOn4CLBm9xiQ9HfGj0LwQrpcsbIzWbvuig"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "15 Minutes Masterclass - Quick Revision of Introduction to SQL | Class 11 Informatics Practices Ch 8",
+      "link": "https://www.youtube.com/watch?v=1hbuMI1YNgI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1hbuMI1YNgI",
+      "video_id": "1hbuMI1YNgI",
+      "channel": {
+        "name": "Magnet Brains",
+        "link": "https://www.youtube.com/@MagnetBrainsEducation",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/wU9D8106zYT1LX4uw60db8dK9S7kj3oBcdze6Qa-L6NF1rSrwZL72ChhoNYUWxfsTzeE1CvgIA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 104235,
+      "length": "12:47",
+      "description": "✔️📚👉 Watch Full Free Course Videos: https://www.magnetbrains.com\n✔️📚👉 Grab Notes by Expert Teachers Here: https://www.pabbly ...",
+      "extensions": [
+        "Class 11",
+        "Lecture"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/1hbuMI1YNgI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAImG6-LU44U5W_t4205PvPYpT2-g",
+        "rich": "https://i.ytimg.com/an_webp/1hbuMI1YNgI/mqdefault_6s.webp?du=3000&sqp=COL5otYG&rs=AOn4CLAo4dJAWKUzDyv_22ij2ns6G7ehPw"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "What is SQL with Full Information? – [Hindi] – Quick Support",
+      "link": "https://www.youtube.com/watch?v=lbfixnW--sM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lbfixnW--sM",
+      "video_id": "lbfixnW--sM",
+      "channel": {
+        "name": "Quick Support",
+        "link": "https://www.youtube.com/@QuickSupport",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kpsYfXu95lHC_GWc08qhcOrMAajIr2eLSNXl99bsnBooI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 350120,
+      "length": "9:17",
+      "description": "What is SQL#WhatisSQL? #Education #career What is SQL with Full Information? – [Hindi] – Quick Support. SQL सबसे ...",
+      "extensions": [
+        "2 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/lbfixnW--sM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvuSTHIE8A9OVQYj4pvuL9GXqqig",
+        "rich": "https://i.ytimg.com/an_webp/lbfixnW--sM/mqdefault_6s.webp?du=3000&sqp=CJOYo9YG&rs=AOn4CLBz9U2Oinky1VojCsUb-rOL84dgeQ"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Class 12 Computer Science | Chapter 9 | SQL | Unit 3 Data Handling | CBSE BOARDS 2024-25 | ONE SHOT",
+      "link": "https://www.youtube.com/watch?v=kVw59bIbrw0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kVw59bIbrw0",
+      "video_id": "kVw59bIbrw0",
+      "channel": {
+        "name": "Youth Af",
+        "link": "https://www.youtube.com/@YouthAf",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ed8T6XdpkTBEM0pcQJd6_tZlJYzVU9RtJUfCBIho8-Am5lgua0WwWC5FulgjFnFJZflb40xYpQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 280941,
+      "length": "12:41",
+      "description": "Hi everyone, Hope everyone is doing great :) In this video, I have covered - Class: 12th Subject: Computer Science ...",
+      "extensions": [
+        "Class 12",
+        "CBSE Exam, class 12"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/kVw59bIbrw0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKQjJWieYj6wEA2bqF1p9DJ0-EQw",
+        "rich": "https://i.ytimg.com/an_webp/kVw59bIbrw0/mqdefault_6s.webp?du=3000&sqp=CP2Zo9YG&rs=AOn4CLBK5MueV5jw1v3hNNhzLWMW43NE_Q"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "15 Minutes Masterclass: Quick Revision of Querying and SQL Functions | Class 12 IP",
+      "link": "https://www.youtube.com/watch?v=LQ4VqayTVcs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LQ4VqayTVcs",
+      "video_id": "LQ4VqayTVcs",
+      "channel": {
+        "name": "Magnet Brains",
+        "link": "https://www.youtube.com/@MagnetBrainsEducation",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/wU9D8106zYT1LX4uw60db8dK9S7kj3oBcdze6Qa-L6NF1rSrwZL72ChhoNYUWxfsTzeE1CvgIA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 31133,
+      "length": "13:41",
+      "description": "Previous Video: https://studio.youtube.com/video/9W6ZHv5RhtE/edit?c=UC3HS6gQ79jjn4xHxogw0HiA ...",
+      "extensions": [
+        "Class 11",
+        "Lecture"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LQ4VqayTVcs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANRRR3OVkjv8dDPEz9s5hnHRLvIQ",
+        "rich": "https://i.ytimg.com/an_webp/LQ4VqayTVcs/mqdefault_6s.webp?du=3000&sqp=CIj_otYG&rs=AOn4CLCCeyfkMAWb7LgMBWSBPbkjP0kWKA"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "All SQL Fundamentals Explained in 10 Minutes | Learn SQL Basics for Beginners | SQL Crash Course",
+      "link": "https://www.youtube.com/watch?v=3s0lFtUrhSQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3s0lFtUrhSQ",
+      "video_id": "3s0lFtUrhSQ",
+      "channel": {
+        "name": "Learn with Whiteboard",
+        "link": "https://www.youtube.com/@learnwithwhiteboard",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lribITk49m82pJNGs0J60Zbj1Lwp5rFGtkSOyBtiVhXlo=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 541040,
+      "length": "10:55",
+      "description": "Learn SQL Basics with our SQL Crash Course for Beginners! In this fast-paced and informative video, we'll cover all the essential ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3s0lFtUrhSQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgXcmMkUHAH59M5TNH0yKxIdY9lw"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Learn 12 Basic SQL Concepts in 15 Minutes (project files included!)",
+      "link": "https://www.youtube.com/watch?v=_vxobA36UN4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_vxobA36UN4",
+      "video_id": "_vxobA36UN4",
+      "channel": {
+        "name": "Maven Analytics",
+        "link": "https://www.youtube.com/@MavenAnalytics",
+        "thumbnail": "https://yt3.ggpht.com/s8DLnIjg5cO39mPfZTNbtc4y1h1miX2V8ZqUB4gvakASUTdo_qFNcCAo5bCHJWL72O6vk0J-ww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 745935,
+      "length": "16:48",
+      "description": "7-day email course to get you started with data analytics: https://mavenanalytics.io/newsletter/still-a-real-career 7-day AI analyst ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_vxobA36UN4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbV6thJuLrtoYN5beZR87xVGUNxQ",
+        "rich": "https://i.ytimg.com/an_webp/_vxobA36UN4/mqdefault_6s.webp?du=3000&sqp=CN7yotYG&rs=AOn4CLCUkZJdSTwsAFfTVnk9w9wBu_ehrg"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "What Is SQL ? | Database in SQL | SQL Introduction | SQL Tutorial In Hindi 1",
+      "link": "https://www.youtube.com/watch?v=yH1zCq-iaeU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yH1zCq-iaeU",
+      "video_id": "yH1zCq-iaeU",
+      "channel": {
+        "name": "Rishabh Mishra",
+        "link": "https://www.youtube.com/@RishabhMishraOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/EtUb4FRhCrBiXVQ-TbSlLeTTyhrxPss3zdJUFwqHvCGLOb9dRKDPU3dw8xHUtWR-AJelpJ1CQQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1088039,
+      "length": "7:12",
+      "description": "SQL Full Course Playlist 👇\nhttps://www.youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw \n\n📢ALL csv files and ...",
+      "extensions": [
+        "CC",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/yH1zCq-iaeU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_P8_ZcCr0yjD_nIeppPFY3TDuSA",
+        "rich": "https://i.ytimg.com/an_webp/yH1zCq-iaeU/mqdefault_6s.webp?du=3000&sqp=CLGVo9YG&rs=AOn4CLC8xQ2YTt416Tfkvf-ENe9sL7oZ1w"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "What is SQL? Future Career Scope & Resources",
+      "link": "https://www.youtube.com/watch?v=UOJZTqA5Loc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UOJZTqA5Loc",
+      "video_id": "UOJZTqA5Loc",
+      "channel": {
+        "name": "Apna College",
+        "link": "https://www.youtube.com/@ApnaCollegeOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FEcjRtez5od8UowDo6tTt9WlE-MrIFEmcwPMTORmK9Swk6KCklOmA3xfIG9WuLWfNYfNThQE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 2420322,
+      "length": "6:12",
+      "description": "DBMS + SQL Notes : https://www.youtube.com/watch?v=f1oV46r69YM Guaranteed Placement Sheet : https://bit.ly/DSASheet ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/UOJZTqA5Loc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbQDp5KufkSQi_zOjSM6AHAztFfA",
+        "rich": "https://i.ytimg.com/an_webp/UOJZTqA5Loc/mqdefault_6s.webp?du=3000&sqp=CNCUo9YG&rs=AOn4CLCDil0Hh0XB0sWBdkSG2cc9Pctwmg"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "SQL Explained | Working & History of SQL",
+      "link": "https://www.youtube.com/watch?v=fwSd2hBN-2I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fwSd2hBN-2I",
+      "video_id": "fwSd2hBN-2I",
+      "channel": {
+        "name": "Educational Words Touch",
+        "link": "https://www.youtube.com/@EducationalWordsTouch",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_krhaE8_Wqgs4R7WsLx9hX9E3_v4kyzr5SoY-GS_1fAPw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 631,
+      "length": "9:32",
+      "description": "In this video we will learn about basic information of SQL in Hindi\n\nHere are following things we will learn in this video ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fwSd2hBN-2I/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA24FkNOGRxm-GCows5d2er2OcJlg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "SQL SELF JOIN | UNION & UNION ALL in SQL | SQL Tutorial in Hindi 12",
+      "link": "https://www.youtube.com/watch?v=V3xjmBi1QQE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V3xjmBi1QQE",
+      "video_id": "V3xjmBi1QQE",
+      "channel": {
+        "name": "Rishabh Mishra",
+        "link": "https://www.youtube.com/@RishabhMishraOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/EtUb4FRhCrBiXVQ-TbSlLeTTyhrxPss3zdJUFwqHvCGLOb9dRKDPU3dw8xHUtWR-AJelpJ1CQQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 367891,
+      "length": "8:19",
+      "description": "SQL Full Course Playlist 👇\nhttps://www.youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw\n\nLike, Share & Subscribe ...",
+      "extensions": [
+        "CC",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/V3xjmBi1QQE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANNmLBdHJ3yaI6O6ZvErkL05OWhA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "SQL Tutorials | Beginners | What is SQL? | in Hindi/Urdu | Part-1",
+      "link": "https://www.youtube.com/watch?v=dhUapcKiVCE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dhUapcKiVCE",
+      "video_id": "dhUapcKiVCE",
+      "channel": {
+        "name": "Codanics",
+        "link": "https://www.youtube.com/@Codanics",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nb9s3nb5T2T_eVKc2bGzDyv4EugL702EODk986C72biA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 31532,
+      "length": "8:17",
+      "description": "sql #sqltutorial #datascience #mysql In this course, we'll be looking at database management basics and SQL using the MySQL ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/dhUapcKiVCE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5OGT0lAzLO6Tacf6yEJUGODE3-Q",
+        "rich": "https://i.ytimg.com/an_webp/dhUapcKiVCE/mqdefault_6s.webp?du=3000&sqp=CNuZo9YG&rs=AOn4CLDCD9x3JJyRISn8A0O9h4uZtHehvw"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "How does indexing work in Databases in Hindi ( How to optimize SQL Queries in Hindi )",
+      "link": "https://www.youtube.com/watch?v=xXtig5uLQS4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xXtig5uLQS4",
+      "video_id": "xXtig5uLQS4",
+      "channel": {
+        "name": "Engineering Digest",
+        "link": "https://www.youtube.com/@EngineeringDigest",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/NrOsX1CyzEVMsLzz4IEvPbS3efe-yqOVvRPYG7MMdBbwL5VveXS5a_zbRwJv6z-2EQYeLy1l=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 233720,
+      "length": "7:32",
+      "description": "Get 1 to 1 coaching with me: https://topmate.io/engineeringdigest Donate: https://paypal.me/engineeringdigest Perks: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xXtig5uLQS4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHbgrUMLoo6W5W04KXLeNWRx4b2A"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "SQL WITH Clause with examples | SQL CTE (Common Table Expression) | SQL Tutorial in Hindi 16",
+      "link": "https://www.youtube.com/watch?v=WHBH0yz35_8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WHBH0yz35_8",
+      "video_id": "WHBH0yz35_8",
+      "channel": {
+        "name": "Rishabh Mishra",
+        "link": "https://www.youtube.com/@RishabhMishraOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/EtUb4FRhCrBiXVQ-TbSlLeTTyhrxPss3zdJUFwqHvCGLOb9dRKDPU3dw8xHUtWR-AJelpJ1CQQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 309663,
+      "length": "11:21",
+      "description": "SQL Full Course Playlist 👇\nhttps://www.youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw\n\nLike, Share & Subscribe ...",
+      "extensions": [
+        "CC",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WHBH0yz35_8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0PlYCYOE9yG-FxGtWuYSTKWAWWQ",
+        "rich": "https://i.ytimg.com/an_webp/WHBH0yz35_8/mqdefault_6s.webp?du=3000&sqp=CPSLo9YG&rs=AOn4CLCrzXUXU9QFgJqQn4R9L074Kbn70w"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Complete SQL Subquery Using Comparison and Logical Operators | SQL Tutorial in Hindi 13",
+      "link": "https://www.youtube.com/watch?v=5O2OuN1ougU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5O2OuN1ougU",
+      "video_id": "5O2OuN1ougU",
+      "channel": {
+        "name": "Rishabh Mishra",
+        "link": "https://www.youtube.com/@RishabhMishraOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/EtUb4FRhCrBiXVQ-TbSlLeTTyhrxPss3zdJUFwqHvCGLOb9dRKDPU3dw8xHUtWR-AJelpJ1CQQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 354598,
+      "length": "11:40",
+      "description": "SQL Full Course Playlist 👇\nhttps://www.youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw\n\nLike, Share & Subscribe ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5O2OuN1ougU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEQMvIllZEvhz8qI6YpRe_ChMgyg"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Lec-132: Top 15 SQL Interview Questions Answers | Most Important Questions for Job Interview",
+      "link": "https://www.youtube.com/watch?v=0xg4X79yHW4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0xg4X79yHW4",
+      "video_id": "0xg4X79yHW4",
+      "channel": {
+        "name": "Gate Smashers",
+        "link": "https://www.youtube.com/@GateSmashers",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mZfqpNqtGLksLQfMbW7UVFgub_poGNE-YU_RAoV_NdUII=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1352194,
+      "length": "15:19",
+      "description": "Complete DBMS +. SQL Roadmap  : https://www.gatesmashers.com/roadmaps/dbms-sql MASTER COMPUTER SCIENCE ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0xg4X79yHW4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3BfuIWTdcSTq5eEH56i7xrM5c-A",
+        "rich": "https://i.ytimg.com/an_webp/0xg4X79yHW4/mqdefault_6s.webp?du=3000&sqp=CJiLo9YG&rs=AOn4CLA70wZR2aos0SIGa74riCgaB50-0A"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "SQL MCQ questions and answers | SQL MCQs for all competitive exams",
+      "link": "https://www.youtube.com/watch?v=DU_mFaIyoRg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DU_mFaIyoRg",
+      "video_id": "DU_mFaIyoRg",
+      "channel": {
+        "name": "Easy Way To Learn   ",
+        "link": "https://www.youtube.com/@easywaytolearn582",
+        "thumbnail": "https://yt3.ggpht.com/QBYz6e2H3SWgWwVvsbm1Df1E6FLTUnAO-i3rDIR2GUjU1_QVaocD7olWjBCf16yEzd2RMn-v-A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 22328,
+      "length": "7:54",
+      "description": "#easywaytolearn   #sql  #computerbasics \n\nplease like || share || subscribe our channel\neasywaytolearn@582\n\ntop 20 computer ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/DU_mFaIyoRg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu2M-yaZlXlwgwrxas4GXTQVjI2A"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "SQL Introduction in Hindi | What is SQL? | SQL Commands, DDL, DML, DQL, DCL, TCL | Lecture 2",
+      "link": "https://www.youtube.com/watch?v=FWFA3qTYB0o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FWFA3qTYB0o",
+      "video_id": "FWFA3qTYB0o",
+      "channel": {
+        "name": "Codexani",
+        "link": "https://www.youtube.com/@Codexani",
+        "thumbnail": "https://yt3.ggpht.com/R7e52B1WQSWHxESrubdN8hNfQGCOZbiLZmBGAfbEFnpcr-F594Ta43DU7r3oNjf8KvBB6-eW=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4w ago",
+      "views": 295,
+      "length": "13:52",
+      "description": "SQL SERIES – LECTURE 2 Welcome back to Codexani! ‍   In this lecture, we will learn the complete introduction to SQL in ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FWFA3qTYB0o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKxNrce5eH8W2udZKB8c2YU-2Qtg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "SQL Server 2022 Upgrade to SQL Server 2025 | Full Step-by-Step Tutorial in Hindi",
+      "link": "https://www.youtube.com/watch?v=wxvuZZXufP0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wxvuZZXufP0",
+      "video_id": "wxvuZZXufP0",
+      "channel": {
+        "name": "IBharat Software",
+        "link": "https://www.youtube.com/@ibharatsoftware",
+        "thumbnail": "https://yt3.ggpht.com/Ob5RvU4-fJTpEWGD4ClCtqwgF6To6N57oSJy8brYjojdTM2lRxDPGuyPlpZOxgfYzYA0aJT0Zg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 474,
+      "length": "19:56",
+      "description": "SQL Server 2022 Upgrade to SQL Server 2025 | Full Step-by-Step Tutorial in Hindi  #sqldba #ibharatsoftware #sqldba #securty ...",
+      "extensions": [
+        "Professional Training",
+        "Walkthrough"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wxvuZZXufP0/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_giAAtAFigIMCAAQARhJIF4oZTAP&rs=AOn4CLDv8-BYUdhHde9Cety99fRgPdj2rA",
+        "rich": "https://i.ytimg.com/an_webp/wxvuZZXufP0/mqdefault_6s.webp?du=3000&sqp=CJ7_otYG&rs=AOn4CLAZNWsYeoP-FGFbjiz4hL91UPDrTA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "SQL Basics for Beginners Installation and Setup of SQL in hindi | Setup and Installation of SQL",
+      "link": "https://www.youtube.com/watch?v=wNANBmIwaqw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wNANBmIwaqw",
+      "video_id": "wNANBmIwaqw",
+      "channel": {
+        "name": "Data is Good (Hindi)",
+        "link": "https://www.youtube.com/@DataisGoodHindi",
+        "thumbnail": "https://yt3.ggpht.com/C8zZ1QeHiRncZjM9qs5Eb0cryZb_NOOq9sPX506StuppQTHX9mm6yqoP5HzdGui0VcUbABU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2354,
+      "length": "10:03",
+      "description": "Learn Basics of SQL in Hindi with Complete SQL Fundamentals for Beginners. SQL stands for Structured Query Language.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wNANBmIwaqw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASu5by8Za8uUK3SYGrJZkNQaXdzg",
+        "rich": "https://i.ytimg.com/an_webp/wNANBmIwaqw/mqdefault_6s.webp?du=3000&sqp=CNCUo9YG&rs=AOn4CLB_LjYOqz8vCvLECgZOwgj63txvhg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=SQL+revision+in+Hindi&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=SQL%20revision%20in%20Hindi&sp=EgIYA0gUggELa2JLdHk1WlZLTVmCAQsxaGJ1TUkxWU5nSYIBC2xiZml4blctLXNNggELa1Z3NTliSWJydzCCAQtMUTRWcWF5VFZjc4IBCzNzMGxGdFVyaFNRggELX3Z4b2JBMzZVTjSCAQt5SDF6Q3EtaWFlVYIBC1VPSlpUcUE1TG9jggELZndTZDJoQk4tMkmCAQtWM3hqbUJpMVFRRYIBC2RoVWFwY0tpVkNFggELeFh0aWc1dUxRUzSCAQtXSEJIMHl6MzVfOIIBCzVPMk91TjFvdWdVggELMHhnNFg3OXlIVzSCAQtEVV9tRmFJeW9SZ4IBC0ZXRkEzcVRZQjBvggELd3h2dVpaWHVmUDCCAQt3TkFOQm1Jd2Fxd7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELa2JLdHk1WlZLTVmCAQsxaGJ1TUkxWU5nSYIBC2xiZml4blctLXNNggELa1Z3NTliSWJydzCCAQtMUTRWcWF5VFZjc4IBCzNzMGxGdFVyaFNRggELX3Z4b2JBMzZVTjSCAQt5SDF6Q3EtaWFlVYIBC1VPSlpUcUE1TG9jggELZndTZDJoQk4tMkmCAQtWM3hqbUJpMVFRRYIBC2RoVWFwY0tpVkNFggELeFh0aWc1dUxRUzSCAQtXSEJIMHl6MzVfOIIBCzVPMk91TjFvdWdVggELMHhnNFg3OXlIVzSCAQtEVV9tRmFJeW9SZ4IBC0ZXRkEzcVRZQjBvggELd3h2dVpaWHVmUDCCAQt3TkFOQm1Jd2Fxd7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SQL+revision+in+Hindi&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SQL+revision+in+Hindi&sp=EgIYA0gUggELa2JLdHk1WlZLTVmCAQsxaGJ1TUkxWU5nSYIBC2xiZml4blctLXNNggELa1Z3NTliSWJydzCCAQtMUTRWcWF5VFZjc4IBCzNzMGxGdFVyaFNRggELX3Z4b2JBMzZVTjSCAQt5SDF6Q3EtaWFlVYIBC1VPSlpUcUE1TG9jggELZndTZDJoQk4tMkmCAQtWM3hqbUJpMVFRRYIBC2RoVWFwY0tpVkNFggELeFh0aWc1dUxRUzSCAQtXSEJIMHl6MzVfOIIBCzVPMk91TjFvdWdVggELMHhnNFg3OXlIVzSCAQtEVV9tRmFJeW9SZ4IBC0ZXRkEzcVRZQjBvggELd3h2dVpaWHVmUDCCAQt3TkFOQm1Jd2Fxd7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELa2JLdHk1WlZLTVmCAQsxaGJ1TUkxWU5nSYIBC2xiZml4blctLXNNggELa1Z3NTliSWJydzCCAQtMUTRWcWF5VFZjc4IBCzNzMGxGdFVyaFNRggELX3Z4b2JBMzZVTjSCAQt5SDF6Q3EtaWFlVYIBC1VPSlpUcUE1TG9jggELZndTZDJoQk4tMkmCAQtWM3hqbUJpMVFRRYIBC2RoVWFwY0tpVkNFggELeFh0aWc1dUxRUzSCAQtXSEJIMHl6MzVfOIIBCzVPMk91TjFvdWdVggELMHhnNFg3OXlIVzSCAQtEVV9tRmFJeW9SZ4IBC0ZXRkEzcVRZQjBvggELd3h2dVpaWHVmUDCCAQt3TkFOQm1Jd2Fxd7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:16:12 UTC"
+}

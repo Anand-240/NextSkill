@@ -9,6 +9,7 @@ from views import common
 from views.prep_ui import prep_section
 from views.render import render_full
 
+common.language_bar()
 st.header("Live search")
 key = common.live_key()
 if not key:

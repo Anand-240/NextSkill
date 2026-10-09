@@ -1,0 +1,469 @@
+{
+  "search_metadata": {
+    "id": "6ac8cce9f6e92604f964f1eb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4GDVnYlax9t6-6NcT7vAhj30NukKAGm-6HHguuRdBB0/6ac8cce9f6e92604f964f1eb.json",
+    "markdown_endpoint": "https://serpapi.com/searches/4GDVnYlax9t6-6NcT7vAhj30NukKAGm-6HHguuRdBB0/6ac8cce9f6e92604f964f1eb.md",
+    "created_at": "2026-10-09 11:15:53 UTC",
+    "processed_at": "2026-10-09 11:15:53 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Excel+tutorial+in+Hindi&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/4GDVnYlax9t6-6NcT7vAhj30NukKAGm-6HHguuRdBB0/6ac8cce9f6e92604f964f1eb.html",
+    "total_time_taken": 3.53
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Excel tutorial in Hindi",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 6042997,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Excel Tutorial For Beginners in Hindi | Complete Microsoft Excel Tutorial (Basic To Advance)",
+      "link": "https://www.youtube.com/watch?v=OX-iyb-21tk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OX-iyb-21tk",
+      "video_id": "OX-iyb-21tk",
+      "channel": {
+        "name": "Rishabh Mishra",
+        "link": "https://www.youtube.com/@RishabhMishraOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/EtUb4FRhCrBiXVQ-TbSlLeTTyhrxPss3zdJUFwqHvCGLOb9dRKDPU3dw8xHUtWR-AJelpJ1CQQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 10024272,
+      "length": "1:15:39",
+      "description": "Excel Tutorial For Beginners in Hindi | Complete Microsoft Excel Tutorial Excel tutorial for beginners in Hindi, this is complete ...",
+      "extensions": [
+        "CC",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OX-iyb-21tk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf1f7c7cAPEYHNpJj-lz8GoR8xew",
+        "rich": "https://i.ytimg.com/an_webp/OX-iyb-21tk/mqdefault_6s.webp?du=3000&sqp=CJ-Oo9YG&rs=AOn4CLBwBHXhKU5MFw4BnP1lu9XQDtA25A"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Excel Tutorial for Beginners in Hindi - Complete Microsoft Excel tutorial in Hindi for Excel users",
+      "link": "https://www.youtube.com/watch?v=q85n1RQBjno",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=q85n1RQBjno",
+      "video_id": "q85n1RQBjno",
+      "channel": {
+        "name": "Learn More",
+        "link": "https://www.youtube.com/@Learn_More_Pro",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/eQJKdbw2JKuelQ1Z1udfD4j7-3avK_eq1j2Of2JSV4RLtQcXuwix0jWFrk1C1f0ApQqN_bi8Nj8=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 17758037,
+      "length": "1:59:22",
+      "description": "Satish Dhawale Sir has developed a powerful tool to boost your Excel productivity. Explore it now: XLBooster ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/q85n1RQBjno/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-CYHFvEGDFAvwlia7bGyhoIH92A",
+        "rich": "https://i.ytimg.com/an_webp/q85n1RQBjno/mqdefault_6s.webp?du=3000&sqp=CMDjotYG&rs=AOn4CLBvxkC0PA-rD1kAv8bKRObg7xCVgQ"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Microsoft Excel Complete Course in Hindi | Beginner to Advanced Excel Full Tutorial (17 Hours)",
+      "link": "https://www.youtube.com/watch?v=FtQk_tPnD4I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FtQk_tPnD4I",
+      "video_id": "FtQk_tPnD4I",
+      "channel": {
+        "name": "TLS Computer Classes and Sirf Excel",
+        "thumbnail": "https://yt3.ggpht.com/3KczWvhCZ28sSwah-Sqr4XQ4MOUxyst0j9nj2fK3IzoxYA12XpGgznqdXR3boQdOKS-cyKCDww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 1241906,
+      "length": "16:50:20",
+      "description": "Learn Microsoft Excel from Beginner to Advanced in this Complete Excel Course in Hindi. In this 17-hour Excel tutorial, you will ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FtQk_tPnD4I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkHkZpCLNYxbt_sk6aNhzCtYa1JA",
+        "rich": "https://i.ytimg.com/an_webp/FtQk_tPnD4I/mqdefault_6s.webp?du=3000&sqp=CO76otYG&rs=AOn4CLBiqDbbAEXC5z43SjKVQnIJ2ZhT4w"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Excel  25 Most Important Formulas in Hindi | Excel Basic to Advanced |  MS Excel Tutorial in Hindi",
+      "link": "https://www.youtube.com/watch?v=pAhzjgQzNZc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pAhzjgQzNZc",
+      "video_id": "pAhzjgQzNZc",
+      "channel": {
+        "name": "Computer Gyan with Neha",
+        "link": "https://www.youtube.com/@nehadangi2025",
+        "thumbnail": "https://yt3.ggpht.com/4N8eKz14x7yiiIKtx4rloARC7Xw_ZBAGN18isW4xA42SFXkkRkQZSXdaPk8YJooB1-rnpYcMlw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "19 min ago",
+      "views": 5,
+      "length": "45:01",
+      "description": "Excel के 25 Most Important Formulas in Hindi | Excel Basic to Advanced | Excel Tips & Tricks Excel के 25 जरूरी Formula ...",
+      "extensions": [
+        "New"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pAhzjgQzNZc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1v4AD2PhUoDV5DoeUvfmLKH9R1g"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Excel for beginners in hindi || excel basic knowledge || microsoft excel",
+      "link": "https://www.youtube.com/watch?v=eeDKm9iTE3U",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eeDKm9iTE3U",
+      "video_id": "eeDKm9iTE3U",
+      "channel": {
+        "name": "GULAB GURU",
+        "link": "https://www.youtube.com/@gulabgurucomputer",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FO24Dq1yXD0JboL21SGnqvQpLG4OB-6X4u1MSLO9a4BcfOK_gGcSFD8BexdwDxwLNjaYx-hWPA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 6931667,
+      "length": "36:08",
+      "description": "Excel for beginners in hindi || excel basic knowledge || microsoft excel WhatsApp Join ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eeDKm9iTE3U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFtgb4HuwhoFcTnbnIcJRF6A2RzA",
+        "rich": "https://i.ytimg.com/an_webp/eeDKm9iTE3U/mqdefault_6s.webp?du=3000&sqp=CIiLo9YG&rs=AOn4CLDP4way-nxYIuwAHrMZj_6zCxDlQA"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Basic Excel Tutorial For Beginners in Hindi - Excel Basics for Beginners",
+      "link": "https://www.youtube.com/watch?v=Y1NNQV8MdnA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Y1NNQV8MdnA",
+      "video_id": "Y1NNQV8MdnA",
+      "channel": {
+        "name": "Focus Locus",
+        "link": "https://www.youtube.com/@FocusLocus",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/09gkb_zKhVZ06Vgy87BSklvmuG3IPN3l0p3GIKOTPMEmdPfG_0_YEnkplsSqcfVMF3IGp8zDwg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 529908,
+      "length": "32:59",
+      "description": "Learn Excel in Hindi for beginners along with a tutorial of Google Sheets. Learn Excel basics in Hindi in 30 minutes. This ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Y1NNQV8MdnA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjT7cHiFtTOqV9BfqQJOhdor8ggw",
+        "rich": "https://i.ytimg.com/an_webp/Y1NNQV8MdnA/mqdefault_6s.webp?du=3000&sqp=CLD7otYG&rs=AOn4CLCEfBQQYPwEh7wRehpBZGQOroPMfA"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Learn Full Excel Course from Basic to Advanced with AI | Excel AI Masterclass 2026",
+      "link": "https://www.youtube.com/watch?v=wGBKI6B945w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wGBKI6B945w",
+      "video_id": "wGBKI6B945w",
+      "channel": {
+        "name": "Satish Dhawale",
+        "link": "https://www.youtube.com/@Satish_Dhawale",
+        "thumbnail": "https://yt3.ggpht.com/DwZyFLCix8GQp7xp-88ae7bqJ8embEBGXykIVfUaSkYhrIkcu04R-iBPfluvBABJTmPVN5yj=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 4537483,
+      "length": "15:07:11",
+      "description": "Learn Full Excel Course from Basic to Advanced with AI | Excel AI Masterclass 2026 #SD108 If you want to become confident in ...",
+      "extensions": [
+        "2 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wGBKI6B945w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgF7ic2xbKZoevJkh8QdBIZI9u7g",
+        "rich": "https://i.ytimg.com/an_webp/wGBKI6B945w/mqdefault_6s.webp?du=3000&sqp=CNz1otYG&rs=AOn4CLCqBAaHpuf0RReCB5u3S6yM7oF2Dw"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Introduction to Microsoft Excel - Excel Basics Tutorial",
+      "link": "https://www.youtube.com/watch?v=fcbB0nkDik8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fcbB0nkDik8",
+      "video_id": "fcbB0nkDik8",
+      "channel": {
+        "name": "warikoo",
+        "link": "https://www.youtube.com/@warikoo",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Xmf5LtdlD2A7hOScjvc0nh87d1YfbfF458lN7Ot5T1a1CQePP6vNEmhZuj0x0TSz-37DBMzUsw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 4402552,
+      "length": "27:49",
+      "description": "If you wish to be part of the Money Matters series, please fill up this form: https://forms.gle/G3wwgpVjctRneyQv6 Finally, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fcbB0nkDik8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDO5TUsozzdcpqaHIBPw3CGlk2m2A",
+        "rich": "https://i.ytimg.com/an_webp/fcbB0nkDik8/mqdefault_6s.webp?du=3000&sqp=CL72otYG&rs=AOn4CLA7T_WJbv6cOr8bU3EQolnOHI4Gfg"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Excel Tutorial for Beginners 2025 | Learn in 2 Hours (Hindi + English)",
+      "link": "https://www.youtube.com/watch?v=QzVD0HLQ1yY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QzVD0HLQ1yY",
+      "video_id": "QzVD0HLQ1yY",
+      "channel": {
+        "name": "Accounts Expert",
+        "link": "https://www.youtube.com/@Accounts_Experts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/tMs84O-lN4vy-RgXykgI0b2Da4YN47RjXROd9vl9PMr7Hji1NL5e2NGNBuoMoILBgwQeSxYjWQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 602516,
+      "length": "2:40:14",
+      "description": "Master Excel in Just 2 Hours! | Learn All Important Excel Formulas & Features in One Video Are you tired of watching 10+ ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/QzVD0HLQ1yY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVgX6VBGqV-LGAFS_6d8Gk1tREbQ",
+        "rich": "https://i.ytimg.com/an_webp/QzVD0HLQ1yY/mqdefault_6s.webp?du=3000&sqp=CO6Eo9YG&rs=AOn4CLAPKj5UU__fuI-kms4uMsHWiA3UkA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Microsoft Excel Tutorial in Urdu | Excel Complete Course | Excel Full Course in Urdu / Hindi",
+      "link": "https://www.youtube.com/watch?v=5Fj2RV81N-E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5Fj2RV81N-E",
+      "video_id": "5Fj2RV81N-E",
+      "channel": {
+        "name": "Advanced User",
+        "link": "https://www.youtube.com/@AdvancedUser",
+        "thumbnail": "https://yt3.ggpht.com/8OyTXCreao0SfhnpnOS_9BEGl-uqfmmmg-F-ha7yEdmn0PKrF31pkZXEJgny7CuaMHttoBGL=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 4168474,
+      "length": "40:19",
+      "description": "Microsoft Excel Complete Course, Learn Microsoft Excel Complete in 40 minutes in Urdu/Hindi Language. Advanced User ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5Fj2RV81N-E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2oEX035CjEACIB3lic22FdtZRhg",
+        "rich": "https://i.ytimg.com/an_webp/5Fj2RV81N-E/mqdefault_6s.webp?du=3000&sqp=CIeYo9YG&rs=AOn4CLAIw9n4i5z1AKUMnQBLFnuYhCY0Fg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "MS Excel Basic Formulas Part 1 🔥 | Essential Excel Formulas for Beginners",
+      "link": "https://www.youtube.com/watch?v=Fqj3pc-cKSE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Fqj3pc-cKSE",
+      "video_id": "Fqj3pc-cKSE",
+      "channel": {
+        "name": "Promodvermaclasses",
+        "link": "https://www.youtube.com/@pramodvermaclasses",
+        "thumbnail": "https://yt3.ggpht.com/x-l-ABeAEA88Z1sFH40gVpjhgbrk5fl10yYBOYinAY0rYHWtq1PtYhwT6BAv7QY_Z-srCnMN=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "50 min ago",
+      "views": 16,
+      "length": "34:23",
+      "description": "Pramod Verma Classes Welcome to Pramod Verma Classes — a dedicated learning platform for Computer Education, ITI COPA, ...",
+      "extensions": [
+        "New"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Fqj3pc-cKSE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxKo1Grx5a_SFbOlF2FMDQIx-xhQ",
+        "rich": "https://i.ytimg.com/an_webp/Fqj3pc-cKSE/mqdefault_6s.webp?du=3000&sqp=CJyKo9YG&rs=AOn4CLB0opIVrtg16T8jobabfO2soT9s3g"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "🔥Complete Microsoft Excel Tutorial in Hindi | Microsoft Excel Tutorial for Beginners - Full Course",
+      "link": "https://www.youtube.com/watch?v=yyjtFyc-rxE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yyjtFyc-rxE",
+      "video_id": "yyjtFyc-rxE",
+      "channel": {
+        "name": "mybigguide",
+        "link": "https://www.youtube.com/@mybigguidehindi",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/gnwzvS0dNC6K1z_fUndl_CcBpllAmFcPPVa7x6f4NVHHu60xziqay2EipoHcK-EtdtgOPa93Mg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1186366,
+      "length": "3:03:46",
+      "description": "Join Our Pendrive Course - https://offline.pcskill.in/ Download App Now - https://bit.ly/3ZyV0rw Complete Microsoft Excel ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/yyjtFyc-rxE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXtlHAAsw3usR9oATiKonHZFlxDw",
+        "rich": "https://i.ytimg.com/an_webp/yyjtFyc-rxE/mqdefault_6s.webp?du=3000&sqp=CLmNo9YG&rs=AOn4CLBrCiyahbRzEKfdc_lM4WPZGFLT8g"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "🔥 Complete Microsoft Excel Tutorial in Hindi for Excel Users | MS Excel Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=-s8gtcdN6bE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-s8gtcdN6bE",
+      "video_id": "-s8gtcdN6bE",
+      "channel": {
+        "name": "My Computer Course",
+        "link": "https://www.youtube.com/@MyComputerCourse",
+        "thumbnail": "https://yt3.ggpht.com/CW6mvl6U_eD9jZjoYG6IPHNMwamZmMrHzfPTJqI3NjpFu9zmOfz33z8rW4nzgbNbKzbkb0yD=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 81911,
+      "length": "3:03:46",
+      "description": "Join Our Pendrive Course - https://offline.pcskill.in/ Download App Now - https://bit.ly/3ZyV0rw अभी अपना ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-s8gtcdN6bE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrS-Y4wwt-jAp1W_0X3TiONsAlkg",
+        "rich": "https://i.ytimg.com/an_webp/-s8gtcdN6bE/mqdefault_6s.webp?du=3000&sqp=COSYo9YG&rs=AOn4CLC2DxDODpgo3TgJFXQRW4sSQdwRGg"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Complete Microsoft Excel Tutorial In Hindi | Excel Tutorial for Beginners in Hindi | Excel Course",
+      "link": "https://www.youtube.com/watch?v=mZU8pXgxohk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mZU8pXgxohk",
+      "video_id": "mZU8pXgxohk",
+      "channel": {
+        "name": "STP Computer Education",
+        "link": "https://www.youtube.com/@STPComputerEducation",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/60iEiBs02hquyz6Q03yu2M3qTDdYjw2UlCF8z_q-b-vqSTAqh69PbxEmapxUcxpFpxJTW3H_kvc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 74636,
+      "length": "5:45:34",
+      "description": "Advance Excel Free Online Course 2022 Excel Free online Course With Certificate Excel Tutorial for Beginners in Hindi ...",
+      "extensions": [
+        "Professional Training"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/mZU8pXgxohk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKaFknhCHtaHw_jv_guPKomR-YLA",
+        "rich": "https://i.ytimg.com/an_webp/mZU8pXgxohk/mqdefault_6s.webp?du=3000&sqp=CP-Io9YG&rs=AOn4CLDe1KWwAH-Bx9dXvpW-SdQZO1o41Q"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Excel With AI from Beginner to Advanced (2026) |  Full Step-by-Step Excel Course with A.I.",
+      "link": "https://www.youtube.com/watch?v=M9qep_edyQU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=M9qep_edyQU",
+      "video_id": "M9qep_edyQU",
+      "channel": {
+        "name": "Deepak EduWorld",
+        "link": "https://www.youtube.com/@DeepakEduWorld",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/KMB-rIyttCs4JOIEAKrZDlXgQP7STmu-u7VrRsaE_hhk3TD4h7OVV046z6Su6mk6QgHleae3=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 93853,
+      "length": "2:33:58",
+      "description": "Excel With A.I. from Beginner to Advanced (2026) | Full Step-by-Step Excel Course with AI in Hindi Excel Tutorial for beginners ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/M9qep_edyQU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhPcGUt27X9MfytRwhh1LKZoPD3g",
+        "rich": "https://i.ytimg.com/an_webp/M9qep_edyQU/mqdefault_6s.webp?du=3000&sqp=CIGTo9YG&rs=AOn4CLCBqe-PV2DvLKLM_cNi9dJQvsBKgw"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "MS Excel Tutorial in Hindi 🔥| Full Microsoft Excel Course (Basic to Advanced)",
+      "link": "https://www.youtube.com/watch?v=ZcAM8uClHGY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZcAM8uClHGY",
+      "video_id": "ZcAM8uClHGY",
+      "channel": {
+        "name": "WsCube Tech",
+        "link": "https://www.youtube.com/@wscubetech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4FfycrkxlH3gF9HMpPqAmChY3kIH5gWdVNuYjqBGd5j0SpF-ALs6sVSfCQ-5qPyZYgJ79H0QKfA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 293523,
+      "length": "1:27:26",
+      "description": "MS Excel Tutorial in Hindi | Full Microsoft Excel Course (Basic to Advanced) Timestamps: 00:00:00 -Introduction to MS Excel ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZcAM8uClHGY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwpb9U-lwyPTyCtbb2Yi2x3vUDqg",
+        "rich": "https://i.ytimg.com/an_webp/ZcAM8uClHGY/mqdefault_6s.webp?du=3000&sqp=CLCVo9YG&rs=AOn4CLBkhxkSytKE-lzrhFDtgzlDtXwDIA"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Complete Excel Full Course in Hindi | 5 Hours Masterclass (Zero to Hero)",
+      "link": "https://www.youtube.com/watch?v=m3mLToiQTXA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=m3mLToiQTXA",
+      "video_id": "m3mLToiQTXA",
+      "channel": {
+        "name": "Master Tech Education",
+        "link": "https://www.youtube.com/@MasterTechEducation",
+        "thumbnail": "https://yt3.ggpht.com/r9Pd6SdYrOr8pW0dgicCiV8NYZxxsHV5KnLQwqyF5TGEyANfDrj5p9oHqqAfUwZgGSLssvgr7Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3w ago",
+      "views": 2314,
+      "length": "5:03:31",
+      "description": "Welcome to the Complete Excel Full Course! In this 5-hour mega masterclass, you will learn Microsoft Excel from absolute basics ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/m3mLToiQTXA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqVyNOrm7xeiOkNQGCE8eQAJLPPw",
+        "rich": "https://i.ytimg.com/an_webp/m3mLToiQTXA/mqdefault_6s.webp?du=3000&sqp=CKD8otYG&rs=AOn4CLDAsA5ACgQtxf0zGtYH6-_Ch3KFdg"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "MS Excel Full Course in Hindi | Basic to Advanced | Learn Excel in Just 3 Hours",
+      "link": "https://www.youtube.com/watch?v=Kjz_DDO4Fzs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Kjz_DDO4Fzs",
+      "video_id": "Kjz_DDO4Fzs",
+      "channel": {
+        "name": "The iScale",
+        "link": "https://www.youtube.com/@theiScale",
+        "thumbnail": "https://yt3.ggpht.com/iDcdiFBiAoOQLDJLqgXdehZZBKXT3JBxngDQkAwsHJ88sH8Q3XtBzAy5eNjUUTK2x4DZr35IRA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 2852398,
+      "length": "3:10:10",
+      "description": "Download the notes from here https://www.theiscale.com/DataAnalytics/ms-excel-full-course-in-hindi-basic-to-advanced Excel ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Kjz_DDO4Fzs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIRTM1CxhezyWeiKZKxhRyp4LWIg",
+        "rich": "https://i.ytimg.com/an_webp/Kjz_DDO4Fzs/mqdefault_6s.webp?du=3000&sqp=CPz5otYG&rs=AOn4CLBKsC8qWVST8JAkHfgU_XYY4JG72Q"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Excel Tutorial for Beginners in Hindi - Complete Microsoft Excel tutorial in Hindi for Excel users",
+      "link": "https://www.youtube.com/watch?v=5wM0GCEFCic",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5wM0GCEFCic",
+      "video_id": "5wM0GCEFCic",
+      "channel": {
+        "name": "Computer Gyan",
+        "link": "https://www.youtube.com/@ComputerGyan1",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_miu-FTjUS4m3L8rGWZgK_O8iqyJKBI4PG22JCNLxPbSA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 4811822,
+      "length": "1:07:48",
+      "description": "Excel Tutorial for Beginners in Hindi - Complete Microsoft Excel tutorial in Hindi for Excel users\n#excel  #exceltutorial ...",
+      "extensions": [
+        "2 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5wM0GCEFCic/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASF7IYCk1Cc4dYnx6Cp9Kb5UowVA",
+        "rich": "https://i.ytimg.com/an_webp/5wM0GCEFCic/mqdefault_6s.webp?du=3000&sqp=CKyXo9YG&rs=AOn4CLBAWuo7ezM2_snIaJzpmo0TNV9zJg"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Excel Full Course In Hindi | MS Excel Tutorial For Beginners In Hindi | Complete Course",
+      "link": "https://www.youtube.com/watch?v=UfAIlZaQZJA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UfAIlZaQZJA",
+      "video_id": "UfAIlZaQZJA",
+      "channel": {
+        "name": "Micro Solution",
+        "link": "https://www.youtube.com/@micro_solution",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ngtUAGaW27L9ErgzAeWtobDs5DpJ96tDVsOrqSH7fY3xQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2166997,
+      "length": "3:38:02",
+      "description": "This is Excel Full Course In Hindi. After completing this Microsoft Excel Course you will be able to getting job because this is ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/UfAIlZaQZJA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbxrA3gGuuktwXa6J06FbjasHflQ",
+        "rich": "https://i.ytimg.com/an_webp/UfAIlZaQZJA/mqdefault_6s.webp?du=3000&sqp=CICSo9YG&rs=AOn4CLDxqfGRzXK95Am_SLfBCTvpvKUzUw"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Excel+tutorial+in+Hindi&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Excel%20tutorial%20in%20Hindi&sp=EgIYAkgUggELT1gtaXliLTIxdGuCAQtxODVuMVJRQmpub4IBC0Z0UWtfdFBuRDRJggELcEFoempnUXpOWmOCAQtlZURLbTlpVEUzVYIBC1kxTk5RVjhNZG5BggELd0dCS0k2Qjk0NXeCAQtmY2JCMG5rRGlrOIIBC1F6VkQwSExRMXlZggELNUZqMlJWODFOLUWCAQtGcWozcGMtY0tTRYIBC3l5anRGeWMtcnhFggELLXM4Z3RjZE42YkWCAQttWlU4cFhneG9oa4IBC005cWVwX2VkeVFVggELWmNBTTh1Q2xIR1mCAQttM21MVG9pUVRYQYIBC0tqel9ERE80RnpzggELNXdNMEdDRUZDaWOCAQtVZkFJbFphUVpKQbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELT1gtaXliLTIxdGuCAQtxODVuMVJRQmpub4IBC0Z0UWtfdFBuRDRJggELcEFoempnUXpOWmOCAQtlZURLbTlpVEUzVYIBC1kxTk5RVjhNZG5BggELd0dCS0k2Qjk0NXeCAQtmY2JCMG5rRGlrOIIBC1F6VkQwSExRMXlZggELNUZqMlJWODFOLUWCAQtGcWozcGMtY0tTRYIBC3l5anRGeWMtcnhFggELLXM4Z3RjZE42YkWCAQttWlU4cFhneG9oa4IBC005cWVwX2VkeVFVggELWmNBTTh1Q2xIR1mCAQttM21MVG9pUVRYQYIBC0tqel9ERE80RnpzggELNXdNMEdDRUZDaWOCAQtVZkFJbFphUVpKQbIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Excel+tutorial+in+Hindi&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Excel+tutorial+in+Hindi&sp=EgIYAkgUggELT1gtaXliLTIxdGuCAQtxODVuMVJRQmpub4IBC0Z0UWtfdFBuRDRJggELcEFoempnUXpOWmOCAQtlZURLbTlpVEUzVYIBC1kxTk5RVjhNZG5BggELd0dCS0k2Qjk0NXeCAQtmY2JCMG5rRGlrOIIBC1F6VkQwSExRMXlZggELNUZqMlJWODFOLUWCAQtGcWozcGMtY0tTRYIBC3l5anRGeWMtcnhFggELLXM4Z3RjZE42YkWCAQttWlU4cFhneG9oa4IBC005cWVwX2VkeVFVggELWmNBTTh1Q2xIR1mCAQttM21MVG9pUVRYQYIBC0tqel9ERE80RnpzggELNXdNMEdDRUZDaWOCAQtVZkFJbFphUVpKQbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELT1gtaXliLTIxdGuCAQtxODVuMVJRQmpub4IBC0Z0UWtfdFBuRDRJggELcEFoempnUXpOWmOCAQtlZURLbTlpVEUzVYIBC1kxTk5RVjhNZG5BggELd0dCS0k2Qjk0NXeCAQtmY2JCMG5rRGlrOIIBC1F6VkQwSExRMXlZggELNUZqMlJWODFOLUWCAQtGcWozcGMtY0tTRYIBC3l5anRGeWMtcnhFggELLXM4Z3RjZE42YkWCAQttWlU4cFhneG9oa4IBC005cWVwX2VkeVFVggELWmNBTTh1Q2xIR1mCAQttM21MVG9pUVRYQYIBC0tqel9ERE80RnpzggELNXdNMEdDRUZDaWOCAQtVZkFJbFphUVpKQbIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:15:53 UTC"
+}

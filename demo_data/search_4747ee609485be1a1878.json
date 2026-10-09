@@ -1,0 +1,475 @@
+{
+  "search_metadata": {
+    "id": "6ac8ccf485f8c6eeb82b92c9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/WAIdGK9eYjg1zPAQvt4AchM_bwdVKcm0POcEmqM9v_8/6ac8ccf485f8c6eeb82b92c9.json",
+    "markdown_endpoint": "https://serpapi.com/searches/WAIdGK9eYjg1zPAQvt4AchM_bwdVKcm0POcEmqM9v_8/6ac8ccf485f8c6eeb82b92c9.md",
+    "created_at": "2026-10-09 11:16:04 UTC",
+    "processed_at": "2026-10-09 11:16:04 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=JavaScript+tutorial+in+Hindi&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/WAIdGK9eYjg1zPAQvt4AchM_bwdVKcm0POcEmqM9v_8/6ac8ccf485f8c6eeb82b92c9.html",
+    "total_time_taken": 3.74
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "JavaScript tutorial in Hindi",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 4715865,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "JavaScript Tutorial In Hindi",
+      "link": "https://www.youtube.com/watch?v=hKB-YGF14SY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hKB-YGF14SY",
+      "video_id": "hKB-YGF14SY",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 7543770,
+      "length": "3:44:17",
+      "description": "00:00 – Video Introduction 01:10 – JavaScript Introduction 02:43 – Basics of JavaScript 04:55 – Coding First Line of JavaScript ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hKB-YGF14SY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaYvr0TwbQEg2_vZhrKVkByf5hNQ",
+        "rich": "https://i.ytimg.com/an_webp/hKB-YGF14SY/mqdefault_6s.webp?du=3000&sqp=CMaHo9YG&rs=AOn4CLDilMcmDkPGG8GN5-m3d4uYy85eZg"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "JavaScript Complete Tutorial in Hindi 🚀 Free Notes + Codes",
+      "link": "https://www.youtube.com/watch?v=KGkiIBTq0y0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=KGkiIBTq0y0",
+      "video_id": "KGkiIBTq0y0",
+      "channel": {
+        "name": "Thapa Technical",
+        "link": "https://www.youtube.com/@ThapaTechnical",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kFzvYt5kK5zhvKTRxXdB4th3a4y0b9zkedbplF6GnyOis=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 3608043,
+      "length": "16:21:00",
+      "description": "Join the LIVE JavaScript Masterclass starting 5th Sept 2025 with Thapa Technical! Enroll Now: https://youtu.be/ve-cehDzqrY ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/KGkiIBTq0y0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAnQX4nRw0AWiwgk5dFIxnOc1KLA",
+        "rich": "https://i.ytimg.com/an_webp/KGkiIBTq0y0/mqdefault_6s.webp?du=3000&sqp=CLjzotYG&rs=AOn4CLBAubpb8BLTugPBoDy_QlKf7VZm-g"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "JavaScript Full Course in Hindi 2026 | Complete JavaScript Tutorial for Beginners to Advanced",
+      "link": "https://www.youtube.com/watch?v=-SiSs97Zybk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-SiSs97Zybk",
+      "video_id": "-SiSs97Zybk",
+      "channel": {
+        "name": "Code Step By Step",
+        "link": "https://www.youtube.com/@codestepbystep",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lpwLOOTumlQiiMYMHbBgJfQXVyRBGrZdTZ6NbtY-YA8wg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 18772,
+      "length": "11:43:52",
+      "description": "Learn JavaScript from scratch with this Complete JavaScript Course in Hindi this video made by anil sidhu. This course is ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-SiSs97Zybk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdsqGoCnI0U0ZQo-_npWbK0TbCxw",
+        "rich": "https://i.ytimg.com/an_webp/-SiSs97Zybk/mqdefault_6s.webp?du=3000&sqp=CLKXo9YG&rs=AOn4CLDXWCkzcvhPljJQFNV6cmkEcebi5g"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Javascript Tutorial for Beginners -  Test Automation",
+      "link": "https://www.youtube.com/watch?v=IQuG77FNMhw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IQuG77FNMhw",
+      "video_id": "IQuG77FNMhw",
+      "channel": {
+        "name": "Rahul Shetty Academy",
+        "link": "https://www.youtube.com/@RahulShettyAcademy",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_jXMcPuRGyGJvPNQV7ZNTWGU3jEa-GzIN4aMyelP9qw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 111796,
+      "length": "2:55:00",
+      "description": "In this 3 hours video, With my easy teaching, You will master JavaScript Core concepts from Scratch which greatly helps for Test ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/IQuG77FNMhw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdH3lsVdgdpaOy1Cq1QI2uk0kSQQ"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "JavaScript Course for Beginners – Your First Step to Web Development",
+      "link": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=W6NZfCO5SIk",
+      "video_id": "W6NZfCO5SIk",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 15365620,
+      "length": "48:17",
+      "description": "Learn JavaScript basics with this quick, beginner-friendly course! ⚡ Perfect for new coders ready to build real skills and start ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/W6NZfCO5SIk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOBWmb1XE5qRd1xinBxZPfYfXoEg",
+        "rich": "https://i.ytimg.com/an_webp/W6NZfCO5SIk/mqdefault_6s.webp?du=3000&sqp=CJaWo9YG&rs=AOn4CLCaWAnMbqvEy7LidLpDB4hZ_Gs7Cw"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "JavaScript Tutorial (2024) for Beginners to Pro (with Notes, Projects & Practice Questions)",
+      "link": "https://www.youtube.com/watch?v=VlPiVmYuoqw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VlPiVmYuoqw",
+      "video_id": "VlPiVmYuoqw",
+      "channel": {
+        "name": "Apna College",
+        "link": "https://www.youtube.com/@ApnaCollegeOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FEcjRtez5od8UowDo6tTt9WlE-MrIFEmcwPMTORmK9Swk6KCklOmA3xfIG9WuLWfNYfNThQE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 6956079,
+      "length": "11:47:14",
+      "description": "Notes available at : https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link Code for ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/VlPiVmYuoqw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ-84koy6tL6gVcuSdM6EhiYtJuQ",
+        "rich": "https://i.ytimg.com/an_webp/VlPiVmYuoqw/mqdefault_6s.webp?du=3000&sqp=CPiYo9YG&rs=AOn4CLBmAF32oY9dmm9bFpgcwTTh3Qpzew"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "JavaScript Full Course Tutorial for Beginners in Hindi🔥Free Notes with 10+ Projects | P-1",
+      "link": "https://www.youtube.com/watch?v=13gLB6hDHR8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=13gLB6hDHR8",
+      "video_id": "13gLB6hDHR8",
+      "channel": {
+        "name": "Thapa Technical",
+        "link": "https://www.youtube.com/@ThapaTechnical",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kFzvYt5kK5zhvKTRxXdB4th3a4y0b9zkedbplF6GnyOis=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1061781,
+      "length": "11:58:16",
+      "description": "Become a JavaScript Master in One Video in Hindi Welcome to our complete JavaScript Course Tutorial for Beginners in Hindi, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/13gLB6hDHR8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFayNORdKObtAvUnfBbNqStzYy6Q",
+        "rich": "https://i.ytimg.com/an_webp/13gLB6hDHR8/mqdefault_6s.webp?du=3000&sqp=CPeOo9YG&rs=AOn4CLCgEL1hnE1S1zzrvDm7CsDN8jgqZg"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "JavaScript Tutorial for Beginners | Full Course to Learn What is JavaScript in Hindi",
+      "link": "https://www.youtube.com/watch?v=Kdz9J5vC4_o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Kdz9J5vC4_o",
+      "video_id": "Kdz9J5vC4_o",
+      "channel": {
+        "name": "WsCube Tech",
+        "link": "https://www.youtube.com/@wscubetech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4FfycrkxlH3gF9HMpPqAmChY3kIH5gWdVNuYjqBGd5j0SpF-ALs6sVSfCQ-5qPyZYgJ79H0QKfA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 921915,
+      "length": "2:51:35",
+      "description": "In this free JavaScript tutorial for beginners in Hindi from WsCube Tech, you will learn the programming language from basic to ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Kdz9J5vC4_o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvQIeU9FRJjHFNFz2iwJImE0udqQ",
+        "rich": "https://i.ytimg.com/an_webp/Kdz9J5vC4_o/mqdefault_6s.webp?du=3000&sqp=CKCFo9YG&rs=AOn4CLBfHqiflla9fG042OQKUCH4FfFfpw"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Complete JavaScript Course 2026 in Hindi | Beginner to Advanced | Full Tutorial",
+      "link": "https://www.youtube.com/watch?v=woUkblFsm40",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=woUkblFsm40",
+      "video_id": "woUkblFsm40",
+      "channel": {
+        "name": "Code with Technyks",
+        "link": "https://www.youtube.com/@CodewithTechnyksofficial",
+        "thumbnail": "https://yt3.ggpht.com/aAfDtrPk206khfH_24XVNQ1hZx8JjL5ioKLf8cL9soo1PSmUbtfoO8Qi3s12sCJ_neoFJIJTR-U=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 72422,
+      "length": "13:06:15",
+      "description": "Master JavaScript in Hindi with this complete step-by-step tutorial for 2025! Whether a beginner or looking to enhance your skills, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/woUkblFsm40/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5PgIYhRv1aaRRzpIIhgy-Z1cBjA",
+        "rich": "https://i.ytimg.com/an_webp/woUkblFsm40/mqdefault_6s.webp?du=3000&sqp=CIHVotYG&rs=AOn4CLAyC6hetcvkB3FST3PO82AnJH3psA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Learn All the JavaScript Basics in 20 Minutes",
+      "link": "https://www.youtube.com/watch?v=xKOyDDuQSVY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xKOyDDuQSVY",
+      "video_id": "xKOyDDuQSVY",
+      "channel": {
+        "name": "Coding2GO",
+        "link": "https://www.youtube.com/@coding2go",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 191656,
+      "length": "20:32",
+      "description": "Get my JavaScript Course: https://coding2go.com/products/javascript-masterclass This video is a JavaScript tutorial for beginners ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xKOyDDuQSVY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD35mKweEB9knJiwTqA-HDMfUS1yQ",
+        "rich": "https://i.ytimg.com/an_webp/xKOyDDuQSVY/mqdefault_6s.webp?du=3000&sqp=CI7hotYG&rs=AOn4CLBgG7ln_YTJhcq4C-tomI94zWCKvw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "JavaScript Tutorial in Hindi | JavaScript in One Shot | Beginner to Advanced",
+      "link": "https://www.youtube.com/watch?v=B8RcOKRCe0w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=B8RcOKRCe0w",
+      "video_id": "B8RcOKRCe0w",
+      "channel": {
+        "name": "CodeFlow with Durgesh",
+        "link": "https://www.youtube.com/@codeflowwithdurgesh",
+        "thumbnail": "https://yt3.ggpht.com/E83tllmY34RUfpdADDPsqexU6usfKeYyglM5lYyJb2aAhx6ZBmYVTw-RW8hGFAsq-w794S2iFg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4w ago",
+      "views": 493,
+      "length": "6:02:26",
+      "description": "Learn JavaScript from Beginner to Advanced in this complete One Shot tutorial in Hindi! This video takes you through JavaScript ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/B8RcOKRCe0w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKf0bnyYBtbIWUbZehA9IHJV7phQ",
+        "rich": "https://i.ytimg.com/an_webp/B8RcOKRCe0w/mqdefault_6s.webp?du=3000&sqp=CJiXo9YG&rs=AOn4CLDOYhZDV503hAB8Lfs0rJOKev3bGQ"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "JavaScript |  Beginning to Mastery Complete Tutorial (Part 1)",
+      "link": "https://www.youtube.com/watch?v=chx9Rs41W6g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=chx9Rs41W6g",
+      "video_id": "chx9Rs41W6g",
+      "channel": {
+        "name": "Harshit vashisth",
+        "link": "https://www.youtube.com/@Harshitvashisth",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_noTjuPxp7QDTyD9z2eITMhrrLULvEmjAEZwABaEq7t5uU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2515959,
+      "length": "11:08:33",
+      "description": "Complete modern javascript/es6 tutorial in Hindi (2021) Source code ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/chx9Rs41W6g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ5qck7VM1_G8DS_QEqMRnNGprvA",
+        "rich": "https://i.ytimg.com/an_webp/chx9Rs41W6g/mqdefault_6s.webp?du=3000&sqp=CNCCo9YG&rs=AOn4CLBS_iq4LBMEHP6ZSRwSL2_XSi1Qrw"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Javascript in 1 shot in Hindi | part 1",
+      "link": "https://www.youtube.com/watch?v=sscX432bMZo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sscX432bMZo",
+      "video_id": "sscX432bMZo",
+      "channel": {
+        "name": "Chai aur Code",
+        "link": "https://www.youtube.com/@chaiaurcode",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/6tLBV-DRVemxhmanuezR5HkHshX2g7Y46Rq8cysyO1V-nd2SaQ2Fi8cdgVM-n6v_8XZ5BEimxXI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 2413384,
+      "length": "9:02:21",
+      "description": "Visit https://chaicode.com for all related materials, community help, source code etc. 00:00:00 - Javascript for beginners 00:05:04 ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/sscX432bMZo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7eI4q03nCgE_zN1Pwoy4l3mR4JA",
+        "rich": "https://i.ytimg.com/an_webp/sscX432bMZo/mqdefault_6s.webp?du=3000&sqp=COzfotYG&rs=AOn4CLAJsq3vs3SAaf6zV0pjLfsU0tbGZw"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "JavaScript Full Course | JavaScript - Learn Everything | Sheryians Coding School",
+      "link": "https://www.youtube.com/watch?v=a-wVHL0lpb0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=a-wVHL0lpb0",
+      "video_id": "a-wVHL0lpb0",
+      "channel": {
+        "name": "Sheryians Coding School",
+        "link": "https://www.youtube.com/@sheryians",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/t8z86Svc4diX-k6VHCZ7AY0EFgVin91qLZigPwJLnavVaB0YPa0etWa-c7bG1BUEcbB4U4im=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 2028676,
+      "length": "8:04:12",
+      "description": "Learn everything about JavaScript in this full course, from the absolute basics to advanced concepts, explained in the simplest ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/a-wVHL0lpb0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7vUV-bXkwDoH91arrIcKYNJ-0WQ",
+        "rich": "https://i.ytimg.com/an_webp/a-wVHL0lpb0/mqdefault_6s.webp?du=3000&sqp=CMCHo9YG&rs=AOn4CLAHLw2A__zL241t8UqCyIY6GD1rdQ"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Learn JavaScript - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PkZNo7MFNFg",
+      "video_id": "PkZNo7MFNFg",
+      "channel": {
+        "name": "freeCodeCamp.org and Beau Carnes",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 21074863,
+      "length": "3:26:43",
+      "description": "This complete 134-part JavaScript tutorial for beginners will teach you everything you need to know to get started with the ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/PkZNo7MFNFg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWGmAFXkqN3F-QqhVaqBWJY2ltFw",
+        "rich": "https://i.ytimg.com/an_webp/PkZNo7MFNFg/mqdefault_6s.webp?du=3000&sqp=CNDuotYG&rs=AOn4CLCYuDyZqML-9irBdmW25StF0DeViQ"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Async/Await in JavaScript | JavaScript Tutorial in Hindi #59",
+      "link": "https://www.youtube.com/watch?v=bLre6Uf4Op0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bLre6Uf4Op0",
+      "video_id": "bLre6Uf4Op0",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 378265,
+      "length": "20:08",
+      "description": "Link to the Repl - https://replit.com/@codewithharry/59AsyncAwait Join Replit - https://join.replit.com/CodeWithHarry Download ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bLre6Uf4Op0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcxZuH4qCX8cHK4OuWt5AuP6_mHw",
+        "rich": "https://i.ytimg.com/an_webp/bLre6Uf4Op0/mqdefault_6s.webp?du=3000&sqp=CKn2otYG&rs=AOn4CLDl47dZ1bjsL8uAdnZ6tw0jc-P4KQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "JavaScript Full course in 2026",
+      "link": "https://www.youtube.com/watch?v=6_NrgoEkjnE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6_NrgoEkjnE",
+      "video_id": "6_NrgoEkjnE",
+      "channel": {
+        "name": "Coder Army",
+        "link": "https://www.youtube.com/@CoderArmy9",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/L5V_uwm8Dg7o40NU9gQ_c-r3TC6dkMxVil0fBG_N_wYnnSaHZc1dVYNlRNUy4U1gd5ViZR9V=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 113736,
+      "length": "22:19:12",
+      "description": "This is complete course of Javascript",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6_NrgoEkjnE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1rx5s8EnEcbPNiSMavRccPVz5WQ",
+        "rich": "https://i.ytimg.com/an_webp/6_NrgoEkjnE/mqdefault_6s.webp?du=3000&sqp=CKuXo9YG&rs=AOn4CLDhji1c05zFQG9iSFjhPRxho3dCuw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "🚀 Essential JavaScript Concepts Before Learning Any JS Framework | JavaScript Tutorial",
+      "link": "https://www.youtube.com/watch?v=ZyJWzX_wViI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZyJWzX_wViI",
+      "video_id": "ZyJWzX_wViI",
+      "channel": {
+        "name": "Learn Code With Durgesh",
+        "link": "https://www.youtube.com/@LearnCodeWithDurgesh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/MWcCw6O9LiQqjOjyY-FnqTjo6ZgiiHRtCMulKTqSifiulpKXQewWEPfbiPyZLjpbNFwQTv-m=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 8028,
+      "length": "1:21:30",
+      "description": "In this video we are going to learn about javascript important concepts required for lean any framework like react js , nextjs ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZyJWzX_wViI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALge6fqzvl2-tEieI44z6i0zJkSw",
+        "rich": "https://i.ytimg.com/an_webp/ZyJWzX_wViI/mqdefault_6s.webp?du=3000&sqp=CJrhotYG&rs=AOn4CLDU2_MzpJkMwliu-xwMFzg8X-e9IA"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "JavaScript Tutorial For Beginners in Hindi | Complete JavaScript Course | Part-1 🔥",
+      "link": "https://www.youtube.com/watch?v=129DrAm7G3g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=129DrAm7G3g",
+      "video_id": "129DrAm7G3g",
+      "channel": {
+        "name": "Suraj Jha",
+        "link": "https://www.youtube.com/@codebysuraj",
+        "thumbnail": "https://yt3.ggpht.com/lXfswcRbO880tJOSl6DBlqPAmQrM8uFXWYs1vStCWqdyHR-89lsyQhfBaxcX6z7Zyoa9QJ5ZeA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 6296,
+      "length": "7:05:20",
+      "description": "Master JavaScript Fundamentals – Complete Beginner Guide (2025 Edition)** Welcome to the ultimate beginner-friendly guide to ...",
+      "extensions": [
+        "4K",
+        "Beginner"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/129DrAm7G3g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwXQMdomaz3PymcUQPCui_Ylmddg",
+        "rich": "https://i.ytimg.com/an_webp/129DrAm7G3g/mqdefault_6s.webp?du=3000&sqp=CPiDo9YG&rs=AOn4CLBHiWNqSjKXQ675y6oHVfJSjAVVJQ"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "JavaScript FULL Course for Beginner to PRO in 14 Hours (Projects + Questions)",
+      "link": "https://www.youtube.com/watch?v=D_Zj9RKYXsE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=D_Zj9RKYXsE",
+      "video_id": "D_Zj9RKYXsE",
+      "channel": {
+        "name": "WsCube AI & Tech School",
+        "link": "https://www.youtube.com/@wscubeaiandtechschool",
+        "thumbnail": "https://yt3.ggpht.com/4xS1fYPXfgbQEQAoaquU1LQcBDbt9uLRE60Dv6G6F8oOKL7hCaTVWXQtSnglo22c4ovpKmn4SQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 95223,
+      "length": "14:02:41",
+      "description": "JavaScript FULL Course for Beginner to PRO in 14 Hours (Projects + Questions) Whether you're taking your very first shot at ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/D_Zj9RKYXsE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu1jKHWU_h-qe77KOTpZomjF6gmg",
+        "rich": "https://i.ytimg.com/an_webp/D_Zj9RKYXsE/mqdefault_6s.webp?du=3000&sqp=CO7aotYG&rs=AOn4CLDJ6NVgD76F3Elh5Z8hpxm1z7auNQ"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=JavaScript+tutorial+in+Hindi&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=JavaScript%20tutorial%20in%20Hindi&sp=EgIYAkgUggELaEtCLVlHRjE0U1mCAQtLR2tpSUJUcTB5MIIBCy1TaVNzOTdaeWJrggELSVF1Rzc3Rk5NaHeCAQtXNk5aZkNPNVNJa4IBC1ZsUGlWbVl1b3F3ggELMTNnTEI2aERIUjiCAQtLZHo5SjV2QzRfb4IBC3dvVWtibEZzbTQwggELeEtPeUREdVFTVlmCAQtCOFJjT0tSQ2Uwd4IBC2NoeDlSczQxVzZnggELc3NjWDQzMmJNWm-CAQthLXdWSEwwbHBiMIIBC1BrWk5vN01GTkZnggELYkxyZTZVZjRPcDCCAQs2X05yZ29Fa2puRYIBC1p5Sld6WF93VmlJggELMTI5RHJBbTdHM2eCAQtEX1pqOVJLWVhzRbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELaEtCLVlHRjE0U1mCAQtLR2tpSUJUcTB5MIIBCy1TaVNzOTdaeWJrggELSVF1Rzc3Rk5NaHeCAQtXNk5aZkNPNVNJa4IBC1ZsUGlWbVl1b3F3ggELMTNnTEI2aERIUjiCAQtLZHo5SjV2QzRfb4IBC3dvVWtibEZzbTQwggELeEtPeUREdVFTVlmCAQtCOFJjT0tSQ2Uwd4IBC2NoeDlSczQxVzZnggELc3NjWDQzMmJNWm-CAQthLXdWSEwwbHBiMIIBC1BrWk5vN01GTkZnggELYkxyZTZVZjRPcDCCAQs2X05yZ29Fa2puRYIBC1p5Sld6WF93VmlJggELMTI5RHJBbTdHM2eCAQtEX1pqOVJLWVhzRbIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=JavaScript+tutorial+in+Hindi&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=JavaScript+tutorial+in+Hindi&sp=EgIYAkgUggELaEtCLVlHRjE0U1mCAQtLR2tpSUJUcTB5MIIBCy1TaVNzOTdaeWJrggELSVF1Rzc3Rk5NaHeCAQtXNk5aZkNPNVNJa4IBC1ZsUGlWbVl1b3F3ggELMTNnTEI2aERIUjiCAQtLZHo5SjV2QzRfb4IBC3dvVWtibEZzbTQwggELeEtPeUREdVFTVlmCAQtCOFJjT0tSQ2Uwd4IBC2NoeDlSczQxVzZnggELc3NjWDQzMmJNWm-CAQthLXdWSEwwbHBiMIIBC1BrWk5vN01GTkZnggELYkxyZTZVZjRPcDCCAQs2X05yZ29Fa2puRYIBC1p5Sld6WF93VmlJggELMTI5RHJBbTdHM2eCAQtEX1pqOVJLWVhzRbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELaEtCLVlHRjE0U1mCAQtLR2tpSUJUcTB5MIIBCy1TaVNzOTdaeWJrggELSVF1Rzc3Rk5NaHeCAQtXNk5aZkNPNVNJa4IBC1ZsUGlWbVl1b3F3ggELMTNnTEI2aERIUjiCAQtLZHo5SjV2QzRfb4IBC3dvVWtibEZzbTQwggELeEtPeUREdVFTVlmCAQtCOFJjT0tSQ2Uwd4IBC2NoeDlSczQxVzZnggELc3NjWDQzMmJNWm-CAQthLXdWSEwwbHBiMIIBC1BrWk5vN01GTkZnggELYkxyZTZVZjRPcDCCAQs2X05yZ29Fa2puRYIBC1p5Sld6WF93VmlJggELMTI5RHJBbTdHM2eCAQtEX1pqOVJLWVhzRbIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:16:04 UTC"
+}

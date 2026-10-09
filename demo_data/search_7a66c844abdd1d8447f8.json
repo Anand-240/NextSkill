@@ -1,0 +1,477 @@
+{
+  "search_metadata": {
+    "id": "6ac8cced792d6896e515ce89",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Tqpv5AAZ96MBTq2byAzyLrARtdUJ-HOOF0LFVdnNkLk/6ac8cced792d6896e515ce89.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Tqpv5AAZ96MBTq2byAzyLrARtdUJ-HOOF0LFVdnNkLk/6ac8cced792d6896e515ce89.md",
+    "created_at": "2026-10-09 11:15:57 UTC",
+    "processed_at": "2026-10-09 11:15:57 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=SQL+tutorial+in+Hindi&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/Tqpv5AAZ96MBTq2byAzyLrARtdUJ-HOOF0LFVdnNkLk/6ac8cced792d6896e515ce89.html",
+    "total_time_taken": 3.68
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "SQL tutorial in Hindi",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 4314296,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "SQL Tutorial for Beginners | Full SQL Course In Hindi",
+      "link": "https://www.youtube.com/watch?v=On9eSN3F8w0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=On9eSN3F8w0",
+      "video_id": "On9eSN3F8w0",
+      "channel": {
+        "name": "Rishabh Mishra",
+        "link": "https://www.youtube.com/@RishabhMishraOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/EtUb4FRhCrBiXVQ-TbSlLeTTyhrxPss3zdJUFwqHvCGLOb9dRKDPU3dw8xHUtWR-AJelpJ1CQQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 3247076,
+      "length": "2:34:45",
+      "description": "SQL Tutorial for Beginners - Learn complete SQL from basics to advance in one video. This course is for beginners (with zero ...",
+      "extensions": [
+        "CC",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/On9eSN3F8w0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVQsLUM9ijjf456dfkq99r9TYD0A",
+        "rich": "https://i.ytimg.com/an_webp/On9eSN3F8w0/mqdefault_6s.webp?du=3000&sqp=CKn8otYG&rs=AOn4CLDcJL1hsYsz8GtNBLzSYz0UqPnR3Q"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Master SQL in One Video 💻 | Full SQL Course in Hindi (Beginner to Advanced 2026)",
+      "link": "https://www.youtube.com/watch?v=a4xjpxzqN1Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=a4xjpxzqN1Q",
+      "video_id": "a4xjpxzqN1Q",
+      "channel": {
+        "name": "Learn More",
+        "link": "https://www.youtube.com/@Learn_More_Pro",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/eQJKdbw2JKuelQ1Z1udfD4j7-3avK_eq1j2Of2JSV4RLtQcXuwix0jWFrk1C1f0ApQqN_bi8Nj8=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 488570,
+      "length": "8:03:04",
+      "description": "In this video, you will learn SQL from beginner to advanced level in one complete course. This SQL full course in Hindi is ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/a4xjpxzqN1Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkjNmGEXSZL4H4x-O1emfbeVuknw",
+        "rich": "https://i.ytimg.com/an_webp/a4xjpxzqN1Q/mqdefault_6s.webp?du=3000&sqp=CIzlotYG&rs=AOn4CLBz01PlqgOdO2zOcqtdHdd_nuAphw"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "SQL Tutorial for Beginners in Hindi (SQL Full Course) - Great Learning",
+      "link": "https://www.youtube.com/watch?v=1dWCqjhvF58",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1dWCqjhvF58",
+      "video_id": "1dWCqjhvF58",
+      "channel": {
+        "name": "Great Learning",
+        "link": "https://www.youtube.com/@greatlearning",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m_o6r4liwONXrrjZ2v2ZJ_WlaYXZQF9lrOy3J_aBAWeCU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 3401147,
+      "length": "2:58:15",
+      "description": "Kickstart your journey to data mastery with hands-on SQL courses: https://bit.ly/SQLwithPracticalTraining Course Introduction ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/1dWCqjhvF58/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAQL54eQVpLidr7qBbiV-eEzFy1Q"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "SQL Tutorial for Beginners (Complete Course using MySQL)",
+      "link": "https://www.youtube.com/watch?v=yE6tIle64tU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yE6tIle64tU",
+      "video_id": "yE6tIle64tU",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 4981932,
+      "length": "3:57:54",
+      "description": "Learn complete MySQL in one shot using this full course in 4 hours. Data Science Course discount Link: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/yE6tIle64tU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu3itQSrfY13vpf28qSOf7C0Z_JQ",
+        "rich": "https://i.ytimg.com/an_webp/yE6tIle64tU/mqdefault_6s.webp?du=3000&sqp=CPvyotYG&rs=AOn4CLD2fHZn0OQFZLuC43mRMi3Bju9hew"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "SQL - Complete Course in 3 Hours | SQL One Shot using MySQL",
+      "link": "https://www.youtube.com/watch?v=hlGoQC332VM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hlGoQC332VM",
+      "video_id": "hlGoQC332VM",
+      "channel": {
+        "name": "Apna College",
+        "link": "https://www.youtube.com/@ApnaCollegeOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FEcjRtez5od8UowDo6tTt9WlE-MrIFEmcwPMTORmK9Swk6KCklOmA3xfIG9WuLWfNYfNThQE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 21881202,
+      "length": "3:16:14",
+      "description": "Want to study for Tech Placements/Internships from us : Our Latest Placement Batches : https://linktr.ee/apnacollege.in Share your ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hlGoQC332VM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhnXHKBX0eUpJFvPZpHukRKh7xtQ",
+        "rich": "https://i.ytimg.com/an_webp/hlGoQC332VM/mqdefault_6s.webp?du=3000&sqp=CIj4otYG&rs=AOn4CLCJ2OkZgS8ilMZlHEOyHWm2GpnTpQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "SQL Full Course in Hindi | SQL for Beginners",
+      "link": "https://www.youtube.com/watch?v=Bp703NkC00Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Bp703NkC00Q",
+      "video_id": "Bp703NkC00Q",
+      "channel": {
+        "name": "Data Prodigy",
+        "link": "https://www.youtube.com/@DataProdigy",
+        "thumbnail": "https://yt3.ggpht.com/AOA36jLTdf0VwygaMj_fkSQA_pbcd3kXiKCOg2lVVi2U_jH0qrED3qkhITVKvPU5_CErd6V_dcQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 312343,
+      "length": "5:03:32",
+      "description": "Welcome to this comprehensive SQL full course in Hindi. In this course, we will cover everything from beginner to advanced ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Bp703NkC00Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkmtVpsCFG8_devm4h77YNtFsQcw"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "SQL Window Function with Example- RANK, DENSE RANK, ROW NUMBER, LEAD/LAG | SQL Tutorial in Hindi 14",
+      "link": "https://www.youtube.com/watch?v=S1do1EeA7ng",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=S1do1EeA7ng",
+      "video_id": "S1do1EeA7ng",
+      "channel": {
+        "name": "Rishabh Mishra",
+        "link": "https://www.youtube.com/@RishabhMishraOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/EtUb4FRhCrBiXVQ-TbSlLeTTyhrxPss3zdJUFwqHvCGLOb9dRKDPU3dw8xHUtWR-AJelpJ1CQQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 515834,
+      "length": "21:21",
+      "description": "SQL Full Course Playlist 👇\nhttps://www.youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw\n\nLike, Share & Subscribe ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/S1do1EeA7ng/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtJRNxaliyp7vv8X7IOfO1cwNyZg"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "SQL Course for Beginners [Full Course]",
+      "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7S_tz1z_5bA",
+      "video_id": "7S_tz1z_5bA",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 15397911,
+      "length": "3:10:19",
+      "description": "Master SQL – an essential skill for AI, machine learning, data analysis, and more! This beginner-friendly course teaches you ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7S_tz1z_5bA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlohTYZhQDSWG32v6EfxEUlv6wqA",
+        "rich": "https://i.ytimg.com/an_webp/7S_tz1z_5bA/mqdefault_6s.webp?du=3000&sqp=CID7otYG&rs=AOn4CLBCRgr49cwkrDCWFvn5r_6DuFE6QQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "SQL Full Course in Telugu | Complete SQL in 3.5 Hours | Vamsi Bhavani",
+      "link": "https://www.youtube.com/watch?v=XEqTRwT9cW4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XEqTRwT9cW4",
+      "video_id": "XEqTRwT9cW4",
+      "channel": {
+        "name": "Vamsi Bhavani",
+        "link": "https://www.youtube.com/@VamsiBhavani",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kR5xlDGRogFYYtZWcg3JsmjFRPnjPQjLaEt1VGslAStA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 505423,
+      "length": "3:43:44",
+      "description": "... Tags sql full course, complete sql course, learn sql in telugu, sql tutorial for beginners, sql programming in telugu, sql concepts, ...",
+      "extensions": [
+        "Undergraduate college",
+        "Lecture"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/XEqTRwT9cW4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdXTKby3sR4Ln3qS1YTUjhLPjwjg"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Introduction to SQL | Why SQL [Hindi]",
+      "link": "https://www.youtube.com/watch?v=BNqQeo9mHSE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BNqQeo9mHSE",
+      "video_id": "BNqQeo9mHSE",
+      "channel": {
+        "name": "DataFlair",
+        "link": "https://www.youtube.com/@DataFlairHindi",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0Pv-qWtQ_EfPpYEv4nQE4BkMi41e0hwlntM03Ag4b3YHXTTeeinYxeTlV9D_m4N3E6V853Jo6w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 24911,
+      "length": "26:54",
+      "description": "Master SQL with Real-time Practicals and Transform Your Career:\nhttps://techvidvan.com/courses/sql-course-hindi/?campaign ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BNqQeo9mHSE/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhLIFooZTAP&rs=AOn4CLBDqZxhQqhEFv8g-irpHvRsrVhuQQ",
+        "rich": "https://i.ytimg.com/an_webp/BNqQeo9mHSE/mqdefault_6s.webp?du=3000&sqp=CLOGo9YG&rs=AOn4CLD_PgNW91tu6FghOdslAZs0ZcmAdg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "SQL Full Course in Hindi | Beginner to Advanced | Learn SQL in Just 5 Hours",
+      "link": "https://www.youtube.com/watch?v=7azCOKryADA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7azCOKryADA",
+      "video_id": "7azCOKryADA",
+      "channel": {
+        "name": "The iScale",
+        "link": "https://www.youtube.com/@theiScale",
+        "thumbnail": "https://yt3.ggpht.com/iDcdiFBiAoOQLDJLqgXdehZZBKXT3JBxngDQkAwsHJ88sH8Q3XtBzAy5eNjUUTK2x4DZr35IRA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 239507,
+      "length": "4:51:04",
+      "description": "Ace Your SQL Journey with iScale! Welcome to this comprehensive SQL Full Course in Hindi! This video is perfect for ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7azCOKryADA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBK2Jab7wjPKx5WIaKGsQANeDII7Q"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "SQL Tutorial for Beginners | SQL Full Course Using MySQL | in Hindi",
+      "link": "https://www.youtube.com/watch?v=tFev3xfchYw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tFev3xfchYw",
+      "video_id": "tFev3xfchYw",
+      "channel": {
+        "name": "Micro Solution",
+        "link": "https://www.youtube.com/@micro_solution",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ngtUAGaW27L9ErgzAeWtobDs5DpJ96tDVsOrqSH7fY3xQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 6794,
+      "length": "4:04:55",
+      "description": "Welcome to the Complete SQL Tutorial in One Video! Whether you're a beginner starting your database journey or an ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tFev3xfchYw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUiY63XRiksSH9fxswpIPxmxbgLw",
+        "rich": "https://i.ytimg.com/an_webp/tFev3xfchYw/mqdefault_6s.webp?du=3000&sqp=CITyotYG&rs=AOn4CLDwtf77bUBSNM6ZPGcl521BlUCDvw"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "SQL Complete Course in Hindi (MySQL + PostgreSQL) | SQL Full Tutorial in 1 Video - Beginner to Pro 🔥",
+      "link": "https://www.youtube.com/watch?v=blkZ6APzT8Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=blkZ6APzT8Q",
+      "video_id": "blkZ6APzT8Q",
+      "channel": {
+        "name": "Code with Technyks",
+        "link": "https://www.youtube.com/@CodewithTechnyksofficial",
+        "thumbnail": "https://yt3.ggpht.com/aAfDtrPk206khfH_24XVNQ1hZx8JjL5ioKLf8cL9soo1PSmUbtfoO8Qi3s12sCJ_neoFJIJTR-U=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 127288,
+      "length": "11:46:20",
+      "description": "Learn complete SQL in one video—covering both MySQL and PostgreSQL, in Hindi! This 12-hour course takes you from absolute ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/blkZ6APzT8Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRBUKKouNM-zb-OHN6ZjtQlf6vlA",
+        "rich": "https://i.ytimg.com/an_webp/blkZ6APzT8Q/mqdefault_6s.webp?du=3000&sqp=CNTaotYG&rs=AOn4CLAJzpmoKD2dBZhlmYjbscuPdRspzA"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Complete SQL & MySQL in One Video in Hindi 2023🙏",
+      "link": "https://www.youtube.com/watch?v=5bFxbwjN-Gk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5bFxbwjN-Gk",
+      "video_id": "5bFxbwjN-Gk",
+      "channel": {
+        "name": "Thapa Technical",
+        "link": "https://www.youtube.com/@ThapaTechnical",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kFzvYt5kK5zhvKTRxXdB4th3a4y0b9zkedbplF6GnyOis=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 1097201,
+      "length": "2:01:51",
+      "description": "Welcome, to MySQL Tutorial in One Video in Hindi 2023. Also, SQL in One Video in Hindi. We will cover Complete MySQL ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5bFxbwjN-Gk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5dDKaHOrN87p1wKH9gVv30Zmzcg",
+        "rich": "https://i.ytimg.com/an_webp/5bFxbwjN-Gk/mqdefault_6s.webp?du=3000&sqp=CIaAo9YG&rs=AOn4CLChJfXBuvGRrGf6vZ2LreI_HuldQw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "SQL Full Course in Hindi | SQL Tutorial For Beginners in Hindi | Using MySQL",
+      "link": "https://www.youtube.com/watch?v=7wj7UEdLI6U",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7wj7UEdLI6U",
+      "video_id": "7wj7UEdLI6U",
+      "channel": {
+        "name": "Micro Solution",
+        "link": "https://www.youtube.com/@micro_solution",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ngtUAGaW27L9ErgzAeWtobDs5DpJ96tDVsOrqSH7fY3xQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 837368,
+      "length": "2:11:41",
+      "description": "This is complete SQL tutorial with MySQL Database Management System. After watching this video you can work with different ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7wj7UEdLI6U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC0ylrP0Zse1hVVQFn7eb656WGZw"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "MASTER SQL 🔥 | Beginners to Advance SQL Using MSSQL Server in ONE VIDEO [HINDI]",
+      "link": "https://www.youtube.com/watch?v=4bTt1JbAp3M",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4bTt1JbAp3M",
+      "video_id": "4bTt1JbAp3M",
+      "channel": {
+        "name": "MPrashant TECH",
+        "link": "https://www.youtube.com/@MPrashantTech",
+        "thumbnail": "https://yt3.ggpht.com/G45-6G2lgEpWF6VONzpcKMkiPbo294DKCmaDMfK9omeAxhy2i68u176Sdy3igVs4OdXyjQZ15Mk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 217810,
+      "length": "8:15:14",
+      "description": "sql #mprashant SQL in HINDI SQL in ONE VIDEO MSSQL in ONE VIDEO MS SQL in ONE VIDEO MSSQL Server in ONE VIDEO ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/4bTt1JbAp3M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxVyKNAfV0PkwO516O_G6sEIJu_w"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Microsoft SQL Server 2022 Tutorial for Beginners | Amit Thinks | Class 11th 12th",
+      "link": "https://www.youtube.com/watch?v=3mukGYjvixE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3mukGYjvixE",
+      "video_id": "3mukGYjvixE",
+      "channel": {
+        "name": "Amit Thinks",
+        "link": "https://www.youtube.com/@Amit.Thinks",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Xa8zu6hLPXqlln2Sa1QKi5os7WV6liUWwfTvXXUBmDOBZoPE3C9FqnV4gK3rKNM3SEpsj3FWWQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 332821,
+      "length": "1:54:42",
+      "description": "This video covers the Microsoft SQL Server course using the free and open-source Microsoft SQL Server. The course consists of ...",
+      "extensions": [
+        "6 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3mukGYjvixE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqNAGN95vSIXxOXsALmDDf6Em_uQ",
+        "rich": "https://i.ytimg.com/an_webp/3mukGYjvixE/mqdefault_6s.webp?du=3000&sqp=CLKYo9YG&rs=AOn4CLADFAGz-Lvi9MrqsJmOUrxXqxtFjA"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "SQL Tutorial for Beginners [Ultimate Full Course] - From Zero to HERO",
+      "link": "https://www.youtube.com/watch?v=NTgejLheGeU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NTgejLheGeU",
+      "video_id": "NTgejLheGeU",
+      "channel": {
+        "name": "Data with Baraa",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 256644,
+      "length": "4:04:26",
+      "description": "In this 4-Hour SQL Course for Beginners, you'll learn everything you need to get started with SQL! Want More? - *Free ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/NTgejLheGeU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCg0xbXssPuTBIKpaijX8N_rXI3WA",
+        "rich": "https://i.ytimg.com/an_webp/NTgejLheGeU/mqdefault_6s.webp?du=3000&sqp=CMuAo9YG&rs=AOn4CLCqxRU_CJ4A_rek6enH9SLkeq5wKQ"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "SQL tutorial from basic to advance in one complete video | SQL Full Course in Hindi",
+      "link": "https://www.youtube.com/watch?v=8IuqFU5gw1E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8IuqFU5gw1E",
+      "video_id": "8IuqFU5gw1E",
+      "channel": {
+        "name": "Satish Dhawale",
+        "link": "https://www.youtube.com/@Satish_Dhawale",
+        "thumbnail": "https://yt3.ggpht.com/DwZyFLCix8GQp7xp-88ae7bqJ8embEBGXykIVfUaSkYhrIkcu04R-iBPfluvBABJTmPVN5yj=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 987941,
+      "length": "8:03:01",
+      "description": "SQL tutorial from basic to advance in one complete video | SQL Full Course in Hindi #SD61 Master SQL in One Complete ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/8IuqFU5gw1E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChGtdKlw4dwx1eqYSMBk-AGf2AHg",
+        "rich": "https://i.ytimg.com/an_webp/8IuqFU5gw1E/mqdefault_6s.webp?du=3000&sqp=CNvLotYG&rs=AOn4CLAEVEIbsXspEls8gouGffCEjf2cdA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "SQL tutorial in Hindi | In One Video | from basic to advance For Beginners.",
+      "link": "https://www.youtube.com/watch?v=taai-dvhREs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=taai-dvhREs",
+      "video_id": "taai-dvhREs",
+      "channel": {
+        "name": "Tech Info in Hindi",
+        "link": "https://www.youtube.com/@TechInfoinHindi_9797",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kSnzznb3RdOMzoCLtvIq8xPlAa9AqhGw2o0BOLx1JS5A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 14155,
+      "length": "2:41:06",
+      "description": "SQL tutorial in Hindi | In One Video | from basic to advance For Beginners. How to Install Intellij IDEA and JVM ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/taai-dvhREs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4KvPuvla_otblBGnrPsv51egtjg",
+        "rich": "https://i.ytimg.com/an_webp/taai-dvhREs/mqdefault_6s.webp?du=3000&sqp=CJKVo9YG&rs=AOn4CLBxMAz_CD7r4EVn7SvVjR86zxOgsg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=SQL+tutorial+in+Hindi&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=SQL%20tutorial%20in%20Hindi&sp=EgIYAkgUggELT245ZVNOM0Y4dzCCAQthNHhqcHh6cU4xUYIBCzFkV0Nxamh2RjU4ggELeUU2dElsZTY0dFWCAQtobEdvUUMzMzJWTYIBC0JwNzAzTmtDMDBRggELUzFkbzFFZUE3bmeCAQs3U190ejF6XzViQYIBC1hFcVRSd1Q5Y1c0ggELQk5xUWVvOW1IU0WCAQs3YXpDT0tyeUFEQYIBC3RGZXYzeGZjaFl3ggELYmxrWjZBUHpUOFGCAQs1YkZ4YndqTi1Ha4IBCzd3ajdVRWRMSTZVggELNGJUdDFKYkFwM02CAQszbXVrR1lqdml4RYIBC05UZ2VqTGhlR2VVggELOEl1cUZVNWd3MUWCAQt0YWFpLWR2aFJFc7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELT245ZVNOM0Y4dzCCAQthNHhqcHh6cU4xUYIBCzFkV0Nxamh2RjU4ggELeUU2dElsZTY0dFWCAQtobEdvUUMzMzJWTYIBC0JwNzAzTmtDMDBRggELUzFkbzFFZUE3bmeCAQs3U190ejF6XzViQYIBC1hFcVRSd1Q5Y1c0ggELQk5xUWVvOW1IU0WCAQs3YXpDT0tyeUFEQYIBC3RGZXYzeGZjaFl3ggELYmxrWjZBUHpUOFGCAQs1YkZ4YndqTi1Ha4IBCzd3ajdVRWRMSTZVggELNGJUdDFKYkFwM02CAQszbXVrR1lqdml4RYIBC05UZ2VqTGhlR2VVggELOEl1cUZVNWd3MUWCAQt0YWFpLWR2aFJFc7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SQL+tutorial+in+Hindi&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SQL+tutorial+in+Hindi&sp=EgIYAkgUggELT245ZVNOM0Y4dzCCAQthNHhqcHh6cU4xUYIBCzFkV0Nxamh2RjU4ggELeUU2dElsZTY0dFWCAQtobEdvUUMzMzJWTYIBC0JwNzAzTmtDMDBRggELUzFkbzFFZUE3bmeCAQs3U190ejF6XzViQYIBC1hFcVRSd1Q5Y1c0ggELQk5xUWVvOW1IU0WCAQs3YXpDT0tyeUFEQYIBC3RGZXYzeGZjaFl3ggELYmxrWjZBUHpUOFGCAQs1YkZ4YndqTi1Ha4IBCzd3ajdVRWRMSTZVggELNGJUdDFKYkFwM02CAQszbXVrR1lqdml4RYIBC05UZ2VqTGhlR2VVggELOEl1cUZVNWd3MUWCAQt0YWFpLWR2aFJFc7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELT245ZVNOM0Y4dzCCAQthNHhqcHh6cU4xUYIBCzFkV0Nxamh2RjU4ggELeUU2dElsZTY0dFWCAQtobEdvUUMzMzJWTYIBC0JwNzAzTmtDMDBRggELUzFkbzFFZUE3bmeCAQs3U190ejF6XzViQYIBC1hFcVRSd1Q5Y1c0ggELQk5xUWVvOW1IU0WCAQs3YXpDT0tyeUFEQYIBC3RGZXYzeGZjaFl3ggELYmxrWjZBUHpUOFGCAQs1YkZ4YndqTi1Ha4IBCzd3ajdVRWRMSTZVggELNGJUdDFKYkFwM02CAQszbXVrR1lqdml4RYIBC05UZ2VqTGhlR2VVggELOEl1cUZVNWd3MUWCAQt0YWFpLWR2aFJFc7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:15:57 UTC"
+}

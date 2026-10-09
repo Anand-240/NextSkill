@@ -1,0 +1,505 @@
+{
+  "search_metadata": {
+    "id": "6ac8cd0406ca7f601cedc198",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rZmYuxcx7bOZ8miqRk89OJs2GV3Ezg0sjkKctFmLSlg/6ac8cd0406ca7f601cedc198.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rZmYuxcx7bOZ8miqRk89OJs2GV3Ezg0sjkKctFmLSlg/6ac8cd0406ca7f601cedc198.md",
+    "created_at": "2026-10-09 11:16:20 UTC",
+    "processed_at": "2026-10-09 11:16:20 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=JavaScript+revision+in+Hindi&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/rZmYuxcx7bOZ8miqRk89OJs2GV3Ezg0sjkKctFmLSlg/6ac8cd0406ca7f601cedc198.html",
+    "total_time_taken": 2.25
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "JavaScript revision in Hindi",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 83077,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "JavaScript in 8 Minutes 👩‍💻",
+      "link": "https://www.youtube.com/watch?v=0vL_EhRMFN0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0vL_EhRMFN0",
+      "video_id": "0vL_EhRMFN0",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 311911,
+      "length": "8:54",
+      "description": "Python Udemy Course: https://goharry.in/python Get this course at 90% Discount if you use this link JavaScript Fast Tutorial: In this ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0vL_EhRMFN0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo9CaOypXFs8G3ZwkNRkQ96DcoXw",
+        "rich": "https://i.ytimg.com/an_webp/0vL_EhRMFN0/mqdefault_6s.webp?du=3000&sqp=COiIo9YG&rs=AOn4CLARXax465mKkDMh7jxdcX8HRj3qxQ"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "100+ JavaScript Concepts you Need to Know",
+      "link": "https://www.youtube.com/watch?v=lkIFF4maKMU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lkIFF4maKMU",
+      "video_id": "lkIFF4maKMU",
+      "channel": {
+        "name": "Fireship",
+        "link": "https://www.youtube.com/@Fireship",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 3085827,
+      "length": "12:24",
+      "description": "The ultimate 10 minute JavaScript course that quickly breaks down over 100 key concepts every web developer should know.",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/lkIFF4maKMU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGA-7bmtqY8g2SKnS-RyGE7BYr-A",
+        "rich": "https://i.ytimg.com/an_webp/lkIFF4maKMU/mqdefault_6s.webp?du=3000&sqp=CNb_otYG&rs=AOn4CLALpXzNxTJ5b8ek5om3LHHo2DbR2Q"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "JavaScript explained in just 7 Minutes!",
+      "link": "https://www.youtube.com/watch?v=VoKFyB1q4fc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VoKFyB1q4fc",
+      "video_id": "VoKFyB1q4fc",
+      "channel": {
+        "name": "GeeksforGeeks",
+        "link": "https://www.youtube.com/@GeeksforGeeksVideos",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dQfBGzscI39pcxJC7ywUkslmJZ4AHyh0eECVkbnyW4zBN1djj5TCNLXx1Pf68WqRlrzMRbjS=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 283015,
+      "length": "7:49",
+      "description": "Learn JavaScript Basic in 7 Minutes ⚡| The Ultimate Beginner's Guide for Web Development Struggling with JavaScript? Feeling ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/VoKFyB1q4fc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQD5Izj-ZhzdOWTDa20PSEpD33Sw",
+        "rich": "https://i.ytimg.com/an_webp/VoKFyB1q4fc/mqdefault_6s.webp?du=3000&sqp=CI7totYG&rs=AOn4CLDc-bjR2zW61L-XcxQVUHYNa0FzTg"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Event Loop in JavaScript | JavaScript Tutorial in Hindi #100",
+      "link": "https://www.youtube.com/watch?v=vFJbKR6zfCE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vFJbKR6zfCE",
+      "video_id": "vFJbKR6zfCE",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 204790,
+      "length": "12:54",
+      "description": "Link to the Repl - https://replit.com/@codewithharry/100eventloop#index.js Join Replit - https://join.replit.com/CodeWithHarry ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vFJbKR6zfCE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmJP1V_Beb1RdYlNqMeUwxatPboA",
+        "rich": "https://i.ytimg.com/an_webp/vFJbKR6zfCE/mqdefault_6s.webp?du=3000&sqp=CKfWotYG&rs=AOn4CLBRactJyNOf0Hh4T1ch9f7ZRHc53w"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Top 10 JavaScript Interview Questions EXPLAINED! | Tanay Pratap Hindi",
+      "link": "https://www.youtube.com/watch?v=tOo9c6SK_do",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tOo9c6SK_do",
+      "video_id": "tOo9c6SK_do",
+      "channel": {
+        "name": "Tanay Pratap",
+        "link": "https://www.youtube.com/@tanaypratap",
+        "thumbnail": "https://yt3.ggpht.com/8mSwwcBIsjRD9kWwIk5HT2yvd_UxL4nq035UXMm-zznERh9cCDh09-SbxeIKTfFnoeSAqwra=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 299483,
+      "length": "10:53",
+      "description": "In this video, you will learn about the top 10 JavaScript interview questions. Enhance your coding skills and be prepared for your ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tOo9c6SK_do/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlqKTjEbvzLBIZoM15bEpzieTzzA",
+        "rich": "https://i.ytimg.com/an_webp/tOo9c6SK_do/mqdefault_6s.webp?du=3000&sqp=CMKDo9YG&rs=AOn4CLCBfYZ_K9Eab2rQHbMkTnvfjV8IZQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Hoisting in JavaScript | JavaScript Tutorial in Hindi #89",
+      "link": "https://www.youtube.com/watch?v=_FmHfOqJ4SY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_FmHfOqJ4SY",
+      "video_id": "_FmHfOqJ4SY",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 199175,
+      "length": "10:46",
+      "description": "Link to the Repl - https://replit.com/@codewithharry/89hoisting Join Replit - https://join.replit.com/CodeWithHarry Download Notes ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_FmHfOqJ4SY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzIbIoLEiu377tycb0Tgy5UyyNhg",
+        "rich": "https://i.ytimg.com/an_webp/_FmHfOqJ4SY/mqdefault_6s.webp?du=3000&sqp=CJj9otYG&rs=AOn4CLDRQC6Opci6VU2Dy5RtPSgWoot-fg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "JavaScript Tutorial for Beginners | Free JavaScript Course | by Rahul Chaudhary",
+      "link": "https://www.youtube.com/watch?v=9Sy-hINltQM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9Sy-hINltQM",
+      "video_id": "9Sy-hINltQM",
+      "channel": {
+        "name": "Programming GuruJi",
+        "link": "https://www.youtube.com/@programmingsirji",
+        "thumbnail": "https://yt3.ggpht.com/Trwi8NCRoicPRrcsnUbhfqu8uJmVxUIvX_3Hnr-JDTF3ge5iPRVtJkGNM5MGVXJ4mXxDJ82Nyd0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 212351,
+      "length": "15:06",
+      "description": "JavaScript Tutorial for Beginners | JavaScript Free Course | by Rahul Chaudhary\n#javascript #javascripttutorial ...",
+      "extensions": [
+        "1 product",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9Sy-hINltQM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEWQ83wq0fUEplnXzEKD4LssKr2w",
+        "rich": "https://i.ytimg.com/an_webp/9Sy-hINltQM/mqdefault_6s.webp?du=3000&sqp=CNaWo9YG&rs=AOn4CLCu6YC86xXJ25KMDDrAbRofvdgO8A"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Async/Await, Promises, Callbacks - Async JavaScript Crash Course ( in One Video in Hindi ) 🔥🔥",
+      "link": "https://www.youtube.com/watch?v=bWaucYA1YRI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bWaucYA1YRI",
+      "video_id": "bWaucYA1YRI",
+      "channel": {
+        "name": "Technical Suneja",
+        "link": "https://www.youtube.com/@TechnicalSuneja",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WZcQiX_uBjwo7uI5-Rf5RUXUNdLxxnFIGX5RWzvfmAdaSpMGSZKQt1RlWnHox5UPxCJ9kyNirA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 218628,
+      "length": "19:54",
+      "description": "Learn how to use Async/Await, Promises, and Callbacks in JavaScript in One Video in Hindi ⭐ Timestamps 0:00 Introduction ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bWaucYA1YRI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-IA8ZTyg4KfQY1L4WNFupg1zsJQ",
+        "rich": "https://i.ytimg.com/an_webp/bWaucYA1YRI/mqdefault_6s.webp?du=3000&sqp=COSOo9YG&rs=AOn4CLD8dIgIacDmlm5z_Srp_Fe9TZftpw"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Part-1 (1 - 30) JavaScript MCQ Practice | Multiple Choice Questions with Answers for Inter. & Exams",
+      "link": "https://www.youtube.com/watch?v=zkdSzvVj3h0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zkdSzvVj3h0",
+      "video_id": "zkdSzvVj3h0",
+      "channel": {
+        "name": "DevScriptor",
+        "link": "https://www.youtube.com/@DevScriptor",
+        "thumbnail": "https://yt3.ggpht.com/ZKP3LH_KrGI0VrNgObrMBBJuJv7KV4iSlbp6mVIXbtUO3eQEks56Z3mis8G4tp1hPmxkiNFpLcU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 491,
+      "length": "12:53",
+      "description": "Welcome to our JavaScript Mastery Series! In this video, we're diving into top JavaScript multiple choice questions (MCQs) along ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zkdSzvVj3h0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYMpvo-r4dUuPiVE0xd7ZTUjPyGQ",
+        "rich": "https://i.ytimg.com/an_webp/zkdSzvVj3h0/mqdefault_6s.webp?du=3000&sqp=CIaAo9YG&rs=AOn4CLBFz6eAm6J-GnvpJqF3PtD-Z6nVXA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "DOM, BOM & Window Object | JavaScript Tutorial in Hindi #28",
+      "link": "https://www.youtube.com/watch?v=xOCzjgjedRc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xOCzjgjedRc",
+      "video_id": "xOCzjgjedRc",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 498664,
+      "length": "11:28",
+      "description": "Link to the Repl - https://replit.com/@codewithharry/28windowBOMDOM Join Replit - https://join.replit.com/CodeWithHarry ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xOCzjgjedRc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAe4Q_Uwvk6kuDAghJF7eka61Mlg",
+        "rich": "https://i.ytimg.com/an_webp/xOCzjgjedRc/mqdefault_6s.webp?du=3000&sqp=CM2Uo9YG&rs=AOn4CLAaSKAILrHSHbijkhe4A7Yqr-qACQ"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Fetch API | JavaScript Tutorial in Hindi #66",
+      "link": "https://www.youtube.com/watch?v=Atq7VjVbaA8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Atq7VjVbaA8",
+      "video_id": "Atq7VjVbaA8",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 511562,
+      "length": "12:31",
+      "description": "Link to the Repl - https://replit.com/@codewithharry/66FetchAPI Join Replit - https://join.replit.com/CodeWithHarry Download ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Atq7VjVbaA8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxB2AJLYC9CuqQgnHxET91p546fg",
+        "rich": "https://i.ytimg.com/an_webp/Atq7VjVbaA8/mqdefault_6s.webp?du=3000&sqp=CObjotYG&rs=AOn4CLAQlYdcPbc_zIN7Af8OyKfWGznucg"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Variables in JavaScript | JavaScript Tutorial in Hindi #2",
+      "link": "https://www.youtube.com/watch?v=Q4p8vRQX8uY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Q4p8vRQX8uY",
+      "video_id": "Q4p8vRQX8uY",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 2073488,
+      "length": "13:34",
+      "description": "Link to the Repl - https://replit.com/@codewithharry/02Variables#index.js Join Replit - https://join.replit.com/CodeWithHarry ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Q4p8vRQX8uY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzWLeD6Ln_kAztDxZ7WejozhTIDQ",
+        "rich": "https://i.ytimg.com/an_webp/Q4p8vRQX8uY/mqdefault_6s.webp?du=3000&sqp=CIjgotYG&rs=AOn4CLA1oYFjo7D7bz4sN71slZlf-1DMWQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Revision of DOM, JavaScript function and Click Event | in Hindi/Urdu | Web Development Part-24",
+      "link": "https://www.youtube.com/watch?v=PoikERtB_rI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PoikERtB_rI",
+      "video_id": "PoikERtB_rI",
+      "channel": {
+        "name": "Codenticer",
+        "link": "https://www.youtube.com/@Codenticer",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nl515bod1EWdQnpQCSRgQ5lafGWuek2LHdlhmRLvoL6cI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 71,
+      "length": "5:01",
+      "description": "Codenticer #WebDevelopmentForBeginners #PrgrammingForBeginners Day-8 Understand terms like name-value pair, dot ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/PoikERtB_rI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZHX9A8LQiE3S_g8J2ZpnQk25NUA"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "JavaScript Tutorial in Hindi #64 DOM | Document Object Model #javascript",
+      "link": "https://www.youtube.com/watch?v=GmsC3_3M35M",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GmsC3_3M35M",
+      "video_id": "GmsC3_3M35M",
+      "channel": {
+        "name": "Code Step By Step",
+        "link": "https://www.youtube.com/@codestepbystep",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lpwLOOTumlQiiMYMHbBgJfQXVyRBGrZdTZ6NbtY-YA8wg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 2941,
+      "length": "6:02",
+      "description": "Call / WhatsApp : [REDACTED PHONE] JavaScript Tutorial Series – Part 64 In this video, we will learn about the DOM (Document ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/GmsC3_3M35M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChe_do53D0wLdKyPBIenXmi5G_lw",
+        "rich": "https://i.ytimg.com/an_webp/GmsC3_3M35M/mqdefault_6s.webp?du=3000&sqp=CLfwotYG&rs=AOn4CLDrnikiedLeqyWAJBeUI7QUPnBLtQ"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "How much JavaScript is needed to learn React?",
+      "link": "https://www.youtube.com/watch?v=Y_r-51IzfGk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Y_r-51IzfGk",
+      "video_id": "Y_r-51IzfGk",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 703491,
+      "length": "10:11",
+      "description": "How much Javascript to learn for react. Can you learn react along with Javascript? This video will answer all these questions!",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Y_r-51IzfGk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfXmettAwjt8yEXX3bE6QdBJ-3hQ",
+        "rich": "https://i.ytimg.com/an_webp/Y_r-51IzfGk/mqdefault_6s.webp?du=3000&sqp=CMGXo9YG&rs=AOn4CLDGMoK5LxAHRFx6pm6yaoRyvUHk7g"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Map, Filter & Reduce in JavaScript | JavaScript Tutorial in Hindi #20",
+      "link": "https://www.youtube.com/watch?v=bAUMuuRH99o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bAUMuuRH99o",
+      "video_id": "bAUMuuRH99o",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 703783,
+      "length": "12:49",
+      "description": "Link to the Repl - https://replit.com/@codewithharry/20mapfilterreduce Join Replit - https://join.replit.com/CodeWithHarry ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bAUMuuRH99o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8ZkxCZbY5-2tQVq69BwNLsESStQ",
+        "rich": "https://i.ytimg.com/an_webp/bAUMuuRH99o/mqdefault_6s.webp?du=3000&sqp=CIiZo9YG&rs=AOn4CLC5LTrYgdGm080GsblWbmqD_4nCcQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Destructuring assignment and Spread Operator | JavaScript Tutorial in Hindi #87",
+      "link": "https://www.youtube.com/watch?v=_BsE5kmJk6Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_BsE5kmJk6Q",
+      "video_id": "_BsE5kmJk6Q",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 156608,
+      "length": "15:01",
+      "description": "Link to the Repl - https://replit.com/@codewithharry/86iife Join Replit - https://join.replit.com/CodeWithHarry Download Notes ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_BsE5kmJk6Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeSv1Zj201OX1p0p9iftg59AknTQ",
+        "rich": "https://i.ytimg.com/an_webp/_BsE5kmJk6Q/mqdefault_6s.webp?du=3000&sqp=CPyWo9YG&rs=AOn4CLAduMMmxo9MxjHS-3rfKL_VGSwjtw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Most Asked Javascript Interview Questions & Answers In Hindi | Sofia Goyal",
+      "link": "https://www.youtube.com/watch?v=XjUR_3dNAJ0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XjUR_3dNAJ0",
+      "video_id": "XjUR_3dNAJ0",
+      "channel": {
+        "name": "Sofia Goyal",
+        "link": "https://www.youtube.com/@SofiaGoyal",
+        "thumbnail": "https://yt3.ggpht.com/s7jg57Wc69nY-07TDC70HLDjQ8UmXUkHxa9HiPkoFU7eSOTOhcAql1QFS35Tpc0UZmJZn_MnO_8=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 24171,
+      "length": "19:34",
+      "description": "Ready to ace your next JavaScript interview? In this video, we've compiled the Top 10 JavaScript Interview Questions and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/XjUR_3dNAJ0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKiNCBnTcZc2X4oz6HYJsL7rOGuA",
+        "rich": "https://i.ytimg.com/an_webp/XjUR_3dNAJ0/mqdefault_6s.webp?du=3000&sqp=CPuCo9YG&rs=AOn4CLCg5LlT1PyJl9nw7GmqvlyMqfBWug"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue",
+      "link": "https://www.youtube.com/watch?v=eiC58R16hb8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eiC58R16hb8",
+      "video_id": "eiC58R16hb8",
+      "channel": {
+        "name": "Lydia Hallie",
+        "link": "https://www.youtube.com/@theavocoder",
+        "thumbnail": "https://yt3.ggpht.com/89XSViN1j67dPtLO-BecRT8DU2DBTFyRB7Vd6eZFVoXGpUJz8kyvXzOl53fwozVxgsWv-dKVXw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1225162,
+      "length": "12:35",
+      "description": "Learn how the browser event loop, task queue, microtask queue, and Web APIs work together to enable non-blocking, ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eiC58R16hb8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKTkRH_8KNfRjDxeGBGimfkWWrBg",
+        "rich": "https://i.ytimg.com/an_webp/eiC58R16hb8/mqdefault_6s.webp?du=3000&sqp=CL7dotYG&rs=AOn4CLB47JY5fBdPh6qnYFAbY0PaFBdMyA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "JavaScript Array Methods | JavaScript Tutorial in Hindi #17",
+      "link": "https://www.youtube.com/watch?v=BLIrBThPTXc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BLIrBThPTXc",
+      "video_id": "BLIrBThPTXc",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 496527,
+      "length": "10:02",
+      "description": "Let's look at some array methods in JavaScript Link to the Repl - https://replit.com/@codewithharry/17Arraymethods1#index.js ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BLIrBThPTXc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjs_V6yM0HcijExA60U9QgufKiFg",
+        "rich": "https://i.ytimg.com/an_webp/BLIrBThPTXc/mqdefault_6s.webp?du=3000&sqp=CJ_hotYG&rs=AOn4CLAoM-VnVrDgjPKcmjZYhvgw0XA46Q"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=JavaScript+revision+in+Hindi&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=JavaScript%20revision%20in%20Hindi&sp=EgIYA0gUggELMHZMX0VoUk1GTjCCAQtsa0lGRjRtYUtNVYIBC1ZvS0Z5QjFxNGZjggELdkZKYktSNnpmQ0WCAQt0T285YzZTS19kb4IBC19GbUhmT3FKNFNZggELOVN5LWhJTmx0UU2CAQtiV2F1Y1lBMVlSSYIBC3prZFN6dlZqM2gwggELeE9DempnamVkUmOCAQtBdHE3VmpWYmFBOIIBC1E0cDh2UlFYOHVZggELUG9pa0VSdEJfckmCAQtHbXNDM18zTTM1TYIBC1lfci01MUl6ZkdrggELYkFVTXV1Ukg5OW-CAQtfQnNFNWttSms2UYIBC1hqVVJfM2ROQUowggELZWlDNThSMTZoYjiCAQtCTElyQlRoUFRYY7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELMHZMX0VoUk1GTjCCAQtsa0lGRjRtYUtNVYIBC1ZvS0Z5QjFxNGZjggELdkZKYktSNnpmQ0WCAQt0T285YzZTS19kb4IBC19GbUhmT3FKNFNZggELOVN5LWhJTmx0UU2CAQtiV2F1Y1lBMVlSSYIBC3prZFN6dlZqM2gwggELeE9DempnamVkUmOCAQtBdHE3VmpWYmFBOIIBC1E0cDh2UlFYOHVZggELUG9pa0VSdEJfckmCAQtHbXNDM18zTTM1TYIBC1lfci01MUl6ZkdrggELYkFVTXV1Ukg5OW-CAQtfQnNFNWttSms2UYIBC1hqVVJfM2ROQUowggELZWlDNThSMTZoYjiCAQtCTElyQlRoUFRYY7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=JavaScript+revision+in+Hindi&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=JavaScript+revision+in+Hindi&sp=EgIYA0gUggELMHZMX0VoUk1GTjCCAQtsa0lGRjRtYUtNVYIBC1ZvS0Z5QjFxNGZjggELdkZKYktSNnpmQ0WCAQt0T285YzZTS19kb4IBC19GbUhmT3FKNFNZggELOVN5LWhJTmx0UU2CAQtiV2F1Y1lBMVlSSYIBC3prZFN6dlZqM2gwggELeE9DempnamVkUmOCAQtBdHE3VmpWYmFBOIIBC1E0cDh2UlFYOHVZggELUG9pa0VSdEJfckmCAQtHbXNDM18zTTM1TYIBC1lfci01MUl6ZkdrggELYkFVTXV1Ukg5OW-CAQtfQnNFNWttSms2UYIBC1hqVVJfM2ROQUowggELZWlDNThSMTZoYjiCAQtCTElyQlRoUFRYY7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELMHZMX0VoUk1GTjCCAQtsa0lGRjRtYUtNVYIBC1ZvS0Z5QjFxNGZjggELdkZKYktSNnpmQ0WCAQt0T285YzZTS19kb4IBC19GbUhmT3FKNFNZggELOVN5LWhJTmx0UU2CAQtiV2F1Y1lBMVlSSYIBC3prZFN6dlZqM2gwggELeE9DempnamVkUmOCAQtBdHE3VmpWYmFBOIIBC1E0cDh2UlFYOHVZggELUG9pa0VSdEJfckmCAQtHbXNDM18zTTM1TYIBC1lfci01MUl6ZkdrggELYkFVTXV1Ukg5OW-CAQtfQnNFNWttSms2UYIBC1hqVVJfM2ROQUowggELZWlDNThSMTZoYjiCAQtCTElyQlRoUFRYY7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:16:20 UTC"
+}

@@ -1,0 +1,460 @@
+{
+  "search_metadata": {
+    "id": "6ac8ccf81de064cb9b41f88e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/KXjORyzJGQ6aLY-TIGkHUtCj2d4f4hHbSLb5tW2Tch8/6ac8ccf81de064cb9b41f88e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/KXjORyzJGQ6aLY-TIGkHUtCj2d4f4hHbSLb5tW2Tch8/6ac8ccf81de064cb9b41f88e.md",
+    "created_at": "2026-10-09 11:16:08 UTC",
+    "processed_at": "2026-10-09 11:16:08 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Excel+revision+in+Hindi&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/KXjORyzJGQ6aLY-TIGkHUtCj2d4f4hHbSLb5tW2Tch8/6ac8ccf81de064cb9b41f88e.html",
+    "total_time_taken": 3.03
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Excel revision in Hindi",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 7257754,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "How to use VLOOKUP formula in Excel | VLOOKUP in Excel Tutorial",
+      "link": "https://www.youtube.com/watch?v=DX0V7D0GWwI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DX0V7D0GWwI",
+      "video_id": "DX0V7D0GWwI",
+      "channel": {
+        "name": "Rishabh Mishra",
+        "link": "https://www.youtube.com/@RishabhMishraOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/EtUb4FRhCrBiXVQ-TbSlLeTTyhrxPss3zdJUFwqHvCGLOb9dRKDPU3dw8xHUtWR-AJelpJ1CQQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 2142026,
+      "length": "5:20",
+      "description": "In this video, will learn about VLOOKUP in Excel. What is a VLOOKUP, what is the use of VLOOKUP, how to use VLOOKUP and ...",
+      "extensions": [
+        "CC",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/DX0V7D0GWwI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDRoZEjyakm1uspBaiE6gCg6244GQ"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Interview Questions & Answer for Excel || excel interview questions [Hindi]",
+      "link": "https://www.youtube.com/watch?v=30eVGjzC6zY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=30eVGjzC6zY",
+      "video_id": "30eVGjzC6zY",
+      "channel": {
+        "name": "Computer Gyan",
+        "link": "https://www.youtube.com/@ComputerGyan1",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_miu-FTjUS4m3L8rGWZgK_O8iqyJKBI4PG22JCNLxPbSA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1673576,
+      "length": "17:19",
+      "description": "Free download resume template: https://bit.ly/3FY4YaP Interview Questions & Answer for Excel || excel interview questions [Hindi] ...",
+      "extensions": [
+        "Professional Training"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/30eVGjzC6zY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBYXM4tjAvMZq8ddqubt5gTBt2XsQ"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Excel Tutorial for Beginners - Microsoft excel formulas | Excel Formulas",
+      "link": "https://www.youtube.com/watch?v=Hd6C6hZwbGA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Hd6C6hZwbGA",
+      "video_id": "Hd6C6hZwbGA",
+      "channel": {
+        "name": "Excel with Rahul Chaudhary",
+        "link": "https://www.youtube.com/@excelwithrahulchaudhary",
+        "thumbnail": "https://yt3.ggpht.com/OoctkIyDrnqXqNiR0MEbnbxrp_5Iv4VR7odk9zdkl-qSl2xBeZ4dwOYpCg5kGTqEb6NJcVrc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1677847,
+      "length": "15:53",
+      "description": "Excel Tutorial for Beginners - Microsoft excel formulas | Excel Formulas #excel #exceltutorial #exceltutorialforbeginners Welcome ...",
+      "extensions": [
+        "2 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Hd6C6hZwbGA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBgmwNFtlo_aia6UZ4NrBGeXjs0dw"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Ms Excel Basic Knowledge in Hindi | MS Excel Introduction | Excel Tutorial Part 1",
+      "link": "https://www.youtube.com/watch?v=ynnH3BWcH2w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ynnH3BWcH2w",
+      "video_id": "ynnH3BWcH2w",
+      "channel": {
+        "name": "My Computer Course",
+        "link": "https://www.youtube.com/@MyComputerCourse",
+        "thumbnail": "https://yt3.ggpht.com/CW6mvl6U_eD9jZjoYG6IPHNMwamZmMrHzfPTJqI3NjpFu9zmOfz33z8rW4nzgbNbKzbkb0yD=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 11217242,
+      "length": "4:22",
+      "description": "🔥 Join Our Pendrive Course - https://offline.pcskill.in/\n🔥 Download App Now - https://bit.ly/3ZyV0rw\n🔥 Excel Basic Knowledge ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ynnH3BWcH2w/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAgh8opzx0DAKdu19ZVD_xKwLPWpQ"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Create Pivot Tables In Excel | Use of Pivot Table - Pivot Table Tutorial",
+      "link": "https://www.youtube.com/watch?v=lCoPTPsTJ4s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lCoPTPsTJ4s",
+      "video_id": "lCoPTPsTJ4s",
+      "channel": {
+        "name": "Rishabh Mishra",
+        "link": "https://www.youtube.com/@RishabhMishraOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/EtUb4FRhCrBiXVQ-TbSlLeTTyhrxPss3zdJUFwqHvCGLOb9dRKDPU3dw8xHUtWR-AJelpJ1CQQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1216708,
+      "length": "12:01",
+      "description": "In this video, will learn about pivot tables in Excel. What is a pivot table, what is the use of a pivot table, how to use a ...",
+      "extensions": [
+        "CC",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/lCoPTPsTJ4s/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC2tnCZu3C1_fuoeTyupSUbGWIsRg"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "OMG🔥Microsoft excel all formulas | How to use excel formula and functions in Excel | Excel Formulas",
+      "link": "https://www.youtube.com/watch?v=3uLanUrqTeg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3uLanUrqTeg",
+      "video_id": "3uLanUrqTeg",
+      "channel": {
+        "name": "Technical Computer Classes",
+        "link": "https://www.youtube.com/@TechnicalComputerClasses",
+        "thumbnail": "https://yt3.ggpht.com/tCn3ncSHoNfpPHoYOmHEu2HIIBYzR0aDv-OOwFnuSFudDSnImfWuk92HmVCPU5R09Rxxk-h3uRI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 3919212,
+      "length": "18:30",
+      "description": "Dear friends, learn all basic excel formula and functions | excel very useful formulas.\n\nOMG🔥Microsoft excel all formulas ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3uLanUrqTeg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAWFGCiWnutPB4w3IuNLABgNQNnEA"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "🔥 8 Most Useful Excel Formulas With Examples In Hindi - Every Excel User Should Know",
+      "link": "https://www.youtube.com/watch?v=TTOdVdoSXtQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TTOdVdoSXtQ",
+      "video_id": "TTOdVdoSXtQ",
+      "channel": {
+        "name": "mybigguide",
+        "link": "https://www.youtube.com/@mybigguidehindi",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/gnwzvS0dNC6K1z_fUndl_CcBpllAmFcPPVa7x6f4NVHHu60xziqay2EipoHcK-EtdtgOPa93Mg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 1161466,
+      "length": "12:24",
+      "description": "Join Our Pendrive Course - https://offline.pcskill.in/ Download App Now - https://bit.ly/3ZyV0rw इस वीडीयो में ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TTOdVdoSXtQ/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCHejLsOwVlx6n21rNxIM9p6RkJzA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Excel Basic Office Work | Learn Excel Office Work in Just 10 Minutes | Computer Tech Academy",
+      "link": "https://www.youtube.com/watch?v=0ZoRr17X4dQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0ZoRr17X4dQ",
+      "video_id": "0ZoRr17X4dQ",
+      "channel": {
+        "name": "Computer Tech Academy",
+        "link": "https://www.youtube.com/@ComputerTechAcademy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/yY5yXzy6UyxHQlUtOAkG7n-3p67UObRKOpgZdEkhzGwCUXI7LIN_wZtlM_YEbmu81ASqIiqchQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 1162345,
+      "length": "16:36",
+      "description": "Download Computer Tech Academy App: https://play.google.com/store/apps/details?id=co.diy12.wknyt\n📝 Course Enquiry: 👉 https ...",
+      "extensions": [
+        "4 products",
+        "Professional Training"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0ZoRr17X4dQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDWZ4ElmlQ6piB-13JsDvIKeyeiDg"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "All Basic Formulas and Functions of Excel you must know || Basic Formulas in Excel || Urdu / Hindi",
+      "link": "https://www.youtube.com/watch?v=cTDoRxeAQck",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cTDoRxeAQck",
+      "video_id": "cTDoRxeAQck",
+      "channel": {
+        "name": "Maharat Point",
+        "link": "https://www.youtube.com/@maharatpoint",
+        "thumbnail": "https://yt3.ggpht.com/HmD1OafR2wOGIeVEQsTommSAhEHhjXBzrcER_i-DbcULmGRPbGG5eA4iZV9d4QWi8FTneH2dTQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 2407439,
+      "length": "11:03",
+      "description": "This video includes topic of basic formulas of Excel which covers the following. 3 Easy Ways of Sum Formula in Excel Subtraction ...",
+      "extensions": [
+        "Intermediate",
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/cTDoRxeAQck/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIQPJ1WxgipXcndBFuYTzXUR-sEA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "How To Apply VLOOKUP and XLOOKUP Formula on Large Data in Excel [Hindi] #excel",
+      "link": "https://www.youtube.com/watch?v=gAY9is-ahQY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gAY9is-ahQY",
+      "video_id": "gAY9is-ahQY",
+      "channel": {
+        "name": "Computer Gyan",
+        "link": "https://www.youtube.com/@ComputerGyan1",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_miu-FTjUS4m3L8rGWZgK_O8iqyJKBI4PG22JCNLxPbSA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 3105398,
+      "length": "12:39",
+      "description": "How To Apply VLOOKUP and XLOOKUP Formula on Large Data in Excel [Hindi] \n#excel #excelinterviewquestions #vlookup #xlookup ...",
+      "extensions": [
+        "2 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gAY9is-ahQY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDiselesLQp5G7cv8Qo_NGQe6DSDQ"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "EXCEL + AI complete tutorial for beginners ! Real Use of ChatGPT AI in excel",
+      "link": "https://www.youtube.com/watch?v=OvjDRDzpWm4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OvjDRDzpWm4",
+      "video_id": "OvjDRDzpWm4",
+      "channel": {
+        "name": "Deepak EduWorld",
+        "link": "https://www.youtube.com/@DeepakEduWorld",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/KMB-rIyttCs4JOIEAKrZDlXgQP7STmu-u7VrRsaE_hhk3TD4h7OVV046z6Su6mk6QgHleae3=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 897679,
+      "length": "19:27",
+      "description": "EXCEL + AI complete tutorial for beginners ! Real Use of ChatGPT AI in excel dosto AI ke bare main to aap sab jaante hi honge ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OvjDRDzpWm4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBhDHspbS82m1q1igbnYXd-KEENmw"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "MS Excel | MS Excel features | Ms Excel characteristics | hindi  | ms excel  kya hai",
+      "link": "https://www.youtube.com/watch?v=PfOo2MjiSX0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PfOo2MjiSX0",
+      "video_id": "PfOo2MjiSX0",
+      "channel": {
+        "name": "One Bit Extra",
+        "link": "https://www.youtube.com/@OneBitExtra",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_knP1pg8WM4rbOs1XPqyqHptJIYHkKHB2Y-d7m6A_XXZg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 417665,
+      "length": "7:23",
+      "description": "iss video me ms excel aur features/characteristics of ms excel ko easy way me btaya gya hai.video is useful for university ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/PfOo2MjiSX0/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYMCBQKHIwDw==&rs=AOn4CLCW5k3oOisozkoFTJw8swIFiF6R0Q"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "insert tab in excel in hindi/Urdu | complete insert tab in excel | technophile | Class 23",
+      "link": "https://www.youtube.com/watch?v=Qef7Wk9RRwg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Qef7Wk9RRwg",
+      "video_id": "Qef7Wk9RRwg",
+      "channel": {
+        "name": "TECHNOPHILE",
+        "link": "https://www.youtube.com/@technophile3408",
+        "thumbnail": "https://yt3.ggpht.com/gRvWmZOOjON7EcvzRS_fnuCE1yFwAPY5YiLhlMadeoDxnrmMM6HCWlHjo89_FvP-qkzWR9w2sUs=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 2237,
+      "length": "19:33",
+      "description": "insert tab in excel in hindi/Urdu | complete insert tab in excel | technophile | Class 23 Is video main Insert Tab ke hawale se bataya ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Qef7Wk9RRwg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCiIoyDxWqL2j3e3jeN6lFvQbERTw"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "1 - Microsoft Excel Basic to Advanced Training Course : Introduction Class by Syed Fazal Hussain",
+      "link": "https://www.youtube.com/watch?v=J5so8WiSrgY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=J5so8WiSrgY",
+      "video_id": "J5so8WiSrgY",
+      "channel": {
+        "name": "Syed Fazal Hussain Shah",
+        "link": "https://www.youtube.com/@syedfazalhussainshah",
+        "thumbnail": "https://yt3.ggpht.com/o3G7Oi_ECu-NoPQlTLYZfjZX1cmACtot15r6JR3GGbEzwks0bgU4ZVZf_orUn-FhV4vA7INysA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 882201,
+      "length": "5:32",
+      "description": "Microsoft Excel Basic to Advanced Training Course in Hindi/Urdu : Introduction Class by Syed Fazal Hussain. Excel Lecture Class ...",
+      "extensions": [
+        "Lecture"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/J5so8WiSrgY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAgOZ_ccOwyPS1aLnB4wjfA9c9eyw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Ms-Excel Dashboard Icon & Tabs Names in [Hindi/Urdu] | Excel Master Pro Course Free by TechGyan.",
+      "link": "https://www.youtube.com/watch?v=ahganKQq6qs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ahganKQq6qs",
+      "video_id": "ahganKQq6qs",
+      "channel": {
+        "name": "TechGyan",
+        "link": "https://www.youtube.com/@techgyan9732",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n7j-Cz-MfthJyKlAmQ8TE7Uxuq25b-ZISo8j3tlBF1eig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 849,
+      "length": "16:03",
+      "description": "Excel can be challenging to learn. The hardest part is knowing what to learn. This course is designed to teach you the most ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ahganKQq6qs/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC7jnytCxwBaNVhFsEVOsvgPBMySA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Page Layout Tab [Excel] || Complete Use in Hindi || Excel Tutorial for beginners in Hindi",
+      "link": "https://www.youtube.com/watch?v=fw0H6Q4IgPY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fw0H6Q4IgPY",
+      "video_id": "fw0H6Q4IgPY",
+      "channel": {
+        "name": "Computer Gyan",
+        "link": "https://www.youtube.com/@ComputerGyan1",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_miu-FTjUS4m3L8rGWZgK_O8iqyJKBI4PG22JCNLxPbSA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 780407,
+      "length": "16:35",
+      "description": "Welcome to Computer Gyan,\nExcel is one of the important topic for computer operators. In Excel there are many tools, tabs ...",
+      "extensions": [
+        "2 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fw0H6Q4IgPY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBEyp4wEJi35sdCiKjpArxFqa430Q"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "1.2 MS Excel - Exploring the Ribbon (Part 1) | Learn Excel Ribbon | Step-by-Step Guide #excel",
+      "link": "https://www.youtube.com/watch?v=0gz4p6-w2gY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0gz4p6-w2gY",
+      "video_id": "0gz4p6-w2gY",
+      "channel": {
+        "name": "MustWatch_Tips by AP",
+        "link": "https://www.youtube.com/@MustWatch_Tips",
+        "thumbnail": "https://yt3.ggpht.com/F8ncimtAk22yMtsryY6hJwE9GNZoKx9M4HcLJZsvi5I5kBCZ312DI8q2j0cpQc3Er9HjJRAocQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 8164,
+      "length": "12:36",
+      "description": "#exceltutorial #exceltips Hello friends!\nIn this video, we'll teach you how to use Excel's ribbons. The Excel Ribbon, located ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0gz4p6-w2gY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDWezgYC9WYm9AucPmpS0DiY1Iptw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "MS excel Part-1 | Excel tutorial for beginners | Excel Tutorial in Hindi | MS Excel Introduction",
+      "link": "https://www.youtube.com/watch?v=e0vxv3Gb7z0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=e0vxv3Gb7z0",
+      "video_id": "e0vxv3Gb7z0",
+      "channel": {
+        "name": "GULAB GURU",
+        "link": "https://www.youtube.com/@gulabgurucomputer",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FO24Dq1yXD0JboL21SGnqvQpLG4OB-6X4u1MSLO9a4BcfOK_gGcSFD8BexdwDxwLNjaYx-hWPA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 8486284,
+      "length": "17:55",
+      "description": "MS excel Part-1 | Excel tutorial for beginners | Excel Tutorial in Hindi | MS Excel Introduction WhatsApp Join ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/e0vxv3Gb7z0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCoyZyG5dK1QbNsSwA0L-adGh9wpA"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Learn Lookup in Excel | Vlookup | Hlookup | Xlookup",
+      "link": "https://www.youtube.com/watch?v=tUxaY5o_hyY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tUxaY5o_hyY",
+      "video_id": "tUxaY5o_hyY",
+      "channel": {
+        "name": "The Valuation School",
+        "link": "https://www.youtube.com/@thevaluationschool",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0vLl_eCQt7bpZ4L7tlPY7rL3AvfGyi6LNFEKmY4dhs_JjJYe8iZ0UAMZ49l8N4IPCyHMiifU4w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 185573,
+      "length": "16:16",
+      "description": "In this Session we will learn various lookup functions and its limitations. By the end of this session, you will be able to understand ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tUxaY5o_hyY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCWoG1m726k9vnqsh8_W5H4b017ig"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "excel home tab in hindi | excel home videos | excel home tab | excel home tab use | excel | ms excel",
+      "link": "https://www.youtube.com/watch?v=g0AelCqFark",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=g0AelCqFark",
+      "video_id": "g0AelCqFark",
+      "channel": {
+        "name": "AICDM FOUNDATION",
+        "link": "https://www.youtube.com/@aicdmfoundation2",
+        "thumbnail": "https://yt3.ggpht.com/vFUcOv3SltZhye-6ju4ej9IhUzUXexcIYJbb3KtNooEv1w4P5oXDllV3PALvaSSQ-mK_VBeEAw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 3905,
+      "length": "12:33",
+      "description": "excel in hindi,excel home tab in hindi,home tab in excel,ms excel in hindi,excel home tab tutorial,home tab in ms excel in ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/g0AelCqFark/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBdlo8BCPUHVLHCwgxa_Hq9i_-h2Q"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Excel+revision+in+Hindi&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Excel%20revision%20in%20Hindi&sp=EgIYA0gUggELRFgwVjdEMEdXd0mCAQszMGVWR2p6QzZ6WYIBC0hkNkM2aFp3YkdBggELeW5uSDNCV2NIMneCAQtsQ29QVFBzVEo0c4IBCzN1TGFuVXJxVGVnggELVFRPZFZkb1NYdFGCAQswWm9ScjE3WDRkUYIBC2NURG9SeGVBUWNrggELZ0FZOWlzLWFoUVmCAQtPdmpEUkR6cFdtNIIBC1BmT28yTWppU1gwggELUWVmN1drOVJSd2eCAQtKNXNvOFdpU3JnWYIBC2FoZ2FuS1FxNnFzggELZncwSDZRNElnUFmCAQswZ3o0cDYtdzJnWYIBC2Uwdnh2M0diN3owggELdFV4YVk1b19oeVmCAQtnMEFlbENxRmFya7IBBgoECBUQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELRFgwVjdEMEdXd0mCAQszMGVWR2p6QzZ6WYIBC0hkNkM2aFp3YkdBggELeW5uSDNCV2NIMneCAQtsQ29QVFBzVEo0c4IBCzN1TGFuVXJxVGVnggELVFRPZFZkb1NYdFGCAQswWm9ScjE3WDRkUYIBC2NURG9SeGVBUWNrggELZ0FZOWlzLWFoUVmCAQtPdmpEUkR6cFdtNIIBC1BmT28yTWppU1gwggELUWVmN1drOVJSd2eCAQtKNXNvOFdpU3JnWYIBC2FoZ2FuS1FxNnFzggELZncwSDZRNElnUFmCAQswZ3o0cDYtdzJnWYIBC2Uwdnh2M0diN3owggELdFV4YVk1b19oeVmCAQtnMEFlbENxRmFya7IBBgoECBUQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Excel+revision+in+Hindi&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Excel+revision+in+Hindi&sp=EgIYA0gUggELRFgwVjdEMEdXd0mCAQszMGVWR2p6QzZ6WYIBC0hkNkM2aFp3YkdBggELeW5uSDNCV2NIMneCAQtsQ29QVFBzVEo0c4IBCzN1TGFuVXJxVGVnggELVFRPZFZkb1NYdFGCAQswWm9ScjE3WDRkUYIBC2NURG9SeGVBUWNrggELZ0FZOWlzLWFoUVmCAQtPdmpEUkR6cFdtNIIBC1BmT28yTWppU1gwggELUWVmN1drOVJSd2eCAQtKNXNvOFdpU3JnWYIBC2FoZ2FuS1FxNnFzggELZncwSDZRNElnUFmCAQswZ3o0cDYtdzJnWYIBC2Uwdnh2M0diN3owggELdFV4YVk1b19oeVmCAQtnMEFlbENxRmFya7IBBgoECBUQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELRFgwVjdEMEdXd0mCAQszMGVWR2p6QzZ6WYIBC0hkNkM2aFp3YkdBggELeW5uSDNCV2NIMneCAQtsQ29QVFBzVEo0c4IBCzN1TGFuVXJxVGVnggELVFRPZFZkb1NYdFGCAQswWm9ScjE3WDRkUYIBC2NURG9SeGVBUWNrggELZ0FZOWlzLWFoUVmCAQtPdmpEUkR6cFdtNIIBC1BmT28yTWppU1gwggELUWVmN1drOVJSd2eCAQtKNXNvOFdpU3JnWYIBC2FoZ2FuS1FxNnFzggELZncwSDZRNElnUFmCAQswZ3o0cDYtdzJnWYIBC2Uwdnh2M0diN3owggELdFV4YVk1b19oeVmCAQtnMEFlbENxRmFya7IBBgoECBUQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:16:08 UTC"
+}

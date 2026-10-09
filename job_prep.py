@@ -21,8 +21,9 @@ MIN_REVISION_MINUTES, MAX_REVISION_MINUTES = 5, 25
 REVISION_LABEL = "Quick revision videos. Not a full course and not a guarantee."
 
 
-def revision_params(skill: str) -> dict:
-    return {"engine": "youtube", "search_query": f"{skill} revision", "gl": "in", "hl": "en", "sp": MEDIUM_VIDEO_SP}
+def revision_params(skill: str, hindi: bool = False) -> dict:
+    query = f"{skill} revision in Hindi" if hindi else f"{skill} revision"
+    return {"engine": "youtube", "search_query": query, "gl": "in", "hl": "en", "sp": MEDIUM_VIDEO_SP}
 
 
 def is_cached(params: dict, demo: bool) -> bool:
@@ -56,9 +57,10 @@ def select_revision_videos(results: list[dict], skill: str,
     return chosen
 
 
-def revision_videos(skill: str, client, requested_languages: set[str] | None = None) -> tuple[list[dict], str]:
+def revision_videos(skill: str, client, requested_languages: set[str] | None = None,
+                    hindi: bool = False) -> tuple[list[dict], str]:
     """Return (videos, status); status is found, none or not_saved. Cache-only clients never spend credits."""
-    data = client.search(revision_params(skill))
+    data = client.search(revision_params(skill, hindi))
     if not data:
         return [], "not_saved"
     videos = select_revision_videos(data.get("video_results") or [], skill, requested_languages)

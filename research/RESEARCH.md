@@ -92,3 +92,17 @@ shared cache keys by extracting a canonical skill set first.
 [File uploader](https://docs.streamlit.io/develop/api-reference/widgets/st.file_uploader)
 returns uploaded bytes suitable for the existing pypdf extractor. Cap PDF size and
 report parse/OCR limitations instead of exposing a traceback.
+
+## A5 - NPTEL and SWAYAM through Google search
+
+Terms read: the [NPTEL home page](https://nptel.ac.in/) footer states its course content is shared under
+"Creative Commons Attribution-ShareAlike CC BY - NC - SA" (non-commercial, with attribution).
+The [SWAYAM terms of use](https://swayam.gov.in/terms_of_use) allow course materials "for your personal use"
+and forbid scraping or bulk download of site content. NextSkill would therefore keep only a title and link
+from a search result and link out, never copy course pages.
+
+Result: not usable through SerpApi Google search in our test. Queries with `site:` filters
+(`(site:nptel.ac.in OR site:swayam.gov.in)`, `site:nptel.ac.in`, `site:onlinecourses.nptel.ac.in`,
+`site:swayam.gov.in`) returned zero pages from those hosts; results were unrelated pages and YouTube videos.
+Eight searches were spent finding this out (phase D ledger). The saved responses were removed and the
+feature was not built; no NPTEL or SWAYAM claim appears in the product.

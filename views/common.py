@@ -6,6 +6,7 @@ import json
 import streamlit as st
 
 import engine
+import i18n
 from engine import DEFAULT_THRESHOLD, EXPERIENCE_LEVELS, ROOT, SerpClient, canonical_manual_skills, run
 from personas import saved_pairs
 from resume_pdf import extract_pdf_text
@@ -26,6 +27,14 @@ STYLE = """<style>
 
 def style() -> None:
     st.markdown(STYLE, unsafe_allow_html=True)
+
+
+def language_bar() -> None:
+    """Top-right Hindi switch shown on every page; labels change only for human-approved strings."""
+    _, right = st.columns([5, 1])
+    right.toggle(i18n.t("toggle_hindi"), key="hindi_toggle")
+    if i18n.hindi_on() and not i18n.approved_count():
+        st.caption(i18n.HINDI_WAITING)
 
 
 def hero(title: str, subtitle: str) -> None:

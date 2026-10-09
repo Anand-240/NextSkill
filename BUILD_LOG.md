@@ -317,3 +317,28 @@ Phase C remaining: 82 (of 105), of which revision videos 15.
   Added as a CI step. Residual risk: prose typed by hand into render_docs.py (for example the
   historical audit sentence) is not number-checked; it is replaced when README is rewritten in I2.
 - Test: tests/test_consistency.py (clean state passes; a changed number is reported). Zero searches.
+
+## D1 - NPTEL and SWAYAM courses: tried, not built
+
+- Research: read NPTEL and SWAYAM terms (research/RESEARCH.md A5); keep titles and links only.
+- Plan/acceptance: results from those hosts for each recommended skill, shown by provider.
+- Build/test: three queries with an OR of two site: filters returned unrelated pages, a fourth timed out
+  (no retry, counted). Single-site queries for SQL and Python on nptel.ac.in, onlinecourses.nptel.ac.in
+  and swayam.gov.in also returned no page from those hosts. Saved YouTube data has no NPTEL or SWAYAM channel.
+- Verify: acceptance cannot be met honestly. Removed the module, script and responses; no claim is made.
+  Credits: 8 searches in phase D (ledger).
+
+## D2 - Hindi
+
+- Research: engine already detects a stated language in a video title or channel.
+- Plan/acceptance: a "हिंदी" toggle; every Hindi string in i18n/hi.json, none shown until a person approves it;
+  Hindi videos that pass the same filters, otherwise a note that English is shown; saved Hindi results for
+  Excel, SQL, Python and JavaScript.
+- Build: i18n.py (t() shows Hindi only for approved strings), i18n/hi.json (22 draft strings, all approved=false),
+  hindi.py (courses and revision videos must state Hindi and name the skill), toggle on every page, Hindi
+  video blocks in Evidence and Job Prep. Hour estimates still come from English courses and say so.
+  Fetched 4 Hindi course and 4 Hindi revision responses (8 searches).
+- Test: tests/test_hindi.py (saved Hindi results pass filters; unsaved skills never request; every Hindi
+  key and placeholder matches English; unapproved strings never display; approved strings translate
+  the headline while skill names stay English and typed input survives the toggle). 91 tests pass.
+- Credits: Account 36 -> 44 used for these 8 (206 left after phase D). Human review of i18n/hi.json is pending.

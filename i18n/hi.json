@@ -1,0 +1,28 @@
+{
+  "note": "Draft Hindi strings written by an AI assistant. None is shown until a person reads it and sets approved to true. Skill names stay English.",
+  "strings": {
+    "hero_tagline": {"hi": "आपके शहर की स्थानीय नौकरी सूचियों से गिना गया आपका अगला कौशल।", "approved": false},
+    "find_header": {"hi": "मेरा अगला कौशल खोजें", "approved": false},
+    "find_role_city": {"hi": "भूमिका और शहर", "approved": false},
+    "find_resume": {"hi": "अपना रिज़्यूमे पेस्ट करें या अपने कौशल लिखें", "approved": false},
+    "find_add_skills": {"hi": "और कौशल जोड़ें (अल्पविराम से अलग करें)", "approved": false},
+    "find_experience": {"hi": "अनुभव स्तर", "approved": false},
+    "skills_read": {"hi": "आपके पाठ से पहचाने गए कौशल", "approved": false},
+    "tab_answer": {"hi": "उत्तर", "approved": false},
+    "tab_evidence": {"hi": "प्रमाण", "approved": false},
+    "tab_plan": {"hi": "सीखने की योजना", "approved": false},
+    "tab_checks": {"hi": "हमने इसे कैसे जाँचा", "approved": false},
+    "headline": {"hi": "अगला {skill} सीखें: +{gained} और मिलान, लगभग {hours} घंटे के मुफ़्त कोर्स।", "approved": false},
+    "matches_line": {"hi": "{city} में आपकी प्रोफ़ाइल {count} में से {ready} सूचियों से मेल खाती है।", "approved": false},
+    "fastest_win": {"hi": "सबसे तेज़ जीत", "approved": false},
+    "biggest_unlock": {"hi": "सबसे बड़ा अवसर", "approved": false},
+    "prep_header": {"hi": "नौकरी की तैयारी", "approved": false},
+    "shortest_route": {"hi": "इस सूची से मेल खाने का सबसे छोटा रास्ता", "approved": false},
+    "full_plan": {"hi": "पूरी योजना", "approved": false},
+    "revise_heading": {"hi": "दोहराएँ: जो कौशल आपके पास हैं और इस नौकरी में माँगे गए हैं", "approved": false},
+    "learn_heading": {"hi": "सीखें: जो कौशल इस नौकरी में माँगे गए हैं और आपके पास नहीं हैं", "approved": false},
+    "hindi_videos": {"hi": "हिंदी वीडियो", "approved": false},
+    "hindi_not_saved": {"hi": "सहेजे गए डेटा में {skill} के हिंदी वीडियो नहीं हैं, इसलिए अंग्रेज़ी वीडियो दिखाए गए हैं।", "approved": false},
+    "hindi_fallback": {"hi": "सहेजे गए डेटा में {skill} के लिए कोई हिंदी वीडियो फ़िल्टर पास नहीं कर सका, इसलिए अंग्रेज़ी वीडियो दिखाए गए हैं।", "approved": false}
+  }
+}

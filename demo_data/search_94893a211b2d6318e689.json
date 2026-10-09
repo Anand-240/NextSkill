@@ -1,0 +1,490 @@
+{
+  "search_metadata": {
+    "id": "6ac8ccf29d99f4ad81c0f41b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vA7MzzDK7EFlENNonnppXULW_0Pk_myBgagm8W6iPWg/6ac8ccf29d99f4ad81c0f41b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/vA7MzzDK7EFlENNonnppXULW_0Pk_myBgagm8W6iPWg/6ac8ccf29d99f4ad81c0f41b.md",
+    "created_at": "2026-10-09 11:16:02 UTC",
+    "processed_at": "2026-10-09 11:16:02 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Python+tutorial+in+Hindi&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/vA7MzzDK7EFlENNonnppXULW_0Pk_myBgagm8W6iPWg/6ac8ccf29d99f4ad81c0f41b.html",
+    "total_time_taken": 1.88
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Python tutorial in Hindi",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 7409792,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Python Tutorial for AI: Everything You Need in 2 Hours",
+      "link": "https://www.youtube.com/watch?v=6GuyMZ-cSzE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6GuyMZ-cSzE",
+      "video_id": "6GuyMZ-cSzE",
+      "channel": {
+        "name": "codebasics",
+        "link": "https://www.youtube.com/@codebasics",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/KsiMgWx72rX242hG5UIPVMwlIc5i8LUXMDRLLfa8bJvtJmwiMNU4LDveGqQZBx1g8VI-8OGKmD4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 251955,
+      "length": "2:02:53",
+      "description": "This Python mini-course is built by keeping in mind the use case of AI. Any AI aspirant who wants to learn AI using Python or want ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6GuyMZ-cSzE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKgWxeLOO6aMMqu89Wsax4Ccu85g",
+        "rich": "https://i.ytimg.com/an_webp/6GuyMZ-cSzE/mqdefault_6s.webp?du=3000&sqp=CLCSo9YG&rs=AOn4CLAhN43GGTlzVhabGbBZO-rNZswUKg"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Python Full Course in Hindi | Beginner to Advanced | Amit Thinks | Class 11th 12th",
+      "link": "https://www.youtube.com/watch?v=b97WsOM9BYg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=b97WsOM9BYg",
+      "video_id": "b97WsOM9BYg",
+      "channel": {
+        "name": "Amit Thinks",
+        "link": "https://www.youtube.com/@Amit.Thinks",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Xa8zu6hLPXqlln2Sa1QKi5os7WV6liUWwfTvXXUBmDOBZoPE3C9FqnV4gK3rKNM3SEpsj3FWWQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 474336,
+      "length": "5:09:45",
+      "description": "Learn Python in Hindi with this 5 hour course. The course consists of 25 lessons with 80+ topics and 200+ live-running examples.",
+      "extensions": [
+        "15 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/b97WsOM9BYg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtSfSv5buMpyFvdo-6spNxaPpeeQ",
+        "rich": "https://i.ytimg.com/an_webp/b97WsOM9BYg/mqdefault_6s.webp?du=3000&sqp=CNCWo9YG&rs=AOn4CLBeqOfSomyVOavZYILZo2dw76q75Q"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Python Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=q3AuP01daL4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=q3AuP01daL4",
+      "video_id": "q3AuP01daL4",
+      "channel": {
+        "name": "Apna College",
+        "link": "https://www.youtube.com/@ApnaCollegeOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FEcjRtez5od8UowDo6tTt9WlE-MrIFEmcwPMTORmK9Swk6KCklOmA3xfIG9WuLWfNYfNThQE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 1630982,
+      "length": "2:02:33",
+      "description": "Get Placement Ready & learn from the best No.1 Online Tech Placement Batches : https://linktr.ee/apnacollege.in Python Notes ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/q3AuP01daL4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa87EV_5qE1_ynI-iybZPhUf4vRA",
+        "rich": "https://i.ytimg.com/an_webp/q3AuP01daL4/mqdefault_6s.webp?du=3000&sqp=CNDYotYG&rs=AOn4CLDSOTC4W6-wqlyqoNQoop3SV9LaTA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Python Tutorial For Beginners in Hindi | Complete Python Course 🔥",
+      "link": "https://www.youtube.com/watch?v=UrsmFxEIp5k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UrsmFxEIp5k",
+      "video_id": "UrsmFxEIp5k",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 25258831,
+      "length": "10:53:55",
+      "description": "Exciting News! I've just launched my Data Science Course – and it's now in Early Bird Access! If you loved this Python course, ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/UrsmFxEIp5k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJMEKj43YZAZHZkCUujvGBDmwJUA",
+        "rich": "https://i.ytimg.com/an_webp/UrsmFxEIp5k/mqdefault_6s.webp?du=3000&sqp=CIrmotYG&rs=AOn4CLA5Cn-mW8kgeM5hNZum6mWICwIwAA"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Python Tutorial For Beginners in Hindi | Python Full Course in Hindi | Complete Python Tutorial",
+      "link": "https://www.youtube.com/watch?v=aXemrB2ATdA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aXemrB2ATdA",
+      "video_id": "aXemrB2ATdA",
+      "channel": {
+        "name": "Micro Solution",
+        "link": "https://www.youtube.com/@micro_solution",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ngtUAGaW27L9ErgzAeWtobDs5DpJ96tDVsOrqSH7fY3xQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 666906,
+      "length": "6:34:40",
+      "description": "Hello friend, this is complete tutorial for \"Python Programming in Hindi\". You can clear your all Python concepts. This \"Python ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/aXemrB2ATdA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwjI7AmvBSNnNs5URi9KL9Uvo8iQ",
+        "rich": "https://i.ytimg.com/an_webp/aXemrB2ATdA/mqdefault_6s.webp?du=3000&sqp=CKDvotYG&rs=AOn4CLC9PgIKWkgVYdD-3N5Mrr61RXzbpA"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Python Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_uQrJ0TkZlc",
+      "video_id": "_uQrJ0TkZlc",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 49281812,
+      "length": "6:14:07",
+      "description": "Learn Python for AI, machine learning, and web development with this beginner-friendly course! Get 6 months of PyCharm ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_uQrJ0TkZlc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQfkbApoaN-_QBOuiyHzWJOiziEA",
+        "rich": "https://i.ytimg.com/an_webp/_uQrJ0TkZlc/mqdefault_6s.webp?du=3000&sqp=CJzWotYG&rs=AOn4CLAaxQ3b5qv6_z8g6-XkpBih6pkcOA"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Learn Python in Only 30 Minutes (Beginner Tutorial)",
+      "link": "https://www.youtube.com/watch?v=Ro_MScTDfU4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ro_MScTDfU4",
+      "video_id": "Ro_MScTDfU4",
+      "channel": {
+        "name": "Indently",
+        "link": "https://www.youtube.com/@Indently",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/68ZQuFvv8mZTJQD65biYl2BWjKKMxkDS5k_sIdAGpRY9-p1vYsqwE1jNMTDEveZoSpkfOpKG=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1259777,
+      "length": "30:42",
+      "description": "In this video I'm going to be teaching you the core concepts that you need to know to get started with using Python. ▷ Become ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ro_MScTDfU4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjF1oETsZdhrmwCf7zxnHPhwbw7A",
+        "rich": "https://i.ytimg.com/an_webp/Ro_MScTDfU4/mqdefault_6s.webp?du=3000&sqp=CO6So9YG&rs=AOn4CLAGGtmBT8aqlBTUly5mtIxPyGJrnw"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Python Tutorial For Beginners In Hindi (With Notes) 🔥",
+      "link": "https://www.youtube.com/watch?v=gfDE2a7MKjA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gfDE2a7MKjA",
+      "video_id": "gfDE2a7MKjA",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 25193425,
+      "length": "11:52:24",
+      "description": "Python Udemy Course: https://goharry.in/python Get this course at 90% Discount if you use this link Learn Python One Video in ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gfDE2a7MKjA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCeV2mPYQ7swJ9PYLWDQvl9_eJVQ",
+        "rich": "https://i.ytimg.com/an_webp/gfDE2a7MKjA/mqdefault_6s.webp?du=3000&sqp=COCGo9YG&rs=AOn4CLC1lFFP3TJ6DXFl6XipLDZnutqE3A"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Python Tutorial In Hindi 🔥",
+      "link": "https://www.youtube.com/watch?v=ihk_Xglr164",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ihk_Xglr164",
+      "video_id": "ihk_Xglr164",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 2209474,
+      "length": "1:45:03",
+      "description": "In this Python tutorial, I have explained Python in one video in Hindi with TimeStamps. ▻ Source Code: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ihk_Xglr164/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZCxEApjzcg5VVfmYe0DdKIKX0pQ",
+        "rich": "https://i.ytimg.com/an_webp/ihk_Xglr164/mqdefault_6s.webp?du=3000&sqp=CN7yotYG&rs=AOn4CLAeT0VVXUsKox35V6X4XwI-S52ezQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Learn Python Programming in Hindi: Python Tutorial & Full Course for Beginners in Hindi",
+      "link": "https://www.youtube.com/watch?v=eTyI-M50Hu4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eTyI-M50Hu4",
+      "video_id": "eTyI-M50Hu4",
+      "channel": {
+        "name": "Great Learning",
+        "link": "https://www.youtube.com/@greatlearning",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m_o6r4liwONXrrjZ2v2ZJ_WlaYXZQF9lrOy3J_aBAWeCU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 2347962,
+      "length": "4:25:16",
+      "description": "Unlock the full Python course here: https://bit.ly/MasterPythonprogramming Course Introduction / Overview Take your Python skills ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eTyI-M50Hu4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClPvteVK8-iQz2S49T9bmtqZXXxQ",
+        "rich": "https://i.ytimg.com/an_webp/eTyI-M50Hu4/mqdefault_6s.webp?du=3000&sqp=CNqFo9YG&rs=AOn4CLB6eDId2gb_FTuhBZuqMaakdJ8kvA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Best Python + AI Full Course | Learn Python + AI, Build Projects & Land Your First Job",
+      "link": "https://www.youtube.com/watch?v=J9BI0jGOds8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=J9BI0jGOds8",
+      "video_id": "J9BI0jGOds8",
+      "channel": {
+        "name": "Mayank Aggarwal",
+        "link": "https://www.youtube.com/@tech.mayankagg",
+        "thumbnail": "https://yt3.ggpht.com/2hewaPEo5WFZjhjgD26YXi82sXQ78xNotXkQfkC1XKKq9f0i204nCobelbBiTbsrE7k2L986Dw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4d ago",
+      "views": 159472,
+      "length": "13:01:40",
+      "description": "Want to learn Python from scratch and use it to build real-world AI projects? All resources, links, code, diagrams, file here ...",
+      "extensions": [
+        "New",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/J9BI0jGOds8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhgNv_9RlVTNLtX7CVOY7mZulJcg",
+        "rich": "https://i.ytimg.com/an_webp/J9BI0jGOds8/mqdefault_6s.webp?du=3000&sqp=CLnrotYG&rs=AOn4CLCBzJmUuiJWwGp7WG3r9s0s0wEczA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Python Tutorial for Beginners in Hindi | Complete Python Course (Part1)",
+      "link": "https://www.youtube.com/watch?v=wloM0N_IMaw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wloM0N_IMaw",
+      "video_id": "wloM0N_IMaw",
+      "channel": {
+        "name": "Rishabh Mishra",
+        "link": "https://www.youtube.com/@RishabhMishraOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/EtUb4FRhCrBiXVQ-TbSlLeTTyhrxPss3zdJUFwqHvCGLOb9dRKDPU3dw8xHUtWR-AJelpJ1CQQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 366083,
+      "length": "9:11:52",
+      "description": "Python Tutorial for Beginners in Hindi | Complete Python Course (Part1) In this course we will learn python from basic to advance ...",
+      "extensions": [
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wloM0N_IMaw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwUTFofSPM5xEwOopKRffDz-6Cmg",
+        "rich": "https://i.ytimg.com/an_webp/wloM0N_IMaw/mqdefault_6s.webp?du=3000&sqp=CPD6otYG&rs=AOn4CLCcawqNB67Iy_OBrO5dR1pD4-ioxw"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "PYTHON For Beginners In One Video 🔥 Very Simple Examples | MPrashant",
+      "link": "https://www.youtube.com/watch?v=-hh6raHUUvk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-hh6raHUUvk",
+      "video_id": "-hh6raHUUvk",
+      "channel": {
+        "name": "M Prashant",
+        "link": "https://www.youtube.com/@MPrashant",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/CEX7X38--YbcUdWB6KceKKuReDWzZLCrT5kx3hSrpWYlltvkgR46F-vsz9s9gQmXFqA_h3b2TA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 135930,
+      "length": "5:09:02",
+      "description": "python #mprashant #pythonprogramming #pythontutorial @MPrashant Python Zero to Hero Python tutorial in Hindi 2024 Python ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-hh6raHUUvk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMF7pxQTr_jmGZP-7MVyOZPxoIGg",
+        "rich": "https://i.ytimg.com/an_webp/-hh6raHUUvk/mqdefault_6s.webp?du=3000&sqp=CJGFo9YG&rs=AOn4CLCrMshslc2UJpPCA0GRPqF8IT_YYg"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Python Full Course for FREE 🐍",
+      "link": "https://www.youtube.com/watch?v=YfnhD-4gKUM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YfnhD-4gKUM",
+      "video_id": "YfnhD-4gKUM",
+      "channel": {
+        "name": "Code and Debug",
+        "link": "https://www.youtube.com/@codeanddebug",
+        "thumbnail": "https://yt3.ggpht.com/m_GgocBK2_BKlEUFkEzekqLmpzRycbVp18zSuB0OAMOORKcAvxwqtOldDchGUbqLTSl0AWf1=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 177447,
+      "length": "11:25:28",
+      "description": "Learn Python from scratch with this complete Python full course for beginners in 2026 This Python tutorial is designed for ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/YfnhD-4gKUM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUdoiv7IKdkkYt3mo4h6btfFiccA",
+        "rich": "https://i.ytimg.com/an_webp/YfnhD-4gKUM/mqdefault_6s.webp?du=3000&sqp=COCIo9YG&rs=AOn4CLB8hLlFbiHkB7npnSXPpq3ZCBdS2g"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Complete Python for beginners in Hindi - Part 1",
+      "link": "https://www.youtube.com/watch?v=v9bOWjwdTlg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=v9bOWjwdTlg",
+      "video_id": "v9bOWjwdTlg",
+      "channel": {
+        "name": "Chai aur Code",
+        "link": "https://www.youtube.com/@chaiaurcode",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/6tLBV-DRVemxhmanuezR5HkHshX2g7Y46Rq8cysyO1V-nd2SaQ2Fi8cdgVM-n6v_8XZ5BEimxXI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1756092,
+      "length": "10:22:07",
+      "description": "Visit https://chaicode.com for all related materials, community help, source code etc. 00 chai aur python for beginners 00:00:00 01 ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/v9bOWjwdTlg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu1vgWJd9C9IPuJSZPXo6uA0M5Eg",
+        "rich": "https://i.ytimg.com/an_webp/v9bOWjwdTlg/mqdefault_6s.webp?du=3000&sqp=COjPotYG&rs=AOn4CLACcAUoxq_iGNVuGweFaNN-sZ4OXg"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Learn Python - Full Course for Beginners [Tutorial]",
+      "link": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rfscVS0vtbw",
+      "video_id": "rfscVS0vtbw",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 49421414,
+      "length": "4:26:52",
+      "description": "This course will give you a full introduction into all of the core concepts in python. Follow along with the videos and you'll be a ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rfscVS0vtbw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-9-7sK2ChwTaU2oDci15jO7wEDg",
+        "rich": "https://i.ytimg.com/an_webp/rfscVS0vtbw/mqdefault_6s.webp?du=3000&sqp=CLztotYG&rs=AOn4CLAZKON1fCex1ePKArRsIzLRaJPI-A"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Python Tutorial in Hindi | Learn Python in Hindi | Python Course in Hindi | Python Online Course",
+      "link": "https://www.youtube.com/watch?v=RrWKnl_4klk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RrWKnl_4klk",
+      "video_id": "RrWKnl_4klk",
+      "channel": {
+        "name": "Intellipaat",
+        "link": "https://www.youtube.com/@Intellipaat",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0UrFW02_vRoTxrCcv4H6vSDXFwUPcafCf3oXIA6yMFUsVtIvE8EZdS2UMzbdscI7ifON_U7DHQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 5y ago",
+      "views": 884335,
+      "length": "4:47:16",
+      "description": "Intellipaat Python course: https://intellipaat.com/python-certification-training-online/ This python tutorial in Hindi is for everyone ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/RrWKnl_4klk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC424xt3RpK9vkeAkfMYxwv2NM-Zg",
+        "rich": "https://i.ytimg.com/an_webp/RrWKnl_4klk/mqdefault_6s.webp?du=3000&sqp=CO2Lo9YG&rs=AOn4CLAbQNmrkKBldexMt8YzH5M440fu8Q"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "NEW Python Full Course 2026 | Learn Python from Scratch, Build Projects & Get Job Ready",
+      "link": "https://www.youtube.com/watch?v=D9lQC-sN6Tc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=D9lQC-sN6Tc",
+      "video_id": "D9lQC-sN6Tc",
+      "channel": {
+        "name": "Saumya Singh",
+        "link": "https://www.youtube.com/@saumya1singh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dSPDh8DJsZ-e-QsntLAI8FPJfBX3ei1HuNqrRgnktkeQV-30t_iOlHmRmLJ-3afdgAHO03B0PNM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 232460,
+      "length": "10:51:30",
+      "description": "... hero python, python programming full course, best python course for beginners, python tutorial in english, python tutorial hindi, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/D9lQC-sN6Tc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgPMTAsRWVjVHTwDIn979q7Fhsmw",
+        "rich": "https://i.ytimg.com/an_webp/D9lQC-sN6Tc/mqdefault_6s.webp?du=3000&sqp=COmJo9YG&rs=AOn4CLByTOe7kdVCJDpKnxDJVunjWOfr7A"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Python Full Course 2026 | Beginner to Advanced with AI Projects | Saumya Singh",
+      "link": "https://www.youtube.com/watch?v=s5MJpRBQLgo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=s5MJpRBQLgo",
+      "video_id": "s5MJpRBQLgo",
+      "channel": {
+        "name": "Saumya Singh",
+        "link": "https://www.youtube.com/@saumya1singh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dSPDh8DJsZ-e-QsntLAI8FPJfBX3ei1HuNqrRgnktkeQV-30t_iOlHmRmLJ-3afdgAHO03B0PNM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 661895,
+      "length": "35:24",
+      "description": "... python course, python course from beginner to advanced, python course in hindi, free python course, how to install python, how ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/s5MJpRBQLgo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6JwQWJlPGcuFrH_ZLASm_C2rWzg",
+        "rich": "https://i.ytimg.com/an_webp/s5MJpRBQLgo/mqdefault_6s.webp?du=3000&sqp=CLbzotYG&rs=AOn4CLCwXhBMw93pJHE6YSOM_8KKMNs49w"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Python Tutorial for Beginners | Learn Python in 1.5 Hours",
+      "link": "https://www.youtube.com/watch?v=vLqTf2b6GZw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vLqTf2b6GZw",
+      "video_id": "vLqTf2b6GZw",
+      "channel": {
+        "name": "Apna College",
+        "link": "https://www.youtube.com/@ApnaCollegeOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FEcjRtez5od8UowDo6tTt9WlE-MrIFEmcwPMTORmK9Swk6KCklOmA3xfIG9WuLWfNYfNThQE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 12278082,
+      "length": "1:17:12",
+      "description": "This video is made with a lot of love from Apna College ❤️ Are you worried about placements/internships? Want to prepare for ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vLqTf2b6GZw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOuj9JeHvgIakD4BnhgHJyYw8aCw",
+        "rich": "https://i.ytimg.com/an_webp/vLqTf2b6GZw/mqdefault_6s.webp?du=3000&sqp=CJiLo9YG&rs=AOn4CLAC7uNCoiDKa0HCU2ikmJhmtT1SKw"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Python+tutorial+in+Hindi&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Python%20tutorial%20in%20Hindi&sp=EgIYAkgUggELNkd1eU1aLWNTekWCAQtiOTdXc09NOUJZZ4IBC3EzQXVQMDFkYUw0ggELVXJzbUZ4RUlwNWuCAQthWGVtckIyQVRkQYIBC191UXJKMFRrWmxjggELUm9fTVNjVERmVTSCAQtnZkRFMmE3TUtqQYIBC2loa19YZ2xyMTY0ggELZVR5SS1NNTBIdTSCAQtKOUJJMGpHT2RzOIIBC3dsb00wTl9JTWF3ggELLWhoNnJhSFVVdmuCAQtZZm5oRC00Z0tVTYIBC3Y5Yk9XandkVGxnggELcmZzY1ZTMHZ0YneCAQtScldLbmxfNGtsa4IBC0Q5bFFDLXNONlRjggELczVNSnBSQlFMZ2-CAQt2THFUZjJiNkdad7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELNkd1eU1aLWNTekWCAQtiOTdXc09NOUJZZ4IBC3EzQXVQMDFkYUw0ggELVXJzbUZ4RUlwNWuCAQthWGVtckIyQVRkQYIBC191UXJKMFRrWmxjggELUm9fTVNjVERmVTSCAQtnZkRFMmE3TUtqQYIBC2loa19YZ2xyMTY0ggELZVR5SS1NNTBIdTSCAQtKOUJJMGpHT2RzOIIBC3dsb00wTl9JTWF3ggELLWhoNnJhSFVVdmuCAQtZZm5oRC00Z0tVTYIBC3Y5Yk9XandkVGxnggELcmZzY1ZTMHZ0YneCAQtScldLbmxfNGtsa4IBC0Q5bFFDLXNONlRjggELczVNSnBSQlFMZ2-CAQt2THFUZjJiNkdad7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Python+tutorial+in+Hindi&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Python+tutorial+in+Hindi&sp=EgIYAkgUggELNkd1eU1aLWNTekWCAQtiOTdXc09NOUJZZ4IBC3EzQXVQMDFkYUw0ggELVXJzbUZ4RUlwNWuCAQthWGVtckIyQVRkQYIBC191UXJKMFRrWmxjggELUm9fTVNjVERmVTSCAQtnZkRFMmE3TUtqQYIBC2loa19YZ2xyMTY0ggELZVR5SS1NNTBIdTSCAQtKOUJJMGpHT2RzOIIBC3dsb00wTl9JTWF3ggELLWhoNnJhSFVVdmuCAQtZZm5oRC00Z0tVTYIBC3Y5Yk9XandkVGxnggELcmZzY1ZTMHZ0YneCAQtScldLbmxfNGtsa4IBC0Q5bFFDLXNONlRjggELczVNSnBSQlFMZ2-CAQt2THFUZjJiNkdad7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELNkd1eU1aLWNTekWCAQtiOTdXc09NOUJZZ4IBC3EzQXVQMDFkYUw0ggELVXJzbUZ4RUlwNWuCAQthWGVtckIyQVRkQYIBC191UXJKMFRrWmxjggELUm9fTVNjVERmVTSCAQtnZkRFMmE3TUtqQYIBC2loa19YZ2xyMTY0ggELZVR5SS1NNTBIdTSCAQtKOUJJMGpHT2RzOIIBC3dsb00wTl9JTWF3ggELLWhoNnJhSFVVdmuCAQtZZm5oRC00Z0tVTYIBC3Y5Yk9XandkVGxnggELcmZzY1ZTMHZ0YneCAQtScldLbmxfNGtsa4IBC0Q5bFFDLXNONlRjggELczVNSnBSQlFMZ2-CAQt2THFUZjJiNkdad7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:16:02 UTC"
+}

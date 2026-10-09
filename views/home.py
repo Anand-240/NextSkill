@@ -1,13 +1,15 @@
 """Home: the pitch, one worked example and where to go next."""
 import streamlit as st
 
+from i18n import t
 from views import common
 
 results = common.final_results()["pairs"]
 priya = results["frontend-developer-bengaluru"]
 fastest = next(row for row in priya["ranked"] if row["skill"] == priya["fastest_win"])
 
-common.hero("NextSkill", "Your next skill, counted from local job listings in your city.")
+common.language_bar()
+common.hero("NextSkill", t("hero_tagline"))
 st.markdown("### An example")
 st.write(f"Priya knows HTML, CSS and JavaScript and wants a frontend job in Bengaluru. NextSkill checked local listings "
          f"through SerpApi. Her profile matches **{priya['matches']} of {priya['scored']}** scored listings. "

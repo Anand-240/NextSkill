@@ -1,22 +1,24 @@
 """Find my next skill: pick a saved market, describe your skills, read the answer and its evidence."""
 import streamlit as st
 
+from i18n import t
 from views import common
 from views.render import render_full
 
-st.header("Find my next skill")
+common.language_bar()
+st.header(t("find_header"))
 pairs = common.pairs()
 labels = [common.pair_label(pair) for pair in pairs]
-pair = pairs[labels.index(st.selectbox("Role and city", labels, key=common.seed("find_pair", common.start_label(labels)),
+pair = pairs[labels.index(st.selectbox(t("find_role_city"), labels, key=common.seed("find_pair", common.start_label(labels)),
                                        help="Saved snapshots of Google Jobs listings. No search credits are used."))]
 profile = common.current_profile(pair)
 levels = common.experience_levels()
 left, right = st.columns([3, 2])
-resume = left.text_area("Paste your resume text or list your skills", height=150,
+resume = left.text_area(t("find_resume"), height=150,
                         key=common.seed(f"find_resume_{pair['role']}", profile["resume"]),
                         help="Example profile for this role. Replace it with yours. Your text is read in memory and never stored.")
-manual = right.text_input("Add more skills (comma separated)", key=common.seed("find_manual", profile["manual"]))
-experience = right.selectbox("Experience level", levels, key=common.seed("find_experience", profile["experience"]),
+manual = right.text_input(t("find_add_skills"), key=common.seed("find_manual", profile["manual"]))
+experience = right.selectbox(t("find_experience"), levels, key=common.seed("find_experience", profile["experience"]),
                              help="Uses the minimum of each band: 0, 1 or 3 years. Explicit listing requirements take precedence over titles.")
 with st.expander("Upload a PDF resume or change the match threshold"):
     pdf = st.file_uploader("PDF resume (selectable text, up to 5 MB)", type=["pdf"])
@@ -28,7 +30,7 @@ with st.expander("Upload a PDF resume or change the match threshold"):
 skills, warning = common.user_skills(resume, manual, pdf.getvalue() if pdf else None)
 if warning:
     st.warning(warning)
-st.markdown("**Skills we read from your text**")
+st.markdown(f"**{t('skills_read')}**")
 if skills:
     common.chips(skills)
 else:
