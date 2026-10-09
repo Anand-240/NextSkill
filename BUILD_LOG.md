@@ -306,3 +306,14 @@ Phase C remaining: 82 (of 105), of which revision videos 15.
   check fails; canonical-skill path equals the resume path. Full suite: 89 tests pass.
 - Verify: screenshots/site_*.png (1280 px) and mobile_home/mobile_find (390 px); horizontal overflow
   0 px on all pages; no tracebacks. Medal shown only for Strong or Likely. Zero searches.
+
+## G1-G2 - Single source of truth
+
+- Research: README, DEMO.md and reports/final_report.md are written only by scripts/render_docs.py
+  from reports/final_results.json, which scripts/build_results.py rebuilds offline from demo_data.
+- Plan/acceptance: a check that fails when any generated number or document differs; run in CI.
+- Build: scripts/check_consistency.py rebuilds results and compares them with the saved file,
+  re-renders the documents and compares them, and re-derives the hand-label and user-test reports.
+  Added as a CI step. Residual risk: prose typed by hand into render_docs.py (for example the
+  historical audit sentence) is not number-checked; it is replaced when README is rewritten in I2.
+- Test: tests/test_consistency.py (clean state passes; a changed number is reported). Zero searches.
