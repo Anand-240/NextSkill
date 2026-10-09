@@ -489,8 +489,44 @@ No market is Strong now. The label is honest, not tuned.
 | Accountant | 26 of 29 | 8 of 28 | 9 of 30 | 17 of 29 | 3 of 28 |
 
   Google Jobs fills the list with nearby cities: 10 of 28 Pune accountant listings are in Mumbai and 6 of 28 Dehradun
-  accountant listings are in New Delhi or Gurugram. This is stated as visible listings in an equal-query snapshot,
+  accountant listings are in New Delhi (and 6 more in Gurugram or Noida). This is stated as visible listings in an equal-query snapshot,
   never as the number of jobs in a city. The in-city test is conservative: suburbs under other names are not counted.
 - Built `scripts/job_gap.py` (offline rebuild, `--plan`, `--fetch`), `reports/job_gap.json`, a section on the Compare
   cities page with a chart, table and caveat, and tests (`tests/test_job_gap.py`). `check_consistency` rebuilds the file.
 - Verified: 113 tests pass; consistency check 0 problems; security scan: 529 history blobs, 134 response files, 0 findings.
+
+## 3.1 and 3.2 Does jobs-per-hour change the answer?
+
+- For every market with a headline pick, compared it with a frequency-only baseline: the non-generic missing core
+  skill that the most scored listings ask for, with no course hours (`baseline` in reports/final_results.json,
+  rebuilt offline by `scripts/build_results.py`).
+- Result: the two methods agree in 4 of 14 markets (Data Analyst Noida, Accountant Jaipur, Accountant Mumbai, Digital
+  Marketing Chennai). In the other 10, the headline pick unlocks at least as many extra listings in 5 and needs less course
+  time in 9. In 4 markets it unlocks fewer listings in less time (for example Frontend Developer Bengaluru: React +10 in
+  5.1 h against REST API +8 in 2.5 h), and in Digital Marketing Pune it unlocks fewer listings for more time because the
+  most asked skill has low course confidence. The honest reading: course hours do change the answer, as a trade between
+  listings and hours, and hours come from video lengths that are only a proxy.
+- Shown on the Methodology page and in the README, generated from the results file. Tests: `tests/test_baseline.py`.
+
+## 4 README, Home page and file moves
+
+- README rewritten by `scripts/render_docs.py` in the requested order. The first screen has the pitch, the live link,
+  who it helps, one worked example and one key finding (the job-information gap). The worked example is the market with
+  the best pick-stability label and, among equals, the most scored listings: Frontend Developer in Bengaluru (Likely,
+  19 scored listings). No market is Strong, so the README says why in the Judge FAQ.
+- The Home page now mirrors that first screen from the same generated text; the three-findings list moved into the
+  README's All markets section. The old "Beyond big hubs" table was dropped because the gap section covers it.
+- Moved BUILD_LOG.md to docs/ and 37 older screenshots to screenshots/archive/; relative links in the archived reports
+  were updated and checked (0 missing files).
+
+## 5 Evidence hooks
+
+`evaluation/labels_template.csv` has 20 drawn listings and no labels; `evaluation/user_test_template.csv` has a header
+and no rows. Both reports now read "Status: in progress" and the README says no figure is claimed. Nothing was filled by
+this repository. `scripts/score_labels.py` and `scripts/summarise_user_test.py` turn real rows into figures when a person
+adds them, and `check_consistency` re-derives both reports.
+
+## 6 Demo script
+
+DEMO.md is generated for 2 minutes 40 seconds with the sample profile, headline, Job Prep, job-information gap, one live
+local search with a budget of 3, and the limits. The live segment is to be recorded first and retried if a request times out.

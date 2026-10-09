@@ -175,6 +175,20 @@
         "checks": 1500
       },
       "confidence": "Likely",
+      "stability_listings": 19,
+      "headline_skill": "REST API",
+      "baseline": {
+        "skill": "React",
+        "listings_asking": 13,
+        "unlocked": 10,
+        "hours": 5.09,
+        "course_confidence": "standard",
+        "headline_skill": "REST API",
+        "headline_unlocked": 8,
+        "headline_hours": 2.54,
+        "headline_course_confidence": "standard",
+        "agrees": false
+      },
       "curve": [
         {
           "skill": "Responsive Design",
@@ -478,6 +492,20 @@
         "checks": 1500
       },
       "confidence": "Uncertain",
+      "stability_listings": 17,
+      "headline_skill": "SQL",
+      "baseline": {
+        "skill": "SQL",
+        "listings_asking": 10,
+        "unlocked": 5,
+        "hours": 4.34,
+        "course_confidence": "standard",
+        "headline_skill": "SQL",
+        "headline_unlocked": 5,
+        "headline_hours": 4.34,
+        "headline_course_confidence": "standard",
+        "agrees": true
+      },
       "curve": [
         {
           "skill": "SQL",
@@ -756,6 +784,20 @@
         "checks": 1500
       },
       "confidence": "Likely",
+      "stability_listings": 19,
+      "headline_skill": "REST API",
+      "baseline": {
+        "skill": "React",
+        "listings_asking": 13,
+        "unlocked": 10,
+        "hours": 5.09,
+        "course_confidence": "standard",
+        "headline_skill": "REST API",
+        "headline_unlocked": 8,
+        "headline_hours": 2.54,
+        "headline_course_confidence": "standard",
+        "agrees": false
+      },
       "curve": [
         {
           "skill": "Responsive Design",
@@ -1059,6 +1101,20 @@
         "checks": 1500
       },
       "confidence": "Uncertain",
+      "stability_listings": 17,
+      "headline_skill": "SQL",
+      "baseline": {
+        "skill": "SQL",
+        "listings_asking": 10,
+        "unlocked": 5,
+        "hours": 4.34,
+        "course_confidence": "standard",
+        "headline_skill": "SQL",
+        "headline_unlocked": 5,
+        "headline_hours": 4.34,
+        "headline_course_confidence": "standard",
+        "agrees": true
+      },
       "curve": [
         {
           "skill": "SQL",
@@ -1324,6 +1380,20 @@
         "checks": 1500
       },
       "confidence": "Uncertain",
+      "stability_listings": 14,
+      "headline_skill": "Data Cleaning",
+      "baseline": {
+        "skill": "SQL",
+        "listings_asking": 9,
+        "unlocked": 7,
+        "hours": 4.34,
+        "course_confidence": "standard",
+        "headline_skill": "Data Cleaning",
+        "headline_unlocked": 4,
+        "headline_hours": 2.27,
+        "headline_course_confidence": "standard",
+        "agrees": false
+      },
       "curve": [
         {
           "skill": "Data Cleaning",
@@ -1599,6 +1669,20 @@
         "checks": 1500
       },
       "confidence": "Uncertain",
+      "stability_listings": 11,
+      "headline_skill": "Power BI",
+      "baseline": {
+        "skill": "Statistics",
+        "listings_asking": 6,
+        "unlocked": 4,
+        "hours": 8.25,
+        "course_confidence": "standard",
+        "headline_skill": "Power BI",
+        "headline_unlocked": 3,
+        "headline_hours": 3.68,
+        "headline_course_confidence": "standard",
+        "agrees": false
+      },
       "curve": [
         {
           "skill": "Power BI",
@@ -1866,6 +1950,20 @@
         "checks": 1500
       },
       "confidence": "Uncertain",
+      "stability_listings": 14,
+      "headline_skill": "Power BI",
+      "baseline": {
+        "skill": "SQL",
+        "listings_asking": 7,
+        "unlocked": 4,
+        "hours": 4.34,
+        "course_confidence": "standard",
+        "headline_skill": "Power BI",
+        "headline_unlocked": 4,
+        "headline_hours": 3.68,
+        "headline_course_confidence": "standard",
+        "agrees": false
+      },
       "curve": [
         {
           "skill": "Power BI",
@@ -2001,6 +2099,20 @@
         "checks": 1500
       },
       "confidence": "Uncertain",
+      "stability_listings": 4,
+      "headline_skill": null,
+      "baseline": {
+        "skill": "Data Visualization",
+        "listings_asking": 3,
+        "unlocked": 0,
+        "hours": 5.46,
+        "course_confidence": "standard",
+        "headline_skill": null,
+        "headline_unlocked": null,
+        "headline_hours": null,
+        "headline_course_confidence": null,
+        "agrees": false
+      },
       "curve": [],
       "greedy_vs_exact": [
         {
@@ -2211,6 +2323,20 @@
         "checks": 1500
       },
       "confidence": "Likely",
+      "stability_listings": 12,
+      "headline_skill": "Bookkeeping",
+      "baseline": {
+        "skill": "Bookkeeping",
+        "listings_asking": 8,
+        "unlocked": 4,
+        "hours": 1.72,
+        "course_confidence": "standard",
+        "headline_skill": "Bookkeeping",
+        "headline_unlocked": 4,
+        "headline_hours": 1.72,
+        "headline_course_confidence": "standard",
+        "agrees": true
+      },
       "curve": [
         {
           "skill": "Bookkeeping",
@@ -2412,6 +2538,20 @@
         "checks": 1500
       },
       "confidence": "Uncertain",
+      "stability_listings": 5,
+      "headline_skill": "SEO",
+      "baseline": {
+        "skill": "Google Ads",
+        "listings_asking": 3,
+        "unlocked": 3,
+        "hours": 5.38,
+        "course_confidence": "standard",
+        "headline_skill": "SEO",
+        "headline_unlocked": 2,
+        "headline_hours": 1.95,
+        "headline_course_confidence": "standard",
+        "agrees": false
+      },
       "curve": [
         {
           "skill": "SEO",
@@ -2678,6 +2818,20 @@
         "checks": 1500
       },
       "confidence": "Uncertain",
+      "stability_listings": 11,
+      "headline_skill": "REST API",
+      "baseline": {
+        "skill": "Django",
+        "listings_asking": 6,
+        "unlocked": 1,
+        "hours": 3.33,
+        "course_confidence": "standard",
+        "headline_skill": "REST API",
+        "headline_unlocked": 1,
+        "headline_hours": 2.54,
+        "headline_course_confidence": "standard",
+        "agrees": false
+      },
       "curve": [
         {
           "skill": "REST API",
@@ -3040,6 +3194,20 @@
         "checks": 1500
       },
       "confidence": "Uncertain",
+      "stability_listings": 7,
+      "headline_skill": "PostgreSQL",
+      "baseline": {
+        "skill": "HTML",
+        "listings_asking": 4,
+        "unlocked": 2,
+        "hours": 5.36,
+        "course_confidence": "standard",
+        "headline_skill": "PostgreSQL",
+        "headline_unlocked": 3,
+        "headline_hours": 4.12,
+        "headline_course_confidence": "standard",
+        "agrees": false
+      },
       "curve": [
         {
           "skill": "PostgreSQL",
@@ -3301,6 +3469,20 @@
         "checks": 1500
       },
       "confidence": "Likely",
+      "stability_listings": 15,
+      "headline_skill": "Tally",
+      "baseline": {
+        "skill": "Tally",
+        "listings_asking": 10,
+        "unlocked": 7,
+        "hours": 1.77,
+        "course_confidence": "standard",
+        "headline_skill": "Tally",
+        "headline_unlocked": 7,
+        "headline_hours": 1.77,
+        "headline_course_confidence": "standard",
+        "agrees": true
+      },
       "curve": [
         {
           "skill": "Tally",
@@ -3534,6 +3716,20 @@
         "checks": 1500
       },
       "confidence": "Uncertain",
+      "stability_listings": 9,
+      "headline_skill": "TDS",
+      "baseline": {
+        "skill": "GST",
+        "listings_asking": 8,
+        "unlocked": 2,
+        "hours": 4.79,
+        "course_confidence": "standard",
+        "headline_skill": "TDS",
+        "headline_unlocked": 2,
+        "headline_hours": 1.55,
+        "headline_course_confidence": "standard",
+        "agrees": false
+      },
       "curve": [
         {
           "skill": "TDS",
@@ -3746,6 +3942,20 @@
         "checks": 1500
       },
       "confidence": "Uncertain",
+      "stability_listings": 5,
+      "headline_skill": "Email Marketing",
+      "baseline": {
+        "skill": "Market Research",
+        "listings_asking": 3,
+        "unlocked": 2,
+        "hours": 0.9,
+        "course_confidence": "low",
+        "headline_skill": "Email Marketing",
+        "headline_unlocked": 1,
+        "headline_hours": 2.3,
+        "headline_course_confidence": "standard",
+        "agrees": false
+      },
       "curve": [
         {
           "skill": "Market Research",
@@ -3904,6 +4114,20 @@
         "checks": 1500
       },
       "confidence": "Uncertain",
+      "stability_listings": 9,
+      "headline_skill": "SEO",
+      "baseline": {
+        "skill": "SEO",
+        "listings_asking": 4,
+        "unlocked": 4,
+        "hours": 1.95,
+        "course_confidence": "standard",
+        "headline_skill": "SEO",
+        "headline_unlocked": 4,
+        "headline_hours": 1.95,
+        "headline_course_confidence": "standard",
+        "agrees": true
+      },
       "curve": [
         {
           "skill": "SEO",
@@ -4168,6 +4392,20 @@
         "checks": 1500
       },
       "confidence": "Uncertain",
+      "stability_listings": 11,
+      "headline_skill": "REST API",
+      "baseline": {
+        "skill": "Git",
+        "listings_asking": 5,
+        "unlocked": 3,
+        "hours": 3.73,
+        "course_confidence": "standard",
+        "headline_skill": "REST API",
+        "headline_unlocked": 3,
+        "headline_hours": 2.54,
+        "headline_course_confidence": "standard",
+        "agrees": false
+      },
       "curve": [
         {
           "skill": "Responsive Design",

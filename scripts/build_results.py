@@ -3,9 +3,29 @@ import json
 from pathlib import Path
 from unittest.mock import patch
 from engine import run, SerpClient, headline_picks, course_videos
+from skills import GENERIC
 from job_prep import default_prep_index, build_plan, revision_videos
 from personas import saved_pairs
 ROOT = Path(__file__).resolve().parents[1]
+
+def baseline(r, picks):
+    """Frequency-only baseline: the non-generic missing core skill asked for by the most scored listings."""
+    options = [skill for skill in r['option_members'] if skill not in GENERIC]
+    if not options:
+        return None
+    skill = min(options, key=lambda name: (-r['skill_counts'][name], name))
+    hours, _, confidence = course_videos(skill, SerpClient(use_fixtures=True, cache_only=True))
+    head = picks['headline']
+    ranked = {row['skill']: row for row in r['ranked']}
+    row = {'skill': skill, 'listings_asking': r['skill_counts'][skill], 'unlocked': len(r['unlocked'][skill]),
+           'hours': round(hours, 2) if hours else None, 'course_confidence': confidence,
+           'headline_skill': head['skill'] if head else None,
+           'headline_unlocked': head['unlocked_count'] if head else None,
+           'headline_hours': round(head['hours'], 2) if head and head['hours'] else None,
+           'headline_course_confidence': head['confidence'] if head else None}
+    row['agrees'] = bool(head) and head['skill'] == skill
+    return row
+
 
 def summary(r):
     picks = headline_picks(r['ranked'])
@@ -20,7 +40,8 @@ def summary(r):
                    'jobs_per_hour':round(x['score'],3) if x['score'] else None,'videos':x['videos']} for x in r['ranked']],
         'bootstrap':{k:r['bootstrap'][k] for k in ('top_share','shares','samples')},
         'hour_variation':{'top_share':round(r['robustness']['top_share'],4),'checks':r['robustness']['samples']},
-        'confidence':r['robustness']['label'],
+        'confidence':r['robustness']['label'],'stability_listings':r['robustness']['listings'],
+        'headline_skill':(picks['headline'] or {}).get('skill'),'baseline':baseline(r,picks),
         'curve':[{'skill':x['skill'],'hours':round(x['hours'],2),'cumulative_hours':round(x['cumulative_hours'],2),
                   'gained':x['jobs_gained'],'total':x['total_jobs']} for x in r['opportunity']['steps']],
         'greedy_vs_exact':r['opportunity']['quality'],'distance':r['distance']['counts'],

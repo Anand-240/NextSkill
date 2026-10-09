@@ -387,7 +387,7 @@ def experience_evidence(job: dict) -> tuple[int, str]:
 
 def experience_required(job: dict) -> tuple[int, str]:
     years, phrase = experience_evidence(job)
-    return years, (f"at least {years} years — {phrase}" if years else "no minimum detected")
+    return years, (f"at least {years} years: {phrase}" if years else "no minimum detected")
 
 
 def canonical_manual_skills(text: str) -> set[str]:
@@ -623,7 +623,7 @@ def analyze_jobs(jobs: list[dict], user_skills: set[str], threshold: float = DEF
             years, phrase = experience_evidence(job)
             if years > limit:
                 experience_excluded.append({"job": job, "minimum_years": years,
-                                            "reason": f"at least {years} years — {phrase}", "phrase": phrase})
+                                            "reason": f"at least {years} years: {phrase}", "phrase": phrase})
         excluded_ids = {id(row["job"]) for row in experience_excluded}
         unique = [job for job in unique if id(job) not in excluded_ids]
     core = select_core_skills(unique, core_share)

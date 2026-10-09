@@ -5,6 +5,7 @@ from unittest.mock import patch
 
 from streamlit.testing.v1 import AppTest
 
+import findings
 from views import common
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -36,14 +37,17 @@ class SiteTests(unittest.TestCase):
             with self.subTest(page=page):
                 self.open(page)
 
-    def test_home_example_and_findings_come_from_results(self):
+    def test_home_example_and_gap_come_from_results(self):
         app = self.open()
         text = "\n".join(item.value for item in app.markdown)
-        bengaluru = RESULTS["frontend-developer-bengaluru"]
-        self.assertIn(f"**{bengaluru['matches']} of {bengaluru['scored']}**", text)
-        for finding in common.key_findings():
-            self.assertIn(finding, text)
-        self.assertEqual(len(common.key_findings()), 3)
+        results = json.loads((ROOT / "reports/final_results.json").read_text())
+        star = RESULTS[findings.example_key(results)]
+        self.assertIn(f"**{star['scored']}** scored local listings", text)
+        self.assertIn(f"of **{star['matches']}**", text)
+        self.assertIn("Priya is a sample profile, not a real person", text)
+        gap = json.loads((ROOT / "reports/job_gap.json").read_text())
+        self.assertIn(findings.gap_sentence(gap), text)
+        self.assertIn("Pick stability: " + star["confidence"], text)
 
     def test_find_page_headline_matches_the_generated_result_for_every_pair(self):
         app = self.open("views/find.py")
@@ -90,10 +94,10 @@ class SiteTests(unittest.TestCase):
         warnings = " ".join(item.value for item in app.warning)
         self.assertIn("not collected the same way", warnings)
 
-    def test_methods_page_reports_pending_evidence(self):
+    def test_methods_page_reports_evidence_in_progress(self):
         app = self.open("views/methods.py")
         text = "\n".join(item.value for item in app.markdown)
-        self.assertIn("Status: pending", text)
+        self.assertIn("Status: in progress", text)
         self.assertIn("developer", text)
 
     def test_live_page_is_unavailable_without_a_key(self):

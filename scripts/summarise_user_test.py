@@ -18,7 +18,7 @@ def summarise(rows):
     rows = real(rows)
     n = len(rows)
     if not n:
-        return ('# User test\n\nStatus: pending. No participant rows have been recorded, so no result, '
+        return ('# User test\n\nStatus: in progress. No participant rows have been recorded, so no result, '
                 'quote or satisfaction figure is claimed.\n')
     changed = sum(yes(r['changed_choice']) for r in rows)
     trust = [int(r['trust_1_to_5']) for r in rows]

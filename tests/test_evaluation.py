@@ -35,9 +35,9 @@ class EvaluationKitTests(unittest.TestCase):
         self.assertEqual(result['experience_accuracy'], 1.0)
         self.assertIn('Listings scored: 2 of 3', text)
 
-    def test_labels_pending_when_nothing_is_filled(self):
+    def test_labels_in_progress_when_nothing_is_filled(self):
         text = score_labels.render(score_labels.score([]), 20)
-        self.assertIn('pending', text)
+        self.assertIn('in progress', text)
         self.assertNotIn('%', text)
 
     def test_user_test_counts_real_rows_and_gates_quotes(self):
@@ -55,7 +55,7 @@ class EvaluationKitTests(unittest.TestCase):
         self.assertIn('Helpful', text)
         self.assertNotIn('Private remark', text)
         self.assertNotIn('ignored', text)
-        self.assertIn('pending', summarise_user_test.summarise([]))
+        self.assertIn('in progress', summarise_user_test.summarise([]))
 
     def test_label_template_has_no_labels_and_no_contact_data(self):
         from scripts.build_data import EMAIL, PHONE

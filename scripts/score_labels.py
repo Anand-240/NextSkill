@@ -42,7 +42,7 @@ def pct(value):
 
 def render(result, total):
     if not result['rows']:
-        return ('# Hand-labelled accuracy\n\nStatus: pending. No fully labelled rows yet '
+        return ('# Hand-labelled accuracy\n\nStatus: in progress. No fully labelled rows yet '
                 f'({total} listings drawn, labels not filled).\n\nNo accuracy figure is claimed until a person '
                 'fills evaluation/labels_template.csv and runs scripts/score_labels.py.\n')
     c = result['counts']

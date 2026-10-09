@@ -19,13 +19,13 @@ def snapshot_range(result: dict) -> str:
 
 def job_line(job: dict, suffix: str = "") -> str:
     link = job.get("source_link") or job.get("share_link") or ""
-    label = f"{job.get('title') or 'Untitled'} — {job.get('company_name') or 'Unknown company'}{suffix}"
+    label = f"{job.get('title') or 'Untitled'} · {job.get('company_name') or 'Unknown company'}{suffix}"
     return f"- [{label}]({link})" if link else f"- {label}"
 
 
 def video_lines(videos: list[dict]) -> None:
     for video in videos:
-        st.markdown(f"- [{video['title']}]({video['link']}) — {video['channel']} · {video['duration']}")
+        st.markdown(f"- [{video['title']}]({video['link']}) · {video['channel']} · {video['duration']}")
 
 
 def hindi_block(skill: str, saved: bool, revision: bool = False) -> None:
