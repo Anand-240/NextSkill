@@ -284,3 +284,25 @@ Phase C remaining: 82 (of 105), of which revision videos 15.
   permission gating, pending states, template has no labels or contact data); full suite below.
 - Verify: no label was filled by this repository. Row counts only when all three label cells are filled.
   Zero searches.
+
+## E1-E8 - The website (one commit, pages built beside the old app, then switched)
+
+- Research: Streamlit st.navigation (position="top"), st.cache_data and file_uploader docs are
+  linked in research/RESEARCH.md. Streamlit widget identity includes its default arguments, so
+  defaults are seeded through session state (a first version reset the market selection on rerun;
+  the per-pair headline test caught it).
+- Plan/acceptance: pages Home, Find my next skill, Job Prep, Compare cities, Live search (only with a
+  key), Methodology and evidence, About and privacy; one shared engine; no exception without .env;
+  numbers equal reports/final_results.json; analysis cached; readable at 390 px.
+- Build: app.py is now the router; views/ holds the pages, shared state (common.py), result sections
+  (render.py) and Job Prep UI (prep_ui.py). The cache key holds canonical skills, never resume text.
+  Home findings and the Priya example are generated from final_results.json. Compare cities
+  recomputes each city with the same engine for the visitor's profile; Methodology reads the generated
+  reports (hand labels and user test say pending). .streamlit/config.toml: light theme, 5 MB uploads.
+  The single-page app and its tests were removed after every new page passed.
+- Test: tests/test_site.py (11 tests): every page loads with no key and network blocked; headline and
+  default Job Prep listing match the results file for all 8 pairs; added skills; five-city table and
+  agreement note; pending evidence; live page hidden without a key and keeps results when the credit
+  check fails; canonical-skill path equals the resume path. Full suite: 89 tests pass.
+- Verify: screenshots/site_*.png (1280 px) and mobile_home/mobile_find (390 px); horizontal overflow
+  0 px on all pages; no tracebacks. Medal shown only for Strong or Likely. Zero searches.
