@@ -15,7 +15,7 @@ Tell NextSkill your skills and your city. It reads local job listings through Se
 ## Key findings
 
 - **A Bengaluru frontend fresher should learn REST API next.** With HTML, CSS and JavaScript, the profile matches 9 of 19 scored Bengaluru listings in the saved demo. About 3 hours of free REST API courses (3.12 hours) would add 8 more matching listings, and the app lists every one of them. React adds the most (10) but takes about 5 hours, so the app shows it next to REST API as the biggest unlock.
-- **The app says when it is unsure.** Both demo picks are labelled Uncertain. REST API wins 62.2% of listing resamples in Bengaluru. In the Noida analyst fresher demo, Data Cleaning (+2 at 1.54 hours) edges SQL (+5 at 4.34 hours) on matches per hour but wins only 56.2% of resamples.
+- **The app says when it is unsure.** Both demo picks are labelled Uncertain. REST API wins 62.2% of listing resamples in Bengaluru. In the Noida analyst fresher demo, Data Cleaning (+2 at 1.54 hours) edges SQL (+5 at 4.34 hours) on matches per hour but wins only 56.4% of resamples.
 - **One listing becomes a prep plan.** For the "Frontend Developer (Fresher)" listing at Team Geek Solutions, the profile covers 3 of 7 core skills; REST API, React or Responsive Design alone would make it a match. Job Prep orders what to revise and learn, quotes the listing, and estimates about 8.9 to 14.4 hours.
 
 > **What the numbers mean**
@@ -100,7 +100,7 @@ Course hours are the median length of up to three free YouTube videos with a cou
 
 For a quality check, NextSkill tries every subset of the top eight measurable missing skills under 5, 10, and 15-hour budgets. These saved demos have **three** measurable candidate skills in Bengaluru and **five** in Noida, so the exact search is small. Exact search beats greedy once: in Noida at five hours, greedy takes Data Cleaning (+2) while SQL alone gives +5. In Bengaluru greedy matches the exact gain at every budget, although at 10 hours React alone reaches the same +10 in fewer hours. Greedy is not guaranteed to find the best combination.
 
-The app resamples eligible listings **500 times** with a fixed seed. REST API wins **62.2%** of Bengaluru resamples (Responsive Design 24.4%); Data Cleaning wins **56.2%** in Noida (SQL 39.0%). It also varies each measured skill's hours independently from **0.75x to 1.5x** in 500 seeded draws, checked at thresholds **0.4 / 0.5 / 0.6**, plus the selected threshold if different. At the default threshold this gives **1,500 checks**: the top pick is retained in **48.5%** for Bengaluru and **86.5%** for Noida.
+The app resamples eligible listings **500 times** with a fixed seed. REST API wins **62.2%** of Bengaluru resamples (Responsive Design 24.4%); Data Cleaning wins **56.4%** in Noida (SQL 39.0%). It also varies each measured skill's hours independently from **0.75x to 1.5x** in 500 seeded draws, checked at thresholds **0.4 / 0.5 / 0.6**, plus the selected threshold if different. At the default threshold this gives **1,500 checks**: the top pick is retained in **48.5%** for Bengaluru and **86.5%** for Noida.
 
 Recommendation confidence uses the **lower of the two shares**: Strong at 85% or more, Likely at 60% or more, otherwise Uncertain. Both demos are therefore **Uncertain**, and the top card shows a medal only for Strong or Likely picks. These labels measure sensitivity, not accuracy or hiring probability. A separate listing-count badge reports High (25+), Medium (12 to 24), or Low (under 12) sample size.
 

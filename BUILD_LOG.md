@@ -41,3 +41,27 @@ The existing app remains the entry point until replacement pages pass.
 - Verify: every source linked; no invented beneficiaries, outcome numbers or quotes.
   Diff reviewed. A1-A3 completed inside the one-hour timebox.
 - Record: zero search calls. A4/A5 remain deferred per priority order.
+
+### Phase A checkpoint (A1-A3)
+
+Account before/after: usage 0 -> 0; searches left 250 -> 250. Search calls: 0.
+A1 and A2 CI succeeded. A3 CI verified before proceeding. Applicable gates: H1
+69 tests pass; H4 initial 409-object history scan clean; H5 research sources opened.
+A4/A5 deferred by the requested priority order.
+
+## B1 - Rank all saved measurable candidates
+
+- Research: rank_skills and sensitivity checks sliced candidates before ranking.
+- Plan/acceptance: a low-unlock skill outside the fetch shortlist must win when its
+  saved course is shorter; preserve the cap on new requests.
+- Build: rank every candidate, using cache-only lookup beyond the live shortlist;
+  bootstrap and hour variation consider all measured candidates too.
+- Test: new counterexample test (SQL +1 / 0.5h beats Python +2 / 10h); full suite 70 tests.
+- Verify: unknown durations stay unscored; cache-only probe cannot call the network.
+  Reviewed diff. Phase B uses zero searches; account baseline usage 0 / 250 left.
+- Record: result changes will be regenerated and compared at B7.
+
+B1 verification correction: the first run exposed budget-label gaps and an honest
+Noida bootstrap change from 56.2% to 56.4%. Fixed unknown-hour budget labels,
+regenerated golden results (generator introduced early for evidence), and updated
+current prose. Archived the original golden file; no results tuned to preserve it.

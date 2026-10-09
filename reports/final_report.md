@@ -18,7 +18,7 @@ Both saved demos were re-run offline with SerpApi requests blocked. No SerpApi s
 | Bengaluru before | 5 of 19 | REST API: +7 at 3.12 h | React: +10 at 5.09 h | 63.0% / 58.9% | Uncertain |
 | Bengaluru after | **9 of 19** | REST API: **+8** at 3.12 h | React: +10 at 5.09 h | 62.2% / **48.5%** | Uncertain |
 | Noida before | 1 of 17 | Data Cleaning: +2 at 1.54 h | SQL: +5 at 4.34 h | 49.2% / 86.1% | Uncertain |
-| Noida after | 1 of 17 | Data Cleaning: +2 at 1.54 h | SQL: +5 at 4.34 h | **56.2%** / 86.5% | Uncertain |
+| Noida after | 1 of 17 | Data Cleaning: +2 at 1.54 h | SQL: +5 at 4.34 h | **56.4%** / 86.5% | Uncertain |
 
 The Bengaluru fresher now matches four more listings, mostly because HTML5 and CSS3 are recognised. The fastest win and biggest unlock did not change in either demo. Noida changed only in its sensitivity shares, after some Noida skills were marked preferred rather than core.
 

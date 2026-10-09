@@ -623,8 +623,13 @@ def no_unlock_message(analysis: dict) -> str:
 
 def rank_skills(analysis: dict, client: SerpClient, include_hindi: bool = False, learning_limit: int = 5) -> list[dict]:
     ranked = []
-    for skill in analysis["candidates"][:learning_limit]:
-        hours, videos, confidence = course_videos(skill, client, include_hindi)
+    saved = SerpClient(use_fixtures=client.use_fixtures, cache_only=True, cache_dir=client.cache_dir)
+    for index, skill in enumerate(analysis["candidates"]):
+        # Limit new searches, never the ranking of already measured candidates.
+        source = client if index < learning_limit else saved
+        hours, videos, confidence = course_videos(skill, source, include_hindi)
+        if hours is None and client.budget_reached:
+            confidence = "budget"
         unlocked = len(analysis["unlocked"][skill])
         ranked.append({"skill": skill, "unlocked_count": unlocked, "unlocked_jobs": analysis["unlocked"][skill], "appears_in": analysis["skill_counts"][skill], "hours": hours, "confidence": confidence, "score": unlocked / hours if hours else None, "videos": videos})
         members = analysis.get("display_members", {}).get(skill, frozenset({skill}))
@@ -803,8 +808,7 @@ def _bootstrap_cached(snapshot: tuple, user_skills: tuple[str, ...], measured_ho
             appears = sum(any(skill in req for req in requirements) for requirements, _ in usable)
             results.append((skill, unlocked, appears))
         # Match the product rule: shortlist by unlocked count, then rank by jobs/hour.
-        shortlist = sorted(results, key=lambda row: (-row[1], -row[2], row[0]))[:learning_limit]
-        scored = [row for row in shortlist if hours.get(row[0])]
+        scored = [row for row in results if hours.get(row[0])]
         winner = min(scored, key=lambda row: (-row[1] / hours[row[0]], -row[1], row[0]))[0] if scored else "No scored pick"
         winners[winner] += 1
     return tuple(sorted(winners.items(), key=lambda row: (-row[1], row[0])))
@@ -850,7 +854,7 @@ def assess_robustness(jobs: list[dict], user_skills: set[str], top_skill: str | 
     by_threshold = []
     for threshold in sorted({.4, .5, .6, round(base_threshold, 10)}):
         analysis = analyze_jobs(jobs, user_skills, threshold, exclude_old, core_share, experience_level)
-        candidates = [skill for skill in analysis["candidates"][:learning_limit] if skill in measured]
+        candidates = [skill for skill in analysis["candidates"] if skill in measured]
         counts = {skill: len(analysis["unlocked"][skill]) for skill in candidates}
         local = Counter()
         for hours in draws:
