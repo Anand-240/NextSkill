@@ -1,4 +1,4 @@
-"""Find my next skill: pick a saved market, describe your skills, read the answer and its evidence."""
+"""Job match: pick a job role and city, describe your skills, see the jobs you match and the skill that opens more."""
 import streamlit as st
 
 from i18n import t
@@ -7,6 +7,8 @@ from views.render import render_full
 
 common.language_bar()
 st.header(t("find_header"))
+st.write("Choose the job you want and your city, then add your skills. You will see how many local listings you already match, "
+         "which jobs one skill would open, and the free course that gets you there.")
 pairs = common.pairs()
 labels = [common.pair_label(pair) for pair in pairs]
 pair = pairs[labels.index(st.selectbox(t("find_role_city"), labels, key=common.seed("find_pair", common.start_label(labels)),

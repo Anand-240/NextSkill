@@ -7,7 +7,7 @@ from views import common  # noqa: E402
 
 common.style()
 pages = [st.Page("views/home.py", title="Home", icon="🏠", default=True),
-         st.Page("views/find.py", title="Find my next skill", icon="🎯"),
+         st.Page("views/find.py", title="Job match", icon="🎯"),
          st.Page("views/prep.py", title="Job Prep", icon="📝"),
          st.Page("views/compare.py", title="Compare cities", icon="🗺️"),
          st.Page("views/methods.py", title="Methodology and evidence", icon="📊"),

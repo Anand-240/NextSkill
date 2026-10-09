@@ -32,7 +32,7 @@ st.caption("Generated from reports/job_gap.json: listings visible through Google
 st.markdown("### Explore")
 columns = st.columns(4)
 for column, (path, label, note) in zip(columns, (
-        ("views/find.py", "Find my next skill", "Pick a market, add your skills"),
+        ("views/find.py", "Job match", "Choose a job and city, add your skills"),
         ("views/prep.py", "Job Prep", "Revise and learn for one listing"),
         ("views/compare.py", "Compare cities", "Job-information gap and city differences"),
         ("views/methods.py", "Methodology and evidence", "What the numbers mean"))):

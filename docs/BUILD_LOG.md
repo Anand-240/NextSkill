@@ -553,3 +553,10 @@ local search with a budget of 3, and the limits. The live segment is to be recor
 - 7.6 Open for the human: the hosted app still served the old build when checked (8 saved markets, "unknown date" on three
   markets). Reboot the Streamlit app, then open it in a private window and check Home shows the worked example for
   Frontend Developer in Bengaluru and Compare cities shows the job-information gap section.
+
+## Job match page naming
+
+The page "Find my next skill" did not say it was about jobs. It is now "Job match" (header "Job match and next skill") with
+a one-sentence intro, the field "Job role and city", and a "Jobs <skill> would open" list on the Answer tab that links the
+first five listings the headline skill would turn into matches. Home, DEMO.md and the tests use the new name; the layout was
+re-captured at 1280 px and 390 px.

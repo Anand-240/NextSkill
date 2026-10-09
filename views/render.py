@@ -98,6 +98,13 @@ def render_answer(result: dict, saved: bool) -> None:
                     st.caption(f"{note}. " + summary(row))
                 else:
                     st.caption("No skill has course lengths from at least two full courses, so none can lead on hours.")
+    if headline and headline["unlocked_jobs"]:
+        jobs = headline["unlocked_jobs"]
+        with st.expander(f"Jobs {headline['display_skill']} would open ({len(jobs)})", expanded=True):
+            for job in jobs[:5]:
+                st.markdown(job_line(job, f" · {posted_text(job)}"))
+            if len(jobs) > 5:
+                st.caption(f"{len(jobs) - 5} more are listed under Evidence.")
     lowest = [row for row in result["ranked"] if row["confidence"] == "low" and row["hours"] is not None]
     if lowest:
         st.caption("Low course confidence (fewer than two full courses, so these hours come from other videos and are "

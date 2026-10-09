@@ -10,8 +10,8 @@ from engine import ROOT
 STRINGS = {
     "toggle_hindi": "Prefer Hindi videos",
     "hero_tagline": "Your next skill, counted from local job listings in your city.",
-    "find_header": "Find my next skill",
-    "find_role_city": "Role and city",
+    "find_header": "Job match and next skill",
+    "find_role_city": "Job role and city",
     "find_resume": "Paste your resume text or list your skills",
     "find_add_skills": "Add more skills (comma separated)",
     "find_experience": "Experience level",

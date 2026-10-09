@@ -63,6 +63,14 @@ class SiteTests(unittest.TestCase):
                 self.assertIn(f"Pick stability: ", text)
                 self.assertIn(row["retrieved_dates"][0], text)
 
+    def test_job_match_page_lists_the_jobs_the_headline_skill_would_open(self):
+        app = self.open("views/find.py")
+        self.assertEqual(app.header[0].value, "Job match and next skill")
+        star = RESULTS["frontend-developer-bengaluru"]
+        head = next(row for row in star["ranked"] if row["skill"] == star["headline_skill"])
+        labels = [expander.label for expander in app.expander]
+        self.assertTrue(any(label == f"Jobs {head['display_skill']} would open ({head['unlocked']})" for label in labels), labels)
+
     def test_find_page_accepts_added_skills_and_keeps_old_wording_out(self):
         app = self.open("views/find.py")
         app.text_input[0].set_value("SQL, Tableau").run()
