@@ -90,16 +90,20 @@ def _render_plan(plan: dict, saved: bool, budget: int | None) -> None:
     with short.container(border=True):
         route = plan["shortest_route"]
         st.markdown(f"**{t('shortest_route')}**")
-        st.write((", ".join(route["skills"]) or route["status"]) +
-                 (f" · {route['hours']:.2f} course hours" if route["hours"] is not None else ""))
-        st.caption(route["status"][0].upper() + route["status"][1:] + ". Unknown hours may hide a shorter route. "
-                   "Coverage is not eligibility.")
+        if route["skills"]:
+            st.write(", ".join(route["skills"]) + f" · {hours_text(route['hours'])} of courses")
+        else:
+            st.write(route["status"][0].upper() + route["status"][1:])
+        st.caption("Unknown hours may hide a shorter route. Coverage is not eligibility.")
         if route.get("low_confidence"):
             st.caption("Low course confidence for: " + ", ".join(route["low_confidence"]) + ".")
     with full.container(border=True):
         st.markdown(f"**{t('full_plan')}**")
-        st.write(f"{time_range(plan)}: {plan['revision_minutes']:.0f} minutes of revision videos "
-                 f"plus {plan['learning_hours']:.1f} hours of full courses.")
+        if plan["revision_minutes"] or plan["learning_hours"]:
+            st.write(f"{time_range(plan)}: {hours_text(plan['revision_minutes'] / 60) if plan['revision_minutes'] else 'no'} "
+                     f"of revision videos plus {hours_text(plan['learning_hours']) if plan['learning_hours'] else 'no'} of full courses.")
+        else:
+            st.write("No measured route: this listing has no saved revision videos or course lengths to add up.")
         st.caption(REVISION_LABEL)
     if plan["hours_unknown"] or plan["broad"]:
         st.caption("Not in the time plan: " + ", ".join(

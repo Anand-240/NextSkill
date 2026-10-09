@@ -75,7 +75,7 @@ def gap_table(gap: dict) -> str:
 
 
 def _hours(value: float | None) -> str:
-    return "hours unknown" if value is None else f"{value:.1f} h"
+    return "hours unknown" if value is None else hours_text(value)
 
 
 def baseline_rows(results: dict) -> list[dict]:

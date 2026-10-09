@@ -7,7 +7,7 @@ import re
 import itertools
 from typing import Callable
 
-from engine import (ROOT, coverage, experience_evidence, extract_skills, indicated_languages,
+from engine import (ROOT, coverage, experience_evidence, extract_skills, hours_parts, hours_text, indicated_languages,
                     parse_duration, stated_must_haves, must_have_status)
 from skills import GENERIC, _BOUNDARY, _patterns, skill_mentions, names_skill
 
@@ -299,10 +299,17 @@ def shortest_route(requirements, user, threshold, course_lookup):
 
 
 def time_range(plan: dict) -> str:
-    """Revision minutes are exact video lengths; course hours keep the app's rough 25% band."""
+    """Revision minutes are exact video lengths; course hours keep the app's rough 25% band.
+
+    Both ends use the same rounding as the rest of the app, and equal ends collapse to one value."""
     revision = plan["revision_minutes"] / 60
     low = revision + plan["learning_hours"] * .75
     high = revision + plan["learning_hours"] * 1.25
-    if high < 1:
-        return f"about {round(low * 60)} to {round(high * 60)} minutes"
-    return f"about {low:.1f} to {high:.1f} hours"
+    if high <= 0:
+        return "No measured time"
+    start, end = hours_parts(low), hours_parts(high)
+    if start == end:
+        return "about " + " ".join(start)
+    if start[1] == end[1]:
+        return f"about {start[0]} to {end[0]} {start[1]}"
+    return f"about {' '.join(start)} to {' '.join(end)}"

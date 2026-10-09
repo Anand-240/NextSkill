@@ -133,7 +133,11 @@ class JobPrepPlanTests(unittest.TestCase):
                 self.assertEqual(item["other_unlocks"], expected, item["skill"])
         self.assertEqual([item["skill"] for item in plan["items"] if item["action"] == "revise"], ["Excel"])
         self.assertEqual(plan["learning_hours"], 4.0)
-        self.assertEqual(time_range(plan), "about 3.0 to 5.0 hours")
+        self.assertEqual(time_range(plan), "about 3 to 5 hours")
+        self.assertEqual(time_range({"revision_minutes": 59, "learning_hours": 0.0}), "about 1 hour")
+        self.assertEqual(time_range({"revision_minutes": 12, "learning_hours": 0.0}), "about 10 minutes")
+        self.assertEqual(time_range({"revision_minutes": 20, "learning_hours": 0.5}), "about 40 minutes to 1 hour")
+        self.assertEqual(time_range({"revision_minutes": 0, "learning_hours": 0.0}), "No measured time")
 
     def test_evidence_is_an_exact_line_from_the_listing(self):
         plan = build_plan(self.analysis, self.index, no_course, no_revision)

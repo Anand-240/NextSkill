@@ -68,16 +68,16 @@ A simple alternative is to recommend the missing core skill that the most scored
 
 | Market | Most asked skill (extra listings, course time) | Headline pick (extra listings, course time) | Reading |
 |---|---|---|---|
-| Frontend Developer / Bengaluru | React (+10, 5.1 h) | REST API (+8, 2.5 h) | headline unlocks fewer listings in less course time |
-| Data Analyst / Hyderabad | SQL (+7, 4.3 h) | Data Cleaning (+4, 2.3 h) | headline unlocks fewer listings in less course time |
-| Data Analyst / Pune | Statistics (+4, 8.2 h) | Power BI (+3, 3.7 h) | headline unlocks fewer listings in less course time |
-| Data Analyst / Jaipur | SQL (+4, 4.3 h) | Power BI (+4, 3.7 h) | headline unlocks as many listings in less course time |
-| Digital Marketing Executive / Dehradun | Google Ads (+3, 5.4 h) | SEO (+2, 1.9 h) | headline unlocks fewer listings in less course time |
-| Python Developer / Bengaluru | Django (+1, 3.3 h) | REST API (+1, 2.5 h) | headline unlocks as many listings in less course time |
-| Python Developer / Kochi | HTML (+2, 5.4 h) | PostgreSQL (+3, 4.1 h) | headline unlocks more listings in less course time |
-| Accountant / Indore | GST (+2, 4.8 h) | TDS (+2, 1.6 h) | headline unlocks as many listings in less course time |
-| Digital Marketing Executive / Pune | Market Research (+2, 0.9 h) | Email Marketing (+1, 2.3 h) | headline unlocks fewer listings |
-| Frontend Developer / Hyderabad | Git (+3, 3.7 h) | REST API (+3, 2.5 h) | headline unlocks as many listings in less course time |
+| Frontend Developer / Bengaluru | React (+10, about 5 hours) | REST API (+8, about 3 hours) | headline unlocks fewer listings in less course time |
+| Data Analyst / Hyderabad | SQL (+7, about 4 hours) | Data Cleaning (+4, about 2 hours) | headline unlocks fewer listings in less course time |
+| Data Analyst / Pune | Statistics (+4, about 8 hours) | Power BI (+3, about 4 hours) | headline unlocks fewer listings in less course time |
+| Data Analyst / Jaipur | SQL (+4, about 4 hours) | Power BI (+4, about 4 hours) | headline unlocks as many listings in less course time |
+| Digital Marketing Executive / Dehradun | Google Ads (+3, about 5 hours) | SEO (+2, about 2 hours) | headline unlocks fewer listings in less course time |
+| Python Developer / Bengaluru | Django (+1, about 3 hours) | REST API (+1, about 3 hours) | headline unlocks as many listings in less course time |
+| Python Developer / Kochi | HTML (+2, about 5 hours) | PostgreSQL (+3, about 4 hours) | headline unlocks more listings in less course time |
+| Accountant / Indore | GST (+2, about 5 hours) | TDS (+2, about 2 hours) | headline unlocks as many listings in less course time |
+| Digital Marketing Executive / Pune | Market Research (+2, about 1 hour) | Email Marketing (+1, about 2 hours) | headline unlocks fewer listings |
+| Frontend Developer / Hyderabad | Git (+3, about 4 hours) | REST API (+3, about 3 hours) | headline unlocks as many listings in less course time |
 
 ## All markets
 
