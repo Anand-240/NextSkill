@@ -219,7 +219,10 @@ class EngineTests(unittest.TestCase):
         videos = __import__("json").loads((fixtures / "youtube_1.json").read_text())
 
         def fake_request(endpoint, params, key):
-            return jobs if params.get("engine") == "google_jobs" else videos
+            if params.get("engine") == "google_jobs":
+                return jobs
+            skill = params["search_query"].split(" full course")[0]
+            return {"video_results": [{**video, "title": skill + " full course"} for video in videos["video_results"]]}
 
         with tempfile.TemporaryDirectory() as directory, patch("engine._request", side_effect=fake_request) as request:
             client = SerpClient(cache_dir=Path(directory), call_cap=None, budget=budget)
@@ -517,7 +520,7 @@ class EngineTests(unittest.TestCase):
             result = run("Data Analyst", "Noida", "Excel, basic Python", client=client,
                          experience_level="Fresher")
             self.assertEqual(result["eligible_count"], 20)
-            self.assertEqual(result["ranked"][0]["skill"], "Data Cleaning")
+            self.assertEqual(result["ranked"][0]["skill"], "SQL")
             self.assertIsNotNone(result["ranked"][0]["hours"])
             self.assertEqual(result["robustness"]["label"], confidence_label(
                 result["bootstrap"]["top_share"], result["robustness"]["top_share"]))
@@ -530,7 +533,7 @@ class EngineTests(unittest.TestCase):
                 hours, videos, confidence = course_videos(skill, client)
                 self.assertIsNotNone(hours, skill)
                 self.assertGreaterEqual(len(videos), 2, skill)
-                self.assertEqual(confidence, "standard", skill)
+                self.assertIn(confidence, {"standard", "low"}, skill)
             self.assertTrue(all(event["source"] == "demo" for event in client.replay))
 
     def test_missing_key_detection(self):

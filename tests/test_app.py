@@ -1,4 +1,5 @@
 import unittest
+import json
 from pathlib import Path
 from unittest.mock import patch
 
@@ -28,11 +29,11 @@ class PresentationTests(unittest.TestCase):
             app = AppTest.from_file(str(ROOT / "app.py"), default_timeout=120).run()
             self.assertFalse(app.exception)
             self.assertEqual(app.subheader[0].value,
-                             "Learn REST API next: +8 more matching listings, about 3 hours of free courses.")
+                             "Learn Responsive Design next: +6 more matching listings, about 1 hour of free courses.")
             self.assertIn("**Your profile matches 9 of 19 saved listings in Bengaluru.**",
                           [item.value for item in app.markdown])
             self.assertIn("About this sample", [item.label for item in app.expander])
-            self.assertFalse(any("🥇" in item.value for item in app.markdown))  # Uncertain pick: no medal.
+            self.assertEqual(any("🥇" in item.value for item in app.markdown), app.session_state["result"]["robustness"]["label"] in {"Strong", "Likely"})
             captions = "\n".join(item.value for item in app.caption)
             self.assertIn("Snapshot date: 2026-10-07 (UTC)", captions)
             self.assertIn("23 eligible listings", captions)
@@ -60,7 +61,7 @@ class PresentationTests(unittest.TestCase):
             app = AppTest.from_file(str(ROOT / "app.py"), default_timeout=120).run()
             self.assertFalse(app.exception)
             text = "\n".join(item.value for item in app.markdown)
-            self.assertIn("**Fastest win: REST API**", text)
+            self.assertIn("**Fastest win: Responsive Design**", text)
             self.assertIn("**Biggest unlock: React**", text)
             self.assertNotIn("Fastest win and biggest unlock", text)
             captions = "\n".join(item.value for item in app.caption)
@@ -73,8 +74,8 @@ class PresentationTests(unittest.TestCase):
                 app.sidebar.button[0].click().run()
             self.assertFalse(app.exception)
             text = "\n".join(item.value for item in app.markdown)
-            self.assertIn("**Fastest win and biggest unlock: REST API**", text)
-            self.assertIn("#### 🥇 REST API", text)  # Likely confidence keeps the medal.
+            self.assertIn("**Fastest win and biggest unlock: Responsive Design**", text)
+            self.assertIn("#### 🥇 Responsive Design", text)  # Likely confidence keeps the medal.
             self.assertNotIn("**Biggest unlock: ", text)
 
     def test_job_prep_section_defaults_to_the_demo_job_and_switches(self):

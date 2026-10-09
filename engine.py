@@ -18,7 +18,7 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import urlopen
 
-from skills import ALIASES, GENERIC, SKILLS, extract_skills, skill_mentions, negated_mention, preferred_mention, _BOUNDARY
+from skills import ALIASES, GENERIC, SKILLS, extract_skills, skill_mentions, negated_mention, preferred_mention, _BOUNDARY, names_skill
 
 ROOT = Path(__file__).resolve().parent
 DEMO_DATA = ROOT / "demo_data"
@@ -510,9 +510,11 @@ def indicated_languages(text: str) -> set[str]:
 
 
 def select_course_videos(results: list[dict], query: str,
-                         requested_languages: set[str] | None = None) -> tuple[float | None, list[dict], str]:
+                         requested_languages: set[str] | None = None, skill: str | None = None) -> tuple[float | None, list[dict], str]:
     """Prefer named full courses >=1h; weaker >=30m fallback is labelled."""
     parsed = []
+    skill = skill or re.split(r"\s+(?:full course|tutorial|course)", query, maxsplit=1, flags=re.I)[0]
+    seen = set()
     allowed = requested_languages if requested_languages is not None else {"english"} | indicated_languages(query)
     for item in results:
         hours = parse_duration(item.get("length"))
@@ -521,10 +523,16 @@ def select_course_videos(results: list[dict], query: str,
         channel = item.get("channel") or {}
         channel_name = str(channel.get("name") or "") if isinstance(channel, dict) else str(channel)
         title = item.get("title") or "untitled"
+        if not names_skill(title, skill):
+            continue
+        if item.get("link") and item["link"] in seen:
+            continue
         if indicated_languages(title + " " + channel_name) - allowed:
             continue
         parsed.append({"title": title, "channel": channel_name,
                        "duration": item.get("length"), "hours": hours, "link": item.get("link") or "", "language_query": query})
+        if item.get("link"):
+            seen.add(item["link"])
     primary = [video for video in parsed if video["hours"] >= 1 and COURSE_TITLE.search(video["title"])]
     if len(primary) >= 2:
         chosen, confidence = primary[:3], "standard"
@@ -548,7 +556,7 @@ def course_videos(skill: str, client: SerpClient, include_hindi: bool = False) -
             break
         _check_error(data)
         results.extend(data.get("video_results") or [])
-    return select_course_videos(results, ", ".join(queries), {"english", "hindi"} if include_hindi else {"english"})
+    return select_course_videos(results, ", ".join(queries), {"english", "hindi"} if include_hindi else {"english"}, skill)
 
 
 def select_core_skills(jobs: list[dict], share: float = 0.25) -> set[str]:

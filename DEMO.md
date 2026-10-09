@@ -1,19 +1,16 @@
-# NextSkill demo script (2 minutes 45 seconds)
+# NextSkill local demo (2 minutes 45 seconds)
 
-**Before recording**
+Run `streamlit run app.py` locally. Keep the public hosted app key-free.
+Use saved data for rehearsal. A live recording uses a small explicit budget.
 
-- Run the app **locally** with `streamlit run app.py`, with your key in `.env`. The hosted app has no key and cannot do the live step.
-- Leave **Demo data** on. The Bengaluru frontend fresher result (HTML, CSS, JavaScript) appears automatically. Keep **Fresher**, match threshold **0.50** and core share **0.25**.
-- Credits: the Account API showed **2 credits left** on 2026-10-08. Check the balance in the sidebar after turning on Live search, and set the **Live search budget** to no more than what remains. With a budget of 2 the live step makes at most 2 new searches; if the budget runs out, the app shows the listings it fetched and marks the remaining course hours as unknown instead of failing. Do not rehearse the live step, and do not fetch Job Prep revision videos during the recording.
-- If SerpApi is slow, pause the recording while the live search loads. Check that the exported video is 2:45 or shorter, and that its link opens in a private or incognito window without signing in.
+| Time | Show and say |
+|---|---|
+| 0:00-0:30 | Priya knows HTML, CSS and JavaScript and wants a frontend job in Bengaluru. NextSkill checked local listings through SerpApi. Her profile matches 9 of 19 scored listings. Responsive Design could add 6 more; here are the listings and the free courses behind that estimate. |
+| 0:30-1:05 | Open listing evidence, must-have status, course sources and confidence: Strong. Video duration is not mastery. |
+| 1:05-1:25 | Open Job Prep; explain revision versus learning and the full plan. |
+| 1:25-1:50 | Compare saved cities and show sample sizes; explain any low-data warning. |
+| 1:50-2:20 | Local live search with budget 3. Show Search Replay, partial results and the credit counter. Do not expose the key. |
+| 2:20-2:45 | Coverage is not hiring eligibility. Independent labels and user testing are pending. Every recommendation links to its evidence. |
 
-| Time | On screen | Narration |
-|---|---|---|
-| 0:00-0:20 | Hero and the "Learn REST API next" line. | "Priya just finished her degree in Bengaluru. She knows HTML, CSS and JavaScript. Which one skill should she learn this month? NextSkill read 45 real Bengaluru listings through SerpApi and answers: REST API." |
-| 0:20-0:50 | Match line, then the **Fastest win** and **Biggest unlock** cards. Open the REST API card: expand **8 listings this skill would add as matches**, then point at the course videos. | "Her profile matches 9 of 19 scored listings. REST API is the fastest win: 8 more matches for about 3 hours of free courses. React is the biggest unlock, 10 more, but about 5 hours, so the app shows both. These are the real listings behind the 8, and these free courses set the hour estimate." |
-| 0:50-1:10 | Scroll to the open **Job Prep** plan for Frontend Developer (Fresher) at Team Geek Solutions. Point at readiness, the order table and the JavaScript revision videos. | "Pick one listing and NextSkill builds a prep plan from the same data. For this fresher job she covers 3 of 7 core skills. React comes first, then revising JavaScript, which 17 of 23 listings ask for, with two short videos." |
-| 1:10-1:35 | Change **Demo role** to **Data Analyst, Noida** and press **Find my next skill**. Point at **Recommendation confidence: Uncertain**, then open **Greedy plan vs exact budgets**. | "Not every answer is clear. For a Noida analyst fresher, Data Cleaning is the fastest win, 2 more listings in about one and a half hours, but SQL unlocks 5. Data Cleaning wins only 56 percent of resamples, so the app says Uncertain. And with a 5-hour budget, SQL alone beats the step-by-step plan, 5 matches to 2." |
-| 1:35-2:15 | Turn on **Live search**. Show the credit balance and set **Live search budget** to the credits left. Enter **Data Analyst**, **Hyderabad**, experience **1-3 years**, job pages **1**, point at "This search may use up to N credits", press **Find my next skill**, then open **Search replay**. | "Now a live search: Data Analyst in Hyderabad, one to three years of experience, one page. The sidebar shows my SerpApi balance, and the budget caps how many new searches this run can make. SerpApi fetches current Google Jobs listings and YouTube course lengths. Search Replay marks each request as live, cached or skipped by the budget." |
-| 2:15-2:45 | Open **How this is calculated**, then scroll back to the top line. | "A match means skill coverage, not a hiring prediction, and course length is not time to mastery. Every number links back to a real listing or a real course. NextSkill turns a wall of job requirements into one clear next step." |
-
-Reference screenshots: [Bengaluru](screenshots/final_frontend.png), [Job Prep](screenshots/final_jobprep.png), [Noida](screenshots/final_noida.png), [Noida plan](screenshots/final_noida_plan.png), [Search Replay](screenshots/final_replay.png). All demo figures come from [the final report](reports/final_report.md).
+The video must be under three minutes, show the local app, and open without sign-in.
+This file is a script, not evidence that a public video has been submitted.

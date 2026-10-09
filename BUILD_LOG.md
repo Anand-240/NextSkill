@@ -89,3 +89,19 @@ current prose. Archived the original golden file; no results tuned to preserve i
 - Test: mocked live UI account failure added; full suite 73 tests passes.
 - Verify: result remains rendered and retained, no app exception. Diff reviewed.
 - Record: zero searches.
+
+## B4 - Course title relevance
+
+- Research: the old selector admitted any course-like title and duration, including
+  titles that did not name the requested skill. Reviewed saved selected videos.
+- Plan/acceptance: guarded skill/alias title match, duplicate-link removal, low
+  confidence below two full courses, new relevance test and removal report.
+- Build: shared names_skill check for course/revision titles; preserved language and
+  fallback rules. Generated documents/results introduced early to avoid stale claims.
+- Test: 74 tests; changed old assertions that assumed the pre-fix winners. Mocked
+  budget fixtures now return the requested skill so they test budgets independently.
+- Verify: removed selected videos listed in reports/course_relevance.md. Bengaluru
+  winner now Responsive Design at 0.84h (low course confidence); Noida winner SQL.
+  An exact title match still does not prove stack suitability or audio language.
+  Golden-result test and UI agree. Diff reviewed; no claims tuned to old numbers.
+- Record: no searches. Old results preserved in reports/archive/pre_complete_build.json.

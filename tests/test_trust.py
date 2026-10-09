@@ -1,10 +1,19 @@
 import unittest
 from unittest.mock import patch
 
-from engine import SerpClient, rank_skills, stated_must_haves, must_have_status, analyze_jobs
+from engine import SerpClient, rank_skills, stated_must_haves, must_have_status, analyze_jobs, select_course_videos
 
 
 class TrustTests(unittest.TestCase):
+    def test_course_title_requires_skill_or_alias(self):
+        videos = [{'title':'Figma full course','length':'2:00:00'},
+                  {'title':'ReactJS full course','length':'1:00:00'},
+                  {'title':'ReactJSX full course','length':'3:00:00'}]
+        hours, chosen, confidence = select_course_videos(videos, 'React full course')
+        self.assertEqual(hours, 1)
+        self.assertEqual(len(chosen), 1)
+        self.assertEqual(confidence, 'low')
+
     def test_must_have_phrases_and_alternatives(self):
         for phrase in ['Must know SQL', 'SQL mandatory', 'SQL required', 'SQL essential', 'Minimum skills: SQL']:
             with self.subTest(phrase=phrase):

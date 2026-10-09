@@ -8,7 +8,7 @@ from typing import Callable
 
 from engine import (ROOT, coverage, experience_evidence, extract_skills, indicated_languages,
                     parse_duration, stated_must_haves, must_have_status)
-from skills import GENERIC, _BOUNDARY, _patterns, skill_mentions
+from skills import GENERIC, _BOUNDARY, _patterns, skill_mentions, names_skill
 
 MEDIUM_VIDEO_SP = "EgIYAw=="  # YouTube Filters > Duration > 4-20 minutes, passed through SerpApi's `sp`.
 REVISION_TITLE = re.compile(r"\b(?:revision|revise|crash course|one[ -]?shot|quick|"
@@ -30,10 +30,6 @@ def is_cached(params: dict, demo: bool) -> bool:
     """Mirror SerpClient's response file naming without touching the network."""
     digest = hashlib.sha256(json.dumps(params, sort_keys=True).encode()).hexdigest()[:20]
     return (ROOT / ("demo_data" if demo else "cache") / f"search_{digest}.json").exists()
-
-
-def names_skill(text: str, skill: str) -> bool:
-    return any(pattern.search(text) for pattern in _patterns.get(skill, []))
 
 
 def select_revision_videos(results: list[dict], skill: str,

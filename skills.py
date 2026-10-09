@@ -182,3 +182,9 @@ def extract_skills(text: str, resume: bool = False) -> set[str]:
 
 def skill_count() -> int:
     return sum(map(len, SKILLS.values()))
+
+
+def names_skill(text: str, skill: str) -> bool:
+    """A literal skill/alias mention with guarded word boundaries, for course titles."""
+    patterns = _patterns.get(skill)
+    return any(p.search(text) for p in patterns) if patterns else bool(re.search(r"(?<!\w)" + re.escape(skill) + r"(?!\w)", text, re.I))

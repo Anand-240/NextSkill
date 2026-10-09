@@ -16,33 +16,51 @@
       "scored": 19,
       "matches": 9,
       "must_haves_met": 1,
-      "fastest_win": "REST API",
+      "fastest_win": "Responsive Design",
       "biggest_unlock": "React",
       "ranked": [
+        {
+          "skill": "Responsive Design",
+          "display_skill": "Responsive Design",
+          "unlocked": 6,
+          "hours": 0.84,
+          "course_confidence": "low",
+          "jobs_per_hour": 7.143,
+          "videos": [
+            {
+              "title": "Responsive design made easy",
+              "channel": "Kevin Powell",
+              "duration": "42:40",
+              "hours": 0.7111111111111111,
+              "link": "https://www.youtube.com/watch?v=bn-DQCifeQQ",
+              "language_query": "Responsive Design full course for beginners"
+            },
+            {
+              "title": "Figma Responsive Design: How Enterprise Teams Actually Do It",
+              "channel": "UI Collective",
+              "duration": "50:24",
+              "hours": 0.84,
+              "link": "https://www.youtube.com/watch?v=NzFXc6PULh8",
+              "language_query": "Responsive Design full course for beginners"
+            },
+            {
+              "title": "Become a CSS Media Queries & Responsive Design Pro! Learn EVERYTHING You Need to Know In Detail 🔍",
+              "channel": "Future Fullstack",
+              "duration": "1:16:03",
+              "hours": 1.2675,
+              "link": "https://www.youtube.com/watch?v=webzXg0q_x4",
+              "language_query": "Responsive Design full course for beginners"
+            }
+          ]
+        },
         {
           "skill": "REST API",
           "display_skill": "REST API",
           "unlocked": 8,
-          "hours": 3.12,
+          "hours": 2.54,
           "course_confidence": "standard",
-          "jobs_per_hour": 2.565,
+          "jobs_per_hour": 3.144,
           "videos": [
-            {
-              "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
-              "channel": "freeCodeCamp.org",
-              "duration": "3:07:07",
-              "hours": 3.118611111111111,
-              "link": "https://www.youtube.com/watch?v=WXsD0ZgxjRw",
-              "language_query": "REST API full course for beginners"
-            },
-            {
-              "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
-              "channel": "freeCodeCamp.org",
-              "duration": "2:19:33",
-              "hours": 2.325833333333333,
-              "link": "https://www.youtube.com/watch?v=GZvSYJDk-us",
-              "language_query": "REST API full course for beginners"
-            },
             {
               "title": "Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
               "channel": "freeCodeCamp.org",
@@ -50,40 +68,22 @@
               "hours": 5.1466666666666665,
               "link": "https://www.youtube.com/watch?v=2JYT5f2isg4",
               "language_query": "REST API full course for beginners"
-            }
-          ]
-        },
-        {
-          "skill": "Responsive Design",
-          "display_skill": "Responsive Design",
-          "unlocked": 6,
-          "hours": 2.8,
-          "course_confidence": "standard",
-          "jobs_per_hour": 2.142,
-          "videos": [
-            {
-              "title": "Responsive Web Development Complete Course for Beginners | Tutorial + Full Project",
-              "channel": "Sheryians Coding School",
-              "duration": "3:22:05",
-              "hours": 3.3680555555555554,
-              "link": "https://www.youtube.com/watch?v=J_r6hBo9lO4",
-              "language_query": "Responsive Design full course for beginners"
             },
             {
-              "title": "Build a responsive website with HTML, CSS, JS (Course)",
-              "channel": "Coder Coder",
-              "duration": "2:48:04",
-              "hours": 2.801111111111111,
-              "link": "https://www.youtube.com/watch?v=wGVOtu0DoKk",
-              "language_query": "Responsive Design full course for beginners"
+              "title": "API Full Course for Beginners (2026) | REST APIs | Vishwa Sir | upGrad",
+              "channel": "upGrad",
+              "duration": "1:11:16",
+              "hours": 1.1877777777777778,
+              "link": "https://www.youtube.com/watch?v=-58TX3yCHI4",
+              "language_query": "REST API full course for beginners"
             },
             {
-              "title": "Figma Crash Course 2025: Responsive Website Design",
-              "channel": "Flux Academy",
-              "duration": "1:44:11",
-              "hours": 1.736388888888889,
-              "link": "https://www.youtube.com/watch?v=m9uXR4xt95w",
-              "language_query": "Responsive Design full course for beginners"
+              "title": "RESTful API with .NET Core (.NET 7) - Full Course for Beginners",
+              "channel": "DotNetMastery",
+              "duration": "2:32:39",
+              "hours": 2.5441666666666665,
+              "link": "https://www.youtube.com/watch?v=_uZYOgzYheU",
+              "language_query": "REST API full course for beginners"
             }
           ]
         },
@@ -132,32 +132,39 @@
         }
       ],
       "bootstrap": {
-        "top_share": 0.622,
+        "top_share": 0.904,
         "shares": {
-          "REST API": 0.622,
-          "Responsive Design": 0.244,
-          "React": 0.112,
+          "Responsive Design": 0.904,
+          "REST API": 0.04,
+          "React": 0.034,
           "No scored pick": 0.022
         },
         "samples": 500
       },
       "hour_variation": {
-        "top_share": 0.4847,
+        "top_share": 0.9567,
         "checks": 1500
       },
-      "confidence": "Uncertain",
+      "confidence": "Strong",
       "curve": [
         {
+          "skill": "Responsive Design",
+          "hours": 0.84,
+          "cumulative_hours": 0.84,
+          "gained": 6,
+          "total": 15
+        },
+        {
           "skill": "REST API",
-          "hours": 3.12,
-          "cumulative_hours": 3.12,
-          "gained": 8,
+          "hours": 2.54,
+          "cumulative_hours": 3.38,
+          "gained": 2,
           "total": 17
         },
         {
           "skill": "React",
           "hours": 5.09,
-          "cumulative_hours": 8.21,
+          "cumulative_hours": 8.48,
           "gained": 2,
           "total": 19
         }
@@ -169,6 +176,7 @@
           "optimal_gained": 8,
           "ratio": 1.0,
           "greedy_skills": [
+            "Responsive Design",
             "REST API"
           ],
           "optimal_skills": [
@@ -182,6 +190,7 @@
           "optimal_gained": 10,
           "ratio": 1.0,
           "greedy_skills": [
+            "Responsive Design",
             "REST API",
             "React"
           ],
@@ -196,6 +205,7 @@
           "optimal_gained": 10,
           "ratio": 1.0,
           "greedy_skills": [
+            "Responsive Design",
             "REST API",
             "React"
           ],
@@ -235,43 +245,9 @@
       "scored": 17,
       "matches": 1,
       "must_haves_met": 0,
-      "fastest_win": "Data Cleaning",
+      "fastest_win": "SQL",
       "biggest_unlock": "SQL",
       "ranked": [
-        {
-          "skill": "Data Cleaning",
-          "display_skill": "Data Cleaning",
-          "unlocked": 2,
-          "hours": 1.54,
-          "course_confidence": "standard",
-          "jobs_per_hour": 1.295,
-          "videos": [
-            {
-              "title": "Cleaning Data in Excel: Microsoft Excel Crash Course",
-              "channel": "Simon Sez IT",
-              "duration": "1:01:13",
-              "hours": 1.0202777777777778,
-              "link": "https://www.youtube.com/watch?v=50Wd-Blu8DU",
-              "language_query": "Data Cleaning full course for beginners"
-            },
-            {
-              "title": "Data Cleaning Full Course for Data Science, Data Analysis, Machine Learning [FREE] - 2024 Edition",
-              "channel": "WsCube Tech",
-              "duration": "3:29:35",
-              "hours": 3.4930555555555554,
-              "link": "https://www.youtube.com/watch?v=ITy8R4278sk",
-              "language_query": "Data Cleaning full course for beginners"
-            },
-            {
-              "title": "How to Clean, Analyze and Present Data with Excel (FREE Adv. Course)",
-              "channel": "Chandoo",
-              "duration": "1:32:40",
-              "hours": 1.5444444444444445,
-              "link": "https://www.youtube.com/watch?v=H6k28jhclwI",
-              "language_query": "Data Cleaning full course for beginners"
-            }
-          ]
-        },
         {
           "skill": "SQL",
           "display_skill": "SQL",
@@ -303,6 +279,32 @@
               "hours": 29.807777777777776,
               "link": "https://www.youtube.com/watch?v=SSKVgrwhzus",
               "language_query": "SQL full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Data Cleaning",
+          "display_skill": "Data Cleaning",
+          "unlocked": 2,
+          "hours": 2.27,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.881,
+          "videos": [
+            {
+              "title": "Data Cleaning Full Course for Data Science, Data Analysis, Machine Learning [FREE] - 2024 Edition",
+              "channel": "WsCube Tech",
+              "duration": "3:29:35",
+              "hours": 3.4930555555555554,
+              "link": "https://www.youtube.com/watch?v=ITy8R4278sk",
+              "language_query": "Data Cleaning full course for beginners"
+            },
+            {
+              "title": "Learn Data Cleaning with Power Query in 60 Minutes (Full Course)",
+              "channel": "WsCube Tech",
+              "duration": "1:02:57",
+              "hours": 1.0491666666666666,
+              "link": "https://www.youtube.com/watch?v=Vh94CF9iBR0",
+              "language_query": "Data Cleaning full course for beginners"
             }
           ]
         },
@@ -410,41 +412,41 @@
         }
       ],
       "bootstrap": {
-        "top_share": 0.564,
+        "top_share": 0.576,
         "shares": {
-          "Data Cleaning": 0.564,
-          "SQL": 0.39,
-          "Power BI": 0.028,
+          "SQL": 0.576,
+          "Data Cleaning": 0.366,
+          "Power BI": 0.036,
+          "Tableau": 0.012,
           "No scored pick": 0.008,
-          "Tableau": 0.008,
           "Data Visualization": 0.002
         },
         "samples": 500
       },
       "hour_variation": {
-        "top_share": 0.8653,
+        "top_share": 0.4727,
         "checks": 1500
       },
       "confidence": "Uncertain",
       "curve": [
         {
-          "skill": "Data Cleaning",
-          "hours": 1.54,
-          "cumulative_hours": 1.54,
-          "gained": 2,
-          "total": 3
-        },
-        {
           "skill": "SQL",
           "hours": 4.34,
-          "cumulative_hours": 5.89,
-          "gained": 8,
+          "cumulative_hours": 4.34,
+          "gained": 5,
+          "total": 6
+        },
+        {
+          "skill": "Data Cleaning",
+          "hours": 2.27,
+          "cumulative_hours": 6.62,
+          "gained": 5,
           "total": 11
         },
         {
           "skill": "Tableau",
           "hours": 6.0,
-          "cumulative_hours": 11.89,
+          "cumulative_hours": 12.62,
           "gained": 2,
           "total": 13
         }
@@ -452,11 +454,11 @@
       "greedy_vs_exact": [
         {
           "budget": 5,
-          "greedy_gained": 2,
+          "greedy_gained": 5,
           "optimal_gained": 5,
-          "ratio": 0.4,
+          "ratio": 1.0,
           "greedy_skills": [
-            "Data Cleaning"
+            "SQL"
           ],
           "optimal_skills": [
             "SQL"
@@ -465,18 +467,16 @@
         },
         {
           "budget": 10,
-          "greedy_gained": 11,
-          "optimal_gained": 11,
+          "greedy_gained": 10,
+          "optimal_gained": 10,
           "ratio": 1.0,
           "greedy_skills": [
-            "Data Cleaning",
             "SQL",
-            "Power BI"
+            "Data Cleaning"
           ],
           "optimal_skills": [
             "SQL",
-            "Data Cleaning",
-            "Power BI"
+            "Data Cleaning"
           ],
           "candidate_count": 5
         },
@@ -486,8 +486,8 @@
           "optimal_gained": 12,
           "ratio": 1.0,
           "greedy_skills": [
-            "Data Cleaning",
             "SQL",
+            "Data Cleaning",
             "Tableau"
           ],
           "optimal_skills": [
