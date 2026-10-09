@@ -398,6 +398,12 @@ class EngineTests(unittest.TestCase):
         self.assertIn("Limited data", stability_note(30, True, True))
         self.assertIn("15", stability_note(14, True, False))
         self.assertEqual(stability_note(20, True, False), "")
+        # A cap is mentioned only when it changes the label.
+        self.assertEqual(stability_note(14, True, False, "Uncertain", "Uncertain"), "")
+        self.assertEqual(stability_note(30, True, True, "Uncertain", "Uncertain"), "")
+        self.assertIn("15", stability_note(14, True, False, "Strong", "Likely"))
+        self.assertIn("Limited data", stability_note(30, True, True, "Likely", "Uncertain"))
+        self.assertIn("standard course confidence", stability_note(30, False, False, "Strong", "Likely"))
 
     def test_listing_confidence_boundaries(self):
         self.assertEqual([listing_confidence(n) for n in (0, 11, 12, 24, 25)],

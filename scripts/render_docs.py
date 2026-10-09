@@ -201,8 +201,8 @@ step and the API budget.
 
 ## AI tools used
 
-OpenAI Codex and Claude Code assisted with implementation, tests, analysis and documentation. The running app does not call
-an LLM. Human labels, user feedback and Hindi approvals have not been collected, and an assistant must never generate them.
+OpenAI Codex and Claude Code assisted with implementation, tests, analysis and documentation; Claude (chat) helped with
+planning, prompts and reviews. The running app does not call an LLM. Human labels, user feedback and Hindi approvals have not been collected, and an assistant must never generate them.
 """
     skills_phrase = resume.replace(", ", ", ")
     listing = star["job_prep_default"]
@@ -216,7 +216,7 @@ Never show the key.
 
 | Time | Show and say |
 |---|---|
-| 0:00-0:20 | Home page. "Meet Priya, a sample fresher in {star['city']} who knows {natural_list_text(skills_phrase)}. In {star['scored']} local listings pulled through SerpApi, she meets the core skills of {star['matches']}. NextSkill counts which one skill unlocks the most extra listings, and shows every listing and free course behind that number." |
+| 0:00-0:20 | Home page. "Meet Priya, a sample fresher in {star['city']} who knows {natural_list_text(skills_phrase)}. In {star['scored']} listings pulled through SerpApi for {star['city']} searches, she meets the core skills of {star['matches']}. NextSkill counts which one skill unlocks the most extra listings, and shows every listing and free course behind that number." |
 | 0:20-0:55 | Job match, {star['role']} in {star['city']}. The headline pick is {head['display_skill']}: +{head['unlocked']} listings, {hours_text(head['hours'])} of free courses. Open Evidence: the listings it adds, stated must-haves met in {star['must_haves_met']} of the {star['matches']} matches, and the free YouTube courses. Pick stability is {star['confidence']}, based on {star['stability_listings']} listings. Course length is not mastery. |
 | 0:55-1:20 | Job Prep for one listing{(' (' + listing['title'] + ')') if listing else ''}: shortest route ({route}) versus the full plan, revise with short videos, learn with full courses. |
 | 1:20-1:45 | Compare cities, Job-information gap chart. Google Jobs returned {low['listings']} listings for {low['role']} in {low['city']}, but only {low['in_city']} were located there. Fewer local listings means less evidence, and NextSkill flags small samples instead of guessing. |

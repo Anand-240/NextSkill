@@ -100,6 +100,13 @@ def render_jobs(result: dict, headline: dict | None) -> None:
                 job_card(entry, user, threshold)
 
 
+def elsewhere_count(result: dict) -> int:
+    """Scored listings whose location text does not name the searched city (nearby cities, other states, remote)."""
+    city = str(result["city"]).lower()
+    return sum(bool(str(entry["job"].get("location") or "").strip()) and city not in str(entry["job"].get("location")).lower()
+               for entry in result["jobs"])
+
+
 def render_answer(result: dict, saved: bool) -> None:
     count = len(result["jobs"])
     picks = headline_picks(result["ranked"])
@@ -115,6 +122,10 @@ def render_answer(result: dict, saved: bool) -> None:
         else:
             st.subheader(t("headline_no_hours", skill=headline["display_skill"], gained=gained, listing_word=listing_word))
     st.markdown(f"**{t('matches_line', ready=result['ready'], count=count, source=source, city=result['city'])}**")
+    elsewhere = elsewhere_count(result)
+    if elsewhere:
+        st.caption(f"{elsewhere} of these {count} listings name another place in their location (nearby cities, other states or "
+                   f"remote); Google Jobs returns them for {result['city']} searches.")
     robustness = result["robustness"]
     st.markdown(f"Pick stability: {confidence_pill(robustness['label'])} (based on {robustness['listings']} scored listings) "
                 f"· Snapshot date: {snapshot_range(result)} (UTC)", unsafe_allow_html=True)

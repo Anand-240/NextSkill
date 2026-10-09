@@ -42,7 +42,7 @@ class SiteTests(unittest.TestCase):
         text = "\n".join(item.value for item in app.markdown)
         results = json.loads((ROOT / "reports/final_results.json").read_text())
         star = RESULTS[findings.example_key(results)]
-        self.assertIn(f"**{star['scored']}** scored local listings", text)
+        self.assertIn(f"**{star['scored']}** scored listings", text)
         self.assertIn(f"of **{star['matches']}**", text)
         self.assertIn("Priya is a sample profile, not a real person", text)
         gap = json.loads((ROOT / "reports/job_gap.json").read_text())
@@ -57,7 +57,7 @@ class SiteTests(unittest.TestCase):
                 self.assertFalse(app.exception)
                 row = RESULTS[pair["id"]]
                 text = "\n".join(item.value for item in app.markdown)
-                self.assertIn(f"matches {row['matches']} of {row['scored']} saved listings in {pair['city']}", text)
+                self.assertIn(f"matches {row['matches']} of {row['scored']} saved listings for {pair['city']} searches", text)
                 if row["fastest_win"]:
                     self.assertTrue(app.subheader and row["fastest_win"] in app.subheader[0].value)
                 self.assertIn(f"Pick stability: ", text)

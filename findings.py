@@ -60,7 +60,7 @@ def gap_sentence(gap: dict) -> str:
     return (f"Asked the same plain question for {len({row['role'] for row in rows})} roles in {len({row['city'] for row in rows})} cities, "
             f"Google Jobs returned between {min(totals)} and {max(totals)} listings every time (the three-page limit). "
             f"How many were located in the named city varied a lot: only {low['in_city']} of {low['listings']} for "
-            f"{low['role']} in {low['city']} (most of the rest were in {places}), against {high['in_city']} of "
+            f"{low['role']} in {low['city']} (the most common other places were {places}), against {high['in_city']} of "
             f"{high['listings']} for {high['role']} in {high['city']}. A fresher outside the biggest hubs can see far less "
             "local evidence than the length of the list suggests.")
 
@@ -155,7 +155,7 @@ def example_text(results: dict, resume: str, key: str | None = None) -> str:
     article = "an" if row["role"][0] in "AEIOU" else "a"
     courses = "course" if head["hours"] and head["hours"] < 1.5 else "courses"
     return (f"Priya is a sample profile, not a real person. She knows {skills} and wants {article} {row['role']} job in "
-            f"{row['city']}. In **{row['scored']}** scored local listings pulled through SerpApi, her profile meets the core skills "
+            f"{row['city']}. In **{row['scored']}** scored listings pulled through SerpApi for {row['city']} searches (some are in nearby or other cities), her profile meets the core skills "
             f"of **{row['matches']}**. **{head['display_skill']}** would add **{head['unlocked']}** more, for {hours_text(head['hours'])} "
             f"of free {courses}. Pick stability: {row['confidence']}, based on {row['stability_listings']} listings. "
             "Every listing and course behind that estimate is linked.")

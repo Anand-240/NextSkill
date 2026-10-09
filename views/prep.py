@@ -14,7 +14,7 @@ pair = pairs[labels.index(st.selectbox(t("find_role_city"), labels, key=common.s
 profile = common.current_profile(pair)
 st.markdown("**Your skills**")
 common.chips(profile["skills"])
-st.page_link("views/find.py", label="Change your skills on the Find page")
+st.page_link("views/find.py", label="Change your skills on the Job match page")
 result = common.get_saved_result(pair["id"], profile["skills"], profile["threshold"], profile["core_share"],
                                  profile["experience"])
 prep_section(result, saved=True, state_key=f"prep_{pair['id']}")

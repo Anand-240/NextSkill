@@ -184,7 +184,7 @@ def experience_levels() -> list[str]:
 
 
 def current_profile(pair: dict) -> dict:
-    """The profile last used on the Find page for this role, or the role's example profile."""
+    """The profile last used on the Job match page for this role, or the role's example profile."""
     saved = st.session_state.get("profile")
     if saved and saved["role"] == pair["role"]:
         return saved

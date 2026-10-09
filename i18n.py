@@ -22,7 +22,7 @@ STRINGS = {
     "tab_checks": "How we checked this",
     "headline": "Learn {skill} next: +{gained} more matching {listing_word}, about {hours} {hour_word} of free courses.",
     "headline_no_hours": "Learn {skill} next: +{gained} more matching {listing_word}. No skill has a reliable course length yet.",
-    "matches_line": "Your profile matches {ready} of {count} {source} in {city}.",
+    "matches_line": "Your profile matches {ready} of {count} {source} for {city} searches.",
     "fastest_win": "Fastest win",
     "biggest_unlock": "Biggest unlock",
     "prep_header": "Job Prep",

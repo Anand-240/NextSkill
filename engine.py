@@ -917,8 +917,12 @@ def confidence_label(share: float, robustness_share: float | None = None, scored
     return label
 
 
-def stability_note(scored: int, standard_course: bool, limited: bool) -> str:
-    """Why the label is capped, or an empty string."""
+def stability_note(scored: int, standard_course: bool, limited: bool, shares_label: str | None = None,
+                   shown_label: str | None = None) -> str:
+    """Why the label is capped, or an empty string. When both labels are given, a cap that does not change the
+    label (the shares alone already give the shown label) is not mentioned."""
+    if shares_label is not None and shares_label == shown_label:
+        return ""
     if limited:
         return "Limited data caps the label at Uncertain."
     if scored < MIN_STABLE_LISTINGS:
@@ -1024,14 +1028,17 @@ def run(role: str, city: str, resume: str = "", manual_skills: str = "", thresho
                                            if skill not in GENERIC and not hours.get(skill))}
     distances = skill_distance(analysis)
     standard_course = bool(headline) and headline["confidence"] == "standard"
+    stability = confidence_label(bootstrap["top_share"], threshold_check["top_share"], len(analysis["jobs"]),
+                                 standard_course, analysis["limited_data"])
+    shares_label = confidence_label(bootstrap["top_share"], threshold_check["top_share"])
     analysis.update({"role": role, "city": city, "user_skills": sorted(user), "ranked": ranked,
                      "two_skill_plan": two_skill_plan(analysis, hours, videos), "replay": client.replay,
                      "role_fit_warning": has_role_fit_warning(analysis),
                      "robustness": {**threshold_check,
-                                    "label": confidence_label(bootstrap["top_share"], threshold_check["top_share"],
-                                                              len(analysis["jobs"]), standard_course, analysis["limited_data"]),
+                                    "label": stability,
                                     "listings": len(analysis["jobs"]),
-                                    "cap_note": stability_note(len(analysis["jobs"]), standard_course, analysis["limited_data"]),
+                                    "cap_note": stability_note(len(analysis["jobs"]), standard_course, analysis["limited_data"],
+                                                               shares_label, stability),
                                     "headline_kind": "fastest" if headline and headline["confidence"] == "standard" else "biggest",
                                     "threshold_label": threshold_check["label"]},
                      "retrieved_dates": sorted({retrieval_date(job).isoformat() for job in analysis["all_listings"]
