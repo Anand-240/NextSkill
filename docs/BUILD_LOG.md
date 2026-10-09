@@ -416,3 +416,57 @@ Phase C remaining: 82 (of 105), of which revision videos 15.
 - Budget: Account API final: 75 searches used this month, 175 left (plan cap 160; floor 90). Phase caps: C 57 recorded
   attempts of 105 (revision 7 of 15), D 16 of 30, H 4 of 5.
 - I5: freeze after this commit; no feature work is pending.
+
+# Batch 2: winning finish
+
+Four independent strict reviews scored the first build 28 to 33 of 50. This batch fixes what they caught.
+No SerpApi call was needed for Part 1.
+
+## 1.1 Headline metric
+
+- Fastest win now needs standard course confidence (two relevant full courses of an hour or more). A skill
+  with weaker video evidence stays in the ranking, marked low course confidence, and cannot lead the answer.
+  With no qualifying skill the headline is the biggest unlock and says no course length is reliable.
+- Course relevance: videos that lead with a different product (a Figma talk for Responsive Design), talks,
+  webinars and videos under 10 minutes are dropped before hours are estimated.
+- One wording for hours: "about 1 hour" for 0.84 h, "about 4 hours" for 3.73 h, minutes below 45 minutes.
+  The old "~1-2 hours" range could exclude the estimate it described.
+- Pick stability and its bootstrap use only standard-confidence skills, so the label describes the headline.
+- Re-run all 15 markets. Headlines that changed:
+
+| Market | Fastest win before | after | Biggest unlock |
+|---|---|---|---|
+| Frontend Developer, Bengaluru | Responsive Design | REST API | React (unchanged) |
+| Frontend Developer, Hyderabad | Responsive Design | REST API | REST API (unchanged) |
+| Digital Marketing, Pune | Market Research | Email Marketing | Market Research (unchanged) |
+
+  The other 12 markets keep their pick. Responsive Design stays in the Bengaluru ranking with low course
+  confidence (0.71 h after the Figma talk was dropped).
+- Tests: course relevance, low confidence cannot lead, hours wording contains the estimate, headline fallback.
+
+## 1.2 Pick stability
+
+"Confidence" is now "Pick stability", shown with the number of scored listings. Strong needs 15 or more scored
+listings, a headline pick with standard course confidence and both stability shares at 85% or more. Under 15
+scored listings the label is at most Likely; limited-data markets are at most Uncertain.
+
+| Market | Label before | after |
+|---|---|---|
+| Frontend Developer, Bengaluru | Strong | Likely (hour variation 75.6%) |
+| Accountant, Indore | Strong | Uncertain (limited data) |
+| Digital Marketing, Pune | Likely | Uncertain (limited data) |
+| Digital Marketing, Chennai | Likely | Uncertain (limited data) |
+
+No market is Strong now. The label is honest, not tuned.
+
+## 1.3 to 1.6 Interface fixes
+
+- The Hindi switch sat under the Streamlit header at desktop width (a 1.2 rem top padding override). The padding
+  is now 4.5 rem. Playwright clicked the switch on all six pages at 1280 px and 390 px, no overflow, no exception.
+  It is now "Prefer Hindi videos". The interface stays English: the 23 Hindi strings are unapproved and not shown.
+- Compare cities: if every city is Uncertain or has limited data it says "No reliable difference between these
+  cities in this snapshot". It shows pages fetched and snapshot date per city and warns when they differ.
+- Job Prep: revise and learn steps are numbered separately. The shortest route tries standard-confidence skills
+  first and says so when it must use a weaker one. A title that names a tool the plan or route lacks gets a note.
+- The "outside strongest areas" warning (which fired for marketing) now says few skills were detected.
+  Experience levels other than Fresher show a note that the saved samples came from fresher and junior searches.
