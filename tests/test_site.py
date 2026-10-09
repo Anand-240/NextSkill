@@ -152,6 +152,19 @@ class SiteTests(unittest.TestCase):
                 self.assertEqual([r["skill"] for r in via_skills["ranked"]], [r["skill"] for r in direct["ranked"]])
 
 
+class CreditMessageTests(unittest.TestCase):
+    def test_used_comes_from_the_run_not_from_the_account_reading(self):
+        text = common.credit_message({"live_requests": 1}, {"this_month_usage": 5, "total_searches_left": 144})
+        self.assertIn("used in this live run: 1", text)
+        self.assertIn("Remaining as reported by SerpApi: 144", text)
+        self.assertIn("may lag", text)
+
+    def test_missing_account_reading_still_shows_the_count(self):
+        text = common.credit_message({"live_requests": 2}, None)
+        self.assertIn("used in this live run: 2", text)
+        self.assertIn("unavailable", text)
+
+
 class LiveWithKeyTests(unittest.TestCase):
     def test_live_page_keeps_results_when_the_credit_check_fails(self):
         from engine import SerpClient, run
@@ -166,7 +179,7 @@ class LiveWithKeyTests(unittest.TestCase):
             app.button[0].click().run()
             self.assertFalse(app.exception, [str(e.value) for e in app.exception])
             self.assertEqual(app.session_state["live_result"]["ready"], saved["ready"])
-            self.assertIn("Credit balance unavailable", [x.value for x in app.info])
+            self.assertTrue(any("Credit balance unavailable" in x.value for x in app.info))
 
     def test_failed_live_request_is_explained_and_results_are_kept(self):
         from engine import SerpClient, run
@@ -181,6 +194,7 @@ class LiveWithKeyTests(unittest.TestCase):
             app.button[0].click().run()
             self.assertFalse(app.exception)
             self.assertTrue(any("was not retried" in w.value for w in app.warning))
+            self.assertTrue(any("may lag" in x.value for x in app.info))
             self.assertEqual(app.session_state["live_result"]["ready"], saved["ready"])
 
 

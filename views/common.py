@@ -208,3 +208,13 @@ def start_label(labels: list[str]) -> str:
     """The market chosen last time, or the first one."""
     profile = st.session_state.get("profile")
     return next((label for label, pair in zip(labels, pairs()) if profile and pair["id"] == profile["pair_id"]), labels[0])
+
+
+def credit_message(result: dict, account: dict | None) -> str:
+    """Credits used come from this run's own request count; SerpApi's balance is shown apart, because it can lag."""
+    used = result.get("live_requests", 0)
+    text = f"SerpApi credits used in this live run: {used} (counted by this app from its own requests). "
+    if account and account.get("total_searches_left") is not None:
+        return text + (f"Remaining as reported by SerpApi: {account['total_searches_left']} "
+                       "(may lag by a few seconds).")
+    return text + "Credit balance unavailable from SerpApi right now."

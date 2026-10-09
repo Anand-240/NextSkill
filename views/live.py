@@ -47,23 +47,19 @@ if st.button("Run live search", type="primary"):
     client.key = key
     try:
         with st.spinner("Searching listings and course lengths…"):
-            before = safe_account(client, "page_before")
             result = run(role, city, "", ", ".join(skills), DEFAULT_THRESHOLD, False, False, pages, False, client,
                          0.25, learning_limit=3, experience_level=experience)
             st.session_state["live_result"] = result
             after = safe_account(client, "page_after")
         credit_balance.clear()
-        st.session_state["live_credit"] = {"before": before, "after": after}
+        st.session_state["live_credit"] = {"after": after}
     except Exception as exc:  # Engine errors are written not to include the key.
         st.error(str(exc))
 result = st.session_state.get("live_result")
 if result:
     credit = st.session_state.get("live_credit")
-    if credit and credit["before"] and credit["after"]:
-        used = credit["after"]["this_month_usage"] - credit["before"]["this_month_usage"]
-        st.info(f"SerpApi credits used in this live run: {used}. Remaining: {credit['after']['total_searches_left']}.")
-    elif credit:
-        st.info("Credit balance unavailable")
+    if credit:
+        st.info(common.credit_message(result, credit["after"]))
     render_full(result, saved=False)
     st.markdown("### Job Prep")
     prep_section(result, saved=False, state_key="live_prep", budget=budget)
