@@ -124,7 +124,7 @@ def render_answer(result: dict, saved: bool) -> None:
     st.markdown(f"**{t('matches_line', ready=result['ready'], count=count, source=source, city=result['city'])}**")
     elsewhere = elsewhere_count(result)
     if elsewhere:
-        st.caption(f"{elsewhere} of these {count} listings name another place in their location (nearby cities, other states or "
+        st.caption(f"{elsewhere} of these {count} listings {'names' if elsewhere == 1 else 'name'} another place in their location (nearby cities, other states or "
                    f"remote); Google Jobs returns them for {result['city']} searches.")
     robustness = result["robustness"]
     st.markdown(f"Pick stability: {confidence_pill(robustness['label'])} (based on {robustness['listings']} scored listings) "

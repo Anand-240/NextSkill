@@ -106,6 +106,17 @@ class SiteTests(unittest.TestCase):
                 expected = RESULTS[pair["id"]]["job_prep_default"]
                 self.assertEqual(app.subheader[0].value, f"{expected['title']} · {expected['company']}")
 
+    def test_job_prep_times_are_rounded_and_never_degenerate(self):
+        import re
+        app = self.open("views/prep.py")
+        for pair in common.pairs():
+            with self.subTest(pair=pair["id"]):
+                app.selectbox[0].select(common.pair_label(pair)).run()
+                text = "\n".join(item.value for item in app.markdown) + "\n" + "\n".join(item.value for item in app.caption)
+                self.assertIsNone(re.search(r"about (\d+) to \1 ", text), text[:300])
+                for bad in ("0.0 hours", "course hours", " no of ", "0.00"):
+                    self.assertNotIn(bad, text)
+
     def test_compare_page_lists_five_data_analyst_cities_and_states_reliability(self):
         app = self.open("views/compare.py")
         table = app.dataframe[0].value

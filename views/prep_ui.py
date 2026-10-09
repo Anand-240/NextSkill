@@ -102,9 +102,11 @@ def _render_plan(plan: dict, saved: bool, budget: int | None) -> None:
             st.caption("Low course confidence for: " + ", ".join(route["low_confidence"]) + ".")
     with full.container(border=True):
         st.markdown(f"**{t('full_plan')}**")
-        if plan["revision_minutes"] or plan["learning_hours"]:
-            st.write(f"{time_range(plan)}: {hours_text(plan['revision_minutes'] / 60) if plan['revision_minutes'] else 'no'} "
-                     f"of revision videos plus {hours_text(plan['learning_hours']) if plan['learning_hours'] else 'no'} of full courses.")
+        parts = ([f"{hours_text(plan['revision_minutes'] / 60)} of revision videos"] if plan["revision_minutes"] else []) + \
+                ([f"{hours_text(plan['learning_hours'])} of full courses"] if plan["learning_hours"] else [])
+        if parts:
+            st.write(f"{time_range(plan)}: " + (" plus ".join(parts) if len(parts) == 2 else
+                     ("revision videos only" if plan["revision_minutes"] else "full courses only")) + ".")
         else:
             st.write("No measured route: this listing has no saved revision videos or course lengths to add up.")
         st.caption(REVISION_LABEL)
