@@ -368,3 +368,14 @@ Phase C remaining: 82 (of 105), of which revision videos 15.
 - Plan/acceptance: honest comparison without uniqueness claims; links open.
 - Verify: NCS, LinkedIn Skills Match and Skill India Digital Hub pages opened; SIDH counts not verified so not used.
   Zero searches for A4; A5 searches are accounted under D1.
+
+## I2-I3 - README and demo script regenerated
+
+- Research: the README order in the plan; every number must come from reports/final_results.json.
+- Build: scripts/render_docs.py now writes the README in the plan's order (pitch, Try it live, Why this matters,
+  key findings, next skill map, beyond big hubs, user test, hand-labelled accuracy, what the numbers mean, how it
+  works, SerpApi usage, questions, limitations and future work, setup, data sources, timeline, AI tools used) and a
+  DEMO.md with the opening line from the plan. findings.py computes the findings for both the site and the documents.
+  Evidence sections read the generated hand-label and user-test reports and say pending. The NPTEL and SWAYAM result
+  is stated plainly in the SerpApi usage section.
+- Verify: check_consistency passes; the full suite passes.

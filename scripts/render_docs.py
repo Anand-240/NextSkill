@@ -1,93 +1,156 @@
-"""Render current numerical claims directly from the generated result file."""
+"""Render every numerical claim in README.md, DEMO.md and reports/final_report.md from the generated result file."""
 import json
+import re
+from collections import Counter
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[1]
+from findings import flag_text, key_findings, map_table
+ROOT = Path(__file__).resolve().parents[1]
+TIER2 = {"Jaipur", "Indore", "Kochi", "Dehradun"}
+
+
+def report_body(name: str) -> str:
+    return re.sub(r"\A# .*\n+", "", (ROOT / name).read_text()).strip()
+
+
+def evidence_text(name: str, label: str) -> str:
+    body = report_body(name)
+    if "Status: pending" in body:
+        return f"Pending. {label} has not been collected yet, so no figure is claimed."
+    return body
+
+
+def audit_sentence() -> str:
+    lines = [line for line in (ROOT / "reports/matcher_audit.md").read_text().splitlines() if line.startswith("Precision")]
+    return " ".join(lines)
+
+
+def usage_sentence() -> str:
+    path = ROOT / "reports/build_usage.json"
+    attempts = json.loads(path.read_text())["attempts"] if path.exists() else []
+    kinds = Counter(item["engine"] for item in attempts)
+    return (f"This build recorded {len(attempts)} SerpApi search attempts "
+            f"({kinds.get('google_jobs', 0)} Google Jobs, {kinds.get('youtube', 0)} YouTube, {kinds.get('google', 0)} Google web search) "
+            "in reports/build_usage.json; the Account API figures are in BUILD_LOG.md.")
+
 
 def render(data):
-    rows=data['after']
-    table='| Role / city | Eligible | Scored | Matches | Must-haves met among matches | Fastest win | Biggest unlock | Confidence |\n|---|---:|---:|---:|---:|---|---|---|\n'
-    for pair_id,r in data.get('pairs', rows).items():
-        city=r.get('city',pair_id)
-        table+=f"| {r['role']} / {city} | {r['eligible']} | {r['scored']} | {r['matches']} | {r['must_haves_met']} | {r['fastest_win'] or 'Unavailable'} | {r['biggest_unlock'] or 'Unavailable'} | {r['confidence']} |\n"
-    f=rows['Bengaluru'];n=rows['Noida'];top=next(x for x in f['ranked'] if x['skill']==f['fastest_win'])
-    findings=f"Bengaluru: {f['matches']} of {f['scored']} scored listings match; {top['skill']} adds {top['unlocked']} at {top['hours']:.2f} course hours. Confidence: {f['confidence']}.\n\nNoida: {n['matches']} of {n['scored']} scored listings match; fastest win {n['fastest_win']}, biggest unlock {n['biggest_unlock']}. Confidence: {n['confidence']}.\n\n"
-    readme='''# NextSkill
+    pairs = data["pairs"]
+    bengaluru = pairs["frontend-developer-bengaluru"]
+    top = next(x for x in bengaluru["ranked"] if x["skill"] == bengaluru["fastest_win"])
+    findings = "\n".join(f"- {line}" for line in key_findings(data)) + "\n"
+    full_map = map_table(pairs)
+    hubs = map_table(pairs, TIER2)
+    da = {k: v for k, v in pairs.items() if v["role"] == "Data Analyst"}
+    da_wins = sorted({v["fastest_win"] for v in da.values() if v["fastest_win"]})
+    da_note = (f"For the same Data Analyst profile, the fastest win is {da_wins[0]} in every city with a measured pick."
+               if len(da_wins) == 1 else
+               f"For the same Data Analyst profile the fastest win is not the same everywhere ({', '.join(da_wins)}), "
+               "so the answer depends on the city.")
+    readme = f'''# NextSkill
 
 **Your next skill, counted from local job listings in your city.**
 
-[Try it live](https://nextskill.streamlit.app) - saved snapshots, no key needed.
+Priya knows HTML, CSS and JavaScript and wants a frontend job in Bengaluru. NextSkill checked local listings
+through SerpApi. Her profile matches {bengaluru['matches']} of {bengaluru['scored']} scored listings.
+{top['display_skill']} could add {top['unlocked']} more, with {top['hours']:.2f} hours of free courses, and every listing and course behind
+that estimate is linked. Confidence: {bengaluru['confidence']}. Priya is an example profile, not a real person.
+
+## Try it live
+
+[nextskill.streamlit.app](https://nextskill.streamlit.app) runs on saved snapshots, so it needs no key and spends no
+credits. Pages: Home, Find my next skill, Job Prep, Compare cities, Methodology and evidence, About and privacy, and
+(only on a machine with its own SerpApi key) Live search.
 
 ## Why this matters
 
-Early-career applicants need accessible information connecting learning choices to
-local opportunities. [ILO/IHD](https://www.ilo.org/publications/india-employment-report-2024-youth-employment-education-and-skills)
-examines youth employment and education; [UNICEF](https://www.unicef.org/india/economic-opportunities-young-people)
-describes gaps in job awareness and employment support. These sources motivate the
-problem; they do not establish NextSkill's effectiveness. [Research and source scope](research/RESEARCH.md).
+Early-career applicants need accessible information connecting learning choices to local opportunities.
+[ILO and IHD](https://www.ilo.org/publications/india-employment-report-2024-youth-employment-education-and-skills)
+examine youth employment, education and skills, and
+[UNICEF](https://www.unicef.org/india/economic-opportunities-young-people) describes gaps in job awareness,
+information and employment support. These sources motivate the problem; they do not show that NextSkill helps.
+Existing services such as the [National Career Service](https://labour.gov.in/ncs) and LinkedIn's
+[Skills Match](https://www.linkedin.com/help/linkedin/answer/a793433) already do related things. NextSkill adds a
+counted, linked comparison for one role in one city. Sources and scope: [research/RESEARCH.md](research/RESEARCH.md).
 
 ## Key findings
 
-'''+findings+table+'''
-Figures are generated by `python -m scripts.build_results` and `python -m scripts.render_docs`.
-See [current results](reports/final_results.json) and [build evidence](BUILD_LOG.md).
+{findings}
+## Next skill map
 
-## User test and hand-labelled accuracy
+An example fresher profile per role (not real people) against each saved market. A match means the profile covers
+at least half of a listing's core skills. Figures are generated by `python -m scripts.build_results` and
+`python -m scripts.render_docs`; `python -m scripts.check_consistency` fails if any differ.
 
-Pending. No independent accuracy or user-outcome claim is made.
-The historical [matcher audit](reports/matcher_audit.md): 16 of 20 sampled matches were correct; after filters, the 16 retained matches were all correct; recall not measured.
-These developer-written checks are not a held-out evaluation. [Initial API validation](reports/validation_check.md).
+{full_map}
+{da_note} Several markets have small samples; read the flags.
+
+## Beyond big hubs
+
+{len(TIER2)} of the saved cities are outside the largest metros: Jaipur, Indore, Kochi and Dehradun. Google Jobs returns
+fewer listings there, so the samples are smaller and the confidence is lower. The tool says so instead of hiding it.
+
+{hubs}
+## User test
+
+{evidence_text("reports/user_test.md", "The user test")}
+
+## Hand-labelled accuracy
+
+{evidence_text("reports/hand_label_eval.md", "The hand-labelled evaluation")}
+The only accuracy check so far is a developer-written one: {audit_sentence()} It was a 20-match sample reviewed by the developer,
+it does not measure recall, and it is not an independent evaluation ([matcher audit](reports/matcher_audit.md),
+[initial API validation](reports/validation_check.md)). A 20-listing labelling kit is ready in [evaluation/](evaluation/README.md).
 
 ## What the numbers mean
 
-- Matches: coverage reaches the selected fraction of detected core requirements;
-  the default is 50%. It is not hiring eligibility or a prediction.
-- Stated must-haves met: yes / no / none stated for detected skills near explicit
-  required wording, independently of market frequency. Counts above concern matches
-  with explicit requirements met; none-stated listings do not count as yes.
-- Course hours: median duration of up to three relevant videos, not time to mastery.
-  A title must name the skill or an alias. Fewer than two full courses triggers a
-  labelled fallback to relevant videos of at least 30 minutes.
-- Confidence: sensitivity to listing resampling and independent hour variation,
-  not accuracy. Low-confidence course estimates are labelled separately.
-- Exact among measured skills: exhaustive subsets of up to eight candidates with
-  known course hours, under the displayed budget. Not a global optimum.
+- Matches: coverage reaches the selected fraction of detected core requirements; the default is 50%. It is not hiring
+  eligibility or a prediction.
+- Stated must-haves met: yes / no / none stated for detected skills near explicit wording such as must, mandatory or
+  required, independently of market frequency. None stated does not count as yes.
+- Course hours: median duration of up to three free videos whose title names the skill, not time to mastery. Fewer than
+  two full courses triggers a labelled fallback to relevant videos of at least 30 minutes.
+- Confidence: how stable the top pick is under listing resampling and independent hour variation. It is not accuracy.
+- Exact among measured skills: every combination of up to eight skills with known course hours. Not a global optimum.
 
 ## How it works
 
-SerpApi Jobs supplies role/city listings. The shared engine deduplicates, filters
-experience, detects requirements and alternatives, and compares a profile with the
-sample. All missing candidates with saved hours compete for Fastest win; candidates
-without hours remain visible. Biggest unlock ignores hours. Job Prep orders revision
-and learning from the same listing evidence. The opportunity curve and sensitivity
-checks expose limitations rather than predict employment.
+SerpApi Google Jobs supplies listings for a role and city. The engine removes duplicates, sets aside listings that need more
+experience than your level, detects requirements and either/or choices, and compares them with your skills. Every missing
+skill with saved course hours competes for Fastest win (most new matches per course hour); Biggest unlock ignores hours.
+Job Prep turns one listing into a plan: revise skills you have with short videos, learn missing skills with full courses,
+and see the shortest route next to the full plan. Hindi videos are preferred when the Hindi switch is on and they pass the
+same filters; Hindi interface labels stay in English until a person approves them (i18n/hi.json).
 
 ## SerpApi usage
 
-[Google Jobs](https://serpapi.com/google-jobs-api) supplies descriptions, links,
-posting signals and pagination. [YouTube](https://serpapi.com/youtube-search-api)
-supplies relevant full-course and short revision-video results.
-[Account API](https://serpapi.com/account-api) reports credits and is nonfatal if
-unavailable. Each engine materially supports the described functionality; saved
-responses allow reproducible offline use. Requests time out after 75 seconds and
-are not retried automatically. Live requests have a per-run budget.
+- [Google Jobs](https://serpapi.com/google-jobs-api): listings, descriptions, links, posting signals and pagination.
+  Without it there is no local evidence at all.
+- [YouTube](https://serpapi.com/youtube-search-api): free full courses for course hours and short revision videos for Job Prep.
+  Without it a skill has no study-time estimate.
+- [Google web search](https://serpapi.com/search-api): tried for NPTEL and SWAYAM pages with site: filters. The filters
+  returned none of those hosts, so the feature was dropped and nothing in the product depends on it.
+- [Account API](https://serpapi.com/account-api): shows remaining credits in live mode; a failure never discards results.
+
+Requests time out after 75 seconds and are not retried. Live runs have a per-run budget and a Search Replay that shows
+what was live, cached or skipped. {usage_sentence()}
 
 ## Questions a judge might ask
 
-**Why not just ask ChatGPT?** NextSkill exposes a reproducible count and its exact
-listing/course sources. An LLM with search can also cite evidence; our distinction
-is a transparent shared calculation, not an assertion that LLM advice is uncheckable.
+**Why not just ask ChatGPT?** NextSkill shows a reproducible count and links the exact listings and videos behind it, and
+it measures how stable its pick is. An assistant with search can also cite evidence; the difference here is a transparent,
+repeatable calculation over saved data, not a claim that assistant advice cannot be checked.
 
-**Does a match mean an interview?** No. Coverage omits qualifications outside the
-vocabulary, and course duration cannot establish competence. Must-haves are a
-separate heuristic, not a full eligibility assessment.
+**Does a match mean an interview?** No. Coverage ignores qualifications outside the skill vocabulary, and course length
+does not establish competence.
+
+**Are the numbers about all of India?** No. Each answer comes from a few dozen saved listings in one city.
 
 ## Limitations and future work
 
-Small, biased snapshots; nearby-city results; imperfect required/preferred parsing;
-unknown posting ages and course audio languages; no measured learning outcomes.
-Title relevance does not prove course quality or suitability for every technology stack.
-Independent labels, real user feedback, broader saved markets and language review
-remain necessary. Historical iteration reports are in [the archive](reports/archive/README.md).
+Small, biased snapshots; nearby-city results; imperfect required-versus-preferred parsing; unknown posting ages and course
+audio languages; a title that names a skill does not prove the course is good; no measured learning or hiring outcomes.
+Next: independent hand labels and a real user test, more saved cities, human-reviewed Hindi labels, and NPTEL or SWAYAM
+courses once a reliable source exists.
 
 ## Setup and tests
 
@@ -101,50 +164,49 @@ streamlit run app.py
 python -m unittest discover -s tests -q
 ```
 
-PDF resumes require selectable text; scanned PDFs need pasted text. Live search is
-for local use with your own authorized key in `.env`; the public hosted app must
-never receive a key. Saved data works without one. `.env` and `cache/` are ignored.
+PDF resumes need selectable text; scanned PDFs need pasted text. Live search is for local use with your own authorized
+key in `.env`; the public hosted app must never receive a key. `.env` and `cache/` are ignored.
 
-## Data sources and privacy
+## Data sources
 
-Job descriptions and video metadata remain their publishers' content. The MIT
-license covers our code, not third-party material. Contact data in committed
-responses is redacted. Resume text is processed by Python; no resume is sent in
-SerpApi queries. Streamlit session/cache memory may retain inputs while running;
-do not use the public demo for sensitive resumes. [License](LICENSE).
+Job descriptions and video metadata remain their publishers' content. The MIT license covers our code, not third-party
+material. Contact data in saved responses is redacted. Resume text is read in memory and never written to disk or sent in
+SerpApi queries; Streamlit and its host may keep session memory or logs, so do not use the public demo for sensitive
+resumes. [License](LICENSE).
 
 ## Development timeline
 
-The original repository began October 8, following a separate validation run.
-[BUILD_LOG.md](BUILD_LOG.md) records the subsequent verified build and API budget.
-Git history is preserved; earlier measurements remain labelled as historical.
+The repository began on October 8, 2026 after a separate validation run. October 9: trust fixes (all measured skills
+compete, stated must-haves, course relevance), 15 saved markets, revision videos, a seven-page site, Hindi videos and the
+evidence kits. [BUILD_LOG.md](BUILD_LOG.md) records each verified step and the API budget.
 
 ## AI tools used
 
-OpenAI Codex and Claude Code assisted with implementation, tests, analysis and
-documentation. The running app does not call an LLM. Human labels and user feedback
-are pending and must never be generated by an assistant.
+OpenAI Codex and Claude Code assisted with implementation, tests, analysis and documentation. The running app does not call
+an LLM. Human labels, user feedback and Hindi approvals are pending and must never be generated by an assistant.
 '''
-    demo=f'''# NextSkill local demo (2 minutes 45 seconds)
+    demo = f'''# NextSkill local demo (2 minutes 45 seconds)
 
 Run `streamlit run app.py` locally. Keep the public hosted app key-free.
 Use saved data for rehearsal. A live recording uses a small explicit budget.
 
 | Time | Show and say |
 |---|---|
-| 0:00-0:30 | Priya knows HTML, CSS and JavaScript and wants a frontend job in Bengaluru. NextSkill checked local listings through SerpApi. Her profile matches {f['matches']} of {f['scored']} scored listings. {top['skill']} could add {top['unlocked']} more; here are the listings and the free courses behind that estimate. |
-| 0:30-1:05 | Open listing evidence, must-have status, course sources and confidence: {f['confidence']}. Video duration is not mastery. |
-| 1:05-1:25 | Open Job Prep; explain revision versus learning and the full plan. |
-| 1:25-1:50 | Compare saved cities and show sample sizes; explain any low-data warning. |
-| 1:50-2:20 | Local live search with budget 3. Show Search Replay, partial results and the credit counter. Do not expose the key. |
-| 2:20-2:45 | Coverage is not hiring eligibility. Independent labels and user testing are pending. Every recommendation links to its evidence. |
+| 0:00-0:30 | Home page. Priya knows HTML, CSS and JavaScript and wants a frontend job in Bengaluru. NextSkill checked local listings through SerpApi. Her profile matches {bengaluru['matches']} of {bengaluru['scored']} scored listings. {top['display_skill']} could add {top['unlocked']} more; here are the listings and the free courses behind that estimate. Say who it helps: freshers choosing what to learn next, especially outside the biggest hubs. |
+| 0:30-1:05 | Find my next skill: the answer with confidence ({bengaluru['confidence']}) and snapshot date, Fastest win versus Biggest unlock, then Evidence: listings, stated must-haves and the free YouTube courses. Video duration is not mastery. |
+| 1:05-1:25 | Job Prep: shortest route versus full plan, revise with short videos, learn with full courses. |
+| 1:25-1:50 | Compare cities: the Data Analyst map across five cities; say that sample sizes differ and small samples are flagged. |
+| 1:50-2:20 | Live search (local only, budget 3): Search Replay shows what was live, the credit counter updates, partial results are handled. Do not show the key. |
+| 2:20-2:45 | Coverage is not hiring eligibility. The user test and independent labels are pending; Hindi labels await review. Every recommendation links to its evidence. |
 
 The video must be under three minutes, show the local app, and open without sign-in.
 This file is a script, not evidence that a public video has been submitted.
 '''
-    report='# Current saved results\n\nGenerated from final_results.json; historical reports are in archive/.\n\n'+findings+table
-    return {'README.md':readme,'DEMO.md':demo,'reports/final_report.md':report}
+    report = ('# Current saved results\n\nGenerated from final_results.json; historical reports are in archive/.\n\n'
+              + findings + "\n" + full_map)
+    return {'README.md': readme, 'DEMO.md': demo, 'reports/final_report.md': report}
 
-if __name__=='__main__':
-    for path,body in render(json.loads((ROOT/'reports/final_results.json').read_text())).items():
-        (ROOT/path).write_text(body)
+
+if __name__ == '__main__':
+    for path, body in render(json.loads((ROOT / 'reports/final_results.json').read_text())).items():
+        (ROOT / path).write_text(body)
