@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 from unittest.mock import patch
 from engine import run, SerpClient, headline_picks
+from personas import saved_pairs
 ROOT = Path(__file__).resolve().parents[1]
 
 def summary(r):
@@ -27,7 +28,7 @@ def summary(r):
 
 def build():
     output={};pairs={}
-    manifest=json.loads((ROOT/'demo_data/manifest.json').read_text())
+    manifest=saved_pairs()
     with patch('engine._request',side_effect=AssertionError('Offline build forbids requests')):
         for pair in manifest:
             r=run(pair['role'],pair['city'],resume=pair['resume'],pages=pair['pages'],client=SerpClient(use_fixtures=True,cache_only=True),experience_level='Fresher')

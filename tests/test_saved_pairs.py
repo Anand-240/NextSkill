@@ -2,10 +2,11 @@ import json
 import unittest
 from unittest.mock import patch
 from engine import ROOT,run,SerpClient
+from personas import saved_pairs
 
 class SavedPairTests(unittest.TestCase):
     def test_every_saved_pair_runs_without_network(self):
-        manifest=json.loads((ROOT/'demo_data/manifest.json').read_text())
+        manifest=saved_pairs()
         self.assertGreaterEqual(len(manifest),8)
         with patch('engine._request',side_effect=AssertionError('network')):
             for pair in manifest:

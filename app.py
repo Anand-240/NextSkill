@@ -6,6 +6,7 @@ import pandas  # noqa: F401
 import streamlit as st
 import hashlib
 from resume_pdf import extract_pdf_text
+from personas import personas
 
 from engine import (DEFAULT_THRESHOLD, DICTIONARY_WARNING, ROLE_FIT_WARNING, ROOT, BudgetExceeded, SerpClient,
                     max_live_requests,
@@ -95,7 +96,7 @@ with st.sidebar:
     else:
         role = st.text_input("Role", "Data Analyst")
         city = st.text_input("City", "Noida")
-    default_resume = "HTML, CSS, JavaScript" if demo and role == "Frontend Developer" else "Excel, basic Python"
+    default_resume = personas().get(role, personas()["Data Analyst"])["resume"]
     resume = st.text_area("Paste resume text", default_resume, height=140,
                           key=f"resume_{role.lower().replace(' ', '_')}")
     pdf = st.file_uploader("Or upload a PDF resume", type=["pdf"])

@@ -1,0 +1,7 @@
+{
+  "Frontend Developer": {"resume": "HTML, CSS, JavaScript", "experience_level": "Fresher"},
+  "Data Analyst": {"resume": "Excel, basic Python", "experience_level": "Fresher"},
+  "Python Developer": {"resume": "Python, Git", "experience_level": "Fresher"},
+  "Accountant": {"resume": "Excel, Accounting", "experience_level": "Fresher"},
+  "Digital Marketing Executive": {"resume": "Canva, Social Media Marketing", "experience_level": "Fresher"}
+}

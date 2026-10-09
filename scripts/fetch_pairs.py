@@ -3,9 +3,8 @@ import argparse
 import json
 from engine import ROOT,fetch_jobs,analyze_jobs,course_videos,canonical_manual_skills
 from scripts.build_data import BuildClient,publish_usage,_write_json
-PERSONAS={'Frontend Developer':'HTML, CSS, JavaScript','Data Analyst':'Excel, basic Python',
-          'Python Developer':'Python, Git','Accountant':'Excel, Accounting',
-          'Digital Marketing Executive':'Canva, Social Media Marketing'}
+from personas import personas
+PERSONAS={role:row['resume'] for role,row in personas().items()}
 INITIAL=[('Frontend Developer','Bengaluru'),('Data Analyst','Noida'),('Data Analyst','Hyderabad'),
          ('Data Analyst','Pune'),('Data Analyst','Jaipur'),('Data Analyst','Indore'),
          ('Accountant','Jaipur'),('Digital Marketing Executive','Dehradun')]
@@ -27,7 +26,7 @@ def collect(pairs):
         for skill in analysis['candidates'][:3]:
             course_videos(skill,BuildClient('C','course'))
         manifest.append({'id':(role+'-'+city).lower().replace(' ','-'),'role':role,'city':city,
-                         'resume':PERSONAS[role],'pages':3 if original else 1,
+                         'pages':3 if original else 1,
                          'query_scope':'base only' if low else 'base plus fresher and junior',
                          'low_data_case':low})
         _write_json(manifest_path,manifest);publish_usage()

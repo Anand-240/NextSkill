@@ -193,3 +193,14 @@ No network search was used. Ranking and course-rule result changes are retained.
   Existing URLs are preserved and excluded only from phone-pattern detection, not
   email checks. New data is scrubbed before disk writes. Diff reviewed.
 - Record: no additional searches.
+
+## C4 - Shared sample personas
+
+- Research: sample resumes were duplicated in UI, collection and result scripts.
+- Plan/acceptance: one role-default config, consumed by UI, collection, tests and
+  golden generation; sample personas must not be described as real participants.
+- Build: config/personas.json and personas.saved_pairs merge defaults with manifest;
+  removed duplicated resume fields from manifest and collection script.
+- Test: 78 full-suite tests pass; all eight saved pairs use configured defaults.
+- Verify: legacy app still opens correctly; collection and generator share config.
+  Diff reviewed. No searches.
