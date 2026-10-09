@@ -1,0 +1,489 @@
+{
+  "search_metadata": {
+    "id": "6ac8c453d3982cd8c279930b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/P7YQ95-f727DN1tOHUdk68qcravZyAt1PPDY5GPZtPk/6ac8c453d3982cd8c279930b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/P7YQ95-f727DN1tOHUdk68qcravZyAt1PPDY5GPZtPk/6ac8c453d3982cd8c279930b.md",
+    "created_at": "2026-10-09 10:39:15 UTC",
+    "processed_at": "2026-10-09 10:39:15 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Git+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/P7YQ95-f727DN1tOHUdk68qcravZyAt1PPDY5GPZtPk/6ac8c453d3982cd8c279930b.html",
+    "total_time_taken": 4.56
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Git full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 4116536,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Git Tutorial for Beginners: Learn Git in 1 Hour",
+      "link": "https://www.youtube.com/watch?v=8JJ101D3knE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8JJ101D3knE",
+      "video_id": "8JJ101D3knE",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 3567902,
+      "length": "1:09:13",
+      "description": "Git: The essential tool for modern development. This quick explainer shows why it's a must-have skill. Ready for a deep dive ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/8JJ101D3knE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRswDXtA7kU4j5CzS-CA7ASq-UWQ",
+        "rich": "https://i.ytimg.com/an_webp/8JJ101D3knE/mqdefault_6s.webp?du=3000&sqp=COXZotYG&rs=AOn4CLDWaETlYVu2cIPEz7TiBlEw6veDXQ"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Learn Git – Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=zTjRZNkhiEU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zTjRZNkhiEU",
+      "video_id": "zTjRZNkhiEU",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1552248,
+      "length": "3:43:34",
+      "description": "In this Git course for beginners, you will learn the essentials of version control to help you manage your projects more efficiently.",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zTjRZNkhiEU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4Z4-HeKf9GmpR9vCTLnsNUGGxtw",
+        "rich": "https://i.ytimg.com/an_webp/zTjRZNkhiEU/mqdefault_6s.webp?du=3000&sqp=CIiEo9YG&rs=AOn4CLAlXR6Z4EcKu5BfGBsdMBcIIdXYXQ"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Git and GitHub - Full Course",
+      "link": "https://www.youtube.com/watch?v=rH3zE7VlIMs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rH3zE7VlIMs",
+      "video_id": "rH3zE7VlIMs",
+      "channel": {
+        "name": "Boot dev",
+        "link": "https://www.youtube.com/@bootdotdev",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0gHrwiWK5GBK6HpbIq9p7zGJRe1b-qIc84nKQ11LFOdAikL_68rq60jnS6yel2qgh3oCgQIF=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 629680,
+      "length": "4:20:00",
+      "description": "Learn Git from start to finished in this full course written by ThePrimeagen. Nearly every developer in the world uses it to manage ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rH3zE7VlIMs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLFAh43YQ2yOA1WzDTLJRpt2WCzA",
+        "rich": "https://i.ytimg.com/an_webp/rH3zE7VlIMs/mqdefault_6s.webp?du=3000&sqp=CNCCo9YG&rs=AOn4CLBQFUer4xmH5WwCc7uiNo8uoQuXVw"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Git & GitHub Crash Course for Beginners [2026]",
+      "link": "https://www.youtube.com/watch?v=mAFoROnOfHs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mAFoROnOfHs",
+      "video_id": "mAFoROnOfHs",
+      "channel": {
+        "name": "freeCodeCamp.org and logicBase Labs",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 810722,
+      "length": "1:21:20",
+      "description": "Learn Git and GitHub from scratch with clear examples, real workflows, branching, merging, stashing, rebase, pull requests, and ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/mAFoROnOfHs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwMX-0KaTkRu8HIZ4cyW5WG5rbrQ",
+        "rich": "https://i.ytimg.com/an_webp/mAFoROnOfHs/mqdefault_6s.webp?du=3000&sqp=CLf6otYG&rs=AOn4CLAvL0JBElOpFiVbKJ8FhGnJhk8lqg"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Git and GitHub Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=tRZGeaHPoaw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tRZGeaHPoaw",
+      "video_id": "tRZGeaHPoaw",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 2018067,
+      "length": "46:19",
+      "description": "In this step-by-step tutorial, learn how to use Git and GitHub for source control management (SCM). We start with Git. What is it?",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tRZGeaHPoaw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwGMYXONEYPnlDibxa-qWlOitJsA",
+        "rich": "https://i.ytimg.com/an_webp/tRZGeaHPoaw/mqdefault_6s.webp?du=3000&sqp=CJz5otYG&rs=AOn4CLCe260l3LrMZ95BVx5kqak_uGy4mA"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Learn Git & GitHub for Beginners | (2026) Tutorial",
+      "link": "https://www.youtube.com/watch?v=h2a3Kw-I_Ec",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=h2a3Kw-I_Ec",
+      "video_id": "h2a3Kw-I_Ec",
+      "channel": {
+        "name": "Coder Coder",
+        "link": "https://www.youtube.com/@TheCoderCoder",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k44gHBoHPwPbUJz36pexiQQyqImaAzZNP-MNbbLZZ11VY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 69233,
+      "length": "55:54",
+      "description": "Learn how to use Git, the version control management tool, and GitHub, the collaborative platform for sharing code. This is a full ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/h2a3Kw-I_Ec/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkVftGweOUq3mVwXHWXMC1oN_F4Q",
+        "rich": "https://i.ytimg.com/an_webp/h2a3Kw-I_Ec/mqdefault_6s.webp?du=3000&sqp=CKHrotYG&rs=AOn4CLDloV5p1Nho9pNofccO1px1uBQEaA"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Git and GitHub Tutorial for Beginners [11 Hours]",
+      "link": "https://www.youtube.com/watch?v=3FKrszHcIsA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3FKrszHcIsA",
+      "video_id": "3FKrszHcIsA",
+      "channel": {
+        "name": "Bogdan Stashchuk",
+        "link": "https://www.youtube.com/@Bogdan_Stashchuk",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/tk2POu7uYbcaCqRgfl6GpomYfMJKQxIE5gndv0Z5AUqEA20IaDr8k0NMVHnI7agm4ZsgCNS_Kg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 124501,
+      "length": "11:12:59",
+      "description": "Full-length \"Complete Git Guide: Understand and master Git and GitHub\" course: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3FKrszHcIsA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA68LwK1-MgkXUcURIZXOZwG3uHbg",
+        "rich": "https://i.ytimg.com/an_webp/3FKrszHcIsA/mqdefault_6s.webp?du=3000&sqp=CKD2otYG&rs=AOn4CLALVRj9Y216uWTnK90r1hx2dFjP6g"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Git and GitHub Tutorial For Beginners | Full Course [2021] [NEW]",
+      "link": "https://www.youtube.com/watch?v=3fUbBnN_H2c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3fUbBnN_H2c",
+      "video_id": "3fUbBnN_H2c",
+      "channel": {
+        "name": "Amigoscode",
+        "link": "https://www.youtube.com/@amigoscode",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/j7KM4l3IN-FxZb881xAD3QhQIosMM1978leBKGfLmCnQxbazoep9BqDnolH-gievUTGGzEwqQA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 479013,
+      "length": "2:21:43",
+      "description": "Become the software engineer AI can't replace. Join Amigoscode Academy: https://skool.com/amigoscode-academy ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3fUbBnN_H2c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX6GtMIyutg7rZF05qc_OJ4NTpPA",
+        "rich": "https://i.ytimg.com/an_webp/3fUbBnN_H2c/mqdefault_6s.webp?du=3000&sqp=CO6Co9YG&rs=AOn4CLC7c8IdKYtKZJ2v__pjXE7ZUSlbwg"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Git and GitHub for Beginners - Crash Course",
+      "link": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RGOj5yH7evk",
+      "video_id": "RGOj5yH7evk",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 5152265,
+      "length": "1:08:30",
+      "description": "Learn about Git and GitHub in this tutorial. These are important tools for all developers to understand. Git and GitHub make it ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/RGOj5yH7evk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeo-kcDU4_mcvdjqHKxkOGImAWqg",
+        "rich": "https://i.ytimg.com/an_webp/RGOj5yH7evk/mqdefault_6s.webp?du=3000&sqp=CP2Eo9YG&rs=AOn4CLDv8BZa92Xhkn-nYAe0DEPelJ9ZLw"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Git & GitHub Tutorial | Visualized Git Course for Beginner & Professional Developers in 2024",
+      "link": "https://www.youtube.com/watch?v=S7XpTAnSDL4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=S7XpTAnSDL4",
+      "video_id": "S7XpTAnSDL4",
+      "channel": {
+        "name": "JavaScript Mastery",
+        "link": "https://www.youtube.com/@javascriptmastery",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ek0JxMA0h1uXpnYKFL_dYo1ny3LWzAuLwGvaqQwb9Qh2oEQJIPNEPjDrY9yKsvMmIrq_Ooq_=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 907279,
+      "length": "1:12:07",
+      "description": "In this visualized Git Tutorial, you'll learn everything from the basics of Git to advanced tips no one else talks about. We'll dive into ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/S7XpTAnSDL4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeV32svp3X0AsE-gWlvPD5dEurhg",
+        "rich": "https://i.ytimg.com/an_webp/S7XpTAnSDL4/mqdefault_6s.webp?du=3000&sqp=CMjPotYG&rs=AOn4CLC4rGBe-_OqAkA0aR0WdNvvDmYnqw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Everything You Need to Know about Git",
+      "link": "https://www.youtube.com/watch?v=K6Q31YkorUE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=K6Q31YkorUE",
+      "video_id": "K6Q31YkorUE",
+      "channel": {
+        "name": "ForrestKnight",
+        "link": "https://www.youtube.com/@fknight",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/TzjkRGVvMc1M9xCgoqMK8MOVxd6tLOhSdqnhx5AjVcWEgZGXtbZQY5Ji9Yj23aBc6GOANwjD=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 145929,
+      "length": "23:16",
+      "description": "The first 500 people to use my link https://skl.sh/forrestknight08241 will get a 1 month free trial of Skillshare premium! Git is one of ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/K6Q31YkorUE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC96DhbKJ8aWMYk1RBkSFCscDvKDw",
+        "rich": "https://i.ytimg.com/an_webp/K6Q31YkorUE/mqdefault_6s.webp?du=3000&sqp=CMn4otYG&rs=AOn4CLBSOl0_XE-Tn-wy3dx0UsIj2MF8qA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Git Tutorial for Beginners | Complete Hands-on Git Course (Step-by-Step)",
+      "link": "https://www.youtube.com/watch?v=Sxs6qEGcp7Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Sxs6qEGcp7Y",
+      "video_id": "Sxs6qEGcp7Y",
+      "channel": {
+        "name": "Automation Step by Step",
+        "link": "https://www.youtube.com/@RaghavPal",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/5tuEbFkSPMSlo7DHp4wRIEHS9uyQ1DajIdLen3Z51snG-LyN_AiZybLQp97HUy75kILxK1gs2Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1mo ago",
+      "views": 8081,
+      "length": "1:24:03",
+      "description": "Learn Git from scratch with this complete hands-on Git tutorial for beginners. This step-by-step course covers Git basics, GitHub ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Sxs6qEGcp7Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzmP-V9wQwyjVcbmDkUCAKuG8-VQ",
+        "rich": "https://i.ytimg.com/an_webp/Sxs6qEGcp7Y/mqdefault_6s.webp?du=3000&sqp=CJ7cotYG&rs=AOn4CLChc5vgv9laCNR3LFKcT0LrWNF1DQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1)",
+      "link": "https://www.youtube.com/watch?v=hrTQipWp6co",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hrTQipWp6co",
+      "video_id": "hrTQipWp6co",
+      "channel": {
+        "name": "SuperSimpleDev",
+        "link": "https://www.youtube.com/@SuperSimpleDev",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_laf9dDyNATE1_RdVUKthwnwT9TSm9N0my0jL2H8gCvjw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 836717,
+      "length": "36:57",
+      "description": "Learn Git from 0 experience to professional level in 3 projects. Git Cheatsheet: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hrTQipWp6co/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA89OVPIkMxGKSug55avBnHTOSSTQ",
+        "rich": "https://i.ytimg.com/an_webp/hrTQipWp6co/mqdefault_6s.webp?du=3000&sqp=CMT2otYG&rs=AOn4CLCYu4_SDRIDtvuPq9M7dyepR6HcMQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git",
+      "link": "https://www.youtube.com/watch?v=Uszj_k0DGsg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Uszj_k0DGsg",
+      "video_id": "Uszj_k0DGsg",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1948267,
+      "length": "40:42",
+      "description": "Git has the power to make you a better software developer. But you'll have to go beyond the basic \"commit, push, pull\" to use it ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Uszj_k0DGsg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzhIGL3qYUYCgg9FoAapvHSCd6qA",
+        "rich": "https://i.ytimg.com/an_webp/Uszj_k0DGsg/mqdefault_6s.webp?du=3000&sqp=CPjuotYG&rs=AOn4CLDHhdbPpnzt1NR-YkiVgHKZvTHMDg"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Git Tutorial for Absolute Beginners",
+      "link": "https://www.youtube.com/watch?v=CvUiKWv2-C0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CvUiKWv2-C0",
+      "video_id": "CvUiKWv2-C0",
+      "channel": {
+        "name": "Dave Gray",
+        "link": "https://www.youtube.com/@DaveGrayTeachesCode",
+        "thumbnail": "https://yt3.ggpht.com/Ki6y_thZRElVKoqzOUIGnihjRfVPkdVBqS0VsqNAbOl0sGAil5Zg_Dj0g2rftswpE_JCkGh2=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 148512,
+      "length": "36:21",
+      "description": "This Git Tutorial for Absolute Beginners will take you from zero knowledge of git, version control, and GitHub to the most common ...",
+      "extensions": [
+        "Beginner",
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/CvUiKWv2-C0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAd3bACHA_8Lqs9elBG4zsMx4Mgdw",
+        "rich": "https://i.ytimg.com/an_webp/CvUiKWv2-C0/mqdefault_6s.webp?du=3000&sqp=CJjtotYG&rs=AOn4CLDWWt7k6U5J5sT47NW5mpd3stuEvw"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Learn Git and GitLab Tutorial For Beginners | Full Course [2024]",
+      "link": "https://www.youtube.com/watch?v=NK2BrGpA9wI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NK2BrGpA9wI",
+      "video_id": "NK2BrGpA9wI",
+      "channel": {
+        "name": "Cameron McKenzie",
+        "link": "https://www.youtube.com/@cameronmcnz",
+        "thumbnail": "https://yt3.ggpht.com/aqBxTRsPw2bjnj3YLyIsxROpEa3s_KE8hVJcjs8lgc9EBiwDVWDu8KpUluxJGmsFB1F4YuwdVw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 70752,
+      "length": "1:44:09",
+      "description": "Interested in learning Git and GitLab? Looking for a full Git and GitLab tutorial for beginners that covers everything you need to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/NK2BrGpA9wI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVDWegzvyz2Y0LU47lCXyHSz2v8Q",
+        "rich": "https://i.ytimg.com/an_webp/NK2BrGpA9wI/mqdefault_6s.webp?du=3000&sqp=CODQotYG&rs=AOn4CLAa1C-tAfSLhrDxienjVnYCUtoY5Q"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Learn Git & GitHub — Full Course (3 Hours)",
+      "link": "https://www.youtube.com/watch?v=DeXOpvDpS9Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DeXOpvDpS9Y",
+      "video_id": "DeXOpvDpS9Y",
+      "channel": {
+        "name": "ArbiX Academy",
+        "link": "https://www.youtube.com/@arbixacademy",
+        "thumbnail": "https://yt3.ggpht.com/anJ_tNrV2aqw7bnur0oTif-pNF3jAjFHE96D57m3-HR6flbQb_YrmyL8VHy9cg6rUjAEdSNL=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "17h ago",
+      "views": 51,
+      "length": "2:52:58",
+      "description": "Learn Git and GitHub from scratch in this complete beginner-friendly course. In under 3 hours, you'll go from installing Git to ...",
+      "extensions": [
+        "New",
+        "Lecture"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/DeXOpvDpS9Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxkRfLsQpWgn_IvpaDcQ5thKZogQ",
+        "rich": "https://i.ytimg.com/an_webp/DeXOpvDpS9Y/mqdefault_6s.webp?du=3000&sqp=CJCEo9YG&rs=AOn4CLAbcgkB04NamPxLIje0maspPMlEYw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Complete Git and GitHub Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=Ez8F0nW6S-w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ez8F0nW6S-w",
+      "video_id": "Ez8F0nW6S-w",
+      "channel": {
+        "name": "Apna College",
+        "link": "https://www.youtube.com/@ApnaCollegeOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FEcjRtez5od8UowDo6tTt9WlE-MrIFEmcwPMTORmK9Swk6KCklOmA3xfIG9WuLWfNYfNThQE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 8472420,
+      "length": "1:14:17",
+      "description": "Link for GitHub Notes : https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link Want to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ez8F0nW6S-w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApxuB8NR0x2F7azyy2KLSi0vaqnA",
+        "rich": "https://i.ytimg.com/an_webp/Ez8F0nW6S-w/mqdefault_6s.webp?du=3000&sqp=CNzQotYG&rs=AOn4CLDJiDBVRIwzwKqak7G40a62Y2kckg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Learn Git and GitHub in 1 Hour!",
+      "link": "https://www.youtube.com/watch?v=lLoJHifWTRw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lLoJHifWTRw",
+      "video_id": "lLoJHifWTRw",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 77745,
+      "length": "57:25",
+      "description": "Take my Full Git and GitHub course: https://www.analystbuilder.com/courses/git-and-github-for-data-professionals Git: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/lLoJHifWTRw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVEKv1T08ngMZJow6L1L7ZUrHs3Q",
+        "rich": "https://i.ytimg.com/an_webp/lLoJHifWTRw/mqdefault_6s.webp?du=3000&sqp=CJDeotYG&rs=AOn4CLDwyOSIZAn5kZVSfGAznHAYkkXw6w"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Git For Beginners",
+      "link": "https://www.youtube.com/watch?v=vwj89i2FmG0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vwj89i2FmG0",
+      "video_id": "vwj89i2FmG0",
+      "channel": {
+        "name": "Telusko",
+        "link": "https://www.youtube.com/@Telusko",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0nsZM3NF0C9bFr2IFXicMJ1w82ldRaZvGKFnezBe2lpW7F9gI92FaLubcTghnNNt4Ld8DfRvEMo=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 582971,
+      "length": "2:00:37",
+      "description": "Git and Github Check out our courses: Agentic AI with Java : Live Cohort : https://go.telusko.com/agentic-ai-with-java-cohort ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vwj89i2FmG0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDluRqc4tsL3AEVqOEkWjBuplidw",
+        "rich": "https://i.ytimg.com/an_webp/vwj89i2FmG0/mqdefault_6s.webp?du=3000&sqp=CInOotYG&rs=AOn4CLDBIGIoG3hSIPORANI2GF_O56125g"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Git+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Git%20full%20course%20for%20beginners&sp=EgIYAkgUggELOEpKMTAxRDNrbkWCAQt6VGpSWk5raGlFVYIBC3JIM3pFN1ZsSU1zggELbUFGb1JPbk9mSHOCAQt0UlpHZWFIUG9hd4IBC2gyYTNLdy1JX0VjggELM0ZLcnN6SGNJc0GCAQszZlViQm5OX0gyY4IBC1JHT2o1eUg3ZXZrggELUzdYcFRBblNETDSCAQtLNlEzMVlrb3JVRYIBC1N4czZxRUdjcDdZggELaHJUUWlwV3A2Y2-CAQtVc3pqX2swREdzZ4IBC0N2VWlLV3YyLUMwggELTksyQnJHcEE5d0mCAQtEZVhPcHZEcFM5WYIBC0V6OEYwblc2Uy13ggELbExvSkhpZldUUneCAQt2d2o4OWkyRm1HMLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELOEpKMTAxRDNrbkWCAQt6VGpSWk5raGlFVYIBC3JIM3pFN1ZsSU1zggELbUFGb1JPbk9mSHOCAQt0UlpHZWFIUG9hd4IBC2gyYTNLdy1JX0VjggELM0ZLcnN6SGNJc0GCAQszZlViQm5OX0gyY4IBC1JHT2o1eUg3ZXZrggELUzdYcFRBblNETDSCAQtLNlEzMVlrb3JVRYIBC1N4czZxRUdjcDdZggELaHJUUWlwV3A2Y2-CAQtVc3pqX2swREdzZ4IBC0N2VWlLV3YyLUMwggELTksyQnJHcEE5d0mCAQtEZVhPcHZEcFM5WYIBC0V6OEYwblc2Uy13ggELbExvSkhpZldUUneCAQt2d2o4OWkyRm1HMLIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Git+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Git+full+course+for+beginners&sp=EgIYAkgUggELOEpKMTAxRDNrbkWCAQt6VGpSWk5raGlFVYIBC3JIM3pFN1ZsSU1zggELbUFGb1JPbk9mSHOCAQt0UlpHZWFIUG9hd4IBC2gyYTNLdy1JX0VjggELM0ZLcnN6SGNJc0GCAQszZlViQm5OX0gyY4IBC1JHT2o1eUg3ZXZrggELUzdYcFRBblNETDSCAQtLNlEzMVlrb3JVRYIBC1N4czZxRUdjcDdZggELaHJUUWlwV3A2Y2-CAQtVc3pqX2swREdzZ4IBC0N2VWlLV3YyLUMwggELTksyQnJHcEE5d0mCAQtEZVhPcHZEcFM5WYIBC0V6OEYwblc2Uy13ggELbExvSkhpZldUUneCAQt2d2o4OWkyRm1HMLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELOEpKMTAxRDNrbkWCAQt6VGpSWk5raGlFVYIBC3JIM3pFN1ZsSU1zggELbUFGb1JPbk9mSHOCAQt0UlpHZWFIUG9hd4IBC2gyYTNLdy1JX0VjggELM0ZLcnN6SGNJc0GCAQszZlViQm5OX0gyY4IBC1JHT2o1eUg3ZXZrggELUzdYcFRBblNETDSCAQtLNlEzMVlrb3JVRYIBC1N4czZxRUdjcDdZggELaHJUUWlwV3A2Y2-CAQtVc3pqX2swREdzZ4IBC0N2VWlLV3YyLUMwggELTksyQnJHcEE5d0mCAQtEZVhPcHZEcFM5WYIBC0V6OEYwblc2Uy13ggELbExvSkhpZldUUneCAQt2d2o4OWkyRm1HMLIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 10:39:15 UTC"
+}

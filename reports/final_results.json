@@ -125,10 +125,35 @@
           "skill": "Git",
           "display_skill": "Git",
           "unlocked": 5,
-          "hours": null,
-          "course_confidence": "low",
-          "jobs_per_hour": null,
-          "videos": []
+          "hours": 3.73,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.342,
+          "videos": [
+            {
+              "title": "Learn Git – Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "3:43:34",
+              "hours": 3.726111111111111,
+              "link": "https://www.youtube.com/watch?v=zTjRZNkhiEU",
+              "language_query": "Git full course for beginners"
+            },
+            {
+              "title": "Git and GitHub - Full Course",
+              "channel": "Boot dev",
+              "duration": "4:20:00",
+              "hours": 4.333333333333333,
+              "link": "https://www.youtube.com/watch?v=rH3zE7VlIMs",
+              "language_query": "Git full course for beginners"
+            },
+            {
+              "title": "Git & GitHub Crash Course for Beginners [2026]",
+              "channel": "freeCodeCamp.org and logicBase Labs",
+              "duration": "1:21:20",
+              "hours": 1.3555555555555556,
+              "link": "https://www.youtube.com/watch?v=mAFoROnOfHs",
+              "language_query": "Git full course for beginners"
+            }
+          ]
         }
       ],
       "bootstrap": {
@@ -142,7 +167,7 @@
         "samples": 500
       },
       "hour_variation": {
-        "top_share": 0.9567,
+        "top_share": 0.9527,
         "checks": 1500
       },
       "confidence": "Strong",
@@ -182,7 +207,7 @@
           "optimal_skills": [
             "REST API"
           ],
-          "candidate_count": 3
+          "candidate_count": 4
         },
         {
           "budget": 10,
@@ -197,7 +222,7 @@
           "optimal_skills": [
             "React"
           ],
-          "candidate_count": 3
+          "candidate_count": 4
         },
         {
           "budget": 15,
@@ -212,7 +237,7 @@
           "optimal_skills": [
             "React"
           ],
-          "candidate_count": 3
+          "candidate_count": 4
         }
       ],
       "distance": {
@@ -225,9 +250,7 @@
       "flags": {
         "limited_data": false,
         "dictionary_warning": false,
-        "hours_unknown": [
-          "Git"
-        ]
+        "hours_unknown": []
       }
     },
     "Noida": {

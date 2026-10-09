@@ -1,0 +1,18 @@
+{
+  "attempts": [
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "Git full course for beginners",
+      "location": null
+    }
+  ],
+  "accounts": [
+    {
+      "label": "C before",
+      "this_month_usage": 0,
+      "total_searches_left": 250
+    }
+  ]
+}

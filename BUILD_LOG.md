@@ -146,3 +146,22 @@ Verify: engine, generated JSON, README and DEMO share the same current results.
 
 Diff reviewed. No search calls. Current requirements and videos remain linked;
 old screenshots are historical and will be replaced at the page screenshot gates.
+
+### Phase B checkpoint
+
+B7 CI succeeded at 466b991. Account usage 0 -> 0, searches left 250 -> 250.
+H1: 75 tests pass; H2: both golden demos pass; H4: every push staged scan passed.
+No network search was used. Ranking and course-rule result changes are retained.
+
+## C1 - Fill existing unknown course hours
+
+- Research: offline analysis found only Git without saved hours in the existing
+  demos. Current YouTube contract documented at A2.
+- Plan/acceptance: fetch that missing response once, redact it, rerun both demos,
+  and disclose any changed winner. Durable attempt counter guards phase/total caps.
+- Build: added budgeted build-only client; reuses exact saved responses and local
+  cache; counts before requests and never retries. Saved Git course response.
+- Test: regenerated golden data/documents; full offline suite 75 tests passes.
+- Verify: Git 3.726111 hours, three qualifying videos, standard duration confidence.
+  New calls: 1. Fastest winners remain Responsive Design and SQL. Diff reviewed.
+- Record: C Account baseline usage 0 / 250 left; phase cap 105, total 160.
