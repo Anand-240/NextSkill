@@ -31,3 +31,26 @@ information. Credits are subject to account terms, expiry and transfer restricti
 Participants bear their costs and responsibilities; service availability is not promised.
 Organizer discretion, changes, liability provisions and dispute-resolution terms apply.
 Read the linked terms before submitting; this map does not replace them.
+
+## A2 - API contracts and limits
+
+| API and current documentation | Exact request contract | Response fields and limits |
+|---|---|---|
+| [Google Jobs](https://serpapi.com/google-jobs-api) | `engine=google_jobs`, `q=<role>`, `location=<city>, India`, `gl=in`, `hl=en`; subsequent requests use `next_page_token` | `jobs_results`: `job_id`, `title`, `company_name`, `description`, `location`, `share_link`, `detected_extensions.posted_at`, `extensions`; `serpapi_pagination.next_page_token`; up to ten results/page; `start` is discontinued |
+| [YouTube search](https://serpapi.com/youtube-search-api) | `engine=youtube`, **`search_query`**, not `q`; `gl=in`, `hl=en`, `sp` for filter/pagination | `video_results`; `serpapi_pagination.next_page_token` becomes the next `sp`; this app reads only the first page |
+| [Video fields](https://serpapi.com/youtube-video-results) | Returned by YouTube search | `title`, `link`, `channel.name`, `length` (M:SS or H:MM:SS); missing/live durations are unusable |
+| [Google web search](https://serpapi.com/search-api) | `engine=google`, `q=<skill> course (site:nptel.ac.in OR site:swayam.gov.in)`, `gl=in`, `hl=en` | `organic_results`: `title`, `link`, `snippet`; validate returned hosts; search snippets alone do not establish course duration |
+| [Account API](https://serpapi.com/account-api) | GET `/account.json` with the private `api_key`; never save its full response | `this_month_usage`, `total_searches_left`, `plan_searches_left`; account requests do not consume search quota |
+
+The app passes raw `EgIYAg==` (long videos) and `EgIYAw==` (medium videos)
+through `urlencode` exactly once. The docs document `sp` but do not promise a stable
+catalogue of duration tokens. [SerpApi's example](https://serpapi.com/blog/making-youtube-mentions-tracker-in-python/)
+uses the medium token. Keep response duration checks (courses >=30 minutes on fallback;
+revision 5 to 25 minutes) even when a filter is sent. The latter is an acceptance
+window, not a promise that YouTube's 4 to 20 minute filter returns 25-minute videos.
+
+Current code correctly uses `search_query`, Jobs continuation tokens, `gl/hl`, a
+75-second timeout, no retry, and treats "hasn't returned any results" as empty.
+Required fixes: B1 measures all saved candidates; B3 makes Account failure nonfatal;
+B4 validates course title relevance. No unsupported API parameter needs replacement.
+App policy caps pages at three; this is not a SerpApi platform limit.
