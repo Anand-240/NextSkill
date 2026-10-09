@@ -30,3 +30,14 @@ The existing app remains the entry point until replacement pages pass.
 - Verify: inspected fetch_jobs, course_videos, revision_params, _request, _check_error;
   existing transport parameters agree. B1/B3/B4 address product logic, not transport.
 - Record: no search calls; diff reviewed before commit.
+
+## A3 - Problem evidence
+
+- Research: four primary institutional sources (ILO/IHD, World Bank, UNICEF) opened
+  and linked; no unsupported price or employment statistic adopted.
+- Plan/acceptance: three to five relevant credible sources, with scope and limitations.
+- Build: documented four sources, separating institutional findings from our hypothesis.
+- Test: full offline suite: 69 tests, OK.
+- Verify: every source linked; no invented beneficiaries, outcome numbers or quotes.
+  Diff reviewed. A1-A3 completed inside the one-hour timebox.
+- Record: zero search calls. A4/A5 remain deferred per priority order.

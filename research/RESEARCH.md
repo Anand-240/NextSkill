@@ -54,3 +54,27 @@ Current code correctly uses `search_query`, Jobs continuation tokens, `gl/hl`, a
 Required fixes: B1 measures all saved candidates; B3 makes Account failure nonfatal;
 B4 validates course title relevance. No unsupported API parameter needs replacement.
 App policy caps pages at three; this is not a SerpApi platform limit.
+
+## A3 - Problem evidence
+
+1. [ILO and IHD, India Employment Report 2024](https://www.ilo.org/publications/india-employment-report-2024-youth-employment-education-and-skills)
+   examines youth employment, education and skills. It motivates investigating the
+   education-to-work transition; it does not prove that a course recommendation
+   causes employment. [Full report](https://www.ilo.org/sites/default/files/2024-08/India%20Employment%20-%20web_8%20April.pdf).
+2. [World Bank, SIMO results (2023)](https://www.worldbank.org/en/results/2023/11/03/helping-india-build-skilled-inclusive-workforce)
+   describes district-level, market-relevant training and inclusion. Its reported
+   employment outcomes concern that program, not NextSkill. Local relevance and
+   disadvantaged learners deserve evaluation here too.
+3. [UNICEF, career guidance access (2021)](https://www.unicef.org/india/stories/experience-personalized-unique-career-journey)
+   describes a free CBSE career portal, regional-language access, and support for
+   teachers. It supports the need for accessible information, not a claim that free
+   career guidance is absent. NextSkill should complement these services.
+4. [UNICEF, economic opportunities for young people](https://www.unicef.org/india/economic-opportunities-young-people)
+   identifies gaps in job awareness, information and employment support. Its YouthHub
+   already combines jobs and skills, including languages and tier-2/tier-3 reach.
+   This makes an unsupported "first" or "unique" claim inappropriate.
+
+Product inference: an inspectable local listing-to-skill comparison may help applicants
+choose a next step. We have not measured its benefit, and cannot attribute structural
+unemployment to individual skill gaps. No credible price study was verified here;
+we make no claim about an average monetary cost of career guidance.
