@@ -57,9 +57,14 @@ def demo_data_version() -> tuple:
 
 
 @st.cache_data(show_spinner=False)
-def final_results() -> dict:
-    """Generated results for every saved pair; the single source for headline numbers."""
+def _read_results(version: int) -> dict:
     return json.loads((ROOT / "reports/final_results.json").read_text())
+
+
+def final_results() -> dict:
+    """Generated results for every saved pair; the single source for headline numbers.
+    The cache key is the file's modification time, so a redeploy never serves stale numbers."""
+    return _read_results((ROOT / "reports/final_results.json").stat().st_mtime_ns)
 
 
 def pairs() -> list[dict]:
