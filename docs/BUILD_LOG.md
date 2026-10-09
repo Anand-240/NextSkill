@@ -530,3 +530,26 @@ adds them, and `check_consistency` re-derives both reports.
 
 DEMO.md is generated for 2 minutes 40 seconds with the sample profile, headline, Job Prep, job-information gap, one live
 local search with a budget of 3, and the limits. The live segment is to be recorded first and retried if a request times out.
+
+## 7 Verification (batch 2)
+
+- 7.1 Offline suite: 117 tests pass (17 s). `scripts.check_consistency`: 0 problems (results, job-gap file, README, DEMO,
+  final report, hand-label and user-test reports all rebuilt and compared). CI green on the latest push.
+- 7.2 Fresh clone of origin/main into a temporary folder with a new virtualenv and no `.env`: 117 tests pass, consistency
+  check passes, the app starts, and `/live` falls back to Home with no Live search link in the navigation.
+- 7.3 Playwright, Chromium, 1280 px and 390 px, all six pages: 0 exceptions, 0 px horizontal overflow, the "Prefer Hindi
+  videos" switch clickable on every page, Home button opens Find, every market on the Find page renders. Screenshots
+  re-captured (screenshots/site_*.png, mobile_home.png, mobile_find.png). Correction to an earlier review note: the market
+  dropdown shows 11 entries because Streamlit virtualises the list; there are 15 markets.
+- Live path (one run, local key, never shown): Data Analyst in Nagpur, 1 page, budget 3. Search Replay showed 3 live Google
+  Jobs requests, 1 cached course search and 2 skipped (budget), the credit counter read "used 2, remaining 148", partial
+  results rendered, 0 exceptions. The Account API counts later than the ledger: from 98 used after the gap fetch the
+  account reached 103 used (147 left) after this run, so the batch moved the account by 28 credits (25 gap attempts and 3
+  live), which matches the 28 attempts recorded. The cap for the batch was 40; the floor of 90 remaining was never close.
+- 7.4 Security: full-history scan, 604 blobs, 0 findings for the key value and api_key patterns; 134 response files with
+  no emails or phone numbers; every commit's staged diff was checked for the key before pushing.
+- 7.5 README links: all relative files exist; web links answer 200 except two that redirect and need a browser or a
+  follow-up (labour.gov.in/ncs redirects to www.labour.gov.in; nextskill.streamlit.app answers with a cookie handshake).
+- 7.6 Open for the human: the hosted app still served the old build when checked (8 saved markets, "unknown date" on three
+  markets). Reboot the Streamlit app, then open it in a private window and check Home shows the worked example for
+  Frontend Developer in Bengaluru and Compare cities shows the job-information gap section.
