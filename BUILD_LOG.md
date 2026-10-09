@@ -269,3 +269,18 @@ Phase C remaining: 82 (of 105), of which revision videos 15.
   7 of 8 show both revise and learn sections. Indore (5 eligible, 0 matches) has no listing
   with a skill the persona holds, so its plan is learn-only; this is disclosed, not hidden.
   Bengaluru's choice is unchanged (Team Geek Solutions). 79 tests pass.
+
+## F1-F3 - Evidence kits
+
+- Research: matcher rules were written from the validation fixtures and the Bengaluru and
+  Noida demos (git log for skills.py: last rule change before the C2 data existed).
+- Plan/acceptance: 20 random eligible listings unseen by rule writing, empty label columns,
+  scoring and user-test scripts that run on dummy files in tests, "pending" everywhere until real data.
+- Build: evaluation/labels_template.csv (seed 20261009, pool of 70 eligible listings from the six
+  later markets), evaluation/user_test_template.csv (header only), instructions in
+  evaluation/README.md, scripts/make_label_template.py, score_labels.py, summarise_user_test.py.
+  reports/hand_label_eval.md and reports/user_test.md both say pending.
+- Test: tests/test_evaluation.py with dummy rows (precision/recall/must-have/experience counts, quote
+  permission gating, pending states, template has no labels or contact data); full suite below.
+- Verify: no label was filled by this repository. Row counts only when all three label cells are filled.
+  Zero searches.
