@@ -1,6 +1,8 @@
 """Result sections shared by the Find, Job Prep and Live pages."""
 from __future__ import annotations
 
+import html
+
 import altair as alt
 import pandas  # noqa: F401  Altair looks pandas up in sys.modules; import it before any chart.
 import streamlit as st
@@ -8,6 +10,7 @@ import streamlit as st
 from engine import (DICTIONARY_WARNING, SerpClient, ROLE_FIT_WARNING, headline_picks, hours_parts, hours_text, is_old, no_unlock_message,
                     posted_text)
 from hindi import hindi_courses, hindi_revision
+from job_prep import prep_candidates
 from i18n import hindi_on, t
 from views.common import confidence_pill
 
@@ -39,6 +42,62 @@ def hindi_block(skill: str, saved: bool, revision: bool = False) -> None:
             st.caption("Hours above are estimated from the English courses listed.")
     else:
         st.caption(t("hindi_not_saved" if status == "not_saved" else "hindi_fallback", skill=skill))
+
+
+def _missing_names(entry: dict, user: set[str]) -> list[str]:
+    return sorted({" / ".join(sorted(req)) for req in entry["required_skills"] if not req & user})
+
+
+def job_card(entry: dict, user: set[str], threshold: float, highlight: set[str] = frozenset()) -> None:
+    """One listing: title, where, how much of it you cover, what is missing, and a link."""
+    job = entry["job"]
+    link = job.get("source_link") or job.get("share_link") or ""
+    where = " · ".join(part for part in (html.escape(str(job.get("company_name") or "Unknown company")),
+                                         html.escape(str(job.get("location") or "")),
+                                         html.escape(posted_text(job)).replace("unknown", "")) if part)
+    covered = round(entry["coverage"] * 100)
+    missing = _missing_names(entry, user)
+    with st.container(border=True):
+        text, action = st.columns([4, 1])
+        text.markdown(f'<div class="jobtitle">{html.escape(str(job.get("title") or "Untitled"))}</div><div class="jobmeta">{where}</div>'
+                      f'<div class="bar" title="{covered}% of core skills covered"><span style="width:{covered}%"></span></div>'
+                      f'<div class="jobmeta">You cover {covered}% of its core skills. A match needs {threshold:.0%}.</div>',
+                      unsafe_allow_html=True)
+        if missing:
+            text.markdown("".join(f'<span class="chip chip-need">needs {html.escape(name)}</span>' for name in missing[:5]),
+                          unsafe_allow_html=True)
+        if link:
+            action.link_button("Open listing", link)
+        text.caption("Stated must-haves met: " + entry["must_haves_status"])
+
+
+def render_jobs(result: dict, headline: dict | None) -> None:
+    """Explorer for the jobs behind the answer: matches now, one skill away, or opened by the headline skill."""
+    user, threshold = result["user_skills_set"], result["threshold"]
+    matches = [entry for entry in result["jobs"] if entry["coverage"] >= threshold]
+    near_rows = [row for row in prep_candidates(result) if row["status"] == "one_away"]
+    near = [result["jobs"][row["index"]] for row in near_rows]
+    opened = []
+    if headline:
+        by_id = {id(entry["job"]): entry for entry in result["jobs"]}
+        opened = [by_id[id(job)] for job in headline["unlocked_jobs"] if id(job) in by_id]
+    groups = {"Matches now": matches, "One skill away": near}
+    if headline and opened:
+        groups[f"Opened by {headline['display_skill']}"] = opened
+    st.markdown("### Jobs behind this answer")
+    st.caption("Tap a view. Every card links to the original listing.")
+    choice = st.segmented_control("View", list(groups), default=list(groups)[0], label_visibility="collapsed",
+                                  format_func=lambda name: f"{name} ({len(groups[name])})",
+                                  key=f"jobs_view_{result['role']}_{result['city']}") or list(groups)[0]
+    shown = groups.get(choice, [])
+    if not shown:
+        st.info("No listings in this view at the current threshold.")
+    for entry in shown[:6]:
+        job_card(entry, user, threshold)
+    if len(shown) > 6:
+        with st.expander(f"Show {len(shown) - 6} more"):
+            for entry in shown[6:]:
+                job_card(entry, user, threshold)
 
 
 def render_answer(result: dict, saved: bool) -> None:
@@ -98,13 +157,7 @@ def render_answer(result: dict, saved: bool) -> None:
                     st.caption(f"{note}. " + summary(row))
                 else:
                     st.caption("No skill has course lengths from at least two full courses, so none can lead on hours.")
-    if headline and headline["unlocked_jobs"]:
-        jobs = headline["unlocked_jobs"]
-        with st.expander(f"Jobs {headline['display_skill']} would open ({len(jobs)})", expanded=True):
-            for job in jobs[:5]:
-                st.markdown(job_line(job, f" · {posted_text(job)}"))
-            if len(jobs) > 5:
-                st.caption(f"{len(jobs) - 5} more are listed under Evidence.")
+    render_jobs(result, headline)
     lowest = [row for row in result["ranked"] if row["confidence"] == "low" and row["hours"] is not None]
     if lowest:
         st.caption("Low course confidence (fewer than two full courses, so these hours come from other videos and are "

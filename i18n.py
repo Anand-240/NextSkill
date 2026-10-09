@@ -15,7 +15,7 @@ STRINGS = {
     "find_resume": "Paste your resume text or list your skills",
     "find_add_skills": "Add more skills (comma separated)",
     "find_experience": "Experience level",
-    "skills_read": "Skills we read from your text",
+    "skills_read": "Skills used for this answer",
     "tab_answer": "Answer",
     "tab_evidence": "Evidence",
     "tab_plan": "Learning plan",

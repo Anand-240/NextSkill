@@ -560,3 +560,21 @@ The page "Find my next skill" did not say it was about jobs. It is now "Job matc
 a one-sentence intro, the field "Job role and city", and a "Jobs <skill> would open" list on the Answer tab that links the
 first five listings the headline skill would turn into matches. Home, DEMO.md and the tests use the new name; the layout was
 re-captured at 1280 px and 390 px.
+
+## Visual redesign
+
+The first design (dark rounded hero, emoji icons, blue-grey cards) read as generated. Reference points: Awwwards pages for
+career and editorial layouts (cream canvas, black type, one bright accent, newspaper-like structure) and Dribbble job-board
+collections (plain job cards in a list). Principles were borrowed; no design was copied.
+
+- Look: cream paper background, ink-black text, one marigold accent, Fraunces serif headings with DM Sans body, thin ink
+  borders with a small hard shadow on hover, text-only navigation with an underline for the current page, no emoji icons.
+- Home: one big question as the headline, an interactive "pick a job and city" card with three big numbers, three plain
+  steps and the job-information gap as two large numbers. Every number still comes from the results files.
+- Job match: tap-to-select skill pills built from the skills that market asks for most, then a "Jobs behind this answer"
+  explorer (Matches now, One skill away, Opened by the headline skill) with a card per listing: coverage bar, what is
+  missing, must-haves and a link. Resume paste, PDF and thresholds moved into one expander.
+- Job Prep: readiness as three large numbers; revise and learn lists in expanders.
+- Tests: 119 pass (new tests for tapping skills and for the jobs explorer). Browser check at 1280 px and 390 px: 0
+  exceptions, 0 px overflow; Home market picker, Home button to Job match, skill toggle, view switch, Job Prep and Compare
+  cities all clicked through in Chromium. Icon glyphs needed an explicit font rule after the body font override broke them.

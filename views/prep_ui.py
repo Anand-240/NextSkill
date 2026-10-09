@@ -62,17 +62,22 @@ def _render_plan(plan: dict, saved: bool, budget: int | None) -> None:
     st.subheader(title)
     if link:
         st.markdown(f"[Open the listing]({link})")
-    st.markdown(f"**Readiness for this job:** you cover {plan['covered_now']} of {plan['core_total']} core skills "
-                f"({plan['coverage_now']:.0%}; a match needs {plan['threshold']:.0%}).")
-    st.write("Stated must-haves met: " + plan["must_haves_status"])
-    st.caption("Explicit requirements: " + (", ".join(plan["must_haves"]) or "none stated"))
+    st.markdown("**Readiness for this job**")
+    ready, after, musts = st.columns(3)
+    ready.markdown(f'<div class="stat">{plan["covered_now"]} of {plan["core_total"]}</div>'
+                   f'<div class="stat-l">core skills you cover now ({plan["coverage_now"]:.0%}; a match needs {plan["threshold"]:.0%})</div>',
+                   unsafe_allow_html=True)
+    after.markdown(f'<div class="stat">{plan["covered_after"]} of {plan["core_total"]}</div>'
+                   f'<div class="stat-l">after learning every skill below</div>', unsafe_allow_html=True)
+    musts.markdown(f'<div class="stat stat-sm">{plan["must_haves_status"].capitalize()}</div>'
+                   f'<div class="stat-l">stated must-haves met ({", ".join(plan["must_haves"]) or "none stated"})</div>',
+                   unsafe_allow_html=True)
     if plan["coverage_now"] >= plan["threshold"]:
         st.write("This listing already matches your profile.")
     elif plan["unlock_skills"]:
         st.write(f"Learning {' or '.join(plan['unlock_skills'])} alone would make it a match.")
     for note in plan["title_notes"]:
         st.caption(note)
-    st.write(f"After learning every skill listed below: {plan['covered_after']} of {plan['core_total']} core skills.")
     if plan["experience_years"]:
         st.write(f"Experience: this listing asks for at least {plan['experience_years']} years (\"{plan['experience_phrase']}\").")
     elif plan["experience_phrase"] != "no minimum detected":
@@ -110,22 +115,23 @@ def _render_plan(plan: dict, saved: bool, budget: int | None) -> None:
                    "Time": _time_cell(item, saved)} for item in plan["items"]], hide_index=True, width="stretch")
     for action, heading in (("revise", t("revise_heading")), ("learn", t("learn_heading"))):
         rows = [item for item in plan["items"] if item["action"] == action]
-        st.markdown(f"**{heading}**")
-        if not rows:
-            st.caption("None.")
-        for item in rows:
-            detail = f"{item['order']}. **{item['skill']}** · asked by {item['market']} of {item['market_total']} eligible listings"
-            if action == "learn":
-                detail += f" · would also unlock {item['other_unlocks']} other listings in this search"
-            st.markdown(detail)
-            if item["evidence"]:
-                st.caption(f"From this listing: \"{item['evidence']}\"")
-            for video in (item.get("revision_videos") if action == "revise" else item.get("course_videos")) or []:
-                st.markdown(f"- [{video['title']}]({video['link']}) · {video['channel']} · {video['duration']}")
-            if action == "revise" and item["revision_status"] != "found":
-                st.caption(_time_cell(item, saved) + ".")
-            if hindi_on() and not item.get("broad"):
-                hindi_block(item["skill"], saved, revision=action == "revise")
+        section = st.expander(f"{heading} ({len(rows)})", expanded=action == "learn")
+        with section:
+            if not rows:
+                st.caption("None.")
+            for item in rows:
+                detail = f"{item['order']}. **{item['skill']}** · asked by {item['market']} of {item['market_total']} eligible listings"
+                if action == "learn":
+                    detail += f" · would also unlock {item['other_unlocks']} other listings in this search"
+                st.markdown(detail)
+                if item["evidence"]:
+                    st.caption(f"From this listing: \"{item['evidence']}\"")
+                for video in (item.get("revision_videos") if action == "revise" else item.get("course_videos")) or []:
+                    st.markdown(f"- [{video['title']}]({video['link']}) · {video['channel']} · {video['duration']}")
+                if action == "revise" and item["revision_status"] != "found":
+                    st.caption(_time_cell(item, saved) + ".")
+                if hindi_on() and not item.get("broad"):
+                    hindi_block(item["skill"], saved, revision=action == "revise")
     missing = [item["skill"] for item in plan["items"] if item["action"] == "revise"
                and item["revision_status"] == "not_saved" and not is_cached(revision_params(item["skill"]), False)]
     if missing and not saved and live_key():

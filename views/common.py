@@ -15,14 +15,57 @@ from skills import extract_skills
 
 MAX_PDF_BYTES = 5_000_000
 STYLE = """<style>
-.block-container {max-width: 1120px; padding-top: 4.5rem}
-.hero {background:#122b3a;color:#fff;padding:2rem;border-radius:18px;margin-bottom:1.2rem}
-.hero h1 {font-size:2.3rem;margin:0 0 .3rem;color:#fff}
-.hero p {font-size:1.05rem;color:#dbe8ed;margin:0}
-.chip {display:inline-block;background:#e3eef2;color:#123c41;border-radius:999px;padding:.15rem .7rem;margin:0 .3rem .3rem 0;font-size:.9rem}
-.pill {display:inline-block;border-radius:6px;padding:.1rem .5rem;font-size:.85rem;font-weight:600}
-.pill-strong {background:#d8f0dc;color:#14501f}.pill-likely {background:#e6f0cf;color:#3d4f0c}.pill-uncertain {background:#fbe9c9;color:#6b4300}
-@media (max-width: 640px) {.hero {padding:1.2rem}.hero h1 {font-size:1.7rem}}
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=DM+Sans:wght@400;500;700&display=swap');
+:root {--paper:#f6f1e7; --card:#fffaf0; --ink:#1f1b16; --muted:#6a6256; --line:#1f1b16; --mark:#f4c430; --green:#1f4d3a; --clay:#b4532a;}
+html, body, .stApp, [class*="st-"] {font-family: 'DM Sans', system-ui, sans-serif;}
+.stApp {background: var(--paper); color: var(--ink);}
+[data-testid="stIconMaterial"], [class*="material-symbols"] {font-family: 'Material Symbols Rounded', 'Material Symbols Outlined' !important;}
+h1, h2, h3, .serif {font-family: 'Fraunces', Georgia, serif !important; font-weight: 700; letter-spacing: -0.01em; color: var(--ink);}
+.block-container {max-width: 1040px; padding-top: 4.5rem; padding-bottom: 5rem}
+[data-testid="stHeader"] {background: var(--paper); border-bottom: 1.5px solid var(--ink);}
+a[data-testid="stTopNavLink"] {font-weight: 500; border-radius: 0; background: transparent !important; color: var(--ink);}
+a[data-testid="stTopNavLink"]:hover {background: var(--mark) !important;}
+a[data-testid="stTopNavLink"][aria-current="page"], a[data-testid="stTopNavLink"][class*="active"] {box-shadow: inset 0 -3px 0 var(--ink); font-weight: 700;}
+a {color: var(--ink); text-decoration-color: var(--mark); text-decoration-thickness: 2px; text-underline-offset: 3px;}
+a:hover {background: var(--mark); color: var(--ink);}
+.kicker {font-size: .78rem; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); font-weight: 700; margin: 0 0 .6rem}
+.display {font-family: 'Fraunces', Georgia, serif; font-weight: 700; font-size: clamp(2.2rem, 6vw, 4rem); line-height: 1.04; letter-spacing: -0.02em; margin: 0 0 1rem}
+.lede {font-size: 1.2rem; line-height: 1.5; max-width: 40rem; margin: 0 0 1.4rem}
+.mark {background: linear-gradient(transparent 58%, var(--mark) 58%, var(--mark) 92%, transparent 92%); padding: 0 .1em}
+.sticker {display: inline-block; background: var(--mark); border: 1.5px solid var(--ink); padding: .1rem .55rem; font-size: .8rem; font-weight: 700; transform: rotate(-2deg); margin-bottom: .5rem}
+.rule {border: 0; border-top: 1.5px solid var(--ink); margin: 2.2rem 0 1.2rem}
+.step-n {font-family: 'Fraunces', Georgia, serif; font-size: 2.6rem; font-weight: 700; line-height: 1; color: var(--clay)}
+.step-t {font-weight: 700; margin: .2rem 0}
+.stat {font-family: 'Fraunces', Georgia, serif; font-size: clamp(2.2rem, 5vw, 3.4rem); font-weight: 700; line-height: 1}
+.stat-sm {font-size: 1.9rem; padding-top: .6rem}
+.stat-l {color: var(--muted); font-size: .95rem; margin: .35rem 0 1rem}
+.chip {display: inline-block; background: var(--card); color: var(--ink); border: 1.5px solid var(--ink); border-radius: 3px; padding: .08rem .55rem; margin: 0 .35rem .35rem 0; font-size: .9rem; font-weight: 500}
+.chip-need {background: var(--mark)}
+.pill {display: inline-block; border: 1.5px solid var(--ink); border-radius: 3px; padding: .05rem .5rem; font-size: .85rem; font-weight: 700}
+.pill-strong {background: #bfe3c8}.pill-likely {background: var(--mark)}.pill-uncertain {background: #f0c9b4}
+.bar {height: 8px; background: #e4dccb; border: 1.5px solid var(--ink); border-radius: 2px; margin: .35rem 0 .2rem}
+.bar > span {display: block; height: 100%; background: var(--green)}
+.jobtitle {font-weight: 700; font-size: 1.05rem; line-height: 1.3}
+.jobmeta {color: var(--muted); font-size: .92rem}
+[data-testid="stVerticalBlockBorderWrapper"] {background: var(--card); border: 1.5px solid var(--ink) !important; border-radius: 4px !important; transition: transform .12s, box-shadow .12s}
+[data-testid="stVerticalBlockBorderWrapper"]:hover {transform: translate(-2px, -2px); box-shadow: 4px 4px 0 var(--ink)}
+[data-testid="stVerticalBlockBorderWrapper"] [data-testid="stVerticalBlockBorderWrapper"] {box-shadow: none; transform: none}
+.stButton > button, .stLinkButton a, [data-testid="stBaseButton-primary"], [data-testid="stBaseButton-secondary"] {border: 1.5px solid var(--ink); border-radius: 3px; background: var(--card); color: var(--ink); font-weight: 700; box-shadow: 3px 3px 0 var(--ink); transition: transform .1s, box-shadow .1s}
+.stButton > button[kind="primary"], .stButton > button[data-testid="stBaseButton-primary"] {background: var(--ink); color: var(--paper)}
+.stButton > button[kind="primary"] p {color: var(--paper)}
+.stButton > button[kind="primary"]:hover p {color: var(--ink)}
+.stButton > button:hover, .stLinkButton a:hover {transform: translate(2px, 2px); box-shadow: 1px 1px 0 var(--ink); background: var(--mark); color: var(--ink); border-color: var(--ink)}
+[data-testid="stExpander"] {background: var(--card); border: 1.5px solid var(--ink); border-radius: 4px}
+[data-testid="stExpander"] summary {font-weight: 700}
+[data-baseweb="tab-list"] {gap: .4rem; border-bottom: 1.5px solid var(--ink)}
+[data-baseweb="tab"] {font-weight: 700}
+[data-baseweb="tab-highlight"] {background: var(--ink) !important; height: 4px !important}
+[data-testid="stMetricValue"] {font-family: 'Fraunces', Georgia, serif; font-weight: 700}
+[data-baseweb="select"] > div, [data-baseweb="input"], [data-baseweb="textarea"] {background: var(--card) !important; border: 1.5px solid var(--ink) !important; border-radius: 3px !important}
+[data-testid="stCaptionContainer"] {color: var(--muted)}
+[data-testid="stAlert"] {background: var(--card); border: 1.5px solid var(--ink); border-radius: 4px; color: var(--ink)}
+[data-testid="stDataFrame"] {border: 1.5px solid var(--ink); border-radius: 4px}
+@media (max-width: 640px) {.block-container {padding-top: 4rem} .display {font-size: 2.2rem}}
 </style>"""
 
 
@@ -32,18 +75,21 @@ def style() -> None:
 
 def language_bar() -> None:
     """Top-right Hindi switch shown on every page; labels change only for human-approved strings."""
-    _, right = st.columns([5, 1])
+    _, right = st.columns([3, 1])
     right.toggle(i18n.t("toggle_hindi"), key="hindi_toggle")
     if i18n.hindi_on() and not i18n.approved_count():
         st.caption(i18n.HINDI_WAITING)
 
 
 def hero(title: str, subtitle: str) -> None:
-    st.markdown(f'<div class="hero"><h1>{title}</h1><p>{subtitle}</p></div>', unsafe_allow_html=True)
+    """Page title block: a small label, a big serif line and one sentence."""
+    st.markdown(f'<p class="kicker">NextSkill</p><h1 class="display">{title}</h1><p class="lede">{subtitle}</p>',
+                unsafe_allow_html=True)
 
 
-def chips(values: list[str]) -> None:
-    st.markdown("".join(f'<span class="chip">{value}</span>' for value in values) or "None", unsafe_allow_html=True)
+def chips(values: list[str], need: bool = False) -> None:
+    css = "chip chip-need" if need else "chip"
+    st.markdown("".join(f'<span class="{css}">{value}</span>' for value in values) or "None", unsafe_allow_html=True)
 
 
 def confidence_pill(label: str) -> str:

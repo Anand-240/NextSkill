@@ -68,8 +68,25 @@ class SiteTests(unittest.TestCase):
         self.assertEqual(app.header[0].value, "Job match and next skill")
         star = RESULTS["frontend-developer-bengaluru"]
         head = next(row for row in star["ranked"] if row["skill"] == star["headline_skill"])
-        labels = [expander.label for expander in app.expander]
-        self.assertTrue(any(label == f"Jobs {head['display_skill']} would open ({head['unlocked']})" for label in labels), labels)
+        control = app.segmented_control[0]
+        self.assertEqual(control.options[0], f"Matches now ({star['matches']})")
+        opened = [option for option in control.options if option.startswith(f"Opened by {head['display_skill']}")]
+        self.assertEqual(opened, [f"Opened by {head['display_skill']} ({head['unlocked']})"])
+        control.set_value(f"Opened by {head['display_skill']}").run()
+        self.assertFalse(app.exception, [str(e.value) for e in app.exception])
+        text = "\n".join(item.value for item in app.markdown)
+        self.assertEqual(text.count('class="jobtitle"'), head["unlocked"])  # six shown plus the rest in "Show more"
+
+    def test_tapping_a_skill_changes_the_answer_and_untapping_returns_it(self):
+        app = self.open("views/find.py")
+        before = app.subheader[0].value
+        pills = app.pills[0]
+        self.assertEqual(sorted(pills.value), ["CSS", "HTML", "JavaScript"])
+        pills.set_value(["HTML"]).run()
+        self.assertFalse(app.exception)
+        self.assertNotEqual(app.subheader[0].value, before)
+        app.pills[0].set_value(["CSS", "HTML", "JavaScript"]).run()
+        self.assertEqual(app.subheader[0].value, before)
 
     def test_find_page_accepts_added_skills_and_keeps_old_wording_out(self):
         app = self.open("views/find.py")

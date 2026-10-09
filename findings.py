@@ -144,9 +144,12 @@ def natural_list(items: list[str]) -> str:
     return items[0] if len(items) == 1 else ", ".join(items[:-1]) + " and " + items[-1]
 
 
-def example_text(results: dict, resume: str) -> str:
+def example_text(results: dict, resume: str, key: str | None = None) -> str:
     """One worked example, written once and used by the README, the demo script and the Home page."""
-    row = results["pairs"][example_key(results)]
+    row = results["pairs"][key or example_key(results)]
+    if not row["headline_skill"]:
+        return (f"Priya is a sample profile, not a real person. For {row['role']} in {row['city']} the saved listings gave "
+                f"{row['scored']} scored listings, too few to name one skill. Pick stability: {row['confidence']}.")
     head = next(item for item in row["ranked"] if item["skill"] == row["headline_skill"])
     skills = natural_list([part.strip() for part in resume.split(",") if part.strip()])
     article = "an" if row["role"][0] in "AEIOU" else "a"
