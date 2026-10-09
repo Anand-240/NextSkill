@@ -60,4 +60,8 @@ st.markdown("""
 """)
 st.markdown("### Research sources")
 st.markdown(section(read("research/RESEARCH.md"), "A3 - Problem evidence"))
+st.markdown("### Existing tools")
+st.markdown(section(read("research/RESEARCH.md"), "A4 - Landscape and what NextSkill does differently"))
+st.markdown("### Tried and dropped")
+st.markdown(section(read("research/RESEARCH.md"), "A5 - NPTEL and SWAYAM through Google search"))
 st.caption("Full notes, API contracts and the requirements map are in research/RESEARCH.md in the repository.")
