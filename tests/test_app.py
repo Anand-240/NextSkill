@@ -10,6 +10,18 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class PresentationTests(unittest.TestCase):
+    def test_account_failure_keeps_successful_live_results(self):
+        with patch("engine.optional_serpapi_key", return_value=None), patch("engine._request", side_effect=AssertionError("network")):
+            app = AppTest.from_file(str(ROOT / "app.py"), default_timeout=120).run()
+            result = app.session_state["result"]
+            with patch("engine.optional_serpapi_key", return_value="unit-test-placeholder"), patch("engine.run", return_value=result), patch("engine.SerpClient.account", side_effect=RuntimeError("account unavailable")):
+                app.run()
+                app.sidebar.toggle[1].set_value(True).run()
+                app.sidebar.button[0].click().run()
+            self.assertFalse(app.exception)
+            self.assertEqual(app.session_state["result"]["ready"], result["ready"])
+            self.assertIn("Credit balance unavailable", [x.value for x in app.info])
+
     def test_demo_and_live_headlines_describe_the_source_and_population(self):
         with patch("engine.optional_serpapi_key", return_value=None), \
              patch("engine._request", side_effect=AssertionError("network requested")):

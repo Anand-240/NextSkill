@@ -10,7 +10,7 @@ from resume_pdf import extract_pdf_text
 from engine import (DEFAULT_THRESHOLD, DICTIONARY_WARNING, ROLE_FIT_WARNING, ROOT, BudgetExceeded, SerpClient,
                     max_live_requests,
                     headline_picks, hours_range, is_old, no_unlock_message, optional_serpapi_key,
-                    posted_text, run, course_videos)
+                    posted_text, run, course_videos, safe_account)
 from job_prep import (REVISION_LABEL, build_plan, default_prep_index, is_cached, prep_candidates,
                       revision_params, revision_videos, time_range)
 
@@ -135,14 +135,15 @@ if go or auto_demo:
                                 budget=budget if live else None)
             if live:
                 client.key = cloud_key or optional_serpapi_key()
-                before = client.account("demo_before")
-                try:
-                    result = run(role, city, resume_input, manual, threshold, include_hindi,
-                                 exclude_old, pages, False, client, core_share, learning_limit=3,
-                                 experience_level=experience_level)
-                finally:
-                    after = client.account("demo_after")
-                    live_credit_balance.clear()
+                before = safe_account(client, "demo_before")
+                result = run(role, city, resume_input, manual, threshold, include_hindi,
+                             exclude_old, pages, False, client, core_share, learning_limit=3,
+                             experience_level=experience_level)
+                st.session_state["result"] = result
+                st.session_state["replay_mode"] = False
+                st.success("Search complete. Results are saved for this session.")
+                after = safe_account(client, "demo_after")
+                live_credit_balance.clear()
                 st.session_state["credit_update"] = {"before": before, "after": after}
             else:
                 result = cached_demo_run(role, city, resume_input, manual, threshold, include_hindi,
@@ -180,8 +181,10 @@ if result:
         st.info(f"Live search budget reached after {result['live_requests']} new searches. Results use the listings and "
                 "course data fetched so far; skills without course data show hours unknown. Raise the budget to fetch more.")
     credit_update = st.session_state.get("credit_update")
-    if credit_update:
+    if credit_update and credit_update["before"] and credit_update["after"]:
         st.info(f"SerpApi credits used in this live run: {credit_update['after']['this_month_usage'] - credit_update['before']['this_month_usage']}. Remaining: {credit_update['after']['total_searches_left']}.")
+    elif credit_update:
+        st.info("Credit balance unavailable")
     excluded = result["experience_excluded"]
     with st.expander("About this sample"):
         st.caption(f"{result['eligible_count']} eligible listings remain after experience and date filters; {count} have detected core requirements and are scored; {result['ignored']} have no detected core requirements.")

@@ -78,3 +78,14 @@ current prose. Archived the original golden file; no results tuned to preserve i
   at 50% but correctly gets must-haves status no. Every phrase and OR choice tested.
 - Verify: generated golden results; no coverage counts changed. Diff reviewed.
 - Record: no search requests; heuristic limitation retained.
+
+## B3 - Nonfatal account telemetry
+
+- Research: account requests before and in finally could prevent result assignment.
+- Plan/acceptance: account failure must leave successful live results in session state
+  and show Credit balance unavailable; mocked UI test, no real search.
+- Build: safe_account returns unavailable on transport/parser errors. Store result
+  before the trailing account check; both pre/post balance failures are nonfatal.
+- Test: mocked live UI account failure added; full suite 73 tests passes.
+- Verify: result remains rendered and retained, no app exception. Diff reviewed.
+- Record: zero searches.

@@ -188,6 +188,14 @@ class FetchedJobs(list):
         self.raw_count = raw_count
 
 
+def safe_account(client: SerpClient, label: str) -> dict | None:
+    """Account telemetry must never discard a search result."""
+    try:
+        return client.account(label)
+    except (RuntimeError, OSError, ValueError):
+        return None
+
+
 def _check_error(data: dict) -> None:
     error = str(data.get("error") or "")
     if error and "hasn't returned any results" not in error.lower():
