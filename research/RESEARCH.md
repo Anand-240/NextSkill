@@ -106,3 +106,21 @@ Result: not usable through SerpApi Google search in our test. Queries with `site
 `site:swayam.gov.in`) returned zero pages from those hosts; results were unrelated pages and YouTube videos.
 Eight searches were spent finding this out (phase D ledger). The saved responses were removed and the
 feature was not built; no NPTEL or SWAYAM claim appears in the product.
+
+## A4 - Landscape and what NextSkill does differently
+
+Existing tools (read on 2026-10-09; each does something useful here):
+
+- [National Career Service](https://labour.gov.in/ncs): a Ministry of Labour and Employment portal for job matching,
+  career counselling, skill-course information and labour-market information, with in-person Career Centres.
+- [Skill India Digital Hub](https://www.skillindiadigital.gov.in/): a government platform for upskilling,
+  reskilling, career growth and lifelong learning (its own description; we did not verify course or job counts).
+- [LinkedIn Skills Match](https://www.linkedin.com/help/linkedin/answer/a793433): shows "x of y skills match your
+  profile" for a listing, from explicit and inferred profile skills, and lets a member add missing skills.
+- [UNICEF YouthHub](https://www.unicef.org/india/economic-opportunities-young-people): combines jobs and skills (see A3).
+
+What NextSkill adds, stated narrowly: it counts, for one role in one chosen city's saved listings, how many
+extra listings a single missing skill would turn into matches, divides by the length of free YouTube courses,
+and links the listings and videos behind each count. It also shows how stable that pick is under resampling.
+It does not replace counselling, does not search every vacancy, covers a small number of saved markets,
+and its benefit to a job seeker is unmeasured (user test pending). We make no claim that nothing similar exists.

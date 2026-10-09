@@ -360,3 +360,11 @@ Phase C remaining: 82 (of 105), of which revision videos 15.
   warning. Fastest wins changed nothing in the first eight pairs. Remaining pairs in the original list
   were not collected (Mumbai/Chennai/Noida/Kochi for every role); the 15 saved pairs satisfy the Tier 1 target.
 - Credits: Account 44 -> 71 used for this step and the Git revision (179 left). Ledger phase C: 52 of 105.
+
+## A4 and A5 - Landscape and public courses
+
+- Research: four existing tools read and linked (research/RESEARCH.md A4); A5 terms read and the site: test
+  recorded (see D1).
+- Plan/acceptance: honest comparison without uniqueness claims; links open.
+- Verify: NCS, LinkedIn Skills Match and Skill India Digital Hub pages opened; SIDH counts not verified so not used.
+  Zero searches for A4; A5 searches are accounted under D1.
