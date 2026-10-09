@@ -1,0 +1,450 @@
+{
+  "search_metadata": {
+    "id": "6ac8cdc5de5efced68ca195b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/IgwEADxeTH-BDOgbJ4DJ1tBHt-ONX19lw8BLU2Bs_pw/6ac8cdc5de5efced68ca195b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/IgwEADxeTH-BDOgbJ4DJ1tBHt-ONX19lw8BLU2Bs_pw/6ac8cdc5de5efced68ca195b.md",
+    "created_at": "2026-10-09 11:19:33 UTC",
+    "processed_at": "2026-10-09 11:19:33 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=TDS+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/IgwEADxeTH-BDOgbJ4DJ1tBHt-ONX19lw8BLU2Bs_pw/6ac8cdc5de5efced68ca195b.html",
+    "total_time_taken": 7.17
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "TDS full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 582114,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "FREE TDS & Income Tax Course 2026 | Complete Practical Training | Salary & Other Than Salary TDS",
+      "link": "https://www.youtube.com/watch?v=QJkw71xPwck",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QJkw71xPwck",
+      "video_id": "QJkw71xPwck",
+      "channel": {
+        "name": "Accounts Advice",
+        "link": "https://www.youtube.com/@AccountsAdvice",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nAE-PPEAg5jRusp41I7rMpGFLuq6OXgS6BwsPx6egnKg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 118113,
+      "length": "2:32:51",
+      "description": "Accountsadvice #todiyapatel Join Certified AI Accountant Program: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/QJkw71xPwck/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7T9zT06GrnHWxM7S1R-0padAPUA"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "TDS English CA Inter Sep 2024/ Jan 2025 - Income Tax | Part 1",
+      "link": "https://www.youtube.com/watch?v=n6I4ChsbG-0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=n6I4ChsbG-0",
+      "video_id": "n6I4ChsbG-0",
+      "channel": {
+        "name": "CA Rajat Mogha - English",
+        "link": "https://www.youtube.com/@carajatmogha",
+        "thumbnail": "https://yt3.ggpht.com/z-nn6GaR0dHk10_ouidi6hqd70m73uYmGGiBFYgDdJtgOmwEU_n4FsbIvbyV7SD8B1HTiAm47g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 8717,
+      "length": "2:19:39",
+      "description": "You can download the handwritten book and question bank from our website - https://rajatmogha.com/downloads Playlist of ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/n6I4ChsbG-0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCqSztYrHflmJj-RSCgKM2gHbrV4A"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "TDS, TCS & Advance Tax | Income Tax Marathon | Direct Tax Revision in English | Detailed Coverage",
+      "link": "https://www.youtube.com/watch?v=3ukAOXlQKcg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3ukAOXlQKcg",
+      "video_id": "3ukAOXlQKcg",
+      "channel": {
+        "name": "CA Vikas Gowda",
+        "link": "https://www.youtube.com/@cavikasgowda",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_manNKACRbnKoa_A0eI34N42eczq9erewefEcyEsBlaVw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 3076,
+      "length": "2:11:48",
+      "description": "Topic Covered: Quick Revision of TDS, TCS & Advance Tax (Chapter 7) as applicable for May 2026, September 2026 & January ...",
+      "extensions": [
+        "Lecture"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3ukAOXlQKcg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA-LTUL3Q7f0S8ec1qoUgVlZV5bMg"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Full TDS Course in One Video | Complete Guide under New Income Tax Act 2025",
+      "link": "https://www.youtube.com/watch?v=JK3O-uF51UI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JK3O-uF51UI",
+      "video_id": "JK3O-uF51UI",
+      "channel": {
+        "name": "CA Devesh Thakur and TaxNishtha by CADT",
+        "thumbnail": "https://yt3.ggpht.com/VS5y5oQxFTbZhISPUmlZoOwx_ARDtDcXuT7z0f1LTOHXm8pyvQX9hPlbeydnrQY2niJ8TT14Rg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 52106,
+      "length": "1:02:20",
+      "description": "Simplify complex tax laws with our Full TDS in One Video. Whether you are a student or professional, this TDS Complete Guide ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JK3O-uF51UI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDfSmhHthQjKk44J1ewEeXXIeJlUg"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Master Tally Prime: Tally TDS & GST Full Guide: From Basics to Advanced",
+      "link": "https://www.youtube.com/watch?v=xtDxEWVAUr0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xtDxEWVAUr0",
+      "video_id": "xtDxEWVAUr0",
+      "channel": {
+        "name": "Tally Tutorial",
+        "link": "https://www.youtube.com/@TallyTutorial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kc8b3ACsG15-pvZt9LoULzxpuHDKpbGgTu2HEHfWE3jw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 229321,
+      "length": "2:15:54",
+      "description": "Master Tally Prime: Tally TDS & GST Full Guide: From Basics to Advanced Unlock the full potential of Tally Prime with our ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xtDxEWVAUr0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAxfaQaXxST2uxXfRT3Ul3m8PfEMw"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Tax Deducted at Source (TDS) Part 1 | Full ENGLISH | CA / CMA FINAL Nov 26 & Dec 26",
+      "link": "https://www.youtube.com/watch?v=S9OS4-pm-Fc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=S9OS4-pm-Fc",
+      "video_id": "S9OS4-pm-Fc",
+      "channel": {
+        "name": "CA Shirish Vyas | AIR 42 & Direct Tax Guru",
+        "link": "https://www.youtube.com/@cashirishvyas6659",
+        "thumbnail": "https://yt3.ggpht.com/VXkXqNtnofdOko_ZUC7iL3WKWf1_QNxu7uh5knUy9CQ873vvJlKDCaOiWbF7vthRZVLtIP2LAw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 1763,
+      "length": "1:21:54",
+      "description": "Tax Deducted at Source (TDS) Part 2 | Full ENGLISH | CA / CMA FINAL May / Nov 26 & Jun / Dec 26: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/S9OS4-pm-Fc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAsoiuHqmx27q24OGtKCZEmp2t9yg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "What is TDS in Income Tax | Complete guide of TDS | Basics of TDS",
+      "link": "https://www.youtube.com/watch?v=mpzlGddUWo4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mpzlGddUWo4",
+      "video_id": "mpzlGddUWo4",
+      "channel": {
+        "name": "FinTaxPro",
+        "link": "https://www.youtube.com/@FinTaxPro",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/CTyPHtMePGrGUZArskcjmYntwNewIREK_rqqhfKLc0cxSgzpKLbM1tqcvS7K7GTHHCBreJeVyiQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 67513,
+      "length": "39:16",
+      "description": "📍In this session we have discuss about the concept of TDS in India, what is TDS in income tax, complete guide of tds and ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/mpzlGddUWo4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAWerJhzcjJk2VXWhW2up8DYdOgNw"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "TDS in One Video🔥| Rates, Thresholds, Due Dates, Forms, Penalty | As per IT Act 2025 & Budget 2026 |",
+      "link": "https://www.youtube.com/watch?v=EWtW4b3aptE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EWtW4b3aptE",
+      "video_id": "EWtW4b3aptE",
+      "channel": {
+        "name": "CA Shweta Verma",
+        "link": "https://www.youtube.com/@cashwetaverma",
+        "thumbnail": "https://yt3.ggpht.com/OGjlSrIk3Lo1ukBzEme_m403BBLQ27NhltqnLM4BEX7bsC1yxU_aKrCDKMzpQ48v1v10j8biGqs=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 97160,
+      "length": "43:08",
+      "description": "... rules 2026 tds rates and sections tds due dates 2026 tds return filing tds interest and penalty tds full course tds for beginners tds ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EWtW4b3aptE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBuwI9Tx7x2ExQp3urWnyrZSg6OzQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "TDS & TCS Rates and New Compliance from April 1, 2026 | Complete Chart & Tax Slabs Explained",
+      "link": "https://www.youtube.com/watch?v=LTVYFeXnm74",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LTVYFeXnm74",
+      "video_id": "LTVYFeXnm74",
+      "channel": {
+        "name": "FinTaxPro",
+        "link": "https://www.youtube.com/@FinTaxPro",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/CTyPHtMePGrGUZArskcjmYntwNewIREK_rqqhfKLc0cxSgzpKLbM1tqcvS7K7GTHHCBreJeVyiQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8mo ago",
+      "views": 124953,
+      "length": "29:02",
+      "description": "Try Vyapar Taxone https://tinyurl.com/Fintaxpro11\n\n👨🏻‍💻Combo Courses\n👉GST ITR TDS & TCS https://fintaxpro.in/Combo\n👉Mega Combo ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LTVYFeXnm74/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBrwG3MQNK7Qr4eJEXrBzt__bA1Wg"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "NEW TDS COURSE 2026 | BASIC TO ADVANCED TDS COURSE FOR ACCOUNTANTS | Income Tax Act 2026/25",
+      "link": "https://www.youtube.com/watch?v=WkT96dvWFtQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WkT96dvWFtQ",
+      "video_id": "WkT96dvWFtQ",
+      "channel": {
+        "name": "CA Piyush Gupta Sir (Smartious)",
+        "link": "https://www.youtube.com/@CAPiyushGupta",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/I0cyJHVJkAP4Sk1SPlyHvAZ-bqlafARd9d1evt2rAdX8AzgkDYoIwp7OwqtF2K-K-aYeXVfk1Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 101078,
+      "length": "1:33:02",
+      "description": "🥇 Get TDS Course Certificate - https://pgca.in/tds\n🔥 Rs 299 = 13 Courses + Certificate + 1000 Legal Documents (Discount valid ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WkT96dvWFtQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBA2HE7Z9ThXw7hwNcJnk-S5a5VLA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Complete Accounting & Taxation Course FREE  Tally, GST, Income Tax, TDS & Payroll (Full Roadmap)",
+      "link": "https://www.youtube.com/watch?v=L-XZcdXneVI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=L-XZcdXneVI",
+      "video_id": "L-XZcdXneVI",
+      "channel": {
+        "name": "ACCOUNTS JUNCTION",
+        "link": "https://www.youtube.com/@accounts_junction",
+        "thumbnail": "https://yt3.ggpht.com/orIHs2YJRAvTtmYIhQybexlmQ1fJfbADfSaJBukdOnXoWul_niGeT9BETEdp5PHCp33_L2IyvIE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3w ago",
+      "views": 1089,
+      "length": "30:42",
+      "description": "Complete Accounting & Taxation Course — Basic to Advanced | 100% Practical | 100% FREE Welcome to Accounts Junction!",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/L-XZcdXneVI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCEPuYAhezTyBi43g0oV-266M2aLg"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Full TDS Course 2026 | What is TDS | TDS Tutorial in Hindi",
+      "link": "https://www.youtube.com/watch?v=UAozQL4YTIw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UAozQL4YTIw",
+      "video_id": "UAozQL4YTIw",
+      "channel": {
+        "name": "The Accounts",
+        "link": "https://www.youtube.com/@TheAccounts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ni6cj_41XKt7ON7Y1H7cl9Zq_eaSNd0xJPOyO9vaUcmZQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1mo ago",
+      "views": 10714,
+      "length": "33:10",
+      "description": "Enroll Online Tally & Taxation Mastery Course:- https://theaccounts.in/offer-combo-course FULL TDS COURSE 2026 | सब ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/UAozQL4YTIw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBUT72XGQzP2cTi2TYrgQkVhFf81w"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "TDS Complete Series from Basic to Advance | RPU Software, Tally TDS, Challan, Deductee & Income Tax",
+      "link": "https://www.youtube.com/watch?v=hE-Zudgmsc0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hE-Zudgmsc0",
+      "video_id": "hE-Zudgmsc0",
+      "channel": {
+        "name": "Balaji Education Hub",
+        "link": "https://www.youtube.com/@Balajieducationhub12",
+        "thumbnail": "https://yt3.ggpht.com/ZrBtveVjcqW_E9gszn1EodMbKmWL6Qo2N9wn4GRp76oqk6ail3dkSgPDdsVyk9OdS0YHntN-mQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8mo ago",
+      "views": 433,
+      "length": "1:38:38",
+      "description": "In this video, we are starting the TDS Complete Series – From Basic to Advance, specially designed for students, accountants, tax ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hE-Zudgmsc0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4K0urNkhFZq5JhG31bLQGVnephw"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Form 26Q TDS Return Filing Masterclass | Step by Step Guide | TDS Return Filing 2025",
+      "link": "https://www.youtube.com/watch?v=LuamI5mp1k8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LuamI5mp1k8",
+      "video_id": "LuamI5mp1k8",
+      "channel": {
+        "name": "FinTaxPro",
+        "link": "https://www.youtube.com/@FinTaxPro",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/CTyPHtMePGrGUZArskcjmYntwNewIREK_rqqhfKLc0cxSgzpKLbM1tqcvS7K7GTHHCBreJeVyiQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 194573,
+      "length": "44:41",
+      "description": "In this video, we cover everything you need to know about filing TDS Return in Form 26Q – from basics to advanced compliance ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LuamI5mp1k8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBLI8nGgwYuLarIiEspQdpDsljgPg"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "TDS COURSE IN HINDI | BASIC TO ADVANCE TDS COURSE | TDS COURSE FOR ACCOUNTANT | TDS सीखें हिंदी में",
+      "link": "https://www.youtube.com/watch?v=LtUaFOQz6Mk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LtUaFOQz6Mk",
+      "video_id": "LtUaFOQz6Mk",
+      "channel": {
+        "name": "Tally Home & Institute",
+        "link": "https://www.youtube.com/@TallyHomeInstitute",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/uhwIYd3bibtvOk_R7ILTALEGngukUDbu59pL6q_1tA1X1F57X30JQfqMUQgcNErsp6JuynkdBwg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 411908,
+      "length": "52:26",
+      "description": "Dear All, Kindly watch the video for below mentioned topics: 00:00 TDS COMPLETE COURSE IN HINDI 03:05 TDS KYA HAI AUR ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LtUaFOQz6Mk/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB0bStc8qEeAQNMoj4kXLHh9x3tSQ"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "TDS & TCS Complete Course 🔥 | Practical Training + Live Demo + Certificate",
+      "link": "https://www.youtube.com/watch?v=LuTs3IoVh4k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LuTs3IoVh4k",
+      "video_id": "LuTs3IoVh4k",
+      "channel": {
+        "name": "Future Capitals",
+        "link": "https://www.youtube.com/@FutureCapital",
+        "thumbnail": "https://yt3.ggpht.com/AfLH78m9cjyEUlqAym5D69A2AFygyOyzJ0upWjrexxsxFeuxvHX9Whez1lGXTwGQk4mK8Y913HQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 2301,
+      "length": "43:15",
+      "description": "Want to become an expert in TDS & TCS? This complete course covers everything from basic concepts to advanced practical ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LuTs3IoVh4k/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA74eXG4z5T05zj0s_C0eFev1AOFA"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "TDS on Salary Explained | Section 192 | Full Calculation with Example | FY 2025-26 | TDS Full Course",
+      "link": "https://www.youtube.com/watch?v=bCBZU90KoUA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bCBZU90KoUA",
+      "video_id": "bCBZU90KoUA",
+      "channel": {
+        "name": "CA Kavita",
+        "link": "https://www.youtube.com/@cakavita9852",
+        "thumbnail": "https://yt3.ggpht.com/iG9s-Z5MqAfuhyzWNA-Btja1Q-kIWEOs8KsS311qNaZyH8tIh2LoIxI-iTG-_LoeB-nfUdZObQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 11691,
+      "length": "26:43",
+      "description": "cakavita #cakavitadhingra #tds #taxfiling #TDSFullCourse Follow this link to join my WhatsApp group for notes: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bCBZU90KoUA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCTB7aOniWXoUVlaSlQpu3HejONOw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Basic Concepts of TDS",
+      "link": "https://www.youtube.com/watch?v=V1aRzLhylO4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V1aRzLhylO4",
+      "video_id": "V1aRzLhylO4",
+      "channel": {
+        "name": "CA. Ranjeet Kunwar",
+        "link": "https://www.youtube.com/@CA.RanjeetKunwar",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lvE2y12uEBNFWT0STbkRB8y0rnA9mJZA4XaNWc89hg1U4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 548852,
+      "length": "2:09:01",
+      "description": "It is useful for all Students and even other people who want to know Basic knowledge behind TDS and its Due Dates.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/V1aRzLhylO4/hqdefault.jpg?sqp=-oaymwE9COADEI4CSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAszF_zpJoXo94TDGILLlBneF674A"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "TDS & TCS Full Chapter Explained in One Video | Concepts + Practice for Students & Tax Professionals",
+      "link": "https://www.youtube.com/watch?v=WPRVn6UJgVE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WPRVn6UJgVE",
+      "video_id": "WPRVn6UJgVE",
+      "channel": {
+        "name": "CA. Ranjeet Kunwar",
+        "link": "https://www.youtube.com/@CA.RanjeetKunwar",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lvE2y12uEBNFWT0STbkRB8y0rnA9mJZA4XaNWc89hg1U4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 6287,
+      "length": "5:59:24",
+      "description": "TDS & TCS Full Chapter Explained in One Video | Concepts + Practice for Students & Tax Professionals This all-in-one video ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WPRVn6UJgVE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1dQUqD2CI9DKRN5i8rAKCOb8SMw"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "TDS Accounting Course | Journal Entries + Tally Prime Posting (For Students & Professionals)",
+      "link": "https://www.youtube.com/watch?v=jqQkWn8DU3I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jqQkWn8DU3I",
+      "video_id": "jqQkWn8DU3I",
+      "channel": {
+        "name": "NextStep Commerce",
+        "link": "https://www.youtube.com/@NextStepCommerce",
+        "thumbnail": "https://yt3.ggpht.com/LxTRoLSIzvEvvphsdxy83qcpBsJULR8tc4t0kNpgVlRV5Sji2Acr1yn2U3TgmUJCQtS93HLf=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 14194,
+      "length": "51:14",
+      "description": "This video explains TDS from core concepts to practical posting in Tally Prime, useful for commerce students, CA learners, and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jqQkWn8DU3I/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB-LsSqusE-LWkbrfg5NCVbmV-gOw"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=TDS+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=TDS%20full%20course%20for%20beginners&sp=EgIYAkgUggELUUprdzcxeFB3Y2uCAQtuNkk0Q2hzYkctMIIBCzN1a0FPWGxRS2NnggELSkszTy11RjUxVUmCAQt4dER4RVdWQVVyMIIBC1M5T1M0LXBtLUZjggELbXB6bEdkZFVXbzSCAQtFV3RXNGIzYXB0RYIBC0xUVllGZVhubTc0ggELV2tUOTZkdldGdFGCAQtMLVhaY2RYbmVWSYIBC1VBb3pRTDRZVEl3ggELaEUtWnVkZ21zYzCCAQtMdWFtSTVtcDFrOIIBC0x0VWFGT1F6Nk1rggELTHVUczNJb1ZoNGuCAQtiQ0JaVTkwS29VQYIBC1YxYVJ6TGh5bE80ggELV1BSVm42VUpnVkWCAQtqcVFrV244RFUzSbIBBgoECBcQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELUUprdzcxeFB3Y2uCAQtuNkk0Q2hzYkctMIIBCzN1a0FPWGxRS2NnggELSkszTy11RjUxVUmCAQt4dER4RVdWQVVyMIIBC1M5T1M0LXBtLUZjggELbXB6bEdkZFVXbzSCAQtFV3RXNGIzYXB0RYIBC0xUVllGZVhubTc0ggELV2tUOTZkdldGdFGCAQtMLVhaY2RYbmVWSYIBC1VBb3pRTDRZVEl3ggELaEUtWnVkZ21zYzCCAQtMdWFtSTVtcDFrOIIBC0x0VWFGT1F6Nk1rggELTHVUczNJb1ZoNGuCAQtiQ0JaVTkwS29VQYIBC1YxYVJ6TGh5bE80ggELV1BSVm42VUpnVkWCAQtqcVFrV244RFUzSbIBBgoECBcQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=TDS+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=TDS+full+course+for+beginners&sp=EgIYAkgUggELUUprdzcxeFB3Y2uCAQtuNkk0Q2hzYkctMIIBCzN1a0FPWGxRS2NnggELSkszTy11RjUxVUmCAQt4dER4RVdWQVVyMIIBC1M5T1M0LXBtLUZjggELbXB6bEdkZFVXbzSCAQtFV3RXNGIzYXB0RYIBC0xUVllGZVhubTc0ggELV2tUOTZkdldGdFGCAQtMLVhaY2RYbmVWSYIBC1VBb3pRTDRZVEl3ggELaEUtWnVkZ21zYzCCAQtMdWFtSTVtcDFrOIIBC0x0VWFGT1F6Nk1rggELTHVUczNJb1ZoNGuCAQtiQ0JaVTkwS29VQYIBC1YxYVJ6TGh5bE80ggELV1BSVm42VUpnVkWCAQtqcVFrV244RFUzSbIBBgoECBcQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELUUprdzcxeFB3Y2uCAQtuNkk0Q2hzYkctMIIBCzN1a0FPWGxRS2NnggELSkszTy11RjUxVUmCAQt4dER4RVdWQVVyMIIBC1M5T1M0LXBtLUZjggELbXB6bEdkZFVXbzSCAQtFV3RXNGIzYXB0RYIBC0xUVllGZVhubTc0ggELV2tUOTZkdldGdFGCAQtMLVhaY2RYbmVWSYIBC1VBb3pRTDRZVEl3ggELaEUtWnVkZ21zYzCCAQtMdWFtSTVtcDFrOIIBC0x0VWFGT1F6Nk1rggELTHVUczNJb1ZoNGuCAQtiQ0JaVTkwS29VQYIBC1YxYVJ6TGh5bE80ggELV1BSVm42VUpnVkWCAQtqcVFrV244RFUzSbIBBgoECBcQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:19:33 UTC"
+}

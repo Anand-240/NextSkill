@@ -1,0 +1,458 @@
+{
+  "search_metadata": {
+    "id": "6ac8cdcc1c388226be6acda4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Wv_X8HwlD9-i725TkakbDbAOSln2gsxss7QmBdKLusQ/6ac8cdcc1c388226be6acda4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Wv_X8HwlD9-i725TkakbDbAOSln2gsxss7QmBdKLusQ/6ac8cdcc1c388226be6acda4.md",
+    "created_at": "2026-10-09 11:19:40 UTC",
+    "processed_at": "2026-10-09 11:19:40 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Accountant&uule=w+CAIQICIkSW5kb3JlIERpdmlzaW9uLE1hZGh5YSBQcmFkZXNoLEluZGlh&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/Wv_X8HwlD9-i725TkakbDbAOSln2gsxss7QmBdKLusQ/6ac8cdcc1c388226be6acda4.html",
+    "total_time_taken": 4.05
+  },
+  "search_parameters": {
+    "q": "Accountant",
+    "engine": "google_jobs",
+    "location_requested": "Indore, India",
+    "location_used": "Indore Division,Madhya Pradesh,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rKlWVD0kkgR7NAc1Un5S2tzs2sUke6XTOoakpqfuuoCSln1TfBzFKGyTwK1KJrHzYNmjM6beij3IgirCUMqwRV18ge3k8pwSTzghDLFeSUzMF4KOxW_U381ERfDElVmYUPl5_JSCpSYBVI751zKx5tcxVf0I",
+        "q": "Accountant remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKlWVD0kkgR7NAc1Un5S2tzs2sUke6XTOoakpqfuuoCSln1TfBzFKGyTwK1KJrHzYNmjM6beij3IgirCUMqwRV18ge3k8pwSTzghDLFeSUzMF4KOxW_U381ERfDElVmYUPl5_JSCpSYBVI751zKx5tcxVf0I&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QxKsJKAB6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKlWVD0kkgR7NAc1Un5S2tzs2sUke6XTOoakpqfuuoCSln1TfBzFKGyTwK1KJrHzYNmjM6beij3IgirCUMqwRV18ge3k8pwSTzghDLFeSUzMF4KOxW_U381ERfDElVmYUPl5_JSCpSYBVI751zKx5tcxVf0I"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA",
+            "q": "Accountant since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg",
+            "q": "Accountant in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw",
+            "q": "Accountant in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg",
+            "q": "Accountant in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA",
+            "q": "Accountant since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0UnJwLmOArxiEDYNJLIY_1miXg2T9HIiBHbbuIN8B6afq2IWkz04KsfzwncXuxis8aW9EmlpXrLAxJLqAuv6xIJX5apv7zE6rJ3OO5nu0o-iA6svAFKFDGWqOQk4EMuNu1uL55GHBnZZQKlSCqjbqj210lpm2GNNZ2p3jHJnj5_s9Zb1v4DR_Vp9V8qI8gV-s_hpQjwWFDbJJ-EVDEPh-RyN2Qrey5L6okHM_VgZn8jY27uHt0M1PdJjnCk34dqXlhxGv_s4xqBZ3iHT8dNv4FxGXF6AHWj6_GCqbzl4FAq0Op4nrcIwY_kxCyBHkye4GirJWA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg",
+            "q": "Accountant in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rN4IUE93lRdAG2IJuIQUN7HGKa2JHjMn08zT_mhKTu9F4Z3AGydGcLXAD76c28PLSz5cJELs_9g0C9KbZeT9nN2S2sragpMYBnoJzxY5LxdcepsKy__n2AhCxjNirED3KchmpjKQoJuQR0ixpX2YYYhctsMGsae-uP-qMsTFPFKcgXTMz8O-3Tn5qxbi1w-fd4RXnVdI4oxmNgygNtEyU57GKFpyDw8-zK4jgK8_uSh8AVZ6xeJJno4rrh8JaFdIBD5Nt1crR0U8EwePr2qLNRC7K_p_zilqH770MunINyDmjdp09kS7iNVHVue6qmLpe4buCjg"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw",
+            "q": "Accountant in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4b9_g0KpRhx0YRhx0PLWw2qJ9JNb6Xm2ILP2vj8rMrJFmWhsyjT6bw-Epcq1cQf_0OYqod1GukWnpZSXA_tYd0PkkZrDdz62KgEaCloUrpTZ19PPwxCn_OagbnhnlhhhFMi5Hm99aHDb-CA4IunaSXnQnX0e4YtzeIp5AnLMXlktU4o4WibBklEBOUfTzXhDD6RbEdvdmqCvrVI8SqicANcKpL-527-p6JIntOq1dTlT4BTzD5YShsWhbFzWRyZJsatrjaaP6eQOGxbWBd2ZWuBSNRGy3JFRnYBX2g7fOWcUhDO0nOwIs-Hbb99EfoiPAJISlw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg",
+            "q": "Accountant in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUq0QnfM_rp5rNYvkc4aYkD3kJc3EAw7E8YNg1-cOBo83ympsA2X_dIkPn5m25AYnCGfO7UJymdTdybF3sD1Te6TnrGmc_L5nefzLuOjOczPL1F1n9BUeluCfwE2mlMlkrAuyWMz0V7L4sjsCNryoebpy__6cOiQkbzgNuIM7Pvg--2iYUbgKy4ulFiZCEth4O962lIdImgcYLJ0Z2U3kmMOU0pRFWTo4Ke8SsBRIZX2M8uvcbKwXOfTBT0X9zM5YNqe0hv1DFCfZJ5IsTDnfmVgdhsXBiOca6-CWEsgx-JAKyT-cvXLv83dCEDPEY8jrCJ7cg"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg",
+            "q": "Accountant full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w",
+            "q": "Accountant part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq",
+            "q": "Accountant contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9",
+            "q": "Accountant internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg",
+            "q": "Accountant full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm34N2PB9lCBrO3uLVO0znYGBk4bqmV4J3nIb14ySEO3UrHLnVVdMGgAt1fTlwUkG7YO8wMbLz_2LEVVfRoLIjysLuiMq32XFhAoDPPkSo2CfD_oAGm2tTeF4w8HNcUYeeueS01LdDRYVT853ahmR8sKup-EZdPP93NZbTPUu-tQmz_YtEcZNMaZ_elzuntmUAR8PMjZI4G1f_M0eDNeHJYCiidRNVQXUNfNaND4AcJwh2buwdBEkxJshdxMjcucieDVpnJj8QzzyPR4iw8GvCmuf3npNvg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w",
+            "q": "Accountant part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryHKXTmholmlgx7HXKyAWrcKcM3G7WDmFEuKQfZxBm37C_ptdcLt1y2D_YW6UsU9ZEkxlHFDBc_xG9jOHoiB3_f7QeS5LBSEbMP7Y7p_AyrjkBX69Roa2CPh4UeInBIjdkmHfhIrQ-KydajZKKHPVD8UWmFLCLTUvw9fkUO8D_JdLOtWy3NgZavNt4URr9-AvHmY9ePPrH8YAaD8AvKsf1-Bw04n4eFzTQpxf1ZcpqTmK3QyEb8qX4HVHtVaqkqRvy_he3-l6lWNYt5wYoyou9-JUZNCs_WusWhACPD06R07zpdud77GLv8qattcLEPVy3BCS8w"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq",
+            "q": "Accountant contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQUT3d-rFlTfzfiLqkUhbWmb1dnjc4JKAO4kFFBR_k99sO0U2NwfyoC7MeLYV-TNoUMysdTq9Hq9QhWKeWD4shJo4zsZQ2nWa8HQOHnIba2FO7I2gLuLeDkyfHitlHCyU9qAoCs6x9gSSZM937Y7ZVQQQxX0VJOOe-TDE3ZZgz1gWkKO7YyemJ4eNl-RGw_ESmuJYjeH7X3mUiKpBimL-0-qXZbOuJs33MSLXkXPYsXiYwN5TNsST5_vtAWgKZnCyCcA2dTk46xKY9J9Qog0pAwMDZA3inSWK0P194zcjHFi_b3rq"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9",
+            "q": "Accountant internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuOlOTAdzBSx_Zb1MImfaWHarF-yA:1791544784326&q=Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9&udm=8&sa=X&ved=2ahUKEwjI4d-z6KyXAxX3lCsGHdF0Al8QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rg3KiFqoJijL2Jpuc2qSv0fcpwcO_uMwYbhh5dww8kgi4frQA88gTwZVKvMbu-HCS5_1HENNsX5lINYGCBm2ptCXYaqXojWRHiNDvMNvwr2PXTzJhYVq5ZrduYKC7YZsau7bOleXh8R-2Sd1_9DSRRl-K_wzcgYg-Ci5Q9PYqpnlQcLlpbveQY6refrWuNjA7OOmqJRE5SIh-VQjcZ1e2CGsElUeKGeJJUQ7nqmRc8Dg388CxfuSvSM2pmnsscydIX87kPsQJtiDPBOab7r-U3ifSCUfjJvcFP5XmoB6J3K6cbaO9"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Accountant",
+      "company_name": "ana consultants, Indore",
+      "location": "Dr. Ambedkar Nagar, Madhya Pradesh",
+      "via": "WorkIndia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=LvJfUvSiHwbAZbnMAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBBAUWxzBKsBOwkbEWwUi4AgFoo3kMnusBvdzISdDcTOO3gCr-ZJNM3vHr_4zIpFba0MnJEzfF9vuEsDSphsAGE4ivhI813IuddtValG4zVjbq2x0lXC1MhY_ZFOuWnARH3ETLf1ZjWanv1yj4xghXWI00VLOLGTRNAyHJKBumvIPTDBBT2mEs7owhPhmtCRhh9zhq23pAAAAA&shmds=v1_ARwrE23CQnwgw2fTugqoRd_m9N0P6_4SlNlnwEQO53F4UssIXA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=LvJfUvSiHwbAZbnMAAAAAA%3D%3D",
+      "extensions": [
+        "1 day ago",
+        "₹15K–₹25K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.workindia.in/jobs/accountant-ambedkar_nagar-indore-11473745/",
+      "job_title": "Accountant",
+      "description": "Salary Range : Rs. 15000 - Rs. 25000 , based on skills, experience, and interview performance\n\nEducational Requirement : Graduate\n\nWork Arrangement : Work From Office\n\nGender Preference : Both male and female can apply\n\nSkills Requirement : No predefined skills necessary\n\nExperience Requirement : 1 - 2 Years of Experience\n\nLocation : Ambedkar Nagar\n\nWorking Hours : 9:30 AM - 6:30 PM | Monday to Saturday\n\nAdditional Info : Manage Financial Records, Prepare Tax Filings, And Ensure Compliance With Legal Regulations. Analyze Financial Data To Assist In Decision-Making. Provide Advice On Tax Planning And Savings Opportunities. 1 - 2 Years Experience Compulsory.  | Chartered Accountant | Skills Needed : Tally, TDS, GST",
+      "apply_options": [
+        {
+          "title": "WorkIndia",
+          "link": "https://www.workindia.in/jobs/accountant-ambedkar_nagar-indore-11473745/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CallCenterJob.co.in",
+          "link": "https://callcenterjob.co.in/accountant-dr-ambedkar-nagar_616632?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiYW5hIGNvbnN1bHRhbnRzLCBJbmRvcmUiLCJodGlkb2NpZCI6Ikx2SmZVdlNpSHdiQVpibk1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURWt5Wldob2NuWlJaUzF2UWxKVlRGbERZVWhzVEhJNGNrWnpXbmR3VjNCSGNsUjNZMVZ1ZW1kMFR6WmZWRlpoZFhCcWJEUnNYM0JvUzNSRlYxSmFPVU5DVDFCWGNsUlVkRmhKVVhkYWJuTmlZakl5U0Rkc1dFczJhblpMVmpKbk1qSmlVa2hNTlU5eGNXOWtTVXRvYjJoVk1sZ3RlSGxOY25GeFpWVmFVRnBDZVU1VE5XY1NGekJOTTBsaGMyazFSVjlsY0hKMVJWQXdaVzFLTFVGVkdpSkJSSE55T1daU2NHTXRYeTFqUVdSSFV6TnFVVTVrVUhWMlFsZzNZVGRDZDBaMyIsImZjdiI6IjMiLCJmY19pZCI6Ikx2SmZVdlNpSHdiQVpibk1BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Chartered Accountant | Accounts & Finance",
+      "company_name": "Kimirica",
+      "location": "Indore, Madhya Pradesh",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=VYg9-pSVLcelZxMeAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zWNMQrCQBAAsc0TrBYLC5GcCDZaqaCICP4grJcld5LshtsVIlj4B9_gx3yJsbAZmGKY7D3INtuAyShRCWvv5caGbPD4i8IYdpGRPcHn-YKrXEAJkw8gDHuRqqbhKpi1unROtc4rNbTocy-NE6aLdK6P9IdC-xe1NRoV88Wsy1uuJqNjbGKKHiEyHLiURFM4YRnuCOeEJWn4Ak4cTVmoAAAA&shmds=v1_ARwrE21xpIa2eb83ABVsWGq5TqNqdlBPQWFPzFnk1-o2nkvxCw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=VYg9-pSVLcelZxMeAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAATlBMVEX____6-vppaWm5ubnW1tbLy8uCgoJ5eXnZ2dnIyMiLi4uRkZGtra3c3Nyamprx8fFycnI4ODhiYmJWVlYAAABCQkIxMTFcXFxJSUmzs7M0hCmwAAAAeElEQVRIie3OzRLDIAhG0U9BMNUUa9OfvP-LVqfrZN8OZ8OCuQOAc865PyLolitugOagiKodtOCirYxlOg7vWwBXPISf6wh7St0o8RUwmMST0NoMI72IZ8i14BtmiL6PTwqI1h0RYc9BxoTafLW1YgKcnHTOOfd7Pr8sA3tsZnI_AAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/chartered-accountant-accounts-finance-at-kimirica-4475427379",
+      "job_title": "Chartered Accountant | Accounts & Finance",
+      "description": "CHARTERED ACCOUNTANT | ACCOUNTS & FINANCE\n\nCompany: KIMIRICA Lifestyle\n\nDepartment: Finance & Accounts\n\nLocation: Unit 14, Lunawat Group Campus, Near Airport, Indore, Madhya Pradesh – 452005\n\nQualification: Chartered Accountant (CA)\n\n\n\n\nROLE SUMMARY\n\nKIMIRICA is looking for a Chartered Accountant to manage and strengthen our Accounts & Finance function as we scale our luxury D2C business. The role will cover accounting, taxation, compliance, MIS, audits, working capital, commercial finance, and financial controls.\n\nD2C / E-commerce experience is mandatory.\n\n\n\n\nKEY RESPONSIBILITIES\n\nAccounting & Financial Reporting: Manage day-to-day accounting, GL, reconciliations, provisions, accruals, month-end closure, and financial reporting.Accounts Payable & Receivable: Oversee vendor/customer accounting, ageing, payments, collections, reconciliations, and working capital.D2C & Commercial Finance: Manage D2C/e-commerce and marketplace reconciliations covering sales, settlements, commissions, returns, refunds, and payment gateways.Taxation, Compliance & Audit: Manage GST, TDS, Income Tax, statutory compliance, internal/statutory audits, and related documentation.MIS & Business Finance: Prepare MIS, P&L analysis, budgets, forecasts, cash-flow reports, variance analysis, and profitability reports for management.Controls & Process Improvement: Strengthen financial controls, inventory accounting, cost management, automation, and finance processes across the business.\n\n\nKEY SKILLS & QUALIFICATIONS\n\nCA qualification is mandatory.D2C / E-commerce experience is mandatory.Strong knowledge of Accounts, Taxation, Audit, MIS, Compliance, Working Capital, and Financial Controls.Experience in FMCG, Beauty, Personal Care, Lifestyle, or Consumer Brands will be preferred.Strong Excel, ERP, analytical and stakeholder management skills.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/chartered-accountant-accounts-finance-at-kimirica-4475427379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/intern-finance-accounts-eki-energy-services-limited-indore--ss-in-eeftuq?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Saarthi",
+          "link": "https://joinsaarthi.com/jobs/enking-international/intern-finance-accounts-indore/eee9c67d-b42e-42ec-b1d2-683b49ce1058?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDaGFydGVyZWQgQWNjb3VudGFudCB8IEFjY291bnRzIFx1MDAyNiBGaW5hbmNlIiwiY29tcGFueV9uYW1lIjoiS2ltaXJpY2EiLCJodGlkb2NpZCI6IlZZZzktcFNWTGNlbFp4TWVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTako2TUhKMGRrUkJRbUl5T1RsdFdVc3lWWEpwWVU5MVVEQkhTamx1ZG5RdGNqbHdOazB4UlhJeVltc3pUR1ZUUm1kNE1qVjVRbmxhTWpGb1RWb3dTR3BDVFZWUVQwUmxWMEZLV1V0SWFrTkRlQzFNUzNWaloxRjVaSFZsZUdWblJXcEVUblZPYkVoQlJrUnVOSFV6WmxsS2NWQmFhR1ZKWm1FM1ZFSTVhRzF5YlhabFVESVNGekJOTTBsaGMyazFSVjlsY0hKMVJWQXdaVzFLTFVGVkdpSkJSSE55T1daVWRIaDJjamRUVFdaTWNrdzBVRkJ5ZEU5MGQyZHpkamxTY2xSUiIsImZjdiI6IjMiLCJmY19pZCI6IlZZZzktcFNWTGNlbFp4TWVBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Accountant",
+      "company_name": "MAHAN Trust, Utavali, Dharani, Melghat",
+      "location": "Khandwa, Madhya Pradesh",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=pO_gb7g0RKT_wqInAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMQrCQBBFsc0RrAbsJGRFsNEqIChIxELrMNksu5F1NuxMNHbewTN4MU_i2nwej_ezzySblVqHgQRJ4Pt6wzU0wAajdhAIdiFYb6YbJ9LzWilmX1gWlE4XOtxUINOEUaUT_6dmh9H0HsXUy9ViLHqy87Iq9-URznFgyeEieEff5bBNKVKCynjrUKAjODik9oHJYeueCKeIrWH3A-S42tOoAAAA&shmds=v1_ARwrE2106YCzHDSmy0o4I42-Kge4l8NCmMDaRSW47OwbAy_fiw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=pO_gb7g0RKT_wqInAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "₹15K–₹25K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/-woDnZL2lNdEbsQtGKvMGRsR4cWj8X4H-okn-1J1u1JUP1HNz22EIw",
+      "job_title": "Accountant",
+      "description": "Must know Tally, Responsible for Billing and Invoicing, Maintaining Balance Sheet, Accounts, Bank Statements.\n\nJob Type: Full-time\n\nPay: ₹15,000.00 - ₹25,000.00 per month\n\nBenefits:\n\nCommuter assistancePaid sick timeProvident FundEducation:\n\nBachelor's (Preferred)Experience:\n\nAccounting: 2 years (Preferred)Tally: 2 years (Preferred)Work Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/-woDnZL2lNdEbsQtGKvMGRsR4cWj8X4H-okn-1J1u1JUP1HNz22EIw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/accountant-mahan-trust-khandwa-madhya-pradesh--t7xk-868061571?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "School Jobs India",
+          "link": "https://schooljobsinindia.com/jobs/bhandari-public-school-near-b-t-college-sihada-road-5371-accountant-24c9b7b9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiTUFIQU4gVHJ1c3QsIFV0YXZhbGksIERoYXJhbmksIE1lbGdoYXQiLCJodGlkb2NpZCI6InBPX2diN2cwUktUX3dxSW5BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVW8xVGxsRVVtZDBjbEV4U1dSbVZUUk9SazB5TkhSblRYaHlZakJETlhWc1kwbDFaMkZGVFRCeFVqWk1jSE5KUVdWMldDMXJVMDVtU1Rka2JEWmhVMTlEYWxOd1UyUlRabDlqU2paVVpYbE9RVmN5UWt4eGNVSm1jVW93UVVkS1lVTlhRVmxWYW0xelRGWkVjQzA1TWs5M2JIQXlabXRIZUVSdFJXRnVOa1ZEY25CRFZtSVNGekJOTTBsaGMyazFSVjlsY0hKMVJWQXdaVzFLTFVGVkdpSkJSSE55T1daUmVHWnVWelEzTTJkT1ZVRlJURnB6WmsxaVEyOUpXRkozY0daUiIsImZjdiI6IjMiLCJmY19pZCI6InBPX2diN2cwUktUX3dxSW5BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Accounting Specialist",
+      "company_name": "Intellgus",
+      "location": "Indore, Madhya Pradesh",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=TYM1tXUAK7vsbil3AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQoCMRAAQGzvCVYLdiI5EWy0spIrBMEHHGtuSSJxN2T34Ox8g_7Ql6jNdNO8Zo07eC8jW-IAl0I-YU5q8Hm-4SZXUMLqIwjDUSRkmu-jWdFd26pmF9TQknde7q0wXWVqf0n_9BqxUslo1G-268kVDstFx0Y5h1EhMXQ8SKUVnHCID4RzxYE0fgGaw0vhlQAAAA&shmds=v1_ARwrE23z5J3GjBGtRvngYj6my3t1YU8mVWG7HdS3u46BfcFSYA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=TYM1tXUAK7vsbil3AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAAAwcBBQYE_8QAKhAAAQQBAgQFBQEAAAAAAAAAAQACAwQRBSEGEhMxIkFRgZEVIzJCoRT_xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH_xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQIRMbEh_9oADAMBAAIRAxEAPwC8UREBERAREQEREBYLgCASAT2WVzXG1bVpatefQouperGaSI-Hwv6MjWflsfEQPdZM4ulYtOTOd8dKozNEJekZWCQ_pzDPn5ex-FXWpV-PYdTM9SSxaEIsxQu-w1r2ubC5rntyATnrNbt3Y3OxcTqdTocXwW3cQyV2izVgEgsW3Qx45IrrQXhry3P3Iu2B4uw3A1C30VV6LxBxlqta3NpXXv1jJNWrWHCpljwICyR5Y7lc3ebJZzb7Y227_Qn6k7_X9TY9uJz0S_kGWeWze3puSs36qK7WZ3jaoiLUiIiCN0Qc8P5ngjyDiB8KMVWjBEk23rK45_q9CIIYa7Yccjn4AxguJCmREBERAREQEREBERAREQf_2Q.jpeg",
+      "extensions": [
+        "22 hours ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/accounting-specialist-at-intellgus-4474809732",
+      "job_title": "Accounting Specialist",
+      "description": "🚨 WE’RE HIRING | US ACCOUNTING PROFESSIONALS \n\n\n\n\nIntellgus Services Private Limited, Indore is hiring experienced accounting professionals to join our US Accounting Team.\n\n\n\n\n🎯 WHO ARE WE LOOKING FOR?\n\n\n\n\n✅ 6 Months – 3 Years of Experience in:\n\n• US Accounting\n\n• Indian Accounting\n\n• International Accounting\n\n• CA Firm / Accounting Firm\n\n\n\n\n📍 INDORE CANDIDATES ONLY\n\n❌ Relocation candidates are not eligible.\n\n💻 ACCOUNTING SOFTWARE KNOWLEDGE\n\nExperience with any of the following is an advantage:\n\n• QuickBooks\n\n• Xero\n\n• SAP\n\n• Oracle\n\n• MS Excel\n\n• Other Accounting / ERP Platforms\n\n\n\n\n📌 KEY SKILLS\n\n• Bank & Account Reconciliation\n\n• Journal Entries & Ledger Management\n\n• Accounts Payable / Accounts Receivable\n\n• Financial Statements\n\n• Month-End Closing\n\n• General Accounting Processes\n\n• Strong Accounting Fundamentals\n\n• Analytical & Problem-Solving Skills\n\n\n\n\n💼 WHAT WE OFFER\n\n📍 Location: Indore | Work From Office\n\n🕐 Shift: 4:00 PM – 1:00 AM / 6:00 PM – 3:00 AM\n\n📅 Working Days: 5.5 Days/Week\n\n📈 Career Growth: Build expertise in US Accounting\n\n🌎 Exposure: International Accounting & US-Based Processes\n\n\n\n\n📝 SELECTION PROCESS\n\nHR Discussion → Accounting Assessment → Final Interview\n\n\n\n\nIf you have 6+ months of relevant accounting experience and are looking to build your career in US Accounting, we’d love to connect with you! 🚀\n\n\n\n\n📩 Send your updated resume:\n\n[REDACTED EMAIL]\n\n\n\n\n👤 Connect with: Muskan Chandil\n\nRecruitment Team | Intellgus",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/accounting-specialist-at-intellgus-4474809732?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/accounting-specialist-intellgus-indore--techmap_in_4465549574?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50aW5nIFNwZWNpYWxpc3QiLCJjb21wYW55X25hbWUiOiJJbnRlbGxndXMiLCJodGlkb2NpZCI6IlRZTTF0WFVBSzd2c2JpbDNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbFkzYVhaVWJFbFNVMk51ZHpGbk56WnVNRGRYTm1Gd2FHZHhlVTloZVhoZlQzZHFNMVZRV0dKeVRVRjJPSFV0V1V4SVFVeHFVelI0UW5aMlQwdzJUM1pNTjJWMmVYTldOblJDVEZJM1FYUm9TbFJ0VFhVeE1VTTRZbmxXY0hBMlpGSlRXVU5XT1d4eE1WRjFTVkJUU0VwWVExSkRSMTk2WlZwaFkxRnRNa2swYjBJMWIxWVNGekJOTTBsaGMyazFSVjlsY0hKMVJWQXdaVzFLTFVGVkdpSkJSSE55T1daU2RHRktNalUwWkZJeWJrMVZjMjVDVDBGNlpEaGhkSEp6VFZSUiIsImZjdiI6IjMiLCJmY19pZCI6IlRZTTF0WFVBSzd2c2JpbDNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "अकाउंटेंट",
+      "company_name": "Itr Solution",
+      "location": "Dr. Ambedkar Nagar, Madhya Pradesh",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=-jJL1KFKsnkXrxjkAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWMMQrCMBRAce0RnP4skkjRRSdBEAdF8ADltw1NNc0vSYS6iSDiLM4uEW_hWYInseLyeMt70asTDYM_B38P_h38NfhT8I_wvPwFPscbbCkFK9BkEkjDnKhQojuRztV2zLm1ihXWoSszllHFSYuUGt5G9ofESjSiVuhEEo8GDat10YsXzsCG1N6V7bHUMDMMplUq8h0aWGGBpg9LzOUBYW0wF1Z-AfQnX7OqAAAA&shmds=v1_ARwrE23usSvmXhfe7sw-yqoLc0LDfMuZ-8RH3XscRW5BSmJIsw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=-jJL1KFKsnkXrxjkAAAAAA%3D%3D",
+      "extensions": [
+        "₹7K–₹12K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/hi/accountant-accountant-job-in-itr-solution-dr-ambedkar-nagar-indore-0-to-1-years-1787832895-8228945-jid",
+      "job_title": "अकाउंटेंट",
+      "description": "We are looking for an Accountant to join our team at at Itr Solution. The role involves managing financial transactions of the organization, preparing accurate reports, and ensuring compliance with tax regulations. The position offers ₹7000 - ₹12000 and opportunities for professional growth.\n\nKey Responsibilities:\n\nEnsure timely tax filings, computations, and compliance with regulatory requirements.\n\nSecurely manage and back up financial data while maintaining confidentiality.\n\nPrepare accurate financial statements, balance sheets, and profit/loss reports.\n\nOversee daily financial transactions, including accounts payable, receivable, and reconciliations.\n\nJob Requirements:\n\nA perfect candidate for this role should have a keen eye for numerical accuracy. The minimum qualification for this role is below 10th and 0.5 - 1 years of experience. Applicants must have knowledge about accounting and GAAP (Generally Accepted Accounting Principles).\n\n\n\n\n\n\nइस फुल टाइम अकाउंटेंट Job में अकाउंटेंट में 6 - 12 महीने का अनुभव वाले उम्मीदवारों की जरुरत है।इस Accountant जाब के बारे में अधिक जानकारीइस Accountant जाब के बारे में अधिक जानकारी के लिए नीचे दिए गए FAQs के सवाल और जवाब देखें!इस Accountant job के लिए कौन सी skills और experience चाहिए?\nAns :   इस Accountant job के लिए आवेदन करने हेतु उम्मीदवार के पास बैलेंस शीट, Tally, MS Excel, GST, ऑडिट जैसी skills के साथ 1-1 साल का अनुभव होना चाहिए।\n\nइस position में कितनी कमाई हो सकती है?\nAns :   इस Accountant position में आप ₹7,000-₹12,000 प्रति माह कमा सकते हैं।\n\nइस Accountant job का work schedule क्या है?\nAns :   इस Accountant job में 6 days working days हैं और timing 10:00 AM - 06:00 PM है।\n\nक्या इस job के लिए ऑफिस जाना जरूरी है?\nAns :   हाँ, उम्मीदवारों को Dr. Ambedkar Nagar, Indore स्थित ऑफिस में जाकर काम करना होगा।\n\nइस Accountant job में कितनी vacancies हैं?\nAns :   इस Accountant position के लिए 2 openings उपलब्ध हैं।\n\nक्या यह job सभी genders के लिए है?\nAns :   हाँ, यह Accountant job पुरुष और महिला दोनों उम्मीदवारों के लिए है।\n\nइस role में आपको क्या काम करना होगा?\nAns :   Accountant के रूप में, आपको बैलेंस शीट, Tally, MS Excel, GST, ऑडिट जैसी skills से जुड़े काम करने होंगे।\n\nइस position की job location क्या है?\nAns :   इस Accountant role की job location Dr. Ambedkar Nagar, Indore है।\n\nइस Accountant job के लिए सही उम्मीदवार कौन है?\nAns :   बैलेंस शीट, Tally, MS Excel, GST, ऑडिट जैसी skills और 1-1 साल का अनुभव रखने वाला उम्मीदवार इस Accountant job के लिए सही है।\n\nइस Accountant job को एक अच्छा अवसर क्या बनाता है?\nAns :   यह Accountant job एक अच्छा अवसर है क्योंकि इसमें ₹7,000-₹12,000 प्रति माह सैलरी मिलती है, यह एक Full Time job है और इसमें 2 openings हैं।\n\nअधिक जानकारी के लिए उम्मीदवार HR को कॉल कर सकते हैं!",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/hi/accountant-accountant-job-in-itr-solution-dr-ambedkar-nagar-indore-0-to-1-years-1787832895-8228945-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiLgpIXgpJXgpL7gpIngpILgpJ/gpYfgpILgpJ8iLCJjb21wYW55X25hbWUiOiJJdHIgU29sdXRpb24iLCJodGlkb2NpZCI6Ii1qSkwxS0ZLc25rWHJ4amtBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVmhHYVhwNUxUVldXVWxEVkVzeGFHVnBSbVZLTVVSaVdHSjNZVVYwVkU1aWEwRTJVWGxqV21KR0xVTnNhbGRLU21wSFlubHRVa1JpUjA1M1FtcE1TWFZzT0ZkWGFsQkJSVkExVEMxUFJYTkpabmgxUlZGcE9GWlVRa1k1V1VwMWNFUnpZbkJuUjA1aGJHTlNiazlLVTJWMlkxRnVXbFZKTFRRMk16ZEhlakJpVm1oR1dWWVNGekJOTTBsaGMyazFSVjlsY0hKMVJWQXdaVzFLTFVGVkdpSkJSSE55T1daVVJHTkNlR2QyYTBsNGNTMTVUV1YzU1c1ak5rcEpaMWN6VlU5MyIsImZjdiI6IjMiLCJmY19pZCI6Ii1qSkwxS0ZLc25rWHJ4amtBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Accounts Teacher",
+      "company_name": "Smart Accountant Course ( Diversification of NPA )",
+      "location": "Indore, Madhya Pradesh",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=qa70inAnKgwHAnpRAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2NMQrCQBAAsc0TrLY0IjkRbLQKCiKoBLQP62WTO0luw-1FYucf_IsP8iVGsJluZqL3KIpTrblzQeBCqA15-DxfcOMrCKHXBtjBjrmqabw2IbSyUkqkTioJGKxONDeKHV25V4MkP-Ri0FNbY6B8sZz3Seuq6eHcoA_wv6ELsOHOC8EEtvZOXmxp9VAcdlzCKUshButg7wr2NIMjFuaBkHksSMwX5rMrU7kAAAA&shmds=v1_ARwrE23K_UaHO4BgF2Lo47YYJPAc_ngYNMRIm_7fZhY8scdJTw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=qa70inAnKgwHAnpRAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "₹2K–₹5K an hour",
+        "Part-time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/j2qGoU5bmHMBuKVma7g5CayUWH2OKTPFhxwlpIKOjHr0o1hPFQwgrA",
+      "job_title": "Accounts Teacher",
+      "description": "We are looking for a Practicing Accountant who is passionate about teaching and committed to sharing practical, real-world accounting knowledge with students. The ideal candidate should have hands-on experience in accounting, taxation, GST, TDS, compliance, and day-to-day financial practices, along with a genuine interest in teaching.\n\nThe candidate will be responsible for conducting practical and concept-based classes, explaining real-life accounting scenarios, guiding students through industry-oriented applications, and helping them understand how accounting concepts are actually used in professional practice.\n\nWe are looking for someone who can bridge the gap between theoretical knowledge and practical accounting, and who is dedicated to helping students become job-ready and professionally confident.\n\nPay: ₹2,000.00 - ₹5,000.00 per hour\n\nBenefits:\n\nFlexible scheduleWork Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/j2qGoU5bmHMBuKVma7g5CayUWH2OKTPFhxwlpIKOjHr0o1hPFQwgrA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/accounts-teacher-smart-accountant-course-diversification-of-npa-indore-madhya-pradesh--t7xk-865207679?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50cyBUZWFjaGVyIiwiY29tcGFueV9uYW1lIjoiU21hcnQgQWNjb3VudGFudCBDb3Vyc2UgKCBEaXZlcnNpZmljYXRpb24gb2YgTlBBICkiLCJodGlkb2NpZCI6InFhNzBpbkFuS2d3SEFucFJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbmxEVkVsS2NFUkNkelJyYkhocFVEZElVbEpuYlRGNU1YSkhRMkZ1WlZKMFJGaEtkSEI2V25keGJYSnRiV1YzVEMxamJIaFhWa0ZQUjJOYVVIZEVWekZ2TkhwZldXRnNaalJvWDBsWlpuWnpOV041V0d0eVFteFBXSEZGT1ZJMGJsOXVYME5ZU1UxQmFFc3pVR3BUVm5ocVQzbGljVFJzWTBkbE1VRmxlVVZLUlVneVdHc1NGekJOTTBsaGMyazFSVjlsY0hKMVJWQXdaVzFLTFVGVkdpSkJSSE55T1daVFpWWk1WRmxVV0VkNmFWTXpTV3RMTjNreE5rbEhRVkZsWVVSMyIsImZjdiI6IjMiLCJmY19pZCI6InFhNzBpbkFuS2d3SEFucFJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Accountant",
+      "company_name": "AURUM INDUSTRIES",
+      "location": "Acharpura, Madhya Pradesh",
+      "via": "WorkIndia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=IcNO4lEOlYao_V7qAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKsBO9GsCDZaBRRJEZHE1GGyWbKRuLPsTCB2XkG8oScxNr96P3rPokWiNQ1O0Al8Xx-4Uw1sMGgL5OBM1PZmfrAinvdKMfdxy4LS6VjTQ5EzNY1qmvifii0G43sUU213mzH2rl2ukzIvM0gvx7K45empgM5Boifph4AryLCxT4RrwMaw_QFTo136lAAAAA&shmds=v1_ARwrE22ok1rHsFUxSGw9gbq0BWFissXIsBkIRgfnKUf_nA3ivg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=IcNO4lEOlYao_V7qAAAAAA%3D%3D",
+      "extensions": [
+        "1 day ago",
+        "₹15K–₹20K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.workindia.in/jobs/accountant-acharpura-bhopal-11473661/",
+      "job_title": "Accountant",
+      "description": "Salary Range : Rs. 15000 - Rs. 20000 , based on skills, experience, and interview performance\n\nEducational Requirement : 12th Pass / Male Only\n\nWork Arrangement : Work From Office\n\nGender Preference : Male only\n\nSkills Requirement : No predefined skills necessary\n\nExperience Requirement : 1 - 2 Years of Experience\n\nLocation : Acharpura\n\nWorking Hours : 9:30 AM - 6:30 PM | Monday to Saturday\n\nAdditional Info : Manage Financial Records, Prepare Tax Filings, And Ensure Compliance With Legal Regulations. Analyze Financial Data To Assist In Decision-Making. Provide Advice On Tax Planning And Savings Opportunities. 1 - 2 Years Experience Compulsory.",
+      "apply_options": [
+        {
+          "title": "WorkIndia",
+          "link": "https://www.workindia.in/jobs/accountant-acharpura-bhopal-11473661/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiQVVSVU0gSU5EVVNUUklFUyIsImh0aWRvY2lkIjoiSWNOTzRsRU9sWWFvX1Y3cUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMydHVYMmRHYjBGdWEyNVJPVU5DYkVReVpFOHdibEZJYlRKcGVEY3lUSEJXUVdoWllrMWxXVFJuVEV0eFRXRkhPRlZSTXpKUGJsUTFWMmRNZVRoeVlqRkthM0ZrTFhSSVNYbHlTVE5JZUVGblFuVm1TVU5EV0RCNVdrNDVVMUp0VmxkeVRFTlpSbmQ0UmxCeGRVTmtZUzFKTFdSb1pTMDBaRWxDY1VaUE9HOHpUSFF0ZVUwU0Z6Qk5NMGxoYzJrMVJWOWxjSEoxUlZBd1pXMUtMVUZWR2lKQlJITnlPV1pSWVZsSmFXcFhhRnB1VTFsR2JqUlNRVWwzYVU5MllubHVWVGRCIiwiZmN2IjoiMyIsImZjX2lkIjoiSWNOTzRsRU9sWWFvX1Y3cUFBQUFBQT09In0="
+    },
+    {
+      "title": "Intercompany Accountant / Reconciliation",
+      "company_name": "SAGE & Co",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=V26RbKFBgaR5OF91AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBBFcdsjuBoQXIg0IrjRVREpXQiiByjTdGgicSYkEdqdd_AMXsyTGDd_8XjvF59ZUTWcKGh5eOQJKq3lyQk5gYIraWFtncVkheH7esNdOoiEQRvIpBYZHM0PJiUf90rF6MohpqzrMj8qYepkVDmK_2mjwUDeYaJ2u9uMpedhtbhV9QmWcBSwDA33EmgNZ-zNhHAJ2FM0P4svxA-oAAAA&shmds=v1_ARwrE23DN0pvhxiIc69drXYxWTLjBMVJb1EYVyOds8MGLOC4cg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=V26RbKFBgaR5OF91AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAgCAMAAABw3UvaAAAAaVBMVEX___8A1TEA1jcA1CkA1CMA0xr2_vi58MLz_fYA0QBo4n6k7LD7__2r7bY521l55ItB3F6Z6qaN55sx2lOI55jY995I3WTJ9NHl-ukm2Uyz771R3mt044bS9tjF880a2ERa4HLt_PCA5ZHZ7UzHAAACJUlEQVQ4jZVV25arMAgNgVg1Veu1Wm-p__-Rh1y068zMWjPhpUHYSDYbK4QQN7PLsnmLSEtKAjZUOhLYMmqpSpKqiMK9CGb_K_EeA5wlpu7QAd1igFK2_tATNnHA3R_uKouiZ5D09KfxGYMTmkn5erf0P5aS5OfgBJLa1yfwnIGwPUeTHhJRLmNwVxssw5VmBRKpCsrJFSAiUOkKbwrZBQjqqBRYl3afvA0MDbEcJXa6Y1E82OuVpEFro7w6OlZJrusSwRK6cZtjByhVzX0q6ardJ0n8vARy5Z4cTWwZ7K3bIGqxZZljs-Jqb2GAVtfFqGDgTMj9BWqbWgEGLnYOcqq_eQ5Y8FRloKGVKAo8CR8JFjFZUd6PfFls2qWclaAT_mrWDKhEI21hJAqM18ots9zhwN50FT3Efr0xB3q_EJqr6iEegIm4L4atS61yfKvcV2HTtw9wZFL74KnNclJ_5l2QbO16jKyDVKxKwnoBxcwPaztQnTFLb5J-gbZd9U45mDeG3DjEwsG5MrkFjiIFDmK1hpdo7uDRHBPncl9J6z4doDoXXJR1spGb44EmxmqDpteJZOXYz4y_-mtQPLCz7JqjwoPZ8_z2FRE3PAcGq0nh1J3S_cW2mTfo8XveT1CWXMy2pqUJpwKhiwBqOt-TWuX83ZwmnL0vuf_JeI-CHrXdjghjdRornM3tY4SNJAHzpY3-fxDj5P-RKBLHdlvKydTpt-f_ANKxGsLyet1sAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "10 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/intercompany-accountant-reconciliation/sage-co/19631564",
+      "job_title": "Intercompany Accountant / Reconciliation",
+      "description": "Location: Indore, Madhya Pradesh (Strictly Work from Office)\n\nSalary: 30,000  35,000 per month\n\nEmployment Type: Full-Time / Contract\n\nAbout the Role:\n\nWe are actively hiring a detail-oriented finance professional to join our core accounting team in Indore. This role is highly focused on intercompany transactions, requiring someone who can efficiently navigate ERP systems, investigate discrepancies, and drive the resolution of open items with various departments.\n\nKey Responsibilities:\n\nExecute end-to-end intercompany accounting and monthly reconciliations.Work extensively within the Oracle ERP system to extract data, pass entries, and match intercompany ledgers.Identify mismatches or unmatched transactions and investigate the root cause of discrepancies.Actively follow up and coordinate with internal stakeholders, regional teams, and cross-functional departments to ensure timely clearance of open items.Maintain accurate financial schedules and assist in month-end closing activities related to intercompany accounts.Candidate Requirements:\n\nExperience: 2 to 4 years of relevant experience in accounts reconciliation and general ledger activities.Technical Skills: Hands-on experience working in Oracle ERP is highly preferred. Strong proficiency in MS Excel (VLOOKUP, Pivot Tables) is mandatory.Soft Skills: Excellent written and verbal communication skills are required for continuous stakeholder follow-ups and dispute resolution.Location Constraint: This position is strictly based in Indore. Candidates must be current residents of Indore or ready to relocate immediately at their own expense.What We Offer:\n\nFixed monthly remuneration of 30,000 to 35,000 (based on interview assessment and prior experience).Standard corporate leaves and benefits.A professional work environment with exposure to global accounting practices.How to Apply:\n\nIf you meet the strict location and technical criteria, please share your updated CV .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/intercompany-accountant-reconciliation/sage-co/19631564?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJbnRlcmNvbXBhbnkgQWNjb3VudGFudCAvIFJlY29uY2lsaWF0aW9uIiwiY29tcGFueV9uYW1lIjoiU0FHRSBcdTAwMjYgQ28iLCJodGlkb2NpZCI6IlYyNlJiS0ZCZ2FSNU9GOTFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTWFJoWHpsbFUxSmxPRkphVEU1eE5FTlRkekF0ZVVKbE0xOWxiVk5DTkZsWVZHWkdkWEZ5U1RGNFZXTlZlRmxTY21OZlVqQnlaRXhTTFhscFFra3llbVpmZEV0TlpuWnlXWEZ6VW1kNlpHVkdSa0pHYTE5TFRqRklVRkJQZDFkRGJHSkVPWHA2TUdwdVdXTlZhVjl6VUVOelFXcFlXSE5PYlRsVFVHWTRaVjlXV2xWT2FXWVNGekJOTTBsaGMyazFSVjlsY0hKMVJWQXdaVzFLTFVGVkdpSkJSSE55T1daVFZWWmhRMFpLYTNWRldXNUVaMUpxTlVWS1NIbGlVRzVXTkVsUiIsImZjdiI6IjMiLCJmY19pZCI6IlYyNlJiS0ZCZ2FSNU9GOTFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "अकाउंटेंट",
+      "company_name": "Jai Maa Sharda Trading Company",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=r1ARMMc0IS2Q3-qFAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWLsQrCMBRFce0nOL1ZpBFREB0dREEQdC_PJjSRNi8kGdpNBBFncXaJo7_gtwS_xIrL5cA5N3l1klEM5xjuMbxjuMZwiuERn5c_wOd4gwPtwQm0uQTSsCAqStGdSe-NmzLmXJkWzqNXeZpTxUiLPdWsPbnfZE6iFaZEL7LheFCnRhe9yQoVrBFh20qOsLPIlS5gTpVB3YDSsNScrOi3FZcNwqYthJNfGxlnu7AAAAA&shmds=v1_ARwrE22ZuAwNrqKfgZyrGAjWJ-x-DG82bbH7ZYWuE4zYoEmDPg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=r1ARMMc0IS2Q3-qFAAAAAA%3D%3D",
+      "extensions": [
+        "27 days ago",
+        "₹15K–₹20K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/hi/accountant-accountant-job-in-jai-maa-sharda-trading-company-mari-mata-square-indore-3-to-5-years-1789199478-8332139-jid",
+      "job_title": "अकाउंटेंट",
+      "description": "We are looking for an Accountant to join our team at Jai Maa Sharda Trading Company. The role involves managing financial transactions, preparing accurate reports, and ensuring compliance with tax regulations. The position offers ₹15000 - ₹20000 and opportunities for professional growth.\n\nKey Responsibilities:\n\nCheck & manage daily accounting tasks including payments, deposits, and expenses.\n\nPrepare and maintain accurate financial statements and budget forecasts.\n\nBalance/match bank statements and ensure timely completion of tax filings.\n\nAudit financial records to ensure compliance with policies and regulations.\n\nAnalyze financial data to provide insights on the company’s liquidity and financial health.\n\nJob Requirements:\n\nThe minimum qualification for this role is Graduate and 3 - 5 years of experience. Additionally, candidates are required to have a degree in Accounting, Finance, or a related field. Additional certification (if any) is a plus. Applicants must have strong attention to detail, analytical skills, and knowledge of GAAP (Generally Accepted Accounting Principles).\n\nइस फुल टाइम अकाउंटेंट Job में अकाउंटेंट में 3 - 5 वर्षो का अनुभव वाले उम्मीदवारों की जरुरत है।इस Accountant जाब के बारे में अधिक जानकारीइस Accountant जाब के बारे में अधिक जानकारी के लिए नीचे दिए गए FAQs के सवाल और जवाब देखें!इस Accountant job के लिए कौन apply कर सकता है?\nAns :   उम्मीदवार के पास ग्रेजुएट योग्यता होनी चाहिए, Jai Maa Sharda Trading Company द्वारा दी गई Accountant job के लिए।\n\nइस position में कितनी कमाई हो सकती है?\nAns :   इस Accountant position में आप ₹15,000-₹20,000 प्रति माह कमा सकते हैं।\n\nइस Accountant job का work schedule क्या है?\nAns :   इस Accountant job में 6 days working days हैं और timing 09:30 AM - 06:30 PM है।\n\nक्या इस job के लिए ऑफिस जाना जरूरी है?\nAns :   हाँ, उम्मीदवारों को Mari Mata Square, Indore स्थित ऑफिस में जाकर काम करना होगा।\n\nइस Accountant job में कितनी vacancies हैं?\nAns :   इस Accountant position के लिए 2 openings उपलब्ध हैं।\n\nक्या यह job सभी genders के लिए है?\nAns :   हाँ, यह Accountant job पुरुष और महिला दोनों उम्मीदवारों के लिए है।\n\nइस position की job location क्या है?\nAns :   इस Accountant role की job location Mari Mata Square, Indore है।\n\nइस Accountant job को एक अच्छा अवसर क्या बनाता है?\nAns :   यह Accountant job एक अच्छा अवसर है क्योंकि इसमें ₹15,000-₹20,000 प्रति माह सैलरी मिलती है, यह एक Full Time job है और इसमें 2 openings हैं।\n\nअधिक जानकारी के लिए उम्मीदवार HR को कॉल कर सकते हैं!",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/hi/accountant-accountant-job-in-jai-maa-sharda-trading-company-mari-mata-square-indore-3-to-5-years-1789199478-8332139-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiLgpIXgpJXgpL7gpIngpILgpJ/gpYfgpILgpJ8iLCJjb21wYW55X25hbWUiOiJKYWkgTWFhIFNoYXJkYSBUcmFkaW5nIENvbXBhbnkiLCJodGlkb2NpZCI6InIxQVJNTWMwSVMyUTMtcUZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbUpFZFZvNFRYQklSMEZxZFhWUlFUZDBZMXBaWWtoVlUyUXhVRkJIYmxnd1QxVnViMEp1YzB4a01TMVpObWx0WVU1amVqUTBZVGd6WjBSNGVFZDRWekpxZUZKTE1FbEJObGRHVlVWaWNIRnBWRk5QVFUxcVpHWlhjRVJpUTJaVmFXcEJNR05pYTNkV1NHOUNlSEZVT0ZSVmRHRnRjakUwTUdSeVJGSTVORGxFU1VrdE0zTVNGekJOTTBsaGMyazFSVjlsY0hKMVJWQXdaVzFLTFVGVkdpSkJSSE55T1daUk5HVlhTVjh4WW1weFowa3pXVmxPYVVZM2RUUXRSVEZpTFhOUiIsImZjdiI6IjMiLCJmY19pZCI6InIxQVJNTWMwSVMyUTMtcUZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Banking Operations Executive",
+      "company_name": "Kotak Mahindra Bank Limited",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant&htidocid=DFliBBXhUPBk1tVLAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBAAsc0TrLYWSURIo50gIir6g7C5W-7OJLvh9pTY-Qef4a98iUkz1QxM9p1l5Q65Cezg2lPEFIQV9gOZRwpPgt_7A3epQQmj8SAMBxHX0nzrU-p1UxSqbe40jaXJjXSFMNUyFGOkEyr1GKlvMVG1LldD3rNblCdJ2MAFfWAbEaYFOIcuJLIQGI5sJdJyFKx_IdwiWlL_BwaBNBeuAAAA&shmds=v1_ARwrE23pLQUZt8qwrTgTRlc-AORWpqwcc34x11GdwWeqCK5o0Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant&htidocid=DFliBBXhUPBk1tVLAAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/accountant-banking-operations-executive-job-in-kotak-mahindra-bank-limited-bhawarkua-indore-2-to-6-plus-years-1790775377-8440412-jid",
+      "job_title": "Banking Operations Executive",
+      "description": "Operations Team Member_WBG Operations (Ops)-Commercial Operations_Indore We are seeking a proactive and detail-oriented professional to join our WBG Operations team at the Customer Service Desk. The ideal candidate will have hands-on experience in banking operations, particularly in RTGS/NEFT transactions, fund transfers, and tax payments. This role requires strong communication skills, a customer-centric approach, and proficiency in Excel to support daily operational tasks and client servicing. Handle and process RTGS, NEFT, fund transfers, and tax payments efficiently at the branch, mid-office, or front office level. Provide prompt and accurate support to customers and internal teams regarding transaction status, payment issues, and operational queries. Ensure compliance with internal policies and regulatory guidelines during transaction processing. Maintain and update transaction records and reports using Excel and internal banking systems. Collaborate with other departments to resolve discrepancies or escalations related to customer transactions. Monitor transaction queues and ensure timely execution of all payment instructions. Assist in audits and internal reviews by providing necessary documentation and reports. Continuously identify areas for process improvement and contribute to enhancing service delivery. Experience Level Mid LevelIt is a Full Time Accountant job for candidates with 2 - 6+ years Experience.More about this Banking Operations Executive jobPlease go through the FAQs to get all answers related to the given Banking Operations Executive jobWho is eligible to apply for this Banking Operations Executive job at Kotak Mahindra Bank Limited?\nAns :   Candidates should have All Education levels for this Banking Operations Executive job offered by Kotak Mahindra Bank Limited.\n\nHow much can you earn in this position?\nAns :   Salary details will be shared during the hiring process.\n\nWhat shift and timings does this job follow?\nAns :   This Banking Operations Executive job follows a Day shift.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Bhawarkua, Indore.\n\nHow many openings are available for this position?\nAns :   There is 1 opening available for this position.\n\nIs this job open for all genders?\nAns :   Yes, this Banking Operations Executive job is open for both male and female candidates.\n\nWhere is this job located?\nAns :   This Banking Operations Executive job is located in Bhawarkua, Indore.\n\nWhy should you apply for this Banking Operations Executive job?\nAns :   The employer has not disclosed the salary for this role, but it is a Full Time opportunity with 1 opening available.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-banking-operations-executive-job-in-kotak-mahindra-bank-limited-bhawarkua-indore-2-to-6-plus-years-1790775377-8440412-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Apna Jobs",
+          "link": "https://apna.co/job/indore/operations-team-member_wbg-operations-ops-commerci-1968787910?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/341733500/banking-operations-executive-indore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYW5raW5nIE9wZXJhdGlvbnMgRXhlY3V0aXZlIiwiY29tcGFueV9uYW1lIjoiS290YWsgTWFoaW5kcmEgQmFuayBMaW1pdGVkIiwiaHRpZG9jaWQiOiJERmxpQkJYaFVQQmsxdFZMQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJa1NXNWtiM0psSUVScGRtbHphVzl1TEUxaFpHaDVZU0JRY21Ga1pYTm9MRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEhKNVFYWk5NRmd0VURCMlowRXllak5UYzNCdVMzZDFWVzl2ZW1SR0xVMTRSa1ZYU3psdU9YQndZa2x4ZVZwQk5qUmhkVWd6UzFsbU1HNW5SbEo1VlVKblpsTjFRVzVWTFdreU1WOXlNMHBEZW5keU9XYzFYMGRqWlcweGMzUm9ORmxwYW5oWVJYaDZUWEppTkRkalZuTkVPRTluVm01UFkwOVdNMkk1ZVhocmVGY3phREFTRnpCTk0wbGhjMmsxUlY5bGNISjFSVkF3WlcxS0xVRlZHaUpCUkhOeU9XWlVRVGw1Y0VWbVpXZ3hVMEZ6T0hOaVMxTTJiWEJwWkVGMk5XTjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJERmxpQkJYaFVQQmsxdFZMQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMGRRZGxnelRHSktWamw1ZURkMlpHVnBOQzFhZFRKUFVUZHlPR3AwWkV4SFZURkRTemRqUkRoSFJqZDNaRGMwTFZkcmVraFNXWFJTWVhCV1NqTlRVRk5XYkhwNGRrUktTbFJsU1VKclNrUnBZVFJuYnpRM2JVNHlkM1o1YkdjdE5DMDJaM0E0UlhWa1psaEpjbFUzTVZKMlUxcERjR3RhUkdNd1ZrUkNValp3VWxNd1YwazBVVTVaUzJwTlpuVlBkbTAyZUdWc1UxVjJiMEpmUWxONWQweHdWMVZEVkZJeWVqbE5iR1ZRZGxGemRqSmpZbTFZUzBaeVdWSnNTSGd3VFZoVFNXazNka0Y0TURaUmJtVTRjbHB5TXpGQlIzSmthQzFHUkhOdk1EaEZZVFZpTnpCWFQyRkhiakJMV1UwNVJYUlhPVmR1YUd0RGQyMHpiSG8wVW1sRGJVeERSMHRKVUVWV2JIZEtOVlpmWkhWSWRubHlVMTlYY21rNE9VcEVWMDV6WVRCVVNWRmpabUYyUlZwb05XRjZWMXBPUW5RelZrbFlXR3cwZW5GMk1UWjNaa1F0VlVsV01rcG5VbHBrV1VGbFUwRlpNekJtZW1oZmFEWmtZbWxWVlZnM1MzWjBSMnRYV0ZCRlYxazViRXBTTW1wSVlVMXJNVEZLVjI5b2JXcGFhbTFOV0ZabFRIZEVVSEpFYlZNM1pXWlVkbGhRWmpCRFlqZE9jVU5EZUY5RlMwcDFVSGxsT0RSQmVXOVZVa3RNTjA1UVdrcFpXRzVzYlV4d2VuVkpia054VjJsWk0wOUhlRTR0YVRWQ2RHNTJZVU5CU25ONVIxRVNGekJOTTBsaGMyazFSVjlsY0hKMVJWQXdaVzFLTFVGVkdpSkJSSE55T1daUlVIaG5XbXhTY2xGRVpHNUVOemhUT1VNdFRreHZaMnBvZWxKMyIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMGRRZGxnelRHSktWamw1ZURkMlpHVnBOQzFhZFRKUFVUZHlPR3AwWkV4SFZURkRTemRqUkRoSFJqZDNaRGMwTFZkcmVraFNXWFJTWVhCV1NqTlRVRk5XYkhwNGRrUktTbFJsU1VKclNrUnBZVFJuYnpRM2JVNHlkM1o1YkdjdE5DMDJaM0E0UlhWa1psaEpjbFUzTVZKMlUxcERjR3RhUkdNd1ZrUkNValp3VWxNd1YwazBVVTVaUzJwTlpuVlBkbTAyZUdWc1UxVjJiMEpmUWxONWQweHdWMVZEVkZJeWVqbE5iR1ZRZGxGemRqSmpZbTFZUzBaeVdWSnNTSGd3VFZoVFNXazNka0Y0TURaUmJtVTRjbHB5TXpGQlIzSmthQzFHUkhOdk1EaEZZVFZpTnpCWFQyRkhiakJMV1UwNVJYUlhPVmR1YUd0RGQyMHpiSG8wVW1sRGJVeERSMHRKVUVWV2JIZEtOVlpmWkhWSWRubHlVMTlYY21rNE9VcEVWMDV6WVRCVVNWRmpabUYyUlZwb05XRjZWMXBPUW5RelZrbFlXR3cwZW5GMk1UWjNaa1F0VlVsV01rcG5VbHBrV1VGbFUwRlpNekJtZW1oZmFEWmtZbWxWVlZnM1MzWjBSMnRYV0ZCRlYxazViRXBTTW1wSVlVMXJNVEZLVjI5b2JXcGFhbTFOV0ZabFRIZEVVSEpFYlZNM1pXWlVkbGhRWmpCRFlqZE9jVU5EZUY5RlMwcDFVSGxsT0RSQmVXOVZVa3RNTjA1UVdrcFpXRzVzYlV4d2VuVkpia054VjJsWk0wOUhlRTR0YVRWQ2RHNTJZVU5CU25ONVIxRVNGekJOTTBsaGMyazFSVjlsY0hKMVJWQXdaVzFLTFVGVkdpSkJSSE55T1daUlVIaG5XbXhTY2xGRVpHNUVOemhUT1VNdFRreHZaMnBvZWxKMyIsImZjdiI6IjMifQ%3D%3D&q=Accountant"
+  },
+  "_retrieved_at": "2026-10-09 11:19:40 UTC"
+}

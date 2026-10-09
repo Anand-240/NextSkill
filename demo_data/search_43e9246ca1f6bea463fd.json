@@ -1,0 +1,492 @@
+{
+  "search_metadata": {
+    "id": "6ac8cda6fbe53b68131ea5a7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8ujczxYdw1LPtBMEh5WJlqAcfjFAuLwL56N1tfk2yhY/6ac8cda6fbe53b68131ea5a7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/8ujczxYdw1LPtBMEh5WJlqAcfjFAuLwL56N1tfk2yhY/6ac8cda6fbe53b68131ea5a7.md",
+    "created_at": "2026-10-09 11:19:02 UTC",
+    "processed_at": "2026-10-09 11:19:02 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=HTML+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/8ujczxYdw1LPtBMEh5WJlqAcfjFAuLwL56N1tfk2yhY/6ac8cda6fbe53b68131ea5a7.html",
+    "total_time_taken": 2.49
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "HTML full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 7686890,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "HTML Tutorial for Beginners: HTML Crash Course",
+      "link": "https://www.youtube.com/watch?v=qz0aGYrrlhU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qz0aGYrrlhU",
+      "video_id": "qz0aGYrrlhU",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 11221572,
+      "length": "1:09:34",
+      "description": "Start your web development career with HTML/CSS! This beginner-friendly tutorial covers the essentials. Want to master ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qz0aGYrrlhU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxt_YyZzaZ3R5t9iKdBPxalGgFqA",
+        "rich": "https://i.ytimg.com/an_webp/qz0aGYrrlhU/mqdefault_6s.webp?du=3000&sqp=CMKGo9YG&rs=AOn4CLBUt5eM8_zd-TfaU4Ax3oMc31nODw"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Learn HTML – Full Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=kUMe1FH4CHE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kUMe1FH4CHE",
+      "video_id": "kUMe1FH4CHE",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 4574940,
+      "length": "4:07:30",
+      "description": "Learn HTML in this complete course for beginners. This is an all-in-one beginner tutorial to help you learn web development skills.",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/kUMe1FH4CHE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhjLoZdzk4hiymQIkjoRsh0Km6qA",
+        "rich": "https://i.ytimg.com/an_webp/kUMe1FH4CHE/mqdefault_6s.webp?du=3000&sqp=CK-Fo9YG&rs=AOn4CLBKk2lqL78eecaE59r-vsBcCo01PQ"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "HTML & CSS Full Course - Beginner to Pro",
+      "link": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=G3e-cpL7ofc",
+      "video_id": "G3e-cpL7ofc",
+      "channel": {
+        "name": "SuperSimpleDev",
+        "link": "https://www.youtube.com/@SuperSimpleDev",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_laf9dDyNATE1_RdVUKthwnwT9TSm9N0my0jL2H8gCvjw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 20055028,
+      "length": "6:31:16",
+      "description": "Get a certificate for this course: https://courses.supersimple.dev/courses/html-css or Frontend Bundle (React, JS, HTML CSS): ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/G3e-cpL7ofc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDU0mSki3dTR7OF2ypmZff7aVVB0g",
+        "rich": "https://i.ytimg.com/an_webp/G3e-cpL7ofc/mqdefault_6s.webp?du=3000&sqp=CLqEo9YG&rs=AOn4CLB24WPn0jXYNucO6dtrmLaX0lOGPA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "HTML Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=FQdaUv95mR8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FQdaUv95mR8",
+      "video_id": "FQdaUv95mR8",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1486312,
+      "length": "39:06",
+      "description": "In this step-by-step tutorial, learn how to create a simple web page using HTML. You'll learn the basics of HTML, from how to ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FQdaUv95mR8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp1aP1CoIQri80F_PVAhAg_9Kczg",
+        "rich": "https://i.ytimg.com/an_webp/FQdaUv95mR8/mqdefault_6s.webp?du=3000&sqp=CPCao9YG&rs=AOn4CLCpcnNYxJeFMUzRe6EvXnzVA565Gw"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Learn HTML in 1 hour 🌎",
+      "link": "https://www.youtube.com/watch?v=HD13eq_Pmp8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HD13eq_Pmp8",
+      "video_id": "HD13eq_Pmp8",
+      "channel": {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 4000678,
+      "length": "1:00:00",
+      "description": "HTML full course tutorial for beginners #HTML #course #tutorial ⭐️Time Stamps⭐️ #1 (00:00:00)​ HTML tutorial for beginners ...",
+      "extensions": [
+        "Fundraiser"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HD13eq_Pmp8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKImijPqeTyMFFaKQobiuhq20RfA",
+        "rich": "https://i.ytimg.com/an_webp/HD13eq_Pmp8/mqdefault_6s.webp?du=3000&sqp=CMznotYG&rs=AOn4CLDQs4I3nS8-DPKjFF4t0RCaKGGQxA"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Learn HTML & CSS – Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=a_iQb1lnAEQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=a_iQb1lnAEQ",
+      "video_id": "a_iQb1lnAEQ",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 957785,
+      "length": "5:21:44",
+      "description": "Learn HTML and CSS from scratch by building 6 projects and solving 80+ coding challenges. Go here for the interactive ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/a_iQb1lnAEQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFYlUgmZvemi8pRW07BhqU8PUWuw",
+        "rich": "https://i.ytimg.com/an_webp/a_iQb1lnAEQ/mqdefault_6s.webp?du=3000&sqp=CLCSo9YG&rs=AOn4CLBO_XOVF3ucROZY1SzO5MMEQYHNkg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "HTML & CSS Full Course for free 🌎",
+      "link": "https://www.youtube.com/watch?v=HGTJBPNC-Gw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HGTJBPNC-Gw",
+      "video_id": "HGTJBPNC-Gw",
+      "channel": {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 6257186,
+      "length": "4:02:43",
+      "description": "HTML #CSS #course ⭐ TIME STAMPS ⭐ #1 00:00:00 Introduction to HTML 00:01:56 VSCode download 00:02:38 project ...",
+      "extensions": [
+        "Fundraiser"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HGTJBPNC-Gw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3V1jKJxyIJKYOlbtLnAKI5edu0A",
+        "rich": "https://i.ytimg.com/an_webp/HGTJBPNC-Gw/mqdefault_6s.webp?du=3000&sqp=COCIo9YG&rs=AOn4CLAlGpKPBhYpGG1QQ0OQgryA8CpRvw"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "HTML Full Course for Beginners 2025 – lesson 1",
+      "link": "https://www.youtube.com/watch?v=gtSTsmLAy-Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gtSTsmLAy-Y",
+      "video_id": "gtSTsmLAy-Y",
+      "channel": {
+        "name": "WebGlowCademy",
+        "link": "https://www.youtube.com/@WebGlowCademy",
+        "thumbnail": "https://yt3.ggpht.com/NMdBgdCLe_SZ2bCvXxNM7iw88ryMb2RwQH9kpVFLnbSJxQDXBLJ1Ypto1auBfLxqlNiW66Fe4A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 203221,
+      "length": "21:04",
+      "description": "Welcome to WebGlow – this is Part 1 of your full HTML course for complete beginners in 2025! ‍     In this video, you'll learn: ...",
+      "extensions": [
+        "Beginner"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gtSTsmLAy-Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOQKUSMvgAt7c1aXy8FCIGZVzbww",
+        "rich": "https://i.ytimg.com/an_webp/gtSTsmLAy-Y/mqdefault_6s.webp?du=3000&sqp=CNjjotYG&rs=AOn4CLBHZc2vTdALj6uxQU_Aa7z-4k5D1A"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "HTML Tutorial For Beginners: HTML Crash Course (2026)",
+      "link": "https://www.youtube.com/watch?v=2u4q2vDLiU0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2u4q2vDLiU0",
+      "video_id": "2u4q2vDLiU0",
+      "channel": {
+        "name": "Iman Musa",
+        "link": "https://www.youtube.com/@imanwmusa",
+        "thumbnail": "https://yt3.ggpht.com/3qz7J4v35MWY8z-B7v6tx2bRyFI8IpglQBuD4puxKKQkIInnZOMZF53wZdvSq4kTlcI1XuJggQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 72556,
+      "length": "1:00:02",
+      "description": "If you want to land a $60-100k coding job in the next 24 weeks - Book A Call with Me: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/2u4q2vDLiU0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgNoPhM455TdhMVuhtxLRULLe3Uw",
+        "rich": "https://i.ytimg.com/an_webp/2u4q2vDLiU0/mqdefault_6s.webp?du=3000&sqp=CNLvotYG&rs=AOn4CLBYP0fmsHaPSrlWvNE-ojLmDzuErA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "HTML Full Course Tutorial for Beginners - Learn EVERYTHING You Need to Know in Detail 🔍",
+      "link": "https://www.youtube.com/watch?v=zutb5Clb_0Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zutb5Clb_0Y",
+      "video_id": "zutb5Clb_0Y",
+      "channel": {
+        "name": "Future Fullstack",
+        "link": "https://www.youtube.com/@futurefullstack",
+        "thumbnail": "https://yt3.ggpht.com/c7ZeILnHyfXX5qypjm9vPq4m1aU-C8ZayeAwNLLNFGZ_1WQ8x7xajaoNQgt_49l1PJ6SJPtExw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 576291,
+      "length": "5:25:53",
+      "description": "The Best Beginners HTML Full Course on YouTube - Detailed & Easy to Follow! Welcome to the Ultimate HTML Full Course - It's ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zutb5Clb_0Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp3DK0Prpu4In1JV4Xa7U069ILeg",
+        "rich": "https://i.ytimg.com/an_webp/zutb5Clb_0Y/mqdefault_6s.webp?du=3000&sqp=COL0otYG&rs=AOn4CLAoShJBQz0EEXnhzVi3n-BI9LDVeA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "HTML Tutorial - Website Crash Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=916GWv2Qs08",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=916GWv2Qs08",
+      "video_id": "916GWv2Qs08",
+      "channel": {
+        "name": "freeCodeCamp.org and Beau Carnes",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 675340,
+      "length": "45:20",
+      "description": "Learn the basics of HTML in this crash course. ✏️ This course was developed by Beau Carnes. cats.jpg: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/916GWv2Qs08/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIp91hvkj7NFqlmQwMyEdcUut3Yg",
+        "rich": "https://i.ytimg.com/an_webp/916GWv2Qs08/mqdefault_6s.webp?du=3000&sqp=CKeAo9YG&rs=AOn4CLAcihMa4CmUyUMmldWEcreXBetXAA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Learn HTML for Beginners - W3Schools.com",
+      "link": "https://www.youtube.com/watch?v=BzYMFd-lQL4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BzYMFd-lQL4",
+      "video_id": "BzYMFd-lQL4",
+      "channel": {
+        "name": "w3schools.com",
+        "link": "https://www.youtube.com/@w3schools",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Jzh-VfliIJvWX-jBOFRXfCUpDdhInOokGZQshKlET4H-u1OLl_80GY-2wwe8gvQwFoSzeeYzNg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 871078,
+      "length": "47:18",
+      "description": "This video teaches the HTML basics in just 47 minutes! This tutorial will get you ready to create websites quickly. The full tutorial ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BzYMFd-lQL4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYWVe1ObxA2ymzQL8sq0yxp1leaw",
+        "rich": "https://i.ytimg.com/an_webp/BzYMFd-lQL4/mqdefault_6s.webp?du=3000&sqp=CKKTo9YG&rs=AOn4CLAop6sIp499bOMZ0rpFhjyJJ8qujg"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "HTML & Coding Introduction – Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=GDGejH3SDNQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GDGejH3SDNQ",
+      "video_id": "GDGejH3SDNQ",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 209902,
+      "length": "2:04:06",
+      "description": "Learn the basics of HTML and how to begin coding in this course for beginners. Are you interested in coding but have never tried ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/GDGejH3SDNQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU__f1-aYWQAqCAH0fZOCu3jB2CQ",
+        "rich": "https://i.ytimg.com/an_webp/GDGejH3SDNQ/mqdefault_6s.webp?du=3000&sqp=CMT2otYG&rs=AOn4CLDL3k6gqSfieD_yDtqHaFqq-hWkRg"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "HTML Full Course for Beginners in 40 Min | Build Your First Website",
+      "link": "https://www.youtube.com/watch?v=505RzBu5sA4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=505RzBu5sA4",
+      "video_id": "505RzBu5sA4",
+      "channel": {
+        "name": "Parham CodeLab",
+        "link": "https://www.youtube.com/@ParhamCodeLab",
+        "thumbnail": "https://yt3.ggpht.com/DvpZqiX3opkWP65AhkxR7APPFz0wCbN6H0jVO_fL-bZDvjE286S4UeuK4qHHGlzTFBxU536u0w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 19805,
+      "length": "42:03",
+      "description": "Learn HTML from scratch with this FREE HTML Full Course for Beginners  . This complete HTML tutorial teaches you the ...",
+      "extensions": [
+        "4K",
+        "Beginner"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/505RzBu5sA4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiNyzQKkl9zrqIPABqOEjICyVRgw",
+        "rich": "https://i.ytimg.com/an_webp/505RzBu5sA4/mqdefault_6s.webp?du=3000&sqp=CKCFo9YG&rs=AOn4CLBi-ySOl66FHzEcBRETluyENFg3gQ"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "HTML Crash Course For Absolute Beginners",
+      "link": "https://www.youtube.com/watch?v=UB1O30fR-EE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UB1O30fR-EE",
+      "video_id": "UB1O30fR-EE",
+      "channel": {
+        "name": "Traversy Media",
+        "link": "https://www.youtube.com/@TraversyMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 7484658,
+      "length": "1:00:42",
+      "description": "In this crash course I will cram as much about HTML that I can. This is meant for absolute beginners. If you are interested in ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/UB1O30fR-EE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjuwV8hvfVhBcWE4DP4485s2AvhQ",
+        "rich": "https://i.ytimg.com/an_webp/UB1O30fR-EE/mqdefault_6s.webp?du=3000&sqp=CJCUo9YG&rs=AOn4CLCeO5PQQAJSTwadtnuGt9VN77SudA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Learn HTML – Full Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=4khQlfqWWOA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4khQlfqWWOA",
+      "video_id": "4khQlfqWWOA",
+      "channel": {
+        "name": "The Codeholic",
+        "link": "https://www.youtube.com/@TheCodeholic",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_limu16Q9lMj8k4k_ACSqUXKHZYsJothlIQl1qrzMFw7TE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 4987,
+      "length": "3:18:17",
+      "description": "In this tutorial you will learn absolutely everything you need to know about HTML, which is the fundamental language for building ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/4khQlfqWWOA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdI3A554CqHPL6TAbp9seXO7978w",
+        "rich": "https://i.ytimg.com/an_webp/4khQlfqWWOA/mqdefault_6s.webp?du=3000&sqp=CPDyotYG&rs=AOn4CLDcb_mG5ZFdleX_kO5LU3lM4bpgdQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Web Development with HTML & CSS – Full Course for Beginners (2026)",
+      "link": "https://www.youtube.com/watch?v=lI3iZ5xMII8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lI3iZ5xMII8",
+      "video_id": "lI3iZ5xMII8",
+      "channel": {
+        "name": "Iman Musa",
+        "link": "https://www.youtube.com/@imanwmusa",
+        "thumbnail": "https://yt3.ggpht.com/3qz7J4v35MWY8z-B7v6tx2bRyFI8IpglQBuD4puxKKQkIInnZOMZF53wZdvSq4kTlcI1XuJggQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 34333,
+      "length": "3:00:08",
+      "description": "Learn how to work with me to get into your first coding job: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/lI3iZ5xMII8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdrO3eBXI00HQyj8bCX0OSd9g6rQ",
+        "rich": "https://i.ytimg.com/an_webp/lI3iZ5xMII8/mqdefault_6s.webp?du=3000&sqp=CIWBo9YG&rs=AOn4CLBD3ACdMKWcG3JegEMFViI0qVUt8w"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "HTML 5 Full Course - Full Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=y89iQSDkDDw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=y89iQSDkDDw",
+      "video_id": "y89iQSDkDDw",
+      "channel": {
+        "name": "Learn2Mastery",
+        "link": "https://www.youtube.com/@Learn2Mastery",
+        "thumbnail": "https://yt3.ggpht.com/vilxWdN4a8bCgIizJ5oLT2gQTRoBqdFG70ZVUpgDGiw_Hzs5efbyTmlS-Him4b88ZfnBbXbKKA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 2662,
+      "length": "1:32:56",
+      "description": "HTML #HTMLFullCourse #HTMLForBeginners Welcome to the Ultimate HTML Beginner Course on YouTube! This complete ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/y89iQSDkDDw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeesEkGvxr7XZ5Mu3EnqckhYLbOQ",
+        "rich": "https://i.ytimg.com/an_webp/y89iQSDkDDw/mqdefault_6s.webp?du=3000&sqp=CMCHo9YG&rs=AOn4CLB0ydqHR5pHJHYMWOuUluqggaluEQ"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "HTML Full Course – Beginner to Pro",
+      "link": "https://www.youtube.com/watch?v=AZS_0g0kJJw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=AZS_0g0kJJw",
+      "video_id": "AZS_0g0kJJw",
+      "channel": {
+        "name": "WebGlowCademy",
+        "link": "https://www.youtube.com/@WebGlowCademy",
+        "thumbnail": "https://yt3.ggpht.com/NMdBgdCLe_SZ2bCvXxNM7iw88ryMb2RwQH9kpVFLnbSJxQDXBLJ1Ypto1auBfLxqlNiW66Fe4A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 24513,
+      "length": "1:14:57",
+      "description": "Learn HTML in 2025 with this Complete Beginner-to-Pro Full Course! Build real websites step-by-step, even if you're starting from ...",
+      "extensions": [
+        "Beginner",
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/AZS_0g0kJJw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1g4YW63a28IjDxOs6IMc2UvB8cw",
+        "rich": "https://i.ytimg.com/an_webp/AZS_0g0kJJw/mqdefault_6s.webp?du=3000&sqp=CKjootYG&rs=AOn4CLAd6sRfcSZBNTqn5xvO6K8f0rTU4g"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "HTML Tutorial For Beginners - 2025 [NEW]",
+      "link": "https://www.youtube.com/watch?v=Gs5yi3Hi5qo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Gs5yi3Hi5qo",
+      "video_id": "Gs5yi3Hi5qo",
+      "channel": {
+        "name": "Amigoscode",
+        "link": "https://www.youtube.com/@amigoscode",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/j7KM4l3IN-FxZb881xAD3QhQIosMM1978leBKGfLmCnQxbazoep9BqDnolH-gievUTGGzEwqQA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 22347,
+      "length": "1:49:34",
+      "description": "Become the software engineer AI can't replace. Join Amigoscode Academy: https://skool.com/amigoscode-academy ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Gs5yi3Hi5qo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAftPfRzlhRdixP8v2H25MV4g4MuA",
+        "rich": "https://i.ytimg.com/an_webp/Gs5yi3Hi5qo/mqdefault_6s.webp?du=3000&sqp=COyYo9YG&rs=AOn4CLAp7laH0ioaEjrN4oHlnamxW668mA"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=HTML+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=HTML%20full%20course%20for%20beginners&sp=EgIYAkgUggELcXowYUdZcnJsaFWCAQtrVU1lMUZINENIRYIBC0czZS1jcEw3b2ZjggELRlFkYVV2OTVtUjiCAQtIRDEzZXFfUG1wOIIBC2FfaVFiMWxuQUVRggELSEdUSkJQTkMtR3eCAQtndFNUc21MQXktWYIBCzJ1NHEydkRMaVUwggELenV0YjVDbGJfMFmCAQs5MTZHV3YyUXMwOIIBC0J6WU1GZC1sUUw0ggELR0RHZWpIM1NETlGCAQs1MDVSekJ1NXNBNIIBC1VCMU8zMGZSLUVFggELNGtoUWxmcVdXT0GCAQtsSTNpWjV4TUlJOIIBC3k4OWlRU0RrRER3ggELQVpTXzBnMGtKSneCAQtHczV5aTNIaTVxb7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELcXowYUdZcnJsaFWCAQtrVU1lMUZINENIRYIBC0czZS1jcEw3b2ZjggELRlFkYVV2OTVtUjiCAQtIRDEzZXFfUG1wOIIBC2FfaVFiMWxuQUVRggELSEdUSkJQTkMtR3eCAQtndFNUc21MQXktWYIBCzJ1NHEydkRMaVUwggELenV0YjVDbGJfMFmCAQs5MTZHV3YyUXMwOIIBC0J6WU1GZC1sUUw0ggELR0RHZWpIM1NETlGCAQs1MDVSekJ1NXNBNIIBC1VCMU8zMGZSLUVFggELNGtoUWxmcVdXT0GCAQtsSTNpWjV4TUlJOIIBC3k4OWlRU0RrRER3ggELQVpTXzBnMGtKSneCAQtHczV5aTNIaTVxb7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=HTML+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=HTML+full+course+for+beginners&sp=EgIYAkgUggELcXowYUdZcnJsaFWCAQtrVU1lMUZINENIRYIBC0czZS1jcEw3b2ZjggELRlFkYVV2OTVtUjiCAQtIRDEzZXFfUG1wOIIBC2FfaVFiMWxuQUVRggELSEdUSkJQTkMtR3eCAQtndFNUc21MQXktWYIBCzJ1NHEydkRMaVUwggELenV0YjVDbGJfMFmCAQs5MTZHV3YyUXMwOIIBC0J6WU1GZC1sUUw0ggELR0RHZWpIM1NETlGCAQs1MDVSekJ1NXNBNIIBC1VCMU8zMGZSLUVFggELNGtoUWxmcVdXT0GCAQtsSTNpWjV4TUlJOIIBC3k4OWlRU0RrRER3ggELQVpTXzBnMGtKSneCAQtHczV5aTNIaTVxb7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELcXowYUdZcnJsaFWCAQtrVU1lMUZINENIRYIBC0czZS1jcEw3b2ZjggELRlFkYVV2OTVtUjiCAQtIRDEzZXFfUG1wOIIBC2FfaVFiMWxuQUVRggELSEdUSkJQTkMtR3eCAQtndFNUc21MQXktWYIBCzJ1NHEydkRMaVUwggELenV0YjVDbGJfMFmCAQs5MTZHV3YyUXMwOIIBC0J6WU1GZC1sUUw0ggELR0RHZWpIM1NETlGCAQs1MDVSekJ1NXNBNIIBC1VCMU8zMGZSLUVFggELNGtoUWxmcVdXT0GCAQtsSTNpWjV4TUlJOIIBC3k4OWlRU0RrRER3ggELQVpTXzBnMGtKSneCAQtHczV5aTNIaTVxb7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:19:02 UTC"
+}

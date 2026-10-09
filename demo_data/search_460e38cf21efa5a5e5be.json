@@ -1,0 +1,469 @@
+{
+  "search_metadata": {
+    "id": "6ac8cda2e9639b8ce9f228e1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YU1jVmshzdqy1HCgHsws66od9vvRVVj0RNuabvL5HUA/6ac8cda2e9639b8ce9f228e1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/YU1jVmshzdqy1HCgHsws66od9vvRVVj0RNuabvL5HUA/6ac8cda2e9639b8ce9f228e1.md",
+    "created_at": "2026-10-09 11:18:58 UTC",
+    "processed_at": "2026-10-09 11:18:58 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=PostgreSQL+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/YU1jVmshzdqy1HCgHsws66od9vvRVVj0RNuabvL5HUA/6ac8cda2e9639b8ce9f228e1.html",
+    "total_time_taken": 3.82
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "PostgreSQL full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 598027,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Learn PostgreSQL Tutorial - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=qw--VYLpxG4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qw--VYLpxG4",
+      "video_id": "qw--VYLpxG4",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 3365107,
+      "length": "4:19:34",
+      "description": "Learn how to use PostgreSQL in this full course. PostgreSQL is a general purpose and object-relational database management ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qw--VYLpxG4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp_OlJkOSrhAZbTMIoh-O4-QiEGQ",
+        "rich": "https://i.ytimg.com/an_webp/qw--VYLpxG4/mqdefault_6s.webp?du=3000&sqp=CJCUo9YG&rs=AOn4CLB1J4SQfB_ZVBNVWWg5cwhMgohlPQ"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "PostgreSQL Crash Course - Beginner Tutorial",
+      "link": "https://www.youtube.com/watch?v=gySEbKmkvEU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gySEbKmkvEU",
+      "video_id": "gySEbKmkvEU",
+      "channel": {
+        "name": "NeuralNine",
+        "link": "https://www.youtube.com/@NeuralNine",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/l_2SPJx1Qd4IC01Fdlm-9cszWtmZv62ns80dOb-L-PyA5lcjdsSyjaz7LJRwBo4s9zDhtdiImw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 75999,
+      "length": "59:49",
+      "description": "Need some help with a project or some consulting? Contact me here: https://www.neuralnine.com/services The Python Bible ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gySEbKmkvEU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDg6V13UIjMOkZCzn7gHICQ9RSnbQ",
+        "rich": "https://i.ytimg.com/an_webp/gySEbKmkvEU/mqdefault_6s.webp?du=3000&sqp=CJ-Qo9YG&rs=AOn4CLDdY9TNwqdIvXfRxMKdvwsdmVpR6Q"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "PostgreSQL CRASH COURSE - Learn PostgreSQL in 2024",
+      "link": "https://www.youtube.com/watch?v=zw4s3Ey8ayo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zw4s3Ey8ayo",
+      "video_id": "zw4s3Ey8ayo",
+      "channel": {
+        "name": "Troy Amelotte",
+        "link": "https://www.youtube.com/@TroyAmelotte",
+        "thumbnail": "https://yt3.ggpht.com/aA7niDyUl_Q7j7gID1xFXUP9urayTVLErfjB2ljVTsVOF4o5pGa237h8u13MuyLB2IMdIAN6=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 399456,
+      "length": "50:26",
+      "description": "Get My FULL POSTGRES COURSE 90% OFF: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zw4s3Ey8ayo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn76vAfVH7d_NaTdfM7QOwzwtvPA",
+        "rich": "https://i.ytimg.com/an_webp/zw4s3Ey8ayo/mqdefault_6s.webp?du=3000&sqp=CN7yotYG&rs=AOn4CLCC0Vl4NuQbYNlug-8S5gdnUobLGw"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "PostgreSQL Full course 2026 | Learn PostgreSQL in One Video",
+      "link": "https://www.youtube.com/watch?v=oQRmL4ry5qw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oQRmL4ry5qw",
+      "video_id": "oQRmL4ry5qw",
+      "channel": {
+        "name": "Sangam Mukherjee",
+        "link": "https://www.youtube.com/@sangammukherjee",
+        "thumbnail": "https://yt3.ggpht.com/yFwmPvl5nisVdhoWqbxCZpVRlUTjyJQv43Lvmmq0kG1MWpGzOvOKYWKouJZkvQLdGp9RmtNpfQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 85272,
+      "length": "4:07:12",
+      "description": "JOIN ACEDEVHUB COURSE WAITLIST FOR FREE   ▭▭⭐ https://acedevhub.com/courses ⭐▭▭ DOWNLOAD SOURCE ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/oQRmL4ry5qw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkyWcrgWLPtNpd_02eKj1uTV1CGA"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Learn PostgreSQL in 40 Minutes (Full Course)",
+      "link": "https://www.youtube.com/watch?v=chz_g0VfP4U",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=chz_g0VfP4U",
+      "video_id": "chz_g0VfP4U",
+      "channel": {
+        "name": "RoadsideCoder",
+        "link": "https://www.youtube.com/@RoadsideCoder",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/yombgclSKeuwDBzfGYtEN12w8o91pE5n4AT0kX4a8VYmUCaeXqMGnMQ7aU0553bEBjKcDYHX=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1mo ago",
+      "views": 48675,
+      "length": "39:30",
+      "description": "Supabase - https://supabase.link/8lqB5J2 Full Video Notes ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/chz_g0VfP4U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfr-ucjpHMRKwXIojSpba-afHeEw",
+        "rich": "https://i.ytimg.com/an_webp/chz_g0VfP4U/mqdefault_6s.webp?du=3000&sqp=CKTuotYG&rs=AOn4CLAK_DoPMThjAzMqlPDbkW2Iy7diAQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "PostgreSQL Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=SpfIwlAYaKk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=SpfIwlAYaKk",
+      "video_id": "SpfIwlAYaKk",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 582679,
+      "length": "2:53:27",
+      "description": "Learn PostgreSQL, one of the world's most advanced and robust open-source relational database systems. Whether you're a ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SpfIwlAYaKk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChelV0ztTuJDEE775cU9ruNAq2Og",
+        "rich": "https://i.ytimg.com/an_webp/SpfIwlAYaKk/mqdefault_6s.webp?du=3000&sqp=CMD7otYG&rs=AOn4CLB855CcOVkOHwY69w-kiq9SZ3xq2w"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "PostgreSQL Tutorial Full Course 2022",
+      "link": "https://www.youtube.com/watch?v=85pG_pDkITY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=85pG_pDkITY",
+      "video_id": "85pG_pDkITY",
+      "channel": {
+        "name": "Derek Banas",
+        "link": "https://www.youtube.com/@derekbanas",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/NPwQr5voGwAqTEKdNSJN4_UGQZiwXmdkhEjjs6O71EyJxs7Sqk_6reizhbfRqM1sHl0F_F1Cy1k=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 444901,
+      "length": "3:42:11",
+      "description": "I wrote a Techno-Thriller called Whispers if you're interested: https://amzn.to/4cfdtNW I'd greatly appreciate a review for it if you ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/85pG_pDkITY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuGzXMyBWJYyX8YQIDks2MRNskjQ"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Backend Full Course | NodeJS ExpressJS PostgreSQL Prisma & Docker",
+      "link": "https://www.youtube.com/watch?v=9BD9eK9VqXA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9BD9eK9VqXA",
+      "video_id": "9BD9eK9VqXA",
+      "channel": {
+        "name": "Smoljames",
+        "link": "https://www.youtube.com/@Smoljames",
+        "thumbnail": "https://yt3.ggpht.com/SSgTNFOw50MLlfbLRh7iZKWR7UEHGGvKoZHiNN1ohyK-GzTZiH6VfyqOOdrJ056jZn-ljRvKqg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 458264,
+      "length": "5:17:22",
+      "description": "Learn to Code https://www.smoljames.com/roadmap Build a resume ✓ https://www.hyr.sh Dive into this comprehensive ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9BD9eK9VqXA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3JPGE3eqPKYlqIQrXkmu09vfRPg",
+        "rich": "https://i.ytimg.com/an_webp/9BD9eK9VqXA/mqdefault_6s.webp?du=3000&sqp=CICYo9YG&rs=AOn4CLC9-cYYo7Iv9J5PhWQPcRqhSVdSxA"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Learn PostgreSQL Database Administration (DBA) for Beginners - Full Course",
+      "link": "https://www.youtube.com/watch?v=eESMCA2O7TU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eESMCA2O7TU",
+      "video_id": "eESMCA2O7TU",
+      "channel": {
+        "name": "Code Geek",
+        "link": "https://www.youtube.com/@codegeek9098",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_neMQtEEUmjfH0cBianeKgbYXmsHXnHeALUY77e9iCeAg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 66480,
+      "length": "11:26:29",
+      "description": "Learn about PostgreSQL Database Administration (DBA) for Beginners in this full course for beginners. We'll learn from ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eESMCA2O7TU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0Dv2fUfD_LcJQ5rpw2Paoanzj7g"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "PostgreSQL Full course for Beginners",
+      "link": "https://www.youtube.com/watch?v=67gWjFjzfCs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=67gWjFjzfCs",
+      "video_id": "67gWjFjzfCs",
+      "channel": {
+        "name": "JaneExplainsIT",
+        "link": "https://www.youtube.com/@JaneExplainsIT",
+        "thumbnail": "https://yt3.ggpht.com/1jRgq6Qo-HKS8cGLF4DcPb7GqlvtsWMiq-NV9tuZZyGRd-H3oFbyYbwa2CDlKwLTGdQk1h950w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 791,
+      "length": "1:07:11",
+      "description": "In this video you'll learn all the essential SQL commands you'll actually use at work — from creating your first table to writing joins ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/67gWjFjzfCs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB00VvpmxPmk4Zs3wzTlIxUoLWXsw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "SQL Course for Beginners [Full Course]",
+      "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7S_tz1z_5bA",
+      "video_id": "7S_tz1z_5bA",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 15397971,
+      "length": "3:10:19",
+      "description": "Master SQL – an essential skill for AI, machine learning, data analysis, and more! This beginner-friendly course teaches you ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7S_tz1z_5bA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlohTYZhQDSWG32v6EfxEUlv6wqA",
+        "rich": "https://i.ytimg.com/an_webp/7S_tz1z_5bA/mqdefault_6s.webp?du=3000&sqp=CID7otYG&rs=AOn4CLBCRgr49cwkrDCWFvn5r_6DuFE6QQ"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "PostgreSQL Tutorial for Beginners 🚀 Full Course (Step-by-Step) (2026)",
+      "link": "https://www.youtube.com/watch?v=u3Xyw6DXm_o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=u3Xyw6DXm_o",
+      "video_id": "u3Xyw6DXm_o",
+      "channel": {
+        "name": "ProgrammingKnowledge",
+        "link": "https://www.youtube.com/@ProgrammingKnowledge",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Gq1qOaO7koNIYIt2sLibhmibPlgGAT-7DyoY1SSv2uPYTepgkR08FmnizgtWjiBUJATjJtwLMg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 39765,
+      "length": "5:19:33",
+      "description": "PostgreSQL Tutorial for Beginners Full Course In this complete beginner-friendly course, you'll learn everything you need to get ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/u3Xyw6DXm_o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2iTWJrh1U_PJapJ35xrYVY8A6ww",
+        "rich": "https://i.ytimg.com/an_webp/u3Xyw6DXm_o/mqdefault_6s.webp?du=3000&sqp=CIz0otYG&rs=AOn4CLDpsD0BoPy4DZYdGKE85Cuq6B80Hg"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Master PostgreSQL In 4 Hours: From Zero To Database Pro || Beginners Only Course",
+      "link": "https://www.youtube.com/watch?v=o4Aa_kUqTAU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=o4Aa_kUqTAU",
+      "video_id": "o4Aa_kUqTAU",
+      "channel": {
+        "name": "Knowledge 360",
+        "link": "https://www.youtube.com/@Knowledge360Channel",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l_bLwIzhEiZUMx4TIfpTst9lok1dMVku6QmRiBzcjU-VE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 3307,
+      "length": "4:02:30",
+      "description": "Master PostgreSQL in One Video: The Ultimate 2026 Beginner Course Are you ready to master one of the world's most advanced ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/o4Aa_kUqTAU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlEqsCf0I0diJ5tT9rkIAU6sfJ-w",
+        "rich": "https://i.ytimg.com/an_webp/o4Aa_kUqTAU/mqdefault_6s.webp?du=3000&sqp=CID3otYG&rs=AOn4CLCMv5BALFQYX1uTIfuKYU_oxGHHKg"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "SQL for Data Analytics - Learn SQL in 4 Hours",
+      "link": "https://www.youtube.com/watch?v=7mz73uXD9DA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7mz73uXD9DA",
+      "video_id": "7mz73uXD9DA",
+      "channel": {
+        "name": "Luke Barousse",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1807973,
+      "length": "4:08:41",
+      "description": "FREE Course Databases & Links https://lukebarousse.com/sql Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7mz73uXD9DA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVnhKf5YBLmq8cb8pPmFq2PPxS7g",
+        "rich": "https://i.ytimg.com/an_webp/7mz73uXD9DA/mqdefault_6s.webp?du=3000&sqp=CMCVo9YG&rs=AOn4CLDKqXqdFkse3T9_GwZO8o4oMZ2lmQ"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "PostgreSQL Tutorial | What Is PostgreSQL? | PostgreSQL Tutorial For Beginners | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=evJuky1ZtD8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=evJuky1ZtD8",
+      "video_id": "evJuky1ZtD8",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 39487,
+      "length": "20:27",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "extensions": [
+        "2 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/evJuky1ZtD8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNgWYbQ4uBBytWFBKMyExJ2j4RxA",
+        "rich": "https://i.ytimg.com/an_webp/evJuky1ZtD8/mqdefault_6s.webp?du=3000&sqp=CNrwotYG&rs=AOn4CLCCCH1YEPyfuNwVbd49pBWcd1d2RQ"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "PostgreSQL Tutorial For Beginners | Learn PostgreSQL | Introduction to PostgreSQL | Edureka",
+      "link": "https://www.youtube.com/watch?v=-VO7YjQeG6Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-VO7YjQeG6Y",
+      "video_id": "-VO7YjQeG6Y",
+      "channel": {
+        "name": "edureka!",
+        "link": "https://www.youtube.com/@edurekaIN",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/fkoY1WFQrc9eK6FwzrZVi-hZFBdpCUfSYPy6k9VSVP4H1Cqo_0pwIgpgOn-uCRgFPlz_AtGGog=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 283398,
+      "length": "2:15:02",
+      "description": "MYSQL DBA Certification Training https://www.edureka.co/mysql-dba ** This Edureka video on PostgreSQL Tutorial For ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-VO7YjQeG6Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0xWgK4qinw3iC37qBTo990lO6fQ",
+        "rich": "https://i.ytimg.com/an_webp/-VO7YjQeG6Y/mqdefault_6s.webp?du=3000&sqp=CJ7cotYG&rs=AOn4CLCZRNFACFhd8i3cTJwcGdWbrqYaMQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Modern SQL Full Course (Beginner to Expert) – PostgreSQL 2026",
+      "link": "https://www.youtube.com/watch?v=U4qvLA1QwEE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=U4qvLA1QwEE",
+      "video_id": "U4qvLA1QwEE",
+      "channel": {
+        "name": "Data with Jay",
+        "link": "https://www.youtube.com/@Data_with_Jay",
+        "thumbnail": "https://yt3.ggpht.com/ePS4jCnFiSyfHRAELwFZIAqRyRwaw0aJwkF--6bqd-DCScv2zTdnaRH2ET6CzCK60deASj2k=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 10109,
+      "length": "3:36:08",
+      "description": "Modern SQL Full Course (Beginner to Expert) – PostgreSQL 2026 This is the ultimate Modern SQL Speedrun — a complete, ...",
+      "extensions": [
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/U4qvLA1QwEE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSA152gG_UZPjt0mvG6vbZrQQPEw",
+        "rich": "https://i.ytimg.com/an_webp/U4qvLA1QwEE/mqdefault_6s.webp?du=3000&sqp=CO7_otYG&rs=AOn4CLAn4zhQii5djf3JTZU8wmaE2TNRZw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Master PostgreSQL in 6 Hours | Complete Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=FDVPW49Nebs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FDVPW49Nebs",
+      "video_id": "FDVPW49Nebs",
+      "channel": {
+        "name": "Suraj Jha",
+        "link": "https://www.youtube.com/@codebysuraj",
+        "thumbnail": "https://yt3.ggpht.com/lXfswcRbO880tJOSl6DBlqPAmQrM8uFXWYs1vStCWqdyHR-89lsyQhfBaxcX6z7Zyoa9QJ5ZeA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 14472,
+      "length": "6:33:53",
+      "description": "Master PostgreSQL with this complete beginner-to-advanced course! PostgreSQL is one of the world's most powerful and widely ...",
+      "extensions": [
+        "4K",
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FDVPW49Nebs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuYX_8Xgc5m8ANvU-BAeCGGI4hpg",
+        "rich": "https://i.ytimg.com/an_webp/FDVPW49Nebs/mqdefault_6s.webp?du=3000&sqp=CI_6otYG&rs=AOn4CLCYmwhFeuqqG9g-EbBKs_rYQ8aQNw"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "PostgreSQL Tutorial For Beginners | What Is PostgreSQL? | Learn PostgreSQL | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=eMIxuk0nOkU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eMIxuk0nOkU",
+      "video_id": "eMIxuk0nOkU",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 288961,
+      "length": "1:33:34",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eMIxuk0nOkU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0vnAFnbolhvvDXv9AiTzAC8f_Yw",
+        "rich": "https://i.ytimg.com/an_webp/eMIxuk0nOkU/mqdefault_6s.webp?du=3000&sqp=CJWYo9YG&rs=AOn4CLDRwopAqcf1A7l4rkRH7f0OIGLduw"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "you need to learn SQL RIGHT NOW!! (SQL Tutorial for Beginners)",
+      "link": "https://www.youtube.com/watch?v=xiUTqnI6xk8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xiUTqnI6xk8",
+      "video_id": "xiUTqnI6xk8",
+      "channel": {
+        "name": "NetworkChuck",
+        "link": "https://www.youtube.com/@NetworkChuck",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k01-_GpvVZW8w4ULtaQaa55ls8aMf2a5dXhIe56pjMvG0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 2069081,
+      "length": "24:25",
+      "description": "Keep your database of accounts and passwords secure by using DashLane! Sign up now at ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xiUTqnI6xk8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfuDrZdE2WYwR_DbZlXt84XnW3Fw",
+        "rich": "https://i.ytimg.com/an_webp/xiUTqnI6xk8/mqdefault_6s.webp?du=3000&sqp=CMOJo9YG&rs=AOn4CLD-iDiESOEXvt0ERmH4iJRIt2hvdA"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=PostgreSQL+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=PostgreSQL%20full%20course%20for%20beginners&sp=EgIYAkgUggELcXctLVZZTHB4RzSCAQtneVNFYktta3ZFVYIBC3p3NHMzRXk4YXlvggELb1FSbUw0cnk1cXeCAQtjaHpfZzBWZlA0VYIBC1NwZkl3bEFZYUtrggELODVwR19wRGtJVFmCAQs5QkQ5ZUs5VnFYQYIBC2VFU01DQTJPN1RVggELNjdnV2pGanpmQ3OCAQs3U190ejF6XzViQYIBC3UzWHl3NkRYbV9vggELbzRBYV9rVXFUQVWCAQs3bXo3M3VYRDlEQYIBC2V2SnVreTFadEQ4ggELLVZPN1lqUWVHNlmCAQtVNHF2TEExUXdFRYIBC0ZEVlBXNDlOZWJzggELZU1JeHVrMG5Pa1WCAQt4aVVUcW5JNnhrOLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELcXctLVZZTHB4RzSCAQtneVNFYktta3ZFVYIBC3p3NHMzRXk4YXlvggELb1FSbUw0cnk1cXeCAQtjaHpfZzBWZlA0VYIBC1NwZkl3bEFZYUtrggELODVwR19wRGtJVFmCAQs5QkQ5ZUs5VnFYQYIBC2VFU01DQTJPN1RVggELNjdnV2pGanpmQ3OCAQs3U190ejF6XzViQYIBC3UzWHl3NkRYbV9vggELbzRBYV9rVXFUQVWCAQs3bXo3M3VYRDlEQYIBC2V2SnVreTFadEQ4ggELLVZPN1lqUWVHNlmCAQtVNHF2TEExUXdFRYIBC0ZEVlBXNDlOZWJzggELZU1JeHVrMG5Pa1WCAQt4aVVUcW5JNnhrOLIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=PostgreSQL+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=PostgreSQL+full+course+for+beginners&sp=EgIYAkgUggELcXctLVZZTHB4RzSCAQtneVNFYktta3ZFVYIBC3p3NHMzRXk4YXlvggELb1FSbUw0cnk1cXeCAQtjaHpfZzBWZlA0VYIBC1NwZkl3bEFZYUtrggELODVwR19wRGtJVFmCAQs5QkQ5ZUs5VnFYQYIBC2VFU01DQTJPN1RVggELNjdnV2pGanpmQ3OCAQs3U190ejF6XzViQYIBC3UzWHl3NkRYbV9vggELbzRBYV9rVXFUQVWCAQs3bXo3M3VYRDlEQYIBC2V2SnVreTFadEQ4ggELLVZPN1lqUWVHNlmCAQtVNHF2TEExUXdFRYIBC0ZEVlBXNDlOZWJzggELZU1JeHVrMG5Pa1WCAQt4aVVUcW5JNnhrOLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELcXctLVZZTHB4RzSCAQtneVNFYktta3ZFVYIBC3p3NHMzRXk4YXlvggELb1FSbUw0cnk1cXeCAQtjaHpfZzBWZlA0VYIBC1NwZkl3bEFZYUtrggELODVwR19wRGtJVFmCAQs5QkQ5ZUs5VnFYQYIBC2VFU01DQTJPN1RVggELNjdnV2pGanpmQ3OCAQs3U190ejF6XzViQYIBC3UzWHl3NkRYbV9vggELbzRBYV9rVXFUQVWCAQs3bXo3M3VYRDlEQYIBC2V2SnVreTFadEQ4ggELLVZPN1lqUWVHNlmCAQtVNHF2TEExUXdFRYIBC0ZEVlBXNDlOZWJzggELZU1JeHVrMG5Pa1WCAQt4aVVUcW5JNnhrOLIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:18:58 UTC"
+}

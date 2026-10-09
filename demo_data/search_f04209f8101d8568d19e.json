@@ -1,0 +1,463 @@
+{
+  "search_metadata": {
+    "id": "6ac8cda917bdbf95740a945a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/VxOmsNcbhqeF_Yiy8IhXqFlQ0aHMNyMx4jQsAfgV1lU/6ac8cda917bdbf95740a945a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/VxOmsNcbhqeF_Yiy8IhXqFlQ0aHMNyMx4jQsAfgV1lU/6ac8cda917bdbf95740a945a.md",
+    "created_at": "2026-10-09 11:19:05 UTC",
+    "processed_at": "2026-10-09 11:19:05 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=CSS+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/VxOmsNcbhqeF_Yiy8IhXqFlQ0aHMNyMx4jQsAfgV1lU/6ac8cda917bdbf95740a945a.html",
+    "total_time_taken": 3.64
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "CSS full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 5278874,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "HTML & CSS Full Course - Beginner to Pro",
+      "link": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=G3e-cpL7ofc",
+      "video_id": "G3e-cpL7ofc",
+      "channel": {
+        "name": "SuperSimpleDev",
+        "link": "https://www.youtube.com/@SuperSimpleDev",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_laf9dDyNATE1_RdVUKthwnwT9TSm9N0my0jL2H8gCvjw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 20055028,
+      "length": "6:31:16",
+      "description": "Get a certificate for this course: https://courses.supersimple.dev/courses/html-css or Frontend Bundle (React, JS, HTML CSS): ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/G3e-cpL7ofc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDpRkEpP9iC_I3JO57jHrUmHHbSg"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "CSS Tutorial – Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=OXGznpKZ_sA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OXGznpKZ_sA",
+      "video_id": "OXGznpKZ_sA",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 3005618,
+      "length": "11:08:10",
+      "description": "In this in-depth course, you will learn about all the key features of CSS. This is the most comprehensive CSS course we've ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OXGznpKZ_sA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBTqPqDOp6k7bAz5Cx2b95RvtB9CA"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Learn CSS in 1 hour 🎨",
+      "link": "https://www.youtube.com/watch?v=wRNinF7YQqQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wRNinF7YQqQ",
+      "video_id": "wRNinF7YQqQ",
+      "channel": {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2430701,
+      "length": "1:00:00",
+      "description": "CSS #tutorial #beginners ⭐️Time Stamps⭐️ #1 (00:00:00) CSS tutorial for beginners #2 (00:11:00) fonts #3 (00:14:20) ...",
+      "extensions": [
+        "Fundraiser"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wRNinF7YQqQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4zsV3uYqlMPNs3hCLtXgevrsksQ"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "CSS Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=j6nOnIT-T1o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=j6nOnIT-T1o",
+      "video_id": "j6nOnIT-T1o",
+      "channel": {
+        "name": "The Coding Sloth",
+        "link": "https://www.youtube.com/@TheCodingSloth",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/vyiVx6-37LFcgsj8vB9ml-LK3PoiedhdVnkSFhPmp9V6EZqLketITjJ8mm2-0WCzjoQc0TOgLw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 78702,
+      "length": "30:28",
+      "description": "In this video, We'll dive into the world of web design with this comprehensive tutorial on the basics of CSS. Whether you're a ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/j6nOnIT-T1o/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLACdXl-m3BQ1oHAGTvpdGgVQRlMuQ"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Learn HTML & CSS – Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=a_iQb1lnAEQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=a_iQb1lnAEQ",
+      "video_id": "a_iQb1lnAEQ",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 957785,
+      "length": "5:21:44",
+      "description": "Learn HTML and CSS from scratch by building 6 projects and solving 80+ coding challenges. Go here for the interactive ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/a_iQb1lnAEQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBw9OYLAD2dDg_FwXmGsYJ8NuqcbQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Learn CSS in 20 Minutes",
+      "link": "https://www.youtube.com/watch?v=1PnVor36_40",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1PnVor36_40",
+      "video_id": "1PnVor36_40",
+      "channel": {
+        "name": "Web Dev Simplified",
+        "link": "https://www.youtube.com/@WebDevSimplified",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 2160213,
+      "length": "23:44",
+      "description": "Master CSS selectors* with my *FREE CSS Selector Cheat Sheet* - _30+ selectors_ ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/1PnVor36_40/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC4sQn1-6MCk0drIT-aptr25LX0IA"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "HTML & CSS Full Course for free 🌎",
+      "link": "https://www.youtube.com/watch?v=HGTJBPNC-Gw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HGTJBPNC-Gw",
+      "video_id": "HGTJBPNC-Gw",
+      "channel": {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 6257186,
+      "length": "4:02:43",
+      "description": "HTML #CSS #course ⭐ TIME STAMPS ⭐ #1 00:00:00 Introduction to HTML 00:01:56 VSCode download 00:02:38 project ...",
+      "extensions": [
+        "Fundraiser"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HGTJBPNC-Gw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAX-UWG5EOT6qHw77kbPfhjHthDEA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "CSS Full Course - Includes Flexbox and CSS Grid Tutorials",
+      "link": "https://www.youtube.com/watch?v=ieTHC78giGQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ieTHC78giGQ",
+      "video_id": "ieTHC78giGQ",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 981279,
+      "length": "1:25:39",
+      "description": "Learn CSS in this complete tutorial course. Cascading Style Sheets (CSS) tell the browser how to display the text and other ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ieTHC78giGQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDB7HgfyggPxJZtjlagCugem5XfMg"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "CSS Tutorial For Beginners: CSS Crash Course (2026)",
+      "link": "https://www.youtube.com/watch?v=c26O1N3x6ug",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c26O1N3x6ug",
+      "video_id": "c26O1N3x6ug",
+      "channel": {
+        "name": "Iman Musa",
+        "link": "https://www.youtube.com/@imanwmusa",
+        "thumbnail": "https://yt3.ggpht.com/3qz7J4v35MWY8z-B7v6tx2bRyFI8IpglQBuD4puxKKQkIInnZOMZF53wZdvSq4kTlcI1XuJggQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 60075,
+      "length": "2:01:05",
+      "description": "If you want to land a $60-100k coding job in the next 24 weeks - Book A Call with Me: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/c26O1N3x6ug/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAddapK10bs0RTJsXrWX-AWXJ603w"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "CSS Full Course Tutorial for Beginners - Learn EVERYTHING You Need to Know in Detail 🔍",
+      "link": "https://www.youtube.com/watch?v=-G-zic_LS0A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-G-zic_LS0A",
+      "video_id": "-G-zic_LS0A",
+      "channel": {
+        "name": "Future Fullstack",
+        "link": "https://www.youtube.com/@futurefullstack",
+        "thumbnail": "https://yt3.ggpht.com/c7ZeILnHyfXX5qypjm9vPq4m1aU-C8ZayeAwNLLNFGZ_1WQ8x7xajaoNQgt_49l1PJ6SJPtExw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 510317,
+      "length": "11:37:46",
+      "description": "The Best Beginners CSS Full Course on YouTube - Detailed & Easy to Follow! Welcome to the Ultimate CSS Full Course - It's ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-G-zic_LS0A/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYxGROr4hkbjmkSSQZkT9DK_r-hQ"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "CSS Tutorial - Zero to Hero (Complete Course)",
+      "link": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1Rs2ND1ryYc",
+      "video_id": "1Rs2ND1ryYc",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 3498361,
+      "length": "6:18:38",
+      "description": "Learn CSS in this full course for beginners. CSS, or Cascading Style Sheet, is responsible for the styling and looks of a website.",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/1Rs2ND1ryYc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6fbPGb7kVQ1KUE5XLHyN1ZNiFfA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "CSS Crash Course Tutorial",
+      "link": "https://www.youtube.com/watch?v=r1xBCi5SOjw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r1xBCi5SOjw",
+      "video_id": "r1xBCi5SOjw",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 103072,
+      "length": "23:36",
+      "description": "In this video we will cover everything you need to know to get up and running with CSS in just over 20 minutes. We will cover CSS ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/r1xBCi5SOjw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLATGrAeb--OcCqe1cp8B4udh31_GQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "The Only CSS Course You Need to Master CSS | Learn By Building Apps",
+      "link": "https://www.youtube.com/watch?v=0hrJGWrCux0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0hrJGWrCux0",
+      "video_id": "0hrJGWrCux0",
+      "channel": {
+        "name": "EdRoh",
+        "link": "https://www.youtube.com/@EdRohDev",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nd-EfjPlAydd53XGkdnlX41jL7Uc0Drg816yRy9dIwFw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 162050,
+      "length": "3:22:37",
+      "description": "Use this limited-time deal to get an additional discount for all yearly plans with my code or link: https://www.hostinger.com/edroh ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0hrJGWrCux0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGyVqVApeR1T8LoosG_vm0bny-lQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Web Development with HTML & CSS – Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=dX8396ZmSPk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dX8396ZmSPk",
+      "video_id": "dX8396ZmSPk",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 660051,
+      "length": "19:42:13",
+      "description": "This course is an in-depth introduction to web development with HTML and CSS for complete beginners. We'll start with HTML ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/dX8396ZmSPk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDe66fNV-p1SkRKNlfZROPKbYCNzw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "CSS Crash Course For Absolute Beginners",
+      "link": "https://www.youtube.com/watch?v=yfoY53QXEnI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yfoY53QXEnI",
+      "video_id": "yfoY53QXEnI",
+      "channel": {
+        "name": "Traversy Media",
+        "link": "https://www.youtube.com/@TraversyMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 4787128,
+      "length": "1:25:11",
+      "description": "In this video I will cram as much as possible about CSS. We will be looking at styles, selectors, declarations, etc. We will build a ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/yfoY53QXEnI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCw7BQ3XJY_ToMFvpuDVPvnagmkxw"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Learn CSS Flexbox in 20 Minutes (Course)",
+      "link": "https://www.youtube.com/watch?v=wsTv9y931o8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wsTv9y931o8",
+      "video_id": "wsTv9y931o8",
+      "channel": {
+        "name": "Coding2GO",
+        "link": "https://www.youtube.com/@coding2go",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1224949,
+      "length": "20:37",
+      "description": "Learn how to create responsive websites with this CSS Flexbox Beginner Course. Display: flex; explained in 20 minutes by ...",
+      "extensions": [
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wsTv9y931o8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAl08DcjOWlDEFDqT7kNJ3Sp-sXmQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "CSS Full Course in Telugu | From Zero to Hero | Code With Swaroop",
+      "link": "https://www.youtube.com/watch?v=Oi9QvyK8zvk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Oi9QvyK8zvk",
+      "video_id": "Oi9QvyK8zvk",
+      "channel": {
+        "name": "Swaroop Talks",
+        "link": "https://www.youtube.com/@SwaroopVITB",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/vHwkfKXT76Yp_aqJ21wBMqX2094mWUbXgUK48vT4qvKkxnEy_OWkYuROwrBqKBmEd8RN2GkK=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 274495,
+      "length": "1:20:45",
+      "description": "JOIN & Turn on Notification to Not miss any JOB updates in WhatsApp Channel... 🔥 WhatsApp Channel lo join avvandi (Free ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Oi9QvyK8zvk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD6c_RtbdWBDLtGkmsQNMRNFUELvQ"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "CSS Tutorial for Beginners | Guide to Understand the CSS Box Model and Layout | in Tamil",
+      "link": "https://www.youtube.com/watch?v=vfs1wBDoqBY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vfs1wBDoqBY",
+      "video_id": "vfs1wBDoqBY",
+      "channel": {
+        "name": "Error Makes Clever",
+        "link": "https://www.youtube.com/@ErrorMakesClever",
+        "thumbnail": "https://yt3.ggpht.com/TRxQ1w3ovSWYSGEly2tQKIeMjdKp73U7F87w3jVfqH9n1LUXf8rdk7w-c4OJFMStP-BBYBlk8Qg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1561812,
+      "length": "1:42:10",
+      "description": "Join our Full Stack Web Development Program: https://errormakesclever.com/fullstack-course Mastering CSS Box Model and ...",
+      "extensions": [
+        "Beginner",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vfs1wBDoqBY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAtoDy1OELBGUZJ-uV61tHJr3lUMw"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "CSS for Beginners in Tamil | 4 Hours Full Course | Beginner to Advanced | code io - Tamil",
+      "link": "https://www.youtube.com/watch?v=l0BTo4VGVVs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l0BTo4VGVVs",
+      "video_id": "l0BTo4VGVVs",
+      "channel": {
+        "name": "code io - Tamil",
+        "link": "https://www.youtube.com/@codeio",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ln-7LqpODNaE7GJUtZWiH-1eJ4pL3hEUx_WUItYfGud2x48eoShT2yWRE1aL7TDHGuQr75ek=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 317041,
+      "length": "3:43:36",
+      "description": "Hi Squad ... Finally here is the CSS Full Course. I have covered all topics necessary to start using CSS to your HTML code.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/l0BTo4VGVVs/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAhOYevC2a525pY0lfkTIk1xmFzdg"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Web Development with HTML & CSS – Full Course for Beginners (2026)",
+      "link": "https://www.youtube.com/watch?v=lI3iZ5xMII8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lI3iZ5xMII8",
+      "video_id": "lI3iZ5xMII8",
+      "channel": {
+        "name": "Iman Musa",
+        "link": "https://www.youtube.com/@imanwmusa",
+        "thumbnail": "https://yt3.ggpht.com/3qz7J4v35MWY8z-B7v6tx2bRyFI8IpglQBuD4puxKKQkIInnZOMZF53wZdvSq4kTlcI1XuJggQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 34331,
+      "length": "3:00:08",
+      "description": "Learn how to work with me to get into your first coding job: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/lI3iZ5xMII8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6COvLKsQQnqA3huQADf8RCXsr0Q"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=CSS+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=CSS%20full%20course%20for%20beginners&sp=EgIYAkgUggELRzNlLWNwTDdvZmOCAQtPWEd6bnBLWl9zQYIBC3dSTmluRjdZUXFRggELajZuT25JVC1UMW-CAQthX2lRYjFsbkFFUYIBCzFQblZvcjM2XzQwggELSEdUSkJQTkMtR3eCAQtpZVRIQzc4Z2lHUYIBC2MyNk8xTjN4NnVnggELLUctemljX0xTMEGCAQsxUnMyTkQxcnlZY4IBC3IxeEJDaTVTT2p3ggELMGhySkdXckN1eDCCAQtkWDgzOTZabVNQa4IBC3lmb1k1M1FYRW5JggELd3NUdjl5OTMxbziCAQtPaTlRdnlLOHp2a4IBC3ZmczF3QkRvcUJZggELbDBCVG80VkdWVnOCAQtsSTNpWjV4TUlJOLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELRzNlLWNwTDdvZmOCAQtPWEd6bnBLWl9zQYIBC3dSTmluRjdZUXFRggELajZuT25JVC1UMW-CAQthX2lRYjFsbkFFUYIBCzFQblZvcjM2XzQwggELSEdUSkJQTkMtR3eCAQtpZVRIQzc4Z2lHUYIBC2MyNk8xTjN4NnVnggELLUctemljX0xTMEGCAQsxUnMyTkQxcnlZY4IBC3IxeEJDaTVTT2p3ggELMGhySkdXckN1eDCCAQtkWDgzOTZabVNQa4IBC3lmb1k1M1FYRW5JggELd3NUdjl5OTMxbziCAQtPaTlRdnlLOHp2a4IBC3ZmczF3QkRvcUJZggELbDBCVG80VkdWVnOCAQtsSTNpWjV4TUlJOLIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=CSS+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=CSS+full+course+for+beginners&sp=EgIYAkgUggELRzNlLWNwTDdvZmOCAQtPWEd6bnBLWl9zQYIBC3dSTmluRjdZUXFRggELajZuT25JVC1UMW-CAQthX2lRYjFsbkFFUYIBCzFQblZvcjM2XzQwggELSEdUSkJQTkMtR3eCAQtpZVRIQzc4Z2lHUYIBC2MyNk8xTjN4NnVnggELLUctemljX0xTMEGCAQsxUnMyTkQxcnlZY4IBC3IxeEJDaTVTT2p3ggELMGhySkdXckN1eDCCAQtkWDgzOTZabVNQa4IBC3lmb1k1M1FYRW5JggELd3NUdjl5OTMxbziCAQtPaTlRdnlLOHp2a4IBC3ZmczF3QkRvcUJZggELbDBCVG80VkdWVnOCAQtsSTNpWjV4TUlJOLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELRzNlLWNwTDdvZmOCAQtPWEd6bnBLWl9zQYIBC3dSTmluRjdZUXFRggELajZuT25JVC1UMW-CAQthX2lRYjFsbkFFUYIBCzFQblZvcjM2XzQwggELSEdUSkJQTkMtR3eCAQtpZVRIQzc4Z2lHUYIBC2MyNk8xTjN4NnVnggELLUctemljX0xTMEGCAQsxUnMyTkQxcnlZY4IBC3IxeEJDaTVTT2p3ggELMGhySkdXckN1eDCCAQtkWDgzOTZabVNQa4IBC3lmb1k1M1FYRW5JggELd3NUdjl5OTMxbziCAQtPaTlRdnlLOHp2a4IBC3ZmczF3QkRvcUJZggELbDBCVG80VkdWVnOCAQtsSTNpWjV4TUlJOLIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:19:05 UTC"
+}

@@ -1,0 +1,228 @@
+{
+  "search_metadata": {
+    "id": "6ac8ce03d58a7a12bd87bb31",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Yf-2PAcyKP8cyBBQMrOu909wKIh3bpltRd7HNaabdF4/6ac8ce03d58a7a12bd87bb31.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Yf-2PAcyKP8cyBBQMrOu909wKIh3bpltRd7HNaabdF4/6ac8ce03d58a7a12bd87bb31.md",
+    "created_at": "2026-10-09 11:20:35 UTC",
+    "processed_at": "2026-10-09 11:20:35 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Junior+Digital+Marketing+Executive&uule=w+CAIQICIfUHVuZSBEaXZpc2lvbixNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/Yf-2PAcyKP8cyBBQMrOu909wKIh3bpltRd7HNaabdF4/6ac8ce03d58a7a12bd87bb31.html",
+    "total_time_taken": 0.79
+  },
+  "search_parameters": {
+    "q": "Junior Digital Marketing Executive",
+    "engine": "google_jobs",
+    "location_requested": "Pune, India",
+    "location_used": "Pune Division,Maharashtra,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r21-Rdu7tO0gifSkViQvk4Jnas2ZAaiv0ks_7Mg5r3f_eehR1AAIyz6OH77L0QsOnNIH7NK-7W4XICtLvn8Le9T6jqgoo4qGa3Rju5MvawGsXXhu6WZk5mnWcXegkS2F6IECjfxvVcC9gp_A5UEpqFlucyYSfW0SyCKdZ_pax7mlE1-XG",
+        "q": "Junior Digital Marketing Executive remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r21-Rdu7tO0gifSkViQvk4Jnas2ZAaiv0ks_7Mg5r3f_eehR1AAIyz6OH77L0QsOnNIH7NK-7W4XICtLvn8Le9T6jqgoo4qGa3Rju5MvawGsXXhu6WZk5mnWcXegkS2F6IECjfxvVcC9gp_A5UEpqFlucyYSfW0SyCKdZ_pax7mlE1-XG&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r21-Rdu7tO0gifSkViQvk4Jnas2ZAaiv0ks_7Mg5r3f_eehR1AAIyz6OH77L0QsOnNIH7NK-7W4XICtLvn8Le9T6jqgoo4qGa3Rju5MvawGsXXhu6WZk5mnWcXegkS2F6IECjfxvVcC9gp_A5UEpqFlucyYSfW0SyCKdZ_pax7mlE1-XG"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjrniNLcFSFecEdfETPUaGtLsRUfJj-ioIUhTynHobXMhD-eH2mW3zdnd6N3gFvLqT3Vchuw6cDcE34IePJQsgKnhvnxLKfBNB84ceL2nTKP_yFgEMa2orVrqS3O4jLHeFmoyynxvKNevIPY9SXQ3zQBQC29a4_Rm5gQjFC1DpZ9CPZwD_DEVbjUTd7Dcw8k1S_cdItuIzMdJmwHe6zn4r33psiLaa6ThTOnyeulYOr6drTnVBN4Muapg8blgxy3VS8x1O8wAf6XQca2vgxDPQDTup7kJzNDJ7Ng4j1VK7NOcef9TKOsv6o03qiMX8BORyTrs7JQx58M2tn8LU6ruCl0vUyKkz1cSgga2XS79v8yZfHg6",
+            "q": "Junior Digital Marketing Executive since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjrniNLcFSFecEdfETPUaGtLsRUfJj-ioIUhTynHobXMhD-eH2mW3zdnd6N3gFvLqT3Vchuw6cDcE34IePJQsgKnhvnxLKfBNB84ceL2nTKP_yFgEMa2orVrqS3O4jLHeFmoyynxvKNevIPY9SXQ3zQBQC29a4_Rm5gQjFC1DpZ9CPZwD_DEVbjUTd7Dcw8k1S_cdItuIzMdJmwHe6zn4r33psiLaa6ThTOnyeulYOr6drTnVBN4Muapg8blgxy3VS8x1O8wAf6XQca2vgxDPQDTup7kJzNDJ7Ng4j1VK7NOcef9TKOsv6o03qiMX8BORyTrs7JQx58M2tn8LU6ruCl0vUyKkz1cSgga2XS79v8yZfHg6&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjrniNLcFSFecEdfETPUaGtLsRUfJj-ioIUhTynHobXMhD-eH2mW3zdnd6N3gFvLqT3Vchuw6cDcE34IePJQsgKnhvnxLKfBNB84ceL2nTKP_yFgEMa2orVrqS3O4jLHeFmoyynxvKNevIPY9SXQ3zQBQC29a4_Rm5gQjFC1DpZ9CPZwD_DEVbjUTd7Dcw8k1S_cdItuIzMdJmwHe6zn4r33psiLaa6ThTOnyeulYOr6drTnVBN4Muapg8blgxy3VS8x1O8wAf6XQca2vgxDPQDTup7kJzNDJ7Ng4j1VK7NOcef9TKOsv6o03qiMX8BORyTrs7JQx58M2tn8LU6ruCl0vUyKkz1cSgga2XS79v8yZfHg6"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5oqTO7cJUqyZMMovpNqAjW3ZBAQwuzuRFGrppdO33bDo9U5zcBK-77C6ZXqehLkXTj2HWUyAr45v9OLgcMmZyvPwEZNFRevUp43kCOtcinBlIOcvCWVe4BlsZvEHvcHNPHrt1-iTaeXHjhBKLRVmD2XGTd2uMx3WPFNiQSGFRa_nDatcZZtbccIDpEhgxAnzlIfJFzCvW26rLDuHqIsTcJExtyOSKstuwrm_bftch3m0rYYBhob0WTORseDaDU8T8YRNKr9lNzZoehBcDbxHSv1oBUlPvfxuKpztTsAGE3VM7a7bzQgLYtfmZTo8vo1XiSb5GNkVAtK7g9kgWoecFXSHOrsi",
+            "q": "Junior Digital Marketing Executive in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5oqTO7cJUqyZMMovpNqAjW3ZBAQwuzuRFGrppdO33bDo9U5zcBK-77C6ZXqehLkXTj2HWUyAr45v9OLgcMmZyvPwEZNFRevUp43kCOtcinBlIOcvCWVe4BlsZvEHvcHNPHrt1-iTaeXHjhBKLRVmD2XGTd2uMx3WPFNiQSGFRa_nDatcZZtbccIDpEhgxAnzlIfJFzCvW26rLDuHqIsTcJExtyOSKstuwrm_bftch3m0rYYBhob0WTORseDaDU8T8YRNKr9lNzZoehBcDbxHSv1oBUlPvfxuKpztTsAGE3VM7a7bzQgLYtfmZTo8vo1XiSb5GNkVAtK7g9kgWoecFXSHOrsi&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5oqTO7cJUqyZMMovpNqAjW3ZBAQwuzuRFGrppdO33bDo9U5zcBK-77C6ZXqehLkXTj2HWUyAr45v9OLgcMmZyvPwEZNFRevUp43kCOtcinBlIOcvCWVe4BlsZvEHvcHNPHrt1-iTaeXHjhBKLRVmD2XGTd2uMx3WPFNiQSGFRa_nDatcZZtbccIDpEhgxAnzlIfJFzCvW26rLDuHqIsTcJExtyOSKstuwrm_bftch3m0rYYBhob0WTORseDaDU8T8YRNKr9lNzZoehBcDbxHSv1oBUlPvfxuKpztTsAGE3VM7a7bzQgLYtfmZTo8vo1XiSb5GNkVAtK7g9kgWoecFXSHOrsi"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHq74fdKt4fOV5fUm9SBovpx1c1Ot6EWeziIg8voU9I2zuk-BCawmB_eMMDDNZma-gCGPIHmoXpO25o5xO5HqyB6ndlahgSkLknermeCD0PXP2tr1d35PBqFr4SgmaraL46x_BcfFO5lmGM5_W8bnC5qZyg8yNK1acAsZLwMfOl4AHv6085E02q0drGPkXyiXI2kThHb4USvAxR_QemxmwZJ_Tj9-H0ddiJliOIRGW3_jMavXi-85vEgX893XKQuuNaFeZejrgCX0jWV8fJCIu8C0y5B6sxFWEWWwE67CfpdQxcEmcIlT67hKG_XtprfewTiIJq9j3tydjr_gp6piKh4g2hKs4R7Sv-T7u4yCZUFJPGiA",
+            "q": "Junior Digital Marketing Executive in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHq74fdKt4fOV5fUm9SBovpx1c1Ot6EWeziIg8voU9I2zuk-BCawmB_eMMDDNZma-gCGPIHmoXpO25o5xO5HqyB6ndlahgSkLknermeCD0PXP2tr1d35PBqFr4SgmaraL46x_BcfFO5lmGM5_W8bnC5qZyg8yNK1acAsZLwMfOl4AHv6085E02q0drGPkXyiXI2kThHb4USvAxR_QemxmwZJ_Tj9-H0ddiJliOIRGW3_jMavXi-85vEgX893XKQuuNaFeZejrgCX0jWV8fJCIu8C0y5B6sxFWEWWwE67CfpdQxcEmcIlT67hKG_XtprfewTiIJq9j3tydjr_gp6piKh4g2hKs4R7Sv-T7u4yCZUFJPGiA&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHq74fdKt4fOV5fUm9SBovpx1c1Ot6EWeziIg8voU9I2zuk-BCawmB_eMMDDNZma-gCGPIHmoXpO25o5xO5HqyB6ndlahgSkLknermeCD0PXP2tr1d35PBqFr4SgmaraL46x_BcfFO5lmGM5_W8bnC5qZyg8yNK1acAsZLwMfOl4AHv6085E02q0drGPkXyiXI2kThHb4USvAxR_QemxmwZJ_Tj9-H0ddiJliOIRGW3_jMavXi-85vEgX893XKQuuNaFeZejrgCX0jWV8fJCIu8C0y5B6sxFWEWWwE67CfpdQxcEmcIlT67hKG_XtprfewTiIJq9j3tydjr_gp6piKh4g2hKs4R7Sv-T7u4yCZUFJPGiA"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQxmzcfQPK0DMvdaosK1zqSWPITbzyW-yHK0S2ARGlln3KIvyU4cFRgWrT63gKy_p59O335WB6p_WUz9W7-dq_Td1ChJCoO6p1yofRAIgD8run_H_IBQRqkcSV6lQB4XjtYTZE42-2BnZbskRejYo_x_SJrlIKvKO4wyuM60PrKMmAhT0sYkeUpP_SExfZaNB85K46dUIIRsQ4pAUvdrqYmfbq-kGkx8bRbvwh-vkwoiJtkXZsGVTdqmKy8x055FqC2-fPwemFYgjg0bFFdIGsy0xOSZWu00Nnt0w7P5YIkdG8C7i3llucBd1hh1k5z57R0t3mtsYkTJ9O9GObVxpOKwKyERRVbbCt56YBm9al3BcCh6r",
+            "q": "Junior Digital Marketing Executive in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQxmzcfQPK0DMvdaosK1zqSWPITbzyW-yHK0S2ARGlln3KIvyU4cFRgWrT63gKy_p59O335WB6p_WUz9W7-dq_Td1ChJCoO6p1yofRAIgD8run_H_IBQRqkcSV6lQB4XjtYTZE42-2BnZbskRejYo_x_SJrlIKvKO4wyuM60PrKMmAhT0sYkeUpP_SExfZaNB85K46dUIIRsQ4pAUvdrqYmfbq-kGkx8bRbvwh-vkwoiJtkXZsGVTdqmKy8x055FqC2-fPwemFYgjg0bFFdIGsy0xOSZWu00Nnt0w7P5YIkdG8C7i3llucBd1hh1k5z57R0t3mtsYkTJ9O9GObVxpOKwKyERRVbbCt56YBm9al3BcCh6r&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQxmzcfQPK0DMvdaosK1zqSWPITbzyW-yHK0S2ARGlln3KIvyU4cFRgWrT63gKy_p59O335WB6p_WUz9W7-dq_Td1ChJCoO6p1yofRAIgD8run_H_IBQRqkcSV6lQB4XjtYTZE42-2BnZbskRejYo_x_SJrlIKvKO4wyuM60PrKMmAhT0sYkeUpP_SExfZaNB85K46dUIIRsQ4pAUvdrqYmfbq-kGkx8bRbvwh-vkwoiJtkXZsGVTdqmKy8x055FqC2-fPwemFYgjg0bFFdIGsy0xOSZWu00Nnt0w7P5YIkdG8C7i3llucBd1hh1k5z57R0t3mtsYkTJ9O9GObVxpOKwKyERRVbbCt56YBm9al3BcCh6r"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjrniNLcFSFecEdfETPUaGtLsRUfJj-ioIUhTynHobXMhD-eH2mW3zdnd6N3gFvLqT3Vchuw6cDcE34IePJQsgKnhvnxLKfBNB84ceL2nTKP_yFgEMa2orVrqS3O4jLHeFmoyynxvKNevIPY9SXQ3zQBQC29a4_Rm5gQjFC1DpZ9CPZwD_DEVbjUTd7Dcw8k1S_cdItuIzMdJmwHe6zn4r33psiLaa6ThTOnyeulYOr6drTnVBN4Muapg8blgxy3VS8x1O8wAf6XQca2vgxDPQDTup7kJzNDJ7Ng4j1VK7NOcef9TKOsv6o03qiMX8BORyTrs7JQx58M2tn8LU6ruCl0vUyKkz1cSgga2XS79v8yZfHg6",
+            "q": "Junior Digital Marketing Executive since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjrniNLcFSFecEdfETPUaGtLsRUfJj-ioIUhTynHobXMhD-eH2mW3zdnd6N3gFvLqT3Vchuw6cDcE34IePJQsgKnhvnxLKfBNB84ceL2nTKP_yFgEMa2orVrqS3O4jLHeFmoyynxvKNevIPY9SXQ3zQBQC29a4_Rm5gQjFC1DpZ9CPZwD_DEVbjUTd7Dcw8k1S_cdItuIzMdJmwHe6zn4r33psiLaa6ThTOnyeulYOr6drTnVBN4Muapg8blgxy3VS8x1O8wAf6XQca2vgxDPQDTup7kJzNDJ7Ng4j1VK7NOcef9TKOsv6o03qiMX8BORyTrs7JQx58M2tn8LU6ruCl0vUyKkz1cSgga2XS79v8yZfHg6&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjrniNLcFSFecEdfETPUaGtLsRUfJj-ioIUhTynHobXMhD-eH2mW3zdnd6N3gFvLqT3Vchuw6cDcE34IePJQsgKnhvnxLKfBNB84ceL2nTKP_yFgEMa2orVrqS3O4jLHeFmoyynxvKNevIPY9SXQ3zQBQC29a4_Rm5gQjFC1DpZ9CPZwD_DEVbjUTd7Dcw8k1S_cdItuIzMdJmwHe6zn4r33psiLaa6ThTOnyeulYOr6drTnVBN4Muapg8blgxy3VS8x1O8wAf6XQca2vgxDPQDTup7kJzNDJ7Ng4j1VK7NOcef9TKOsv6o03qiMX8BORyTrs7JQx58M2tn8LU6ruCl0vUyKkz1cSgga2XS79v8yZfHg6"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5oqTO7cJUqyZMMovpNqAjW3ZBAQwuzuRFGrppdO33bDo9U5zcBK-77C6ZXqehLkXTj2HWUyAr45v9OLgcMmZyvPwEZNFRevUp43kCOtcinBlIOcvCWVe4BlsZvEHvcHNPHrt1-iTaeXHjhBKLRVmD2XGTd2uMx3WPFNiQSGFRa_nDatcZZtbccIDpEhgxAnzlIfJFzCvW26rLDuHqIsTcJExtyOSKstuwrm_bftch3m0rYYBhob0WTORseDaDU8T8YRNKr9lNzZoehBcDbxHSv1oBUlPvfxuKpztTsAGE3VM7a7bzQgLYtfmZTo8vo1XiSb5GNkVAtK7g9kgWoecFXSHOrsi",
+            "q": "Junior Digital Marketing Executive in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5oqTO7cJUqyZMMovpNqAjW3ZBAQwuzuRFGrppdO33bDo9U5zcBK-77C6ZXqehLkXTj2HWUyAr45v9OLgcMmZyvPwEZNFRevUp43kCOtcinBlIOcvCWVe4BlsZvEHvcHNPHrt1-iTaeXHjhBKLRVmD2XGTd2uMx3WPFNiQSGFRa_nDatcZZtbccIDpEhgxAnzlIfJFzCvW26rLDuHqIsTcJExtyOSKstuwrm_bftch3m0rYYBhob0WTORseDaDU8T8YRNKr9lNzZoehBcDbxHSv1oBUlPvfxuKpztTsAGE3VM7a7bzQgLYtfmZTo8vo1XiSb5GNkVAtK7g9kgWoecFXSHOrsi&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5oqTO7cJUqyZMMovpNqAjW3ZBAQwuzuRFGrppdO33bDo9U5zcBK-77C6ZXqehLkXTj2HWUyAr45v9OLgcMmZyvPwEZNFRevUp43kCOtcinBlIOcvCWVe4BlsZvEHvcHNPHrt1-iTaeXHjhBKLRVmD2XGTd2uMx3WPFNiQSGFRa_nDatcZZtbccIDpEhgxAnzlIfJFzCvW26rLDuHqIsTcJExtyOSKstuwrm_bftch3m0rYYBhob0WTORseDaDU8T8YRNKr9lNzZoehBcDbxHSv1oBUlPvfxuKpztTsAGE3VM7a7bzQgLYtfmZTo8vo1XiSb5GNkVAtK7g9kgWoecFXSHOrsi"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHq74fdKt4fOV5fUm9SBovpx1c1Ot6EWeziIg8voU9I2zuk-BCawmB_eMMDDNZma-gCGPIHmoXpO25o5xO5HqyB6ndlahgSkLknermeCD0PXP2tr1d35PBqFr4SgmaraL46x_BcfFO5lmGM5_W8bnC5qZyg8yNK1acAsZLwMfOl4AHv6085E02q0drGPkXyiXI2kThHb4USvAxR_QemxmwZJ_Tj9-H0ddiJliOIRGW3_jMavXi-85vEgX893XKQuuNaFeZejrgCX0jWV8fJCIu8C0y5B6sxFWEWWwE67CfpdQxcEmcIlT67hKG_XtprfewTiIJq9j3tydjr_gp6piKh4g2hKs4R7Sv-T7u4yCZUFJPGiA",
+            "q": "Junior Digital Marketing Executive in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHq74fdKt4fOV5fUm9SBovpx1c1Ot6EWeziIg8voU9I2zuk-BCawmB_eMMDDNZma-gCGPIHmoXpO25o5xO5HqyB6ndlahgSkLknermeCD0PXP2tr1d35PBqFr4SgmaraL46x_BcfFO5lmGM5_W8bnC5qZyg8yNK1acAsZLwMfOl4AHv6085E02q0drGPkXyiXI2kThHb4USvAxR_QemxmwZJ_Tj9-H0ddiJliOIRGW3_jMavXi-85vEgX893XKQuuNaFeZejrgCX0jWV8fJCIu8C0y5B6sxFWEWWwE67CfpdQxcEmcIlT67hKG_XtprfewTiIJq9j3tydjr_gp6piKh4g2hKs4R7Sv-T7u4yCZUFJPGiA&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHq74fdKt4fOV5fUm9SBovpx1c1Ot6EWeziIg8voU9I2zuk-BCawmB_eMMDDNZma-gCGPIHmoXpO25o5xO5HqyB6ndlahgSkLknermeCD0PXP2tr1d35PBqFr4SgmaraL46x_BcfFO5lmGM5_W8bnC5qZyg8yNK1acAsZLwMfOl4AHv6085E02q0drGPkXyiXI2kThHb4USvAxR_QemxmwZJ_Tj9-H0ddiJliOIRGW3_jMavXi-85vEgX893XKQuuNaFeZejrgCX0jWV8fJCIu8C0y5B6sxFWEWWwE67CfpdQxcEmcIlT67hKG_XtprfewTiIJq9j3tydjr_gp6piKh4g2hKs4R7Sv-T7u4yCZUFJPGiA"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQxmzcfQPK0DMvdaosK1zqSWPITbzyW-yHK0S2ARGlln3KIvyU4cFRgWrT63gKy_p59O335WB6p_WUz9W7-dq_Td1ChJCoO6p1yofRAIgD8run_H_IBQRqkcSV6lQB4XjtYTZE42-2BnZbskRejYo_x_SJrlIKvKO4wyuM60PrKMmAhT0sYkeUpP_SExfZaNB85K46dUIIRsQ4pAUvdrqYmfbq-kGkx8bRbvwh-vkwoiJtkXZsGVTdqmKy8x055FqC2-fPwemFYgjg0bFFdIGsy0xOSZWu00Nnt0w7P5YIkdG8C7i3llucBd1hh1k5z57R0t3mtsYkTJ9O9GObVxpOKwKyERRVbbCt56YBm9al3BcCh6r",
+            "q": "Junior Digital Marketing Executive in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQxmzcfQPK0DMvdaosK1zqSWPITbzyW-yHK0S2ARGlln3KIvyU4cFRgWrT63gKy_p59O335WB6p_WUz9W7-dq_Td1ChJCoO6p1yofRAIgD8run_H_IBQRqkcSV6lQB4XjtYTZE42-2BnZbskRejYo_x_SJrlIKvKO4wyuM60PrKMmAhT0sYkeUpP_SExfZaNB85K46dUIIRsQ4pAUvdrqYmfbq-kGkx8bRbvwh-vkwoiJtkXZsGVTdqmKy8x055FqC2-fPwemFYgjg0bFFdIGsy0xOSZWu00Nnt0w7P5YIkdG8C7i3llucBd1hh1k5z57R0t3mtsYkTJ9O9GObVxpOKwKyERRVbbCt56YBm9al3BcCh6r&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQxmzcfQPK0DMvdaosK1zqSWPITbzyW-yHK0S2ARGlln3KIvyU4cFRgWrT63gKy_p59O335WB6p_WUz9W7-dq_Td1ChJCoO6p1yofRAIgD8run_H_IBQRqkcSV6lQB4XjtYTZE42-2BnZbskRejYo_x_SJrlIKvKO4wyuM60PrKMmAhT0sYkeUpP_SExfZaNB85K46dUIIRsQ4pAUvdrqYmfbq-kGkx8bRbvwh-vkwoiJtkXZsGVTdqmKy8x055FqC2-fPwemFYgjg0bFFdIGsy0xOSZWu00Nnt0w7P5YIkdG8C7i3llucBd1hh1k5z57R0t3mtsYkTJ9O9GObVxpOKwKyERRVbbCt56YBm9al3BcCh6r"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoPBm3ID3lQJkrq2W7DzPVbjgMNofmleFlx70OxViMp6wC8Td3pTFYaLY-NRN1cZd6-LVDvx6qiFvPkU6Sc_6sJHg4gR6dQRmLaPhXmTyoHKMtZXqy-r-_GD3y5n8A86vREvko3DICYAiReoOnhxCrARsp8hNvV5N2WuR1SOtaACT0bGiFEo4lQAJpDTc2GAjq5ZjbBhYFLMkWKVGcIqZGMlr2jq_4CvQ_mb7LPHbtVWyHb2xT-dlcwmxi0kBDAAlPiCOcaCVjaqGsEhy9SavyNuUmqkgjLj5DXGcHCbLnmEaejeb9ibVSLvsgfn_UXOrIkVIhlE",
+            "q": "Junior Digital Marketing Executive full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoPBm3ID3lQJkrq2W7DzPVbjgMNofmleFlx70OxViMp6wC8Td3pTFYaLY-NRN1cZd6-LVDvx6qiFvPkU6Sc_6sJHg4gR6dQRmLaPhXmTyoHKMtZXqy-r-_GD3y5n8A86vREvko3DICYAiReoOnhxCrARsp8hNvV5N2WuR1SOtaACT0bGiFEo4lQAJpDTc2GAjq5ZjbBhYFLMkWKVGcIqZGMlr2jq_4CvQ_mb7LPHbtVWyHb2xT-dlcwmxi0kBDAAlPiCOcaCVjaqGsEhy9SavyNuUmqkgjLj5DXGcHCbLnmEaejeb9ibVSLvsgfn_UXOrIkVIhlE&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoPBm3ID3lQJkrq2W7DzPVbjgMNofmleFlx70OxViMp6wC8Td3pTFYaLY-NRN1cZd6-LVDvx6qiFvPkU6Sc_6sJHg4gR6dQRmLaPhXmTyoHKMtZXqy-r-_GD3y5n8A86vREvko3DICYAiReoOnhxCrARsp8hNvV5N2WuR1SOtaACT0bGiFEo4lQAJpDTc2GAjq5ZjbBhYFLMkWKVGcIqZGMlr2jq_4CvQ_mb7LPHbtVWyHb2xT-dlcwmxi0kBDAAlPiCOcaCVjaqGsEhy9SavyNuUmqkgjLj5DXGcHCbLnmEaejeb9ibVSLvsgfn_UXOrIkVIhlE"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoPBm3ID3lQJkrq2W7DzPVbjgMNofmleFlx70OxViMp6wQIFY7UtlDmGRIcylIpZLwLYW_SIPPO7psuiIDkhXwpm9Q5G64di-Ryaysfh0gyyxHT0JVmzaG-N84SRafNFS1bx72sA0Ddh7Kai4EAGdH5eHqTLbE7teEy0I39Db6ip3FDEZ673UIHjBNWNBHl6d3AK5vd29QoKic6lRI3u8caAa4AYvtNenpsf8RRy3tdty5grch5rtVteNtTsKRFyWAipB8alTvjK8T4vqB3icCcoRVY9jLAgrVsjNY9h-AmvztFmpcXOH9CANbATE81Hs8ltEJ_E",
+            "q": "Junior Digital Marketing Executive part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoPBm3ID3lQJkrq2W7DzPVbjgMNofmleFlx70OxViMp6wQIFY7UtlDmGRIcylIpZLwLYW_SIPPO7psuiIDkhXwpm9Q5G64di-Ryaysfh0gyyxHT0JVmzaG-N84SRafNFS1bx72sA0Ddh7Kai4EAGdH5eHqTLbE7teEy0I39Db6ip3FDEZ673UIHjBNWNBHl6d3AK5vd29QoKic6lRI3u8caAa4AYvtNenpsf8RRy3tdty5grch5rtVteNtTsKRFyWAipB8alTvjK8T4vqB3icCcoRVY9jLAgrVsjNY9h-AmvztFmpcXOH9CANbATE81Hs8ltEJ_E&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoPBm3ID3lQJkrq2W7DzPVbjgMNofmleFlx70OxViMp6wQIFY7UtlDmGRIcylIpZLwLYW_SIPPO7psuiIDkhXwpm9Q5G64di-Ryaysfh0gyyxHT0JVmzaG-N84SRafNFS1bx72sA0Ddh7Kai4EAGdH5eHqTLbE7teEy0I39Db6ip3FDEZ673UIHjBNWNBHl6d3AK5vd29QoKic6lRI3u8caAa4AYvtNenpsf8RRy3tdty5grch5rtVteNtTsKRFyWAipB8alTvjK8T4vqB3icCcoRVY9jLAgrVsjNY9h-AmvztFmpcXOH9CANbATE81Hs8ltEJ_E"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BViwWSzTbAbM7Fu0lI2shtyWqzIP4cde-cSzBM8XdzV0yH9t0mO0wkVKEnbjuKhBi2U5zw0V9R94Zz04le_R4YQPbkFe8WMmjOhrn8gc_Phbur6jis30kIfZoMIXb5COQ3i4YdNvq_HuI-nkeOgDQ83Iun3hmYXrUS6q386vWfWlCQpv_f5KQJiz5KYpjx2Du65tAhErda3zAXpBxdYloIMOs9XhOlYUMuBnvJitE2Y5F7XpbJSIbL6G4VfZDw019Gu8a5BqbpcpyPZQ3hV8nhYCyKcidvgq68rT25GILYuC5YqMNRPTxLBQqyYFTueI42D3iDg",
+            "q": "Junior Digital Marketing Executive contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BViwWSzTbAbM7Fu0lI2shtyWqzIP4cde-cSzBM8XdzV0yH9t0mO0wkVKEnbjuKhBi2U5zw0V9R94Zz04le_R4YQPbkFe8WMmjOhrn8gc_Phbur6jis30kIfZoMIXb5COQ3i4YdNvq_HuI-nkeOgDQ83Iun3hmYXrUS6q386vWfWlCQpv_f5KQJiz5KYpjx2Du65tAhErda3zAXpBxdYloIMOs9XhOlYUMuBnvJitE2Y5F7XpbJSIbL6G4VfZDw019Gu8a5BqbpcpyPZQ3hV8nhYCyKcidvgq68rT25GILYuC5YqMNRPTxLBQqyYFTueI42D3iDg&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BViwWSzTbAbM7Fu0lI2shtyWqzIP4cde-cSzBM8XdzV0yH9t0mO0wkVKEnbjuKhBi2U5zw0V9R94Zz04le_R4YQPbkFe8WMmjOhrn8gc_Phbur6jis30kIfZoMIXb5COQ3i4YdNvq_HuI-nkeOgDQ83Iun3hmYXrUS6q386vWfWlCQpv_f5KQJiz5KYpjx2Du65tAhErda3zAXpBxdYloIMOs9XhOlYUMuBnvJitE2Y5F7XpbJSIbL6G4VfZDw019Gu8a5BqbpcpyPZQ3hV8nhYCyKcidvgq68rT25GILYuC5YqMNRPTxLBQqyYFTueI42D3iDg"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQu40Xwa70lgHW97jooLY3L_tindE5TW7vya00JbuUN1BC3ldo1SGQbd9tFFb4T-w8jUTjDZxQEa0xbv8OkAom3DVRbxqcNM77gTTjc9ruPUJ8XUik1EQDoZLLHANRZcGFOeZy5AfcTAgKrK_Ubf7BaGePcGz4lMxf9zy-EKRL7Z6DLIeHwcD1tDad1FksSLmfoFxVoOi-NeMDyqTj8o2MbsN6-CNiq24UY3yBBgOtlOtMYLT8ZiEL8_SY-cgvwk31UuEEi1UkHbFSx-5rteEL15RUcplkQL8ATF_fvHyZ1_IygwRSeNRVgCTzf0yPKQATHUPsX6huoYkxrO-7Uuu61cDQGs",
+            "q": "Junior Digital Marketing Executive internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQu40Xwa70lgHW97jooLY3L_tindE5TW7vya00JbuUN1BC3ldo1SGQbd9tFFb4T-w8jUTjDZxQEa0xbv8OkAom3DVRbxqcNM77gTTjc9ruPUJ8XUik1EQDoZLLHANRZcGFOeZy5AfcTAgKrK_Ubf7BaGePcGz4lMxf9zy-EKRL7Z6DLIeHwcD1tDad1FksSLmfoFxVoOi-NeMDyqTj8o2MbsN6-CNiq24UY3yBBgOtlOtMYLT8ZiEL8_SY-cgvwk31UuEEi1UkHbFSx-5rteEL15RUcplkQL8ATF_fvHyZ1_IygwRSeNRVgCTzf0yPKQATHUPsX6huoYkxrO-7Uuu61cDQGs&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQu40Xwa70lgHW97jooLY3L_tindE5TW7vya00JbuUN1BC3ldo1SGQbd9tFFb4T-w8jUTjDZxQEa0xbv8OkAom3DVRbxqcNM77gTTjc9ruPUJ8XUik1EQDoZLLHANRZcGFOeZy5AfcTAgKrK_Ubf7BaGePcGz4lMxf9zy-EKRL7Z6DLIeHwcD1tDad1FksSLmfoFxVoOi-NeMDyqTj8o2MbsN6-CNiq24UY3yBBgOtlOtMYLT8ZiEL8_SY-cgvwk31UuEEi1UkHbFSx-5rteEL15RUcplkQL8ATF_fvHyZ1_IygwRSeNRVgCTzf0yPKQATHUPsX6huoYkxrO-7Uuu61cDQGs"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoPBm3ID3lQJkrq2W7DzPVbjgMNofmleFlx70OxViMp6wC8Td3pTFYaLY-NRN1cZd6-LVDvx6qiFvPkU6Sc_6sJHg4gR6dQRmLaPhXmTyoHKMtZXqy-r-_GD3y5n8A86vREvko3DICYAiReoOnhxCrARsp8hNvV5N2WuR1SOtaACT0bGiFEo4lQAJpDTc2GAjq5ZjbBhYFLMkWKVGcIqZGMlr2jq_4CvQ_mb7LPHbtVWyHb2xT-dlcwmxi0kBDAAlPiCOcaCVjaqGsEhy9SavyNuUmqkgjLj5DXGcHCbLnmEaejeb9ibVSLvsgfn_UXOrIkVIhlE",
+            "q": "Junior Digital Marketing Executive full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoPBm3ID3lQJkrq2W7DzPVbjgMNofmleFlx70OxViMp6wC8Td3pTFYaLY-NRN1cZd6-LVDvx6qiFvPkU6Sc_6sJHg4gR6dQRmLaPhXmTyoHKMtZXqy-r-_GD3y5n8A86vREvko3DICYAiReoOnhxCrARsp8hNvV5N2WuR1SOtaACT0bGiFEo4lQAJpDTc2GAjq5ZjbBhYFLMkWKVGcIqZGMlr2jq_4CvQ_mb7LPHbtVWyHb2xT-dlcwmxi0kBDAAlPiCOcaCVjaqGsEhy9SavyNuUmqkgjLj5DXGcHCbLnmEaejeb9ibVSLvsgfn_UXOrIkVIhlE&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoPBm3ID3lQJkrq2W7DzPVbjgMNofmleFlx70OxViMp6wC8Td3pTFYaLY-NRN1cZd6-LVDvx6qiFvPkU6Sc_6sJHg4gR6dQRmLaPhXmTyoHKMtZXqy-r-_GD3y5n8A86vREvko3DICYAiReoOnhxCrARsp8hNvV5N2WuR1SOtaACT0bGiFEo4lQAJpDTc2GAjq5ZjbBhYFLMkWKVGcIqZGMlr2jq_4CvQ_mb7LPHbtVWyHb2xT-dlcwmxi0kBDAAlPiCOcaCVjaqGsEhy9SavyNuUmqkgjLj5DXGcHCbLnmEaejeb9ibVSLvsgfn_UXOrIkVIhlE"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoPBm3ID3lQJkrq2W7DzPVbjgMNofmleFlx70OxViMp6wQIFY7UtlDmGRIcylIpZLwLYW_SIPPO7psuiIDkhXwpm9Q5G64di-Ryaysfh0gyyxHT0JVmzaG-N84SRafNFS1bx72sA0Ddh7Kai4EAGdH5eHqTLbE7teEy0I39Db6ip3FDEZ673UIHjBNWNBHl6d3AK5vd29QoKic6lRI3u8caAa4AYvtNenpsf8RRy3tdty5grch5rtVteNtTsKRFyWAipB8alTvjK8T4vqB3icCcoRVY9jLAgrVsjNY9h-AmvztFmpcXOH9CANbATE81Hs8ltEJ_E",
+            "q": "Junior Digital Marketing Executive part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoPBm3ID3lQJkrq2W7DzPVbjgMNofmleFlx70OxViMp6wQIFY7UtlDmGRIcylIpZLwLYW_SIPPO7psuiIDkhXwpm9Q5G64di-Ryaysfh0gyyxHT0JVmzaG-N84SRafNFS1bx72sA0Ddh7Kai4EAGdH5eHqTLbE7teEy0I39Db6ip3FDEZ673UIHjBNWNBHl6d3AK5vd29QoKic6lRI3u8caAa4AYvtNenpsf8RRy3tdty5grch5rtVteNtTsKRFyWAipB8alTvjK8T4vqB3icCcoRVY9jLAgrVsjNY9h-AmvztFmpcXOH9CANbATE81Hs8ltEJ_E&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoPBm3ID3lQJkrq2W7DzPVbjgMNofmleFlx70OxViMp6wQIFY7UtlDmGRIcylIpZLwLYW_SIPPO7psuiIDkhXwpm9Q5G64di-Ryaysfh0gyyxHT0JVmzaG-N84SRafNFS1bx72sA0Ddh7Kai4EAGdH5eHqTLbE7teEy0I39Db6ip3FDEZ673UIHjBNWNBHl6d3AK5vd29QoKic6lRI3u8caAa4AYvtNenpsf8RRy3tdty5grch5rtVteNtTsKRFyWAipB8alTvjK8T4vqB3icCcoRVY9jLAgrVsjNY9h-AmvztFmpcXOH9CANbATE81Hs8ltEJ_E"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BViwWSzTbAbM7Fu0lI2shtyWqzIP4cde-cSzBM8XdzV0yH9t0mO0wkVKEnbjuKhBi2U5zw0V9R94Zz04le_R4YQPbkFe8WMmjOhrn8gc_Phbur6jis30kIfZoMIXb5COQ3i4YdNvq_HuI-nkeOgDQ83Iun3hmYXrUS6q386vWfWlCQpv_f5KQJiz5KYpjx2Du65tAhErda3zAXpBxdYloIMOs9XhOlYUMuBnvJitE2Y5F7XpbJSIbL6G4VfZDw019Gu8a5BqbpcpyPZQ3hV8nhYCyKcidvgq68rT25GILYuC5YqMNRPTxLBQqyYFTueI42D3iDg",
+            "q": "Junior Digital Marketing Executive contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BViwWSzTbAbM7Fu0lI2shtyWqzIP4cde-cSzBM8XdzV0yH9t0mO0wkVKEnbjuKhBi2U5zw0V9R94Zz04le_R4YQPbkFe8WMmjOhrn8gc_Phbur6jis30kIfZoMIXb5COQ3i4YdNvq_HuI-nkeOgDQ83Iun3hmYXrUS6q386vWfWlCQpv_f5KQJiz5KYpjx2Du65tAhErda3zAXpBxdYloIMOs9XhOlYUMuBnvJitE2Y5F7XpbJSIbL6G4VfZDw019Gu8a5BqbpcpyPZQ3hV8nhYCyKcidvgq68rT25GILYuC5YqMNRPTxLBQqyYFTueI42D3iDg&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BViwWSzTbAbM7Fu0lI2shtyWqzIP4cde-cSzBM8XdzV0yH9t0mO0wkVKEnbjuKhBi2U5zw0V9R94Zz04le_R4YQPbkFe8WMmjOhrn8gc_Phbur6jis30kIfZoMIXb5COQ3i4YdNvq_HuI-nkeOgDQ83Iun3hmYXrUS6q386vWfWlCQpv_f5KQJiz5KYpjx2Du65tAhErda3zAXpBxdYloIMOs9XhOlYUMuBnvJitE2Y5F7XpbJSIbL6G4VfZDw019Gu8a5BqbpcpyPZQ3hV8nhYCyKcidvgq68rT25GILYuC5YqMNRPTxLBQqyYFTueI42D3iDg"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQu40Xwa70lgHW97jooLY3L_tindE5TW7vya00JbuUN1BC3ldo1SGQbd9tFFb4T-w8jUTjDZxQEa0xbv8OkAom3DVRbxqcNM77gTTjc9ruPUJ8XUik1EQDoZLLHANRZcGFOeZy5AfcTAgKrK_Ubf7BaGePcGz4lMxf9zy-EKRL7Z6DLIeHwcD1tDad1FksSLmfoFxVoOi-NeMDyqTj8o2MbsN6-CNiq24UY3yBBgOtlOtMYLT8ZiEL8_SY-cgvwk31UuEEi1UkHbFSx-5rteEL15RUcplkQL8ATF_fvHyZ1_IygwRSeNRVgCTzf0yPKQATHUPsX6huoYkxrO-7Uuu61cDQGs",
+            "q": "Junior Digital Marketing Executive internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu6Bc7_d0oC3dsBNwdiH9dZyCUn_g:1791544836180&q=Junior+Digital+Marketing+Executive+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQu40Xwa70lgHW97jooLY3L_tindE5TW7vya00JbuUN1BC3ldo1SGQbd9tFFb4T-w8jUTjDZxQEa0xbv8OkAom3DVRbxqcNM77gTTjc9ruPUJ8XUik1EQDoZLLHANRZcGFOeZy5AfcTAgKrK_Ubf7BaGePcGz4lMxf9zy-EKRL7Z6DLIeHwcD1tDad1FksSLmfoFxVoOi-NeMDyqTj8o2MbsN6-CNiq24UY3yBBgOtlOtMYLT8ZiEL8_SY-cgvwk31UuEEi1UkHbFSx-5rteEL15RUcplkQL8ATF_fvHyZ1_IygwRSeNRVgCTzf0yPKQATHUPsX6huoYkxrO-7Uuu61cDQGs&udm=8&sa=X&ved=2ahUKEwjQ3rzM6KyXAxUnTTABHW9fEkYQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Junior+Digital+Marketing+Executive+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQu40Xwa70lgHW97jooLY3L_tindE5TW7vya00JbuUN1BC3ldo1SGQbd9tFFb4T-w8jUTjDZxQEa0xbv8OkAom3DVRbxqcNM77gTTjc9ruPUJ8XUik1EQDoZLLHANRZcGFOeZy5AfcTAgKrK_Ubf7BaGePcGz4lMxf9zy-EKRL7Z6DLIeHwcD1tDad1FksSLmfoFxVoOi-NeMDyqTj8o2MbsN6-CNiq24UY3yBBgOtlOtMYLT8ZiEL8_SY-cgvwk31UuEEi1UkHbFSx-5rteEL15RUcplkQL8ATF_fvHyZ1_IygwRSeNRVgCTzf0yPKQATHUPsX6huoYkxrO-7Uuu61cDQGs"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Online Marketer",
+      "company_name": "Crypto Mize",
+      "location": "Dive, Maharashtra",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Digital+Marketing+Executive&htidocid=6SWZlz8x0ldJ39USAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQoCMRAAsb0nWG0pIokINloqWB0-4dgLSxKN2ZBd5LSytfaHvsTYTDXDdO9ZtzjnFDNBj_VKShW-rw9ceAQhrC4AZzgx-0TzfVAtsrNWJBkvihqdcXyznGnkybZI_hgkYKWSUGnYbNeTKdkv4VAfRRn6-CSIGY7xTqs2bSpK0Io_RHBKAIwAAAA&shmds=v1_ARwrE23ftdPLys8ptyg62xzIsS79-QKl1izJD6AgAGPClPmB2w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Digital+Marketing+Executive&htidocid=6SWZlz8x0ldJ39USAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/GlZP9jHqfA7q0spr20S8ZYVjNtLXbnwQHJTTPQSWW97neGPoTM3lrw",
+      "job_title": "Online Marketer",
+      "description": "Online Marketer jobs in Delhi at CryptoMize are open on a rolling, always-hiring basis — we staff channel capacity ahead of the next campaign surge, not after the brief lands. This is a full-time, permanent Online Marketer position with immediate joining, based at our New Delhi HQ, sitting inside the marketing cell that runs paid acquisition, content distribution, and channel-test cycles for sovereign, political, and enterprise clients across 18 countries. Below is the complete Online Marketer job description: the responsibilities you will own from day one, the requirements, the seniority path, and the selection process. Marketers who want their budget to mean something — campaigns that moved real engagement, channels that fed real client decisions — should read to the end.\n\n\n\n LOCATION New Delhi (HQ)\n EMPLOYMENT Full-time · Permanent\n AVAILABILITY Immediate · Rolling intake\n COMPENSATION Discussed at screening\nTRACKS ON THIS DESK33\nCRAFT SKILLS NAMED11\nTOOLS & SYSTEMS5\nPATH STAGES4\n\n01\n01The actual work\n\n\nWhat will you actually do as a Online Marketer at CryptoMize?\n01\nOwn paid acquisition across Meta, Google, LinkedIn, and programmatic channels for live engagement campaigns — full budget authority at the small-to-mid five-figure monthly range\n\n\n02\nSet and enforce channel-discipline standards — naming conventions, UTM discipline, attribution models — that every cell consumes\n\n\n03\nDesign the channel-mix architecture for new engagements alongside the engagement strategist — channel selection, audience seeding, budget allocation\n\n\n04\nLead the A/B test program across channel, creative, and audience variables; sign off on test reads before they reach the client\n\n\n05\nThe online marketer review cycle examines multiplier output for Online Marketer seats — in every review packet\n\n\n06\nSit in client briefings as the channel authority — when a client asks \"where is the spend going, and what is it doing,\" you answer, with the dashboard, the lift, and the next plan\n\n\n07\nWork at the channel center of an operation whose campaigns run on real engagement budgets for sovereign clients: every rupee you spend, every conversion you attribute, becomes part of why engagements grow\n\n\nROLE RESPONSIBILITIES\n\n\nAs an Online Marketer at CryptoMize you will own paid acquisition and content distribution for live engagement campaigns — running the channel mix, the A/B test program, and the weekly reporting rhythm that strategists and clients both consume. The role applies disciplined attribution architecture before any spend reaches a channel, because unattributed spend is the fastest way to lose a client.\n\n\nQuality assurance is a standing duty rather than an occasional task: most agencies discover channel problems when the budget is already gone, but here marketers intercept them upstream — in the UTM discipline, the audience seed review, the pacing dashboard. You will maintain the reporting rhythm that lets any channel decision be reconstructed and explained, on demand, in front of a client.\n\n\nMarketers here also carry institutional responsibility for the intern program: supervising scoped channel projects, reviewing their reports, and feeding intern conversion decisions. The marketers who teach well are the ones we promote first, because the cell grows only as fast as its teaching culture.\n\n\n02\n02Capability profile\n\n\nWhat skills and tools does a Online Marketer need?\nCraft skills11\n\n Tools & systems5\n\n Offer standards4\n\n\nAdvanced paid acquisition — Meta, Google, LinkedIn, programmatic at scaleAttribution architecture — multi-touch models, MMM fundamentals, incrementality test designEmail and lifecycle marketing — sophisticated flows, deliverability disciplineAnalytics engineering — GA4, Mixpanel, BigQuery SQL for cohort and funnel readsCopy direction — headlines, hooks, body, CTAs across formats and audiencesAudience research and segmentation — first-party and lookalike strategyA/B test discipline — hypothesis, power, statistical read-out, next-cycle planningBudget architecture — pacing, daily caps, bid strategy, ROAS/CAC targets at scaleCreative spec direction — brief authorship for designers and motion designersClient-facing reporting — weekly read-outs, monthly narratives, QBR decksMentorship of junior marketers and interns\nMeta Ads Manager + Google Ads + LinkedIn Campaign Manager + DV360GA4 + Mixpanel + BigQuery for attributionMailchimp / SendGrid / IterableAhrefs / SEMrush for SEO and channel researchNotion + Google Sheets + Looker for reporting\nDepth of demonstrated skill in the specific role disciplineClassification and scope of the client engagement the role supportsUrgency and time-sensitivity of active project requirementsTrack record built across CryptoMize engagements\nAlso known as: online marketer jobs · digital marketer vacancy · online marketing specialist · internet marketing manager\n\n\n03\n03Seniority ladder\n\n\nOnline Marketer — seniority path at CryptoMize\nMarketers advance by the campaigns that ship and the lift they generate, not tenure. The ladder below is how the marketing cell is actually organized.\n\n\nOnline Marketer\n\n\nOwns channel execution for one to two engagements. The conversion backbone of the cell.\n\n\n1/4\nSenior Online Marketer\n\n\nDesigns channel-mix architecture for new engagements, leads the A/B test program, mentors interns, and signs off on campaign reports.\n\n\n2/4\nMarketing Lead\n\n\nRuns the cell — staffing engagements, setting standards, and carrying final accountability for every channel decision CryptoMize puts in front of a client.\n\n\n3/4\nEngagement Strategist\n\n\nThe crossover track: senior marketers who grow into client-counsel strategy, owning the marketing posture across the full engagement portfolio.\n\n\n4/4\n04\n04The engagement surface\n\n\nCryptoMize work a Online Marketer touches\nEvery role plugs into live engagements across the five Penta-P domains — these are the services your work feeds.\n\n\nOnline Marketer · Job Opening\n\n\nThis seat plugs into 7 live CryptoMize services across the five Penta-P domains — the work below is where yours lands.\n\n\n7 SERVICESPENTA-P\n Digital Marketing\n Social Media Marketing\n Email Marketing\n Search Engine Marketing\n Content Marketing\n Influencer Marketing\n PPC Management\nWHAT DOES ONLINE MARKETER COMPENSATION DEPEND ON?\n\n\nCompensation is discussed during screening — never a fixed public figure, because it varies per person and per engagement. It depends on:\n\n\n# OFFER CONSTRUCTION FACTOR\n\n\n01 Depth of demonstrated skill in the specific role discipline\n\n\n02 Classification and scope of the client engagement the role supports\n\n\n03 Urgency and time-sensitivity of active project requirements\n\n\n04 Track record built across CryptoMize engagements",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/GlZP9jHqfA7q0spr20S8ZYVjNtLXbnwQHJTTPQSWW97neGPoTM3lrw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=b978fa645ee384c8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJPbmxpbmUgTWFya2V0ZXIiLCJjb21wYW55X25hbWUiOiJDcnlwdG8gTWl6ZSIsImh0aWRvY2lkIjoiNlNXWmx6OHgwbGRKMzlVU0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWZVSFZ1WlNCRWFYWnBjMmx2Yml4TllXaGhjbUZ6YUhSeVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFVXlRMFEzTW5ObFFUQnBPRlpYZEZocE9UUmlVSEJuT1VGVkxVeEVWbEpKYzJKc1ZVMWhZbkY2Vm01WmFHTlhOVk5pVmt4Sk5VZDVZamRWUlVsRWRVOW5ZVzVCZFdFM1prdDZPV1JrUTJoSlgxaGtPVFExWWxoTk9IWXpabTQwWTBOdk9VRkNha1JDY3pWRk5FOUtWMmRLYzBOUU1rbERkblJTT0ZoRGFIWnZUV0YwZEVrU0YwSk5OMGxoZEVSTlEzRmxZWGRpYTFBM056ZEtjMEZSR2lKQlJITnlPV1pSUlRWNGF6aGpRMFowYzNoT2JFSndVVWw0VTFaMFMxRmxaVXgzIiwiZmN2IjoiMyIsImZjX2lkIjoiNlNXWmx6OHgwbGRKMzlVU0FBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURVV5UTBRM01uTmxRVEJwT0ZaWGRGaHBPVFJpVUhCbk9VRlZMVXhFVmxKSmMySnNWVTFoWW5GNlZtNVphR05YTlZOaVZreEpOVWQ1WWpkVlJVbEVkVTluWVc1QmRXRTNaa3Q2T1dSa1EyaEpYMWhrT1RRMVlsaE5PSFl6Wm00MFkwTnZPVUZDYWtSQ2N6VkZORTlLVjJkS2MwTlFNa2xEZG5SU09GaERhSFp2VFdGMGRFa1NGMEpOTjBsaGRFUk5RM0ZsWVhkaWExQTNOemRLYzBGUkdpSkJSSE55T1daUlJUVjRhemhqUTBaMGMzaE9iRUp3VVVsNFUxWjBTMUZsWlV4MyIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&next_page_token=eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURVV5UTBRM01uTmxRVEJwT0ZaWGRGaHBPVFJpVUhCbk9VRlZMVXhFVmxKSmMySnNWVTFoWW5GNlZtNVphR05YTlZOaVZreEpOVWQ1WWpkVlJVbEVkVTluWVc1QmRXRTNaa3Q2T1dSa1EyaEpYMWhrT1RRMVlsaE5PSFl6Wm00MFkwTnZPVUZDYWtSQ2N6VkZORTlLVjJkS2MwTlFNa2xEZG5SU09GaERhSFp2VFdGMGRFa1NGMEpOTjBsaGRFUk5RM0ZsWVhkaWExQTNOemRLYzBGUkdpSkJSSE55T1daUlJUVjRhemhqUTBaMGMzaE9iRUp3VVVsNFUxWjBTMUZsWlV4MyIsImZjdiI6IjMifQ%3D%3D&q=Junior+Digital+Marketing+Executive"
+  },
+  "_retrieved_at": "2026-10-09 11:20:35 UTC"
+}

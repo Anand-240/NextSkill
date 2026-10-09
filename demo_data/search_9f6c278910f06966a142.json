@@ -1,0 +1,512 @@
+{
+  "search_metadata": {
+    "id": "6ac8ce2cd18169d0e784137f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6VA6ORCONwP4CkggSU-2ok0h7ye_2nFwgflgAYaoThI/6ac8ce2cd18169d0e784137f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6VA6ORCONwP4CkggSU-2ok0h7ye_2nFwgflgAYaoThI/6ac8ce2cd18169d0e784137f.md",
+    "created_at": "2026-10-09 11:21:16 UTC",
+    "processed_at": "2026-10-09 11:21:16 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Frontend+Developer+fresher&uule=w+CAIQICIZSHlkZXJhYmFkLFRlbGFuZ2FuYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/6VA6ORCONwP4CkggSU-2ok0h7ye_2nFwgflgAYaoThI/6ac8ce2cd18169d0e784137f.html",
+    "total_time_taken": 4.63
+  },
+  "search_parameters": {
+    "q": "Frontend Developer fresher",
+    "engine": "google_jobs",
+    "location_requested": "Hyderabad, India",
+    "location_used": "Hyderabad,Telangana,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rTalc9ibXQalw1qPNRsa2kZdZ_nFtLCuUUuDYyPXckteJM4TqSp1GXEzEJA3Qa0nJI7Fmnjmd4W7Zf7yuoajHpQ7mfU4sePtUGsROgdSeTdwZpZ2yn5fTOB42HqjAWmOZRhBy0Gh32uuRPG00q6Y9vKhRkSdX7Jlz_Ebx2bsZaro6QlHy",
+        "q": "Frontend Developer fresher remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTalc9ibXQalw1qPNRsa2kZdZ_nFtLCuUUuDYyPXckteJM4TqSp1GXEzEJA3Qa0nJI7Fmnjmd4W7Zf7yuoajHpQ7mfU4sePtUGsROgdSeTdwZpZ2yn5fTOB42HqjAWmOZRhBy0Gh32uuRPG00q6Y9vKhRkSdX7Jlz_Ebx2bsZaro6QlHy&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTalc9ibXQalw1qPNRsa2kZdZ_nFtLCuUUuDYyPXckteJM4TqSp1GXEzEJA3Qa0nJI7Fmnjmd4W7Zf7yuoajHpQ7mfU4sePtUGsROgdSeTdwZpZ2yn5fTOB42HqjAWmOZRhBy0Gh32uuRPG00q6Y9vKhRkSdX7Jlz_Ebx2bsZaro6QlHy"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHRjB6FDjg8D1LL4J9hNsir6zjn1KHX1R-0x3dVXnUCcBEqNCpgpVlKEzXewqCqKFR60RFJLK88RiJpiq0F99xkq7nJ1_NO7RQpyvtn9R6XaJnJV7pYu6qv7WuBF_Jp662drzAqnvU7NRWdQDavbmph6Z203W_QPvitk0H8aZl2pgLs9GgIuADeDJ5rdRG6OZaVJrnoFg2SCf1Iez5zSdsif_I8Vr9URlR2SZAID9H2r39ash-pWk4i5y_yRBpOuxUSaoXuVC55Syr9aRFQ68XO6syU1uI",
+            "q": "Frontend Developer fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHRjB6FDjg8D1LL4J9hNsir6zjn1KHX1R-0x3dVXnUCcBEqNCpgpVlKEzXewqCqKFR60RFJLK88RiJpiq0F99xkq7nJ1_NO7RQpyvtn9R6XaJnJV7pYu6qv7WuBF_Jp662drzAqnvU7NRWdQDavbmph6Z203W_QPvitk0H8aZl2pgLs9GgIuADeDJ5rdRG6OZaVJrnoFg2SCf1Iez5zSdsif_I8Vr9URlR2SZAID9H2r39ash-pWk4i5y_yRBpOuxUSaoXuVC55Syr9aRFQ68XO6syU1uI&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHRjB6FDjg8D1LL4J9hNsir6zjn1KHX1R-0x3dVXnUCcBEqNCpgpVlKEzXewqCqKFR60RFJLK88RiJpiq0F99xkq7nJ1_NO7RQpyvtn9R6XaJnJV7pYu6qv7WuBF_Jp662drzAqnvU7NRWdQDavbmph6Z203W_QPvitk0H8aZl2pgLs9GgIuADeDJ5rdRG6OZaVJrnoFg2SCf1Iez5zSdsif_I8Vr9URlR2SZAID9H2r39ash-pWk4i5y_yRBpOuxUSaoXuVC55Syr9aRFQ68XO6syU1uI"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHReIztOJ_pAIm28QHCGOFTtKBaLp2eTHJZ2c6weG_431rNBwiblqV60zpj_huRr4b9DZFVfmtxV5E4QiRl1Ek2kuVW31i0qKGWnzaMCeG10akDEauTPCh7YryzonD-4a0k6T2Sl_kyqIjIjSw-U1dJ-Anm-pF5BqHQIrsDvAxsae6cO2pHOcBJtFnBqPAJYS2lepdFR4Vfsl4TEknpte_OIYvhiGEo7oaaE9dL2hWR3YvB2RRUBU05pJu_xyzY8aZbmW9wMZMqN8r50d6JrczYwOun1FI",
+            "q": "Frontend Developer fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHReIztOJ_pAIm28QHCGOFTtKBaLp2eTHJZ2c6weG_431rNBwiblqV60zpj_huRr4b9DZFVfmtxV5E4QiRl1Ek2kuVW31i0qKGWnzaMCeG10akDEauTPCh7YryzonD-4a0k6T2Sl_kyqIjIjSw-U1dJ-Anm-pF5BqHQIrsDvAxsae6cO2pHOcBJtFnBqPAJYS2lepdFR4Vfsl4TEknpte_OIYvhiGEo7oaaE9dL2hWR3YvB2RRUBU05pJu_xyzY8aZbmW9wMZMqN8r50d6JrczYwOun1FI&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHReIztOJ_pAIm28QHCGOFTtKBaLp2eTHJZ2c6weG_431rNBwiblqV60zpj_huRr4b9DZFVfmtxV5E4QiRl1Ek2kuVW31i0qKGWnzaMCeG10akDEauTPCh7YryzonD-4a0k6T2Sl_kyqIjIjSw-U1dJ-Anm-pF5BqHQIrsDvAxsae6cO2pHOcBJtFnBqPAJYS2lepdFR4Vfsl4TEknpte_OIYvhiGEo7oaaE9dL2hWR3YvB2RRUBU05pJu_xyzY8aZbmW9wMZMqN8r50d6JrczYwOun1FI"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK0E3a2qE1-TOdjygrlmjRa_9a0vYLPwl0Etxul2uRlqivM4wKbGNN5audrCv_W9BLmi9PZhMGDsnVxgOcIn8rGAy8-1fO2OQ58IZ1dny1QmRwHmUUGfVkV113SjNtCka7LuyZnWsLFQEFNvlJrxRLjMG3TlIcknt6AwFgW4L9wRNO4cur7WfsrHiXdVRgU1uyaR3nwpOrZerNByA011eFcLUjzQHsV6YKCU2eZHaCfZVupZAPys6QmynOht4pJP-xZsmq9-8F7clgvLvmLGQbrb4CzRHQH-Fc8bu3ASo2tkRiXg89A",
+            "q": "Frontend Developer fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK0E3a2qE1-TOdjygrlmjRa_9a0vYLPwl0Etxul2uRlqivM4wKbGNN5audrCv_W9BLmi9PZhMGDsnVxgOcIn8rGAy8-1fO2OQ58IZ1dny1QmRwHmUUGfVkV113SjNtCka7LuyZnWsLFQEFNvlJrxRLjMG3TlIcknt6AwFgW4L9wRNO4cur7WfsrHiXdVRgU1uyaR3nwpOrZerNByA011eFcLUjzQHsV6YKCU2eZHaCfZVupZAPys6QmynOht4pJP-xZsmq9-8F7clgvLvmLGQbrb4CzRHQH-Fc8bu3ASo2tkRiXg89A&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK0E3a2qE1-TOdjygrlmjRa_9a0vYLPwl0Etxul2uRlqivM4wKbGNN5audrCv_W9BLmi9PZhMGDsnVxgOcIn8rGAy8-1fO2OQ58IZ1dny1QmRwHmUUGfVkV113SjNtCka7LuyZnWsLFQEFNvlJrxRLjMG3TlIcknt6AwFgW4L9wRNO4cur7WfsrHiXdVRgU1uyaR3nwpOrZerNByA011eFcLUjzQHsV6YKCU2eZHaCfZVupZAPys6QmynOht4pJP-xZsmq9-8F7clgvLvmLGQbrb4CzRHQH-Fc8bu3ASo2tkRiXg89A"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio024atl8wESZtn-VbesEPcs3A3gwvSiFUCgjqPax2zDNxzEOl0Sx5BB6qBpIeijKsGIKfjugsZrS7fjAZUFyikTC3jIMaF5yS0ko4eOOGofYkRt6giddJTQsoshZtO-toTP77bi0qfFhJBJ3kzhXvROt3wV96ecUsKXIOk8GW5SAkEd7ltK5e-q5NMp1Nr1Vq9uNRssgftUlXBdf5Ys4dKGuOIH793GdBz3iTMsBhdqjARo5qI1afFozBaXxSJlSDxap_0BfJOCAdIPA7zhwAV7lS4iwgCtZgyxhzcR1BMZ3BHSTaAw",
+            "q": "Frontend Developer fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio024atl8wESZtn-VbesEPcs3A3gwvSiFUCgjqPax2zDNxzEOl0Sx5BB6qBpIeijKsGIKfjugsZrS7fjAZUFyikTC3jIMaF5yS0ko4eOOGofYkRt6giddJTQsoshZtO-toTP77bi0qfFhJBJ3kzhXvROt3wV96ecUsKXIOk8GW5SAkEd7ltK5e-q5NMp1Nr1Vq9uNRssgftUlXBdf5Ys4dKGuOIH793GdBz3iTMsBhdqjARo5qI1afFozBaXxSJlSDxap_0BfJOCAdIPA7zhwAV7lS4iwgCtZgyxhzcR1BMZ3BHSTaAw&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio024atl8wESZtn-VbesEPcs3A3gwvSiFUCgjqPax2zDNxzEOl0Sx5BB6qBpIeijKsGIKfjugsZrS7fjAZUFyikTC3jIMaF5yS0ko4eOOGofYkRt6giddJTQsoshZtO-toTP77bi0qfFhJBJ3kzhXvROt3wV96ecUsKXIOk8GW5SAkEd7ltK5e-q5NMp1Nr1Vq9uNRssgftUlXBdf5Ys4dKGuOIH793GdBz3iTMsBhdqjARo5qI1afFozBaXxSJlSDxap_0BfJOCAdIPA7zhwAV7lS4iwgCtZgyxhzcR1BMZ3BHSTaAw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHRjB6FDjg8D1LL4J9hNsir6zjn1KHX1R-0x3dVXnUCcBEqNCpgpVlKEzXewqCqKFR60RFJLK88RiJpiq0F99xkq7nJ1_NO7RQpyvtn9R6XaJnJV7pYu6qv7WuBF_Jp662drzAqnvU7NRWdQDavbmph6Z203W_QPvitk0H8aZl2pgLs9GgIuADeDJ5rdRG6OZaVJrnoFg2SCf1Iez5zSdsif_I8Vr9URlR2SZAID9H2r39ash-pWk4i5y_yRBpOuxUSaoXuVC55Syr9aRFQ68XO6syU1uI",
+            "q": "Frontend Developer fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHRjB6FDjg8D1LL4J9hNsir6zjn1KHX1R-0x3dVXnUCcBEqNCpgpVlKEzXewqCqKFR60RFJLK88RiJpiq0F99xkq7nJ1_NO7RQpyvtn9R6XaJnJV7pYu6qv7WuBF_Jp662drzAqnvU7NRWdQDavbmph6Z203W_QPvitk0H8aZl2pgLs9GgIuADeDJ5rdRG6OZaVJrnoFg2SCf1Iez5zSdsif_I8Vr9URlR2SZAID9H2r39ash-pWk4i5y_yRBpOuxUSaoXuVC55Syr9aRFQ68XO6syU1uI&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHRjB6FDjg8D1LL4J9hNsir6zjn1KHX1R-0x3dVXnUCcBEqNCpgpVlKEzXewqCqKFR60RFJLK88RiJpiq0F99xkq7nJ1_NO7RQpyvtn9R6XaJnJV7pYu6qv7WuBF_Jp662drzAqnvU7NRWdQDavbmph6Z203W_QPvitk0H8aZl2pgLs9GgIuADeDJ5rdRG6OZaVJrnoFg2SCf1Iez5zSdsif_I8Vr9URlR2SZAID9H2r39ash-pWk4i5y_yRBpOuxUSaoXuVC55Syr9aRFQ68XO6syU1uI"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHReIztOJ_pAIm28QHCGOFTtKBaLp2eTHJZ2c6weG_431rNBwiblqV60zpj_huRr4b9DZFVfmtxV5E4QiRl1Ek2kuVW31i0qKGWnzaMCeG10akDEauTPCh7YryzonD-4a0k6T2Sl_kyqIjIjSw-U1dJ-Anm-pF5BqHQIrsDvAxsae6cO2pHOcBJtFnBqPAJYS2lepdFR4Vfsl4TEknpte_OIYvhiGEo7oaaE9dL2hWR3YvB2RRUBU05pJu_xyzY8aZbmW9wMZMqN8r50d6JrczYwOun1FI",
+            "q": "Frontend Developer fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHReIztOJ_pAIm28QHCGOFTtKBaLp2eTHJZ2c6weG_431rNBwiblqV60zpj_huRr4b9DZFVfmtxV5E4QiRl1Ek2kuVW31i0qKGWnzaMCeG10akDEauTPCh7YryzonD-4a0k6T2Sl_kyqIjIjSw-U1dJ-Anm-pF5BqHQIrsDvAxsae6cO2pHOcBJtFnBqPAJYS2lepdFR4Vfsl4TEknpte_OIYvhiGEo7oaaE9dL2hWR3YvB2RRUBU05pJu_xyzY8aZbmW9wMZMqN8r50d6JrczYwOun1FI&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9cne7CHXYE8Kw8Q6XHbDuPVuz4eOO6KOJ0uP5tOpMKVHReIztOJ_pAIm28QHCGOFTtKBaLp2eTHJZ2c6weG_431rNBwiblqV60zpj_huRr4b9DZFVfmtxV5E4QiRl1Ek2kuVW31i0qKGWnzaMCeG10akDEauTPCh7YryzonD-4a0k6T2Sl_kyqIjIjSw-U1dJ-Anm-pF5BqHQIrsDvAxsae6cO2pHOcBJtFnBqPAJYS2lepdFR4Vfsl4TEknpte_OIYvhiGEo7oaaE9dL2hWR3YvB2RRUBU05pJu_xyzY8aZbmW9wMZMqN8r50d6JrczYwOun1FI"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK0E3a2qE1-TOdjygrlmjRa_9a0vYLPwl0Etxul2uRlqivM4wKbGNN5audrCv_W9BLmi9PZhMGDsnVxgOcIn8rGAy8-1fO2OQ58IZ1dny1QmRwHmUUGfVkV113SjNtCka7LuyZnWsLFQEFNvlJrxRLjMG3TlIcknt6AwFgW4L9wRNO4cur7WfsrHiXdVRgU1uyaR3nwpOrZerNByA011eFcLUjzQHsV6YKCU2eZHaCfZVupZAPys6QmynOht4pJP-xZsmq9-8F7clgvLvmLGQbrb4CzRHQH-Fc8bu3ASo2tkRiXg89A",
+            "q": "Frontend Developer fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK0E3a2qE1-TOdjygrlmjRa_9a0vYLPwl0Etxul2uRlqivM4wKbGNN5audrCv_W9BLmi9PZhMGDsnVxgOcIn8rGAy8-1fO2OQ58IZ1dny1QmRwHmUUGfVkV113SjNtCka7LuyZnWsLFQEFNvlJrxRLjMG3TlIcknt6AwFgW4L9wRNO4cur7WfsrHiXdVRgU1uyaR3nwpOrZerNByA011eFcLUjzQHsV6YKCU2eZHaCfZVupZAPys6QmynOht4pJP-xZsmq9-8F7clgvLvmLGQbrb4CzRHQH-Fc8bu3ASo2tkRiXg89A&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK0E3a2qE1-TOdjygrlmjRa_9a0vYLPwl0Etxul2uRlqivM4wKbGNN5audrCv_W9BLmi9PZhMGDsnVxgOcIn8rGAy8-1fO2OQ58IZ1dny1QmRwHmUUGfVkV113SjNtCka7LuyZnWsLFQEFNvlJrxRLjMG3TlIcknt6AwFgW4L9wRNO4cur7WfsrHiXdVRgU1uyaR3nwpOrZerNByA011eFcLUjzQHsV6YKCU2eZHaCfZVupZAPys6QmynOht4pJP-xZsmq9-8F7clgvLvmLGQbrb4CzRHQH-Fc8bu3ASo2tkRiXg89A"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio024atl8wESZtn-VbesEPcs3A3gwvSiFUCgjqPax2zDNxzEOl0Sx5BB6qBpIeijKsGIKfjugsZrS7fjAZUFyikTC3jIMaF5yS0ko4eOOGofYkRt6giddJTQsoshZtO-toTP77bi0qfFhJBJ3kzhXvROt3wV96ecUsKXIOk8GW5SAkEd7ltK5e-q5NMp1Nr1Vq9uNRssgftUlXBdf5Ys4dKGuOIH793GdBz3iTMsBhdqjARo5qI1afFozBaXxSJlSDxap_0BfJOCAdIPA7zhwAV7lS4iwgCtZgyxhzcR1BMZ3BHSTaAw",
+            "q": "Frontend Developer fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio024atl8wESZtn-VbesEPcs3A3gwvSiFUCgjqPax2zDNxzEOl0Sx5BB6qBpIeijKsGIKfjugsZrS7fjAZUFyikTC3jIMaF5yS0ko4eOOGofYkRt6giddJTQsoshZtO-toTP77bi0qfFhJBJ3kzhXvROt3wV96ecUsKXIOk8GW5SAkEd7ltK5e-q5NMp1Nr1Vq9uNRssgftUlXBdf5Ys4dKGuOIH793GdBz3iTMsBhdqjARo5qI1afFozBaXxSJlSDxap_0BfJOCAdIPA7zhwAV7lS4iwgCtZgyxhzcR1BMZ3BHSTaAw&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio024atl8wESZtn-VbesEPcs3A3gwvSiFUCgjqPax2zDNxzEOl0Sx5BB6qBpIeijKsGIKfjugsZrS7fjAZUFyikTC3jIMaF5yS0ko4eOOGofYkRt6giddJTQsoshZtO-toTP77bi0qfFhJBJ3kzhXvROt3wV96ecUsKXIOk8GW5SAkEd7ltK5e-q5NMp1Nr1Vq9uNRssgftUlXBdf5Ys4dKGuOIH793GdBz3iTMsBhdqjARo5qI1afFozBaXxSJlSDxap_0BfJOCAdIPA7zhwAV7lS4iwgCtZgyxhzcR1BMZ3BHSTaAw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4XYphOFgu_sbDZLW1Z5r9VHdLJmPHWbNW7RHAvngSwt74isPRD103gIflS7yJcvY9tKlEVdrCDYlT7iFTYmulzUXMaWaKTbGnMTJwSq9dwnQGqc9O6BWEYjMi7luiM2GN0mPVGnM7L4o-I2sFDpP-Q-jcHcHd6b5J07Kz3QmpUUBPffENIcWtRjMcTtCBG2gtaPdbEHVOuIdAqFgMclxbtbChkc5LR7IiG9l7c5VPrH7UPqVvjEuTBrxSgplDB6nB7rGwkh9wrgrn5K7Du8ZzbXzQ6XmVJmJFuAQC-nfrGKIrzeUox_XgWZyt6IhyfXcYOg3sTY",
+            "q": "Frontend Developer fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4XYphOFgu_sbDZLW1Z5r9VHdLJmPHWbNW7RHAvngSwt74isPRD103gIflS7yJcvY9tKlEVdrCDYlT7iFTYmulzUXMaWaKTbGnMTJwSq9dwnQGqc9O6BWEYjMi7luiM2GN0mPVGnM7L4o-I2sFDpP-Q-jcHcHd6b5J07Kz3QmpUUBPffENIcWtRjMcTtCBG2gtaPdbEHVOuIdAqFgMclxbtbChkc5LR7IiG9l7c5VPrH7UPqVvjEuTBrxSgplDB6nB7rGwkh9wrgrn5K7Du8ZzbXzQ6XmVJmJFuAQC-nfrGKIrzeUox_XgWZyt6IhyfXcYOg3sTY&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4XYphOFgu_sbDZLW1Z5r9VHdLJmPHWbNW7RHAvngSwt74isPRD103gIflS7yJcvY9tKlEVdrCDYlT7iFTYmulzUXMaWaKTbGnMTJwSq9dwnQGqc9O6BWEYjMi7luiM2GN0mPVGnM7L4o-I2sFDpP-Q-jcHcHd6b5J07Kz3QmpUUBPffENIcWtRjMcTtCBG2gtaPdbEHVOuIdAqFgMclxbtbChkc5LR7IiG9l7c5VPrH7UPqVvjEuTBrxSgplDB6nB7rGwkh9wrgrn5K7Du8ZzbXzQ6XmVJmJFuAQC-nfrGKIrzeUox_XgWZyt6IhyfXcYOg3sTY"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp2-i9cGW0xWw_feF-4nYfAQ4xenEBz0Xc7cfc-vg8UoX1sxLvvGKEp5HE6RVkkOoTll70VjFI1m2oU_vChaPP3S3q4DAj5vt0xapaClyO4gPOBU6EI2iqvYYJgbQWSV6jWmYqL3GWC18n1dix1w-126k5HG7D6e5dO4DRLGbjnxUeY0fCf6nmrv4QPaIOcdNvClKteIWjlBOlniqRegBTIh-kXl42__rr_CFzVIOIrmlo-o_RcQF1kQ27ZeLxFpwnO2YEKSGsisZXU_aY2i9zGdWZT9-G5WACuliLfMvinpWgUzpOqXlIZ-x4rcevwQRP2EBXsfT_WOq2oL0HfTSEkZy0ydo5",
+            "q": "Frontend Developer fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp2-i9cGW0xWw_feF-4nYfAQ4xenEBz0Xc7cfc-vg8UoX1sxLvvGKEp5HE6RVkkOoTll70VjFI1m2oU_vChaPP3S3q4DAj5vt0xapaClyO4gPOBU6EI2iqvYYJgbQWSV6jWmYqL3GWC18n1dix1w-126k5HG7D6e5dO4DRLGbjnxUeY0fCf6nmrv4QPaIOcdNvClKteIWjlBOlniqRegBTIh-kXl42__rr_CFzVIOIrmlo-o_RcQF1kQ27ZeLxFpwnO2YEKSGsisZXU_aY2i9zGdWZT9-G5WACuliLfMvinpWgUzpOqXlIZ-x4rcevwQRP2EBXsfT_WOq2oL0HfTSEkZy0ydo5&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp2-i9cGW0xWw_feF-4nYfAQ4xenEBz0Xc7cfc-vg8UoX1sxLvvGKEp5HE6RVkkOoTll70VjFI1m2oU_vChaPP3S3q4DAj5vt0xapaClyO4gPOBU6EI2iqvYYJgbQWSV6jWmYqL3GWC18n1dix1w-126k5HG7D6e5dO4DRLGbjnxUeY0fCf6nmrv4QPaIOcdNvClKteIWjlBOlniqRegBTIh-kXl42__rr_CFzVIOIrmlo-o_RcQF1kQ27ZeLxFpwnO2YEKSGsisZXU_aY2i9zGdWZT9-G5WACuliLfMvinpWgUzpOqXlIZ-x4rcevwQRP2EBXsfT_WOq2oL0HfTSEkZy0ydo5"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43oJlDQlHY9RabaXqRWHV2V6VYBEAUc8ZUQkHIftUBIHOJPrn-EhXXDMnL2WGldHZ6NyJgaxBXhI4udB0IuAA7yhnCnhZRqLwqMjC9qje3RtY--VU9IpriNacRqfrNZnoNf0erwwdb2lTjhoby991bMx7Bz4Uz8pFxwVym09HGpTOpoMW5ncW-MV2uJ-M_b-EFCSrd5BalBl3v3yku9LhGBCIr_tT_mlH854F0IpnD7hsSZCZf5ytCnlfwtCn7vuNY5vP_6OhbZk2rXh0l74E5PkJNR5n2iouhJuzSGynDPx6LnXAX9wVaK-ZfYHlNx7tA60o1ZsK3SvHm3cl56cogvA5vUUU",
+            "q": "Frontend Developer fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43oJlDQlHY9RabaXqRWHV2V6VYBEAUc8ZUQkHIftUBIHOJPrn-EhXXDMnL2WGldHZ6NyJgaxBXhI4udB0IuAA7yhnCnhZRqLwqMjC9qje3RtY--VU9IpriNacRqfrNZnoNf0erwwdb2lTjhoby991bMx7Bz4Uz8pFxwVym09HGpTOpoMW5ncW-MV2uJ-M_b-EFCSrd5BalBl3v3yku9LhGBCIr_tT_mlH854F0IpnD7hsSZCZf5ytCnlfwtCn7vuNY5vP_6OhbZk2rXh0l74E5PkJNR5n2iouhJuzSGynDPx6LnXAX9wVaK-ZfYHlNx7tA60o1ZsK3SvHm3cl56cogvA5vUUU&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43oJlDQlHY9RabaXqRWHV2V6VYBEAUc8ZUQkHIftUBIHOJPrn-EhXXDMnL2WGldHZ6NyJgaxBXhI4udB0IuAA7yhnCnhZRqLwqMjC9qje3RtY--VU9IpriNacRqfrNZnoNf0erwwdb2lTjhoby991bMx7Bz4Uz8pFxwVym09HGpTOpoMW5ncW-MV2uJ-M_b-EFCSrd5BalBl3v3yku9LhGBCIr_tT_mlH854F0IpnD7hsSZCZf5ytCnlfwtCn7vuNY5vP_6OhbZk2rXh0l74E5PkJNR5n2iouhJuzSGynDPx6LnXAX9wVaK-ZfYHlNx7tA60o1ZsK3SvHm3cl56cogvA5vUUU"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r36jnsubx7_BG4O4utKCNkvqV_O3MJ8NxL4Xa9YDlgiJWdjwVfTq770E3P6LsZBf-7VTunSGeSoEKlRUGTcYkB3QTPvD2HhmlDjqHISuxDNjOFpu4e_122-DEtE6VTRHlyfq5M2Dkj_xpHOeqnc8pCC0kVj6vjLZQT6-0E3o7IbAve_U42RjK43JhbLA5BwIJcQpL4zhCAEyvhP-Iq2FVf2WcPXqqEjXAp3JdkTdVPbKr6WUmjunrsS9NrWJJGziUr9K_hA9ykOkp3QkIr84iiqVOczJmriicGZyK8EynlaENThzAfBAYRTTVx9Cm248QvilGuIFIRS4ccJiEC2AttAB1UyZ",
+            "q": "Frontend Developer fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r36jnsubx7_BG4O4utKCNkvqV_O3MJ8NxL4Xa9YDlgiJWdjwVfTq770E3P6LsZBf-7VTunSGeSoEKlRUGTcYkB3QTPvD2HhmlDjqHISuxDNjOFpu4e_122-DEtE6VTRHlyfq5M2Dkj_xpHOeqnc8pCC0kVj6vjLZQT6-0E3o7IbAve_U42RjK43JhbLA5BwIJcQpL4zhCAEyvhP-Iq2FVf2WcPXqqEjXAp3JdkTdVPbKr6WUmjunrsS9NrWJJGziUr9K_hA9ykOkp3QkIr84iiqVOczJmriicGZyK8EynlaENThzAfBAYRTTVx9Cm248QvilGuIFIRS4ccJiEC2AttAB1UyZ&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r36jnsubx7_BG4O4utKCNkvqV_O3MJ8NxL4Xa9YDlgiJWdjwVfTq770E3P6LsZBf-7VTunSGeSoEKlRUGTcYkB3QTPvD2HhmlDjqHISuxDNjOFpu4e_122-DEtE6VTRHlyfq5M2Dkj_xpHOeqnc8pCC0kVj6vjLZQT6-0E3o7IbAve_U42RjK43JhbLA5BwIJcQpL4zhCAEyvhP-Iq2FVf2WcPXqqEjXAp3JdkTdVPbKr6WUmjunrsS9NrWJJGziUr9K_hA9ykOkp3QkIr84iiqVOczJmriicGZyK8EynlaENThzAfBAYRTTVx9Cm248QvilGuIFIRS4ccJiEC2AttAB1UyZ"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4XYphOFgu_sbDZLW1Z5r9VHdLJmPHWbNW7RHAvngSwt74isPRD103gIflS7yJcvY9tKlEVdrCDYlT7iFTYmulzUXMaWaKTbGnMTJwSq9dwnQGqc9O6BWEYjMi7luiM2GN0mPVGnM7L4o-I2sFDpP-Q-jcHcHd6b5J07Kz3QmpUUBPffENIcWtRjMcTtCBG2gtaPdbEHVOuIdAqFgMclxbtbChkc5LR7IiG9l7c5VPrH7UPqVvjEuTBrxSgplDB6nB7rGwkh9wrgrn5K7Du8ZzbXzQ6XmVJmJFuAQC-nfrGKIrzeUox_XgWZyt6IhyfXcYOg3sTY",
+            "q": "Frontend Developer fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4XYphOFgu_sbDZLW1Z5r9VHdLJmPHWbNW7RHAvngSwt74isPRD103gIflS7yJcvY9tKlEVdrCDYlT7iFTYmulzUXMaWaKTbGnMTJwSq9dwnQGqc9O6BWEYjMi7luiM2GN0mPVGnM7L4o-I2sFDpP-Q-jcHcHd6b5J07Kz3QmpUUBPffENIcWtRjMcTtCBG2gtaPdbEHVOuIdAqFgMclxbtbChkc5LR7IiG9l7c5VPrH7UPqVvjEuTBrxSgplDB6nB7rGwkh9wrgrn5K7Du8ZzbXzQ6XmVJmJFuAQC-nfrGKIrzeUox_XgWZyt6IhyfXcYOg3sTY&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4XYphOFgu_sbDZLW1Z5r9VHdLJmPHWbNW7RHAvngSwt74isPRD103gIflS7yJcvY9tKlEVdrCDYlT7iFTYmulzUXMaWaKTbGnMTJwSq9dwnQGqc9O6BWEYjMi7luiM2GN0mPVGnM7L4o-I2sFDpP-Q-jcHcHd6b5J07Kz3QmpUUBPffENIcWtRjMcTtCBG2gtaPdbEHVOuIdAqFgMclxbtbChkc5LR7IiG9l7c5VPrH7UPqVvjEuTBrxSgplDB6nB7rGwkh9wrgrn5K7Du8ZzbXzQ6XmVJmJFuAQC-nfrGKIrzeUox_XgWZyt6IhyfXcYOg3sTY"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp2-i9cGW0xWw_feF-4nYfAQ4xenEBz0Xc7cfc-vg8UoX1sxLvvGKEp5HE6RVkkOoTll70VjFI1m2oU_vChaPP3S3q4DAj5vt0xapaClyO4gPOBU6EI2iqvYYJgbQWSV6jWmYqL3GWC18n1dix1w-126k5HG7D6e5dO4DRLGbjnxUeY0fCf6nmrv4QPaIOcdNvClKteIWjlBOlniqRegBTIh-kXl42__rr_CFzVIOIrmlo-o_RcQF1kQ27ZeLxFpwnO2YEKSGsisZXU_aY2i9zGdWZT9-G5WACuliLfMvinpWgUzpOqXlIZ-x4rcevwQRP2EBXsfT_WOq2oL0HfTSEkZy0ydo5",
+            "q": "Frontend Developer fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp2-i9cGW0xWw_feF-4nYfAQ4xenEBz0Xc7cfc-vg8UoX1sxLvvGKEp5HE6RVkkOoTll70VjFI1m2oU_vChaPP3S3q4DAj5vt0xapaClyO4gPOBU6EI2iqvYYJgbQWSV6jWmYqL3GWC18n1dix1w-126k5HG7D6e5dO4DRLGbjnxUeY0fCf6nmrv4QPaIOcdNvClKteIWjlBOlniqRegBTIh-kXl42__rr_CFzVIOIrmlo-o_RcQF1kQ27ZeLxFpwnO2YEKSGsisZXU_aY2i9zGdWZT9-G5WACuliLfMvinpWgUzpOqXlIZ-x4rcevwQRP2EBXsfT_WOq2oL0HfTSEkZy0ydo5&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp2-i9cGW0xWw_feF-4nYfAQ4xenEBz0Xc7cfc-vg8UoX1sxLvvGKEp5HE6RVkkOoTll70VjFI1m2oU_vChaPP3S3q4DAj5vt0xapaClyO4gPOBU6EI2iqvYYJgbQWSV6jWmYqL3GWC18n1dix1w-126k5HG7D6e5dO4DRLGbjnxUeY0fCf6nmrv4QPaIOcdNvClKteIWjlBOlniqRegBTIh-kXl42__rr_CFzVIOIrmlo-o_RcQF1kQ27ZeLxFpwnO2YEKSGsisZXU_aY2i9zGdWZT9-G5WACuliLfMvinpWgUzpOqXlIZ-x4rcevwQRP2EBXsfT_WOq2oL0HfTSEkZy0ydo5"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43oJlDQlHY9RabaXqRWHV2V6VYBEAUc8ZUQkHIftUBIHOJPrn-EhXXDMnL2WGldHZ6NyJgaxBXhI4udB0IuAA7yhnCnhZRqLwqMjC9qje3RtY--VU9IpriNacRqfrNZnoNf0erwwdb2lTjhoby991bMx7Bz4Uz8pFxwVym09HGpTOpoMW5ncW-MV2uJ-M_b-EFCSrd5BalBl3v3yku9LhGBCIr_tT_mlH854F0IpnD7hsSZCZf5ytCnlfwtCn7vuNY5vP_6OhbZk2rXh0l74E5PkJNR5n2iouhJuzSGynDPx6LnXAX9wVaK-ZfYHlNx7tA60o1ZsK3SvHm3cl56cogvA5vUUU",
+            "q": "Frontend Developer fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43oJlDQlHY9RabaXqRWHV2V6VYBEAUc8ZUQkHIftUBIHOJPrn-EhXXDMnL2WGldHZ6NyJgaxBXhI4udB0IuAA7yhnCnhZRqLwqMjC9qje3RtY--VU9IpriNacRqfrNZnoNf0erwwdb2lTjhoby991bMx7Bz4Uz8pFxwVym09HGpTOpoMW5ncW-MV2uJ-M_b-EFCSrd5BalBl3v3yku9LhGBCIr_tT_mlH854F0IpnD7hsSZCZf5ytCnlfwtCn7vuNY5vP_6OhbZk2rXh0l74E5PkJNR5n2iouhJuzSGynDPx6LnXAX9wVaK-ZfYHlNx7tA60o1ZsK3SvHm3cl56cogvA5vUUU&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43oJlDQlHY9RabaXqRWHV2V6VYBEAUc8ZUQkHIftUBIHOJPrn-EhXXDMnL2WGldHZ6NyJgaxBXhI4udB0IuAA7yhnCnhZRqLwqMjC9qje3RtY--VU9IpriNacRqfrNZnoNf0erwwdb2lTjhoby991bMx7Bz4Uz8pFxwVym09HGpTOpoMW5ncW-MV2uJ-M_b-EFCSrd5BalBl3v3yku9LhGBCIr_tT_mlH854F0IpnD7hsSZCZf5ytCnlfwtCn7vuNY5vP_6OhbZk2rXh0l74E5PkJNR5n2iouhJuzSGynDPx6LnXAX9wVaK-ZfYHlNx7tA60o1ZsK3SvHm3cl56cogvA5vUUU"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r36jnsubx7_BG4O4utKCNkvqV_O3MJ8NxL4Xa9YDlgiJWdjwVfTq770E3P6LsZBf-7VTunSGeSoEKlRUGTcYkB3QTPvD2HhmlDjqHISuxDNjOFpu4e_122-DEtE6VTRHlyfq5M2Dkj_xpHOeqnc8pCC0kVj6vjLZQT6-0E3o7IbAve_U42RjK43JhbLA5BwIJcQpL4zhCAEyvhP-Iq2FVf2WcPXqqEjXAp3JdkTdVPbKr6WUmjunrsS9NrWJJGziUr9K_hA9ykOkp3QkIr84iiqVOczJmriicGZyK8EynlaENThzAfBAYRTTVx9Cm248QvilGuIFIRS4ccJiEC2AttAB1UyZ",
+            "q": "Frontend Developer fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntCdZC4CIHVPHOygYB-EbAZO55QVQ:1791544879811&q=Frontend+Developer+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r36jnsubx7_BG4O4utKCNkvqV_O3MJ8NxL4Xa9YDlgiJWdjwVfTq770E3P6LsZBf-7VTunSGeSoEKlRUGTcYkB3QTPvD2HhmlDjqHISuxDNjOFpu4e_122-DEtE6VTRHlyfq5M2Dkj_xpHOeqnc8pCC0kVj6vjLZQT6-0E3o7IbAve_U42RjK43JhbLA5BwIJcQpL4zhCAEyvhP-Iq2FVf2WcPXqqEjXAp3JdkTdVPbKr6WUmjunrsS9NrWJJGziUr9K_hA9ykOkp3QkIr84iiqVOczJmriicGZyK8EynlaENThzAfBAYRTTVx9Cm248QvilGuIFIRS4ccJiEC2AttAB1UyZ&udm=8&sa=X&ved=2ahUKEwjT3aPh6KyXAxWCiysGHYZAFCUQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Frontend+Developer+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r36jnsubx7_BG4O4utKCNkvqV_O3MJ8NxL4Xa9YDlgiJWdjwVfTq770E3P6LsZBf-7VTunSGeSoEKlRUGTcYkB3QTPvD2HhmlDjqHISuxDNjOFpu4e_122-DEtE6VTRHlyfq5M2Dkj_xpHOeqnc8pCC0kVj6vjLZQT6-0E3o7IbAve_U42RjK43JhbLA5BwIJcQpL4zhCAEyvhP-Iq2FVf2WcPXqqEjXAp3JdkTdVPbKr6WUmjunrsS9NrWJJGziUr9K_hA9ykOkp3QkIr84iiqVOczJmriicGZyK8EynlaENThzAfBAYRTTVx9Cm248QvilGuIFIRS4ccJiEC2AttAB1UyZ"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Fresher - Front End Developer",
+      "company_name": "Gravitix Tech Solutions",
+      "location": "Hyderabad, Telangana",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=vDdJQyainzMwJNoMAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQ7CMAxFxdojMHlG0CAkGGCFlh32ym2tNCjYURyqsnEH7sDBOAlh-cN7er_4zIpdFUkHirCCKgonOHEPRxrJS8j0-3rDTVpQwtgNIAy1iPU0PwwpBd0bo-pLqwmT68pO7kaYWplMjvQ_jQ4YKXhM1Gy266kMbBemjji65Ca4Un69iH8kJ6zgGM7PniK22C-z9MgWGX8C-QhsqQAAAA&shmds=v1_ARwrE20M6KRUqfjl0BQBsCYPcL5xY3V_dcSjktLcIwKSRaF2JQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=vDdJQyainzMwJNoMAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAAaVBMVEXjJSfhAADjHiDoXF3iFBfiFxriGh3mREXiAAjjIiT2xcXoYWL30ND3zMzukZLsfX3rdnfqcHHtiIjxoKHpaWrlODrnVlf87OzvlpfiDRH1wMDyrK3kLzH64OHzsrP98vLnT1D52dn0ubklYyuwAAAA9UlEQVQ4je2Ty3KDMAxFLVt-gEEGG7-AJCT__5GhM93XdDpd5ezPXOtaYuzDv8KvKx1XSqKoSl30kp0mPyeavLxm1j644PSyEV7J452Ki7Ex7Tp17R63NxjmO4AOUCuX8nxtk87Fo2SbKft-7R869yOoQzY0zEVebjYX0mOvh22LQxJiFj-bXDxh_BaP4RhfgyBXSkO9HBgYAORgFOzD09d913vDkKeaqBTWLaBRGfOV1VguEk3OY7mHYM_ZePOfIDnwnlEEUytWoVtNST7eF71ua3Ebef-qzZFujahdIXcSJmrfWJwl6xRKdYLqyqb_4hY__AFvO4ENWAfCAG8AAAAASUVORK5CYII.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/fresher-front-end-developer-gravitix-tech-solutions-hyderabad--ss-in-prlbs9",
+      "job_title": "Fresher - Front End Developer",
+      "description": "About Gravitix Tech Solutions\nGravitix Tech Solutions is a forward-thinking technology company focused on delivering impactful digital and recruitment solutions across various sectors. We believe in building strong teams through smart hiring and people-centric strategies.\n\n\nFrontend Developer – Job Description\nAbout the Role\nWe are looking for a passionate Frontend Developer who can build visually appealing and highly responsive web applications. You will work closely with designers and backend developers to create seamless user experiences.\n\n\nKey Responsibilities\n\n\nDevelop responsive and user-friendly web interfaces\n\n\nConvert UI/UX designs into functional web pages\n\n\nWrite clean, scalable, and maintainable code\n\n\nIntegrate APIs and handle frontend logic\n\n\nEnsure cross-browser compatibility and mobile responsiveness\n\n\nOptimize applications for speed and performance\n\n\nDebug and troubleshoot issues efficiently\n\n\nCollaborate with designers, backend developers, and product teams\n\n\nRequired Skills & Qualifications\n\n\nBachelor’s degree in Computer Science, IT, or related field\n\n\nStrong knowledge of HTML, CSS, and JavaScript\n\n\nUnderstanding of responsive design principles\n\n\nFamiliarity with React.js / Angular / Vue.js\n\n\nBasic knowledge of Git (version control)\n\n\nUnderstanding of REST API integration\n\n\nGood problem-solving and communication skills\nPreferred Skills (Bonus)\n\n\nExperience with React.js or modern frontend frameworks\n\n\nKnowledge of Tailwind CSS / Bootstrap\n\n\nBasic understanding of backend concepts\n\n\nFamiliarity with performance optimization\nInternship or project experience\nWhat We Offer\nCompetitive salary + incentives\n\n\nHands-on experience with real-world projects\nLearning and development opportunities\n\n\nFriendly and collaborative work environment\nClear career growth path",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/fresher-front-end-developer-gravitix-tech-solutions-hyderabad--ss-in-prlbs9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/front-end-developer-dialogflow-ltimindtree-hyderabad-4-to-10-years-experience-4301760f-4342-4ab0-8387-4fd3527282b7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/rjdp/6264917548777912416?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/zoetis-software-developer-front-end-hyderabad-telangana-india-5-to-7-years-686718?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-3112-a669138823c29dcaa420d90a6622138e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/4019179403597578240?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/336683004/browser-extension-developer-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CallCenterJob.co.in",
+          "link": "https://callcenterjob.co.in/front-end-developer-angular-hyderabad_676705?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcmVzaGVyIC0gRnJvbnQgRW5kIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkdyYXZpdGl4IFRlY2ggU29sdXRpb25zIiwiaHRpZG9jaWQiOiJ2RGRKUXlhaW56TXdKTm9NQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNYbG9lRzEwWVZWZlFrRlZVa0ZrUm1KUk5WRkhNRVZNZFVKclFWQTRXV3RSZVVaYVZIWm5WMkYwU1dGQk9IQkdkRjh5Vkc5UWQxQjBjMGxpZVhocVJUQnBTMlpUTm1zMWExcFhXak0zYWpCelgwbFhORGxSVjA5ak1YWjJWM1ZVWVhZNU5EZDNjRTFPYUhOMmVGUlVlRUkzYkdVM1ZtTk1VVGM1WVZsekxYRTNPRFJQVUc4U0YwdzROMGxoY0U5TFRWbExXSEoxUlZCb2IwaFNjVUZKR2lKQlJITnlPV1pTTWsxU2MyUTNVMGhVUlhKT1kyeHVNbkJHUWxwVlVXMHdOMk5CIiwiZmN2IjoiMyIsImZjX2lkIjoidkRkSlF5YWluek13Sk5vTUFBQUFBQT09In0="
+    },
+    {
+      "title": "UI/UX Design & Frontend Development Intern (Fresher)",
+      "company_name": "StaunchCuil Services Private Limited",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=j7yQq4PDT2LUERNXAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLQUoDQRAA8ZoneOqTqIQdEbyoN0M0kEAgBryF3tlmZmS2e-nuLPGWP_grn-FLXC91KKpmPxezzX4V9h-wICuJ4QqWKuzE3WRGqjL0xA6rSSnD9VLJMukN_J6_4VNaMEKNGYThVSRVunzK7oM9hmBWm2SOXmITpQ_C1MopTJP942AZlYaKTof7h7tTM3C6fd45Hjnml2OpsCMdSySDrZZxymBd-uLUQWF4--pIscVuDu9UkRMy_gGywEMVzQAAAA&shmds=v1_ARwrE21YRTXFMCW22YmxujY14f_X1BS7xsBakfJhX9p08ToFYg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=j7yQq4PDT2LUERNXAAAAAA%3D%3D",
+      "extensions": [
+        "18 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/ui-ux-design-frontend-development-intern-fresher/staunchcuil-services-private-limited/19570427",
+      "job_title": "UI/UX Design & Frontend Development Intern (Fresher)",
+      "description": "We are seeking an enthusiastic, creative, and detail-oriented Fresher UI/UX Developer to join our growing team. In this role, you will bridge the gap between interface design and practical front-end implementation. You will work on creating intuitive user experiences, translating wireframes into functional web interfaces, and collaborating closely with our product and development teams.\n\nThis position begins with a 3-month unpaid training and evaluation period, structured as an intensive hands-on internship. Upon successful completion and performance review, top performers will transition into a salaried, full-time position.\n\nKey Responsibilities\n\nUI/UX Design: Create wireframes, user flows, mockups, and interactive prototypes using tools like Figma or Adobe XD.Frontend Implementation: Translate design mockups into responsive, clean, and reusable web pages using HTML5, CSS3, and JavaScript.User-Centric Design: Understand user requirements, gather feedback, and continuously refine user journeys for digital products.Cross-Browser & Device Compatibility: Ensure designs render smoothly and consistently across desktop, tablet, and mobile browsers.Collaboration: Coordinate with backend developers and project stakeholders to implement UI features and optimize application usability.Qualifications & Requirements\n\nEducation: Bachelors degree in Computer Science, Design, Information Technology, or a related field (Recent graduates or final-year students welcome).Foundational Design Knowledge: Familiarity with modern UI/UX principles, design systems, typography, and color theory.Design Tools: Practical knowledge of Figma, Adobe XD, or Sketch.Frontend Basics: Hands-on understanding of HTML5, CSS3, and modern JavaScript (ES6+). Familiarity with frameworks (React, Tailwind CSS, or Bootstrap) is a plus.Portfolio/Projects: A portfolio, GitHub profile, or sample project links showcasing web design and basic coding projects is required.Mindset: Eager to learn, proactive, receptive to feedback, and capable of working in a fast-paced environment.Compensation & Progression\n\nFirst 3 Months: Unpaid training and assessment internship.Month 4 Onward: Full-time employment with a formal offer letter and industry-standard salary, subject to performance evaluation during the initial 3-month phase.Perks: Mentorship from experienced professionals, live production project exposure, and an Internship Completion Certificate.Compensation: From 5,000.00 per month\n\nBenefits:\n\nInternet reimbursementWork Location: Hybrid remote in Hyderabad, Telangana .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/ui-ux-design-frontend-development-intern-fresher/staunchcuil-services-private-limited/19570427?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/itlcHEw-yNjiX_dLOkMZCRJ66y0ZF6fW1vxUL95Un56jYG7Iweh46A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010269091122&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/ui-design-intern-nova-aira-crafter-hyderabad-telangana--t7xk-791979600?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/ui-ux-intern-product-design-steps-ai-hyderabad-2-to-5-years-experience-0ea1836e-264c-4ff4-821a-df0fbdf9ec95?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/3255427840618790912?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/salesforce-is-hiring-ui-ux-design-intern-hyderabad-1oiobi?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/335282261/ui-ux-design-frontend-development-intern-fresher-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJVSS9VWCBEZXNpZ24gXHUwMDI2IEZyb250ZW5kIERldmVsb3BtZW50IEludGVybiAoRnJlc2hlcikiLCJjb21wYW55X25hbWUiOiJTdGF1bmNoQ3VpbCBTZXJ2aWNlcyBQcml2YXRlIExpbWl0ZWQiLCJodGlkb2NpZCI6Imo3eVFxNFBEVDJMVUVSTlhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzI1UGJIRnRabGhVUW1sRmVuWTRRMjlSYW5JemVXRjJXV3BsTlZwTFpEZEdYM0JMYkhkQ2REUmFNWEJFTXpabWEyMUlRalpsTTA1RE5HeFVibWMxVTFGM1IzRTBUbTlqT0Mxdlp6TXdZV05JT0hoUU5uZ3lRVzlzYjBGWmJrSm9WbWR5ZW1adWFscGxMWGR0WVZwelJUaHZORTFEZUdRNWFUWTNWMlZuV1dnNFZWSmZaSE1TRjB3NE4wbGhjRTlMVFZsTFdISjFSVkJvYjBoU2NVRkpHaUpCUkhOeU9XWlJaa1JDZFdWV1gwVklNbXg0T1daNmFscHFSbGsxTTFsQlgyRm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJqN3lRcTRQRFQyTFVFUk5YQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "React / Next Js Digital Frontend Developer Hyderabad (India)",
+      "company_name": "Important Company of the Sector",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=79oclRZokAklUtCaAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0XOsU4CQRCH8djyCFb_Uoi5NSbEREqIigWFSk3m9oa9NXszm90JOTrfwefiJXgSobL5ul_yTU43k-0Hkzc4bHg0vFesYohGCS9FxVg6rPjASTMXvB07LtRSh7u1dJGmOP_84ltbVKbie6jgVTUkvl30Zrk-O1drakI1sugbr4NT4VZHd0H1ml3tqXBOZLx7nD-MTZYwe1oPWYuRGJY6ZJIjdA_rGZ_sTQui_L_c44sTSSChP5xr0l_QAAAA&shmds=v1_ARwrE22FiNTZYiFhQHQh1LtMacCCs8WiwGuJIcRbU6kETXhP6A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=79oclRZokAklUtCaAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/react-next-js-digital-frontend-developer-hyderabad-india/important-company-of-the-sector/19686343",
+      "job_title": "React / Next Js Digital Frontend Developer Hyderabad (India)",
+      "description": "Job Summary   \nWe are looking for an experienced React / Next.js Developer to join our digital team and take ownership of developing and maintaining our corporate website and related web applications. The ideal candidate should have strong front-end expertise combined with experience in deployment pipelines, CMS integration (Contentful), and contemporary development practices to deliver a seamless and high-performing user experience.  \n\nMust Have Skills (Mandatory)  \nStrong proficiency in React.js, Next.js, HTML5, CSS3/SCSS  \nExperience in developing responsive, SEO-friendly, and accessible web pages aligned with brand and UX guidelines  \nProven experience in integrating and managing headless CMS platforms, preferably Contentful  \nHands-on experience with API integration, authentication mechanisms, and web security best practices  \nExperience in building and maintaining CI/CD pipelines using Azure DevOps, GitHub Actions, or similar tools  \nFamiliarity with version control systems (Git), Docker, and cloud deployment platforms such as AWS, Azure, or Vercel  \nAbility to collaborate effectively with UI/UX designers, backend developers, and product managers to deliver functional, scalable solutions  \n\nGood to Have Skills (Optional)  \nExperience with TypeScript, Tailwind CSS, and Styled Components  \nKnowledge of Server-Side Rendering (SSR) and Static Site Generation (SSG) in Next.js  \nFamiliarity with analytics and SEO optimization tools such as Google Analytics, Google Tag Manager, and similar platforms  \nExperience working with design tools like Figma and integrating design systems  \nRobust debugging, performance optimization, and problem-solving abilities  \n\nQualifications & Experience  \nBachelors degree in Computer Science, Engineering, or a related field  \n3 to 6 years of experience in front-end web development using React.js and Next.js  \nDemonstrated experience in building and deploying corporate or marketing websites with headless CMS integrations  \nRobust understanding of modern DevOps workflows, CI/CD best practices, and cloud-based deployment environments  \nPassion for delivering clean, maintainable, and user-focused digital experiences .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/react-next-js-digital-frontend-developer-hyderabad-india/important-company-of-the-sector/19686343?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/339656902/frontend-developer-react-next-js-react-native-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZWFjdCAvIE5leHQgSnMgRGlnaXRhbCBGcm9udGVuZCBEZXZlbG9wZXIgSHlkZXJhYmFkIChJbmRpYSkiLCJjb21wYW55X25hbWUiOiJJbXBvcnRhbnQgQ29tcGFueSBvZiB0aGUgU2VjdG9yIiwiaHRpZG9jaWQiOiI3OW9jbFJab2tBa2xVdENhQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNrVmpibmh4V25WcVRrZ3RjWE01V1hScGFHbFFVa2xQV0dOVlIzSnpZbXh5Y1ZSSFh6TnhaRmhuZFVsbVJFMUpVRjlOT0RkamMyZGplbUl4TVVGdlZsbFNNelJXZGxKcmNEUkZTWFJ6TVVRdFFWbFBWa2RMUVdZM09YUk5kMHQ2TkVFeVNHaEtWbkJZZG1sclduYzJVazV6V25SblRtWnJkV2huVlhKUGQwTjVWelpzY204U0YwdzROMGxoY0U5TFRWbExXSEoxUlZCb2IwaFNjVUZKR2lKQlJITnlPV1pSY25Zd04yc3phalJQTkZwdE5IRktNRTVzTVhaNmVsSlNaR2hSIiwiZmN2IjoiMyIsImZjX2lkIjoiNzlvY2xSWm9rQWtsVXRDYUFBQUFBQT09In0="
+    },
+    {
+      "title": "React Developer - Freshers",
+      "company_name": "Service Pack",
+      "location": "Hyderabad, Telangana",
+      "via": "Cutshort",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=wMoM4qW3Sny1dBA6AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQ4BQRAG4GjvEVRTqIRbIRpaQSnoL3Prz-2xdjY7m8vpvIPG83kSNF_3Fe9BsTiCbaYNOniJSDSlbYI6JKXP80VXqUnByTqSQDuRxmO4djlHXRmj6stGM-fWllbuRgJq6c0v6Z9KHSdEzxnVfDnryxia8eiE1LUWdGB7ozbQ_nFB4povEzrDc2g48BcX_Jv2mwAAAA&shmds=v1_ARwrE23n_Ye-3eqCN8UdPd_oURZ_rSpBq_JRohLrWJasUUVrXw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=wMoM4qW3Sny1dBA6AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAG1BMVEXm5ub____l5eXp6ens7Oz7-_v19fXx8fH4-Pin8JYcAAABK0lEQVRIie2U227EIAxEwTY2___F9QVCqu16SdWHPjBSJCxxGDxYKeXo6F8J4JcYcXmOKtZqrfKQDKyJfvgADayj9si18m6rN0wL1DXtkAuDKIG03MTYMa5YKhdfce45MLNBbc7AKJE-Y-JYr3WCnk5mGBhYU4FdoLkmwuHm7z63yyiyOUB3k0l1svuNZvMB0o0T6zIGHGJkU9CnxNQEwwwK2NIWmBgG1uwNPVhpmqa7Y56qxxEGerkWz3A1nIEWh1vN11hgPjnLaoF9A7xZRbDkhxWS3jIQllXjGWaJltNUYRnFZiTFWQgLpKmCGgWjM8Td_Wmc1no6AN4P3_vEnVThnucL2BPwBTNwHpY6yhCZ0HSlmoSDa_vPenDR73r3i4RPenvXo6OjP9EXyg0HVQ-pUoAAAAAASUVORK5CYII.png",
+      "extensions": [
+        "₹4L–₹5L a year",
+        "Full–time"
+      ],
+      "source_link": "https://cutshort.io/job/React-Developer-Freshers-Hyderabad-Service-Pack-lg1OIRUn",
+      "job_title": "React Developer - Freshers",
+      "description": "Use your knowledge of JavaScript, CSS, HTML, and other web scripting languages to integrate ReactJS and other JavaScript library functions into front-end applications or websites.",
+      "apply_options": [
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/React-Developer-Freshers-Hyderabad-Service-Pack-lg1OIRUn?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/3762844960?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NiyukJobs | AI",
+          "link": "https://niyukjobs.ai/jobs-at-service-pack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZWFjdCBEZXZlbG9wZXIgLSBGcmVzaGVycyIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2UgUGFjayIsImh0aWRvY2lkIjoid01vTTRxVzNTbnkxZEJBNkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpTSGxrWlhKaFltRmtMRlJsYkdGdVoyRnVZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUR0ZWVFRCRlkzaDNPVlZCVjI5c01GSTJibUY2YkdwbGFXUklVamN3UjJ4UU5ERXRPWEpTY201WWFUaHZZMFV5UWpSemNuQTNOVE5TVG1oNVQyUllObWw2VGpRNWQyaElibnBNTXpaalpuazVja3hCY1Y5eGFFRmZPVEpaZFVOVmNVeHZRM2RYTUV4QlJEUnNMVlE1UTNoeGVXTm5ZVkIyU1V0SFFYbFBjR0pwT1ZCc05HNFNGMHc0TjBsaGNFOUxUVmxMV0hKMVJWQm9iMGhTY1VGSkdpSkJSSE55T1daU1ZISkRRa2RHTmtseWQycFdUMEYxWW1ac2NrUlhiekIyTVRKQiIsImZjdiI6IjMiLCJmY19pZCI6IndNb000cVczU255MWRCQTZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Salesforce Commerce Cloud Front End Developer Hyderabad",
+      "company_name": "Serendipity corporate services",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=k4CC7oOpc9kQ8r58AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0WOPW7CQBCFRcsRqKaOkI0ihQJKfstITo_Gu4O9aD2zmtlYuMsdcijuwUkwNDRPT_r09L3pbTL9rjCSnUUdwUa6jl4lyq-HvQpn2LGHLfUUJZHCcfCkWKOH-98_XKQGI1TXgjAcRJpIs3Wbc7JVWZrForGMObjCSVcKUy3XchzZM07WolKKmOn0-bW4Fombj2VFSuxDCnkAJ5pERz5KtA-ODAK_L8zhhyJyg4wP4iCISsoAAAA&shmds=v1_ARwrE201A3Mv1W_gJW01RJjrR3rsclFyPRh7p0EdmrOBY_xeYg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=k4CC7oOpc9kQ8r58AAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/salesforce-commerce-cloud-front-end-developer-hyderabad/serendipity-corporate-services/19490276",
+      "job_title": "Salesforce Commerce Cloud Front End Developer Hyderabad",
+      "description": "Salesforce Commerce Cloud Front-End Developer (UI/UX Implementation)  \n\nJob Summary:   \nThis position focuses on building a high-quality storefront experience on Salesforce Commerce Cloud using LWR and LWC. The role requires solid proficiency in UI engineering, an eye for design accuracy, and the ability to translate Figma specifications into performant, maintainable front-end components.   \n\nResponsibilities:  \nBuild and extend storefront pages using LWR and LWC aligned with Salesforce Commerce Cloudarchitecture and guardrails  \nConvert Figma designs into responsive, visually consistent, and reusable components  \nImplement mobile-first layouts with attention to spacing, grids, typography, and stateinteractions  \nApply WCAG-oriented accessibility standards across all UI surfaces  \nOptimize rendering performance, bundle size, static assets, and client-side behavior  \nWork with UX and product teams to validate feasibility of proposed designs and interactions  \nCollaborate with backend and commerce teams to integrate data models, content, andpersonalization elements  \nMaintain component libraries and adhere to naming, styling, and coding standards  \nConduct UI reviews, cross-browser checks, and regression validation for storefront releases. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/salesforce-commerce-cloud-front-end-developer-hyderabad/serendipity-corporate-services/19490276?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olibr",
+          "link": "https://olibr.com/jobs/salesforce-commerce-cloud-front-end-developer-hyderabad-serendipity-corporate-se-vzdxg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTYWxlc2ZvcmNlIENvbW1lcmNlIENsb3VkIEZyb250IEVuZCBEZXZlbG9wZXIgSHlkZXJhYmFkIiwiY29tcGFueV9uYW1lIjoiU2VyZW5kaXBpdHkgY29ycG9yYXRlIHNlcnZpY2VzIiwiaHRpZG9jaWQiOiJrNENDN29PcGM5a1E4cjU4QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNsRjRaWFV5YkhaMWIzWTFXV05oVVU5a1VXZzNaVFkzYkU1YVdqazFWWGxRVGtSUmIxRlBSMlZ2VDNCSGFIUkZZMlZHZVZaVWEybFBkRVJpYURjd1pFZFhNME14T1d4eE5YTTVRelY0YkhGdlpraHphMVp2Umtwc1EwcFNiV3hWUTNwYVpuVlliazFxZFV4TU5GZHpSbmhUU1doVFNGSXRZbE5DTW5sek9VMHhTa0ozYWxRU0YwdzROMGxoY0U5TFRWbExXSEoxUlZCb2IwaFNjVUZKR2lKQlJITnlPV1pVWld4Sk1VSk9iWFIwYVV4Qk5WSjRNMU5MU2xWelJHRmxhMngzIiwiZmN2IjoiMyIsImZjX2lkIjoiazRDQzdvT3BjOWtROHI1OEFBQUFBQT09In0="
+    },
+    {
+      "title": "React JS Developer",
+      "company_name": "SP Staffing Services Private Limited",
+      "location": "Secunderabad, Telangana",
+      "via": "Foundit",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=i8lyJOfH5trHPf08AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMQrCMBRAcfUITn9WaURw0cFFEMShGPfym_6mkTQJ-d_S0Tt4DG_lSazLW957889svroRGoGLhhMN5GOiDN_XGx6xBibMpoMY4Byj9bQ4dCKJ90ox-8KyoDhTmNirGKiOo5om_qPiDjMlj0LVdrcZixTs8qhL0IJt64IFTXlwhhjK7IYpg6vrnVADLkzOPENDGWts1nAnj8FiwB-7LaYFrgAAAA&shmds=v1_ARwrE23BKoGh9D7O2Izuybb5CRnxhjSGWBorhYAfkYOu_XYXDg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=i8lyJOfH5trHPf08AAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.foundit.in/job/react-js-developer-sp-staffing-services-private-limited-hyderabad-secunderabad-telangana-33867123",
+      "job_title": "React JS Developer",
+      "description": "DescriptionWe are looking for a highly experienced React JS Developer to join our team. The ideal candidate should have 8-12 years of experience in building complex web applications using React JS and related technologies. The candidate should be proficient in using React JS to build scalable, responsive, and interactive user interfaces for web and mobile applications. The candidate should be able to work independently and as part of a team, and should have excellent communication and problem-solving skills.\n\n\n\nResponsibilitiesDevelop user-friendly web and mobile applications using React JSWrite clean, maintainable, and efficient codeBuild reusable components and libraries for future useOptimize applications for maximum speed and scalabilityCollaborate with other team members and stakeholders to ensure smooth project deliveryStay up-to-date with emerging trends and technologies in frontend development\n\nSkills and Qualifications8-12 years of experience in frontend development with a focus on React JSStrong proficiency in JavaScript, HTML, CSS, and related frontend technologiesExperience in building scalable and interactive user interfaces for web and mobile applicationsExperience in using Redux, React Hooks, and other related libraries and frameworksExperience in integrating frontend applications with backend APIsExperience in using Git for version controlExperience in Agile/Scrum development methodologiesExcellent communication and problem-solving skillsBachelor's or Master's degree in Computer Science or a related field",
+      "apply_options": [
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/react-js-developer-sp-staffing-services-private-limited-hyderabad-secunderabad-telangana-33867123?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/4675001065968747125?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.sg/job/react-js-developer-sp-staffing-services-private-limited-hyderabad-secunderabad-telangana-33867123?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/educare-india-react-js-developer-hyderabad-secunderabad-telangana-telangana-0-to-1-years-1334662?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZWFjdCBKUyBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJTUCBTdGFmZmluZyBTZXJ2aWNlcyBQcml2YXRlIExpbWl0ZWQiLCJodGlkb2NpZCI6Imk4bHlKT2ZINXRySFBmMDhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1doQldUZEVOVTlMZFVOTFNIRlBUMFpGY1cwMFdUUlZOV040TTBrdFVrbGlOMEptWlVORFJqQTBlVTV5U25sNFVqSTBUbEZmVTNkMmRubGtUWEkyYjNKUk4yMXRSVEZFVTIxM1JVd3hMWGR6ZFVRNWQweExjVmxYVlc5TFpXMVdPVGRsWWt4bGNGbG9WVWxvZUhFelUycG9NbTlSWkVadk56VnhTa016V2pKMVMzTnJZeklTRjB3NE4wbGhjRTlMVFZsTFdISjFSVkJvYjBoU2NVRkpHaUpCUkhOeU9XWlVWa1JoTTJkRmJYRnpUaTFaU0ZneFZHOU9ValJsZEZabFRVaG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJpOGx5Sk9mSDV0ckhQZjA4QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Fresher Full stack developer (work from home)",
+      "company_name": "Busibud Solutions Private Limited",
+      "location": "Anywhere",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=8klgozCBJHACUADDAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQ7CMBAERcsTqK4EhBKERANUFKGhQAo9uthHbOL4LJ8NlPyBJ_ETXkJothjN7PgzGldVJDEUocrOgSRUHWi6k-MwwOmDYwfXyD0Y7mkG39cbbtyAEEZlgD0cmFtHk61JKcimLEVc0Q4_yapCcV-yp4af5RDJfy5iMFJwmOiyWi-fRfDtfLfPYpusoWaXk2UvcIr2PjhwtL1NpMF6qEllrylig3oBZ3LoW_T4A72W-JLGAAAA&shmds=v1_ARwrE220r0LM8dCqe0WLsVPa9UxHc-83dK9jZNYuccHApuT45w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=8klgozCBJHACUADDAAAAAA%3D%3D",
+      "extensions": [
+        "6 days ago",
+        "₹3L–₹4L a year",
+        "Work from home",
+        "Full–time"
+      ],
+      "source_link": "https://in.jooble.org/jdp/2986038340198396274",
+      "job_title": "Fresher Full stack developer (work from home)",
+      "description": "Job Details*\n\n- We require someone who comes with a wide range of experience in the LAMP stack. Our software can be very complex, so be prepared. \n\n- We mainly use Javascript/jQuery for our frontend mainstay, so you would be required to gain proficiency in this as well. \n\n- We use a couple of database systems, MySQL and Apache Solr. You would be expected to become comfortable with their use, deployment, and scaling. \n\n- Our devs are mini-server admins as well and you would need to learn how to work through a Linux terminal. \n\n- We rigorously document our entire codebase, so you will be expected to document A LOT!\n\n- We would prefer a candidate who can demonstrate creative live projects and has a Github profile they can show off. Although, this is not required. \n\n\n\n Job Summary*\n\n We're building automated customer service software and we need a full-stack developer to join our technological roller coaster. Join us and watch your product go through the entire life cycle. Plan it, build it, test it, deploy it, scale it, and sip coffee while you watch it grow!\n\n\n\n Currently open to Indian Applicants Only.",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/2986038340198396274?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olibr",
+          "link": "https://olibr.com/jobs/fresher-full-stack-developer-work-from-home-busibud-solutions-private-ltd-npw9z?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/3731976933378883584?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcmVzaGVyIEZ1bGwgc3RhY2sgZGV2ZWxvcGVyICh3b3JrIGZyb20gaG9tZSkiLCJjb21wYW55X25hbWUiOiJCdXNpYnVkIFNvbHV0aW9ucyBQcml2YXRlIExpbWl0ZWQiLCJodGlkb2NpZCI6IjhrbGdvekNCSkhBQ1VBRERBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU21ZM1FucFBjM0V5TW5Gd1RqUk9Za0ptZURZMlEwRk5NbGgyUVZOd1MxOWxjWGh5ZEVKeGIwOXBTV2x6T0dSVVNscHdhRlZCZEVKdFJGRkxVelI0YTI5T2QxRjNVak5RT0ZWd05Ia3lXWFpYVFdkTlNsazBSM1l6YVZKTVkwNVNVWEkxY1ZZeU5WUjRPVlUzVGxwblZGTldRWEZwVERkSmRWVm9WWGR3VUhsTVIxQlJURjhTRjB3NE4wbGhjRTlMVFZsTFdISjFSVkJvYjBoU2NVRkpHaUpCUkhOeU9XWlRjVE5wVUc5TFNVRmxORWxKYlRCemREUjRhV2sxTWtwVFZYRjMiLCJmY3YiOiIzIiwiZmNfaWQiOiI4a2xnb3pDQkpIQUNVQUREQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Fresher Full Stack Developer Work From Home Secunderabad",
+      "company_name": "Busibud Solutions Private",
+      "location": "Secunderabad, Telangana",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=IfIT3ksh6nSQUH7wAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_1WOMQrCQBBFsc0RrKYWSUS00U4kWioRLMNkM2TXbHbCzm5I6R28kwfxJMbS5heP9-An71lyzT2JJg95tBaKgKqFIw1kuZ_gnX0LuecOztwRFKSiq8ljhTV8ni94cAVC6JUGdnBibizN9zqEXnZZJmLTRgIGo1LFXcaOKh6zKZLflKLRU28xULnersa0d81ic4hiqlhDwTYGw07g4s0wOWDc34El3Miia9DhF8F8_XbJAAAA&shmds=v1_ARwrE22x9QNwtz64diUZUXvJudR5gsxTib5KjSnybEpotnpEIQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=IfIT3ksh6nSQUH7wAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jobrapido.com/jobpreview/7476348388607262720",
+      "job_title": "Fresher Full Stack Developer Work From Home Secunderabad",
+      "description": "Job Details*  \nWe require someone who comes with a wide range of experience in the LAMP stack. Our software can be very complex, so be prepared.  \nWe mainly use Javascript/jQuery for our frontend mainstay, so you would be required to gain proficiency in this as well.  \nWe use a couple of database systems, MySQL and Apache Solr. You would be expected to become comfortable with their use, deployment, and scaling.  \nOur devs are mini-server admins as well and you would need to learn how to work through a Linux terminal.  \nWe rigorously document our entire codebase, so you will be expected to document A LOT!  \nWe would prefer a candidate who can demonstrate creative live projects and has a Github profile they can show off. Although, this is not required.  \n\nJob Summary*  \n\nWe're building automated customer service software and we need a full-stack developer to join our technological roller coaster. Join us and watch your product go through the entire life cycle. Plan it, build it, test it, deploy it, scale it, and sip coffee while you watch it grow!  \n\nCurrently open to Indian Applicants Only.",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/7476348388607262720?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcmVzaGVyIEZ1bGwgU3RhY2sgRGV2ZWxvcGVyIFdvcmsgRnJvbSBIb21lIFNlY3VuZGVyYWJhZCIsImNvbXBhbnlfbmFtZSI6IkJ1c2lidWQgU29sdXRpb25zIFByaXZhdGUiLCJodGlkb2NpZCI6IklmSVQza3NoNm5TUVVIN3dBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2tveVNXMURiVTA0U1VwdVZteFdNell6ZVZFdGExTXRUVlp2VGpaUGNuTlNaVlZmVm5aNlZVUnVhRmMxY0c1T1ZsWTJibUZDVFZKTVdURlpOR0p2Y1cxM1MxUlNSM0ZRWmxabVpGUmtUbVZYV1MxeU5XMXVaRk5MYmxGbk9EaGZUbFYyWldRMmFEVlFkR1JuVWxGWVJGRklaVU53VEhkeFprSnlOWEJZTWpZNGNtRXpVWFVTRjB3NE4wbGhjRTlMVFZsTFdISjFSVkJvYjBoU2NVRkpHaUpCUkhOeU9XWlJjMVJqVkRaSVozSmZNMHBxVlhkMlRYUnBjRWQ0ZGpjMlJVUkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJJZklUM2tzaDZuU1FVSDd3QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Front-End Developer (Hyderabad)",
+      "company_name": "Luxoft",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=gVcR6gLUw-Dy_iMpAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z3Nvw4BQRCA8WjvERQyJcKtSDQUGv8KHf1l7m7snqyZze6Q03kHvYfzJGg0X_fLl7062fJA3EiETRTW8ZprWNGNvASK0N_da4pYYj2A9-MJZykhEcbKgTBsRayn7sKphjQ3JiWf26SoTZVXcjHCVEprvij9UiSHkYJHpWI6m7R5YDvs7a-tnBQahv9rBEfyyBYZP4t5_TehAAAA&shmds=v1_ARwrE23NhyEsncPD6-7uRf1bz8wTiyDEBuC-oz5mPNE8ZJjbyg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=gVcR6gLUw-Dy_iMpAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAXCAMAAABponzPAAAAA1BMVEX___-nxBvIAAAAFElEQVQ4jWNgGAWjYBSMglGABQAABR8AAS7g7mIAAAAASUVORK5CYII.png",
+      "extensions": [
+        "13 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/senior-front-end-developer-hyderabad/luxoft/19594609",
+      "job_title": "Senior Front-End Developer (Hyderabad)",
+      "description": "Project description  \n\nWe are looking for a skilled Front-End Developer to design, develop, and maintain modern web applications that deliver exceptional user experiences. The ideal candidate has strong expertise in React, modern JavaScript frameworks, responsive UI development, and integration with backend APIs in enterprise environments. You will collaborate with cross-functional teams including backend engineers, architects, UX designers, DevOps engineers, and product owners to build scalable, high-performance applications using modern engineering practices and cloud technologies.  \n\nResponsibilities\n\n- Design and develop responsive, reusable, and maintainable web applications using React.\n- Build modern user interfaces using HTML5, CSS3, JavaScript, and TypeScript.\n- Develop and maintain Micro Frontend (MFE) architectures for large-scale enterprise applications.\n- Integrate front-end applications with RESTful APIs and backend microservices.\n- Optimize application performance, accessibility, and overall user experience.\n- Participate in application design, technical discussions, and architecture reviews.\n- Write clean, testable, and maintainable code following industry best practices.\n- Collaborate with QA teams to support automated and manual testing activities.\n- Troubleshoot production issues and provide ongoing application support.\n- Contribute to CI/CD pipelines and deployment automation.\n- Participate in Agile ceremonies including sprint planning, daily standups, retrospectives, and code reviews.\n\nSKILLS  \n\nMust have\n\n- 10+ years of professional front-end development experience.\n- Strong proficiency in React.js.\n- Experience implementing Micro Frontends (MFE).\n- Good knowledge of: o JavaScript (ES6+) o TypeScript o HTML5 o CSS3 / SCSS\n- Experience consuming and integrating REST APIs.\n- Familiarity with Git-based development workflows.\n- Positive understanding of responsive and mobile-first design principles.\n- Deep expertise in React ecosystem and component architecture.\n- Strong understanding of front-end application performance optimization.\n- Experience contributing to architecture and technical design decisions.\n- Knowledge of CI/CD processes and deployment automation.\n- Experience mentoring junior developers and conducting code reviews.\n- Ability to lead development initiatives and drive technical improvements.\n- Experience working in Agile/Scrum environments.\n- Strong problem-solving and debugging skills.\n\nNice to have  \n\n- Experience with: o Redux, Zustand, or similar state management libraries o GraphQL o Node.js, Express.js, or NestJS o Next.js o Vue.js or Angular  Knowledge of containerization technologies such as Docker.  Familiarity with cloud platforms including AWS and/or Azure.  Understanding of microservices-based architectures.  Experience working on banking, financial services, or other enterprise-scale systems.  Exposure to DevOps and cloud-native development practices. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-front-end-developer-hyderabad/luxoft/19594609?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/336941120/senior-front-end-developer-hyderabad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRnJvbnQtRW5kIERldmVsb3BlciAoSHlkZXJhYmFkKSIsImNvbXBhbnlfbmFtZSI6Ikx1eG9mdCIsImh0aWRvY2lkIjoiZ1ZjUjZnTFV3LUR5X2lNcEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpTSGxrWlhKaFltRmtMRlJsYkdGdVoyRnVZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURWxOTkZsRU9EaFFTbkExWlhWSldXZGFNblpxZEdWTFFuQjRZVEpmTUVKaFNsbG1jVGROVUdNeU0wSllZVTR6UW5aMGJGaEpTRkV6V1RCV1Rtc3dSWFpvWm1wRVIwbDVZVXBZYW1OMmIxRTFiME5MWVVkek5sZEVZazB0YldacFdYTnFUVXRpYVRWSU1uUkhOWE01TkRNeGFFaFlXVUphTW1aUVpYSlVZMlp5YVVWQlkyUVNGMHc0TjBsaGNFOUxUVmxMV0hKMVJWQm9iMGhTY1VGSkdpSkJSSE55T1daUlpYZ3diRXhsTVdGbVoyOUJka0l6ZVRabGVYWnVXV0ZxT1RkMyIsImZjdiI6IjMiLCJmY19pZCI6ImdWY1I2Z0xVdy1EeV9pTXBBQUFBQUE9PSJ9"
+    },
+    {
+      "title": ".NET Developer - Immediate Start",
+      "company_name": "Neev Systems",
+      "location": "Secunderabad, Telangana",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Frontend+Developer+fresher&htidocid=O3CAdjH5Gw2HyNwuAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMPQrCQBBAYWxzBKvpBNFdESzUVhGbNLEPk82wiewfO2OInXfwBF7Nkxib132v-MyKvSrPNzjRQC4myrCGq_fU9igElWAW-L7ecI8NMGE2HcQAlxito_mxE0l80JrZKcuC0htlotcxUBNHPSH-p-YOMyU3LevtbjOqFOxyURINUD1ZyDP0ASoyj9BSxgbbFdzIYbAY8AfJS47GpAAAAA&shmds=v1_ARwrE20bS_cp9YZnAE_6yATvUOenOlpEe5i-jPrhuwq4vRfqOA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Frontend+Developer+fresher&htidocid=O3CAdjH5Gw2HyNwuAAAAAA%3D%3D",
+      "extensions": [
+        "26 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jooble.org/rjdp/-4456197835080561908",
+      "job_title": ".NET Developer - Immediate Start",
+      "description": "Home » .Net Developer\n\n\r\nNet Developer\n\n\r\nby HR Neev Systems\n\n\r\nAugust 28, 2026August 28, 2026\n\n\r\nExp :- 5-7 Years\n\n\r\nLocation :- Hyderabad\n\n\r\nNotice :- Immediate\n\n\r\nRole Description\n\n\r\nAs a Senior Developer, you will design and build features and enhancements for .NET-based applications within the energy domain. The role involves contributing to technical solutioning using the Microsoft stack, including C#, .NET, ASP.NET, and MS SQL, while aligning with strategic product architecture decisions.\n\n\r\nResponsibilities\n\n\r\nParticipate in requirements analysis and contribute to solution understanding.\n\n\r\nDevelop clean, scalable applications using Microsoft .NET technologies, including .NET, C#, MVC, and SQL.\n\n\r\nHandle administration and configuration tasks, including application testing, deployment, and system setup.\n\n\r\nWork on SQL and PL/SQL with medium to high complexity.\n\n\r\nTake ownership of application configuration and deployment activities.\n\n\r\nCollaborate effectively within an Agile development environment.\n\n\r\nQualifications & Desired Skills\n\n\r\nExposure to clean code practices and familiarity with AI-assisted development tools such as Claude or GitHub Copilot for design and programming support.\n\n\r\n5 years of experience in IT focused on designing and developing client–server applications using C# and .NET, along with hands-on experience in SQL and PL/SQL\n\n\r\nProficient in working with source code management tools such as Git, as well as continuous integration and build deployment pipelines.\n\n\r\nStrong written and verbal communication skills, with a solid understanding of Agile methodologies.\n\n\r\nApply for this position\n\n\r\nFull Name *\n\n\r\nEmail *\n\n\r\nPhone *\n\n\r\nBio *\n\n\r\nUpload CV/Resume *Allowed Type(s): .pdf, .doc, .docx\n\n\r\nBy using this form you agree with the storage and handling of your data by this website. *\n\n\r\npreviousSenior Java Developer",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/rjdp/-4456197835080561908?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiIuTkVUIERldmVsb3BlciAtIEltbWVkaWF0ZSBTdGFydCIsImNvbXBhbnlfbmFtZSI6Ik5lZXYgU3lzdGVtcyIsImh0aWRvY2lkIjoiTzNDQWRqSDVHdzJIeU53dUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpTSGxrWlhKaFltRmtMRlJsYkdGdVoyRnVZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTblJKTW5wWU9GaE1hbFJRU2xKQlprUkNRbTFPU0RKRVJIaFhTSHBRUm1OblowRnFlSEZ2TjBoc1luRjVhVUZHWDJWcGRuaE9hVTh3Ykc5a1ZXVnFXRGMyVUZwTGVVcG5jbUpFYmxsVk9HWTBkR1ZzT0VjM05IVTJUbkV3WDJwcVgwVjBlVlpsT0UxQlNrcERZaTB0TmtWd1FtSmhRbFJFVFd4RFUwdG5abkJyVTI5c1RFRVNGMHc0TjBsaGNFOUxUVmxMV0hKMVJWQm9iMGhTY1VGSkdpSkJSSE55T1daVWVWWm1NbmhyY1Vad09WTnJXV1ExTUU5S1EzcEVNalE0UjNSbiIsImZjdiI6IjMiLCJmY19pZCI6Ik8zQ0Fkakg1R3cySHlOd3VBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBURTF1YkRjNGNVdGhXbXh2U1RrdFkyOVpiWE5aWDBwRVRUQk5WVkJmY2xCelV5MTZWa0ptY1hGcVpXeHZNRFZ0WHpJNVpGUnZNVkp1YTNOSVpFTlZNM001UWtSWE0xZERaelpJZFRWa05YTldMVzVmYkZZMVNEQTRhMDVwVlc1S1FtaEJhazVEYUcxMmMzcDJhMHRmVTAxVFVWQnRVVWhTYnpGaGFqVlJVakY0UlhoV2RVbE1kamhIUm1wT1VuTlNTMGhTT0VzNGJ6TjNUREZ6ZFRGcGRFOHhUbDlrYW10Nk1FMW9MVEo2UVZOWlptc3lOWGRVTTBka1JYcHpYMUZGVEV4TU1sRlJlSHAzTkhkMFl6bHpXalZXTkd4ME1qTXdhRlY1UVVaVE9XczVWa2hrZWxJeVJVVTFaV2g2VTFSV2JWWlpjMDh5VFZGcFlWZFBZVGh6VUVWNk1HUnJaSFJwYUhRNWJqbFRXalpRY0RWV1NHRlVOR1JIV1hkU1dGVTBTbHBaTWpKemRsYzFlRU5sY1UxaU5EVk1VRE52TFU0eFVrOWpUamxVZEZWZmJGbHlkMFVTRjB3NE4wbGhjRTlMVFZsTFdISjFSVkJvYjBoU2NVRkpHaUpCUkhOeU9XWlNVREZzZFVSeFdXdDVlRmhmWlVvME0wRnphRVp2WVhCWE1EVlIiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBURTF1YkRjNGNVdGhXbXh2U1RrdFkyOVpiWE5aWDBwRVRUQk5WVkJmY2xCelV5MTZWa0ptY1hGcVpXeHZNRFZ0WHpJNVpGUnZNVkp1YTNOSVpFTlZNM001UWtSWE0xZERaelpJZFRWa05YTldMVzVmYkZZMVNEQTRhMDVwVlc1S1FtaEJhazVEYUcxMmMzcDJhMHRmVTAxVFVWQnRVVWhTYnpGaGFqVlJVakY0UlhoV2RVbE1kamhIUm1wT1VuTlNTMGhTT0VzNGJ6TjNUREZ6ZFRGcGRFOHhUbDlrYW10Nk1FMW9MVEo2UVZOWlptc3lOWGRVTTBka1JYcHpYMUZGVEV4TU1sRlJlSHAzTkhkMFl6bHpXalZXTkd4ME1qTXdhRlY1UVVaVE9XczVWa2hrZWxJeVJVVTFaV2g2VTFSV2JWWlpjMDh5VFZGcFlWZFBZVGh6VUVWNk1HUnJaSFJwYUhRNWJqbFRXalpRY0RWV1NHRlVOR1JIV1hkU1dGVTBTbHBaTWpKemRsYzFlRU5sY1UxaU5EVk1VRE52TFU0eFVrOWpUamxVZEZWZmJGbHlkMFVTRjB3NE4wbGhjRTlMVFZsTFdISjFSVkJvYjBoU2NVRkpHaUpCUkhOeU9XWlNVREZzZFVSeFdXdDVlRmhmWlVvME0wRnphRVp2WVhCWE1EVlIiLCJmY3YiOiIzIn0%3D&q=Frontend+Developer+fresher"
+  },
+  "_retrieved_at": "2026-10-09 11:21:16 UTC"
+}

@@ -1,0 +1,248 @@
+{
+  "search_metadata": {
+    "id": "6ac8cddcd10c6a9c58642cfb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Y25B9zY36hDmeeI2SHkAzWbn6GF7Gg-TLAVntWXtDd8/6ac8cddcd10c6a9c58642cfb.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Y25B9zY36hDmeeI2SHkAzWbn6GF7Gg-TLAVntWXtDd8/6ac8cddcd10c6a9c58642cfb.md",
+    "created_at": "2026-10-09 11:19:56 UTC",
+    "processed_at": "2026-10-09 11:19:56 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Digital+Marketing+Executive+fresher&uule=w+CAIQICIfUHVuZSBEaXZpc2lvbixNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/Y25B9zY36hDmeeI2SHkAzWbn6GF7Gg-TLAVntWXtDd8/6ac8cddcd10c6a9c58642cfb.html",
+    "total_time_taken": 38.43
+  },
+  "search_parameters": {
+    "q": "Digital Marketing Executive fresher",
+    "engine": "google_jobs",
+    "location_requested": "Pune, India",
+    "location_used": "Pune Division,Maharashtra,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruNQoIX2hVRvWC7VWmS862ObBemvT2Cr1uON34ChuDmPfHlNWqQp6IU15HckNAuzW8pCavq3uzO5okyDUtKy-M2c_53t8IoxK7rhF7AoK2AtyoP51y7ASOUOi9U53d9MNe0ytVSbntVL_IVxmNhCCBeW2B6bdT3AeGSobBoYgE8BOysJE",
+        "q": "Digital Marketing Executive fresher remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruNQoIX2hVRvWC7VWmS862ObBemvT2Cr1uON34ChuDmPfHlNWqQp6IU15HckNAuzW8pCavq3uzO5okyDUtKy-M2c_53t8IoxK7rhF7AoK2AtyoP51y7ASOUOi9U53d9MNe0ytVSbntVL_IVxmNhCCBeW2B6bdT3AeGSobBoYgE8BOysJE&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruNQoIX2hVRvWC7VWmS862ObBemvT2Cr1uON34ChuDmPfHlNWqQp6IU15HckNAuzW8pCavq3uzO5okyDUtKy-M2c_53t8IoxK7rhF7AoK2AtyoP51y7ASOUOi9U53d9MNe0ytVSbntVL_IVxmNhCCBeW2B6bdT3AeGSobBoYgE8BOysJE"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXt9dLAvYFhNdL1Q5N0xjrfwphyDMbtij71Pp4P_H6sbYEfSeRqB93Clt2TXymp1eHE2NlFEdXyBTkR--LR8DeB5ZqSrca1ERRdI7PYhrmXoFDmo8sbbVGLD-N8msnGZCzxM2TIBZZClTtK-WpdjIXLd5IR_CQBiheLgQ3cfW7zm52PlNiGA_ePceZqLKHgOyGeQDFVKPktoReyN1sWh2GUqb-EY358exyGjHcdACyL5ynD6UwWuNzPyAYOx5s49fL1pzSxbjDNNbPzU0bOm4w5PslPs3o",
+            "q": "Digital Marketing Executive fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXt9dLAvYFhNdL1Q5N0xjrfwphyDMbtij71Pp4P_H6sbYEfSeRqB93Clt2TXymp1eHE2NlFEdXyBTkR--LR8DeB5ZqSrca1ERRdI7PYhrmXoFDmo8sbbVGLD-N8msnGZCzxM2TIBZZClTtK-WpdjIXLd5IR_CQBiheLgQ3cfW7zm52PlNiGA_ePceZqLKHgOyGeQDFVKPktoReyN1sWh2GUqb-EY358exyGjHcdACyL5ynD6UwWuNzPyAYOx5s49fL1pzSxbjDNNbPzU0bOm4w5PslPs3o&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXt9dLAvYFhNdL1Q5N0xjrfwphyDMbtij71Pp4P_H6sbYEfSeRqB93Clt2TXymp1eHE2NlFEdXyBTkR--LR8DeB5ZqSrca1ERRdI7PYhrmXoFDmo8sbbVGLD-N8msnGZCzxM2TIBZZClTtK-WpdjIXLd5IR_CQBiheLgQ3cfW7zm52PlNiGA_ePceZqLKHgOyGeQDFVKPktoReyN1sWh2GUqb-EY358exyGjHcdACyL5ynD6UwWuNzPyAYOx5s49fL1pzSxbjDNNbPzU0bOm4w5PslPs3o"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXtPFcTZCd0MWRyNWk-e5ZlLaw36kGhQ4vIim6OSHOK-oVllIi364pUidRRXmG2HlilM6PL9jyZbblIsnITrv53wUjaxUFfq6czI0idtj_JkbAu6iZTviytr66vb48ZKzx5TtOjLyHWZSfPlj5tn19fAwItxm44JsSJGaY13Dil0hSFBDc7aeN7CruyvoWjeNBJh4KCwzVsoPBmHSH7josweQWbr0_6GhEKWoZ1c7xmcbj0iLTzmhx90_QmAtNgU52Q-2CB190Kw0d55OIPhoHWeILn9zMzFPGXj3YNRaQzaZt7DwV_",
+            "q": "Digital Marketing Executive fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXtPFcTZCd0MWRyNWk-e5ZlLaw36kGhQ4vIim6OSHOK-oVllIi364pUidRRXmG2HlilM6PL9jyZbblIsnITrv53wUjaxUFfq6czI0idtj_JkbAu6iZTviytr66vb48ZKzx5TtOjLyHWZSfPlj5tn19fAwItxm44JsSJGaY13Dil0hSFBDc7aeN7CruyvoWjeNBJh4KCwzVsoPBmHSH7josweQWbr0_6GhEKWoZ1c7xmcbj0iLTzmhx90_QmAtNgU52Q-2CB190Kw0d55OIPhoHWeILn9zMzFPGXj3YNRaQzaZt7DwV_&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXtPFcTZCd0MWRyNWk-e5ZlLaw36kGhQ4vIim6OSHOK-oVllIi364pUidRRXmG2HlilM6PL9jyZbblIsnITrv53wUjaxUFfq6czI0idtj_JkbAu6iZTviytr66vb48ZKzx5TtOjLyHWZSfPlj5tn19fAwItxm44JsSJGaY13Dil0hSFBDc7aeN7CruyvoWjeNBJh4KCwzVsoPBmHSH7josweQWbr0_6GhEKWoZ1c7xmcbj0iLTzmhx90_QmAtNgU52Q-2CB190Kw0d55OIPhoHWeILn9zMzFPGXj3YNRaQzaZt7DwV_"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eioSuLlvjY3NqdhX2cI601ANdcrwLBFVcENNy7SnnMGYHO9ypkD8enx9u4x2vX6OmE5io0eK-5CmU7DhhBEcr4FqYmYFnfH2IVlR_d0PB4WrM5BVdoZgrv-cbrXQlBUxu0I-9JpaBR0VD6itDb5_sUyi39YjMQjZxfSxae7kqWsFHabT4dU8Dd1_FmD8CRXM_hJ8YfWAUI-fHOqwnk4yywwppcioq_M-hI0i2BGY0YF9yCYofeFPIBs--SlpmB5O32yauJJ2Tfm_oZ6Cpd_-wQPc4NIVYB3n8SiWdsVEkhyUx__3T-Z6OLndPFIx2RHFQHct3pVI",
+            "q": "Digital Marketing Executive fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eioSuLlvjY3NqdhX2cI601ANdcrwLBFVcENNy7SnnMGYHO9ypkD8enx9u4x2vX6OmE5io0eK-5CmU7DhhBEcr4FqYmYFnfH2IVlR_d0PB4WrM5BVdoZgrv-cbrXQlBUxu0I-9JpaBR0VD6itDb5_sUyi39YjMQjZxfSxae7kqWsFHabT4dU8Dd1_FmD8CRXM_hJ8YfWAUI-fHOqwnk4yywwppcioq_M-hI0i2BGY0YF9yCYofeFPIBs--SlpmB5O32yauJJ2Tfm_oZ6Cpd_-wQPc4NIVYB3n8SiWdsVEkhyUx__3T-Z6OLndPFIx2RHFQHct3pVI&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eioSuLlvjY3NqdhX2cI601ANdcrwLBFVcENNy7SnnMGYHO9ypkD8enx9u4x2vX6OmE5io0eK-5CmU7DhhBEcr4FqYmYFnfH2IVlR_d0PB4WrM5BVdoZgrv-cbrXQlBUxu0I-9JpaBR0VD6itDb5_sUyi39YjMQjZxfSxae7kqWsFHabT4dU8Dd1_FmD8CRXM_hJ8YfWAUI-fHOqwnk4yywwppcioq_M-hI0i2BGY0YF9yCYofeFPIBs--SlpmB5O32yauJJ2Tfm_oZ6Cpd_-wQPc4NIVYB3n8SiWdsVEkhyUx__3T-Z6OLndPFIx2RHFQHct3pVI"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rX7edpApC7IptBgvJqzmWFFmVFx_e6WHRbevriEPhnKrvtZax4EDhbW4Ozik7jtZtBNcwXWfmihNp1ML_gH8my2Nluv2wI_6Dwmo4ouQnYd6d2OkGjqDDuF6JMAOWeDf4XidtYVFb4e2jq6xfrwprH_-7lsDSWF2Ig58M-3weXB4wQA0gkgraM2bcLKHB7OaRzOOiznoFjnOcrCugNR7n9buA5bGd4RAZTcYHBcUJPqsAwOdOWU3k10u1Fyf8xMmccSQGCgZXAWp0AsB1iQKbq6Wwva8pD6hcYo3v4gc8T6jB0gHBuLMTZLqEo5uJJfI7S74e91-I62k5TjS1TSvhmLeNyo4",
+            "q": "Digital Marketing Executive fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX7edpApC7IptBgvJqzmWFFmVFx_e6WHRbevriEPhnKrvtZax4EDhbW4Ozik7jtZtBNcwXWfmihNp1ML_gH8my2Nluv2wI_6Dwmo4ouQnYd6d2OkGjqDDuF6JMAOWeDf4XidtYVFb4e2jq6xfrwprH_-7lsDSWF2Ig58M-3weXB4wQA0gkgraM2bcLKHB7OaRzOOiznoFjnOcrCugNR7n9buA5bGd4RAZTcYHBcUJPqsAwOdOWU3k10u1Fyf8xMmccSQGCgZXAWp0AsB1iQKbq6Wwva8pD6hcYo3v4gc8T6jB0gHBuLMTZLqEo5uJJfI7S74e91-I62k5TjS1TSvhmLeNyo4&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX7edpApC7IptBgvJqzmWFFmVFx_e6WHRbevriEPhnKrvtZax4EDhbW4Ozik7jtZtBNcwXWfmihNp1ML_gH8my2Nluv2wI_6Dwmo4ouQnYd6d2OkGjqDDuF6JMAOWeDf4XidtYVFb4e2jq6xfrwprH_-7lsDSWF2Ig58M-3weXB4wQA0gkgraM2bcLKHB7OaRzOOiznoFjnOcrCugNR7n9buA5bGd4RAZTcYHBcUJPqsAwOdOWU3k10u1Fyf8xMmccSQGCgZXAWp0AsB1iQKbq6Wwva8pD6hcYo3v4gc8T6jB0gHBuLMTZLqEo5uJJfI7S74e91-I62k5TjS1TSvhmLeNyo4"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXt9dLAvYFhNdL1Q5N0xjrfwphyDMbtij71Pp4P_H6sbYEfSeRqB93Clt2TXymp1eHE2NlFEdXyBTkR--LR8DeB5ZqSrca1ERRdI7PYhrmXoFDmo8sbbVGLD-N8msnGZCzxM2TIBZZClTtK-WpdjIXLd5IR_CQBiheLgQ3cfW7zm52PlNiGA_ePceZqLKHgOyGeQDFVKPktoReyN1sWh2GUqb-EY358exyGjHcdACyL5ynD6UwWuNzPyAYOx5s49fL1pzSxbjDNNbPzU0bOm4w5PslPs3o",
+            "q": "Digital Marketing Executive fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXt9dLAvYFhNdL1Q5N0xjrfwphyDMbtij71Pp4P_H6sbYEfSeRqB93Clt2TXymp1eHE2NlFEdXyBTkR--LR8DeB5ZqSrca1ERRdI7PYhrmXoFDmo8sbbVGLD-N8msnGZCzxM2TIBZZClTtK-WpdjIXLd5IR_CQBiheLgQ3cfW7zm52PlNiGA_ePceZqLKHgOyGeQDFVKPktoReyN1sWh2GUqb-EY358exyGjHcdACyL5ynD6UwWuNzPyAYOx5s49fL1pzSxbjDNNbPzU0bOm4w5PslPs3o&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXt9dLAvYFhNdL1Q5N0xjrfwphyDMbtij71Pp4P_H6sbYEfSeRqB93Clt2TXymp1eHE2NlFEdXyBTkR--LR8DeB5ZqSrca1ERRdI7PYhrmXoFDmo8sbbVGLD-N8msnGZCzxM2TIBZZClTtK-WpdjIXLd5IR_CQBiheLgQ3cfW7zm52PlNiGA_ePceZqLKHgOyGeQDFVKPktoReyN1sWh2GUqb-EY358exyGjHcdACyL5ynD6UwWuNzPyAYOx5s49fL1pzSxbjDNNbPzU0bOm4w5PslPs3o"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXtPFcTZCd0MWRyNWk-e5ZlLaw36kGhQ4vIim6OSHOK-oVllIi364pUidRRXmG2HlilM6PL9jyZbblIsnITrv53wUjaxUFfq6czI0idtj_JkbAu6iZTviytr66vb48ZKzx5TtOjLyHWZSfPlj5tn19fAwItxm44JsSJGaY13Dil0hSFBDc7aeN7CruyvoWjeNBJh4KCwzVsoPBmHSH7josweQWbr0_6GhEKWoZ1c7xmcbj0iLTzmhx90_QmAtNgU52Q-2CB190Kw0d55OIPhoHWeILn9zMzFPGXj3YNRaQzaZt7DwV_",
+            "q": "Digital Marketing Executive fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXtPFcTZCd0MWRyNWk-e5ZlLaw36kGhQ4vIim6OSHOK-oVllIi364pUidRRXmG2HlilM6PL9jyZbblIsnITrv53wUjaxUFfq6czI0idtj_JkbAu6iZTviytr66vb48ZKzx5TtOjLyHWZSfPlj5tn19fAwItxm44JsSJGaY13Dil0hSFBDc7aeN7CruyvoWjeNBJh4KCwzVsoPBmHSH7josweQWbr0_6GhEKWoZ1c7xmcbj0iLTzmhx90_QmAtNgU52Q-2CB190Kw0d55OIPhoHWeILn9zMzFPGXj3YNRaQzaZt7DwV_&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXtPFcTZCd0MWRyNWk-e5ZlLaw36kGhQ4vIim6OSHOK-oVllIi364pUidRRXmG2HlilM6PL9jyZbblIsnITrv53wUjaxUFfq6czI0idtj_JkbAu6iZTviytr66vb48ZKzx5TtOjLyHWZSfPlj5tn19fAwItxm44JsSJGaY13Dil0hSFBDc7aeN7CruyvoWjeNBJh4KCwzVsoPBmHSH7josweQWbr0_6GhEKWoZ1c7xmcbj0iLTzmhx90_QmAtNgU52Q-2CB190Kw0d55OIPhoHWeILn9zMzFPGXj3YNRaQzaZt7DwV_"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eioSuLlvjY3NqdhX2cI601ANdcrwLBFVcENNy7SnnMGYHO9ypkD8enx9u4x2vX6OmE5io0eK-5CmU7DhhBEcr4FqYmYFnfH2IVlR_d0PB4WrM5BVdoZgrv-cbrXQlBUxu0I-9JpaBR0VD6itDb5_sUyi39YjMQjZxfSxae7kqWsFHabT4dU8Dd1_FmD8CRXM_hJ8YfWAUI-fHOqwnk4yywwppcioq_M-hI0i2BGY0YF9yCYofeFPIBs--SlpmB5O32yauJJ2Tfm_oZ6Cpd_-wQPc4NIVYB3n8SiWdsVEkhyUx__3T-Z6OLndPFIx2RHFQHct3pVI",
+            "q": "Digital Marketing Executive fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eioSuLlvjY3NqdhX2cI601ANdcrwLBFVcENNy7SnnMGYHO9ypkD8enx9u4x2vX6OmE5io0eK-5CmU7DhhBEcr4FqYmYFnfH2IVlR_d0PB4WrM5BVdoZgrv-cbrXQlBUxu0I-9JpaBR0VD6itDb5_sUyi39YjMQjZxfSxae7kqWsFHabT4dU8Dd1_FmD8CRXM_hJ8YfWAUI-fHOqwnk4yywwppcioq_M-hI0i2BGY0YF9yCYofeFPIBs--SlpmB5O32yauJJ2Tfm_oZ6Cpd_-wQPc4NIVYB3n8SiWdsVEkhyUx__3T-Z6OLndPFIx2RHFQHct3pVI&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eioSuLlvjY3NqdhX2cI601ANdcrwLBFVcENNy7SnnMGYHO9ypkD8enx9u4x2vX6OmE5io0eK-5CmU7DhhBEcr4FqYmYFnfH2IVlR_d0PB4WrM5BVdoZgrv-cbrXQlBUxu0I-9JpaBR0VD6itDb5_sUyi39YjMQjZxfSxae7kqWsFHabT4dU8Dd1_FmD8CRXM_hJ8YfWAUI-fHOqwnk4yywwppcioq_M-hI0i2BGY0YF9yCYofeFPIBs--SlpmB5O32yauJJ2Tfm_oZ6Cpd_-wQPc4NIVYB3n8SiWdsVEkhyUx__3T-Z6OLndPFIx2RHFQHct3pVI"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rX7edpApC7IptBgvJqzmWFFmVFx_e6WHRbevriEPhnKrvtZax4EDhbW4Ozik7jtZtBNcwXWfmihNp1ML_gH8my2Nluv2wI_6Dwmo4ouQnYd6d2OkGjqDDuF6JMAOWeDf4XidtYVFb4e2jq6xfrwprH_-7lsDSWF2Ig58M-3weXB4wQA0gkgraM2bcLKHB7OaRzOOiznoFjnOcrCugNR7n9buA5bGd4RAZTcYHBcUJPqsAwOdOWU3k10u1Fyf8xMmccSQGCgZXAWp0AsB1iQKbq6Wwva8pD6hcYo3v4gc8T6jB0gHBuLMTZLqEo5uJJfI7S74e91-I62k5TjS1TSvhmLeNyo4",
+            "q": "Digital Marketing Executive fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX7edpApC7IptBgvJqzmWFFmVFx_e6WHRbevriEPhnKrvtZax4EDhbW4Ozik7jtZtBNcwXWfmihNp1ML_gH8my2Nluv2wI_6Dwmo4ouQnYd6d2OkGjqDDuF6JMAOWeDf4XidtYVFb4e2jq6xfrwprH_-7lsDSWF2Ig58M-3weXB4wQA0gkgraM2bcLKHB7OaRzOOiznoFjnOcrCugNR7n9buA5bGd4RAZTcYHBcUJPqsAwOdOWU3k10u1Fyf8xMmccSQGCgZXAWp0AsB1iQKbq6Wwva8pD6hcYo3v4gc8T6jB0gHBuLMTZLqEo5uJJfI7S74e91-I62k5TjS1TSvhmLeNyo4&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX7edpApC7IptBgvJqzmWFFmVFx_e6WHRbevriEPhnKrvtZax4EDhbW4Ozik7jtZtBNcwXWfmihNp1ML_gH8my2Nluv2wI_6Dwmo4ouQnYd6d2OkGjqDDuF6JMAOWeDf4XidtYVFb4e2jq6xfrwprH_-7lsDSWF2Ig58M-3weXB4wQA0gkgraM2bcLKHB7OaRzOOiznoFjnOcrCugNR7n9buA5bGd4RAZTcYHBcUJPqsAwOdOWU3k10u1Fyf8xMmccSQGCgZXAWp0AsB1iQKbq6Wwva8pD6hcYo3v4gc8T6jB0gHBuLMTZLqEo5uJJfI7S74e91-I62k5TjS1TSvhmLeNyo4"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5iHhlyWiLBrm188vvOi-Ck5C3XekIoEfHR1IUCRvATdzrNyN9HTKLnAjF95k5WJkh3CTAb5J-tgZxt1h1MKCZ4r9LFsbXmF18oriFFRoZSjHmN0JGmGoFp0m77jfVOC_jrtbjgi_9WwP-QMAifbbQEbIg5ElGywiEDw84o7aOAQoKVsa7znclTMX2vGvxcJxAJgtCzGQ1n1ysZWNOLcLToOhnKXfaheptSZ57yl1FPV3CZ0xd_67T0PzSV1qgBpWGntBIdfYZJGtWwMcv0Wf33OE0BQ_ZlZsH7fkT3IFn4d18B7LNKscCwdjllErRXWWIvkhICUIUmiNKXW5Xcf8dhi40lF4",
+            "q": "Digital Marketing Executive fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5iHhlyWiLBrm188vvOi-Ck5C3XekIoEfHR1IUCRvATdzrNyN9HTKLnAjF95k5WJkh3CTAb5J-tgZxt1h1MKCZ4r9LFsbXmF18oriFFRoZSjHmN0JGmGoFp0m77jfVOC_jrtbjgi_9WwP-QMAifbbQEbIg5ElGywiEDw84o7aOAQoKVsa7znclTMX2vGvxcJxAJgtCzGQ1n1ysZWNOLcLToOhnKXfaheptSZ57yl1FPV3CZ0xd_67T0PzSV1qgBpWGntBIdfYZJGtWwMcv0Wf33OE0BQ_ZlZsH7fkT3IFn4d18B7LNKscCwdjllErRXWWIvkhICUIUmiNKXW5Xcf8dhi40lF4&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5iHhlyWiLBrm188vvOi-Ck5C3XekIoEfHR1IUCRvATdzrNyN9HTKLnAjF95k5WJkh3CTAb5J-tgZxt1h1MKCZ4r9LFsbXmF18oriFFRoZSjHmN0JGmGoFp0m77jfVOC_jrtbjgi_9WwP-QMAifbbQEbIg5ElGywiEDw84o7aOAQoKVsa7znclTMX2vGvxcJxAJgtCzGQ1n1ysZWNOLcLToOhnKXfaheptSZ57yl1FPV3CZ0xd_67T0PzSV1qgBpWGntBIdfYZJGtWwMcv0Wf33OE0BQ_ZlZsH7fkT3IFn4d18B7LNKscCwdjllErRXWWIvkhICUIUmiNKXW5Xcf8dhi40lF4"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZjtwERIKQk1IgqL7BNQyKsk8IfrTJateejYijdRLg40-IeaB9LlJjHlPowN6HnDrBHPWn0MwNycB95CVOrnIor5_JqbKdD_rYm3Gq432MDxz4mndI4aukpgQIdIkpgOOTMjWUGdXrW4dHfXALedHLN14P4MxGu2qnFUob4p4HATSUskIRjJUto3_8Kp-JAuXtLOFFuhTY1KOLrc_5Hrs52mmLneELkxgfVPDogh9exOVFy9zTlvvANJhhclnwOLCh7awFPX8byn4eIUv5nP-do4cfxRRA08w1PS1xCTCPRq1A1QhwGi_cq9-O85tF_ef0zboCGzFGXqahwO55eNQACJLrhyAzqajBcWqGVM0z2ndxGlb",
+            "q": "Digital Marketing Executive fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZjtwERIKQk1IgqL7BNQyKsk8IfrTJateejYijdRLg40-IeaB9LlJjHlPowN6HnDrBHPWn0MwNycB95CVOrnIor5_JqbKdD_rYm3Gq432MDxz4mndI4aukpgQIdIkpgOOTMjWUGdXrW4dHfXALedHLN14P4MxGu2qnFUob4p4HATSUskIRjJUto3_8Kp-JAuXtLOFFuhTY1KOLrc_5Hrs52mmLneELkxgfVPDogh9exOVFy9zTlvvANJhhclnwOLCh7awFPX8byn4eIUv5nP-do4cfxRRA08w1PS1xCTCPRq1A1QhwGi_cq9-O85tF_ef0zboCGzFGXqahwO55eNQACJLrhyAzqajBcWqGVM0z2ndxGlb&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZjtwERIKQk1IgqL7BNQyKsk8IfrTJateejYijdRLg40-IeaB9LlJjHlPowN6HnDrBHPWn0MwNycB95CVOrnIor5_JqbKdD_rYm3Gq432MDxz4mndI4aukpgQIdIkpgOOTMjWUGdXrW4dHfXALedHLN14P4MxGu2qnFUob4p4HATSUskIRjJUto3_8Kp-JAuXtLOFFuhTY1KOLrc_5Hrs52mmLneELkxgfVPDogh9exOVFy9zTlvvANJhhclnwOLCh7awFPX8byn4eIUv5nP-do4cfxRRA08w1PS1xCTCPRq1A1QhwGi_cq9-O85tF_ef0zboCGzFGXqahwO55eNQACJLrhyAzqajBcWqGVM0z2ndxGlb"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFiL1O7efE7gI8o4gC69iVOqTFiBTzyN1hQku4HD7SUzC8fMaRB-zuU4tSmsIzt6F3dBF1L5lSY9JihykzJMnSaDFCRisBSVwLNgpOke2viVKGiSDMMmfvr5oFrSXvfbfZP1sbkbiSNzVy7ZRwrU-vNn2vkwpQnTjcoQZcQNRXlbJeA2M0uWbqjiwpKmj5LT4x222R5cWEkLZpKlRliw1m_zawexBu0tgNQeQcOO24RfSLL73kXwtuW44TGA_wdKPf_bjNLB0JgP4PX7H6ucQaiW7FTGoeYNSkRqs27xvlK0K7IN_YBXiKwhZBX6VeBwGrfbAj_ZdDuOBtReDgboY5_mLnEjanpqih7AVPB1RJHuf1JF6",
+            "q": "Digital Marketing Executive fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFiL1O7efE7gI8o4gC69iVOqTFiBTzyN1hQku4HD7SUzC8fMaRB-zuU4tSmsIzt6F3dBF1L5lSY9JihykzJMnSaDFCRisBSVwLNgpOke2viVKGiSDMMmfvr5oFrSXvfbfZP1sbkbiSNzVy7ZRwrU-vNn2vkwpQnTjcoQZcQNRXlbJeA2M0uWbqjiwpKmj5LT4x222R5cWEkLZpKlRliw1m_zawexBu0tgNQeQcOO24RfSLL73kXwtuW44TGA_wdKPf_bjNLB0JgP4PX7H6ucQaiW7FTGoeYNSkRqs27xvlK0K7IN_YBXiKwhZBX6VeBwGrfbAj_ZdDuOBtReDgboY5_mLnEjanpqih7AVPB1RJHuf1JF6&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFiL1O7efE7gI8o4gC69iVOqTFiBTzyN1hQku4HD7SUzC8fMaRB-zuU4tSmsIzt6F3dBF1L5lSY9JihykzJMnSaDFCRisBSVwLNgpOke2viVKGiSDMMmfvr5oFrSXvfbfZP1sbkbiSNzVy7ZRwrU-vNn2vkwpQnTjcoQZcQNRXlbJeA2M0uWbqjiwpKmj5LT4x222R5cWEkLZpKlRliw1m_zawexBu0tgNQeQcOO24RfSLL73kXwtuW44TGA_wdKPf_bjNLB0JgP4PX7H6ucQaiW7FTGoeYNSkRqs27xvlK0K7IN_YBXiKwhZBX6VeBwGrfbAj_ZdDuOBtReDgboY5_mLnEjanpqih7AVPB1RJHuf1JF6"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYUCZO-_DyeBJREYLyCzGnelumBJ2zCXrWvmnGjnVxtVmKk-YbRHnaeWtdoEuRLFRO0gz_a8wRZnjSWRfM7KImLPRowejXq6-wt5YdmtL2u7ORPLLF3WJl_Fku3Wn1O9tip1DFEzlXet1gTwequbeF5SFydBQmAsQXPttJOdGD1bfQYD22leSJ-MqXOACIxMoM_NhmuGeVdc9P-UYlhGjC0_Dlw3tMhawfP1G_GdSk3TelEoSylV6i9YUwDkvn5wesLNs8t5_Z3NJV2zwS2vvuXohjdblr_vFytlJegJaRANsQ5YweCdKjDcYHp_dV8Wi6yGypNDDSaUlLhhL1PaWzEHllPB6Uq2kvYOLGkI9TTVEv-eM",
+            "q": "Digital Marketing Executive fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYUCZO-_DyeBJREYLyCzGnelumBJ2zCXrWvmnGjnVxtVmKk-YbRHnaeWtdoEuRLFRO0gz_a8wRZnjSWRfM7KImLPRowejXq6-wt5YdmtL2u7ORPLLF3WJl_Fku3Wn1O9tip1DFEzlXet1gTwequbeF5SFydBQmAsQXPttJOdGD1bfQYD22leSJ-MqXOACIxMoM_NhmuGeVdc9P-UYlhGjC0_Dlw3tMhawfP1G_GdSk3TelEoSylV6i9YUwDkvn5wesLNs8t5_Z3NJV2zwS2vvuXohjdblr_vFytlJegJaRANsQ5YweCdKjDcYHp_dV8Wi6yGypNDDSaUlLhhL1PaWzEHllPB6Uq2kvYOLGkI9TTVEv-eM&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYUCZO-_DyeBJREYLyCzGnelumBJ2zCXrWvmnGjnVxtVmKk-YbRHnaeWtdoEuRLFRO0gz_a8wRZnjSWRfM7KImLPRowejXq6-wt5YdmtL2u7ORPLLF3WJl_Fku3Wn1O9tip1DFEzlXet1gTwequbeF5SFydBQmAsQXPttJOdGD1bfQYD22leSJ-MqXOACIxMoM_NhmuGeVdc9P-UYlhGjC0_Dlw3tMhawfP1G_GdSk3TelEoSylV6i9YUwDkvn5wesLNs8t5_Z3NJV2zwS2vvuXohjdblr_vFytlJegJaRANsQ5YweCdKjDcYHp_dV8Wi6yGypNDDSaUlLhhL1PaWzEHllPB6Uq2kvYOLGkI9TTVEv-eM"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5iHhlyWiLBrm188vvOi-Ck5C3XekIoEfHR1IUCRvATdzrNyN9HTKLnAjF95k5WJkh3CTAb5J-tgZxt1h1MKCZ4r9LFsbXmF18oriFFRoZSjHmN0JGmGoFp0m77jfVOC_jrtbjgi_9WwP-QMAifbbQEbIg5ElGywiEDw84o7aOAQoKVsa7znclTMX2vGvxcJxAJgtCzGQ1n1ysZWNOLcLToOhnKXfaheptSZ57yl1FPV3CZ0xd_67T0PzSV1qgBpWGntBIdfYZJGtWwMcv0Wf33OE0BQ_ZlZsH7fkT3IFn4d18B7LNKscCwdjllErRXWWIvkhICUIUmiNKXW5Xcf8dhi40lF4",
+            "q": "Digital Marketing Executive fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5iHhlyWiLBrm188vvOi-Ck5C3XekIoEfHR1IUCRvATdzrNyN9HTKLnAjF95k5WJkh3CTAb5J-tgZxt1h1MKCZ4r9LFsbXmF18oriFFRoZSjHmN0JGmGoFp0m77jfVOC_jrtbjgi_9WwP-QMAifbbQEbIg5ElGywiEDw84o7aOAQoKVsa7znclTMX2vGvxcJxAJgtCzGQ1n1ysZWNOLcLToOhnKXfaheptSZ57yl1FPV3CZ0xd_67T0PzSV1qgBpWGntBIdfYZJGtWwMcv0Wf33OE0BQ_ZlZsH7fkT3IFn4d18B7LNKscCwdjllErRXWWIvkhICUIUmiNKXW5Xcf8dhi40lF4&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5iHhlyWiLBrm188vvOi-Ck5C3XekIoEfHR1IUCRvATdzrNyN9HTKLnAjF95k5WJkh3CTAb5J-tgZxt1h1MKCZ4r9LFsbXmF18oriFFRoZSjHmN0JGmGoFp0m77jfVOC_jrtbjgi_9WwP-QMAifbbQEbIg5ElGywiEDw84o7aOAQoKVsa7znclTMX2vGvxcJxAJgtCzGQ1n1ysZWNOLcLToOhnKXfaheptSZ57yl1FPV3CZ0xd_67T0PzSV1qgBpWGntBIdfYZJGtWwMcv0Wf33OE0BQ_ZlZsH7fkT3IFn4d18B7LNKscCwdjllErRXWWIvkhICUIUmiNKXW5Xcf8dhi40lF4"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZjtwERIKQk1IgqL7BNQyKsk8IfrTJateejYijdRLg40-IeaB9LlJjHlPowN6HnDrBHPWn0MwNycB95CVOrnIor5_JqbKdD_rYm3Gq432MDxz4mndI4aukpgQIdIkpgOOTMjWUGdXrW4dHfXALedHLN14P4MxGu2qnFUob4p4HATSUskIRjJUto3_8Kp-JAuXtLOFFuhTY1KOLrc_5Hrs52mmLneELkxgfVPDogh9exOVFy9zTlvvANJhhclnwOLCh7awFPX8byn4eIUv5nP-do4cfxRRA08w1PS1xCTCPRq1A1QhwGi_cq9-O85tF_ef0zboCGzFGXqahwO55eNQACJLrhyAzqajBcWqGVM0z2ndxGlb",
+            "q": "Digital Marketing Executive fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZjtwERIKQk1IgqL7BNQyKsk8IfrTJateejYijdRLg40-IeaB9LlJjHlPowN6HnDrBHPWn0MwNycB95CVOrnIor5_JqbKdD_rYm3Gq432MDxz4mndI4aukpgQIdIkpgOOTMjWUGdXrW4dHfXALedHLN14P4MxGu2qnFUob4p4HATSUskIRjJUto3_8Kp-JAuXtLOFFuhTY1KOLrc_5Hrs52mmLneELkxgfVPDogh9exOVFy9zTlvvANJhhclnwOLCh7awFPX8byn4eIUv5nP-do4cfxRRA08w1PS1xCTCPRq1A1QhwGi_cq9-O85tF_ef0zboCGzFGXqahwO55eNQACJLrhyAzqajBcWqGVM0z2ndxGlb&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZjtwERIKQk1IgqL7BNQyKsk8IfrTJateejYijdRLg40-IeaB9LlJjHlPowN6HnDrBHPWn0MwNycB95CVOrnIor5_JqbKdD_rYm3Gq432MDxz4mndI4aukpgQIdIkpgOOTMjWUGdXrW4dHfXALedHLN14P4MxGu2qnFUob4p4HATSUskIRjJUto3_8Kp-JAuXtLOFFuhTY1KOLrc_5Hrs52mmLneELkxgfVPDogh9exOVFy9zTlvvANJhhclnwOLCh7awFPX8byn4eIUv5nP-do4cfxRRA08w1PS1xCTCPRq1A1QhwGi_cq9-O85tF_ef0zboCGzFGXqahwO55eNQACJLrhyAzqajBcWqGVM0z2ndxGlb"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFiL1O7efE7gI8o4gC69iVOqTFiBTzyN1hQku4HD7SUzC8fMaRB-zuU4tSmsIzt6F3dBF1L5lSY9JihykzJMnSaDFCRisBSVwLNgpOke2viVKGiSDMMmfvr5oFrSXvfbfZP1sbkbiSNzVy7ZRwrU-vNn2vkwpQnTjcoQZcQNRXlbJeA2M0uWbqjiwpKmj5LT4x222R5cWEkLZpKlRliw1m_zawexBu0tgNQeQcOO24RfSLL73kXwtuW44TGA_wdKPf_bjNLB0JgP4PX7H6ucQaiW7FTGoeYNSkRqs27xvlK0K7IN_YBXiKwhZBX6VeBwGrfbAj_ZdDuOBtReDgboY5_mLnEjanpqih7AVPB1RJHuf1JF6",
+            "q": "Digital Marketing Executive fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFiL1O7efE7gI8o4gC69iVOqTFiBTzyN1hQku4HD7SUzC8fMaRB-zuU4tSmsIzt6F3dBF1L5lSY9JihykzJMnSaDFCRisBSVwLNgpOke2viVKGiSDMMmfvr5oFrSXvfbfZP1sbkbiSNzVy7ZRwrU-vNn2vkwpQnTjcoQZcQNRXlbJeA2M0uWbqjiwpKmj5LT4x222R5cWEkLZpKlRliw1m_zawexBu0tgNQeQcOO24RfSLL73kXwtuW44TGA_wdKPf_bjNLB0JgP4PX7H6ucQaiW7FTGoeYNSkRqs27xvlK0K7IN_YBXiKwhZBX6VeBwGrfbAj_ZdDuOBtReDgboY5_mLnEjanpqih7AVPB1RJHuf1JF6&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFiL1O7efE7gI8o4gC69iVOqTFiBTzyN1hQku4HD7SUzC8fMaRB-zuU4tSmsIzt6F3dBF1L5lSY9JihykzJMnSaDFCRisBSVwLNgpOke2viVKGiSDMMmfvr5oFrSXvfbfZP1sbkbiSNzVy7ZRwrU-vNn2vkwpQnTjcoQZcQNRXlbJeA2M0uWbqjiwpKmj5LT4x222R5cWEkLZpKlRliw1m_zawexBu0tgNQeQcOO24RfSLL73kXwtuW44TGA_wdKPf_bjNLB0JgP4PX7H6ucQaiW7FTGoeYNSkRqs27xvlK0K7IN_YBXiKwhZBX6VeBwGrfbAj_ZdDuOBtReDgboY5_mLnEjanpqih7AVPB1RJHuf1JF6"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYUCZO-_DyeBJREYLyCzGnelumBJ2zCXrWvmnGjnVxtVmKk-YbRHnaeWtdoEuRLFRO0gz_a8wRZnjSWRfM7KImLPRowejXq6-wt5YdmtL2u7ORPLLF3WJl_Fku3Wn1O9tip1DFEzlXet1gTwequbeF5SFydBQmAsQXPttJOdGD1bfQYD22leSJ-MqXOACIxMoM_NhmuGeVdc9P-UYlhGjC0_Dlw3tMhawfP1G_GdSk3TelEoSylV6i9YUwDkvn5wesLNs8t5_Z3NJV2zwS2vvuXohjdblr_vFytlJegJaRANsQ5YweCdKjDcYHp_dV8Wi6yGypNDDSaUlLhhL1PaWzEHllPB6Uq2kvYOLGkI9TTVEv-eM",
+            "q": "Digital Marketing Executive fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntxFjJ5YgALEFV30tzT8ayr6N9Aqg:1791544834088&q=Digital+Marketing+Executive+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYUCZO-_DyeBJREYLyCzGnelumBJ2zCXrWvmnGjnVxtVmKk-YbRHnaeWtdoEuRLFRO0gz_a8wRZnjSWRfM7KImLPRowejXq6-wt5YdmtL2u7ORPLLF3WJl_Fku3Wn1O9tip1DFEzlXet1gTwequbeF5SFydBQmAsQXPttJOdGD1bfQYD22leSJ-MqXOACIxMoM_NhmuGeVdc9P-UYlhGjC0_Dlw3tMhawfP1G_GdSk3TelEoSylV6i9YUwDkvn5wesLNs8t5_Z3NJV2zwS2vvuXohjdblr_vFytlJegJaRANsQ5YweCdKjDcYHp_dV8Wi6yGypNDDSaUlLhhL1PaWzEHllPB6Uq2kvYOLGkI9TTVEv-eM&udm=8&sa=X&ved=2ahUKEwi73LvL6KyXAxWOl2oFHWMeJ3AQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&q=Digital+Marketing+Executive+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYUCZO-_DyeBJREYLyCzGnelumBJ2zCXrWvmnGjnVxtVmKk-YbRHnaeWtdoEuRLFRO0gz_a8wRZnjSWRfM7KImLPRowejXq6-wt5YdmtL2u7ORPLLF3WJl_Fku3Wn1O9tip1DFEzlXet1gTwequbeF5SFydBQmAsQXPttJOdGD1bfQYD22leSJ-MqXOACIxMoM_NhmuGeVdc9P-UYlhGjC0_Dlw3tMhawfP1G_GdSk3TelEoSylV6i9YUwDkvn5wesLNs8t5_Z3NJV2zwS2vvuXohjdblr_vFytlJegJaRANsQ5YweCdKjDcYHp_dV8Wi6yGypNDDSaUlLhhL1PaWzEHllPB6Uq2kvYOLGkI9TTVEv-eM"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Digital Marketing Executive – Fresher/Experienced",
+      "company_name": "Confidential",
+      "location": "Loni Kalbhor, Maharashtra",
+      "via": "OLX India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Digital+Marketing+Executive+fresher&htidocid=EOxzc3iF60succmqAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2OMU7DQBAAldZPSLUtKPIhpDSkTAwFzhui9Xm52-TYtW6XyCV_4C88iJfEoZlipJGm-V01_YETOxY4Yr2QsyToZopfzleCv-8feK1kmWro5okqk0Qa__1ZBzDCGjOowJtqKrTeZffJXkIwK20yR-fYRv0MKjToHJbI7jhZxkpTQafT8_ZpbidJjw97lQ8eSZyXHxboVRjesQxZ62YZXBq07BVvJbV9pLkAAAA&shmds=v1_ARwrE21CpC50s-zICfEgOmzS3j_WguoD09hcdwq9EDkST7OcgA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Digital+Marketing+Executive+fresher&htidocid=EOxzc3iF60succmqAAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "Part-time"
+      ],
+      "source_link": "https://www.olx.in/item/other-jobs-c65-part-time-in-uruli-kanchan-loni-kalbhor-iid-1857234617",
+      "job_title": "Digital Marketing Executive – Fresher/Experienced",
+      "description": "We are hiring a Digital Marketing Executive for our growing digital marketing business.\n\nJob Responsibilities:\n• Social media management\n• Instagram and Facebook marketing\n• Content creation and posting\n• Online promotion and lead generation\n• Customer communication and follow-up\n• Basic digital advertising support\n\nRequirements:\n• 12th pass or above\n• Basic smartphone and computer knowledge\n• Good communication skills\n• Basic knowledge of Instagram, Facebook and WhatsApp\n• Willingness to learn digital marketing\n• Freshers are welcome\n• Previous experience is an advantage\n\nWorking Hours: part/full time \nLunch Break: 1 hour\nWeekly Off: your choice \nLocation: work from home \nSalary: ₹15,000–₹40,000 per month, based on skills and experience.\nPerformance-based incentives may be available.\n\nInterested candidates can apply with their name, age, location, education and previous experience.",
+      "apply_options": [
+        {
+          "title": "OLX India",
+          "link": "https://www.olx.in/item/other-jobs-c65-part-time-in-uruli-kanchan-loni-kalbhor-iid-1857234617?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaWdpdGFsIE1hcmtldGluZyBFeGVjdXRpdmUg4oCTIEZyZXNoZXIvRXhwZXJpZW5jZWQiLCJjb21wYW55X25hbWUiOiJDb25maWRlbnRpYWwiLCJodGlkb2NpZCI6IkVPeHpjM2lGNjBzdWNjbXFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMU0xTXpnNVpqTjNVVWsxYmxaRWVrSmtSSFZrYXpSNFJIVlJjbGwxWkZaTGFrWjVRVlZpVW5WWFRHTnZhMGs1Yld3MWJFb3RRMVpRUmtOZmVFUlNZbVEwYnpNMWIyNTRTbkEyWTNCclJVZzJPVzFuV2pkalZuUklUbTVPTldaTVdXSkxaM2QwWmpRek9FZDZVRFp3TkdwdVpsUlpaRzVxV1ZCRlJrTklhVTR3UldNMGJHSVNGMEZ6TjBsaGNuWlVRVFEyZG5GMGMxQTBOM2xqWjFGakdpSkJSSE55T1daU1ZYWkVSSEZqYmxaWlpXNWxRVzFZUkVVNGJHRlpSVWc1TVV4UiIsImZjdiI6IjMiLCJmY19pZCI6IkVPeHpjM2lGNjBzdWNjbXFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Field Marketing Executive - Fresher",
+      "company_name": "Lakshyaa Academy",
+      "location": "Bhigwan, Maharashtra",
+      "via": "Internshala",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Digital+Marketing+Executive+fresher&htidocid=zlrkMt06wMqxRDneAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOsQ3CMBBAUdFmBKorEYIYIdEADUiEBmaILs7JNnHsyHdA0rEDM7AYkxCa3z3pZ59Jti8c-RqumBoSFwycetJ3cQ-CJRSJ2FKC7-sNt1gBEyZtIQY4x2g8TXdWpOOtUsw-NywoTuc6tioGqmKvRsT_lGwxUedRqFxvVn3eBTOfXbBhOyDCQWNN7QAuwNE688SwGI9Ggmwl4Q_cUJkHqAAAAA&shmds=v1_ARwrE22FDtIFDsy6nTiFH_O_U3FoNi10UEDfZF1vQLulp0IyWA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Digital+Marketing+Executive+fresher&htidocid=zlrkMt06wMqxRDneAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8cddcd10c6a9c58642cfb/images/o60jkasIQYqwj35505alNFWfGBc03nHLPqHzyVLJqwI.jpeg",
+      "extensions": [
+        "8 days ago",
+        "₹2L–₹2.2L a year",
+        "Full–time"
+      ],
+      "source_link": "https://internshala.com/job/detail/fresher-field-marketing-executive-job-in-bhigwan-at-lakshyaa-academy1790834523",
+      "job_title": "Field Marketing Executive - Fresher",
+      "description": "About the job:\n\nAs a Field Marketing Executive, you will play a crucial role in promoting our academy and attracting new students through effective communication, teamwork, and excellent interpersonal skills. Your role will involve a combination of field work and strategic planning to drive our marketing initiatives forward.\n\n\n\nKey responsibilities:\n\n\n\n1. Developing and executing marketing campaigns to increase brand awareness and student enrollment.\n\n2. Collaborating with the marketing team to create compelling content and promotional materials.\n\n3. Conducting market research to identify potential target audiences and trends.\n\n4. Building and maintaining relationships with schools, colleges, and other educational institutions.\n\n5. Organizing and attending events, fairs, and workshops to showcase our academy.\n\n6. Providing regular reports and analysis on the effectiveness of marketing efforts.\n\n7. Working closely with the sales team to ensure alignment and achieve overall business objectives.\n\n\n\nIf you have a strong drive to succeed, excellent communication skills, and a knack for building connections, we want to hear from you! Join us at Lakshyaa Academy and make a difference in the lives of aspiring students. Apply now and be part of our exciting journey!\n\nWho can apply:\n\nOnly those candidates can apply who:\n\n\n\nSalary:\n\n₹ 2,00,000 - 2,20,000 /year\n\nExperience:\n\nNo experience required\n\nDeadline:\n\n2026-10-31 23:59:59\n\nSkills required:\n\nField Work, Teamwork, Interpersonal skills and Effective Communication\n\nOther Requirements:\n\nMust be fluent in MarathiLocal topography awareness\n\nAbout Company:\n\nWe are LAKSHYAA ACADEMY located in Baramati, Pune MH . We are the Coaching and Training Institute in JEE Mains , Advance | NEET | MHT CET | Foundation.\n\r\nwe also coach for Olympiad , Navodaya , and all other state & National - Level competitive exam for class 3rd to 12th. We provide individual care, Attention , and focus-oriented coaching which gives excellent outcomes.",
+      "apply_options": [
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/job/detail/fresher-field-marketing-executive-job-in-bhigwan-at-lakshyaa-academy1790834523?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGaWVsZCBNYXJrZXRpbmcgRXhlY3V0aXZlIC0gRnJlc2hlciIsImNvbXBhbnlfbmFtZSI6Ikxha3NoeWFhIEFjYWRlbXkiLCJodGlkb2NpZCI6InpscmtNdDA2d01xeFJEbmVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lmVUhWdVpTQkVhWFpwYzJsdmJpeE5ZV2hoY21GemFIUnlZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbGgyVW5kUWQxSlBVbVpaTTFkTWF6RjBNWFV6U0dSdmRsaFdlWE5ETkZvdFgxUkpRM0ZsV0dsRGIzZDViRlpoUm1SaVpGUTVPVmhZVUUxU2RUTmhiMFF5WmpSVk1YYzNaVk16WHpaMVptTlNWR3cxWjE5b1ozbHVZbnB6VW5sNmMzbHpMVzFIUmxOWGFsOXZSelZvT1RoNlZWVktTbko0UjE5WExXMDNTV2RLWjAxUlUzQVNGMEZ6TjBsaGNuWlVRVFEyZG5GMGMxQTBOM2xqWjFGakdpSkJSSE55T1daU2IxWXliazFOYUZOcmRpMVdRVk5PZG1wRWVUWkNPRXBvU0dSMyIsImZjdiI6IjMiLCJmY19pZCI6InpscmtNdDA2d01xeFJEbmVBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMU0xTXpnNVpqTjNVVWsxYmxaRWVrSmtSSFZrYXpSNFJIVlJjbGwxWkZaTGFrWjVRVlZpVW5WWFRHTnZhMGs1Yld3MWJFb3RRMVpRUmtOZmVFUlNZbVEwYnpNMWIyNTRTbkEyWTNCclJVZzJPVzFuV2pkalZuUklUbTVPTldaTVdXSkxaM2QwWmpRek9FZDZVRFp3TkdwdVpsUlpaRzVxV1ZCRlJrTklhVTR3UldNMGJHSVNGMEZ6TjBsaGNuWlVRVFEyZG5GMGMxQTBOM2xqWjFGakdpSkJSSE55T1daU1ZYWkVSSEZqYmxaWlpXNWxRVzFZUkVVNGJHRlpSVWc1TVV4UiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Pune%2C+India&next_page_token=eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMU0xTXpnNVpqTjNVVWsxYmxaRWVrSmtSSFZrYXpSNFJIVlJjbGwxWkZaTGFrWjVRVlZpVW5WWFRHTnZhMGs1Yld3MWJFb3RRMVpRUmtOZmVFUlNZbVEwYnpNMWIyNTRTbkEyWTNCclJVZzJPVzFuV2pkalZuUklUbTVPTldaTVdXSkxaM2QwWmpRek9FZDZVRFp3TkdwdVpsUlpaRzVxV1ZCRlJrTklhVTR3UldNMGJHSVNGMEZ6TjBsaGNuWlVRVFEyZG5GMGMxQTBOM2xqWjFGakdpSkJSSE55T1daU1ZYWkVSSEZqYmxaWlpXNWxRVzFZUkVVNGJHRlpSVWc1TVV4UiIsImZjdiI6IjMifQ%3D%3D&q=Digital+Marketing+Executive+fresher"
+  },
+  "_retrieved_at": "2026-10-09 11:19:56 UTC"
+}

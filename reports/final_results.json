@@ -2489,6 +2489,1761 @@
           "SEO"
         ]
       }
+    },
+    "python-developer-bengaluru": {
+      "role": "Python Developer",
+      "city": "Bengaluru",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-07",
+        "2026-10-09"
+      ],
+      "raw": 30,
+      "deduplicated": 28,
+      "ignored": 0,
+      "experience_excluded": 17,
+      "eligible": 11,
+      "scored": 11,
+      "matches": 4,
+      "must_haves_met": 0,
+      "fastest_win": "REST API",
+      "biggest_unlock": "REST API",
+      "ranked": [
+        {
+          "skill": "REST API",
+          "display_skill": "REST API",
+          "unlocked": 1,
+          "hours": 2.54,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.393,
+          "videos": [
+            {
+              "title": "Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
+              "channel": "freeCodeCamp.org",
+              "duration": "5:08:48",
+              "hours": 5.1466666666666665,
+              "link": "https://www.youtube.com/watch?v=2JYT5f2isg4",
+              "language_query": "REST API full course for beginners"
+            },
+            {
+              "title": "API Full Course for Beginners (2026) | REST APIs | Vishwa Sir | upGrad",
+              "channel": "upGrad",
+              "duration": "1:11:16",
+              "hours": 1.1877777777777778,
+              "link": "https://www.youtube.com/watch?v=-58TX3yCHI4",
+              "language_query": "REST API full course for beginners"
+            },
+            {
+              "title": "RESTful API with .NET Core (.NET 7) - Full Course for Beginners",
+              "channel": "DotNetMastery",
+              "duration": "2:32:39",
+              "hours": 2.5441666666666665,
+              "link": "https://www.youtube.com/watch?v=_uZYOgzYheU",
+              "language_query": "REST API full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Django",
+          "display_skill": "Django",
+          "unlocked": 1,
+          "hours": 3.33,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.3,
+          "videos": [
+            {
+              "title": "Python Django Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours",
+              "channel": "Dave Gray",
+              "duration": "3:19:49",
+              "hours": 3.330277777777778,
+              "link": "https://www.youtube.com/watch?v=Rp5vd34d-z4",
+              "language_query": "Django full course for beginners"
+            },
+            {
+              "title": "Django Full Crash Course - The Professional Python Web Framework",
+              "channel": "NeuralNine",
+              "duration": "1:37:40",
+              "hours": 1.6277777777777778,
+              "link": "https://www.youtube.com/watch?v=u1GnZfDw5LU",
+              "language_query": "Django full course for beginners"
+            },
+            {
+              "title": "Python Django Web Framework - Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "3:45:41",
+              "hours": 3.761388888888889,
+              "link": "https://www.youtube.com/watch?v=F5mRW0jo-U4",
+              "language_query": "Django full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "SQL",
+          "display_skill": "SQL",
+          "unlocked": 1,
+          "hours": 4.34,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.23,
+          "videos": [
+            {
+              "title": "SQL Course for Beginners [Full Course]",
+              "channel": "Programming with Mosh",
+              "duration": "3:10:19",
+              "hours": 3.1719444444444442,
+              "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Tutorial - Full Database Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "4:20:39",
+              "hours": 4.344166666666666,
+              "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero",
+              "channel": "Data with Baraa",
+              "duration": "29:48:28",
+              "hours": 29.807777777777776,
+              "link": "https://www.youtube.com/watch?v=SSKVgrwhzus",
+              "language_query": "SQL full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Agile",
+          "display_skill": "Agile",
+          "unlocked": 1,
+          "hours": null,
+          "course_confidence": "low",
+          "jobs_per_hour": null,
+          "videos": []
+        },
+        {
+          "skill": "CI/CD",
+          "display_skill": "CI/CD",
+          "unlocked": 1,
+          "hours": null,
+          "course_confidence": "low",
+          "jobs_per_hour": null,
+          "videos": []
+        },
+        {
+          "skill": "Docker",
+          "display_skill": "Docker",
+          "unlocked": 1,
+          "hours": null,
+          "course_confidence": "low",
+          "jobs_per_hour": null,
+          "videos": []
+        },
+        {
+          "skill": "Flask",
+          "display_skill": "Flask",
+          "unlocked": 1,
+          "hours": null,
+          "course_confidence": "low",
+          "jobs_per_hour": null,
+          "videos": []
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.176,
+        "shares": {
+          "SQL": 0.49,
+          "Django": 0.232,
+          "REST API": 0.176,
+          "No scored pick": 0.102
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 0.5933,
+        "checks": 1500
+      },
+      "confidence": "Uncertain",
+      "curve": [
+        {
+          "skill": "REST API",
+          "hours": 2.54,
+          "cumulative_hours": 2.54,
+          "gained": 1,
+          "total": 5
+        },
+        {
+          "skill": "SQL",
+          "hours": 4.34,
+          "cumulative_hours": 6.89,
+          "gained": 2,
+          "total": 7
+        },
+        {
+          "skill": "Django",
+          "hours": 3.33,
+          "cumulative_hours": 10.22,
+          "gained": 1,
+          "total": 8
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 1,
+          "optimal_gained": 1,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "REST API"
+          ],
+          "optimal_skills": [
+            "REST API"
+          ],
+          "candidate_count": 3
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 3,
+          "optimal_gained": 3,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "REST API",
+            "SQL"
+          ],
+          "optimal_skills": [
+            "REST API",
+            "SQL"
+          ],
+          "candidate_count": 3
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 4,
+          "optimal_gained": 4,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "REST API",
+            "SQL",
+            "Django"
+          ],
+          "optimal_skills": [
+            "Django",
+            "REST API",
+            "SQL"
+          ],
+          "candidate_count": 3
+        }
+      ],
+      "distance": {
+        "0": 4,
+        "1": 3,
+        "2": 1,
+        "3+": 3,
+        "Unknown": 0
+      },
+      "flags": {
+        "limited_data": true,
+        "dictionary_warning": false,
+        "hours_unknown": [
+          "AWS",
+          "Agile",
+          "Azure",
+          "CI/CD",
+          "Docker",
+          "Flask",
+          "Microservices"
+        ]
+      },
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Python Developer(Fresher)",
+        "company": "CEDRETO MARKETING PRIVATE LIMITED",
+        "coverage_now": 0.333,
+        "must_haves_status": "none stated",
+        "revise": [
+          "Python",
+          "Git"
+        ],
+        "learn": [
+          "Django",
+          "Flask",
+          "REST API",
+          "Docker"
+        ],
+        "shortest_route": [
+          "REST API"
+        ]
+      }
+    },
+    "python-developer-kochi": {
+      "role": "Python Developer",
+      "city": "Kochi",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-09"
+      ],
+      "raw": 29,
+      "deduplicated": 21,
+      "ignored": 0,
+      "experience_excluded": 14,
+      "eligible": 7,
+      "scored": 7,
+      "matches": 0,
+      "must_haves_met": 0,
+      "fastest_win": "PostgreSQL",
+      "biggest_unlock": "PostgreSQL",
+      "ranked": [
+        {
+          "skill": "PostgreSQL",
+          "display_skill": "PostgreSQL",
+          "unlocked": 3,
+          "hours": 4.12,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.728,
+          "videos": [
+            {
+              "title": "Learn PostgreSQL Tutorial - Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "4:19:34",
+              "hours": 4.3261111111111115,
+              "link": "https://www.youtube.com/watch?v=qw--VYLpxG4",
+              "language_query": "PostgreSQL full course for beginners"
+            },
+            {
+              "title": "PostgreSQL Full course 2026 | Learn PostgreSQL in One Video",
+              "channel": "Sangam Mukherjee",
+              "duration": "4:07:12",
+              "hours": 4.12,
+              "link": "https://www.youtube.com/watch?v=oQRmL4ry5qw",
+              "language_query": "PostgreSQL full course for beginners"
+            },
+            {
+              "title": "PostgreSQL Tutorial Full Course 2022",
+              "channel": "Derek Banas",
+              "duration": "3:42:11",
+              "hours": 3.7030555555555558,
+              "link": "https://www.youtube.com/watch?v=85pG_pDkITY",
+              "language_query": "PostgreSQL full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "REST API",
+          "display_skill": "REST API",
+          "unlocked": 1,
+          "hours": 2.54,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.393,
+          "videos": [
+            {
+              "title": "Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
+              "channel": "freeCodeCamp.org",
+              "duration": "5:08:48",
+              "hours": 5.1466666666666665,
+              "link": "https://www.youtube.com/watch?v=2JYT5f2isg4",
+              "language_query": "REST API full course for beginners"
+            },
+            {
+              "title": "API Full Course for Beginners (2026) | REST APIs | Vishwa Sir | upGrad",
+              "channel": "upGrad",
+              "duration": "1:11:16",
+              "hours": 1.1877777777777778,
+              "link": "https://www.youtube.com/watch?v=-58TX3yCHI4",
+              "language_query": "REST API full course for beginners"
+            },
+            {
+              "title": "RESTful API with .NET Core (.NET 7) - Full Course for Beginners",
+              "channel": "DotNetMastery",
+              "duration": "2:32:39",
+              "hours": 2.5441666666666665,
+              "link": "https://www.youtube.com/watch?v=_uZYOgzYheU",
+              "language_query": "REST API full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "HTML",
+          "display_skill": "HTML",
+          "unlocked": 2,
+          "hours": 5.36,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.373,
+          "videos": [
+            {
+              "title": "HTML Tutorial for Beginners: HTML Crash Course",
+              "channel": "Programming with Mosh",
+              "duration": "1:09:34",
+              "hours": 1.1594444444444445,
+              "link": "https://www.youtube.com/watch?v=qz0aGYrrlhU",
+              "language_query": "HTML full course for beginners"
+            },
+            {
+              "title": "HTML & CSS Full Course - Beginner to Pro",
+              "channel": "SuperSimpleDev",
+              "duration": "6:31:16",
+              "hours": 6.521111111111111,
+              "link": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+              "language_query": "HTML full course for beginners"
+            },
+            {
+              "title": "Learn HTML & CSS – Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "5:21:44",
+              "hours": 5.362222222222222,
+              "link": "https://www.youtube.com/watch?v=a_iQb1lnAEQ",
+              "language_query": "HTML full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Django",
+          "display_skill": "Django",
+          "unlocked": 1,
+          "hours": 3.33,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.3,
+          "videos": [
+            {
+              "title": "Python Django Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours",
+              "channel": "Dave Gray",
+              "duration": "3:19:49",
+              "hours": 3.330277777777778,
+              "link": "https://www.youtube.com/watch?v=Rp5vd34d-z4",
+              "language_query": "Django full course for beginners"
+            },
+            {
+              "title": "Django Full Crash Course - The Professional Python Web Framework",
+              "channel": "NeuralNine",
+              "duration": "1:37:40",
+              "hours": 1.6277777777777778,
+              "link": "https://www.youtube.com/watch?v=u1GnZfDw5LU",
+              "language_query": "Django full course for beginners"
+            },
+            {
+              "title": "Python Django Web Framework - Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "3:45:41",
+              "hours": 3.761388888888889,
+              "link": "https://www.youtube.com/watch?v=F5mRW0jo-U4",
+              "language_query": "Django full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "SQL",
+          "display_skill": "SQL",
+          "unlocked": 1,
+          "hours": 4.34,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.23,
+          "videos": [
+            {
+              "title": "SQL Course for Beginners [Full Course]",
+              "channel": "Programming with Mosh",
+              "duration": "3:10:19",
+              "hours": 3.1719444444444442,
+              "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Tutorial - Full Database Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "4:20:39",
+              "hours": 4.344166666666666,
+              "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+              "language_query": "SQL full course for beginners"
+            },
+            {
+              "title": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero",
+              "channel": "Data with Baraa",
+              "duration": "29:48:28",
+              "hours": 29.807777777777776,
+              "link": "https://www.youtube.com/watch?v=SSKVgrwhzus",
+              "language_query": "SQL full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "CSS",
+          "display_skill": "CSS",
+          "unlocked": 1,
+          "hours": 6.52,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.153,
+          "videos": [
+            {
+              "title": "HTML & CSS Full Course - Beginner to Pro",
+              "channel": "SuperSimpleDev",
+              "duration": "6:31:16",
+              "hours": 6.521111111111111,
+              "link": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+              "language_query": "CSS full course for beginners"
+            },
+            {
+              "title": "CSS Tutorial – Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "11:08:10",
+              "hours": 11.136111111111111,
+              "link": "https://www.youtube.com/watch?v=OXGznpKZ_sA",
+              "language_query": "CSS full course for beginners"
+            },
+            {
+              "title": "Learn HTML & CSS – Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "5:21:44",
+              "hours": 5.362222222222222,
+              "link": "https://www.youtube.com/watch?v=a_iQb1lnAEQ",
+              "language_query": "CSS full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "JavaScript",
+          "display_skill": "JavaScript",
+          "unlocked": 1,
+          "hours": null,
+          "course_confidence": "low",
+          "jobs_per_hour": null,
+          "videos": []
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.454,
+        "shares": {
+          "PostgreSQL": 0.454,
+          "REST API": 0.262,
+          "HTML": 0.14,
+          "No scored pick": 0.09,
+          "SQL": 0.042,
+          "Django": 0.012
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 0.754,
+        "checks": 1500
+      },
+      "confidence": "Uncertain",
+      "curve": [
+        {
+          "skill": "PostgreSQL",
+          "hours": 4.12,
+          "cumulative_hours": 4.12,
+          "gained": 3,
+          "total": 3
+        },
+        {
+          "skill": "SQL",
+          "hours": 4.34,
+          "cumulative_hours": 8.46,
+          "gained": 1,
+          "total": 4
+        },
+        {
+          "skill": "Django",
+          "hours": 3.33,
+          "cumulative_hours": 11.79,
+          "gained": 1,
+          "total": 5
+        },
+        {
+          "skill": "REST API",
+          "hours": 2.54,
+          "cumulative_hours": 14.34,
+          "gained": 1,
+          "total": 6
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 3,
+          "optimal_gained": 3,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "PostgreSQL"
+          ],
+          "optimal_skills": [
+            "PostgreSQL"
+          ],
+          "candidate_count": 6
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 4,
+          "optimal_gained": 5,
+          "ratio": 0.8,
+          "greedy_skills": [
+            "PostgreSQL",
+            "SQL"
+          ],
+          "optimal_skills": [
+            "HTML",
+            "Django"
+          ],
+          "candidate_count": 6
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 6,
+          "optimal_gained": 6,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "PostgreSQL",
+            "SQL",
+            "Django",
+            "REST API"
+          ],
+          "optimal_skills": [
+            "HTML",
+            "REST API",
+            "SQL"
+          ],
+          "candidate_count": 6
+        }
+      ],
+      "distance": {
+        "0": 0,
+        "1": 4,
+        "2": 3,
+        "3+": 0,
+        "Unknown": 0
+      },
+      "flags": {
+        "limited_data": true,
+        "dictionary_warning": false,
+        "hours_unknown": [
+          "AWS",
+          "Azure",
+          "Google Cloud",
+          "JavaScript",
+          "NLP"
+        ]
+      },
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Python Developer — Web Automation & Data Extraction",
+        "company": "PLUS UAE",
+        "coverage_now": 0.4,
+        "must_haves_status": "none stated",
+        "revise": [
+          "Python",
+          "Git"
+        ],
+        "learn": [
+          "HTML",
+          "JavaScript",
+          "PostgreSQL"
+        ],
+        "shortest_route": [
+          "PostgreSQL"
+        ]
+      }
+    },
+    "accountant-mumbai": {
+      "role": "Accountant",
+      "city": "Mumbai",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-09"
+      ],
+      "raw": 30,
+      "deduplicated": 28,
+      "ignored": 0,
+      "experience_excluded": 13,
+      "eligible": 15,
+      "scored": 15,
+      "matches": 5,
+      "must_haves_met": 0,
+      "fastest_win": "Tally",
+      "biggest_unlock": "Tally",
+      "ranked": [
+        {
+          "skill": "Tally",
+          "display_skill": "Tally",
+          "unlocked": 7,
+          "hours": 1.77,
+          "course_confidence": "standard",
+          "jobs_per_hour": 3.95,
+          "videos": [
+            {
+              "title": "Tally Prime Full Course | Tally Complete Course in in 1 Hour | Every Thing in 1 Video",
+              "channel": "New Tally Prime",
+              "duration": "1:10:02",
+              "hours": 1.1672222222222222,
+              "link": "https://www.youtube.com/watch?v=Vi7TzAPjXu0",
+              "language_query": "Tally full course for beginners"
+            },
+            {
+              "title": "Tally Prime Full Course | Tally Prime",
+              "channel": "Great Learning",
+              "duration": "1:46:19",
+              "hours": 1.7719444444444445,
+              "link": "https://www.youtube.com/watch?v=fRItV43W11k",
+              "language_query": "Tally full course for beginners"
+            },
+            {
+              "title": "Tally Prime with GST Full Course in Just 3 Hours | Tally Prime in One Shot | @ComputerTechAcademy",
+              "channel": "Computer Tech Academy",
+              "duration": "3:31:41",
+              "hours": 3.5280555555555555,
+              "link": "https://www.youtube.com/watch?v=0D7lSlhspog",
+              "language_query": "Tally full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "TDS",
+          "display_skill": "TDS",
+          "unlocked": 4,
+          "hours": 1.55,
+          "course_confidence": "standard",
+          "jobs_per_hour": 2.58,
+          "videos": [
+            {
+              "title": "FREE TDS & Income Tax Course 2026 | Complete Practical Training | Salary & Other Than Salary TDS",
+              "channel": "Accounts Advice",
+              "duration": "2:32:51",
+              "hours": 2.5475,
+              "link": "https://www.youtube.com/watch?v=QJkw71xPwck",
+              "language_query": "TDS full course for beginners"
+            },
+            {
+              "title": "Full TDS Course in One Video | Complete Guide under New Income Tax Act 2025",
+              "channel": "CA Devesh Thakur and TaxNishtha by CADT",
+              "duration": "1:02:20",
+              "hours": 1.038888888888889,
+              "link": "https://www.youtube.com/watch?v=JK3O-uF51UI",
+              "language_query": "TDS full course for beginners"
+            },
+            {
+              "title": "NEW TDS COURSE 2026 | BASIC TO ADVANCED TDS COURSE FOR ACCOUNTANTS | Income Tax Act 2026/25",
+              "channel": "CA Piyush Gupta Sir (Smartious)",
+              "duration": "1:33:02",
+              "hours": 1.5505555555555555,
+              "link": "https://www.youtube.com/watch?v=WkT96dvWFtQ",
+              "language_query": "TDS full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "GST",
+          "display_skill": "GST",
+          "unlocked": 4,
+          "hours": 9.03,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.443,
+          "videos": [
+            {
+              "title": "Goods and Services Tax (GST) 2024 Fundamentals Full Course | What is GST?",
+              "channel": "Great Learning",
+              "duration": "1:20:26",
+              "hours": 1.3405555555555555,
+              "link": "https://www.youtube.com/watch?v=ZS4dThqfRbs",
+              "language_query": "GST full course for beginners"
+            },
+            {
+              "title": "🔥Master GST in One Video | Complete GST Tutorial in Tally Prime 2025 | Zero to Hero ✅",
+              "channel": "Accounts Expert",
+              "duration": "9:01:42",
+              "hours": 9.028333333333334,
+              "link": "https://www.youtube.com/watch?v=e9mB5Xh4zLo",
+              "language_query": "GST full course for beginners"
+            },
+            {
+              "title": "Tally Prime 7.0 Full Course With GST | Zero to Hero | Complete Practical Tutorial",
+              "channel": "Accounts Expert",
+              "duration": "11:44:48",
+              "hours": 11.746666666666666,
+              "link": "https://www.youtube.com/watch?v=QQUcccxcjn0",
+              "language_query": "GST full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Accounts Payable",
+          "display_skill": "Accounts Payable",
+          "unlocked": 4,
+          "hours": null,
+          "course_confidence": "low",
+          "jobs_per_hour": null,
+          "videos": []
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.982,
+        "shares": {
+          "Tally": 0.982,
+          "TDS": 0.016,
+          "No scored pick": 0.002
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 0.8447,
+        "checks": 1500
+      },
+      "confidence": "Likely",
+      "curve": [
+        {
+          "skill": "Tally",
+          "hours": 1.77,
+          "cumulative_hours": 1.77,
+          "gained": 7,
+          "total": 12
+        },
+        {
+          "skill": "TDS",
+          "hours": 1.55,
+          "cumulative_hours": 3.32,
+          "gained": 3,
+          "total": 15
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 10,
+          "optimal_gained": 10,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Tally",
+            "TDS"
+          ],
+          "optimal_skills": [
+            "Tally",
+            "TDS"
+          ],
+          "candidate_count": 3
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 10,
+          "optimal_gained": 10,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Tally",
+            "TDS"
+          ],
+          "optimal_skills": [
+            "Tally",
+            "TDS"
+          ],
+          "candidate_count": 3
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 10,
+          "optimal_gained": 10,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Tally",
+            "TDS"
+          ],
+          "optimal_skills": [
+            "Tally",
+            "TDS"
+          ],
+          "candidate_count": 3
+        }
+      ],
+      "distance": {
+        "0": 5,
+        "1": 8,
+        "2": 2,
+        "3+": 0,
+        "Unknown": 0
+      },
+      "flags": {
+        "limited_data": false,
+        "dictionary_warning": false,
+        "hours_unknown": [
+          "Accounts Payable"
+        ]
+      },
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Accountant - Fresher",
+        "company": "Beyondmatrix Capital Private Limited",
+        "coverage_now": 0.4,
+        "must_haves_status": "no",
+        "revise": [
+          "Accounting",
+          "Excel"
+        ],
+        "learn": [
+          "Tally",
+          "GST",
+          "Accounts Payable"
+        ],
+        "shortest_route": [
+          "Tally"
+        ]
+      }
+    },
+    "accountant-indore": {
+      "role": "Accountant",
+      "city": "Indore",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-09"
+      ],
+      "raw": 23,
+      "deduplicated": 23,
+      "ignored": 0,
+      "experience_excluded": 14,
+      "eligible": 9,
+      "scored": 9,
+      "matches": 2,
+      "must_haves_met": 1,
+      "fastest_win": "TDS",
+      "biggest_unlock": "TDS",
+      "ranked": [
+        {
+          "skill": "TDS",
+          "display_skill": "TDS",
+          "unlocked": 2,
+          "hours": 1.55,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.29,
+          "videos": [
+            {
+              "title": "FREE TDS & Income Tax Course 2026 | Complete Practical Training | Salary & Other Than Salary TDS",
+              "channel": "Accounts Advice",
+              "duration": "2:32:51",
+              "hours": 2.5475,
+              "link": "https://www.youtube.com/watch?v=QJkw71xPwck",
+              "language_query": "TDS full course for beginners"
+            },
+            {
+              "title": "Full TDS Course in One Video | Complete Guide under New Income Tax Act 2025",
+              "channel": "CA Devesh Thakur and TaxNishtha by CADT",
+              "duration": "1:02:20",
+              "hours": 1.038888888888889,
+              "link": "https://www.youtube.com/watch?v=JK3O-uF51UI",
+              "language_query": "TDS full course for beginners"
+            },
+            {
+              "title": "NEW TDS COURSE 2026 | BASIC TO ADVANCED TDS COURSE FOR ACCOUNTANTS | Income Tax Act 2026/25",
+              "channel": "CA Piyush Gupta Sir (Smartious)",
+              "duration": "1:33:02",
+              "hours": 1.5505555555555555,
+              "link": "https://www.youtube.com/watch?v=WkT96dvWFtQ",
+              "language_query": "TDS full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Tally",
+          "display_skill": "Tally",
+          "unlocked": 2,
+          "hours": 1.77,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.129,
+          "videos": [
+            {
+              "title": "Tally Prime Full Course | Tally Complete Course in in 1 Hour | Every Thing in 1 Video",
+              "channel": "New Tally Prime",
+              "duration": "1:10:02",
+              "hours": 1.1672222222222222,
+              "link": "https://www.youtube.com/watch?v=Vi7TzAPjXu0",
+              "language_query": "Tally full course for beginners"
+            },
+            {
+              "title": "Tally Prime Full Course | Tally Prime",
+              "channel": "Great Learning",
+              "duration": "1:46:19",
+              "hours": 1.7719444444444445,
+              "link": "https://www.youtube.com/watch?v=fRItV43W11k",
+              "language_query": "Tally full course for beginners"
+            },
+            {
+              "title": "Tally Prime with GST Full Course in Just 3 Hours | Tally Prime in One Shot | @ComputerTechAcademy",
+              "channel": "Computer Tech Academy",
+              "duration": "3:31:41",
+              "hours": 3.5280555555555555,
+              "link": "https://www.youtube.com/watch?v=0D7lSlhspog",
+              "language_query": "Tally full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "GST",
+          "display_skill": "GST",
+          "unlocked": 2,
+          "hours": 9.03,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.222,
+          "videos": [
+            {
+              "title": "Goods and Services Tax (GST) 2024 Fundamentals Full Course | What is GST?",
+              "channel": "Great Learning",
+              "duration": "1:20:26",
+              "hours": 1.3405555555555555,
+              "link": "https://www.youtube.com/watch?v=ZS4dThqfRbs",
+              "language_query": "GST full course for beginners"
+            },
+            {
+              "title": "🔥Master GST in One Video | Complete GST Tutorial in Tally Prime 2025 | Zero to Hero ✅",
+              "channel": "Accounts Expert",
+              "duration": "9:01:42",
+              "hours": 9.028333333333334,
+              "link": "https://www.youtube.com/watch?v=e9mB5Xh4zLo",
+              "language_query": "GST full course for beginners"
+            },
+            {
+              "title": "Tally Prime 7.0 Full Course With GST | Zero to Hero | Complete Practical Tutorial",
+              "channel": "Accounts Expert",
+              "duration": "11:44:48",
+              "hours": 11.746666666666666,
+              "link": "https://www.youtube.com/watch?v=QQUcccxcjn0",
+              "language_query": "GST full course for beginners"
+            }
+          ]
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.874,
+        "shares": {
+          "TDS": 0.874,
+          "No scored pick": 0.084,
+          "Tally": 0.042
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 0.8773,
+        "checks": 1500
+      },
+      "confidence": "Strong",
+      "curve": [
+        {
+          "skill": "TDS",
+          "hours": 1.55,
+          "cumulative_hours": 1.55,
+          "gained": 2,
+          "total": 4
+        },
+        {
+          "skill": "Tally",
+          "hours": 1.77,
+          "cumulative_hours": 3.32,
+          "gained": 1,
+          "total": 5
+        },
+        {
+          "skill": "GST",
+          "hours": 9.03,
+          "cumulative_hours": 12.35,
+          "gained": 3,
+          "total": 8
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 3,
+          "optimal_gained": 3,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "TDS",
+            "Tally"
+          ],
+          "optimal_skills": [
+            "TDS",
+            "Tally"
+          ],
+          "candidate_count": 3
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 3,
+          "optimal_gained": 3,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "TDS",
+            "Tally"
+          ],
+          "optimal_skills": [
+            "TDS",
+            "Tally"
+          ],
+          "candidate_count": 3
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 6,
+          "optimal_gained": 6,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "TDS",
+            "Tally",
+            "GST"
+          ],
+          "optimal_skills": [
+            "GST",
+            "TDS",
+            "Tally"
+          ],
+          "candidate_count": 3
+        }
+      ],
+      "distance": {
+        "0": 2,
+        "1": 2,
+        "2": 3,
+        "3+": 2,
+        "Unknown": 0
+      },
+      "flags": {
+        "limited_data": true,
+        "dictionary_warning": false,
+        "hours_unknown": [
+          "Accounts Payable",
+          "Financial Reporting",
+          "Taxation"
+        ]
+      },
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Junior Accountant (Fresher)",
+        "company": "Devansh Enterprises",
+        "coverage_now": 0.4,
+        "must_haves_status": "none stated",
+        "revise": [
+          "Accounting",
+          "Excel"
+        ],
+        "learn": [
+          "Tally",
+          "TDS"
+        ],
+        "shortest_route": [
+          "TDS"
+        ]
+      }
+    },
+    "digital-marketing-executive-pune": {
+      "role": "Digital Marketing Executive",
+      "city": "Pune",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-09"
+      ],
+      "raw": 13,
+      "deduplicated": 10,
+      "ignored": 2,
+      "experience_excluded": 3,
+      "eligible": 7,
+      "scored": 5,
+      "matches": 0,
+      "must_haves_met": 0,
+      "fastest_win": "Market Research",
+      "biggest_unlock": "Market Research",
+      "ranked": [
+        {
+          "skill": "Market Research",
+          "display_skill": "Market Research",
+          "unlocked": 2,
+          "hours": 0.9,
+          "course_confidence": "low",
+          "jobs_per_hour": 2.228,
+          "videos": [
+            {
+              "title": "Complete Market Research Course - Digital Marketing Fundamentals",
+              "channel": "Pouya Eti",
+              "duration": "53:51",
+              "hours": 0.8975,
+              "link": "https://www.youtube.com/watch?v=jQDJ4JQAh0o",
+              "language_query": "Market Research full course for beginners"
+            },
+            {
+              "title": "How to Conduct Market Research with AI (Full Tutorial)",
+              "channel": "Jayant Padhi",
+              "duration": "49:39",
+              "hours": 0.8275,
+              "link": "https://www.youtube.com/watch?v=KBnSqNV7LMQ",
+              "language_query": "Market Research full course for beginners"
+            },
+            {
+              "title": "How To Do Market Research For Copywriting [1H LIVE Training]",
+              "channel": "Giubi",
+              "duration": "59:10",
+              "hours": 0.9861111111111112,
+              "link": "https://www.youtube.com/watch?v=aNOY6HFxc9o",
+              "language_query": "Market Research full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Email Marketing",
+          "display_skill": "Email Marketing",
+          "unlocked": 1,
+          "hours": 2.3,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.434,
+          "videos": [
+            {
+              "title": "Email Marketing Full Course 2026 | Email Marketing Tutorial for Beginners | Simplilearn",
+              "channel": "Simplilearn",
+              "duration": "3:10:24",
+              "hours": 3.1733333333333333,
+              "link": "https://www.youtube.com/watch?v=DvwUgqX3ZF4",
+              "language_query": "Email Marketing full course for beginners"
+            },
+            {
+              "title": "FREE Email Marketing Course | How To Make $3k/mo For Beginners",
+              "channel": "Tyson 4D",
+              "duration": "1:17:20",
+              "hours": 1.288888888888889,
+              "link": "https://www.youtube.com/watch?v=TheRQ8WEVGQ",
+              "language_query": "Email Marketing full course for beginners"
+            },
+            {
+              "title": "🔥 Email Marketing Full Course 2026 | Email Marketing Course for Beginners | Simplilearn",
+              "channel": "Simplilearn",
+              "duration": "2:18:12",
+              "hours": 2.3033333333333332,
+              "link": "https://www.youtube.com/watch?v=_XJlCvjyYpo",
+              "language_query": "Email Marketing full course for beginners"
+            }
+          ]
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.832,
+        "shares": {
+          "Market Research": 0.832,
+          "No scored pick": 0.106,
+          "Email Marketing": 0.062
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 1.0,
+        "checks": 1500
+      },
+      "confidence": "Likely",
+      "curve": [
+        {
+          "skill": "Market Research",
+          "hours": 0.9,
+          "cumulative_hours": 0.9,
+          "gained": 2,
+          "total": 2
+        },
+        {
+          "skill": "Email Marketing",
+          "hours": 2.3,
+          "cumulative_hours": 3.2,
+          "gained": 2,
+          "total": 4
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 4,
+          "optimal_gained": 4,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Market Research",
+            "Email Marketing"
+          ],
+          "optimal_skills": [
+            "Market Research",
+            "Email Marketing"
+          ],
+          "candidate_count": 2
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 4,
+          "optimal_gained": 4,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Market Research",
+            "Email Marketing"
+          ],
+          "optimal_skills": [
+            "Market Research",
+            "Email Marketing"
+          ],
+          "candidate_count": 2
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 4,
+          "optimal_gained": 4,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Market Research",
+            "Email Marketing"
+          ],
+          "optimal_skills": [
+            "Market Research",
+            "Email Marketing"
+          ],
+          "candidate_count": 2
+        }
+      ],
+      "distance": {
+        "0": 0,
+        "1": 4,
+        "2": 1,
+        "3+": 0,
+        "Unknown": 2
+      },
+      "flags": {
+        "limited_data": true,
+        "dictionary_warning": true,
+        "hours_unknown": []
+      },
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Marketing Executive",
+        "company": "Precise Systems",
+        "coverage_now": 0.0,
+        "must_haves_status": "none stated",
+        "revise": [],
+        "learn": [
+          "Market Research"
+        ],
+        "shortest_route": [
+          "Market Research"
+        ]
+      }
+    },
+    "digital-marketing-executive-chennai": {
+      "role": "Digital Marketing Executive",
+      "city": "Chennai",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-09"
+      ],
+      "raw": 30,
+      "deduplicated": 22,
+      "ignored": 2,
+      "experience_excluded": 11,
+      "eligible": 11,
+      "scored": 9,
+      "matches": 1,
+      "must_haves_met": 0,
+      "fastest_win": "SEO",
+      "biggest_unlock": "SEO",
+      "ranked": [
+        {
+          "skill": "SEO",
+          "display_skill": "SEO",
+          "unlocked": 4,
+          "hours": 1.95,
+          "course_confidence": "standard",
+          "jobs_per_hour": 2.05,
+          "videos": [
+            {
+              "title": "Complete SEO Course for Beginners: Learn to Rank #1 in Google",
+              "channel": "Ahrefs",
+              "duration": "1:57:03",
+              "hours": 1.9508333333333334,
+              "link": "https://www.youtube.com/watch?v=xsVTqzratPs",
+              "language_query": "SEO full course for beginners"
+            },
+            {
+              "title": "Complete AI SEO Course for Beginners: Learn AEO in 86 Minutes",
+              "channel": "Ahrefs",
+              "duration": "1:26:56",
+              "hours": 1.448888888888889,
+              "link": "https://www.youtube.com/watch?v=uza9GX0E2mw",
+              "language_query": "SEO full course for beginners"
+            },
+            {
+              "title": "Complete SEO Course (3 Hours): Rank #1 AI Search | Prompts Included",
+              "channel": "Nico | AI Ranking",
+              "duration": "3:19:42",
+              "hours": 3.328333333333333,
+              "link": "https://www.youtube.com/watch?v=ClGDDrsc_Xs",
+              "language_query": "SEO full course for beginners"
+            }
+          ]
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.732,
+        "shares": {
+          "SEO": 0.732,
+          "No scored pick": 0.268
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 1.0,
+        "checks": 1500
+      },
+      "confidence": "Likely",
+      "curve": [
+        {
+          "skill": "SEO",
+          "hours": 1.95,
+          "cumulative_hours": 1.95,
+          "gained": 4,
+          "total": 5
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 4,
+          "optimal_gained": 4,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "SEO"
+          ],
+          "optimal_skills": [
+            "SEO"
+          ],
+          "candidate_count": 1
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 4,
+          "optimal_gained": 4,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "SEO"
+          ],
+          "optimal_skills": [
+            "SEO"
+          ],
+          "candidate_count": 1
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 4,
+          "optimal_gained": 4,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "SEO"
+          ],
+          "optimal_skills": [
+            "SEO"
+          ],
+          "candidate_count": 1
+        }
+      ],
+      "distance": {
+        "0": 1,
+        "1": 8,
+        "2": 0,
+        "3+": 0,
+        "Unknown": 2
+      },
+      "flags": {
+        "limited_data": true,
+        "dictionary_warning": true,
+        "hours_unknown": []
+      },
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Digital Marketing Executive - Fresher",
+        "company": "Ko Biotics Private Limited",
+        "coverage_now": 0.333,
+        "must_haves_status": "none stated",
+        "revise": [
+          "Social Media Marketing"
+        ],
+        "learn": [
+          "Digital Marketing",
+          "SEO"
+        ],
+        "shortest_route": [
+          "SEO"
+        ]
+      }
+    },
+    "frontend-developer-hyderabad": {
+      "role": "Frontend Developer",
+      "city": "Hyderabad",
+      "threshold": 0.5,
+      "core_share": 0.25,
+      "retrieved_dates": [
+        "2026-10-09"
+      ],
+      "raw": 25,
+      "deduplicated": 23,
+      "ignored": 0,
+      "experience_excluded": 12,
+      "eligible": 11,
+      "scored": 11,
+      "matches": 6,
+      "must_haves_met": 2,
+      "fastest_win": "Responsive Design",
+      "biggest_unlock": "REST API",
+      "ranked": [
+        {
+          "skill": "Responsive Design",
+          "display_skill": "Responsive Design",
+          "unlocked": 2,
+          "hours": 0.84,
+          "course_confidence": "low",
+          "jobs_per_hour": 2.381,
+          "videos": [
+            {
+              "title": "Responsive design made easy",
+              "channel": "Kevin Powell",
+              "duration": "42:40",
+              "hours": 0.7111111111111111,
+              "link": "https://www.youtube.com/watch?v=bn-DQCifeQQ",
+              "language_query": "Responsive Design full course for beginners"
+            },
+            {
+              "title": "Figma Responsive Design: How Enterprise Teams Actually Do It",
+              "channel": "UI Collective",
+              "duration": "50:24",
+              "hours": 0.84,
+              "link": "https://www.youtube.com/watch?v=NzFXc6PULh8",
+              "language_query": "Responsive Design full course for beginners"
+            },
+            {
+              "title": "Become a CSS Media Queries & Responsive Design Pro! Learn EVERYTHING You Need to Know In Detail 🔍",
+              "channel": "Future Fullstack",
+              "duration": "1:16:03",
+              "hours": 1.2675,
+              "link": "https://www.youtube.com/watch?v=webzXg0q_x4",
+              "language_query": "Responsive Design full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "REST API",
+          "display_skill": "REST API",
+          "unlocked": 3,
+          "hours": 2.54,
+          "course_confidence": "standard",
+          "jobs_per_hour": 1.179,
+          "videos": [
+            {
+              "title": "Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
+              "channel": "freeCodeCamp.org",
+              "duration": "5:08:48",
+              "hours": 5.1466666666666665,
+              "link": "https://www.youtube.com/watch?v=2JYT5f2isg4",
+              "language_query": "REST API full course for beginners"
+            },
+            {
+              "title": "API Full Course for Beginners (2026) | REST APIs | Vishwa Sir | upGrad",
+              "channel": "upGrad",
+              "duration": "1:11:16",
+              "hours": 1.1877777777777778,
+              "link": "https://www.youtube.com/watch?v=-58TX3yCHI4",
+              "language_query": "REST API full course for beginners"
+            },
+            {
+              "title": "RESTful API with .NET Core (.NET 7) - Full Course for Beginners",
+              "channel": "DotNetMastery",
+              "duration": "2:32:39",
+              "hours": 2.5441666666666665,
+              "link": "https://www.youtube.com/watch?v=_uZYOgzYheU",
+              "language_query": "REST API full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "Git",
+          "display_skill": "Git",
+          "unlocked": 3,
+          "hours": 3.73,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.805,
+          "videos": [
+            {
+              "title": "Learn Git – Full Course for Beginners",
+              "channel": "freeCodeCamp.org",
+              "duration": "3:43:34",
+              "hours": 3.726111111111111,
+              "link": "https://www.youtube.com/watch?v=zTjRZNkhiEU",
+              "language_query": "Git full course for beginners"
+            },
+            {
+              "title": "Git and GitHub - Full Course",
+              "channel": "Boot dev",
+              "duration": "4:20:00",
+              "hours": 4.333333333333333,
+              "link": "https://www.youtube.com/watch?v=rH3zE7VlIMs",
+              "language_query": "Git full course for beginners"
+            },
+            {
+              "title": "Git & GitHub Crash Course for Beginners [2026]",
+              "channel": "freeCodeCamp.org and logicBase Labs",
+              "duration": "1:21:20",
+              "hours": 1.3555555555555556,
+              "link": "https://www.youtube.com/watch?v=mAFoROnOfHs",
+              "language_query": "Git full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "React",
+          "display_skill": "React",
+          "unlocked": 2,
+          "hours": 5.09,
+          "course_confidence": "standard",
+          "jobs_per_hour": 0.393,
+          "videos": [
+            {
+              "title": "React Tutorial Full Course - Beginner to Pro (React 19, 2025)",
+              "channel": "SuperSimpleDev",
+              "duration": "11:32:04",
+              "hours": 11.534444444444444,
+              "link": "https://www.youtube.com/watch?v=TtPXvEcE11E",
+              "language_query": "React full course for beginners"
+            },
+            {
+              "title": "React Full Course for free ⚛️",
+              "channel": "Bro Code",
+              "duration": "4:43:02",
+              "hours": 4.717222222222222,
+              "link": "https://www.youtube.com/watch?v=CgkZ7MvWUAA",
+              "language_query": "React full course for beginners"
+            },
+            {
+              "title": "Learn React JS - Full Course for Beginners - Tutorial 2019",
+              "channel": "freeCodeCamp.org",
+              "duration": "5:05:34",
+              "hours": 5.092777777777778,
+              "link": "https://www.youtube.com/watch?v=DLX62G4lc44",
+              "language_query": "React full course for beginners"
+            }
+          ]
+        },
+        {
+          "skill": "MySQL",
+          "display_skill": "MySQL",
+          "unlocked": 2,
+          "hours": null,
+          "course_confidence": "low",
+          "jobs_per_hour": null,
+          "videos": []
+        }
+      ],
+      "bootstrap": {
+        "top_share": 0.44,
+        "shares": {
+          "Responsive Design": 0.44,
+          "REST API": 0.232,
+          "No scored pick": 0.176,
+          "React": 0.112,
+          "Git": 0.04
+        },
+        "samples": 500
+      },
+      "hour_variation": {
+        "top_share": 0.6667,
+        "checks": 1500
+      },
+      "confidence": "Uncertain",
+      "curve": [
+        {
+          "skill": "Responsive Design",
+          "hours": 0.84,
+          "cumulative_hours": 0.84,
+          "gained": 2,
+          "total": 8
+        },
+        {
+          "skill": "REST API",
+          "hours": 2.54,
+          "cumulative_hours": 3.38,
+          "gained": 2,
+          "total": 10
+        }
+      ],
+      "greedy_vs_exact": [
+        {
+          "budget": 5,
+          "greedy_gained": 4,
+          "optimal_gained": 4,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Responsive Design",
+            "REST API"
+          ],
+          "optimal_skills": [
+            "REST API",
+            "Responsive Design"
+          ],
+          "candidate_count": 4
+        },
+        {
+          "budget": 10,
+          "greedy_gained": 4,
+          "optimal_gained": 4,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Responsive Design",
+            "REST API"
+          ],
+          "optimal_skills": [
+            "REST API",
+            "Responsive Design"
+          ],
+          "candidate_count": 4
+        },
+        {
+          "budget": 15,
+          "greedy_gained": 4,
+          "optimal_gained": 4,
+          "ratio": 1.0,
+          "greedy_skills": [
+            "Responsive Design",
+            "REST API"
+          ],
+          "optimal_skills": [
+            "REST API",
+            "Responsive Design"
+          ],
+          "candidate_count": 4
+        }
+      ],
+      "distance": {
+        "0": 6,
+        "1": 5,
+        "2": 0,
+        "3+": 0,
+        "Unknown": 0
+      },
+      "flags": {
+        "limited_data": true,
+        "dictionary_warning": false,
+        "hours_unknown": [
+          "MySQL"
+        ]
+      },
+      "query_scope": "base plus fresher and junior",
+      "job_prep_default": {
+        "title": "Frontend Developer — Intern / Fresher",
+        "company": "Zudu AI",
+        "coverage_now": 0.429,
+        "must_haves_status": "no",
+        "revise": [
+          "JavaScript",
+          "CSS",
+          "HTML"
+        ],
+        "learn": [
+          "React",
+          "Git",
+          "REST API",
+          "Responsive Design"
+        ],
+        "shortest_route": [
+          "Responsive Design"
+        ]
+      }
     }
   }
 }

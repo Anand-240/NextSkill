@@ -187,7 +187,7 @@ class DemoJobPrepTests(unittest.TestCase):
 
     def test_every_saved_pair_opens_a_prep_plan(self):
         from personas import saved_pairs
-        both = []
+        learn_only = []
         for pair in saved_pairs():
             with patch("engine._request", side_effect=AssertionError("network requested")):
                 client = SerpClient(use_fixtures=True, cache_only=True)
@@ -197,14 +197,11 @@ class DemoJobPrepTests(unittest.TestCase):
                 self.assertIsNotNone(index, pair["id"])
                 plan = build_plan(result, index, lambda skill: course_videos(skill, client),
                                   lambda skill: revision_videos(skill, client))
-            actions = {item["action"] for item in plan["items"]}
             self.assertEqual(plan["missing_revision"], [], pair["id"])
-            if actions == {"revise", "learn"}:
-                both.append(pair["id"])
-        # Indore has no listing with a skill to revise, so its plan can only teach.
-        self.assertEqual(len(both), len(saved_pairs()) - 1)
-        self.assertNotIn("data-analyst-indore", both)
-
+            if {item["action"] for item in plan["items"]} != {"revise", "learn"}:
+                learn_only.append(pair["id"])
+        # These two markets have no listing that asks for a skill the example profile holds.
+        self.assertEqual(sorted(learn_only), ["data-analyst-indore", "digital-marketing-executive-pune"])
 
 if __name__ == "__main__":
     unittest.main()

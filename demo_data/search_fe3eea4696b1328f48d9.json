@@ -1,0 +1,494 @@
+{
+  "search_metadata": {
+    "id": "6ac8cd881290d9ca02b56f1e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5PAa3V4xa-fAzUxMaNKfSACTMmqm4YO9NwUhD2nXVQI/6ac8cd881290d9ca02b56f1e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/5PAa3V4xa-fAzUxMaNKfSACTMmqm4YO9NwUhD2nXVQI/6ac8cd881290d9ca02b56f1e.md",
+    "created_at": "2026-10-09 11:18:32 UTC",
+    "processed_at": "2026-10-09 11:18:32 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Python+Developer+fresher&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/5PAa3V4xa-fAzUxMaNKfSACTMmqm4YO9NwUhD2nXVQI/6ac8cd881290d9ca02b56f1e.html",
+    "total_time_taken": 4.59
+  },
+  "search_parameters": {
+    "q": "Python Developer fresher",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rhfEV-4K40i-ZaIQJgdggp5seV12fKS9VfqSB5HrjjnUw3YtxgNfyhh1FPGS3Fmcwurm0wFx_MSokS14OoFfe6BI31zTbLLpHBNkKsPOQ41Iaz0KZOo5COiWTvEcyE5xGcSB_D2G832Fqus9zTYACeslRcFT1XQUd1PBDtHyvO0GRBA54",
+        "q": "Python Developer fresher remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhfEV-4K40i-ZaIQJgdggp5seV12fKS9VfqSB5HrjjnUw3YtxgNfyhh1FPGS3Fmcwurm0wFx_MSokS14OoFfe6BI31zTbLLpHBNkKsPOQ41Iaz0KZOo5COiWTvEcyE5xGcSB_D2G832Fqus9zTYACeslRcFT1XQUd1PBDtHyvO0GRBA54&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhfEV-4K40i-ZaIQJgdggp5seV12fKS9VfqSB5HrjjnUw3YtxgNfyhh1FPGS3Fmcwurm0wFx_MSokS14OoFfe6BI31zTbLLpHBNkKsPOQ41Iaz0KZOo5COiWTvEcyE5xGcSB_D2G832Fqus9zTYACeslRcFT1XQUd1PBDtHyvO0GRBA54"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BXePFPJg_5zJD7rnSmHcnsKcNJDC7RVXijYcydnfa75YbSrzA-1ADNJ6vkTUhp2fX9s9L-WOcVQdWQARp--ba2JzhiqFKG6pjOgOMZvluNeTyVm5iID4wQz868FmxO-660ETz7_G4c2e57zlfdcXalMaVHMydRFwAj2BfLVWulecG5H1OsOGuWX5l7lqpn4bClKumNOZweYK-dcR7CejGKveUNyA9ACMnJiLoGX0OqPS4lQwcSn9gpCZilnOJ7es7Qkd7X5PwS-dnuQXQQ_keyuN9VNx1rQpbBB9MqtEIUMYl6dqVB51qc8WQn_IC5oKIXodfdU",
+            "q": "Python Developer fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BXePFPJg_5zJD7rnSmHcnsKcNJDC7RVXijYcydnfa75YbSrzA-1ADNJ6vkTUhp2fX9s9L-WOcVQdWQARp--ba2JzhiqFKG6pjOgOMZvluNeTyVm5iID4wQz868FmxO-660ETz7_G4c2e57zlfdcXalMaVHMydRFwAj2BfLVWulecG5H1OsOGuWX5l7lqpn4bClKumNOZweYK-dcR7CejGKveUNyA9ACMnJiLoGX0OqPS4lQwcSn9gpCZilnOJ7es7Qkd7X5PwS-dnuQXQQ_keyuN9VNx1rQpbBB9MqtEIUMYl6dqVB51qc8WQn_IC5oKIXodfdU&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BXePFPJg_5zJD7rnSmHcnsKcNJDC7RVXijYcydnfa75YbSrzA-1ADNJ6vkTUhp2fX9s9L-WOcVQdWQARp--ba2JzhiqFKG6pjOgOMZvluNeTyVm5iID4wQz868FmxO-660ETz7_G4c2e57zlfdcXalMaVHMydRFwAj2BfLVWulecG5H1OsOGuWX5l7lqpn4bClKumNOZweYK-dcR7CejGKveUNyA9ACMnJiLoGX0OqPS4lQwcSn9gpCZilnOJ7es7Qkd7X5PwS-dnuQXQQ_keyuN9VNx1rQpbBB9MqtEIUMYl6dqVB51qc8WQn_IC5oKIXodfdU"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rK2SaxIKerCTVgi-O9Ud_JHmt5YY8QrC-DgnTkULXUWLbwrHb2-7py6lVV3U4urkFHBYBxAG28aGA66N_d3uEWuK2C3km1U4HPLypvneKvLEGhbGQMsUPPk9Bcxxj7q78hYNM1pJTmTmca9uEbLEz5JMZgVNG7vdxZNc1ZffXJn_u_G57mEqAVyQl4kcf8ZPpAJ5IvpU3SN5ph0FlUIzg70MN3pi11t6OY8D_hSGbIuKV14-j9xXZ74-ZLxWu0376dVNo3ZXbfjyGj3hTVQlA9bX0m0M116_MMThMd_jLijurs11Yrff3DqTX04MRgq-jXeNJ1-Oyrt12MQWJGdJJgbeYE8k",
+            "q": "Python Developer fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rK2SaxIKerCTVgi-O9Ud_JHmt5YY8QrC-DgnTkULXUWLbwrHb2-7py6lVV3U4urkFHBYBxAG28aGA66N_d3uEWuK2C3km1U4HPLypvneKvLEGhbGQMsUPPk9Bcxxj7q78hYNM1pJTmTmca9uEbLEz5JMZgVNG7vdxZNc1ZffXJn_u_G57mEqAVyQl4kcf8ZPpAJ5IvpU3SN5ph0FlUIzg70MN3pi11t6OY8D_hSGbIuKV14-j9xXZ74-ZLxWu0376dVNo3ZXbfjyGj3hTVQlA9bX0m0M116_MMThMd_jLijurs11Yrff3DqTX04MRgq-jXeNJ1-Oyrt12MQWJGdJJgbeYE8k&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rK2SaxIKerCTVgi-O9Ud_JHmt5YY8QrC-DgnTkULXUWLbwrHb2-7py6lVV3U4urkFHBYBxAG28aGA66N_d3uEWuK2C3km1U4HPLypvneKvLEGhbGQMsUPPk9Bcxxj7q78hYNM1pJTmTmca9uEbLEz5JMZgVNG7vdxZNc1ZffXJn_u_G57mEqAVyQl4kcf8ZPpAJ5IvpU3SN5ph0FlUIzg70MN3pi11t6OY8D_hSGbIuKV14-j9xXZ74-ZLxWu0376dVNo3ZXbfjyGj3hTVQlA9bX0m0M116_MMThMd_jLijurs11Yrff3DqTX04MRgq-jXeNJ1-Oyrt12MQWJGdJJgbeYE8k"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoJDjjOQ3FWljE1qvNjoV1wzVKtc_MIqWcLo47JnYT_B8oIDh-5MJ2bdbIaOoY3RqWlOKt0uMq7sCkwYOiKQlv8dMSsR7aTeRMBEy6-j8uF5Xulbp5LSMHl0Ff496uOfQwbhFBAi7_DCI8dlrz1M9IP1KGlphYhan0ZB6pEt8XKjlBHZi5FOE41n2pZHbG00Xa5psVOOCZ4K83xwbJF0t-6h514bii5ODCuDcUCFoKAcBhkFBZIM1hBRAJE6IjZPEbI_G5bw-7VicaToIxBfF90G-_VSSwADc36X4UHMlwhYjMj_ungmq7b7eEjn9RKlNDVO4F7E",
+            "q": "Python Developer fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoJDjjOQ3FWljE1qvNjoV1wzVKtc_MIqWcLo47JnYT_B8oIDh-5MJ2bdbIaOoY3RqWlOKt0uMq7sCkwYOiKQlv8dMSsR7aTeRMBEy6-j8uF5Xulbp5LSMHl0Ff496uOfQwbhFBAi7_DCI8dlrz1M9IP1KGlphYhan0ZB6pEt8XKjlBHZi5FOE41n2pZHbG00Xa5psVOOCZ4K83xwbJF0t-6h514bii5ODCuDcUCFoKAcBhkFBZIM1hBRAJE6IjZPEbI_G5bw-7VicaToIxBfF90G-_VSSwADc36X4UHMlwhYjMj_ungmq7b7eEjn9RKlNDVO4F7E&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoJDjjOQ3FWljE1qvNjoV1wzVKtc_MIqWcLo47JnYT_B8oIDh-5MJ2bdbIaOoY3RqWlOKt0uMq7sCkwYOiKQlv8dMSsR7aTeRMBEy6-j8uF5Xulbp5LSMHl0Ff496uOfQwbhFBAi7_DCI8dlrz1M9IP1KGlphYhan0ZB6pEt8XKjlBHZi5FOE41n2pZHbG00Xa5psVOOCZ4K83xwbJF0t-6h514bii5ODCuDcUCFoKAcBhkFBZIM1hBRAJE6IjZPEbI_G5bw-7VicaToIxBfF90G-_VSSwADc36X4UHMlwhYjMj_ungmq7b7eEjn9RKlNDVO4F7E"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4raMA7wI4dJTxdtC2i79eEnDBkd9gO_5alWTwPSqAP89jLEFC6bJKplYTSfFytvERoAdjnkbWhQVZ4Vf8ls6F0c84kmkHd7jfiuwF2Zb-wIlfwXVZy65Us3Xi3LPla_tr7D4C0glIeVdgVz18ZDM0EY-jwCJyEhR_ygD1NsnjhkgNW4UKDf0a4K49Dl-uLkzIl2JSfd44wXFrW_m6FiovcoZ7IF1PDG79Ia8FHOetWuxAxzPRA78V0DCpbrvNVUCR8l3PaDo9uwTga9p1RxXi2EYKRrYOlpQWCynnXUF4OmZvek8f6LyJJZ0OznJANJ2Ee97mBqHTJP-kjULEIGzSGb2cD6eo",
+            "q": "Python Developer fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raMA7wI4dJTxdtC2i79eEnDBkd9gO_5alWTwPSqAP89jLEFC6bJKplYTSfFytvERoAdjnkbWhQVZ4Vf8ls6F0c84kmkHd7jfiuwF2Zb-wIlfwXVZy65Us3Xi3LPla_tr7D4C0glIeVdgVz18ZDM0EY-jwCJyEhR_ygD1NsnjhkgNW4UKDf0a4K49Dl-uLkzIl2JSfd44wXFrW_m6FiovcoZ7IF1PDG79Ia8FHOetWuxAxzPRA78V0DCpbrvNVUCR8l3PaDo9uwTga9p1RxXi2EYKRrYOlpQWCynnXUF4OmZvek8f6LyJJZ0OznJANJ2Ee97mBqHTJP-kjULEIGzSGb2cD6eo&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raMA7wI4dJTxdtC2i79eEnDBkd9gO_5alWTwPSqAP89jLEFC6bJKplYTSfFytvERoAdjnkbWhQVZ4Vf8ls6F0c84kmkHd7jfiuwF2Zb-wIlfwXVZy65Us3Xi3LPla_tr7D4C0glIeVdgVz18ZDM0EY-jwCJyEhR_ygD1NsnjhkgNW4UKDf0a4K49Dl-uLkzIl2JSfd44wXFrW_m6FiovcoZ7IF1PDG79Ia8FHOetWuxAxzPRA78V0DCpbrvNVUCR8l3PaDo9uwTga9p1RxXi2EYKRrYOlpQWCynnXUF4OmZvek8f6LyJJZ0OznJANJ2Ee97mBqHTJP-kjULEIGzSGb2cD6eo"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BXePFPJg_5zJD7rnSmHcnsKcNJDC7RVXijYcydnfa75YbSrzA-1ADNJ6vkTUhp2fX9s9L-WOcVQdWQARp--ba2JzhiqFKG6pjOgOMZvluNeTyVm5iID4wQz868FmxO-660ETz7_G4c2e57zlfdcXalMaVHMydRFwAj2BfLVWulecG5H1OsOGuWX5l7lqpn4bClKumNOZweYK-dcR7CejGKveUNyA9ACMnJiLoGX0OqPS4lQwcSn9gpCZilnOJ7es7Qkd7X5PwS-dnuQXQQ_keyuN9VNx1rQpbBB9MqtEIUMYl6dqVB51qc8WQn_IC5oKIXodfdU",
+            "q": "Python Developer fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BXePFPJg_5zJD7rnSmHcnsKcNJDC7RVXijYcydnfa75YbSrzA-1ADNJ6vkTUhp2fX9s9L-WOcVQdWQARp--ba2JzhiqFKG6pjOgOMZvluNeTyVm5iID4wQz868FmxO-660ETz7_G4c2e57zlfdcXalMaVHMydRFwAj2BfLVWulecG5H1OsOGuWX5l7lqpn4bClKumNOZweYK-dcR7CejGKveUNyA9ACMnJiLoGX0OqPS4lQwcSn9gpCZilnOJ7es7Qkd7X5PwS-dnuQXQQ_keyuN9VNx1rQpbBB9MqtEIUMYl6dqVB51qc8WQn_IC5oKIXodfdU&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BXePFPJg_5zJD7rnSmHcnsKcNJDC7RVXijYcydnfa75YbSrzA-1ADNJ6vkTUhp2fX9s9L-WOcVQdWQARp--ba2JzhiqFKG6pjOgOMZvluNeTyVm5iID4wQz868FmxO-660ETz7_G4c2e57zlfdcXalMaVHMydRFwAj2BfLVWulecG5H1OsOGuWX5l7lqpn4bClKumNOZweYK-dcR7CejGKveUNyA9ACMnJiLoGX0OqPS4lQwcSn9gpCZilnOJ7es7Qkd7X5PwS-dnuQXQQ_keyuN9VNx1rQpbBB9MqtEIUMYl6dqVB51qc8WQn_IC5oKIXodfdU"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rK2SaxIKerCTVgi-O9Ud_JHmt5YY8QrC-DgnTkULXUWLbwrHb2-7py6lVV3U4urkFHBYBxAG28aGA66N_d3uEWuK2C3km1U4HPLypvneKvLEGhbGQMsUPPk9Bcxxj7q78hYNM1pJTmTmca9uEbLEz5JMZgVNG7vdxZNc1ZffXJn_u_G57mEqAVyQl4kcf8ZPpAJ5IvpU3SN5ph0FlUIzg70MN3pi11t6OY8D_hSGbIuKV14-j9xXZ74-ZLxWu0376dVNo3ZXbfjyGj3hTVQlA9bX0m0M116_MMThMd_jLijurs11Yrff3DqTX04MRgq-jXeNJ1-Oyrt12MQWJGdJJgbeYE8k",
+            "q": "Python Developer fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rK2SaxIKerCTVgi-O9Ud_JHmt5YY8QrC-DgnTkULXUWLbwrHb2-7py6lVV3U4urkFHBYBxAG28aGA66N_d3uEWuK2C3km1U4HPLypvneKvLEGhbGQMsUPPk9Bcxxj7q78hYNM1pJTmTmca9uEbLEz5JMZgVNG7vdxZNc1ZffXJn_u_G57mEqAVyQl4kcf8ZPpAJ5IvpU3SN5ph0FlUIzg70MN3pi11t6OY8D_hSGbIuKV14-j9xXZ74-ZLxWu0376dVNo3ZXbfjyGj3hTVQlA9bX0m0M116_MMThMd_jLijurs11Yrff3DqTX04MRgq-jXeNJ1-Oyrt12MQWJGdJJgbeYE8k&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rK2SaxIKerCTVgi-O9Ud_JHmt5YY8QrC-DgnTkULXUWLbwrHb2-7py6lVV3U4urkFHBYBxAG28aGA66N_d3uEWuK2C3km1U4HPLypvneKvLEGhbGQMsUPPk9Bcxxj7q78hYNM1pJTmTmca9uEbLEz5JMZgVNG7vdxZNc1ZffXJn_u_G57mEqAVyQl4kcf8ZPpAJ5IvpU3SN5ph0FlUIzg70MN3pi11t6OY8D_hSGbIuKV14-j9xXZ74-ZLxWu0376dVNo3ZXbfjyGj3hTVQlA9bX0m0M116_MMThMd_jLijurs11Yrff3DqTX04MRgq-jXeNJ1-Oyrt12MQWJGdJJgbeYE8k"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoJDjjOQ3FWljE1qvNjoV1wzVKtc_MIqWcLo47JnYT_B8oIDh-5MJ2bdbIaOoY3RqWlOKt0uMq7sCkwYOiKQlv8dMSsR7aTeRMBEy6-j8uF5Xulbp5LSMHl0Ff496uOfQwbhFBAi7_DCI8dlrz1M9IP1KGlphYhan0ZB6pEt8XKjlBHZi5FOE41n2pZHbG00Xa5psVOOCZ4K83xwbJF0t-6h514bii5ODCuDcUCFoKAcBhkFBZIM1hBRAJE6IjZPEbI_G5bw-7VicaToIxBfF90G-_VSSwADc36X4UHMlwhYjMj_ungmq7b7eEjn9RKlNDVO4F7E",
+            "q": "Python Developer fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoJDjjOQ3FWljE1qvNjoV1wzVKtc_MIqWcLo47JnYT_B8oIDh-5MJ2bdbIaOoY3RqWlOKt0uMq7sCkwYOiKQlv8dMSsR7aTeRMBEy6-j8uF5Xulbp5LSMHl0Ff496uOfQwbhFBAi7_DCI8dlrz1M9IP1KGlphYhan0ZB6pEt8XKjlBHZi5FOE41n2pZHbG00Xa5psVOOCZ4K83xwbJF0t-6h514bii5ODCuDcUCFoKAcBhkFBZIM1hBRAJE6IjZPEbI_G5bw-7VicaToIxBfF90G-_VSSwADc36X4UHMlwhYjMj_ungmq7b7eEjn9RKlNDVO4F7E&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rklwwnP3f5-5QNC7GdVLkoJDjjOQ3FWljE1qvNjoV1wzVKtc_MIqWcLo47JnYT_B8oIDh-5MJ2bdbIaOoY3RqWlOKt0uMq7sCkwYOiKQlv8dMSsR7aTeRMBEy6-j8uF5Xulbp5LSMHl0Ff496uOfQwbhFBAi7_DCI8dlrz1M9IP1KGlphYhan0ZB6pEt8XKjlBHZi5FOE41n2pZHbG00Xa5psVOOCZ4K83xwbJF0t-6h514bii5ODCuDcUCFoKAcBhkFBZIM1hBRAJE6IjZPEbI_G5bw-7VicaToIxBfF90G-_VSSwADc36X4UHMlwhYjMj_ungmq7b7eEjn9RKlNDVO4F7E"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4raMA7wI4dJTxdtC2i79eEnDBkd9gO_5alWTwPSqAP89jLEFC6bJKplYTSfFytvERoAdjnkbWhQVZ4Vf8ls6F0c84kmkHd7jfiuwF2Zb-wIlfwXVZy65Us3Xi3LPla_tr7D4C0glIeVdgVz18ZDM0EY-jwCJyEhR_ygD1NsnjhkgNW4UKDf0a4K49Dl-uLkzIl2JSfd44wXFrW_m6FiovcoZ7IF1PDG79Ia8FHOetWuxAxzPRA78V0DCpbrvNVUCR8l3PaDo9uwTga9p1RxXi2EYKRrYOlpQWCynnXUF4OmZvek8f6LyJJZ0OznJANJ2Ee97mBqHTJP-kjULEIGzSGb2cD6eo",
+            "q": "Python Developer fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raMA7wI4dJTxdtC2i79eEnDBkd9gO_5alWTwPSqAP89jLEFC6bJKplYTSfFytvERoAdjnkbWhQVZ4Vf8ls6F0c84kmkHd7jfiuwF2Zb-wIlfwXVZy65Us3Xi3LPla_tr7D4C0glIeVdgVz18ZDM0EY-jwCJyEhR_ygD1NsnjhkgNW4UKDf0a4K49Dl-uLkzIl2JSfd44wXFrW_m6FiovcoZ7IF1PDG79Ia8FHOetWuxAxzPRA78V0DCpbrvNVUCR8l3PaDo9uwTga9p1RxXi2EYKRrYOlpQWCynnXUF4OmZvek8f6LyJJZ0OznJANJ2Ee97mBqHTJP-kjULEIGzSGb2cD6eo&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raMA7wI4dJTxdtC2i79eEnDBkd9gO_5alWTwPSqAP89jLEFC6bJKplYTSfFytvERoAdjnkbWhQVZ4Vf8ls6F0c84kmkHd7jfiuwF2Zb-wIlfwXVZy65Us3Xi3LPla_tr7D4C0glIeVdgVz18ZDM0EY-jwCJyEhR_ygD1NsnjhkgNW4UKDf0a4K49Dl-uLkzIl2JSfd44wXFrW_m6FiovcoZ7IF1PDG79Ia8FHOetWuxAxzPRA78V0DCpbrvNVUCR8l3PaDo9uwTga9p1RxXi2EYKRrYOlpQWCynnXUF4OmZvek8f6LyJJZ0OznJANJ2Ee97mBqHTJP-kjULEIGzSGb2cD6eo"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46K2AENCaNGetcQwAh134RSG-AdXpJlXDJn0X_3dHM_c0Qw3mvRg2E8t-2lLZHbp2wrL-bjHNJhEJxmK0SXjx6p3V3cOcr38wqs_KzZHWYE68Cb2ulyBK9BpM8_-kRu4k6M9FYugF6isVgngOXymkl3RS5XukwEHRbHxg4YTXembI2keER_ew1UcveBmkDETs1nGAffO3tjosUYB9QEew67I_8RnPu_-u5kyRNHL6-tmDT96ybXp7D0HhdFTDIb9nvwWQFvZ3lVPry83iwNjF2NqseV7bNTXfat6o5xhq5c6T1uIv3WI9luh86IzC5AdAg7PwG1Y",
+            "q": "Python Developer fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46K2AENCaNGetcQwAh134RSG-AdXpJlXDJn0X_3dHM_c0Qw3mvRg2E8t-2lLZHbp2wrL-bjHNJhEJxmK0SXjx6p3V3cOcr38wqs_KzZHWYE68Cb2ulyBK9BpM8_-kRu4k6M9FYugF6isVgngOXymkl3RS5XukwEHRbHxg4YTXembI2keER_ew1UcveBmkDETs1nGAffO3tjosUYB9QEew67I_8RnPu_-u5kyRNHL6-tmDT96ybXp7D0HhdFTDIb9nvwWQFvZ3lVPry83iwNjF2NqseV7bNTXfat6o5xhq5c6T1uIv3WI9luh86IzC5AdAg7PwG1Y&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46K2AENCaNGetcQwAh134RSG-AdXpJlXDJn0X_3dHM_c0Qw3mvRg2E8t-2lLZHbp2wrL-bjHNJhEJxmK0SXjx6p3V3cOcr38wqs_KzZHWYE68Cb2ulyBK9BpM8_-kRu4k6M9FYugF6isVgngOXymkl3RS5XukwEHRbHxg4YTXembI2keER_ew1UcveBmkDETs1nGAffO3tjosUYB9QEew67I_8RnPu_-u5kyRNHL6-tmDT96ybXp7D0HhdFTDIb9nvwWQFvZ3lVPry83iwNjF2NqseV7bNTXfat6o5xhq5c6T1uIv3WI9luh86IzC5AdAg7PwG1Y"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46K2AENCaNGetcQwAh134RSG-AdXpJlXDJn0X_3dHM_c09g8jzhlw_EtPZCPNNYVcXJwGdueLJ3OJp50UGGchEAxJJYda_GHgILST3fn8QOZpW_m6ZY4ChD0Cy9UvUg5IYFe3D_dgwYq1UJoogIc5cktvd3OjdOsipnWW0kfFT4guSEOtdYWGMhCQoFTOiA-E6SQ_crNZR9-rU8M3Dh-tEoHDBVe7hY3T3XtuE8_CCLWvQZrWtq_MjKCJKJWDyjCciQH514oPMGZLkU5wp_hWfGS4XWPwj7preTt5Nn2mewU7gG8x2E07UdnJDy-vk_inA9-0Nmo",
+            "q": "Python Developer fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46K2AENCaNGetcQwAh134RSG-AdXpJlXDJn0X_3dHM_c09g8jzhlw_EtPZCPNNYVcXJwGdueLJ3OJp50UGGchEAxJJYda_GHgILST3fn8QOZpW_m6ZY4ChD0Cy9UvUg5IYFe3D_dgwYq1UJoogIc5cktvd3OjdOsipnWW0kfFT4guSEOtdYWGMhCQoFTOiA-E6SQ_crNZR9-rU8M3Dh-tEoHDBVe7hY3T3XtuE8_CCLWvQZrWtq_MjKCJKJWDyjCciQH514oPMGZLkU5wp_hWfGS4XWPwj7preTt5Nn2mewU7gG8x2E07UdnJDy-vk_inA9-0Nmo&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46K2AENCaNGetcQwAh134RSG-AdXpJlXDJn0X_3dHM_c09g8jzhlw_EtPZCPNNYVcXJwGdueLJ3OJp50UGGchEAxJJYda_GHgILST3fn8QOZpW_m6ZY4ChD0Cy9UvUg5IYFe3D_dgwYq1UJoogIc5cktvd3OjdOsipnWW0kfFT4guSEOtdYWGMhCQoFTOiA-E6SQ_crNZR9-rU8M3Dh-tEoHDBVe7hY3T3XtuE8_CCLWvQZrWtq_MjKCJKJWDyjCciQH514oPMGZLkU5wp_hWfGS4XWPwj7preTt5Nn2mewU7gG8x2E07UdnJDy-vk_inA9-0Nmo"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rG01LnmfvnJTW_6ToXL_UJH_n9ns8mipWCnvZ4bEgxi61tqB6Mm8WUvmThU_SsPzWYCs3UbEckuyIb__kivLmtS0BxVqGE2L8z2nhFuiNzNc8w6OYiHsxVgeYty2kFbJEvd7LP2iGE-sstTjURYxrlBDCi56xh3nHq97P72aZ2nYXDlCE_MCcmRJYtFFzuzyn2walHIla-h1qh6aHEZmyCmWQ1VvXqtflK6VArFmZ6TyiK5f8M3a88KidvNQaazRSI5dXcNkJl1ouLnjTpZB0Z_ORBuC3bA7xi6_Oo-jCH5eN-F7IPmDhKWx5mdTFs4cFk3bK5w",
+            "q": "Python Developer fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rG01LnmfvnJTW_6ToXL_UJH_n9ns8mipWCnvZ4bEgxi61tqB6Mm8WUvmThU_SsPzWYCs3UbEckuyIb__kivLmtS0BxVqGE2L8z2nhFuiNzNc8w6OYiHsxVgeYty2kFbJEvd7LP2iGE-sstTjURYxrlBDCi56xh3nHq97P72aZ2nYXDlCE_MCcmRJYtFFzuzyn2walHIla-h1qh6aHEZmyCmWQ1VvXqtflK6VArFmZ6TyiK5f8M3a88KidvNQaazRSI5dXcNkJl1ouLnjTpZB0Z_ORBuC3bA7xi6_Oo-jCH5eN-F7IPmDhKWx5mdTFs4cFk3bK5w&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rG01LnmfvnJTW_6ToXL_UJH_n9ns8mipWCnvZ4bEgxi61tqB6Mm8WUvmThU_SsPzWYCs3UbEckuyIb__kivLmtS0BxVqGE2L8z2nhFuiNzNc8w6OYiHsxVgeYty2kFbJEvd7LP2iGE-sstTjURYxrlBDCi56xh3nHq97P72aZ2nYXDlCE_MCcmRJYtFFzuzyn2walHIla-h1qh6aHEZmyCmWQ1VvXqtflK6VArFmZ6TyiK5f8M3a88KidvNQaazRSI5dXcNkJl1ouLnjTpZB0Z_ORBuC3bA7xi6_Oo-jCH5eN-F7IPmDhKWx5mdTFs4cFk3bK5w"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r7hOUA05M1a03bn-LSaBMsTl4QiKt5tIPd2vRlLiPM5uqEKX1faiz5dczIpUtlRpFM52a69gvvTWvqWxiWCxyjDLew27aPa6YIKv6uwukC_DBMQVDxfoFRE7tgjOVO7b6Qas2HaAkomvPfAzEvMsEMMuABvZJc53hDDH_ybKrnNmseL8npKy1gAtY_nb4h6HmboBZyex2jO4V0e8vEeC4iIYOdKe7ajfq3Rbh-hv8LaeeJ0PIMkryXTktGaSW_Fbu5mVMtEDDZvBzUr42w7xgP14kUgfGpLHI2y3tTOqayv5CiFrF1v2S14KaDMHeM0ekJRCc9A",
+            "q": "Python Developer fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r7hOUA05M1a03bn-LSaBMsTl4QiKt5tIPd2vRlLiPM5uqEKX1faiz5dczIpUtlRpFM52a69gvvTWvqWxiWCxyjDLew27aPa6YIKv6uwukC_DBMQVDxfoFRE7tgjOVO7b6Qas2HaAkomvPfAzEvMsEMMuABvZJc53hDDH_ybKrnNmseL8npKy1gAtY_nb4h6HmboBZyex2jO4V0e8vEeC4iIYOdKe7ajfq3Rbh-hv8LaeeJ0PIMkryXTktGaSW_Fbu5mVMtEDDZvBzUr42w7xgP14kUgfGpLHI2y3tTOqayv5CiFrF1v2S14KaDMHeM0ekJRCc9A&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r7hOUA05M1a03bn-LSaBMsTl4QiKt5tIPd2vRlLiPM5uqEKX1faiz5dczIpUtlRpFM52a69gvvTWvqWxiWCxyjDLew27aPa6YIKv6uwukC_DBMQVDxfoFRE7tgjOVO7b6Qas2HaAkomvPfAzEvMsEMMuABvZJc53hDDH_ybKrnNmseL8npKy1gAtY_nb4h6HmboBZyex2jO4V0e8vEeC4iIYOdKe7ajfq3Rbh-hv8LaeeJ0PIMkryXTktGaSW_Fbu5mVMtEDDZvBzUr42w7xgP14kUgfGpLHI2y3tTOqayv5CiFrF1v2S14KaDMHeM0ekJRCc9A"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46K2AENCaNGetcQwAh134RSG-AdXpJlXDJn0X_3dHM_c0Qw3mvRg2E8t-2lLZHbp2wrL-bjHNJhEJxmK0SXjx6p3V3cOcr38wqs_KzZHWYE68Cb2ulyBK9BpM8_-kRu4k6M9FYugF6isVgngOXymkl3RS5XukwEHRbHxg4YTXembI2keER_ew1UcveBmkDETs1nGAffO3tjosUYB9QEew67I_8RnPu_-u5kyRNHL6-tmDT96ybXp7D0HhdFTDIb9nvwWQFvZ3lVPry83iwNjF2NqseV7bNTXfat6o5xhq5c6T1uIv3WI9luh86IzC5AdAg7PwG1Y",
+            "q": "Python Developer fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46K2AENCaNGetcQwAh134RSG-AdXpJlXDJn0X_3dHM_c0Qw3mvRg2E8t-2lLZHbp2wrL-bjHNJhEJxmK0SXjx6p3V3cOcr38wqs_KzZHWYE68Cb2ulyBK9BpM8_-kRu4k6M9FYugF6isVgngOXymkl3RS5XukwEHRbHxg4YTXembI2keER_ew1UcveBmkDETs1nGAffO3tjosUYB9QEew67I_8RnPu_-u5kyRNHL6-tmDT96ybXp7D0HhdFTDIb9nvwWQFvZ3lVPry83iwNjF2NqseV7bNTXfat6o5xhq5c6T1uIv3WI9luh86IzC5AdAg7PwG1Y&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46K2AENCaNGetcQwAh134RSG-AdXpJlXDJn0X_3dHM_c0Qw3mvRg2E8t-2lLZHbp2wrL-bjHNJhEJxmK0SXjx6p3V3cOcr38wqs_KzZHWYE68Cb2ulyBK9BpM8_-kRu4k6M9FYugF6isVgngOXymkl3RS5XukwEHRbHxg4YTXembI2keER_ew1UcveBmkDETs1nGAffO3tjosUYB9QEew67I_8RnPu_-u5kyRNHL6-tmDT96ybXp7D0HhdFTDIb9nvwWQFvZ3lVPry83iwNjF2NqseV7bNTXfat6o5xhq5c6T1uIv3WI9luh86IzC5AdAg7PwG1Y"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46K2AENCaNGetcQwAh134RSG-AdXpJlXDJn0X_3dHM_c09g8jzhlw_EtPZCPNNYVcXJwGdueLJ3OJp50UGGchEAxJJYda_GHgILST3fn8QOZpW_m6ZY4ChD0Cy9UvUg5IYFe3D_dgwYq1UJoogIc5cktvd3OjdOsipnWW0kfFT4guSEOtdYWGMhCQoFTOiA-E6SQ_crNZR9-rU8M3Dh-tEoHDBVe7hY3T3XtuE8_CCLWvQZrWtq_MjKCJKJWDyjCciQH514oPMGZLkU5wp_hWfGS4XWPwj7preTt5Nn2mewU7gG8x2E07UdnJDy-vk_inA9-0Nmo",
+            "q": "Python Developer fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46K2AENCaNGetcQwAh134RSG-AdXpJlXDJn0X_3dHM_c09g8jzhlw_EtPZCPNNYVcXJwGdueLJ3OJp50UGGchEAxJJYda_GHgILST3fn8QOZpW_m6ZY4ChD0Cy9UvUg5IYFe3D_dgwYq1UJoogIc5cktvd3OjdOsipnWW0kfFT4guSEOtdYWGMhCQoFTOiA-E6SQ_crNZR9-rU8M3Dh-tEoHDBVe7hY3T3XtuE8_CCLWvQZrWtq_MjKCJKJWDyjCciQH514oPMGZLkU5wp_hWfGS4XWPwj7preTt5Nn2mewU7gG8x2E07UdnJDy-vk_inA9-0Nmo&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46K2AENCaNGetcQwAh134RSG-AdXpJlXDJn0X_3dHM_c09g8jzhlw_EtPZCPNNYVcXJwGdueLJ3OJp50UGGchEAxJJYda_GHgILST3fn8QOZpW_m6ZY4ChD0Cy9UvUg5IYFe3D_dgwYq1UJoogIc5cktvd3OjdOsipnWW0kfFT4guSEOtdYWGMhCQoFTOiA-E6SQ_crNZR9-rU8M3Dh-tEoHDBVe7hY3T3XtuE8_CCLWvQZrWtq_MjKCJKJWDyjCciQH514oPMGZLkU5wp_hWfGS4XWPwj7preTt5Nn2mewU7gG8x2E07UdnJDy-vk_inA9-0Nmo"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rG01LnmfvnJTW_6ToXL_UJH_n9ns8mipWCnvZ4bEgxi61tqB6Mm8WUvmThU_SsPzWYCs3UbEckuyIb__kivLmtS0BxVqGE2L8z2nhFuiNzNc8w6OYiHsxVgeYty2kFbJEvd7LP2iGE-sstTjURYxrlBDCi56xh3nHq97P72aZ2nYXDlCE_MCcmRJYtFFzuzyn2walHIla-h1qh6aHEZmyCmWQ1VvXqtflK6VArFmZ6TyiK5f8M3a88KidvNQaazRSI5dXcNkJl1ouLnjTpZB0Z_ORBuC3bA7xi6_Oo-jCH5eN-F7IPmDhKWx5mdTFs4cFk3bK5w",
+            "q": "Python Developer fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rG01LnmfvnJTW_6ToXL_UJH_n9ns8mipWCnvZ4bEgxi61tqB6Mm8WUvmThU_SsPzWYCs3UbEckuyIb__kivLmtS0BxVqGE2L8z2nhFuiNzNc8w6OYiHsxVgeYty2kFbJEvd7LP2iGE-sstTjURYxrlBDCi56xh3nHq97P72aZ2nYXDlCE_MCcmRJYtFFzuzyn2walHIla-h1qh6aHEZmyCmWQ1VvXqtflK6VArFmZ6TyiK5f8M3a88KidvNQaazRSI5dXcNkJl1ouLnjTpZB0Z_ORBuC3bA7xi6_Oo-jCH5eN-F7IPmDhKWx5mdTFs4cFk3bK5w&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rG01LnmfvnJTW_6ToXL_UJH_n9ns8mipWCnvZ4bEgxi61tqB6Mm8WUvmThU_SsPzWYCs3UbEckuyIb__kivLmtS0BxVqGE2L8z2nhFuiNzNc8w6OYiHsxVgeYty2kFbJEvd7LP2iGE-sstTjURYxrlBDCi56xh3nHq97P72aZ2nYXDlCE_MCcmRJYtFFzuzyn2walHIla-h1qh6aHEZmyCmWQ1VvXqtflK6VArFmZ6TyiK5f8M3a88KidvNQaazRSI5dXcNkJl1ouLnjTpZB0Z_ORBuC3bA7xi6_Oo-jCH5eN-F7IPmDhKWx5mdTFs4cFk3bK5w"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r7hOUA05M1a03bn-LSaBMsTl4QiKt5tIPd2vRlLiPM5uqEKX1faiz5dczIpUtlRpFM52a69gvvTWvqWxiWCxyjDLew27aPa6YIKv6uwukC_DBMQVDxfoFRE7tgjOVO7b6Qas2HaAkomvPfAzEvMsEMMuABvZJc53hDDH_ybKrnNmseL8npKy1gAtY_nb4h6HmboBZyex2jO4V0e8vEeC4iIYOdKe7ajfq3Rbh-hv8LaeeJ0PIMkryXTktGaSW_Fbu5mVMtEDDZvBzUr42w7xgP14kUgfGpLHI2y3tTOqayv5CiFrF1v2S14KaDMHeM0ekJRCc9A",
+            "q": "Python Developer fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsoHouoST2z_C0SeX4GKIiCe7mqGw:1791544717079&q=Python+Developer+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r7hOUA05M1a03bn-LSaBMsTl4QiKt5tIPd2vRlLiPM5uqEKX1faiz5dczIpUtlRpFM52a69gvvTWvqWxiWCxyjDLew27aPa6YIKv6uwukC_DBMQVDxfoFRE7tgjOVO7b6Qas2HaAkomvPfAzEvMsEMMuABvZJc53hDDH_ybKrnNmseL8npKy1gAtY_nb4h6HmboBZyex2jO4V0e8vEeC4iIYOdKe7ajfq3Rbh-hv8LaeeJ0PIMkryXTktGaSW_Fbu5mVMtEDDZvBzUr42w7xgP14kUgfGpLHI2y3tTOqayv5CiFrF1v2S14KaDMHeM0ekJRCc9A&udm=8&sa=X&ved=2ahUKEwjBqNeT6KyXAxU3CoYAHb8mCGwQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Python+Developer+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r7hOUA05M1a03bn-LSaBMsTl4QiKt5tIPd2vRlLiPM5uqEKX1faiz5dczIpUtlRpFM52a69gvvTWvqWxiWCxyjDLew27aPa6YIKv6uwukC_DBMQVDxfoFRE7tgjOVO7b6Qas2HaAkomvPfAzEvMsEMMuABvZJc53hDDH_ybKrnNmseL8npKy1gAtY_nb4h6HmboBZyex2jO4V0e8vEeC4iIYOdKe7ajfq3Rbh-hv8LaeeJ0PIMkryXTktGaSW_Fbu5mVMtEDDZvBzUr42w7xgP14kUgfGpLHI2y3tTOqayv5CiFrF1v2S14KaDMHeM0ekJRCc9A"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Python Developer(Fresher)",
+      "company_name": "CEDRETO MARKETING PRIVATE LIMITED",
+      "location": "Bengaluru, Karnataka",
+      "via": "Cutshort",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+fresher&htidocid=Izs_r96nZOHDEZXLAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ6CMBSA4bhyBKc3qjFgSBzUCaUSgighxJU8yAtFa0vaYnDzDl7DU3kSdfmn73feI8fPHpYrCSHdSaiO9GSvyXDSU_g8X3BRFRhCXXP4oUipRtB4w63tzNrzjBFuYyzatnZrdfOUpEoN3m8y_5SGo6ZOoKXSXy4Gt5PNbLVjYc6KE6RBnrAiPkaQ5fE5KBgc4jQuWAithC3JBkWv-zkkqCVavOIXsVEEu68AAAA&shmds=v1_ARwrE22C2EEpAgffX3IZS5HsVPYS-1-51TSBq7yN2j4UnEx0kw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+fresher&htidocid=Izs_r96nZOHDEZXLAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAgCAMAAABw3UvaAAAAclBMVEX____X19fw8PD8_Pzk5OSSkpKenp5_f39YWFilpaWzs7Ps7OywsLC5ublBQUFra2twcHBKSkobGxsyMjJiYmLLy8sICAjAwMB4eHgnJycgICBPT0-Hh4c7OzuYmJgAAABANDv_QIb9AFj7zt7-wNT6eaN1ZG5CAAAAlklEQVQ4je3OWRLCIBBF0W4CNAQIGUBQY5z3v0XLDVi25Sf3_9R7AK3W_4qjK5P6Ac5oli5lPtz5uuCEfGgtSCp8Jzb0qgoFVpNjybonldMBzECaBeVo31Ca4yxZUPRAo8sJLXqOc5vtIYQOXVgFB3ZRD_lkjKZaAuvqWgY_pO0c9Xq53u7fQ48KaANCivh4sjZbrc-9AARsBq6GxPHHAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "₹3.5L–₹4.5L a year",
+        "Full–time"
+      ],
+      "source_link": "https://cutshort.io/job/Python-Developer-Fresher-Bengaluru-Bangalore-CEDRETO-MARKETING-PRIVATE-LIMITED-ZefdPWHo",
+      "job_title": "Python Developer(Fresher)",
+      "description": "JOB DESCRIPTION \n\n\nDYT - Do Your Thng, is an app, where all social media users can share brands they love with their followers and earn money while doing so! We believe everyone is an influencer. Our aim is to democratise social media and allow people to be rewarded for the content they post. How does DYT help you? It accelerates your career through collaboration opportunities with top brands and gives you access to a community full of experts in the influencer space. \n\n\nRESPONSIBILITIES \n\n\n\nExpert in Python with knowledge of Python best practices (PEP8) \nStrong knowledge of python web frameworks such as Django, Flask • Strong knowledge of building RESTful APIs using Django Rest Framework • Good Understanding of Django ORM Libraries \nAble to integrate multiple data sources and databases into one system • Strong experience on Linux \nSolid database skills in a relational database (i.e. PostgresSQL,MYSql) • Able to create database schemas that represent and support business processes • Strong unit test and debugging skills \nProficient understanding of code versioning tools (git) \nExperience deploying on AWS is desirable \nExperience with Docker,Test Drive Development will be a plus \nExcellent interpersonal, leadership, influence and communication skills • Experience in designing scalable micro-services is desirable \n\nQUALIFICATIONS \n\n\n\n0-1 years of experience as a backend developer \nAt least one product build and published \nSKILLS Contribute in all phases of the development lifecycle \nWrite well designed, testable, efficient code \nWork well under pressure and meet deadlines without sacrificing quality • Work with distributed development teams",
+      "apply_options": [
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Python-Developer-Fresher-Bengaluru-Bangalore-CEDRETO-MARKETING-PRIVATE-LIMITED-ZefdPWHo?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyKEZyZXNoZXIpIiwiY29tcGFueV9uYW1lIjoiQ0VEUkVUTyBNQVJLRVRJTkcgUFJJVkFURSBMSU1JVEVEIiwiaHRpZG9jaWQiOiJJenNfcjk2blpPSERFWlhMQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzbFpWMUJoVG1sMlJYQm9XbEJNUkc1S2QzbFhZWFV4UkZoTVZUUXlPVzFJU0VaS1JubE9SRFEzYURKT1NUZGlSMm8wZWxwQ2IzUkhTR3RmVW1GcmNqQTVUbWhTY0ZCdVRHVnVlbTVsUTI1U1ZURjBlamxhUkRCallXSkNPRFZoU2pkUFppMVFUbGh5UkV4b2JXcENjMWxCV1V0MlFUQmlhR3BvWW5sTVUxUm1aVTlsUW1VU0YycGpNMGxoYjBkMVFreGxWVzFNVVZCMk9ESm5ORUZaR2lKQlJITnlPV1pUTFROMFNHOXJWbEozTjNkcU9XSkNSVXhqVUhrdFlWbEhVRVYzIiwiZmN2IjoiMyIsImZjX2lkIjoiSXpzX3I5Nm5aT0hERVpYTEFBQUFBQT09In0="
+    },
+    {
+      "title": "Python Developer  in Bangalore  AI & Web Applications",
+      "company_name": "Nextwebi IT Solutions PVT LTD",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+fresher&htidocid=_O8_hvC493oz9tZFAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOMQrCQBREsfUIVlNZiCQi2GilBCQoIhi0DD_hk0TX_cvuRmPnHbySJ_EkJtpMNfPm9d-9_m7_8KVoRHxjJYYtUGmsSBekxDKwjDHEiTMsjVFVTr4S7fB5vnCWDI7J5iVawFqkUDxYlN4bNw9D51RQON_28yCXayiaM2nCduS6SF1Jlo0iz-l0NmkCo4vRbMeNv3NWIU5wEFX_z_bHBNsk-olxJ1bbeowNWU2eLvQF0_7jrccAAAA&shmds=v1_ARwrE21yKXI0o9ZevLCDOPNBaqvmx5d2t-ERA--h0D2iPfcBSQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+fresher&htidocid=_O8_hvC493oz9tZFAAAAAA%3D%3D",
+      "extensions": [
+        "13 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/python-developer-job-in-bangalore-ai-web-applications/nextwebi-it-solutions-pvt-ltd/19600485",
+      "job_title": "Python Developer  in Bangalore  AI & Web Applications",
+      "description": "About the Role\nWe are looking for a skilled Python Developer with 23 years of hands-on experience in developing dynamic web applications, REST APIs, AI-integrated applications, and automation solutions.\n\n\nThe ideal candidate should have strong Python fundamentals, practical experience with modern Python frameworks, and the ability to integrate AI/ML models, LLMs, databases, and third-party services into real-world web applications.\n\n\nWhat We Do\nNextwebi is an AI-enabled digital transformation and software development company. We design and develop:\n\n\n\nCustom web applications and enterprise portals\nAI-powered applications, chatbots, and automation solutions\nREST APIs and third-party system integrations\nData-driven dashboards and business applications\nSaaS products and scalable cloud-based platforms\nMachine learning and intelligent document-processing solutions\nAI knowledge bases and RAG-based applications\n\nWhat Youll Be Doing\n\nDevelop dynamic, secure, and scalable web applications using Python.\nDesign, develop, document, and maintain REST APIs.\nBuild backend applications using Django, Django REST Framework (DRF), Flask, or FastAPI.\nIntegrate AI models, LLMs, and machine learning services into web applications.\nWork with APIs and services from OpenAI, Azure OpenAI, Google Gemini, AWS Bedrock, and other AI platforms.\nDevelop AI-powered chatbots, knowledge-base applications, document-processing systems, recommendation systems, and automation tools.\nBuild and integrate Retrieval-Augmented Generation (RAG) workflows.\nImplement authentication, authorization, data validation, logging, exception handling, and application security.\nWork with frontend developers to integrate Python APIs with React.js and Next.js applications.\nDesign and manage databases, data models, and application workflows.\nWrite clean, reusable, secure, testable, and well-documented code.\nUse AI-assisted coding tools to improve development speed, debugging, testing, and code quality.\nDeploy and maintain Python applications on cloud platforms.\nTroubleshoot production issues and optimize application performance.\n\nRequired Technical Skills\n\nStrong knowledge of Python and object-oriented programming.\nHands-on experience with Django, Django REST Framework (DRF), Flask, or FastAPI.\nGood understanding of REST API development and third-party API integration.\nExperience working with databases such as PostgreSQL, MySQL, MongoDB, or SQL Server.\nUnderstanding of database design, queries, indexing, and ORM concepts.\nKnowledge of HTML, CSS, JavaScript, and modern web application architecture.\nFamiliarity with Git, GitHub/GitLab, Postman, Docker, and CI/CD.\nUnderstanding of authentication and authorization methods such as JWT and OAuth.\nBasic knowledge of AWS, Azure, or other cloud platforms.\nAbility to write unit tests, debug applications, and troubleshoot complex technical issues.\n\nPython Libraries & AI/ML Technologies\nCandidates should have experience with, or a good practical understanding of, relevant technologies such as:\n\n\n\nWeb Development: Django, Django REST Framework, Flask, FastAPI, Pydantic\nData Processing: Pandas, NumPy, OpenPyXL\nAI & Machine Learning: Scikit-learn, TensorFlow, PyTorch\nGenerative AI: OpenAI SDK, LangChain, LlamaIndex, Hugging Face Transformers\nVector Databases: Qdrant, Pinecone, Chroma, FAISS\nDocument Processing: PyPDF2, pdfplumber, BeautifulSoup, OCR tools\nDatabase & ORM: SQLAlchemy, Django ORM\nTesting: Pytest, Unittest\nAutomation: Selenium, Playwright, Requests\nBackground Processing: Celery, Redis\nDeployment: Docker, Nginx, Gunicorn, Uvicorn\n\nExperience with every library listed above is not mandatory. Candidates should have strong practical knowledge of the technologies relevant to their previous projects and be comfortable learning new frameworks and tools.\n\n\nAI/ML Experience\nThe candidate should understand how to:\n\n\n\nIntegrate Large Language Models (LLMs) through APIs.\nDevelop Retrieval-Augmented Generation (RAG) applications.\nGenerate, manage, and store embeddings using vector databases.\nWork with prompt engineering and structured AI outputs.\nBuild AI chatbots, copilots, and knowledge-base applications.\nProcess and extract information from PDFs, documents, and websites.\nDevelop basic machine learning models and data-processing workflows.\nIntegrate AI functionality into existing web applications and APIs.\nManage AI API costs, response times, data privacy, security, and error handling.\n\nCandidate Profile\n\n23 years of professional Python development experience.\nExperience developing and deploying real-world web applications.\nStrong problem-solving and logical-thinking abilities.\nGood understanding of secure and scalable application development.\nAbility to work independently and collaborate with frontend, QA, DevOps, and project teams.\nWillingness to learn new AI technologies, frameworks, and development tools.\nGood written and verbal communication skills.\n\nGood to Have\n\nExperience with microservices and asynchronous .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/python-developer-job-in-bangalore-ai-web-applications/nextwebi-it-solutions-pvt-ltd/19600485?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyICBpbiBCYW5nYWxvcmUgIEFJIFx1MDAyNiBXZWIgQXBwbGljYXRpb25zIiwiY29tcGFueV9uYW1lIjoiTmV4dHdlYmkgSVQgU29sdXRpb25zIFBWVCBMVEQiLCJodGlkb2NpZCI6Il9POF9odkM0OTNvejl0WkZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZwTkxVbExhVVpWZURCSVFWWk9lV0ozU0doSWEzcEVWVUZLVkUxM1FUZEVaREphTmxGak5HbElRMlp0UXpoVFoyeDZXVFpoWkZaWFJYUmlWbTUzZWpWRWRIRnBUMjF3ZGtGUGEyMXZaelJEWlRsNFltTmhZMlJDWjBaNFkzRlBORmRvUTNCbk5tWjRjR3RuYlhCZk5GSm5TbXRDTTJsVlNscERkbmxqZFd4NFdVVXRXVElTRjJwak0wbGhiMGQxUWt4bFZXMU1VVkIyT0RKbk5FRlpHaUpCUkhOeU9XWlVOREYwYkRKUk1IUmFVMUY2TTBneGVUbDFjVFpsYVRGb2NtRm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJfTzhfaHZDNDkzb3o5dFpGQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Python Developer-1-2 years",
+      "company_name": "Hyreo",
+      "location": "Bengaluru, Karnataka",
+      "via": "MyInternships.in",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+fresher&htidocid=LuXYiz_sXoyRmJiBAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLQQrCMBAA8donCMKexTZa8aI3ERS8-IOyLUvSGrMhu5X25hfEH_oS62VgYCZ7z7LtbVTHAU70JM-RUr7JSxgJk8D39YGOa5DJGgdTdWa2nuYHpxplb4yIL6woatsUDT8MB6p5MNMkf1TiMFH0qFSVu_VQxGCXi8uYiKENcKRg0fepX8EVU0DFO_4A6_5l3ZQAAAA&shmds=v1_ARwrE21JIbWhdPw2i9KITKLxFyZUiPuFZxllzLqWG2XEwSDE6w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+fresher&htidocid=LuXYiz_sXoyRmJiBAAAAAA%3D%3D",
+      "extensions": [
+        "12 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://myinternships.in/jobs/hyreo-is-hiring-python-developer-1-2-years-in-bengaluru",
+      "job_title": "Python Developer-1-2 years",
+      "description": "Hyreo is hiring for Python Developer-1-2 years in Bengaluru. This opening is live on Hyreo's own careers board — MyInternships.in lists it and, once you are logged in, sends you straight to the employer's official application form. You are never applying through a middleman and there is no third-party board in between.\n\nROLE SNAPSHOT\n• Role — Python Developer-1-2 years\n• Employer — Hyreo\n• Location — Bengaluru, Karnataka\n• Work mode — As stated in the posting\n• Function — Engineering (software engineering)\n• Experience — As stated in the posting\n• Employment type — Full-time\n• Compensation — As stated by the employer during the hiring process\n\nABOUT THIS ROLE — IN HYREO'S OWN WORDS\nExperience 1-2 years\n\n• Python Programming: Strong foundational skills in Python.\n\n• Automation: Ability to automate tasks with Python scripts.\n\n• Web Development: Basic knowledge of Flask or Django for building web applications.\n\n• Database Management: Understanding of SQL and experience with databases like MySQL or SQLite.\n\n• Version Control: Familiarity with Git for code management.\n\n• Data Analysis: Experience with libraries like Pandas and NumPy.\n\n• Testing: Basic knowledge of writing unit tests.\n\n• Problem-Solving: Ability to troubleshoot and solve coding issues.\n\n• Basic DevOps: Introduction to CI/CD tools and processes.\n\n• Communication: Good verbal and written communication skills.\n\nSKILLS THIS ROLE SCREENS FOR\n• Python\n• Communication\n• Version Control\n• Data Analysis\n• Automation\n• Devops\n• Django\n• Pandas\n• Sqlite\n• Numpy\n\nWHO SHOULD APPLY\n• Candidates whose experience matches what Hyreo states in the posting above\n• Practical, hands-on depth in Python, Communication, Version Control, Data Analysis\n• A track record you can evidence — systems you have shipped, problems you have owned end to end\n• Able to work from Bengaluru on the schedule stated in the posting\n• Read the employer's own requirements above — they are the ones that decide the screen\n\nABOUT HYREO\nWe want you to architect truly customized candidate odysseys. We want you to weave compelling brand stories. We want you to have enriching dialogues with your candidates and provide them with the best support at every phase of their recruitment journey. We want you to do this all by harnessing the power of intelligent automation alongside profound insights. With Hyreo, we want you to experience the true essence of recruitment, firsthand! Hyreo was born from the philosophy of delivering a ‘customer-like’ experience to candidates, transforming recruiters into true talent relationship champions. Our mission is to sculpt empowered advocates for talent in the future, instigating a transformative shift in candidate experiences . Our team is a diverse group of professionals united by a shared vision of revolutionizing recruitment. From developers adept in deep conversational AI to leaders driving our mission forward, everyone at Hyreo plays a vital role in shaping the recruitment landscape. At Hyreo, diversity, collaboration, and innovation are more than just values; they’re an integral part of our culture. We strive to create an environment that fosters creativity, learning, and growth, where every team member is respected and their ideas are heard. We are as passionate and invested in our people as we are in our product. We are supported by visionary investors, who believe in adding class to the recruitment process.\n\nHOW TO APPLY\nLog in to MyInternships.in and click Apply — you are taken directly to Hyreo's official application form. Your application is read by Hyreo, not by us, and we do not sit between you and the employer.\nHyreo does not charge a fee at any stage of application, selection or onboarding. If anyone asks you for money for this role, it is not a genuine request.\nPostings close without notice. If the employer's page no longer shows this role, it has been filled or withdrawn. Responsibilities: Own software engineering work as scoped by Hyreo in the posting above; Apply Python, Communication, Version Control, Data Analysis to live problems; Work with the team that depends on your output and keep them informed; Document what you build so colleagues can maintain and extend it; Take review feedback and act on it. Requirements: Experience level as stated by Hyreo in the posting above; Working knowledge of Python, Communication, Version Control; Exposure to Data Analysis, Automation, Devops is an advantage; Work you can evidence and talk through in depth; Clear written and verbal communication in English; Able to work from Bengaluru; The employer's own requirements, listed in full in the description above.",
+      "apply_options": [
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/jobs/hyreo-is-hiring-python-developer-1-2-years-in-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CV Rocket",
+          "link": "https://cvrocket.ai/jobs/hyreo/python-developer-1-2-years-78b5c11f9b79?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyLTEtMiB5ZWFycyIsImNvbXBhbnlfbmFtZSI6Ikh5cmVvIiwiaHRpZG9jaWQiOiJMdVhZaXpfc1hveVJtSmlCQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRIYzNWR0ppTnpkNFFtTTVOakkyWVhJeE1VeFpaa1J0TVhNdE5XTktVMk5zWHpGNk56bDVOVkJGVjFaZk5qTXdaa3h1V0dSWVZtTkhhWGh2UWpodE5VaHBaSGt0YmpGWlptWlpXVzlXUmt0eWExTkViVGhzTjFCSmNtdHlkV0pITjJjMk56UjRNRzV2VEVsbk5XaDZWbEJVWldOdVJHWlFTMWRVVUd0cFYzQktUVU5XVFdvU0YycGpNMGxoYjBkMVFreGxWVzFNVVZCMk9ESm5ORUZaR2lKQlJITnlPV1pVYm5oS01tNWllSG8zZUY5dVJXWTVOV0pwUjNoQmFtWnllVzFSIiwiZmN2IjoiMyIsImZjX2lkIjoiTHVYWWl6X3NYb3lSbUppQkFBQUFBQT09In0="
+    },
+    {
+      "title": "Python Developer job openings in hyderabad and bangalore",
+      "company_name": "Confidential Company Name",
+      "location": "Bengaluru, Karnataka",
+      "via": "Foundit",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+fresher&htidocid=QdWWyAa2aQYsFnDeAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2OMQ7CMBAERZsnUF2NUAxINNARJAokBC9Al-SwDc6dZTso6fgDT-InvISEZrXFzu5mn0l2OffJCMOenuTEU4C7lDAYtqwjWAbT1xSwxBqQayiRNToJBN_X-5-NhKEyMHQcRLSj6dak5ONGqRhdrmPCZKu8kkYJUymdGqA4yjUaDOQdJrqu1osu96xny0L4ZmviZNFBIY1H7uGEDY1fdjSut6GdwxEDY8IH_gD373rcxgAAAA&shmds=v1_ARwrE22VS4bKQVZabAYsEd1vogrfHX1ZM_Ku82JU7EPPhHTQ8g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+fresher&htidocid=QdWWyAa2aQYsFnDeAAAAAA%3D%3D",
+      "extensions": [
+        "24 days ago",
+        "₹10L–₹20L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.foundit.in/job/python-developer-job-openings-in-hyderabad-and-bangalore-bengaluru-bangalore-67141145",
+      "job_title": "Python Developer job openings in hyderabad and bangalore",
+      "description": "Job Title:Python Developer \n\nQualification : Any degree / B.Tech\n\nExperience: 4yr to 10yr+ above\n\nHike: 30 to 50% on present CTC\n\nLocation: Hyderabad and bangalore\n\nNotice Period : 90 days acceptable\n\nCommunication: Good communication skills required\n\nInterested Candidate Kindly Call Or What's App Sreeja HR - [REDACTED PHONE]\n\n\n\nDescription\n\nWe are seeking a skilled Python Developer to join our team in Hyderabad or Bangalore. The ideal candidate will have 4-9 years of experience in developing robust applications using Python. You will be responsible for building high-quality software solutions that meet our clients needs.\n\n\n\nResponsibilitiesDevelop and maintain scalable and efficient Python applications.Collaborate with cross-functional teams to define, design, and ship new features.Write clean, maintainable, and efficient code following best practices.Troubleshoot and debug applications to optimize performance.Participate in code reviews to ensure code quality and share knowledge with team members.Stay up to date with the latest industry trends and technologies related to Python development.\n\nSkills and Qualifications4-9 years of experience in Python development.Strong understanding of Python frameworks such as Django or Flask.Experience with RESTful APIs and web services.Proficient in SQL and database management systems like PostgreSQL or MySQL.Familiarity with front-end technologies such as HTML, CSS, and JavaScript.Knowledge of version control systems, preferably Git.Experience with cloud services like AWS or Azure is a plus.Strong problem-solving skills and ability to work in a team environment.",
+      "apply_options": [
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/python-developer-job-openings-in-hyderabad-and-bangalore-bengaluru-bangalore-67141145?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/878603682714658636?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/296121087920439296?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyIGpvYiBvcGVuaW5ncyBpbiBoeWRlcmFiYWQgYW5kIGJhbmdhbG9yZSIsImNvbXBhbnlfbmFtZSI6IkNvbmZpZGVudGlhbCBDb21wYW55IE5hbWUiLCJodGlkb2NpZCI6IlFkV1d5QWEyYVFZc0ZuRGVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xocllYZEtaVk5vTVZOdFVIWkRSa2xsTURKR1MxTmFkV2RtUkRKNGJVMU5jMU0zYzJOV2QwNDNVUzFqZVUxcWFuUlZUalEzZURBeFQxRmlObXhXY0d4b1prcE5ha0Z2VmtVeFVHTlFYelpQV2paWU9YaGlYMGRCUWxwTE1VbFlWMjF5Vmt0elFscHdRWEJmWlhGQldYVkNiekUxU2pSblJuZFhaMnRKYkRWc2NYSk9ZbWNTRjJwak0wbGhiMGQxUWt4bFZXMU1VVkIyT0RKbk5FRlpHaUpCUkhOeU9XWlJRa0kzY3preFpFZFZia0oxYW1WNVJYZFRTVlpYUTAxSk9ITjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJRZFdXeUFhMmFRWXNGbkRlQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior Django Developer (1-2 Year of Experience)",
+      "company_name": "Aforro™",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+fresher&htidocid=Bmef2mNa8YoxVAFmAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMQ6CQBAAY8sTrNZOjYKa2GilwRj1BVZkIctxeO5e7g5DaeEP_IGtv-IlYjPFTCb6DqLTuWEtDtIaWQmk9CAjlhyMl_MVXAkdSAmHtleauKAJdM831JKD71tRgTAcRZSh4bYKwfpNknhvYuUDBl3EhdwTYcqlTfrJ_5H5Ch1Zg4Gy1XrRxpbVdLQrxTnpXh_QDHtihaZxzQwu6BgD3vAH5TElua4AAAA&shmds=v1_ARwrE20PNcZVwg5skclJqW4BOcnQq1f01gBmzsoZ7ulH6SmdMw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+fresher&htidocid=Bmef2mNa8YoxVAFmAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/junior-django-developer-1-2-year-of-experience/aforrotm/19448605",
+      "job_title": "Junior Django Developer (1-2 Year of Experience)",
+      "description": "We're building something incredibly exciting at Aforro, and we're looking for a Backend Developer who wants to build products from the ground up  not just work on small pieces of an existing system.\n\n\n\n\nYou'll be working closely with the founding and engineering team to build the backend for our retailer-first quick-commerce platform, powering everything from inventory and procurement to billing, orders, settlements and retailer operations.\n\n\n\n\n\n\n\nWhat we're looking for\n\nWe're specifically looking for someone who has a strong understanding of:\n\n\n\n\nPython & DjangoREST APIs and backend architectureDatabase design and PostgreSQLSystem design fundamentalsWriting clean, maintainable and scalable codeDesigning reliable business logic and workflowsAuthentication, permissions and API securityDebugging and solving backend problems independently\n\n\nWhat you'll do\n\nBuild and maintain backend systems using DjangoDesign APIs and database structures for new featuresWork on complex workflows across inventory, orders, billing, procurement and settlementsTake ownership of backend features from design  development  testing  deploymentWork closely with frontend, mobile and product teams to build complete features\n\n\nMust-haves\n\n 12+ years of relevant industry experience\n\n Strong hands-on experience with Python/Django\n\n Good understanding of databases and PostgreSQL\n\n Experience building production-grade REST APIs\n\n Strong fundamentals in system design and backend architecture\n\n On-site | HSR Layout, Bengaluru\n\n Immediate joiners preferred .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-django-developer-1-2-year-of-experience/aforrotm/19448605?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGphbmdvIERldmVsb3BlciAoMS0yIFllYXIgb2YgRXhwZXJpZW5jZSkiLCJjb21wYW55X25hbWUiOiJBZm9ycm/ihKIiLCJodGlkb2NpZCI6IkJtZWYybU5hOFlveFZBRm1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNsdE1UQlRWVmhZWnpFelFWb3dXV3BXVDBGaE5IY3llSFZvU1VOamJEUklTRTFaUVdwSVltRkRWSEIyZEY5VVNYaHFOMmN0VnkxbVZGSlhUazlKZUVWcWVtSlNiVzFqYjFSeVlqVkJVa3hMYm1odVpsbGhiRXRKZW1oak0zSjRkREZuTlhaMlZGb3hXblpJVUd0d1JXTnZTM05qVDFreVEzYzBRV3hNVTNkVE1GOXNNMThTRjJwak0wbGhiMGQxUWt4bFZXMU1VVkIyT0RKbk5FRlpHaUpCUkhOeU9XWlJaR3hOUmt4dVJXbFlaMVp4YTNkR1gyUkpkR0pIVkZONU9HdDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJCbWVmMm1OYThZb3hWQUZtQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Snowflake (Python, SQL) Developer",
+      "company_name": "Infosys Limited",
+      "location": "Bengaluru, Karnataka",
+      "via": "Foundit",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+fresher&htidocid=qdIKlSmJRJ6k2jilAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLOw6CQBAA0NhyBKvp_ISAMbHBzpgYI4WGA5ABh48sM2RnUei8gzfwaJ5EbV73vPfEixKWR2GwIZifR1cJ-5Bc4gXs6U5GOrLweb7gJhkooc0rEIaDSGlouq2c6zQKQ1UTlOrQ1XmQSxsKUyZD-Ev6J9UKLXUGHaXrzWoIOi6XsyMXoqNCXLe1oyvUDDviEk1vex9OaBkdNvgFPjJyfaUAAAA&shmds=v1_ARwrE21EMMmYnoKMgTecaOnqeapstPSDkOIP2KC0vplORtLxpQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+fresher&htidocid=qdIKlSmJRJ6k2jilAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAWCAMAAACi_q9qAAAAYFBMVEX___-VttoQdL2wyOMbdr7T4O-mwd_F1uq90eesxeIAbro-hcT6_P0AcLsfeL5vn89lmc3f6PPm7fbu8_kAarl5pdKOstjM3O0xf8H1-PxPjcdIicagvd4AZbeDrNVak8rwfxevAAABoklEQVQ4jZWUjXakIAyFA4I_oAFEEJQd3_8tFxW7nR5buznH0bmTLyFXGDD1DO8Rq1S3PTxFN_h3wQjt9R_zCFaMvAu4FzLjf4PzwB-ZD9B2HEzyaQTrNTpyxiud640tId2_arFNqbUnyEVyQi8DraLagnbupXFYVBA6e0QmlTzSy4n8lSghC4j4yhpHOkJHs8s2hL1bTSVU0-56RCwLFPsPvS8g04eaWJeTG4CV2SK8VChP7XFfl88zcnoa1NITbOhlmAzybGXpQXAmfwIdvV4jCSGshzHq0FwIevwelOwq2zC1IdvymJy6PKqIAZkz34EBL3CfvpKMrWOuFqHOMEGkKt6DC-s_Ou52zwsyW9Ea8OwVUN6Dnl7vm7Cq3D0wydciq-zxHWgGVzICLb2DAo-yLXIc6lsQXNmwhNalNyYYMYA5z2AUzT0Iy7AXJ8LBovJcUWE8YDORvDXslmdsZQKer8MKWWUPj6JEsFXkjQRkEJROOqe3IkLcBoE4uR_OeT835yp7M_MjT6r902b9-e_hczTilwf1a8j1OecuDHlv-BekZRaxexCGagAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "11 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.foundit.in/job/snowflake-python-sql-developer-infosys-limited-bengaluru-bangalore-69175021",
+      "job_title": "Snowflake (Python, SQL) Developer",
+      "description": "Responsibilities :\n\nKey Responsibilities: Technical Leadership & Delivery \n\n Lead end-to-end implementation of Snowflake-based data platforms, from design to production rollout. \n\n Own technical planning, estimation, and execution for data engineering initiatives aligned to business goals. \n\n Mentor team members through code reviews, design reviews, and engineering best practices. Snowflake Development \n\n Design and implement Snowflake schemas, warehouses, and data models optimized for analytics and reporting workloads. \n\n Develop and tune Snowflake SQL for performance, cost efficiency, and scalability. \n\n Implement secure data access patterns using roles, grants, and governance controls. Python Data Engineering \n\n Build robust Python-based ingestion and transformation components for batch and incremental processing. \n\n Create reusable utilities for validation, logging, error handling, and operational monitoring. \n\n Ensure data quality through automated checks, reconciliation, and exception management. Operational Excellence \n\n Establish standards for deployment, observability, and incident response for data pipelines and Snowflake workloads. \n\n Troubleshoot production issues, perform root-cause analysis, and drive continuous improvements. Minimum Qualifications: \n\n BTECH, MTECH, MCA, or MSC in Computer Science, Engineering, or a related field. \n\n 7â€9 years of overall experience in data engineering / data platform development. \n\n Strong hands-on expertise in Snowflake including performance tuning and workload optimization. \n\n Strong hands-on expertise in Python for building data pipelines and automation. \n\n Advanced SQL skills for complex transformations, optimization, and analytics-ready modeling.Additional Responsibilities:\n\nPreferred Qualifications: \n\n Experience designing scalable data models (dimensional, denormalized, or domain-oriented) for analytics consumption. \n\n Proven ability to lead technical discussions with stakeholders and translate requirements into implementable designs. \n\n Experience building reusable Python modules and maintaining high code quality through testing and reviews. \n\n Knowledge of data governance concepts such as access controls, auditing, and data lifecycle management within Snowflake. \n\n Track record of improving pipeline reliability and performance through monitoring, optimization, and automation.Technical and Professional Requirements:\n\nTechnology- Snowflake, python, SQL,Data modeling, ETL/ELT best practices, Performance tuning, Data quality frameworks, CI/CD for data pipelines",
+      "apply_options": [
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/snowflake-python-sql-developer-infosys-limited-bengaluru-bangalore-69175021?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/snowflake-python-sql-developer/infosys/19634015?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/4539958535069364206?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/snowflake-python-sql-developer-at-infosys-4471324008?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010276038134&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/xBsT3gW1uHe6FXXgAC38q6pDz84Ue2ET6ZzSCxZQN6VMQMgnThQPjA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/snowflake-python-sql-developer-infosys-bengaluru--fj-2385688759?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobstore",
+          "link": "https://www.jobstore.com/in/job/l31989944/snowflake-python-sql-developer-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTbm93Zmxha2UgKFB5dGhvbiwgU1FMKSBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJJbmZvc3lzIExpbWl0ZWQiLCJodGlkb2NpZCI6InFkSUtsU21KUko2azJqaWxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xaV1VqSnpOV2xGTmtjNVRrWk5TamxQTVdkRlQxbFFaRkUzVTBGV05qaHdiRlJMWkdOSVduZFdWV0p5UVVoWlVGTndhbEJmWVhCS1kxQXdiRkZGUkVjdE5ISXhkMTlwY2tJeU9HUlJhbTFmYWpVeVFYVllha3BmUVhweFZHZ3hXRVZhWW1WM1YxVlNWMEU1UTJkdlpHRldlVzF6WnpCU2MyMXdNakpVTVVrdGFERlJTMGdTRjJwak0wbGhiMGQxUWt4bFZXMU1VVkIyT0RKbk5FRlpHaUpCUkhOeU9XWlNSa1ZsYld4eVV5MTRMVk5YTFVKeU5UUjFUblJ1WVZaUE9YQkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJxZElLbFNtSlJKNmsyamlsQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Associate Engineer - AI/ML with Python Jobs at HARMAN | ₹800000",
+      "company_name": "Harman",
+      "location": "Bengaluru, Karnataka",
+      "via": "Talentd",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+fresher&htidocid=1_Lg8SKCWkUhS9Q6AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOTWoCQRBGydYjZCHfOphpCQSCriYg_sUQXGYjNUPT3TpWDV0lMeBCcoWcxut4Esdv8Vbvwde7PPS-S1WpE5nHhENi7zOeUc7d6gM_ySK-fi0KYyGVggyzcr0qP3HC9e_yNrwP1_M_tlJBPeU6opOnIqHxj-No1urIOdWmCGpkqS5q2TthX8nRdZHesdFI2bdNd2Lz8jo8Fi2Hp_6M8p4YifHuOVBzyIcBlpSZjHZ0AyR1PB68AAAA&shmds=v1_ARwrE20E_zWGLM_tqJK6P6idY6H6sNQKVZ5F2qSTLub0KoXqGw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+fresher&htidocid=1_Lg8SKCWkUhS9Q6AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBEQACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAAAwQFAgf_xAAqEAABAwMDAQcFAAAAAAAAAAABAAIDBBESBSExUVJhcYGRsfATIjRBcv_EABgBAQEBAQEAAAAAAAAAAAAAAAACAwEE_8QAIBEBAQABBAMAAwAAAAAAAAAAAAECAxExURIhQSIy8f_aAAwDAQACEQMRAD8A9qQEBAQEBAQEBAQEBAQEBAQcyPbGwvkcGtHJJsAkm7lsk3qqauST8aG7e3JcA-AAJ9bK_GTmsrqZX9Ygh1GVmosoqyJjTKwuikZcB1rXBBHO46q7py4eeN4Z46-U1Zp5znitNYvUICDM1atq6SRraSm-sDTTSHbhzccR53O3JV44y81nnlZfU7VK7UatolcKHNrYC-neYyQZWjcEee38nqFWOM7Tllev66j1TUbx50WQdnG4NYQ5kmRDL91huRcbggkLnjj2TPLpCa6omjgnn04Oc6jIdIYj9sxYH425x2t42CrbbeS_U38tsrj8amnVVTPJNHV05hfEGg8lrib3LT-xx7FZ5SThrjbeYvKViAgq5TwuLRC-VpcSHNcLi57yq9Vnvlj623UzppnlfJKyWPIYgCsk467G3zlL4_CXO8xcjoYY42sBlIHWZ5PqTdS0TxRtiBDct-04n3QdoCAgICAgICAgICAgICAg_9k.jpeg",
+      "extensions": [
+        "₹8L–₹12L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.talentd.in/jobs/associate-engineer-aiml-with-python-jobs-at-harman-rs800000-p6fw",
+      "job_title": "Associate Engineer - AI/ML with Python Jobs at HARMAN | ₹800000",
+      "description": "About the RoleWe are seeking a highly enthusiastic Agentic AI Engineer with up to 1 year of experience, eager to work on next-generation AI systems dr[…]",
+      "apply_options": [
+        {
+          "title": "Talentd",
+          "link": "https://www.talentd.in/jobs/associate-engineer-aiml-with-python-jobs-at-harman-rs800000-p6fw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc3NvY2lhdGUgRW5naW5lZXIgLSBBSS9NTCB3aXRoIFB5dGhvbiBKb2JzIGF0IEhBUk1BTiB8IOKCuTgwMDAwMCIsImNvbXBhbnlfbmFtZSI6Ikhhcm1hbiIsImh0aWRvY2lkIjoiMV9MZzhTS0NXa1VoUzlRNkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUSFZYTXpBNVVuZzNSa0pDZUhCMFpuaFlSMGwxVFVWS2RVeFZiMDFRYjBKQkxVd3dRVnBRYmtSUVV6ZGxUalJqVEROMVMwazVUVWRMWDJ4dlNERmZTbFZzVDJWVVRFWlNNMUZTV1c1SlNTMTVVM2xzUkRVdGJGZ3dXRWRrVWs1bU1FOW1TV2hwTFY5RUxVSkxOMDlHWTAxclNVdDNMVE4xVFV4SFRtbFNkMkpITFZBeWVVb1NGMnBqTTBsaGIwZDFRa3hsVlcxTVVWQjJPREpuTkVGWkdpSkJSSE55T1daUmEzRk9Uak5EYTIwM1VuazBVMHRVYTNsdlVXSTNMVEZmT1dOQiIsImZjdiI6IjMiLCJmY19pZCI6IjFfTGc4U0tDV2tVaFM5UTZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Remote Python AI Engineer - 17852",
+      "company_name": "Turing",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+fresher&htidocid=kVpguMSdTp3zR6PvAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBAuZWjRRISixUhARGxH7MAnD7upmJuxOIHbewcrreRJj86v3k88oKa7UiBJcnmqFYXeCAxvHRAHmsFxv8hV8X2-4SwWRMNQWBnUUMZ7GW6vaxiLLYvSpiYrq6rSWJhOmSvpsmOI_ZbQYqPWoVK7yRZ-2bKaTWxccG3AMe2KDvgvdDM4YGBUf-AMACIGDnAAAAA&shmds=v1_ARwrE21FHKSkryUapvl2L4j2cTGcA47vKLYnRNU94TbHTsjGYg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+fresher&htidocid=kVpguMSdTp3zR6PvAAAAAA%3D%3D",
+      "extensions": [
+        "₹1L–₹50L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/turing-remote-python-ai-engineer-17852-bengaluru-bangalore-karnataka-5-to-7-years-891634",
+      "job_title": "Remote Python AI Engineer - 17852",
+      "description": "Work on Real-World Problems with Global Tech ExpertsJoin a leading U.S.-based technology company as a Python Developer / AI Engineer, where youll tackle real-world challenges and build innovative solutions alongside top global experts. This is a fully remote, contract-based opportunity ideal for developers passionate about Python, data analysis, and AI-driven work.Key Responsibilities:Write efficient, production-grade Python code to solve complex problems.Analyze public datasets and extract meaningful insights using Python and SQL.Collaborate with researchers and global teams to iterate on data-driven ideas.Document all code and development decisions in Jupyter Notebooks or similar platforms.Maintain high-quality standards and contribute to technical excellence.Job Requirements:Open to all levels: junior, mid-level, or senior engineers.Degree in Computer Science, Engineering, or equivalent practical experience.Proficient in Python programming for scripting, automation, or backend development.Experience with SQL/NoSQL databases is a plus.Familiarity with cloud platforms (AWS, GCP, Azure) is advantageous.Must be able to work 5 hours overlapping with Pacific Time (PST/PT).Strong communication and collaboration skills in a remote environment.Perks & Benefits:Work on cutting-edge AI and data projects impacting real-world use cases.Collaborate with top minds from Meta, Stanford, and Google.100% remote work from anywhere.Contract role with flexibility and no traditional job constraints.Competitive compensation in USD, aligned with global tech standards.Selection Process:Shortlisted developers may be asked to complete an assessment.If you clear the assessment, you will be contacted for contract assignments with expected start dates, durations, and end dates.Some contract assignments require fixed weekly hours, averaging 20/30/40 hours per week for the duration of the contract assignment. Show more Show less",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/turing-remote-python-ai-engineer-17852-bengaluru-bangalore-karnataka-5-to-7-years-891634?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgUHl0aG9uIEFJIEVuZ2luZWVyIC0gMTc4NTIiLCJjb21wYW55X25hbWUiOiJUdXJpbmciLCJodGlkb2NpZCI6ImtWcGd1TVNkVHAzelI2UHZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1hobFZVMUVlVWwyYmtkRE5HVnpWbU5zWWt4VU1VcHpVVWw0TFhkNE9HUnhUVmhJZVdKVlpuQjZZeTF3VVRWaFkyOWFUVkJoVTNSaVRGWkZUWFZpVTFsTlpHTTRXRjlXWkU1UU5ISXRRVko0WmtkQ1kzUlNRamszYlVwQlJtODBZamRQWTNoYU5GRlRaMVJYVUZkbmEweHdYMjVXY0RGNE1uazVTSEpXTW5wWFFtWmhOVTBTRjJwak0wbGhiMGQxUWt4bFZXMU1VVkIyT0RKbk5FRlpHaUpCUkhOeU9XWlNORFUxUmtoYVYwYzBMVWR5Ym5ZNGNFaHphMmxFYUdoemNsUjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJrVnBndU1TZFRwM3pSNlB2QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Remote Python AI Engineer",
+      "company_name": "Turing",
+      "location": "Anywhere",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+fresher&htidocid=oz0TEpjwUuSKY447AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBAuZWiQrARutFETERsQ-TMKwu7qZCTsTiJ1XEG_oSdTmN49fvCZFdaFOjOD8sCAM2yPs2UcmyvB5vuEmDShhbgP89CDiE003wazXtXOqqfRqaLEtW-mcMDUyut-k_9QaMFOf0KiuVsux7NnPZ9chR_YQGXbEHtOQhwWcMDMa3vEL2iTJwZQAAAA&shmds=v1_ARwrE23lSeG_fkbSKN-P9Xhq8DTx2LmxypYT-zhCHW58jAlgFg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+fresher&htidocid=oz0TEpjwUuSKY447AAAAAA%3D%3D",
+      "extensions": [
+        "24 days ago",
+        "Work from home",
+        "Full–time"
+      ],
+      "source_link": "https://in.jooble.org/jdp/-6326217563629710614",
+      "job_title": "Remote Python AI Engineer",
+      "description": "Work on Real-World Problems with Global Tech Experts \n\n Join a leading U.S.-based technology company as a Python Developer / AI Engineer, where you'll tackle real-world challenges and build innovative solutions alongside top global experts. This is a fully remote, contract-based opportunity ideal for developers passionate about Python, data analysis, and AI-driven work. \n\n\n\n Key Responsibilities: \n\n Write efficient, production-grade Python code to solve complex problems.  Analyze public datasets and extract meaningful insights using Python and SQL.  Collaborate with researchers and global teams to iterate on data-driven ideas.  Document all code and development decisions in Jupyter Notebooks or similar platforms.  Maintain high-quality standards and contribute to technical excellence. \n\n Job Requirements: \n\n Open to all levels: junior, mid-level, or senior engineers.  Degree in Computer Science, Engineering, or equivalent practical experience.  Proficient in Python programming for scripting, automation, or backend development.  Experience with SQL/NoSQL databases is a plus.  Familiarity with cloud platforms (AWS, GCP, Azure) is advantageous.  Must be able to work 5+ hours overlapping with Pacific Time (PST/PT).  Strong communication and collaboration skills in a remote environment. \n\n Perks & Benefits: \n\n Work on cutting-edge AI and data projects impacting real-world use cases.  Collaborate with top minds from Meta, Stanford, and Google. 100% remote – work from anywhere.  Contract role with flexibility and no traditional job constraints.  Competitive compensation in USD, aligned with global tech standards. \n\n Selection Process: \n\n Shortlisted developers may be asked to complete an assessment.  If you clear the assessment, you will be contacted for contract assignments with expected start dates, durations, and end dates.  Some contract assignments require fixed weekly hours, averaging 20/30/40 hours per week for the duration of the contract assignment.",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-6326217563629710614?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/python-ai-developer-remote-hyrezy-tech-solutions-india-69381561?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/python-ai-developers-hyrezy-tech-solutions--t7xk-848516709?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5899028711?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olibr",
+          "link": "https://olibr.com/jobs/python-ai-developer-remote-hyrezy-talent-solutions-llp-168qx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/enlighten-schola-remote-python-developer-ai-aws-specialist-all-india-5-to-9-years-924024?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4112-5fb1af65fcce852bc74987b98aa8a8f8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "The First Labs",
+          "link": "https://www.thefirstlabs.live/j/4474202850?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgUHl0aG9uIEFJIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiVHVyaW5nIiwiaHRpZG9jaWQiOiJvejBURXBqd1V1U0tZNDQ3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyOU1XREpJWDFRek1WaEpTamROYkdWWmFESmFNek5ZVG5GTk1uSTNaSGR6VERjeGNuTm5hbVJSVURjMk9YUnFNbXA2VWxKcFdreEJZV0ZQWTJSUlIwNDRZbWhXUjNsTk5tMXRhRlEyWkU4eU9ESkdkVjl3WVdKVWFVcFVXSFJFYVVkaFp6Um9abXQwUzNKU1dYWlpWVXhqUjBjM1QzbHhXRE5aUkdoTGVWUXRiVmxYVUZvU0YycGpNMGxoYjBkMVFreGxWVzFNVVZCMk9ESm5ORUZaR2lKQlJITnlPV1pUVjJaRE5VUTFTSEZ3YjNweWJqRXlVV2xRWWpsclJ5MW5UWFpSIiwiZmN2IjoiMyIsImZjX2lkIjoib3owVEVwandVdVNLWTQ0N0FBQUFBQT09In0="
+    },
+    {
+      "title": "JB001644 Python Golang Developer Bangalore  Hybrid",
+      "company_name": "Techilaservices",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Python+Developer+fresher&htidocid=tMQMuEBibrk-LfrGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2NMQrCQBAAsc0TrLYTRJIo0UK7ICimsbAPm3PJnZ634fYSks4_-BR_5Es0NgNTDBO9J1FxytN0uckyOA9Bs4MDW3Q17Kkjyw15yH-Klj0BHIfKmyt8ni-4cQVC6JWGf8S1pelOh9DINklEbFxLwGBUrPiRsKOK--QXyYhSNHpqLAYqV-u0jxtXz2cXUtpYFPKdUSRgHOQ0vlvfLqBA7zDgHb9y6e5AtgAAAA&shmds=v1_ARwrE235rPzoa565YeEs_H-dQf16RD_yQbM-AKc4uO0TkLOr9A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Python+Developer+fresher&htidocid=tMQMuEBibrk-LfrGAAAAAA%3D%3D",
+      "extensions": [
+        "23 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/jb-python-golang-developer-bangalore-hybrid/techilaservices/19559090",
+      "job_title": "JB001644 Python Golang Developer Bangalore  Hybrid",
+      "description": "Please find the below JD.\n\nWe are seeking an experienced Senior Python Golang Developer to join our team and help build and maintain large-scale applications. This role combines deep technical expertise with system architecture and leadership capabilities.\n\nExperience range - 3+ Years (Minimum)\n\nLocation Bengaluru (WFO - Ericsson Location 3 Days )\n\nMandatory SkillsPython Golang Developer - Python, Golang, Kubernetes,Telecom/Networking/NMS/EMS domain .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/jb-python-golang-developer-bangalore-hybrid/techilaservices/19559090?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340168063/c-wpf-autofac-developer-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Recruit.net",
+          "link": "https://www.recruit.net/job/c-wpf-autofac-developer-jobs/55169E85ADD06468?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKQjAwMTY0NCBQeXRob24gR29sYW5nIERldmVsb3BlciBCYW5nYWxvcmUgIEh5YnJpZCIsImNvbXBhbnlfbmFtZSI6IlRlY2hpbGFzZXJ2aWNlcyIsImh0aWRvY2lkIjoidE1RTXVFQmlicmstTGZyR0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURGhHU0V0YVNVVnBZbFU0VEdJNFFrbGtUVFkzUVVSSWQySXhUMDl0ZVZWYVNHRnhkVXRZZUdSeWJHbElSVGszVUVNMGQzUlFPVjlWWlVGR1NHZFpWMUJsZFVobWFEUXRZM05oZFdGUU1YUm5lRlY0YjFoR1dVSTBhMUphTlVReFl6SmtjVGt6Ym5aeFdrMVdWRE4xT0hvelFsVkVUM00xU1d4blZEQmFkVkkwTkRWbVdrZ1NGMnBqTTBsaGIwZDFRa3hsVlcxTVVWQjJPREpuTkVGWkdpSkJSSE55T1daU2FURTBORFpCYmpWYWFEaE1aRGhNTkhadlgxZ3lTVTF5VlZaMyIsImZjdiI6IjMiLCJmY19pZCI6InRNUU11RUJpYnJrLUxmckdBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTa0ppZVc1MVJEVmZXbGh2TFRJMFExbFhOa3N0TFZaTVNrbHRaV1ZmVEV0UmEyMVhXbVJRTW1KRWNXVkZOWFpmT0dwclNHYzJVVW8yVGt0eWFFUnNXVWhzWkhKYVRGVnhZak52YlV4bmFXSmlZM2wzUldaU2VtZGFjRWxUT1ZkNlkwNXphM0ZJYTNRM2JHSnVla3hoUjBaT04ySnliQzF2YUdONE5HWTROMVZmV0hoQ1F6aHBWR2xuU25sMVJUZGpZbkJWVjNFME1YQmhXa2RTWW5KUVJtUnZjbVZ6WTJnNWQxbzRiM0YyYm1VM1YyNUZVMVp4UkZONExYUmhNSE5qUjBobFVTMUtZWEJCWjNWM2NEY3pOa1JRYWpsMmFWUjBXbXRLYjFWRE5VUkNMVjl3UVVwR1RuRjJSMDlLYkRSSE1WcFJWbTVaTkMxR1oybzVlSEZWT1haTmRESmhTSFJMUTBzNGEyRlJSRXcwYTAxQldIVXphWEpSYVhORmJWbFpjVnBMV0hSbFlsVTBTMlI1TkhKSGEzRlVhRXBZVTNSbFIzVnhTRkYxVnpodlpXeHNWM2NTRjJwak0wbGhiMGQxUWt4bFZXMU1VVkIyT0RKbk5FRlpHaUpCUkhOeU9XWlRhbDgxV1VoWWJXNWhkRU4xV2poQldHbG9Sa3BwWkZoS1gzaEIiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTa0ppZVc1MVJEVmZXbGh2TFRJMFExbFhOa3N0TFZaTVNrbHRaV1ZmVEV0UmEyMVhXbVJRTW1KRWNXVkZOWFpmT0dwclNHYzJVVW8yVGt0eWFFUnNXVWhzWkhKYVRGVnhZak52YlV4bmFXSmlZM2wzUldaU2VtZGFjRWxUT1ZkNlkwNXphM0ZJYTNRM2JHSnVla3hoUjBaT04ySnliQzF2YUdONE5HWTROMVZmV0hoQ1F6aHBWR2xuU25sMVJUZGpZbkJWVjNFME1YQmhXa2RTWW5KUVJtUnZjbVZ6WTJnNWQxbzRiM0YyYm1VM1YyNUZVMVp4UkZONExYUmhNSE5qUjBobFVTMUtZWEJCWjNWM2NEY3pOa1JRYWpsMmFWUjBXbXRLYjFWRE5VUkNMVjl3UVVwR1RuRjJSMDlLYkRSSE1WcFJWbTVaTkMxR1oybzVlSEZWT1haTmRESmhTSFJMUTBzNGEyRlJSRXcwYTAxQldIVXphWEpSYVhORmJWbFpjVnBMV0hSbFlsVTBTMlI1TkhKSGEzRlVhRXBZVTNSbFIzVnhTRkYxVnpodlpXeHNWM2NTRjJwak0wbGhiMGQxUWt4bFZXMU1VVkIyT0RKbk5FRlpHaUpCUkhOeU9XWlRhbDgxV1VoWWJXNWhkRU4xV2poQldHbG9Sa3BwWkZoS1gzaEIiLCJmY3YiOiIzIn0%3D&q=Python+Developer+fresher"
+  },
+  "_retrieved_at": "2026-10-09 11:18:32 UTC"
+}

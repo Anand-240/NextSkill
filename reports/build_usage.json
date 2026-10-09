@@ -314,6 +314,202 @@
       "engine": "youtube",
       "query": "JavaScript revision in Hindi",
       "location": null
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Python Developer fresher",
+      "location": "Bengaluru, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Junior Python Developer",
+      "location": "Bengaluru, India"
+    },
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "Django full course for beginners",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Python Developer",
+      "location": "Kochi, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Python Developer fresher",
+      "location": "Kochi, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Junior Python Developer",
+      "location": "Kochi, India"
+    },
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "PostgreSQL full course for beginners",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "HTML full course for beginners",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "CSS full course for beginners",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Mumbai, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Accountant fresher",
+      "location": "Mumbai, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Junior Accountant",
+      "location": "Mumbai, India"
+    },
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "TDS full course for beginners",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Accountant",
+      "location": "Indore, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Accountant fresher",
+      "location": "Indore, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Junior Accountant",
+      "location": "Indore, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Digital Marketing Executive",
+      "location": "Pune, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Digital Marketing Executive fresher",
+      "location": "Pune, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Junior Digital Marketing Executive",
+      "location": "Pune, India"
+    },
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "Market Research full course for beginners",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "course",
+      "engine": "youtube",
+      "query": "Email Marketing full course for beginners",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Digital Marketing Executive",
+      "location": "Chennai, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Digital Marketing Executive fresher",
+      "location": "Chennai, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Junior Digital Marketing Executive",
+      "location": "Chennai, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Frontend Developer",
+      "location": "Hyderabad, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Frontend Developer fresher",
+      "location": "Hyderabad, India"
+    },
+    {
+      "phase": "C",
+      "category": "jobs",
+      "engine": "google_jobs",
+      "query": "Junior Frontend Developer",
+      "location": "Hyderabad, India"
+    },
+    {
+      "phase": "C",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "Git revision",
+      "location": null
     }
   ],
   "accounts": [
@@ -346,6 +542,21 @@
       "label": "D hindi after",
       "this_month_usage": 44,
       "total_searches_left": 206
+    },
+    {
+      "label": "C extended before",
+      "this_month_usage": 44,
+      "total_searches_left": 206
+    },
+    {
+      "label": "C5 before",
+      "this_month_usage": 71,
+      "total_searches_left": 179
+    },
+    {
+      "label": "C5 after",
+      "this_month_usage": 71,
+      "total_searches_left": 179
     }
   ]
 }

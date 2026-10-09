@@ -1,0 +1,453 @@
+{
+  "search_metadata": {
+    "id": "6ac8ce08afaa674ae2a6362d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/S0fyZCumNWTALBkl1pV38DoP5x7VFQItJQYKo7OnToI/6ac8ce08afaa674ae2a6362d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/S0fyZCumNWTALBkl1pV38DoP5x7VFQItJQYKo7OnToI/6ac8ce08afaa674ae2a6362d.md",
+    "created_at": "2026-10-09 11:20:40 UTC",
+    "processed_at": "2026-10-09 11:20:40 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Email+Marketing+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/S0fyZCumNWTALBkl1pV38DoP5x7VFQItJQYKo7OnToI/6ac8ce08afaa674ae2a6362d.html",
+    "total_time_taken": 3.61
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Email Marketing full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 1785850,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Learn Email Marketing in 39 Minutes!",
+      "link": "https://www.youtube.com/watch?v=pLhQOYMGa88",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pLhQOYMGa88",
+      "video_id": "pLhQOYMGa88",
+      "channel": {
+        "name": "Alex Hormozi",
+        "link": "https://www.youtube.com/@AlexHormozi",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4To_zqG1x2hAszdNGNtYaNGxDOPoPA77fDlQTnLZ7ehDBCH0piv5XetKK_DAe7Uk3PY8odSCI98=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 754119,
+      "length": "39:18",
+      "description": "Get your free $100M Marketing Roadmap: ...",
+      "extensions": [
+        "2 products",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pLhQOYMGa88/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDG34ilfug7dvfxpIj6T30ktd4EDw"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Email Marketing Full Course 2026 | Email Marketing Tutorial for Beginners | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=DvwUgqX3ZF4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DvwUgqX3ZF4",
+      "video_id": "DvwUgqX3ZF4",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 13855,
+      "length": "3:10:24",
+      "description": "SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/DvwUgqX3ZF4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVC1qL8VS5WXWrCVDQROTDfIIM1w"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "FREE Email Marketing Course | How To Make $3k/mo For Beginners",
+      "link": "https://www.youtube.com/watch?v=TheRQ8WEVGQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TheRQ8WEVGQ",
+      "video_id": "TheRQ8WEVGQ",
+      "channel": {
+        "name": "Tyson 4D",
+        "link": "https://www.youtube.com/@Tyson4D",
+        "thumbnail": "https://yt3.ggpht.com/76ohmpH2WIwMqp4-J84Co1cV47bqzh2ogD6wxv8xYY7fdiymbMKim5UcclhrMfk7Pz9Ba5Or_Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 90547,
+      "length": "1:17:20",
+      "description": "Will answer questions in the comment section. 4D Bootcamp: https://www.skool.com/the-4d-academy/about 1-on-1 4D Copy ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TheRQ8WEVGQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLABm49HMDbeF44RE3vjb37GquOH3A"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "🔥 Email Marketing Full Course 2026 | Email Marketing Course for Beginners | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=_XJlCvjyYpo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_XJlCvjyYpo",
+      "video_id": "_XJlCvjyYpo",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 154872,
+      "length": "2:18:12",
+      "description": "\"  SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_XJlCvjyYpo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC0rS0SjdhJMq6Vd-eVI2XmTVeL5Q"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Email Marketing Full Course: Zero to Email Marketing Mastery",
+      "link": "https://www.youtube.com/watch?v=4Dr7Etmonc0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4Dr7Etmonc0",
+      "video_id": "4Dr7Etmonc0",
+      "channel": {
+        "name": "Shane Hummus",
+        "link": "https://www.youtube.com/@ShaneHummus",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Tg3J3l38zTlpSMmFXlEvOThBPyiRo1ipdxRs33bwaihXHrGHFD9tCPiUKR9IZFTh1i323DN5=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 7942,
+      "length": "23:32",
+      "description": "Go High Level: https://go.thecontentgrowthengine.com/ytghl-07-25-2025 Connect With Me On Other Platforms: Twitter: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/4Dr7Etmonc0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFgMJCDT4MI-w8ZVH8jpA8Jf1ekQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Email Marketing For Beginners - Full Tutorial + Tips",
+      "link": "https://www.youtube.com/watch?v=TfghQNJ_Kww",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TfghQNJ_Kww",
+      "video_id": "TfghQNJ_Kww",
+      "channel": {
+        "name": "7figureboss Academy",
+        "link": "https://www.youtube.com/@7figurebossacademy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Mz5Q2zX8c2jlQpR6ljbqLm0KsJa8gguTw7SGEIoetxDaRUReWj1ptbgBNG8kQCc_j4ONiVuI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 3y ago",
+      "views": 9331,
+      "length": "1:57:53",
+      "description": "In this video I will teach you how you can use Email Marketing to Make Money Online, Expand your business or even start a new ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TfghQNJ_Kww/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCQYCOKgB4uglgoAwakI6hx1CVieQ"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Everything On Email Marketing FULL COURSE FREE",
+      "link": "https://www.youtube.com/watch?v=B8Z4LCe4BsA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=B8Z4LCe4BsA",
+      "video_id": "B8Z4LCe4BsA",
+      "channel": {
+        "name": "Boyuan Zhao",
+        "link": "https://www.youtube.com/@BoyuanZhao",
+        "thumbnail": "https://yt3.ggpht.com/M337RnVftEhKfih7hsjjFiC6p_Uz-DvI8Ma75z0d7c3wGgYMKZLdpmRiMKjkIDJFWZV0Vn_84A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 20173,
+      "length": "4:16:46",
+      "description": "Work with me and my Team: https://calendly.com/boyuanzhao/growth-call-with-boyuan-youtube Join my Newsletter and get the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/B8Z4LCe4BsA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDOzn0oPoZnap-3VCn1WBDT1xkdzA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Email Marketing Full Course In 2 Hours | Email Marketing Tutorial For Beginners 2026 | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=2yX3Fh7j7is",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2yX3Fh7j7is",
+      "video_id": "2yX3Fh7j7is",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 267930,
+      "length": "2:02:01",
+      "description": "\"  SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/2yX3Fh7j7is/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDCNzytB_PJbBba1sX4d4o3ynjvPw"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "MAILCHIMP TUTORIAL 2024 (For Beginners) -  Step by Step Email Marketing Guide",
+      "link": "https://www.youtube.com/watch?v=HUQ28NpKr3A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HUQ28NpKr3A",
+      "video_id": "HUQ28NpKr3A",
+      "channel": {
+        "name": "Santrel Media",
+        "link": "https://www.youtube.com/@SantrelMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lchM7UK8VsnqAa3kbVlLd9QKQaKsPEexf7HMA3SLDsNxs=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 318824,
+      "length": "44:19",
+      "description": "START HERE: https://santrelmedia.com/mailchimp The world's leading AI newsletter: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HUQ28NpKr3A/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8lbQZCcy50tOIaXs7TZYIztSvEQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Email Marketing Full Course 2026 | Complete Email Marketing Tutorial For Beginners | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=IHqBpVa38MA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IHqBpVa38MA",
+      "video_id": "IHqBpVa38MA",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 3614,
+      "length": "20:28:50",
+      "description": "SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/IHqBpVa38MA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDhRHNj7Ff5qlO8bwYcKNGuQhE_uw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Getting Started with Email Marketing: Full Step-by-Step Guide",
+      "link": "https://www.youtube.com/watch?v=OrbhGa4aeAM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OrbhGa4aeAM",
+      "video_id": "OrbhGa4aeAM",
+      "channel": {
+        "name": "Silicon Valley Girl",
+        "link": "https://www.youtube.com/@SiliconValleyGirl",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dNwADo7jctZoxSHatfnvDZQAjjZtBU_VFIazf0uqCP0Zn4-fkT0oEsyMA-ssvG5RETmBJtSeRw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 49011,
+      "length": "27:11",
+      "description": "Grow and sell fast with Omnisend's beginner-friendly email marketing: https://your.omnisend.com/Marina Email marketing is the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OrbhGa4aeAM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWeWl1SUo1a-UtSPSXOLwkyeWfUw"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Email Marketing Full Course 2025 | Email Marketing Tutorial for Beginners | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=39fzBo7YY0E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=39fzBo7YY0E",
+      "video_id": "39fzBo7YY0E",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 10777,
+      "length": "3:38:18",
+      "description": "\"  SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/39fzBo7YY0E/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCuvCDeTwk-VDWnHOPqZ5ZtddLh2A"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "The Only Email Marketing Video You’ll Ever Need…Actually (2025)",
+      "link": "https://www.youtube.com/watch?v=V_iqXr27Ajo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V_iqXr27Ajo",
+      "video_id": "V_iqXr27Ajo",
+      "channel": {
+        "name": "Max Sturtevant",
+        "link": "https://www.youtube.com/@maxwellcopy",
+        "thumbnail": "https://yt3.ggpht.com/ApC2f1oi4SWeNyhjfZcdXjhyYtMn3CO4Dj0bRlgXqmHHDvi177yPlkIjQuiDHk1yL69EzuwgNQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 17113,
+      "length": "3:24:05",
+      "description": "Work w/ My Agency: https://calendly.com/maxwellcopy/discovery-meeting Join My Course / Community: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/V_iqXr27Ajo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAg3IId7IU2fPfxp9I7Wsdd0ULy5g"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Free Cold Email Marketing Course for 2026 (7 Hours)",
+      "link": "https://www.youtube.com/watch?v=DDGcd1JoJV0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DDGcd1JoJV0",
+      "video_id": "DDGcd1JoJV0",
+      "channel": {
+        "name": "Lead Gen Jay",
+        "link": "https://www.youtube.com/@leadgenjay",
+        "thumbnail": "https://yt3.ggpht.com/AlOHPKDD4Ntsj6tFkIm0eG59zQbE7N4pBv1tWgU6OilMFRFr9v-TPBTkXblcCuulLATgB-tvRw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 189370,
+      "length": "7:16:19",
+      "description": "Download the Official Toolkit & Spark Notes here: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/DDGcd1JoJV0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA0SAGI-RNh7zobu_SPR2TYjcfLzw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Email Marketing Full Course 2026 [FREE] | Email Marketing Tutorial For Beginners | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=uQmp5HdOS1k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uQmp5HdOS1k",
+      "video_id": "uQmp5HdOS1k",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 6mo ago",
+      "views": 3036,
+      "length": "8:57:55",
+      "description": "AI-Powered Digital Marketing Certificate Program ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/uQmp5HdOS1k/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1hzUn8osFI4v63RSr259zr77xsw"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Complete Email Marketing Full Course for Beginners (Specially for Digital Marketers) | Umar Tazkeer",
+      "link": "https://www.youtube.com/watch?v=tCL1Xuo06qw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tCL1Xuo06qw",
+      "video_id": "tCL1Xuo06qw",
+      "channel": {
+        "name": "Umar Tazkeer ",
+        "link": "https://www.youtube.com/@UmarTazkeer",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/1qncdf7NRHGXTbLjVOgmB3CmoxbwaAaR9vbD5WFsHtd8xrDQOkj3sNmi6dgcIP1_tcuSTvhS=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 191800,
+      "length": "1:46:36",
+      "description": "Hello All, In this video, I am talking about - - Complete Email Marketing Full Course Tutorial for Beginners (2024) For all Digital ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tCL1Xuo06qw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC55qZ-oHQrSEV15rjubeGSYK1rPw"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Learn Email Marketing From Zero | Full Beginner Course 2026",
+      "link": "https://www.youtube.com/watch?v=kggLGS1Ol4I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kggLGS1Ol4I",
+      "video_id": "kggLGS1Ol4I",
+      "channel": {
+        "name": "Summia Jamshed",
+        "link": "https://www.youtube.com/@SummiaJamshed",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ceYOlLyWugAt-IZb9gEDu1B5NumGjdAt3zTyelFVFEHIgaKeCEH5tOH0cuCnC3pYz_mq6FhhPsk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 11671,
+      "length": "4:12:50",
+      "description": "Complete Email Marketing Full Course for Beginners 2026 Learn email marketing from scratch, no experience needed!",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/kggLGS1Ol4I/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCGMIz8YaOoiheVHagb8sh-T6Q02w"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Klaviyo Email Marketing FULL COURSE 2026 ($300M Generated for Shopify eCommerce)",
+      "link": "https://www.youtube.com/watch?v=fyv2ZskhgRI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fyv2ZskhgRI",
+      "video_id": "fyv2ZskhgRI",
+      "channel": {
+        "name": "Emiel Dingemans | eCommerce Retention Marketing",
+        "link": "https://www.youtube.com/@magicianemieldingemans",
+        "thumbnail": "https://yt3.ggpht.com/vqPRuF_Gw8RbL0i7-Wu1KWg8zkGHhKRVn1xK4HGbNOVUEy558j2SVx7Eg6tBb0yq8MLC59DV=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 64059,
+      "length": "3:35:14",
+      "description": "Scale Profitably With World-Class Email & SMS Marketing. Work with me: https://www.magicianly.com/book-a-call Get Instant ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fyv2ZskhgRI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAfxsq3wmVAxgQj-Munqzs2OFN6Ew"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Klaviyo Email Marketing FULL Course 2026 (Ecommerce Email Marketing 2026 Free Course For Shopify)",
+      "link": "https://www.youtube.com/watch?v=4z0fqcc6yfw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4z0fqcc6yfw",
+      "video_id": "4z0fqcc6yfw",
+      "channel": {
+        "name": "Emiel Dingemans | eCommerce Retention Marketing",
+        "link": "https://www.youtube.com/@magicianemieldingemans",
+        "thumbnail": "https://yt3.ggpht.com/vqPRuF_Gw8RbL0i7-Wu1KWg8zkGHhKRVn1xK4HGbNOVUEy558j2SVx7Eg6tBb0yq8MLC59DV=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 8256,
+      "length": "4:14:00",
+      "description": "Scale Profitably With World-Class Email & SMS Marketing. Work with me: https://www.magicianly.com/book-a-call Get Instant ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/4z0fqcc6yfw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAG9GLTeAdsNq883RlwPeIkXaN9NQ"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Email Marketing Full Course | Learn Email Marketing from Beginner to Advance",
+      "link": "https://www.youtube.com/watch?v=byqZe8oaUwA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=byqZe8oaUwA",
+      "video_id": "byqZe8oaUwA",
+      "channel": {
+        "name": "Lets Uncover",
+        "link": "https://www.youtube.com/@LetsUncover",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/fg3Wh1Vtjv4hxEg-Duvd6OBeW9x5fcss_F9s-SQXTCxavduyABxCkz5mVuT6Ptnnp54GkuDwtQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 24989,
+      "length": "1:29:36",
+      "description": "Email Marketing Full Course | Learn Email Marketing from Beginner to Advance Omnisend: https://letsuncover.pk/omnisend ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/byqZe8oaUwA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAhl-YrDX4RqlcDYx4iwwAxCWR24Q"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Email+Marketing+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Email%20Marketing%20full%20course%20for%20beginners&sp=EgIYAkgUggELcExoUU9ZTUdhODiCAQtEdndVZ3FYM1pGNIIBC1RoZVJROFdFVkdRggELX1hKbEN2anlZcG-CAQs0RHI3RXRtb25jMIIBC1RmZ2hRTkpfS3d3ggELQjhaNExDZTRCc0GCAQsyeVgzRmg3ajdpc4IBC0hVUTI4TnBLcjNBggELSUhxQnBWYTM4TUGCAQtPcmJoR2E0YWVBTYIBCzM5ZnpCbzdZWTBFggELVl9pcVhyMjdBam-CAQtEREdjZDFKb0pWMIIBC3VRbXA1SGRPUzFrggELdENMMVh1bzA2cXeCAQtrZ2dMR1MxT2w0SYIBC2Z5djJac2toZ1JJggELNHowZnFjYzZ5ZneCAQtieXFaZThvYVV3QbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELcExoUU9ZTUdhODiCAQtEdndVZ3FYM1pGNIIBC1RoZVJROFdFVkdRggELX1hKbEN2anlZcG-CAQs0RHI3RXRtb25jMIIBC1RmZ2hRTkpfS3d3ggELQjhaNExDZTRCc0GCAQsyeVgzRmg3ajdpc4IBC0hVUTI4TnBLcjNBggELSUhxQnBWYTM4TUGCAQtPcmJoR2E0YWVBTYIBCzM5ZnpCbzdZWTBFggELVl9pcVhyMjdBam-CAQtEREdjZDFKb0pWMIIBC3VRbXA1SGRPUzFrggELdENMMVh1bzA2cXeCAQtrZ2dMR1MxT2w0SYIBC2Z5djJac2toZ1JJggELNHowZnFjYzZ5ZneCAQtieXFaZThvYVV3QbIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Email+Marketing+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Email+Marketing+full+course+for+beginners&sp=EgIYAkgUggELcExoUU9ZTUdhODiCAQtEdndVZ3FYM1pGNIIBC1RoZVJROFdFVkdRggELX1hKbEN2anlZcG-CAQs0RHI3RXRtb25jMIIBC1RmZ2hRTkpfS3d3ggELQjhaNExDZTRCc0GCAQsyeVgzRmg3ajdpc4IBC0hVUTI4TnBLcjNBggELSUhxQnBWYTM4TUGCAQtPcmJoR2E0YWVBTYIBCzM5ZnpCbzdZWTBFggELVl9pcVhyMjdBam-CAQtEREdjZDFKb0pWMIIBC3VRbXA1SGRPUzFrggELdENMMVh1bzA2cXeCAQtrZ2dMR1MxT2w0SYIBC2Z5djJac2toZ1JJggELNHowZnFjYzZ5ZneCAQtieXFaZThvYVV3QbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELcExoUU9ZTUdhODiCAQtEdndVZ3FYM1pGNIIBC1RoZVJROFdFVkdRggELX1hKbEN2anlZcG-CAQs0RHI3RXRtb25jMIIBC1RmZ2hRTkpfS3d3ggELQjhaNExDZTRCc0GCAQsyeVgzRmg3ajdpc4IBC0hVUTI4TnBLcjNBggELSUhxQnBWYTM4TUGCAQtPcmJoR2E0YWVBTYIBCzM5ZnpCbzdZWTBFggELVl9pcVhyMjdBam-CAQtEREdjZDFKb0pWMIIBC3VRbXA1SGRPUzFrggELdENMMVh1bzA2cXeCAQtrZ2dMR1MxT2w0SYIBC2Z5djJac2toZ1JJggELNHowZnFjYzZ5ZneCAQtieXFaZThvYVV3QbIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:20:40 UTC"
+}

@@ -1,0 +1,512 @@
+{
+  "search_metadata": {
+    "id": "6ac8ce1b0a91565c0cf69f3d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6Jr7OKcAt5bG4MgNq81kMTptjzVRB5qIr4sHLosl7Ds/6ac8ce1b0a91565c0cf69f3d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6Jr7OKcAt5bG4MgNq81kMTptjzVRB5qIr4sHLosl7Ds/6ac8ce1b0a91565c0cf69f3d.md",
+    "created_at": "2026-10-09 11:20:59 UTC",
+    "processed_at": "2026-10-09 11:20:59 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Digital+Marketing+Executive+fresher&uule=w+CAIQICIYQ2hlbm5haSxUYW1pbCBOYWR1LEluZGlh&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/6Jr7OKcAt5bG4MgNq81kMTptjzVRB5qIr4sHLosl7Ds/6ac8ce1b0a91565c0cf69f3d.html",
+    "total_time_taken": 4.19
+  },
+  "search_parameters": {
+    "q": "Digital Marketing Executive fresher",
+    "engine": "google_jobs",
+    "location_requested": "Chennai, India",
+    "location_used": "Chennai,Tamil Nadu,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruNQoIX2hVRvWC7VWmS862ObBemvT2Cr1uON34ChuDmPfHlNWqQp6IU15HckNAuzW8pCavq3uzO5okyDUtKy-M2c_53t8IoxK7rhF7AoK2AtyoP51y7ASOUOi9U53d9MNe0ytVSbntVL_IVxmNhCCBeW2B6bdT3AeGSobBoYgE8BOysJE",
+        "q": "Digital Marketing Executive fresher remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruNQoIX2hVRvWC7VWmS862ObBemvT2Cr1uON34ChuDmPfHlNWqQp6IU15HckNAuzW8pCavq3uzO5okyDUtKy-M2c_53t8IoxK7rhF7AoK2AtyoP51y7ASOUOi9U53d9MNe0ytVSbntVL_IVxmNhCCBeW2B6bdT3AeGSobBoYgE8BOysJE&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruNQoIX2hVRvWC7VWmS862ObBemvT2Cr1uON34ChuDmPfHlNWqQp6IU15HckNAuzW8pCavq3uzO5okyDUtKy-M2c_53t8IoxK7rhF7AoK2AtyoP51y7ASOUOi9U53d9MNe0ytVSbntVL_IVxmNhCCBeW2B6bdT3AeGSobBoYgE8BOysJE"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXt9dLAvYFhNdL1Q5N0xjrfwphyDMbtij71Pp4P_H6sbYEfSeRqB93Clt2TXymp1eHE2NlFEdXyBTkR--LR8DeB5ZqSrca1ERRdI7PYhrmXoFDmo8sbbVGLD-N8msnGZCzxM2TIBZZClTtK-WpdjIXLd5IR_CQBiheLgQ3cfW7zm52PlNiGA_ePceZqLKHgOyGeQDFVKPktoReyN1sWh2GUqb-EY358exyGjHcdACyL5ynD6UwWuNzPyAYOx5s49fL1pzSxbjDNNbPzU0bOm4w5PslPs3o",
+            "q": "Digital Marketing Executive fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXt9dLAvYFhNdL1Q5N0xjrfwphyDMbtij71Pp4P_H6sbYEfSeRqB93Clt2TXymp1eHE2NlFEdXyBTkR--LR8DeB5ZqSrca1ERRdI7PYhrmXoFDmo8sbbVGLD-N8msnGZCzxM2TIBZZClTtK-WpdjIXLd5IR_CQBiheLgQ3cfW7zm52PlNiGA_ePceZqLKHgOyGeQDFVKPktoReyN1sWh2GUqb-EY358exyGjHcdACyL5ynD6UwWuNzPyAYOx5s49fL1pzSxbjDNNbPzU0bOm4w5PslPs3o&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXt9dLAvYFhNdL1Q5N0xjrfwphyDMbtij71Pp4P_H6sbYEfSeRqB93Clt2TXymp1eHE2NlFEdXyBTkR--LR8DeB5ZqSrca1ERRdI7PYhrmXoFDmo8sbbVGLD-N8msnGZCzxM2TIBZZClTtK-WpdjIXLd5IR_CQBiheLgQ3cfW7zm52PlNiGA_ePceZqLKHgOyGeQDFVKPktoReyN1sWh2GUqb-EY358exyGjHcdACyL5ynD6UwWuNzPyAYOx5s49fL1pzSxbjDNNbPzU0bOm4w5PslPs3o"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXtPFcTZCd0MWRyNWk-e5ZlLaw36kGhQ4vIim6OSHOK-oVllIi364pUidRRXmG2HlilM6PL9jyZbblIsnITrv53wUjaxUFfq6czI0idtj_JkbAu6iZTviytr66vb48ZKzx5TtOjLyHWZSfPlj5tn19fAwItxm44JsSJGaY13Dil0hSFBDc7aeN7CruyvoWjeNBJh4KCwzVsoPBmHSH7josweQWbr0_6GhEKWoZ1c7xmcbj0iLTzmhx90_QmAtNgU52Q-2CB190Kw0d55OIPhoHWeILn9zMzFPGXj3YNRaQzaZt7DwV_",
+            "q": "Digital Marketing Executive fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXtPFcTZCd0MWRyNWk-e5ZlLaw36kGhQ4vIim6OSHOK-oVllIi364pUidRRXmG2HlilM6PL9jyZbblIsnITrv53wUjaxUFfq6czI0idtj_JkbAu6iZTviytr66vb48ZKzx5TtOjLyHWZSfPlj5tn19fAwItxm44JsSJGaY13Dil0hSFBDc7aeN7CruyvoWjeNBJh4KCwzVsoPBmHSH7josweQWbr0_6GhEKWoZ1c7xmcbj0iLTzmhx90_QmAtNgU52Q-2CB190Kw0d55OIPhoHWeILn9zMzFPGXj3YNRaQzaZt7DwV_&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXtPFcTZCd0MWRyNWk-e5ZlLaw36kGhQ4vIim6OSHOK-oVllIi364pUidRRXmG2HlilM6PL9jyZbblIsnITrv53wUjaxUFfq6czI0idtj_JkbAu6iZTviytr66vb48ZKzx5TtOjLyHWZSfPlj5tn19fAwItxm44JsSJGaY13Dil0hSFBDc7aeN7CruyvoWjeNBJh4KCwzVsoPBmHSH7josweQWbr0_6GhEKWoZ1c7xmcbj0iLTzmhx90_QmAtNgU52Q-2CB190Kw0d55OIPhoHWeILn9zMzFPGXj3YNRaQzaZt7DwV_"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eioSuLlvjY3NqdhX2cI601ANdcrwLBFVcENNy7SnnMGYHO9ypkD8enx9u4x2vX6OmE5io0eK-5CmU7DhhBEcr4FqYmYFnfH2IVlR_d0PB4WrM5BVdoZgrv-cbrXQlBUxu0I-9JpaBR0VD6itDb5_sUyi39YjMQjZxfSxae7kqWsFHabT4dU8Dd1_FmD8CRXM_hJ8YfWAUI-fHOqwnk4yywwppcioq_M-hI0i2BGY0YF9yCYofeFPIBs--SlpmB5O32yauJJ2Tfm_oZ6Cpd_-wQPc4NIVYB3n8SiWdsVEkhyUx__3T-Z6OLndPFIx2RHFQHct3pVI",
+            "q": "Digital Marketing Executive fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eioSuLlvjY3NqdhX2cI601ANdcrwLBFVcENNy7SnnMGYHO9ypkD8enx9u4x2vX6OmE5io0eK-5CmU7DhhBEcr4FqYmYFnfH2IVlR_d0PB4WrM5BVdoZgrv-cbrXQlBUxu0I-9JpaBR0VD6itDb5_sUyi39YjMQjZxfSxae7kqWsFHabT4dU8Dd1_FmD8CRXM_hJ8YfWAUI-fHOqwnk4yywwppcioq_M-hI0i2BGY0YF9yCYofeFPIBs--SlpmB5O32yauJJ2Tfm_oZ6Cpd_-wQPc4NIVYB3n8SiWdsVEkhyUx__3T-Z6OLndPFIx2RHFQHct3pVI&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eioSuLlvjY3NqdhX2cI601ANdcrwLBFVcENNy7SnnMGYHO9ypkD8enx9u4x2vX6OmE5io0eK-5CmU7DhhBEcr4FqYmYFnfH2IVlR_d0PB4WrM5BVdoZgrv-cbrXQlBUxu0I-9JpaBR0VD6itDb5_sUyi39YjMQjZxfSxae7kqWsFHabT4dU8Dd1_FmD8CRXM_hJ8YfWAUI-fHOqwnk4yywwppcioq_M-hI0i2BGY0YF9yCYofeFPIBs--SlpmB5O32yauJJ2Tfm_oZ6Cpd_-wQPc4NIVYB3n8SiWdsVEkhyUx__3T-Z6OLndPFIx2RHFQHct3pVI"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rX7edpApC7IptBgvJqzmWFFmVFx_e6WHRbevriEPhnKrvtZax4EDhbW4Ozik7jtZtBNcwXWfmihNp1ML_gH8my2Nluv2wI_6Dwmo4ouQnYd6d2OkGjqDDuF6JMAOWeDf4XidtYVFb4e2jq6xfrwprH_-7lsDSWF2Ig58M-3weXB4wQA0gkgraM2bcLKHB7OaRzOOiznoFjnOcrCugNR7n9buA5bGd4RAZTcYHBcUJPqsAwOdOWU3k10u1Fyf8xMmccSQGCgZXAWp0AsB1iQKbq6Wwva8pD6hcYo3v4gc8T6jB0gHBuLMTZLqEo5uJJfI7S74e91-I62k5TjS1TSvhmLeNyo4",
+            "q": "Digital Marketing Executive fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX7edpApC7IptBgvJqzmWFFmVFx_e6WHRbevriEPhnKrvtZax4EDhbW4Ozik7jtZtBNcwXWfmihNp1ML_gH8my2Nluv2wI_6Dwmo4ouQnYd6d2OkGjqDDuF6JMAOWeDf4XidtYVFb4e2jq6xfrwprH_-7lsDSWF2Ig58M-3weXB4wQA0gkgraM2bcLKHB7OaRzOOiznoFjnOcrCugNR7n9buA5bGd4RAZTcYHBcUJPqsAwOdOWU3k10u1Fyf8xMmccSQGCgZXAWp0AsB1iQKbq6Wwva8pD6hcYo3v4gc8T6jB0gHBuLMTZLqEo5uJJfI7S74e91-I62k5TjS1TSvhmLeNyo4&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX7edpApC7IptBgvJqzmWFFmVFx_e6WHRbevriEPhnKrvtZax4EDhbW4Ozik7jtZtBNcwXWfmihNp1ML_gH8my2Nluv2wI_6Dwmo4ouQnYd6d2OkGjqDDuF6JMAOWeDf4XidtYVFb4e2jq6xfrwprH_-7lsDSWF2Ig58M-3weXB4wQA0gkgraM2bcLKHB7OaRzOOiznoFjnOcrCugNR7n9buA5bGd4RAZTcYHBcUJPqsAwOdOWU3k10u1Fyf8xMmccSQGCgZXAWp0AsB1iQKbq6Wwva8pD6hcYo3v4gc8T6jB0gHBuLMTZLqEo5uJJfI7S74e91-I62k5TjS1TSvhmLeNyo4"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXt9dLAvYFhNdL1Q5N0xjrfwphyDMbtij71Pp4P_H6sbYEfSeRqB93Clt2TXymp1eHE2NlFEdXyBTkR--LR8DeB5ZqSrca1ERRdI7PYhrmXoFDmo8sbbVGLD-N8msnGZCzxM2TIBZZClTtK-WpdjIXLd5IR_CQBiheLgQ3cfW7zm52PlNiGA_ePceZqLKHgOyGeQDFVKPktoReyN1sWh2GUqb-EY358exyGjHcdACyL5ynD6UwWuNzPyAYOx5s49fL1pzSxbjDNNbPzU0bOm4w5PslPs3o",
+            "q": "Digital Marketing Executive fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXt9dLAvYFhNdL1Q5N0xjrfwphyDMbtij71Pp4P_H6sbYEfSeRqB93Clt2TXymp1eHE2NlFEdXyBTkR--LR8DeB5ZqSrca1ERRdI7PYhrmXoFDmo8sbbVGLD-N8msnGZCzxM2TIBZZClTtK-WpdjIXLd5IR_CQBiheLgQ3cfW7zm52PlNiGA_ePceZqLKHgOyGeQDFVKPktoReyN1sWh2GUqb-EY358exyGjHcdACyL5ynD6UwWuNzPyAYOx5s49fL1pzSxbjDNNbPzU0bOm4w5PslPs3o&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXt9dLAvYFhNdL1Q5N0xjrfwphyDMbtij71Pp4P_H6sbYEfSeRqB93Clt2TXymp1eHE2NlFEdXyBTkR--LR8DeB5ZqSrca1ERRdI7PYhrmXoFDmo8sbbVGLD-N8msnGZCzxM2TIBZZClTtK-WpdjIXLd5IR_CQBiheLgQ3cfW7zm52PlNiGA_ePceZqLKHgOyGeQDFVKPktoReyN1sWh2GUqb-EY358exyGjHcdACyL5ynD6UwWuNzPyAYOx5s49fL1pzSxbjDNNbPzU0bOm4w5PslPs3o"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXtPFcTZCd0MWRyNWk-e5ZlLaw36kGhQ4vIim6OSHOK-oVllIi364pUidRRXmG2HlilM6PL9jyZbblIsnITrv53wUjaxUFfq6czI0idtj_JkbAu6iZTviytr66vb48ZKzx5TtOjLyHWZSfPlj5tn19fAwItxm44JsSJGaY13Dil0hSFBDc7aeN7CruyvoWjeNBJh4KCwzVsoPBmHSH7josweQWbr0_6GhEKWoZ1c7xmcbj0iLTzmhx90_QmAtNgU52Q-2CB190Kw0d55OIPhoHWeILn9zMzFPGXj3YNRaQzaZt7DwV_",
+            "q": "Digital Marketing Executive fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXtPFcTZCd0MWRyNWk-e5ZlLaw36kGhQ4vIim6OSHOK-oVllIi364pUidRRXmG2HlilM6PL9jyZbblIsnITrv53wUjaxUFfq6czI0idtj_JkbAu6iZTviytr66vb48ZKzx5TtOjLyHWZSfPlj5tn19fAwItxm44JsSJGaY13Dil0hSFBDc7aeN7CruyvoWjeNBJh4KCwzVsoPBmHSH7josweQWbr0_6GhEKWoZ1c7xmcbj0iLTzmhx90_QmAtNgU52Q-2CB190Kw0d55OIPhoHWeILn9zMzFPGXj3YNRaQzaZt7DwV_&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqr71-I8pC3_nXuJdzwy1N6zCLUIWZAqABWjo4GgVcHWXtPFcTZCd0MWRyNWk-e5ZlLaw36kGhQ4vIim6OSHOK-oVllIi364pUidRRXmG2HlilM6PL9jyZbblIsnITrv53wUjaxUFfq6czI0idtj_JkbAu6iZTviytr66vb48ZKzx5TtOjLyHWZSfPlj5tn19fAwItxm44JsSJGaY13Dil0hSFBDc7aeN7CruyvoWjeNBJh4KCwzVsoPBmHSH7josweQWbr0_6GhEKWoZ1c7xmcbj0iLTzmhx90_QmAtNgU52Q-2CB190Kw0d55OIPhoHWeILn9zMzFPGXj3YNRaQzaZt7DwV_"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eioSuLlvjY3NqdhX2cI601ANdcrwLBFVcENNy7SnnMGYHO9ypkD8enx9u4x2vX6OmE5io0eK-5CmU7DhhBEcr4FqYmYFnfH2IVlR_d0PB4WrM5BVdoZgrv-cbrXQlBUxu0I-9JpaBR0VD6itDb5_sUyi39YjMQjZxfSxae7kqWsFHabT4dU8Dd1_FmD8CRXM_hJ8YfWAUI-fHOqwnk4yywwppcioq_M-hI0i2BGY0YF9yCYofeFPIBs--SlpmB5O32yauJJ2Tfm_oZ6Cpd_-wQPc4NIVYB3n8SiWdsVEkhyUx__3T-Z6OLndPFIx2RHFQHct3pVI",
+            "q": "Digital Marketing Executive fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eioSuLlvjY3NqdhX2cI601ANdcrwLBFVcENNy7SnnMGYHO9ypkD8enx9u4x2vX6OmE5io0eK-5CmU7DhhBEcr4FqYmYFnfH2IVlR_d0PB4WrM5BVdoZgrv-cbrXQlBUxu0I-9JpaBR0VD6itDb5_sUyi39YjMQjZxfSxae7kqWsFHabT4dU8Dd1_FmD8CRXM_hJ8YfWAUI-fHOqwnk4yywwppcioq_M-hI0i2BGY0YF9yCYofeFPIBs--SlpmB5O32yauJJ2Tfm_oZ6Cpd_-wQPc4NIVYB3n8SiWdsVEkhyUx__3T-Z6OLndPFIx2RHFQHct3pVI&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eioSuLlvjY3NqdhX2cI601ANdcrwLBFVcENNy7SnnMGYHO9ypkD8enx9u4x2vX6OmE5io0eK-5CmU7DhhBEcr4FqYmYFnfH2IVlR_d0PB4WrM5BVdoZgrv-cbrXQlBUxu0I-9JpaBR0VD6itDb5_sUyi39YjMQjZxfSxae7kqWsFHabT4dU8Dd1_FmD8CRXM_hJ8YfWAUI-fHOqwnk4yywwppcioq_M-hI0i2BGY0YF9yCYofeFPIBs--SlpmB5O32yauJJ2Tfm_oZ6Cpd_-wQPc4NIVYB3n8SiWdsVEkhyUx__3T-Z6OLndPFIx2RHFQHct3pVI"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rX7edpApC7IptBgvJqzmWFFmVFx_e6WHRbevriEPhnKrvtZax4EDhbW4Ozik7jtZtBNcwXWfmihNp1ML_gH8my2Nluv2wI_6Dwmo4ouQnYd6d2OkGjqDDuF6JMAOWeDf4XidtYVFb4e2jq6xfrwprH_-7lsDSWF2Ig58M-3weXB4wQA0gkgraM2bcLKHB7OaRzOOiznoFjnOcrCugNR7n9buA5bGd4RAZTcYHBcUJPqsAwOdOWU3k10u1Fyf8xMmccSQGCgZXAWp0AsB1iQKbq6Wwva8pD6hcYo3v4gc8T6jB0gHBuLMTZLqEo5uJJfI7S74e91-I62k5TjS1TSvhmLeNyo4",
+            "q": "Digital Marketing Executive fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX7edpApC7IptBgvJqzmWFFmVFx_e6WHRbevriEPhnKrvtZax4EDhbW4Ozik7jtZtBNcwXWfmihNp1ML_gH8my2Nluv2wI_6Dwmo4ouQnYd6d2OkGjqDDuF6JMAOWeDf4XidtYVFb4e2jq6xfrwprH_-7lsDSWF2Ig58M-3weXB4wQA0gkgraM2bcLKHB7OaRzOOiznoFjnOcrCugNR7n9buA5bGd4RAZTcYHBcUJPqsAwOdOWU3k10u1Fyf8xMmccSQGCgZXAWp0AsB1iQKbq6Wwva8pD6hcYo3v4gc8T6jB0gHBuLMTZLqEo5uJJfI7S74e91-I62k5TjS1TSvhmLeNyo4&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX7edpApC7IptBgvJqzmWFFmVFx_e6WHRbevriEPhnKrvtZax4EDhbW4Ozik7jtZtBNcwXWfmihNp1ML_gH8my2Nluv2wI_6Dwmo4ouQnYd6d2OkGjqDDuF6JMAOWeDf4XidtYVFb4e2jq6xfrwprH_-7lsDSWF2Ig58M-3weXB4wQA0gkgraM2bcLKHB7OaRzOOiznoFjnOcrCugNR7n9buA5bGd4RAZTcYHBcUJPqsAwOdOWU3k10u1Fyf8xMmccSQGCgZXAWp0AsB1iQKbq6Wwva8pD6hcYo3v4gc8T6jB0gHBuLMTZLqEo5uJJfI7S74e91-I62k5TjS1TSvhmLeNyo4"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5iHhlyWiLBrm188vvOi-Ck5C3XekIoEfHR1IUCRvATdzrNyN9HTKLnAjF95k5WJkh3CTAb5J-tgZxt1h1MKCZ4r9LFsbXmF18oriFFRoZSjHmN0JGmGoFp0m77jfVOC_jrtbjgi_9WwP-QMAifbbQEbIg5ElGywiEDw84o7aOAQoKVsa7znclTMX2vGvxcJxAJgtCzGQ1n1ysZWNOLcLToOhnKXfaheptSZ57yl1FPV3CZ0xd_67T0PzSV1qgBpWGntBIdfYZJGtWwMcv0Wf33OE0BQ_ZlZsH7fkT3IFn4d18B7LNKscCwdjllErRXWWIvkhICUIUmiNKXW5Xcf8dhi40lF4",
+            "q": "Digital Marketing Executive fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5iHhlyWiLBrm188vvOi-Ck5C3XekIoEfHR1IUCRvATdzrNyN9HTKLnAjF95k5WJkh3CTAb5J-tgZxt1h1MKCZ4r9LFsbXmF18oriFFRoZSjHmN0JGmGoFp0m77jfVOC_jrtbjgi_9WwP-QMAifbbQEbIg5ElGywiEDw84o7aOAQoKVsa7znclTMX2vGvxcJxAJgtCzGQ1n1ysZWNOLcLToOhnKXfaheptSZ57yl1FPV3CZ0xd_67T0PzSV1qgBpWGntBIdfYZJGtWwMcv0Wf33OE0BQ_ZlZsH7fkT3IFn4d18B7LNKscCwdjllErRXWWIvkhICUIUmiNKXW5Xcf8dhi40lF4&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5iHhlyWiLBrm188vvOi-Ck5C3XekIoEfHR1IUCRvATdzrNyN9HTKLnAjF95k5WJkh3CTAb5J-tgZxt1h1MKCZ4r9LFsbXmF18oriFFRoZSjHmN0JGmGoFp0m77jfVOC_jrtbjgi_9WwP-QMAifbbQEbIg5ElGywiEDw84o7aOAQoKVsa7znclTMX2vGvxcJxAJgtCzGQ1n1ysZWNOLcLToOhnKXfaheptSZ57yl1FPV3CZ0xd_67T0PzSV1qgBpWGntBIdfYZJGtWwMcv0Wf33OE0BQ_ZlZsH7fkT3IFn4d18B7LNKscCwdjllErRXWWIvkhICUIUmiNKXW5Xcf8dhi40lF4"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZjtwERIKQk1IgqL7BNQyKsk8IfrTJateejYijdRLg40-IeaB9LlJjHlPowN6HnDrBHPWn0MwNycB95CVOrnIor5_JqbKdD_rYm3Gq432MDxz4mndI4aukpgQIdIkpgOOTMjWUGdXrW4dHfXALedHLN14P4MxGu2qnFUob4p4HATSUskIRjJUto3_8Kp-JAuXtLOFFuhTY1KOLrc_5Hrs52mmLneELkxgfVPDogh9exOVFy9zTlvvANJhhclnwOLCh7awFPX8byn4eIUv5nP-do4cfxRRA08w1PS1xCTCPRq1A1QhwGi_cq9-O85tF_ef0zboCGzFGXqahwO55eNQACJLrhyAzqajBcWqGVM0z2ndxGlb",
+            "q": "Digital Marketing Executive fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZjtwERIKQk1IgqL7BNQyKsk8IfrTJateejYijdRLg40-IeaB9LlJjHlPowN6HnDrBHPWn0MwNycB95CVOrnIor5_JqbKdD_rYm3Gq432MDxz4mndI4aukpgQIdIkpgOOTMjWUGdXrW4dHfXALedHLN14P4MxGu2qnFUob4p4HATSUskIRjJUto3_8Kp-JAuXtLOFFuhTY1KOLrc_5Hrs52mmLneELkxgfVPDogh9exOVFy9zTlvvANJhhclnwOLCh7awFPX8byn4eIUv5nP-do4cfxRRA08w1PS1xCTCPRq1A1QhwGi_cq9-O85tF_ef0zboCGzFGXqahwO55eNQACJLrhyAzqajBcWqGVM0z2ndxGlb&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZjtwERIKQk1IgqL7BNQyKsk8IfrTJateejYijdRLg40-IeaB9LlJjHlPowN6HnDrBHPWn0MwNycB95CVOrnIor5_JqbKdD_rYm3Gq432MDxz4mndI4aukpgQIdIkpgOOTMjWUGdXrW4dHfXALedHLN14P4MxGu2qnFUob4p4HATSUskIRjJUto3_8Kp-JAuXtLOFFuhTY1KOLrc_5Hrs52mmLneELkxgfVPDogh9exOVFy9zTlvvANJhhclnwOLCh7awFPX8byn4eIUv5nP-do4cfxRRA08w1PS1xCTCPRq1A1QhwGi_cq9-O85tF_ef0zboCGzFGXqahwO55eNQACJLrhyAzqajBcWqGVM0z2ndxGlb"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFiL1O7efE7gI8o4gC69iVOqTFiBTzyN1hQku4HD7SUzC8fMaRB-zuU4tSmsIzt6F3dBF1L5lSY9JihykzJMnSaDFCRisBSVwLNgpOke2viVKGiSDMMmfvr5oFrSXvfbfZP1sbkbiSNzVy7ZRwrU-vNn2vkwpQnTjcoQZcQNRXlbJeA2M0uWbqjiwpKmj5LT4x222R5cWEkLZpKlRliw1m_zawexBu0tgNQeQcOO24RfSLL73kXwtuW44TGA_wdKPf_bjNLB0JgP4PX7H6ucQaiW7FTGoeYNSkRqs27xvlK0K7IN_YBXiKwhZBX6VeBwGrfbAj_ZdDuOBtReDgboY5_mLnEjanpqih7AVPB1RJHuf1JF6",
+            "q": "Digital Marketing Executive fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFiL1O7efE7gI8o4gC69iVOqTFiBTzyN1hQku4HD7SUzC8fMaRB-zuU4tSmsIzt6F3dBF1L5lSY9JihykzJMnSaDFCRisBSVwLNgpOke2viVKGiSDMMmfvr5oFrSXvfbfZP1sbkbiSNzVy7ZRwrU-vNn2vkwpQnTjcoQZcQNRXlbJeA2M0uWbqjiwpKmj5LT4x222R5cWEkLZpKlRliw1m_zawexBu0tgNQeQcOO24RfSLL73kXwtuW44TGA_wdKPf_bjNLB0JgP4PX7H6ucQaiW7FTGoeYNSkRqs27xvlK0K7IN_YBXiKwhZBX6VeBwGrfbAj_ZdDuOBtReDgboY5_mLnEjanpqih7AVPB1RJHuf1JF6&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFiL1O7efE7gI8o4gC69iVOqTFiBTzyN1hQku4HD7SUzC8fMaRB-zuU4tSmsIzt6F3dBF1L5lSY9JihykzJMnSaDFCRisBSVwLNgpOke2viVKGiSDMMmfvr5oFrSXvfbfZP1sbkbiSNzVy7ZRwrU-vNn2vkwpQnTjcoQZcQNRXlbJeA2M0uWbqjiwpKmj5LT4x222R5cWEkLZpKlRliw1m_zawexBu0tgNQeQcOO24RfSLL73kXwtuW44TGA_wdKPf_bjNLB0JgP4PX7H6ucQaiW7FTGoeYNSkRqs27xvlK0K7IN_YBXiKwhZBX6VeBwGrfbAj_ZdDuOBtReDgboY5_mLnEjanpqih7AVPB1RJHuf1JF6"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYUCZO-_DyeBJREYLyCzGnelumBJ2zCXrWvmnGjnVxtVmKk-YbRHnaeWtdoEuRLFRO0gz_a8wRZnjSWRfM7KImLPRowejXq6-wt5YdmtL2u7ORPLLF3WJl_Fku3Wn1O9tip1DFEzlXet1gTwequbeF5SFydBQmAsQXPttJOdGD1bfQYD22leSJ-MqXOACIxMoM_NhmuGeVdc9P-UYlhGjC0_Dlw3tMhawfP1G_GdSk3TelEoSylV6i9YUwDkvn5wesLNs8t5_Z3NJV2zwS2vvuXohjdblr_vFytlJegJaRANsQ5YweCdKjDcYHp_dV8Wi6yGypNDDSaUlLhhL1PaWzEHllPB6Uq2kvYOLGkI9TTVEv-eM",
+            "q": "Digital Marketing Executive fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYUCZO-_DyeBJREYLyCzGnelumBJ2zCXrWvmnGjnVxtVmKk-YbRHnaeWtdoEuRLFRO0gz_a8wRZnjSWRfM7KImLPRowejXq6-wt5YdmtL2u7ORPLLF3WJl_Fku3Wn1O9tip1DFEzlXet1gTwequbeF5SFydBQmAsQXPttJOdGD1bfQYD22leSJ-MqXOACIxMoM_NhmuGeVdc9P-UYlhGjC0_Dlw3tMhawfP1G_GdSk3TelEoSylV6i9YUwDkvn5wesLNs8t5_Z3NJV2zwS2vvuXohjdblr_vFytlJegJaRANsQ5YweCdKjDcYHp_dV8Wi6yGypNDDSaUlLhhL1PaWzEHllPB6Uq2kvYOLGkI9TTVEv-eM&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYUCZO-_DyeBJREYLyCzGnelumBJ2zCXrWvmnGjnVxtVmKk-YbRHnaeWtdoEuRLFRO0gz_a8wRZnjSWRfM7KImLPRowejXq6-wt5YdmtL2u7ORPLLF3WJl_Fku3Wn1O9tip1DFEzlXet1gTwequbeF5SFydBQmAsQXPttJOdGD1bfQYD22leSJ-MqXOACIxMoM_NhmuGeVdc9P-UYlhGjC0_Dlw3tMhawfP1G_GdSk3TelEoSylV6i9YUwDkvn5wesLNs8t5_Z3NJV2zwS2vvuXohjdblr_vFytlJegJaRANsQ5YweCdKjDcYHp_dV8Wi6yGypNDDSaUlLhhL1PaWzEHllPB6Uq2kvYOLGkI9TTVEv-eM"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5iHhlyWiLBrm188vvOi-Ck5C3XekIoEfHR1IUCRvATdzrNyN9HTKLnAjF95k5WJkh3CTAb5J-tgZxt1h1MKCZ4r9LFsbXmF18oriFFRoZSjHmN0JGmGoFp0m77jfVOC_jrtbjgi_9WwP-QMAifbbQEbIg5ElGywiEDw84o7aOAQoKVsa7znclTMX2vGvxcJxAJgtCzGQ1n1ysZWNOLcLToOhnKXfaheptSZ57yl1FPV3CZ0xd_67T0PzSV1qgBpWGntBIdfYZJGtWwMcv0Wf33OE0BQ_ZlZsH7fkT3IFn4d18B7LNKscCwdjllErRXWWIvkhICUIUmiNKXW5Xcf8dhi40lF4",
+            "q": "Digital Marketing Executive fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5iHhlyWiLBrm188vvOi-Ck5C3XekIoEfHR1IUCRvATdzrNyN9HTKLnAjF95k5WJkh3CTAb5J-tgZxt1h1MKCZ4r9LFsbXmF18oriFFRoZSjHmN0JGmGoFp0m77jfVOC_jrtbjgi_9WwP-QMAifbbQEbIg5ElGywiEDw84o7aOAQoKVsa7znclTMX2vGvxcJxAJgtCzGQ1n1ysZWNOLcLToOhnKXfaheptSZ57yl1FPV3CZ0xd_67T0PzSV1qgBpWGntBIdfYZJGtWwMcv0Wf33OE0BQ_ZlZsH7fkT3IFn4d18B7LNKscCwdjllErRXWWIvkhICUIUmiNKXW5Xcf8dhi40lF4&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGoS9kexvLvFnDUhVMSZG5iHhlyWiLBrm188vvOi-Ck5C3XekIoEfHR1IUCRvATdzrNyN9HTKLnAjF95k5WJkh3CTAb5J-tgZxt1h1MKCZ4r9LFsbXmF18oriFFRoZSjHmN0JGmGoFp0m77jfVOC_jrtbjgi_9WwP-QMAifbbQEbIg5ElGywiEDw84o7aOAQoKVsa7znclTMX2vGvxcJxAJgtCzGQ1n1ysZWNOLcLToOhnKXfaheptSZ57yl1FPV3CZ0xd_67T0PzSV1qgBpWGntBIdfYZJGtWwMcv0Wf33OE0BQ_ZlZsH7fkT3IFn4d18B7LNKscCwdjllErRXWWIvkhICUIUmiNKXW5Xcf8dhi40lF4"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZjtwERIKQk1IgqL7BNQyKsk8IfrTJateejYijdRLg40-IeaB9LlJjHlPowN6HnDrBHPWn0MwNycB95CVOrnIor5_JqbKdD_rYm3Gq432MDxz4mndI4aukpgQIdIkpgOOTMjWUGdXrW4dHfXALedHLN14P4MxGu2qnFUob4p4HATSUskIRjJUto3_8Kp-JAuXtLOFFuhTY1KOLrc_5Hrs52mmLneELkxgfVPDogh9exOVFy9zTlvvANJhhclnwOLCh7awFPX8byn4eIUv5nP-do4cfxRRA08w1PS1xCTCPRq1A1QhwGi_cq9-O85tF_ef0zboCGzFGXqahwO55eNQACJLrhyAzqajBcWqGVM0z2ndxGlb",
+            "q": "Digital Marketing Executive fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZjtwERIKQk1IgqL7BNQyKsk8IfrTJateejYijdRLg40-IeaB9LlJjHlPowN6HnDrBHPWn0MwNycB95CVOrnIor5_JqbKdD_rYm3Gq432MDxz4mndI4aukpgQIdIkpgOOTMjWUGdXrW4dHfXALedHLN14P4MxGu2qnFUob4p4HATSUskIRjJUto3_8Kp-JAuXtLOFFuhTY1KOLrc_5Hrs52mmLneELkxgfVPDogh9exOVFy9zTlvvANJhhclnwOLCh7awFPX8byn4eIUv5nP-do4cfxRRA08w1PS1xCTCPRq1A1QhwGi_cq9-O85tF_ef0zboCGzFGXqahwO55eNQACJLrhyAzqajBcWqGVM0z2ndxGlb&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZjtwERIKQk1IgqL7BNQyKsk8IfrTJateejYijdRLg40-IeaB9LlJjHlPowN6HnDrBHPWn0MwNycB95CVOrnIor5_JqbKdD_rYm3Gq432MDxz4mndI4aukpgQIdIkpgOOTMjWUGdXrW4dHfXALedHLN14P4MxGu2qnFUob4p4HATSUskIRjJUto3_8Kp-JAuXtLOFFuhTY1KOLrc_5Hrs52mmLneELkxgfVPDogh9exOVFy9zTlvvANJhhclnwOLCh7awFPX8byn4eIUv5nP-do4cfxRRA08w1PS1xCTCPRq1A1QhwGi_cq9-O85tF_ef0zboCGzFGXqahwO55eNQACJLrhyAzqajBcWqGVM0z2ndxGlb"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFiL1O7efE7gI8o4gC69iVOqTFiBTzyN1hQku4HD7SUzC8fMaRB-zuU4tSmsIzt6F3dBF1L5lSY9JihykzJMnSaDFCRisBSVwLNgpOke2viVKGiSDMMmfvr5oFrSXvfbfZP1sbkbiSNzVy7ZRwrU-vNn2vkwpQnTjcoQZcQNRXlbJeA2M0uWbqjiwpKmj5LT4x222R5cWEkLZpKlRliw1m_zawexBu0tgNQeQcOO24RfSLL73kXwtuW44TGA_wdKPf_bjNLB0JgP4PX7H6ucQaiW7FTGoeYNSkRqs27xvlK0K7IN_YBXiKwhZBX6VeBwGrfbAj_ZdDuOBtReDgboY5_mLnEjanpqih7AVPB1RJHuf1JF6",
+            "q": "Digital Marketing Executive fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFiL1O7efE7gI8o4gC69iVOqTFiBTzyN1hQku4HD7SUzC8fMaRB-zuU4tSmsIzt6F3dBF1L5lSY9JihykzJMnSaDFCRisBSVwLNgpOke2viVKGiSDMMmfvr5oFrSXvfbfZP1sbkbiSNzVy7ZRwrU-vNn2vkwpQnTjcoQZcQNRXlbJeA2M0uWbqjiwpKmj5LT4x222R5cWEkLZpKlRliw1m_zawexBu0tgNQeQcOO24RfSLL73kXwtuW44TGA_wdKPf_bjNLB0JgP4PX7H6ucQaiW7FTGoeYNSkRqs27xvlK0K7IN_YBXiKwhZBX6VeBwGrfbAj_ZdDuOBtReDgboY5_mLnEjanpqih7AVPB1RJHuf1JF6&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFiL1O7efE7gI8o4gC69iVOqTFiBTzyN1hQku4HD7SUzC8fMaRB-zuU4tSmsIzt6F3dBF1L5lSY9JihykzJMnSaDFCRisBSVwLNgpOke2viVKGiSDMMmfvr5oFrSXvfbfZP1sbkbiSNzVy7ZRwrU-vNn2vkwpQnTjcoQZcQNRXlbJeA2M0uWbqjiwpKmj5LT4x222R5cWEkLZpKlRliw1m_zawexBu0tgNQeQcOO24RfSLL73kXwtuW44TGA_wdKPf_bjNLB0JgP4PX7H6ucQaiW7FTGoeYNSkRqs27xvlK0K7IN_YBXiKwhZBX6VeBwGrfbAj_ZdDuOBtReDgboY5_mLnEjanpqih7AVPB1RJHuf1JF6"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYUCZO-_DyeBJREYLyCzGnelumBJ2zCXrWvmnGjnVxtVmKk-YbRHnaeWtdoEuRLFRO0gz_a8wRZnjSWRfM7KImLPRowejXq6-wt5YdmtL2u7ORPLLF3WJl_Fku3Wn1O9tip1DFEzlXet1gTwequbeF5SFydBQmAsQXPttJOdGD1bfQYD22leSJ-MqXOACIxMoM_NhmuGeVdc9P-UYlhGjC0_Dlw3tMhawfP1G_GdSk3TelEoSylV6i9YUwDkvn5wesLNs8t5_Z3NJV2zwS2vvuXohjdblr_vFytlJegJaRANsQ5YweCdKjDcYHp_dV8Wi6yGypNDDSaUlLhhL1PaWzEHllPB6Uq2kvYOLGkI9TTVEv-eM",
+            "q": "Digital Marketing Executive fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntkije-NqgmT02PZhq3dGbxk4e4YQ:1791544862846&q=Digital+Marketing+Executive+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYUCZO-_DyeBJREYLyCzGnelumBJ2zCXrWvmnGjnVxtVmKk-YbRHnaeWtdoEuRLFRO0gz_a8wRZnjSWRfM7KImLPRowejXq6-wt5YdmtL2u7ORPLLF3WJl_Fku3Wn1O9tip1DFEzlXet1gTwequbeF5SFydBQmAsQXPttJOdGD1bfQYD22leSJ-MqXOACIxMoM_NhmuGeVdc9P-UYlhGjC0_Dlw3tMhawfP1G_GdSk3TelEoSylV6i9YUwDkvn5wesLNs8t5_Z3NJV2zwS2vvuXohjdblr_vFytlJegJaRANsQ5YweCdKjDcYHp_dV8Wi6yGypNDDSaUlLhhL1PaWzEHllPB6Uq2kvYOLGkI9TTVEv-eM&udm=8&sa=X&ved=2ahUKEwjNppjZ6KyXAxXMKlkFHa9AKH4QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&q=Digital+Marketing+Executive+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYUCZO-_DyeBJREYLyCzGnelumBJ2zCXrWvmnGjnVxtVmKk-YbRHnaeWtdoEuRLFRO0gz_a8wRZnjSWRfM7KImLPRowejXq6-wt5YdmtL2u7ORPLLF3WJl_Fku3Wn1O9tip1DFEzlXet1gTwequbeF5SFydBQmAsQXPttJOdGD1bfQYD22leSJ-MqXOACIxMoM_NhmuGeVdc9P-UYlhGjC0_Dlw3tMhawfP1G_GdSk3TelEoSylV6i9YUwDkvn5wesLNs8t5_Z3NJV2zwS2vvuXohjdblr_vFytlJegJaRANsQ5YweCdKjDcYHp_dV8Wi6yGypNDDSaUlLhhL1PaWzEHllPB6Uq2kvYOLGkI9TTVEv-eM"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Digital Marketing Executive - Fresher",
+      "company_name": "Ko Biotics Private Limited",
+      "location": "Chennai, Tamil Nadu",
+      "via": "Internshala",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Digital+Marketing+Executive+fresher&htidocid=mpoX6gPrM_vwVLm_AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLuw4BURCA4Wg9gmpqYReJhkThWrhEoZexJucMZ89szgzZ0jt4Ec_kSazmb_587U-rPVuyY8MAe0x3Mo4OVjUVD-MnQR_WidRTgu_rDTe5gBKmwoNE2Ii4QJ2pN6t0kueqIXNqaFxkhZS5RLpInTdI_zmrx0RVQKPzaDyosyq67nArMGdpiMIx8bOZsOOSja7AERaeYkTuwQlLDnDA6-MHCnQ3rrMAAAA&shmds=v1_ARwrE22lGHBb68La3FpS6Gl7tTrK9LhO3w42G-WzncUs50_94g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Digital+Marketing+Executive+fresher&htidocid=mpoX6gPrM_vwVLm_AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8ce1b0a91565c0cf69f3d/images/61UJwTCf3Sa3j7xCdjzMxhKo0AdX7DhuWT4kSqiXT7o.jpeg",
+      "extensions": [
+        "15 days ago",
+        "₹2L–₹2.8L a year",
+        "Full–time"
+      ],
+      "source_link": "https://internshala.com/job/detail/fresher-digital-marketing-executive-job-in-chennai-at-ko-biotics-private-limited1790228673",
+      "job_title": "Digital Marketing Executive - Fresher",
+      "description": "About the job:\n\nAs a Digital Marketing Executive at Ko Biotics Private Limited, you will be responsible for driving our online presence through various digital channels. If you have a passion for Social Media Marketing, SEO, Script Writing, Video Editing, Content Marketing, and Branding, then this is the perfect opportunity for you to showcase your skills and creativity. \n\n\n\nKey Responsibilities:\n\n1. Create engaging and compelling content for our social media platforms to increase brand awareness and drive engagement.\n\n2. Develop and implement SEO strategies to improve our website's visibility and drive organic traffic.\n\n3. Write scripts for video content and work closely with the creative team to produce high-quality videos that resonate with our target audience.\n\n4. Edit videos to ensure they are visually appealing and align with our brand identity.\n\n5. Plan and execute digital marketing campaigns to promote our products and services.\n\n6. Develop and implement content marketing strategies to attract and retain customers.\n\n7. Manage and enhance our brand image through consistent messaging and visual identity across all digital platforms. \n\n\n\nIf you are a creative and strategic thinker with a deep understanding of digital marketing trends, then we would love to hear from you. Join us in shaping the future of Ko Biotics Private Limited and take your career to new heights. Apply now and be part of our dynamic team!\n\nWho can apply:\n\nOnly those candidates can apply who:\n\n\n\nSalary:\n\n₹ 2,00,000 - 2,80,000 /year\n\nExperience:\n\nNo experience required\n\nDeadline:\n\n2026-10-24 23:59:59\n\nOther perks:\n\nInformal dress code, Free snacks & beverages\n\nSkills required:\n\nSocial Media Marketing, Branding, Video Editing, Digital Marketing, Search Engine Optimization (SEO), Script Writing and Content Marketing\n\nOther Requirements:\n\nMust be willing to commute to Pallikaranai on a daily basis.Freshers are welcome to apply. Selected freshers may initially be considered for an internship, and upon successful completion of the internship, may be offered a full-time position based on performance.\n\nAbout Company:\n\nKo Biotics is a dedicated organization that offers eco-friendly biotech products for industries like Dairy, Cattle Feed, Animal and Agriculture. We are focused on creating a greener, sustainable environment and healthier cattle population in our country.       \n\r\n\n\r\nOur products are a next-generation biotech solution developed to enhance cattle health, boost indigenous breed productivity and population growth, and ensure safe, high-quality milk for a healthier, self-reliant India.",
+      "apply_options": [
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/job/detail/fresher-digital-marketing-executive-job-in-chennai-at-ko-biotics-private-limited1790228673?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/digital-marketing-executive-fresher/almi-blogging-school-pro-almi-production-land-solar-private-limited/19536707?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/6108623779393597845?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Placement India",
+          "link": "https://www.placementindia.com/job-detail/digital-marketing-executive-in-cosmas-institute-research-technology-at-korattur-chennai-1437567.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/digital-marketing-executive-fresher-5-elements-entertainment-private-limited-chennai-2-to-5-years-experience-bdc701a3-265e-4bc2-802a-0664027d076f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaWdpdGFsIE1hcmtldGluZyBFeGVjdXRpdmUgLSBGcmVzaGVyIiwiY29tcGFueV9uYW1lIjoiS28gQmlvdGljcyBQcml2YXRlIExpbWl0ZWQiLCJodGlkb2NpZCI6Im1wb1g2Z1ByTV92d1ZMbV9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZUTJobGJtNWhhU3hVWVcxcGJDQk9ZV1IxTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFREWmtRVE5oZUhFMVRtNWtPVTlwVTNCSWMxazJibEZXUkZSdGMxOXZaWEkxTFUxR1dVMWhNRXRoWm5kMWNYSmZjRUpxY25kcFRFNUlUbFoxUkdsNFNrNDNjR3R5WVRCTVpsWTNabVZOZFhGSFJXczBSM2w2U25sR1kxZHBkbTlGYUhCRFlUQmxXSFJRTUUxc1gyUmlWRGxzU2t0VFQwSTNiSFJuWW1GMVFtUTVVVkJZVVhFU0YwaHpOMGxoY3pKbVRUaDZWalZPYjFCeU5FZG9PRkZqR2lKQlJITnlPV1pVZVU1NVkwODRabFppV1hCeFNGaE1XbTg1YjBORGQzUXdjVnBuIiwiZmN2IjoiMyIsImZjX2lkIjoibXBvWDZnUHJNX3Z3VkxtX0FBQUFBQT09In0="
+    },
+    {
+      "title": "Join Our Team as Digital Marketing Executive in Chennai (India)",
+      "company_name": "Sofia4260890",
+      "location": "Chennai, Tamil Nadu",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Digital+Marketing+Executive+fresher&htidocid=KQ6PS8SHlg8oGjzrAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_02NOwrCQBBAsfUIVgM2KpINouKnVBEFtTCFXRjjuBnd7ITsRlJ6B6_jaTyJsbN51Xu85rvRPG2FLRzKAiLCDNDBkjV7NLDD4k6erYZVRUnp-UFQq4uUrEWGzsZeGLvweb7gJmdwhEWSglhYi2hDrXnqfe5mSjlnAu08ek6CRDIlls5SqTpyP8QuxYJyg57iwSisgtzqXvsoV8bhYBxOpuHftg8RZmxgj5fyC-TPntC_AAAA&shmds=v1_ARwrE22XEwbn0wmOAFNRj1jbPMNyaNvg5S_r_Evj-0dyh2qfaw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Digital+Marketing+Executive+fresher&htidocid=KQ6PS8SHlg8oGjzrAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/join-our-team-as-digital-marketing-executive-in-chennai-india/sofia4260890/19709375",
+      "job_title": "Join Our Team as Digital Marketing Executive in Chennai (India)",
+      "description": "Join Our Team as Digital Marketing Executive in Chennai  \n\nJob Description:  \n\nWe are looking for a motivated and creative Digital Marketing Executive to join our marketing team. You will be responsible for planning, implementing, and managing our digital marketing campaigns across various channels to generate leads, increase brand awareness, and drive website traffic.  \n\nLocation: Chennai  \n\nExperience: 1 to 3 Years  \n\nJob Type: Full-Time   \n\nSalary: 18,000  30,000 per month (Based on experience)  \n\nKey Responsibilities:  \n\nPlan and execute social media marketing campaigns (Facebook, Instagram, LinkedIn, etc.)  \n\nRun and manage Google Ads (Search, Display, YouTube)  \n\nOptimize website content for SEO to improve search rankings  \n\nCreate and schedule email marketing campaigns  \n\nAnalyze campaign performance using Google Analytics & other tools  \n\nManage and update the companys website/blog  \n\nCoordinate with the design team for creatives and visual content  \n\nStay updated with the latest digital marketing trends and tools  \n\nRequired Skills:  \n\nKnowledge of SEO, SEM, Google Ads, and Social Media Ads  \n\nFamiliarity with tools like Google Analytics, Meta Ads Manager, Mailchimp, Canva  \n\nBasic understanding of WordPress or website CMS  \n\nValuable written communication and creativity  \n\nAbility to work independently and meet deadlines  \n\nQualification:  \n\nAny graduate with digital marketing knowledge or certification  \n\nPrior internship or agency experience is a plus  \n\nContact HR Sofia  hidden_mobile  \nImmediate Joiners Preferred. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/join-our-team-as-digital-marketing-executive-in-chennai-india/sofia4260890/19709375?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/7714235425857994752?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKb2luIE91ciBUZWFtIGFzIERpZ2l0YWwgTWFya2V0aW5nIEV4ZWN1dGl2ZSBpbiBDaGVubmFpIChJbmRpYSkiLCJjb21wYW55X25hbWUiOiJTb2ZpYTQyNjA4OTAiLCJodGlkb2NpZCI6IktRNlBTOFNIbGc4b0dqenJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZUTJobGJtNWhhU3hVWVcxcGJDQk9ZV1IxTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHSklaMUI2Ym01SlNURm9hbTkwVUdOSE1tSnpjRkE1V2pCVGExVjVabGhsYjI5cGNYQnhjbGR4WmpabVkwTlhPV05DUTFkeFdIZHVWVzB6ZVdSUVMyVmlNRk5IV1VzNFZ6UlhjRVJSWWpKelkxQm1kMTkzWjNCSU1FcHBlRXhNYmxSQlJYaDNXSFkzWW1WU1gxVXRRa2x6WjNGcmRtOHpUV3R1VjNGVFVXZDNNekY1U204U0YwaHpOMGxoY3pKbVRUaDZWalZPYjFCeU5FZG9PRkZqR2lKQlJITnlPV1pUV1d0V2JHTTFkRGhJVjFOYWIyMHRWMFV3TjNsUFgyNWxYME4zIiwiZmN2IjoiMyIsImZjX2lkIjoiS1E2UFM4U0hsZzhvR2p6ckFBQUFBQT09In0="
+    },
+    {
+      "title": "Influencer Marketing Executive - Fresher",
+      "company_name": "Dtangle Media",
+      "location": "Chennai, Tamil Nadu",
+      "via": "Internshala",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Digital+Marketing+Executive+fresher&htidocid=a43MVWNoO44Z0QdAAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMOQ7CMBAARZsnUG1BhSBGSDRQIS5RhIo-2jiLbXDWkddBKfkDf-BhvITQTDOayT6jbHvmm--INUUoMD4oOTZw6El3yT0J5nCMJHaw39cb7qECIYzaQmA4hWA8jTc2pVbWSon43EjC5HSuQ6MCUxV6NUTyRykWI7UeE5XL1aLPWzbTyT4hDxcoqHYIjmFniRndDK7YOA8XrLsfHaeVsKkAAAA&shmds=v1_ARwrE22czTDMdu0RA58nXymqFMMSXswtwS4Wx-9jId2E10ddPg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Digital+Marketing+Executive+fresher&htidocid=a43MVWNoO44Z0QdAAAAAAA%3D%3D",
+      "extensions": [
+        "1 day ago",
+        "₹3.6L–₹9L a year",
+        "Full–time"
+      ],
+      "source_link": "https://internshala.com/job/detail/fresher-influencer-marketing-executive-job-in-chennai-at-dtangle-media1791462410",
+      "job_title": "Influencer Marketing Executive - Fresher",
+      "description": "About the job:\n\nAs an influencer marketing executive at Dtangle Media, you will be part of a fast-moving team that turns campaign plans into live, high-performing influencer content. This is a hands-on, execution-focused role for someone who is organised, communicates well, and enjoys working directly with creators.\n\n\n\nKey Responsibilities:\n\n\n\n1. Execute influencer campaigns end to end, from outreach to content going live, in line with the brief and timelines.\n\n2. Source, shortlist, and reach out to influencers across regions, and negotiate rates and deliverables within the approved budget.\n\n3. Coordinate with influencers daily on briefs, content requirements, shoot schedules, and posting dates.\n\n4. Review and track content drafts, share feedback, and get approvals from the internal team and clients before posting.\n\n5. Follow up with influencers to make sure deliverables are submitted on time and meet quality standards.\n\n6. Maintain trackers for influencer databases, campaign schedules, deliverables, and payments.\n\n7. Monitor live campaigns and compile performance data (reach, views, engagement, and other KPIs) for client reports.\n\n8. Work with the creative team to share inputs and make sure content fits the brand and the regional audience.\n\n9. Keep track of social media trends, platform updates, and competitor activity to support campaign execution.\n\n\n\nIf you enjoy building relationships with creators and getting campaigns delivered on time, we would love to hear from you. Join Dtangle Media and help shape the future of influencer marketing.\n\nWho can apply:\n\nOnly those candidates can apply who:\n\n\n\nSalary:\n\n₹ 3,60,000 - 9,00,000 /year\n\nExperience:\n\nNo experience required\n\nDeadline:\n\n2026-11-07 23:59:59\n\nOther perks:\n\nInformal dress code, 5 days a week, Free snacks & beverages\n\nSkills required:\n\nMS-Office, Creative Writing, Script Writing, Problem Solving, Telugu Proficiency (Spoken), Tamil Proficiency (Spoken), Kannada Proficiency (Spoken), Malayalam Proficiency (Spoken), Effective Communication, Influencer Marketing and Google Sheets\n\nOther Requirements:\n\nA. Language:1. Mandatory: Fluency in Tamil.2. Mandatory: Proficiency in at least one of Telugu, Malayalam, or Kannada, to communicate with influencers in those markets.3. Preferred: Knowledge of two or more of these languages is an added advantage.B. Skills and experience:1. Strong verbal and written communication2. Good follow-up, coordination, and time-management skills3. Working knowledge of Instagram, YouTube, and other social platforms4. Comfort with spreadsheets and basic reporting5. Prior experience in influencer or social media marketing is a plus, but freshers with the right skills and attitude are welcome.\n\nAbout Company:\n\nDtangle is a dynamic influencer marketing and creator management agency that helps brands grow through impactful digital campaigns. We specialize in connecting brands with the right creators across beauty, fashion, lifestyle, and regional niches. Our team manages complete campaign execution, creator sourcing, briefing, negotiations, content tracking, dispatch coordination, and final reporting, ensuring smooth operations and measurable results.\n\r\n\n\r\nWith a data-driven and ROI-focused approach, Dtangle delivers campaigns that are authentic, engaging, and aligned with brand objectives. We also support creators by providing high-quality collaboration opportunities and professional guidance to elevate their digital journeys.\n\r\n\n\r\nDtangle is committed to making influencer marketing seamless, transparent, and growth-oriented for both brands and creators.",
+      "apply_options": [
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/job/detail/fresher-influencer-marketing-executive-job-in-chennai-at-dtangle-media1791462410?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJbmZsdWVuY2VyIE1hcmtldGluZyBFeGVjdXRpdmUgLSBGcmVzaGVyIiwiY29tcGFueV9uYW1lIjoiRHRhbmdsZSBNZWRpYSIsImh0aWRvY2lkIjoiYTQzTVZXTm9PNDRaMFFkQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVlRMmhsYm01aGFTeFVZVzFwYkNCT1lXUjFMRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1V4WVdFSnRka1pSYW5wWU5uUnFaVkZWTFhSc2QzbGFhVkozVDJKMFpYTmpSblo0U0doRGMyNXRjMW8xVTA5cFIwbFJRelJUYmt0aGNsRXdUVlZDY2tscllYQmtPVmgxUzFGb2JFRlhZbTg1VWt4U1lVUnJaRzlHWlZwc1ZFMDFNblZ4UWxSbWNIRllVemhmYzBjMWJYZHpWMWx0TWkxQmQwNHlSM05EYjBSdVgwSlRZMWtTRjBoek4wbGhjekptVFRoNlZqVk9iMUJ5TkVkb09GRmpHaUpCUkhOeU9XWlJVMmRJTldoSFdGVnlkMWRKYUV0NlIxRjBSVzVWVEU1aFZYWkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJhNDNNVldOb080NFowUWRBQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Hiring For 12th Pass Freshers - Digital Marketing Executive",
+      "company_name": "Carrier Group",
+      "location": "Anywhere",
+      "via": "Placement India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Digital+Marketing+Executive+fresher&htidocid=vOHVQNpfmscPkm-lAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLPU4DQQyGYdHmCFRfkQqR3RCJhpQhPw0RRfrIWawZh8l4ZXvRlrkDp-E6nATSvNXzTn7uJoedmNSEjRqeFpHxTu7YGHtmc8zwKkmCCt7IPjludD1yN4R8MX6v3zjrCc5kXYZWbFVT4ftljuj9pW3dS5M8KKRrOr20WvmkY_s_-S1Hz2TcFwo-Lp7nY9PX9DBdkZmwYWs69JCKVeZaSR5xoIsU7Olj-AMvJy54vAAAAA&shmds=v1_ARwrE225H1r6wDBoQOAzw6YWmpcCRLXmYHTP9KpeSuoJJphTXg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Digital+Marketing+Executive+fresher&htidocid=vOHVQNpfmscPkm-lAAAAAA%3D%3D",
+      "extensions": [
+        "Work from home",
+        "Part-time"
+      ],
+      "source_link": "https://www.placementindia.com/job-detail/digital-marketing-executive-in-carrier-group-at-chennai-1431848.htm",
+      "job_title": "Hiring For 12th Pass Freshers - Digital Marketing Executive",
+      "description": "Part time online digital support job along with training provided.\n\nExperience\n\nFresher\n\nNo. of Openings\n\n10\n\nEducation\n\n12th Pass\n\nRole\n\nDigital Marketing Executive\n\nIndustry Type\n\nFMCG / Retail\n\nGender\n\n[ Male / Female ]\n\nJob Country\n\nIndia\n\nType of Job\n\nPart Time\n\nWork Location Type\n\nWork from Home",
+      "apply_options": [
+        {
+          "title": "Placement India",
+          "link": "https://www.placementindia.com/job-detail/digital-marketing-executive-in-carrier-group-at-chennai-1431848.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/jobaaj-hiring-for-our-leading-clients-hiring-for-content-marketing-executive-digital-marketing-mumbai-all-areas-1-to-3-years-46020?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/591769662866325504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337560007/hiring-for-digital-marketing-executive-2yr-experience-salem-india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Connecting Odds",
+          "link": "https://connectingodds.com/jobs/discover/2548e2ab-ae88-4a2e-8353-1b7af66775e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indianjob24h.in",
+          "link": "https://indianjob24h.in/ko/urgent-hiring-for-digital-marketing-executive-job136449?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "PostAnyAd.in",
+          "link": "https://postanyad.in/hi/ad/creative-digital-digital-marketing-executive-jobs-in-banrasi-urgent-hiring-for-digital-marketing-executive-at-social-kinnect-labs-apply-now-69d642506506a7ba723e9bbf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJIaXJpbmcgRm9yIDEydGggUGFzcyBGcmVzaGVycyAtIERpZ2l0YWwgTWFya2V0aW5nIEV4ZWN1dGl2ZSIsImNvbXBhbnlfbmFtZSI6IkNhcnJpZXIgR3JvdXAiLCJodGlkb2NpZCI6InZPSFZRTnBmbXNjUGttLWxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZUTJobGJtNWhhU3hVWVcxcGJDQk9ZV1IxTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXcENObXBMZFVaRVNHMVJVRVZxTlVOQ1oxb3laM0I2YmxWVFJXZElRMnRVTXpOUmREQXdXVzl3U0Y5TmFscHZSR3B6WDIxM2QxVXdNbVp0UzNCaWMxUm5hRVpLZGxweGEzaFhRVUpKUjFGWFYwWkxVbWR0Tm1oMWQzTk9Wa0pPTUhSakxVRndTVEI1YnpoaFFtMW1ObEI0WjAxVk5YTTJMVk5GT0U1U1pYbzROM0ZzVDFVU0YwaHpOMGxoY3pKbVRUaDZWalZPYjFCeU5FZG9PRkZqR2lKQlJITnlPV1pTWXpkVVl6WkVSbFZTYms5NWN6TlZiRTg0TlZOYWMyaDNNME5SIiwiZmN2IjoiMyIsImZjX2lkIjoidk9IVlFOcGZtc2NQa20tbEFBQUFBQT09In0="
+    },
+    {
+      "title": "Digital Marketer (6months to 1year experience)",
+      "company_name": "JD AESTHETICS",
+      "location": "Chennai, Tamil Nadu",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Digital+Marketing+Executive+fresher&htidocid=PJqVw-ph4e2OnSnkAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ6CQBBA0dhyBKspLNQYUBMttDJAUBNtpCcDTtjVZYfsjgl23sFreCpPIja_efnBZxBkia61oIETujsJORivG7aiPAjD4knogLqWnCZb0QS-rzfcuATfQ6WALWTMtaHhVom0fhNF3puw9oKiq7DiJmJLJXdRP_l_Cq_QUWtQqFiu5l3Y2no6OiawSy_5Ps0P8QW0hViRtahnkGOjDZzx-vgB4A0bOq8AAAA&shmds=v1_ARwrE221IDiEeMNvD5sXA_4lpouB9Xwyh6Suak7UGSE1vxgZeA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Digital+Marketing+Executive+fresher&htidocid=PJqVw-ph4e2OnSnkAAAAAA%3D%3D",
+      "extensions": [
+        "1 month ago",
+        "₹20K–₹40K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.glassdoor.co.in/job-listing/digital-marketer-6months-to-1year-experience-jd-aesthetics-JV_IC2833209_KO0,44_KE45,58.htm?jl=1010257410885",
+      "job_title": "Digital Marketer (6months to 1year experience)",
+      "description": "Job Summary\n\nJD Aesthetics is looking for a creative and results-driven Digital Marketing Executive to strengthen our online presence, create engaging content, and generate quality leads through social media and digital advertising.\n\nKey Responsibilities\n\nEdit high-quality videos and reels for Instagram, Facebook, YouTube, and other social media platforms.Create engaging social media content, including posts, stories, reels, and promotional creatives.Manage and maintain all social media accounts by planning, scheduling, and publishing content regularly.Develop content calendars aligned with marketing campaigns and business goals.Run and optimize Meta (Facebook & Instagram) Ads and Google Ads to generate leads and increase brand awareness.Monitor ad performance, analyze campaign metrics, and optimize campaigns for better ROI.Respond to comments, messages, and customer inquiries on social media platforms.Stay updated with the latest social media trends, viral content, and digital marketing strategies.Coordinate with the clinic/salon team to create promotional campaigns, offers, and event coverage.Track social media insights and prepare monthly performance reports.Requirements\n\nBachelor's degree in Marketing, Digital Marketing, Media, or a related field.1–3 years of experience in digital marketing or social media management.Proficiency in video editing tools such as Adobe Premiere Pro, CapCut, VN Editor, Final Cut Pro, or similar software.Experience managing Instagram, Facebook, YouTube, and Google Business Profile.Hands-on experience running Meta Ads and Google Ads campaigns.Basic knowledge of graphic design tools like Canva or Adobe Photoshop is an added advantage.Strong communication, creativity, and time management skills.Preferred Skills\n\nVideo EditingSocial Media ManagementMeta Ads (Facebook & Instagram)Google AdsContent CreationCanva/PhotoshopTrend AnalysisLead GenerationAnalytics & ReportingSalary\n\n₹20,000 – ₹35,000 per month (Based on experience)\n\nBenefits\n\nPerformance IncentivesCareer Growth OpportunitiesFriendly Work EnvironmentEmployee Discounts on Clinic & Salon ServicesPaid LeavePay: ₹20,000.00 - ₹40,000.00 per month\n\nBenefits:\n\nFlexible schedulePaid time offWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/digital-marketer-6months-to-1year-experience-jd-aesthetics-JV_IC2833209_KO0,44_KE45,58.htm?jl=1010257410885&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/T0z4VT3IIVi2GhRIu5G4vC9J9XD4iHZ0l7uRBfoZpXuGMMEbqMdgbg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/digital-marketer-6months-to-1year-experience-chennai/jd-aesthetics/19523644?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaWdpdGFsIE1hcmtldGVyICg2bW9udGhzIHRvIDF5ZWFyIGV4cGVyaWVuY2UpIiwiY29tcGFueV9uYW1lIjoiSkQgQUVTVEhFVElDUyIsImh0aWRvY2lkIjoiUEpxVnctcGg0ZTJPblNua0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVlRMmhsYm01aGFTeFVZVzFwYkNCT1lXUjFMRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEVoeWIyUm5aa3RDYVdRMVgxaDVaRWhJVm1VelNrbEhVRXB5TmxCcVVUWkllbXBrWTBKdFVHZG5jWEpFVXpsU1RGOURSWEZYVTA5bVlqWm5NMDF2VGxSR0xVMHRVbkl3Ykd4R1pXaG1YMVIxVVhwT2MyaEpMVVoxVmxCVGNGQnJkbGMxWkRoM1lrRXRSVXhoY2tnMmF6Sm1hVTlZVjE5cFNqZGFiV290TTBOemJIWnJNSE1TRjBoek4wbGhjekptVFRoNlZqVk9iMUJ5TkVkb09GRmpHaUpCUkhOeU9XWlRSbTV1WkVOdlNuSTBaamhEZG5kcFRFNVNlbTAwYkdNMFZsUkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJQSnFWdy1waDRlMk9uU25rQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Hiring Freshers || Digital Marketing Executive",
+      "company_name": "Nuivio Ventures",
+      "location": "Chennai, Tamil Nadu",
+      "via": "Placement India",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Digital+Marketing+Executive+fresher&htidocid=tGxXzjw2T-Rq0WBsAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOOwrCQBBAsc0RrKayEElEsNHSb2MqsQ2TOOyOrrthZxJSpPAO3sNDeRKT5jWPBy_5TpLTmSN7A8dIYikK9D3s2bCigwvGJ-loDx1VjXJL8Ht_4BFKEMJYWQgeTiEYR9OtVa1lk2UiLjWiqFylVXhlwVMZumyIZEQhFiPVDpWK1XrZpbU381necMsBbuS1GU6APewseY-8gCu-2EGO9-YPtFQdYbEAAAA&shmds=v1_ARwrE20AIiIrsDJD1yME1Rk6u0vMNMQsvDy8jZeP_YgaiP6tMA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Digital+Marketing+Executive+fresher&htidocid=tGxXzjw2T-Rq0WBsAAAAAA%3D%3D",
+      "extensions": [
+        "₹2.75L–₹3L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.placementindia.com/job-detail/digital-marketing-associate-in-nuivio-ventures-at-chennai-1438766.htm",
+      "job_title": "Hiring Freshers || Digital Marketing Executive",
+      "description": "As a Digital Marketing Associate, you will play a key role in promoting our brand and engaging with our audience through various online platforms. This position is best suited for recent graduates looking to start their career in digital marketing.Key Responsibilities:- Content Creation: Develop engaging content for social media, blogs, and websites to attract potential customers, ensuring alignment with our brand voice and marketing goals.- Social Media Management: Manage and monitor our social media accounts by posting updates, responding to comments, and analyzing engagement metrics to improve our online presence.- SEO Optimization: Assist in optimizing website content for search engines to improve visibility and drive organic traffic by researching relevant keywords and implementing best practices.- Email Marketing: Help in designing and executing email marketing campaigns, focusing on building subscriber lists and analyzing campaign performance for improvements.- Data Analysis: Track and analyze digital marketing performance metrics using tools like Google Analytics, providing insights to inform strategies and improve results.Required Skills and Expectations:- A bachelor's degree in , , or  is required, showcasing your foundational knowledge in business and marketing principles.- Strong written and verbal communication skills are essential for creating compelling content and engaging with audiences effectively.- Familiarity with social media platforms and basic knowledge of SEO and email marketing will be advantageous.- A proactive attitude and willingness to learn are crucial, as this role requires adaptability to new tools and trends in the digital marketing landscape.\n\nExperience\n\n0 - 1 Years\n\nNo. of Openings\n\n2\n\nEducation\n\nGraduate (B.A, B.B.A, B.Com)\n\nRole\n\nDigital Marketing Associate\n\nIndustry Type\n\nMedia / Entertainment / Broadcasting\n\nGender\n\n[ Male / Female ]\n\nJob Country\n\nIndia\n\nType of Job\n\nFull Time\n\nWork Location Type\n\nWork from Office",
+      "apply_options": [
+        {
+          "title": "Placement India",
+          "link": "https://www.placementindia.com/job-detail/digital-marketing-associate-in-nuivio-ventures-at-chennai-1438766.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJIaXJpbmcgRnJlc2hlcnMgfHwgRGlnaXRhbCBNYXJrZXRpbmcgRXhlY3V0aXZlIiwiY29tcGFueV9uYW1lIjoiTnVpdmlvIFZlbnR1cmVzIiwiaHRpZG9jaWQiOiJ0R3hYemp3MlQtUnEwV0JzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVEyaGxibTVoYVN4VVlXMXBiQ0JPWVdSMUxFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTeTFJYVVreVRsZ3dhQzFoVUZNemRtbzJXV0l5TVhWcmMxTnZVWGcwWlZSQk9VRXRhRUV0VDBOSVJ6ZE9ka1JVU2tWeFFrUTRTMVY2UTBjMmMzVnVVbHBIVTFjeGEyRnlTa2xSU1haTWNuTnVhMjl5YTJoV1gwcGZiVUZvUVc1MFowVmxaekl0ZWkwdGFUZEdUMUZSUzAxbWFrdGpkbmxUUjI1UlpHbzFkVlJ0UkVwYU5YWVNGMGh6TjBsaGN6Sm1UVGg2VmpWT2IxQnlORWRvT0ZGakdpSkJSSE55T1daVGRsZzVOMVl3ZDFVM2FrSkRRWE5XU1ZsNVRFbDNjRkpLYzNsMyIsImZjdiI6IjMiLCJmY19pZCI6InRHeFh6ancyVC1ScTBXQnNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Digital Marketing Executive Employer: VIYANI BUILDER PVT LTD Location: Chennai Experience: Fresher",
+      "company_name": "Jobanya",
+      "location": "Chennai, Tamil Nadu",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Digital+Marketing+Executive+fresher&htidocid=kyuzPagQEOU_i4TeAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zWNsUrEQBBAsb1PsJCpRRI5uCZWaqLkyB0i8cDqmKzD7uhmZtndkxw2_oN_Z-mXGAub1733Ft8ni4-aLWf0sMH4RpnFQjOROWR-J2jG4PVIsYJd-3y9beHmqe3q5hEedj10fQ2dGsysUsGtIxHkWQ4UmcRQBXeRkqMIP59f8KoDJMJoHKjAvar1dHrlcg6pKsuUfGFTnlumMDqWKjToVM5S-sM-OYwUPGbaL1eXUxHEnp-tdUA5IrD83y-gx5E9bPHl8AuOhaiu3QAAAA&shmds=v1_ARwrE21_k1fXml6P4zF1c78cOh9nIWeZPNJ8quzvbTGea9_5SQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Digital+Marketing+Executive+fresher&htidocid=kyuzPagQEOU_i4TeAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "₹3L–₹4.2L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobleads.com/in/job/digital-marketing-executive-employer-viyani-builder-pvt-ltd-location-chennai-experience-fresher--chennai-district--e52007ebec43ed0f7e32661e127745fda",
+      "job_title": "Digital Marketing Executive Employer: VIYANI BUILDER PVT LTD Location: Chennai Experience: Fresher",
+      "description": "Social Media Networking Creativity Email Management Social Media Interaction Content Writing Data Analysis\n\nJob RequirementsExperience: Fresher\n\nJob Type: Full Time Jobs\n\nAbout CompanyViyani Builder Private Limited company we are doing architectural designing job, job responsibilities doing post on social media\n\nCompany Type: Private Ltd.\n\nEmployees: 50\n\nTurnover:",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/digital-marketing-executive-employer-viyani-builder-pvt-ltd-location-chennai-experience-fresher--chennai-district--e52007ebec43ed0f7e32661e127745fda?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaWdpdGFsIE1hcmtldGluZyBFeGVjdXRpdmUgRW1wbG95ZXI6IFZJWUFOSSBCVUlMREVSIFBWVCBMVEQgTG9jYXRpb246IENoZW5uYWkgRXhwZXJpZW5jZTogRnJlc2hlciIsImNvbXBhbnlfbmFtZSI6IkpvYmFueWEiLCJodGlkb2NpZCI6Imt5dXpQYWdRRU9VX2k0VGVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZUTJobGJtNWhhU3hVWVcxcGJDQk9ZV1IxTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWbFRXbUU0WkhKUWRrbDNUWEYwVFRWdVUwcFNlRFEwV0ZFd1QwSXlNbWxOV1hWclNWOVZPSEZyZVdKcVNIUkNNelpqVVV0TFRVRTJkbXN4V1V0M1NXTjNNM2hpVFRKTU5ubFlkMDh4Y1V0elVtWkZlVkZaYWw5S1R6ZEhZWEJEWDJkUmMxQnhOalZ1VG1sR1ZWUnJMVFZmVkhoWlJHOTJVVlJSTkdoU1NtWnhPV296TTBRU0YwaHpOMGxoY3pKbVRUaDZWalZPYjFCeU5FZG9PRkZqR2lKQlJITnlPV1pVYzBkcFlYWmtSRTQ0V0haUVlUZFRVM0pZWkVaUk1YWjNkV1ZCIiwiZmN2IjoiMyIsImZjX2lkIjoia3l1elBhZ1FFT1VfaTRUZUFBQUFBQT09In0="
+    },
+    {
+      "title": "Digital Marketing Executive  in Chennai at Ko Biotics Private Limited",
+      "company_name": "CollegeSearch",
+      "location": "Chennai, Tamil Nadu",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Digital+Marketing+Executive+fresher&htidocid=ct37VXY5iQTPYcJjAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0WOParCUBBGsXUJVl9hJY9EBBvtnoqFPwhaPxmT4Wb05k7IHSWle3BJ7sSVvIiFzenO4XSfne7fXJwYeWyovrBJcFg0nF1NbgxIwKzgEEhAhpXiV9Qki9jVciNjrKUU4xyv-wNnPSEy1VkBDViqOs-9aWFWxUmaxugTF41aPcm0TDXwSZu0leIbx1hQzZVvo8fReNgkVXCD_ky9Z8f7T_V784MDleKxpfz6D0mbP-rGAAAA&shmds=v1_ARwrE20ILMEE920kEAJZ3xwQSuIjcAAwH1ziGxUE_7v7k63lIg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Digital+Marketing+Executive+fresher&htidocid=ct37VXY5iQTPYcJjAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/digital-marketing-executive-job-in-chennai-at-ko-biotics-private-limited/collegesearch/19536737",
+      "job_title": "Digital Marketing Executive  in Chennai at Ko Biotics Private Limited",
+      "description": "As a Digital Marketing Executive at Ko Biotics Private Limited, you will be responsible for driving the company's online presence and increasing brand awareness through various digital marketing strategies. Your expertise in SEO, social media marketing, email marketing, content management, and SEM will be crucial in achieving our marketing goals.\n\nKey ResponsibilitiesDevelop and implement SEO strategies to improve website rankings and increase organic traffic.Manage social media accounts and create engaging content to drive audience engagement and growth.Plan and execute email marketing campaigns to nurture leads and drive conversions.Oversee content creation for all digital platforms, ensuring consistency and alignment with brand messaging.Monitor and analyze website and social media performance metrics to optimize campaigns and drive ROI.Collaborate with cross-functional teams to align digital marketing efforts with overall business objectives.Stay up-to-date with industry trends and best practices to recommend and implement new strategies for growth.If you are a dynamic and results-driven digital marketer with a passion for driving online success, we want you to join our team at Ko Biotics Private Limited. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/digital-marketing-executive-job-in-chennai-at-ko-biotics-private-limited/collegesearch/19536737?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "OneFresher – Fresher Jobs",
+          "link": "https://onefresher.com/jobs/digital-marketing-trainee-fresher-in-chennai-3819?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CazVid",
+          "link": "https://cazvid.com/en/job/digital-marketing-executive-ee682d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "CallCenterJob.co.in",
+          "link": "https://callcenterjob.co.in/digital-marketing-internship-in-chennai-at-pyramidion-solution-chennai_621361?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaWdpdGFsIE1hcmtldGluZyBFeGVjdXRpdmUgIGluIENoZW5uYWkgYXQgS28gQmlvdGljcyBQcml2YXRlIExpbWl0ZWQiLCJjb21wYW55X25hbWUiOiJDb2xsZWdlU2VhcmNoIiwiaHRpZG9jaWQiOiJjdDM3VlhZNWlRVFBZY0pqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVEyaGxibTVoYVN4VVlXMXBiQ0JPWVdSMUxFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbUZ0TjBoWWJXRnViVlJWYjJKdGVrMVZkWG90TVU4d1ZrVTJjRXBUYTBaNE4zSk9aWGhmUVhsQ1ZUaFpia1pIVlU1NllrdElVRkZITFZWdk4wWjZibGRaVkVkRk5GSnhRMGR2ZW14b2MzSmZiME40UkhWcmNIcG9MVjlDTVhoblNHRmZaVFpFUzBoemNURnFXVVpPVlhaSFozSm9ZMGwxTkU1UVFrRkRaV2g0WTJWaFdGRVNGMGh6TjBsaGN6Sm1UVGg2VmpWT2IxQnlORWRvT0ZGakdpSkJSSE55T1daVU9XeG1NbkJuYTBoblJVRlhNRFpPU1dsSkxYWnBPV0ZxTWtWQiIsImZjdiI6IjMiLCJmY19pZCI6ImN0MzdWWFk1aVFUUFljSmpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Receptionist Cum Digital Marketing Executive",
+      "company_name": "Grow Veterinary Clinic",
+      "location": "Chennai, Tamil Nadu",
+      "via": "Apna Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Digital+Marketing+Executive+fresher&htidocid=2uj93ouoJ_FNLIgkAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ4BURAA0Gj3CKqphV2RaCiXqChEtJvxTf4Of2c2_8-yOndwFDdyEjSve9l7kK335Kg1VuFkUHYNrNizYYAtxisZi4d1T64zvhF8ni-46AkSYXQ1qMBG1QcaLmuzNi2KIqWQ-2Ro7HKnTaFCJ-2LX0p_qlRjpDagUTWbT_u8FT-abKLe4UhGkQXjA8rAwg5YoKxJBHkMB2w4wA7P3RdtEaabtgAAAA&shmds=v1_ARwrE20ocRnyp7qrUseYqTFf0WI5spzzqUrfJ-xSCXa-1czCQg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Digital+Marketing+Executive+fresher&htidocid=2uj93ouoJ_FNLIgkAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAApVBMVEX___-DveQAAABNOVErt5P_0WZKNU56ueIHsov_zllkVGdIMkx9cX86Hz_m5uZAKEVELUhUu7F7vOndzJf_0WE4Gz12aXnDw8Ph3uE1Fzu_usDt6-2AgICTlJTy8vLHw8hbSl_SztO0rrWFeof_2GkxpYfhu2GimqSpoqoxDjZqXG1UQliMgo6akpwsADFEtqsocV6Xf0X0yWUfX04pjnTDolSCbjydLezGAAAB-ElEQVRIie3X35OaMBAH8K3boy0RNvUuSEAJop4K2N711___p3WDMgJ3D5CXe_H7kGFCPgObOMwKs0tWyxBGJFyurgCacT0GtVnfYDzFAcQtzKY5gOwCRxXXT2jhpPrarBm6OGC2coMrWLrBJThsjY0ju-eeD0xsEnP79qSJuX1QTHK5ESeJSQfsQIqIVM7zOVF01EQ6AYiI_A3fOBUA8yDgK132YRJIIkRRAfgeekQeok5hLuw1IgYAZ5IkEeW8L_ODSSpEFTfQT0oP5aGBWDBUIcTl0RQs9dsyDxJpY2GQwobQKy3kmYhnruXzpeqXmUT8PGxhBqlCrCxkEjUjFGWzRPU-w1EgpJIdmOk-DHnTPFJiAI1CUWe3V80gDtDLOzA9EsojbEUfHhvSrZFnRN2FWzvYiV6NBW95XksPRWQhVlt-bbXpwlrybs3teZw7MFO8WpIvZd1A4lqID2wuhWbIYxif-JiklwsqupsT51pXBrbaWCgKTwc1T5-jqAyh5jEFg1r7cRr9GPzqsrbm666-PebbkvdzgQ5xhrlWJye4CZ3YPR8b5-bBuV1xbpBmX4f5ufgyyOLx2yBP3Mu9fB7k-6dhFo9PD73sXm3buZ8Md8-XRncq3P1qW-v9JGif1zbzL-Ph7uG18y9gNvv9Zz8GPv_9dwX_AYSuLmToEcXbAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "6 days ago",
+        "₹7.5K–₹15K a month",
+        "Part-time"
+      ],
+      "source_link": "https://apna.co/job/chennai/receptionist-cum-digital-marketing-executive-291457037",
+      "job_title": "Receptionist Cum Digital Marketing Executive",
+      "description": "Job title: Receptionist Cum Digital marketing/ Veterinary Assistant / Clinic Support Staff ( Freshers Welcome) We are inviting enthusiastic and caring female freshers to join our Grow Veterinary Clinic team. If you love animals and want to build your career in the medical field, this is a great opportunity to gain practical experience. Working Hours: Morning: 9:00 AM – 1:00 PM Evening: 5:00 PM – 9:00 PM Who Can Apply? • Freshers with interest in veterinary field • Candidates who love pets and animals • Pet Handling • Basic communication skills required • Responsible and willing to learn • Basic Digital marketing skills • Basic computer knowledge is an added advantage Job Responsibilities: • Assisting doctor during consultations and front Office desk • Managing appointments and basic records • Supporting medicine dispensing and billing Why Join Us? ✨ Safe and respectful working environment ✨ Friendly and supportive team ✨ Excellent learning opportunity in veterinary practice ✨ Career growth in animal healthcare field",
+      "apply_options": [
+        {
+          "title": "Apna Jobs",
+          "link": "https://apna.co/job/chennai/receptionist-cum-digital-marketing-executive-291457037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/executive-zf-friedrich-chennai-65463468?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/f7SDBtyxxRW5Lyb3GMT97Ao0w3mDtNTWkbRnYzo0DKJTWcyQLVgX0Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/telecalling-executive-office-receptionist/hitech-international-trade-fair-india-pvt-ltd/19394418?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SAMA Consulting",
+          "link": "https://www.samaconsulting.in/jobs/hospital-receptionist-cum-crm-executive?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/receptionist-front-desk-executive-job-in-auro-multispeciality-pet-hospital-velachery-chennai-0-to-2-years-1788502493-8280262-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5832087951?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-6702146432248219705?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZWNlcHRpb25pc3QgQ3VtIERpZ2l0YWwgTWFya2V0aW5nIEV4ZWN1dGl2ZSIsImNvbXBhbnlfbmFtZSI6Ikdyb3cgVmV0ZXJpbmFyeSBDbGluaWMiLCJodGlkb2NpZCI6IjJ1ajkzb3VvSl9GTkxJZ2tBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZUTJobGJtNWhhU3hVWVcxcGJDQk9ZV1IxTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWbHNlVmszVmt4blpXMTBXbXBsU0RWRlVXVndXRVpZWVRKUWFsUmtiVTUxTWt4MVQyWm1lbGRMYVVaRVlURkhNVjlMZDAxWmFHSnlOMnROTUVwNVlsTkNaVTF0UVVodlozQmlMVGxYV2t4M1RrTXdOR2h0WVVSb04xSnZUM0JyTUVoU2NuazBZa3RPTlRRMVFtc3plRzVUVkRaRlVGSXdPVGxtVnpOTGFrUkNjbmt4TUdFU0YwaHpOMGxoY3pKbVRUaDZWalZPYjFCeU5FZG9PRkZqR2lKQlJITnlPV1pVYlRGcVUzVTRTemt0YlZaVlFqZGtNRU5SVTNSMVJUUlpTVUpSIiwiZmN2IjoiMyIsImZjX2lkIjoiMnVqOTNvdW9KX0ZOTElna0FBQUFBQT09In0="
+    },
+    {
+      "title": "Digital Marketing Executive in Chennai",
+      "company_name": "Kreativ India",
+      "location": "Chennai, Tamil Nadu",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Digital+Marketing+Executive+fresher&htidocid=BtDdZCfcBnfn1-NjAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_03NMQrCQBBAUWxzBKsprESyIthoYaEiIlrZhzEZdkc3s2F3ElJ6B6_gyTyJsbP53eNn71G22bFlRQ9njA9SFgv7nspWuSNgga0jEWT4PF9wDzdIhLF0EAQOIVhP47VTbdLKmJR8bpOicpmXoTZB6BZ6M6D0S5EcRmo8KhWL5bzPG7HTySnSADo4SsX495vBFWv2cMGq_QJTPFW3pwAAAA&shmds=v1_ARwrE23k12zVHzgbxVKBTXxhSVRnFT7ZrnfGJPP9arOVWRkapA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Digital+Marketing+Executive+fresher&htidocid=BtDdZCfcBnfn1-NjAAAAAA%3D%3D",
+      "extensions": [
+        "₹1L–₹50L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/kreativ-india-digital-marketing-executive-in-chennai-chennai-tamil-nadu-0-to-1-years-1027253",
+      "job_title": "Digital Marketing Executive in Chennai",
+      "description": "Key Responsibilities Identify and generate leads from possible clients from the market Social Media Marketing Post Creation and ads running Google Ads Running and Updating Online PresenceAbout Company: We are an advertising agency working on printing & design, poster flyers, videography, photography, website, and social media.",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/kreativ-india-digital-marketing-executive-in-chennai-chennai-tamil-nadu-0-to-1-years-1027253?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaWdpdGFsIE1hcmtldGluZyBFeGVjdXRpdmUgaW4gQ2hlbm5haSIsImNvbXBhbnlfbmFtZSI6IktyZWF0aXYgSW5kaWEiLCJodGlkb2NpZCI6IkJ0RGRaQ2ZjQm5mbjEtTmpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZUTJobGJtNWhhU3hVWVcxcGJDQk9ZV1IxTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFazJUbEJRUWxGU2JXWXRjamxYYmw5aVMwRnNXRVpuWmxGQlRVMXBOblJ4TTJOUVJURnlOazluU1hCWlpIbEVSSEJRY0dGbFVuSnlkMWxSUjNCeFpqaG1UMWhOZEZCTmJWWXlkRVYxVDFaNE5uUk1TbEZmYURocVZYVkdlRGRpYjNnM1ptbGtlWEZTUmsxeVdXbDVUbFl4VTFWSVowTm9NV0pVWm1GNE0ydFFRbVpQWTBJU0YwaHpOMGxoY3pKbVRUaDZWalZPYjFCeU5FZG9PRkZqR2lKQlJITnlPV1pTZDNaNlUxaEJja1pMV0RZdGNVZEtTbkJUUW5OU1RERkxNRVYzIiwiZmN2IjoiMyIsImZjX2lkIjoiQnREZFpDZmNCbmZuMS1OakFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSURDdUlDUVVwcFZEUjBTbEJMWkZacGNURlpValJQWTBJd0xXczRkbGhGWldwTFNHc3lXRFpaT0VjeFYzcHllRzUyVVhNME1XRk5jMnBYVFV4clVYRnpVWG93YzNwWGVtNWtNV2R6ZG01cmJsWkljSGxMZWpsaE0xSlFjMmQ0Ylc5Qk5tNVVTVFpVUnpCeldGOTVTR2syUjJwTVozTmZaaTFXUmxVNU9HZHBWVzFSUkhFNU1scFdUVmR5V0ZVMlMyWTViemR6VVMxRkxVVk5SMms0UTFwbGVIa3pWMWMwYm5wTlkzaGxjMlUwV0ZaVk4yOUtlWE13Ym1JeVFWQk5ObVU1YlZaTFlVZHhibHBwVjNRMFdWRmljVlpLYjI1blh6RnhSVTh5TFRabFdraHZVVWxGZERGV1gxTkNiRTlaU0VOUFlVdHJibXQzTTNaSFNDMHRSRVpZUkVoRFlqWTJSMUJDTlcxSFdYWkZUVzR6TkhkaVZuSjVNRGhhY1ROQk1XWkROMjVoYzI1dlRVcHNTVTUyUzJ4eVVqQllkekZVUVRoS1ZESmpSMGt3VldsUFJrSXlWV0Z6YkZsUlpsQm1PWHBQYUU0MFNESjVMVkF3UjBadlMybDFiV3BtWHkxM0VoZEljemRKWVhNeVprMDRlbFkxVG05UWNqUkhhRGhSWXhvaVFVUnpjamxtVWtkYU5qTlNNVnBzVkV4V1NVSkhkbEJrUlZseVdGWk9RWE5pUVEiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Chennai%2C+India&next_page_token=eyJmYyI6IkVxSURDdUlDUVVwcFZEUjBTbEJMWkZacGNURlpValJQWTBJd0xXczRkbGhGWldwTFNHc3lXRFpaT0VjeFYzcHllRzUyVVhNME1XRk5jMnBYVFV4clVYRnpVWG93YzNwWGVtNWtNV2R6ZG01cmJsWkljSGxMZWpsaE0xSlFjMmQ0Ylc5Qk5tNVVTVFpVUnpCeldGOTVTR2syUjJwTVozTmZaaTFXUmxVNU9HZHBWVzFSUkhFNU1scFdUVmR5V0ZVMlMyWTViemR6VVMxRkxVVk5SMms0UTFwbGVIa3pWMWMwYm5wTlkzaGxjMlUwV0ZaVk4yOUtlWE13Ym1JeVFWQk5ObVU1YlZaTFlVZHhibHBwVjNRMFdWRmljVlpLYjI1blh6RnhSVTh5TFRabFdraHZVVWxGZERGV1gxTkNiRTlaU0VOUFlVdHJibXQzTTNaSFNDMHRSRVpZUkVoRFlqWTJSMUJDTlcxSFdYWkZUVzR6TkhkaVZuSjVNRGhhY1ROQk1XWkROMjVoYzI1dlRVcHNTVTUyUzJ4eVVqQllkekZVUVRoS1ZESmpSMGt3VldsUFJrSXlWV0Z6YkZsUlpsQm1PWHBQYUU0MFNESjVMVkF3UjBadlMybDFiV3BtWHkxM0VoZEljemRKWVhNeVprMDRlbFkxVG05UWNqUkhhRGhSWXhvaVFVUnpjamxtVWtkYU5qTlNNVnBzVkV4V1NVSkhkbEJrUlZseVdGWk9RWE5pUVEiLCJmY3YiOiIzIn0%3D&q=Digital+Marketing+Executive+fresher"
+  },
+  "_retrieved_at": "2026-10-09 11:20:59 UTC"
+}

@@ -342,3 +342,21 @@ Phase C remaining: 82 (of 105), of which revision videos 15.
   key and placeholder matches English; unapproved strings never display; approved strings translate
   the headline while skill names stay English and typed input survives the toggle). 91 tests pass.
 - Credits: Account 36 -> 44 used for these 8 (206 left after phase D). Human review of i18n/hi.json is pending.
+
+## C2 (rest) - Seven more saved markets
+
+- Research: reused the documented role and city requests and the shared course queries.
+- Plan/acceptance: reach 15 pairs including more tier-2 and non-developer markets; every pair runs
+  offline; limited data stays visible; every default Job Prep plan opens.
+- Build: scripts/fetch_pairs.py --extended added Python Developer (Bengaluru, Kochi), Accountant (Mumbai,
+  Indore), Digital Marketing Executive (Pune, Chennai) and Frontend Developer (Hyderabad), each with one
+  page of the base, fresher and junior queries plus hours for the top candidate skills; one Git revision
+  response. Chennai and Kochi are not in the plan's list of hubs, so 6 of 15 markets are outside the
+  eight largest metros.
+- Test: 97 tests pass with all 15 pairs (golden results, Job Prep defaults, scan_data: 109 files clean).
+  Two markets, Data Analyst Indore and Digital Marketing Pune, have no listing asking for a skill the
+  example profile holds, so their Job Prep plans only teach; a test pins exactly those two.
+- Verify: honest flags kept: limited data in 8 markets; Pune and Chennai marketing also carry the dictionary
+  warning. Fastest wins changed nothing in the first eight pairs. Remaining pairs in the original list
+  were not collected (Mumbai/Chennai/Noida/Kochi for every role); the 15 saved pairs satisfy the Tier 1 target.
+- Credits: Account 44 -> 71 used for this step and the Git revision (179 left). Ledger phase C: 52 of 105.

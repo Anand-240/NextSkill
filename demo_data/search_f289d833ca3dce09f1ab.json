@@ -1,0 +1,463 @@
+{
+  "search_metadata": {
+    "id": "6ac8cda079ac9a7afea6128f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/RnhaP8KcUG0_jkpGZ8NwXA2pm4lGcRkcd3jFodMa53Y/6ac8cda079ac9a7afea6128f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/RnhaP8KcUG0_jkpGZ8NwXA2pm4lGcRkcd3jFodMa53Y/6ac8cda079ac9a7afea6128f.md",
+    "created_at": "2026-10-09 11:18:56 UTC",
+    "processed_at": "2026-10-09 11:18:56 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Junior+Python+Developer&uule=w+CAIQICISS29jaGksS2VyYWxhLEluZGlh&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/RnhaP8KcUG0_jkpGZ8NwXA2pm4lGcRkcd3jFodMa53Y/6ac8cda079ac9a7afea6128f.html",
+    "total_time_taken": 1.4
+  },
+  "search_parameters": {
+    "q": "Junior Python Developer",
+    "engine": "google_jobs",
+    "location_requested": "Kochi, India",
+    "location_used": "Kochi,Kerala,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFa2o0JhNkSECFiglsbMkH0-8bAleVRDqXZN_F4S-uXxDBCPg6Co5JCGogm4E92y8my4tOKUKvYjOa-Fs7uHILlwgdk2E3X9F4GERVntXrFzHaVkp3Qa4IZBMufqA-I1sloCUt7y1sNt2z1nLiZQV5SkWdVyDy_o7ZFtKqujXRdc7hjnf",
+        "q": "Junior Python Developer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFa2o0JhNkSECFiglsbMkH0-8bAleVRDqXZN_F4S-uXxDBCPg6Co5JCGogm4E92y8my4tOKUKvYjOa-Fs7uHILlwgdk2E3X9F4GERVntXrFzHaVkp3Qa4IZBMufqA-I1sloCUt7y1sNt2z1nLiZQV5SkWdVyDy_o7ZFtKqujXRdc7hjnf&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFa2o0JhNkSECFiglsbMkH0-8bAleVRDqXZN_F4S-uXxDBCPg6Co5JCGogm4E92y8my4tOKUKvYjOa-Fs7uHILlwgdk2E3X9F4GERVntXrFzHaVkp3Qa4IZBMufqA-I1sloCUt7y1sNt2z1nLiZQV5SkWdVyDy_o7ZFtKqujXRdc7hjnf"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUMn1AMtTZlRjihTjm31XnVfz-ZWZ_GADtLiijHD60zO8rIMSG9I8d7I_mPFlnjSKtLcSEpQwgULkBAqTGo_Yt2yg_FLdQkWbS3I6jfHr9JqOAeKnupMV6L9uXtE_M7NvGU-Vk_--B1ejGplxbMwsnW7H5UHR9Iq3FulhqCrtKMaE53c7DPYjRcuBqLhwtspdrDzdrbXsRZXwxdeRgDhk_S3EDKqhT5hdoKAaNQ8Epo4Gy5dNsh3xLb7JRXiXWcIxTdUc0IAWBwhuHhjv_NZYGPdXiWHx7iENKtYLkMxffiWdRPQBQGJpz7LBJvhMQVdOx0D3sQ8",
+            "q": "Junior Python Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUMn1AMtTZlRjihTjm31XnVfz-ZWZ_GADtLiijHD60zO8rIMSG9I8d7I_mPFlnjSKtLcSEpQwgULkBAqTGo_Yt2yg_FLdQkWbS3I6jfHr9JqOAeKnupMV6L9uXtE_M7NvGU-Vk_--B1ejGplxbMwsnW7H5UHR9Iq3FulhqCrtKMaE53c7DPYjRcuBqLhwtspdrDzdrbXsRZXwxdeRgDhk_S3EDKqhT5hdoKAaNQ8Epo4Gy5dNsh3xLb7JRXiXWcIxTdUc0IAWBwhuHhjv_NZYGPdXiWHx7iENKtYLkMxffiWdRPQBQGJpz7LBJvhMQVdOx0D3sQ8&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUMn1AMtTZlRjihTjm31XnVfz-ZWZ_GADtLiijHD60zO8rIMSG9I8d7I_mPFlnjSKtLcSEpQwgULkBAqTGo_Yt2yg_FLdQkWbS3I6jfHr9JqOAeKnupMV6L9uXtE_M7NvGU-Vk_--B1ejGplxbMwsnW7H5UHR9Iq3FulhqCrtKMaE53c7DPYjRcuBqLhwtspdrDzdrbXsRZXwxdeRgDhk_S3EDKqhT5hdoKAaNQ8Epo4Gy5dNsh3xLb7JRXiXWcIxTdUc0IAWBwhuHhjv_NZYGPdXiWHx7iENKtYLkMxffiWdRPQBQGJpz7LBJvhMQVdOx0D3sQ8"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rAlLcxTnQUMFHkS1jXZHlGoPAPtcBPZ1IbHI8o4-L4L_vZ7DP8yeJ8b5YUjWVGhA0GJvSJc2l6lysIel2jz0UvQ2yFyD3c4KmjByqaJSx6BYrqwHbcgMvje8w8n377YsTGYYjlIbqrYYtlRi8-fuimTaGg3KxqAj7zGk_FYcsrUqBRlPiQD3w6vPC65yfR8TjAWbeYUValoMOixAR3P3kTDQ2UwouQWeZbPTbzocZa2bLD2iquHLLGYNu1Ql4PAEdLO5D1DRt6pAg-V0n8O4o-MaX7VCmrt4p8jzzW1T9ddAFkf04Dzi2vWr_At2sKIYCnE-dLyrsbo75t0JlmjpoPvfsMtQ",
+            "q": "Junior Python Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAlLcxTnQUMFHkS1jXZHlGoPAPtcBPZ1IbHI8o4-L4L_vZ7DP8yeJ8b5YUjWVGhA0GJvSJc2l6lysIel2jz0UvQ2yFyD3c4KmjByqaJSx6BYrqwHbcgMvje8w8n377YsTGYYjlIbqrYYtlRi8-fuimTaGg3KxqAj7zGk_FYcsrUqBRlPiQD3w6vPC65yfR8TjAWbeYUValoMOixAR3P3kTDQ2UwouQWeZbPTbzocZa2bLD2iquHLLGYNu1Ql4PAEdLO5D1DRt6pAg-V0n8O4o-MaX7VCmrt4p8jzzW1T9ddAFkf04Dzi2vWr_At2sKIYCnE-dLyrsbo75t0JlmjpoPvfsMtQ&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAlLcxTnQUMFHkS1jXZHlGoPAPtcBPZ1IbHI8o4-L4L_vZ7DP8yeJ8b5YUjWVGhA0GJvSJc2l6lysIel2jz0UvQ2yFyD3c4KmjByqaJSx6BYrqwHbcgMvje8w8n377YsTGYYjlIbqrYYtlRi8-fuimTaGg3KxqAj7zGk_FYcsrUqBRlPiQD3w6vPC65yfR8TjAWbeYUValoMOixAR3P3kTDQ2UwouQWeZbPTbzocZa2bLD2iquHLLGYNu1Ql4PAEdLO5D1DRt6pAg-V0n8O4o-MaX7VCmrt4p8jzzW1T9ddAFkf04Dzi2vWr_At2sKIYCnE-dLyrsbo75t0JlmjpoPvfsMtQ"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4reZWwy-ge31WEtdDaCtBKITsFYV8A9-U1bmOBgNyx6rcz4LthgoEtoNOaZn4zWhxgfDoUEIMbVK8_N2KOkFh_qlHBoIZD7S-Hr47XGfzEbVeKWRoEoL7dYTRNTAcybIB688gKoHFpsUTrsAAwJ5TzAR9Bdoj49ApcbrzgGhmj_VdJ_1kbUgFEFLZjqIBq5FeHHM1E3itnQ5--MEL5ODVmmNwnRCYquujqDTilmf6Dm6BokN7zXkzaZbbv5urwzY4i215nBIvRLTkKGAlCBsHn1q4H6D10YxmDwGjEYQ1ZtjJuiSRTrUzdYshzvKNRjg6bbT22bkYDWjd_AII_1oWSNiQjhZI",
+            "q": "Junior Python Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4reZWwy-ge31WEtdDaCtBKITsFYV8A9-U1bmOBgNyx6rcz4LthgoEtoNOaZn4zWhxgfDoUEIMbVK8_N2KOkFh_qlHBoIZD7S-Hr47XGfzEbVeKWRoEoL7dYTRNTAcybIB688gKoHFpsUTrsAAwJ5TzAR9Bdoj49ApcbrzgGhmj_VdJ_1kbUgFEFLZjqIBq5FeHHM1E3itnQ5--MEL5ODVmmNwnRCYquujqDTilmf6Dm6BokN7zXkzaZbbv5urwzY4i215nBIvRLTkKGAlCBsHn1q4H6D10YxmDwGjEYQ1ZtjJuiSRTrUzdYshzvKNRjg6bbT22bkYDWjd_AII_1oWSNiQjhZI&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4reZWwy-ge31WEtdDaCtBKITsFYV8A9-U1bmOBgNyx6rcz4LthgoEtoNOaZn4zWhxgfDoUEIMbVK8_N2KOkFh_qlHBoIZD7S-Hr47XGfzEbVeKWRoEoL7dYTRNTAcybIB688gKoHFpsUTrsAAwJ5TzAR9Bdoj49ApcbrzgGhmj_VdJ_1kbUgFEFLZjqIBq5FeHHM1E3itnQ5--MEL5ODVmmNwnRCYquujqDTilmf6Dm6BokN7zXkzaZbbv5urwzY4i215nBIvRLTkKGAlCBsHn1q4H6D10YxmDwGjEYQ1ZtjJuiSRTrUzdYshzvKNRjg6bbT22bkYDWjd_AII_1oWSNiQjhZI"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsy9QfN7W8EV9F3llGxf3GlmA95cQrIRZyexd6r4EMWzwrf2UAe_V3rsEkR-WZ99ydOH4h3UlZVipZykNo89uwlo-OKAD_IZBqBo4lbQxBJWJjktL24y5y6yB7Vv3_noBDdPzOjlTwY7DlDenr76MoDDnJ_PdX5HfhFFYlU5eyRXZ9cXl4gkHo9iAEj-91XeArbEUj22HH5vc_d5BAwYufb2eTCwTMmJTsLmfgRfpTX0cbB8V6WBTLpgxIGt2D2bL423Gi2lzhb4bfdd0bEVD-ztbzTm1CNwOUmCBwHT4OytSyKJMqmouY9HEk07hdJe1zNLlRnwAoS38h5yysPk0q9qdXqI",
+            "q": "Junior Python Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsy9QfN7W8EV9F3llGxf3GlmA95cQrIRZyexd6r4EMWzwrf2UAe_V3rsEkR-WZ99ydOH4h3UlZVipZykNo89uwlo-OKAD_IZBqBo4lbQxBJWJjktL24y5y6yB7Vv3_noBDdPzOjlTwY7DlDenr76MoDDnJ_PdX5HfhFFYlU5eyRXZ9cXl4gkHo9iAEj-91XeArbEUj22HH5vc_d5BAwYufb2eTCwTMmJTsLmfgRfpTX0cbB8V6WBTLpgxIGt2D2bL423Gi2lzhb4bfdd0bEVD-ztbzTm1CNwOUmCBwHT4OytSyKJMqmouY9HEk07hdJe1zNLlRnwAoS38h5yysPk0q9qdXqI&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsy9QfN7W8EV9F3llGxf3GlmA95cQrIRZyexd6r4EMWzwrf2UAe_V3rsEkR-WZ99ydOH4h3UlZVipZykNo89uwlo-OKAD_IZBqBo4lbQxBJWJjktL24y5y6yB7Vv3_noBDdPzOjlTwY7DlDenr76MoDDnJ_PdX5HfhFFYlU5eyRXZ9cXl4gkHo9iAEj-91XeArbEUj22HH5vc_d5BAwYufb2eTCwTMmJTsLmfgRfpTX0cbB8V6WBTLpgxIGt2D2bL423Gi2lzhb4bfdd0bEVD-ztbzTm1CNwOUmCBwHT4OytSyKJMqmouY9HEk07hdJe1zNLlRnwAoS38h5yysPk0q9qdXqI"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUMn1AMtTZlRjihTjm31XnVfz-ZWZ_GADtLiijHD60zO8rIMSG9I8d7I_mPFlnjSKtLcSEpQwgULkBAqTGo_Yt2yg_FLdQkWbS3I6jfHr9JqOAeKnupMV6L9uXtE_M7NvGU-Vk_--B1ejGplxbMwsnW7H5UHR9Iq3FulhqCrtKMaE53c7DPYjRcuBqLhwtspdrDzdrbXsRZXwxdeRgDhk_S3EDKqhT5hdoKAaNQ8Epo4Gy5dNsh3xLb7JRXiXWcIxTdUc0IAWBwhuHhjv_NZYGPdXiWHx7iENKtYLkMxffiWdRPQBQGJpz7LBJvhMQVdOx0D3sQ8",
+            "q": "Junior Python Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUMn1AMtTZlRjihTjm31XnVfz-ZWZ_GADtLiijHD60zO8rIMSG9I8d7I_mPFlnjSKtLcSEpQwgULkBAqTGo_Yt2yg_FLdQkWbS3I6jfHr9JqOAeKnupMV6L9uXtE_M7NvGU-Vk_--B1ejGplxbMwsnW7H5UHR9Iq3FulhqCrtKMaE53c7DPYjRcuBqLhwtspdrDzdrbXsRZXwxdeRgDhk_S3EDKqhT5hdoKAaNQ8Epo4Gy5dNsh3xLb7JRXiXWcIxTdUc0IAWBwhuHhjv_NZYGPdXiWHx7iENKtYLkMxffiWdRPQBQGJpz7LBJvhMQVdOx0D3sQ8&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUMn1AMtTZlRjihTjm31XnVfz-ZWZ_GADtLiijHD60zO8rIMSG9I8d7I_mPFlnjSKtLcSEpQwgULkBAqTGo_Yt2yg_FLdQkWbS3I6jfHr9JqOAeKnupMV6L9uXtE_M7NvGU-Vk_--B1ejGplxbMwsnW7H5UHR9Iq3FulhqCrtKMaE53c7DPYjRcuBqLhwtspdrDzdrbXsRZXwxdeRgDhk_S3EDKqhT5hdoKAaNQ8Epo4Gy5dNsh3xLb7JRXiXWcIxTdUc0IAWBwhuHhjv_NZYGPdXiWHx7iENKtYLkMxffiWdRPQBQGJpz7LBJvhMQVdOx0D3sQ8"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rAlLcxTnQUMFHkS1jXZHlGoPAPtcBPZ1IbHI8o4-L4L_vZ7DP8yeJ8b5YUjWVGhA0GJvSJc2l6lysIel2jz0UvQ2yFyD3c4KmjByqaJSx6BYrqwHbcgMvje8w8n377YsTGYYjlIbqrYYtlRi8-fuimTaGg3KxqAj7zGk_FYcsrUqBRlPiQD3w6vPC65yfR8TjAWbeYUValoMOixAR3P3kTDQ2UwouQWeZbPTbzocZa2bLD2iquHLLGYNu1Ql4PAEdLO5D1DRt6pAg-V0n8O4o-MaX7VCmrt4p8jzzW1T9ddAFkf04Dzi2vWr_At2sKIYCnE-dLyrsbo75t0JlmjpoPvfsMtQ",
+            "q": "Junior Python Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAlLcxTnQUMFHkS1jXZHlGoPAPtcBPZ1IbHI8o4-L4L_vZ7DP8yeJ8b5YUjWVGhA0GJvSJc2l6lysIel2jz0UvQ2yFyD3c4KmjByqaJSx6BYrqwHbcgMvje8w8n377YsTGYYjlIbqrYYtlRi8-fuimTaGg3KxqAj7zGk_FYcsrUqBRlPiQD3w6vPC65yfR8TjAWbeYUValoMOixAR3P3kTDQ2UwouQWeZbPTbzocZa2bLD2iquHLLGYNu1Ql4PAEdLO5D1DRt6pAg-V0n8O4o-MaX7VCmrt4p8jzzW1T9ddAFkf04Dzi2vWr_At2sKIYCnE-dLyrsbo75t0JlmjpoPvfsMtQ&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAlLcxTnQUMFHkS1jXZHlGoPAPtcBPZ1IbHI8o4-L4L_vZ7DP8yeJ8b5YUjWVGhA0GJvSJc2l6lysIel2jz0UvQ2yFyD3c4KmjByqaJSx6BYrqwHbcgMvje8w8n377YsTGYYjlIbqrYYtlRi8-fuimTaGg3KxqAj7zGk_FYcsrUqBRlPiQD3w6vPC65yfR8TjAWbeYUValoMOixAR3P3kTDQ2UwouQWeZbPTbzocZa2bLD2iquHLLGYNu1Ql4PAEdLO5D1DRt6pAg-V0n8O4o-MaX7VCmrt4p8jzzW1T9ddAFkf04Dzi2vWr_At2sKIYCnE-dLyrsbo75t0JlmjpoPvfsMtQ"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4reZWwy-ge31WEtdDaCtBKITsFYV8A9-U1bmOBgNyx6rcz4LthgoEtoNOaZn4zWhxgfDoUEIMbVK8_N2KOkFh_qlHBoIZD7S-Hr47XGfzEbVeKWRoEoL7dYTRNTAcybIB688gKoHFpsUTrsAAwJ5TzAR9Bdoj49ApcbrzgGhmj_VdJ_1kbUgFEFLZjqIBq5FeHHM1E3itnQ5--MEL5ODVmmNwnRCYquujqDTilmf6Dm6BokN7zXkzaZbbv5urwzY4i215nBIvRLTkKGAlCBsHn1q4H6D10YxmDwGjEYQ1ZtjJuiSRTrUzdYshzvKNRjg6bbT22bkYDWjd_AII_1oWSNiQjhZI",
+            "q": "Junior Python Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4reZWwy-ge31WEtdDaCtBKITsFYV8A9-U1bmOBgNyx6rcz4LthgoEtoNOaZn4zWhxgfDoUEIMbVK8_N2KOkFh_qlHBoIZD7S-Hr47XGfzEbVeKWRoEoL7dYTRNTAcybIB688gKoHFpsUTrsAAwJ5TzAR9Bdoj49ApcbrzgGhmj_VdJ_1kbUgFEFLZjqIBq5FeHHM1E3itnQ5--MEL5ODVmmNwnRCYquujqDTilmf6Dm6BokN7zXkzaZbbv5urwzY4i215nBIvRLTkKGAlCBsHn1q4H6D10YxmDwGjEYQ1ZtjJuiSRTrUzdYshzvKNRjg6bbT22bkYDWjd_AII_1oWSNiQjhZI&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4reZWwy-ge31WEtdDaCtBKITsFYV8A9-U1bmOBgNyx6rcz4LthgoEtoNOaZn4zWhxgfDoUEIMbVK8_N2KOkFh_qlHBoIZD7S-Hr47XGfzEbVeKWRoEoL7dYTRNTAcybIB688gKoHFpsUTrsAAwJ5TzAR9Bdoj49ApcbrzgGhmj_VdJ_1kbUgFEFLZjqIBq5FeHHM1E3itnQ5--MEL5ODVmmNwnRCYquujqDTilmf6Dm6BokN7zXkzaZbbv5urwzY4i215nBIvRLTkKGAlCBsHn1q4H6D10YxmDwGjEYQ1ZtjJuiSRTrUzdYshzvKNRjg6bbT22bkYDWjd_AII_1oWSNiQjhZI"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsy9QfN7W8EV9F3llGxf3GlmA95cQrIRZyexd6r4EMWzwrf2UAe_V3rsEkR-WZ99ydOH4h3UlZVipZykNo89uwlo-OKAD_IZBqBo4lbQxBJWJjktL24y5y6yB7Vv3_noBDdPzOjlTwY7DlDenr76MoDDnJ_PdX5HfhFFYlU5eyRXZ9cXl4gkHo9iAEj-91XeArbEUj22HH5vc_d5BAwYufb2eTCwTMmJTsLmfgRfpTX0cbB8V6WBTLpgxIGt2D2bL423Gi2lzhb4bfdd0bEVD-ztbzTm1CNwOUmCBwHT4OytSyKJMqmouY9HEk07hdJe1zNLlRnwAoS38h5yysPk0q9qdXqI",
+            "q": "Junior Python Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsy9QfN7W8EV9F3llGxf3GlmA95cQrIRZyexd6r4EMWzwrf2UAe_V3rsEkR-WZ99ydOH4h3UlZVipZykNo89uwlo-OKAD_IZBqBo4lbQxBJWJjktL24y5y6yB7Vv3_noBDdPzOjlTwY7DlDenr76MoDDnJ_PdX5HfhFFYlU5eyRXZ9cXl4gkHo9iAEj-91XeArbEUj22HH5vc_d5BAwYufb2eTCwTMmJTsLmfgRfpTX0cbB8V6WBTLpgxIGt2D2bL423Gi2lzhb4bfdd0bEVD-ztbzTm1CNwOUmCBwHT4OytSyKJMqmouY9HEk07hdJe1zNLlRnwAoS38h5yysPk0q9qdXqI&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsy9QfN7W8EV9F3llGxf3GlmA95cQrIRZyexd6r4EMWzwrf2UAe_V3rsEkR-WZ99ydOH4h3UlZVipZykNo89uwlo-OKAD_IZBqBo4lbQxBJWJjktL24y5y6yB7Vv3_noBDdPzOjlTwY7DlDenr76MoDDnJ_PdX5HfhFFYlU5eyRXZ9cXl4gkHo9iAEj-91XeArbEUj22HH5vc_d5BAwYufb2eTCwTMmJTsLmfgRfpTX0cbB8V6WBTLpgxIGt2D2bL423Gi2lzhb4bfdd0bEVD-ztbzTm1CNwOUmCBwHT4OytSyKJMqmouY9HEk07hdJe1zNLlRnwAoS38h5yysPk0q9qdXqI"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJXQavsIok_e1DmSwy50LDloEH73gwneUt9ik3izE0jsfYC2R6G7Wo33KAXsVOrFPfl216n9pUaMxv3bhs9ssFp-pF9Q1IGS1-O2eEXKiXxn2w91_hHdTmRS4EOZu6MyugI-N3N-_fe4ih4pVhYFfS6C91eYf8QTOTWrSDJ37KYkQ-IxRCBfQU84CMrM1HkApn0Vfm731dsEOa-4nu0_o78IYcbpYKWomckwA-Y4i5Pn7R8wEwmkaD1uYKmpPpV_pQU2Z3CZ_af_aJDzc6SumVfg8NDjEz3lFbLpU21wE5prH8Y_I",
+            "q": "Junior Python Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJXQavsIok_e1DmSwy50LDloEH73gwneUt9ik3izE0jsfYC2R6G7Wo33KAXsVOrFPfl216n9pUaMxv3bhs9ssFp-pF9Q1IGS1-O2eEXKiXxn2w91_hHdTmRS4EOZu6MyugI-N3N-_fe4ih4pVhYFfS6C91eYf8QTOTWrSDJ37KYkQ-IxRCBfQU84CMrM1HkApn0Vfm731dsEOa-4nu0_o78IYcbpYKWomckwA-Y4i5Pn7R8wEwmkaD1uYKmpPpV_pQU2Z3CZ_af_aJDzc6SumVfg8NDjEz3lFbLpU21wE5prH8Y_I&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJXQavsIok_e1DmSwy50LDloEH73gwneUt9ik3izE0jsfYC2R6G7Wo33KAXsVOrFPfl216n9pUaMxv3bhs9ssFp-pF9Q1IGS1-O2eEXKiXxn2w91_hHdTmRS4EOZu6MyugI-N3N-_fe4ih4pVhYFfS6C91eYf8QTOTWrSDJ37KYkQ-IxRCBfQU84CMrM1HkApn0Vfm731dsEOa-4nu0_o78IYcbpYKWomckwA-Y4i5Pn7R8wEwmkaD1uYKmpPpV_pQU2Z3CZ_af_aJDzc6SumVfg8NDjEz3lFbLpU21wE5prH8Y_I"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJ8h8oXSxApmZbJ-fYLf2Pgt-9ZTuNrvrfqduN7z7X-zhrao5JhNC-d65cqXjDRWG2Tjen5srZSI5k9Lho6TcKkwX83A4E0nLtwy5DxZOiWnC4tLHpwzoCpPSKhiN_p6hLNZMQhFLlPzVAMJXacmb4Jxy3DKQLFMH4Wv7FP5pxPzAPy_lhDKSaAXUouQlQ6rQbISZaewXXMlr9l1nqU9gFeJAnHVNkSdq5lYG2U-Fstc7wane177rfMRh_Zt_dGs2iImj9MKkDBOCO2CtF-syUD6i5ngT1gAyOMUpyyl_MzWCiE8M",
+            "q": "Junior Python Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJ8h8oXSxApmZbJ-fYLf2Pgt-9ZTuNrvrfqduN7z7X-zhrao5JhNC-d65cqXjDRWG2Tjen5srZSI5k9Lho6TcKkwX83A4E0nLtwy5DxZOiWnC4tLHpwzoCpPSKhiN_p6hLNZMQhFLlPzVAMJXacmb4Jxy3DKQLFMH4Wv7FP5pxPzAPy_lhDKSaAXUouQlQ6rQbISZaewXXMlr9l1nqU9gFeJAnHVNkSdq5lYG2U-Fstc7wane177rfMRh_Zt_dGs2iImj9MKkDBOCO2CtF-syUD6i5ngT1gAyOMUpyyl_MzWCiE8M&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJ8h8oXSxApmZbJ-fYLf2Pgt-9ZTuNrvrfqduN7z7X-zhrao5JhNC-d65cqXjDRWG2Tjen5srZSI5k9Lho6TcKkwX83A4E0nLtwy5DxZOiWnC4tLHpwzoCpPSKhiN_p6hLNZMQhFLlPzVAMJXacmb4Jxy3DKQLFMH4Wv7FP5pxPzAPy_lhDKSaAXUouQlQ6rQbISZaewXXMlr9l1nqU9gFeJAnHVNkSdq5lYG2U-Fstc7wane177rfMRh_Zt_dGs2iImj9MKkDBOCO2CtF-syUD6i5ngT1gAyOMUpyyl_MzWCiE8M"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4raTQwLFdlf9S4KSCgVzHOS_nnFVCHm1YayYXFrTB_YwO4xeRbvsa7EeeSGPOhGGLkES2KxS4kFdL3oVhOyl9faMV3MgiW5BYSDgpl8SaVa47ylI83MEJfgg0FO9MZEMkPwKJyJ-KotDxCtcIS5AfCoJL94bfSQhTIEbop2YGcSkKPn029pIP4RmWs9PUieKfBBWZXxJ_zPVx_fTNKAA5Heu_g2fjmh4JN1q-wIh6cu8a-eL1_EXcFfVZRBy6uLguHlS3R0agKpmhgt64v_xnlaXo3J8KRs6O6vRw07S-Psh-xDs17w5bs4C9tN3mifIflrQ5Clw",
+            "q": "Junior Python Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raTQwLFdlf9S4KSCgVzHOS_nnFVCHm1YayYXFrTB_YwO4xeRbvsa7EeeSGPOhGGLkES2KxS4kFdL3oVhOyl9faMV3MgiW5BYSDgpl8SaVa47ylI83MEJfgg0FO9MZEMkPwKJyJ-KotDxCtcIS5AfCoJL94bfSQhTIEbop2YGcSkKPn029pIP4RmWs9PUieKfBBWZXxJ_zPVx_fTNKAA5Heu_g2fjmh4JN1q-wIh6cu8a-eL1_EXcFfVZRBy6uLguHlS3R0agKpmhgt64v_xnlaXo3J8KRs6O6vRw07S-Psh-xDs17w5bs4C9tN3mifIflrQ5Clw&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raTQwLFdlf9S4KSCgVzHOS_nnFVCHm1YayYXFrTB_YwO4xeRbvsa7EeeSGPOhGGLkES2KxS4kFdL3oVhOyl9faMV3MgiW5BYSDgpl8SaVa47ylI83MEJfgg0FO9MZEMkPwKJyJ-KotDxCtcIS5AfCoJL94bfSQhTIEbop2YGcSkKPn029pIP4RmWs9PUieKfBBWZXxJ_zPVx_fTNKAA5Heu_g2fjmh4JN1q-wIh6cu8a-eL1_EXcFfVZRBy6uLguHlS3R0agKpmhgt64v_xnlaXo3J8KRs6O6vRw07S-Psh-xDs17w5bs4C9tN3mifIflrQ5Clw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rL16Zr1sJtoY9wJKefioVsoD9-tXjxNB38CBTOnyQnc3Qs4fTIK2mei5YEA02x43fBIyHQ6gyb4b4BRdG9k2x5_memkHopLrTxrzpJ5J11StEA9uJICY1-04VVUwuqyq-dsAlp6Bd5GIkrLicqJoH4pdEFURmfPwuJxSv_YRNeBJ1hTnxiHlepuKiIUlDWg0ja37bMWYWxgdZE6CNkWsMsDcmJCGtF1w5fb0LK9l6rA5_7mxAyomVm0KQDk-8CwyMITyJswIb5TyHZdLfUgVTbdF9kPztm5dNKSwtq3jAwOoIJVpn9d9YX9JFT8LGP3b2Z9TJcA",
+            "q": "Junior Python Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rL16Zr1sJtoY9wJKefioVsoD9-tXjxNB38CBTOnyQnc3Qs4fTIK2mei5YEA02x43fBIyHQ6gyb4b4BRdG9k2x5_memkHopLrTxrzpJ5J11StEA9uJICY1-04VVUwuqyq-dsAlp6Bd5GIkrLicqJoH4pdEFURmfPwuJxSv_YRNeBJ1hTnxiHlepuKiIUlDWg0ja37bMWYWxgdZE6CNkWsMsDcmJCGtF1w5fb0LK9l6rA5_7mxAyomVm0KQDk-8CwyMITyJswIb5TyHZdLfUgVTbdF9kPztm5dNKSwtq3jAwOoIJVpn9d9YX9JFT8LGP3b2Z9TJcA&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rL16Zr1sJtoY9wJKefioVsoD9-tXjxNB38CBTOnyQnc3Qs4fTIK2mei5YEA02x43fBIyHQ6gyb4b4BRdG9k2x5_memkHopLrTxrzpJ5J11StEA9uJICY1-04VVUwuqyq-dsAlp6Bd5GIkrLicqJoH4pdEFURmfPwuJxSv_YRNeBJ1hTnxiHlepuKiIUlDWg0ja37bMWYWxgdZE6CNkWsMsDcmJCGtF1w5fb0LK9l6rA5_7mxAyomVm0KQDk-8CwyMITyJswIb5TyHZdLfUgVTbdF9kPztm5dNKSwtq3jAwOoIJVpn9d9YX9JFT8LGP3b2Z9TJcA"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJXQavsIok_e1DmSwy50LDloEH73gwneUt9ik3izE0jsfYC2R6G7Wo33KAXsVOrFPfl216n9pUaMxv3bhs9ssFp-pF9Q1IGS1-O2eEXKiXxn2w91_hHdTmRS4EOZu6MyugI-N3N-_fe4ih4pVhYFfS6C91eYf8QTOTWrSDJ37KYkQ-IxRCBfQU84CMrM1HkApn0Vfm731dsEOa-4nu0_o78IYcbpYKWomckwA-Y4i5Pn7R8wEwmkaD1uYKmpPpV_pQU2Z3CZ_af_aJDzc6SumVfg8NDjEz3lFbLpU21wE5prH8Y_I",
+            "q": "Junior Python Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJXQavsIok_e1DmSwy50LDloEH73gwneUt9ik3izE0jsfYC2R6G7Wo33KAXsVOrFPfl216n9pUaMxv3bhs9ssFp-pF9Q1IGS1-O2eEXKiXxn2w91_hHdTmRS4EOZu6MyugI-N3N-_fe4ih4pVhYFfS6C91eYf8QTOTWrSDJ37KYkQ-IxRCBfQU84CMrM1HkApn0Vfm731dsEOa-4nu0_o78IYcbpYKWomckwA-Y4i5Pn7R8wEwmkaD1uYKmpPpV_pQU2Z3CZ_af_aJDzc6SumVfg8NDjEz3lFbLpU21wE5prH8Y_I&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJXQavsIok_e1DmSwy50LDloEH73gwneUt9ik3izE0jsfYC2R6G7Wo33KAXsVOrFPfl216n9pUaMxv3bhs9ssFp-pF9Q1IGS1-O2eEXKiXxn2w91_hHdTmRS4EOZu6MyugI-N3N-_fe4ih4pVhYFfS6C91eYf8QTOTWrSDJ37KYkQ-IxRCBfQU84CMrM1HkApn0Vfm731dsEOa-4nu0_o78IYcbpYKWomckwA-Y4i5Pn7R8wEwmkaD1uYKmpPpV_pQU2Z3CZ_af_aJDzc6SumVfg8NDjEz3lFbLpU21wE5prH8Y_I"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJ8h8oXSxApmZbJ-fYLf2Pgt-9ZTuNrvrfqduN7z7X-zhrao5JhNC-d65cqXjDRWG2Tjen5srZSI5k9Lho6TcKkwX83A4E0nLtwy5DxZOiWnC4tLHpwzoCpPSKhiN_p6hLNZMQhFLlPzVAMJXacmb4Jxy3DKQLFMH4Wv7FP5pxPzAPy_lhDKSaAXUouQlQ6rQbISZaewXXMlr9l1nqU9gFeJAnHVNkSdq5lYG2U-Fstc7wane177rfMRh_Zt_dGs2iImj9MKkDBOCO2CtF-syUD6i5ngT1gAyOMUpyyl_MzWCiE8M",
+            "q": "Junior Python Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJ8h8oXSxApmZbJ-fYLf2Pgt-9ZTuNrvrfqduN7z7X-zhrao5JhNC-d65cqXjDRWG2Tjen5srZSI5k9Lho6TcKkwX83A4E0nLtwy5DxZOiWnC4tLHpwzoCpPSKhiN_p6hLNZMQhFLlPzVAMJXacmb4Jxy3DKQLFMH4Wv7FP5pxPzAPy_lhDKSaAXUouQlQ6rQbISZaewXXMlr9l1nqU9gFeJAnHVNkSdq5lYG2U-Fstc7wane177rfMRh_Zt_dGs2iImj9MKkDBOCO2CtF-syUD6i5ngT1gAyOMUpyyl_MzWCiE8M&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJ8h8oXSxApmZbJ-fYLf2Pgt-9ZTuNrvrfqduN7z7X-zhrao5JhNC-d65cqXjDRWG2Tjen5srZSI5k9Lho6TcKkwX83A4E0nLtwy5DxZOiWnC4tLHpwzoCpPSKhiN_p6hLNZMQhFLlPzVAMJXacmb4Jxy3DKQLFMH4Wv7FP5pxPzAPy_lhDKSaAXUouQlQ6rQbISZaewXXMlr9l1nqU9gFeJAnHVNkSdq5lYG2U-Fstc7wane177rfMRh_Zt_dGs2iImj9MKkDBOCO2CtF-syUD6i5ngT1gAyOMUpyyl_MzWCiE8M"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4raTQwLFdlf9S4KSCgVzHOS_nnFVCHm1YayYXFrTB_YwO4xeRbvsa7EeeSGPOhGGLkES2KxS4kFdL3oVhOyl9faMV3MgiW5BYSDgpl8SaVa47ylI83MEJfgg0FO9MZEMkPwKJyJ-KotDxCtcIS5AfCoJL94bfSQhTIEbop2YGcSkKPn029pIP4RmWs9PUieKfBBWZXxJ_zPVx_fTNKAA5Heu_g2fjmh4JN1q-wIh6cu8a-eL1_EXcFfVZRBy6uLguHlS3R0agKpmhgt64v_xnlaXo3J8KRs6O6vRw07S-Psh-xDs17w5bs4C9tN3mifIflrQ5Clw",
+            "q": "Junior Python Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raTQwLFdlf9S4KSCgVzHOS_nnFVCHm1YayYXFrTB_YwO4xeRbvsa7EeeSGPOhGGLkES2KxS4kFdL3oVhOyl9faMV3MgiW5BYSDgpl8SaVa47ylI83MEJfgg0FO9MZEMkPwKJyJ-KotDxCtcIS5AfCoJL94bfSQhTIEbop2YGcSkKPn029pIP4RmWs9PUieKfBBWZXxJ_zPVx_fTNKAA5Heu_g2fjmh4JN1q-wIh6cu8a-eL1_EXcFfVZRBy6uLguHlS3R0agKpmhgt64v_xnlaXo3J8KRs6O6vRw07S-Psh-xDs17w5bs4C9tN3mifIflrQ5Clw&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raTQwLFdlf9S4KSCgVzHOS_nnFVCHm1YayYXFrTB_YwO4xeRbvsa7EeeSGPOhGGLkES2KxS4kFdL3oVhOyl9faMV3MgiW5BYSDgpl8SaVa47ylI83MEJfgg0FO9MZEMkPwKJyJ-KotDxCtcIS5AfCoJL94bfSQhTIEbop2YGcSkKPn029pIP4RmWs9PUieKfBBWZXxJ_zPVx_fTNKAA5Heu_g2fjmh4JN1q-wIh6cu8a-eL1_EXcFfVZRBy6uLguHlS3R0agKpmhgt64v_xnlaXo3J8KRs6O6vRw07S-Psh-xDs17w5bs4C9tN3mifIflrQ5Clw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rL16Zr1sJtoY9wJKefioVsoD9-tXjxNB38CBTOnyQnc3Qs4fTIK2mei5YEA02x43fBIyHQ6gyb4b4BRdG9k2x5_memkHopLrTxrzpJ5J11StEA9uJICY1-04VVUwuqyq-dsAlp6Bd5GIkrLicqJoH4pdEFURmfPwuJxSv_YRNeBJ1hTnxiHlepuKiIUlDWg0ja37bMWYWxgdZE6CNkWsMsDcmJCGtF1w5fb0LK9l6rA5_7mxAyomVm0KQDk-8CwyMITyJswIb5TyHZdLfUgVTbdF9kPztm5dNKSwtq3jAwOoIJVpn9d9YX9JFT8LGP3b2Z9TJcA",
+            "q": "Junior Python Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQntFDhKOT3ql3RDw_fcHY6MVwDCFHg:1791544736538&q=Junior+Python+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rL16Zr1sJtoY9wJKefioVsoD9-tXjxNB38CBTOnyQnc3Qs4fTIK2mei5YEA02x43fBIyHQ6gyb4b4BRdG9k2x5_memkHopLrTxrzpJ5J11StEA9uJICY1-04VVUwuqyq-dsAlp6Bd5GIkrLicqJoH4pdEFURmfPwuJxSv_YRNeBJ1hTnxiHlepuKiIUlDWg0ja37bMWYWxgdZE6CNkWsMsDcmJCGtF1w5fb0LK9l6rA5_7mxAyomVm0KQDk-8CwyMITyJswIb5TyHZdLfUgVTbdF9kPztm5dNKSwtq3jAwOoIJVpn9d9YX9JFT8LGP3b2Z9TJcA&udm=8&sa=X&ved=2ahUKEwihkfuc6KyXAxWFAoYAHfk5KQkQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&q=Junior+Python+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rL16Zr1sJtoY9wJKefioVsoD9-tXjxNB38CBTOnyQnc3Qs4fTIK2mei5YEA02x43fBIyHQ6gyb4b4BRdG9k2x5_memkHopLrTxrzpJ5J11StEA9uJICY1-04VVUwuqyq-dsAlp6Bd5GIkrLicqJoH4pdEFURmfPwuJxSv_YRNeBJ1hTnxiHlepuKiIUlDWg0ja37bMWYWxgdZE6CNkWsMsDcmJCGtF1w5fb0LK9l6rA5_7mxAyomVm0KQDk-8CwyMITyJswIb5TyHZdLfUgVTbdF9kPztm5dNKSwtq3jAwOoIJVpn9d9YX9JFT8LGP3b2Z9TJcA"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Junior Python Developer Trainee",
+      "company_name": "Arcraft Infotech",
+      "location": "Kochi, Keralam",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=6Imd8GW3KGruSfkVAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TrBZLkZwIgmglCKJpLOzD5tjkTi63x94qsfMPlv7OlxibqWam-EyKzfkePQtcnuo4woEeFDiRwFXQRyL4vt5w4wYyoVgHo3Nk7gJNd0415a0xOYeyy4rqbWm5Nxyp4cGMUf6jzg6FUkClerVeDmWK3Xy2FyvYKpxiy0rj2Eeo2Dq_gIoEA_Y_BlQkrZ4AAAA&shmds=v1_ARwrE23g0faUi8yOHG2cGV0LoDLYB-SdouWxzRz3rziyUs6KNg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=6Imd8GW3KGruSfkVAAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/junior-python-developer-trainee/arcraft-infotech/19629851",
+      "job_title": "Junior Python Developer Trainee",
+      "description": "Junior Python Developer Trainee\n\nOnly for Keralites\n\nCompany: Arcraft Infotech\nLocation: Vyttila, Kochi, Kerala\nEmployment Type: Full-Time\nExperience: Freshers / 01 Year\nDepartment: Software Development\nRole Type: Project Experience\n\nAbout the Role\n\nArcraft Infotech is looking for ambitious tech enthusiasts and graduates to join our Python Developer & Placement Program.\n\nThis is a structured career-launch program designed for aspiring developers. You will undergo an intensive, hands-on skill development phase led by industry experts, followed by direct placement assistance and interviews with our network of tech hiring partners. If you are eager to build a career in software development but need the right practical stack and corporate bridge to get hired, this is your starting point.\n\nKey Responsibilities\n\nParticipate actively in the company's structured Python development program.Learn and apply Python programming concepts through practical exercises.Develop coding skills through assignments and problem-solving activities.Work on individual and team-based Own & Clients Python projects.Understand project requirements and translate them into technical solutions.Write clean, readable, and maintainable Python code.Debug programs and troubleshoot technical issues.Work with databases and perform basic database operations.Maintain proper documentation of assigned projects and tasks.Take feedback from mentors and continuously improve technical skills.Collaborate with team members during project development.Follow company coding standards, development practices, and project guidelines.Project Exposure\n\nDuring the period, trainees will be given opportunities to work on practical projects that help them understand the complete development process, including:\n\nRequirement understandingPlanning and task allocationCoding and implementationDatabase integrationTesting and debuggingVersion controlDocumentationProject presentationThe project assignments will be designed according to the trainee's learning progress and technical capability.\n\nRequired Skills\n\nBasic knowledge of Python programming.Understanding of basic programming concepts.Basic knowledge of Object-Oriented Programming is preferred.Logical thinking and problem-solving ability.Basic knowledge of SQL/database concepts is an advantage.Familiarity with Git/GitHub is an added advantage.Good communication and teamwork skills.Strong interest in software development and willingness to learn.Educational Qualification\n\nB.Tech / B.E / BCA / MCA / B.Sc Computer Science / IT or equivalent qualification.Candidates who have completed Python, Python Full Stack, or related technical courses are encouraged to apply.Eligibility\n\nFreshers and candidates with 01 year of experience can apply.Candidates with academic projects or personal Python projects are welcome.Candidates should have a genuine interest in building a career in Python development.Trainee's Evaluation\n\nThe trainee's progress will be evaluated throughout the training and project period based on:\n\nTechnical learning and improvementCoding abilityAssignment completionProject performanceProblem-solving skillsAttendance and participationAbility to work in a teamProfessional conductOverall performanceBased on Candidate performance, technical capability, and organizational requirements, trainees may be considered for further development opportunities within the organization.\n\nWhat We Offer\n\nUpon successful completion of the program and project milestone evaluations, you will transition directly into our Placement Support Program:\n\nDirect interview scheduling with partner tech companies and startups.Comprehensive resume building and GitHub profile optimization.Technical mock interviews and aptitude coaching led by hiring managersStructured Python development trainingHands-on project experiencePractical exposure to software developmentMentorship and technical guidanceIndividual and team-based projectsExposure to industry-oriented development practicesOpportunity to build a strong technical portfolioCareer growth opportunities based on performance and organizational requirementsJoin Arcraft Infotech and build your career in Python development through structured training and practical project experience.\n\nWork Location: In person .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-python-developer-trainee/arcraft-infotech/19629851?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-python-developer-trainee-arcraft-infotech-kochi--techmap_in_iXxh6jvgxjk-snN83sAhbYWfxsIME-pcZV_2JV8gk26FlgHcCINJtg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgUHl0aG9uIERldmVsb3BlciBUcmFpbmVlIiwiY29tcGFueV9uYW1lIjoiQXJjcmFmdCBJbmZvdGVjaCIsImh0aWRvY2lkIjoiNkltZDhHVzNLR3J1U2ZrVkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVNTMjlqYUdrc1MyVnlZV3hoTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVXBwVkRSMFMweGFSbU5sYWxCMFozSkliMmhZZUhaUmIxbFRhMmhhTm0xYWQzVjZRa1YyV0cxMk9GVjFUalJuWTBWQllVNXllV0pRTUZadVVFTlBTbWt4UVVWalNYcE1aRmRWVlhCTlozTjZTVkYwZG5SRVowODNPVzVFVVVaQk1rVjBZa3g2ZUVWcFpsbHhlbVZDU21OeVZUWm5VRzlLZERWblZUUmtlRkF0TFdWM1EyNVdUR1l0VUVVU0ZtOU5NMGxoY1VoQ1NVbFhSbTFNVVZBdFprOXJVMUVhSWtGRWMzSTVabFIzTVVaQlVEUTVhSHBhYzFOWlMzTnFZa0ZTVWkxbllVc3lORkUiLCJmY3YiOiIzIiwiZmNfaWQiOiI2SW1kOEdXM0tHcnVTZmtWQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Python Django Trainer Cum Developer",
+      "company_name": "iROHUB INFOTECH PVT. LTD.",
+      "location": "Kochi, Keralam",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=-9NEDfeVYcOC2UHtAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMQrCMBRAce0RnP6skorgok62aqVii1TXkoZPk5LmlyRK3byDl_BcnsS6PHjwXvAZBZv86SUZiBtuaoLCcmXQQnRvIcYHauoG-77e0FAFDrkVEob8QFRrHK-l951bhaFzmtXOc68EE9SGZLCiPhwm90fpJLfYae6xXCznPetMPZmqS5Zct3A877NiFyWQ3woGpyJmoAykJKSaQYqWa97-ADKJdJ2rAAAA&shmds=v1_ARwrE22A9aE_2sF2MIySb8yfNkKjFNgyS8ieturf50h6Kld6Tg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=-9NEDfeVYcOC2UHtAAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "₹12K–₹20K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/1fF0KNuigSjjvLturdEAkjQssXaLKijMvXvgj5ORJSutUd9INpmGaw",
+      "job_title": "Python Django Trainer Cum Developer",
+      "description": "Python Django Trainer cum Developer – Fresher\n\nCompany: IROHUB Infotech Pvt. Ltd.\n\nLocation: Kochi, Kerala\n\nJob Type: Full-time\n\nExperience: Fresher / 0–1 year\n\nJob Summary\n\nIROHUB Infotech is looking for a passionate and enthusiastic Python Django Trainer cum Developer to join our team. This role is suitable for freshers who have strong fundamentals in Python and a basic understanding of Django and web development.\n\nThe candidate will be involved in student training, mentoring, practical project guidance, and software development activities.\n\nKey Responsibilities\n\n- Conduct training sessions on Python and Django for students.\n\n- Explain programming concepts through practical examples and coding exercises.\n\n- Guide students in developing projects and applications.\n\n- Assist students with debugging and resolving coding issues.\n\n- Develop and maintain web applications using Python and Django.\n\n- Work on internal and live projects as required.\n\n- Conduct practical assessments and provide technical guidance to students.\n\n- Stay updated with the latest Python, Django, and web development technologies.\n\n- Maintain a professional and engaging learning environment.\n\nRequirements\n\n- Strong knowledge of Python programming.\n\n- Basic knowledge of Django framework.\n\n- Understanding of HTML, CSS, and JavaScript.\n\n- Basic knowledge of SQL and databases.\n\n- Good problem-solving and debugging skills.\n\n- Good communication and presentation skills.\n\n- Passion for teaching, mentoring, and software development.\n\n- Willingness to learn new technologies.\n\n- Freshers with relevant academic projects or internship experience are encouraged to apply.\n\nEducational Qualification\n\nB.Tech / BCA / MCA / B.Sc. Computer Science or equivalent qualification.\n\nSkills\n\nPython | Django | HTML | CSS | JavaScript | SQL | Web Development | Problem Solving | Communication\n\nWhat We Offer\n\n- Hands-on experience in training and software development.\n\n- Opportunity to work on practical and live projects.\n\n- Professional learning and career growth opportunities.\n\n- Supportive and collaborative work environment.\n\nInterested candidates can apply with their updated CV.\n\nPay: ₹12,000.00 - ₹20,000.00 per month\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/1fF0KNuigSjjvLturdEAkjQssXaLKijMvXvgj5ORJSutUd9INpmGaw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5827199348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/python-django-trainer-cum-developer-irohub-infotech-kochi-kerala--t7xk-859509183?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/7096555219579830272?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/341611390/python-django-trainer-cum-developer-kochi?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGphbmdvIFRyYWluZXIgQ3VtIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6ImlST0hVQiBJTkZPVEVDSCBQVlQuIExURC4iLCJodGlkb2NpZCI6Ii05TkVEZmVWWWNPQzJVSHRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lTUzI5amFHa3NTMlZ5WVd4aExFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVwcFZEUjBUR1ZVVjE5RlRVeFBla3h3VG5reFh6TTBjVlJxUlVkSGFIQTRZVXhHTWtoRVdIVlNkbHBSUjFkTFFXMVljbkZKWmw5eFJEQlVTRUpqU1RGbmNVZFhjMGt4TlZsRU0yWmhkVzlQYTB3d0xYSmFkR1o2TjFkcVJsY3lVRGMzV1RCNmNHSnBXRzlhZWpkak1XdG5TVzVxVTNWS2NraHhTbGxzTTA1WVZVSTFYemxxZUhFM1JUSVNGbTlOTTBsaGNVaENTVWxYUm0xTVVWQXRaazlyVTFFYUlrRkVjM0k1WmxSQ00xaHpablY2VFVObk1rTm5iWEpETmtGd1kwUnBlbTVaT1djIiwiZmN2IjoiMyIsImZjX2lkIjoiLTlORURmZVZZY09DMlVIdEFBQUFBQT09In0="
+    },
+    {
+      "title": "Python Developer — AI & Data",
+      "company_name": "IntrCity by RailYatri",
+      "location": "Kochi, Keralam",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=rzcKKxOYb0Q2ENUzAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLsQrCMBBAce0nON2kINKIIIKdxIKULuLmVK7haCJpLiSHtJv_oLv_5pdYlwcP3ss-s2x_GcWwh5Ie5DhQhO_zDccKFlCi4GQvuHMLiTBqA1N5Zu4czQsjEtJBqZRc3iVBsTrX3Cv21PKgpin90SSDkYJDoWa72wx58N1qWXmJJysjtCNc0bobSrRgPdSsjV1DTREd9j_x3YnqogAAAA&shmds=v1_ARwrE22NR02psku982Lr6NQtnwQpeYTQR5bX6ngAFPmcaCAfaA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=rzcKKxOYb0Q2ENUzAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/4K-Pm4rzPqZ4-XWOEsilFw_J1y3UwWchhQxSxDl7l49KXxF92-1oKg",
+      "job_title": "Python Developer — AI & Data",
+      "description": "About the role\n\nWe're looking for a Python Developer who has built AI workflows end to end and\n\nunderstands what separates a working demo from a production system: retrieval that\n\nreturns the right context, guardrails that hold, evaluation that tells you whether a change\n\nhelped or hurt, and pipelines that stay reliable at volume.\n\nThis role sits at the centre of ourAI-assisted automation and scaling efforts.\n\nKey Responsibilities\n\nDesign, build, and operate AI workflows in Python, from prototype through to\n\nproduction\n\nBuild RAG (Retrieval-Augmented Generation) pipelines — chunking, embeddings,\n\nvector search, retrieval quality, and context management\n\nImplement guardrails and safety controls around LLM outputs: input/output\n\nvalidation, grounding, hallucination mitigation, prompt-injection defence, and\n\nfallback behaviour\n\nBuild evaluation harnesses that measure output quality objectively rather than by\n\nimpression\n\nBuild AI-driven automation that removes repetitive manual work, and scale it\n\nreliably as usage grows\n\nIntegrate LLMs and ML models into production: API endpoints, inference services,\n\norchestration, and supporting pipelines\n\nWork with AI orchestration and agent frameworks, and integrate with external tools\n\nand services\n\nInstrument AI systems for observability — token usage, latency, cost, failure modes,\n\nand output quality over time\n\nCollaborate with data scientists and ML engineers to take models from notebook to\n\nproduction\n\nWork with data science and data engineering tools (Pandas, NumPy, Jupyter) for data\n\nmanipulation, analysis, and validation\n\nStay updated with a fast-moving AI ecosystem, and bring back what's worth adopting\n\nRequired Skills & Qualifications\n\n3+ years of backend development experience in Python\n\nHands-on AI workflow experience\n\nStrong command of Python and at least one Python web framework (FastAPI, Django,\n\nor Flask)\n\nFamiliarity with MySQL and BigQuery, including schema design and query\n\noptimization\n\nWorking knowledge of core AI engineering concepts: RAG, embeddings, vector\n\ndatabases, guardrails, context management, and evaluation\n\nHands-on experience with AI tools and frameworks — LLM APIs, orchestration\n\nframeworks (LangChain, LlamaIndex, or similar), and vector stores\n\nExperience building AI-assisted automation and scaling it beyond a proof of concept\n\nSolid understanding of RESTful APIs, HTTP, JSON, and integration with external\n\nservices\n\nExperience implementing authentication, authorization, and security best\n\npractices across services and APIs\n\nProven ability to optimize applications for performance, scalability, and\n\nmaintainability\n\nStrong problem-solving, analytical, and debugging skills\n\nLogical thinking and a solution-oriented approach — able to break down an\n\nunfamiliar problem and work toward a workable answer\n\nExcellent communication and collaboration abilities, and the ability to work\n\neffectively with cross-functional teams — frontend, product, QA, data, and operations\n\nAbility to learn new technologies quickly and adapt as business requirements change\n\nB.E. / B.Tech / MCA or equivalent. Equivalent practical experience will be considered.\n\nGood to Have (Advantage)\n\nExperience with Docker or containerized deployments\n\nExperience with local / open-source LLMs — running, optimizing, or integrating\n\nmodels such as LLaMA, Mistral, or Gemma using serving tools like Ollama or vLLM,\n\nin on-prem or containerized environments\n\nHow we work\n\nWe embrace AI-assisted engineering. We'd like you to use AI pair-programming tools\n\n(Claude Code, Cursor, GitHub Copilot, or similar) as a force multiplier — while retaining\n\nfull ownership, review, and understanding of the code you ship.\n\nPay: From ₹800,000.00 per month\n\nBenefits:\n\nHealth insuranceProvident FundAbility to commute/relocate:\n\nKochi, Kerala: Reliably commute or planning to relocate before starting work (Required)Application Question(s):\n\nWhat is your expected CTC?Experience:\n\nPython: 3 years (Required)Work Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/4K-Pm4rzPqZ4-XWOEsilFw_J1y3UwWchhQxSxDl7l49KXxF92-1oKg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "TopGenAIJobs — Gen AI & Agentic AI Jobs",
+          "link": "https://topgenaijobs.com/jobs/python-developer-ai-data-at-intrcity-by-railyatri-in-kochi-dyo91k?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyIOKAlCBBSSBcdTAwMjYgRGF0YSIsImNvbXBhbnlfbmFtZSI6IkludHJDaXR5IGJ5IFJhaWxZYXRyaSIsImh0aWRvY2lkIjoicnpjS0t4T1liMFEyRU5VekFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVNTMjlqYUdrc1MyVnlZV3hoTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVXBwVkRSMFNubG5jbnBTU2xkUlpqUkdXSFJCYWs1Tk1EUk1abkZVVTI5RWQzQlFhMUpDZFZOSVVHbHRVWFJ3U0Y4MWVVeFhlVzFPUjAxdlZtSldYelkxVTBoUE9FOWZhVmhyYW5KbWFEUTFURWxTUlRGRVJ6VnZORWsxUnpZMlJWOVhVbXhXTlZGMU4wWmtlbGxsUVc1aVptcHpVMjluYlhBM2FHaE5jVlpmYVVvMmVXbHJOV1EwY0VnU0ZtOU5NMGxoY1VoQ1NVbFhSbTFNVVZBdFprOXJVMUVhSWtGRWMzSTVabEZLUmtoc1p6WnRjVzV1VERNemEwVnBjVlJwTFU1RVdFRnNWbWMiLCJmY3YiOiIzIiwiZmNfaWQiOiJyemNLS3hPWWIwUTJFTlV6QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Python Developer Intern",
+      "company_name": "WAHY LAB SOLUTIONS",
+      "location": "Kochi, Keralam",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=NX2Ahs-hA5oNq1eiAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCMBSAYVx7BKc3OIk0RXDRqSJoabFCFXEqaXg0lTQv5AWpm3cQL-hJrMs_fX_0mUTJ6Rk0WdjhAw059JDZgN7C9_WGOzXAKL3SMJI9UWtwutEhOF4LwWziloMMnYoV9YIsNjSIceJ_atbSozMyYL1cJUPsbDufXdPDDYp0C1VZXM5Zeaygs5CT0t0CcvTSyP4HSrzIVZgAAAA&shmds=v1_ARwrE21lcrB14rR0-v2Yd1qBh0rGCvwQoj3i-qiLwt2KCp6ELg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=NX2Ahs-hA5oNq1eiAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8cda079ac9a7afea6128f/images/Jj7lsO3D6fqqHhTWRIIVugMMqLOXUzsfHXgzf-82DXQ.jpeg",
+      "extensions": [
+        "14 days ago",
+        "Internship"
+      ],
+      "source_link": "https://www.glassdoor.co.in/job-listing/python-developer-intern-wahy-lab-solutions-JV_IC2887994_KO0,23_KE24,42.htm?jl=1010179368265",
+      "job_title": "Python Developer Intern",
+      "description": "Job Description\nA Python Developer Intern assists in developing, testing, and maintaining software applications using Python while gaining hands-on experience through real-world projects and industry practices.\n\n\nKey Responsibilities\nWrite, test, and debug Python code.\nAssist in developing web, desktop, or automation applications.\nWork with databases and APIs.\nSupport software testing and troubleshooting activities.\nCollaborate with development teams on live projects.\nMaintain technical documentation and project reports.\nLearn and implement coding best practices.\nParticipate in code reviews and project discussions.\nRequired Skills\nBasic knowledge of Python programming.\nUnderstanding of Object-Oriented Programming (OOP).\nFamiliarity with databases such as MySQL or PostgreSQL.\nBasic knowledge of HTML, CSS, and JavaScript (preferred).\nProblem-solving and logical thinking skills.\nGood communication and teamwork abilities.\nQualification\nAny Degree/Diploma/PG/ITI\nFresher’s Can Apply\nJob Type\nFull Time /Part-time\n\nWork from Home (WFH)\n\nWork from Office (WFO)\n\nHybrid (WFH + WFO)\n\n\nLocation: Kakkanad, Kochi\n\n\nInterested candidates may apply by mailing their resume on [REDACTED EMAIL]",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/python-developer-intern-wahy-lab-solutions-JV_IC2887994_KO0,23_KE24,42.htm?jl=1010179368265&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/zhdL4yBpsaQ1W83ANk7Hgzg6yZ2hiH1f1NJquJtW7BTwQM0B0_ubSg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/python-developer-intern-wahy-lab-solutions-JV_IC2887994_KO0,23_KE24,42.htm?jl=1010179368265&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/barclays-python-developer-intern-kochi-168f8f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyIEludGVybiIsImNvbXBhbnlfbmFtZSI6IldBSFkgTEFCIFNPTFVUSU9OUyIsImh0aWRvY2lkIjoiTlgyQWhzLWhBNW9OcTFlaUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVNTMjlqYUdrc1MyVnlZV3hoTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVXBwVkRSMFNsWXplRzEyTTB4TWNEVlliVkZQVkZGaWFGYzJOelp5YTBvM2NrcFROMVJTTjFsV1FrTlFNMmR3V0d0WlozQjZXREJKUVZsV09Hc3liVWh6Vld0NWJsVlRWeTFDUVd3dE9HRk9XVmgwTkVzME5qWklWSGR3ZVhGMWRFaDFTRTlpYUROV09VaG5jRE5CVEdOMmRIcEtUSGRFT1ZSTFFtTXdaekpPV1haME4ydzFRa2x5YVdvU0ZtOU5NMGxoY1VoQ1NVbFhSbTFNVVZBdFprOXJVMUVhSWtGRWMzSTVabE5MZG1od1dsVk5jRmh0UmpnNGJ6WTFZVk53WXpsSVVVVnVlRUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJOWDJBaHMtaEE1b05xMWVpQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Python  GEN AI Fullstack",
+      "company_name": "Tech Mahindra",
+      "location": "Kochi, Keralam",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=9n5mvfOpySoN2tDFAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0nuHizSKOCi04OWqQoDu7lGo8mmuZCLkLd_AXxD_0S4_Km917xHhWL8zMZ9gDV7gTbA-wfzklCfYfv6wM3bkEIozaQnYq5czTemJSCrJUScWWX5WR1qblX7KnlQeVI_mjEYKTgMFGzXM2HMvhuOrlQnh3RWH-NCNZDzdrYGdQU0WH_A5Xib96UAAAA&shmds=v1_ARwrE21jmq1PU26ikSGS4xxAbeVk9cCNXI-PtQXVGWInTGZs4A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=9n5mvfOpySoN2tDFAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAk1BMVEX____jGDfiACfjACTzwsjxrrX74-Xx8fHiAC6enp_53eHtgIz76uzypa7kP1TiABP99_j0usHnW2zjEDP2ztPrd4Rvb3GmpqeBgYOIiInq6up8fH2ysrP2yM3jHT3iAB67u7xYWFqVlZZKSkxkZGXLy8zf3-Doa3nz09bohY_nUWTvmqTkLEfoSV7aQlfw4OLaT2IqNojEAAABEUlEQVRIie3Qa2-DIBSA4eMNb-Cod6lOt7WiorX__9cNlrquydKs-7jxfiDhkIegADqdTvd_CkL7FwqTyHp6GNJd7JmJYT0I0yyxPEOmYJHnRVlVrNzXPnOrO6x5bj_UBUJXwItfFAVA-ernd6BjGcZXWPvwVtfdoev23fFwD5qfsFXQZdD3PbBjzwD6n0CvTYabE4rlgum2Rd9C-Xt4o7YYIYwwUIRgGDECO5ATKsfrJIdYnV1hYpqTc7mZj2ImCx6EiIKRhMJpToIsa0SamEZCjvlug601i-szOIMziJQ7cBpGcDMnPcuhPQLEawhENAPZYHbzZXylsYRLmM0SrgpS4MOccQUFDycCOp1O99d7Bw8WFVtJrvN2AAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/python-gen-ai-fullstack-tech-mahindra-kochi--t7xk-797873734",
+      "job_title": "Python  GEN AI Fullstack",
+      "description": "Job Description: AI Full Stack Junior Developer\n\n\nRole Summary : Seeking an AI Full Stack Developer with hands-on experience in building GenAI/AI-powered applications on AWS. The ideal candidate should have strong expertise in Python development, AWS AI/ML services, and modern AI architectures such as RAG and AI Agents.\n\n\nKey Responsibilities\n\nDesign, develop, and deploy AI-enabled applications using AWS cloud services.\nBuild and integrate GenAI solutions leveraging Large Language Models (LLMs).\nDevelop Retrieval-Augmented Generation (RAG) architectures and AI Agent workflows.\nImplement prompt engineering techniques to optimize AI model performance.\nIntegrate vector databases for semantic search and knowledge retrieval.\nCollaborate with cross-functional teams to deliver scalable, secure, and high-performance AI solutions.\nEvaluate, optimize, and monitor AI model effectiveness in production environments.\n\nRequired Skills\n\nProgramming: Python (Mandatory), Java /.NET / Node.js/Agular/React\n\nCloud Platform: AWS\n\nAI/ML & GenAI:\n\nAmazon Bedrock\n\nAmazon SageMaker\n\nAWS Kiro\n\nRetrieval-Augmented Generation (RAG)\n\nPrompt Engineering\n\nVector Databases\n\nAI Agents\n\n\nExperience : 3-5 Years\n\nProven hands-on experience in developing and deploying GenAI/AI-powered applications.\nExperience integrating foundation models and LLMs into enterprise solutions.\n\nStrong understanding of cloud-native application development and AI solution architecture",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/python-gen-ai-fullstack-tech-mahindra-kochi--t7xk-797873734?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gIEdFTiBBSSBGdWxsc3RhY2siLCJjb21wYW55X25hbWUiOiJUZWNoIE1haGluZHJhIiwiaHRpZG9jaWQiOiI5bjVtdmZPcHlTb04ydERGQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJU1MyOWphR2tzUzJWeVlXeGhMRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVcHBWRFIwUzBkeFZsWlZWRTQxY0ZGb01WcDJiWFZIUVhGSE1HZG5SWGsyVld0d01GVXlMV054VWtKU1dqbFJjSFpETjJ0U2RXRTRSV0ZrYVdNd2MxSktlRXN4VmtwMFpWOWxabDlKYkdOT1dYQlpXVnBhTUVkVE4wVTViMEUxV2xwbFRWZzFMV0pyWkhrMU0xaGxjelUyYm14bFNURmFWVjlFWldOMmNsRmtTVkJEZDJscUxYZFhkVU1TRm05Tk0wbGhjVWhDU1VsWFJtMU1VVkF0Wms5clUxRWFJa0ZFYzNJNVpsTjZhRVp2WjNGc2RtbzVhVVZHV21saWVYVmFTR2RFWWt4UFNYYyIsImZjdiI6IjMiLCJmY19pZCI6IjluNW12Zk9weVNvTjJ0REZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Full Stack Developer (React Python)",
+      "company_name": "Gapblue Software Labs Pvt Ltd",
+      "location": "Kochi, Keralam",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=RaAEDOsstEFlb6WdAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ6CQBBA0dhyBKsp1RjWmNiopZECCiIHIMM6suiys2EHxM47eA1P5UnU5jcvP3pPov2xtxYKQX2DAw1k2VMHsxOhFsgfYtjN4fN8wZUrCISdNsAOEuba0nRnRHzYKhWCjesgKI2ONbeKHVU8qt8U_imDwY68RaFyvVmNsXf1QiXoK9sTFHyR-88hwypAPghkcobGQcraNEtIqUOL7Rc4GKw-rwAAAA&shmds=v1_ARwrE23WOJbWZGF0ikvkbsGnaOTzt6i-agDY0Hn2H-9t4akrhw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=RaAEDOsstEFlb6WdAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAWCAMAAACi_q9qAAAAkFBMVEX___99wPC42_a83few1_X5_P5ftO7f7_tMruyo0_T-9fPl8vz0-v56vvCg0PTw-P04qOuPxvHC4PfM5fnS6PntXhYooumXy_Nwu-8AleeZy6d1u4lHq-yKxp1esXgAm-j61cvylnb_4dv1pInuZCXvc0LuazP1q5Pfubr2t6TxiWT86OKrEB3tWgf4yrzwglkrQVj6AAABQklEQVQ4jeVRXVPDIBA8PgI0DQQICVGjtjFtbGvt__93QtLGOM60-qr3wA7M7u3eAfCvKxshSX4rrEbAiyucfDniMpuhhoQHIHSiJfyreyaQZ5ICbjxCGoxhvmYAjZFK-CAkKpCaHGStmJkLdfRjmIvodQceBSxqqFxAZAm1MSxLVLQejvuHMUATT4JVEVGA4eOEYggt7UUokJQSRffHp9kWELZDjGcwsWnWQJUHpMpS54eJZWyY57Bat-eovKEEMQy14QWrwAvFbYivGeFKxK1qyg2CRBNOdfLSdRehA1eAD0GdIuFiOFd4eLYxfdw4GccgykK72Xars3DBnPNs2pVxVz6uL7se0ukbMZ2Rz5_5-l2V7rbl_nCl7UB6g_TQpp_3drc_ltNebtXhfdev96fTpjx2p371Q9XMPk1vk_5efQAeaRGAf42DrgAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "₹12L–₹21.6L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/gapblue-software-labs-pvt-ltd-full-stack-developer-react-python-cochin-kochi-ernakulam-kerala-4-to-9-years-1537165",
+      "job_title": "Full Stack Developer (React Python)",
+      "description": "Job SummaryWe are looking for a talented and experienced Full Stack Developer with 4–9 years of hands-on experience in building scalable web applications using React.js on the front end and Python on the back end. The ideal candidate should have strong expertise in designing, developing, and maintaining end-to-end applications, collaborating with cross-functional teams, and delivering high-quality software solutions.Key ResponsibilitiesDesign, develop, test, and deploy full-stack web applications using React.js and Python.Build responsive and user-friendly front-end interfaces using React.js, JavaScript/TypeScript, HTML5, and CSS3.Develop scalable backend services, RESTful APIs, and microservices using Python frameworks such as FastAPI, Django, or Flask.Integrate front-end components with backend services and third-party APIs.Design, develop, and optimize database structures and queries.Participate in application architecture, design discussions, and technical decision-making.Write clean, maintainable, reusable, and well-documented code.Perform code reviews and ensure adherence to coding standards and best practices.Troubleshoot, debug, and resolve application issues across the technology stack.Collaborate with Product Managers, UI/UX Designers, QA Engineers, and DevOps teams throughout the development lifecycle.Contribute to CI/CD implementation, deployment automation, and performance optimization initiatives.Required Technical SkillsStrong experience with React.js and modern JavaScript (ES6).Hands-on experience with TypeScript.Proficiency in HTML5, CSS3, Bootstrap, Material UI, Tailwind CSS, or similar UI frameworks.Experience with state management libraries such as Redux, Context API, or Zustand.Understanding of responsive design, cross-browser compatibility, and performance optimization.Strong programming expertise in Python.Experience with FastAPI, Django, or Flask frameworks.Hands-on experience in REST API development and integration.Knowledge of microservices architecture and API security best practices.Understanding of asynchronous programming and backend performance optimization.DatabaseExperience with PostgreSQL, MySQL, SQL Server, or similar relational databases.Knowledge of MongoDB or other NoSQL databases is a plus.Strong understanding of database design, indexing, and query optimization.Cloud & DevOpsExperience with AWS, Azure, or Google Cloud Platform.Hands-on experience with Docker and containerized deployments.Familiarity with Kubernetes is preferred.Knowledge of CI/CD pipelines and deployment automation tools.Required QualificationsBachelors or masters degree in computer science, Information Technology, Engineering, or a related discipline.4–9 years of professional experience in full-stack application development.Strong problem-solving and analytical skills.Excellent communication and collaboration abilities.Ability to work independently and within cross-functional teams.Preferred SkillsExperience with event-driven architectures and messaging systems such as Kafka or RabbitMQ.Exposure to serverless architectures and cloud-native applications.Experience with automated testing frameworks and test-driven development (TDD).Knowledge of application security best practices and performance tuning.Exposure to AI/ML-enabled applications or Generative AI integrations is an added advantage.Key CompetenciesStrong ownership and accountability.Excellent troubleshooting and debugging skills.Ability to mentor junior developers and contribute to technical leadership.Strong collaboration and stakeholder management skills.Passion for learning new technologies and driving innovation.Primary SkillsReact.jsTypeScriptPythonFastAPI / Django / FlaskREST APIsMicroservicesPostgreSQL / MySQLDockerCloud Platforms (AWS/Azure/GCP)Git",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/gapblue-software-labs-pvt-ltd-full-stack-developer-react-python-cochin-kochi-ernakulam-kerala-4-to-9-years-1537165?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciAoUmVhY3QgUHl0aG9uKSIsImNvbXBhbnlfbmFtZSI6IkdhcGJsdWUgU29mdHdhcmUgTGFicyBQdnQgTHRkIiwiaHRpZG9jaWQiOiJSYUFFRE9zc3RFRmxiNldkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJU1MyOWphR2tzUzJWeVlXeGhMRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVcHBWRFIwU1daMVlXSlFTVGhtWVVocGVWVjJTMFZFT1ZoWExYWXlZMjgzUldKTllrTnVTVjk0VGpCd1QzVjNiVTFJVVRKTmJXcHliRVZCTWw5WlpYTTJVRmxXYWpsWFRXODRZWGR2YzB0S1NFZHBNRXROUld0NWMzTjVabXM0TkdkYWFtZE9TVUpoWjNWek1UUkpNWGRUUnpWdU4xRXlhRlF6VG5ScFJYbGxNamRhU1ZkME5ITllibE1TRm05Tk0wbGhjVWhDU1VsWFJtMU1VVkF0Wms5clUxRWFJa0ZFYzNJNVpsUXdRMHBNT0hoMU1EaEpkREp6YWt0aFJ6VlpVSGhtU1ZVeFNuYyIsImZjdiI6IjMiLCJmY19pZCI6IlJhQUVET3NzdEVGbGI2V2RBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Software Engineer Python (AI)",
+      "company_name": "Kelevo Software Private Limited",
+      "location": "Kochi, Keralam",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=uBrhHbz0nn_ZrqGGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2NMQ7CMBAERZsnUF0JCMWABAVUFAihUETiAZFjLraR44vsUwgdf-ATvIuXYBqaLVazs9l7lG0u1PBdBoSD19YjBigfbMjDZH-awuf5ghvVEFEGZSDVRyLtcLwzzF3cChGjy3VkyVblilpBHmsaRBrFX1TRJHnnJGO1Wi-GvPN6tizQYU_w_y6D7RMBZ9taxitYDwUpY-dQYJBOtl_peq5mqwAAAA&shmds=v1_ARwrE21nzNdTQBXGOEhYQxOLOBbuRpULWjhP6pmMCgYbhHBjmg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=uBrhHbz0nn_ZrqGGAAAAAA%3D%3D",
+      "extensions": [
+        "₹1L–₹50L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/kelevo-software-private-limited-software-engineer-python-ai-kerala-kochi-3-to-7-years-943349",
+      "job_title": "Software Engineer Python (AI)",
+      "description": "The responsibilities for this role include conducting original research on generative AI models, focusing on model architectures, training methods, fine-tuning, and evaluation strategies. You will be responsible for building Proof of Concepts (POCs) with emerging AI innovations and assessing their feasibility for production. Additionally, you will design and experiment with multimodal generative models encompassing text, images, audio, and other modalities. Developing autonomous, agent-based AI systems capable of adaptive decision-making is a key aspect of the role. You will lead the design, training, fine-tuning, and deployment of generative AI systems on large datasets. Optimizing AI algorithms for efficiency, scalability, and computational performance using parallelization, distributed systems, and hardware acceleration will also be part of your responsibilities. Managing data preprocessing and feature engineering, including cleaning, normalization, dimensionality reduction, and feature selection, is essential. You will evaluate and validate models using industry-standard benchmarks, iterating to achieve target KPIs. Providing technical leadership and mentorship to junior researchers and engineers is crucial. Documenting research findings, model architectures, and experimental outcomes in technical reports and publications is also required. It is important to stay updated with the latest advancements in NLP, DL, and generative AI to foster a culture of innovation within the team.The mandatory technical and functional skills for this role include strong expertise in PyTorch or TensorFlow. Proficiency in deep learning architectures such as CNN, RNN, LSTM, Transformers, and LLMs (BERT, GPT, etc.) is necessary. Experience in fine-tuning open-source LLMs (Hugging Face, LLaMA 3.1, BLOOM, Mistral AI, etc.) is required. Hands-on knowledge of PEFT techniques (LoRA, QLoRA, etc.) is expected. Familiarity with emerging AI frameworks and protocols (MCP, A2A, ACP, etc.) is a plus. Deployment experience with cloud AI platforms like GCP Vertex AI, Azure AI Foundry, or AWS SageMaker is essential. A proven track record in building POCs for cutting-edge AI use cases is also important.In terms of the desired candidate profile, experience with LangGraph, CrewAI, or Autogen for agent-based AI is preferred. Large-scale deployment of GenAI/ML projects with MLOps/LLMOps best practices is desirable. Experience in handling scalable data pipelines (BigQuery, Synapse, etc.) is a plus. A strong understanding of cloud computing architectures (Azure, AWS, GCP) is beneficial.Key behavioral attributes for this role include a strong ownership mindset, being able to lead end-to-end project deliverables, not just tasks. The ability to align AI solutions with business objectives and data requirements is crucial. Excellent communication and collaboration skills for cross-functional projects are also important.,",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/kelevo-software-private-limited-software-engineer-python-ai-kerala-kochi-3-to-7-years-943349?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/336996874/software-engineer-python-kochi?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBQeXRob24gKEFJKSIsImNvbXBhbnlfbmFtZSI6IktlbGV2byBTb2Z0d2FyZSBQcml2YXRlIExpbWl0ZWQiLCJodGlkb2NpZCI6InVCcmhIYnowbm5fWnJxR0dBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lTUzI5amFHa3NTMlZ5WVd4aExFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTM2hqTFdGSVF6STBjRVJOZDNoNFJFbzVWa3BqUzNkbFVEVlZSREV4VlhWMFgxUmplRkZCVXpoTVQxOU5kM1p4UTI5cVNEaFlYekZ0UlZWSlRrSTBUME4xWVVaM2N6ZHBRVEoxYUdwT2NXVlJSMmsyYkd4cE0wWjVlRmRvZEc5WVFuZ3RjamxwY1dNdFpVTm9aV3QwVWxBMVZVMU1SMUp5UkhacFpVTnhRa2hKTTBadVJqTVNGbTlOTTBsaGNVaENTVWxYUm0xTVVWQXRaazlyVTFFYUlrRkVjM0k1WmxOMVJUUjZkMU5HZWkxR05IaFJRV05MWlZaVVltUkJTRkpyTUZFIiwiZmN2IjoiMyIsImZjX2lkIjoidUJyaEhiejBubl9acnFHR0FBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Python Developer(Full Stack) - Kochi",
+      "company_name": "Finprov Learning",
+      "location": "Kochi, Keralam",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=p4D-rfZo71mf6maoAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNsQ3CMBBFRZsRqE5UgCBGSDTQRqEIBVIGiBzrZDs4d5ZtotCxA0OwF5MQRPOr997P3rOsqJEsB7g-kmGCAgd07DEsy7tzUCepbivYQsXKWPg8X9BxCxFlUAYm_sysHc5PJiUfj0LE6HIdk0xW5Yp7wYQtj2KS4m-aaGRA72TCZn_YjbknvV6UlnzgAS5TlixpsPQ_3ECFQTrZfwG0Jo8zqgAAAA&shmds=v1_ARwrE23tmrdMWDE0Ye2Np3XZRAkip4fTFhUJ4dA2jj30OI1K_Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=p4D-rfZo71mf6maoAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/UEbfTWB5JP_RADAwhLq4jrVr36PJ-s0e3x5aEr9O8jKG_zf4z3-xbA",
+      "job_title": "Senior Python Developer(Full Stack) - Kochi",
+      "description": "Location: Kochi (Corporate Office)\nAbout the Role\nWe are looking for a skilled Senior Python Developer with 2–5 years of experience in backend development and AI technologies. The ideal candidate will contribute to the development of scalable applications, AI-powered solutions, and modern software products while coordinating with cross-functional teams and mentoring junior developers.\n\n\nKey Responsibilities\nDevelop and maintain scalable applications using Python.\nBuild and optimize APIs using FastAPI, Django, or Flask.\nDesign and manage database solutions using PostgreSQL and related technologies.\nDevelop and integrate AI/ML and Generative AI solutions.\nWork with modern AI tools and frameworks such as PyTorch, TensorFlow, Scikit-learn, LangChain, OpenAI APIs, and RAG-based applications.\nCollaborate with product, business, and technology teams to deliver projects effectively.\nConduct code reviews, troubleshoot technical issues, and ensure coding best practices.\nMentor interns and junior developers.\nRequired Skills\n 2–5 years of experience in Python development.\n Strong knowledge of FastAPI, Django, or Flask.\n Experience with PostgreSQL, Git, and REST APIs.\n Hands-on exposure to AI/ML and Generative AI technologies.\n Familiarity with Docker, cloud platforms (AWS/Azure/GCP), and modern development workflows.\n Strong analytical, communication, and coordination skills.\nPreferred Qualifications\nExperience with React, Angular, JavaScript, or Full Stack development.\nUnderstanding of CI/CD pipelines and Agile methodologies.\nApply Now\nEmail: [REDACTED EMAIL]\n\n\nWhatsApp: [REDACTED PHONE] / [REDACTED PHONE]",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/UEbfTWB5JP_RADAwhLq4jrVr36PJ-s0e3x5aEr9O8jKG_zf4z3-xbA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/senior-python-developer-full-stack-kochi-finprov-learning-JV_KO0,40_KE41,57.htm?jl=1010226776537&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-python-developerfull-stack-kochi-finprov-learning-kochi-kerala--t7xk-798089482?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/senior-python-developer-full-stack-kochi-finprov-learning-JV_IC2887994_KO0,40_KE41,57.htm?jl=1010226776537&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/3748974970827440128?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/341407379/senior-python-developer-full-stack-kochi?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHl0aG9uIERldmVsb3BlcihGdWxsIFN0YWNrKSAtIEtvY2hpIiwiY29tcGFueV9uYW1lIjoiRmlucHJvdiBMZWFybmluZyIsImh0aWRvY2lkIjoicDRELXJmWm83MW1mNm1hb0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVNTMjlqYUdrc1MyVnlZV3hoTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVXBwVkRSMFRHTnNibWhaYUdaWWMxQXdPV1JoVVU4eFNqaFNZMGd6TTBoSmJXUlNjVVpCTlZSSlJtNVpMV2M0VjNkWFJrNXlkMWxyVXpKUE5sTnpkV013YUdORVVFSnBaVGx3YjFOVVZHNU9MVmhCTVV4d09FMTZXa2xFTldsbFRIcFNMWEJrU1dneFZtWkJaa1JIUm1oWlZuUnlaVVk1WHpGSlMwMXZOSFppU2poc2NHSTNORGwzYkhNU0ZtOU5NMGxoY1VoQ1NVbFhSbTFNVVZBdFprOXJVMUVhSWtGRWMzSTVabEZxWVVKT1oycEhlbEl4WkMxNE1HRjNVakl3V0hwa04zcE9VbmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJwNEQtcmZabzcxbWY2bWFvQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Backend & Cloud Engineer",
+      "company_name": "Talent Abundance HR Solutions",
+      "location": "Kochi, Keralam",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=gu9c3Tcyn_Sw0wD6AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU43OYg0KrjopCIK3dS9XNMjiaZ3JZeCo__gF_hrfom6vO0V71Gx2KG9E7cwgX2UoYUDu8BECT7PF9ykASVM1oMwHEVcpPHG59zr2hjVWDrNmIMtrXRGmBp5mF_SP7V6TNRHzFQvV_NH2bObmitG4gzbZuAW2RKcznCROOQgrBAYKrE-zKCihBG7L-mWz-ekAAAA&shmds=v1_ARwrE23ObOVceY-D33RPBDowCd_cFp4nRfOP_tP6TroN3x3dxA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=gu9c3Tcyn_Sw0wD6AAAAAA%3D%3D",
+      "extensions": [
+        "25 days ago",
+        "₹18K–₹25K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/aPjS1RY8LPXurx6uVwGbcEe8jHYfebIcVoKiNTORVjCSO0phmXxKsA",
+      "job_title": "Backend & Cloud Engineer",
+      "description": "WE'RE HIRING | BACKEND & CLOUD ENGINEER\n\nExperience: 1–4 Years\n\nWhat if the technology you build could change how organisations understand, develop and engage their people? At Talent Abundance, we are building technology-driven HR solutions that bring together assessments, analytics, AI and people insights to solve real organisational challenges.\n\nAnd we’re looking for a Backend & Cloud Engineer who doesn’t just want another job where tasks are assigned, and tickets are closed, instead someone who wants to build real products, solve challenging problems, experiment, learn, create. \n\nIf you enjoy working with:Python | Django | PostgreSQL | AWS | Redis | Celery | WebSockets | Docker | AI APIs\n\nYou should be excited by:\n⚡ Building real products from ideas\n⚡ Taking on innovative and challenging technology problems\n⚡ Exploring and embedding AI capabilities into products\n⚡ Working across Backend, Cloud and modern technology stacks\n⚡ Having ownership and seeing your work directly shape the product\n⚡ Learning, experimenting and building beyond conventional boundaries\n\nThis isn't a role where you disappear into a large engineering team. instead You’ll be close to the problem, close to the product and close to the people building the company.\n\nIf you feel the fire in you, and are confident that you can build real products, not just write code, this place is for you.\n\nLocation: Kochi, Kerala\nWork Arrangement: Hybrid\nExperience: 1–4 Years\n\nCome build technology that has the potential to change the way people and organisations work.\n\nInterested? Send your CV to [REDACTED EMAIL] or whatsapp @ 06282341127.\n\nPay: ₹18,000.00 - ₹25,000.00 per month\n\nBenefits:\n\nPaid sick timePaid time offWork from homeExperience:\n\nAWS: 1 year (Required)Back-end development: 1 year (Required)Work Location: Hybrid remote in Kochi, Kerala (Kochi)",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/aPjS1RY8LPXurx6uVwGbcEe8jHYfebIcVoKiNTORVjCSO0phmXxKsA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010262059470&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/9221457235207520256?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrZW5kIFx1MDAyNiBDbG91ZCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlRhbGVudCBBYnVuZGFuY2UgSFIgU29sdXRpb25zIiwiaHRpZG9jaWQiOiJndTljM1RjeW5fU3cwd0Q2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJU1MyOWphR2tzUzJWeVlXeGhMRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVcHBWRFIwVERCaVNsaEViVkJMV0VZdGVXUjJaamR6UkU5dlJsSkZSMkZzWjBGVGFHWkdaekJyWWt4R1R6VlZiMjgzZWt4cU9HeE9jbXRPTkRReUxYQTVjVWhZZEdZMVp6SkxjalZUWWtwc1RWQlBNV05hVW10c09XMDBUWGh1VUdKYVFuWTNZVUl6UnkxUWMwSjVaM05SYTFZdFMwTnpUbTlIU0RkME5tNTRRbFZZVUhkVkxUSjRWRmNTRm05Tk0wbGhjVWhDU1VsWFJtMU1VVkF0Wms5clUxRWFJa0ZFYzNJNVpsTnhlRFU1TmpGT0xVTnFRV1J4YWxrNExVWTVSSFZ3U0ZkVE5tYyIsImZjdiI6IjMiLCJmY19pZCI6Imd1OWMzVGN5bl9TdzB3RDZBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvc0RDc3dDUVVwcFZEUjBTVzFRY0RVMGIzUlpjbVJMU1d4aFREWnRkSFpyU1RkaGNESlFkVnBoU1cxb09GUTBTRXBqVmxGT04yOU1Na1I0TVhkTE5tUklVMUptZVc5cFdEWkJNRGxpY0c5aWJUTnZhRmh3VTBkaFdXNUhPRlkzYUVwNlNrZDVPRE5RUVhKNmFUQXlYM0pzVTJNMVprOXZWa05QU3pVelpuWlBMVU5zUkdwUmFWTm5VV0ZMUTJ4WFQzWnBVM2d5YjNnemNtOHlZaTF0UlRjeFUzWjFhMTgxUmpOR01Fa3phVGx1TFcxeWQzbDFSMlpQZDA5cVkwRm5aRGhJVTBsZk9VMW9SRTR6VGpCYVoyczRWMVpPU1dnMlEwaFlPV3QyT0Zkd1lYcDVTM2x0TTA5YVVFeG5hekp3VFVWcVdrUkpTMWxJY1RZM1MzZFBUVTlKV2t0dWNuQkNTa3BHY0dGcWFsTktXVzlyVW05blNFcHBOVEp1YlVKRUxYUjVhRGhqTkRGMlRsUjFkRXB6TjJWWk1XbFBNV05VYVVkWWJEZHhjRUUwTlVZMVRYaE1ja3QzVEVWeFRERndZM1VTRm05Tk0wbGhjVWhDU1VsWFJtMU1VVkF0Wms5clUxRWFJa0ZFYzNJNVpsSkRhblZCVkVWUU1XZzNVa1JZUTE5dVYxSklOazFDT1hBM2NGRSIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Kochi%2C+India&next_page_token=eyJmYyI6IkVvc0RDc3dDUVVwcFZEUjBTVzFRY0RVMGIzUlpjbVJMU1d4aFREWnRkSFpyU1RkaGNESlFkVnBoU1cxb09GUTBTRXBqVmxGT04yOU1Na1I0TVhkTE5tUklVMUptZVc5cFdEWkJNRGxpY0c5aWJUTnZhRmh3VTBkaFdXNUhPRlkzYUVwNlNrZDVPRE5RUVhKNmFUQXlYM0pzVTJNMVprOXZWa05QU3pVelpuWlBMVU5zUkdwUmFWTm5VV0ZMUTJ4WFQzWnBVM2d5YjNnemNtOHlZaTF0UlRjeFUzWjFhMTgxUmpOR01Fa3phVGx1TFcxeWQzbDFSMlpQZDA5cVkwRm5aRGhJVTBsZk9VMW9SRTR6VGpCYVoyczRWMVpPU1dnMlEwaFlPV3QyT0Zkd1lYcDVTM2x0TTA5YVVFeG5hekp3VFVWcVdrUkpTMWxJY1RZM1MzZFBUVTlKV2t0dWNuQkNTa3BHY0dGcWFsTktXVzlyVW05blNFcHBOVEp1YlVKRUxYUjVhRGhqTkRGMlRsUjFkRXB6TjJWWk1XbFBNV05VYVVkWWJEZHhjRUUwTlVZMVRYaE1ja3QzVEVWeFRERndZM1VTRm05Tk0wbGhjVWhDU1VsWFJtMU1VVkF0Wms5clUxRWFJa0ZFYzNJNVpsSkRhblZCVkVWUU1XZzNVa1JZUTE5dVYxSklOazFDT1hBM2NGRSIsImZjdiI6IjMifQ%3D%3D&q=Junior+Python+Developer"
+  },
+  "_retrieved_at": "2026-10-09 11:18:56 UTC"
+}

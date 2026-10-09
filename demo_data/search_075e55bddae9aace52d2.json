@@ -1,0 +1,267 @@
+{
+  "search_metadata": {
+    "id": "6ac8cdd131aafeafa1d787ae",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rrEvV5p625CPnXP6eGymjTPFYmgYXkYO9KVZButfjkU/6ac8cdd131aafeafa1d787ae.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rrEvV5p625CPnXP6eGymjTPFYmgYXkYO9KVZButfjkU/6ac8cdd131aafeafa1d787ae.md",
+    "created_at": "2026-10-09 11:19:45 UTC",
+    "processed_at": "2026-10-09 11:19:45 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Accountant+fresher&uule=w+CAIQICIkSW5kb3JlIERpdmlzaW9uLE1hZGh5YSBQcmFkZXNoLEluZGlh&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/rrEvV5p625CPnXP6eGymjTPFYmgYXkYO9KVZButfjkU/6ac8cdd131aafeafa1d787ae.html",
+    "total_time_taken": 1.11
+  },
+  "search_parameters": {
+    "q": "Accountant fresher",
+    "engine": "google_jobs",
+    "location_requested": "Indore, India",
+    "location_used": "Indore Division,Madhya Pradesh,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rM4C1ogCMDpmOJgEzBCm9o5kvacPmN3IW62sueo6TijjdIL5Rw1By0wvGG8T_ecKY_W5QK5AAqHvWNOa1zu95lFRcrSSOQnW1xazE7ym_vnXi-ox6IdEpOukUxD5j7W2HstQ89WMECgmRuj0O1T5144F3B0g",
+        "q": "Accountant fresher remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM4C1ogCMDpmOJgEzBCm9o5kvacPmN3IW62sueo6TijjdIL5Rw1By0wvGG8T_ecKY_W5QK5AAqHvWNOa1zu95lFRcrSSOQnW1xazE7ym_vnXi-ox6IdEpOukUxD5j7W2HstQ89WMECgmRuj0O1T5144F3B0g&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQxKsJKAB6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM4C1ogCMDpmOJgEzBCm9o5kvacPmN3IW62sueo6TijjdIL5Rw1By0wvGG8T_ecKY_W5QK5AAqHvWNOa1zu95lFRcrSSOQnW1xazE7ym_vnXi-ox6IdEpOukUxD5j7W2HstQ89WMECgmRuj0O1T5144F3B0g"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGXEeYfbKBqJUFul0SV-AZD3Tdjq7oAotkt0dE4mUi7Gjb266ZkZSdSpGuVwKkfNs3md0ME1ll5FoOeMnACqL2mVkLGgiy0O6ZTtGXx6XYb_wwRqLCjuNmkXe_JJ3uY9nNVXst03PTk7tlBKqPIASnaBRySexlR1cHmeaxM2A6zm8JqWMmNFxRBUF2zprCSHK5lF2thtWf5j9MKC5mVR16P65GrLGjsuX9HMGAq-9EIuhXef4SkvLoffsNhLGZQQo_IAW5xPXnI2jfIcAhyDGfcelMrihQ",
+            "q": "Accountant fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGXEeYfbKBqJUFul0SV-AZD3Tdjq7oAotkt0dE4mUi7Gjb266ZkZSdSpGuVwKkfNs3md0ME1ll5FoOeMnACqL2mVkLGgiy0O6ZTtGXx6XYb_wwRqLCjuNmkXe_JJ3uY9nNVXst03PTk7tlBKqPIASnaBRySexlR1cHmeaxM2A6zm8JqWMmNFxRBUF2zprCSHK5lF2thtWf5j9MKC5mVR16P65GrLGjsuX9HMGAq-9EIuhXef4SkvLoffsNhLGZQQo_IAW5xPXnI2jfIcAhyDGfcelMrihQ&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGXEeYfbKBqJUFul0SV-AZD3Tdjq7oAotkt0dE4mUi7Gjb266ZkZSdSpGuVwKkfNs3md0ME1ll5FoOeMnACqL2mVkLGgiy0O6ZTtGXx6XYb_wwRqLCjuNmkXe_JJ3uY9nNVXst03PTk7tlBKqPIASnaBRySexlR1cHmeaxM2A6zm8JqWMmNFxRBUF2zprCSHK5lF2thtWf5j9MKC5mVR16P65GrLGjsuX9HMGAq-9EIuhXef4SkvLoffsNhLGZQQo_IAW5xPXnI2jfIcAhyDGfcelMrihQ"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGUmm8AT-wGfeBhiWyC58Dnaj2NQU_3toQc3ON0csSuEYVRAOR12Of8R2bwk4eds7LWYjqXQevjbsxS6advbK5dYNqPay92gSHDMhzbMjGlZSwZZu2w0kfMDsOHNCjOZuaKwMs4bIdqdX36lTiRjuNL2uxgntD0ZwuV7n6RnDURcMGmp31O1sX9fT3-nCA9bGaGyNtIKnOVuOsPShz7bXIJ3dQI125sl6ZaWgFBqJrusTL8zCgPLstDQoG1K150BHN_ohIqvWdNNi_9qBQs8FKl1mgnYxQ",
+            "q": "Accountant fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGUmm8AT-wGfeBhiWyC58Dnaj2NQU_3toQc3ON0csSuEYVRAOR12Of8R2bwk4eds7LWYjqXQevjbsxS6advbK5dYNqPay92gSHDMhzbMjGlZSwZZu2w0kfMDsOHNCjOZuaKwMs4bIdqdX36lTiRjuNL2uxgntD0ZwuV7n6RnDURcMGmp31O1sX9fT3-nCA9bGaGyNtIKnOVuOsPShz7bXIJ3dQI125sl6ZaWgFBqJrusTL8zCgPLstDQoG1K150BHN_ohIqvWdNNi_9qBQs8FKl1mgnYxQ&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGUmm8AT-wGfeBhiWyC58Dnaj2NQU_3toQc3ON0csSuEYVRAOR12Of8R2bwk4eds7LWYjqXQevjbsxS6advbK5dYNqPay92gSHDMhzbMjGlZSwZZu2w0kfMDsOHNCjOZuaKwMs4bIdqdX36lTiRjuNL2uxgntD0ZwuV7n6RnDURcMGmp31O1sX9fT3-nCA9bGaGyNtIKnOVuOsPShz7bXIJ3dQI125sl6ZaWgFBqJrusTL8zCgPLstDQoG1K150BHN_ohIqvWdNNi_9qBQs8FKl1mgnYxQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FZ3t51J6EWDTCUs2NZK3ujISThAcvYz4x9dH38DGBZHYO3Od7osNa7VQBk5P9IvXjhUXvsRUmIcfrNP4M4zy4KoEjP2L8JdJlKXomXGZUEf81_NFsFbsYJ0dNebeJuw8qtUWYhsIduyISZMy_o-hk31VgdJzOy93j3fpo1FSuskm_jbuZggb-W1dy_UZfzd29TQVzU60bQuH0E36V-Vd3Yd7MO-5xBXd19TOft4DFEkSSuyMx1mKFC68fnC5L4aO-vW3V5gpKVTzFPTLWco5ABus_J7PToimqZcRtbWBnu3DB2SXig",
+            "q": "Accountant fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FZ3t51J6EWDTCUs2NZK3ujISThAcvYz4x9dH38DGBZHYO3Od7osNa7VQBk5P9IvXjhUXvsRUmIcfrNP4M4zy4KoEjP2L8JdJlKXomXGZUEf81_NFsFbsYJ0dNebeJuw8qtUWYhsIduyISZMy_o-hk31VgdJzOy93j3fpo1FSuskm_jbuZggb-W1dy_UZfzd29TQVzU60bQuH0E36V-Vd3Yd7MO-5xBXd19TOft4DFEkSSuyMx1mKFC68fnC5L4aO-vW3V5gpKVTzFPTLWco5ABus_J7PToimqZcRtbWBnu3DB2SXig&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FZ3t51J6EWDTCUs2NZK3ujISThAcvYz4x9dH38DGBZHYO3Od7osNa7VQBk5P9IvXjhUXvsRUmIcfrNP4M4zy4KoEjP2L8JdJlKXomXGZUEf81_NFsFbsYJ0dNebeJuw8qtUWYhsIduyISZMy_o-hk31VgdJzOy93j3fpo1FSuskm_jbuZggb-W1dy_UZfzd29TQVzU60bQuH0E36V-Vd3Yd7MO-5xBXd19TOft4DFEkSSuyMx1mKFC68fnC5L4aO-vW3V5gpKVTzFPTLWco5ABus_J7PToimqZcRtbWBnu3DB2SXig"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccmtgvFxmvd1asgKzXfJFj6vbk4y4PHfbNNlhXq467R0Mgx_Ll-KQmR9XKWO38CfUdRIpqEFgVWdkr0d4Mko_25llmqezpoNn54kweQXH5ToNF3u4jcgn-bZ1uIyKGGUz7O32AFhIuCLDPbx6iRCDJ37WTQzUlSVq2ERnMOTd8bAxZPBPXLuXBJgIxO45wUNZ11OhTAng9l7YL1zWIlUL-xSXFUqAeanhEQ2tsX7trbXttmJyGNWEhM6PLpch7wYG1DO3DQk9KXyg_kk3FTaGXDL_ehbfZuHbfmh0Q80GPEC9QXgcuw",
+            "q": "Accountant fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccmtgvFxmvd1asgKzXfJFj6vbk4y4PHfbNNlhXq467R0Mgx_Ll-KQmR9XKWO38CfUdRIpqEFgVWdkr0d4Mko_25llmqezpoNn54kweQXH5ToNF3u4jcgn-bZ1uIyKGGUz7O32AFhIuCLDPbx6iRCDJ37WTQzUlSVq2ERnMOTd8bAxZPBPXLuXBJgIxO45wUNZ11OhTAng9l7YL1zWIlUL-xSXFUqAeanhEQ2tsX7trbXttmJyGNWEhM6PLpch7wYG1DO3DQk9KXyg_kk3FTaGXDL_ehbfZuHbfmh0Q80GPEC9QXgcuw&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccmtgvFxmvd1asgKzXfJFj6vbk4y4PHfbNNlhXq467R0Mgx_Ll-KQmR9XKWO38CfUdRIpqEFgVWdkr0d4Mko_25llmqezpoNn54kweQXH5ToNF3u4jcgn-bZ1uIyKGGUz7O32AFhIuCLDPbx6iRCDJ37WTQzUlSVq2ERnMOTd8bAxZPBPXLuXBJgIxO45wUNZ11OhTAng9l7YL1zWIlUL-xSXFUqAeanhEQ2tsX7trbXttmJyGNWEhM6PLpch7wYG1DO3DQk9KXyg_kk3FTaGXDL_ehbfZuHbfmh0Q80GPEC9QXgcuw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGXEeYfbKBqJUFul0SV-AZD3Tdjq7oAotkt0dE4mUi7Gjb266ZkZSdSpGuVwKkfNs3md0ME1ll5FoOeMnACqL2mVkLGgiy0O6ZTtGXx6XYb_wwRqLCjuNmkXe_JJ3uY9nNVXst03PTk7tlBKqPIASnaBRySexlR1cHmeaxM2A6zm8JqWMmNFxRBUF2zprCSHK5lF2thtWf5j9MKC5mVR16P65GrLGjsuX9HMGAq-9EIuhXef4SkvLoffsNhLGZQQo_IAW5xPXnI2jfIcAhyDGfcelMrihQ",
+            "q": "Accountant fresher full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGXEeYfbKBqJUFul0SV-AZD3Tdjq7oAotkt0dE4mUi7Gjb266ZkZSdSpGuVwKkfNs3md0ME1ll5FoOeMnACqL2mVkLGgiy0O6ZTtGXx6XYb_wwRqLCjuNmkXe_JJ3uY9nNVXst03PTk7tlBKqPIASnaBRySexlR1cHmeaxM2A6zm8JqWMmNFxRBUF2zprCSHK5lF2thtWf5j9MKC5mVR16P65GrLGjsuX9HMGAq-9EIuhXef4SkvLoffsNhLGZQQo_IAW5xPXnI2jfIcAhyDGfcelMrihQ&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGXEeYfbKBqJUFul0SV-AZD3Tdjq7oAotkt0dE4mUi7Gjb266ZkZSdSpGuVwKkfNs3md0ME1ll5FoOeMnACqL2mVkLGgiy0O6ZTtGXx6XYb_wwRqLCjuNmkXe_JJ3uY9nNVXst03PTk7tlBKqPIASnaBRySexlR1cHmeaxM2A6zm8JqWMmNFxRBUF2zprCSHK5lF2thtWf5j9MKC5mVR16P65GrLGjsuX9HMGAq-9EIuhXef4SkvLoffsNhLGZQQo_IAW5xPXnI2jfIcAhyDGfcelMrihQ"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGUmm8AT-wGfeBhiWyC58Dnaj2NQU_3toQc3ON0csSuEYVRAOR12Of8R2bwk4eds7LWYjqXQevjbsxS6advbK5dYNqPay92gSHDMhzbMjGlZSwZZu2w0kfMDsOHNCjOZuaKwMs4bIdqdX36lTiRjuNL2uxgntD0ZwuV7n6RnDURcMGmp31O1sX9fT3-nCA9bGaGyNtIKnOVuOsPShz7bXIJ3dQI125sl6ZaWgFBqJrusTL8zCgPLstDQoG1K150BHN_ohIqvWdNNi_9qBQs8FKl1mgnYxQ",
+            "q": "Accountant fresher part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGUmm8AT-wGfeBhiWyC58Dnaj2NQU_3toQc3ON0csSuEYVRAOR12Of8R2bwk4eds7LWYjqXQevjbsxS6advbK5dYNqPay92gSHDMhzbMjGlZSwZZu2w0kfMDsOHNCjOZuaKwMs4bIdqdX36lTiRjuNL2uxgntD0ZwuV7n6RnDURcMGmp31O1sX9fT3-nCA9bGaGyNtIKnOVuOsPShz7bXIJ3dQI125sl6ZaWgFBqJrusTL8zCgPLstDQoG1K150BHN_ohIqvWdNNi_9qBQs8FKl1mgnYxQ&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOqc-1yCNP4y42Re0-UtlyGUmm8AT-wGfeBhiWyC58Dnaj2NQU_3toQc3ON0csSuEYVRAOR12Of8R2bwk4eds7LWYjqXQevjbsxS6advbK5dYNqPay92gSHDMhzbMjGlZSwZZu2w0kfMDsOHNCjOZuaKwMs4bIdqdX36lTiRjuNL2uxgntD0ZwuV7n6RnDURcMGmp31O1sX9fT3-nCA9bGaGyNtIKnOVuOsPShz7bXIJ3dQI125sl6ZaWgFBqJrusTL8zCgPLstDQoG1K150BHN_ohIqvWdNNi_9qBQs8FKl1mgnYxQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FZ3t51J6EWDTCUs2NZK3ujISThAcvYz4x9dH38DGBZHYO3Od7osNa7VQBk5P9IvXjhUXvsRUmIcfrNP4M4zy4KoEjP2L8JdJlKXomXGZUEf81_NFsFbsYJ0dNebeJuw8qtUWYhsIduyISZMy_o-hk31VgdJzOy93j3fpo1FSuskm_jbuZggb-W1dy_UZfzd29TQVzU60bQuH0E36V-Vd3Yd7MO-5xBXd19TOft4DFEkSSuyMx1mKFC68fnC5L4aO-vW3V5gpKVTzFPTLWco5ABus_J7PToimqZcRtbWBnu3DB2SXig",
+            "q": "Accountant fresher contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FZ3t51J6EWDTCUs2NZK3ujISThAcvYz4x9dH38DGBZHYO3Od7osNa7VQBk5P9IvXjhUXvsRUmIcfrNP4M4zy4KoEjP2L8JdJlKXomXGZUEf81_NFsFbsYJ0dNebeJuw8qtUWYhsIduyISZMy_o-hk31VgdJzOy93j3fpo1FSuskm_jbuZggb-W1dy_UZfzd29TQVzU60bQuH0E36V-Vd3Yd7MO-5xBXd19TOft4DFEkSSuyMx1mKFC68fnC5L4aO-vW3V5gpKVTzFPTLWco5ABus_J7PToimqZcRtbWBnu3DB2SXig&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FZ3t51J6EWDTCUs2NZK3ujISThAcvYz4x9dH38DGBZHYO3Od7osNa7VQBk5P9IvXjhUXvsRUmIcfrNP4M4zy4KoEjP2L8JdJlKXomXGZUEf81_NFsFbsYJ0dNebeJuw8qtUWYhsIduyISZMy_o-hk31VgdJzOy93j3fpo1FSuskm_jbuZggb-W1dy_UZfzd29TQVzU60bQuH0E36V-Vd3Yd7MO-5xBXd19TOft4DFEkSSuyMx1mKFC68fnC5L4aO-vW3V5gpKVTzFPTLWco5ABus_J7PToimqZcRtbWBnu3DB2SXig"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccmtgvFxmvd1asgKzXfJFj6vbk4y4PHfbNNlhXq467R0Mgx_Ll-KQmR9XKWO38CfUdRIpqEFgVWdkr0d4Mko_25llmqezpoNn54kweQXH5ToNF3u4jcgn-bZ1uIyKGGUz7O32AFhIuCLDPbx6iRCDJ37WTQzUlSVq2ERnMOTd8bAxZPBPXLuXBJgIxO45wUNZ11OhTAng9l7YL1zWIlUL-xSXFUqAeanhEQ2tsX7trbXttmJyGNWEhM6PLpch7wYG1DO3DQk9KXyg_kk3FTaGXDL_ehbfZuHbfmh0Q80GPEC9QXgcuw",
+            "q": "Accountant fresher internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccmtgvFxmvd1asgKzXfJFj6vbk4y4PHfbNNlhXq467R0Mgx_Ll-KQmR9XKWO38CfUdRIpqEFgVWdkr0d4Mko_25llmqezpoNn54kweQXH5ToNF3u4jcgn-bZ1uIyKGGUz7O32AFhIuCLDPbx6iRCDJ37WTQzUlSVq2ERnMOTd8bAxZPBPXLuXBJgIxO45wUNZ11OhTAng9l7YL1zWIlUL-xSXFUqAeanhEQ2tsX7trbXttmJyGNWEhM6PLpch7wYG1DO3DQk9KXyg_kk3FTaGXDL_ehbfZuHbfmh0Q80GPEC9QXgcuw&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccmtgvFxmvd1asgKzXfJFj6vbk4y4PHfbNNlhXq467R0Mgx_Ll-KQmR9XKWO38CfUdRIpqEFgVWdkr0d4Mko_25llmqezpoNn54kweQXH5ToNF3u4jcgn-bZ1uIyKGGUz7O32AFhIuCLDPbx6iRCDJ37WTQzUlSVq2ERnMOTd8bAxZPBPXLuXBJgIxO45wUNZ11OhTAng9l7YL1zWIlUL-xSXFUqAeanhEQ2tsX7trbXttmJyGNWEhM6PLpch7wYG1DO3DQk9KXyg_kk3FTaGXDL_ehbfZuHbfmh0Q80GPEC9QXgcuw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YizjrMESHhHpcDOZZN0U57bPBlFRdtXXOTgHJam6JiNNJUkNs79ve86E8Zx_gegizxfE6M-0AivS4_dQRBMnSqB3-tEYiA_Jh_ItM4m837H5aNoFf3Fjmr_UEICRgGFDkSJnymcKBpDtWwxK4v8mxj54ax5-Cx_xM172o5kBH1mxHDDqjZmKLppoLbAgI1lXO2PxYdsiMSshMR3pJlebmW0CiY3OMpvTqisKGuhaXEtx_b9b18Jv0IA0m08eZc7i8ZTwsjVYbmClbbOTmDj7LmMjOl-EltIGJjQTyWmxJ4DV-eaCM0XBhOjv1B1rxcgySok4QSA",
+            "q": "Accountant fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YizjrMESHhHpcDOZZN0U57bPBlFRdtXXOTgHJam6JiNNJUkNs79ve86E8Zx_gegizxfE6M-0AivS4_dQRBMnSqB3-tEYiA_Jh_ItM4m837H5aNoFf3Fjmr_UEICRgGFDkSJnymcKBpDtWwxK4v8mxj54ax5-Cx_xM172o5kBH1mxHDDqjZmKLppoLbAgI1lXO2PxYdsiMSshMR3pJlebmW0CiY3OMpvTqisKGuhaXEtx_b9b18Jv0IA0m08eZc7i8ZTwsjVYbmClbbOTmDj7LmMjOl-EltIGJjQTyWmxJ4DV-eaCM0XBhOjv1B1rxcgySok4QSA&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YizjrMESHhHpcDOZZN0U57bPBlFRdtXXOTgHJam6JiNNJUkNs79ve86E8Zx_gegizxfE6M-0AivS4_dQRBMnSqB3-tEYiA_Jh_ItM4m837H5aNoFf3Fjmr_UEICRgGFDkSJnymcKBpDtWwxK4v8mxj54ax5-Cx_xM172o5kBH1mxHDDqjZmKLppoLbAgI1lXO2PxYdsiMSshMR3pJlebmW0CiY3OMpvTqisKGuhaXEtx_b9b18Jv0IA0m08eZc7i8ZTwsjVYbmClbbOTmDj7LmMjOl-EltIGJjQTyWmxJ4DV-eaCM0XBhOjv1B1rxcgySok4QSA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSXR092H4bMt-eymNso6Lv0OJDdOQ7DpzLgFSOD2BDjykVV9KVrlNxZi6r6Q2DBg5PFPrzGMs4-Lf3cXkWBjcg20c75dfV5G7wWEbUiF65J-_Xte4_GkQaUv7sMMFS15wlScffyNn4ABAD7SqsmtslfjMMqN7mqZ20vNQiToC_Ky-2PGfS10LsaoZxGaEVyGRmJ9xScN9JkXedpDcJCjdonSt1pOGyxy1NJihb0Loz-Cx_v29B-UIK6LyIPr14A_oC85yxmM-FwpmijCK8TiTxlT3iyeg7RbzP1Rp8Eywqr2zRCa45JETv4cffmr0oGPFA9I68U",
+            "q": "Accountant fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSXR092H4bMt-eymNso6Lv0OJDdOQ7DpzLgFSOD2BDjykVV9KVrlNxZi6r6Q2DBg5PFPrzGMs4-Lf3cXkWBjcg20c75dfV5G7wWEbUiF65J-_Xte4_GkQaUv7sMMFS15wlScffyNn4ABAD7SqsmtslfjMMqN7mqZ20vNQiToC_Ky-2PGfS10LsaoZxGaEVyGRmJ9xScN9JkXedpDcJCjdonSt1pOGyxy1NJihb0Loz-Cx_v29B-UIK6LyIPr14A_oC85yxmM-FwpmijCK8TiTxlT3iyeg7RbzP1Rp8Eywqr2zRCa45JETv4cffmr0oGPFA9I68U&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSXR092H4bMt-eymNso6Lv0OJDdOQ7DpzLgFSOD2BDjykVV9KVrlNxZi6r6Q2DBg5PFPrzGMs4-Lf3cXkWBjcg20c75dfV5G7wWEbUiF65J-_Xte4_GkQaUv7sMMFS15wlScffyNn4ABAD7SqsmtslfjMMqN7mqZ20vNQiToC_Ky-2PGfS10LsaoZxGaEVyGRmJ9xScN9JkXedpDcJCjdonSt1pOGyxy1NJihb0Loz-Cx_v29B-UIK6LyIPr14A_oC85yxmM-FwpmijCK8TiTxlT3iyeg7RbzP1Rp8Eywqr2zRCa45JETv4cffmr0oGPFA9I68U"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspK7X64FPyoA_U4pWPo9iK_hbLg-QGrDRogfdAjjctLJpSlMhwyQAyBWlwAB0HdejTg4f2SXgg8yqvgcDcpmaOVuL_L6fnu3tP6P-QEgYyWKk-eiBvybG7s5hU0EhSwu-RflKfr2ss9XAKdS3bfGvekLcVE2xutyU1grS6Gry_1XMycJ87SnwpNSbbsBhhseG8JLrR0J5WxtegZSI30e54eiX-7AS16BQIN51T9dEKCXd9XMiyLhftGuYumVvx0BUBH_uDkZabDVb9YiDG7vv-FhQBvGOBX600If0pkoVrOeqb0lQdeOLOTiGYImwSr4NERaEks",
+            "q": "Accountant fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspK7X64FPyoA_U4pWPo9iK_hbLg-QGrDRogfdAjjctLJpSlMhwyQAyBWlwAB0HdejTg4f2SXgg8yqvgcDcpmaOVuL_L6fnu3tP6P-QEgYyWKk-eiBvybG7s5hU0EhSwu-RflKfr2ss9XAKdS3bfGvekLcVE2xutyU1grS6Gry_1XMycJ87SnwpNSbbsBhhseG8JLrR0J5WxtegZSI30e54eiX-7AS16BQIN51T9dEKCXd9XMiyLhftGuYumVvx0BUBH_uDkZabDVb9YiDG7vv-FhQBvGOBX600If0pkoVrOeqb0lQdeOLOTiGYImwSr4NERaEks&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspK7X64FPyoA_U4pWPo9iK_hbLg-QGrDRogfdAjjctLJpSlMhwyQAyBWlwAB0HdejTg4f2SXgg8yqvgcDcpmaOVuL_L6fnu3tP6P-QEgYyWKk-eiBvybG7s5hU0EhSwu-RflKfr2ss9XAKdS3bfGvekLcVE2xutyU1grS6Gry_1XMycJ87SnwpNSbbsBhhseG8JLrR0J5WxtegZSI30e54eiX-7AS16BQIN51T9dEKCXd9XMiyLhftGuYumVvx0BUBH_uDkZabDVb9YiDG7vv-FhQBvGOBX600If0pkoVrOeqb0lQdeOLOTiGYImwSr4NERaEks"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxjOFB9aAnF8T4PZ_17e0pLtxTFOzKDqqIuWhkyzoMoWyDiCmdPhucL9_H48_BsAZb1W78431N4M2ZdMfxrd361hPlan1fBOov46HvBus3mMefO5eX-WHxTGUSq9LSrJpfkqJy03F6rFJZBTSKqqmbPxPqHFxDvOOs1UcWvmLbtLBXOPo3RMNI1oJcupKftUHPeJT0F4naQa0XnbcUJprpLwEF4C9LK4Lvut-Bqo0r6By5b9zBPwWGu19dK4ReKs4CIcRpzzzTEQWNAoqqhfus2jamr2jj_Dh7sT7YG8K_oCFSgCED9-M4MQRoT6yAXOWI66uL5w",
+            "q": "Accountant fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxjOFB9aAnF8T4PZ_17e0pLtxTFOzKDqqIuWhkyzoMoWyDiCmdPhucL9_H48_BsAZb1W78431N4M2ZdMfxrd361hPlan1fBOov46HvBus3mMefO5eX-WHxTGUSq9LSrJpfkqJy03F6rFJZBTSKqqmbPxPqHFxDvOOs1UcWvmLbtLBXOPo3RMNI1oJcupKftUHPeJT0F4naQa0XnbcUJprpLwEF4C9LK4Lvut-Bqo0r6By5b9zBPwWGu19dK4ReKs4CIcRpzzzTEQWNAoqqhfus2jamr2jj_Dh7sT7YG8K_oCFSgCED9-M4MQRoT6yAXOWI66uL5w&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxjOFB9aAnF8T4PZ_17e0pLtxTFOzKDqqIuWhkyzoMoWyDiCmdPhucL9_H48_BsAZb1W78431N4M2ZdMfxrd361hPlan1fBOov46HvBus3mMefO5eX-WHxTGUSq9LSrJpfkqJy03F6rFJZBTSKqqmbPxPqHFxDvOOs1UcWvmLbtLBXOPo3RMNI1oJcupKftUHPeJT0F4naQa0XnbcUJprpLwEF4C9LK4Lvut-Bqo0r6By5b9zBPwWGu19dK4ReKs4CIcRpzzzTEQWNAoqqhfus2jamr2jj_Dh7sT7YG8K_oCFSgCED9-M4MQRoT6yAXOWI66uL5w"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YizjrMESHhHpcDOZZN0U57bPBlFRdtXXOTgHJam6JiNNJUkNs79ve86E8Zx_gegizxfE6M-0AivS4_dQRBMnSqB3-tEYiA_Jh_ItM4m837H5aNoFf3Fjmr_UEICRgGFDkSJnymcKBpDtWwxK4v8mxj54ax5-Cx_xM172o5kBH1mxHDDqjZmKLppoLbAgI1lXO2PxYdsiMSshMR3pJlebmW0CiY3OMpvTqisKGuhaXEtx_b9b18Jv0IA0m08eZc7i8ZTwsjVYbmClbbOTmDj7LmMjOl-EltIGJjQTyWmxJ4DV-eaCM0XBhOjv1B1rxcgySok4QSA",
+            "q": "Accountant fresher since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YizjrMESHhHpcDOZZN0U57bPBlFRdtXXOTgHJam6JiNNJUkNs79ve86E8Zx_gegizxfE6M-0AivS4_dQRBMnSqB3-tEYiA_Jh_ItM4m837H5aNoFf3Fjmr_UEICRgGFDkSJnymcKBpDtWwxK4v8mxj54ax5-Cx_xM172o5kBH1mxHDDqjZmKLppoLbAgI1lXO2PxYdsiMSshMR3pJlebmW0CiY3OMpvTqisKGuhaXEtx_b9b18Jv0IA0m08eZc7i8ZTwsjVYbmClbbOTmDj7LmMjOl-EltIGJjQTyWmxJ4DV-eaCM0XBhOjv1B1rxcgySok4QSA&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9YizjrMESHhHpcDOZZN0U57bPBlFRdtXXOTgHJam6JiNNJUkNs79ve86E8Zx_gegizxfE6M-0AivS4_dQRBMnSqB3-tEYiA_Jh_ItM4m837H5aNoFf3Fjmr_UEICRgGFDkSJnymcKBpDtWwxK4v8mxj54ax5-Cx_xM172o5kBH1mxHDDqjZmKLppoLbAgI1lXO2PxYdsiMSshMR3pJlebmW0CiY3OMpvTqisKGuhaXEtx_b9b18Jv0IA0m08eZc7i8ZTwsjVYbmClbbOTmDj7LmMjOl-EltIGJjQTyWmxJ4DV-eaCM0XBhOjv1B1rxcgySok4QSA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSXR092H4bMt-eymNso6Lv0OJDdOQ7DpzLgFSOD2BDjykVV9KVrlNxZi6r6Q2DBg5PFPrzGMs4-Lf3cXkWBjcg20c75dfV5G7wWEbUiF65J-_Xte4_GkQaUv7sMMFS15wlScffyNn4ABAD7SqsmtslfjMMqN7mqZ20vNQiToC_Ky-2PGfS10LsaoZxGaEVyGRmJ9xScN9JkXedpDcJCjdonSt1pOGyxy1NJihb0Loz-Cx_v29B-UIK6LyIPr14A_oC85yxmM-FwpmijCK8TiTxlT3iyeg7RbzP1Rp8Eywqr2zRCa45JETv4cffmr0oGPFA9I68U",
+            "q": "Accountant fresher in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSXR092H4bMt-eymNso6Lv0OJDdOQ7DpzLgFSOD2BDjykVV9KVrlNxZi6r6Q2DBg5PFPrzGMs4-Lf3cXkWBjcg20c75dfV5G7wWEbUiF65J-_Xte4_GkQaUv7sMMFS15wlScffyNn4ABAD7SqsmtslfjMMqN7mqZ20vNQiToC_Ky-2PGfS10LsaoZxGaEVyGRmJ9xScN9JkXedpDcJCjdonSt1pOGyxy1NJihb0Loz-Cx_v29B-UIK6LyIPr14A_oC85yxmM-FwpmijCK8TiTxlT3iyeg7RbzP1Rp8Eywqr2zRCa45JETv4cffmr0oGPFA9I68U&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSXR092H4bMt-eymNso6Lv0OJDdOQ7DpzLgFSOD2BDjykVV9KVrlNxZi6r6Q2DBg5PFPrzGMs4-Lf3cXkWBjcg20c75dfV5G7wWEbUiF65J-_Xte4_GkQaUv7sMMFS15wlScffyNn4ABAD7SqsmtslfjMMqN7mqZ20vNQiToC_Ky-2PGfS10LsaoZxGaEVyGRmJ9xScN9JkXedpDcJCjdonSt1pOGyxy1NJihb0Loz-Cx_v29B-UIK6LyIPr14A_oC85yxmM-FwpmijCK8TiTxlT3iyeg7RbzP1Rp8Eywqr2zRCa45JETv4cffmr0oGPFA9I68U"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspK7X64FPyoA_U4pWPo9iK_hbLg-QGrDRogfdAjjctLJpSlMhwyQAyBWlwAB0HdejTg4f2SXgg8yqvgcDcpmaOVuL_L6fnu3tP6P-QEgYyWKk-eiBvybG7s5hU0EhSwu-RflKfr2ss9XAKdS3bfGvekLcVE2xutyU1grS6Gry_1XMycJ87SnwpNSbbsBhhseG8JLrR0J5WxtegZSI30e54eiX-7AS16BQIN51T9dEKCXd9XMiyLhftGuYumVvx0BUBH_uDkZabDVb9YiDG7vv-FhQBvGOBX600If0pkoVrOeqb0lQdeOLOTiGYImwSr4NERaEks",
+            "q": "Accountant fresher in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspK7X64FPyoA_U4pWPo9iK_hbLg-QGrDRogfdAjjctLJpSlMhwyQAyBWlwAB0HdejTg4f2SXgg8yqvgcDcpmaOVuL_L6fnu3tP6P-QEgYyWKk-eiBvybG7s5hU0EhSwu-RflKfr2ss9XAKdS3bfGvekLcVE2xutyU1grS6Gry_1XMycJ87SnwpNSbbsBhhseG8JLrR0J5WxtegZSI30e54eiX-7AS16BQIN51T9dEKCXd9XMiyLhftGuYumVvx0BUBH_uDkZabDVb9YiDG7vv-FhQBvGOBX600If0pkoVrOeqb0lQdeOLOTiGYImwSr4NERaEks&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspK7X64FPyoA_U4pWPo9iK_hbLg-QGrDRogfdAjjctLJpSlMhwyQAyBWlwAB0HdejTg4f2SXgg8yqvgcDcpmaOVuL_L6fnu3tP6P-QEgYyWKk-eiBvybG7s5hU0EhSwu-RflKfr2ss9XAKdS3bfGvekLcVE2xutyU1grS6Gry_1XMycJ87SnwpNSbbsBhhseG8JLrR0J5WxtegZSI30e54eiX-7AS16BQIN51T9dEKCXd9XMiyLhftGuYumVvx0BUBH_uDkZabDVb9YiDG7vv-FhQBvGOBX600If0pkoVrOeqb0lQdeOLOTiGYImwSr4NERaEks"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxjOFB9aAnF8T4PZ_17e0pLtxTFOzKDqqIuWhkyzoMoWyDiCmdPhucL9_H48_BsAZb1W78431N4M2ZdMfxrd361hPlan1fBOov46HvBus3mMefO5eX-WHxTGUSq9LSrJpfkqJy03F6rFJZBTSKqqmbPxPqHFxDvOOs1UcWvmLbtLBXOPo3RMNI1oJcupKftUHPeJT0F4naQa0XnbcUJprpLwEF4C9LK4Lvut-Bqo0r6By5b9zBPwWGu19dK4ReKs4CIcRpzzzTEQWNAoqqhfus2jamr2jj_Dh7sT7YG8K_oCFSgCED9-M4MQRoT6yAXOWI66uL5w",
+            "q": "Accountant fresher in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnv38dAQs97fe4Te_r_indW-x_LNOA:1791544786175&q=Accountant+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxjOFB9aAnF8T4PZ_17e0pLtxTFOzKDqqIuWhkyzoMoWyDiCmdPhucL9_H48_BsAZb1W78431N4M2ZdMfxrd361hPlan1fBOov46HvBus3mMefO5eX-WHxTGUSq9LSrJpfkqJy03F6rFJZBTSKqqmbPxPqHFxDvOOs1UcWvmLbtLBXOPo3RMNI1oJcupKftUHPeJT0F4naQa0XnbcUJprpLwEF4C9LK4Lvut-Bqo0r6By5b9zBPwWGu19dK4ReKs4CIcRpzzzTEQWNAoqqhfus2jamr2jj_Dh7sT7YG8K_oCFSgCED9-M4MQRoT6yAXOWI66uL5w&udm=8&sa=X&ved=2ahUKEwjk2dC06KyXAxUVqCsGHf3OMBEQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&q=Accountant+fresher+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53MxjOFB9aAnF8T4PZ_17e0pLtxTFOzKDqqIuWhkyzoMoWyDiCmdPhucL9_H48_BsAZb1W78431N4M2ZdMfxrd361hPlan1fBOov46HvBus3mMefO5eX-WHxTGUSq9LSrJpfkqJy03F6rFJZBTSKqqmbPxPqHFxDvOOs1UcWvmLbtLBXOPo3RMNI1oJcupKftUHPeJT0F4naQa0XnbcUJprpLwEF4C9LK4Lvut-Bqo0r6By5b9zBPwWGu19dK4ReKs4CIcRpzzzTEQWNAoqqhfus2jamr2jj_Dh7sT7YG8K_oCFSgCED9-M4MQRoT6yAXOWI66uL5w"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Accountant - Fresher jobs in Indore",
+      "company_name": "MetroHires",
+      "location": "Indore, Madhya Pradesh",
+      "via": "MetroHires",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant+fresher&htidocid=8pPWLwLOEH1hc6NiAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0WOOw7CQAwFRZsjULmgQpBFSDRAQ8OniMQNImdjZYMWO1obKXTcgRNwNU5CUtG8YoqZl30m2f7gvTzYkA2WcEykgRLcpFJoGS5cSyL4vt4jAiVMPoAwnESaSNNdMOt065xqzBs1tNbnXu5OmCrp3egZp9SAibqIRuV6s-rzjpv5rCBLcm6H5r-1gALr8ES4JqyHMz_Mz9BApAAAAA&shmds=v1_ARwrE20lzGLruTffDe3abixI2f3hLzJEhsJOT00FNNbhzugVSA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant+fresher&htidocid=8pPWLwLOEH1hc6NiAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8cdd131aafeafa1d787ae/images/9p47PVyP39VlHqaoRA0WhE6NBXcMPoSYqv_DH4w2ZIk.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://metrohires.com/jobs/fresher-accountant-jobs-in-indore-mp",
+      "job_title": "Accountant - Fresher jobs in Indore",
+      "description": "We are hiring for Fresher Accountant in Indore. This role is ideal for candidates who have basic to good knowledge of accounting work such as billing, bookkeeping, GST, TDS, and record maintenance. Freshers and experienced candidates can apply for this full-time Accountant job in Indore.\n\nAs an Accountant, you will handle daily accounting tasks, maintain financial records, and support payment and billing activities. This Accounting job in Indore requires attention to detail, basic accounting knowledge, and regular coordination with internal teams.\n\nJob Title: Accountant\n\nJob Location: Indore Madhya Pradesh\n\nJob Type: Full-Time\n\nSalary: ₹18,000 – ₹22,000 per month (Salary depends on skills and experience)\n\nEducation Qualification\n\nMinimum 12th PassGraduation in Commerce, Accounting, or related field preferredExperience\n\n0 – 1 YearsIndore Freshers can also applyKey Responsibilities\n\nMaintain daily accounting entries and recordsHandle billing, invoicing, and payment trackingAssist in GST, TDS, and basic tax-related workUpdate financial data in accounting software or ExcelMaintain payment records and outstanding reportsCoordinate with internal accounts and finance teamSupport monthly and yearly account closing activitiesEnsure accuracy in data entry and documentation \n\nRequired Skills to Apply Account Jobs in Indore MP\n\nBasic knowledge of accounting principlesUnderstanding of GST, TDS, and invoicingMS Excel and basic computer knowledgeAttention to detail and accuracyGood communication and coordination skillsTime management and organized work style \n\nPreferred Candidate Profile\n\nCommerce background preferredWilling to learn and grow in accounting fieldHonest, reliable, and responsibleComfortable working in office environment in Indore. \n\nBenefits\n\nFixed monthly salaryLearning opportunity in accounts and financeCareer growth for freshersStable full-time jobSupportive work environment \n\nHow to Apply: Interested candidates can apply directly through the job portal. Apply now for this Accountant Vacancy in Indore Madhya Pradesh and start your career in accounting.",
+      "apply_options": [
+        {
+          "title": "MetroHires",
+          "link": "https://metrohires.com/jobs/fresher-accountant-jobs-in-indore-mp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50YW50IC0gRnJlc2hlciBqb2JzIGluIEluZG9yZSIsImNvbXBhbnlfbmFtZSI6Ik1ldHJvSGlyZXMiLCJodGlkb2NpZCI6IjhwUFdMd0xPRUgxaGM2TmlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lrU1c1a2IzSmxJRVJwZG1semFXOXVMRTFoWkdoNVlTQlFjbUZrWlhOb0xFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTWGgzWHpRM1YwTkxUakI1YVRObVNIRm1iR0ZuUTA5dlMySkdVRVJvU25aSGMwZENYMGxoWmtnemRXUlFiV3RsYldkcWJWZFVXbk5mUjFWWGIzQlRWM2hRTFRGR1RsZGZWVWxoVldwcVNuRnpUak5qWjIxdlVqaE9UMWhSUm0xcFZsQnVSblJqYTNNNGQxRm9TRzFTT0VKeFFqSTRNM1ZyYWpWeGJXTktORmhwZVVKUFMzQVNGekJ6TTBsaGRWTnZRM0JZVVhKMVJWQmZXak5FYVZGRkdpSkJSSE55T1daVFNFcHRRV3BFTlhrMlZqSnBNbXhVYVdZelYySlVkRnBzWm1oUiIsImZjdiI6IjMiLCJmY19pZCI6IjhwUFdMd0xPRUgxaGM2TmlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Tally Accountant (2 yrs. Experienced) (Indore)",
+      "company_name": "Important Group",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Kit Job",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant+fresher&htidocid=LYQqwcVQ8BV3ln-5AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yXNPQrCQBBAYWxzBKspE5FdCdhoZSEhhWBhH8bNkI1sdpadDSSdd_AkXsmT-Ne87vFlz0VWXdC5GQ7G8OgT-gR5CXMUBccpUOzJG2oLyGvfcqQCXvcH3PgKQhiNBfZQMXeOlnubUpCd1iJOdZIw9UYZHjR7uvKkP5N804jFSMFhoqbcbiYVfLcq6iFw_PFV5DFA7-EvruGErZ0RzhFbEvsGVempnLQAAAA&shmds=v1_ARwrE22i-xO-XeI7KZhGenjxSD4zjVuinh325kGTl1oKQlFXYA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant+fresher&htidocid=LYQqwcVQ8BV3ln-5AAAAAA%3D%3D",
+      "extensions": [
+        "8 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.kitjob.in/job/340528434/tally-accountant-2-yrs-experienced-indore",
+      "job_title": "Tally Accountant (2 yrs. Experienced) (Indore)",
+      "description": "As a Tally Prime Accountant, you will play a crucial role in  \nmaintaining accurate financial records and contributing to the overall  \nfinancial stability of our organisation. This is an excellent  \nopportunity for freshers to begin their career in accounting.  \n\nAs a Tally Accountant (GST Specialist), you will play a  \npivotal role in overseeing GST-related activities, ensuring accuracy  \nand compliance with tax regulations, and contributing to the  \nfinancial well-being of our company.  \n\nTALENTMARK ACADEMY CERTIFICATION IS COMPULSORY TO APPLY FOR THIS JOB.   \n\n​   \n\nKey Responsibilities:   \n\nAccounting Management   \n\n1. Data Entry and Record Keeping:  \n\n* Enter financial transactions into Tally  \nPrime with precision and maintain organised documentation.  \n\n* Ensure that all financial records are  \naccurate and up to date.  \n\n* Create basic vouchers like purchase,  \nsales, debit note, credit note, payments & receipts.  \n\n2. Bank Reconciliation:  \n\n* Regularly reconcile bank statements with  \nour financial records to identify discrepancies or errors.  \n\n* Investigate and resolve any discrepancies  \nin a timely manner.  \n\n* Maintain cheque books, management of post  \ndated payment.  \n\n3. Accounts Payable and Receivable:  \n\n* Manage accounts payable and receivable by  \ntracking invoices, payments, and outstanding balances.  \n\n* Communicate with vendors and customers to  \nresolve payment-related queries.  \n\n4. General Ledger Maintenance:  \n\n* Post journal entries to  \nthe general ledger and ensure all accounts are balanced.  \n\n* Reconcile sub-ledgers  \nand maintain accuracy in the general ledger.  \n\n5. Financial Reporting:  \n\n* Prepare various  \nfinancial reports, including income statements, balance sheets, and  \ncash flow statements.  \n\n* Present these reports to  \nthe management team to support decision-making.  \n\nInventory Management   \n\n1. Inventory Management:  \n\n* Maintain accurate  \ninventory records and monitor stock levels to prevent shortages or overstocking.  \n\n* Reconcile physical  \ninventory with system data and investigate discrepancies.  \n\n2. Batch-Wise Details:  \n\n* Manage batch-wise  \ndetails, tracking the production, purchase, and sale of each batch.  \n\n* Ensure traceability for  \nquality control and regulatory compliance.  \n\n3. Expiry Date and Batches:  \n\n* Monitor expiry dates of  \ninventory items and ensure proper rotation to minimise wastage.  \n\n* Keep detailed records of  \nbatches to enable recall and quality control.  \n\n4. Price Lists and Multiple Price Levels:  \n\n* Create and maintain  \nprice lists for products.  \n\n* Implement and manage  \nmultiple price levels for different customer groups or pricing strategies.  \n\n5. Store-Wise Inventory Reports:  \n\n* Generate store-wise  \ninventory reports to optimise stock replenishment and transfers.  \n\n* Analyse inventory data  \nto make informed decisions about stock levels and distribution.  \n\n6. Formula Manufacturing:  \n\n* Oversee formula  \nmanufacturing processes, ensuring accurate ingredient usage and  \ncompliance with regulatory standards.  \n\n* Maintain detailed  \nrecords of formulas and production batches.  \n\n7. Job Outsourcing:  \n\n* Coordinate job  \noutsourcing, including assigning tasks to external contractors and  \ntracking progress.  \n\n* Ensure quality control  \nand timely completion of outsourced jobs.  \n\n8. Job Costing:  \n\n* Implement job costing  \npractices to calculate and allocate costs accurately.  \n\n* Track expenses, labor,  \nand materials related to specific projects or jobs.  \n\nGST & Income Tax Management   \n\n1. Tax Compliance:  \n\n* Assist with tax-related  \ntasks, including the calculation and filing of GST, TDS, and other  \napplicable taxes.  \n\n* Stay current with tax  \nregulations and ensure compliance.  \n\n2. GST Compliance:  \n\n* Maintain an in-depth  \nunderstanding of GST laws, rules, and regulations, keeping abreast of  \nany changes.  \n\n* Prepare and file GST  \nreturns accurately, adhering to regulatory deadlines.  \n\n* Monitor and reconcile  \nInput Tax Credit (ITC) availability with GST returns.  \n\n3. GST Reports:  \n\n* Generate, review, and  \nvalidate various GST reports, such as GSTR-1, GSTR-3B, and GSTR-2B,  \nensuring completeness and accuracy.  \n\n* Resolve discrepancies in  \nGST report data promptly.  \n\n4. E-Way Bill Creation:  \n\n* Efficiently create E-Way  \nBills for both inter-state and intra-state transportation of goods,  \ncomplying with E-Way Bill rules.  \n\n* Maintain accurate E-Way  \nBill records and coordinate with the transportation and sales teams  \nfor seamless logistics.  \n\n5. E-Invoicing:  \n\n* Take charge of the  \nE-Invoicing process, including the generation, transmission, and  \nreconciliation of invoices, ensuring compliance with mandated  \nE-Invoicing requirements.  \n\n6. Income Tax Compliance:  \n\n* Maintain an in-depth  \nunderstanding of income tax laws, rules, and regulations, keeping  \nabreast of any changes.  \n\n* Prepare and file income  \ntax returns accurately, adhering to regulatory deadlines.  \n\n* Address income  \ntax-related inquiries and collaborate with tax authorities.  \n\n7. Income Tax Reports:  \n\n* Generate, review, and  \nvalidate various income tax reports, ensuring completeness and accuracy.  \n\n* Resolve discrepancies in  \nincome tax report data promptly.  \n\n8. TDS Challan Creation:  \n\n* Create TDS challans for  \naccurate deduction and timely remittance of TDS to the government.  \n\n* Verify and reconcile TDS  \nrecords with the company's financial transactions.  \n\n9. TCS Challan Creation:  \n\n* Handle TCS challan  \ncreation, ensuring accurate collection and remittance of TCS in  \ncompliance with regulatory requirements.  \n\n* Maintain precise TCS  \nrecords and reconcile with sales and customer data.  \n\nEmployee Payroll Management   \n\n1. Payroll Management:  \n\n* Maintain accurate  \npayroll records, including attendance, leave, and overtime.  \n\n* Calculate employee  \nsalaries, deductions, and bonuses based on attendance and other  \nrelevant factors.  \n\n2. Employee Slips:  \n\n* Generate and distribute  \nemployee payslips detailing salary components, deductions, and net pay.  \n\n* Address employee  \ninquiries and provide assistance regarding pay-related matters.  \n\n3. PF (Provident Fund) Management:  \n\n* Ensure compliance with  \nPF regulations by accurately calculating and deducting PF  \ncontributions from employees' salaries.  \n\n* Prepare and file PF  \nreturns and assist employees in PF-related matters.  \n\n4. ESI (Employee State Insurance) Compliance:  \n\n* Manage ESI compliance by  \ncalculating and deducting ESI contributions as per regulations.  \n\n* Prepare and file ESI  \nreturns and assist employees in ESI-related matters.  \n\n5. Statutory Management:  \n\n* Stay updated on labor  \nlaws and statutory requirements related to employee compensation and perks.  \n\n* Ensure compliance with  \nother statutory requirements, such as professional tax, as applicable.  \n\n6. Attendance-Based Salary:  \n\n* Create monthly employee  \nsalaries based on attendance records and relevant payroll components.  \n\n* Verify and  \ncross-reference salary calculations for accuracy.  \n\n7. Salary Disbursement:  \n\n* Oversee the disbursement  \nof salaries, ensuring timely payments to employees  \n\nRequirements\n\nRequirements:   \n\n1. A TalentMark Academy Certification is mandatory  \nfor all applicants. It will be verified on TalentMark Academy  \nWebsite https://www.talentmarkacademy.com/verify-certificate.   \n\n2. Bachelor's degree in Accounting, Finance, or a  \nrelated field is preferred but not mandatory for freshers.   \n\n3. Strong attention to detail and accuracy.   \n\n4. Proficiency in using Tally Prime accounting software.   \n\n5. Basic knowledge of accounting principles and practices.   \n\n6. Excellent organizational and time management skills.   \n\n7. Strong communication and teamwork abilities.   \n\n8. Ability to adapt to new technologies and learn quickly.   \n\n9. Freshers with a passion for accounting and a  \nwillingness to learn are strongly encouraged to apply.   \n\nHow to Apply:   \nIf you meet the qualifications and are enthusiastic  \nabout starting your career as a Tally Prime Accountant, please  \nsend your resume, and a copy of your TalentMark Academy  \nCertification to us.   \nNote: This job description is meant to provide a  \ncomprehensive overview of the job but should not be considered an  \nexhaustive list of responsibilities and requirements. Job duties  \nmay evolve as the company's needs change.\n\nBenefits\n\nBenefits:   \n1. Competitive Salary: We offer a competitive salary  \nthat reflects your skills and experience as a Tally Prime Accountant.\n\n2. Career Growth: Company is committed to employee  \ndevelopment. You will have opportunities to grow and advance your  \ncareer in accounting.\n\n3. Learning Opportunities: We support continuous  \nlearning and professional development. You can stay updated with  \nthe latest accounting practices and technologies.   \n\n4. Work-Life Balance: We understand the importance of  \nwork-life balance and provide a supportive work environment that  \nallows you to maintain it.   \n\n5. Health Benefits: We offer health insurance and  \nwellness programs to ensure your well-being.   \n\n6. Flexible Hours: Depending on the role and your  \nresponsibilities, we may offer flexible working hours.   \n\n7. Professional Network: Joining our will allow you  \nto build a professional network in the accounting and finance industry.   \n\n8. Diverse and Inclusive Environment: We value  \ndiversity and foster an inclusive work culture where every  \nemployee's perspective is respected.   \n\n9. Collaborative Team: You will work with a  \nsupportive and collaborative team that values teamwork and mutual growth.   \n\n10. Employee Recognition: We appreciate and recognize  \nour employees' hard work and dedication to the company's success.   \n\n11. Opportunity to Make an Impact: Your role as a  \nTally Prime Accountant will contribute to the financial health and  \nsuccess of the organization.   \n\n12. Job Security: Company is a stable and growing  \ncompany, providing job security and stability.   \n\n13. Involvement in Company's Financial Decisions:  \nDepending on your experience and expertise, you may have the  \nopportunity to provide insights and recommendations for financial decisions.   \n\n14. Contribution to Compliance: You will play a key  \nrole in ensuring the company's financial operations are  \ncompliant with accounting and taxation regulations.   \n\n15. Convenient Location: Company is conveniently  \nlocated, making your daily commute easier.   \n\n16. Team Building Activities: We organize  \nteam-building and social activities to foster a positive and  \ncohesive work environment.   \n\n17. Mentorship and Support: We provide mentorship and  \nsupport for professional and personal growth.",
+      "apply_options": [
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340528434/tally-accountant-2-yrs-experienced-indore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJUYWxseSBBY2NvdW50YW50ICgyIHlycy4gRXhwZXJpZW5jZWQpIChJbmRvcmUpIiwiY29tcGFueV9uYW1lIjoiSW1wb3J0YW50IEdyb3VwIiwiaHRpZG9jaWQiOiJMWVFxd2NWUThCVjNsbi01QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJa1NXNWtiM0psSUVScGRtbHphVzl1TEUxaFpHaDVZU0JRY21Ga1pYTm9MRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEY5cFNGZzVPVGN6T1ZCd05rSlNYekkyVTNWUmFFeE5UMmxSV0ZoNFpXbDBWMDQzZGxCVVJXdDJlV1J6YldoeGMzcEpObmR6UVU1VGRGVldNSFJIYlZGTlJFdHFjalJ2VkU5a1pqQnFTM1ExTVhsYWVFUlJUa0kxTVdoTlYwZFJOVFV3VERFemQyUmphMFJ0YW13eVpsZFJkMEpKTmtwaWVGSndTRlk1VlVaQ01ERjJhbXNTRnpCek0wbGhkVk52UTNCWVVYSjFSVkJmV2pORWFWRkZHaUpCUkhOeU9XWlJlamx2VjNsdE4waHVRMFozUjNKalZuVXpaM0JMTm1GeVYyeFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJMWVFxd2NWUThCVjNsbi01QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Charted Accounted - Fresher",
+      "company_name": "Jobridge",
+      "location": "Indore, Madhya Pradesh",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Accountant+fresher&htidocid=9_0dO4htOiskLlK7AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBBFsc0RrAZL0ayINqYSQVEQvEGY7A67K3EnzKwQO-9g4f08iUnzec17v_hOis0hoGRysLeWn2mkJRyFNJDA7_2BOzeghGIDcIITs29pWoWcO90Zo9qWXjPmaEvLD8OJGu7NIOk4tQ516lrMVK-3q77skp_PLtxIdJ4gJjgnx0ILuKILL4SboBu-_5-riJKaAAAA&shmds=v1_ARwrE216zW1DfGvZb7TbxsFXH2Qu5hJwgAAbxXxymzrC4lzcIw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Accountant+fresher&htidocid=9_0dO4htOiskLlK7AAAAAA%3D%3D",
+      "extensions": [
+        "₹4L–₹6L a year",
+        "Full–time"
+      ],
+      "source_link": "https://in.jooble.org/jdp/1569069446814142623",
+      "job_title": "Charted Accounted - Fresher",
+      "description": "Charted Accounted                        \n\n\n\n\n\n\n\n\n\n\n\nStart Date                                \n\n Starts  Immediately                            \n\n\n\n CTC (ANNUAL) \n\n₹ 4,00,000 - 6,00,000                                    ₹ 4,00,000 - 6,00,000 /year                                \n\n\n\nExperience\n                                \n\n No experience required \n\n No experience required \n\n\n\n Apply By \n\n1 Feb' 27\n\n\n\n Posted 3 weeks ago \n\n Fresher Job \n\n Be an early applicant \n\n\n\n About the job Position: Chartered Accountant Location: Bhopal Experience: 01 Year (Articleship/Pre-qualification experience considered)Job SummaryWe are looking for a qualified and motivated Chartered Accountant to join our consulting and audit team. The ideal candidate will assist in audit, taxation, financial reporting, accounting processes, and statutory compliance while working with clients across various industries.Key ResponsibilitiesConduct statutory audits, tax audits, and group reporting audits.Prepare audit plans, documentation, and audit reports.Ensure compliance with applicable auditing standards and financial reporting frameworks.Implement and improve accounting systems and processes.Prepare financial reports and maintain general ledger master data.Handle GST, Income Tax, and other statutory compliance requirements.Build and maintain strong client relationships.Supervise and mentor article trainees when required.Collaborate effectively with internal teams and support project execution.Eligibility CriteriaChartered Accountant (CA) qualified.Bachelor's degree in Commerce (B.Com).01 year of experience (Articleship experience will be considered).Knowledge of statutory audit, taxation, GST, Income Tax, and financial reporting.Proficiency in MS Office, Tally ERP, and GST/Tax compliance software.Strong analytical, communication, organizational, and problem-solving skills.Ability to work independently as well as in a team.Preferred SkillsGood understanding of accounting standards and audit procedures.Leadership potential with effective team collaboration skills.Self-motivated, detail-oriented, and committed to delivering quality work. Skills: Audit, articleship, Communication Skills, MS-Office, Tally, GStreamer, Taxation and Problem solving \n\n Skill(s) required  Audit  Communication Skills  GStreamer  MS-Office  Problem Solving  Tally  Taxation \n\n Earn certifications in these skills \n\n Salary  Probation: \n\n Duration: \n\nSalary during probation:     \n\n After probation: \n\n Annual CTC: ₹ 4,00,000 - 6,00,000 /year \n\n Number of openings 1    \n\n Editor’s note \n\nInformation above is Internshala's interpretation and paraphrasing of what we found on the shared link.\n    \n\n Additional Questions \n\n\n\n Sign up to continue \n\n\n\n Candidate sign up \n\nSign up/ Login with Google\n                    \n\nSign up with Email\n                    \n\n\n\n OR \n\nBy continuing as a candidate, you agree to our  T&C  .\n            \n\n Already registered?\n                                     Login \n\n\n\n Sign up to continue \n\n\n\n Candidate sign up \n\nSign up/ Login with Google\n                    \n\nSign up with Email\n                    \n\n\n\n OR \n\nBy continuing as a candidate, you agree to our  T&C  .\n            \n\n Already registered?\n                                     Login",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/1569069446814142623?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDaGFydGVkIEFjY291bnRlZCAtIEZyZXNoZXIiLCJjb21wYW55X25hbWUiOiJKb2JyaWRnZSIsImh0aWRvY2lkIjoiOV8wZE80aHRPaXNrTGxLN0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWtTVzVrYjNKbElFUnBkbWx6YVc5dUxFMWhaR2g1WVNCUWNtRmtaWE5vTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwZG5RM2hZTmpCNlMwVlVUak4yYzIxNFEyMXhWRkpEVWtaZmRUSnBTbUozVEVrdGNVUldaamxPZFdGbVRHZE9aRXRSVkVaTlNHeHpaa0Z5VkhnM1JHVllMV0owWXpBMWJqSmtTMU4xZEZCWlNUSm1aMTlCYzA1WlNHRnlSekUwUnpoemVHRnpRbk5XVEdsb05GQnRYMHBaVldkcGVIcEZlak54UkRjNFYxTkJYMkYwVkhZU0Z6QnpNMGxoZFZOdlEzQllVWEoxUlZCZldqTkVhVkZGR2lKQlJITnlPV1pVUVdsQlVHVlRjV2hoTlVGZk1VSmxablpLVnpCMVJGUkZjV0ozIiwiZmN2IjoiMyIsImZjX2lkIjoiOV8wZE80aHRPaXNrTGxLN0FBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTWGgzWHpRM1YwTkxUakI1YVRObVNIRm1iR0ZuUTA5dlMySkdVRVJvU25aSGMwZENYMGxoWmtnemRXUlFiV3RsYldkcWJWZFVXbk5mUjFWWGIzQlRWM2hRTFRGR1RsZGZWVWxoVldwcVNuRnpUak5qWjIxdlVqaE9UMWhSUm0xcFZsQnVSblJqYTNNNGQxRm9TRzFTT0VKeFFqSTRNM1ZyYWpWeGJXTktORmhwZVVKUFMzQVNGekJ6TTBsaGRWTnZRM0JZVVhKMVJWQmZXak5FYVZGRkdpSkJSSE55T1daVFNFcHRRV3BFTlhrMlZqSnBNbXhVYVdZelYySlVkRnBzWm1oUiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Indore%2C+India&next_page_token=eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTWGgzWHpRM1YwTkxUakI1YVRObVNIRm1iR0ZuUTA5dlMySkdVRVJvU25aSGMwZENYMGxoWmtnemRXUlFiV3RsYldkcWJWZFVXbk5mUjFWWGIzQlRWM2hRTFRGR1RsZGZWVWxoVldwcVNuRnpUak5qWjIxdlVqaE9UMWhSUm0xcFZsQnVSblJqYTNNNGQxRm9TRzFTT0VKeFFqSTRNM1ZyYWpWeGJXTktORmhwZVVKUFMzQVNGekJ6TTBsaGRWTnZRM0JZVVhKMVJWQmZXak5FYVZGRkdpSkJSSE55T1daVFNFcHRRV3BFTlhrMlZqSnBNbXhVYVdZelYySlVkRnBzWm1oUiIsImZjdiI6IjMifQ%3D%3D&q=Accountant+fresher"
+  },
+  "_retrieved_at": "2026-10-09 11:19:45 UTC"
+}

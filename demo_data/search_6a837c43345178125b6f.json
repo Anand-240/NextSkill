@@ -1,0 +1,454 @@
+{
+  "search_metadata": {
+    "id": "6ac8cd910bbc3841f0efeeab",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vIU7edqMgdyTMM30hpBLWKTeeClilNpGcJKQmadU224/6ac8cd910bbc3841f0efeeab.json",
+    "markdown_endpoint": "https://serpapi.com/searches/vIU7edqMgdyTMM30hpBLWKTeeClilNpGcJKQmadU224/6ac8cd910bbc3841f0efeeab.md",
+    "created_at": "2026-10-09 11:18:41 UTC",
+    "processed_at": "2026-10-09 11:18:41 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Django+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/vIU7edqMgdyTMM30hpBLWKTeeClilNpGcJKQmadU224/6ac8cd910bbc3841f0efeeab.html",
+    "total_time_taken": 4.89
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Django full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 1363619,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Django Tutorial for Beginners – Build Powerful Backends",
+      "link": "https://www.youtube.com/watch?v=rHux0gMZ3Eg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rHux0gMZ3Eg",
+      "video_id": "rHux0gMZ3Eg",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 3502989,
+      "length": "1:02:36",
+      "description": "Learn Django and start building amazing back-ends! This beginner-friendly course guides you through Django's essentials, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAtCZBy803abs6UwshxnVyV27jr7w"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Python Django Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours",
+      "link": "https://www.youtube.com/watch?v=Rp5vd34d-z4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Rp5vd34d-z4",
+      "video_id": "Rp5vd34d-z4",
+      "channel": {
+        "name": "Dave Gray",
+        "link": "https://www.youtube.com/@DaveGrayTeachesCode",
+        "thumbnail": "https://yt3.ggpht.com/Ki6y_thZRElVKoqzOUIGnihjRfVPkdVBqS0VsqNAbOl0sGAil5Zg_Dj0g2rftswpE_JCkGh2=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 426457,
+      "length": "3:19:49",
+      "description": "Web Dev Roadmap for Beginners (Free!): https://bit.ly/DaveGrayWebDevRoadmap This Python Django Full Course for Beginners ...",
+      "extensions": [
+        "Beginner",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Rp5vd34d-z4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBkJAII2loMRTjKLo0rZJNdCqerIA"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Django Full Crash Course - The Professional Python Web Framework",
+      "link": "https://www.youtube.com/watch?v=u1GnZfDw5LU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=u1GnZfDw5LU",
+      "video_id": "u1GnZfDw5LU",
+      "channel": {
+        "name": "NeuralNine",
+        "link": "https://www.youtube.com/@NeuralNine",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/l_2SPJx1Qd4IC01Fdlm-9cszWtmZv62ns80dOb-L-PyA5lcjdsSyjaz7LJRwBo4s9zDhtdiImw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 55775,
+      "length": "1:37:40",
+      "description": "This video today is a full crash course on Django, the professional Python web framework that comes with many batteries included ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/u1GnZfDw5LU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC0gJSpDrS9PcZVSbeIjwoFMuWKZw"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Python Django Web Framework - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=F5mRW0jo-U4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=F5mRW0jo-U4",
+      "video_id": "F5mRW0jo-U4",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 5106741,
+      "length": "3:45:41",
+      "description": "Learn the Python Django framework with this free full course. Django is an extremely popular and fully featured server-side web ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/F5mRW0jo-U4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAKtuDQclbsncnzj9Jsm-XfmVSMcA"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Django Crash Course – Python Web Framework",
+      "link": "https://www.youtube.com/watch?v=0roB7wZMLqI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0roB7wZMLqI",
+      "video_id": "0roB7wZMLqI",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 218989,
+      "length": "1:09:08",
+      "description": "In this Django crash course for beginners, you'll discover what makes Django powerful, how to set up your environment, and how ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0roB7wZMLqI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDPKETQ4lUykXBodocu-tzRcNYtYg"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Learn Django in 20 Minutes!!",
+      "link": "https://www.youtube.com/watch?v=nGIg40xs9e4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nGIg40xs9e4",
+      "video_id": "nGIg40xs9e4",
+      "channel": {
+        "name": "Tech With Tim",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 858415,
+      "length": "21:25",
+      "description": "GET MY FREE SOFTWARE DEVELOPMENT GUIDE   https://training.techwithtim.net/free-guide Learn how to build a simple ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/nGIg40xs9e4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAONh5sYW1tDhJ69-XQw2GCSbWErA"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Python Django 7 Hour Course",
+      "link": "https://www.youtube.com/watch?v=PtQiiknWUcI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PtQiiknWUcI",
+      "video_id": "PtQiiknWUcI",
+      "channel": {
+        "name": "Traversy Media",
+        "link": "https://www.youtube.com/@TraversyMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2255532,
+      "length": "7:10:05",
+      "description": "Build a discord-like application with Python Django. Visit the finished application at https://studybuddev.herokuapp.com/ Source ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/PtQiiknWUcI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-0OgCZu4egq7E3b0Rq30UzfNzDQ"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Django Tutorial for Beginners | Full Course",
+      "link": "https://www.youtube.com/watch?v=OTmQOjsl0eg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OTmQOjsl0eg",
+      "video_id": "OTmQOjsl0eg",
+      "channel": {
+        "name": "Telusko",
+        "link": "https://www.youtube.com/@Telusko",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0nsZM3NF0C9bFr2IFXicMJ1w82ldRaZvGKFnezBe2lpW7F9gI92FaLubcTghnNNt4Ld8DfRvEMo=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 2111439,
+      "length": "3:09:21",
+      "description": "Check out our courses: Agentic AI Engineering with Python : https://go.telusko.com/agentic-ai-python Coupon: TELUSKO10 (10% ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OTmQOjsl0eg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAj0egryGDnXaBavfRvlvp_WrMgWw"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Django For Beginners - Full Tutorial",
+      "link": "https://www.youtube.com/watch?v=sm1mokevMWk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sm1mokevMWk",
+      "video_id": "sm1mokevMWk",
+      "channel": {
+        "name": "Tech With Tim",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 738493,
+      "length": "3:13:54",
+      "description": "Welcome to this Django complete course. In this video, I'll be covering all the important aspects of Django that as a beginner you ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/sm1mokevMWk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC-w1ZNg9ZAn2CrY_FJ3e8ZNzmrQQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Django Full Course 🔥 | From Beginner to Pro",
+      "link": "https://www.youtube.com/watch?v=gdX7ugJvuFw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gdX7ugJvuFw",
+      "video_id": "gdX7ugJvuFw",
+      "channel": {
+        "name": "LogicInTheCode",
+        "link": "https://www.youtube.com/@LogicInTheCode",
+        "thumbnail": "https://yt3.ggpht.com/dOh7WxuK7oD0Ysv3sO3RPcsl-ziYsHBcS-VXix08Qe9yiyFU-dlF26wuBnX_3vd2wbc6YvFc1w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 35819,
+      "length": "6:09:51",
+      "description": "learn django with project, with concepts and real life applications. Welcome to HMWB Academy Namaskar Dosto, I'm Hindi ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gdX7ugJvuFw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCzb5JttrzKQq5PDDQ5ewyBIHMB9w"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Django For Everybody - Full Python University Course",
+      "link": "https://www.youtube.com/watch?v=o0XbHvKxw7Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=o0XbHvKxw7Y",
+      "video_id": "o0XbHvKxw7Y",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1590613,
+      "length": "18:32:46",
+      "description": "This Django tutorial aims to teach everyone the Python Django web development framework. Course Website: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/o0XbHvKxw7Y/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDUiswUTGVA9-BJB-UnE7e3dLFmcg"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Python Django 6.0 Full Course - Beginner to Pro (2026)",
+      "link": "https://www.youtube.com/watch?v=hw3Cttc9qZQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hw3Cttc9qZQ",
+      "video_id": "hw3Cttc9qZQ",
+      "channel": {
+        "name": "ProgrammingWithSingh",
+        "link": "https://www.youtube.com/@programmingwithsingh",
+        "thumbnail": "https://yt3.ggpht.com/RKhrYjFQRlcpLskhDhtei208lIjrrxjsJk_0Z3CgzmN0kFkWVtTVlihwJtuT9CFPrSIimzHLig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 168409,
+      "length": "4:03:03",
+      "description": "Python Django 2026 - The Complete Course (MVT, ORM, Auth, ChatGPT & More) THIS COURSE COMES WITH A 30-DAY ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hw3Cttc9qZQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB26X188eUBPC5pf-sVCt-CDQGW2g"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Python Backend Web Development Course (with Django)",
+      "link": "https://www.youtube.com/watch?v=jBzwzrDvZ18",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jBzwzrDvZ18",
+      "video_id": "jBzwzrDvZ18",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2825591,
+      "length": "10:11:52",
+      "description": "This video is a full backend web development course with python. In the course, you will learn everything you need to know to ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jBzwzrDvZ18/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAaUYYraUmCE6yvdKJBe6TVobfqGA"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Complete Django & Django REST Framework Course for Beginners (2026)",
+      "link": "https://www.youtube.com/watch?v=1dlLxeri-Pg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1dlLxeri-Pg",
+      "video_id": "1dlLxeri-Pg",
+      "channel": {
+        "name": "Tech With Rathan",
+        "link": "https://www.youtube.com/@rathankumar",
+        "thumbnail": "https://yt3.ggpht.com/tQ-NCdAkLodrHe6wE8lGrJXWkE5etfAsgK7Pe-Hl90Q4QA6qSGufwNxB9u0QV0O9ACPgOZBF-pM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 34215,
+      "length": "14:22:36",
+      "description": "Welcome to the Complete Django & Django REST Framework Course. Whether you're a beginner with basic Python knowledge ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/1dlLxeri-Pg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASdwWyQfXlGObTYaqn3cS381GQpw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Django In 40 Minutes - Crash Course",
+      "link": "https://www.youtube.com/watch?v=03aw-uj5N3k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=03aw-uj5N3k",
+      "video_id": "03aw-uj5N3k",
+      "channel": {
+        "name": "Code With Tomi",
+        "link": "https://www.youtube.com/@CodeWithTomi",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mUVAU9sAUvydOn_3t1z1XRJeyaFyexnvKkKp_2MHpY1lw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2942,
+      "length": "40:01",
+      "description": "In this Django tutorial, I'll be showing you everything you need to know about Django as a beginner. ⭐️ Timestamps ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/03aw-uj5N3k/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvQd9WDj3h9oC-OYMCrDHQPR1x6g"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Django Web Framework Full Course | Beginner to Advanced 🚀",
+      "link": "https://www.youtube.com/watch?v=14wYI-8hHn4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=14wYI-8hHn4",
+      "video_id": "14wYI-8hHn4",
+      "channel": {
+        "name": "Max Code",
+        "link": "https://www.youtube.com/@MaxCode-s7v",
+        "thumbnail": "https://yt3.ggpht.com/N9SEaaqxdXqgfPngwMupw9TTE-jJF_nTfGYk1EAo5e9H0OSZOSPFNl8S4n9odIz0Wno6ziTp=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 14981,
+      "length": "4:30:50",
+      "description": "Django Web Framework Full Course – Learn to Build Powerful Web Apps with Python! Master Django from scratch in this ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/14wYI-8hHn4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDfZ4kOLRfiLkMHyMyrpiXO-ktXJQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "CS50W - Lecture 3 - Django",
+      "link": "https://www.youtube.com/watch?v=w8q0C-C1js4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=w8q0C-C1js4",
+      "video_id": "w8q0C-C1js4",
+      "channel": {
+        "name": "CS50",
+        "link": "https://www.youtube.com/@cs50",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m7MWMBm4PynPndRMCxUEfNcU9Eufkk5ZkYI5RNjPchQ_c=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 593387,
+      "length": "1:39:05",
+      "description": "This is CS50W, CS50's Web Programming with Python and JavaScript. Register for free at https://cs50.edx.org/web. Slides and ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/w8q0C-C1js4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDhW8rCghUaNdqI8yFRsB3XhT7aKw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Django for Beginners | Django Tutorial | Python Django | Learn Django Framework",
+      "link": "https://www.youtube.com/watch?v=3gpo9piG12E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3gpo9piG12E",
+      "video_id": "3gpo9piG12E",
+      "channel": {
+        "name": "Tech With Rathan",
+        "link": "https://www.youtube.com/@rathankumar",
+        "thumbnail": "https://yt3.ggpht.com/tQ-NCdAkLodrHe6wE8lGrJXWkE5etfAsgK7Pe-Hl90Q4QA6qSGufwNxB9u0QV0O9ACPgOZBF-pM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 171987,
+      "length": "4:22:58",
+      "description": "Tired of watching Django tutorials but still can't build anything? Django is just the beginning — the next step is building intelligent ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3gpo9piG12E/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBo2jYm7GA_1AbL53d4LN2So4zxMg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Django Crash Course - Introduction + Python Web Development Tutorial",
+      "link": "https://www.youtube.com/watch?v=EuBQU_miReM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EuBQU_miReM",
+      "video_id": "EuBQU_miReM",
+      "channel": {
+        "name": "Caleb Curry",
+        "link": "https://www.youtube.com/@codebreakthrough",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ndg1Q0vocIKu0U3Ks9SLkSCjZbGiZ2W1rhSsJoqZTgFK4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 68064,
+      "length": "1:07:06",
+      "description": "Start your software dev career - https://calcur.tech/dev-fundamentals FREE Courses (100+ hours) ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EuBQU_miReM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDflTtkw9jZdWoDhndps1WVHu7Ing"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Django & React Web App Tutorial - Authentication, Databases, Deployment & More...",
+      "link": "https://www.youtube.com/watch?v=c-QsfbznSXI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c-QsfbznSXI",
+      "video_id": "c-QsfbznSXI",
+      "channel": {
+        "name": "Tech With Tim",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 672675,
+      "length": "2:22:03",
+      "description": "GET MY FREE SOFTWARE DEVELOPMENT GUIDE   https://training.techwithtim.net/free-guide In this video, you will learn how ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/c-QsfbznSXI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBooMe34JcQ4CC7UlEpdpqL9D2MRw"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Django+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Django%20full%20course%20for%20beginners&sp=EgIYAkgUggELckh1eDBnTVozRWeCAQtScDV2ZDM0ZC16NIIBC3UxR25aZkR3NUxVggELRjVtUlcwam8tVTSCAQswcm9CN3daTUxxSYIBC25HSWc0MHhzOWU0ggELUHRRaWlrbldVY0mCAQtPVG1RT2pzbDBlZ4IBC3NtMW1va2V2TVdrggELZ2RYN3VnSnZ1RneCAQtvMFhiSHZLeHc3WYIBC2h3M0N0dGM5cVpRggELakJ6d3pyRHZaMTiCAQsxZGxMeGVyaS1QZ4IBCzAzYXctdWo1TjNrggELMTR3WUktOGhIbjSCAQt3OHEwQy1DMWpzNIIBCzNncG85cGlHMTJFggELRXVCUVVfbWlSZU2CAQtjLVFzZmJ6blNYSbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELckh1eDBnTVozRWeCAQtScDV2ZDM0ZC16NIIBC3UxR25aZkR3NUxVggELRjVtUlcwam8tVTSCAQswcm9CN3daTUxxSYIBC25HSWc0MHhzOWU0ggELUHRRaWlrbldVY0mCAQtPVG1RT2pzbDBlZ4IBC3NtMW1va2V2TVdrggELZ2RYN3VnSnZ1RneCAQtvMFhiSHZLeHc3WYIBC2h3M0N0dGM5cVpRggELakJ6d3pyRHZaMTiCAQsxZGxMeGVyaS1QZ4IBCzAzYXctdWo1TjNrggELMTR3WUktOGhIbjSCAQt3OHEwQy1DMWpzNIIBCzNncG85cGlHMTJFggELRXVCUVVfbWlSZU2CAQtjLVFzZmJ6blNYSbIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Django+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Django+full+course+for+beginners&sp=EgIYAkgUggELckh1eDBnTVozRWeCAQtScDV2ZDM0ZC16NIIBC3UxR25aZkR3NUxVggELRjVtUlcwam8tVTSCAQswcm9CN3daTUxxSYIBC25HSWc0MHhzOWU0ggELUHRRaWlrbldVY0mCAQtPVG1RT2pzbDBlZ4IBC3NtMW1va2V2TVdrggELZ2RYN3VnSnZ1RneCAQtvMFhiSHZLeHc3WYIBC2h3M0N0dGM5cVpRggELakJ6d3pyRHZaMTiCAQsxZGxMeGVyaS1QZ4IBCzAzYXctdWo1TjNrggELMTR3WUktOGhIbjSCAQt3OHEwQy1DMWpzNIIBCzNncG85cGlHMTJFggELRXVCUVVfbWlSZU2CAQtjLVFzZmJ6blNYSbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELckh1eDBnTVozRWeCAQtScDV2ZDM0ZC16NIIBC3UxR25aZkR3NUxVggELRjVtUlcwam8tVTSCAQswcm9CN3daTUxxSYIBC25HSWc0MHhzOWU0ggELUHRRaWlrbldVY0mCAQtPVG1RT2pzbDBlZ4IBC3NtMW1va2V2TVdrggELZ2RYN3VnSnZ1RneCAQtvMFhiSHZLeHc3WYIBC2h3M0N0dGM5cVpRggELakJ6d3pyRHZaMTiCAQsxZGxMeGVyaS1QZ4IBCzAzYXctdWo1TjNrggELMTR3WUktOGhIbjSCAQt3OHEwQy1DMWpzNIIBCzNncG85cGlHMTJFggELRXVCUVVfbWlSZU2CAQtjLVFzZmJ6blNYSbIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:18:41 UTC"
+}

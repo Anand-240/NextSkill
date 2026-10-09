@@ -1,0 +1,472 @@
+{
+  "search_metadata": {
+    "id": "6ac8ce3ec29c3d19e243f63b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/B0zOexofmuoVLUgNHobWOSgJ3UNJ8s-cwSxpz0dfoBE/6ac8ce3ec29c3d19e243f63b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/B0zOexofmuoVLUgNHobWOSgJ3UNJ8s-cwSxpz0dfoBE/6ac8ce3ec29c3d19e243f63b.md",
+    "created_at": "2026-10-09 11:21:34 UTC",
+    "processed_at": "2026-10-09 11:21:34 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Git+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/B0zOexofmuoVLUgNHobWOSgJ3UNJ8s-cwSxpz0dfoBE/6ac8ce3ec29c3d19e243f63b.html",
+    "total_time_taken": 2.1
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Git revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 938567,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "How Git Works: Explained in 4 Minutes",
+      "link": "https://www.youtube.com/watch?v=e9lnsKot_SQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=e9lnsKot_SQ",
+      "video_id": "e9lnsKot_SQ",
+      "channel": {
+        "name": "ByteByteGo",
+        "link": "https://www.youtube.com/@ByteByteGo",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ZDRUyBUwc2WXZzvNKP9VS9myI6Mg2puQLaWyp4hibRu-owlsasZ3DVNGSQJwzO1IU-tqoMiGgdc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 988924,
+      "length": "4:18",
+      "description": "Get a Free System Design PDF with 158 pages by subscribing to our weekly newsletter: https://bytebytego.ck.page/subscribe Git ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/e9lnsKot_SQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiBtExZC3kgqhg66o-VPxsNFYSbg",
+        "rich": "https://i.ytimg.com/an_webp/e9lnsKot_SQ/mqdefault_6s.webp?du=3000&sqp=CLSFo9YG&rs=AOn4CLDNTNXOTTtmE175NPZnyCQX9ENfHA"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Git Will Finally Make Sense After This",
+      "link": "https://www.youtube.com/watch?v=Ala6PHlYjmw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ala6PHlYjmw",
+      "video_id": "Ala6PHlYjmw",
+      "channel": {
+        "name": "LearnThatStack",
+        "link": "https://www.youtube.com/@LearnThatStack",
+        "thumbnail": "https://yt3.ggpht.com/th2WuLS1aP4uElpJMguAF4YLqlJ1d-NJKSjlYjJVfPMYm9qPS1DuEjw2igOcDDzCNBsA2IGj=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 1272843,
+      "length": "13:25",
+      "description": "How Git Actually Works — finally understand commits, branches, reset, rebase & more. You use Git every day. Commit. Push. Pull.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ala6PHlYjmw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAHjui0EJjevRRwhaFhbXTrckMRw",
+        "rich": "https://i.ytimg.com/an_webp/Ala6PHlYjmw/mqdefault_6s.webp?du=3000&sqp=CMjrotYG&rs=AOn4CLCXSYVRbrAOqDieTUen9kNRFzcS4w"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Write git commit messages like a PRO with Conventional Commits",
+      "link": "https://www.youtube.com/watch?v=OJqUWvmf4gg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OJqUWvmf4gg",
+      "video_id": "OJqUWvmf4gg",
+      "channel": {
+        "name": "Justin Brooks",
+        "link": "https://www.youtube.com/@CodingWithJustin",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n5kddtWgvNmmL65BA7Hsr8-Z0ArenlqxqjkE7Iq3YWGTg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 162682,
+      "length": "4:08",
+      "description": "Good commit messages are important for maintaining any long-term project. If you follow this guide laid out in this video you can ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OJqUWvmf4gg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv9dSu7j0jZgHPmXQhhn5tNcjEnQ",
+        "rich": "https://i.ytimg.com/an_webp/OJqUWvmf4gg/mqdefault_6s.webp?du=3000&sqp=CPCOo9YG&rs=AOn4CLDm1PFomqYRmgJx-7FhAE8G60XOLA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Git MERGE vs REBASE: Everything You Need to Know",
+      "link": "https://www.youtube.com/watch?v=0chZFIZLR_0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0chZFIZLR_0",
+      "video_id": "0chZFIZLR_0",
+      "channel": {
+        "name": "ByteByteGo",
+        "link": "https://www.youtube.com/@ByteByteGo",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ZDRUyBUwc2WXZzvNKP9VS9myI6Mg2puQLaWyp4hibRu-owlsasZ3DVNGSQJwzO1IU-tqoMiGgdc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 766055,
+      "length": "4:34",
+      "description": "Get a Free System Design PDF with 158 pages by subscribing to our weekly newsletter: https://bytebytego.ck.page/subscribe ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0chZFIZLR_0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDa4tlGU8iYCtX1Wpy4t6KCjovrCQ",
+        "rich": "https://i.ytimg.com/an_webp/0chZFIZLR_0/mqdefault_6s.webp?du=3000&sqp=CI6Po9YG&rs=AOn4CLBRjMYiOsrCgD65j8BFtzJFpxwTGg"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Git and Github Explained in 7 Minutes | Git and Github Tutorial (2026)",
+      "link": "https://www.youtube.com/watch?v=y-an0v208A0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=y-an0v208A0",
+      "video_id": "y-an0v208A0",
+      "channel": {
+        "name": "Tech With Diego",
+        "link": "https://www.youtube.com/@diegoarias-tech",
+        "thumbnail": "https://yt3.ggpht.com/DHs68fZ3vLWkFzY38NbDAWZ04hPq7c2I3GpkNgXIsy8zZOEqnm0AUra_xPUu2Yth1KR2SY-lxA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 266076,
+      "length": "7:37",
+      "description": "Git and GitHub full tutorial for beginners. Learn what Git is, how it works, and how to use GitHub to store, share, and collaborate on ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/y-an0v208A0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWQDuuVb-gIBLOrWiABZopvsFcaw",
+        "rich": "https://i.ytimg.com/an_webp/y-an0v208A0/mqdefault_6s.webp?du=3000&sqp=CLL1otYG&rs=AOn4CLB5XSyvieCXJ3H7m4qXbSc8DQ-C7w"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Git Revision Selection: Full and Short Hashes, rev-parse and the Reflog | Git Course L54",
+      "link": "https://www.youtube.com/watch?v=TCH9o-3e03A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TCH9o-3e03A",
+      "video_id": "TCH9o-3e03A",
+      "channel": {
+        "name": "The Modern SDE",
+        "link": "https://www.youtube.com/@TheModernSDE",
+        "thumbnail": "https://yt3.ggpht.com/GIKMhrCroCykCoAPKuVtyhWxNi-oWuOi_lv9p-QOZgPe8S4nv3p-SZOQenrPDuE3KxB3-UQi=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4d ago",
+      "views": 2,
+      "length": "8:51",
+      "description": "Lecture 54 of the Complete Git Course by Engineer X · Part 7: Git Tools. In this lecture • One commit, many names: the full SHA-1 ...",
+      "extensions": [
+        "New"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TCH9o-3e03A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXb30MAqlDpZXwd6Ae-r37Y2nbwQ",
+        "rich": "https://i.ytimg.com/an_webp/TCH9o-3e03A/mqdefault_6s.webp?du=3000&sqp=CKCSo9YG&rs=AOn4CLBrPbspdlg1n_SrhigjqFlUMIFhmg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "7 Git Tips To Overcome Your Fear of Version Control",
+      "link": "https://www.youtube.com/watch?v=TPyfM8ns_MY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TPyfM8ns_MY",
+      "video_id": "TPyfM8ns_MY",
+      "channel": {
+        "name": "Travis Media",
+        "link": "https://www.youtube.com/@TravisMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l00TDaIm6OxCv6eJtOwdn2RHbFjeUJ8OJYVGmgdA4pEQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 16403,
+      "length": "11:42",
+      "description": "Working with a team of skilled devs and afraid you'll screw the codebase up? Worried you're going to overwrite other developers' ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TPyfM8ns_MY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgnCQFjHGu0V9P4iguQVB9h2Oh1w",
+        "rich": "https://i.ytimg.com/an_webp/TPyfM8ns_MY/mqdefault_6s.webp?du=3000&sqp=CPqIo9YG&rs=AOn4CLAu5ywlCmNfCIzap3CGQZwbesDq6g"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "How To Use GitHub For Beginners",
+      "link": "https://www.youtube.com/watch?v=a9u2yZvsqHA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=a9u2yZvsqHA",
+      "video_id": "a9u2yZvsqHA",
+      "channel": {
+        "name": "corbin",
+        "link": "https://www.youtube.com/@Corbin_Brown",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/VPivALVs5h7wBdkSB26ZXpk5qIFR8mZ9elx_dWw9iyfdCkbpbq55c_sVqpKDB46jl9FhOmEZzdA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1739900,
+      "length": "10:29",
+      "description": "read more on this topic https://boostmyagent.com/blog/how-to-use-github like & subscribe ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/a9u2yZvsqHA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4wV0pNr9dk5VLVBHK3UDkm80Lzg",
+        "rich": "https://i.ytimg.com/an_webp/a9u2yZvsqHA/mqdefault_6s.webp?du=3000&sqp=CMCVo9YG&rs=AOn4CLCrfzJzkWIQaxHEAN41hJywH6RRxA"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Beginner Git commands you need to know (WITH EXAMPLES)",
+      "link": "https://www.youtube.com/watch?v=rE2zRhZdjFU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rE2zRhZdjFU",
+      "video_id": "rE2zRhZdjFU",
+      "channel": {
+        "name": "GitHub",
+        "link": "https://www.youtube.com/@GitHub",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/piFr0Dgv_ejscYs1FmFYk8MAoRGzvG56eBAmZ7RVmYrX8RH1nrpZziZdG9GbQFyJyOHeNyuVPQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 315726,
+      "length": "14:28",
+      "description": "Take your Git skills to the next level with this beginner-friendly guide to the most essential Git commands. From configuring your ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rE2zRhZdjFU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqYgPJuUn6pyhD73IFImHg6TFzMQ",
+        "rich": "https://i.ytimg.com/an_webp/rE2zRhZdjFU/mqdefault_6s.webp?du=3000&sqp=CM7votYG&rs=AOn4CLBzEPN_O27292yUmN-oFXz9vUkFtQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Git vs SVN Explained: Key Differences for Beginners",
+      "link": "https://www.youtube.com/watch?v=cGMspIIbK2s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cGMspIIbK2s",
+      "video_id": "cGMspIIbK2s",
+      "channel": {
+        "name": "CodeLucky",
+        "link": "https://www.youtube.com/@thecodelucky",
+        "thumbnail": "https://yt3.ggpht.com/EtC7CNkzqKFYYul2geRiEM7dqC372SoHD-W-OXInQQhEcSPARsoiMfgRiWU7tBRj2EbVrltw4Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 3477,
+      "length": "4:30",
+      "description": "Confused about the difference between Git and SVN? In this video, we break down the core architectural differences between ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/cGMspIIbK2s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ2i6w3fxRyG0hRm-pC0p_LzCh5g",
+        "rich": "https://i.ytimg.com/an_webp/cGMspIIbK2s/mqdefault_6s.webp?du=3000&sqp=CISEo9YG&rs=AOn4CLA_EQ32jIdvE8r_ZiCD3gN3m-PyrA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Lightning Talk: Replace Git With JJ - Your New Version Control & DevOps Solution - Matt Kulukundis",
+      "link": "https://www.youtube.com/watch?v=mbK8szLJ-2w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mbK8szLJ-2w",
+      "video_id": "mbK8szLJ-2w",
+      "channel": {
+        "name": "CppNow",
+        "link": "https://www.youtube.com/@CppNow",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l3B9cDDS8zlgWAKFzKMcdMimITomXNPZHYlsQXgIW9Uw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 6303,
+      "length": "5:19",
+      "description": "https://www.cppnow.org --- Lightning Talk: Replace Git With JJ - Your New Version Control & DevOps Solution - Matt Kulukundis ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/mbK8szLJ-2w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSQoR_6wlto69OzqS1pZyW_oYbfg",
+        "rich": "https://i.ytimg.com/an_webp/mbK8szLJ-2w/mqdefault_6s.webp?du=3000&sqp=CMD8otYG&rs=AOn4CLD69CVUkjv70ywDcZDWxUayEO3DgA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Git Mastery Crash Course | From First Commit to Big Tech Workflows",
+      "link": "https://www.youtube.com/watch?v=HMoZ5cYzU4I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HMoZ5cYzU4I",
+      "video_id": "HMoZ5cYzU4I",
+      "channel": {
+        "name": "ByteMonk",
+        "link": "https://www.youtube.com/@ByteMonk",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4Zw9XifSAyf1FNmM2969egek-4QjYpCT8ELGf3m4dP5YZiq6ch_MFjywuPjJt_hyWoTsO4U5Ug=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 80990,
+      "length": "14:43",
+      "description": "This Git Mastery Crash Course is designed to help you understand Git fundamentals and scale to Big Tech workflows. Git is the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HMoZ5cYzU4I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9nQ83OS2uk1xmOWhNuDyIFHsyDA",
+        "rich": "https://i.ytimg.com/an_webp/HMoZ5cYzU4I/mqdefault_6s.webp?du=3000&sqp=CNz_otYG&rs=AOn4CLDk-fKjjJEHlxt-Bje-kJ8NSF1QNw"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Git Tutorial #34: How to Use Git Reset Soft, Mixed, and Hard | Learn Git",
+      "link": "https://www.youtube.com/watch?v=s1idhUiCk38",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=s1idhUiCk38",
+      "video_id": "s1idhUiCk38",
+      "channel": {
+        "name": "GitKraken",
+        "link": "https://www.youtube.com/@GitKraken",
+        "thumbnail": "https://yt3.ggpht.com/4vvEEDrjxRgjAcscnxkWSAEUX2V8yKho1Vpod4j7NiyXeLPvi8Z0IqsHXdQEm3Um630V617X=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 20391,
+      "length": "10:23",
+      "description": "Need to undo local changes or rewrite commit history? Git reset gives you that power and then some. In this Git tutorial, you'll ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/s1idhUiCk38/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg_IEsofzAP&rs=AOn4CLDC2nGknHPTutQwVPPnCV1YUdYlCg",
+        "rich": "https://i.ytimg.com/an_webp/s1idhUiCk38/mqdefault_6s.webp?du=3000&sqp=CPeAo9YG&rs=AOn4CLBr_0FaWDirrrUTzBi04n0nEPNPvQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Git Interview Questions | Git Real-Time Interview Questions & Answers | DevOps Tools | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=XU2vpXFKPGU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XU2vpXFKPGU",
+      "video_id": "XU2vpXFKPGU",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 63710,
+      "length": "13:17",
+      "description": "\"  IITM Pravartak - AI-Powered Cloud Computing and DevOps Certification Program ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/XU2vpXFKPGU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFNzXZGVGLQIf-hlcebMhZYnJ7NQ",
+        "rich": "https://i.ytimg.com/an_webp/XU2vpXFKPGU/mqdefault_6s.webp?du=3000&sqp=CM6Vo9YG&rs=AOn4CLCMxPD3oogdgeBf7LdSysTaenSCTg"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "what is a git tag? (beginner - intermediate) anthony explains #144",
+      "link": "https://www.youtube.com/watch?v=34CQxHXzD4w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=34CQxHXzD4w",
+      "video_id": "34CQxHXzD4w",
+      "channel": {
+        "name": "anthonywritescode",
+        "link": "https://www.youtube.com/@anthonywritescode",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m3KuTkZL7uslK8yjytx_ZmOKvMlUhzHokqzdwPDdE_Tg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 34873,
+      "length": "5:57",
+      "description": "today I talk about git tags (lightweight and not) and how they differ from branches playlist: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/34CQxHXzD4w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkAhGWwVJPsFIxAmNpRnbygBlMFw",
+        "rich": "https://i.ytimg.com/an_webp/34CQxHXzD4w/mqdefault_6s.webp?du=3000&sqp=CODpotYG&rs=AOn4CLDqVOYRHUv0_xJPgkccDM1pdK3XNg"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "The Power of Git in Unreal Engine: a Step-by-Step Guide | UE5",
+      "link": "https://www.youtube.com/watch?v=zf_44hN4Lkg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zf_44hN4Lkg",
+      "video_id": "zf_44hN4Lkg",
+      "channel": {
+        "name": "Ali Elzoheiry",
+        "link": "https://www.youtube.com/@AliElZoheiry",
+        "thumbnail": "https://yt3.ggpht.com/AoeRUaWcXvBWw7cFcB-r2hdTJG9KmoqNUweGJx7XAicBJAKcOKmLLhvTODIj4tawoGygUI_JaNg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 35024,
+      "length": "18:48",
+      "description": "Unreal Engine projects are huge and can get messed up quite easily, so make sure to use Git and back it up to GitHub. Whether ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zf_44hN4Lkg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAum1pimm4UCC_gvCjMGLiDel3N9g",
+        "rich": "https://i.ytimg.com/an_webp/zf_44hN4Lkg/mqdefault_6s.webp?du=3000&sqp=CMj2otYG&rs=AOn4CLDnNNv3NFFzR8QgBRFuTo8j0wqi2Q"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Referencing Commits With All Sorts of Git Revisions",
+      "link": "https://www.youtube.com/watch?v=JRX21oW6Q4I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JRX21oW6Q4I",
+      "video_id": "JRX21oW6Q4I",
+      "channel": {
+        "name": "Josh Branchaud",
+        "link": "https://www.youtube.com/@jbranchaud",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kjz-5y09d9nNj43OWZ7v9dTysK0fnGgyMZjJT80pIxp68=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 342,
+      "length": "9:08",
+      "description": "Git has a sophisticated scheme for referencing commits in all sorts of ways. You can use SHAs, branch names, regex, and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JRX21oW6Q4I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhAXJrkgsozsNPJ31W9poLFh3B7Q"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Local vs Centralized vs Distributed Version Control Explained (Git, SVN, RCS)",
+      "link": "https://www.youtube.com/watch?v=V0sNx_oRT6I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V0sNx_oRT6I",
+      "video_id": "V0sNx_oRT6I",
+      "channel": {
+        "name": "CodeLucky",
+        "link": "https://www.youtube.com/@thecodelucky",
+        "thumbnail": "https://yt3.ggpht.com/EtC7CNkzqKFYYul2geRiEM7dqC372SoHD-W-OXInQQhEcSPARsoiMfgRiWU7tBRj2EbVrltw4Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 715,
+      "length": "5:19",
+      "description": "Confused about the differences between Git, SVN, and other version control systems? In this video, we break down the three ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/V0sNx_oRT6I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkebb4yw9qE4RoFmcUQ5Kg2qmcdw",
+        "rich": "https://i.ytimg.com/an_webp/V0sNx_oRT6I/mqdefault_6s.webp?du=3000&sqp=CJyQo9YG&rs=AOn4CLCtwtLwPVOz-phj6Ww8e3OeMSxBaA"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "What Is Version Control? | Git Version Control | Version Control In Software Engineering|Simplilearn",
+      "link": "https://www.youtube.com/watch?v=Yc8sCSeMhi4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Yc8sCSeMhi4",
+      "video_id": "Yc8sCSeMhi4",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 220084,
+      "length": "7:16",
+      "description": "Microsoft Azure - AI-Powered Full Stack Developer Program ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Yc8sCSeMhi4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaiQFOZJOFJQ25Dk4yubCwoC9B-g",
+        "rich": "https://i.ytimg.com/an_webp/Yc8sCSeMhi4/mqdefault_6s.webp?du=3000&sqp=CIiKo9YG&rs=AOn4CLApR-My1WZQ7xXmOrIGpj9aHHHOaQ"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Easy Version Control with Git and Github in Unreal Engine 5 - Beginner Tutorial",
+      "link": "https://www.youtube.com/watch?v=Vnjo9KEU2A4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Vnjo9KEU2A4",
+      "video_id": "Vnjo9KEU2A4",
+      "channel": {
+        "name": "Cobra Code",
+        "link": "https://www.youtube.com/@CobraCode",
+        "thumbnail": "https://yt3.ggpht.com/nTU0UkFEySBNrQaJbsZtLlfKnE1OCSsjy-0j8gdNPHdMdJQRRNM8c1gTwGV5YObWMC60dedl=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 21231,
+      "length": "13:30",
+      "description": "Learn how to set up Version Control in 5 minutes! ‍♂️‍➡️ JRPG Waitlist and Free Top Down Template: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Vnjo9KEU2A4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_TDEQkoWAqKco73lfDy14jwwTpA",
+        "rich": "https://i.ytimg.com/an_webp/Vnjo9KEU2A4/mqdefault_6s.webp?du=3000&sqp=CKj_otYG&rs=AOn4CLD0Xrwt7hjoLkevKGyi5GfbuWejVQ"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Git+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Git%20revision&sp=EgIYA0gUggELZTlsbnNLb3RfU1GCAQtBbGE2UEhsWWptd4IBC09KcVVXdm1mNGdnggELMGNoWkZJWkxSXzCCAQt5LWFuMHYyMDhBMIIBC1RDSDlvLTNlMDNBggELVFB5Zk04bnNfTVmCAQthOXUyeVp2c3FIQYIBC3JFMnpSaFpkakZVggELY0dNc3BJSWJLMnOCAQttYks4c3pMSi0yd4IBC0hNb1o1Y1l6VTRJggELczFpZGhVaUNrMziCAQtYVTJ2cFhGS1BHVYIBCzM0Q1F4SFh6RDR3ggELemZfNDRoTjRMa2eCAQtKUlgyMW9XNlE0SYIBC1Ywc054X29SVDZJggELWWM4c0NTZU1oaTSCAQtWbmpvOUtFVTJBNLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELZTlsbnNLb3RfU1GCAQtBbGE2UEhsWWptd4IBC09KcVVXdm1mNGdnggELMGNoWkZJWkxSXzCCAQt5LWFuMHYyMDhBMIIBC1RDSDlvLTNlMDNBggELVFB5Zk04bnNfTVmCAQthOXUyeVp2c3FIQYIBC3JFMnpSaFpkakZVggELY0dNc3BJSWJLMnOCAQttYks4c3pMSi0yd4IBC0hNb1o1Y1l6VTRJggELczFpZGhVaUNrMziCAQtYVTJ2cFhGS1BHVYIBCzM0Q1F4SFh6RDR3ggELemZfNDRoTjRMa2eCAQtKUlgyMW9XNlE0SYIBC1Ywc054X29SVDZJggELWWM4c0NTZU1oaTSCAQtWbmpvOUtFVTJBNLIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Git+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Git+revision&sp=EgIYA0gUggELZTlsbnNLb3RfU1GCAQtBbGE2UEhsWWptd4IBC09KcVVXdm1mNGdnggELMGNoWkZJWkxSXzCCAQt5LWFuMHYyMDhBMIIBC1RDSDlvLTNlMDNBggELVFB5Zk04bnNfTVmCAQthOXUyeVp2c3FIQYIBC3JFMnpSaFpkakZVggELY0dNc3BJSWJLMnOCAQttYks4c3pMSi0yd4IBC0hNb1o1Y1l6VTRJggELczFpZGhVaUNrMziCAQtYVTJ2cFhGS1BHVYIBCzM0Q1F4SFh6RDR3ggELemZfNDRoTjRMa2eCAQtKUlgyMW9XNlE0SYIBC1Ywc054X29SVDZJggELWWM4c0NTZU1oaTSCAQtWbmpvOUtFVTJBNLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELZTlsbnNLb3RfU1GCAQtBbGE2UEhsWWptd4IBC09KcVVXdm1mNGdnggELMGNoWkZJWkxSXzCCAQt5LWFuMHYyMDhBMIIBC1RDSDlvLTNlMDNBggELVFB5Zk04bnNfTVmCAQthOXUyeVp2c3FIQYIBC3JFMnpSaFpkakZVggELY0dNc3BJSWJLMnOCAQttYks4c3pMSi0yd4IBC0hNb1o1Y1l6VTRJggELczFpZGhVaUNrMziCAQtYVTJ2cFhGS1BHVYIBCzM0Q1F4SFh6RDR3ggELemZfNDRoTjRMa2eCAQtKUlgyMW9XNlE0SYIBC1Ywc054X29SVDZJggELWWM4c0NTZU1oaTSCAQtWbmpvOUtFVTJBNLIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:21:34 UTC"
+}

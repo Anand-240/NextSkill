@@ -1,0 +1,476 @@
+{
+  "search_metadata": {
+    "id": "6ac8cdb7a973c45db756ece2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tUAAvXGANY8jRqrdAq64I5y-ALtcsuAzxhS0HL9kjgc/6ac8cdb7a973c45db756ece2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/tUAAvXGANY8jRqrdAq64I5y-ALtcsuAzxhS0HL9kjgc/6ac8cdb7a973c45db756ece2.md",
+    "created_at": "2026-10-09 11:19:19 UTC",
+    "processed_at": "2026-10-09 11:19:19 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Junior+Accountant&uule=w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/tUAAvXGANY8jRqrdAq64I5y-ALtcsuAzxhS0HL9kjgc/6ac8cdb7a973c45db756ece2.html",
+    "total_time_taken": 12.87
+  },
+  "search_parameters": {
+    "q": "Junior Accountant",
+    "engine": "google_jobs",
+    "location_requested": "Mumbai, India",
+    "location_used": "Mumbai,Maharashtra,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rk9HWz-Wo36oyDDqa65SAC5HCLJz3HheRQuF887exKJ0et8kJVpsM28QZOXX1FzvCFyARR-SGZYiTuJXEW5HG8tqD9w-gN1EfZySXhuG9CcTVBVWJvUJXxWNGB4i095kY38GIHXD2hnKz1G7RHfngKp5i5cI",
+        "q": "Junior Accountant remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rk9HWz-Wo36oyDDqa65SAC5HCLJz3HheRQuF887exKJ0et8kJVpsM28QZOXX1FzvCFyARR-SGZYiTuJXEW5HG8tqD9w-gN1EfZySXhuG9CcTVBVWJvUJXxWNGB4i095kY38GIHXD2hnKz1G7RHfngKp5i5cI&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rk9HWz-Wo36oyDDqa65SAC5HCLJz3HheRQuF887exKJ0et8kJVpsM28QZOXX1FzvCFyARR-SGZYiTuJXEW5HG8tqD9w-gN1EfZySXhuG9CcTVBVWJvUJXxWNGB4i095kY38GIHXD2hnKz1G7RHfngKp5i5cI"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCrqkf9Ks1y5i11U4pH5GTEZsNoY5RWNyCqb2Q-gYtyFD-RXgHPdjlO7XKNln4psXww4KjYhdCWAJ8QtaQHDFue064kMF7ePZSEhoBkxmhJsRGDDKiJFmPr8QCvUe9ytQN9NYw-oh1Fu094dWMosGYte2Y9CPc0g1LZrYKnbnU--cl1HxrfdmvY6XPRKtmhuErt3cxTI0bOXbvhHIxMVKDIaCJugPAKPdc31y0ObNbO9DMBjIFqDPu1N81mcyw5NFU7pLYdzyf5N9HjKrCF4_LzjFMiw4DWU9pO-tDV2wtKIRknEerOg",
+            "q": "Junior Accountant full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCrqkf9Ks1y5i11U4pH5GTEZsNoY5RWNyCqb2Q-gYtyFD-RXgHPdjlO7XKNln4psXww4KjYhdCWAJ8QtaQHDFue064kMF7ePZSEhoBkxmhJsRGDDKiJFmPr8QCvUe9ytQN9NYw-oh1Fu094dWMosGYte2Y9CPc0g1LZrYKnbnU--cl1HxrfdmvY6XPRKtmhuErt3cxTI0bOXbvhHIxMVKDIaCJugPAKPdc31y0ObNbO9DMBjIFqDPu1N81mcyw5NFU7pLYdzyf5N9HjKrCF4_LzjFMiw4DWU9pO-tDV2wtKIRknEerOg&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCrqkf9Ks1y5i11U4pH5GTEZsNoY5RWNyCqb2Q-gYtyFD-RXgHPdjlO7XKNln4psXww4KjYhdCWAJ8QtaQHDFue064kMF7ePZSEhoBkxmhJsRGDDKiJFmPr8QCvUe9ytQN9NYw-oh1Fu094dWMosGYte2Y9CPc0g1LZrYKnbnU--cl1HxrfdmvY6XPRKtmhuErt3cxTI0bOXbvhHIxMVKDIaCJugPAKPdc31y0ObNbO9DMBjIFqDPu1N81mcyw5NFU7pLYdzyf5N9HjKrCF4_LzjFMiw4DWU9pO-tDV2wtKIRknEerOg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCrqkf9Ks1y5i11U4pH5GTEZsseSqNVSQe3lpHl9Ayvgnt5r216-BHQnnEsWE7OzSh8Q8y4dOgyrwWvuD9RMU0buzdArNLazOv2Gx3qa1XxBThHA46rfOri18pN0fzxwjSs4S4slfVXx0F9EBA129FZ10xZi4brA948kY_pIgoglHeWIvhJVY3xYhZP0O0ydWklaMTxUHwxr6OP0vKUwyD3G_D2EI_Q321sKODKHM84YcVcJMmczZbimvL08-JEXmBLUHU53zW9FhXqMPLhlwdN3F3Ak3P9CqTv3GNF92avZ6C5i-0PQ",
+            "q": "Junior Accountant part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCrqkf9Ks1y5i11U4pH5GTEZsseSqNVSQe3lpHl9Ayvgnt5r216-BHQnnEsWE7OzSh8Q8y4dOgyrwWvuD9RMU0buzdArNLazOv2Gx3qa1XxBThHA46rfOri18pN0fzxwjSs4S4slfVXx0F9EBA129FZ10xZi4brA948kY_pIgoglHeWIvhJVY3xYhZP0O0ydWklaMTxUHwxr6OP0vKUwyD3G_D2EI_Q321sKODKHM84YcVcJMmczZbimvL08-JEXmBLUHU53zW9FhXqMPLhlwdN3F3Ak3P9CqTv3GNF92avZ6C5i-0PQ&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCrqkf9Ks1y5i11U4pH5GTEZsseSqNVSQe3lpHl9Ayvgnt5r216-BHQnnEsWE7OzSh8Q8y4dOgyrwWvuD9RMU0buzdArNLazOv2Gx3qa1XxBThHA46rfOri18pN0fzxwjSs4S4slfVXx0F9EBA129FZ10xZi4brA948kY_pIgoglHeWIvhJVY3xYhZP0O0ydWklaMTxUHwxr6OP0vKUwyD3G_D2EI_Q321sKODKHM84YcVcJMmczZbimvL08-JEXmBLUHU53zW9FhXqMPLhlwdN3F3Ak3P9CqTv3GNF92avZ6C5i-0PQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rUoQZf4gR9RMlgEF9DTInFl20dGkwBV2wdMbqCa9QHYIZi9wQO8pcwxs0VRQzANm4GElggd2LLMvPCQ7Sfn3PD1TjGqv_Qcu-y8IWSc762Yhlebx7QXV38QFqGS0Rq8lfee427OJiC7M6MvQLhMEtULVQxQxBHy0oXbYC6qBLzPEF2Wl7WrmePMz3yeAt7sKxkIIRVELxsLVuaYsdVKq2FZF-FRFHRTHOfc6WKMdRWmOUFk-WEtzgRptY4So4qgx9R1Wq-3XRXQ6K04b_zRvuiSnipQOVoc8sVnPHCJW3prfQpq9Ttjjwud9ZDnWbhegzpdhavw",
+            "q": "Junior Accountant contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rUoQZf4gR9RMlgEF9DTInFl20dGkwBV2wdMbqCa9QHYIZi9wQO8pcwxs0VRQzANm4GElggd2LLMvPCQ7Sfn3PD1TjGqv_Qcu-y8IWSc762Yhlebx7QXV38QFqGS0Rq8lfee427OJiC7M6MvQLhMEtULVQxQxBHy0oXbYC6qBLzPEF2Wl7WrmePMz3yeAt7sKxkIIRVELxsLVuaYsdVKq2FZF-FRFHRTHOfc6WKMdRWmOUFk-WEtzgRptY4So4qgx9R1Wq-3XRXQ6K04b_zRvuiSnipQOVoc8sVnPHCJW3prfQpq9Ttjjwud9ZDnWbhegzpdhavw&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rUoQZf4gR9RMlgEF9DTInFl20dGkwBV2wdMbqCa9QHYIZi9wQO8pcwxs0VRQzANm4GElggd2LLMvPCQ7Sfn3PD1TjGqv_Qcu-y8IWSc762Yhlebx7QXV38QFqGS0Rq8lfee427OJiC7M6MvQLhMEtULVQxQxBHy0oXbYC6qBLzPEF2Wl7WrmePMz3yeAt7sKxkIIRVELxsLVuaYsdVKq2FZF-FRFHRTHOfc6WKMdRWmOUFk-WEtzgRptY4So4qgx9R1Wq-3XRXQ6K04b_zRvuiSnipQOVoc8sVnPHCJW3prfQpq9Ttjjwud9ZDnWbhegzpdhavw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rSHC3t_xwSZW5ycLfcSbZIrqlNXL6PGJujYlMItn82OiUc5WYOAod7caY8uhidM3iqI9-dJnRxUv-EN0Ypq6BxW2QWP8VpUyYfYg6--Gf9RTjU25_X_eGRv8bh9c7xxJUxv9bqyjVQ0pcjRp3UgnQN6wLznXwBJQKbyg7M2op4VYVqX1b4md7a149BAA7--1lvuumpfqYtPDzfEWLfqNlazOxLeyx_RQt81T0-TT6vv3WMII2qUFrDQv-1NJMPETBjRzDLEe1eiNml1CNpnkz6hz60PtTBrwb8AiefOlZRbqefC3sri2LXIUUuP56ZcjftCvH0A",
+            "q": "Junior Accountant internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rSHC3t_xwSZW5ycLfcSbZIrqlNXL6PGJujYlMItn82OiUc5WYOAod7caY8uhidM3iqI9-dJnRxUv-EN0Ypq6BxW2QWP8VpUyYfYg6--Gf9RTjU25_X_eGRv8bh9c7xxJUxv9bqyjVQ0pcjRp3UgnQN6wLznXwBJQKbyg7M2op4VYVqX1b4md7a149BAA7--1lvuumpfqYtPDzfEWLfqNlazOxLeyx_RQt81T0-TT6vv3WMII2qUFrDQv-1NJMPETBjRzDLEe1eiNml1CNpnkz6hz60PtTBrwb8AiefOlZRbqefC3sri2LXIUUuP56ZcjftCvH0A&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rSHC3t_xwSZW5ycLfcSbZIrqlNXL6PGJujYlMItn82OiUc5WYOAod7caY8uhidM3iqI9-dJnRxUv-EN0Ypq6BxW2QWP8VpUyYfYg6--Gf9RTjU25_X_eGRv8bh9c7xxJUxv9bqyjVQ0pcjRp3UgnQN6wLznXwBJQKbyg7M2op4VYVqX1b4md7a149BAA7--1lvuumpfqYtPDzfEWLfqNlazOxLeyx_RQt81T0-TT6vv3WMII2qUFrDQv-1NJMPETBjRzDLEe1eiNml1CNpnkz6hz60PtTBrwb8AiefOlZRbqefC3sri2LXIUUuP56ZcjftCvH0A"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCrqkf9Ks1y5i11U4pH5GTEZsNoY5RWNyCqb2Q-gYtyFD-RXgHPdjlO7XKNln4psXww4KjYhdCWAJ8QtaQHDFue064kMF7ePZSEhoBkxmhJsRGDDKiJFmPr8QCvUe9ytQN9NYw-oh1Fu094dWMosGYte2Y9CPc0g1LZrYKnbnU--cl1HxrfdmvY6XPRKtmhuErt3cxTI0bOXbvhHIxMVKDIaCJugPAKPdc31y0ObNbO9DMBjIFqDPu1N81mcyw5NFU7pLYdzyf5N9HjKrCF4_LzjFMiw4DWU9pO-tDV2wtKIRknEerOg",
+            "q": "Junior Accountant full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCrqkf9Ks1y5i11U4pH5GTEZsNoY5RWNyCqb2Q-gYtyFD-RXgHPdjlO7XKNln4psXww4KjYhdCWAJ8QtaQHDFue064kMF7ePZSEhoBkxmhJsRGDDKiJFmPr8QCvUe9ytQN9NYw-oh1Fu094dWMosGYte2Y9CPc0g1LZrYKnbnU--cl1HxrfdmvY6XPRKtmhuErt3cxTI0bOXbvhHIxMVKDIaCJugPAKPdc31y0ObNbO9DMBjIFqDPu1N81mcyw5NFU7pLYdzyf5N9HjKrCF4_LzjFMiw4DWU9pO-tDV2wtKIRknEerOg&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCrqkf9Ks1y5i11U4pH5GTEZsNoY5RWNyCqb2Q-gYtyFD-RXgHPdjlO7XKNln4psXww4KjYhdCWAJ8QtaQHDFue064kMF7ePZSEhoBkxmhJsRGDDKiJFmPr8QCvUe9ytQN9NYw-oh1Fu094dWMosGYte2Y9CPc0g1LZrYKnbnU--cl1HxrfdmvY6XPRKtmhuErt3cxTI0bOXbvhHIxMVKDIaCJugPAKPdc31y0ObNbO9DMBjIFqDPu1N81mcyw5NFU7pLYdzyf5N9HjKrCF4_LzjFMiw4DWU9pO-tDV2wtKIRknEerOg"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCrqkf9Ks1y5i11U4pH5GTEZsseSqNVSQe3lpHl9Ayvgnt5r216-BHQnnEsWE7OzSh8Q8y4dOgyrwWvuD9RMU0buzdArNLazOv2Gx3qa1XxBThHA46rfOri18pN0fzxwjSs4S4slfVXx0F9EBA129FZ10xZi4brA948kY_pIgoglHeWIvhJVY3xYhZP0O0ydWklaMTxUHwxr6OP0vKUwyD3G_D2EI_Q321sKODKHM84YcVcJMmczZbimvL08-JEXmBLUHU53zW9FhXqMPLhlwdN3F3Ak3P9CqTv3GNF92avZ6C5i-0PQ",
+            "q": "Junior Accountant part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCrqkf9Ks1y5i11U4pH5GTEZsseSqNVSQe3lpHl9Ayvgnt5r216-BHQnnEsWE7OzSh8Q8y4dOgyrwWvuD9RMU0buzdArNLazOv2Gx3qa1XxBThHA46rfOri18pN0fzxwjSs4S4slfVXx0F9EBA129FZ10xZi4brA948kY_pIgoglHeWIvhJVY3xYhZP0O0ydWklaMTxUHwxr6OP0vKUwyD3G_D2EI_Q321sKODKHM84YcVcJMmczZbimvL08-JEXmBLUHU53zW9FhXqMPLhlwdN3F3Ak3P9CqTv3GNF92avZ6C5i-0PQ&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCrqkf9Ks1y5i11U4pH5GTEZsseSqNVSQe3lpHl9Ayvgnt5r216-BHQnnEsWE7OzSh8Q8y4dOgyrwWvuD9RMU0buzdArNLazOv2Gx3qa1XxBThHA46rfOri18pN0fzxwjSs4S4slfVXx0F9EBA129FZ10xZi4brA948kY_pIgoglHeWIvhJVY3xYhZP0O0ydWklaMTxUHwxr6OP0vKUwyD3G_D2EI_Q321sKODKHM84YcVcJMmczZbimvL08-JEXmBLUHU53zW9FhXqMPLhlwdN3F3Ak3P9CqTv3GNF92avZ6C5i-0PQ"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rUoQZf4gR9RMlgEF9DTInFl20dGkwBV2wdMbqCa9QHYIZi9wQO8pcwxs0VRQzANm4GElggd2LLMvPCQ7Sfn3PD1TjGqv_Qcu-y8IWSc762Yhlebx7QXV38QFqGS0Rq8lfee427OJiC7M6MvQLhMEtULVQxQxBHy0oXbYC6qBLzPEF2Wl7WrmePMz3yeAt7sKxkIIRVELxsLVuaYsdVKq2FZF-FRFHRTHOfc6WKMdRWmOUFk-WEtzgRptY4So4qgx9R1Wq-3XRXQ6K04b_zRvuiSnipQOVoc8sVnPHCJW3prfQpq9Ttjjwud9ZDnWbhegzpdhavw",
+            "q": "Junior Accountant contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rUoQZf4gR9RMlgEF9DTInFl20dGkwBV2wdMbqCa9QHYIZi9wQO8pcwxs0VRQzANm4GElggd2LLMvPCQ7Sfn3PD1TjGqv_Qcu-y8IWSc762Yhlebx7QXV38QFqGS0Rq8lfee427OJiC7M6MvQLhMEtULVQxQxBHy0oXbYC6qBLzPEF2Wl7WrmePMz3yeAt7sKxkIIRVELxsLVuaYsdVKq2FZF-FRFHRTHOfc6WKMdRWmOUFk-WEtzgRptY4So4qgx9R1Wq-3XRXQ6K04b_zRvuiSnipQOVoc8sVnPHCJW3prfQpq9Ttjjwud9ZDnWbhegzpdhavw&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rUoQZf4gR9RMlgEF9DTInFl20dGkwBV2wdMbqCa9QHYIZi9wQO8pcwxs0VRQzANm4GElggd2LLMvPCQ7Sfn3PD1TjGqv_Qcu-y8IWSc762Yhlebx7QXV38QFqGS0Rq8lfee427OJiC7M6MvQLhMEtULVQxQxBHy0oXbYC6qBLzPEF2Wl7WrmePMz3yeAt7sKxkIIRVELxsLVuaYsdVKq2FZF-FRFHRTHOfc6WKMdRWmOUFk-WEtzgRptY4So4qgx9R1Wq-3XRXQ6K04b_zRvuiSnipQOVoc8sVnPHCJW3prfQpq9Ttjjwud9ZDnWbhegzpdhavw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rSHC3t_xwSZW5ycLfcSbZIrqlNXL6PGJujYlMItn82OiUc5WYOAod7caY8uhidM3iqI9-dJnRxUv-EN0Ypq6BxW2QWP8VpUyYfYg6--Gf9RTjU25_X_eGRv8bh9c7xxJUxv9bqyjVQ0pcjRp3UgnQN6wLznXwBJQKbyg7M2op4VYVqX1b4md7a149BAA7--1lvuumpfqYtPDzfEWLfqNlazOxLeyx_RQt81T0-TT6vv3WMII2qUFrDQv-1NJMPETBjRzDLEe1eiNml1CNpnkz6hz60PtTBrwb8AiefOlZRbqefC3sri2LXIUUuP56ZcjftCvH0A",
+            "q": "Junior Accountant internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rSHC3t_xwSZW5ycLfcSbZIrqlNXL6PGJujYlMItn82OiUc5WYOAod7caY8uhidM3iqI9-dJnRxUv-EN0Ypq6BxW2QWP8VpUyYfYg6--Gf9RTjU25_X_eGRv8bh9c7xxJUxv9bqyjVQ0pcjRp3UgnQN6wLznXwBJQKbyg7M2op4VYVqX1b4md7a149BAA7--1lvuumpfqYtPDzfEWLfqNlazOxLeyx_RQt81T0-TT6vv3WMII2qUFrDQv-1NJMPETBjRzDLEe1eiNml1CNpnkz6hz60PtTBrwb8AiefOlZRbqefC3sri2LXIUUuP56ZcjftCvH0A&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rSHC3t_xwSZW5ycLfcSbZIrqlNXL6PGJujYlMItn82OiUc5WYOAod7caY8uhidM3iqI9-dJnRxUv-EN0Ypq6BxW2QWP8VpUyYfYg6--Gf9RTjU25_X_eGRv8bh9c7xxJUxv9bqyjVQ0pcjRp3UgnQN6wLznXwBJQKbyg7M2op4VYVqX1b4md7a149BAA7--1lvuumpfqYtPDzfEWLfqNlazOxLeyx_RQt81T0-TT6vv3WMII2qUFrDQv-1NJMPETBjRzDLEe1eiNml1CNpnkz6hz60PtTBrwb8AiefOlZRbqefC3sri2LXIUUuP56ZcjftCvH0A"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQd3nymKmckqehgywTXJJqw-43iYv5yrLYIVSS2plns-TinHmYkUuDbhbuFqipMRi9EWgK5i2aMq3Q7YNw3b4L6s1rz7nE9rJOClaVHT5TBMQJN2-tL9Flkxa7pplA-0xgCun_-zcAZ8k6T94r3_EpAPiHvlzL3GdjqHX6WCmQNIJZKa1cjl8dJ66e0aruax7aVCkyb_bEkMOHnqpyOO3PM4uPn1jRszyEdIzpKUpFOz9BS76CNmdSRama7wJDg-iP07bn-gx7ZAf0Q4vSccKit-zkw8svpAtD8F_srqDxXUkabIDF-dT410F-Dj68fewBtJ2D4",
+            "q": "Junior Accountant since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQd3nymKmckqehgywTXJJqw-43iYv5yrLYIVSS2plns-TinHmYkUuDbhbuFqipMRi9EWgK5i2aMq3Q7YNw3b4L6s1rz7nE9rJOClaVHT5TBMQJN2-tL9Flkxa7pplA-0xgCun_-zcAZ8k6T94r3_EpAPiHvlzL3GdjqHX6WCmQNIJZKa1cjl8dJ66e0aruax7aVCkyb_bEkMOHnqpyOO3PM4uPn1jRszyEdIzpKUpFOz9BS76CNmdSRama7wJDg-iP07bn-gx7ZAf0Q4vSccKit-zkw8svpAtD8F_srqDxXUkabIDF-dT410F-Dj68fewBtJ2D4&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQd3nymKmckqehgywTXJJqw-43iYv5yrLYIVSS2plns-TinHmYkUuDbhbuFqipMRi9EWgK5i2aMq3Q7YNw3b4L6s1rz7nE9rJOClaVHT5TBMQJN2-tL9Flkxa7pplA-0xgCun_-zcAZ8k6T94r3_EpAPiHvlzL3GdjqHX6WCmQNIJZKa1cjl8dJ66e0aruax7aVCkyb_bEkMOHnqpyOO3PM4uPn1jRszyEdIzpKUpFOz9BS76CNmdSRama7wJDg-iP07bn-gx7ZAf0Q4vSccKit-zkw8svpAtD8F_srqDxXUkabIDF-dT410F-Dj68fewBtJ2D4"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiLCfV-otSUdpeSyUNXL5rbN2swMLYq7kP2n7glrkMI6FvVgLfczfKftk8eQELFLGcqDKoGUJ8mEFl9Uwe8osJrVBdoQ3gXnfEX1YBHUv88TnyLYtGPLcCbjMo3SUCGFaq_PdGXjxDyWQVthI_7ood6mud9iKBoeks0bA8KU5K2ctw6REIDe3imo1adf0u3oeh0L-kYzSTE7k9jP5FJSulUoNf1sMBqUNMoAiM-Z82RZ3JDLmxac0Y1afPsuSGYgHT00y-1NKhZKMiGoqbD1y4zscGbIHKWbImf9Mde2uuRN4M7qgjGBtG28puGNYwH0oq3Eu6eo",
+            "q": "Junior Accountant in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiLCfV-otSUdpeSyUNXL5rbN2swMLYq7kP2n7glrkMI6FvVgLfczfKftk8eQELFLGcqDKoGUJ8mEFl9Uwe8osJrVBdoQ3gXnfEX1YBHUv88TnyLYtGPLcCbjMo3SUCGFaq_PdGXjxDyWQVthI_7ood6mud9iKBoeks0bA8KU5K2ctw6REIDe3imo1adf0u3oeh0L-kYzSTE7k9jP5FJSulUoNf1sMBqUNMoAiM-Z82RZ3JDLmxac0Y1afPsuSGYgHT00y-1NKhZKMiGoqbD1y4zscGbIHKWbImf9Mde2uuRN4M7qgjGBtG28puGNYwH0oq3Eu6eo&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiLCfV-otSUdpeSyUNXL5rbN2swMLYq7kP2n7glrkMI6FvVgLfczfKftk8eQELFLGcqDKoGUJ8mEFl9Uwe8osJrVBdoQ3gXnfEX1YBHUv88TnyLYtGPLcCbjMo3SUCGFaq_PdGXjxDyWQVthI_7ood6mud9iKBoeks0bA8KU5K2ctw6REIDe3imo1adf0u3oeh0L-kYzSTE7k9jP5FJSulUoNf1sMBqUNMoAiM-Z82RZ3JDLmxac0Y1afPsuSGYgHT00y-1NKhZKMiGoqbD1y4zscGbIHKWbImf9Mde2uuRN4M7qgjGBtG28puGNYwH0oq3Eu6eo"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rC8yPJokVwOjCPeS0eHMeLPiJ1IGY-anMnlsmBHlVuzl7iXRC5v4V6OaqjCAcglu4_s3sPuvf1XPmlz7OjbaaOTtoQKCZNi1W_QjQZBpAqIl4EVJHlxVHnfK_jMy_zk25hSdkMlt0DSak0nnIRtYXsWrRyJm1cQLekhyB8giCISJvFmNNUawDi3lJ73gFhAl1cm_7zrUoD6nUQDpCXNyMHkZvvVLI-tULRbyZoGwZwWlFvmq0nu1iyBfeXgxN77fhPn4_z0337cvYDLdsn0DAX977cAEzI2r03md-boky5uD8vsOtvP-KJ9sqQ1-bEuUM_Gt-TmvOTxxbo89lqkoqbBohcm4",
+            "q": "Junior Accountant in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rC8yPJokVwOjCPeS0eHMeLPiJ1IGY-anMnlsmBHlVuzl7iXRC5v4V6OaqjCAcglu4_s3sPuvf1XPmlz7OjbaaOTtoQKCZNi1W_QjQZBpAqIl4EVJHlxVHnfK_jMy_zk25hSdkMlt0DSak0nnIRtYXsWrRyJm1cQLekhyB8giCISJvFmNNUawDi3lJ73gFhAl1cm_7zrUoD6nUQDpCXNyMHkZvvVLI-tULRbyZoGwZwWlFvmq0nu1iyBfeXgxN77fhPn4_z0337cvYDLdsn0DAX977cAEzI2r03md-boky5uD8vsOtvP-KJ9sqQ1-bEuUM_Gt-TmvOTxxbo89lqkoqbBohcm4&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rC8yPJokVwOjCPeS0eHMeLPiJ1IGY-anMnlsmBHlVuzl7iXRC5v4V6OaqjCAcglu4_s3sPuvf1XPmlz7OjbaaOTtoQKCZNi1W_QjQZBpAqIl4EVJHlxVHnfK_jMy_zk25hSdkMlt0DSak0nnIRtYXsWrRyJm1cQLekhyB8giCISJvFmNNUawDi3lJ73gFhAl1cm_7zrUoD6nUQDpCXNyMHkZvvVLI-tULRbyZoGwZwWlFvmq0nu1iyBfeXgxN77fhPn4_z0337cvYDLdsn0DAX977cAEzI2r03md-boky5uD8vsOtvP-KJ9sqQ1-bEuUM_Gt-TmvOTxxbo89lqkoqbBohcm4"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOlXwN1Kkg1slxefdo_4jCHyh8WvpCQTwnUWNKYMb3yVHOzcHVdh3Qflf0WdTerxZGWvv30f8pfNQO4L7GoLG9YvGUYmIvLqKjXG0VfoPsw65V8ElEXmypb9KTozKXbaYPdpEokYzI_YOhliMi905QEVskP8ri8N8jj1c2W9DG0nlpzdywJRNh3NwolILL-zNvv8uJToBJNVvw-WM0q-XaqPStChGR_7PSzWPo0_8sHgrjOAi7dM22sa9YsO1Xvmt1iob8nIA_aW4XaNurAwzEOcwhIeAXuuuR0e1VbMhod3wM98dfbmQK6iP0cVgLmov8Ca1UFIWQY_MEAYpJKLgaeX8fZE",
+            "q": "Junior Accountant in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOlXwN1Kkg1slxefdo_4jCHyh8WvpCQTwnUWNKYMb3yVHOzcHVdh3Qflf0WdTerxZGWvv30f8pfNQO4L7GoLG9YvGUYmIvLqKjXG0VfoPsw65V8ElEXmypb9KTozKXbaYPdpEokYzI_YOhliMi905QEVskP8ri8N8jj1c2W9DG0nlpzdywJRNh3NwolILL-zNvv8uJToBJNVvw-WM0q-XaqPStChGR_7PSzWPo0_8sHgrjOAi7dM22sa9YsO1Xvmt1iob8nIA_aW4XaNurAwzEOcwhIeAXuuuR0e1VbMhod3wM98dfbmQK6iP0cVgLmov8Ca1UFIWQY_MEAYpJKLgaeX8fZE&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOlXwN1Kkg1slxefdo_4jCHyh8WvpCQTwnUWNKYMb3yVHOzcHVdh3Qflf0WdTerxZGWvv30f8pfNQO4L7GoLG9YvGUYmIvLqKjXG0VfoPsw65V8ElEXmypb9KTozKXbaYPdpEokYzI_YOhliMi905QEVskP8ri8N8jj1c2W9DG0nlpzdywJRNh3NwolILL-zNvv8uJToBJNVvw-WM0q-XaqPStChGR_7PSzWPo0_8sHgrjOAi7dM22sa9YsO1Xvmt1iob8nIA_aW4XaNurAwzEOcwhIeAXuuuR0e1VbMhod3wM98dfbmQK6iP0cVgLmov8Ca1UFIWQY_MEAYpJKLgaeX8fZE"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQd3nymKmckqehgywTXJJqw-43iYv5yrLYIVSS2plns-TinHmYkUuDbhbuFqipMRi9EWgK5i2aMq3Q7YNw3b4L6s1rz7nE9rJOClaVHT5TBMQJN2-tL9Flkxa7pplA-0xgCun_-zcAZ8k6T94r3_EpAPiHvlzL3GdjqHX6WCmQNIJZKa1cjl8dJ66e0aruax7aVCkyb_bEkMOHnqpyOO3PM4uPn1jRszyEdIzpKUpFOz9BS76CNmdSRama7wJDg-iP07bn-gx7ZAf0Q4vSccKit-zkw8svpAtD8F_srqDxXUkabIDF-dT410F-Dj68fewBtJ2D4",
+            "q": "Junior Accountant since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQd3nymKmckqehgywTXJJqw-43iYv5yrLYIVSS2plns-TinHmYkUuDbhbuFqipMRi9EWgK5i2aMq3Q7YNw3b4L6s1rz7nE9rJOClaVHT5TBMQJN2-tL9Flkxa7pplA-0xgCun_-zcAZ8k6T94r3_EpAPiHvlzL3GdjqHX6WCmQNIJZKa1cjl8dJ66e0aruax7aVCkyb_bEkMOHnqpyOO3PM4uPn1jRszyEdIzpKUpFOz9BS76CNmdSRama7wJDg-iP07bn-gx7ZAf0Q4vSccKit-zkw8svpAtD8F_srqDxXUkabIDF-dT410F-Dj68fewBtJ2D4&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQd3nymKmckqehgywTXJJqw-43iYv5yrLYIVSS2plns-TinHmYkUuDbhbuFqipMRi9EWgK5i2aMq3Q7YNw3b4L6s1rz7nE9rJOClaVHT5TBMQJN2-tL9Flkxa7pplA-0xgCun_-zcAZ8k6T94r3_EpAPiHvlzL3GdjqHX6WCmQNIJZKa1cjl8dJ66e0aruax7aVCkyb_bEkMOHnqpyOO3PM4uPn1jRszyEdIzpKUpFOz9BS76CNmdSRama7wJDg-iP07bn-gx7ZAf0Q4vSccKit-zkw8svpAtD8F_srqDxXUkabIDF-dT410F-Dj68fewBtJ2D4"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiLCfV-otSUdpeSyUNXL5rbN2swMLYq7kP2n7glrkMI6FvVgLfczfKftk8eQELFLGcqDKoGUJ8mEFl9Uwe8osJrVBdoQ3gXnfEX1YBHUv88TnyLYtGPLcCbjMo3SUCGFaq_PdGXjxDyWQVthI_7ood6mud9iKBoeks0bA8KU5K2ctw6REIDe3imo1adf0u3oeh0L-kYzSTE7k9jP5FJSulUoNf1sMBqUNMoAiM-Z82RZ3JDLmxac0Y1afPsuSGYgHT00y-1NKhZKMiGoqbD1y4zscGbIHKWbImf9Mde2uuRN4M7qgjGBtG28puGNYwH0oq3Eu6eo",
+            "q": "Junior Accountant in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiLCfV-otSUdpeSyUNXL5rbN2swMLYq7kP2n7glrkMI6FvVgLfczfKftk8eQELFLGcqDKoGUJ8mEFl9Uwe8osJrVBdoQ3gXnfEX1YBHUv88TnyLYtGPLcCbjMo3SUCGFaq_PdGXjxDyWQVthI_7ood6mud9iKBoeks0bA8KU5K2ctw6REIDe3imo1adf0u3oeh0L-kYzSTE7k9jP5FJSulUoNf1sMBqUNMoAiM-Z82RZ3JDLmxac0Y1afPsuSGYgHT00y-1NKhZKMiGoqbD1y4zscGbIHKWbImf9Mde2uuRN4M7qgjGBtG28puGNYwH0oq3Eu6eo&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiLCfV-otSUdpeSyUNXL5rbN2swMLYq7kP2n7glrkMI6FvVgLfczfKftk8eQELFLGcqDKoGUJ8mEFl9Uwe8osJrVBdoQ3gXnfEX1YBHUv88TnyLYtGPLcCbjMo3SUCGFaq_PdGXjxDyWQVthI_7ood6mud9iKBoeks0bA8KU5K2ctw6REIDe3imo1adf0u3oeh0L-kYzSTE7k9jP5FJSulUoNf1sMBqUNMoAiM-Z82RZ3JDLmxac0Y1afPsuSGYgHT00y-1NKhZKMiGoqbD1y4zscGbIHKWbImf9Mde2uuRN4M7qgjGBtG28puGNYwH0oq3Eu6eo"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rC8yPJokVwOjCPeS0eHMeLPiJ1IGY-anMnlsmBHlVuzl7iXRC5v4V6OaqjCAcglu4_s3sPuvf1XPmlz7OjbaaOTtoQKCZNi1W_QjQZBpAqIl4EVJHlxVHnfK_jMy_zk25hSdkMlt0DSak0nnIRtYXsWrRyJm1cQLekhyB8giCISJvFmNNUawDi3lJ73gFhAl1cm_7zrUoD6nUQDpCXNyMHkZvvVLI-tULRbyZoGwZwWlFvmq0nu1iyBfeXgxN77fhPn4_z0337cvYDLdsn0DAX977cAEzI2r03md-boky5uD8vsOtvP-KJ9sqQ1-bEuUM_Gt-TmvOTxxbo89lqkoqbBohcm4",
+            "q": "Junior Accountant in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rC8yPJokVwOjCPeS0eHMeLPiJ1IGY-anMnlsmBHlVuzl7iXRC5v4V6OaqjCAcglu4_s3sPuvf1XPmlz7OjbaaOTtoQKCZNi1W_QjQZBpAqIl4EVJHlxVHnfK_jMy_zk25hSdkMlt0DSak0nnIRtYXsWrRyJm1cQLekhyB8giCISJvFmNNUawDi3lJ73gFhAl1cm_7zrUoD6nUQDpCXNyMHkZvvVLI-tULRbyZoGwZwWlFvmq0nu1iyBfeXgxN77fhPn4_z0337cvYDLdsn0DAX977cAEzI2r03md-boky5uD8vsOtvP-KJ9sqQ1-bEuUM_Gt-TmvOTxxbo89lqkoqbBohcm4&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rC8yPJokVwOjCPeS0eHMeLPiJ1IGY-anMnlsmBHlVuzl7iXRC5v4V6OaqjCAcglu4_s3sPuvf1XPmlz7OjbaaOTtoQKCZNi1W_QjQZBpAqIl4EVJHlxVHnfK_jMy_zk25hSdkMlt0DSak0nnIRtYXsWrRyJm1cQLekhyB8giCISJvFmNNUawDi3lJ73gFhAl1cm_7zrUoD6nUQDpCXNyMHkZvvVLI-tULRbyZoGwZwWlFvmq0nu1iyBfeXgxN77fhPn4_z0337cvYDLdsn0DAX977cAEzI2r03md-boky5uD8vsOtvP-KJ9sqQ1-bEuUM_Gt-TmvOTxxbo89lqkoqbBohcm4"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOlXwN1Kkg1slxefdo_4jCHyh8WvpCQTwnUWNKYMb3yVHOzcHVdh3Qflf0WdTerxZGWvv30f8pfNQO4L7GoLG9YvGUYmIvLqKjXG0VfoPsw65V8ElEXmypb9KTozKXbaYPdpEokYzI_YOhliMi905QEVskP8ri8N8jj1c2W9DG0nlpzdywJRNh3NwolILL-zNvv8uJToBJNVvw-WM0q-XaqPStChGR_7PSzWPo0_8sHgrjOAi7dM22sa9YsO1Xvmt1iob8nIA_aW4XaNurAwzEOcwhIeAXuuuR0e1VbMhod3wM98dfbmQK6iP0cVgLmov8Ca1UFIWQY_MEAYpJKLgaeX8fZE",
+            "q": "Junior Accountant in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnuNKMFivXpv2Qa68zVrWPn1qt-5hQ:1791544771899&q=Junior+Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOlXwN1Kkg1slxefdo_4jCHyh8WvpCQTwnUWNKYMb3yVHOzcHVdh3Qflf0WdTerxZGWvv30f8pfNQO4L7GoLG9YvGUYmIvLqKjXG0VfoPsw65V8ElEXmypb9KTozKXbaYPdpEokYzI_YOhliMi905QEVskP8ri8N8jj1c2W9DG0nlpzdywJRNh3NwolILL-zNvv8uJToBJNVvw-WM0q-XaqPStChGR_7PSzWPo0_8sHgrjOAi7dM22sa9YsO1Xvmt1iob8nIA_aW4XaNurAwzEOcwhIeAXuuuR0e1VbMhod3wM98dfbmQK6iP0cVgLmov8Ca1UFIWQY_MEAYpJKLgaeX8fZE&udm=8&sa=X&ved=2ahUKEwjdq-mt6KyXAxXXGFkFHXL5BzAQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&q=Junior+Accountant+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOlXwN1Kkg1slxefdo_4jCHyh8WvpCQTwnUWNKYMb3yVHOzcHVdh3Qflf0WdTerxZGWvv30f8pfNQO4L7GoLG9YvGUYmIvLqKjXG0VfoPsw65V8ElEXmypb9KTozKXbaYPdpEokYzI_YOhliMi905QEVskP8ri8N8jj1c2W9DG0nlpzdywJRNh3NwolILL-zNvv8uJToBJNVvw-WM0q-XaqPStChGR_7PSzWPo0_8sHgrjOAi7dM22sa9YsO1Xvmt1iob8nIA_aW4XaNurAwzEOcwhIeAXuuuR0e1VbMhod3wM98dfbmQK6iP0cVgLmov8Ca1UFIWQY_MEAYpJKLgaeX8fZE"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Junior Accountant",
+      "company_name": "Shunya Tattva Management Consultants",
+      "location": "Navi Mumbai, Maharashtra",
+      "via": "WorkIndia",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Accountant&htidocid=Bhz0ox8tWC6tAT5iAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBBFsc0RrKYOkohgo41iIQix0V4my7K7spkJmdkQO-_gMbyVJ3HTvOq__4rvoigviQIPcDSGEymSwu_9gSe3IBYH44EJzswu2uXeq_ayq2uRWDlR1GAqw13NZFue6izJjId4HGwfUe1js11PVU-uPNx8ohfCHVVHhAYJne1s7p2YJMU5LRAIrjgGaFLXYljlWb5C8TrgH-XaVPCuAAAA&shmds=v1_ARwrE21XarCw-5Hit_5a4oHwqgvikg2HuQXeWUtcfuFqdaFL-A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Accountant&htidocid=Bhz0ox8tWC6tAT5iAAAAAA%3D%3D",
+      "extensions": [
+        "1 day ago",
+        "₹12K–₹15K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.workindia.in/jobs/junior_accountant-mahape-mumbai-11471532/",
+      "job_title": "Junior Accountant",
+      "description": "Salary Range : Rs. 12000 - Rs. 15000 , based on skills, experience, and interview performance\n\nEducational Requirement : Graduate / Female Only\n\nWork Arrangement : Work From Office\n\nGender Preference : Female only\n\nSkills Requirement : No predefined skills necessary\n\nExperience Requirement : Fresher\n\nLocation : Mahape\n\nWorking Hours : 9:30 AM - 6:30 PM | Monday to Saturday\n\nAdditional Info : Manage Financial Records, Prepare Tax Filings, And Ensure Compliance With Legal Regulations. Analyze Financial Data To Assist In Decision-Making. Provide Advice On Tax Planning And Savings Opportunities. Skills Needed : GST, TDS, Tally | Book Keeping",
+      "apply_options": [
+        {
+          "title": "WorkIndia",
+          "link": "https://www.workindia.in/jobs/junior_accountant-mahape-mumbai-11471532/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IlNodW55YSBUYXR0dmEgTWFuYWdlbWVudCBDb25zdWx0YW50cyIsImh0aWRvY2lkIjoiQmh6MG94OHRXQzZ0QVQ1aUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVlUWFZ0WW1GcExFMWhhR0Z5WVhOb2RISmhMRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEVoR1RDMHpTMmxwVldVMGVDMXZhbGR2VkVoNVYyNUVkVTEyWVRoUWRpMW9PRE4zUkhKSk0yVmtNMFUxUlhaQ05GVTFNbXAzTlhseVRFUlFha1puUkhBeWJEbHRjRnBEVmpGd2FqaExXbk5oT1VOME4zZGxOM1JtWDBkdFNuQXpiVkJZYm5wbFZXbGpRVEl3VGpFeWNXNUNjWGsxUVRWT1JVRm5RVE5PU0U1cmJUbFFTRGNTRjNjNE0wbGhjREl0VG5SbGVEVk9iMUE0ZGt0bVowRk5HaUpCUkhOeU9XWlVkSEpRU21SR2RrZGtjMk5QT0ZZM1prbHZaa3hOTFdwMmNYcDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJCaHowb3g4dFdDNnRBVDVpQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior  Accountant",
+      "company_name": "Ruloans",
+      "location": "Mumbai, Maharashtra",
+      "via": "Job Hai",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Accountant&htidocid=82HNG_PvywdGB6hYAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQoCMRBAUWz3CBYytUoigo1WVoKwjRdYJiFsItmZkJnAlta23tCTuDa_er97r7rdvVHiCnD1nhspksL39YEnO5CA1UdgghvzmMP6ElWLnK0VyWYURU3eeJ4sU3A822WSfwaJWEPJqGE4ng6zKTRuN4-WGUkgEfRtcpj20OMCUaJW_AExZOe3jQAAAA&shmds=v1_ARwrE224g5yn3ouRS39_Rhw1XMhYJgceBxU1HG2UB3f17LvXVg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Accountant&htidocid=82HNG_PvywdGB6hYAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8cdb7a973c45db756ece2/images/D4uVq_xs9f9Yye7r5_QWvepdUJhQHXHkxX7Wt9BVaPo.jpeg",
+      "extensions": [
+        "22 days ago",
+        "₹15K–₹20K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobhai.com/accountant-junior-accountant-job-in-ruloans-andheri-east-mumbai-0-to-2-years-1789640023-8359355-jid",
+      "job_title": "Junior  Accountant",
+      "description": "We are looking for an Junior  Accountant to join our team at at RULOANS. The role involves managing financial transactions of the organization, preparing accurate reports, and ensuring compliance with tax regulations. The position offers ₹15,000 - ₹20,000 and opportunities for professional growth.  Key Responsibilities:\n\n    Ensure timely tax filings, computations, and compliance with regulatory requirements.   Securely manage and back up financial data while maintaining confidentiality.   Prepare accurate financial statements, balance sheets, and profit/loss reports.   Oversee daily financial transactions, including accounts payable, receivable, and reconciliations.   Job Requirements:\n\n A perfect candidate for this role should have a keen eye for numerical accuracy. The minimum qualification for this role is 12th Pass and 6 months - 2 years of experience. Applicants must have knowledge about accounting and GAAP (Generally Accepted Accounting Principles).It is a Full Time Accountant job for candidates with 6 months - 2 years of experience.More about this Junior Accountant jobPlease go through the FAQs to get all answers related to the given Junior Accountant jobWho is eligible to apply for this Junior Accountant job at Ruloans?\nAns :   Candidates should have a 12th Pass and above qualification for this Junior Accountant job offered by Ruloans.\n\nHow much can you earn in this position?\nAns :   You can earn between ₹15,000-₹20,000 per month in this Junior Accountant position.\n\nWhat is the work schedule for this Junior Accountant job?\nAns :   This Junior Accountant job has 6 days working days and timings from 09:30 AM - 06:30 PM.\n\nDo you need to visit the office for this job?\nAns :   Yes, candidates need to visit the office and work from the location in Andheri (East), Mumbai.\n\nHow many vacancies are there for this Junior Accountant job?\nAns :   There are 10 vacancies for this Junior Accountant role.\n\nIs this job open for all genders?\nAns :   Yes, this Junior Accountant job is open for both male and female candidates.\n\nWhat is the job location for this position?\nAns :   The job location for this Junior Accountant position is Andheri (East), Mumbai.\n\nWhat makes this Junior Accountant job a good opportunity?\nAns :   This Junior Accountant job is a good opportunity as it offers a salary between ₹15,000-₹20,000 per month. This is a Full Time job and has 10 openings.\n\nCandidates can call HR for more info.",
+      "apply_options": [
+        {
+          "title": "Job Hai",
+          "link": "https://www.jobhai.com/accountant-junior-accountant-job-in-ruloans-andheri-east-mumbai-0-to-2-years-1789640023-8359355-jid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgIEFjY291bnRhbnQiLCJjb21wYW55X25hbWUiOiJSdWxvYW5zIiwiaHRpZG9jaWQiOiI4MkhOR19Qdnl3ZEdCNmhZQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVRYVnRZbUZwTEUxaGFHRnlZWE5vZEhKaExFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURE00T0VSSFoxRlhjMnBVWDI1b1kxSlpSa3g0UWs5YWN6RkJVa3hGVVcxV2NXUkZaVzFKTFVoZk1ESnRhRlJvUTBsVFlXSnVjVmwyZDNwSFdqa3diVFZHTUZFMmFEVTVla05NYURodVpsSjJkRk5mY2tsRVlXRlZNVFZET1Zjek9HRkdaRmxSVUV0Q2J6RXlSV2RKV1RodFZrUjJMVzh4TnpGd00wSmlNMmhoYURWMVNFVVNGM2M0TTBsaGNESXRUblJsZURWT2IxQTRka3RtWjBGTkdpSkJSSE55T1daU2FEVmxOa2w2WVVNeU9YRlRUMUZMVTJ0cVVuQXdNMmRNYkU1MyIsImZjdiI6IjMiLCJmY19pZCI6IjgySE5HX1B2eXdkR0I2aFlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Accountant Job in Mumbai at Agile Talent Solutions LLP",
+      "company_name": "CollegeSearch",
+      "location": "Mumbai, Maharashtra",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Accountant&htidocid=oTGVGlVgLvIeCIBDAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2OMQrCQBBFsc0RrKawEsmKYKNVsBBCAkLENkyWYbOy2QmZCaT0Dh7H23gSI4LNb_57n5-8FsktH6PnATJreYyKUSHnBnyEcuwa9IAKmfOB4IqB5rbiMKrnKFAUF3g_nnCfeSEcbAsc4czsAi2PrWovB2NEQupEUb1NLXeGIzU8mVmSb9TS4kB9QKV6t99OaR_denXiEMhR9Vv9n9lAiTOO0uqAH2lFxjS-AAAA&shmds=v1_ARwrE22RfQd-vlQkcdsbhCLPW6Ub8qSzdt261SCo-ZEf2bcSJw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Accountant&htidocid=oTGVGlVgLvIeCIBDAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "₹3.06L–₹5.1L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobleads.com/in/job/junior-accountant-job-in-mumbai-at-agile-talent-solutions-llp--mumbai--e622e05ef5dead1296c9ab4c62370ca59",
+      "job_title": "Junior Accountant Job in Mumbai at Agile Talent Solutions LLP",
+      "description": "# Junior Accountant Job in Mumbai at Agile Talent Solutions LLPAgile Talent Solutions LLPFresherfull timeINR 479999-510000 /year31 October, 2026### About the JobAs a Junior Accountant, you will have the opportunity to showcase your skills in MS-Office, Accounting, Tally, MS-Excel, English Proficiency (Spoken), and English Proficiency (Written). Join our dynamic team and grow your career in a fast-paced environment where you will be able to learn and develop new skills.    Key responsibilities:  1. Assist in preparing financial statements and reports  2. Process invoices and payments accurately and in a timely manner  3. Maintain and reconcile accounts payable and receivable  4. Update and maintain financial records and data  5. Assist in budget preparation and monitoring  6. Support the finance team in month-end and year-end closing procedures  7. Communicate effectively with internal and external stakeholders to ensure compliance and accuracy in financial transactions.    If you are a detail-oriented individual with a passion for finance and accounting, this is the perfect opportunity for you to kickstart your International career in African Continent. Apply now and be part of a team that values growth, innovation, and excellence.### Number of Openings3 openings### Perks of this JobsFree snacksTransportation### SkillsMS-Office, Accounting, Tally, MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/junior-accountant-job-in-mumbai-at-agile-talent-solutions-llp--mumbai--e622e05ef5dead1296c9ab4c62370ca59?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQWNjb3VudGFudCBKb2IgaW4gTXVtYmFpIGF0IEFnaWxlIFRhbGVudCBTb2x1dGlvbnMgTExQIiwiY29tcGFueV9uYW1lIjoiQ29sbGVnZVNlYXJjaCIsImh0aWRvY2lkIjoib1RHVkdsVmdMdkllQ0lCREFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVlUWFZ0WW1GcExFMWhhR0Z5WVhOb2RISmhMRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2s0NGRqUjVabFJRYkRGbFEzcEVhRVF3TlVSUE1uTmhVUzFyWTFKbGRVaFFNM053U0ZWaFZHeHJRMkp6YUMxWlZWRjRObFp4YmxGQ2JWRk5TV2xoTTFObmVXTkVkRFZFYmpGaFR6WmxYM2t5WHprME56UkZTa05aWVRadmIwZFRWbm81VkVwVFpFMXBhMmxMWWxGNFduRjZhVUZYU2tkSVgweHFUa1JtUW10U1VDMWlNa1FTRjNjNE0wbGhjREl0VG5SbGVEVk9iMUE0ZGt0bVowRk5HaUpCUkhOeU9XWlJXR2RDYzFSeFZFUlpTREF5Ynpoa1ZuaFBiRkphWmxaMldGQkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJvVEdWR2xWZ0x2SWVDSUJEQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Jr. Accountant / Admin",
+      "company_name": "SPECTRAFORCE",
+      "location": "Mumbai, Maharashtra",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Accountant&htidocid=sebFflGQ5aC2r1irAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TrBbsRO5EsNEqhCgIQYn2YXMedwnJbbjdQEr_kB_6EmMz1QyTzKtE36KC1Bgag2AQ0JC--ybA9zNDSzWwxWg8UIArkevs-uxFBj5pzdwpx4LSGGWo1xRsTZNeIv6jYo_RDh2KrQ7H_aSG4Lab5yPPXmV6uZdZDsumGPsamx0UuNjIXiL-AKeD1zWWAAAA&shmds=v1_ARwrE22K_urjkKfgw7pZlrwR2enf0Yy76p29xSbLdb8wOGNajg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Accountant&htidocid=sebFflGQ5aC2r1irAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAAkFBMVEX____8_Py6urq_v7_V1dWsrKy2trbR0dHZ2dmxsbHGxsbLy8vDw8Pt7e3l5eXw4Zn14pXuu7_98vLswY7ywq3fPgDUIiTyvqjiNwC_IyDKcivvcRrTDw_55uX19_iVlZXuyZzpZgDBNC7KXi3mVCPdJCHUDQbolZTro6TxggfwcTLnjx_5wAXz7KbqogDgQhfPeVs0AAAAqUlEQVQ4je2QSQ-CQAyFO50ZZh8VEBcQcN_1__87CYaDcuOgl_ny0jZNXpo-gEDgT4zGk3iALUkgnWZvJ2nVta62AyE952y-WObFquQ-EpoLj1pWTHGoiBI-0pIbpoyMPDWfvnq92e72xQGERcM4s83OOqUkKjQIQDlaBx7d173jKT1frrc8JlZLANQlUmDOMQGNALGUzlHqkfW_vD-e2ZB0GgalGgj8iBehXgeN40YrZwAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/jr-accountant-admin/spectraforce/19440406",
+      "job_title": "Jr. Accountant / Admin",
+      "description": "Job Title: Junior Accountant / Admin\n\n\nDepartment: Finance, Corporate Accounts & General Admin\n\n\nLocation: Head Office, Pune\n\n\nWork Format: On-Site | Full-Time Shift: General Day Shift\n\n\nExperience: 14 Years\n\n\nJob Overview\nWe are seeking a detail-oriented and proactive Junior Accountant / Admin to join our Finance & Corporate Accounts team. This multi-faceted role ensures precise financial bookkeeping while keeping day-to-day office administration running smoothly.\n\n\nKey Responsibilities\n\nBookkeeping & Invoicing: Record daily ledger entries, process vendor payments, issue customer invoices, track collections, and manage petty cash.\nOffice Administration: Supervise vendor contracts, monitor office infrastructure, purchase supplies, and manage corporate document filing.\nCompliance Support: Assist senior management with monthly taxation filing, cash flow monitoring, and annual audits.\n\nMandatory Requirements\n\nEducation: B.Com, M.Com, or equivalent degree in Finance / Corporate Accounting.\nSoftware Skills: Hands-on experience with Tally Prime or Zoho Books, plus strong operational knowledge of MS Excel.\nAttributes: High organizational habits, multitasking capability, and uncompromising financial integrity. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/jr-accountant-admin/spectraforce/19440406?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/995504835027533824?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340982310/accountant-admin-mumbai?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKci4gQWNjb3VudGFudCAvIEFkbWluIiwiY29tcGFueV9uYW1lIjoiU1BFQ1RSQUZPUkNFIiwiaHRpZG9jaWQiOiJzZWJGZmxHUTVhQzJyMWlyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVRYVnRZbUZwTEUxaGFHRnlZWE5vZEhKaExFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbkpaVTA1V2ExZFpOVWxNTFdnNE0xVm5lbTVHU2t0SE9FUkZOR3gxWDBWVmNERnNkbWRYZWs5T2NqWlhURVZxVnpaS1VqWnpjelJMTVhOTFpXWlJaamd5TTE4MU1VTlNaVWgyYzA1SFNGSmxkMkpzVW05MFdWUkNaSGxHYjFkTE1UTjBNbEpLVUVsbGNEbE9Tbk5JT1RSQ2VETTJXVjloU0hCSWMweFhOMUpIT0UxTE1ISVNGM2M0TTBsaGNESXRUblJsZURWT2IxQTRka3RtWjBGTkdpSkJSSE55T1daUk9UTkhjVTVVVXpaRWNXRkVlSGx1U2xwcE1rVjNZMFpTVDNOQiIsImZjdiI6IjMiLCJmY19pZCI6InNlYkZmbEdRNWFDMnIxaXJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Accounts Executive| Junior Accountant",
+      "company_name": "Connect to consultancy",
+      "location": "Maharashtra",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Accountant&htidocid=QM-mfZDvKslkH28fAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2NMQrCQBBFsc0RrKaxsciKYKMgiIggeIawGYbsyjoTdmYlgoV38AqezJMYweY37z1-9Z5U2x2iFDaFw0BYLN7oAafCUTL8kWeDz_MFF2lByWcMIAxHkS7RdBPMel07p5rqTs1bxBrl6oSplcGNkf6m0eAz9ckbNcvVYqh77uazvTATGpgACmtJ4xneITKc_eh7DZb9F3XLbcanAAAA&shmds=v1_ARwrE201Uz6zEt9UhfsPUCQ11yd5COVN84U3OpL43JVtwqRwDw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Accountant&htidocid=QM-mfZDvKslkH28fAAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.indeed.com/viewjob?jk=228fce20cfe044a5",
+      "job_title": "Accounts Executive| Junior Accountant",
+      "description": "Accounts Executive / Junior Accountant\n\n\nLocation: Kandivali East, Mumbai\n\n\nExperience: 2–3 years\n\n\nQualification: Any Graduate\n\n\nSalary: ₹1.8–3.6 LPA\n\n\nJob Description:\n\n\nMaintain day-to-day accounting records and vouchers.\n\n\nHandle sales & purchase entries, receipts, payments and journal entries.\n\n\nPrepare invoices, bills and expense records. Perform bank, customer and vendor reconciliations. Maintain accounts payable and receivable records. Assist with GST, TDS and other statutory compliance.\n\n\nPrepare basic MIS reports and account statements. Maintain proper documentation and filing of financial records.\n\n\nCoordinate with vendors, customers and internal teams for account-related queries.\n\n\nRequirements:\n\n\n2–3 years of experience in accounting.\n\n\nTally / Tally Prime knowledge is mandatory.\n\n\nGood working knowledge of MS Excel is mandatory.\n\n\nStrong knowledge of basic accounting and bookkeeping is mandatory.\n\n\nKnowledge of GST and TDS is mandatory.\n\n\nTaxation and audit knowledge preferred.\n\n\nPay: ₹360,000.00 per year\n\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=228fce20cfe044a5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50cyBFeGVjdXRpdmV8IEp1bmlvciBBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiQ29ubmVjdCB0byBjb25zdWx0YW5jeSIsImh0aWRvY2lkIjoiUU0tbWZaRHZLc2xrSDI4ZkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVlUWFZ0WW1GcExFMWhhR0Z5WVhOb2RISmhMRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xwbFdqZGxYMDE2UjBSMWREZG5aVWt0TFdOWVEwTklUSEUxVFVKUGVrZG1NekpSY0ZGNWVuQndla2QzYnpKVU4wNDJMV3RvU1VGME5uaExiWHBzUldaMU5WUkZVamh1VmxoM1RYazJORzlmY1VvMVNXUkpTMmxEV25wWE9XSTFVMlpwY1VreFREZEljM04zVkdOYVdHZHhkV3BGUzFWc1ptOUlSVWRyVDFsV09VRlNjbGtTRjNjNE0wbGhjREl0VG5SbGVEVk9iMUE0ZGt0bVowRk5HaUpCUkhOeU9XWlRURmRaUkhGV1JUTlFkVFU1UW1KSFgxSnBUREZsTUhVM1NFMTMiLCJmY3YiOiIzIiwiZmNfaWQiOiJRTS1tZlpEdktzbGtIMjhmQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Jr Accountant",
+      "company_name": "OktoBuzz",
+      "location": "Mumbai, Maharashtra",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Accountant&htidocid=rbJ1VsjU3Un95AWmAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQoCMRBAUWz3CDZOZSGSiGCjlTaCsHiEZTaEJJrNhMwElq2svIA39CSuza_eb96LZn0rcDaGahJMAt_XBx7UA1ssxgMluBK5aJcnL5L5qDVzVI4FJRhlaNCUbE-jnif-p2OPxeaIYrv9YTeqnNxmdX8KXeo0QUjQ1qHHsIUWZ4nspeAPmcUpsIkAAAA&shmds=v1_ARwrE23iBBniTpLGLvop4t97ZTl3crjIhz7kTJsIDdcPlBWR5w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Accountant&htidocid=rbJ1VsjU3Un95AWmAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8cdb7a973c45db756ece2/images/P1l9DDoKi5ebKwPkABGZQLOoCizAIvcKncrhmWLQmnI.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/jr-accountant-at-oktobuzz-4449434961",
+      "job_title": "Jr Accountant",
+      "description": "Job Description: Jr Accountant \n\nAbout The Company\n\nOktoBuzz Digital Solutions Pvt. Ltd. is a Mumbai based Digital Marketing Agency working with premier clients like Citi India, Amazon Singapore, Hamleys India, Norton India, Forbes India, CNBC Tv18, Crossword, Hockey World Cup 2018, Simon and Schuster, Satva India and the US, Amazon.in - Westland Publishing (Authors like Amish Tripathi, Chetan Bhagat, Ashwin Sanghi) and more. We build digital go-to-market strategy for clients with focus on brilliant creativity combined with a deep understanding of consumer behavior on social platforms. Parallel to this is expertise in performance driven ad planning with strong pedigree in attribution based campaign planning and execution.\n\nFrom a Culture point of view we got featured on:\n\nChannel News Asia as a part of the GenZ documentary series.BBC news India as a ‘Happier place to work’.Global Happiness Coach- Kyla Mitsunaga’s International book “On Growing”\n\nKnow more about us at www.oktobuzz.com\n\nLocation:\n\nAndheri (E), Mumbai\n\nResponsibilities\n\nBe responsible for day-to-day bookkeeping activities in an accurate and timely manner to achieve overall department objectivesRecord all client and vendor invoices in the accounting software in an accurate and timely mannerFollow up with clients for timely realization of invoiced amounts in association with various functional teamsCoordinate with vendors for efficient onboarding and payment executionUpdate actual bank statements and reconciliations regularly and assist the team lead in effective cash flow managementLog in entries on regular and timely basis for all admin bills, vouchers, and POs as per accounting policiesAdministrative and ad hoc assignments concerning the accounting and finance department of the organization\n\nSkills Required\n\nMS ExcelTally, Basic understanding of TaxationProblem-solving and analytical abilitiesAbility to work effectively in a fast-paced and dynamic environment.\n\nWork Experience\n\n6 months to 2 years of experience\n\nQualifications\n\nB.COM / M.COM",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/jr-accountant-at-oktobuzz-4449434961?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/jr-accountant-oktobuzz-mumbai-62047259?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/jr-accountant/per-chem/19551336?position_in_results=77&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/jr-accountant-careerstrike-hr-solutions-mumbai--ss-in-vjn87a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/jr-accountant-sds-by-kushal-shah-mumbai-2-to-5-years-experience-f14bd308-9438-4e7c-bea0-663c75fee4a6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/ananta-resource-management-jr-accountant-mumbai-maharashtra-india-1-to-2-years-441100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/4081538738142838784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKciBBY2NvdW50YW50IiwiY29tcGFueV9uYW1lIjoiT2t0b0J1enoiLCJodGlkb2NpZCI6InJiSjFWc2pVM1VuOTVBV21BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZVFhWdFltRnBMRTFoYUdGeVlYTm9kSEpoTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRIQTJaMEpVZEVKTVJXbFJNR1l0YkZOTmRHNUZiRUZmTTNOV2FWaE5hMVZhVDBKMlZEbFRZWFZHYmpSbWFrbDJjVVZvZURSR1dIQnZkalY2T1VwMmNXUnVaMUp5VlZkSldGQm1URWwwTTJwb05rRllkbnB0UnpRNVNUTnlSVzVvVmxsbVNVRkNabmM0TTNaUk5VOVdXazR3VkhaTlRYUTVWelowUkVjeWRrMHpabFZrV0ZFU0YzYzRNMGxoY0RJdFRuUmxlRFZPYjFBNGRrdG1aMEZOR2lKQlJITnlPV1pUTWpSTlQzTkZZMUUyZVhGblN6ZHhiakJNWm5FNGRGZEtlVGwzIiwiZmN2IjoiMyIsImZjX2lkIjoicmJKMVZzalUzVW45NUFXbUFBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Accountant",
+      "company_name": "Vijay Automobiles",
+      "location": "Panvel, Maharashtra",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Accountant&htidocid=oEjXLXXcb_H6C8GTAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCQAwAUFz7CU4ZpUhPBBedOgmC4ORa0iP0rlyTckmlbv5D_9AvsS5ve8WyKcrbxFEy1N7LxIZs8P0s0EsLSph9AGG4inSJtpdgNurZOdVUdWpo0VdeBidMrcxuTfqn0YCZxoRGzfF0mKuRu3L3jD2-oZ5MBmljIoXI8EB-UdrDHdeCGizjD--4h0WWAAAA&shmds=v1_ARwrE20dEAHIWvMDGjpI4IMktQr5dvTjO9qHGQybKlM1vEwDsg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Accountant&htidocid=oEjXLXXcb_H6C8GTAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "₹15K–₹18K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/LgcFaRuTmo7BvWSlT8E7CWbxAM1oHnO_tzPusfS9lnPn3ojOp5p0fg",
+      "job_title": "Junior Accountant",
+      "description": "Job Title: Junior Accountant\n\nLocation: Panvel, Navi Mumbai\nIndustry: Fuel Retail (Petrol Pump)\nEmployment Type: Full-Time\n\nAbout the Company\n\nWe are a professionally managed Hindustan Petroleum (HPCL) retail outlet committed to operational excellence, financial discipline, and outstanding customer service. We are looking for a detail-oriented and trustworthy Junior Accountant to manage day-to-day accounting operations and support the finance function.\n\nKey Responsibilities\n\nRecord daily accounting transactions in Tally.Maintain cash, bank, and ledger accounts.Perform daily cash and bank reconciliations.Record sales, purchases, and expenses.Manage accounts payable and receivable.Prepare GST and TDS records.Reconcile UPI, POS, card, and cash collections.Maintain accounting documents and records.Coordinate with management, banks, and auditors.Ensure accuracy, confidentiality, and timely completion of all accounting tasks.Pay: ₹15,000.00 - ₹18,000.00 per month\n\nBenefits:\n\nProvident FundExperience:\n\nTally: 1 year (Required)Work Location: In person",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/LgcFaRuTmo7BvWSlT8E7CWbxAM1oHnO_tzPusfS9lnPn3ojOp5p0fg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/pradnil-buildmarque-junior-accountant-panvel-1-to-4-years-1133460?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IlZpamF5IEF1dG9tb2JpbGVzIiwiaHRpZG9jaWQiOiJvRWpYTFhYY2JfSDZDOEdUQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVRYVnRZbUZwTEUxaGFHRnlZWE5vZEhKaExFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbXBZZVRWVWR6ZExVVkZ3TUZVMFNFVlRSREJXVjNSV1ExVnZPV2RHVDNWaGRIUnFkR1JrWkRGdGEyNTFUV1pSVjJwdlpFaEVRbFZzZEVaa1lXdElXRUZVVEZWa2MxUm5kWGhsTjNZd1EyTllZbWR6YkRsQ0xWVlNiRzVGTmpOTVJGRkpaV0Z5TFcxZlIxWlRNR1JRU3pjek1rZGxUVFJLWWxKNlNERmZTM05OYWs5dk56SVNGM2M0TTBsaGNESXRUblJsZURWT2IxQTRka3RtWjBGTkdpSkJSSE55T1daVGVYVXlVbGhzV25wMk1uTndVemREUTNOaFp5MW9ZM010V21OUiIsImZjdiI6IjMiLCJmY19pZCI6Im9FalhMWFhjYl9INkM4R1RBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Jr. Accountant",
+      "company_name": "Shreeji Exim Works LLP",
+      "location": "Navi Mumbai, Maharashtra",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Accountant&htidocid=egj42jdPC0TkJHziAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU63CSKJFFx0chBBWhEcHMs1HE1qmyu5q3T0H9z8PL9EXd72svcsW5ySgb1zPEbFqPB5vqDlGoQwOQ8c4cjcdDTfedVBttaKdKYRRQ3OOO4tR6p5sr8kfyrxmGjoUKnKN-vJDLFZ5lefiNoAhyn0cON0FyiKC4QIZ3wEKMe-xrCCEn8ZxWvCL1PR0bedAAAA&shmds=v1_ARwrE20u_HTQdAtupSmBTatQxRuWK7mRyUUmL87TfcDO7s5Ufw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Accountant&htidocid=egj42jdPC0TkJHziAAAAAA%3D%3D",
+      "extensions": [
+        "24 days ago",
+        "₹22K–₹28K a month",
+        "Full–time"
+      ],
+      "source_link": "https://www.glassdoor.co.in/job-listing/jr-accountant-shreeji-exim-works-llp-JV_KO0,13_KE14,36.htm?jl=1010263735980",
+      "job_title": "Jr. Accountant",
+      "description": "Position Name: Jr. Accountant \n\nWe are looking for a detail-oriented and experienced Jr. Accountant having expertise’s to manages financial records, oversees daily accounting operations.\n\nKey Responsibilities\n\n· Maintaining Cash Flow & Bank Flow, Updating Daily BRS.\n\n· Reconciliation - Perform regular bank and general ledger account reconciliations.\n\n· Recording of sales and purchase entries, Bank Reconciliation, Vendor/utility payment using\n\n· internet banking facility.\n\n· Great Knowledge of direct and indirect taxation: statutory payment, returns filing\n\n· and related compliances (GST, e‐invoicing, TDS, PF, PT, ESIC, MLWF, Income‐tax. etc.)\n\n· Proficiency in using Tally, Microsoft Excel, Word, PowerPoint.\n\n· Able to work in a fast‐paced work environment, ability to adapt and learn quickly.\n\n· Accounts Payable & Receivable: Process incoming invoices, track customer payments, and manage vendor billing issues.\n\n· Manage petty cash\n\nRequired Skills & Qualifications\n\nBachelor’s degree – B.Com / M.comComputer skills – MS office, Tally ERP1–4 years of relevant experiencePay: ₹22,000.00 - ₹28,000.00 per month\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jr-accountant-shreeji-exim-works-llp-JV_KO0,13_KE14,36.htm?jl=1010263735980&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/hN7LiLbD9vPP1l98FjdZSgbPMK7VECWbIp_QD5Ez9EbhL-l-NZqxJA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/jr-accountant-el-tacos-navi-mumbai--techmap_in_685854624?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/jr-accountant-directushr-JV_IC5021997_KO0,13_KE14,24.htm?jl=1010240258402&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/jr-accountant--navi-mumbai--ec68c3480ff1c8c8323dbaf98b14184fd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKci4gQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IlNocmVlamkgRXhpbSBXb3JrcyBMTFAiLCJodGlkb2NpZCI6ImVnajQyamRQQzBUa0pIemlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZVFhWdFltRnBMRTFoYUdGeVlYTm9kSEpoTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFRkJhelpzWDJ0bWJXRmpUWGhDWkdWbFZtNWZXRzVNTnpZMGQxaFdlWEozUWs1T2MyVjBhelJSZGtOd09YaHpSV2t5YWxCbFRqVXpTVEZ5U1VKUFVWcGFNakU0YnpCbWJVVnllV0pKVmtFNFMwa3piVUl5YTJSSGJteHZWV0pqUVhsV05HZFBPR0V0WVRoV1RISlplbWhRTlhjM2RHTjVNVTR4Y3psbmVWRkdNVnBWWVRZU0YzYzRNMGxoY0RJdFRuUmxlRFZPYjFBNGRrdG1aMEZOR2lKQlJITnlPV1pUT0VaMWQzWmplalZ1VmkxUWFFRlhNRGxaWDBwMlJEVXliV1puIiwiZmN2IjoiMyIsImZjX2lkIjoiZWdqNDJqZFBDMFRrSkh6aUFBQUFBQT09In0="
+    },
+    {
+      "title": "Urgent opening for junior Accountant",
+      "company_name": "confidential",
+      "location": "Mumbai, Maharashtra",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Accountant&htidocid=CPAUFs36-vuRZ-KPAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQ7CMBAERZsnUJ1Eh1CMkGhAFFRUKamji3FsI-fO8l2klPyBF_A1XoJpdovZ0TafVXO5F-9IgbOjSB5GLvCcKda6WsszKVb6fb3hyQOIw2IDMMGN2Se3PgfVLCdjRFLrRVGjbS1PhskNvJgqyT96CVhcTqiuPxz3S5vJbzeWaYyPeh8xQSTo5mnAuIMO6xolaMEfDJdY5aQAAAA&shmds=v1_ARwrE20IzLv1ZkzlMKyB5-LflEuM-A4x7rpxz-qHBLZBAU1Cig&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Accountant&htidocid=CPAUFs36-vuRZ-KPAAAAAA%3D%3D",
+      "extensions": [
+        "₹3L–₹3.5L a year",
+        "Full–time"
+      ],
+      "source_link": "https://in.jooble.org/jdp/5183188437564820414",
+      "job_title": "Urgent opening for junior Accountant",
+      "description": "Tally is Must. \n\n Petty Cash handling & Entries \n\n ï'· Bank Entries \n\n ï'· Bank Reconcilation - Excel, Book & Tally \n\n ï'· Sale and Purchase entries on tally \n\n ï'· TDS Working \n\n Ledger Scrutiny \n\n ï'· GSTR 1 Working \n\n\n\n ï'· GSTR 3B Working \n\n \n\n\n\n Only female unmarried candidates required. \n\n\n\n Location--Mumbai central \n\n\n\n Salary---upto 18k(depending on experience and last drawn)",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/5183188437564820414?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/maharashtra-minerals-corporation-ltd-urgent-opening-for-cost-accountant-mumbai-maharashtra-india-1-to-2-years-362315?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJVcmdlbnQgb3BlbmluZyBmb3IganVuaW9yIEFjY291bnRhbnQiLCJjb21wYW55X25hbWUiOiJjb25maWRlbnRpYWwiLCJodGlkb2NpZCI6IkNQQVVGczM2LXZ1UlotS1BBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZVFhWdFltRnBMRTFoYUdGeVlYTm9kSEpoTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVcHplRGRDWTJWSmJESTJVelJ0UVUxUk0wRm9iMjB5T1d3MlptaENWbFZ6UmxwRGNtTjZkWHBKZVVnemJraEhWMnRmWjI5SlQxUm5jM0V3YVUwMGQwNTJaWEJFZFc0MFpWQlZSRXBGY0dwellsVXRhVXc1ZW1OaVoxSmtSM0JJV1RKS2FsZFBTV050VkdoaVVWRklTblYxUWxwTGJuQTVPVzV0YzFGUlpuSm9VV2s1VGpJU0YzYzRNMGxoY0RJdFRuUmxlRFZPYjFBNGRrdG1aMEZOR2lKQlJITnlPV1pVZDBSYVoxOVFjazVrUXpOVVNFdHBaVE5IZW1RMVRXbGtOa2hCIiwiZmN2IjoiMyIsImZjX2lkIjoiQ1BBVUZzMzYtdnVSWi1LUEFBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Accountant",
+      "company_name": "Coppergate Consultants Private Limited",
+      "location": "Mumbai, Maharashtra (+1 other)",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Accountant&htidocid=SQogN1DVdMv_SQiaAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNQQrCMBBFcdsjuJp1kUYEN4oL6UIQC96gTGNIImkmZCbSpXfwEp7Lk9hu3uLB-7_6rqr6WqKnDGetqUTBKPB7f-BJA7DBrB1QhAuRDWZ9dCKJD0oxh8ayoHjdaBoVRTPQpOaIF_TsMJsUUEy_22-nJkVbn1pKyWQ7S2gpcgnLGcM9-9fibn70Yh7gI3RlHNBvoMN5B9lJxj_-vBj4qwAAAA&shmds=v1_ARwrE22KTqc1a-RppUpFCXJOO1hBtmd1JFcbgoMUtrMkmgdLtw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Accountant&htidocid=SQogN1DVdMv_SQiaAAAAAA%3D%3D",
+      "extensions": [
+        "11 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/junior-accountant/coppergate-consultants-private-limited/19616442",
+      "job_title": "Junior Accountant",
+      "description": "We are seeking a motivated and detail-oriented Junior Accountant to join our finance team in Maharashtra. The ideal candidate will have a foundational understanding of accounting principles and practices, along with proficiency in Tally software. This role is perfect for recent graduates or individuals with up to five years of experience in accounting or finance. \n\nAs a Junior Accountant, you will be responsible for assisting in the preparation of financial statements, maintaining accurate financial records, and ensuring compliance with relevant regulations. You will also support the senior accounting staff in various tasks, including data entry, reconciliations, and reporting. \n\nKey responsibilities include: \n- Assisting in the preparation of monthly and annual financial reports. \n- Maintaining and updating financial records in Tally. \n- Performing bank reconciliations and ensuring accuracy in financial transactions. \n- Supporting audits by providing necessary documentation and information. \n- Collaborating with team members to improve accounting processes and efficiency. \n\nThe successful candidate will possess the following skills: \n- Proficiency in Tally software. \n- A Bachelors degree in Commerce (B.Com) or a related field. \n- Strong attention to detail and accuracy. \n- Good organizational and time management skills. \n- Ability to work collaboratively in a team environment. \n\nIf you are looking to kickstart your career in accounting and are eager to learn and grow within a dynamic team, we encourage you to apply for this exciting opportunity.",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-accountant/coppergate-consultants-private-limited/19616442?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQWNjb3VudGFudCIsImNvbXBhbnlfbmFtZSI6IkNvcHBlcmdhdGUgQ29uc3VsdGFudHMgUHJpdmF0ZSBMaW1pdGVkIiwiaHRpZG9jaWQiOiJTUW9nTjFEVmRNdl9TUWlhQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVRYVnRZbUZwTEUxaGFHRnlZWE5vZEhKaExFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVXRrVmtSUU1VSkxiRGRSVDNnelZtSXpSMUJSTlZBeWExTXdZbUprY21aRWNEbFNUVnBhVldsWlRVOXRVRFYyY0RKa1RuWmhZMmh6WVdaVFEyOTJURGxpVDFCSmRUUTVURFpIWkVkeU5YcDZlRGxNZUc1dVQwZG1TMGxDY0dORWR6RlJXRzF5YkZvdFUxRmZWbEJTWVRnM01tWkpRVk10TkdwTlpEWkJVekpxVmtoYWRqTVNGM2M0TTBsaGNESXRUblJsZURWT2IxQTRka3RtWjBGTkdpSkJSSE55T1daU2QwSjVRbTlPZGxSeGMyTkxVVEpCVEd0SVVWQXlORXcwVDFsUiIsImZjdiI6IjMiLCJmY19pZCI6IlNRb2dOMURWZE12X1NRaWFBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMkpJZVcxamVXbGtiSEJWVDFOUmJqWlZXVUZQUVRFeFZIWTRTa3hhYXpRMGVUWkRUWEF5YmpFdFdUWTJWRVEzTFc5WlZsQjVOR0UwWkc1dk4yMXRaMHBFU2prMU1reFFVMUExYjBack1qa3pSVUpVT0c1NVQwVkxOblZrUVVRM2JWZFNWMVZCYkZCbGRXeFNZeTFZZERaQ1ZWWmhVVFJNUlZoQk9GQlVTelExZURkek5VdE5UM04xVEdGMlpXODJlVjh0YW5veFJrRkZRVXhmV21sdlRsRlFSMjg1U1hZd1MyaG5SVEJxY21FelYwODRMVEpvWmxGa00wcEtiV3hDYTFKUFZVTkxhbTFaWlVOQlJXWkJibEIzYTFwT09WRlJXamxUY0ZaVlFYWjFOa041V0dSb2VVWkhSbWsyUldwdFRVdzNjVzVPUkRSQmNpMDJXRFV6TkRsWlNUQnlRa3BMUmpCU1VscE9hR1ZUYTJSMU1XRkxjREEwYlZOM1pFSm1WSFl5Y1hsR01IaEVaR2RuVlhwSllVd3pVVTlPVEU1VFVUSTRjR3hwYkU1bk5FRnFRMUZFZWkxTldUQlljR1JzZW1GVU1uTnhObXQ0ZUdseFZYWnVhVU16VVhGelJua3lVWGhoTUZvNVQwMUtVall4WW5Sd1JXaEZaMTlYY0ZaSFNUVktNVGhZZURGWVQxbzBSWEpvVFRWblVFMDNTbWh5V21SamVsOHpaekYzWWxwb05tSnRhMXBMWlU1bGExZFRjV0ptWWxsc2FVUjBTVk5XV2tsMmVWQlpWMVJEVlcxNWFXOTBWa2QzTmt0S1gyeFlSR040VFZCUlZIY1NGM2M0TTBsaGNESXRUblJsZURWT2IxQTRka3RtWjBGTkdpSkJSSE55T1daVU5VTnNaWGczWjJGclVXUTBZa3BoTFhoeGEzTmFXRlJ4UzNoQiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTMkpJZVcxamVXbGtiSEJWVDFOUmJqWlZXVUZQUVRFeFZIWTRTa3hhYXpRMGVUWkRUWEF5YmpFdFdUWTJWRVEzTFc5WlZsQjVOR0UwWkc1dk4yMXRaMHBFU2prMU1reFFVMUExYjBack1qa3pSVUpVT0c1NVQwVkxOblZrUVVRM2JWZFNWMVZCYkZCbGRXeFNZeTFZZERaQ1ZWWmhVVFJNUlZoQk9GQlVTelExZURkek5VdE5UM04xVEdGMlpXODJlVjh0YW5veFJrRkZRVXhmV21sdlRsRlFSMjg1U1hZd1MyaG5SVEJxY21FelYwODRMVEpvWmxGa00wcEtiV3hDYTFKUFZVTkxhbTFaWlVOQlJXWkJibEIzYTFwT09WRlJXamxUY0ZaVlFYWjFOa041V0dSb2VVWkhSbWsyUldwdFRVdzNjVzVPUkRSQmNpMDJXRFV6TkRsWlNUQnlRa3BMUmpCU1VscE9hR1ZUYTJSMU1XRkxjREEwYlZOM1pFSm1WSFl5Y1hsR01IaEVaR2RuVlhwSllVd3pVVTlPVEU1VFVUSTRjR3hwYkU1bk5FRnFRMUZFZWkxTldUQlljR1JzZW1GVU1uTnhObXQ0ZUdseFZYWnVhVU16VVhGelJua3lVWGhoTUZvNVQwMUtVall4WW5Sd1JXaEZaMTlYY0ZaSFNUVktNVGhZZURGWVQxbzBSWEpvVFRWblVFMDNTbWh5V21SamVsOHpaekYzWWxwb05tSnRhMXBMWlU1bGExZFRjV0ptWWxsc2FVUjBTVk5XV2tsMmVWQlpWMVJEVlcxNWFXOTBWa2QzTmt0S1gyeFlSR040VFZCUlZIY1NGM2M0TTBsaGNESXRUblJsZURWT2IxQTRka3RtWjBGTkdpSkJSSE55T1daVU5VTnNaWGczWjJGclVXUTBZa3BoTFhoeGEzTmFXRlJ4UzNoQiIsImZjdiI6IjMifQ%3D%3D&q=Junior+Accountant"
+  },
+  "_retrieved_at": "2026-10-09 11:19:19 UTC"
+}

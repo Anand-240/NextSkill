@@ -1,0 +1,534 @@
+{
+  "search_metadata": {
+    "id": "6ac8cd8eeb6ec5594800cbab",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/q8aMYuB6lZreDxM2FFehxGl1hD72Olb9W9I0NVk-h68/6ac8cd8eeb6ec5594800cbab.json",
+    "markdown_endpoint": "https://serpapi.com/searches/q8aMYuB6lZreDxM2FFehxGl1hD72Olb9W9I0NVk-h68/6ac8cd8eeb6ec5594800cbab.md",
+    "created_at": "2026-10-09 11:18:38 UTC",
+    "processed_at": "2026-10-09 11:18:38 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Junior+Python+Developer&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/q8aMYuB6lZreDxM2FFehxGl1hD72Olb9W9I0NVk-h68/6ac8cd8eeb6ec5594800cbab.html",
+    "total_time_taken": 2.46
+  },
+  "search_parameters": {
+    "q": "Junior Python Developer",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFa2o0JhNkSECFiglsbMkH0-8bAleVRDqXZN_F4S-uXxDBCPg6Co5JCGogm4E92y8my4tOKUKvYjOa-Fs7uHILlwgdk2E3X9F4GERVntXrFzHaVkp3Qa4IZBMufqA-I1sloCUt7y1sNt2z1nLiZQV5SkWdVyDy_o7ZFtKqujXRdc7hjnf",
+        "q": "Junior Python Developer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFa2o0JhNkSECFiglsbMkH0-8bAleVRDqXZN_F4S-uXxDBCPg6Co5JCGogm4E92y8my4tOKUKvYjOa-Fs7uHILlwgdk2E3X9F4GERVntXrFzHaVkp3Qa4IZBMufqA-I1sloCUt7y1sNt2z1nLiZQV5SkWdVyDy_o7ZFtKqujXRdc7hjnf&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QxKsJKAB6BAggEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFa2o0JhNkSECFiglsbMkH0-8bAleVRDqXZN_F4S-uXxDBCPg6Co5JCGogm4E92y8my4tOKUKvYjOa-Fs7uHILlwgdk2E3X9F4GERVntXrFzHaVkp3Qa4IZBMufqA-I1sloCUt7y1sNt2z1nLiZQV5SkWdVyDy_o7ZFtKqujXRdc7hjnf"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJXQavsIok_e1DmSwy50LDloEH73gwneUt9ik3izE0jsfYC2R6G7Wo33KAXsVOrFPfl216n9pUaMxv3bhs9ssFp-pF9Q1IGS1-O2eEXKiXxn2w91_hHdTmRS4EOZu6MyugI-N3N-_fe4ih4pVhYFfS6C91eYf8QTOTWrSDJ37KYkQ-IxRCBfQU84CMrM1HkApn0Vfm731dsEOa-4nu0_o78IYcbpYKWomckwA-Y4i5Pn7R8wEwmkaD1uYKmpPpV_pQU2Z3CZ_af_aJDzc6SumVfg8NDjEz3lFbLpU21wE5prH8Y_I",
+            "q": "Junior Python Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJXQavsIok_e1DmSwy50LDloEH73gwneUt9ik3izE0jsfYC2R6G7Wo33KAXsVOrFPfl216n9pUaMxv3bhs9ssFp-pF9Q1IGS1-O2eEXKiXxn2w91_hHdTmRS4EOZu6MyugI-N3N-_fe4ih4pVhYFfS6C91eYf8QTOTWrSDJ37KYkQ-IxRCBfQU84CMrM1HkApn0Vfm731dsEOa-4nu0_o78IYcbpYKWomckwA-Y4i5Pn7R8wEwmkaD1uYKmpPpV_pQU2Z3CZ_af_aJDzc6SumVfg8NDjEz3lFbLpU21wE5prH8Y_I&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIIxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJXQavsIok_e1DmSwy50LDloEH73gwneUt9ik3izE0jsfYC2R6G7Wo33KAXsVOrFPfl216n9pUaMxv3bhs9ssFp-pF9Q1IGS1-O2eEXKiXxn2w91_hHdTmRS4EOZu6MyugI-N3N-_fe4ih4pVhYFfS6C91eYf8QTOTWrSDJ37KYkQ-IxRCBfQU84CMrM1HkApn0Vfm731dsEOa-4nu0_o78IYcbpYKWomckwA-Y4i5Pn7R8wEwmkaD1uYKmpPpV_pQU2Z3CZ_af_aJDzc6SumVfg8NDjEz3lFbLpU21wE5prH8Y_I"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJ8h8oXSxApmZbJ-fYLf2Pgt-9ZTuNrvrfqduN7z7X-zhrao5JhNC-d65cqXjDRWG2Tjen5srZSI5k9Lho6TcKkwX83A4E0nLtwy5DxZOiWnC4tLHpwzoCpPSKhiN_p6hLNZMQhFLlPzVAMJXacmb4Jxy3DKQLFMH4Wv7FP5pxPzAPy_lhDKSaAXUouQlQ6rQbISZaewXXMlr9l1nqU9gFeJAnHVNkSdq5lYG2U-Fstc7wane177rfMRh_Zt_dGs2iImj9MKkDBOCO2CtF-syUD6i5ngT1gAyOMUpyyl_MzWCiE8M",
+            "q": "Junior Python Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJ8h8oXSxApmZbJ-fYLf2Pgt-9ZTuNrvrfqduN7z7X-zhrao5JhNC-d65cqXjDRWG2Tjen5srZSI5k9Lho6TcKkwX83A4E0nLtwy5DxZOiWnC4tLHpwzoCpPSKhiN_p6hLNZMQhFLlPzVAMJXacmb4Jxy3DKQLFMH4Wv7FP5pxPzAPy_lhDKSaAXUouQlQ6rQbISZaewXXMlr9l1nqU9gFeJAnHVNkSdq5lYG2U-Fstc7wane177rfMRh_Zt_dGs2iImj9MKkDBOCO2CtF-syUD6i5ngT1gAyOMUpyyl_MzWCiE8M&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIIxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJ8h8oXSxApmZbJ-fYLf2Pgt-9ZTuNrvrfqduN7z7X-zhrao5JhNC-d65cqXjDRWG2Tjen5srZSI5k9Lho6TcKkwX83A4E0nLtwy5DxZOiWnC4tLHpwzoCpPSKhiN_p6hLNZMQhFLlPzVAMJXacmb4Jxy3DKQLFMH4Wv7FP5pxPzAPy_lhDKSaAXUouQlQ6rQbISZaewXXMlr9l1nqU9gFeJAnHVNkSdq5lYG2U-Fstc7wane177rfMRh_Zt_dGs2iImj9MKkDBOCO2CtF-syUD6i5ngT1gAyOMUpyyl_MzWCiE8M"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4raTQwLFdlf9S4KSCgVzHOS_nnFVCHm1YayYXFrTB_YwO4xeRbvsa7EeeSGPOhGGLkES2KxS4kFdL3oVhOyl9faMV3MgiW5BYSDgpl8SaVa47ylI83MEJfgg0FO9MZEMkPwKJyJ-KotDxCtcIS5AfCoJL94bfSQhTIEbop2YGcSkKPn029pIP4RmWs9PUieKfBBWZXxJ_zPVx_fTNKAA5Heu_g2fjmh4JN1q-wIh6cu8a-eL1_EXcFfVZRBy6uLguHlS3R0agKpmhgt64v_xnlaXo3J8KRs6O6vRw07S-Psh-xDs17w5bs4C9tN3mifIflrQ5Clw",
+            "q": "Junior Python Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raTQwLFdlf9S4KSCgVzHOS_nnFVCHm1YayYXFrTB_YwO4xeRbvsa7EeeSGPOhGGLkES2KxS4kFdL3oVhOyl9faMV3MgiW5BYSDgpl8SaVa47ylI83MEJfgg0FO9MZEMkPwKJyJ-KotDxCtcIS5AfCoJL94bfSQhTIEbop2YGcSkKPn029pIP4RmWs9PUieKfBBWZXxJ_zPVx_fTNKAA5Heu_g2fjmh4JN1q-wIh6cu8a-eL1_EXcFfVZRBy6uLguHlS3R0agKpmhgt64v_xnlaXo3J8KRs6O6vRw07S-Psh-xDs17w5bs4C9tN3mifIflrQ5Clw&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIIxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raTQwLFdlf9S4KSCgVzHOS_nnFVCHm1YayYXFrTB_YwO4xeRbvsa7EeeSGPOhGGLkES2KxS4kFdL3oVhOyl9faMV3MgiW5BYSDgpl8SaVa47ylI83MEJfgg0FO9MZEMkPwKJyJ-KotDxCtcIS5AfCoJL94bfSQhTIEbop2YGcSkKPn029pIP4RmWs9PUieKfBBWZXxJ_zPVx_fTNKAA5Heu_g2fjmh4JN1q-wIh6cu8a-eL1_EXcFfVZRBy6uLguHlS3R0agKpmhgt64v_xnlaXo3J8KRs6O6vRw07S-Psh-xDs17w5bs4C9tN3mifIflrQ5Clw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rL16Zr1sJtoY9wJKefioVsoD9-tXjxNB38CBTOnyQnc3Qs4fTIK2mei5YEA02x43fBIyHQ6gyb4b4BRdG9k2x5_memkHopLrTxrzpJ5J11StEA9uJICY1-04VVUwuqyq-dsAlp6Bd5GIkrLicqJoH4pdEFURmfPwuJxSv_YRNeBJ1hTnxiHlepuKiIUlDWg0ja37bMWYWxgdZE6CNkWsMsDcmJCGtF1w5fb0LK9l6rA5_7mxAyomVm0KQDk-8CwyMITyJswIb5TyHZdLfUgVTbdF9kPztm5dNKSwtq3jAwOoIJVpn9d9YX9JFT8LGP3b2Z9TJcA",
+            "q": "Junior Python Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rL16Zr1sJtoY9wJKefioVsoD9-tXjxNB38CBTOnyQnc3Qs4fTIK2mei5YEA02x43fBIyHQ6gyb4b4BRdG9k2x5_memkHopLrTxrzpJ5J11StEA9uJICY1-04VVUwuqyq-dsAlp6Bd5GIkrLicqJoH4pdEFURmfPwuJxSv_YRNeBJ1hTnxiHlepuKiIUlDWg0ja37bMWYWxgdZE6CNkWsMsDcmJCGtF1w5fb0LK9l6rA5_7mxAyomVm0KQDk-8CwyMITyJswIb5TyHZdLfUgVTbdF9kPztm5dNKSwtq3jAwOoIJVpn9d9YX9JFT8LGP3b2Z9TJcA&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIIxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rL16Zr1sJtoY9wJKefioVsoD9-tXjxNB38CBTOnyQnc3Qs4fTIK2mei5YEA02x43fBIyHQ6gyb4b4BRdG9k2x5_memkHopLrTxrzpJ5J11StEA9uJICY1-04VVUwuqyq-dsAlp6Bd5GIkrLicqJoH4pdEFURmfPwuJxSv_YRNeBJ1hTnxiHlepuKiIUlDWg0ja37bMWYWxgdZE6CNkWsMsDcmJCGtF1w5fb0LK9l6rA5_7mxAyomVm0KQDk-8CwyMITyJswIb5TyHZdLfUgVTbdF9kPztm5dNKSwtq3jAwOoIJVpn9d9YX9JFT8LGP3b2Z9TJcA"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJXQavsIok_e1DmSwy50LDloEH73gwneUt9ik3izE0jsfYC2R6G7Wo33KAXsVOrFPfl216n9pUaMxv3bhs9ssFp-pF9Q1IGS1-O2eEXKiXxn2w91_hHdTmRS4EOZu6MyugI-N3N-_fe4ih4pVhYFfS6C91eYf8QTOTWrSDJ37KYkQ-IxRCBfQU84CMrM1HkApn0Vfm731dsEOa-4nu0_o78IYcbpYKWomckwA-Y4i5Pn7R8wEwmkaD1uYKmpPpV_pQU2Z3CZ_af_aJDzc6SumVfg8NDjEz3lFbLpU21wE5prH8Y_I",
+            "q": "Junior Python Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJXQavsIok_e1DmSwy50LDloEH73gwneUt9ik3izE0jsfYC2R6G7Wo33KAXsVOrFPfl216n9pUaMxv3bhs9ssFp-pF9Q1IGS1-O2eEXKiXxn2w91_hHdTmRS4EOZu6MyugI-N3N-_fe4ih4pVhYFfS6C91eYf8QTOTWrSDJ37KYkQ-IxRCBfQU84CMrM1HkApn0Vfm731dsEOa-4nu0_o78IYcbpYKWomckwA-Y4i5Pn7R8wEwmkaD1uYKmpPpV_pQU2Z3CZ_af_aJDzc6SumVfg8NDjEz3lFbLpU21wE5prH8Y_I&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIIxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJXQavsIok_e1DmSwy50LDloEH73gwneUt9ik3izE0jsfYC2R6G7Wo33KAXsVOrFPfl216n9pUaMxv3bhs9ssFp-pF9Q1IGS1-O2eEXKiXxn2w91_hHdTmRS4EOZu6MyugI-N3N-_fe4ih4pVhYFfS6C91eYf8QTOTWrSDJ37KYkQ-IxRCBfQU84CMrM1HkApn0Vfm731dsEOa-4nu0_o78IYcbpYKWomckwA-Y4i5Pn7R8wEwmkaD1uYKmpPpV_pQU2Z3CZ_af_aJDzc6SumVfg8NDjEz3lFbLpU21wE5prH8Y_I"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJ8h8oXSxApmZbJ-fYLf2Pgt-9ZTuNrvrfqduN7z7X-zhrao5JhNC-d65cqXjDRWG2Tjen5srZSI5k9Lho6TcKkwX83A4E0nLtwy5DxZOiWnC4tLHpwzoCpPSKhiN_p6hLNZMQhFLlPzVAMJXacmb4Jxy3DKQLFMH4Wv7FP5pxPzAPy_lhDKSaAXUouQlQ6rQbISZaewXXMlr9l1nqU9gFeJAnHVNkSdq5lYG2U-Fstc7wane177rfMRh_Zt_dGs2iImj9MKkDBOCO2CtF-syUD6i5ngT1gAyOMUpyyl_MzWCiE8M",
+            "q": "Junior Python Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJ8h8oXSxApmZbJ-fYLf2Pgt-9ZTuNrvrfqduN7z7X-zhrao5JhNC-d65cqXjDRWG2Tjen5srZSI5k9Lho6TcKkwX83A4E0nLtwy5DxZOiWnC4tLHpwzoCpPSKhiN_p6hLNZMQhFLlPzVAMJXacmb4Jxy3DKQLFMH4Wv7FP5pxPzAPy_lhDKSaAXUouQlQ6rQbISZaewXXMlr9l1nqU9gFeJAnHVNkSdq5lYG2U-Fstc7wane177rfMRh_Zt_dGs2iImj9MKkDBOCO2CtF-syUD6i5ngT1gAyOMUpyyl_MzWCiE8M&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIIxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-xpUZ_26_ZO9vkRZA6fxwUtD10DYc9z66nnrRISt4pSJ8h8oXSxApmZbJ-fYLf2Pgt-9ZTuNrvrfqduN7z7X-zhrao5JhNC-d65cqXjDRWG2Tjen5srZSI5k9Lho6TcKkwX83A4E0nLtwy5DxZOiWnC4tLHpwzoCpPSKhiN_p6hLNZMQhFLlPzVAMJXacmb4Jxy3DKQLFMH4Wv7FP5pxPzAPy_lhDKSaAXUouQlQ6rQbISZaewXXMlr9l1nqU9gFeJAnHVNkSdq5lYG2U-Fstc7wane177rfMRh_Zt_dGs2iImj9MKkDBOCO2CtF-syUD6i5ngT1gAyOMUpyyl_MzWCiE8M"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4raTQwLFdlf9S4KSCgVzHOS_nnFVCHm1YayYXFrTB_YwO4xeRbvsa7EeeSGPOhGGLkES2KxS4kFdL3oVhOyl9faMV3MgiW5BYSDgpl8SaVa47ylI83MEJfgg0FO9MZEMkPwKJyJ-KotDxCtcIS5AfCoJL94bfSQhTIEbop2YGcSkKPn029pIP4RmWs9PUieKfBBWZXxJ_zPVx_fTNKAA5Heu_g2fjmh4JN1q-wIh6cu8a-eL1_EXcFfVZRBy6uLguHlS3R0agKpmhgt64v_xnlaXo3J8KRs6O6vRw07S-Psh-xDs17w5bs4C9tN3mifIflrQ5Clw",
+            "q": "Junior Python Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raTQwLFdlf9S4KSCgVzHOS_nnFVCHm1YayYXFrTB_YwO4xeRbvsa7EeeSGPOhGGLkES2KxS4kFdL3oVhOyl9faMV3MgiW5BYSDgpl8SaVa47ylI83MEJfgg0FO9MZEMkPwKJyJ-KotDxCtcIS5AfCoJL94bfSQhTIEbop2YGcSkKPn029pIP4RmWs9PUieKfBBWZXxJ_zPVx_fTNKAA5Heu_g2fjmh4JN1q-wIh6cu8a-eL1_EXcFfVZRBy6uLguHlS3R0agKpmhgt64v_xnlaXo3J8KRs6O6vRw07S-Psh-xDs17w5bs4C9tN3mifIflrQ5Clw&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIIxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raTQwLFdlf9S4KSCgVzHOS_nnFVCHm1YayYXFrTB_YwO4xeRbvsa7EeeSGPOhGGLkES2KxS4kFdL3oVhOyl9faMV3MgiW5BYSDgpl8SaVa47ylI83MEJfgg0FO9MZEMkPwKJyJ-KotDxCtcIS5AfCoJL94bfSQhTIEbop2YGcSkKPn029pIP4RmWs9PUieKfBBWZXxJ_zPVx_fTNKAA5Heu_g2fjmh4JN1q-wIh6cu8a-eL1_EXcFfVZRBy6uLguHlS3R0agKpmhgt64v_xnlaXo3J8KRs6O6vRw07S-Psh-xDs17w5bs4C9tN3mifIflrQ5Clw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rL16Zr1sJtoY9wJKefioVsoD9-tXjxNB38CBTOnyQnc3Qs4fTIK2mei5YEA02x43fBIyHQ6gyb4b4BRdG9k2x5_memkHopLrTxrzpJ5J11StEA9uJICY1-04VVUwuqyq-dsAlp6Bd5GIkrLicqJoH4pdEFURmfPwuJxSv_YRNeBJ1hTnxiHlepuKiIUlDWg0ja37bMWYWxgdZE6CNkWsMsDcmJCGtF1w5fb0LK9l6rA5_7mxAyomVm0KQDk-8CwyMITyJswIb5TyHZdLfUgVTbdF9kPztm5dNKSwtq3jAwOoIJVpn9d9YX9JFT8LGP3b2Z9TJcA",
+            "q": "Junior Python Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rL16Zr1sJtoY9wJKefioVsoD9-tXjxNB38CBTOnyQnc3Qs4fTIK2mei5YEA02x43fBIyHQ6gyb4b4BRdG9k2x5_memkHopLrTxrzpJ5J11StEA9uJICY1-04VVUwuqyq-dsAlp6Bd5GIkrLicqJoH4pdEFURmfPwuJxSv_YRNeBJ1hTnxiHlepuKiIUlDWg0ja37bMWYWxgdZE6CNkWsMsDcmJCGtF1w5fb0LK9l6rA5_7mxAyomVm0KQDk-8CwyMITyJswIb5TyHZdLfUgVTbdF9kPztm5dNKSwtq3jAwOoIJVpn9d9YX9JFT8LGP3b2Z9TJcA&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIIxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rL16Zr1sJtoY9wJKefioVsoD9-tXjxNB38CBTOnyQnc3Qs4fTIK2mei5YEA02x43fBIyHQ6gyb4b4BRdG9k2x5_memkHopLrTxrzpJ5J11StEA9uJICY1-04VVUwuqyq-dsAlp6Bd5GIkrLicqJoH4pdEFURmfPwuJxSv_YRNeBJ1hTnxiHlepuKiIUlDWg0ja37bMWYWxgdZE6CNkWsMsDcmJCGtF1w5fb0LK9l6rA5_7mxAyomVm0KQDk-8CwyMITyJswIb5TyHZdLfUgVTbdF9kPztm5dNKSwtq3jAwOoIJVpn9d9YX9JFT8LGP3b2Z9TJcA"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUMn1AMtTZlRjihTjm31XnVfz-ZWZ_GADtLiijHD60zO8rIMSG9I8d7I_mPFlnjSKtLcSEpQwgULkBAqTGo_Yt2yg_FLdQkWbS3I6jfHr9JqOAeKnupMV6L9uXtE_M7NvGU-Vk_--B1ejGplxbMwsnW7H5UHR9Iq3FulhqCrtKMaE53c7DPYjRcuBqLhwtspdrDzdrbXsRZXwxdeRgDhk_S3EDKqhT5hdoKAaNQ8Epo4Gy5dNsh3xLb7JRXiXWcIxTdUc0IAWBwhuHhjv_NZYGPdXiWHx7iENKtYLkMxffiWdRPQBQGJpz7LBJvhMQVdOx0D3sQ8",
+            "q": "Junior Python Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUMn1AMtTZlRjihTjm31XnVfz-ZWZ_GADtLiijHD60zO8rIMSG9I8d7I_mPFlnjSKtLcSEpQwgULkBAqTGo_Yt2yg_FLdQkWbS3I6jfHr9JqOAeKnupMV6L9uXtE_M7NvGU-Vk_--B1ejGplxbMwsnW7H5UHR9Iq3FulhqCrtKMaE53c7DPYjRcuBqLhwtspdrDzdrbXsRZXwxdeRgDhk_S3EDKqhT5hdoKAaNQ8Epo4Gy5dNsh3xLb7JRXiXWcIxTdUc0IAWBwhuHhjv_NZYGPdXiWHx7iENKtYLkMxffiWdRPQBQGJpz7LBJvhMQVdOx0D3sQ8&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIJBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUMn1AMtTZlRjihTjm31XnVfz-ZWZ_GADtLiijHD60zO8rIMSG9I8d7I_mPFlnjSKtLcSEpQwgULkBAqTGo_Yt2yg_FLdQkWbS3I6jfHr9JqOAeKnupMV6L9uXtE_M7NvGU-Vk_--B1ejGplxbMwsnW7H5UHR9Iq3FulhqCrtKMaE53c7DPYjRcuBqLhwtspdrDzdrbXsRZXwxdeRgDhk_S3EDKqhT5hdoKAaNQ8Epo4Gy5dNsh3xLb7JRXiXWcIxTdUc0IAWBwhuHhjv_NZYGPdXiWHx7iENKtYLkMxffiWdRPQBQGJpz7LBJvhMQVdOx0D3sQ8"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rAlLcxTnQUMFHkS1jXZHlGoPAPtcBPZ1IbHI8o4-L4L_vZ7DP8yeJ8b5YUjWVGhA0GJvSJc2l6lysIel2jz0UvQ2yFyD3c4KmjByqaJSx6BYrqwHbcgMvje8w8n377YsTGYYjlIbqrYYtlRi8-fuimTaGg3KxqAj7zGk_FYcsrUqBRlPiQD3w6vPC65yfR8TjAWbeYUValoMOixAR3P3kTDQ2UwouQWeZbPTbzocZa2bLD2iquHLLGYNu1Ql4PAEdLO5D1DRt6pAg-V0n8O4o-MaX7VCmrt4p8jzzW1T9ddAFkf04Dzi2vWr_At2sKIYCnE-dLyrsbo75t0JlmjpoPvfsMtQ",
+            "q": "Junior Python Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAlLcxTnQUMFHkS1jXZHlGoPAPtcBPZ1IbHI8o4-L4L_vZ7DP8yeJ8b5YUjWVGhA0GJvSJc2l6lysIel2jz0UvQ2yFyD3c4KmjByqaJSx6BYrqwHbcgMvje8w8n377YsTGYYjlIbqrYYtlRi8-fuimTaGg3KxqAj7zGk_FYcsrUqBRlPiQD3w6vPC65yfR8TjAWbeYUValoMOixAR3P3kTDQ2UwouQWeZbPTbzocZa2bLD2iquHLLGYNu1Ql4PAEdLO5D1DRt6pAg-V0n8O4o-MaX7VCmrt4p8jzzW1T9ddAFkf04Dzi2vWr_At2sKIYCnE-dLyrsbo75t0JlmjpoPvfsMtQ&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIJBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAlLcxTnQUMFHkS1jXZHlGoPAPtcBPZ1IbHI8o4-L4L_vZ7DP8yeJ8b5YUjWVGhA0GJvSJc2l6lysIel2jz0UvQ2yFyD3c4KmjByqaJSx6BYrqwHbcgMvje8w8n377YsTGYYjlIbqrYYtlRi8-fuimTaGg3KxqAj7zGk_FYcsrUqBRlPiQD3w6vPC65yfR8TjAWbeYUValoMOixAR3P3kTDQ2UwouQWeZbPTbzocZa2bLD2iquHLLGYNu1Ql4PAEdLO5D1DRt6pAg-V0n8O4o-MaX7VCmrt4p8jzzW1T9ddAFkf04Dzi2vWr_At2sKIYCnE-dLyrsbo75t0JlmjpoPvfsMtQ"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4reZWwy-ge31WEtdDaCtBKITsFYV8A9-U1bmOBgNyx6rcz4LthgoEtoNOaZn4zWhxgfDoUEIMbVK8_N2KOkFh_qlHBoIZD7S-Hr47XGfzEbVeKWRoEoL7dYTRNTAcybIB688gKoHFpsUTrsAAwJ5TzAR9Bdoj49ApcbrzgGhmj_VdJ_1kbUgFEFLZjqIBq5FeHHM1E3itnQ5--MEL5ODVmmNwnRCYquujqDTilmf6Dm6BokN7zXkzaZbbv5urwzY4i215nBIvRLTkKGAlCBsHn1q4H6D10YxmDwGjEYQ1ZtjJuiSRTrUzdYshzvKNRjg6bbT22bkYDWjd_AII_1oWSNiQjhZI",
+            "q": "Junior Python Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4reZWwy-ge31WEtdDaCtBKITsFYV8A9-U1bmOBgNyx6rcz4LthgoEtoNOaZn4zWhxgfDoUEIMbVK8_N2KOkFh_qlHBoIZD7S-Hr47XGfzEbVeKWRoEoL7dYTRNTAcybIB688gKoHFpsUTrsAAwJ5TzAR9Bdoj49ApcbrzgGhmj_VdJ_1kbUgFEFLZjqIBq5FeHHM1E3itnQ5--MEL5ODVmmNwnRCYquujqDTilmf6Dm6BokN7zXkzaZbbv5urwzY4i215nBIvRLTkKGAlCBsHn1q4H6D10YxmDwGjEYQ1ZtjJuiSRTrUzdYshzvKNRjg6bbT22bkYDWjd_AII_1oWSNiQjhZI&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIJBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4reZWwy-ge31WEtdDaCtBKITsFYV8A9-U1bmOBgNyx6rcz4LthgoEtoNOaZn4zWhxgfDoUEIMbVK8_N2KOkFh_qlHBoIZD7S-Hr47XGfzEbVeKWRoEoL7dYTRNTAcybIB688gKoHFpsUTrsAAwJ5TzAR9Bdoj49ApcbrzgGhmj_VdJ_1kbUgFEFLZjqIBq5FeHHM1E3itnQ5--MEL5ODVmmNwnRCYquujqDTilmf6Dm6BokN7zXkzaZbbv5urwzY4i215nBIvRLTkKGAlCBsHn1q4H6D10YxmDwGjEYQ1ZtjJuiSRTrUzdYshzvKNRjg6bbT22bkYDWjd_AII_1oWSNiQjhZI"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsy9QfN7W8EV9F3llGxf3GlmA95cQrIRZyexd6r4EMWzwrf2UAe_V3rsEkR-WZ99ydOH4h3UlZVipZykNo89uwlo-OKAD_IZBqBo4lbQxBJWJjktL24y5y6yB7Vv3_noBDdPzOjlTwY7DlDenr76MoDDnJ_PdX5HfhFFYlU5eyRXZ9cXl4gkHo9iAEj-91XeArbEUj22HH5vc_d5BAwYufb2eTCwTMmJTsLmfgRfpTX0cbB8V6WBTLpgxIGt2D2bL423Gi2lzhb4bfdd0bEVD-ztbzTm1CNwOUmCBwHT4OytSyKJMqmouY9HEk07hdJe1zNLlRnwAoS38h5yysPk0q9qdXqI",
+            "q": "Junior Python Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsy9QfN7W8EV9F3llGxf3GlmA95cQrIRZyexd6r4EMWzwrf2UAe_V3rsEkR-WZ99ydOH4h3UlZVipZykNo89uwlo-OKAD_IZBqBo4lbQxBJWJjktL24y5y6yB7Vv3_noBDdPzOjlTwY7DlDenr76MoDDnJ_PdX5HfhFFYlU5eyRXZ9cXl4gkHo9iAEj-91XeArbEUj22HH5vc_d5BAwYufb2eTCwTMmJTsLmfgRfpTX0cbB8V6WBTLpgxIGt2D2bL423Gi2lzhb4bfdd0bEVD-ztbzTm1CNwOUmCBwHT4OytSyKJMqmouY9HEk07hdJe1zNLlRnwAoS38h5yysPk0q9qdXqI&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIJBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsy9QfN7W8EV9F3llGxf3GlmA95cQrIRZyexd6r4EMWzwrf2UAe_V3rsEkR-WZ99ydOH4h3UlZVipZykNo89uwlo-OKAD_IZBqBo4lbQxBJWJjktL24y5y6yB7Vv3_noBDdPzOjlTwY7DlDenr76MoDDnJ_PdX5HfhFFYlU5eyRXZ9cXl4gkHo9iAEj-91XeArbEUj22HH5vc_d5BAwYufb2eTCwTMmJTsLmfgRfpTX0cbB8V6WBTLpgxIGt2D2bL423Gi2lzhb4bfdd0bEVD-ztbzTm1CNwOUmCBwHT4OytSyKJMqmouY9HEk07hdJe1zNLlRnwAoS38h5yysPk0q9qdXqI"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUMn1AMtTZlRjihTjm31XnVfz-ZWZ_GADtLiijHD60zO8rIMSG9I8d7I_mPFlnjSKtLcSEpQwgULkBAqTGo_Yt2yg_FLdQkWbS3I6jfHr9JqOAeKnupMV6L9uXtE_M7NvGU-Vk_--B1ejGplxbMwsnW7H5UHR9Iq3FulhqCrtKMaE53c7DPYjRcuBqLhwtspdrDzdrbXsRZXwxdeRgDhk_S3EDKqhT5hdoKAaNQ8Epo4Gy5dNsh3xLb7JRXiXWcIxTdUc0IAWBwhuHhjv_NZYGPdXiWHx7iENKtYLkMxffiWdRPQBQGJpz7LBJvhMQVdOx0D3sQ8",
+            "q": "Junior Python Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUMn1AMtTZlRjihTjm31XnVfz-ZWZ_GADtLiijHD60zO8rIMSG9I8d7I_mPFlnjSKtLcSEpQwgULkBAqTGo_Yt2yg_FLdQkWbS3I6jfHr9JqOAeKnupMV6L9uXtE_M7NvGU-Vk_--B1ejGplxbMwsnW7H5UHR9Iq3FulhqCrtKMaE53c7DPYjRcuBqLhwtspdrDzdrbXsRZXwxdeRgDhk_S3EDKqhT5hdoKAaNQ8Epo4Gy5dNsh3xLb7JRXiXWcIxTdUc0IAWBwhuHhjv_NZYGPdXiWHx7iENKtYLkMxffiWdRPQBQGJpz7LBJvhMQVdOx0D3sQ8&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIJBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUMn1AMtTZlRjihTjm31XnVfz-ZWZ_GADtLiijHD60zO8rIMSG9I8d7I_mPFlnjSKtLcSEpQwgULkBAqTGo_Yt2yg_FLdQkWbS3I6jfHr9JqOAeKnupMV6L9uXtE_M7NvGU-Vk_--B1ejGplxbMwsnW7H5UHR9Iq3FulhqCrtKMaE53c7DPYjRcuBqLhwtspdrDzdrbXsRZXwxdeRgDhk_S3EDKqhT5hdoKAaNQ8Epo4Gy5dNsh3xLb7JRXiXWcIxTdUc0IAWBwhuHhjv_NZYGPdXiWHx7iENKtYLkMxffiWdRPQBQGJpz7LBJvhMQVdOx0D3sQ8"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rAlLcxTnQUMFHkS1jXZHlGoPAPtcBPZ1IbHI8o4-L4L_vZ7DP8yeJ8b5YUjWVGhA0GJvSJc2l6lysIel2jz0UvQ2yFyD3c4KmjByqaJSx6BYrqwHbcgMvje8w8n377YsTGYYjlIbqrYYtlRi8-fuimTaGg3KxqAj7zGk_FYcsrUqBRlPiQD3w6vPC65yfR8TjAWbeYUValoMOixAR3P3kTDQ2UwouQWeZbPTbzocZa2bLD2iquHLLGYNu1Ql4PAEdLO5D1DRt6pAg-V0n8O4o-MaX7VCmrt4p8jzzW1T9ddAFkf04Dzi2vWr_At2sKIYCnE-dLyrsbo75t0JlmjpoPvfsMtQ",
+            "q": "Junior Python Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAlLcxTnQUMFHkS1jXZHlGoPAPtcBPZ1IbHI8o4-L4L_vZ7DP8yeJ8b5YUjWVGhA0GJvSJc2l6lysIel2jz0UvQ2yFyD3c4KmjByqaJSx6BYrqwHbcgMvje8w8n377YsTGYYjlIbqrYYtlRi8-fuimTaGg3KxqAj7zGk_FYcsrUqBRlPiQD3w6vPC65yfR8TjAWbeYUValoMOixAR3P3kTDQ2UwouQWeZbPTbzocZa2bLD2iquHLLGYNu1Ql4PAEdLO5D1DRt6pAg-V0n8O4o-MaX7VCmrt4p8jzzW1T9ddAFkf04Dzi2vWr_At2sKIYCnE-dLyrsbo75t0JlmjpoPvfsMtQ&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIJBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAlLcxTnQUMFHkS1jXZHlGoPAPtcBPZ1IbHI8o4-L4L_vZ7DP8yeJ8b5YUjWVGhA0GJvSJc2l6lysIel2jz0UvQ2yFyD3c4KmjByqaJSx6BYrqwHbcgMvje8w8n377YsTGYYjlIbqrYYtlRi8-fuimTaGg3KxqAj7zGk_FYcsrUqBRlPiQD3w6vPC65yfR8TjAWbeYUValoMOixAR3P3kTDQ2UwouQWeZbPTbzocZa2bLD2iquHLLGYNu1Ql4PAEdLO5D1DRt6pAg-V0n8O4o-MaX7VCmrt4p8jzzW1T9ddAFkf04Dzi2vWr_At2sKIYCnE-dLyrsbo75t0JlmjpoPvfsMtQ"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4reZWwy-ge31WEtdDaCtBKITsFYV8A9-U1bmOBgNyx6rcz4LthgoEtoNOaZn4zWhxgfDoUEIMbVK8_N2KOkFh_qlHBoIZD7S-Hr47XGfzEbVeKWRoEoL7dYTRNTAcybIB688gKoHFpsUTrsAAwJ5TzAR9Bdoj49ApcbrzgGhmj_VdJ_1kbUgFEFLZjqIBq5FeHHM1E3itnQ5--MEL5ODVmmNwnRCYquujqDTilmf6Dm6BokN7zXkzaZbbv5urwzY4i215nBIvRLTkKGAlCBsHn1q4H6D10YxmDwGjEYQ1ZtjJuiSRTrUzdYshzvKNRjg6bbT22bkYDWjd_AII_1oWSNiQjhZI",
+            "q": "Junior Python Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4reZWwy-ge31WEtdDaCtBKITsFYV8A9-U1bmOBgNyx6rcz4LthgoEtoNOaZn4zWhxgfDoUEIMbVK8_N2KOkFh_qlHBoIZD7S-Hr47XGfzEbVeKWRoEoL7dYTRNTAcybIB688gKoHFpsUTrsAAwJ5TzAR9Bdoj49ApcbrzgGhmj_VdJ_1kbUgFEFLZjqIBq5FeHHM1E3itnQ5--MEL5ODVmmNwnRCYquujqDTilmf6Dm6BokN7zXkzaZbbv5urwzY4i215nBIvRLTkKGAlCBsHn1q4H6D10YxmDwGjEYQ1ZtjJuiSRTrUzdYshzvKNRjg6bbT22bkYDWjd_AII_1oWSNiQjhZI&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIJBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4reZWwy-ge31WEtdDaCtBKITsFYV8A9-U1bmOBgNyx6rcz4LthgoEtoNOaZn4zWhxgfDoUEIMbVK8_N2KOkFh_qlHBoIZD7S-Hr47XGfzEbVeKWRoEoL7dYTRNTAcybIB688gKoHFpsUTrsAAwJ5TzAR9Bdoj49ApcbrzgGhmj_VdJ_1kbUgFEFLZjqIBq5FeHHM1E3itnQ5--MEL5ODVmmNwnRCYquujqDTilmf6Dm6BokN7zXkzaZbbv5urwzY4i215nBIvRLTkKGAlCBsHn1q4H6D10YxmDwGjEYQ1ZtjJuiSRTrUzdYshzvKNRjg6bbT22bkYDWjd_AII_1oWSNiQjhZI"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsy9QfN7W8EV9F3llGxf3GlmA95cQrIRZyexd6r4EMWzwrf2UAe_V3rsEkR-WZ99ydOH4h3UlZVipZykNo89uwlo-OKAD_IZBqBo4lbQxBJWJjktL24y5y6yB7Vv3_noBDdPzOjlTwY7DlDenr76MoDDnJ_PdX5HfhFFYlU5eyRXZ9cXl4gkHo9iAEj-91XeArbEUj22HH5vc_d5BAwYufb2eTCwTMmJTsLmfgRfpTX0cbB8V6WBTLpgxIGt2D2bL423Gi2lzhb4bfdd0bEVD-ztbzTm1CNwOUmCBwHT4OytSyKJMqmouY9HEk07hdJe1zNLlRnwAoS38h5yysPk0q9qdXqI",
+            "q": "Junior Python Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&gl=in&hl=en&sxsrf=APpeQnsc-WcSZGX490RZKLDBEXFzJi2MGw:1791544719454&q=Junior+Python+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsy9QfN7W8EV9F3llGxf3GlmA95cQrIRZyexd6r4EMWzwrf2UAe_V3rsEkR-WZ99ydOH4h3UlZVipZykNo89uwlo-OKAD_IZBqBo4lbQxBJWJjktL24y5y6yB7Vv3_noBDdPzOjlTwY7DlDenr76MoDDnJ_PdX5HfhFFYlU5eyRXZ9cXl4gkHo9iAEj-91XeArbEUj22HH5vc_d5BAwYufb2eTCwTMmJTsLmfgRfpTX0cbB8V6WBTLpgxIGt2D2bL423Gi2lzhb4bfdd0bEVD-ztbzTm1CNwOUmCBwHT4OytSyKJMqmouY9HEk07hdJe1zNLlRnwAoS38h5yysPk0q9qdXqI&udm=8&sa=X&ved=2ahUKEwj_n-iU6KyXAxUElf0HHeLxBd4QkbEKegQIJBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Junior+Python+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsy9QfN7W8EV9F3llGxf3GlmA95cQrIRZyexd6r4EMWzwrf2UAe_V3rsEkR-WZ99ydOH4h3UlZVipZykNo89uwlo-OKAD_IZBqBo4lbQxBJWJjktL24y5y6yB7Vv3_noBDdPzOjlTwY7DlDenr76MoDDnJ_PdX5HfhFFYlU5eyRXZ9cXl4gkHo9iAEj-91XeArbEUj22HH5vc_d5BAwYufb2eTCwTMmJTsLmfgRfpTX0cbB8V6WBTLpgxIGt2D2bL423Gi2lzhb4bfdd0bEVD-ztbzTm1CNwOUmCBwHT4OytSyKJMqmouY9HEk07hdJe1zNLlRnwAoS38h5yysPk0q9qdXqI"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Junior Software Developer (Python and Node.js)",
+      "company_name": "Mercedes-Benz Research and Development India Private Limited",
+      "location": "Bengaluru, Karnataka",
+      "via": "Mercedes-Benz Group > Careers > Job Search",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=pKDP9OoQPByDg6SlAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2OPW7CQBCFRcsRqKZMELGjSDTQISSUQCKU0KPBO9hL1jPWzpifVNyB66XiJCwSzWuevve97n-nO_to2UuEH9naASPBlPYUpKEIT8uTVcKA7OBLHGU7fYbr-QI72YASxqKCVM9EykC9cWXW6CjPVUNWqqH5IiukzoVpI8c8QXqPtVZJ0wQ0Wr8NX49Zw2V_9UmxIEf6MiH-g296zN_Vj0M1scE7O4-wjH6fcFj42hs58AwJKzG0sR3AHCOj4S_eAGuktM3fAAAA&shmds=v1_ARwrE20F6xQnY5S_GVw0Y3ImrPKxn4F0zrfibs5UYfy6Zatgvg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=pKDP9OoQPByDg6SlAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIAB8AOAMBIgACEQEDEQH_xAAbAAEBAAIDAQAAAAAAAAAAAAAABQMEAgYHAf_EACgQAAEEAgEDAgcBAAAAAAAAAAEAAgMRBBIhBRMxFFEGI0FhcZKiFf_EABQBAQAAAAAAAAAAAAAAAAAAAAD_xAAUEQEAAAAAAAAAAAAAAAAAAAAA_9oADAMBAAIRAxEAPwD3FERBxe9sbHPkcGtaLLnGgAtQdVxCRT5NSLD-07Uj3uqr7rFL283q_ppKdHiRtldGRw57idSfetSfyQfosU2WwfEWNH3G16eUOGwscsINea4Iv7IKsb2SMD43BzXCw5psFclLYDh9cbDE2sfLhfIQPDZGlt_sHfyqiAiIgIiIJHVcOUZXrIHzNa-MRZLYK3LASQR-Nj45o8LS_wA74VMHLMPYu27pk-ft4ve99vpd2uyL5qL2oX70gkdHxZe-Z5JMh0EbTHjDIAD6JBJPANcAC-fN-VYREBERB__Z.jpeg",
+      "extensions": [
+        "15 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://jobs.mercedes-benz.com/en/junior-software-developer-python-and-nodejs-239647-mer00040r9",
+      "job_title": "Junior Software Developer (Python and Node.js)",
+      "description": "Tasks \n\n        \n\nJob Summary\n\nJunior Software Developer — Job Description\n\nPosition: Junior Software Developer Level: Entry-Level / Junior\n\nAbout the Role\n\nWe are looking for a motivated and detail-oriented Junior Software Developer to join our growing engineering team. In this role, you will work alongside experienced developers to design, build, and maintain web applications, contribute to backend services, and help deliver intelligent, AI-powered solutions. This is a great opportunity for someone eager to grow their technical skills in a collaborative, fast-paced environment at the intersection of software engineering and artificial intelligence.\n\nKey Responsibilities\n\nDevelop and maintain backend services and APIs using Python and Node.jsBuild responsive, user-friendly web interfaces using React.jsAssist in the development and integration of AI/ML models into production applicationsWork with LLM APIs (e.g., OpenAI, Anthropic, Gemini) to build AI-powered featuresSupport data preprocessing, feature engineering, and model evaluation pipelinesCollaborate with cross-functional teams including designers, product managers, and senior engineersParticipate in code reviews and contribute to improving code quality and best practicesDebug, troubleshoot, and resolve software defects and performance issuesAnalyze requirements and translate them into technical solutionsStay up to date with the rapidly evolving AI/ML landscapeRequired Skills & Qualifications\n\nBachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience)Proficiency in Python for backend development, scripting, and AI/ML workflowsWorking knowledge of Node.js and RESTful API developmentHands-on experience with React.js for building dynamic front-end applicationsFamiliarity with AI/ML frameworks such as TensorFlow, PyTorch, or scikit-learnBasic understanding of prompt engineering and working with LLM APIsExperience with data manipulation libraries like NumPy and PandasStrong analytical and problem-solving skills with the ability to break down complex problemsFamiliarity with version control systems, particularly GitBasic understanding of databases (SQL and/or NoSQL)Good written and verbal communication skillsNice to Have\n\nExperience building or fine-tuning machine learning modelsFamiliarity with RAG (Retrieval-Augmented Generation) pipelines or vector databases (e.g., Pinecone, Weaviate)Exposure to MLOps tools and practices (e.g., MLflow, Weights & Biases)Experience with cloud AI services (AWS SageMaker, Google Vertex AI, Azure ML)Familiarity with containerization tools like DockerUnderstanding of Agile/Scrum methodologies \n\nJob Responsibility\n\n \n\nIn this role, you will be responsible for:\n\n \n\nUsage of NX-Open API’s for prototyping, development and complex solutionsBuild and Deploy projects to test environmentCreation of Architecture Documentation and SpecificationCreation of the UI logicGood knowledge of coding standardsShould have participated in, and be familiar with, SDLC and Agile (Scrum) project methodologiesShould have basic understanding of Architectural patterns (Service oriented, micro services, enterprise architecture patterns)Development of Quick PoC with latest technologiesStrong Knowledge on C#/VB .Net, NXStrong Knowledge on various NX applications like Modelling, Drafting etc.Very good understanding on NXOpen/UFUNC APIs and their functionalities.·       Good Knowledge on HTML, XML Data Processing and scripting.\n\n·       Good knowledge on AI and deep learning\n\nExcellent Communication Skills, Analytical and problem-solving skills.Manage customer communication and Coordinate meetings for technical decisions.Work towards individual goals aligned with department and organizational objectives.Comply with organizational HR policies and procedures.Understand and adhere to organizational HSE policies and practices.DevOps and cloud knowledgeRequired qualifications\n\n \n\nEducation: B.E., B. Tech, M.E or M. Tech, Mechanical or any related streams from reputed university.\n\n3-6 years of relevant experience\n\nExperience in CAD/CAE Customization, Preferably in Siemens NX\n\nLanguage Experience: C# (.NET), VB, C/ C++\n\n \n\nRequired Technical Know-how\n\nSl.No.\n\nTechnology/Tool/Language\n\nRequired Experience Range (in yrs)\n\nExpected proficiency\n\n(on a scale of 5)\n\n1\n\nNXOpen/ UFUNC API’s\n\n3-6\n\n5\n\n2\n\nC# (.NET), VB, C/ C++, Scripting , XML\n\n3-6\n\n5\n\n3\n\nVisual Studio 2019, 2022\n\n3-6\n\n5\n\n4\n\nUI/Block Styler/WPF\n\n3-6\n\n5\n\n5\n\nSiemens NX: Modelling, Drafting\n\n3-6\n\n4\n\n6\n\nCoding standards\n\n3-6\n\n4\n\n7\n\nJIRA, Confluence, KANBO\n\n0-2\n\n3\n\n8\n\nDevOps, CI/CD\n\n0-2\n\n3\n\n9\n\nCloud Knowhow\n\n0-2\n\n3\n\n10\n\nAnalytical and problem solving skills.\n\n2-4\n\n3\n\n11\n\nAI & Deep learning\n\n0-2\n\n3\n\n \n\nRequired Behavioral Competencies\n\nSl.No.\n\nCompetency\n\nExpected proficiency\n\n(on a scale of 5)\n\n1\n\nCommunication and Moderation\n\n5\n\n2\n\nBusiness and Results Orientation\n\n4\n\n3\n\nInnovative Problem Solving\n\n4\n\n4\n\nCharacter/Values\n\n4\n\n5\n\nLeadership\n\n3\n\n6\n\nInterpersonal Skills\n\n3\n\n \n\n About Engineering IT @ MBRDI\n\n \n\nEngineering IT is one of the IT departments within MBRDI. The focus of this department is to build innovative software products that would help assist the Engineering and Manufacturing of Mercedes-Benz Cars and Vans.\n\n About Mercedes-Benz Research and Development India\n\n \n\nHeadquartered in Bengaluru was founded in 1996 as a captive unit to support Daimler’s research, IT and product development activities. We focus on topics ranging from computer-aided design and simulations (CAD, CAE) for powertrain, chassis and exteriors to embedded systems, telematics and developing various IT applications and tools. The satellite office in Pune specializes in interior component designs and IT engineering. It is now one of the largest global R&D centers outside Germany, employing more than 3000 + skilled engineers. It aims to collaborate closely with suppliers in India for its activities in product development and IT services.\n\n             \n\n Qualifications Junior Software Developer — Job Description\n\nPosition: Junior Software Developer Level: Entry-Level / Junior\n\nAbout the Role\n\nWe are looking for a motivated and detail-oriented Junior Software Developer to join our growing engineering team. In this role, you will work alongside experienced developers to design, build, and maintain web applications, contribute to backend services, and help deliver intelligent, AI-powered solutions. This is a great opportunity for someone eager to grow their technical skills in a collaborative, fast-paced environment at the intersection of software engineering and artificial intelligence.\n\nKey Responsibilities\n\nDevelop and maintain backend services and APIs using Python and Node.jsBuild responsive, user-friendly web interfaces using React.jsAssist in the development and integration of AI/ML models into production applicationsWork with LLM APIs (e.g., OpenAI, Anthropic, Gemini) to build AI-powered featuresSupport data preprocessing, feature engineering, and model evaluation pipelinesCollaborate with cross-functional teams including designers, product managers, and senior engineersParticipate in code reviews and contribute to improving code quality and best practicesDebug, troubleshoot, and resolve software defects and performance issuesAnalyze requirements and translate them into technical solutionsStay up to date with the rapidly evolving AI/ML landscapeRequired Skills & Qualifications\n\nBachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience)Proficiency in Python for backend development, scripting, and AI/ML workflowsWorking knowledge of Node.js and RESTful API developmentHands-on experience with React.js for building dynamic front-end applicationsFamiliarity with AI/ML frameworks such as TensorFlow, PyTorch, or scikit-learnBasic understanding of prompt engineering and working with LLM APIsExperience with data manipulation libraries like NumPy and PandasStrong analytical and problem-solving skills with the ability to break down complex problemsFamiliarity with version control systems, particularly GitBasic understanding of databases (SQL and/or NoSQL)Good written and verbal communication skillsNice to Have\n\nExperience building or fine-tuning machine learning modelsFamiliarity with RAG (Retrieval-Augmented Generation) pipelines or vector databases (e.g., Pinecone, Weaviate)Exposure to MLOps tools and practices (e.g., MLflow, Weights & Biases)Experience with cloud AI services (AWS SageMaker, Google Vertex AI, Azure ML)Familiarity with containerization tools like DockerUnderstanding of Agile/Scrum methodologies",
+      "apply_options": [
+        {
+          "title": "Mercedes-Benz Group > Careers > Job Search",
+          "link": "https://jobs.mercedes-benz.com/en/junior-software-developer-python-and-nodejs-239647-mer00040r9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-software-developer-java-eclipse-rcp/mercedes-benz-research-and-development-india-private-limited/19449658?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/_w6NI6lDXg6U-ytYNFZqSgeaec0Xq-3mJnzEErHTR3xJERhXUrYqeg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/junior-software-developer-python-and-node-js-mercedes-benz-group-JV_IC2940587_KO0,44_KE45,64.htm?jl=1010273011721&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olibr",
+          "link": "https://olibr.com/jobs/junior-software-developer-python-and-nodejs-mercedes-benz-research-and-developme-qjwo9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-software-developer-python-and-nodejs-mercedes-benz-group-bengaluru-karnataka--t7xk-853101199?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "HiringGo",
+          "link": "https://hiringgo.com/job/junior-software-developer-mercedes-benz-research-and-167284?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/junior-software-developer-python-and-node-js--bengaluru--efebbf4d7390900d7f897b9c667b51795?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgU29mdHdhcmUgRGV2ZWxvcGVyIChQeXRob24gYW5kIE5vZGUuanMpIiwiY29tcGFueV9uYW1lIjoiTWVyY2VkZXMtQmVueiBSZXNlYXJjaCBhbmQgRGV2ZWxvcG1lbnQgSW5kaWEgUHJpdmF0ZSBMaW1pdGVkIiwiaHRpZG9jaWQiOiJwS0RQOU9vUVBCeURnNlNsQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyOWpRMnROTjNCUk1GaFVaV1Z1Y2tRd1dsVTRNekp5YUhsSldHRlRZMGN4Vm1SbmRFUkNkV0YwTURWeFVHSk1ZMUJ3WDBGQlJtNWZUVkUzTVMxWmFqRTBjVWMwYWs0d1NtNU5RMWcxZFVGMlRWOHRVM1ZOVWxkT1FtVkVhMEZGWjBoUlZIWlBTMkpEYW0xU2JIWmpiMUZMVWt4R2IycGFiMmwxYUV0NVpHRm9OV1pFVXpBU0YybzRNMGxoY2kxalJ6UlRjVGwxT0ZBMGRVOVlPRUV3R2lKQlJITnlPV1pVYlROTVFXYzNTMU5SYXpoamVucGlhMXBLVjNkM1ZWZFVXVVZuIiwiZmN2IjoiMyIsImZjX2lkIjoicEtEUDlPb1FQQnlEZzZTbEFBQUFBQT09In0="
+    },
+    {
+      "title": "REST APIs, Python, SQL,IBPL,Java - Developer",
+      "company_name": "Rise",
+      "location": "Bengaluru, Karnataka",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=yLNbJriS_vLiX4J1AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ6CQBAAwNjyBGOxtTnBmNhoJZEYlALBnixkA-h5S24Pgp1_8Ac-zZeozXTjvSdelEX5BXZpLArSh2vYKMjPiYrDNFFHHBAWsKeBNHdk4fN8wZVLEEJbNcAGDsy1pum2ca6TTRCIaL8Wh66t_IrvARsqeQx-Sf4U0qClTqOjYrVejn5n6vksa4WgNRCSqVH3tldwQmvQ4Q2_sRqVMqUAAAA&shmds=v1_ARwrE21EqdV7e9ZgVijJc_wpFB6OWj2f60NSZwz_XgwR58ZMAA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=yLNbJriS_vLiX4J1AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8cd8eeb6ec5594800cbab/images/xbSxRipr0kE9aNKF0fK0F6qiUSuuyJ1AH4eHTfgB870.jpeg",
+      "extensions": [
+        "1 day ago",
+        "₹8.28L–₹22.2L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/ZeZS5oKs1Fdm0YEFKurApq-r96kTuDXBghHci2vDpnKjGDlwNk6YUA",
+      "job_title": "REST APIs, Python, SQL,IBPL,Java - Developer",
+      "description": "Platform Development:Design, configure, and develop solutions using the Digital Brain platform.Customize and enhance modules like Supply Planning, and Integrated Business Planning.System Integration:Develop integration solutions to connect with ERP systems (e.g., SAP, Oracle) and other third-party tools.Create data pipelines using ETL processes and tools.Requirement Gathering and Analysis:Work closely with business stakeholders to understand requirements and translate them into o9 configurations.Conduct gap analysis and provide recommendations for process improvements.Data Modelling and Configuration:Create and manage data models, master data, and workflows within the o9 platform.Optimize data structures to ensure high performance and scalability.Testing and Validation:Perform unit testing, integration testing, and UAT to ensure the functionality and reliability of solutions.Troubleshoot and resolve technical issues in a timely manner.Documentation and Training:Document configuration, workflows, and customizations.Provide training and support to end-users and stakeholders.Collaboration:Partner with project managers, architects, and other developers to deliver high-quality solutions.Stay updated on platform updates and best practices to provide innovative solutions.Required Skills and Qualifications:1. Technical Skills:Proficiency in configuration and development.Strong knowledge of IBPL, SQL, Python, or other scripting languages.Experience with REST APIs, JSON, and XML for system integrations.Familiarity with cloud platforms (e.g., Azure, AWS) is a plus.2. Experience:2 years of experience in platform implementation or similar roles in supply chain planning.Hands-on experience with Platform and ERP systems (e.g., SAP, Oracle) and data integration tools.3. Soft Skills:Strong analytical and problem-solving skills.Excellent communication and teamwork abilities.Ability to work independently and handle multiple tasks simultaneously.Preferred Qualifications:Certification in or other supply chain planning platforms.Experience in Agile or Scrum methodologies.Knowledge of supply chain processes, including demand forecasting, production planning, and inventory management.\n\nRoles & Responsibilities\n\nPlatform Development:Design, configure, and develop solutions using the Digital Brain platform.Customize and enhance o9 modules like Supply Planning, and Integrated Business Planning.System Integration:Develop integration solutions to connect with ERP systems (e.g., SAP, Oracle) and other third-party tools.Create data pipelines using ETL processes and tools.Requirement Gathering and Analysis:Work closely with business stakeholders to understand requirements and translate them into configurations.Conduct gap analysis and provide recommendations for process improvements.Data Modelling and Configuration:Create and manage data models, master data, and workflows within the platform.Optimize data structures to ensure high performance and scalability.Testing and Validation:Perform unit testing, integration testing, and UAT to ensure the functionality and reliability of solutions.Troubleshoot and resolve technical issues in a timely manner.Documentation and Training:Document configuration, workflows, and customizations.Provide training and support to end-users and stakeholders.Collaboration:Partner with project managers, architects, and other developers to deliver high-quality solutions.Stay updated on o9 platform updates and best practices to provide innovative solutions.Pay: ₹828,000.00 - ₹2,220,000.00 per year\n\nWork Location: Hybrid remote in Bangalore City, Bengaluru, Karnataka",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/ZeZS5oKs1Fdm0YEFKurApq-r96kTuDXBghHci2vDpnKjGDlwNk6YUA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSRVNUIEFQSXMsIFB5dGhvbiwgU1FMLElCUEwsSmF2YSAtIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlJpc2UiLCJodGlkb2NpZCI6InlMTmJKcmlTX3ZMaVg0SjFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1V0TmJtdHdORkJtTFZVM2RGOVZZM2hEUkcxcWNHVk9jMXBaVWpVNFdFVmZYMHRrVlc1a2FtcDFOVXd6ZFVSTFJHeElSRTVIZFd4SmExVlVXSGM0UWxGME1tcEtjVkZyWW1KS2RtZHhOa1oyYjFCV1lrdHpSVmc1T1hGWmIwUnNXRVpHWkhWaFQybDVNazA1VjNWWFUwdGFNVFJIY25sTmNVZHJlakJVYkc5bGVWcERUSGNTRjJvNE0wbGhjaTFqUnpSVGNUbDFPRkEwZFU5WU9FRXdHaUpCUkhOeU9XWlRaalJQY0dWd01UWnVaamx2WkdOVlYyNTFRaTB3VGxOcVdFeEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ5TE5iSnJpU192TGlYNEoxQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Python Software Engineer – Application Maintenance, Debugging & Agile Development",
+      "company_name": "Synechron",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=Pn9L8XQ3n6H34twkAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2OPYoCQRCFMfUIRmWygciMCJtoNKIYiCB4AKlpyu7WtqrprvEn8w7ey0N4Ens3ecHjfR-v_-71w-6hThj2ctQbJoIVW89ECT7PFzQxBm9QfVls0bMSIxsaw5LazpahhR9orA9UmisFiRdi_UdP0kImTMZBgdciNtBg7lRjntV1zqGyWYvZVEYutTC1cq8LlP_ikF35EgMqHaa_k3sV2Y6G-weTcanoPMOC2GLoUjeGDSZGxTN-Ab4GUDzRAAAA&shmds=v1_ARwrE22K9JqbhK-PBlmbXSoh4UUwPFjy3XVFsOhhoHLYiP5bSQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=Pn9L8XQ3n6H34twkAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8cd8eeb6ec5594800cbab/images/zGk_tURgadVY9qSqZNbhKqhlNc8NkRXli114wItK_Do.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-application-maintenance-debugging-agile-development-at-synechron-4475424818",
+      "job_title": "Python Software Engineer – Application Maintenance, Debugging & Agile Development",
+      "description": "Job Summary\n\nSynechron is seeking a Python Developer with experience in software development, maintenance, debugging, source control, and Agile or Waterfall delivery environments. The role contributes to the development and maintenance of software solutions by writing clean, maintainable, and scalable code across relevant technologies.The Python Developer will collaborate with cross-functional teams, support software upgrades, participate in code reviews, troubleshoot technical issues, and contribute to improvements in development processes and practices. The role supports business objectives by delivering reliable software solutions, improving maintainability, and evaluating technologies that align with organizational goals.\n\nSoftware Requirements\n\nRequired Software Skills\n\nPython: Practical experience developing, maintaining, testing, and troubleshooting software solutions using Python. Programming languages: Knowledge of a variety of programming languages, such as Java, Python, C#, or others, based on project requirements. Source control: Familiarity with source control systems such as Git, including version management, branching, merging, and code collaboration. Software development methodologies: Experience with Agile or Waterfall software development methodologies. Software development principles: Strong knowledge of coding standards, modular design, testing, debugging, documentation, maintainability, and scalability. Development versions: Experience working with the Python, programming language, source control, development framework, database, and associated tool versions used by the assigned Synechron project. Software maintenance: Experience supporting upgrades, enhancements, issue resolution, and the ongoing maintenance of existing software solutions. \n\nPreferred Software Skills\n\nFamiliarity with cloud computing platforms and infrastructure. Experience with automated testing, build, deployment, code-quality, or continuous integration tools. Experience with application monitoring, logging, performance analysis, or issue-tracking tools. Exposure to software architecture, application programming interfaces, databases, data structures, or integration technologies. Experience evaluating and recommending new technologies based on business objectives, technical suitability, maintainability, and delivery impact. \n\nEquivalent technologies and tools may be considered where they provide comparable capabilities.\n\nOverall Responsibilities\n\nContribute to the development and maintenance of software solutions using Python and other relevant technologies. Write clean, maintainable, scalable, readable, and testable code. Apply software development principles and practices throughout analysis, development, testing, release, and maintenance activities. Debug and troubleshoot issues with software solutions, identify root causes, and implement appropriate fixes. Collaborate with cross-functional teams to support the timely delivery of high-quality software solutions. Assist in the maintenance, enhancement, modernization, and upgrade of existing software solutions. Participate in code reviews and contribute to consistent coding, testing, documentation, and quality practices. Support the identification and resolution of technical risks, dependencies, defects, and delivery issues. Contribute to the improvement of software development processes, standards, and practices. Use source control systems to manage code changes and support collaborative development. Evaluate and recommend new technologies that align with Synechron’s goals, project requirements, technical standards, and operational needs. Document application changes, technical decisions, troubleshooting steps, and maintenance procedures. Support sustainable software development by improving resource efficiency, reusing maintainable components, reducing unnecessary processing, and considering long-term supportability. Deliver assigned work in accordance with agreed requirements, quality standards, priorities, and timelines. Continue learning and adapt to new technologies, tools, development practices, and project requirements. \n\nTechnical Skills (By Category)\n\nProgramming Languages\n\nEssential\n\nPractical experience with Python development. Knowledge of a variety of programming languages, such as Java, Python, C#, or others. Understanding of software development principles, object-oriented concepts, modular design, error handling, and code maintainability. Ability to write scalable, readable, maintainable, and testable code. \n\nPreferred\n\nExperience using Python for automation, application development, data processing, integration, or software support. Familiarity with additional programming languages relevant to the assigned project. Experience with scripting for deployment, testing, monitoring, or operational support. \n\nDatabases/Data Management\n\nEssential\n\nUnderstanding of how software solutions interact with data sources and data-management systems. Ability to investigate data-related defects and support appropriate data handling within software applications. Understanding of data structures relevant to application development. \n\nPreferred\n\nExperience working with relational or non-relational databases. Familiarity with SQL, data validation, data integration, or database troubleshooting. Exposure to data-processing, data-quality, or data-migration activities. \n\nCloud Technologies\n\nEssential\n\nAbility to understand the impact of deployment environments, infrastructure, scalability, availability, and monitoring on software solutions. \n\nPreferred\n\nFamiliarity with cloud computing platforms and infrastructure. Experience supporting software solutions in cloud or distributed environments. Awareness of resource-efficient application design, cloud usage, and operational cost considerations. \n\nFrameworks and Libraries\n\nEssential\n\nExperience using Python and relevant libraries or frameworks required by the assigned project. Ability to evaluate framework and library dependencies for maintainability, compatibility, security, and performance. Understanding of how reusable components support scalable software development. \n\nPreferred\n\nExperience with Python frameworks or libraries used for application development, APIs, automation, testing, data processing, or integration. Familiarity with reusable software components, application programming interfaces, or service-based architectures. Experience maintaining or upgrading framework and library versions. \n\nDevelopment Tools and Methodologies\n\nEssential\n\nFamiliarity with source control systems such as Git. Experience with Agile or Waterfall software development methodologies. Experience participating in code reviews, defect resolution, testing, documentation, and software maintenance. Ability to follow development standards, version-control practices, release procedures, and project documentation requirements. Experience collaborating with cross-functional teams to deliver software solutions within agreed timelines. \n\nPreferred\n\nExperience with automated testing, continuous integration, continuous delivery, build automation, or code-quality tools. Familiarity with issue tracking, project management, application monitoring, and logging tools. Exposure to software development lifecycle planning, estimation, release management, or process improvement. Experience evaluating and recommending technologies for software development initiatives. \n\nSecurity Protocols\n\nEssential\n\nUnderstanding of secure software development practices, including input validation, error handling, access control, and secure data management. Ability to identify and address security-related defects in collaboration with appropriate technical teams. Awareness of protecting application code, configuration, credentials, and sensitive information. \n\nPreferred\n\nFamiliarity with secure coding standards, vulnerability management, encryption, authentication, authorization, or security testing. Experience incorporating security, privacy, and compliance considerations into software development and maintenance activities. \n\nExperience Requirements\n\n5–10 years of experience in software development or a related field. Practical experience developing, maintaining, debugging, and enhancing software solutions. Experience writing clean, maintainable, and scalable code using Python and other relevant technologies. Experience with source control systems such as Git. Experience with Agile or Waterfall software development methodologies. Experience collaborating with cross-functional teams to deliver software solutions. Experience supporting the maintenance and upgrade of existing software solutions. Experience participating in code reviews and contributing to improvements in software development processes and practices. Internship or relevant work experience in technology development is a plus, particularly where it demonstrates practical software development capabilities. Industry experience in software development, technology, application maintenance, cloud, data, or related environments is preferred. Candidates may also qualify through equivalent combinations of software engineering, Python development, application support, automation, integration, or technology development experience that demonstrate the required skills and outcomes. \n\nDay-to-Day Activities\n\nContribute to the development and maintenance of software solutions by writing, testing, reviewing, and documenting clean, maintainable, and scalable code. Collaborate with cross-functional teams through development discussions, delivery meetings, code reviews, issue resolution, and project planning activities. Debug and troubleshoot software issues, support application maintenance and upgrades, and deliver technical fixes or enhancements within agreed priorities. Evaluate technology options and make recommendations within the assigned scope, while escalating risks, dependencies, delivery concerns, or technical decisions requiring broader review. \n\nQualifications\n\nBachelor’s degree in Computer Science, Software Engineering, Information Technology, or a related field; equivalent relevant professional experience may be considered. A Master’s degree in Computer Science, Software Engineering, Information Technology, or a related field is preferred but not required. Demonstrated experience in software development, Python development, application maintenance, debugging, source control, and Agile or Waterfall delivery practices is required. Relevant training in Python, software engineering, cloud computing, secure development, testing, source control, or development methodologies is preferred. Commitment to continuous professional development through technical learning, hands-on experience, knowledge sharing, and adaptation to new technologies and development practices. \n\nProfessional Competencies\n\nApply structured problem-solving and analytical reasoning to investigate software issues, identify root causes, and implement practical solutions. Work independently and collaboratively, contribute to code reviews, support team delivery, and share relevant technical knowledge. Communicate technical information, progress, risks, dependencies, and implementation decisions clearly in written and verbal formats. Learn quickly and adapt to new programming languages, technologies, tools, software versions, methodologies, and project requirements. Identify opportunities to improve software quality, maintainability, scalability, development efficiency, automation, and sustainable technology use. Prioritize tasks effectively, manage competing responsibilities, maintain attention to detail and accuracy, and meet agreed deadlines. \n\nS YNECHRON’S DIVERSITY & INCLUSION STATEMENT\n\nDiversity & Inclusion are fundamental to our culture, and Synechron is proud to be an equal opportunity workplace and is an affirmative action employer. Our Diversity, Equity, and Inclusion (DEI) initiative ‘Same Difference’ is committed to fostering an inclusive culture – promoting equality, diversity and an environment that is respectful to all. We strongly believe that a diverse workforce helps build stronger, successful businesses as a global company. We encourage applicants from across diverse backgrounds, race, ethnicities, religion, age, marital status, gender, sexual orientations, or disabilities to apply. We empower our global workforce by offering flexible workplace arrangements, mentoring, internal mobility, learning and development programs, and more.\n\nAll employment decisions at Synechron are based on business needs, job requirements and individual qualifications, without regard to the applicant’s gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.\n\nCandidate Application Notice",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-application-maintenance-debugging-agile-development-at-synechron-4475424818?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Swooped",
+          "link": "https://swooped.co/job-postings/python-software-engineer-application-maintenance-debugging-agile-development-bengaluru-synechron-a7597?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mployee.me",
+          "link": "https://www.mployee.me/jobs/view/python-software-engineer-application-maintenance-debugging-agile-development-in-bangalore-at-synechron--jid--JR104466955770/s1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Protocol Jobs",
+          "link": "https://app.protocoljobs.ai/job/details?id=6ac61705fc6dce17a8d8cafa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dr.Job",
+          "link": "https://www.drjobpro.com/india/jobs/python-software-engineer-application-maintenance-debugging-agile-development-bengaluru-synechron-MUZ0D3V908K66HN?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Recruit.net",
+          "link": "https://www.recruit.net/job/python-software-engineer-application-maintenance-jobs/0BEE65301929C3C0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gU29mdHdhcmUgRW5naW5lZXIg4oCTIEFwcGxpY2F0aW9uIE1haW50ZW5hbmNlLCBEZWJ1Z2dpbmcgXHUwMDI2IEFnaWxlIERldmVsb3BtZW50IiwiY29tcGFueV9uYW1lIjoiU3luZWNocm9uIiwiaHRpZG9jaWQiOiJQbjlMOFhRM242SDM0dHdrQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFbE1NMFZwVDJkb2REWm5NemxGU0VRMWJXOU9NMUZNYjFsaFIwVldVemRqUXpSVFowVm1PSFprTkZBMlQwWjNjMWRvU0hack1qTm9RWFJqU2xKblpFUnFSMGxGVW01T2ExZHVabEp6TkRKSGRuQmtNRjlQTm5adVVTMW9jbVZEY2tKSFMwZEZPVEE0YkdSZlF6TjZhVEF0U0RkTFozTk5ORkJtYW1WMFZVUTVjMlk0WDBVU0YybzRNMGxoY2kxalJ6UlRjVGwxT0ZBMGRVOVlPRUV3R2lKQlJITnlPV1pSYW5GRE9HZFVjVkpEUjBKM1ptbDNZVjl5WlMxWlVUWkJVRTVuIiwiZmN2IjoiMyIsImZjX2lkIjoiUG45TDhYUTNuNkgzNHR3a0FBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Software Developer",
+      "company_name": "EzyHelpers",
+      "location": "Bengaluru, Karnataka",
+      "via": "EzyHelpers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=svvdXk5pBHahc65vAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TrBZLkZwEbLQTRdHSB4Q1rJfouXvcbjRa-Qfxg77E2Ew3M9lnkBW7lhtJcJCT3TERrOhGQSIl-L7ecJYjKGGqahCGjYgPNFzUZlHnzqmG3KuhNVVeydUJ01E610v6R6l1X4wBjcpiNu3yyH48Wj8fWwr9QKFhWBJ7DG1qJ7DHxGh4wR9SJA2JmAAAAA&shmds=v1_ARwrE230Kc4-LVzIzpZSMCqKRiwrC7AuNwjpEFa5RbAl4pkxjA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=svvdXk5pBHahc65vAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8cd8eeb6ec5594800cbab/images/bbXmxWWWQd0GWL37htFbYDxWaFCKTPjTkoRVtNlm8vA.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.ezyhelpers.com/careers/junior-software-developer-bangalore",
+      "job_title": "Junior Software Developer",
+      "description": "Build and ship features on CHAP, our internal CRM, with Python and Django. A high-ownership role for someone eager to learn, with direct mentorship and a clear path to Mid-Level Software Engineer.",
+      "apply_options": [
+        {
+          "title": "EzyHelpers",
+          "link": "https://www.ezyhelpers.com/careers/junior-software-developer-bangalore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/junior-software-developer-autolligent-technologies-JV_IC2940587_KO0,25_KE26,50.htm?jl=1007944374238&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/4xlo9Fmw-mfto3Pt82yDVvqSCpddTQuT_qdLFAEZZPH_J_2sBhmmzg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-software-developer-bangalore-east/infanion/19449672?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-227429079396945044?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Unstop",
+          "link": "https://unstop.com/jobs/junior-software-developer-infineon-1765485?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "UnoJobs",
+          "link": "https://www.unojobs.com/in/company/polemarch/junior-software-developer-job/26997?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent500",
+          "link": "https://talent500.com/jobs/siemens/software-developer-c-angularhtml5-bengaluru-T500_SM_475379/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgU29mdHdhcmUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiRXp5SGVscGVycyIsImh0aWRvY2lkIjoic3Z2ZFhrNXBCSGFoYzY1dkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUSFF0U201WFJGaFljVWxIUTBWUFlXSlljV3QwVkZSWFdsOU1RakJrTVZGUFlqQkJjak5pUm1SRlRFSlFXbWRwUkhkWmFqaG1jR2xUT0c1T1RtMDFaazV4UjNadVdYUkNUV2t3U2s0MFRIVkVPREJTVWpCeU5EaFliVzkwWTJsU1QxSmlhM2t4ZW05TE1ubzJWbTVFY0U4dGRqSldURGxOTFhwMlIxVmpaRVJSZUZSdFVGTVNGMm80TTBsaGNpMWpSelJUY1RsMU9GQTBkVTlZT0VFd0dpSkJSSE55T1daVFNXOXVURFJrV0hoamIyUlpVMmxwU0hsUFMwaFBORlZEVG1GQiIsImZjdiI6IjMiLCJmY19pZCI6InN2dmRYazVwQkhhaGM2NXZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Python Full Stack Developer( 7 yrs chennai) (Bengaluru)",
+      "company_name": "Orbion Infotech",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=jkjVgX00gI9xRcQ5AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z3NMQrCQBCFYWxzBKvpTEQSEUTQTkQRCwUPIJNlzMasM2F3IknnHbyM5_Ekxsbmdf_3ovcgOp06tcKwbZyDs6KpYEMPclKTj2EBnQ9gLDFjmUC8Ji7QNb5J4PN8wU1yCITeWOiJnUjhaLiyqnVYZlkILi2CopYmNXLPhCmXNuuj8JtLsOipdqh0mc2nbVpzMR4dfV721p6votS7JcP_dAIH9IyKFX4BPeI8brsAAAA&shmds=v1_ARwrE2222L1WWl7vh3MTkR-iWMp8fKlzPRBVbjpK63gVHLcE9Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=jkjVgX00gI9xRcQ5AAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jobrapido.com/jobpreview/863515198621745152",
+      "job_title": "Python Full Stack Developer( 7 yrs chennai) (Bengaluru)",
+      "description": "About the Opportunity \n\nOrbion Infotech is a fast-scaling technology firm based in Chennai, specializing in enterprise-grade web applications and digital transformation solutions for global clients across fintech, healthcare, and logistics. We build scalable, secure, and user-centric platforms using up-to-date Python stacks and cloud-native architectures. Our teams operate in an agile, innovation-driven environment where full-stack developers own features end-to-end and drive impact with clean, maintainable code. \n\nRole & Responsibilities \n\n- Design, develop, and maintain high-performance web applications using Django/Flask and modern front-end frameworks (React/Vue.js). \n- Collaborate with product and QA teams to translate requirements into modular, testable, and production-ready code. \n- Build and optimize RESTful APIs and microservices architecture for seamless integration across internal and third-party systems. \n- Implement CI/CD pipelines, containerization (Docker), and cloud deployments (AWS/Azure) to ensure rapid, reliable releases. \n- Monitor application performance, debug production issues, and implement scalable architecture improvements. \n- Mentor junior developers and contribute to engineering best practices including code reviews, documentation, and architectural governance. \n\nSkills & Qualifications \n\n- Must-Have \n- Python \n- Django \n- Flask \n- React \n- RESTful APIs \n- AWS \n- Docker \n- CI/CD \n\n- Preferred \n- Vue.js \n- Kubernetes \n- PostgreSQL \n\nBenefits & Culture Highlights \n\n- Hybrid work model with flexible in-office days and remote options. \n- Annual learning stipend for certifications, conferences, and upskilling. \n- Cross-functional ownership and direct exposure to client stakeholders and CTO-level decision-making.",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/863515198621745152?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRnVsbCBTdGFjayBEZXZlbG9wZXIoIDcgeXJzIGNoZW5uYWkpIChCZW5nYWx1cnUpIiwiY29tcGFueV9uYW1lIjoiT3JiaW9uIEluZm90ZWNoIiwiaHRpZG9jaWQiOiJqa2pWZ1gwMGdJOXhSY1E1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRIQkZWRXhvWWtoRWNHZExaMjExVFVvNFIyTkZSWEZ2T0dvdE5sSnFhR1JpUkdWcFdtcHBZbkJ2UmxOVk1GVktVVjlqTm5OWlZUTkNVMkpUVm5sMWIzVTNNM0pXVFhSZlRXWXRObVJCZEcxVloxcFdiazlSTVZseWMwWnVlakYxWTIxaVlXMXhNbU5vY2taTmRFbHNhRXBJUzBocVUwTlZNblk1TlhaWGQyRldOa0pVWTFFU0YybzRNMGxoY2kxalJ6UlRjVGwxT0ZBMGRVOVlPRUV3R2lKQlJITnlPV1pVZFdGTk0zZE5YM3BHVmt3NFZGcDFZelpaWkdSTU4zQkliWHBuIiwiZmN2IjoiMyIsImZjX2lkIjoiamtqVmdYMDBnSTl4UmNRNUFBQUFBQT09In0="
+    },
+    {
+      "title": "Latent Bridge - Backend Python Developer - Django/Flask",
+      "company_name": "Latent Bridge",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=wb2_hSNO5gzevQnAAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_1WOMQ7CMBAERZsnUF1DgyBGSDTQRREUUOQH0SWc7CTmzrIdFDr-wF94EC_BlDTb7Kxms_csqy4YiSMUvrtqgjUU2A7EV6ge0QhDSXey4sinquyRtaijxTDA5_mCXhoIhL41kNCTiLY0P5gYXdgrFYLNdYgYuzZv5aaEqZFJpVH4RR0MenI2-evtbjPljvVy8X-nYyiINdrRjys4o2eMOOAXVNqL77kAAAA&shmds=v1_ARwrE23DX7gIXcloteZNUIHBTThF_9c4NuSQ6BM7pD9gvqManw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=wb2_hSNO5gzevQnAAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8cd8eeb6ec5594800cbab/images/0jPq-XMbxY8BkND1h4aITgQNSO21d7BbODkgN1yROwA.jpeg",
+      "extensions": [
+        "1 day ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jooble.org/jdp/6467107815341729708",
+      "job_title": "Latent Bridge - Backend Python Developer - Django/Flask",
+      "description": "Role Overview :We are looking for a Backend Python Developer to join our in-house engineering team. The ideal candidate should have strong hands-on experience in designing, developing, and maintaining scalable backend applications and RESTful APIs using Python. You will work closely with product managers, frontend developers, DevOps engineers, and cross-functional teams.Key Responsibilities :- Design, develop, and maintain scalable backend applications using Python.- Build RESTful APIs using Django, FastAPI, or Flask.- Develop secure, scalable and high-performance backend services.- Implement microservices where required.- Write clean, reusable and maintainable code.- Collaborate with cross-functional teams.- Debug and optimize backend performance.- Participate in code reviews and Agile ceremonies.Required Skills :- 7-12 years of Python backend development.- Django / FastAPI / Flask.- REST APIs and backend architecture.- Microservices, OOP, Git.- Authentication, authorization & security.- Strong debugging and problem-solving.Preferred Skills :- Docker, Kubernetes, CI/CD.- AWS or Azure.- Celery, RabbitMQ or Kafka.- Azure SQL / PostgreSQL / MySQL.- MongoDB exposure.- Azure or Claude certifications What We're Looking For :- Hands-on backend engineer.- Scalable backend systems experience.- Clean coding practices.- Excellent communication.- Immediate joiners or up to 15 days' notice preferred. (ref:hirist.tech)",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/6467107815341729708?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMYXRlbnQgQnJpZGdlIC0gQmFja2VuZCBQeXRob24gRGV2ZWxvcGVyIC0gRGphbmdvL0ZsYXNrIiwiY29tcGFueV9uYW1lIjoiTGF0ZW50IEJyaWRnZSIsImh0aWRvY2lkIjoid2IyX2hTTk81Z3pldlFuQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM1ZTVUdKdE5FZHhhelZ6V1dkTmQxYzFhRzFvVEUwMWQwRTNVV1F6WTFSemJsRkVaVmN0U201Q1MzTkhVV0ZJUnpOWlZqTkxWa1F5ZVhWbk0xSkpRM3BFVEZabFRrUkRVVE0xU2kwNVJVNXlZVXBITkdwRmNXMVVURzFoZVZscU4zQXpOR2x3V0hJM0xWSlBhWFJyYjNGeVMzRlFZVWhrTVc5cVRqaFFjRk4xTjI4NUxYSVNGMm80TTBsaGNpMWpSelJUY1RsMU9GQTBkVTlZT0VFd0dpSkJSSE55T1daU2ExWnZZbE5xUlhSSlRrcHBVVnBYV2pSSU1rRlhXVm8yY2psMyIsImZjdiI6IjMiLCJmY19pZCI6IndiMl9oU05PNWd6ZXZRbkFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Junior Python Developer",
+      "company_name": "Statforge Technologies",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=rLRr_NvZ-4_7ANQoAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMQoCMRAAsb0nWG0tkhyCjXYiCNoI2h97x5pE427I5uTs_IMP8G--xLOZZmaqz6Sq9z0HyXB8Fi8MW3pQlEQZvq83XKUFJcydh9HtRFyk6dqXknRlrWo0TguW0JlO7laYWhnsOOkfjXrMlCIWahbLejCJ3cycxv4i2RGcqfMsUVwghcCwIXYY-9zP4YCZseANf6k12ACiAAAA&shmds=v1_ARwrE203SiDB2diiiU_Sn5r4KS6VolR2CXlFFtoKN3kVHADTqQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=rLRr_NvZ-4_7ANQoAAAAAA%3D%3D",
+      "extensions": [
+        "₹1L–₹50L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/statforge-technologies-junior-python-developer-bengaluru-karnataka-india-0-to-2-years-390220",
+      "job_title": "Junior Python Developer",
+      "description": "Company OverviewAt Matrixbuz Technologies, we are passionate about using technology to solve business problems. Whether you need an enterprise software solution, a custom web application, a digital marketing campaign, an eCommerce platform, or a game development project, our team of experts is here to help you. We pride ourselves on delivering high-quality work on time and on budget. Let us help you take your business to the next level.Job OverviewWe are looking for a passionate and talented Junior Python Developer to join our team at Matrixbuz Technologies. As a Junior Python Developer, you will be responsible for developing high-quality software solutions using Python, Django, and other related technologies. This is a full-time position based in Bangalore, Karnataka, India.Qualifications And SkillsStrong knowledge of Python and DjangoFamiliarity with front-end technologies such as HTML, CSS, and JavaScriptGood understanding of software development principles and best practicesAbility to work collaboratively in a team environmentExcellent problem-solving and troubleshooting skillsStrong communication and interpersonal skillsAttention to detail and a commitment to delivering high-quality workSelf-motivated with a strong drive to learn and growRoles And ResponsibilitiesDevelop and maintain software applications using Python and DjangoParticipate in the entire software development lifecycle, from concept and design to testing and deploymentCollaborate with cross-functional teams to define, design, and ship new featuresTroubleshoot and debug issues in existing software applicationsWrite clean, efficient, and scalable codeStay up-to-date with emerging technologies and industry trendsContribute to the continuous improvement of our development processes",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/statforge-technologies-junior-python-developer-bengaluru-karnataka-india-0-to-2-years-390220?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Iitjobs",
+          "link": "https://www.iitjobs.com/job/junior-python-developer-bengaluru-karnataka-india-383813?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NaukriSunshine",
+          "link": "https://naukrisunshine.com/job/junior-python-developer-bangalore-13184?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337688734/junior-python-developer-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobOpportunity",
+          "link": "https://jobopportunity.info/opportunity/junior-python-developer-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgUHl0aG9uIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlN0YXRmb3JnZSBUZWNobm9sb2dpZXMiLCJodGlkb2NpZCI6InJMUnJfTnZaLTRfN0FOUW9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xkcWNXTk1jVzV1TTBNNFJVUk5jVUZpVVZSM1FVSllVME00Y3pseVZGWlZNMlZqYm13NGJFUnRUbWh0WTFsUFZWWm9WRUY2WlRZd2VYWXpabGhZTlMwd1RHSkJZak5MTVY5bGVEaENVbTFIVFRWdFdqUk1kMnRIYnpaaVFVaFVhbXhXTmpsWlVXTk9YekIxTlhaQk4waE5ibEJZY1dWTlMzQjVaSHBoZEdwdk5VUmlUbEVTRjJvNE0wbGhjaTFqUnpSVGNUbDFPRkEwZFU5WU9FRXdHaUpCUkhOeU9XWlNWMnBwY0RBNFVISnVjbGhuZGtndFJFeHFaa3RwTm5CRFJsTlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJyTFJyX052Wi00XzdBTlFvQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Python Developer - Java / ETL",
+      "company_name": "Lister Digital",
+      "location": "Bengaluru, Karnataka",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=TaV8-W09nb4OQzN_AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TrLayEM2JoIV2EhHUwsI-bMJyd3rehttNiJ1_sPZzvsTYTDXDZJ9Rtr481XGEgjoK3FCCORyxQzCwv57h-3rDjSsQwlQ7GMQDsw003jrVRjbGiITciqL6Oq_5YThSxb0ZIvmjFIeJmoBK5XK16PMm2unk7EWHVeGtVwzgI-woWgxtamdwwhRR8Y4_clO9JKAAAAA&shmds=v1_ARwrE230CdrtM4p6PCeELwjqD5yrbX-oMyLh6oSYcB33Rd5-fA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=TaV8-W09nb4OQzN_AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8cd8eeb6ec5594800cbab/images/cKbUhnjjJigY92dQ7OBSuJSCnut40VDo7xCv5eTh9iU.jpeg",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010279801803",
+      "job_title": "Python Developer - Java / ETL",
+      "description": "About This Role\n2 to 7 years of experience\n\n\nSkills: Python, Javascript, HTML, SQL\n\n\nResponsibilities:\n\n\nDevelop and maintain backend services using Python, along with knowledge of Java for ETLs.\nDesign and implement data models and objects for applications.\nCollaborate with graphic designers and HTML coders to coordinate workflows.\nParticipate in all phases of the software development lifecycle and coach junior developers.\nWrite clean, documented code and deploy web-based solutions using Python libraries like Pandas and NumPy.\nWork on various API frameworks and data fabric services, utilizing Java/J2EE.\nValidate client interfaces of HTML pages using JavaScript and jQuery.\nTroubleshoot SQL databases and support SQL/Oracle database systems.\nRequirements:\n\n\nBachelor's degree in Computer Science or related field.\n2-7 years of experience in Python development, with proficiency in HTML, CSS, and JavaScript.\nStrong understanding of web technologies and backend programming languages like Java.\nExperience with Python frameworks such as Flask and Django.\nKnowledge of SQL and NoSQL databases for backend development.\nFamiliarity with authentication and authorization security technologies.\nAbility to work independently and collaborate on projects effectively.\nHands-on experience with front-end stacks and frameworks like Angular, Node.js, and jQuery.\nExcellent analytical and problem-solving skills, with a passion for learning new technologies.\nProficiency in scripting languages like Python and shell scripting is preferred.",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010279801803&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/lBEyPtmKuJElwXuaV0h9K7Om8fw0ab3Fo3xnuEgylXauVx4YgN47rw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/python-developer-java-etl-lister-digital-bengaluru--techmap_in_DmirQNHEA9X-Gpi81I98F6Zr-K7uXMZzqzASo9dxdNCl8K0hNJI8AA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/jpmorgan-chase-co-python-developer-associate-bengaluru-karnataka-india-4-to-6-years-401521?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/3089339187539738624?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340363835/python-developer-java-etl-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyIC0gSmF2YSAvIEVUTCIsImNvbXBhbnlfbmFtZSI6Ikxpc3RlciBEaWdpdGFsIiwiaHRpZG9jaWQiOiJUYVY4LVcwOW5iNE9Rek5fQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwWTROMGR1TnpRNFRtODJNbXN4U25GUlVtaEZUalo2Y1VkaVIzZHpjM1p6ZFdGc1QydDVhVU5IZEhacVgwNXdUVXhZTFRkMk5FZHhVRlpCVkhadFVYUnhXRGhhVGpGMWMycG5WblpGYUVKRVRGQTJXRFpUYldweFJUSXlkeTFUVldWNmFTMDJkbVpJU1U5UmRWaENhR2RqVjFsM05HZ3hjSGh0ZVRFM2NuTkVWVGd3V0ZNU0YybzRNMGxoY2kxalJ6UlRjVGwxT0ZBMGRVOVlPRUV3R2lKQlJITnlPV1pSUWs1cU5FMDRSVFpzVG1SMFVtcEJjWEEwTUVSQlYyTjZOMU5uIiwiZmN2IjoiMyIsImZjX2lkIjoiVGFWOC1XMDluYjRPUXpOX0FBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Django Developer (1-2 Year of Experience)",
+      "company_name": "Aforro™",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=Bmef2mNa8YoxVAFmAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMQ6CQBAAY8sTrNZOjYKa2GilwRj1BVZkIctxeO5e7g5DaeEP_IGtv-IlYjPFTCb6DqLTuWEtDtIaWQmk9CAjlhyMl_MVXAkdSAmHtleauKAJdM831JKD71tRgTAcRZSh4bYKwfpNknhvYuUDBl3EhdwTYcqlTfrJ_5H5Ch1Zg4Gy1XrRxpbVdLQrxTnpXh_QDHtihaZxzQwu6BgD3vAH5TElua4AAAA&shmds=v1_ARwrE2204h6cziPKg8na7NGKlq1e2uatUoYtVQ6kyfINiKSSgw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=Bmef2mNa8YoxVAFmAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/junior-django-developer-1-2-year-of-experience/aforrotm/19448605",
+      "job_title": "Junior Django Developer (1-2 Year of Experience)",
+      "description": "We're building something incredibly exciting at Aforro, and we're looking for a Backend Developer who wants to build products from the ground up  not just work on small pieces of an existing system.\n\n\n\n\nYou'll be working closely with the founding and engineering team to build the backend for our retailer-first quick-commerce platform, powering everything from inventory and procurement to billing, orders, settlements and retailer operations.\n\n\n\n\n\n\n\nWhat we're looking for\n\nWe're specifically looking for someone who has a strong understanding of:\n\n\n\n\nPython & DjangoREST APIs and backend architectureDatabase design and PostgreSQLSystem design fundamentalsWriting clean, maintainable and scalable codeDesigning reliable business logic and workflowsAuthentication, permissions and API securityDebugging and solving backend problems independently\n\n\nWhat you'll do\n\nBuild and maintain backend systems using DjangoDesign APIs and database structures for new featuresWork on complex workflows across inventory, orders, billing, procurement and settlementsTake ownership of backend features from design  development  testing  deploymentWork closely with frontend, mobile and product teams to build complete features\n\n\nMust-haves\n\n 12+ years of relevant industry experience\n\n Strong hands-on experience with Python/Django\n\n Good understanding of databases and PostgreSQL\n\n Experience building production-grade REST APIs\n\n Strong fundamentals in system design and backend architecture\n\n On-site | HSR Layout, Bengaluru\n\n Immediate joiners preferred .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-django-developer-1-2-year-of-experience/aforrotm/19448605?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGphbmdvIERldmVsb3BlciAoMS0yIFllYXIgb2YgRXhwZXJpZW5jZSkiLCJjb21wYW55X25hbWUiOiJBZm9ycm/ihKIiLCJodGlkb2NpZCI6IkJtZWYybU5hOFlveFZBRm1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdKcVpFVTVaa1pQT0VWUE4wMXZZakJYVDNkcVVHVjFRblk0T1V4VFgwOVRiSFZLVUd4bVgyUkNWelZvV1ZkTFdUQXllVkZZVTNRNFdWVlNVVFJYWm5FNE5tTkdOMUkxU1hOYVpFWlFkamd0WTJSS2FGWjNVVTFvVVZBNFEwTTVTMWRYVWxSU1JGaFBTRVV6ZUdodmJYVk5iRVJ5WnpKcmVqVmtSRkJCYzJoTWNFdGxSRFFTRjJvNE0wbGhjaTFqUnpSVGNUbDFPRkEwZFU5WU9FRXdHaUpCUkhOeU9XWlVYemQzVmpSdGEyeEpRV0ZHT0hCQlpHTTBSVUpyZUhBMVYyTjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJCbWVmMm1OYThZb3hWQUZtQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Python Developer",
+      "company_name": "Bizentrixtechnologies",
+      "location": "Hosur, Tamil Nadu",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Python+Developer&htidocid=rXSckOGDJkzGJxjGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7CE63WqQRwUU3KegkDu4ljUcSSXMhd5Xo5DvoE_ok1uVfPv7qM6sW54c4itDiHQMlzPB9veFGPTDqbBxMdiCyAec7J5J4qxRzaCyLFm8aQ4OiiD0VNU38T8dOZ0xBC3brzao0Kdq63vsnRsm-CBoXKZD1yOAjHInHvISLHnyAk76OP2J-eoyXAAAA&shmds=v1_ARwrE213fDlXMStytvEt1PlsBPR5zwENBpDSt0tGc7JIuREkMA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Python+Developer&htidocid=rXSckOGDJkzGJxjGAAAAAA%3D%3D",
+      "extensions": [
+        "1 day ago"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/python-developer-at-bizentrixtechnologies-4475725456",
+      "job_title": "Python Developer",
+      "description": "Python Developer IT Hosur, Tamil Nadu Internship 0-1 \n\nWe are seeking a Python Developer to build robust web applications, APIs, automation solutions, and backend systems. Candidates should have strong programming fundamentals and problem-solving skills. Responsibilities Develop web applications using Python frameworks. Design and develop REST APIs. Write clean, maintainable, and scalable code. Optimize application performance and database queries. Collaborate with frontend developers and project teams. Preferred Skills Experience with cloud platforms. Knowledge of Docker and CI/CD. Understanding of Microservices architecture.\n\n What we're looking for\n\n RequirementsKnowledge of Python programming.Familiarity with Django, Flask, or FastAPI.Understanding of SQL and database design.Knowledge of Git version control.Freshers and experienced candidates can apply. At a glance\n\n TeamITLocationHosur, Tamil NaduTypeInternshipExperience0-1PostedJun 11, 2026  Apply now",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/python-developer-at-bizentrixtechnologies-4475725456?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "India Jobs Expertini",
+          "link": "https://in.expertini.com/job/python-developer-hosur-shrinq-consulting-group-inc-636468180585421520/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQml6ZW50cml4dGVjaG5vbG9naWVzIiwiaHRpZG9jaWQiOiJyWFNja09HREprekdKeGpHQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHTlNkbGhhTldwVWFHZGhlVTh5ZFhWZlJYcHhha2xKZDA5Q1dtOVFURjkwZUZCck5uZENORTF2UkVWU01GTlVkVGw2Y2xoSVNqZERVM0pLYUhSNE5UUnZURFF3VWsxMGFXWk5VWFE1TUdOS1VWVXdObVUwVVVwS05VMDJXVVZRT1RWMFpWVkpTMEpmUmt0bWFEbGtZbXhNYnpRd1Vrb3pTMTlVWVdnM1UwdE9SbWxzUjFFU0YybzRNMGxoY2kxalJ6UlRjVGwxT0ZBMGRVOVlPRUV3R2lKQlJITnlPV1pTVDB4MlZVOTNUMVJNTFdkWmJsWXdTbDkzT0ZOd1QzQTVkVEZCIiwiZmN2IjoiMyIsImZjX2lkIjoiclhTY2tPR0RKa3pHSnhqR0FBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBURXREYUhGeE56SkZjVzloYWxKcFp6WjJlRFJ3Y2toRVRHUmhObFZzU2tKeE5tOUVNemN3UVRkRmJXOUZORkJYVVRGaVNIRjViRVpXU1RaNmRXWlRWMmRYUVhoa1RXMVlkRzVJWlhGV0xXSm1TR293T1hGVkxVeHRjVlJDYkU1RFpWRkpPVWRWU0VoTVNHVlNjVVZmWkdWTFRtaHRXV3BRTkc5amNWOVpSVEE1Ym1GQ2RuUkJXRWhYUkVreVRIQnNhM2hoWW14Zk1WVkZNbWRpVWxaYWNHdHpPSFZaUm5ObFUyMURUbUpzU201dmEwd3dOVXh2TTIxR2VVRkdOV2w2WkdkM2JFMU5kRlJYZVhCcVFqbDBMVVkwYXpsMVJUSnBkMk40VmpkTVZHdzNaamxsYXpSeFRtaEpZalZwYW5SRVZsUlJRbXBRVWxCc2NEaDRRbFl3WVU1TGRHOVRNSE13T1dGeE1XSnJWbTlyYzNCQ1pqWllaR05zY3pKTlUwUnRkVGhJWkhSSFdsQlFOV2ROYmtWM01HNWFNMjlyTlVweFFWTnlhRmN6U0Y4MmJtdFZMV1FTRjJvNE0wbGhjaTFqUnpSVGNUbDFPRkEwZFU5WU9FRXdHaUpCUkhOeU9XWlNNbXBqWlVWNWVGSnBZeTFDTmpWSmNERlBOMkl5ZVMxWGRtWm4iLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBURXREYUhGeE56SkZjVzloYWxKcFp6WjJlRFJ3Y2toRVRHUmhObFZzU2tKeE5tOUVNemN3UVRkRmJXOUZORkJYVVRGaVNIRjViRVpXU1RaNmRXWlRWMmRYUVhoa1RXMVlkRzVJWlhGV0xXSm1TR293T1hGVkxVeHRjVlJDYkU1RFpWRkpPVWRWU0VoTVNHVlNjVVZmWkdWTFRtaHRXV3BRTkc5amNWOVpSVEE1Ym1GQ2RuUkJXRWhYUkVreVRIQnNhM2hoWW14Zk1WVkZNbWRpVWxaYWNHdHpPSFZaUm5ObFUyMURUbUpzU201dmEwd3dOVXh2TTIxR2VVRkdOV2w2WkdkM2JFMU5kRlJYZVhCcVFqbDBMVVkwYXpsMVJUSnBkMk40VmpkTVZHdzNaamxsYXpSeFRtaEpZalZwYW5SRVZsUlJRbXBRVWxCc2NEaDRRbFl3WVU1TGRHOVRNSE13T1dGeE1XSnJWbTlyYzNCQ1pqWllaR05zY3pKTlUwUnRkVGhJWkhSSFdsQlFOV2ROYmtWM01HNWFNMjlyTlVweFFWTnlhRmN6U0Y4MmJtdFZMV1FTRjJvNE0wbGhjaTFqUnpSVGNUbDFPRkEwZFU5WU9FRXdHaUpCUkhOeU9XWlNNbXBqWlVWNWVGSnBZeTFDTmpWSmNERlBOMkl5ZVMxWGRtWm4iLCJmY3YiOiIzIn0%3D&q=Junior+Python+Developer"
+  },
+  "_retrieved_at": "2026-10-09 11:18:38 UTC"
+}

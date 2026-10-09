@@ -1,0 +1,316 @@
+{
+  "search_metadata": {
+    "id": "6ac8ce3171a41dae0ba4fff8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lzoQ-Wc_JgqRtLH76BejbtcA8sdHwXhlP9Mt4FwUs7w/6ac8ce3171a41dae0ba4fff8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lzoQ-Wc_JgqRtLH76BejbtcA8sdHwXhlP9Mt4FwUs7w/6ac8ce3171a41dae0ba4fff8.md",
+    "created_at": "2026-10-09 11:21:21 UTC",
+    "processed_at": "2026-10-09 11:21:21 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Junior+Frontend+Developer&uule=w+CAIQICIZSHlkZXJhYmFkLFRlbGFuZ2FuYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/lzoQ-Wc_JgqRtLH76BejbtcA8sdHwXhlP9Mt4FwUs7w/6ac8ce3171a41dae0ba4fff8.html",
+    "total_time_taken": 4.14
+  },
+  "search_parameters": {
+    "q": "Junior Frontend Developer",
+    "engine": "google_jobs",
+    "location_requested": "Hyderabad, India",
+    "location_used": "Hyderabad,Telangana,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_ATlxcZuQVnpeLy_DHRTaWXux3aZgrz3Vfa9sZNmR3IIYJbvaHHQ5ng54Q4CGPR9mKp0ddarValoDjlc_U6DtvtgkrpFSfi4bqkhdEEpSy4eg3GaEMZt5p6M1ZX5C1jzo6mMRZQra3NFTOWKo9UHpfYNIEiJ",
+        "q": "Junior Frontend Developer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_ATlxcZuQVnpeLy_DHRTaWXux3aZgrz3Vfa9sZNmR3IIYJbvaHHQ5ng54Q4CGPR9mKp0ddarValoDjlc_U6DtvtgkrpFSfi4bqkhdEEpSy4eg3GaEMZt5p6M1ZX5C1jzo6mMRZQra3NFTOWKo9UHpfYNIEiJ&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_ATlxcZuQVnpeLy_DHRTaWXux3aZgrz3Vfa9sZNmR3IIYJbvaHHQ5ng54Q4CGPR9mKp0ddarValoDjlc_U6DtvtgkrpFSfi4bqkhdEEpSy4eg3GaEMZt5p6M1ZX5C1jzo6mMRZQra3NFTOWKo9UHpfYNIEiJ"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eiiTm51nx_Nu5XTia78vgHtyP1LUOQBnaVSJM9EwCFlBoRJ6PaXXj9_mRFWLR446HN4cAmWvRawwErp-PXD3xP4QUqJeMC-rh6Vet6dP34yUbURfG-4uSp6crYdE9Cn-1NJhosWs19loJr44zAe91OYIU9m5xjrOaLQZQvfza7C0JVj6I2wd9RLdNdpCzP4qmRHlwmdqV-bcUiz-1m4UZ4NkSExs3CH1N-YkM30_n0MxzD5sze1wcJ77PuXGg94LD0UXkkhYjPuYr672fQvP7JzorJ_8Y3VddDfAO4qsA55M41gXUvpfn07DzktsVKWGWKzQ0iv4",
+            "q": "Junior Frontend Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eiiTm51nx_Nu5XTia78vgHtyP1LUOQBnaVSJM9EwCFlBoRJ6PaXXj9_mRFWLR446HN4cAmWvRawwErp-PXD3xP4QUqJeMC-rh6Vet6dP34yUbURfG-4uSp6crYdE9Cn-1NJhosWs19loJr44zAe91OYIU9m5xjrOaLQZQvfza7C0JVj6I2wd9RLdNdpCzP4qmRHlwmdqV-bcUiz-1m4UZ4NkSExs3CH1N-YkM30_n0MxzD5sze1wcJ77PuXGg94LD0UXkkhYjPuYr672fQvP7JzorJ_8Y3VddDfAO4qsA55M41gXUvpfn07DzktsVKWGWKzQ0iv4&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eiiTm51nx_Nu5XTia78vgHtyP1LUOQBnaVSJM9EwCFlBoRJ6PaXXj9_mRFWLR446HN4cAmWvRawwErp-PXD3xP4QUqJeMC-rh6Vet6dP34yUbURfG-4uSp6crYdE9Cn-1NJhosWs19loJr44zAe91OYIU9m5xjrOaLQZQvfza7C0JVj6I2wd9RLdNdpCzP4qmRHlwmdqV-bcUiz-1m4UZ4NkSExs3CH1N-YkM30_n0MxzD5sze1wcJ77PuXGg94LD0UXkkhYjPuYr672fQvP7JzorJ_8Y3VddDfAO4qsA55M41gXUvpfn07DzktsVKWGWKzQ0iv4"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CYN-R-V5LEq7l8eusNKXegXQB9-yMeQPSl4kZQmAtisG2E5cuJcSZg2blq9S_6-GUaOVS4DP9VPSZXoOuQw_PCGlB1wWpcI8b5LbQSuuC6scbLXgtIImEKgBCW0QG7iQUaunz_cL5YncYhfxr_KBj1_qZfAhJVEcuculMlf_K1HRUiLT0q9WKbhLQFZk0REINEXP2NXC0D5vFC0lMWKW4quXSMoYFVgRFjXcHlIohf5St2p3jvBvk4wuudzSRKIkcbwXgDC5KiHetOxYlKt2qrq11PZjYkn8alHm9mq_bCjyJwW8s5GPq9My_gQqVNU9S0_02gY",
+            "q": "Junior Frontend Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CYN-R-V5LEq7l8eusNKXegXQB9-yMeQPSl4kZQmAtisG2E5cuJcSZg2blq9S_6-GUaOVS4DP9VPSZXoOuQw_PCGlB1wWpcI8b5LbQSuuC6scbLXgtIImEKgBCW0QG7iQUaunz_cL5YncYhfxr_KBj1_qZfAhJVEcuculMlf_K1HRUiLT0q9WKbhLQFZk0REINEXP2NXC0D5vFC0lMWKW4quXSMoYFVgRFjXcHlIohf5St2p3jvBvk4wuudzSRKIkcbwXgDC5KiHetOxYlKt2qrq11PZjYkn8alHm9mq_bCjyJwW8s5GPq9My_gQqVNU9S0_02gY&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CYN-R-V5LEq7l8eusNKXegXQB9-yMeQPSl4kZQmAtisG2E5cuJcSZg2blq9S_6-GUaOVS4DP9VPSZXoOuQw_PCGlB1wWpcI8b5LbQSuuC6scbLXgtIImEKgBCW0QG7iQUaunz_cL5YncYhfxr_KBj1_qZfAhJVEcuculMlf_K1HRUiLT0q9WKbhLQFZk0REINEXP2NXC0D5vFC0lMWKW4quXSMoYFVgRFjXcHlIohf5St2p3jvBvk4wuudzSRKIkcbwXgDC5KiHetOxYlKt2qrq11PZjYkn8alHm9mq_bCjyJwW8s5GPq9My_gQqVNU9S0_02gY"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqry5soXsvDaA82lDzv2HB9eUuc331HxV4ygTf5hOvTfGbLIx8l86TK4RxatT_MA2SvURZhHE8fQm8UgS68OLbOCP4zeajgnx57jZqAeb5D8lm5kCGdf0OjKLs6McWK4oOcmiFbyoqBvRWvlJtKn9gXhsK79jh33dypswQ_U_Z2mB5y2ntnk8nZnsr0fOmxFkp2cnqliSUHpyRU4VCX31s_TtFIdgsZG2u7IICGbzYd3jIRBxwPFCtLw-hwLxjPs9NexSm4BjSdZ-nbzsjPmzEJc8La7gp0afgV5ZkuoYOMkPdCeOElax4jRcgAA0P4CX9elkUv6U",
+            "q": "Junior Frontend Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqry5soXsvDaA82lDzv2HB9eUuc331HxV4ygTf5hOvTfGbLIx8l86TK4RxatT_MA2SvURZhHE8fQm8UgS68OLbOCP4zeajgnx57jZqAeb5D8lm5kCGdf0OjKLs6McWK4oOcmiFbyoqBvRWvlJtKn9gXhsK79jh33dypswQ_U_Z2mB5y2ntnk8nZnsr0fOmxFkp2cnqliSUHpyRU4VCX31s_TtFIdgsZG2u7IICGbzYd3jIRBxwPFCtLw-hwLxjPs9NexSm4BjSdZ-nbzsjPmzEJc8La7gp0afgV5ZkuoYOMkPdCeOElax4jRcgAA0P4CX9elkUv6U&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqry5soXsvDaA82lDzv2HB9eUuc331HxV4ygTf5hOvTfGbLIx8l86TK4RxatT_MA2SvURZhHE8fQm8UgS68OLbOCP4zeajgnx57jZqAeb5D8lm5kCGdf0OjKLs6McWK4oOcmiFbyoqBvRWvlJtKn9gXhsK79jh33dypswQ_U_Z2mB5y2ntnk8nZnsr0fOmxFkp2cnqliSUHpyRU4VCX31s_TtFIdgsZG2u7IICGbzYd3jIRBxwPFCtLw-hwLxjPs9NexSm4BjSdZ-nbzsjPmzEJc8La7gp0afgV5ZkuoYOMkPdCeOElax4jRcgAA0P4CX9elkUv6U"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rhwv6lC8BOkQKjt06vuXHMUP6CFQ0jR4_6ltyKo1SRsMCRkfInVfQVyW42k52pcjEtf5qumeQDMpmWhzCit0THRtSUHHws2eYsLrrqESmcn5CoEKXN8QLcWCzK1OjnRteF9jNjgB--cMQrXmJE0bmaIWVY2_QZuu6ELf76DHnDwUlyhXnE23cwgC8_hquI_e5Rp-NoZfPtezYvpAjLbrG8OJXlmFRX09_h_owNFtJvXcVwOJ4076Gmm3eVyvRKAsBKQRbOA06J6BOl_X3I6xEsitvrcfMJOGhyv2RKQPeDLgabKQfyBFhGgXT3xIush4ulvl78HIrNP-qf56UiyNpv4b5DH4",
+            "q": "Junior Frontend Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhwv6lC8BOkQKjt06vuXHMUP6CFQ0jR4_6ltyKo1SRsMCRkfInVfQVyW42k52pcjEtf5qumeQDMpmWhzCit0THRtSUHHws2eYsLrrqESmcn5CoEKXN8QLcWCzK1OjnRteF9jNjgB--cMQrXmJE0bmaIWVY2_QZuu6ELf76DHnDwUlyhXnE23cwgC8_hquI_e5Rp-NoZfPtezYvpAjLbrG8OJXlmFRX09_h_owNFtJvXcVwOJ4076Gmm3eVyvRKAsBKQRbOA06J6BOl_X3I6xEsitvrcfMJOGhyv2RKQPeDLgabKQfyBFhGgXT3xIush4ulvl78HIrNP-qf56UiyNpv4b5DH4&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhwv6lC8BOkQKjt06vuXHMUP6CFQ0jR4_6ltyKo1SRsMCRkfInVfQVyW42k52pcjEtf5qumeQDMpmWhzCit0THRtSUHHws2eYsLrrqESmcn5CoEKXN8QLcWCzK1OjnRteF9jNjgB--cMQrXmJE0bmaIWVY2_QZuu6ELf76DHnDwUlyhXnE23cwgC8_hquI_e5Rp-NoZfPtezYvpAjLbrG8OJXlmFRX09_h_owNFtJvXcVwOJ4076Gmm3eVyvRKAsBKQRbOA06J6BOl_X3I6xEsitvrcfMJOGhyv2RKQPeDLgabKQfyBFhGgXT3xIush4ulvl78HIrNP-qf56UiyNpv4b5DH4"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eiiTm51nx_Nu5XTia78vgHtyP1LUOQBnaVSJM9EwCFlBoRJ6PaXXj9_mRFWLR446HN4cAmWvRawwErp-PXD3xP4QUqJeMC-rh6Vet6dP34yUbURfG-4uSp6crYdE9Cn-1NJhosWs19loJr44zAe91OYIU9m5xjrOaLQZQvfza7C0JVj6I2wd9RLdNdpCzP4qmRHlwmdqV-bcUiz-1m4UZ4NkSExs3CH1N-YkM30_n0MxzD5sze1wcJ77PuXGg94LD0UXkkhYjPuYr672fQvP7JzorJ_8Y3VddDfAO4qsA55M41gXUvpfn07DzktsVKWGWKzQ0iv4",
+            "q": "Junior Frontend Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eiiTm51nx_Nu5XTia78vgHtyP1LUOQBnaVSJM9EwCFlBoRJ6PaXXj9_mRFWLR446HN4cAmWvRawwErp-PXD3xP4QUqJeMC-rh6Vet6dP34yUbURfG-4uSp6crYdE9Cn-1NJhosWs19loJr44zAe91OYIU9m5xjrOaLQZQvfza7C0JVj6I2wd9RLdNdpCzP4qmRHlwmdqV-bcUiz-1m4UZ4NkSExs3CH1N-YkM30_n0MxzD5sze1wcJ77PuXGg94LD0UXkkhYjPuYr672fQvP7JzorJ_8Y3VddDfAO4qsA55M41gXUvpfn07DzktsVKWGWKzQ0iv4&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eiiTm51nx_Nu5XTia78vgHtyP1LUOQBnaVSJM9EwCFlBoRJ6PaXXj9_mRFWLR446HN4cAmWvRawwErp-PXD3xP4QUqJeMC-rh6Vet6dP34yUbURfG-4uSp6crYdE9Cn-1NJhosWs19loJr44zAe91OYIU9m5xjrOaLQZQvfza7C0JVj6I2wd9RLdNdpCzP4qmRHlwmdqV-bcUiz-1m4UZ4NkSExs3CH1N-YkM30_n0MxzD5sze1wcJ77PuXGg94LD0UXkkhYjPuYr672fQvP7JzorJ_8Y3VddDfAO4qsA55M41gXUvpfn07DzktsVKWGWKzQ0iv4"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CYN-R-V5LEq7l8eusNKXegXQB9-yMeQPSl4kZQmAtisG2E5cuJcSZg2blq9S_6-GUaOVS4DP9VPSZXoOuQw_PCGlB1wWpcI8b5LbQSuuC6scbLXgtIImEKgBCW0QG7iQUaunz_cL5YncYhfxr_KBj1_qZfAhJVEcuculMlf_K1HRUiLT0q9WKbhLQFZk0REINEXP2NXC0D5vFC0lMWKW4quXSMoYFVgRFjXcHlIohf5St2p3jvBvk4wuudzSRKIkcbwXgDC5KiHetOxYlKt2qrq11PZjYkn8alHm9mq_bCjyJwW8s5GPq9My_gQqVNU9S0_02gY",
+            "q": "Junior Frontend Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CYN-R-V5LEq7l8eusNKXegXQB9-yMeQPSl4kZQmAtisG2E5cuJcSZg2blq9S_6-GUaOVS4DP9VPSZXoOuQw_PCGlB1wWpcI8b5LbQSuuC6scbLXgtIImEKgBCW0QG7iQUaunz_cL5YncYhfxr_KBj1_qZfAhJVEcuculMlf_K1HRUiLT0q9WKbhLQFZk0REINEXP2NXC0D5vFC0lMWKW4quXSMoYFVgRFjXcHlIohf5St2p3jvBvk4wuudzSRKIkcbwXgDC5KiHetOxYlKt2qrq11PZjYkn8alHm9mq_bCjyJwW8s5GPq9My_gQqVNU9S0_02gY&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CYN-R-V5LEq7l8eusNKXegXQB9-yMeQPSl4kZQmAtisG2E5cuJcSZg2blq9S_6-GUaOVS4DP9VPSZXoOuQw_PCGlB1wWpcI8b5LbQSuuC6scbLXgtIImEKgBCW0QG7iQUaunz_cL5YncYhfxr_KBj1_qZfAhJVEcuculMlf_K1HRUiLT0q9WKbhLQFZk0REINEXP2NXC0D5vFC0lMWKW4quXSMoYFVgRFjXcHlIohf5St2p3jvBvk4wuudzSRKIkcbwXgDC5KiHetOxYlKt2qrq11PZjYkn8alHm9mq_bCjyJwW8s5GPq9My_gQqVNU9S0_02gY"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqry5soXsvDaA82lDzv2HB9eUuc331HxV4ygTf5hOvTfGbLIx8l86TK4RxatT_MA2SvURZhHE8fQm8UgS68OLbOCP4zeajgnx57jZqAeb5D8lm5kCGdf0OjKLs6McWK4oOcmiFbyoqBvRWvlJtKn9gXhsK79jh33dypswQ_U_Z2mB5y2ntnk8nZnsr0fOmxFkp2cnqliSUHpyRU4VCX31s_TtFIdgsZG2u7IICGbzYd3jIRBxwPFCtLw-hwLxjPs9NexSm4BjSdZ-nbzsjPmzEJc8La7gp0afgV5ZkuoYOMkPdCeOElax4jRcgAA0P4CX9elkUv6U",
+            "q": "Junior Frontend Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqry5soXsvDaA82lDzv2HB9eUuc331HxV4ygTf5hOvTfGbLIx8l86TK4RxatT_MA2SvURZhHE8fQm8UgS68OLbOCP4zeajgnx57jZqAeb5D8lm5kCGdf0OjKLs6McWK4oOcmiFbyoqBvRWvlJtKn9gXhsK79jh33dypswQ_U_Z2mB5y2ntnk8nZnsr0fOmxFkp2cnqliSUHpyRU4VCX31s_TtFIdgsZG2u7IICGbzYd3jIRBxwPFCtLw-hwLxjPs9NexSm4BjSdZ-nbzsjPmzEJc8La7gp0afgV5ZkuoYOMkPdCeOElax4jRcgAA0P4CX9elkUv6U&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rssXSLnlwh_Uqo_dly6Sqry5soXsvDaA82lDzv2HB9eUuc331HxV4ygTf5hOvTfGbLIx8l86TK4RxatT_MA2SvURZhHE8fQm8UgS68OLbOCP4zeajgnx57jZqAeb5D8lm5kCGdf0OjKLs6McWK4oOcmiFbyoqBvRWvlJtKn9gXhsK79jh33dypswQ_U_Z2mB5y2ntnk8nZnsr0fOmxFkp2cnqliSUHpyRU4VCX31s_TtFIdgsZG2u7IICGbzYd3jIRBxwPFCtLw-hwLxjPs9NexSm4BjSdZ-nbzsjPmzEJc8La7gp0afgV5ZkuoYOMkPdCeOElax4jRcgAA0P4CX9elkUv6U"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rhwv6lC8BOkQKjt06vuXHMUP6CFQ0jR4_6ltyKo1SRsMCRkfInVfQVyW42k52pcjEtf5qumeQDMpmWhzCit0THRtSUHHws2eYsLrrqESmcn5CoEKXN8QLcWCzK1OjnRteF9jNjgB--cMQrXmJE0bmaIWVY2_QZuu6ELf76DHnDwUlyhXnE23cwgC8_hquI_e5Rp-NoZfPtezYvpAjLbrG8OJXlmFRX09_h_owNFtJvXcVwOJ4076Gmm3eVyvRKAsBKQRbOA06J6BOl_X3I6xEsitvrcfMJOGhyv2RKQPeDLgabKQfyBFhGgXT3xIush4ulvl78HIrNP-qf56UiyNpv4b5DH4",
+            "q": "Junior Frontend Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhwv6lC8BOkQKjt06vuXHMUP6CFQ0jR4_6ltyKo1SRsMCRkfInVfQVyW42k52pcjEtf5qumeQDMpmWhzCit0THRtSUHHws2eYsLrrqESmcn5CoEKXN8QLcWCzK1OjnRteF9jNjgB--cMQrXmJE0bmaIWVY2_QZuu6ELf76DHnDwUlyhXnE23cwgC8_hquI_e5Rp-NoZfPtezYvpAjLbrG8OJXlmFRX09_h_owNFtJvXcVwOJ4076Gmm3eVyvRKAsBKQRbOA06J6BOl_X3I6xEsitvrcfMJOGhyv2RKQPeDLgabKQfyBFhGgXT3xIush4ulvl78HIrNP-qf56UiyNpv4b5DH4&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhwv6lC8BOkQKjt06vuXHMUP6CFQ0jR4_6ltyKo1SRsMCRkfInVfQVyW42k52pcjEtf5qumeQDMpmWhzCit0THRtSUHHws2eYsLrrqESmcn5CoEKXN8QLcWCzK1OjnRteF9jNjgB--cMQrXmJE0bmaIWVY2_QZuu6ELf76DHnDwUlyhXnE23cwgC8_hquI_e5Rp-NoZfPtezYvpAjLbrG8OJXlmFRX09_h_owNFtJvXcVwOJ4076Gmm3eVyvRKAsBKQRbOA06J6BOl_X3I6xEsitvrcfMJOGhyv2RKQPeDLgabKQfyBFhGgXT3xIush4ulvl78HIrNP-qf56UiyNpv4b5DH4"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQ1Ojwqao1egvfS5XCJA5ZGb3kyz82SMkCnkUEfGPm7avYLp2AUNLRz758KEbcQ0AT_eYZm1E_zIdXutVUJQF4o13iJFJ8S7aHkw1aNDOWNYaAHggPo6u0zgaa2WbNGxu6yZel6k8eat_G-MU9dI4kTwY5CjykQiig3zvsrr28xDI2zp1bCPhVs0cyN96LUaaPJUDaRnUSX_JBbjEp_6_xUF9VOmVZ2kHD1h2_Cm9G4OIBYvYkckIq90vyBpIsC0z-kWc3DrhrOEusq-Ed63oS8STX9sw",
+            "q": "Junior Frontend Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQ1Ojwqao1egvfS5XCJA5ZGb3kyz82SMkCnkUEfGPm7avYLp2AUNLRz758KEbcQ0AT_eYZm1E_zIdXutVUJQF4o13iJFJ8S7aHkw1aNDOWNYaAHggPo6u0zgaa2WbNGxu6yZel6k8eat_G-MU9dI4kTwY5CjykQiig3zvsrr28xDI2zp1bCPhVs0cyN96LUaaPJUDaRnUSX_JBbjEp_6_xUF9VOmVZ2kHD1h2_Cm9G4OIBYvYkckIq90vyBpIsC0z-kWc3DrhrOEusq-Ed63oS8STX9sw&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQ1Ojwqao1egvfS5XCJA5ZGb3kyz82SMkCnkUEfGPm7avYLp2AUNLRz758KEbcQ0AT_eYZm1E_zIdXutVUJQF4o13iJFJ8S7aHkw1aNDOWNYaAHggPo6u0zgaa2WbNGxu6yZel6k8eat_G-MU9dI4kTwY5CjykQiig3zvsrr28xDI2zp1bCPhVs0cyN96LUaaPJUDaRnUSX_JBbjEp_6_xUF9VOmVZ2kHD1h2_Cm9G4OIBYvYkckIq90vyBpIsC0z-kWc3DrhrOEusq-Ed63oS8STX9sw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQie5rekoX6xFyTGFGknG8UjLC0b5pafEwXH5Nmz1rX2KyP2YMFFqIuiBoU5kFhvFpYSfdspZM9FkzC4viIKpHcPjN2IawKfyi-2JGFVY6NXEm7VVvVM6aspcXD57xBbqY7rQUCP3A86-WVtYmWdSTT1jVbGZ4AuU8hMCpDA7ojN5B2DfGbb3E33RVSxT0PzEhqLOKvOP3sKIbFPfylWh9oi0rQA4BvHPBVQYMEyHaWyR-sEM4KIfC9F1AUB5bGlaj3wUPGs-41P0A37YLHLZHxOfC8xM",
+            "q": "Junior Frontend Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQie5rekoX6xFyTGFGknG8UjLC0b5pafEwXH5Nmz1rX2KyP2YMFFqIuiBoU5kFhvFpYSfdspZM9FkzC4viIKpHcPjN2IawKfyi-2JGFVY6NXEm7VVvVM6aspcXD57xBbqY7rQUCP3A86-WVtYmWdSTT1jVbGZ4AuU8hMCpDA7ojN5B2DfGbb3E33RVSxT0PzEhqLOKvOP3sKIbFPfylWh9oi0rQA4BvHPBVQYMEyHaWyR-sEM4KIfC9F1AUB5bGlaj3wUPGs-41P0A37YLHLZHxOfC8xM&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQie5rekoX6xFyTGFGknG8UjLC0b5pafEwXH5Nmz1rX2KyP2YMFFqIuiBoU5kFhvFpYSfdspZM9FkzC4viIKpHcPjN2IawKfyi-2JGFVY6NXEm7VVvVM6aspcXD57xBbqY7rQUCP3A86-WVtYmWdSTT1jVbGZ4AuU8hMCpDA7ojN5B2DfGbb3E33RVSxT0PzEhqLOKvOP3sKIbFPfylWh9oi0rQA4BvHPBVQYMEyHaWyR-sEM4KIfC9F1AUB5bGlaj3wUPGs-41P0A37YLHLZHxOfC8xM"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEgtFMlHli0ZbvwFzu8PIqEf7nxoff6x2cfRyWM7bIH5X-zE15klMHRCu1klSpf8yjlN0PSbmqGD36jzMdUMUUEI44eMxm6VYQuKZUZgozKC-gdV3QZxjiVKFBanTGCpeJ5FGyY1U9Lct9ilcezAiMH7WmzJ8yX7yNq9wHNMTqL300kBTrGA5Igl5sCU-EjzLaStPDu4H5l0wcNYdUTXVQIYOD5gAYdD8B7_YdwsxRBTY_4rV6uCOdzKOKWqkxrMsTeoXqBHH2wBPKrAVL9qQWy61terwdbn6ulDQeiAWL6wycxWNjw",
+            "q": "Junior Frontend Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEgtFMlHli0ZbvwFzu8PIqEf7nxoff6x2cfRyWM7bIH5X-zE15klMHRCu1klSpf8yjlN0PSbmqGD36jzMdUMUUEI44eMxm6VYQuKZUZgozKC-gdV3QZxjiVKFBanTGCpeJ5FGyY1U9Lct9ilcezAiMH7WmzJ8yX7yNq9wHNMTqL300kBTrGA5Igl5sCU-EjzLaStPDu4H5l0wcNYdUTXVQIYOD5gAYdD8B7_YdwsxRBTY_4rV6uCOdzKOKWqkxrMsTeoXqBHH2wBPKrAVL9qQWy61terwdbn6ulDQeiAWL6wycxWNjw&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEgtFMlHli0ZbvwFzu8PIqEf7nxoff6x2cfRyWM7bIH5X-zE15klMHRCu1klSpf8yjlN0PSbmqGD36jzMdUMUUEI44eMxm6VYQuKZUZgozKC-gdV3QZxjiVKFBanTGCpeJ5FGyY1U9Lct9ilcezAiMH7WmzJ8yX7yNq9wHNMTqL300kBTrGA5Igl5sCU-EjzLaStPDu4H5l0wcNYdUTXVQIYOD5gAYdD8B7_YdwsxRBTY_4rV6uCOdzKOKWqkxrMsTeoXqBHH2wBPKrAVL9qQWy61terwdbn6ulDQeiAWL6wycxWNjw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWkeqwkaJy5Ve6MOLOd_RGhRwVdS1PadiLkAyS3vMEG7kJLzcPoTnmoeoLUwkVWFk2vsAxef85b5wt1LQbgrgAVYncpMvaFC1piyKmNjb8Dt_QrRnFgeiH58nPgRNqvj_S9YO9pcNriDCMk4AuWJnMLcUwUrsQ5t7Z4QBBu99aGDewH5sAtqqnqhvXvV-o79b33PG7ttiD4QywsDfoDYo1k_vWt0i47mBe_x7eUujaaRbIJfXIPiYIhrUsNq3dW31-WgLck1uqEruXx4JBJ347pCeJMhx2j4dnfjS19a6Ype4nE1tw",
+            "q": "Junior Frontend Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWkeqwkaJy5Ve6MOLOd_RGhRwVdS1PadiLkAyS3vMEG7kJLzcPoTnmoeoLUwkVWFk2vsAxef85b5wt1LQbgrgAVYncpMvaFC1piyKmNjb8Dt_QrRnFgeiH58nPgRNqvj_S9YO9pcNriDCMk4AuWJnMLcUwUrsQ5t7Z4QBBu99aGDewH5sAtqqnqhvXvV-o79b33PG7ttiD4QywsDfoDYo1k_vWt0i47mBe_x7eUujaaRbIJfXIPiYIhrUsNq3dW31-WgLck1uqEruXx4JBJ347pCeJMhx2j4dnfjS19a6Ype4nE1tw&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWkeqwkaJy5Ve6MOLOd_RGhRwVdS1PadiLkAyS3vMEG7kJLzcPoTnmoeoLUwkVWFk2vsAxef85b5wt1LQbgrgAVYncpMvaFC1piyKmNjb8Dt_QrRnFgeiH58nPgRNqvj_S9YO9pcNriDCMk4AuWJnMLcUwUrsQ5t7Z4QBBu99aGDewH5sAtqqnqhvXvV-o79b33PG7ttiD4QywsDfoDYo1k_vWt0i47mBe_x7eUujaaRbIJfXIPiYIhrUsNq3dW31-WgLck1uqEruXx4JBJ347pCeJMhx2j4dnfjS19a6Ype4nE1tw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQ1Ojwqao1egvfS5XCJA5ZGb3kyz82SMkCnkUEfGPm7avYLp2AUNLRz758KEbcQ0AT_eYZm1E_zIdXutVUJQF4o13iJFJ8S7aHkw1aNDOWNYaAHggPo6u0zgaa2WbNGxu6yZel6k8eat_G-MU9dI4kTwY5CjykQiig3zvsrr28xDI2zp1bCPhVs0cyN96LUaaPJUDaRnUSX_JBbjEp_6_xUF9VOmVZ2kHD1h2_Cm9G4OIBYvYkckIq90vyBpIsC0z-kWc3DrhrOEusq-Ed63oS8STX9sw",
+            "q": "Junior Frontend Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQ1Ojwqao1egvfS5XCJA5ZGb3kyz82SMkCnkUEfGPm7avYLp2AUNLRz758KEbcQ0AT_eYZm1E_zIdXutVUJQF4o13iJFJ8S7aHkw1aNDOWNYaAHggPo6u0zgaa2WbNGxu6yZel6k8eat_G-MU9dI4kTwY5CjykQiig3zvsrr28xDI2zp1bCPhVs0cyN96LUaaPJUDaRnUSX_JBbjEp_6_xUF9VOmVZ2kHD1h2_Cm9G4OIBYvYkckIq90vyBpIsC0z-kWc3DrhrOEusq-Ed63oS8STX9sw&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQ1Ojwqao1egvfS5XCJA5ZGb3kyz82SMkCnkUEfGPm7avYLp2AUNLRz758KEbcQ0AT_eYZm1E_zIdXutVUJQF4o13iJFJ8S7aHkw1aNDOWNYaAHggPo6u0zgaa2WbNGxu6yZel6k8eat_G-MU9dI4kTwY5CjykQiig3zvsrr28xDI2zp1bCPhVs0cyN96LUaaPJUDaRnUSX_JBbjEp_6_xUF9VOmVZ2kHD1h2_Cm9G4OIBYvYkckIq90vyBpIsC0z-kWc3DrhrOEusq-Ed63oS8STX9sw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQie5rekoX6xFyTGFGknG8UjLC0b5pafEwXH5Nmz1rX2KyP2YMFFqIuiBoU5kFhvFpYSfdspZM9FkzC4viIKpHcPjN2IawKfyi-2JGFVY6NXEm7VVvVM6aspcXD57xBbqY7rQUCP3A86-WVtYmWdSTT1jVbGZ4AuU8hMCpDA7ojN5B2DfGbb3E33RVSxT0PzEhqLOKvOP3sKIbFPfylWh9oi0rQA4BvHPBVQYMEyHaWyR-sEM4KIfC9F1AUB5bGlaj3wUPGs-41P0A37YLHLZHxOfC8xM",
+            "q": "Junior Frontend Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQie5rekoX6xFyTGFGknG8UjLC0b5pafEwXH5Nmz1rX2KyP2YMFFqIuiBoU5kFhvFpYSfdspZM9FkzC4viIKpHcPjN2IawKfyi-2JGFVY6NXEm7VVvVM6aspcXD57xBbqY7rQUCP3A86-WVtYmWdSTT1jVbGZ4AuU8hMCpDA7ojN5B2DfGbb3E33RVSxT0PzEhqLOKvOP3sKIbFPfylWh9oi0rQA4BvHPBVQYMEyHaWyR-sEM4KIfC9F1AUB5bGlaj3wUPGs-41P0A37YLHLZHxOfC8xM&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRZlvSpy4RONcEl-nx8Fsn_pdnaJOADKf4KDIXUSwc_eQie5rekoX6xFyTGFGknG8UjLC0b5pafEwXH5Nmz1rX2KyP2YMFFqIuiBoU5kFhvFpYSfdspZM9FkzC4viIKpHcPjN2IawKfyi-2JGFVY6NXEm7VVvVM6aspcXD57xBbqY7rQUCP3A86-WVtYmWdSTT1jVbGZ4AuU8hMCpDA7ojN5B2DfGbb3E33RVSxT0PzEhqLOKvOP3sKIbFPfylWh9oi0rQA4BvHPBVQYMEyHaWyR-sEM4KIfC9F1AUB5bGlaj3wUPGs-41P0A37YLHLZHxOfC8xM"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEgtFMlHli0ZbvwFzu8PIqEf7nxoff6x2cfRyWM7bIH5X-zE15klMHRCu1klSpf8yjlN0PSbmqGD36jzMdUMUUEI44eMxm6VYQuKZUZgozKC-gdV3QZxjiVKFBanTGCpeJ5FGyY1U9Lct9ilcezAiMH7WmzJ8yX7yNq9wHNMTqL300kBTrGA5Igl5sCU-EjzLaStPDu4H5l0wcNYdUTXVQIYOD5gAYdD8B7_YdwsxRBTY_4rV6uCOdzKOKWqkxrMsTeoXqBHH2wBPKrAVL9qQWy61terwdbn6ulDQeiAWL6wycxWNjw",
+            "q": "Junior Frontend Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEgtFMlHli0ZbvwFzu8PIqEf7nxoff6x2cfRyWM7bIH5X-zE15klMHRCu1klSpf8yjlN0PSbmqGD36jzMdUMUUEI44eMxm6VYQuKZUZgozKC-gdV3QZxjiVKFBanTGCpeJ5FGyY1U9Lct9ilcezAiMH7WmzJ8yX7yNq9wHNMTqL300kBTrGA5Igl5sCU-EjzLaStPDu4H5l0wcNYdUTXVQIYOD5gAYdD8B7_YdwsxRBTY_4rV6uCOdzKOKWqkxrMsTeoXqBHH2wBPKrAVL9qQWy61terwdbn6ulDQeiAWL6wycxWNjw&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_fsZOgCf8TVkDLsBPFXvEgtFMlHli0ZbvwFzu8PIqEf7nxoff6x2cfRyWM7bIH5X-zE15klMHRCu1klSpf8yjlN0PSbmqGD36jzMdUMUUEI44eMxm6VYQuKZUZgozKC-gdV3QZxjiVKFBanTGCpeJ5FGyY1U9Lct9ilcezAiMH7WmzJ8yX7yNq9wHNMTqL300kBTrGA5Igl5sCU-EjzLaStPDu4H5l0wcNYdUTXVQIYOD5gAYdD8B7_YdwsxRBTY_4rV6uCOdzKOKWqkxrMsTeoXqBHH2wBPKrAVL9qQWy61terwdbn6ulDQeiAWL6wycxWNjw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWkeqwkaJy5Ve6MOLOd_RGhRwVdS1PadiLkAyS3vMEG7kJLzcPoTnmoeoLUwkVWFk2vsAxef85b5wt1LQbgrgAVYncpMvaFC1piyKmNjb8Dt_QrRnFgeiH58nPgRNqvj_S9YO9pcNriDCMk4AuWJnMLcUwUrsQ5t7Z4QBBu99aGDewH5sAtqqnqhvXvV-o79b33PG7ttiD4QywsDfoDYo1k_vWt0i47mBe_x7eUujaaRbIJfXIPiYIhrUsNq3dW31-WgLck1uqEruXx4JBJ347pCeJMhx2j4dnfjS19a6Ype4nE1tw",
+            "q": "Junior Frontend Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=11c016ce86d16d05&hl=en&gl=in&sxsrf=APpeQnu_AmVfriis7t2nXW63c5oFAjhATQ:1791544885087&q=Junior+Frontend+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWkeqwkaJy5Ve6MOLOd_RGhRwVdS1PadiLkAyS3vMEG7kJLzcPoTnmoeoLUwkVWFk2vsAxef85b5wt1LQbgrgAVYncpMvaFC1piyKmNjb8Dt_QrRnFgeiH58nPgRNqvj_S9YO9pcNriDCMk4AuWJnMLcUwUrsQ5t7Z4QBBu99aGDewH5sAtqqnqhvXvV-o79b33PG7ttiD4QywsDfoDYo1k_vWt0i47mBe_x7eUujaaRbIJfXIPiYIhrUsNq3dW31-WgLck1uqEruXx4JBJ347pCeJMhx2j4dnfjS19a6Ype4nE1tw&udm=8&sa=X&ved=2ahUKEwj51OXj6KyXAxUGibAFHekHLxsQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&q=Junior+Frontend+Developer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWkeqwkaJy5Ve6MOLOd_RGhRwVdS1PadiLkAyS3vMEG7kJLzcPoTnmoeoLUwkVWFk2vsAxef85b5wt1LQbgrgAVYncpMvaFC1piyKmNjb8Dt_QrRnFgeiH58nPgRNqvj_S9YO9pcNriDCMk4AuWJnMLcUwUrsQ5t7Z4QBBu99aGDewH5sAtqqnqhvXvV-o79b33PG7ttiD4QywsDfoDYo1k_vWt0i47mBe_x7eUujaaRbIJfXIPiYIhrUsNq3dW31-WgLck1uqEruXx4JBJ347pCeJMhx2j4dnfjS19a6Ype4nE1tw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Junior Vue.js and MongoDB Frontend Web Developer",
+      "company_name": "Jobaaj - Hiring for Our Leading Clients",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=H83JJ47RVd3Y5GBoAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOPWrDQBBGSesjpPpqk0jG4CYpArbxHw5uQlKaWWm8WrGeETurYHe-Q06Va-QkkZsP3oMH3-j3YbTd9RI04bPnojWQ1HhX8bqcY5VUMg_iix2W_M1RO074u_2gVQdjSlUDFaxVfeTH1ybnzl7K0iwW3jLlUBWVnksVdnoph8juc7SGEneRMh-ns8ml6MSP33bqiFo8YxNSEI_TcOrQJ-yZ6jsvYmDJhiDYXGtO5Kh-wgdHEk9C_wbg7wDMAAAA&shmds=v1_ARwrE23s835pwFFiVrP_zWVulWLoe_XaeO4UFbDAIzpNwQ1TBA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=H83JJ47RVd3Y5GBoAAAAAA%3D%3D",
+      "extensions": [
+        "14 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/junior-vuejs-and-mongodb-frontend-web-developer/jobaaj-hiring-for-our-leading-clients/19592243",
+      "job_title": "Junior Vue.js and MongoDB Frontend Web Developer",
+      "description": "What role will you play in the teamAs a Junior Vue.js and MongoDB Frontend Web Developer, you will play a crucial part in designing and building scalable user interfaces. You will collaborate closely with UI/UX designers, backend engineers, and product managers to deliver seamless web applications that meet high-performance standards in the fast-paced IT and Software Development sector.What you will doYou will write clean, maintainable code using Vue.js, JavaScript, HTML5, and CSS3. Your daily tasks will involve integrating RESTful APIs, managing state with modern tooling, optimizing components for maximum speed, and maintaining version control workflows using Git and GitHub to ensure smooth collaborative software delivery cycles.Key responsibilityDevelop responsive and interactive web interfaces utilizing Vue.js and modern JavaScript frameworks.Connect frontend application layers with secure backend services via RESTful APIs and GraphQL endpoints.Perform comprehensive code reviews and utilize Git and GitHub for branch management and version tracking.Optimize web applications for maximum speed, scalability, and cross-browser compatibility.Troubleshoot, debug, and resolve frontend performance bottlenecks and rendering issues efficiently.Collaborate with database administrators to structure MongoDB schemas for optimal data retrieval.Required Qualification and SkillsBachelor's degree in Computer Science, Information Technology, or a related technical field.Minimum 0 to 1 years of hands-on experience in building web applications using JavaScript and Vue.js.Strong foundational knowledge of HTML5, CSS3, and responsive web design principles.Familiarity with Version Control Systems, specifically Git and GitHub workflows.Basic understanding of database systems like MongoDB, MySQL, or PostgreSQL.Knowledge of API Development and integration using RESTful APIs.Benefits IncludedComprehensive health insurance coverage for employees and immediate family members.Flexible working hours and supportive remote-friendly hybrid policies when applicable.Annual professional development stipend for online courses, certifications, and conferences.Paid time off, parental leave, and wellness programs designed for work-life balance.Regular team building events, hackathons, and collaborative innovation sessions.A Day in the LifeYour day begins with a quick stand-up meeting with your engineering squad to discuss sprint goals. You will spend the morning writing Vue.js components and connecting them to MongoDB backends through RESTful APIs. After lunch, you will debug a rendering issue, push your changes to GitHub via Git, and review pull requests from peers. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-vuejs-and-mongodb-frontend-web-developer/jobaaj-hiring-for-our-leading-clients/19592243?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/jobaaj-hiring-for-our-leading-clients-junior-vue-js-and-mongodb-frontend-web-developer-hyderabad-0-to-1-years-1800538?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgVnVlLmpzIGFuZCBNb25nb0RCIEZyb250ZW5kIFdlYiBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJKb2JhYWogLSBIaXJpbmcgZm9yIE91ciBMZWFkaW5nIENsaWVudHMiLCJodGlkb2NpZCI6Ikg4M0pKNDdSVmQzWTVHQm9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1dKQlIyVXplSE54ZDNOS1JIbG5aVzFZVDJWeVlrcHNRbGRKVmxGZmJHRkJhbk15VkdrNVNFaGhUblV4VTNreGNFYzNPVVpZTFc1UmNEZEdaREIyTkdWUVNtTldYM0ZwZVVZd1NXSlFaa2c0VjI5NVozTlBaMlZPTlhOWVJDMUZVSHA2T1ZGa2NEaHFkMUo0U0RSb2QyOVVha2RxVTJSSVMwbDBRakJ6WjFsV2JFUlVaVk1TRjA1ak4wbGhjbTV0UWtsaFUzZDBNRkEyV1MwNE1sRkZHaUpCUkhOeU9XWlVWemRFVkVKdVVYcExYMEZ3TmtGS2RHdExiR1pHZVhwclNIWkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJIODNKSjQ3UlZkM1k1R0JvQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior Developer / Back-End Developer (Hyderabad)",
+      "company_name": "Upayaind",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=BOfFXgFUQqDIBUPKAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_02NMQrCQBAAsc0TrLZU0ZwINtqJoqTWOmwuy-X03D3uTkk6_-Az_JUvMTZiM8XAMNlrkBXFja0E2NKdnHgKoGCD-jLbcf0nR4eupoAV1mN4P55wlgoiYdANCMNexDgarpuUfFwpFaPLTUyYrM61XJUwVdKqPopflLHBQN5honKxnLe5ZzOBk8cObX-1DL_bFI7kkA0yfgCOTVuSrgAAAA&shmds=v1_ARwrE2069yMSRK9lTVDBPXAwfDOclItTpwHV8Fy6HJLQP3PeJw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=BOfFXgFUQqDIBUPKAAAAAA%3D%3D",
+      "extensions": [
+        "10 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/junior-developer-back-end-developer-hyderabad/upayaind/19625299",
+      "job_title": "Junior Developer / Back-End Developer (Hyderabad)",
+      "description": "Responsibilities\n\n- Collaborate with cross-functional teams on API integration and database design.\n- Develop scalable backends using JavaScript, HTML5, CSS, jQuery, frameworks, server-side scripting, unit testing.\n\nPerks and advantages\n\nProvident fund, Health insurance .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/junior-developer-back-end-developer-hyderabad/upayaind/19625299?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGV2ZWxvcGVyIC8gQmFjay1FbmQgRGV2ZWxvcGVyIChIeWRlcmFiYWQpIiwiY29tcGFueV9uYW1lIjoiVXBheWFpbmQiLCJodGlkb2NpZCI6IkJPZkZYZ0ZVUXFESUJVUEtBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzJwUWNEQkViV2xrU0cxd01XMTJiVVpqZEdoUGJrVmtZWGxEVTNwTlVsYzVNbFYwUlZWUGNsZHNNRnBUYUVGWmRtVlFYemxmVW05cFdGb3hOMU5hWDJ3NFMzbHRiMnN0VTBKRE4waHFaV0ZDVEdneVNrMVJTalJHYjBOMWNFUk9Rak5rVEdVMlMxOVdOVXMyYzNwRVpWVjZVVEZ6Y1ZGS2JWWlhjbGt4U0U5M1N5MVdRWG9TRjA1ak4wbGhjbTV0UWtsaFUzZDBNRkEyV1MwNE1sRkZHaUpCUkhOeU9XWlJjMGR2VWpOa2JubEpSRFpVYzFaQlozYzJUM1I2U0RoRlZHUjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJCT2ZGWGdGVVFxRElCVVBLQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior Angular and PostgreSQL Full Stack Web Developer",
+      "company_name": "Jobaaj - Hiring for Our Leading Clients",
+      "location": "Hyderabad, Telangana",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=SRuvFKVX2Pxd0CSGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOQUoDQRBFcZsjuPpr0RkR3OhCRNEQAlEiuAzVM2VPx7JqqOqRuPMOHsw7eBKTzYO3ePBmv0ez1WLSYo5bzZOQg7THk0XNzuvnJR4mEawrde945YR7_mSxkR1_3z_YWkIweTfAFI9mWfj4eqh1jKu2jZAmR6Vauqazj9aUk-3afRQHbGIg51Go8ubi8nzXjJpPbhaWiLY4w7x40Yy3_dpqciyZ-oPfSWGtgaKYf_XslKg_xQsLaSalf7apiZ3SAAAA&shmds=v1_ARwrE229tkp-Lrb1MlVVz4iS-N8X-HOvfeaX0U4wnWwZVViiBA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=SRuvFKVX2Pxd0CSGAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAqCAMAAADRRmi8AAAAkFBMVEX___8AAABKFwJFCQDg4OA9AADt7e06AAAlJSXp6enk5OQ_AAA4AADPz8_JycmampotLS1MTExiYmKbjIq_trQrAACPfXpaWlpJFwlwcHB3X1v29vZpaWmmpqaurq7Nx8aBbWxjQj20qKcyAACsoJ5HEABWMClbODElAABuUU0cHBy_v7-FhYVCQkI3Nzd6enpbmxZNAAABW0lEQVRIie3S23KCMBAG4N0SAiGkHIyixlBqRSsUfP-3a1Kr0guDetUL_xkCDPORTbIAzzxzPXRi8vYAXDLKaKXuVELKd2lSraUkd7jqw_dr38Tjvj_d3OzU9GWQenszjKace0Zwc5k557eXKuW6qoOdjIPtbC1HtrYQl-dP3wJhfrCp5vHeDRcDGNgSgz2Jbcne0ukUG7zw464EPzdeOWGUvJ6mLmFeD3aVz5yQ4gk2Cey4d0k8UZmjgS4wTIAtB5kBS-kYVEc4iDoPDtgiZgDpCjECgWGGoBBzFAQd_WohJoAa0gzwC1YhJAglKoIiGoHWNgtbapZDVxhlLR2HxMA-h1BDXkCX_UI2Dhm20K_sjHkOB1Q5mlULPQIju0Ztl5kaewBa9EkHcGh0RxyQICIFbUYFTZ-ez_T09SpUrba9ymyjCyrE36_O43DFuUZH2vJBWGbdQ-6Z_51vy70W7JHHdBQAAAAASUVORK5CYII.png",
+      "extensions": [
+        "17 days ago",
+        "₹4.5L–₹7L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/jobaaj-hiring-for-our-leading-clients-junior-angular-and-postgresql-full-stack-web-developer-hyderabad-1-to-2-years-1793341",
+      "job_title": "Junior Angular and PostgreSQL Full Stack Web Developer",
+      "description": "What role will you play in the teamAs a Junior Full Stack Developer, you will be instrumental in designing, developing, and maintaining end-to-end web applications. You will bridge the gap between graphical design and technical implementation, taking an active role on both side of the architecture using Angular for dynamic interfaces and PostgreSQL for robust data management.What you will doYou will design client-side architecture using Angular and TypeScript, build server-side logic, and manage relational database schemas using PostgreSQL. You will write unit tests, debug application issues, ensure cross-platform optimization, and maintain version control integrity through rigorous Git workflows.Key responsibilityDesign and develop dynamic frontend applications using Angular and modern JavaScript Frameworks.Implement secure backend services, business logic, and API endpoints.Design, manage, and optimize relational database systems including PostgreSQL and MySQL.Track development iterations and collaborate via Git and GitHub version control repositories.Write clean, reusable code adhering to industry best practices and coding standards.Integrate third-party services, RESTful APIs, and cloud platforms like AWS or Microsoft Azure.Required Qualification and SkillsBachelor’s degree in Computer Science, Software Engineering, or equivalent practical experience.Solid understanding of Angular, JavaScript, HTML5, CSS3, and responsive design principles.Experience working with database systems such as PostgreSQL, MySQL, or MongoDB.Familiarity with Version Control Systems, specifically Git and GitHub workflows.Knowledge of backend frameworks and API development methodologies including RESTful APIs.Excellent analytical mindset with strong debugging and documentation skills.Benefits IncludedCompetitive base salary with annual appraisal and performance incentives.Comprehensive medical, dental, and vision insurance plans for complete peace of mind.Sponsored access to online technical learning platforms and coding bootcamps.Paid time off, bereavement leave, and maternity/paternity leave benefits.Dynamic startup culture with wellness programs and catered meal options.A Day in the LifeYou kick off your morning by checking project boards and pulling the latest updates from the GitHub repository using Git. You dedicate a few hours to building dynamic components in Angular and writing complex SQL queries for PostgreSQL to handle user analytics data. Later, you collaborate with the QA team to resolve bugs found during integration testing.",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/jobaaj-hiring-for-our-leading-clients-junior-angular-and-postgresql-full-stack-web-developer-hyderabad-1-to-2-years-1793341?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQW5ndWxhciBhbmQgUG9zdGdyZVNRTCBGdWxsIFN0YWNrIFdlYiBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJKb2JhYWogLSBIaXJpbmcgZm9yIE91ciBMZWFkaW5nIENsaWVudHMiLCJodGlkb2NpZCI6IlNSdXZGS1ZYMlB4ZDBDU0dBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1cxSFlUaFhZV0o0TldwUVNsTk9lV3cxYlZOS1ZsUjFkRWsyZVZkUE9WOUhSVWRDVjFsQ2JXcDNTRFpPVkhGeWJGZDZkV2RwTWxsdWJsWk5NbWw2Um5CclVHVnRZbmt3Ym5vdFMxaHNaR0V4VUROUU1UQmZia3hLYzBwVVluQjRTRFZ4YlVScGFVaFVkVlF6VXpGV1YzUjVUeTFJU1hkSWQweE9Wa2d0VDBaT2VVSmZZVThTRjA1ak4wbGhjbTV0UWtsaFUzZDBNRkEyV1MwNE1sRkZHaUpCUkhOeU9XWlRaMjFUWTBkSmJsUm1lalpEVWpBd1RVUTVTVzFLVmtWM05ERm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJTUnV2RktWWDJQeGQwQ1NHQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": ".NET + React Developer - Remote Work | REF#283880",
+      "company_name": "BairesDev",
+      "location": "Anywhere",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=9XgjJkbKfKYzj8LmAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOOwrCQBQAsc0RrJ7Y-cmGiBC0E6NiYSEBy_CyeSTRzb5ld5EIFt7Ba3gqT2JsphgYmOAzCI7hKc1gCmdC6WFLd1JsyMK8Ny17ggvbGzzhnO7GcbJIkgi-rzdcuQBHaGUNrGHPXCkarmvvjVsJ4ZwKK-fRNzKU3ArWVHAn-sj9kbsaLRmFnvJ4GXWh0dVktMHGkusPoNFweJRkscByBhkp1BVq_AEx8NnJrwAAAA&shmds=v1_ARwrE2042SiNTkhFAKUYRMfK6ggQ8jG8FPII4rvvS_B0_UjVMw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=9XgjJkbKfKYzj8LmAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8ce3171a41dae0ba4fff8/images/HASHc38DGcQclxnzHiSxEJLcwAQsnVXy9J0sF-FsJMA.jpeg",
+      "extensions": [
+        "Work from home",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/net-%2B-react-developer-remote-work-ref%23283880-at-bairesdev-4258067022",
+      "job_title": ".NET + React Developer - Remote Work | REF#283880",
+      "description": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.\n\nOur diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.\n\nWhen you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.\n\n\n\nNET + React Developer at Baires Dev\n\nAs a Senior .NET + React Developer, lead in creating robust solutions using .NET Core, C#, and related technologies. Your expertise will guide the development of scalable applications, mentor junior developers, and innovate within our tech stack, ensuring high-quality software delivery.\n\nResponsibilities\n\n Lead the design and development of complex, high-performance .NET applications, meeting business requirements. Mentor junior and semi-senior developers, fostering technical excellence. Make key architectural decisions, contributing to long-term strategic planning of software projects. Oversee code reviews to maintain high standards of code quality and best practices. Evaluate and advocate for the adoption of new .NET technologies and practices. Provide technical insights and recommendations to project managers and other stakeholders.\n\nRequirements\n\n 5+ years of experience with .NET. 1+ years of experience with React. Strong understanding of best practices, such as SOLID and clean code, focusing on scalable solutions. Extensive experience with code reviews, writing automated tests, and implementing CI/CD pipelines. Strong expertise in unit testing, integration testing, and maintaining high code coverage. Demonstrated ability to make informed technical decisions and apply the best approach for each use case. IT infrastructure knowledge. Advanced level of English.\n\nHow We Make Your Work (and Your Life) Easier\n\n100% remote work (from anywhere).Excellent compensation in USD or your local currency if preferredHardware and software setup for you to work from home.Flexible hours: create your own schedule.Paid parental leaves, vacations, and national holidays.Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.\n\nJoin a global team where your unique talents can truly thrive!",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/net-%2B-react-developer-remote-work-ref%23283880-at-bairesdev-4258067022?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiIuTkVUICsgUmVhY3QgRGV2ZWxvcGVyIC0gUmVtb3RlIFdvcmsgfCBSRUYjMjgzODgwIiwiY29tcGFueV9uYW1lIjoiQmFpcmVzRGV2IiwiaHRpZG9jaWQiOiI5WGdqSmtiS2ZLWXpqOExtQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlNIbGtaWEpoWW1Ga0xGUmxiR0Z1WjJGdVlTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNuWmtUbGczY3pjM1pXRTJOMWhIYmtJME5WbEZkR3gwVVRFemVWazJiekJVVFc5WFIyZGlVbGh4VjBGQ1VrcENVV0pqYzNWdFRtcHZTRUZsVTJOdlZrSkdOVkJHUjBaTVdFZzJaakpRVnpOdVFpMXFjMmczVWtSclNVUTNjbFowUjBkS2F6QnhVMTluTUVabGFXaFZTbXRGTkRaaE9IQXhkVEZ2WW5kYVRIZFpZMGhtZHpjU0YwNWpOMGxoY201dFFrbGhVM2QwTUZBMldTMDRNbEZGR2lKQlJITnlPV1pUY1Y5R1JVcG5SRUYxYVZCeE9HNXhNMVpFZDFZNWFXdE5NV3RCIiwiZmN2IjoiMyIsImZjX2lkIjoiOVhnakprYktmS1l6ajhMbUFBQUFBQT09In0="
+    },
+    {
+      "title": "Junior Full-Stack Developer (React, Python)",
+      "company_name": "Accellor",
+      "location": "Secunderabad, Telangana",
+      "via": "Jobaaj",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Frontend+Developer&htidocid=WHk1efKumSJn6BGVAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOMQrCQBBAUWxzBKsBG5WYiGCjlRAUrMTYh8lm2ETHmbC7kdh5By_huTyJsfndgx99RlF27KRRB_uOeZEHNDfI6EGsLTmYnglNiOH0DLXKDL6vN1y1BE_oTA0qcFC1TONtHULrN2nqPSfWBwyNSYzeUxUqtU8H5P8pfI2OWsZAxWq97JNW7HyyM4aYh4lGICfTSUUOS6xiuBCjWBT8AQLNICOrAAAA&shmds=v1_ARwrE22CPBd-mrtKm1ZhowsCoLSstRwp5tT7UULKa0Kvdj4DcA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Frontend+Developer&htidocid=WHk1efKumSJn6BGVAAAAAA%3D%3D",
+      "extensions": [
+        "₹8L–₹13.2L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobaaj.com/job/accellor-junior-full-stack-developer-react-python-hyderabad-secunderabad-telangana-telangana-1-to-3-years-1530432",
+      "job_title": "Junior Full-Stack Developer (React, Python)",
+      "description": "At Accellor, we are a trusted consulting partner that uses best-of-breed Cloud technology to deliver superior customer engagement and business effectiveness for clients. We bring a deep understanding of Financial, Retail, High Tech, Healthcare, and Retail verticals. As Full-stack Engineer, you will be to join our fast-paced, customer-centric Experience Development Team.Shortlisted candidates will be required to participate in an online assessment to evaluate their technical skills. The assessment will be conducted between 6th and 9th July. Candidates who successfully clear the assessment will be invited to attend an in-person hiring drive scheduled for 11th July at our Hyderabad office.Responsibilities:Develop and maintain web applications using modern programming languages and frameworksBuild and consume REST APIs to support frontend and backend functionalityWrite clean, efficient, and maintainable code following coding standards and best practicesUse Git for version control and collaborate effectively with team membersTroubleshoot, debug, and resolve application issues in a timely mannerParticipate in code reviews and contribute to continuous improvement of development processesTranslate business requirements into technical solutions with guidance from senior team membersCollaborate with cross-functional teams to deliver high-quality software solutionsDemonstrate strong fundamentals in programming languages, frameworks, and software development practicesGuide and mentor junior team members, helping them develop their technical skills and professional qualitiesRequirements1-3 years of experience in software development, web application development, or full-stack developmentStrong understanding of programming language and framework fundamentalsExperience developing and maintaining web applications using modern technologiesGood knowledge of REST APIs and client-server architectureProficiency in Git and version control best practicesStrong debugging, troubleshooting, and problem-solving skillsUnderstanding of software development best practices, coding standards, and design principlesFamiliarity with databases and basic data modeling conceptsExperience working in an Agile development environment is preferredAbility to translate business requirements into technical solutionsStrong communication and collaboration skillsAbility to work effectively in a cross-functional team environmentPassion for learning new technologies and continuously improving technical skillsExperience participating in code reviews and contributing to code quality initiativesDemonstrated ability to mentor or support junior team members is a plusBenefitsExciting Projects: We focus on industries like High-Tech, communication, media, healthcare, retail and telecom. Our customer list is full of fantastic global brands and leaders who love what we build for them.Collaborative Environment: You Can expand your skills by collaborating with a diverse team of highly talented people in an open, laidback environment — or even abroad in one of our global centers.Work-Life Balance: Accellor prioritizes work-life balance, which is why we offer flexible work schedules, opportunities to work from home, and paid time off and holidays.Professional Development: Our dedicated Learning & Development team regularly organizes Communication skills training, Stress Management program, professional certifications, and technical and soft skill trainings.Excellent Benefits: We provide our employees with competitive salaries, family medical insurance, Personal Accident Insurance, Periodic health awareness program, extended maternity leave, annual performance bonuses, and referral bonus.",
+      "apply_options": [
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/accellor-junior-full-stack-developer-react-python-hyderabad-secunderabad-telangana-telangana-1-to-3-years-1530432?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRnVsbC1TdGFjayBEZXZlbG9wZXIgKFJlYWN0LCBQeXRob24pIiwiY29tcGFueV9uYW1lIjoiQWNjZWxsb3IiLCJodGlkb2NpZCI6IldIazFlZkt1bVNKbjZCR1ZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laU0hsa1pYSmhZbUZrTEZSbGJHRnVaMkZ1WVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1hGZlMyaHhObGxqWDNaVk4wTjZlVVJMWm5SeU9YRk1iMWcyZHkxa1NpMHlWbGs0Ym05dU1IcDFUVmhwZDFKTFpUVTNUVEZzZW01dFVra3dZbTQzV1UwM1RFOVNSQzFYTkZWU2VHTnZhWFZXZEY5dFNFRktieTFOVVV3eVEyRjFOell5VjIxQ1VWaHNUMHRLVTFKWlluY3liREk1ZGxkUVozRkRNemx4ZVdWQlIyWmhUMUFTRjA1ak4wbGhjbTV0UWtsaFUzZDBNRkEyV1MwNE1sRkZHaUpCUkhOeU9XWlRUMjVHU25VdFMxUnVaM1JVVERSUlRtazFUa2RFVlRoMWJXTlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJXSGsxZWZLdW1TSm42QkdWQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTV0pCUjJVemVITnhkM05LUkhsblpXMVlUMlZ5WWtwc1FsZEpWbEZmYkdGQmFuTXlWR2s1U0VoaFRuVXhVM2t4Y0VjM09VWllMVzVSY0RkR1pEQjJOR1ZRU21OV1gzRnBlVVl3U1dKUVprZzRWMjk1WjNOUFoyVk9OWE5ZUkMxRlVIcDZPVkZrY0RocWQxSjRTRFJvZDI5VWFrZHFVMlJJUzBsMFFqQnpaMWxXYkVSVVpWTVNGMDVqTjBsaGNtNXRRa2xoVTNkME1GQTJXUzA0TWxGRkdpSkJSSE55T1daVVZ6ZEVWRUp1VVhwTFgwRndOa0ZLZEd0TGJHWkdlWHByU0haQiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Hyderabad%2C+India&next_page_token=eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTV0pCUjJVemVITnhkM05LUkhsblpXMVlUMlZ5WWtwc1FsZEpWbEZmYkdGQmFuTXlWR2s1U0VoaFRuVXhVM2t4Y0VjM09VWllMVzVSY0RkR1pEQjJOR1ZRU21OV1gzRnBlVVl3U1dKUVprZzRWMjk1WjNOUFoyVk9OWE5ZUkMxRlVIcDZPVkZrY0RocWQxSjRTRFJvZDI5VWFrZHFVMlJJUzBsMFFqQnpaMWxXYkVSVVpWTVNGMDVqTjBsaGNtNXRRa2xoVTNkME1GQTJXUzA0TWxGRkdpSkJSSE55T1daVVZ6ZEVWRUp1VVhwTFgwRndOa0ZLZEd0TGJHWkdlWHByU0haQiIsImZjdiI6IjMifQ%3D%3D&q=Junior+Frontend+Developer"
+  },
+  "_retrieved_at": "2026-10-09 11:21:21 UTC"
+}

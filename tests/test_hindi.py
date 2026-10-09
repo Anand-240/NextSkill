@@ -72,7 +72,6 @@ class HindiPageTests(unittest.TestCase):
         self.assertIn(i18n.HINDI_WAITING, [c.value for c in app.caption])
         text = "\n".join(m.value for m in app.markdown)
         self.assertIn("**Hindi videos**", text)
-        self.assertIn("JavaScript Complete Tutorial in Hindi", text) if False else None
         captions = "\n".join(c.value for c in app.caption)
         self.assertIn("are not in the saved data, so English videos are shown", captions)
 

@@ -1,0 +1,471 @@
+{
+  "search_metadata": {
+    "id": "6ac8ce05ee028a44690cb67a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/MoDE2bEs6hkk8w4iJqYy9FLB1k3KumMikfeWWKum5BA/6ac8ce05ee028a44690cb67a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/MoDE2bEs6hkk8w4iJqYy9FLB1k3KumMikfeWWKum5BA/6ac8ce05ee028a44690cb67a.md",
+    "created_at": "2026-10-09 11:20:37 UTC",
+    "processed_at": "2026-10-09 11:20:37 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Market+Research+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "raw_html_file": "https://serpapi.com/searches/MoDE2bEs6hkk8w4iJqYy9FLB1k3KumMikfeWWKum5BA/6ac8ce05ee028a44690cb67a.html",
+    "total_time_taken": 2.95
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Market Research full course for beginners",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAg=="
+  },
+  "search_information": {
+    "total_results": 4019733,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Complete Market Research Course - Digital Marketing Fundamentals",
+      "link": "https://www.youtube.com/watch?v=jQDJ4JQAh0o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jQDJ4JQAh0o",
+      "video_id": "jQDJ4JQAh0o",
+      "channel": {
+        "name": "Pouya Eti",
+        "link": "https://www.youtube.com/@pouyaeti",
+        "thumbnail": "https://yt3.ggpht.com/y4gWTlkAuyVbqUGzrdDCrRe_1H5Bmfzwr2J2IVGZLX9PKth0F1wCJ12x_-9CXTm9oi5jm-x3CnU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 3881,
+      "length": "53:51",
+      "description": "Market Research documents: https://pouyaeti.com/most-important-marketing-steps/ During this video, we will learn what market ...",
+      "extensions": [
+        "Beginner"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jQDJ4JQAh0o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5R4RrZYehthL6J39O-3Nxg-k3mQ",
+        "rich": "https://i.ytimg.com/an_webp/jQDJ4JQAh0o/mqdefault_6s.webp?du=3000&sqp=CN6Ho9YG&rs=AOn4CLBYa9t01CCkanuMz8eAe2PsGS3HDw"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "How to Conduct Market Research with AI (Full Tutorial)",
+      "link": "https://www.youtube.com/watch?v=KBnSqNV7LMQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=KBnSqNV7LMQ",
+      "video_id": "KBnSqNV7LMQ",
+      "channel": {
+        "name": "Jayant Padhi",
+        "link": "https://www.youtube.com/@JayantPadhi",
+        "thumbnail": "https://yt3.ggpht.com/-Q0hNovcp3bilcHNbS2FT1Tsqm86N930eI6DjT8HHeZw8_y6qCp_oYixbJUzA8fKDWgt9kPn=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 9118,
+      "length": "49:39",
+      "description": "Get all my AI Resources here: https://gentle-grapevine.lovable.app/p/ai-resources Winning Meta ad Angles: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/KBnSqNV7LMQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw4Pk35xg_JGNoNGPvOtU4bmm0xg",
+        "rich": "https://i.ytimg.com/an_webp/KBnSqNV7LMQ/mqdefault_6s.webp?du=3000&sqp=CNiNo9YG&rs=AOn4CLBkBUC4jp1MSWOylYLnsr1bT2TjIg"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "EXACTLY how I do market research for new products",
+      "link": "https://www.youtube.com/watch?v=S4mLTKvvqdo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=S4mLTKvvqdo",
+      "video_id": "S4mLTKvvqdo",
+      "channel": {
+        "name": "GrowthLab",
+        "link": "https://www.youtube.com/@GrowthLab",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mdnF72jtP6cGid7oGodBLT6OLfN0DWPAN8D5LwBxpZXmY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 330653,
+      "length": "28:06",
+      "description": "It's an entrepreneur's worst nightmare: getting obsessed with the “perfect” business idea, painstakingly creating the perfect ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/S4mLTKvvqdo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzlyKuPhl4vVAtqUeaal6GjQgm0Q",
+        "rich": "https://i.ytimg.com/an_webp/S4mLTKvvqdo/mqdefault_6s.webp?du=3000&sqp=CNqNo9YG&rs=AOn4CLCLazcUc0YUaQIcdWCAXu338C7z2Q"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "The Only Technical Analysis Video You Will Ever Need... (Full Course: Beginner To Advanced)",
+      "link": "https://www.youtube.com/watch?v=eynxyoKgpng",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eynxyoKgpng",
+      "video_id": "eynxyoKgpng",
+      "channel": {
+        "name": "The Trading Channel (The Trading Channel)",
+        "link": "https://www.youtube.com/@thetradingchannel",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lWOF3QuJkB34hHDbO60z2XTXy5KkAGZQXdhQifespNrdc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 26522453,
+      "length": "1:17:35",
+      "description": "I am currently looking for 500 new or struggling traders to mentor and help accomplish their trading goals throughout the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eynxyoKgpng/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHCbE9kgo8n4z2Vfk1e3m2UxcuAQ",
+        "rich": "https://i.ytimg.com/an_webp/eynxyoKgpng/mqdefault_6s.webp?du=3000&sqp=CMjxotYG&rs=AOn4CLCc7A1H9oh-nY_jZTVkTxXJBmj-lA"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Lecture 1-Introduction to Marketing Research",
+      "link": "https://www.youtube.com/watch?v=ABLHV5Ce6TI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ABLHV5Ce6TI",
+      "video_id": "ABLHV5Ce6TI",
+      "channel": {
+        "name": "Marketing research and analysis",
+        "link": "https://www.youtube.com/@marketingresearchandanalys9866",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m0syKaVzVqFM0zBqg_RAkoI0rE7bDFStu6lBTPvKk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 303440,
+      "length": "30:47",
+      "description": "To access the translated content: 1. The translated content of this course is available in regional languages. For details please ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ABLHV5Ce6TI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlyycgu47I6rwAPNPNOeE-oF2LdQ",
+        "rich": "https://i.ytimg.com/an_webp/ABLHV5Ce6TI/mqdefault_6s.webp?du=3000&sqp=CNiFo9YG&rs=AOn4CLDrN56v3jtGMefQDFd83vHV9EmQ8Q"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "The Only Fundamental Analysis Video You Will Ever Need... (Full Course: Beginner to Advanced)",
+      "link": "https://www.youtube.com/watch?v=8yDmq03XAHQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8yDmq03XAHQ",
+      "video_id": "8yDmq03XAHQ",
+      "channel": {
+        "name": "Henry Chien (Buttonwood)",
+        "link": "https://www.youtube.com/@buttonwood-henry",
+        "thumbnail": "https://yt3.ggpht.com/PLfom2OyIXySKaIJ5QTmqTE5SKYr9em-zUmB5deInzJKzsa2eGre04wIcga8cslKVCXswQVmjg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 480729,
+      "length": "1:58:17",
+      "description": "Full course on fundamental analysis: Financial statements, screening companies, valuation, forecasting, and identifying ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/8yDmq03XAHQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw_lQGaUxlxt97_MELzO6o2f8oAQ",
+        "rich": "https://i.ytimg.com/an_webp/8yDmq03XAHQ/mqdefault_6s.webp?du=3000&sqp=CNCCo9YG&rs=AOn4CLAGXfHoHfPU6j1FYYS7Tv-_SlxVCg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "How to actually do Primary Market Research - Part 1",
+      "link": "https://www.youtube.com/watch?v=4pjtIXxU0R0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4pjtIXxU0R0",
+      "video_id": "4pjtIXxU0R0",
+      "channel": {
+        "name": "MIT Bootcamps",
+        "link": "https://www.youtube.com/@MITBootcamps",
+        "thumbnail": "https://yt3.ggpht.com/5fEe4O34ki9CtTrCht2tHedGibgrCPn1mQdJGa4ywJCoYwTMIf4Qcm-83za4OJjdqQXJgSlkZA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2124,
+      "length": "25:55",
+      "description": "Excerpts from the 4th MIT Global Entrepreneurship Bootcamp For more information, please visit http://bootcamp.mit.edu.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/4pjtIXxU0R0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjngnTYMF1vfPlrBq1BcHXY8PDzQ",
+        "rich": "https://i.ytimg.com/an_webp/4pjtIXxU0R0/mqdefault_6s.webp?du=3000&sqp=CJvlotYG&rs=AOn4CLDDyrQHZXCsWVpYCYxdCz_e9Gb2Jw"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "NEW Market Research for Beginners 2024 (Free Course) || Ty Palmer",
+      "link": "https://www.youtube.com/watch?v=cK9rWCfbE48",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cK9rWCfbE48",
+      "video_id": "cK9rWCfbE48",
+      "channel": {
+        "name": "Ty Palmer",
+        "link": "https://www.youtube.com/@Ty-Palmer",
+        "thumbnail": "https://yt3.ggpht.com/bDVC9poM-dGiPRpPThbnEhajKORYnmHM1Gt_nQPVWe6eiFXdygxUffjpA0wwlZTzVwTavwrmGQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 45,
+      "length": "20:20",
+      "description": "Learn the basics of market research and idea validation with this free course for beginners. Discover how to turn your business ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/cK9rWCfbE48/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx_TXKjiApFiayl927RrRaQxNRkA",
+        "rich": "https://i.ytimg.com/an_webp/cK9rWCfbE48/mqdefault_6s.webp?du=3000&sqp=CJ7cotYG&rs=AOn4CLBZjSkvh2LWd2HsHde1PRITQQ7gdA"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Complete SEO Course for Beginners: Learn to Rank #1 in Google",
+      "link": "https://www.youtube.com/watch?v=xsVTqzratPs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xsVTqzratPs",
+      "video_id": "xsVTqzratPs",
+      "channel": {
+        "name": "Ahrefs",
+        "link": "https://www.youtube.com/@AhrefsCom",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WGSuLikxFMe3DsJ6z4n1-V0Md5q6RWJDP-QYWjoxHOAzT7Xxv_rGxNzUKimI8Ff_Lc9Q2bTjpQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 4244325,
+      "length": "1:57:03",
+      "description": "Learn how to do search engine optimization in our complete SEO training course for beginners. Subscribe ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xsVTqzratPs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnm_a8K3CEPkNrm1F6Zm6OFLzpaQ",
+        "rich": "https://i.ytimg.com/an_webp/xsVTqzratPs/mqdefault_6s.webp?du=3000&sqp=CJ_jotYG&rs=AOn4CLBnWVzdND2k_bV3S-pOmeoXYXsi9g"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "AI marketing Masterclass: From beginner to expert in 60 minutes",
+      "link": "https://www.youtube.com/watch?v=fVUlrpaWNxg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fVUlrpaWNxg",
+      "video_id": "fVUlrpaWNxg",
+      "channel": {
+        "name": "Greg Isenberg",
+        "link": "https://www.youtube.com/@GregIsenberg",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/5wiiTxMamM0NnCmGOt0iJ6eoVRmFLNIGF-BEiTZ_AVqaS02YIxAsB-2XY6xwLCUWQfoENG1MHKo=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 103436,
+      "length": "58:42",
+      "description": "I sit down with James Dickerson, a growth marketer, Claude Code power user, and the mind behind The Boring Marketer, to watch ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fVUlrpaWNxg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAirP46uNQf6Z6B5kokM8l5iquiHA",
+        "rich": "https://i.ytimg.com/an_webp/fVUlrpaWNxg/mqdefault_6s.webp?du=3000&sqp=CNiHo9YG&rs=AOn4CLCyiY5tudP5U4gzf1oLCepL34pbtg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Fundamentals of Finance & Economics for Businesses – Crash Course",
+      "link": "https://www.youtube.com/watch?v=EJHPltmAULA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EJHPltmAULA",
+      "video_id": "EJHPltmAULA",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 2651835,
+      "length": "1:38:08",
+      "description": "In this course on Finance & Economics for Businesses, you will learn the fundamentals of business strategy and the interplay ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EJHPltmAULA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIaGq_yhD04Ov6uZ8iv1SHEcqSXw"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Digital Marketing Fundamentals Course 2: Intro to Market Research",
+      "link": "https://www.youtube.com/watch?v=Tq3rORx6myk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Tq3rORx6myk",
+      "video_id": "Tq3rORx6myk",
+      "channel": {
+        "name": "Ramp Up Marketing",
+        "link": "https://www.youtube.com/@RampUpMarcom",
+        "thumbnail": "https://yt3.ggpht.com/RblR50Y-BA2xZBrmoJY7L49rwj6czLszZ5b-SkMU7PgyDDeIkQK2T-dDpSFIa2_oQnl5hxDD-Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 129,
+      "length": "24:58",
+      "description": "Welcome to the 2nd course of the Digital Marketing Fundamentals program. Throughout this program, you'll acquire invaluable ...",
+      "extensions": [
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Tq3rORx6myk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD07imXIdVxS_BCbwx1TjvTliAWMQ",
+        "rich": "https://i.ytimg.com/an_webp/Tq3rORx6myk/mqdefault_6s.webp?du=3000&sqp=CPrdotYG&rs=AOn4CLBBGDxTSKH1KtA_3iEYaDmUjUjePw"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Stock Market for Beginners 2026 – The Ultimate Investing Guide",
+      "link": "https://www.youtube.com/watch?v=bb6_M_srMBk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bb6_M_srMBk",
+      "video_id": "bb6_M_srMBk",
+      "channel": {
+        "name": "Humphrey Yang",
+        "link": "https://www.youtube.com/@humphrey",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/G3iRyu9xe7F8ARD1zE5SSdKW2gCLKFwEqtuvyUvAJEvIPXMq11o6DbJPdEyxEAYhZI0JeK8T=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 2264173,
+      "length": "51:58",
+      "description": "In this 50+ minute long tutorial, you will learn exactly how to buy and sell stocks step by step if you are a beginner! Share this ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bb6_M_srMBk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVNtuby1ecT57-lLU4EOBfUokjJg",
+        "rich": "https://i.ytimg.com/an_webp/bb6_M_srMBk/mqdefault_6s.webp?du=3000&sqp=CNCCo9YG&rs=AOn4CLC5gOna9roO-jloaRP0wg9APRRPQg"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Stock Market For Beginners 2026 | Step by Step Guide",
+      "link": "https://www.youtube.com/watch?v=bqPSFw1eiNc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bqPSFw1eiNc",
+      "video_id": "bqPSFw1eiNc",
+      "channel": {
+        "name": "ClearValue Tax",
+        "link": "https://www.youtube.com/@clearvaluetax9382",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/jNXmuVXGvh23GkOvT0NM9BbsnIhclGkfUwalkOjSb9K4pzmgEWpHERG8DxBWVMyok632vxhr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 2333084,
+      "length": "1:15:44",
+      "description": "See what I'm investing in (stocks, gold, silver) by visiting my Patreon site: https://www.patreon.com/ClearValueInvesting GET ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bqPSFw1eiNc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBU0mVnmCgp2cc5XDOCSqR1AHEgdQ",
+        "rich": "https://i.ytimg.com/an_webp/bqPSFw1eiNc/mqdefault_6s.webp?du=3000&sqp=COjpotYG&rs=AOn4CLDhK7iGZ23umE2IkWB6NUKI5QMj2w"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "How To Do Market Research For Copywriting [1H LIVE Training]",
+      "link": "https://www.youtube.com/watch?v=aNOY6HFxc9o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aNOY6HFxc9o",
+      "video_id": "aNOY6HFxc9o",
+      "channel": {
+        "name": "Giubi",
+        "link": "https://www.youtube.com/@MattiaGiubilato",
+        "thumbnail": "https://yt3.ggpht.com/0nomddXXTk5JMGzSo62r-XY9aYv941FYDW73RkSXzaP1Ukd2yueFotrttdhKOpv94BQNj2md7g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 16289,
+      "length": "59:10",
+      "description": "IG: https://www.instagram.com/mattia.giubi/ - In this video I'll show you how to do research for copywriting. I'll first go over the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/aNOY6HFxc9o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW3dYrK9FPGJinqlH_C4ySOkNgug",
+        "rich": "https://i.ytimg.com/an_webp/aNOY6HFxc9o/mqdefault_6s.webp?du=3000&sqp=CMaCo9YG&rs=AOn4CLDt1XFEtn0f2i9N3Hf3LzlzHLaaBQ"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "The Secret to Etsy Niche Research - FULL TUTORIAL *2025 new features*",
+      "link": "https://www.youtube.com/watch?v=FNRBw3PDuTw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FNRBw3PDuTw",
+      "video_id": "FNRBw3PDuTw",
+      "channel": {
+        "name": "EverBee",
+        "link": "https://www.youtube.com/@helloeverbee",
+        "thumbnail": "https://yt3.ggpht.com/Arn2UZ_8V0Ik00GL38SqCRczsdCsZCaIZPdO9_xJSrxUboXuYLX0Ap9sGbNHLUt1HaYpktc7yw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 33469,
+      "length": "37:00",
+      "description": "Want to dominate Etsy and increase the potential for daily sales? This step-by-step guide will show you how to make the most of ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FNRBw3PDuTw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATqvXhVEgaQyMOHd8gXmeKB1RoDQ",
+        "rich": "https://i.ytimg.com/an_webp/FNRBw3PDuTw/mqdefault_6s.webp?du=3000&sqp=COTXotYG&rs=AOn4CLCXVBazF_ndR4vmnPRJMdijnXdjzw"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "10 Years of UX Product Research Experience in 4.5 hours - Ultimate Crash Course",
+      "link": "https://www.youtube.com/watch?v=R7urbI0iqb0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=R7urbI0iqb0",
+      "video_id": "R7urbI0iqb0",
+      "channel": {
+        "name": "Kevin Liang | Zero to UX",
+        "link": "https://www.youtube.com/@zerotoux",
+        "thumbnail": "https://yt3.ggpht.com/JRAcm5U0FHFQukleRFqmZJsbTp_uGQ7gFJZ83gB6l6tIVxB9PJBMhZTMCpQZO1Bz16C8Kynefw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 229003,
+      "length": "4:32:02",
+      "description": "This is the ultimate UX Product Research Crash Course to end all UX research crash courses. I've spent the past 10 years as a ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/R7urbI0iqb0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHhpOMnVeQLe-P1MjUEtBCP5nSaQ",
+        "rich": "https://i.ytimg.com/an_webp/R7urbI0iqb0/mqdefault_6s.webp?du=3000&sqp=CP2Qo9YG&rs=AOn4CLBYW0O-JWy8IOy-3CUcUJ28r4qPvQ"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "EXACTLY How to do a Comparative Market Analysis (Even if you're a NEW Real Estate Agent)",
+      "link": "https://www.youtube.com/watch?v=s5EYISEW7f8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=s5EYISEW7f8",
+      "video_id": "s5EYISEW7f8",
+      "channel": {
+        "name": "Brandon Mulrenin",
+        "link": "https://www.youtube.com/@BrandonMulrenin",
+        "thumbnail": "https://yt3.ggpht.com/0GsNzhNNxYEXOFRtwAUCJX7yyc6RoxZZHviRwJAm7TOUYZ1643U2DhmZzKo1mqfQ7qBzwTUD=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 129008,
+      "length": "40:23",
+      "description": "Book your FREE Listing Agent Game plan Session + Private Coaching Details: ⤵️ https://bit.ly/4sNWt9v FREE 2-hour listing ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/s5EYISEW7f8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuV2wF8zDQX16QUrW7hT8V7NBvmw",
+        "rich": "https://i.ytimg.com/an_webp/s5EYISEW7f8/mqdefault_6s.webp?du=3000&sqp=CJGCo9YG&rs=AOn4CLDygxRAuNgLOx6vmbDJT7xEDdP_Pg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Watch Me Build a Marketing Strategy in 20 Minutes For a Completely Random Business",
+      "link": "https://www.youtube.com/watch?v=bCoL1bKSYSo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bCoL1bKSYSo",
+      "video_id": "bCoL1bKSYSo",
+      "channel": {
+        "name": "Adam Erhart",
+        "link": "https://www.youtube.com/@Adamerhartvideo",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/wOJjRRzRrT84yNRrfkjX8urSSu3eroDvxBUv_77qTXsjMwJVE_cyCjzWQVGNHEAj_VuLOGcC=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 164992,
+      "length": "25:16",
+      "description": "Free AI Agency Course ($15000+ in bonuses included): https://adamerhart.co/3TAfjE4 ⚡ Extended 30-Day HighLevel Trial (Install ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bCoL1bKSYSo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdA2L1m23i0zE3rSkHoaO5ErepVQ",
+        "rich": "https://i.ytimg.com/an_webp/bCoL1bKSYSo/mqdefault_6s.webp?du=3000&sqp=CMaHo9YG&rs=AOn4CLA_FHGx9QoHLFqmqliFUE4WHRE5og"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Small Business Training Course: Market Research Basics & Business Planning",
+      "link": "https://www.youtube.com/watch?v=6AzLDFrewRE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6AzLDFrewRE",
+      "video_id": "6AzLDFrewRE",
+      "channel": {
+        "name": "TWU - Center for Women Entrepreneurs",
+        "link": "https://www.youtube.com/@twu-centerforwomenentrepre2851",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lwQeYBsM2Q92eCIUqs07r4mosZIqWGq701_qt1ensKwfo=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 484,
+      "length": "1:06:47",
+      "description": "Join us for the first session of our Small Business Training Course: Market Research Basics, Stephany Compton, TWU - Senior ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6AzLDFrewRE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkTIMMyBZAkCW00H0vwvMBtAi-NA",
+        "rich": "https://i.ytimg.com/an_webp/6AzLDFrewRE/mqdefault_6s.webp?du=3000&sqp=CM_motYG&rs=AOn4CLBnyLbJzSer7mZOjbRvl80qpiXueg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Market+Research+full+course+for+beginners&gl=in&hl=en&sp=EgIYAg==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Market%20Research%20full%20course%20for%20beginners&sp=EgIYAkgUggELalFESjRKUUFoMG-CAQtLQm5TcU5WN0xNUYIBC1M0bUxUS3Z2cWRvggELZXlueHlvS2dwbmeCAQtBQkxIVjVDZTZUSYIBCzh5RG1xMDNYQUhRggELNHBqdElYeFUwUjCCAQtjSzlyV0NmYkU0OIIBC3hzVlRxenJhdFBzggELZlZVbHJwYVdOeGeCAQtFSkhQbHRtQVVMQYIBC1RxM3JPUng2bXlrggELYmI2X01fc3JNQmuCAQticVBTRncxZWlOY4IBC2FOT1k2SEZ4YzlvggELRk5SQnczUER1VHeCAQtSN3VyYkkwaXFiMIIBC3M1RVlJU0VXN2Y4ggELYkNvTDFiS1NZU2-CAQs2QXpMREZyZXdSRbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELalFESjRKUUFoMG-CAQtLQm5TcU5WN0xNUYIBC1M0bUxUS3Z2cWRvggELZXlueHlvS2dwbmeCAQtBQkxIVjVDZTZUSYIBCzh5RG1xMDNYQUhRggELNHBqdElYeFUwUjCCAQtjSzlyV0NmYkU0OIIBC3hzVlRxenJhdFBzggELZlZVbHJwYVdOeGeCAQtFSkhQbHRtQVVMQYIBC1RxM3JPUng2bXlrggELYmI2X01fc3JNQmuCAQticVBTRncxZWlOY4IBC2FOT1k2SEZ4YzlvggELRk5SQnczUER1VHeCAQtSN3VyYkkwaXFiMIIBC3M1RVlJU0VXN2Y4ggELYkNvTDFiS1NZU2-CAQs2QXpMREZyZXdSRbIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Market+Research+full+course+for+beginners&sp=EgIYAg%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Market+Research+full+course+for+beginners&sp=EgIYAkgUggELalFESjRKUUFoMG-CAQtLQm5TcU5WN0xNUYIBC1M0bUxUS3Z2cWRvggELZXlueHlvS2dwbmeCAQtBQkxIVjVDZTZUSYIBCzh5RG1xMDNYQUhRggELNHBqdElYeFUwUjCCAQtjSzlyV0NmYkU0OIIBC3hzVlRxenJhdFBzggELZlZVbHJwYVdOeGeCAQtFSkhQbHRtQVVMQYIBC1RxM3JPUng2bXlrggELYmI2X01fc3JNQmuCAQticVBTRncxZWlOY4IBC2FOT1k2SEZ4YzlvggELRk5SQnczUER1VHeCAQtSN3VyYkkwaXFiMIIBC3M1RVlJU0VXN2Y4ggELYkNvTDFiS1NZU2-CAQs2QXpMREZyZXdSRbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYAkgUggELalFESjRKUUFoMG-CAQtLQm5TcU5WN0xNUYIBC1M0bUxUS3Z2cWRvggELZXlueHlvS2dwbmeCAQtBQkxIVjVDZTZUSYIBCzh5RG1xMDNYQUhRggELNHBqdElYeFUwUjCCAQtjSzlyV0NmYkU0OIIBC3hzVlRxenJhdFBzggELZlZVbHJwYVdOeGeCAQtFSkhQbHRtQVVMQYIBC1RxM3JPUng2bXlrggELYmI2X01fc3JNQmuCAQticVBTRncxZWlOY4IBC2FOT1k2SEZ4YzlvggELRk5SQnczUER1VHeCAQtSN3VyYkkwaXFiMIIBC3M1RVlJU0VXN2Y4ggELYkNvTDFiS1NZU2-CAQs2QXpMREZyZXdSRbIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 11:20:37 UTC"
+}

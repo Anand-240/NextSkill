@@ -62,5 +62,61 @@
     "pages": 1,
     "query_scope": "base only",
     "low_data_case": true
+  },
+  {
+    "id": "python-developer-bengaluru",
+    "role": "Python Developer",
+    "city": "Bengaluru",
+    "pages": 1,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
+  },
+  {
+    "id": "python-developer-kochi",
+    "role": "Python Developer",
+    "city": "Kochi",
+    "pages": 1,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
+  },
+  {
+    "id": "accountant-mumbai",
+    "role": "Accountant",
+    "city": "Mumbai",
+    "pages": 1,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
+  },
+  {
+    "id": "accountant-indore",
+    "role": "Accountant",
+    "city": "Indore",
+    "pages": 1,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
+  },
+  {
+    "id": "digital-marketing-executive-pune",
+    "role": "Digital Marketing Executive",
+    "city": "Pune",
+    "pages": 1,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
+  },
+  {
+    "id": "digital-marketing-executive-chennai",
+    "role": "Digital Marketing Executive",
+    "city": "Chennai",
+    "pages": 1,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
+  },
+  {
+    "id": "frontend-developer-hyderabad",
+    "role": "Frontend Developer",
+    "city": "Hyderabad",
+    "pages": 1,
+    "query_scope": "base plus fresher and junior",
+    "low_data_case": false
   }
 ]
