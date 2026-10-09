@@ -7,7 +7,7 @@ import re
 from typing import Callable
 
 from engine import (ROOT, coverage, experience_evidence, extract_skills, indicated_languages,
-                    parse_duration)
+                    parse_duration, stated_must_haves, must_have_status)
 from skills import GENERIC, _BOUNDARY, _patterns, skill_mentions
 
 MEDIUM_VIDEO_SP = "EgIYAw=="  # YouTube Filters > Duration > 4-20 minutes, passed through SerpApi's `sp`.
@@ -227,6 +227,8 @@ def build_plan(analysis: dict, index: int,
     learning_hours = sum(item["hours"] for item in items if item["action"] == "learn" and item["hours"])
     years, phrase = experience_evidence(job)
     return {"index": index, "job": job, "items": items, "alternatives": alternatives,
+            "must_haves_status": must_have_status(stated_must_haves(description), user),
+            "must_haves": [" or ".join(sorted(req)) for req in sorted(stated_must_haves(description), key=lambda r: sorted(r))],
             "core_total": len(core), "covered_now": covered_now, "covered_after": covered_after,
             "coverage_now": entry["coverage"], "threshold": threshold,
             "unlock_skills": sorted(skill for skill in learned - GENERIC if coverage(core, user | {skill}) >= threshold)

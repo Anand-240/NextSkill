@@ -65,3 +65,16 @@ B1 verification correction: the first run exposed budget-label gaps and an hones
 Noida bootstrap change from 56.2% to 56.4%. Fixed unknown-hour budget labels,
 regenerated golden results (generator introduced early for evidence), and updated
 current prose. Archived the original golden file; no results tuned to preserve it.
+
+## B2 - Stated must-haves
+
+- Research: coverage treats all detected requirements equally; explicit wording was
+  used only for Job Prep ordering. Read skills.py sentence and preference handling.
+- Plan/acceptance: preserve coverage matches and report yes/no/none stated separately;
+  test must, mandatory, required, essential, minimum, negation and alternatives.
+- Build: explicit sentence requirements independent of market frequency; headline
+  counts among coverage matches, listing evidence and Job Prep status; README definition.
+- Test: 72 full-suite tests pass; Excel-only profile matches SQL-required/Excel listing
+  at 50% but correctly gets must-haves status no. Every phrase and OR choice tested.
+- Verify: generated golden results; no coverage counts changed. Diff reviewed.
+- Record: no search requests; heuristic limitation retained.

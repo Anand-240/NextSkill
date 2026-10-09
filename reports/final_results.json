@@ -15,7 +15,7 @@
       "eligible": 23,
       "scored": 19,
       "matches": 9,
-      "must_haves_met": 0,
+      "must_haves_met": 1,
       "fastest_win": "REST API",
       "biggest_unlock": "React",
       "ranked": [

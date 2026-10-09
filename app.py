@@ -165,6 +165,8 @@ if result:
         st.subheader(f"Learn {fastest['display_skill']} next: +{gained} more matching listing{'s' if gained != 1 else ''}, "
                      f"about {course_hours} hour{'s' if course_hours != 1 else ''} of free courses.")
     st.markdown(f"**Your profile matches {result['ready']} of {count} {source_label} in {result['city']}.**")
+    st.caption(f"Among these matches: stated must-haves met in {result.get('must_haves_met', 0)}; "
+               f"none stated in {result.get('must_haves_none', 0)}. Other matches still lack an explicit requirement.")
     dates = result["retrieved_dates"]
     snapshot_date = dates[0] if len(dates) == 1 else f"{dates[0]} to {dates[-1]}" if dates else "unknown"
     st.caption(f"Snapshot date: {snapshot_date} (UTC). A match means your profile covers enough of a listing's core skills; it is not a hiring prediction.")
@@ -262,6 +264,8 @@ if result:
                         st.markdown(f"- {label}")
                     nice = result["jobs"]
                     entry = next((row for row in nice if row["job"] is job), None)
+                    if entry:
+                        st.caption("Stated must-haves met: " + entry["must_haves_status"])
                     if entry and entry["nice_to_have"]:
                         st.caption("Nice to have: " + ", ".join(sorted(entry["nice_to_have"])))
     pair = result.get("two_skill_plan")
@@ -358,6 +362,8 @@ if result:
         with st.expander(f"Job Prep: {job.get('title') or 'Untitled'} · {job.get('company_name') or 'Unknown company'}", expanded=True):
             st.markdown(f"**Readiness for this job:** you cover {plan['covered_now']} of {plan['core_total']} core skills "
                         f"({plan['coverage_now']:.0%}; a match needs {plan['threshold']:.0%}).")
+            st.write("Stated must-haves met: " + plan["must_haves_status"])
+            st.caption("Explicit requirements: " + (", ".join(plan["must_haves"]) or "none stated"))
             if plan["coverage_now"] >= plan["threshold"]:
                 st.write("This listing already matches your profile.")
             elif plan["unlock_skills"]:

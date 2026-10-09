@@ -18,7 +18,7 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import urlopen
 
-from skills import ALIASES, GENERIC, SKILLS, extract_skills, skill_mentions, negated_mention, preferred_mention
+from skills import ALIASES, GENERIC, SKILLS, extract_skills, skill_mentions, negated_mention, preferred_mention, _BOUNDARY
 
 ROOT = Path(__file__).resolve().parent
 DEMO_DATA = ROOT / "demo_data"
@@ -439,6 +439,21 @@ def coverage(required: set[str] | set[frozenset[str]], user: set[str]) -> float:
     return sum(bool((req if isinstance(req, frozenset) else {req}) & user) for req in required) / len(required) if required else 0.0
 
 
+def stated_must_haves(text: str) -> set[frozenset[str]]:
+    """Conservative sentence-level explicit requirements, independent of market frequency."""
+    result = set()
+    for segment in _BOUNDARY.split(text or ""):
+        if re.search(r"\b(?:must|mandatory|required|essential|minimum)\b", segment, re.I):
+            if re.search(r"\b(?:not|no)\s+(?:mandatory|required|essential)\b", segment, re.I):
+                continue
+            result.update(requirements_from_text(segment))
+    return result
+
+
+def must_have_status(required: set[frozenset[str]], user: set[str]) -> str:
+    return "none stated" if not required else "yes" if all(req & user for req in required) else "no"
+
+
 def listing_confidence(count: int) -> str:
     return "High" if count >= 25 else "Medium" if count >= 12 else "Low"
 
@@ -569,7 +584,9 @@ def analyze_jobs(jobs: list[dict], user_skills: set[str], threshold: float = DEF
         if not required:
             ignored += 1
             continue
+        mandatory = stated_must_haves(str(job.get("description") or ""))
         usable.append({"job": job, "required_skills": required, "nice_to_have": all_skills - core,
+                       "must_haves": mandatory, "must_haves_status": must_have_status(mandatory, user_skills),
                        "coverage": coverage(required, user_skills)})
     ready = [entry for entry in usable if entry["coverage"] >= threshold]
     demand = Counter(skill for entry in usable for skill in extract_skills(str(entry["job"].get("description") or "")))
@@ -604,6 +621,8 @@ def analyze_jobs(jobs: list[dict], user_skills: set[str], threshold: float = DEF
             "experience_excluded": experience_excluded, "experience_level": experience_level,
             "all_listings": all_listings,
             "jobs": usable, "ready": len(ready), "ignored": ignored, "core_skills": core, "core_share": core_share,
+            "must_haves_met": sum(row["must_haves_status"] == "yes" for row in ready),
+            "must_haves_none": sum(row["must_haves_status"] == "none stated" for row in ready),
             "skill_counts": counts, "unlocked": unlocked, "candidates": candidates, "pair": pair,
             "option_members": option_members, "display_members": display_members,
             "eligible_jobs": unique, "user_skills_set": user_skills,

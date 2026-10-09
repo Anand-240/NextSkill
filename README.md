@@ -21,6 +21,7 @@ Tell NextSkill your skills and your city. It reads local job listings through Se
 > **What the numbers mean**
 >
 > - **Matches:** the profile covers at least the threshold share (default 50%) of a listing's detected core skills. Not a hiring prediction.
+> - **Stated must-haves met:** a separate yes/no/none-stated check for detected skills in sentences saying must, mandatory, required, essential or minimum. Counts refer to coverage matches with explicit requirements met; none stated is separate. This heuristic does not check every qualification.
 > - **Learning hours:** the length of free full courses found on YouTube. Not time to mastery.
 > - **Revision time (Job Prep):** the total length of up to two short revision videos (5 to 25 minutes) per skill you already have. Quick revision videos, not a full course and not a guarantee.
 > - **Confidence:** how often the top pick stays first when listings are resampled and course hours vary. Stability, not accuracy.
