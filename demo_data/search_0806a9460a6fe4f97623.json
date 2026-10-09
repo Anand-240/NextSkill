@@ -1,0 +1,462 @@
+{
+  "search_metadata": {
+    "id": "6ac933fd2106d4d62144b630",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aFvMAKnBkqFzLITx0PwwFMaq4O721omcISXR8gzZfUE/6ac933fd2106d4d62144b630.json",
+    "markdown_endpoint": "https://serpapi.com/searches/aFvMAKnBkqFzLITx0PwwFMaq4O721omcISXR8gzZfUE/6ac933fd2106d4d62144b630.md",
+    "created_at": "2026-10-09 18:35:41 UTC",
+    "processed_at": "2026-10-09 18:35:41 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Tableau+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/aFvMAKnBkqFzLITx0PwwFMaq4O721omcISXR8gzZfUE/6ac933fd2106d4d62144b630.html",
+    "total_time_taken": 2.85
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Tableau revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 2947355,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Learn Tableau in 15 minutes and create your first report (FREE Sample Files)",
+      "link": "https://www.youtube.com/watch?v=tNLp_JVipoQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tNLp_JVipoQ",
+      "video_id": "tNLp_JVipoQ",
+      "channel": {
+        "name": "Chandoo",
+        "link": "https://www.youtube.com/@chandoo_",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_wMqn3mAO7vDs1s74bHiFXXv24ckFsv2mnV1US8mS_w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 947748,
+      "length": "16:11",
+      "description": "Do you want to learn Tableau? In this video, learn all the basics you need to start using Tableau straightaway. We are going to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tNLp_JVipoQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC84QIx7bRxoaP2lDfofmqRY-ukvA",
+        "rich": "https://i.ytimg.com/an_webp/tNLp_JVipoQ/mqdefault_6s.webp?du=3000&sqp=CPjApNYG&rs=AOn4CLCgyciufUQqDjCWXFkowdyWbNAKTQ"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Stop watching endless tutorials (This is how to learn Tableau fast in 7 MINUTES)",
+      "link": "https://www.youtube.com/watch?v=n_mVK49hXB0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=n_mVK49hXB0",
+      "video_id": "n_mVK49hXB0",
+      "channel": {
+        "name": "Mo Chen",
+        "link": "https://www.youtube.com/@mo-chen",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/IBFVxGLOQjpvl2y38TMqvalSq0llMz87qpDVZnK0Faw7d_PWSElx6R0UlBoKVEfdszMoBHP7Uq0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 102559,
+      "length": "6:52",
+      "description": "Tableau Fundamentals by DataCamp: https://datacamp.pxf.io/K0O9g9 Data Analyst in Tableau by DataCamp: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/n_mVK49hXB0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmwrAexa5KSWzqJlUdfUlNrrWysg",
+        "rich": "https://i.ytimg.com/an_webp/n_mVK49hXB0/mqdefault_6s.webp?du=3000&sqp=CKjlpNYG&rs=AOn4CLBvnm181Z6E29Yqrc1qdIvsTf_UJg"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "What is Tableau? | Tableau Overview | Tableau in 5 Mins | Tableau For Beginners | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=NLCzpPRCc7U",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NLCzpPRCc7U",
+      "video_id": "NLCzpPRCc7U",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 358605,
+      "length": "5:11",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "extensions": [
+        "2 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/NLCzpPRCc7U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX0g9PboUJPo2q4X1zJnd_vN5n8g",
+        "rich": "https://i.ytimg.com/an_webp/NLCzpPRCc7U/mqdefault_6s.webp?du=3000&sqp=CPLOpNYG&rs=AOn4CLBrOoBeSyIRNIqxRufQ6dg4kGdJhw"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Tableau Explained as a Business Intelligence Tool 📊 | Features, Uses & Examples",
+      "link": "https://www.youtube.com/watch?v=vLo3F61vU-s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vLo3F61vU-s",
+      "video_id": "vLo3F61vU-s",
+      "channel": {
+        "name": "Chicha study",
+        "link": "https://www.youtube.com/@chichastudy",
+        "thumbnail": "https://yt3.ggpht.com/hz7SHi1H5hae0UjtwRN5sCtEi1PuNvzOM80LuNW7eX1rLYQRuPAwAZJ028-PlVVYRNwZRgqO=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 13,
+      "length": "5:39",
+      "description": "Tableau Explained as a Business Intelligence Tool | Features, Uses & Examples This video answers only the given exam ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vLo3F61vU-s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_3iTZLtKy53DU1SR1uEVbapbiew"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "The revision on Data visualization with tableau",
+      "link": "https://www.youtube.com/watch?v=zCSNkGzPQko",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zCSNkGzPQko",
+      "video_id": "zCSNkGzPQko",
+      "channel": {
+        "name": "Eric Tuyizere",
+        "link": "https://www.youtube.com/@erictuyizere44",
+        "thumbnail": "https://yt3.ggpht.com/Feb4-XlVTYPuPjwdD1k1XErdvdPljnxVF_zsOYmmEhA3TRGJofKhzmvIkRTYHcaD1NTvNcksFNQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1,
+      "length": "9:45",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zCSNkGzPQko/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBlAOAAtAFigIMCAAQARhmIGYoZjAP&rs=AOn4CLCKgsircQ5iNCcOKfKqkEk8R3QxoA",
+        "rich": "https://i.ytimg.com/an_webp/zCSNkGzPQko/mqdefault_6s.webp?du=3000&sqp=CN66pNYG&rs=AOn4CLBvSU7tfC30KrNd1d50dJDGa0l38g"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Updated Salesforce Certified Tableau Desktop Foundations Analytics-101 Questions Answers",
+      "link": "https://www.youtube.com/watch?v=iWDNqTtaPWE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iWDNqTtaPWE",
+      "video_id": "iWDNqTtaPWE",
+      "channel": {
+        "name": "P2PExams",
+        "link": "https://www.youtube.com/@p2pexams583",
+        "thumbnail": "https://yt3.ggpht.com/ewCVaz1dN-JK6hmiQB1WsTBxYJUofMeskVYwpKGH09cI6Te8wcsJfK2cxnYHeIhOPFlKVsQA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2d ago",
+      "views": 30,
+      "length": "6:35",
+      "description": "Getting ready for the Salesforce Certified Tableau Desktop Foundations Analytics-101 exam? Reviewing the right questions can ...",
+      "extensions": [
+        "New"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/iWDNqTtaPWE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB587J8YgcE-WxV81GTHADhHpUo_Q",
+        "rich": "https://i.ytimg.com/an_webp/iWDNqTtaPWE/mqdefault_6s.webp?du=3000&sqp=CNPapNYG&rs=AOn4CLAXPB_12FPgmCwAQrwWZpaq0cMMlw"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Tableau Tutorial For Beginners 2025 | Hindi",
+      "link": "https://www.youtube.com/watch?v=qM52aCAPQao",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qM52aCAPQao",
+      "video_id": "qM52aCAPQao",
+      "channel": {
+        "name": "Hrithik Mehlawat",
+        "link": "https://www.youtube.com/@HrithikMehlawat",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/-NvFU7hbv7lDVlb0dOCC58-n6N22Ky4X73UyOBNl9wOpBWGcOKG7HlHHj9LLPETyBPoBZxII6V0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 144354,
+      "length": "16:02",
+      "description": "Full Tableau tutorial for beginners in Hindi.\n________________________________________________________\nJoin my Business ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qM52aCAPQao/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzr7KVUr-r_k-29R44OhKAXghxkA",
+        "rich": "https://i.ytimg.com/an_webp/qM52aCAPQao/mqdefault_6s.webp?du=3000&sqp=CKa5pNYG&rs=AOn4CLAxTKY5Rbdi2D8gyoO39kws6oryxQ"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "revision chart",
+      "link": "https://www.youtube.com/watch?v=5ja7gj1RGnw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5ja7gj1RGnw",
+      "video_id": "5ja7gj1RGnw",
+      "channel": {
+        "name": "Nadine P.",
+        "link": "https://www.youtube.com/@nadinep.699",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mK43Iw4CwyKgN6tGUwceTB4yGApjN6gzJTBVVNCCGnQVs=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 1025,
+      "length": "6:05",
+      "description": "... que tout à l'heure bien entendu je peux venir dans la vue dans le tableau de révision lieder que cette révision a été diffusé.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5ja7gj1RGnw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC31ivu8FRzXMJKKpou52H_eamyzA"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "How I schedule + track my EXAM REVISION (+ free template)",
+      "link": "https://www.youtube.com/watch?v=BBHc7kQ_2TE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BBHc7kQ_2TE",
+      "video_id": "BBHc7kQ_2TE",
+      "channel": {
+        "name": "Alicia Wong",
+        "link": "https://www.youtube.com/@studycollab",
+        "thumbnail": "https://yt3.ggpht.com/orBF0ludrCY9ipOit1IUs02mozkHY8nHAy96_KKyFFE7vRbfEg__XfyJA1O3InJ1sfL3i5bTHxY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 281251,
+      "length": "17:54",
+      "description": "Hey guys! Today's video is a long chatty one where I walk through how I create my exam revision tracker to plan my schedule and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BBHc7kQ_2TE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLctmd3q2VA1XNe-zoQUMZtz-B4g",
+        "rich": "https://i.ytimg.com/an_webp/BBHc7kQ_2TE/mqdefault_6s.webp?du=3000&sqp=CJDnpNYG&rs=AOn4CLB7KpKb3SzLMcIJSxevR1FNVf4ijA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Salesforce Certified Tableau Desktop Foundations (Analytics-101) Exam Questions 2026",
+      "link": "https://www.youtube.com/watch?v=Vvs-6IddVOs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Vvs-6IddVOs",
+      "video_id": "Vvs-6IddVOs",
+      "channel": {
+        "name": "ITExamsTopics",
+        "link": "https://www.youtube.com/@ITExamsTopics",
+        "thumbnail": "https://yt3.ggpht.com/8dlhNFlcynf9fVcXJyj7BdPfn-RToQC5-j7QNHailUiffEw-uG9Du9SMFdGm0WkHV8_h5WQE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8d ago",
+      "views": 8,
+      "length": "5:49",
+      "description": "Preparing for the Salesforce Certified Tableau Desktop Foundations (Analytics-101) exam? Test yourself with 5 scenario-based ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Vvs-6IddVOs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqXmn4_XLSMemt6GONQ-F64nE7cw",
+        "rich": "https://i.ytimg.com/an_webp/Vvs-6IddVOs/mqdefault_6s.webp?du=3000&sqp=COLIpNYG&rs=AOn4CLCV1ek_G71YUE0X86hsdKZXJ4kKSA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Master Power BI Essentials in Just 15 minutes",
+      "link": "https://www.youtube.com/watch?v=nkmHqs1I_z0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nkmHqs1I_z0",
+      "video_id": "nkmHqs1I_z0",
+      "channel": {
+        "name": "Kenji Explains",
+        "link": "https://www.youtube.com/@KenjiExplains",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ya0P7V6hzaGNc1UEkK8u8JR1FuqN_mwUyYpWhWlk5f1SHaEqqqrDbaSOgRJHRldsYT54yQJ5Jg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1151690,
+      "length": "14:16",
+      "description": "Learn the essentials of Power BI in just 15 minutes. Get the Power BI course here: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/nkmHqs1I_z0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQFDfKhpDYWkNFr0f_xEirvvDJTg",
+        "rich": "https://i.ytimg.com/an_webp/nkmHqs1I_z0/mqdefault_6s.webp?du=3000&sqp=CKPJpNYG&rs=AOn4CLD27W_5D9A_tTN6GSdvYMbUXcqDXw"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Tableau revision pratique",
+      "link": "https://www.youtube.com/watch?v=OFoN88mUXqQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OFoN88mUXqQ",
+      "video_id": "OFoN88mUXqQ",
+      "channel": {
+        "name": "Josée Rouleau",
+        "link": "https://www.youtube.com/@JoseeRouleau",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nWLc6NtC9GeowC2GyfCXDRlQGu4zC9ouBSEyhQmi8I4CUo=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10y ago",
+      "views": 202,
+      "length": "9:31",
+      "description": "Tableau à créer dans le document révision pratique.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OFoN88mUXqQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk84J4c_JQSp5woH69EHMqBP5SPQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "The Periodic Table: Atomic Radius, Ionization Energy, and Electronegativity",
+      "link": "https://www.youtube.com/watch?v=hePb00CqvP0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hePb00CqvP0",
+      "video_id": "hePb00CqvP0",
+      "channel": {
+        "name": "Professor Dave Explains",
+        "link": "https://www.youtube.com/@ProfessorDaveExplains",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lQiE1t-NjUuQDjIdIDpgyszdS3hI5TlIqZ1lr3PDewKDk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11y ago",
+      "views": 5524252,
+      "length": "7:53",
+      "description": "Why is the periodic table arranged the way it is? There are specific reasons, you know. Because of the way we organize the ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hePb00CqvP0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIkDoqZMDVgpjA9ZRVJ6oaGF97YQ",
+        "rich": "https://i.ytimg.com/an_webp/hePb00CqvP0/mqdefault_6s.webp?du=3000&sqp=CP3RpNYG&rs=AOn4CLC0_x102V6sXsT3CfDoqBz-zrZZ6Q"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Salesforce Certified Tableau Next Consultant (Analytics-Con-202) Exam Questions 2026",
+      "link": "https://www.youtube.com/watch?v=FifdrRSFoks",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FifdrRSFoks",
+      "video_id": "FifdrRSFoks",
+      "channel": {
+        "name": "ITExamsTopics",
+        "link": "https://www.youtube.com/@ITExamsTopics",
+        "thumbnail": "https://yt3.ggpht.com/8dlhNFlcynf9fVcXJyj7BdPfn-RToQC5-j7QNHailUiffEw-uG9Du9SMFdGm0WkHV8_h5WQE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7d ago",
+      "views": 32,
+      "length": "6:00",
+      "description": "Preparing for the Salesforce Certified Tableau Next Consultant (Analytics-Con-202) exam? Try these 5 scenario-based practice ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FifdrRSFoks/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT9dT6D_u4dOVXLZOFw6-i1nAUCA",
+        "rich": "https://i.ytimg.com/an_webp/FifdrRSFoks/mqdefault_6s.webp?du=3000&sqp=CIWzpNYG&rs=AOn4CLCxEkiLVPE-RmUkaoCtH88UbTpvKw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Petrushka, K012 (Revision 1947) , First Tableau: The Carnival",
+      "link": "https://www.youtube.com/watch?v=9CiQIcMU4So",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9CiQIcMU4So",
+      "video_id": "9CiQIcMU4So",
+      "channel": {
+        "name": "Josep Vicent - Topic",
+        "link": "https://www.youtube.com/channel/UC2KZp2pgQnagdqLVQFGEQzg",
+        "thumbnail": "https://yt3.ggpht.com/R02x0hIx9b1wSTk6xjvZNq_42cqn7xh6zpry9P1HfSQUxSSGOd8UW8RfELFzmTkHNf2Pj2IM3w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "views": 81,
+      "length": "5:50",
+      "description": "Provided to YouTube by The Orchard Enterprises Petrushka, K012 (Revision 1947) , First Tableau: The Carnival · Josep Vicent ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9CiQIcMU4So/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuS0nF790SWAB2PN_oRowxnjzm-w"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Review the PROGRESS TABLE 💚 Limiting reactant, x(max), final state | 1st | Tle specialty",
+      "link": "https://www.youtube.com/watch?v=woYwe1EDOck",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=woYwe1EDOck",
+      "video_id": "woYwe1EDOck",
+      "channel": {
+        "name": "Paul Olivier",
+        "link": "https://www.youtube.com/@ProfPaulOlivier",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WNEB8PxuQwJCe_opdexpytXeQH6yAIvn-zNQW_a_RyMyJtZoO-55PDMt-M8_gNeUgN7sBD4FDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 131544,
+      "length": "8:37",
+      "description": "🎯 Methods and tips for completing and using a progress table\n✅ Maximum progress, limiting reactant, excess, stoichiometric ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/woYwe1EDOck/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi8XcDAQQULnNwWziuDLUz6IQl9Q"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Netflix dashboard on tableau #netflix #movie #tv #show #shorts #revision #tableau #tableaudesktop",
+      "link": "https://www.youtube.com/watch?v=bf84w58vPQc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bf84w58vPQc",
+      "video_id": "bf84w58vPQc",
+      "channel": {
+        "name": "shorts after shots",
+        "link": "https://www.youtube.com/@shortsaftershots",
+        "thumbnail": "https://yt3.ggpht.com/wff-ywTJnHpCck07JMxzN7JaylttRpXVH_cd_J3XV-tTyNc6E38-nDR-LQeHjAnnxDFfXgNjMBU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 27,
+      "length": "13:10",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bf84w58vPQc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkJKs6w9ehkGvyBfqmAuCKUY4nrA",
+        "rich": "https://i.ytimg.com/an_webp/bf84w58vPQc/mqdefault_6s.webp?du=3000&sqp=CPzTpNYG&rs=AOn4CLC0nzax6EV--JcmP3HNUBQwjpHUmQ"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Excel Pivot Table EXPLAINED in 10 Minutes (Productivity tips included!)",
+      "link": "https://www.youtube.com/watch?v=UsdedFoTA68",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UsdedFoTA68",
+      "video_id": "UsdedFoTA68",
+      "channel": {
+        "name": "Leila Gharani",
+        "link": "https://www.youtube.com/@LeilaGharani",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nRcy9yiYCsCEjQ0_Dwi_BjpnrMbBa2ov10Y2flDk-otH0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 4429936,
+      "length": "13:22",
+      "description": "Unlock the power of Pivot Tables - transform your data into insights today! https://link.xelplus.com/yt-g-10minutes-pivottable ...",
+      "extensions": [
+        "5 products",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/UsdedFoTA68/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAH0pk56sDmS5Ix4ZkJSc4pa8x0KQ",
+        "rich": "https://i.ytimg.com/an_webp/UsdedFoTA68/mqdefault_6s.webp?du=3000&sqp=CNSgpNYG&rs=AOn4CLBCuUkgGYqXoTgw14hxzmKHFlXrTw"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Join and Union in Tableau | Join Vs Union in Tableau",
+      "link": "https://www.youtube.com/watch?v=n34YLENlbls",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=n34YLENlbls",
+      "video_id": "n34YLENlbls",
+      "channel": {
+        "name": "Job Connect",
+        "link": "https://www.youtube.com/@jobconnect19",
+        "thumbnail": "https://yt3.ggpht.com/udFPrit2iLRnP1tfivP61DgVR5ernJLZdn5cTY2n8daWa2mNBKSmM4WjNz-GYIg5L-o8pdSj=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 45,
+      "length": "11:34",
+      "description": "Tableau Free Course For Data Analyst & Data Science Download Job Connect App ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/n34YLENlbls/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvCs60ee_oLoGD8cN3u24kf3SYyQ"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Learn DAX Fundamentals in 10 Minutes | Step-by-Step Guide",
+      "link": "https://www.youtube.com/watch?v=-QOtL_LOc40",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-QOtL_LOc40",
+      "video_id": "-QOtL_LOc40",
+      "channel": {
+        "name": "Kenji Explains",
+        "link": "https://www.youtube.com/@KenjiExplains",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ya0P7V6hzaGNc1UEkK8u8JR1FuqN_mwUyYpWhWlk5f1SHaEqqqrDbaSOgRJHRldsYT54yQJ5Jg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 398523,
+      "length": "12:08",
+      "description": "Learn the fundamentals of DAX expressions in Power BI in just 10 minutes. Check out Ahrefs Webmaster Tools for FREE here: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-QOtL_LOc40/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSDi98f96iVRrUBw1z7SmEExpc2g",
+        "rich": "https://i.ytimg.com/an_webp/-QOtL_LOc40/mqdefault_6s.webp?du=3000&sqp=CMDepNYG&rs=AOn4CLC9Seh2Uh7hzolBbpGxREaO_I1wrg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Tableau+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Tableau%20revision&sp=EgIYA0gUggELdE5McF9KVmlwb1GCAQtuX21WSzQ5aFhCMIIBC05MQ3pwUFJDYzdVggELdkxvM0Y2MXZVLXOCAQt6Q1NOa0d6UFFrb4IBC2lXRE5xVHRhUFdFggELcU01MmFDQVBRYW-CAQs1amE3Z2oxUkdud4IBC0JCSGM3a1FfMlRFggELVnZzLTZJZGRWT3OCAQtua21IcXMxSV96MIIBC09Gb044OG1VWHFRggELaGVQYjAwQ3F2UDCCAQtGaWZkclJTRm9rc4IBCzlDaVFJY01VNFNvggELd29Zd2UxRURPY2uCAQtiZjg0dzU4dlBRY4IBC1VzZGVkRm9UQTY4ggELbjM0WUxFTmxibHOCAQstUU90TF9MT2M0MLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELdE5McF9KVmlwb1GCAQtuX21WSzQ5aFhCMIIBC05MQ3pwUFJDYzdVggELdkxvM0Y2MXZVLXOCAQt6Q1NOa0d6UFFrb4IBC2lXRE5xVHRhUFdFggELcU01MmFDQVBRYW-CAQs1amE3Z2oxUkdud4IBC0JCSGM3a1FfMlRFggELVnZzLTZJZGRWT3OCAQtua21IcXMxSV96MIIBC09Gb044OG1VWHFRggELaGVQYjAwQ3F2UDCCAQtGaWZkclJTRm9rc4IBCzlDaVFJY01VNFNvggELd29Zd2UxRURPY2uCAQtiZjg0dzU4dlBRY4IBC1VzZGVkRm9UQTY4ggELbjM0WUxFTmxibHOCAQstUU90TF9MT2M0MLIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Tableau+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Tableau+revision&sp=EgIYA0gUggELdE5McF9KVmlwb1GCAQtuX21WSzQ5aFhCMIIBC05MQ3pwUFJDYzdVggELdkxvM0Y2MXZVLXOCAQt6Q1NOa0d6UFFrb4IBC2lXRE5xVHRhUFdFggELcU01MmFDQVBRYW-CAQs1amE3Z2oxUkdud4IBC0JCSGM3a1FfMlRFggELVnZzLTZJZGRWT3OCAQtua21IcXMxSV96MIIBC09Gb044OG1VWHFRggELaGVQYjAwQ3F2UDCCAQtGaWZkclJTRm9rc4IBCzlDaVFJY01VNFNvggELd29Zd2UxRURPY2uCAQtiZjg0dzU4dlBRY4IBC1VzZGVkRm9UQTY4ggELbjM0WUxFTmxibHOCAQstUU90TF9MT2M0MLIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELdE5McF9KVmlwb1GCAQtuX21WSzQ5aFhCMIIBC05MQ3pwUFJDYzdVggELdkxvM0Y2MXZVLXOCAQt6Q1NOa0d6UFFrb4IBC2lXRE5xVHRhUFdFggELcU01MmFDQVBRYW-CAQs1amE3Z2oxUkdud4IBC0JCSGM3a1FfMlRFggELVnZzLTZJZGRWT3OCAQtua21IcXMxSV96MIIBC09Gb044OG1VWHFRggELaGVQYjAwQ3F2UDCCAQtGaWZkclJTRm9rc4IBCzlDaVFJY01VNFNvggELd29Zd2UxRURPY2uCAQtiZjg0dzU4dlBRY4IBC1VzZGVkRm9UQTY4ggELbjM0WUxFTmxibHOCAQstUU90TF9MT2M0MLIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 18:35:41 UTC"
+}

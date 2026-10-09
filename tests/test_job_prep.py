@@ -65,6 +65,13 @@ class RevisionVideoTests(unittest.TestCase):
         self.assertEqual(select_revision_videos(results[1:2], "Excel"), [])
         self.assertEqual(select_revision_videos(results[2:4], "Python"), [])
 
+    def test_school_literature_and_professional_exam_classes_are_not_revision(self):
+        results = [video("\"Tally's Blood\" Overview | Ann Marie Di Mambro | English Revision", "18:00"),
+                   video("GST Revision Class - 03 | Taxable Person | CA CMA CS Final", "13:00"),
+                   video("Revision of GST An Introduction", "11:00")]
+        self.assertEqual(select_revision_videos(results[:1], "Tally"), [])
+        self.assertEqual([item["title"] for item in select_revision_videos(results, "GST")], ["Revision of GST An Introduction"])
+
     def test_language_filter_uses_title_and_channel(self):
         results = [video("SQL revision in Tamil", "10:00"), video("SQL quick revision", "10:00", "Telugu Tech"),
                    video("SQL crash course", "10:00")]

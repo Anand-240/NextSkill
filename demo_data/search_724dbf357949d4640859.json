@@ -1,0 +1,446 @@
+{
+  "search_metadata": {
+    "id": "6ac933f806ca7f997e2cf8f6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/o3mAiALWr9cum0NSu4bI2bhbKZVeFKPibEjwuhTQE68/6ac933f806ca7f997e2cf8f6.json",
+    "markdown_endpoint": "https://serpapi.com/searches/o3mAiALWr9cum0NSu4bI2bhbKZVeFKPibEjwuhTQE68/6ac933f806ca7f997e2cf8f6.md",
+    "created_at": "2026-10-09 18:35:36 UTC",
+    "processed_at": "2026-10-09 18:35:36 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=React+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/o3mAiALWr9cum0NSu4bI2bhbKZVeFKPibEjwuhTQE68/6ac933f806ca7f997e2cf8f6.html",
+    "total_time_taken": 4.0
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "React revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 2255633,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Every React Concept Explained in 12 Minutes",
+      "link": "https://www.youtube.com/watch?v=wIyHSOugGGw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wIyHSOugGGw",
+      "video_id": "wIyHSOugGGw",
+      "channel": {
+        "name": "Code Bootcamp",
+        "link": "https://www.youtube.com/@TheCodeBootcamp",
+        "thumbnail": "https://yt3.ggpht.com/f6JRugd0pxGhDtbPy8TZXpGsTMn3oWX3k2_uxmwNv0TGEAumkezVGISaIQOHTo3cP5iOwXbjfw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1888775,
+      "length": "11:53",
+      "description": "My React course: https://reactbootcamp.dev Chapters 0:00 - Intro 0:11 - Components 0:29 - JSX 1:02 - Curly Braces 1:29 ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wIyHSOugGGw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-VFABDYtJgeNddxhu-cEuGOcHUQ",
+        "rich": "https://i.ytimg.com/an_webp/wIyHSOugGGw/mqdefault_6s.webp?du=3000&sqp=CJjapNYG&rs=AOn4CLAVnsk8FjRYlEcHLBerDk4uZNST-Q"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "React JS Explained In 10 Minutes",
+      "link": "https://www.youtube.com/watch?v=s2skans2dP4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=s2skans2dP4",
+      "video_id": "s2skans2dP4",
+      "channel": {
+        "name": "Dennis Ivy",
+        "link": "https://www.youtube.com/@DennisIvy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lG_SmL2Lu2Y6RK47pciKeQ_h3KbNANRuicbm-imxKYl5c=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 900961,
+      "length": "10:00",
+      "description": "A list of the core concepts every React developer should have a solid grasp on. React Course: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/s2skans2dP4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxoYMOwhTpXgXkeuZWkatGdGgYlw",
+        "rich": "https://i.ytimg.com/an_webp/s2skans2dP4/mqdefault_6s.webp?du=3000&sqp=CIa7pNYG&rs=AOn4CLBQM-U9ZSnwbK1FRs4C8ggGML0vBw"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Every React Concept Explained in 15 Minutes",
+      "link": "https://www.youtube.com/watch?v=r_5JySk9fzg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r_5JySk9fzg",
+      "video_id": "r_5JySk9fzg",
+      "channel": {
+        "name": "Time To Program",
+        "link": "https://www.youtube.com/@timetoprogram-yt",
+        "thumbnail": "https://yt3.ggpht.com/A7fBSlhKpgWNtEqoHpXQA1H_oOG24hzHprxWBTkG4BEu9kInRbxuaPusmqxLbB8mxGLiEWD9zw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 19689,
+      "length": "15:25",
+      "description": "Every core React concept explained clearly in 20 minutes. Not just what they are, but why they exist. By the end of this video, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/r_5JySk9fzg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4gqM_wwFCThAQUNBsx9udCU0fWw"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "All The JavaScript You Need BEFORE React",
+      "link": "https://www.youtube.com/watch?v=bCkfU_wHPcY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bCkfU_wHPcY",
+      "video_id": "bCkfU_wHPcY",
+      "channel": {
+        "name": "Coding2GO",
+        "link": "https://www.youtube.com/@coding2go",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 200479,
+      "length": "6:38",
+      "description": "If you're about to start React, this video shows the exact JavaScript you should know before learning react.js We'll cover the core ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bCkfU_wHPcY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcO4Si71diIGj0tifEAdMLjg2EPg",
+        "rich": "https://i.ytimg.com/an_webp/bCkfU_wHPcY/mqdefault_6s.webp?du=3000&sqp=CKDJpNYG&rs=AOn4CLBP953iW8FZB2T1OhW7Tn9HzYzX3Q"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "ALL React Hooks Explained in 12 Minutes",
+      "link": "https://www.youtube.com/watch?v=LOH1l-MP_9k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LOH1l-MP_9k",
+      "video_id": "LOH1l-MP_9k",
+      "channel": {
+        "name": "Code Bootcamp",
+        "link": "https://www.youtube.com/@TheCodeBootcamp",
+        "thumbnail": "https://yt3.ggpht.com/f6JRugd0pxGhDtbPy8TZXpGsTMn3oWX3k2_uxmwNv0TGEAumkezVGISaIQOHTo3cP5iOwXbjfw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 447227,
+      "length": "12:21",
+      "description": "My React course: https://reactbootcamp.dev Chapters 0:00 - Intro 0:32 - Map of Hooks 1:02 - useState 2:14 - useReducer 3:15 ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LOH1l-MP_9k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2unxC1pDgaV1gQZ_J96f9W7EViQ",
+        "rich": "https://i.ytimg.com/an_webp/LOH1l-MP_9k/mqdefault_6s.webp?du=3000&sqp=CPvipNYG&rs=AOn4CLBxvgw0HJzMpdZpwdOSoOMTc9MX0g"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "7 React Lessons I Wish I Knew Earlier",
+      "link": "https://www.youtube.com/watch?v=4AXQgOcL1mo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4AXQgOcL1mo",
+      "video_id": "4AXQgOcL1mo",
+      "channel": {
+        "name": "Code Bootcamp",
+        "link": "https://www.youtube.com/@TheCodeBootcamp",
+        "thumbnail": "https://yt3.ggpht.com/f6JRugd0pxGhDtbPy8TZXpGsTMn3oWX3k2_uxmwNv0TGEAumkezVGISaIQOHTo3cP5iOwXbjfw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 214385,
+      "length": "7:30",
+      "description": "Join the Bootcamp: https://reactbootcamp.dev Chapters: 0:00 - React State Must Be Immutable 1:26 - Don't Use State for ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/4AXQgOcL1mo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAm3cgrERRCvxgaZkcCmi7eDWxyw",
+        "rich": "https://i.ytimg.com/an_webp/4AXQgOcL1mo/mqdefault_6s.webp?du=3000&sqp=CPrapNYG&rs=AOn4CLDGspkISMzAY4TGjcUD-JqhQJUoPQ"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Every React 19 Feature Explained in 8 Minutes",
+      "link": "https://www.youtube.com/watch?v=2NPIYnY3ilo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2NPIYnY3ilo",
+      "video_id": "2NPIYnY3ilo",
+      "channel": {
+        "name": "Code Bootcamp",
+        "link": "https://www.youtube.com/@TheCodeBootcamp",
+        "thumbnail": "https://yt3.ggpht.com/f6JRugd0pxGhDtbPy8TZXpGsTMn3oWX3k2_uxmwNv0TGEAumkezVGISaIQOHTo3cP5iOwXbjfw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 238234,
+      "length": "7:35",
+      "description": "Grab the React 19 Guide: https://reactbootcamp.dev Chapters 0:00 - Intro 0:26 - How to use React 19 0:38 - React compiler 0:58 ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/2NPIYnY3ilo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsAJFqAJ5lPMq3GasM59fvKqlcCA",
+        "rich": "https://i.ytimg.com/an_webp/2NPIYnY3ilo/mqdefault_6s.webp?du=3000&sqp=CJaypNYG&rs=AOn4CLDi62ok5HM67aQtwDCoShmVeBXp4w"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "HARD React Interview Questions (3 patterns)",
+      "link": "https://www.youtube.com/watch?v=Zpvzv8Uma8Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Zpvzv8Uma8Q",
+      "video_id": "Zpvzv8Uma8Q",
+      "channel": {
+        "name": "Peter Elbaum",
+        "link": "https://www.youtube.com/@PeterElbaum",
+        "thumbnail": "https://yt3.ggpht.com/fS7XkrmQ8_29RrnN4M30DmjtiV6UEvoOPpaqKhZ6v4HwbLHmuEaLc-S1w9gInX8ROHC9d_jImw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 178009,
+      "length": "6:10",
+      "description": "Maybe you've been doing React for a few years and are ready for a senior role. But you wonder: what'll be asked in an advanced ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Zpvzv8Uma8Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCQo9eyzUNjk9mix8UBGOcy7RUNw",
+        "rich": "https://i.ytimg.com/an_webp/Zpvzv8Uma8Q/mqdefault_6s.webp?du=3000&sqp=CPDHpNYG&rs=AOn4CLBBEqGW6OfafiPIMmnou4J8D_hcHQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "ReactJS Crash Course | All Important Concepts Explained in 15 Minutes 🚀",
+      "link": "https://www.youtube.com/watch?v=3hjsM1hBa9M",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3hjsM1hBa9M",
+      "video_id": "3hjsM1hBa9M",
+      "channel": {
+        "name": "hasaandotdev",
+        "link": "https://www.youtube.com/@hasaandotdev",
+        "thumbnail": "https://yt3.ggpht.com/UPylPHe7RQq-AFqLnwvTEzamT0qQxuTSpNN_OLDt_C2b55CL4i9hAG5tJtjV1QZlEETd4mYj9A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 2463,
+      "length": "17:38",
+      "description": "REACTJS Crash Course for beginners and those who want to refresh it soon. \nDo let me know your suggestions in the comments.\n\nI ...",
+      "extensions": [
+        "Intermediate"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3hjsM1hBa9M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcKvuOsH5NHmCEc6aFs0pdLE_Y-w",
+        "rich": "https://i.ytimg.com/an_webp/3hjsM1hBa9M/mqdefault_6s.webp?du=3000&sqp=CPmspNYG&rs=AOn4CLDKSDWF8mafvSnRk03bC_7oisQ1cA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "ALL 24 React Native Components Explained In Less Than 9 Minutes",
+      "link": "https://www.youtube.com/watch?v=-d3ti_YW-OM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-d3ti_YW-OM",
+      "video_id": "-d3ti_YW-OM",
+      "channel": {
+        "name": "Jimmy Cook",
+        "link": "https://www.youtube.com/@yim",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ltv3Ruks6aG_hEfyuaxAflD-VLlh3Csqa2phLHK_PvgaU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 90489,
+      "length": "8:49",
+      "description": "reactnative #react #javascript Check out https://reactnativejobs.com if you are looking for a React Native job or looking to hire ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-d3ti_YW-OM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtXG4qNhm9E6VejunYeKjK2YGvNg",
+        "rich": "https://i.ytimg.com/an_webp/-d3ti_YW-OM/mqdefault_6s.webp?du=3000&sqp=CL3IpNYG&rs=AOn4CLChN8AVpr_HgZTtKdakjSV4E0c6Bg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "10 React Hooks Explained // Plus Build your own from Scratch",
+      "link": "https://www.youtube.com/watch?v=TNhaISOUy6Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TNhaISOUy6Q",
+      "video_id": "TNhaISOUy6Q",
+      "channel": {
+        "name": "Fireship",
+        "link": "https://www.youtube.com/@Fireship",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1616047,
+      "length": "13:15",
+      "description": "React hooks provide a highly-efficient was to tap into framework features and organize reactive logic. Learn how use every built-in ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TNhaISOUy6Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoSjX5AM3m1mnUmofTKPBoxUWUxQ",
+        "rich": "https://i.ytimg.com/an_webp/TNhaISOUy6Q/mqdefault_6s.webp?du=3000&sqp=CKTApNYG&rs=AOn4CLAbcL8oG98zJHLsfCPsvXBOATK2sA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "ReactJS Complete Fast Revision in 6 Minutes",
+      "link": "https://www.youtube.com/watch?v=gr1-A5yn61g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gr1-A5yn61g",
+      "video_id": "gr1-A5yn61g",
+      "channel": {
+        "name": "InfoSparks IT Solutions",
+        "link": "https://www.youtube.com/@InfoSparksITSolutions",
+        "thumbnail": "https://yt3.ggpht.com/F2s8TSYe_5_r1CTTGA2eZhmr9WHUf--GqLr6sS2xlSLfVPJAR5u7EHxPbPRmi21_Nwdl0CoNRA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 11,
+      "length": "5:56",
+      "description": "In this video, you'll revise all the important ReactJS concepts quickly and easily. Whether you're preparing for interviews, exams, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gr1-A5yn61g/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIFMofzAP&rs=AOn4CLCAZ0_nwnPngPRbBSODaKJUgvahvw",
+        "rich": "https://i.ytimg.com/an_webp/gr1-A5yn61g/mqdefault_6s.webp?du=3000&sqp=CIDMpNYG&rs=AOn4CLDQovYNWYZArIRHuj0pRmgUExsjIA"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Full React Tutorial #27 - Controlled Inputs (forms)",
+      "link": "https://www.youtube.com/watch?v=IkMND33x0qQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IkMND33x0qQ",
+      "video_id": "IkMND33x0qQ",
+      "channel": {
+        "name": "Net Ninja",
+        "link": "https://www.youtube.com/@NetNinja",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mk2Ex-8sW03SBlBX7D1EC5skH0kv9rS3rU9IXq2I-q2Zg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 333057,
+      "length": "9:27",
+      "description": "Hey gang, in this React tutorial we'll see how to use input fields & track what a user types into them, using controlled inputs.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/IkMND33x0qQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRrcsLCJrPorb4xOTRIB8SkAl6-w",
+        "rich": "https://i.ytimg.com/an_webp/IkMND33x0qQ/mqdefault_6s.webp?du=3000&sqp=CNDgpNYG&rs=AOn4CLDUAGkgARcYSpHOFQM9jezt-GakLQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "What is React JS? How does React JS Work - Features of React Js #1",
+      "link": "https://www.youtube.com/watch?v=LX4JUscM9Sk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LX4JUscM9Sk",
+      "video_id": "LX4JUscM9Sk",
+      "channel": {
+        "name": "WsCube Tech",
+        "link": "https://www.youtube.com/@wscubetech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4FfycrkxlH3gF9HMpPqAmChY3kIH5gWdVNuYjqBGd5j0SpF-ALs6sVSfCQ-5qPyZYgJ79H0QKfA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 210701,
+      "length": "10:18",
+      "description": "In this video, We are explaining What is React JS? Introduction React Js. Please do watch the complete video for in-depth ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LX4JUscM9Sk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo8Re6XJcP5GSipN0y7qFgGlMyrw",
+        "rich": "https://i.ytimg.com/an_webp/LX4JUscM9Sk/mqdefault_6s.webp?du=3000&sqp=CJXipNYG&rs=AOn4CLDejwWFQtPSQU5SLHvrNKCeSRwCOA"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "week0 - revision of c and react",
+      "link": "https://www.youtube.com/watch?v=C7lm1x5GppI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=C7lm1x5GppI",
+      "video_id": "C7lm1x5GppI",
+      "channel": {
+        "name": "rivr",
+        "link": "https://www.youtube.com/@rivr-theJourney",
+        "thumbnail": "https://yt3.ggpht.com/ahwOZEIBychMIgr69-1Qm7rZZU4SgdmmtaU3J2QmKu3ZtDs2FEgsLKbZSkAdH8RCo0k4MZtQwBw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 13,
+      "length": "8:00",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/C7lm1x5GppI/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAOzKrlhIHKtA8HVTycyU-HxUmtqQ",
+        "rich": "https://i.ytimg.com/an_webp/C7lm1x5GppI/mqdefault_6s.webp?du=3000&sqp=CJSupNYG&rs=AOn4CLCtZDw7OvTwS700UVOdRSPySzg-GA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "ReactJS Tutorial - 12 - Destructuring props and state",
+      "link": "https://www.youtube.com/watch?v=5_PdMS9CLLI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5_PdMS9CLLI",
+      "video_id": "5_PdMS9CLLI",
+      "channel": {
+        "name": "Codevolution",
+        "link": "https://www.youtube.com/@Codevolution",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/CZz3YkQI3pkX-F9yoNrKG1KDWWtcas4jXPcZ98ldQx6T-dGdo1t30kKKXHpZ4k4tjfEY4pskoQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 600981,
+      "length": "4:45",
+      "description": "Support UPI - https://support.codevolution.dev/ Support PayPal - https://www.paypal.me/Codevolution Github ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5_PdMS9CLLI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBord5Ok8KZew7pdsr5B0nqXdiE9Q",
+        "rich": "https://i.ytimg.com/an_webp/5_PdMS9CLLI/mqdefault_6s.webp?du=3000&sqp=COrjpNYG&rs=AOn4CLDCm0iVfqX_klQRs7Xas90kbpjzVw"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "02.1 - React JSX and Component revision",
+      "link": "https://www.youtube.com/watch?v=owNyA1er5SA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=owNyA1er5SA",
+      "video_id": "owNyA1er5SA",
+      "channel": {
+        "name": "Washera Academy",
+        "link": "https://www.youtube.com/@WasheraAcademy",
+        "thumbnail": "https://yt3.ggpht.com/x-ygzbgZ4hWvJ-AaiQn1i9Ho_VWkM4jI19Ck-J6QoBcHcqVuqwoinM_aYNc-eEKz2JsLl75kog=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 443,
+      "length": "5:07",
+      "description": "Welcome everybody today is the second day or the second week of the react training and we will start by revising what we have ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/owNyA1er5SA/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_giAAtAFigIMCAAQARhOIFMoZTAP&rs=AOn4CLBnek_m34-fL_rTbMsqcBZw61Sxcw",
+        "rich": "https://i.ytimg.com/an_webp/owNyA1er5SA/mqdefault_6s.webp?du=3000&sqp=CODkpNYG&rs=AOn4CLBGuE5LUlEiwJMt2dp-X6CHOIeOrA"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "The Aftons (+ Cassidy) react to Revision",
+      "link": "https://www.youtube.com/watch?v=fytNQh5i5uo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fytNQh5i5uo",
+      "video_id": "fytNQh5i5uo",
+      "channel": {
+        "name": "HollowsGlitch",
+        "link": "https://www.youtube.com/@HollowsGlitch",
+        "thumbnail": "https://yt3.ggpht.com/zIMI8-0EUqXzqr7TdcYEeVKEbRcP9ODnnAHe7Er8JP7ZJVC2o6VIeY8GQn5kimhGDaAZvTpDmA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 62671,
+      "length": "4:45",
+      "description": "I do not own the song/animation. The song “Revision” belongs to Scraton and the animation is a collaboration which belongs to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fytNQh5i5uo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwH1g_yu-wep9CGQi4tJSk2y8Hyg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "The Afton Family Reacts To: REVISION | FNaF | Gacha",
+      "link": "https://www.youtube.com/watch?v=qBShfN7VCnU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qBShfN7VCnU",
+      "video_id": "qBShfN7VCnU",
+      "channel": {
+        "name": "James _The_ Gacha Alpha",
+        "link": "https://www.youtube.com/@JamesTheGachaAlpha",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/zVXc1n88t9xQbN10j09aMFcMIbBZEshCtxUROA4rpQTH3IJ01Loho5RQhYkogxkNxXmxWoQS=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 38378,
+      "length": "5:17",
+      "description": "The Aftons Take the Spotlight Once Again! This time, the infamous Afton family reacts to the dark and emotional Five Nights at ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qBShfN7VCnU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyZ_A-EA2yaK4GxL5dKJznKwQ1RQ",
+        "rich": "https://i.ytimg.com/an_webp/qBShfN7VCnU/mqdefault_6s.webp?du=3000&sqp=CJu6pNYG&rs=AOn4CLDhKfG3bLBKh_x4pa2PIe1thBLOQQ"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "ReactJS Full Notes PDF 🔥 | Unit 1–4 Complete | Last Day Revision | Exam Ready",
+      "link": "https://www.youtube.com/watch?v=atJGmFJomQc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=atJGmFJomQc",
+      "video_id": "atJGmFJomQc",
+      "channel": {
+        "name": "Happy Times ",
+        "link": "https://www.youtube.com/@HappyTimes0002",
+        "thumbnail": "https://yt3.ggpht.com/FEREmcFCH4mvdtCwZBHWCzDaLuBdUTwcnM75cNxz8mqB2NoyUTJpAXi0G_mE2XhXhuMskp84NA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 2,
+      "length": "11:29",
+      "description": "ReactJS Complete Notes PDF 2025 | Full Syllabus | Last Day Revision + Important Topics ** अगर आप **ReactJS (Unit 1–4)** ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/atJGmFJomQc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy2HROolWjFmreqWSu8R62Vpv3Dg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=React+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=React%20revision&sp=EgIYA0gUggELd0l5SFNPdWdHR3eCAQtzMnNrYW5zMmRQNIIBC3JfNUp5U2s5ZnpnggELYkNrZlVfd0hQY1mCAQtMT0gxbC1NUF85a4IBCzRBWFFnT2NMMW1vggELMk5QSVluWTNpbG-CAQtacHZ6djhVbWE4UYIBCzNoanNNMWhCYTlNggELLWQzdGlfWVctT02CAQtUTmhhSVNPVXk2UYIBC2dyMS1BNXluNjFnggELSWtNTkQzM3gwcVGCAQtMWDRKVXNjTTlTa4IBC0M3bG0xeDVHcHBJggELNV9QZE1TOUNMTEmCAQtvd055QTFlcjVTQYIBC2Z5dE5RaDVpNXVvggELcUJTaGZON1ZDblWCAQthdEpHbUZKb21RY7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELd0l5SFNPdWdHR3eCAQtzMnNrYW5zMmRQNIIBC3JfNUp5U2s5ZnpnggELYkNrZlVfd0hQY1mCAQtMT0gxbC1NUF85a4IBCzRBWFFnT2NMMW1vggELMk5QSVluWTNpbG-CAQtacHZ6djhVbWE4UYIBCzNoanNNMWhCYTlNggELLWQzdGlfWVctT02CAQtUTmhhSVNPVXk2UYIBC2dyMS1BNXluNjFnggELSWtNTkQzM3gwcVGCAQtMWDRKVXNjTTlTa4IBC0M3bG0xeDVHcHBJggELNV9QZE1TOUNMTEmCAQtvd055QTFlcjVTQYIBC2Z5dE5RaDVpNXVvggELcUJTaGZON1ZDblWCAQthdEpHbUZKb21RY7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=React+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=React+revision&sp=EgIYA0gUggELd0l5SFNPdWdHR3eCAQtzMnNrYW5zMmRQNIIBC3JfNUp5U2s5ZnpnggELYkNrZlVfd0hQY1mCAQtMT0gxbC1NUF85a4IBCzRBWFFnT2NMMW1vggELMk5QSVluWTNpbG-CAQtacHZ6djhVbWE4UYIBCzNoanNNMWhCYTlNggELLWQzdGlfWVctT02CAQtUTmhhSVNPVXk2UYIBC2dyMS1BNXluNjFnggELSWtNTkQzM3gwcVGCAQtMWDRKVXNjTTlTa4IBC0M3bG0xeDVHcHBJggELNV9QZE1TOUNMTEmCAQtvd055QTFlcjVTQYIBC2Z5dE5RaDVpNXVvggELcUJTaGZON1ZDblWCAQthdEpHbUZKb21RY7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELd0l5SFNPdWdHR3eCAQtzMnNrYW5zMmRQNIIBC3JfNUp5U2s5ZnpnggELYkNrZlVfd0hQY1mCAQtMT0gxbC1NUF85a4IBCzRBWFFnT2NMMW1vggELMk5QSVluWTNpbG-CAQtacHZ6djhVbWE4UYIBCzNoanNNMWhCYTlNggELLWQzdGlfWVctT02CAQtUTmhhSVNPVXk2UYIBC2dyMS1BNXluNjFnggELSWtNTkQzM3gwcVGCAQtMWDRKVXNjTTlTa4IBC0M3bG0xeDVHcHBJggELNV9QZE1TOUNMTEmCAQtvd055QTFlcjVTQYIBC2Z5dE5RaDVpNXVvggELcUJTaGZON1ZDblWCAQthdEpHbUZKb21RY7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 18:35:36 UTC"
+}

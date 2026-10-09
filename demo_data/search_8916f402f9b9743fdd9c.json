@@ -1,0 +1,548 @@
+{
+  "search_metadata": {
+    "id": "6ac933ed8681809e55b17dac",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/oQHFiGWK6ZiiG7ly-xHWj193GsiYOxAOyLZC9dXIZi0/6ac933ed8681809e55b17dac.json",
+    "markdown_endpoint": "https://serpapi.com/searches/oQHFiGWK6ZiiG7ly-xHWj193GsiYOxAOyLZC9dXIZi0/6ac933ed8681809e55b17dac.md",
+    "created_at": "2026-10-09 18:35:25 UTC",
+    "processed_at": "2026-10-09 18:35:25 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=SQL+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/oQHFiGWK6ZiiG7ly-xHWj193GsiYOxAOyLZC9dXIZi0/6ac933ed8681809e55b17dac.html",
+    "total_time_taken": 2.96
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "SQL revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 792949,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Try Alteryx One for AI-ready data and automation",
+      "link": "https://www.youtube.com/watch?v=y3PsLGF85-U",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=y3PsLGF85-U",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CvtnS7jPJaraZCJ6wy78PkfiEsAbkqK_ViQG7-I3UrBawkB8QASAAYMmm84zkpMATggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAeqiuf8DqAMEyAMKqgSWAk_QtnJH_sbtqKzF8hJ_Ubs3ZaOEVEMl6QmPE8XOUJTd9Py0mef7VZqesxy03OwHVqHIqJ1mo0496sKG5CUOAreDzF4MvNOkxohGBIwg-Tn5PRQ0ErQmbLNcvVCBxuTk41qZ4V9Wq3G6Mg3lTafc6WFNOY5uGhAt09w81weXfrtpAfJ4sKNCtt0rzaNSdZSEVFVqn-RuGBipBlW5Csd3hyXYBWbECuJ1vvNI1RDJS4U2LSeJssU8E7N4nwIJ0z9TXDmR4ENKPjy6yrZWfCes4g3EaX6X5TbNsJIjX4hPMGxqbLXL_7MnIQjkW6_ujQip6Vn1SH2m2_C3CStB2cJPUy3GbOXLgh3aqgqxk4k5QeT7Hs2NK6oSiAX-8-ytWpIFBggTeL7YCaAGoQGAB_7cRpAHBKgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3kzUHNMR0Y4NS1VqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYmI-R5cmtlwNgAZoJKmh0dHBzOi8vd3d3LmFsdGVyeXguY29tL3RyaWFsL2ZyZWUtMzAtZGF5c7EJPxN-onOOGtHICRfICY8ByAnCAboLQQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEGgAIBiAIGugMJdmljYmZ6YWNh0AsS4AsB0gwCEAHaDCUKChCAw_qxl9PE1wsSAgEDGg0Y_vPsrVog_eK3h-YFQAFKAhAfmg0BEqoNAlVTyA0B0g3OA2h0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L3NlYXJjaGFkcy9saW5rL2NsaWNrP2xpZD01ODcwMDAwOTE0MDc2NDExOSZkc19hX2NpZD0xNTg3ODImZHNfYV9jYWlkPTI0MjU1MzQ3MTk4JmRzX2FfYWdpZD0xOTkxOTQ3MDIyMDUmZHNfYV9maWlkPSZkc19hX2xpZD1hdWQtMjQ5NzY5MjExMjIzOSZkc19hX2V4dGlkPSYmZHNfZV9hZGlkPTgyNzIxODE0OTA2NSZkc19lX21hdGNodHlwZT0mZHNfZV9kZXZpY2U9YyZkc19lX25ldHdvcms9JiZkc191cmxfdj0yJmRzX2Rlc3RfdXJsPWh0dHBzOi8vd3d3LmFsdGVyeXguY29tL3RyaWFsL2ZyZWUtMzAtZGF5cz91dG1fY2FtcGFpZ249Z2dfZGVtZ2VuX25hX2VuX2RfbG9va2FsaWtlJnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09JnV0bV9jb250ZW50PSZ1dG1fdGVybT0mZ2Nsc3JjPWF3LmRzJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDI1NTM0NzE5OLgT____________AYgUAbAUA8AVgYCAQNAVAdgVAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqReI2OXjFScXbboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMItsiR5cmtlwMVHtjyAR0RPAFmEAEYASAAEgK9S_D_BwE&num=1&cid=CAASwwHkaFzuoUNGnvAgoJ1Z51HBI6YVKH6QDLX8lSans0EbpnzvuQuSUAqyJA8DsFIW85v9hE7mHFMmd9a16sRggVjn9nzwo_KCsBoj-1m-GZNdFcofqBzP6ogqDSs8nZra9xCN74ml2QhldXSxhAedCt-4zpm6k326GqMvhZDFZvanpsUQf4pulq4DRW22cltGn2HI3tUcgO4v_Gky_iJCG9ZVM21ZFBWCGIudXh0e_4LnD3bM0XM5iy84oDBbpcWXrDmjjdI&ad_cpn=%5BCPN%5D&sig=AOD64_1LqXC0t3_k691CXk9cig2WKcbBrA&ctype=110&video_id=y3PsLGF85-U&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Alteryx",
+        "thumbnail": "https://yt3.ggpht.com/proxy/TxDEJQTLVQnC6LJSENxcoY0CddEMC7z0ns5Vyb0OjL5UMhLoLyuT7ILURnMKkiCb3kS3lku6FRepjJ7ZZfz_W-QQr1LMpw-q2zNgIaxfVnVv7J2Cf59LcsptUM7fav4Duu0fVkOz686TSzrqYjVAqQrkrp3loci16Ub7ar-DjfUL0t2uDJVR1ZDU0OfjeE72iKQLhvZ5uHMfwNTyIp2oHmFAb1lxVEoDoTWPBVzyw4y2i5QjPf_Fj6xDs4hlclT0T3ef=w68-h68-nd"
+      },
+      "description": "Start Your Free Alteryx One Trial Today - Alteryx",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/y3PsLGF85-U/hq720.jpg?sqp=-oaymwFBCOgCEMoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAsIvDiorWt-B642u7JZWiGYtI1ww"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "BlazeMeter: One Platform for Every Test",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C2X6R7jPJaraZCJ6wy78PkfiEsAbhx4n-iQHp99PmuBWwkB8QAiAAYMmm84zkpMATggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAdWG64EDqAMEyAMKqgSYAk_QtnJH_sbtqKzF8hJ_Ubs3ZaOEVEMl6QmPE8XOUJTd9Py0mef7VZqesxy03OwHVqHIqJ1mo0496sKG5CUOAreDzF4MvNOkxohGBIwg-Tn5PRQ0ErQmbLNcvVCBxuTk41qZ4V9Wq3G6Mg3lTafc6WFNOY5uGhAt09w81weXfrtpAfJ4sKNCtt0rzaNSdZSEVFVqn-RuGBipBlW5Csd3hyXYBWbECuJ1vvNI1RDJS4U2LSeJssU8E7N4nwIJ0z9TXDmR4ENKPjy6yrZWfCes4g3EaX6X5TbNsKkoX4hPMGxiFuz0w7MnOSNe_Wrk1xZdaoVnQMWkNhTQA4qSbThDCrotV-_CoBHCYfa1iB7Yc8b1BlFvROKz6OeIBejD6-lYkgUHCBN4pvOzfqAGboAHk_mUfpAHBKgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYmI-R5cmtlwNgAZoJKWh0dHBzOi8vd3d3LmJsYXplbWV0ZXIuY29tL3AvYnJhbmRlZC1kZW1vsQnjXd65pcuY2sgJAMgJigK6C0EIAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDCXZpY2JmemFjYdALEuALAdIMAhAB2gwlCgoQoOKA9OHotrsqEgIBAxoNGOjD6-lYIKr-1r_hBUABSgIQH5oNARKqDQJVU8gNAdINsANodHRwczovL21vbml0b3IubHVuaW8uYWkvdjMuMC90ZW1wbGF0ZT9hY2NpZD0xNzA3MyZ1cmxkZWNvZGU9MSZrdz0mbXQ9Jm53PSZjcG49MjM4NDQyODI4NTYmZGV2aT1jJmRldm09JmxvY3A9OTAyNjgxMiZsb2NpPTkwMjY4MTImcGw9JmNyPTgwODUxODQ1NDI2MCZhZHA9JnNhZHQ9JnVybD1odHRwczovL3d3dy5ibGF6ZW1ldGVyLmNvbS9wL2JyYW5kZWQtZGVtbyUzRnV0bV9zb3VyY2UlM0Rnb29nbGVhZHdvcmRzJTI2dXRtX21lZGl1bSUzRCUyNnV0bV9jYW1wYWlnbiUzREJMWi1BSS1HQTQtQXVkaWVuY2UtUmV0YXJnZXRpbmctRGVtYW5kR2VuLU5BJTI2dXRtX2FkZ3JvdXAlM0RBSS1HQTQtQXVkaWVuY2UtUmV0YXJnZXRpbmctTkEtRGVtYW5kR2VuJTI2dXRtX3Rlcm0lM0QlMjZnYWRfc291cmNlJTNEMiUyNmdhZF9jYW1wYWlnbmlkJTNEMjM4NDQyODI4NTa4E____________wGIFAGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXcKuvfoWMe7-6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMItsiR5cmtlwMVHtjyAR0RPAFmEAEYAiAAEgLyefD_BwE&num=2&cid=CAASwwHkaFzuoUNGnvAgoJ1Z51HBI6YVKH6QDLX8lSans0EbpnzvuQuSUAqyJA8DsFIW85v9hE7mHFMmd9a16sRggVjn9nzwo_KCsBoj-1m-GZNdFcofqBzP6ogqDSs8nZra9xCN74ml2QhldXSxhAedCt-4zpm6k326GqMvhZDFZvanpsUQf4pulq4DRW22cltGn2HI3tUcgO4v_Gky_iJCG9ZVM21ZFBWCGIudXh0e_4LnD3bM0XM5iy84oDBbpcWXrDmjjdI&sig=AOD64_3XnR3wnHPXF_GTSPfTsKX-9wkPFA&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Perforce BlazeMeter",
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/a-Vtvt2aa54BnvkXS3h1k50SfR-VCcGGARgQFMqyPMVAP0HMWbkUEfI93Z-JY_7XYULQZv-hA0Tl4YQHQQGBjARRUmVV2ezxld1uub4HXZAHeySG8vL3vbyKywPMiwZZn3Q"
+      },
+      "description": "Scale performance testing fast without managing complex infrastructure. Get a demo.",
+      "thumbnail": {
+        "static": "https://lh6.googleusercontent.com/proxy/a-Vtvt2aa54BnvkXS3h1k50SfR-VCcGGARgQFMqyPMVAP0HMWbkUEfI93Z-JY_7XYULQZv-hA0Tl4YQHQQGBjARRUmVV2ezxld1uub4HXZAHeySG8vL3vbyKywPMiwZZn3Q"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Start Your Free 15-Day Trial of Falcon Cloud Security",
+      "link": "https://www.youtube.com/watch?v=Xuthc270xcg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Xuthc270xcg",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CtOnL7jPJaraZCJ6wy78PkfiEsAbv_IeQigHnrrqErRawkB8QAyAAYMmm84zkpMATggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAYS7q_wCqAMEyAMKqgSdAk_QtnJH_sbtqKzF8hJ_Ubs3ZaOEVEMl6QmPE8XOUJTd9Py0mef7VZqesxy03OwHVqHIqJ1mo0496sKG5CUOAreDzF4MvNOkxohGBIwg-Tn5PRQ0ErQmbLNcvVCBxuTk41qZ4V9Wq3G6Mg3lTafc6WFNOY5uGhAt09w81weXfrtpAfJ4sKNCtt0rzaNSdZSEVFVqn-RuGBipBlW5Csd3hyXYBWbECuJ1vvNI1RDJS4U2LSeJssU8E7N4nwIJ0z9TXDmR4ENKPjy6yrZWfCes4g3EaX6X5TbNsIknX4hPMGwnJd283rMnW3U3uWrkNsCwaYVnQN-nqPswNhtrS7EzUrz1ZXwIUPzwRbMXPrsXWV821LJFhUUgNdkJ0w9I24gFhZ3WmViSBQcIE3jEpdo6oAahAYAHnI7tOZAHBKgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC1h1dGhjMjcweGNnqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYmI-R5cmtlwNgAZoJOWh0dHBzOi8vZ28uY3Jvd2RzdHJpa2UuY29tL2NuYXBwLWNsb3VkLXRyaWFsLXJlcXVlc3QuaHRtbLEJ4mMM2qOnEI7ICRfICY8ByAnCAcgJlwKYCwG6C0EIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDCXZpY2JmemFjYdALEtIMAhAB2gwmCgsQsK2khLOc5ZKwARICAQMaDRiFndaZWCDbsZ2k3QVAAUoCEB-aDQESqg0CVVPIDQHSDYwCaHR0cHM6Ly9nby5jcm93ZHN0cmlrZS5jb20vY25hcHAtY2xvdWQtdHJpYWwtcmVxdWVzdC5odG1sP3V0bV9zb3VyY2U9Z29vZyZ1dG1fbWVkaXVtPWRpcyZ1dG1fY2FtcGFpZ249Y2xvZCZ1dG1fdGVybT1kZ2VuX2xhbF9jbG9kJnV0bV9sYW5ndWFnZT1lbi11cyZ1dG1fY29udGVudD1jcndkLXNhaWEtYW1lci11cy1lbi1sYWwtaXRkbS10cmwtZmNsdHItZGdlbl92MV9jMV94LXgtdmlkJmNxX3BsYWM9JmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzY3NjE2MTY2ObgT____________AYgUAbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdm82xUb_6HWboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMItsiR5cmtlwMVHtjyAR0RPAFmEAEYAyAAEgKbUvD_BwE&num=3&cid=CAASwwHkaFzuoUNGnvAgoJ1Z51HBI6YVKH6QDLX8lSans0EbpnzvuQuSUAqyJA8DsFIW85v9hE7mHFMmd9a16sRggVjn9nzwo_KCsBoj-1m-GZNdFcofqBzP6ogqDSs8nZra9xCN74ml2QhldXSxhAedCt-4zpm6k326GqMvhZDFZvanpsUQf4pulq4DRW22cltGn2HI3tUcgO4v_Gky_iJCG9ZVM21ZFBWCGIudXh0e_4LnD3bM0XM5iy84oDBbpcWXrDmjjdI&ad_cpn=%5BCPN%5D&sig=AOD64_37W7GIRlJ9OykMKK442dEwNK_NqQ&ctype=110&video_id=Xuthc270xcg&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "CrowdStrike",
+        "thumbnail": "https://yt3.ggpht.com/proxy/bmixFxC2ECShuGw23OLxhm65CH3xxTFJysOiM58_AIx7C6eOzNmNq-_Oc5nkKNgOCxuF2oMN4EREwuTFmP8Qye7jdJp9VxNglBJKHsoiI2HMg37LnIGichs7etd-KbpPXjheDOhbnfmixbWxxpvkeBOtZn33MLiH8hH-etXrLIy7pRP0oXUjZymqKEd-EK1bJjaeKdmn9ZAP4BxxaJyLnAgFUBTOBsdKYLt8-82Yf2L9zRBT4B2e4vORfsUe-he1rn-tn9c=w68-h68-nd"
+      },
+      "description": "Detect threats across cloud workloads, containers, and control plane activity in seconds.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Xuthc270xcg/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBna31t1RLyMzwdh3HgA587TLv5uQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Build AI Agents You Can Trust With Make",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CVAlB7jPJaraZCJ6wy78PkfiEsAaxmfyOigHTlf_LzRWwkB8QBCAAYMmm84zkpMATggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAfSH-bcoqAMEyAMKqgSaAk_QtnJH_sbtqKzF8hJ_Ubs3ZaOEVEMl6QmPE8XOUJTd9Py0mef7VZqesxy03OwHVqHIqJ1mo0496sKG5CUOAreDzF4MvNOkxohGBIwg-Tn5PRQ0ErQmbLNcvVCBxuTk41qZ4V9Wq3G6Mg3lTafc6WFNOY5uGhAt09w81weXfrtpAfJ4sKNCtt0rzaNSdZSEVFVqn-RuGBipBlW5Csd3hyXYBWbECuJ1vvNI1RDJS4U2LSeJssU8E7N4nwIJ0z9TXDmR4ENKPjy6yrZWfCes4g3EaX6X5TbNsJ8lX4hPMGwjN7bOxrMnOTFtGaQhBVdEYGO3Sl00Hj8zO-D3tC7DKfdWifXjNRvgbe45Ji7z-QjHJF93qV2_wnd_NYgF2oKanFiSBQgIE3im4YCaA6AGboAH9L_JlwOQBwSoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWJiPkeXJrZcDYAGaCSFodHRwczovL3d3dy5tYWtlLmNvbS9lbi9haS1hZ2VudHOxCXk5GHBj7_ESyAkAyAmKApgLAboLQQgDEAUYBCAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIFugMJdmljYmZ6YWNh0AsSogwfYhgKFmNvbS5JbnRlZ3JvbWF0LnNrb3VtYWx4AIgBANIMAhAB2gwlCgoQ0Nft5NekxMdBEgIBAxoNGNqCmpxYIIrh7OvaBUABSgIQH5oNARKqDQJVU8gNAdIN1gFodHRwczovL3d3dy5tYWtlLmNvbS9lbi9haS1hZ2VudHM_dXRtX2NhbXBhaWduPXNzX3BsLWFnZW50c19tb2Zfc2lnbnVwc19kZW1hbmRnZW5fZ29vZ2xlX2NvcmUtYWxsX3Byb3NwZWN0aW5nJnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09Y3BjJnV0bV9jb250ZW50PWxvb2thbGlrZSZ1dG1fdGVybT0mZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNjgxNDY2NzE0uBP___________8BiBQDsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpFw2VKychgEOjuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMItsiR5cmtlwMVHtjyAR0RPAFmEAEYBCAAEgKDxfD_BwE&num=4&cid=CAASwwHkaFzuoUNGnvAgoJ1Z51HBI6YVKH6QDLX8lSans0EbpnzvuQuSUAqyJA8DsFIW85v9hE7mHFMmd9a16sRggVjn9nzwo_KCsBoj-1m-GZNdFcofqBzP6ogqDSs8nZra9xCN74ml2QhldXSxhAedCt-4zpm6k326GqMvhZDFZvanpsUQf4pulq4DRW22cltGn2HI3tUcgO4v_Gky_iJCG9ZVM21ZFBWCGIudXh0e_4LnD3bM0XM5iy84oDBbpcWXrDmjjdI&sig=AOD64_25JNNhw_sgOy-dTG_oQw-wenGc4A&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Make",
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/VtQ-Mc5SBHuosbHABwMFSAv2E7m1y4J9C_I5oZUwfNRqj5OVo3MqfJ9Cx0qmcradHQ0Zss_b9jFrvzO2FcC0JTizFY69Jvo3SgOM1GGea2nMxj3LW722V7qGB0Q8wYa1RA"
+      },
+      "description": "A visual-first AI agent, built for orchestration. Build boldly with Make.",
+      "thumbnail": {
+        "static": "https://lh4.googleusercontent.com/proxy/VtQ-Mc5SBHuosbHABwMFSAv2E7m1y4J9C_I5oZUwfNRqj5OVo3MqfJ9Cx0qmcradHQ0Zss_b9jFrvzO2FcC0JTizFY69Jvo3SgOM1GGea2nMxj3LW722V7qGB0Q8wYa1RA"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Manage AI Agents Seamlessly",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cc8YS7jPJaraZCJ6wy78PkfiEsAbVlorwiAHV1oXWmxawkB8QBSAAYMmm84zkpMATggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAaCgvI8DqQJwo4HhK8eyPqgDBMgDCqoEmQJP0LZyR_7G7aisxfISf1G7N2WjhFRDJekJjxPFzlCU3fT8tJnn-1WanrMctNzsB1ahyKidZqNOPerChuQlDgK3g8xeDLzTpMaIRgSMIPk5-T0UNBK0JmyzXL1Qgcbk5ONameFfVqtxujIN5U2n3OlhTTmObhoQLdPcPNcHl367aQHyeLCjQrbdK82jUnWUhFRVap_kbhgYqQZVuQrHd4cl2AVmxAridb7zSNUQyUuFNi0nibLFPBOzeJ8CCdM_U1w5keBDSj48usq2VnwnrOINxGl-l-U2zbCXIl-ITzBsAzjlucOzJ05vFfNq5AKvF2qFZ0DFpDcUhlyiyXM4US-FLlTvZogzwm3iLawogYHV1wZfeb_w2IBJuIgFq6H45VCSBQcIE3jRv_hwoAZugAebvdpwkAcEqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiYj5Hlya2XA2ABmglaaHR0cHM6Ly9wYWdlLmNhbXVuZGEuY29tL3dwLXdoeS1hZ2VudGljLW9yY2hlc3RyYXRpb24tYmVsb25ncy1pbi1hdXRvbWF0aW9uLXN0cmF0ZWd5LWd1aWRlsQnt4lYkOMsVCMgJAMgJigKYCwG6C0EIAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDCXZpY2JmemFjYdALEtIMAhAB2gwlCgoQwLzfgbHx6LJgEgIBAxoNGKuh-OVQIIy3v4DyBEABSgIQH5oNARKqDQJVU8gNAdINlwJodHRwczovL3BhZ2UuY2FtdW5kYS5jb20vd3Atd2h5LWFnZW50aWMtb3JjaGVzdHJhdGlvbi1iZWxvbmdzLWluLWF1dG9tYXRpb24tc3RyYXRlZ3ktZ3VpZGU_dXRtX3Rlcm09JnV0bV9tZWRpdW09cHBjX3NlYXJjaCZ1dG1fY2FtcGFpZ249R3VpZGUuV2h5QWdlbnRpY1Byb2Nlc3NPcmNoZXN0cmF0aW9uQmVsb25nc0luWW91ckF1dG9tYXRpb25TdHJhdGVneS4yNVExLkVOJnV0bV9zb3VyY2U9ZGVtYW5kX2dlbl9pbWFnZSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjE2ODg2MTkxNzm4E____________wGIFAGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakX14zqmPeP9B-6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMItsiR5cmtlwMVHtjyAR0RPAFmEAEYBSAAEgL4gPD_BwE&num=5&cid=CAASwwHkaFzuoUNGnvAgoJ1Z51HBI6YVKH6QDLX8lSans0EbpnzvuQuSUAqyJA8DsFIW85v9hE7mHFMmd9a16sRggVjn9nzwo_KCsBoj-1m-GZNdFcofqBzP6ogqDSs8nZra9xCN74ml2QhldXSxhAedCt-4zpm6k326GqMvhZDFZvanpsUQf4pulq4DRW22cltGn2HI3tUcgO4v_Gky_iJCG9ZVM21ZFBWCGIudXh0e_4LnD3bM0XM5iy84oDBbpcWXrDmjjdI&sig=AOD64_3ihJ9-VTj2iZ5pFqVICW4hhjDBrg&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Camunda",
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/eYl3iV41taiqFyJoOO9b71-VWqAp27GchWWQecS1UjEU712OGL7ZpzqlNqiWDcP56FJfvigd57WMgyZMhD125aQwpcWKqB5-pPKX038-B1Bj-hoDt8ykqdEA4fXwK4VahuqPNqWl-enBHw"
+      },
+      "description": "Download Transforming Process Orchestration with Agentic AI.",
+      "thumbnail": {
+        "static": "https://lh5.googleusercontent.com/proxy/eYl3iV41taiqFyJoOO9b71-VWqAp27GchWWQecS1UjEU712OGL7ZpzqlNqiWDcP56FJfvigd57WMgyZMhD125aQwpcWKqB5-pPKX038-B1Bj-hoDt8ykqdEA4fXwK4VahuqPNqWl-enBHw"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "Learn Basic SQL in 15 Minutes | Business Intelligence For Beginners | SQL Tutorial For Beginners 1/3",
+      "link": "https://www.youtube.com/watch?v=kbKty5ZVKMY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kbKty5ZVKMY",
+      "video_id": "kbKty5ZVKMY",
+      "channel": {
+        "name": "Adam Finer - Learn BI",
+        "link": "https://www.youtube.com/@LearnBI",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/QzfYVHje5eQrL5AaVd_dSZlM1eP9Stzyd4HcUvBU6Em278seWnQEe74bsZZIQdcYubLEI6zgig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 3569349,
+      "length": "17:40",
+      "description": "Download the SQL tutorial resource pack: Get the SQLite database, Part 1 SQL queries and companion setup guide here: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/kbKty5ZVKMY/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDWsuuG80Pr4Kbno85vDxwEh3ovAA",
+        "rich": "https://i.ytimg.com/an_webp/kbKty5ZVKMY/mqdefault_6s.webp?du=3000&sqp=CKDJpNYG&rs=AOn4CLCMBIEY5sAdqPat8nFl2k1Z3yLq2Q"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Learn 12 Basic SQL Concepts in 15 Minutes (project files included!)",
+      "link": "https://www.youtube.com/watch?v=_vxobA36UN4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_vxobA36UN4",
+      "video_id": "_vxobA36UN4",
+      "channel": {
+        "name": "Maven Analytics",
+        "link": "https://www.youtube.com/@MavenAnalytics",
+        "thumbnail": "https://yt3.ggpht.com/s8DLnIjg5cO39mPfZTNbtc4y1h1miX2V8ZqUB4gvakASUTdo_qFNcCAo5bCHJWL72O6vk0J-ww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 746326,
+      "length": "16:48",
+      "description": "7-day email course to get you started with data analytics: https://mavenanalytics.io/newsletter/still-a-real-career 7-day AI analyst ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_vxobA36UN4/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBRHRq_wVW2OBCMSLIwTAFKu7hC6w",
+        "rich": "https://i.ytimg.com/an_webp/_vxobA36UN4/mqdefault_6s.webp?du=3000&sqp=COiwpNYG&rs=AOn4CLBmodoZ-Nu8JIu3DVbQm1brm2VEIw"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "All SQL Fundamentals Explained in 10 Minutes | Learn SQL Basics for Beginners | SQL Crash Course",
+      "link": "https://www.youtube.com/watch?v=3s0lFtUrhSQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3s0lFtUrhSQ",
+      "video_id": "3s0lFtUrhSQ",
+      "channel": {
+        "name": "Learn with Whiteboard",
+        "link": "https://www.youtube.com/@learnwithwhiteboard",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lribITk49m82pJNGs0J60Zbj1Lwp5rFGtkSOyBtiVhXlo=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 541297,
+      "length": "10:55",
+      "description": "Learn SQL Basics with our SQL Crash Course for Beginners! In this fast-paced and informative video, we'll cover all the essential ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3s0lFtUrhSQ/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAfxTLjLcp4hWqhi7mmCCXd6pqG_Q"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "SQL Window Functions | Clearly Explained | PARTITION BY, ORDER BY, ROW_NUMBER, RANK, DENSE_RANK",
+      "link": "https://www.youtube.com/watch?v=rIcB4zMYMas",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rIcB4zMYMas",
+      "video_id": "rIcB4zMYMas",
+      "channel": {
+        "name": "Maven Analytics",
+        "link": "https://www.youtube.com/@MavenAnalytics",
+        "thumbnail": "https://yt3.ggpht.com/s8DLnIjg5cO39mPfZTNbtc4y1h1miX2V8ZqUB4gvakASUTdo_qFNcCAo5bCHJWL72O6vk0J-ww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 404129,
+      "length": "7:52",
+      "description": "7-day email course to get you started with data analytics: https://mavenanalytics.io/newsletter/still-a-real-career 7-day AI analyst ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rIcB4zMYMas/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCqSjkMbQ41vhpdAHSCNv3h85QMtw",
+        "rich": "https://i.ytimg.com/an_webp/rIcB4zMYMas/mqdefault_6s.webp?du=3000&sqp=CKXXpNYG&rs=AOn4CLC3Vf31m8m3d5ABQJnQDkUhDaxWnA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Learn SQL Basics in Just 15 Minutes!",
+      "link": "https://www.youtube.com/watch?v=wmiDdBG-yP4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wmiDdBG-yP4",
+      "video_id": "wmiDdBG-yP4",
+      "channel": {
+        "name": "Kenji Explains",
+        "link": "https://www.youtube.com/@KenjiExplains",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ya0P7V6hzaGNc1UEkK8u8JR1FuqN_mwUyYpWhWlk5f1SHaEqqqrDbaSOgRJHRldsYT54yQJ5Jg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 298924,
+      "length": "16:57",
+      "description": "Learn SQL basics with this tutorial in just 15 minutes. Take our SQL for Business Analystics Course: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wmiDdBG-yP4/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlVSRVLJCHn8jG8kLQFYmcsjhOgw",
+        "rich": "https://i.ytimg.com/an_webp/wmiDdBG-yP4/mqdefault_6s.webp?du=3000&sqp=CMLCpNYG&rs=AOn4CLAGf1DE-9RopksV9tVOKaTfvVqxwQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Secret To Optimizing SQL Queries - Understand The SQL Execution Order",
+      "link": "https://www.youtube.com/watch?v=BHwzDmr6d7s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BHwzDmr6d7s",
+      "video_id": "BHwzDmr6d7s",
+      "channel": {
+        "name": "ByteByteGo",
+        "link": "https://www.youtube.com/@ByteByteGo",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ZDRUyBUwc2WXZzvNKP9VS9myI6Mg2puQLaWyp4hibRu-owlsasZ3DVNGSQJwzO1IU-tqoMiGgdc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 687633,
+      "length": "5:57",
+      "description": "Get a Free System Design PDF with 158 pages by subscribing to our weekly newsletter: https://bytebytego.ck.page/subscribe ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BHwzDmr6d7s/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDa9bLrpexLp9o9myWV3-e0tiAI9Q",
+        "rich": "https://i.ytimg.com/an_webp/BHwzDmr6d7s/mqdefault_6s.webp?du=3000&sqp=CIfbpNYG&rs=AOn4CLDKawCkwLFXJxG1Gt6_ceS-dzEyfQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "6 SQL Joins you MUST know! (Animated + Practice)",
+      "link": "https://www.youtube.com/watch?v=Yh4CrPHVBdE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Yh4CrPHVBdE",
+      "video_id": "Yh4CrPHVBdE",
+      "channel": {
+        "name": "Anton Putra",
+        "link": "https://www.youtube.com/@AntonPutra",
+        "thumbnail": "https://yt3.ggpht.com/Uke6wNNttpMYbAaK9oCPGTtQuY8dWW3T_6DAiwXpA7LGSvEeunmNSBF0urBoXMaz1uWIPbN4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 641505,
+      "length": "9:47",
+      "description": "UPDATED video - https://youtu.be/9prkapPewGs To practice SQL, run the following commands: docker run --detach --name ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Yh4CrPHVBdE/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCL81lR87jKtWpYxJg_qlFCumPQ-g",
+        "rich": "https://i.ytimg.com/an_webp/Yh4CrPHVBdE/mqdefault_6s.webp?du=3000&sqp=CLnYpNYG&rs=AOn4CLAxVrAkCmWR3yyLi81RvEmFB12Kqw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Learn SQL in 5 minutes! (Can you?)",
+      "link": "https://www.youtube.com/watch?v=vkhjO7fc78g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vkhjO7fc78g",
+      "video_id": "vkhjO7fc78g",
+      "channel": {
+        "name": "Data36 - Online Data Science Courses",
+        "link": "https://www.youtube.com/@datatomi",
+        "thumbnail": "https://yt3.ggpht.com/zRTOATGsZ2GZ7QBJa-AVyyXfAgBGqKc3w0s3wUx6U8g_2EFUegtNXRWvF4A_C45WcVMkn1Sd=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 40348,
+      "length": "6:54",
+      "description": "In this episode, you'll learn SQL in 5 minutes... or will you? (Watch it to the end! ;-)) To learn SQL for real, start here: SQL for data ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vkhjO7fc78g/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA0d4h05wMHcEykS6fSQGu6ef9WCQ",
+        "rich": "https://i.ytimg.com/an_webp/vkhjO7fc78g/mqdefault_6s.webp?du=3000&sqp=CIDlpNYG&rs=AOn4CLDnINKDDff7MNIm1Bt2M6UuKZOJoQ"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "MySQL - The Basics // Learn SQL in 23 Easy Steps",
+      "link": "https://www.youtube.com/watch?v=Cz3WcZLRaWc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Cz3WcZLRaWc",
+      "video_id": "Cz3WcZLRaWc",
+      "channel": {
+        "name": "Fireship",
+        "link": "https://www.youtube.com/@Fireship",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1268539,
+      "length": "17:17",
+      "description": "JOIN me for a full beginner's tutorial on MySQL. Learn the basics of relational databases by recreating AirBnb's database with raw ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Cz3WcZLRaWc/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCx1phYR-RqrZhiJ31bDZQWAg-l3w",
+        "rich": "https://i.ytimg.com/an_webp/Cz3WcZLRaWc/mqdefault_6s.webp?du=3000&sqp=CJ_KpNYG&rs=AOn4CLCwEL52XtGeV16VByzTDcYYntSynQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Advanced SQL Tutorial | Subqueries",
+      "link": "https://www.youtube.com/watch?v=m1KcNV-Zhmc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=m1KcNV-Zhmc",
+      "video_id": "m1KcNV-Zhmc",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 477677,
+      "length": "8:37",
+      "description": "Take my Full MySQL Course Here: https://bit.ly/3tqOipr In today's Advanced SQL lesson we walk through how to use Subqueries.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/m1KcNV-Zhmc/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCYIXUicQ7NxqsMTnhcX_KisrkE5g",
+        "rich": "https://i.ytimg.com/an_webp/m1KcNV-Zhmc/mqdefault_6s.webp?du=3000&sqp=CMaapNYG&rs=AOn4CLCgRfPiuv0sLJrM4r_X0FmvaEu0oA"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "How I Would Learn SQL FAST (If I Could Start Over)",
+      "link": "https://www.youtube.com/watch?v=KnYkedmRy2s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=KnYkedmRy2s",
+      "video_id": "KnYkedmRy2s",
+      "channel": {
+        "name": "Data with Baraa",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 172200,
+      "length": "12:35",
+      "description": "DataCamp | SQL Associate Certification https://datacamp.pxf.io/e1VA7r ▻ DataCamp | AI Native SQL Course ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/KnYkedmRy2s/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5sbTDu5SaYe2Xjtowx1gq_5duiw",
+        "rich": "https://i.ytimg.com/an_webp/KnYkedmRy2s/mqdefault_6s.webp?du=3000&sqp=CKnQpNYG&rs=AOn4CLB9m_5dvI3HZjGcmy7JK0Bl9_pROQ"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "How to Ace Your Next SQL Interview",
+      "link": "https://www.youtube.com/watch?v=ptifklXvy_Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ptifklXvy_Y",
+      "video_id": "ptifklXvy_Y",
+      "channel": {
+        "name": "Matt Mike",
+        "link": "https://www.youtube.com/@MattMike",
+        "thumbnail": "https://yt3.ggpht.com/Yy_oZTJA6zGQ4LgcyDB5vfQV8dGxRagoKeKZjE6Pv42i3wgPgCTMVZ-myqm-_asLPZ74vcnb=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 10956,
+      "length": "6:54",
+      "description": "Resume template HERE https://thdatapoint.substack.com/ Check out DataFord → https://www.dataford.io 47% of all Data Analyst ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ptifklXvy_Y/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAqtUxE3OtCrqGuSQtAcqDyKtdIxQ",
+        "rich": "https://i.ytimg.com/an_webp/ptifklXvy_Y/mqdefault_6s.webp?du=3000&sqp=CPyzpNYG&rs=AOn4CLDitvW9TXKcxLjdVjgH6TesUa-Hdg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "SQL Window Functions in 10 Minutes",
+      "link": "https://www.youtube.com/watch?v=y1KCM8vbYe4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=y1KCM8vbYe4",
+      "video_id": "y1KCM8vbYe4",
+      "channel": {
+        "name": "Colt Steele",
+        "link": "https://www.youtube.com/@ColtSteeleCode",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mw_uMuYGJpYoUEIvCrsfeYck6ajAjDG3VTPSFsqioBiw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 139655,
+      "length": "10:13",
+      "description": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?couponCode=SQL_YT_21897312.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/y1KCM8vbYe4/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBgbWopdk9nrAPZZxl7Dkku993rXg",
+        "rich": "https://i.ytimg.com/an_webp/y1KCM8vbYe4/mqdefault_6s.webp?du=3000&sqp=CKrJpNYG&rs=AOn4CLAAMw9jPJWPtJ_031KX8khPxiIUHg"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Advanced SQL Tutorial | Stored Procedures + Use Cases",
+      "link": "https://www.youtube.com/watch?v=NrBJmtD0kEw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NrBJmtD0kEw",
+      "video_id": "NrBJmtD0kEw",
+      "channel": {
+        "name": "Alex The Analyst",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 551931,
+      "length": "6:15",
+      "description": "Take my Full MySQL Course Here: https://bit.ly/3tqOipr In today's Advanced SQL lesson we walk through how to use Stored ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/NrBJmtD0kEw/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA-sTqf_zf4hof1IKBYMrE-DFTkuw"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Learn MySQL joins in 5 minutes!",
+      "link": "https://www.youtube.com/watch?v=G3lJAxg1cy8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=G3lJAxg1cy8",
+      "video_id": "G3lJAxg1cy8",
+      "channel": {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1005179,
+      "length": "5:04",
+      "description": "MySQL #course #tutorial 00:00:00 intro 00:01:46 INNER JOIN 00:03:48 LEFT JOIN 00:04:20 RIGHT JOIN 00:04:45 conclusion ...",
+      "extensions": [
+        "Fundraiser"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/G3lJAxg1cy8/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAV--ORqnQ3M2xtn9AO2Rzrg4ZpQg",
+        "rich": "https://i.ytimg.com/an_webp/G3lJAxg1cy8/mqdefault_6s.webp?du=3000&sqp=CKW1pNYG&rs=AOn4CLCzRm5WY0-fzeLX87xqKe2jpR_-BQ"
+      }
+    },
+    {
+      "position_on_page": 21,
+      "title": "Do THIS Instead of Watching Endless Tutorials - How I'd Learn SQL FAST (2025)",
+      "link": "https://www.youtube.com/watch?v=of3IaC8hZpo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=of3IaC8hZpo",
+      "video_id": "of3IaC8hZpo",
+      "channel": {
+        "name": "Jash Radia",
+        "link": "https://www.youtube.com/@JashRadia",
+        "thumbnail": "https://yt3.ggpht.com/vn6wwvep0IdvxEt_0AdLpriR4AXNAs_KfM4QaMEW7wgHWiyUo3sSbChvOabu6i-nP-pKYdC0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 245964,
+      "length": "7:52",
+      "description": "Sharing from my own experience about what is the best and fastest way to learn SQL for data engineers, analysts and scientists.",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/of3IaC8hZpo/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCBqSov2Ngsi35ItISEpFBxx0_UcQ",
+        "rich": "https://i.ytimg.com/an_webp/of3IaC8hZpo/mqdefault_6s.webp?du=3000&sqp=CMDKpNYG&rs=AOn4CLDTbSrBoK7151mxFT_fG2W6Mj7xTQ"
+      }
+    },
+    {
+      "position_on_page": 22,
+      "title": "SQL WITH Clause | Clearly Explained | CTEs vs Subqueries vs Temp Tables | Recursive CTEs",
+      "link": "https://www.youtube.com/watch?v=LJC8277LONg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LJC8277LONg",
+      "video_id": "LJC8277LONg",
+      "channel": {
+        "name": "Maven Analytics",
+        "link": "https://www.youtube.com/@MavenAnalytics",
+        "thumbnail": "https://yt3.ggpht.com/s8DLnIjg5cO39mPfZTNbtc4y1h1miX2V8ZqUB4gvakASUTdo_qFNcCAo5bCHJWL72O6vk0J-ww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 167291,
+      "length": "13:15",
+      "description": "7-day email course to get you started with data analytics: https://mavenanalytics.io/newsletter/still-a-real-career 7-day AI analyst ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LJC8277LONg/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCb7sd9tTR4Vzz1mvWB_VdP6dQj1Q",
+        "rich": "https://i.ytimg.com/an_webp/LJC8277LONg/mqdefault_6s.webp?du=3000&sqp=CLjdpNYG&rs=AOn4CLD13PdXfyH9A03Z2glNq0uHfVJWdg"
+      }
+    },
+    {
+      "position_on_page": 23,
+      "title": "Learn SQL in 10 Minutes!! | SQL for beginners",
+      "link": "https://www.youtube.com/watch?v=H5ujoWRyqBw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=H5ujoWRyqBw",
+      "video_id": "H5ujoWRyqBw",
+      "channel": {
+        "name": "AmanBytes",
+        "link": "https://www.youtube.com/@amanbytes",
+        "thumbnail": "https://yt3.ggpht.com/rRUpmezd91OgP2e1ACFZwwu3Q31alpvjmt4pHn9HlXg2JKraRZwkLnaO7KWrDwNmMo5DFpsO_A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 14974,
+      "length": "10:00",
+      "description": "SQL, which is Structured Query Language, is a language used for managing relational databases. In this video, I've tried to cover ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/H5ujoWRyqBw/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDySkJ2XaI3axVWJFlILPwuO2Mkcg",
+        "rich": "https://i.ytimg.com/an_webp/H5ujoWRyqBw/mqdefault_6s.webp?du=3000&sqp=CMTapNYG&rs=AOn4CLBLnKhlu1HmIS8NsNXwBAw2abAwOg"
+      }
+    },
+    {
+      "position_on_page": 24,
+      "title": "What is SQL (Visually Explained) | #SQL Course 2",
+      "link": "https://www.youtube.com/watch?v=RBXZrPVjPyo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RBXZrPVjPyo",
+      "video_id": "RBXZrPVjPyo",
+      "channel": {
+        "name": "Data with Baraa",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 165972,
+      "length": "14:58",
+      "description": "Visually explained what SQL is, why it matters, what is database, how it's used in real data projects. Want More? - *Free ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/RBXZrPVjPyo/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTS98WfRLTAk_avLxQpRnzJFHrqw",
+        "rich": "https://i.ytimg.com/an_webp/RBXZrPVjPyo/mqdefault_6s.webp?du=3000&sqp=CMbOpNYG&rs=AOn4CLBP1v2mlnWqRA5-_9KExm_na_v0tg"
+      }
+    },
+    {
+      "position_on_page": 25,
+      "title": "SQL - AQA GCSE Computer Science",
+      "link": "https://www.youtube.com/watch?v=uq370pKxsqs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uq370pKxsqs",
+      "video_id": "uq370pKxsqs",
+      "channel": {
+        "name": "KnowItAll Ninja",
+        "link": "https://www.youtube.com/@Knowitallninjalearn",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lDqBCpUhFZ80q09yLdFoXeKdBlSLXDwNwhtiQWtbchFKs=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 5538,
+      "length": "8:14",
+      "description": "Learn about structured query language (SQL) for your AQA GCSE Computer Science revision. You can access even more GCSE ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/uq370pKxsqs/hq720.jpg?sqp=-oaymwFBCOgCEMoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAVgc-sh0-BggJZMeyo2c8XGx4Yxg",
+        "rich": "https://i.ytimg.com/an_webp/uq370pKxsqs/mqdefault_6s.webp?du=3000&sqp=CO_PpNYG&rs=AOn4CLCZ911_rvipvf4078EkSfL1uG2Leg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=SQL+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=SQL%20revision&sp=EgIYA0gUggELa2JLdHk1WlZLTVmCAQtfdnhvYkEzNlVONIIBCzNzMGxGdFVyaFNRggELckljQjR6TVlNYXOCAQt3bWlEZEJHLXlQNIIBC0JId3pEbXI2ZDdzggELWWg0Q3JQSFZCZEWCAQt2a2hqTzdmYzc4Z4IBC0N6M1djWkxSYVdjggELbTFLY05WLVpobWOCAQtLbllrZWRtUnkyc4IBC3B0aWZrbFh2eV9ZggELeTFLQ004dmJZZTSCAQtOckJKbXREMGtFd4IBC0czbEpBeGcxY3k4ggELb2YzSWFDOGhacG-CAQtMSkM4Mjc3TE9OZ4IBC0g1dWpvV1J5cUJ3ggELUkJYWnJQVmpQeW-CAQt1cTM3MHBLeHNxc7IBBgoECBkQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELa2JLdHk1WlZLTVmCAQtfdnhvYkEzNlVONIIBCzNzMGxGdFVyaFNRggELckljQjR6TVlNYXOCAQt3bWlEZEJHLXlQNIIBC0JId3pEbXI2ZDdzggELWWg0Q3JQSFZCZEWCAQt2a2hqTzdmYzc4Z4IBC0N6M1djWkxSYVdjggELbTFLY05WLVpobWOCAQtLbllrZWRtUnkyc4IBC3B0aWZrbFh2eV9ZggELeTFLQ004dmJZZTSCAQtOckJKbXREMGtFd4IBC0czbEpBeGcxY3k4ggELb2YzSWFDOGhacG-CAQtMSkM4Mjc3TE9OZ4IBC0g1dWpvV1J5cUJ3ggELUkJYWnJQVmpQeW-CAQt1cTM3MHBLeHNxc7IBBgoECBkQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SQL+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SQL+revision&sp=EgIYA0gUggELa2JLdHk1WlZLTVmCAQtfdnhvYkEzNlVONIIBCzNzMGxGdFVyaFNRggELckljQjR6TVlNYXOCAQt3bWlEZEJHLXlQNIIBC0JId3pEbXI2ZDdzggELWWg0Q3JQSFZCZEWCAQt2a2hqTzdmYzc4Z4IBC0N6M1djWkxSYVdjggELbTFLY05WLVpobWOCAQtLbllrZWRtUnkyc4IBC3B0aWZrbFh2eV9ZggELeTFLQ004dmJZZTSCAQtOckJKbXREMGtFd4IBC0czbEpBeGcxY3k4ggELb2YzSWFDOGhacG-CAQtMSkM4Mjc3TE9OZ4IBC0g1dWpvV1J5cUJ3ggELUkJYWnJQVmpQeW-CAQt1cTM3MHBLeHNxc7IBBgoECBkQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELa2JLdHk1WlZLTVmCAQtfdnhvYkEzNlVONIIBCzNzMGxGdFVyaFNRggELckljQjR6TVlNYXOCAQt3bWlEZEJHLXlQNIIBC0JId3pEbXI2ZDdzggELWWg0Q3JQSFZCZEWCAQt2a2hqTzdmYzc4Z4IBC0N6M1djWkxSYVdjggELbTFLY05WLVpobWOCAQtLbllrZWRtUnkyc4IBC3B0aWZrbFh2eV9ZggELeTFLQ004dmJZZTSCAQtOckJKbXREMGtFd4IBC0czbEpBeGcxY3k4ggELb2YzSWFDOGhacG-CAQtMSkM4Mjc3TE9OZ4IBC0g1dWpvV1J5cUJ3ggELUkJYWnJQVmpQeW-CAQt1cTM3MHBLeHNxc7IBBgoECBkQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 18:35:25 UTC"
+}

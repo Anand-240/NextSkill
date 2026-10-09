@@ -1,0 +1,446 @@
+{
+  "search_metadata": {
+    "id": "6ac93400de5efc1d43d3c8cd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5g5QYPLUsRkFLwXzZtFxzY67UQeYQftcZiYezHNTv-w/6ac93400de5efc1d43d3c8cd.json",
+    "markdown_endpoint": "https://serpapi.com/searches/5g5QYPLUsRkFLwXzZtFxzY67UQeYQftcZiYezHNTv-w/6ac93400de5efc1d43d3c8cd.md",
+    "created_at": "2026-10-09 18:35:44 UTC",
+    "processed_at": "2026-10-09 18:35:44 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Google+Ads+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/5g5QYPLUsRkFLwXzZtFxzY67UQeYQftcZiYezHNTv-w/6ac93400de5efc1d43d3c8cd.html",
+    "total_time_taken": 2.59
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Google Ads revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 3417623,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "5-Minute Google Ads Tutorial - Everything You Need to Know In Under 5 Minutes (2025)",
+      "link": "https://www.youtube.com/watch?v=f7j3JSBD6so",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=f7j3JSBD6so",
+      "video_id": "f7j3JSBD6so",
+      "channel": {
+        "name": "Ivan Mana",
+        "link": "https://www.youtube.com/@IvanMana",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/F1n3bADsPXaeAXdq4sxD0d0JGt9EzCy7vrlUeDZ4P-U2iMEspJstDY_YqmSxHL6_zKTMWZMSYg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 458380,
+      "length": "6:05",
+      "description": "Get FREE starter access to my training course and my DONE-FOR-YOU marketing setup: https://ivanmana.com In this quick ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/f7j3JSBD6so/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy6Rj-Sz6CFyjnymwnufOREsiTZw",
+        "rich": "https://i.ytimg.com/an_webp/f7j3JSBD6so/mqdefault_6s.webp?du=3000&sqp=CO7bpNYG&rs=AOn4CLAm12ixGVU95i6MYUZUpDm5oxzrUA"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Google Ads: How to Create Your First Campaign",
+      "link": "https://www.youtube.com/watch?v=_PgkIyKhBjw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_PgkIyKhBjw",
+      "video_id": "_PgkIyKhBjw",
+      "channel": {
+        "name": "Ivan Mana",
+        "link": "https://www.youtube.com/@IvanMana",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/F1n3bADsPXaeAXdq4sxD0d0JGt9EzCy7vrlUeDZ4P-U2iMEspJstDY_YqmSxHL6_zKTMWZMSYg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 31571,
+      "length": "16:50",
+      "description": "Get FREE starter access to my training course and my DONE-FOR-YOU marketing setup: https://ivanmana.com If you need ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_PgkIyKhBjw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn5_cUVFC8kugaoYIo6l3eye7xpQ",
+        "rich": "https://i.ytimg.com/an_webp/_PgkIyKhBjw/mqdefault_6s.webp?du=3000&sqp=CLjCpNYG&rs=AOn4CLACyQCc4nX748Mh-eR11ZDiqrtAhw"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Review Google Ads Performance FAST (2023)",
+      "link": "https://www.youtube.com/watch?v=7Yp4BAYR-u8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7Yp4BAYR-u8",
+      "video_id": "7Yp4BAYR-u8",
+      "channel": {
+        "name": "Nik Armenis - Google Ads Ecommerce",
+        "link": "https://www.youtube.com/@NikArmenis",
+        "thumbnail": "https://yt3.ggpht.com/lh6zo_Tc6BQkpv9EVQdsQqWsPl-toSOpU4AaaZL4PsE1OmE5L87Cl41w9giwoG7G5lpxQhkq=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 346,
+      "length": "14:06",
+      "description": "Learn how to quickly check your Google Ads Performance. I'll show you all the most important metrics to look at. Whether you're a ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7Yp4BAYR-u8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtYWmEG_vHLaiYtKgH8zv2eK4mzA",
+        "rich": "https://i.ytimg.com/an_webp/7Yp4BAYR-u8/mqdefault_6s.webp?du=3000&sqp=CIHFpNYG&rs=AOn4CLDW8rtP6T0s1RYJh8duUnScUFE9qw"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Google Ads Audit Strategy - Revised 2024",
+      "link": "https://www.youtube.com/watch?v=yb7PRk60cd4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yb7PRk60cd4",
+      "video_id": "yb7PRk60cd4",
+      "channel": {
+        "name": "Beau Bozett",
+        "link": "https://www.youtube.com/@beau-bozett",
+        "thumbnail": "https://yt3.ggpht.com/4Cxi37MrogesHfJX7WGDXz7z-fv3P8pm8BOi8RnamgDOERPospo1o0135j8GAcdrgV2ZitRSLA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 91,
+      "length": "9:56",
+      "description": "In this video, we'll dive deep into my updated Google Ads Audit Strategy for 2024. Whether you're managing campaigns for ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/yb7PRk60cd4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIeOOGNyLnHlUFrGKO4Qly9Umf5w"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Turn Off Auto-Apply Recommendations in Google Ads: Do This Instead",
+      "link": "https://www.youtube.com/watch?v=85mmjUe5w1A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=85mmjUe5w1A",
+      "video_id": "85mmjUe5w1A",
+      "channel": {
+        "name": "Scott Redgate",
+        "link": "https://www.youtube.com/@ScottRedgate",
+        "thumbnail": "https://yt3.ggpht.com/upEco3OGCrYpir1zrvOCSYTsYcQVutmeSt5NjDjsuPoYMb9i2kxe1U7fOC2VFpNPw2bKhg6A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 733,
+      "length": "17:08",
+      "description": "Google Ads is encouraging the use of auto-apply recommendations, but should you actually enable them? What happens if you ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/85mmjUe5w1A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMrCT1K3O-5B75z_8lkLeJvwcV8g",
+        "rich": "https://i.ytimg.com/an_webp/85mmjUe5w1A/mqdefault_6s.webp?du=3000&sqp=CMDWpNYG&rs=AOn4CLCqXauDMBH-qS6blISwqu4FpPt6Jg"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "The BEST Google Ads Campaign Structure in 2026",
+      "link": "https://www.youtube.com/watch?v=pBiM9sHC2co",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pBiM9sHC2co",
+      "video_id": "pBiM9sHC2co",
+      "channel": {
+        "name": "Alan Valdez",
+        "link": "https://www.youtube.com/@AlanValdez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/qTd4L2Z5pXIx9iF7MTXYn41um1G2bAqC3ewwOUxjrya7flSmilGaAo3K-Cwj4wjm8n9Z2Ynagg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 6761,
+      "length": "16:02",
+      "description": "If you're still structuring your Google Ads campaigns the way you did 2 or 3 years ago, you're probably losing money without ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pBiM9sHC2co/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9icc2SwnDgmJpuygz-nLXch_iqg",
+        "rich": "https://i.ytimg.com/an_webp/pBiM9sHC2co/mqdefault_6s.webp?du=3000&sqp=CKzEpNYG&rs=AOn4CLAK44-S7o5dAKXqA7yMxnpdgEKjIQ"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Google Ads: How to Split Test Your Ads",
+      "link": "https://www.youtube.com/watch?v=Xtl_Lde9fk0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Xtl_Lde9fk0",
+      "video_id": "Xtl_Lde9fk0",
+      "channel": {
+        "name": "Ivan Mana",
+        "link": "https://www.youtube.com/@IvanMana",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/F1n3bADsPXaeAXdq4sxD0d0JGt9EzCy7vrlUeDZ4P-U2iMEspJstDY_YqmSxHL6_zKTMWZMSYg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 6818,
+      "length": "13:08",
+      "description": "Complete Step-by-Step Google Ads (Search) Masterclass: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Xtl_Lde9fk0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIrAskWLj5pbK6AFs5pDzT7ZqtKg",
+        "rich": "https://i.ytimg.com/an_webp/Xtl_Lde9fk0/mqdefault_6s.webp?du=3000&sqp=CObPpNYG&rs=AOn4CLAwOVtDBIcl81KEa1IsLevDYzfF2g"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "The Most Profitable Google Ads Structure Known To Man In 2022 - Bren Hammel",
+      "link": "https://www.youtube.com/watch?v=jB9RfRaU_HQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jB9RfRaU_HQ",
+      "video_id": "jB9RfRaU_HQ",
+      "channel": {
+        "name": "Bren Hammel",
+        "link": "https://www.youtube.com/@BrenHammel",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k9p2dcv7t0tRA2w1hIu_sl9YZW3SkB76AOy8YgH6np8A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 27563,
+      "length": "14:13",
+      "description": "The absolute most proven & profitable way to set up Google ads in 2022. Getting your Google ads campaign structure correct right ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jB9RfRaU_HQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnmzLCfSsmB-DDsi6MGG3KTP8elg",
+        "rich": "https://i.ytimg.com/an_webp/jB9RfRaU_HQ/mqdefault_6s.webp?du=3000&sqp=CIyxpNYG&rs=AOn4CLBDU6pQ_lI6EMkNepEYvyBx7iTMRw"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Google Ads Bidding Strategy & Optimization Tutorial | Maximize Your ROI",
+      "link": "https://www.youtube.com/watch?v=YSLO2_bVGgw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YSLO2_bVGgw",
+      "video_id": "YSLO2_bVGgw",
+      "channel": {
+        "name": "Nik Armenis - Google Ads Ecommerce",
+        "link": "https://www.youtube.com/@NikArmenis",
+        "thumbnail": "https://yt3.ggpht.com/lh6zo_Tc6BQkpv9EVQdsQqWsPl-toSOpU4AaaZL4PsE1OmE5L87Cl41w9giwoG7G5lpxQhkq=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 1136,
+      "length": "12:55",
+      "description": "Learn how to work out your ideal bid & use the different bidding strategies in Google Ads, including automatic bidding and manual ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/YSLO2_bVGgw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBR08MiF1zTiBAxpVcLkYUYFY6eiA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Google Ads For Interior Designers",
+      "link": "https://www.youtube.com/watch?v=sYEAT0YSAKc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sYEAT0YSAKc",
+      "video_id": "sYEAT0YSAKc",
+      "channel": {
+        "name": "Alex Does Digital",
+        "link": "https://www.youtube.com/@alexdoesdigital",
+        "thumbnail": "https://yt3.ggpht.com/lUYdjcWDq_Pk-JYjJjhpIy46KfIqNuL9h8f23yn42I7TzWFh4fcut6eOU4dk0_W1N3E33VrIowA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 799,
+      "length": "18:32",
+      "description": "Book a free call with me - https://cal.com/alexanderstefanseo/15min In this video I walk you through, step by step, how I set up ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/sYEAT0YSAKc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbRtIlSweuiy8N4TO3keH9SfWxZw",
+        "rich": "https://i.ytimg.com/an_webp/sYEAT0YSAKc/mqdefault_6s.webp?du=3000&sqp=COy3pNYG&rs=AOn4CLCi58jS1KuVV3CK_vRlnwA5Z026Fg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "[Secret] Google Ads Strategy for 2022! Learn What Google Ads Optimisations are working RIGHT NOW",
+      "link": "https://www.youtube.com/watch?v=Ab1S69GKhls",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ab1S69GKhls",
+      "video_id": "Ab1S69GKhls",
+      "channel": {
+        "name": "Aaron Young  | Google Ads | Define Digital Academy",
+        "link": "https://www.youtube.com/@AaronYoungGoogleAds",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/vPkF1Q7dOn1wf47raBu8EKckjvDbcWuh6gVyIXUWsODrwwx9jG54caZXvYgAqKs4KAvLHegFszk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 2308,
+      "length": "9:58",
+      "description": "Your overall Google Ads strategy and Optimisations are first things you review BEFORE you look to increase your Google Ads ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ab1S69GKhls/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7eROa3zfA3Ick8MeUGK-NeVO8yg",
+        "rich": "https://i.ytimg.com/an_webp/Ab1S69GKhls/mqdefault_6s.webp?du=3000&sqp=CIC9pNYG&rs=AOn4CLCfSQkMS290si0dzNgw95ExuJzvIg"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Google Ads: What Are Exact, Phrase, and Broad Match Types?",
+      "link": "https://www.youtube.com/watch?v=jp9PGpTq5Ig",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jp9PGpTq5Ig",
+      "video_id": "jp9PGpTq5Ig",
+      "channel": {
+        "name": "Ivan Mana",
+        "link": "https://www.youtube.com/@IvanMana",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/F1n3bADsPXaeAXdq4sxD0d0JGt9EzCy7vrlUeDZ4P-U2iMEspJstDY_YqmSxHL6_zKTMWZMSYg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 4713,
+      "length": "5:52",
+      "description": "Complete Step-by-Step Google Ads (Search) Masterclass: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jp9PGpTq5Ig/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZZCEj_1xrHOjNBbjer77gQfQyyA",
+        "rich": "https://i.ytimg.com/an_webp/jp9PGpTq5Ig/mqdefault_6s.webp?du=3000&sqp=CLjPpNYG&rs=AOn4CLDtnmhC4jCIqnAyC6C0Ou-TnvO8dQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "The 10-minute Google AdWords Account Audit",
+      "link": "https://www.youtube.com/watch?v=HoiCYNcOjm8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HoiCYNcOjm8",
+      "video_id": "HoiCYNcOjm8",
+      "channel": {
+        "name": "Jeff Sauer - Service Stacking",
+        "link": "https://www.youtube.com/@jeffalytics",
+        "thumbnail": "https://yt3.ggpht.com/M3DInJmOnoj4L6nwARrHrJxd1sslWeIxd2lAJuWpgVQVsgwoBlblTqgenEDoyVIpDy8ZtoYG=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 7469,
+      "length": "9:49",
+      "description": "So, today we are going to do a simple AdWords account audit. 10-Minute Google AdWords Account Audit Our 10-minute Google ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HoiCYNcOjm8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgwjjkFN6DGQIhMD1AJBMoGYIknQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "🚀  Google Ads Advanced Optimisation (Stop F'King Your Google Ads Account) [PMAX Hack 3]",
+      "link": "https://www.youtube.com/watch?v=my4K-YjNxSY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=my4K-YjNxSY",
+      "video_id": "my4K-YjNxSY",
+      "channel": {
+        "name": "Michael Nadalin | Google Ads & Paid Ads Lead Gen",
+        "link": "https://www.youtube.com/@marketlead-michaelnadalin",
+        "thumbnail": "https://yt3.ggpht.com/d9k5paqQEqcTbomB5PGAO5tstOyBZmfPTT-qvm_M19FfPxESqdFL_T_dTqgCOeL8Fp_5BoGU9g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 964,
+      "length": "4:55",
+      "description": "https://www.marketlead.com.au/case-studies/?id=my4K-YjNxSY Performance Max optimisation mistake #1: changing your ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/my4K-YjNxSY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgUID4ofzAP&rs=AOn4CLBGmrFqw-ySKa_icvNS8JdyM83b0g"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Google Ads: How to Create Your First Campaign (UPDATED FOR NEW EDITOR!)",
+      "link": "https://www.youtube.com/watch?v=J7gUmW5n3dw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=J7gUmW5n3dw",
+      "video_id": "J7gUmW5n3dw",
+      "channel": {
+        "name": "Ivan Mana",
+        "link": "https://www.youtube.com/@IvanMana",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/F1n3bADsPXaeAXdq4sxD0d0JGt9EzCy7vrlUeDZ4P-U2iMEspJstDY_YqmSxHL6_zKTMWZMSYg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 5174,
+      "length": "8:07",
+      "description": "Complete Step-by-Step Google Ads (Search) Masterclass: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/J7gUmW5n3dw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT6LqaEDEufF-6fxSg9Jz0SDZqtQ"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Google Ads: How to Optimize Your Campaigns (Dimensions + Reports Tab)",
+      "link": "https://www.youtube.com/watch?v=jK4wL2tWHN0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jK4wL2tWHN0",
+      "video_id": "jK4wL2tWHN0",
+      "channel": {
+        "name": "Ivan Mana",
+        "link": "https://www.youtube.com/@IvanMana",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/F1n3bADsPXaeAXdq4sxD0d0JGt9EzCy7vrlUeDZ4P-U2iMEspJstDY_YqmSxHL6_zKTMWZMSYg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 3269,
+      "length": "15:10",
+      "description": "Complete Step-by-Step Google Ads (Search) Masterclass: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jK4wL2tWHN0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjD0X85R9PPra3qfvCi6CofcB4qA"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "HOW TO RUN GOOGLE ADS - A Beginner's Guide",
+      "link": "https://www.youtube.com/watch?v=7r8A1Bp2MyM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7r8A1Bp2MyM",
+      "video_id": "7r8A1Bp2MyM",
+      "channel": {
+        "name": "Buildapreneur",
+        "link": "https://www.youtube.com/@Buildapreneur",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k4Q9hAe4SBzEo1G7AgYdhXxNmzyU12AfrB5InrHdcz-7E=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 13643,
+      "length": "16:01",
+      "description": "Chapters: 0:00 Introduction 0:16 ADWORDS 0:56 Adwords.Google.com(sign-up) 1:16 Create a Campaign HOW TO RUN ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7r8A1Bp2MyM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVYmA-dSMrHuy22zVdvqPxNyQvoA"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Google Ads: Review And Improve Your Ads",
+      "link": "https://www.youtube.com/watch?v=oSgPNTN6MCQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oSgPNTN6MCQ",
+      "video_id": "oSgPNTN6MCQ",
+      "channel": {
+        "name": "AdLeg",
+        "link": "https://www.youtube.com/@adleg_marketing",
+        "thumbnail": "https://yt3.ggpht.com/xG22YFJUATxwaWgKpU1Di2HO7L7xoJ5g8akm0yd6dAGIcRD9mi_-hc5YvDFdGQWYTa9v3Eqlow=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 346,
+      "length": "10:25",
+      "description": "[Day 13 of 14] 1. Review your ads for any basic typos or issues. Make sure your ads are an appropriate match for your keywords ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/oSgPNTN6MCQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2XAvvp5TBCzsL_wgm4qkmpY3-mA",
+        "rich": "https://i.ytimg.com/an_webp/oSgPNTN6MCQ/mqdefault_6s.webp?du=3000&sqp=COTGpNYG&rs=AOn4CLCLQTTGcBh9dmUMiZujUzVM9PI-ug"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Google Ads: How to Create a Video Ad",
+      "link": "https://www.youtube.com/watch?v=3Y_6hTT_q40",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3Y_6hTT_q40",
+      "video_id": "3Y_6hTT_q40",
+      "channel": {
+        "name": "Ivan Mana",
+        "link": "https://www.youtube.com/@IvanMana",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/F1n3bADsPXaeAXdq4sxD0d0JGt9EzCy7vrlUeDZ4P-U2iMEspJstDY_YqmSxHL6_zKTMWZMSYg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 10675,
+      "length": "17:12",
+      "description": "Complete Step-by-Step Google Ads (Search) Masterclass: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3Y_6hTT_q40/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9Ao60geU0h49tL2L7XBX-BdkUJA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Google Ads: How to Create an Experiment Campaign",
+      "link": "https://www.youtube.com/watch?v=oBUtocq_wCc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oBUtocq_wCc",
+      "video_id": "oBUtocq_wCc",
+      "channel": {
+        "name": "Ivan Mana",
+        "link": "https://www.youtube.com/@IvanMana",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/F1n3bADsPXaeAXdq4sxD0d0JGt9EzCy7vrlUeDZ4P-U2iMEspJstDY_YqmSxHL6_zKTMWZMSYg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 5275,
+      "length": "8:08",
+      "description": "Complete Step-by-Step Google Ads (Search) Masterclass: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/oBUtocq_wCc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_E42bWVly0flWEcwFD3YxbpbGDg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Google+Ads+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Google%20Ads%20revision&sp=EgIYA0gUggELZjdqM0pTQkQ2c2-CAQtfUGdrSXlLaEJqd4IBCzdZcDRCQVlSLXU4ggELeWI3UFJrNjBjZDSCAQs4NW1talVlNXcxQYIBC3BCaU05c0hDMmNvggELWHRsX0xkZTlmazCCAQtqQjlSZlJhVV9IUYIBC1lTTE8yX2JWR2d3ggELc1lFQVQwWVNBS2OCAQtBYjFTNjlHS2hsc4IBC2pwOVBHcFRxNUlnggELSG9pQ1lOY09qbTiCAQtteTRLLVlqTnhTWYIBC0o3Z1VtVzVuM2R3ggELaks0d0wydFdITjCCAQs3cjhBMUJwMk15TYIBC29TZ1BOVE42TUNRggELM1lfNmhUVF9xNDCCAQtvQlV0b2NxX3dDY7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELZjdqM0pTQkQ2c2-CAQtfUGdrSXlLaEJqd4IBCzdZcDRCQVlSLXU4ggELeWI3UFJrNjBjZDSCAQs4NW1talVlNXcxQYIBC3BCaU05c0hDMmNvggELWHRsX0xkZTlmazCCAQtqQjlSZlJhVV9IUYIBC1lTTE8yX2JWR2d3ggELc1lFQVQwWVNBS2OCAQtBYjFTNjlHS2hsc4IBC2pwOVBHcFRxNUlnggELSG9pQ1lOY09qbTiCAQtteTRLLVlqTnhTWYIBC0o3Z1VtVzVuM2R3ggELaks0d0wydFdITjCCAQs3cjhBMUJwMk15TYIBC29TZ1BOVE42TUNRggELM1lfNmhUVF9xNDCCAQtvQlV0b2NxX3dDY7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Google+Ads+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Google+Ads+revision&sp=EgIYA0gUggELZjdqM0pTQkQ2c2-CAQtfUGdrSXlLaEJqd4IBCzdZcDRCQVlSLXU4ggELeWI3UFJrNjBjZDSCAQs4NW1talVlNXcxQYIBC3BCaU05c0hDMmNvggELWHRsX0xkZTlmazCCAQtqQjlSZlJhVV9IUYIBC1lTTE8yX2JWR2d3ggELc1lFQVQwWVNBS2OCAQtBYjFTNjlHS2hsc4IBC2pwOVBHcFRxNUlnggELSG9pQ1lOY09qbTiCAQtteTRLLVlqTnhTWYIBC0o3Z1VtVzVuM2R3ggELaks0d0wydFdITjCCAQs3cjhBMUJwMk15TYIBC29TZ1BOVE42TUNRggELM1lfNmhUVF9xNDCCAQtvQlV0b2NxX3dDY7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELZjdqM0pTQkQ2c2-CAQtfUGdrSXlLaEJqd4IBCzdZcDRCQVlSLXU4ggELeWI3UFJrNjBjZDSCAQs4NW1talVlNXcxQYIBC3BCaU05c0hDMmNvggELWHRsX0xkZTlmazCCAQtqQjlSZlJhVV9IUYIBC1lTTE8yX2JWR2d3ggELc1lFQVQwWVNBS2OCAQtBYjFTNjlHS2hsc4IBC2pwOVBHcFRxNUlnggELSG9pQ1lOY09qbTiCAQtteTRLLVlqTnhTWYIBC0o3Z1VtVzVuM2R3ggELaks0d0wydFdITjCCAQs3cjhBMUJwMk15TYIBC29TZ1BOVE42TUNRggELM1lfNmhUVF9xNDCCAQtvQlV0b2NxX3dDY7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 18:35:44 UTC"
+}

@@ -4,7 +4,7 @@ import json
 import re
 from pathlib import Path
 from engine import ROOT, SerpClient, _request, _load_key, _check_error, stamp_response, _write_json
-CAPS={'C':105,'D':30,'H':5,'J':35}
+CAPS={'C':105,'D':30,'H':5,'J':35,'K':8}
 LEDGER=ROOT/'cache/build_usage.json'
 EMAIL=re.compile(r'[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}')
 PHONE=re.compile(r'(?<![\w\d])(?:\+91[\s-]?)?[6-9](?:[ -]?\d){9}(?![\w\d])')

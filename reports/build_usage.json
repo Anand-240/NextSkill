@@ -685,6 +685,62 @@
       "engine": "google_jobs",
       "query": "Accountant",
       "location": "Dehradun, India"
+    },
+    {
+      "phase": "K",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "SQL revision",
+      "location": null
+    },
+    {
+      "phase": "K",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "Tally revision",
+      "location": null
+    },
+    {
+      "phase": "K",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "GST revision",
+      "location": null
+    },
+    {
+      "phase": "K",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "React revision",
+      "location": null
+    },
+    {
+      "phase": "K",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "Tableau revision",
+      "location": null
+    },
+    {
+      "phase": "K",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "Google Ads revision",
+      "location": null
+    },
+    {
+      "phase": "K",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "SEO revision",
+      "location": null
+    },
+    {
+      "phase": "K",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "Django revision",
+      "location": null
     }
   ],
   "accounts": [
@@ -737,6 +793,21 @@
       "label": "J before",
       "this_month_usage": 75,
       "total_searches_left": 175
+    },
+    {
+      "label": "J after",
+      "this_month_usage": 98,
+      "total_searches_left": 152
+    },
+    {
+      "label": "K before",
+      "this_month_usage": 108,
+      "total_searches_left": 142
+    },
+    {
+      "label": "K after",
+      "this_month_usage": 116,
+      "total_searches_left": 134
     }
   ]
 }

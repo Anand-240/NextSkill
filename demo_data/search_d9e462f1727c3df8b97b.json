@@ -1,0 +1,476 @@
+{
+  "search_metadata": {
+    "id": "6ac93403e7a2a9b005055c79",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dtDmqUh6Hkv5fTfiFD0DpdCilCxndKnfHCqhAEn9DaE/6ac93403e7a2a9b005055c79.json",
+    "markdown_endpoint": "https://serpapi.com/searches/dtDmqUh6Hkv5fTfiFD0DpdCilCxndKnfHCqhAEn9DaE/6ac93403e7a2a9b005055c79.md",
+    "created_at": "2026-10-09 18:35:47 UTC",
+    "processed_at": "2026-10-09 18:35:47 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=SEO+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/dtDmqUh6Hkv5fTfiFD0DpdCilCxndKnfHCqhAEn9DaE/6ac93403e7a2a9b005055c79.html",
+    "total_time_taken": 5.81
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "SEO revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 249315,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "SEO In 5 Minutes | What Is SEO And How Does It Work | SEO Explained | SEO Tutorial | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=MYE6T_gd7H0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MYE6T_gd7H0",
+      "video_id": "MYE6T_gd7H0",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2392017,
+      "length": "5:05",
+      "description": "SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/MYE6T_gd7H0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJliC-zPPnwTFoTR-b-0soS0FPrA",
+        "rich": "https://i.ytimg.com/an_webp/MYE6T_gd7H0/mqdefault_6s.webp?du=3000&sqp=CObkpNYG&rs=AOn4CLBeYaMh79NaRaC6vhsCGeqqvw00xg"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "The Only SEO Tutorial For Beginners You Need in 2026",
+      "link": "https://www.youtube.com/watch?v=YLth0uOimL8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YLth0uOimL8",
+      "video_id": "YLth0uOimL8",
+      "channel": {
+        "name": "SiteGround.com",
+        "link": "https://www.youtube.com/@siteground",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k4t2_iEDfMzOEP-8C1o2PQI-JuZ4jVZR6GqLzHEFKQyQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 19338,
+      "length": "14:43",
+      "description": "Struggling to get your website noticed on Google? Not sure how SEO works or why your content isn't ranking? This SEO tutorial ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/YLth0uOimL8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApupjWCzqv84ZuhRhAoVG710qHzg",
+        "rich": "https://i.ytimg.com/an_webp/YLth0uOimL8/mqdefault_6s.webp?du=3000&sqp=CJ_apNYG&rs=AOn4CLC4dk4ZPssk0BI481Hkxovco7tAAQ"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Technical SEO explained in 10 minutes",
+      "link": "https://www.youtube.com/watch?v=urezKsBcZHo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=urezKsBcZHo",
+      "video_id": "urezKsBcZHo",
+      "channel": {
+        "name": "SEOTesting",
+        "link": "https://www.youtube.com/@seo_testing",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nqWGpCqUJN3LhfJpzlQAp40jVZX0wo8LOosEDxwHmgyg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 3397,
+      "length": "10:14",
+      "description": "Learn the essentials of technical SEO in this beginner-friendly guide. Discover how crawling, rendering, indexing, and ranking ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/urezKsBcZHo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiKg7Otw7Yx5A26AfCytVpf_dsxQ",
+        "rich": "https://i.ytimg.com/an_webp/urezKsBcZHo/mqdefault_6s.webp?du=3000&sqp=CL7DpNYG&rs=AOn4CLDLW2ItSxW9W-C_MB9s2J_VSZedQw"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "What is SEO and How Does it Work? | Types of SEO | Search Engine Optimization Full Information",
+      "link": "https://www.youtube.com/watch?v=bLUkIgY8MTE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bLUkIgY8MTE",
+      "video_id": "bLUkIgY8MTE",
+      "channel": {
+        "name": "WsCube Tech",
+        "link": "https://www.youtube.com/@wscubetech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4FfycrkxlH3gF9HMpPqAmChY3kIH5gWdVNuYjqBGd5j0SpF-ALs6sVSfCQ-5qPyZYgJ79H0QKfA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 3206915,
+      "length": "4:27",
+      "description": "In this video, learn What is SEO and How Does it Work? | Types of SEO | Search Engine Optimization with Full Information. Find all ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bLUkIgY8MTE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDozVjGNNtp1t8u6Ng0Xj0NrKn84g",
+        "rich": "https://i.ytimg.com/an_webp/bLUkIgY8MTE/mqdefault_6s.webp?du=3000&sqp=CKvApNYG&rs=AOn4CLD4nSbmNv8NTac3TTgN6F6lyNdAvw"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "SEO Interview Questions & Answers 2026 | SEO Mock Interview",
+      "link": "https://www.youtube.com/watch?v=Pm30O5BfPUA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Pm30O5BfPUA",
+      "video_id": "Pm30O5BfPUA",
+      "channel": {
+        "name": "CIIM - AI Powered Digital Marketing Institute",
+        "link": "https://www.youtube.com/@CIIM-Digital-Marketing-Course",
+        "thumbnail": "https://yt3.ggpht.com/BbEM-MQc5BTU1LrBi-gX0Bye90PvG-ttfOKe_PJ8WAqEwQ2Qor9jqzH5UXwFhQRI_jAiIDmE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 77154,
+      "length": "6:13",
+      "description": "SEOinterview #DigitalMarketingCourse #seocourse SEO Interview Questions & Answers 2026 | SEO Mock Interview Apply for ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Pm30O5BfPUA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF3UiDasrmQAqt6fRQ10XdMrTacA",
+        "rich": "https://i.ytimg.com/an_webp/Pm30O5BfPUA/mqdefault_6s.webp?du=3000&sqp=CMDKpNYG&rs=AOn4CLCL-_VOIKAtlFUgyNL3BplMcpiz9g"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Best AI writing tools for SEO",
+      "link": "https://www.youtube.com/watch?v=0iCz7LXjOkY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0iCz7LXjOkY",
+      "video_id": "0iCz7LXjOkY",
+      "channel": {
+        "name": "Semrush",
+        "link": "https://www.youtube.com/@semrush",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4CGZKvCeN8z3PUA5rhVPtdJ9xsSAy2Zu5jhQIHwkkTIMII2FCIJok02hSl88GiDM_2_kKw3W7A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 7988,
+      "length": "6:17",
+      "description": "Get to know the best AI tools and how to use them to efficiently launch your writing strategies. Learn how to create high-quality ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0iCz7LXjOkY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArSFTPivfYWRtq3kkqM6JOjePgcw",
+        "rich": "https://i.ytimg.com/an_webp/0iCz7LXjOkY/mqdefault_6s.webp?du=3000&sqp=CKTPpNYG&rs=AOn4CLDjv1xmcqSk7L98TJFo6BaqZVA77g"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "On-Page vs. Off-Page SEO: What’s the Difference? - Types of SEO",
+      "link": "https://www.youtube.com/watch?v=nX9CV3wj6Pk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nX9CV3wj6Pk",
+      "video_id": "nX9CV3wj6Pk",
+      "channel": {
+        "name": "WsCube Tech",
+        "link": "https://www.youtube.com/@wscubetech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4FfycrkxlH3gF9HMpPqAmChY3kIH5gWdVNuYjqBGd5j0SpF-ALs6sVSfCQ-5qPyZYgJ79H0QKfA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1115384,
+      "length": "6:58",
+      "description": "In this video, learn On-Page vs. Off-Page SEO: What's the Difference? - Types of SEO. Find all the videos of the SEO Full Course ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/nX9CV3wj6Pk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi2RZwFHXY5loHSTbcNWMYaVLiWg",
+        "rich": "https://i.ytimg.com/an_webp/nX9CV3wj6Pk/mqdefault_6s.webp?du=3000&sqp=CNnTpNYG&rs=AOn4CLBXZIOZ6QdMlA4w8sWrFoel_asSzw"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "SEO lecture#10 revision",
+      "link": "https://www.youtube.com/watch?v=Vre2NmoSTco",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Vre2NmoSTco",
+      "video_id": "Vre2NmoSTco",
+      "channel": {
+        "name": "IDM Talent",
+        "link": "https://www.youtube.com/@idmtalent",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lwipGrMtw03q9rRS3u-wAHkA12LD8UeCn7-UUk93gUoG_7iN7OhFsK3V58eudoVYMMPA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 31,
+      "length": "6:29",
+      "description": "here is a short summary of technical SEO.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Vre2NmoSTco/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcEEj5eA4D0nDkAAauy-XqmXa9fw"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Content Engine 2.0: 3. Setting Up Topic Revision Agent",
+      "link": "https://www.youtube.com/watch?v=dd7Nu1LMZok",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dd7Nu1LMZok",
+      "video_id": "dd7Nu1LMZok",
+      "channel": {
+        "name": "Jonathan Boshoff",
+        "link": "https://www.youtube.com/@boshify",
+        "thumbnail": "https://yt3.ggpht.com/U3ezjvnJUcZBGmTRJC4y5m1nVchnBE0glU1wXmLReYHtgr12UObihElRpMiAQmbYoWs5b9MV=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 57,
+      "length": "9:45",
+      "description": "Join 4000+ AI SEO operators. Free workflows, GEO/AEO training, and tools to get your business recommended by AI: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/dd7Nu1LMZok/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZDedZomOmHhigew7XfsjPhAYcSw",
+        "rich": "https://i.ytimg.com/an_webp/dd7Nu1LMZok/mqdefault_6s.webp?du=3000&sqp=CKqlpNYG&rs=AOn4CLAEW39lmpgwCWQ7hys8KUrgG_fPaA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "The 1-Hour SEO Update That Makes Your Best Pages Rank for More Keywords",
+      "link": "https://www.youtube.com/watch?v=GmsAuotHGso",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GmsAuotHGso",
+      "video_id": "GmsAuotHGso",
+      "channel": {
+        "name": "Edward Sturm",
+        "link": "https://www.youtube.com/@buildinpublic",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/6HqB345jUFn05fVXrOpgsOlDcesXLzO94TvL8DmgzlQgr_jjvhUM3L7PTwmTPDGojp3ZjzN6=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 9668,
+      "length": "8:19",
+      "description": "E1104: Your best-performing pages may already be ranking for dozens or hundreds of searches that they do not fully cover.",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/GmsAuotHGso/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcLzPMKThr8urSbMOHjulq2Tvheg",
+        "rich": "https://i.ytimg.com/an_webp/GmsAuotHGso/mqdefault_6s.webp?du=3000&sqp=CKrnpNYG&rs=AOn4CLD_JRDMkqEU5alP6WlWDIjKBLPK5Q"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Final chemistry revision practice questions #seo #chemistry",
+      "link": "https://www.youtube.com/watch?v=IGjqX1vEPHA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IGjqX1vEPHA",
+      "video_id": "IGjqX1vEPHA",
+      "channel": {
+        "name": "Distinction_medic",
+        "link": "https://www.youtube.com/@Distinction_medic",
+        "thumbnail": "https://yt3.ggpht.com/YFLjFyPebg1knhTjrfS3YdBqgiFsTXMQazc5_vYse_7K4xM5ngEp82JifmIAeO1Qbp7WoO4PEwY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 33,
+      "length": "11:55",
+      "description": "Hello dear amazing viewers. This particular video lesson is solely created for NECO WAEC JAMB AND GCE exam questions ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/IGjqX1vEPHA/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGEoVjAP&rs=AOn4CLC8UvrRs1CgHWw3dP0qcwOdp8cTkQ",
+        "rich": "https://i.ytimg.com/an_webp/IGjqX1vEPHA/mqdefault_6s.webp?du=3000&sqp=CMDTpNYG&rs=AOn4CLC3hp3yVyYtBjeoQTzalwImW4qeIA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Google's  Contextual query revision  patent",
+      "link": "https://www.youtube.com/watch?v=9-0d2opPXuU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9-0d2opPXuU",
+      "video_id": "9-0d2opPXuU",
+      "channel": {
+        "name": "Casey Keith",
+        "link": "https://www.youtube.com/@therealcaseykeith",
+        "thumbnail": "https://yt3.ggpht.com/ok1rMKO6wBZ_UC4OM0Wsur8dxiHo8U3-JrzPkWXrs3G-g_J8G2aSYdoACI0UIqsdImjxl1b7pQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 127,
+      "length": "7:58",
+      "description": "Google Patent US7953746: https://patents.google.com/patent/US7953746 Hey there! Looking for a way to improve your search ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9-0d2opPXuU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ6xpGMvE8Mn_VdVTilkdExtbNLg"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "How to crack SEO Interview for Freshers | SEO Interview Questions | Umar Tazkeer",
+      "link": "https://www.youtube.com/watch?v=-2HRe9Q_qyk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-2HRe9Q_qyk",
+      "video_id": "-2HRe9Q_qyk",
+      "channel": {
+        "name": "Umar Tazkeer ",
+        "link": "https://www.youtube.com/@UmarTazkeer",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/1qncdf7NRHGXTbLjVOgmB3CmoxbwaAaR9vbD5WFsHtd8xrDQOkj3sNmi6dgcIP1_tcuSTvhS=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 119853,
+      "length": "17:40",
+      "description": "\"Looking for Digital Marketing Services, Please fill the form to get call back from Team : For D2C Businesses ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-2HRe9Q_qyk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpD-lgwdituONpZESqxZxGz0ZHpw"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Digital Marketing and E Commerce Unit 2, SEO, search engine optimization, on page seo, off page seo",
+      "link": "https://www.youtube.com/watch?v=XO6MSb9-s1k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XO6MSb9-s1k",
+      "video_id": "XO6MSb9-s1k",
+      "channel": {
+        "name": "DWIVEDI GUIDANCE",
+        "link": "https://www.youtube.com/@DWIVEDIGUIDANCE",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kVGgTjwDsNUg_eYahkMyLVn4Ab2MNrCFL90E5wut3hQJY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 245424,
+      "length": "10:28",
+      "description": "aktu mba 2nd sem Lectures : https://youtube.com/playlist?list=PLsh2FvSr3n7eq-O-cUrsc6Z6VEPG_pfoc\n\nSEO,\nseo,\nsearch engine ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/XO6MSb9-s1k/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdAWWJhflsKUZ00BU6WYYeRIYyRg"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "SEO in English:\"Effective revision technique\" |to score higher in exam ",
+      "link": "https://www.youtube.com/watch?v=27Kf7zFbyIM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=27Kf7zFbyIM",
+      "video_id": "27Kf7zFbyIM",
+      "channel": {
+        "name": "Shubham pal",
+        "link": "https://www.youtube.com/@Aigrowthacadmy",
+        "thumbnail": "https://yt3.ggpht.com/HfUjyht8C5AaLLIxUo6GstGdeyg0e3_dlUcGLkObQxcWZd24R_41HrSwqTrlBtftNMDY9DdMrQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 7,
+      "length": "4:55",
+      "description": "20 may 2026.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/27Kf7zFbyIM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt-N3DWspMQnq_w09bNPtGmKPoog",
+        "rich": "https://i.ytimg.com/an_webp/27Kf7zFbyIM/mqdefault_6s.webp?du=3000&sqp=CPSnpNYG&rs=AOn4CLA9-AY0hq1JoyQfOVRr9p3OymRuqg"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "First SEO Project Strategy: Where and How to Start? - SEO RoadMap 🔥",
+      "link": "https://www.youtube.com/watch?v=9mhLbcs96xc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9mhLbcs96xc",
+      "video_id": "9mhLbcs96xc",
+      "channel": {
+        "name": "WsCube Tech",
+        "link": "https://www.youtube.com/@wscubetech",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/4FfycrkxlH3gF9HMpPqAmChY3kIH5gWdVNuYjqBGd5j0SpF-ALs6sVSfCQ-5qPyZYgJ79H0QKfA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 816858,
+      "length": "9:22",
+      "description": "In this video, learn First SEO Project Strategy: Where and How to Start? - SEO RoadMap . Find all the videos of the SEO Full ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9mhLbcs96xc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxByXXDssRE638hEnDg3G0wRranQ",
+        "rich": "https://i.ytimg.com/an_webp/9mhLbcs96xc/mqdefault_6s.webp?du=3000&sqp=CNDKpNYG&rs=AOn4CLBbRSmaODYg8HhNVEt7-pHXtTrTUA"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "70 Top Amazing Questions of SEO (Special Series) | SEO Question | Umar Tazkeer",
+      "link": "https://www.youtube.com/watch?v=MZLmAs30IB8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MZLmAs30IB8",
+      "video_id": "MZLmAs30IB8",
+      "channel": {
+        "name": "Umar Tazkeer ",
+        "link": "https://www.youtube.com/@UmarTazkeer",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/1qncdf7NRHGXTbLjVOgmB3CmoxbwaAaR9vbD5WFsHtd8xrDQOkj3sNmi6dgcIP1_tcuSTvhS=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 35429,
+      "length": "16:39",
+      "description": "Hello All, In this video, I am talking about - - 70 Top Amazing Questions of SEO (Special Series) Note: This channel is for ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/MZLmAs30IB8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7BGIPTLWG-qUvjH9i_a6NzpayqA",
+        "rich": "https://i.ytimg.com/an_webp/MZLmAs30IB8/mqdefault_6s.webp?du=3000&sqp=CLTdpNYG&rs=AOn4CLCUso5wJ2kUEu_nlX9dmPXg79G1aA"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Revision on Digital Marketing",
+      "link": "https://www.youtube.com/watch?v=MvK_992mVDM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MvK_992mVDM",
+      "video_id": "MvK_992mVDM",
+      "channel": {
+        "name": "Digitalrprk",
+        "link": "https://www.youtube.com/@rprk97",
+        "thumbnail": "https://yt3.ggpht.com/pPWckM5KFlT4KWxtRDl_bVzdQ5BKmMn1k1GT1CJmLyg-ZphC0L0WJEOwHDfLaYkTwTec5_aidw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 7,
+      "length": "5:20",
+      "description": "Creating a revision video on digital marketing for YouTube is a great idea. Here's a structured outline you can follow to ensure ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/MvK_992mVDM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOxGTQX6ZAvACURben4nwauG8ZNg",
+        "rich": "https://i.ytimg.com/an_webp/MvK_992mVDM/mqdefault_6s.webp?du=3000&sqp=CJHTpNYG&rs=AOn4CLAH8Ua48ywBKNd3BdAtG7Gz-ZBopA"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "How I Would Learn Digital Marketing (If I Could Start Over)",
+      "link": "https://www.youtube.com/watch?v=e8wJBq6vOAI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=e8wJBq6vOAI",
+      "video_id": "e8wJBq6vOAI",
+      "channel": {
+        "name": "Ahrefs",
+        "link": "https://www.youtube.com/@AhrefsCom",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WGSuLikxFMe3DsJ6z4n1-V0Md5q6RWJDP-QYWjoxHOAzT7Xxv_rGxNzUKimI8Ff_Lc9Q2bTjpQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1095277,
+      "length": "12:55",
+      "description": "In this video, you'll learn how I would learn digital marketing if I could start my 15 year career over again.",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/e8wJBq6vOAI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyia9BC653LVRf5vGutfB0R8uxig",
+        "rich": "https://i.ytimg.com/an_webp/e8wJBq6vOAI/mqdefault_6s.webp?du=3000&sqp=COzjpNYG&rs=AOn4CLAKZASXHpB0cN6vQ5u-GzOTd27fBQ"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "SEO & SEM  ( Quick revision ) In short 🤟",
+      "link": "https://www.youtube.com/watch?v=xDIid1QqAMs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xDIid1QqAMs",
+      "video_id": "xDIid1QqAMs",
+      "channel": {
+        "name": "Deepak Rai",
+        "link": "https://www.youtube.com/@DeepakRai-om8ht",
+        "thumbnail": "https://yt3.ggpht.com/yCwocpOgjbI7FfDUfKEncy65xjgwMpB8cmfL3WeFvwA9ZlL93DjgT5dY1Adv_cwyyMnj8R5686k=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 2,
+      "length": "7:56",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xDIid1QqAMs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAv8pWGKYg6FTixH60fQSoDInvzgA",
+        "rich": "https://i.ytimg.com/an_webp/xDIid1QqAMs/mqdefault_6s.webp?du=3000&sqp=CNK3pNYG&rs=AOn4CLD0lH_1xhWYK3q87Q53BzuJ2MObGg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=SEO+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=SEO%20revision&sp=EgIYA0gUggELTVlFNlRfZ2Q3SDCCAQtZTHRoMHVPaW1MOIIBC3VyZXpLc0JjWkhvggELYkxVa0lnWThNVEWCAQtQbTMwTzVCZlBVQYIBCzBpQ3o3TFhqT2tZggELblg5Q1Yzd2o2UGuCAQtWcmUyTm1vU1Rjb4IBC2RkN051MUxNWm9rggELR21zQXVvdEhHc2-CAQtJR2pxWDF2RVBIQYIBCzktMGQyb3BQWHVVggELLTJIUmU5UV9xeWuCAQtYTzZNU2I5LXMxa4IBCzI3S2Y3ekZieUlNggELOW1oTGJjczk2eGOCAQtNWkxtQXMzMElCOIIBC012S185OTJtVkRNggELZTh3SkJxNnZPQUmCAQt4RElpZDFRcUFNc7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELTVlFNlRfZ2Q3SDCCAQtZTHRoMHVPaW1MOIIBC3VyZXpLc0JjWkhvggELYkxVa0lnWThNVEWCAQtQbTMwTzVCZlBVQYIBCzBpQ3o3TFhqT2tZggELblg5Q1Yzd2o2UGuCAQtWcmUyTm1vU1Rjb4IBC2RkN051MUxNWm9rggELR21zQXVvdEhHc2-CAQtJR2pxWDF2RVBIQYIBCzktMGQyb3BQWHVVggELLTJIUmU5UV9xeWuCAQtYTzZNU2I5LXMxa4IBCzI3S2Y3ekZieUlNggELOW1oTGJjczk2eGOCAQtNWkxtQXMzMElCOIIBC012S185OTJtVkRNggELZTh3SkJxNnZPQUmCAQt4RElpZDFRcUFNc7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SEO+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SEO+revision&sp=EgIYA0gUggELTVlFNlRfZ2Q3SDCCAQtZTHRoMHVPaW1MOIIBC3VyZXpLc0JjWkhvggELYkxVa0lnWThNVEWCAQtQbTMwTzVCZlBVQYIBCzBpQ3o3TFhqT2tZggELblg5Q1Yzd2o2UGuCAQtWcmUyTm1vU1Rjb4IBC2RkN051MUxNWm9rggELR21zQXVvdEhHc2-CAQtJR2pxWDF2RVBIQYIBCzktMGQyb3BQWHVVggELLTJIUmU5UV9xeWuCAQtYTzZNU2I5LXMxa4IBCzI3S2Y3ekZieUlNggELOW1oTGJjczk2eGOCAQtNWkxtQXMzMElCOIIBC012S185OTJtVkRNggELZTh3SkJxNnZPQUmCAQt4RElpZDFRcUFNc7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELTVlFNlRfZ2Q3SDCCAQtZTHRoMHVPaW1MOIIBC3VyZXpLc0JjWkhvggELYkxVa0lnWThNVEWCAQtQbTMwTzVCZlBVQYIBCzBpQ3o3TFhqT2tZggELblg5Q1Yzd2o2UGuCAQtWcmUyTm1vU1Rjb4IBC2RkN051MUxNWm9rggELR21zQXVvdEhHc2-CAQtJR2pxWDF2RVBIQYIBCzktMGQyb3BQWHVVggELLTJIUmU5UV9xeWuCAQtYTzZNU2I5LXMxa4IBCzI3S2Y3ekZieUlNggELOW1oTGJjczk2eGOCAQtNWkxtQXMzMElCOIIBC012S185OTJtVkRNggELZTh3SkJxNnZPQUmCAQt4RElpZDFRcUFNc7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 18:35:47 UTC"
+}

@@ -1,0 +1,446 @@
+{
+  "search_metadata": {
+    "id": "6ac934092c2bb44032f070d9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/XU5-tcDTzqUEZRK4nAglq87F3mKYeSUtTlvGnmekdWk/6ac934092c2bb44032f070d9.json",
+    "markdown_endpoint": "https://serpapi.com/searches/XU5-tcDTzqUEZRK4nAglq87F3mKYeSUtTlvGnmekdWk/6ac934092c2bb44032f070d9.md",
+    "created_at": "2026-10-09 18:35:53 UTC",
+    "processed_at": "2026-10-09 18:35:53 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Django+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/XU5-tcDTzqUEZRK4nAglq87F3mKYeSUtTlvGnmekdWk/6ac934092c2bb44032f070d9.html",
+    "total_time_taken": 2.71
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Django revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 6456,
+    "video_results_state": "Showing results for exact spelling despite spelling suggestion",
+    "spelling_fix": "Django "
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Python Django Explained In 8 Minutes",
+      "link": "https://www.youtube.com/watch?v=0sMtoedWaf0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0sMtoedWaf0",
+      "video_id": "0sMtoedWaf0",
+      "channel": {
+        "name": "Dennis Ivy",
+        "link": "https://www.youtube.com/@DennisIvy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lG_SmL2Lu2Y6RK47pciKeQ_h3KbNANRuicbm-imxKYl5c=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 477697,
+      "length": "8:11",
+      "description": "A list of the 15 most important concepts every Django developer should have a solid grasp on. Django Courses: Django Complete ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0sMtoedWaf0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARFFMnHQ-2Qen3JNNhmv5d_Q9y-w",
+        "rich": "https://i.ytimg.com/an_webp/0sMtoedWaf0/mqdefault_6s.webp?du=3000&sqp=CI6-pNYG&rs=AOn4CLCOEhNotojQ5RE_mqcJY5s6ChzVVQ"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Django REST Framework Oversimplified",
+      "link": "https://www.youtube.com/watch?v=cJveiktaOSQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cJveiktaOSQ",
+      "video_id": "cJveiktaOSQ",
+      "channel": {
+        "name": "Dennis Ivy",
+        "link": "https://www.youtube.com/@DennisIvy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lG_SmL2Lu2Y6RK47pciKeQ_h3KbNANRuicbm-imxKYl5c=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 465123,
+      "length": "9:43",
+      "description": "An oversimplified project and explanation while building and API with the Django REST Framework using Django 4.0. Check out ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/cJveiktaOSQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzyvl4rs6J1z7Dwe60Ly7noBxdaQ",
+        "rich": "https://i.ytimg.com/an_webp/cJveiktaOSQ/mqdefault_6s.webp?du=3000&sqp=CNzjpNYG&rs=AOn4CLA_MYlmbmw770bcW2RWGt9UrBkzFQ"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Django in 8 Minutes 🔥",
+      "link": "https://www.youtube.com/watch?v=rIWJWy3_njo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rIWJWy3_njo",
+      "video_id": "rIWJWy3_njo",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 422519,
+      "length": "8:03",
+      "description": "Python Udemy Course: https://goharry.in/python Get this course at 90% Discount if you use this link In this video, we will look into ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rIWJWy3_njo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8QBv-tkvbsYlKdPH1EFX7lJ7bnA",
+        "rich": "https://i.ytimg.com/an_webp/rIWJWy3_njo/mqdefault_6s.webp?du=3000&sqp=CMKrpNYG&rs=AOn4CLCsXrTgJQushu2Zi7XfucbSpTDPyQ"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "I've Used Django for 10 Years. Here Are the 5 Concepts That Actually Matter",
+      "link": "https://www.youtube.com/watch?v=0NL5_phBVhw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0NL5_phBVhw",
+      "video_id": "0NL5_phBVhw",
+      "channel": {
+        "name": "Arun Godwin Patel",
+        "link": "https://www.youtube.com/@arungp3",
+        "thumbnail": "https://yt3.ggpht.com/0cm3MxQBpg1U_aZodmE1BwNxdRhYhNNgyNWEY5nduEfWS5B9PY3OIS-fevoJxrdvjNHuLccmKA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 37690,
+      "length": "12:20",
+      "description": "LINKS • Work With Us → https://cal.eu/arun-halo/1-hour-discovery-deep-dive • Free AI Readiness Audit ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0NL5_phBVhw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_GRLBrfOTtf8m75XdBwdIxcFPeA",
+        "rich": "https://i.ytimg.com/an_webp/0NL5_phBVhw/mqdefault_6s.webp?du=3000&sqp=COzGpNYG&rs=AOn4CLCCqWMy-J6sxk5QoEhNmWiRSofJHA"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "django-polymorphic - Polymorphic models in Django",
+      "link": "https://www.youtube.com/watch?v=d8MC2FQ_nqU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=d8MC2FQ_nqU",
+      "video_id": "d8MC2FQ_nqU",
+      "channel": {
+        "name": "BugBytes",
+        "link": "https://www.youtube.com/@bugbytes3923",
+        "thumbnail": "https://yt3.ggpht.com/Djz-3NGBMHf8rmTQWQyQNvrLZUuyHwlaSAwhAazJujzBPqZWfK6ekT-bwwXHW629MFUk4nw2psI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8mo ago",
+      "views": 2872,
+      "length": "18:58",
+      "description": "Django & HTMX FULL COURSE: https://www.udemy.com/course/django-htmx-hypermedia-web-apps/?",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/d8MC2FQ_nqU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChrOmDMiFGPBzp9YV2MLpbLPIpdQ",
+        "rich": "https://i.ytimg.com/an_webp/d8MC2FQ_nqU/mqdefault_6s.webp?du=3000&sqp=CLDBpNYG&rs=AOn4CLCKVBIGSwgnO3uuf88zSwEpBWVe7Q"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Deletion recovery and version control for model instances in Django",
+      "link": "https://www.youtube.com/watch?v=D_R8CjHFpzw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=D_R8CjHFpzw",
+      "video_id": "D_R8CjHFpzw",
+      "channel": {
+        "name": "Cloud With Django",
+        "link": "https://www.youtube.com/@CloudWithDjango",
+        "thumbnail": "https://yt3.ggpht.com/ZQc8OPHX55mIRfqDeYhMXmp275tZlCzUBj13RF5vZYCCKWH1Jhjp0fSoqp5jZpzRBrGXOCH8Xg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1668,
+      "length": "13:28",
+      "description": "COURSES — Explore my latest Cloud computing & Django courses: https://www.cloudwithdjango.com/courses In this video, we ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/D_R8CjHFpzw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5USZ_ivGdtK4CKwTZb-A4GTTq2g",
+        "rich": "https://i.ytimg.com/an_webp/D_R8CjHFpzw/mqdefault_6s.webp?du=3000&sqp=CMzCpNYG&rs=AOn4CLCXuf02-TWi0OWqr9NUtYG5J7lHng"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Django CMS & ORM - Iacopo Spalletti (3)",
+      "link": "https://www.youtube.com/watch?v=Is3-5GJo3Dg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Is3-5GJo3Dg",
+      "video_id": "Is3-5GJo3Dg",
+      "channel": {
+        "name": "NL Soft",
+        "link": "https://www.youtube.com/@nlsoft2145",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nzOxVk2XBe9OLXLy_xbZDLbzbLjHafpJR314_lNuQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10y ago",
+      "views": 24,
+      "length": "15:01",
+      "description": "Software Web en App Ontwikkeling.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Is3-5GJo3Dg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArtgbr1dq-R5QOPD7qUUQp2eyPkQ"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "DjangoCon US 2017 - Going Rogue... by Josh Caldwell",
+      "link": "https://www.youtube.com/watch?v=YugOi6N6Atw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YugOi6N6Atw",
+      "video_id": "YugOi6N6Atw",
+      "channel": {
+        "name": "DjangoCon US",
+        "link": "https://www.youtube.com/@DjangoConUS",
+        "thumbnail": "https://yt3.ggpht.com/5TFKECThzcqZh5uX_pZN2vjTJ6yhqUj-rF2rI5GnN2IzZO6LHhlFnM_XmYAS1Uk3It5w2lW3=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 362,
+      "length": "19:50",
+      "description": "DjangoCon US 2017 - Going Rogue: How Code.org Created a Curriculum Development Platform Without their Engineers All by ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/YugOi6N6Atw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnnzdNWwZF1-h_DDcdQGODt99u7g",
+        "rich": "https://i.ytimg.com/an_webp/YugOi6N6Atw/mqdefault_6s.webp?du=3000&sqp=CMi8pNYG&rs=AOn4CLBy93a7eibk-EiDKDzIhogdk0UA_A"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Serializers (Django REST framework)",
+      "link": "https://www.youtube.com/watch?v=uzO2PW5jNMk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uzO2PW5jNMk",
+      "video_id": "uzO2PW5jNMk",
+      "channel": {
+        "name": "CodingWithMitch",
+        "link": "https://www.youtube.com/@codingwithmitch",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kpDxU3_12GUNzMchMeuD6b_cdUqpXLnJEag_yFjpJ4pCg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 120285,
+      "length": "6:30",
+      "description": "Django Rest-framework playlist: http://bit.ly/2JI909W High quality programming courses: https://codingwithmitch.com/courses In ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/uzO2PW5jNMk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2inwSHi7ZCj_rCtv9qUgaL6GRhQ",
+        "rich": "https://i.ytimg.com/an_webp/uzO2PW5jNMk/mqdefault_6s.webp?du=3000&sqp=CNazpNYG&rs=AOn4CLAIE-3jJpTI65DZA6KwS1gCkzW62w"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "7 Concepts Every Django Developer Must Know | Essential Skills for Django Developers",
+      "link": "https://www.youtube.com/watch?v=AqwHQzh18Ic",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=AqwHQzh18Ic",
+      "video_id": "AqwHQzh18Ic",
+      "channel": {
+        "name": "Coding for All ",
+        "link": "https://www.youtube.com/@codingforallnewtonschool",
+        "thumbnail": "https://yt3.ggpht.com/RFWPISFlWLdzYH074F9iaE7sSojzLjlL3J9sv28IKl-4iFLwOCr0hrn5dp_cUhDG7yQIu3PT=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 2326,
+      "length": "10:28",
+      "description": "In this video, I have taught 7 concepts that a Django developer must know for becoming a great Django developer. If you are a ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/AqwHQzh18Ic/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZewIfooujZ9goWZKA4RFZ9P4afw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Django Revision || Django Basics Part - 5-6",
+      "link": "https://www.youtube.com/watch?v=E5mWU4JP9NU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=E5mWU4JP9NU",
+      "video_id": "E5mWU4JP9NU",
+      "channel": {
+        "name": "Humbled Coder",
+        "link": "https://www.youtube.com/@humbledcoder_",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k13ZjQq-9ppdRmyo77YZzi4ssQgV-K67ZkzTuDQhVqRQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 31,
+      "length": "12:41",
+      "description": "I always forget where i left off on these tutorials or what i studied last...Hence making these to help me resume my progress.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/E5mWU4JP9NU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhEIFgocjAP&rs=AOn4CLA0kQiRccWdu5vkyt9lgTmx2Nlgbw",
+        "rich": "https://i.ytimg.com/an_webp/E5mWU4JP9NU/mqdefault_6s.webp?du=3000&sqp=COjdpNYG&rs=AOn4CLB5k5LXI2r_In25oqh5tRdL5GI61g"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Django Revision || Django Basics Part - 4",
+      "link": "https://www.youtube.com/watch?v=LFd1U7O9zNc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LFd1U7O9zNc",
+      "video_id": "LFd1U7O9zNc",
+      "channel": {
+        "name": "Humbled Coder",
+        "link": "https://www.youtube.com/@humbledcoder_",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k13ZjQq-9ppdRmyo77YZzi4ssQgV-K67ZkzTuDQhVqRQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 46,
+      "length": "17:19",
+      "description": "I always forget where i left off on these tutorials or what i studied last...Hence making these to help me resume my progress.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LFd1U7O9zNc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhDIFUoZTAP&rs=AOn4CLBlQbSFoZkvSPIiIrpFV-QFhOPVkQ",
+        "rich": "https://i.ytimg.com/an_webp/LFd1U7O9zNc/mqdefault_6s.webp?du=3000&sqp=CJvepNYG&rs=AOn4CLD85wLLR7pZpfpG3kc5Bpq7SSmcqw"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Django under the hood: Django CMS and the ORM part 3 - Iacopo Spalletti",
+      "link": "https://www.youtube.com/watch?v=WNYB2ki-FBQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WNYB2ki-FBQ",
+      "video_id": "WNYB2ki-FBQ",
+      "channel": {
+        "name": "Nephila",
+        "link": "https://www.youtube.com/@NephilaIt",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m0DMkzy4L-cKsA7m0Puc4PkKfxPqlTtBGryMQMLOfVxUI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10y ago",
+      "views": 64,
+      "length": "15:01",
+      "description": "Iacopo Spalletti is one of the core developers of django CMS. django CMS was invited to give a talk because it is a big Django ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WNYB2ki-FBQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_61sh2OUxfccqyrO9JTNVMdMl7Q"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Django Revision || Django Basics Part - 3",
+      "link": "https://www.youtube.com/watch?v=CwHvkr5x11E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CwHvkr5x11E",
+      "video_id": "CwHvkr5x11E",
+      "channel": {
+        "name": "Humbled Coder",
+        "link": "https://www.youtube.com/@humbledcoder_",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k13ZjQq-9ppdRmyo77YZzi4ssQgV-K67ZkzTuDQhVqRQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 51,
+      "length": "17:56",
+      "description": "I always forget where i left off on these tutorials or what i studied last...Hence making these to help me resume my progress.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/CwHvkr5x11E/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhFIFoocjAP&rs=AOn4CLDVfdw_NV1XJbBCdeNZvYduS6HNng",
+        "rich": "https://i.ytimg.com/an_webp/CwHvkr5x11E/mqdefault_6s.webp?du=3000&sqp=CIPNpNYG&rs=AOn4CLC4dZiegdCspw5RCPFDlyVk1EWA9g"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Chipo Django 3 by Rabenauge & Bitshifters - Revision 2026 Wild Competition",
+      "link": "https://www.youtube.com/watch?v=LYDVH9C3qBQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LYDVH9C3qBQ",
+      "video_id": "LYDVH9C3qBQ",
+      "channel": {
+        "name": "Revision Captures",
+        "link": "https://www.youtube.com/@RevisionCaptures",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mnGXcL0KszYMsI62kVTagndI_kJX_4Hisv69O5mUd67A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 76,
+      "length": "4:03",
+      "description": "Placed 13th It's a triple AAA production! (Amiga, Archimedes, Atari) Another cross platform music disk packed with 42 minutes of ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LYDVH9C3qBQ/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgeIGUoXzAP&rs=AOn4CLAXOLIaAxDo7x6JKCMunaEFmRdgLA",
+        "rich": "https://i.ytimg.com/an_webp/LYDVH9C3qBQ/mqdefault_6s.webp?du=3000&sqp=COzHpNYG&rs=AOn4CLAmMVCs402xDGLEYWliWtGHx40YgA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Django Revision Project Day 10 | Full Django Revision in Hindi | Beginner to Advanced Django Tutoria",
+      "link": "https://www.youtube.com/watch?v=iHb7FJl2qL0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iHb7FJl2qL0",
+      "video_id": "iHb7FJl2qL0",
+      "channel": {
+        "name": "Coding with Nirmala",
+        "link": "https://www.youtube.com/@CodingwithNirmala-Nm",
+        "thumbnail": "https://yt3.ggpht.com/hCDkw0I6nCwedp9iGKheYOg2iDGVFqhy9k-tSUSspL17MFkCyhvIL7loFjNO2NIlapcDfrMSAA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 87,
+      "length": "11:46",
+      "description": "Welcome to Day 10 of Django Revision Project In this video, we will revise all Django topics (till Day 9) without using models.py ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/iHb7FJl2qL0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABbyYZH02yxFDmw5PahchvonsSwg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Django: Dynamically Returning Translated Fields Using Custom QuerySets",
+      "link": "https://www.youtube.com/watch?v=OObYq2unXjw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OObYq2unXjw",
+      "video_id": "OObYq2unXjw",
+      "channel": {
+        "name": "vlogommentary",
+        "link": "https://www.youtube.com/@vlogommentary",
+        "thumbnail": "https://yt3.ggpht.com/Q2FnuRIaONshrl3x2az4E8pq3YlS10UjUeTP__1eWixJ1jp3A68kRAm3fXC5hmr-fZtdKlqnow=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2w ago",
+      "views": 3,
+      "length": "4:16",
+      "description": "Learn how to dynamically fetch default or translated model fields in Django using custom QuerySets and annotations, ensuring ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OObYq2unXjw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIDwoRjAP&rs=AOn4CLCsmLdaUFDOYzuLzT8m1kh5V3gLRg",
+        "rich": "https://i.ytimg.com/an_webp/OObYq2unXjw/mqdefault_6s.webp?du=3000&sqp=CICnpNYG&rs=AOn4CLB9VGr30J8Hg4RvOOv-YSmeRc1BzA"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Managing Dynamic Multi-Database Connections in Django for Multi-Tenant SaaS",
+      "link": "https://www.youtube.com/watch?v=EJnj0vHst20",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EJnj0vHst20",
+      "video_id": "EJnj0vHst20",
+      "channel": {
+        "name": "vlogommentary",
+        "link": "https://www.youtube.com/@vlogommentary",
+        "thumbnail": "https://yt3.ggpht.com/Q2FnuRIaONshrl3x2az4E8pq3YlS10UjUeTP__1eWixJ1jp3A68kRAm3fXC5hmr-fZtdKlqnow=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1mo ago",
+      "views": 11,
+      "length": "4:19",
+      "description": "Learn best practices for handling dynamic PostgreSQL databases per tenant in Django, exploring runtime connection ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EJnj0vHst20/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN0MtIAlulmJXFBIASS21oulGo6A"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Django REST Framework (DRF) Explained A–Z | FBV vs CBV vs Generic Views vs ViewSets Explained",
+      "link": "https://www.youtube.com/watch?v=z6_wvqRliDI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=z6_wvqRliDI",
+      "video_id": "z6_wvqRliDI",
+      "channel": {
+        "name": "Mr Mosnabi",
+        "link": "https://www.youtube.com/@MDMosnabi",
+        "thumbnail": "https://yt3.ggpht.com/BhxyNxh-FW5ifiybNdrvgcDYweymQOSTuBs69opyQ0XHrR_OnCcy9OrArBbvMZUXQ6YkACYC5g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 51,
+      "length": "8:11",
+      "description": "Complete Reminder Guide to Django & Django REST Framework (DRF) – From Beginner to Advanced | FVB, CBV, Generic ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/z6_wvqRliDI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAe8XdfMKzqp4kFDOHWI4SHONXC7w",
+        "rich": "https://i.ytimg.com/an_webp/z6_wvqRliDI/mqdefault_6s.webp?du=3000&sqp=CKTepNYG&rs=AOn4CLD9Mvw97h6R9sFFeYXH80GGmJDudg"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Django REST Framework - Build an API from Scratch | # 42 Revision and Solving bugs | FlyDeck",
+      "link": "https://www.youtube.com/watch?v=13oa0m29IXs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=13oa0m29IXs",
+      "video_id": "13oa0m29IXs",
+      "channel": {
+        "name": "FlyDeck",
+        "link": "https://www.youtube.com/@flydeck1048",
+        "thumbnail": "https://yt3.ggpht.com/P_VJt3oke0oFPiIYtjMtM2ziOk42sHGK74d76YaaF6EaYorWpaXCQ6zsSIP7yyzSRKDaS0Zm=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 486,
+      "length": "12:18",
+      "description": "Looking to become a Django REST API pro? Look no further! In this comprehensive course, we take you from beginner to expert ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/13oa0m29IXs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrCU5KbNsivQgY3_fxmcerAnM2DA",
+        "rich": "https://i.ytimg.com/an_webp/13oa0m29IXs/mqdefault_6s.webp?du=3000&sqp=CIe1pNYG&rs=AOn4CLCe6Rg4Lj1Us0vKDwJkjGA5zuCEmg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Django+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Django%20revision&sp=EgIYA0gUggELMHNNdG9lZFdhZjCCAQtjSnZlaWt0YU9TUYIBC3JJV0pXeTNfbmpvggELME5MNV9waEJWaHeCAQtkOE1DMkZRX25xVYIBC0RfUjhDakhGcHp3ggELSXMzLTVHSm8zRGeCAQtZdWdPaTZONkF0d4IBC3V6TzJQVzVqTk1rggELQXF3SFF6aDE4SWOCAQtFNW1XVTRKUDlOVYIBC0xGZDFVN085ek5jggELV05ZQjJraS1GQlGCAQtDd0h2a3I1eDExRYIBC0xZRFZIOUMzcUJRggELaUhiN0ZKbDJxTDCCAQtPT2JZcTJ1blhqd4IBC0VKbmowdkhzdDIwggELejZfd3ZxUmxpREmCAQsxM29hMG0yOUlYc7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELMHNNdG9lZFdhZjCCAQtjSnZlaWt0YU9TUYIBC3JJV0pXeTNfbmpvggELME5MNV9waEJWaHeCAQtkOE1DMkZRX25xVYIBC0RfUjhDakhGcHp3ggELSXMzLTVHSm8zRGeCAQtZdWdPaTZONkF0d4IBC3V6TzJQVzVqTk1rggELQXF3SFF6aDE4SWOCAQtFNW1XVTRKUDlOVYIBC0xGZDFVN085ek5jggELV05ZQjJraS1GQlGCAQtDd0h2a3I1eDExRYIBC0xZRFZIOUMzcUJRggELaUhiN0ZKbDJxTDCCAQtPT2JZcTJ1blhqd4IBC0VKbmowdkhzdDIwggELejZfd3ZxUmxpREmCAQsxM29hMG0yOUlYc7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Django+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Django+revision&sp=EgIYA0gUggELMHNNdG9lZFdhZjCCAQtjSnZlaWt0YU9TUYIBC3JJV0pXeTNfbmpvggELME5MNV9waEJWaHeCAQtkOE1DMkZRX25xVYIBC0RfUjhDakhGcHp3ggELSXMzLTVHSm8zRGeCAQtZdWdPaTZONkF0d4IBC3V6TzJQVzVqTk1rggELQXF3SFF6aDE4SWOCAQtFNW1XVTRKUDlOVYIBC0xGZDFVN085ek5jggELV05ZQjJraS1GQlGCAQtDd0h2a3I1eDExRYIBC0xZRFZIOUMzcUJRggELaUhiN0ZKbDJxTDCCAQtPT2JZcTJ1blhqd4IBC0VKbmowdkhzdDIwggELejZfd3ZxUmxpREmCAQsxM29hMG0yOUlYc7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELMHNNdG9lZFdhZjCCAQtjSnZlaWt0YU9TUYIBC3JJV0pXeTNfbmpvggELME5MNV9waEJWaHeCAQtkOE1DMkZRX25xVYIBC0RfUjhDakhGcHp3ggELSXMzLTVHSm8zRGeCAQtZdWdPaTZONkF0d4IBC3V6TzJQVzVqTk1rggELQXF3SFF6aDE4SWOCAQtFNW1XVTRKUDlOVYIBC0xGZDFVN085ek5jggELV05ZQjJraS1GQlGCAQtDd0h2a3I1eDExRYIBC0xZRFZIOUMzcUJRggELaUhiN0ZKbDJxTDCCAQtPT2JZcTJ1blhqd4IBC0VKbmowdkhzdDIwggELejZfd3ZxUmxpREmCAQsxM29hMG0yOUlYc7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 18:35:53 UTC"
+}

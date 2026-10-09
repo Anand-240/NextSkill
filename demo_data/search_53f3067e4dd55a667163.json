@@ -1,0 +1,451 @@
+{
+  "search_metadata": {
+    "id": "6ac933f5eb46ef6576acecbb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Lvf5SmwA0imAQHiqM8GhBPxoC8VOhcZfMOdiowHsrJM/6ac933f5eb46ef6576acecbb.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Lvf5SmwA0imAQHiqM8GhBPxoC8VOhcZfMOdiowHsrJM/6ac933f5eb46ef6576acecbb.md",
+    "created_at": "2026-10-09 18:35:33 UTC",
+    "processed_at": "2026-10-09 18:35:33 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=GST+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/Lvf5SmwA0imAQHiqM8GhBPxoC8VOhcZfMOdiowHsrJM/6ac933f5eb46ef6576acecbb.html",
+    "total_time_taken": 2.67
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "GST revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 883558,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Revision of GST An Introduction",
+      "link": "https://www.youtube.com/watch?v=ICmEzMLIlV0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ICmEzMLIlV0",
+      "video_id": "ICmEzMLIlV0",
+      "channel": {
+        "name": "CA Keval Mota",
+        "link": "https://www.youtube.com/@CAKevalMota",
+        "thumbnail": "https://yt3.ggpht.com/P1M-ddMog_ZoxT38ZH1YiTM8a_QBJ02_d_ppPSAWdIt8ibCK7ckXxLR_gFw6Smbi0XuiA6vYTic=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1mo ago",
+      "views": 224,
+      "length": "11:39",
+      "description": "CA Inter & CMA Inter GST Lectures by CA Keval Mota Welcome to our GST Lecture Series by CA Keval Mota, specially designed ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ICmEzMLIlV0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA99Knu7f71aMtjs6OaeEo6mjqWTw",
+        "rich": "https://i.ytimg.com/an_webp/ICmEzMLIlV0/mqdefault_6s.webp?du=3000&sqp=CJnlpNYG&rs=AOn4CLAsQmCPFtRVfrjlVoO0WQXnXomrIg"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "🔥GST Revision Class - 03 | Taxable Person | CA CMA CS Final | 🚀 IDT Revision#GST #IDT📚",
+      "link": "https://www.youtube.com/watch?v=JybIDU4_LNU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JybIDU4_LNU",
+      "video_id": "JybIDU4_LNU",
+      "channel": {
+        "name": "CA RAJKUMAR CLASSES",
+        "link": "https://www.youtube.com/@carajkumarofficial",
+        "thumbnail": "https://yt3.ggpht.com/T67KiipNyK_aTGxQ0lD27r31M5TQPm-VAsxCbPYtgqN6oofkP0lon_6muJuGc-LWrw3y2TnT7sc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "12h ago",
+      "views": 251,
+      "length": "13:49",
+      "description": "Taxable person - CA FINAL IDT REVISION NOTING click here - https://carajkumar.com/free-resource For More ...",
+      "extensions": [
+        "New"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JybIDU4_LNU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYvGjInUzFBUFHfOaRfYaVxvN2QQ",
+        "rich": "https://i.ytimg.com/an_webp/JybIDU4_LNU/mqdefault_6s.webp?du=3000&sqp=CPHEpNYG&rs=AOn4CLBpinK0rWp74ZaWF9cLXwH5ucZJwQ"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "GST Revision | Ch 11 - Accounts & Records | HakkSeCA | CA Inter | by CA. Akash",
+      "link": "https://www.youtube.com/watch?v=nLLANVA4ldI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nLLANVA4ldI",
+      "video_id": "nLLANVA4ldI",
+      "channel": {
+        "name": "HakkSeCA by CA. Akash Sir",
+        "link": "https://www.youtube.com/@hakkseca",
+        "thumbnail": "https://yt3.ggpht.com/7V_3zlVw65r2jOcW-1vE9UBVi0oELK9xS7A2sL4pLk5ePTgedtJd1zmj9cCel1vTgewov2GTHFM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 557,
+      "length": "19:06",
+      "description": "🚨 Ultimate GST Revision Series for CA Inter Sept’26 & Jan’27 🚨\n\nRevise your complete GST syllabus in the least time possible ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/nLLANVA4ldI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiqwUCECCxIhyl5aV5mdlHwak00Q",
+        "rich": "https://i.ytimg.com/an_webp/nLLANVA4ldI/mqdefault_6s.webp?du=3000&sqp=CKDXpNYG&rs=AOn4CLA5fpALpT9QTFfToT-hyqpq7WmC8A"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Job Work in Under 10 Minutes | CA Final IDT GST | Quick Revision | Jan/ May 2026",
+      "link": "https://www.youtube.com/watch?v=JOCsaHXdlgs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JOCsaHXdlgs",
+      "video_id": "JOCsaHXdlgs",
+      "channel": {
+        "name": "CA Amrita Maniyar",
+        "link": "https://www.youtube.com/@CAAmritaManiyar",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lXv4H6SKWr4cETPhTbWpo6NWhf4cRi4epSqN71iQV3z-EX=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 1401,
+      "length": "6:08",
+      "description": "This video covers Job Work under GST for CA Final IDT in a simple, exam-oriented manner. Ideal for quick revision, concept ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JOCsaHXdlgs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEu1biMHDjamV1fENpB_uC2UGuzw",
+        "rich": "https://i.ytimg.com/an_webp/JOCsaHXdlgs/mqdefault_6s.webp?du=3000&sqp=CObNpNYG&rs=AOn4CLCs4iEC_QMFE9jdDPe9QFi-NRVNJw"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "CA Inter Taxation GST Revision | L6: Value of Supply By CA Nishant Kumar",
+      "link": "https://www.youtube.com/watch?v=Lyc4hLgCOCA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Lyc4hLgCOCA",
+      "video_id": "Lyc4hLgCOCA",
+      "channel": {
+        "name": "CA Intermediate Adda247",
+        "link": "https://www.youtube.com/@CAIntermediateAdda247",
+        "thumbnail": "https://yt3.ggpht.com/2q8ydZPExy5iUZP4j-jHHSaehLKjWzej5jzQ2UzHAr-C93jzbvu9kOs3eWoxkp-ZNtmPcIrzGw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 63186,
+      "length": "9:35",
+      "description": "In Lesson 6 of the CA Inter Taxation GST Revision series, CA Nishant Kumar from Adda247 Ekagrata CA will explain the critical ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Lyc4hLgCOCA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCG0NEjWeka1BpgwfzCfTpe5qfRQ",
+        "rich": "https://i.ytimg.com/an_webp/Lyc4hLgCOCA/mqdefault_6s.webp?du=3000&sqp=CODJpNYG&rs=AOn4CLB8aiVc2i6Z-i4h456-GI2PR336MQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "GST || LAST MINUTE REVISION || SEMESTER - 6 || OSMANIA UNIVERSITY || 💯 PASS || ‎⁨@shivanipallela⁩ ",
+      "link": "https://www.youtube.com/watch?v=RloDkx87xZc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RloDkx87xZc",
+      "video_id": "RloDkx87xZc",
+      "channel": {
+        "name": "SHIVANI PALLELA",
+        "link": "https://www.youtube.com/@shivanipallela",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/U-_qyG5KN1Xfb-YxG7dOc4mOo8MCS3aMeKEdKiVyC-brkg0xiaEJCEhB0VOuYm-OGJT6TW7ZLQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 12940,
+      "length": "7:04",
+      "description": "Welcome back to our channel So students in this video we will discuss the last minute revision of the subject GST so that you will ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/RloDkx87xZc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm0PgAxKq4cHfqs876LW2c8M5XJg",
+        "rich": "https://i.ytimg.com/an_webp/RloDkx87xZc/mqdefault_6s.webp?du=3000&sqp=CMWlpNYG&rs=AOn4CLCzZ9EMB570Uxoj5jKuWJoBQYtpEQ"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "TDS TCS | GST Super Revision | CA CMA CS | CA Amit Mahajan",
+      "link": "https://www.youtube.com/watch?v=0GsdT-JlaUE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0GsdT-JlaUE",
+      "video_id": "0GsdT-JlaUE",
+      "channel": {
+        "name": "CA Amit Mahajan",
+        "link": "https://www.youtube.com/@CrackTaxWithAmit",
+        "thumbnail": "https://yt3.ggpht.com/HMkuJ7VBm5-4Xg9TGSDsx1z1Qs4erNHr1nyr5e2DRDpqweVYjf2zLnTYHgvWEeQ8o6gHp9kimQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 84663,
+      "length": "12:54",
+      "description": "Kasa Kaay??\n\nLet's go with our FRESH Super Revisions for CA Inter / CMA Inter / CS Executive Students who are giving their ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0GsdT-JlaUE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjoinbLeGYdQFZGvLW8aWeFlJeQA",
+        "rich": "https://i.ytimg.com/an_webp/0GsdT-JlaUE/mqdefault_6s.webp?du=3000&sqp=CPDcpNYG&rs=AOn4CLC_6Hey6xifMCT0qN-qBg4i7XlwsQ"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "UP Police 2025 | GST | Goods and Service Tax | UP Police GST Class, Special GK By Ankit Sir",
+      "link": "https://www.youtube.com/watch?v=bDAqe9kdD3w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bDAqe9kdD3w",
+      "video_id": "bDAqe9kdD3w",
+      "channel": {
+        "name": "Target with Ankit TWA",
+        "link": "https://www.youtube.com/@TargetwithAnkitTWA",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/6YDh20mTLh04J6kdXPAboCXBDnxTdUXl983nCRpP7VaVECq7ZhmFF6XEpz7Ip0ts-OIcOJXYYuE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 215079,
+      "length": "16:24",
+      "description": "UP Police 2025, UP Police 2025 Exam, UP Police Constable 2025, UP Police Bharti 2025, UP Police Vacancy 2025, UP Police ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bDAqe9kdD3w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2G8D8WDlBxNBXGz4Trg134tLnKw",
+        "rich": "https://i.ytimg.com/an_webp/bDAqe9kdD3w/mqdefault_6s.webp?du=3000&sqp=CKjBpNYG&rs=AOn4CLDBx9YMTw2UgikdYa4xDUisKr7Oyg"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "GST Revision | Ch 14 - TDS & TCS under GST | HakkSeCA | CA Inter | by CA. Akash",
+      "link": "https://www.youtube.com/watch?v=fXY0gMIKodI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fXY0gMIKodI",
+      "video_id": "fXY0gMIKodI",
+      "channel": {
+        "name": "HakkSeCA by CA. Akash Sir",
+        "link": "https://www.youtube.com/@hakkseca",
+        "thumbnail": "https://yt3.ggpht.com/7V_3zlVw65r2jOcW-1vE9UBVi0oELK9xS7A2sL4pLk5ePTgedtJd1zmj9cCel1vTgewov2GTHFM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 745,
+      "length": "14:37",
+      "description": "🚨 Ultimate GST Revision Series for CA Inter Sept’26 & Jan’27 🚨\n\nRevise your complete GST syllabus in the least time possible ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fXY0gMIKodI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCZpnengFrw4sjVmbu2G1I0ErgmA",
+        "rich": "https://i.ytimg.com/an_webp/fXY0gMIKodI/mqdefault_6s.webp?du=3000&sqp=CJbVpNYG&rs=AOn4CLAA5XhxGeb6KitIfavTQREbs4Kjwg"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Accounts & Records | Section 35 & 36 | GST Marathon | Indirect Tax Revision in English | CA Inter",
+      "link": "https://www.youtube.com/watch?v=rn4ZJrQhJmM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rn4ZJrQhJmM",
+      "video_id": "rn4ZJrQhJmM",
+      "channel": {
+        "name": "CA Vikas Gowda",
+        "link": "https://www.youtube.com/@cavikasgowda",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_manNKACRbnKoa_A0eI34N42eczq9erewefEcyEsBlaVw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 1188,
+      "length": "14:26",
+      "description": "Topic Covered: Quick Revision of Accounts & Records under section 35 & 36 (Chapter 11) as applicable for May 2026, ...",
+      "extensions": [
+        "Lecture"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rn4ZJrQhJmM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDbLX_vTD7NIk9PMqPLa2vzSsnfw",
+        "rich": "https://i.ytimg.com/an_webp/rn4ZJrQhJmM/mqdefault_6s.webp?du=3000&sqp=CPzDpNYG&rs=AOn4CLBsXtB4BU0z3zjdgf3T601jKgObJw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Value of Supply Revision I CA Inter GST I May 2025 I CA Bhawna Jain",
+      "link": "https://www.youtube.com/watch?v=fAbtnwrZIXw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fAbtnwrZIXw",
+      "video_id": "fAbtnwrZIXw",
+      "channel": {
+        "name": "CA Ritwick Hasija Classes",
+        "link": "https://www.youtube.com/@CARitwickHasijaClasses",
+        "thumbnail": "https://yt3.ggpht.com/TYvqIKV_LEJ2wfWThJjjIjhOZPKO0ISDJLRHn8y3Ri9nMgAdVu2B34jdXE5uPxc7MKOv5IQvGF4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 12233,
+      "length": "15:31",
+      "description": "Get your FREE Notes Here! https://www.ritwickhasijaclasses.com/free-resources For Queries Connect - [REDACTED PHONE], ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fAbtnwrZIXw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFIjtCJ9oWiGb5PkMUamfzqWiRjg",
+        "rich": "https://i.ytimg.com/an_webp/fAbtnwrZIXw/mqdefault_6s.webp?du=3000&sqp=CODhpNYG&rs=AOn4CLC6VTGm7oseK0-vVR5cT0RaaJSdAw"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Accounts & Records Revision | CA Inter GST | CA Bhawna Jain",
+      "link": "https://www.youtube.com/watch?v=6DmwiNmtoKE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6DmwiNmtoKE",
+      "video_id": "6DmwiNmtoKE",
+      "channel": {
+        "name": "CA Ritwick Hasija Classes",
+        "link": "https://www.youtube.com/@CARitwickHasijaClasses",
+        "thumbnail": "https://yt3.ggpht.com/TYvqIKV_LEJ2wfWThJjjIjhOZPKO0ISDJLRHn8y3Ri9nMgAdVu2B34jdXE5uPxc7MKOv5IQvGF4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 11451,
+      "length": "12:52",
+      "description": "Get your FREE Notes Here! https://www.ritwickhasijaclasses.com/free-resources For Queries Connect - [REDACTED PHONE], ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6DmwiNmtoKE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJYSTgedWX158HVHzFysBylR5MVg",
+        "rich": "https://i.ytimg.com/an_webp/6DmwiNmtoKE/mqdefault_6s.webp?du=3000&sqp=CK3CpNYG&rs=AOn4CLAkQUqKe5uEazj4RajT4VbVi2itZg"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "CA Inter GST Revision | Value of Supply | VOS in 10 Minutes | CA Karan Satija",
+      "link": "https://www.youtube.com/watch?v=la7ARFXJJ3A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=la7ARFXJJ3A",
+      "video_id": "la7ARFXJJ3A",
+      "channel": {
+        "name": "CA Karan Satija",
+        "link": "https://www.youtube.com/@CAKaranSatija",
+        "thumbnail": "https://yt3.ggpht.com/gJzu3-5Z2TD-mRC_VplHYJ-KVJsPp6UQrVz3JaH1NIDAuOOT4TcJlKLImottrqmwJ_nVwICCNA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 321,
+      "length": "10:02",
+      "description": "Welcome back to the CA Inter GST Revision Series — where every important topic is revised in under 10 minutes!\n\nIn this video ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/la7ARFXJJ3A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp3zkMLYjPBHE3U8z10nd_X_rrHw",
+        "rich": "https://i.ytimg.com/an_webp/la7ARFXJJ3A/mqdefault_6s.webp?du=3000&sqp=COCepNYG&rs=AOn4CLARpF7kAB4jZbAFmJhjaIB0cVga5Q"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "CA Inter Taxation GST Revision | L-5: Time of Supply By CA Nishant Kumar Sir",
+      "link": "https://www.youtube.com/watch?v=cvGdsfK_Ai8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cvGdsfK_Ai8",
+      "video_id": "cvGdsfK_Ai8",
+      "channel": {
+        "name": "CA Intermediate Adda247",
+        "link": "https://www.youtube.com/@CAIntermediateAdda247",
+        "thumbnail": "https://yt3.ggpht.com/2q8ydZPExy5iUZP4j-jHHSaehLKjWzej5jzQ2UzHAr-C93jzbvu9kOs3eWoxkp-ZNtmPcIrzGw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 75162,
+      "length": "19:16",
+      "description": "In this CA Intermediate Taxation: Time of Supply GST Revision video, our expert CA Nishant Kumar Sir from Ekagrata covers all ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/cvGdsfK_Ai8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI2T49xpZIJQUfZxFPgthFWt8yHw",
+        "rich": "https://i.ytimg.com/an_webp/cvGdsfK_Ai8/mqdefault_6s.webp?du=3000&sqp=CMzipNYG&rs=AOn4CLDydWGCY4HwDzxzEBVzMX6Zli-NZw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "|CA Inter GST 40 Marks Confirmed| GST Paper Exposed| Sep 2026 Exam| CA Inter GST Important Questions",
+      "link": "https://www.youtube.com/watch?v=DMRijay0wJQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DMRijay0wJQ",
+      "video_id": "DMRijay0wJQ",
+      "channel": {
+        "name": "CA NITIN CHAWLA (A.C.C.A)",
+        "link": "https://www.youtube.com/@CANitinChawla",
+        "thumbnail": "https://yt3.ggpht.com/s0svm0LneXCKvi9thK-orJjp3lT4H9c-V9fKokoSOGPh35skbu5rYFQkN6QWGmURoZmpZhJOTw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1mo ago",
+      "views": 23935,
+      "length": "5:59",
+      "description": "... Most Expected GST Questions ✓ CA Inter GST Important Topics ✓ Last Minute GST Revision ✓ Sep 2026 Exam Preparation ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/DMRijay0wJQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjzb89qTE-Fq58f2bUkWyJ7eC2Qg",
+        "rich": "https://i.ytimg.com/an_webp/DMRijay0wJQ/mqdefault_6s.webp?du=3000&sqp=CKTTpNYG&rs=AOn4CLDxUIzPn3-KRCH2gydkSDYmbpvyyw"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "GST ONE SHOT REVISION | ALL LIMITS IN 18 MINUTES | CA INTER | CS EXECUTIVE | CA NIKHIL GOKHRU",
+      "link": "https://www.youtube.com/watch?v=HgOsoRchUY4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HgOsoRchUY4",
+      "video_id": "HgOsoRchUY4",
+      "channel": {
+        "name": "CA Nikhil Gokhru",
+        "link": "https://www.youtube.com/@CANikhilGokhru",
+        "thumbnail": "https://yt3.ggpht.com/TAjfHE2iEZXGXbI77JvGULGQ06gLUI2g44xnDBJxyy5Ftz2fbm1vZWFdF9Is4BOh4EkrzsVmNQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 484,
+      "length": "18:55",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HgOsoRchUY4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqzUtYuD-HeGa2zKOAU7pDAZgluA",
+        "rich": "https://i.ytimg.com/an_webp/HgOsoRchUY4/mqdefault_6s.webp?du=3000&sqp=CLrTpNYG&rs=AOn4CLA-xYvUCgLPSJRN_SJpWY906DaFbQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Want 45+ in CA Inter GST? | Smart Strategy Most Students Ignore | Sep 2026 🚀 #cainter #gst #sep26",
+      "link": "https://www.youtube.com/watch?v=YvmbSAm-5XU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YvmbSAm-5XU",
+      "video_id": "YvmbSAm-5XU",
+      "channel": {
+        "name": "CA Krishna Bhojani ",
+        "link": "https://www.youtube.com/@CAKrishnaBhojani",
+        "thumbnail": "https://yt3.ggpht.com/RVdubA2mRd8vFqG0rhDRP36Jw1WQK0IwqZ_f-gFF020CdTrXf1NSzmMN62BUv2Po4VI9YTpRTg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 6575,
+      "length": "15:06",
+      "description": "... GST Sep 2026, GST Sep 2026, CA Inter, GST Strategy, GST Preparation, CA Exam, ICAI, CA Students, Taxation, GST Revision, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/YvmbSAm-5XU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOLiM05oMkuDd6av0CSBtlRrHsrA",
+        "rich": "https://i.ytimg.com/an_webp/YvmbSAm-5XU/mqdefault_6s.webp?du=3000&sqp=CMW6pNYG&rs=AOn4CLCYlYWkgr7V_9RFGBdi6FL5J57QTg"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "CA Inter GST Revision | Accounts & Records Under GST | Sep 25 | CA Vedant Bajaj",
+      "link": "https://www.youtube.com/watch?v=EQ-GqMCmqWk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EQ-GqMCmqWk",
+      "video_id": "EQ-GqMCmqWk",
+      "channel": {
+        "name": "Vedant Bajaj",
+        "link": "https://www.youtube.com/@cavedantmbajaj",
+        "thumbnail": "https://yt3.ggpht.com/p5KVmbUnOOhJ1BppArAx1vt4r1k1yzWFB3CPCv6-bshUckwcMFJvabPdvpnj6RqTZMZINqXuWFw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 690,
+      "length": "10:50",
+      "description": "Welcome to the booster revision series where in we will be revising all the chapters of your syllabus and covering all the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EQ-GqMCmqWk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArelYJysrNME6qbv7PGEl6Ey6mZw",
+        "rich": "https://i.ytimg.com/an_webp/EQ-GqMCmqWk/mqdefault_6s.webp?du=3000&sqp=CJLXpNYG&rs=AOn4CLDRg1zVA8iV1PehJ7lgwguh9U4p4w"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "GST Bullet Super Fast Revision Time of Supply CMA Inter June 2026",
+      "link": "https://www.youtube.com/watch?v=6U9I4ATCaN0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6U9I4ATCaN0",
+      "video_id": "6U9I4ATCaN0",
+      "channel": {
+        "name": "KDC Educational Institute",
+        "link": "https://www.youtube.com/@kdceducationalinstitute",
+        "thumbnail": "https://yt3.ggpht.com/R07Cu78Tw9xNvbjsybgkzGFlDqfylitsnG3z2L0y-guyo2aLsU8WoryX71zQRZoApST8iDwv=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 1377,
+      "length": "8:57",
+      "description": "Telegram Group - https://t.me/w8saDPrGKS83NTk1 Instagram Handle - https://www.instagram.com/deepaksharm... App Link ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6U9I4ATCaN0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZdt8VseJ51LPio4xVrWs7SIzboA",
+        "rich": "https://i.ytimg.com/an_webp/6U9I4ATCaN0/mqdefault_6s.webp?du=3000&sqp=CKrBpNYG&rs=AOn4CLBUlyUSLm3qzrUF44KlmOhr2rjehQ"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "CA Inter GST September 2026 | Complete 40+ Marks Strategy by CA Vishal Bhattad",
+      "link": "https://www.youtube.com/watch?v=wgLIyIfwq2o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wgLIyIfwq2o",
+      "video_id": "wgLIyIfwq2o",
+      "channel": {
+        "name": "Think GST Think Vishal Sir",
+        "link": "https://www.youtube.com/@thinkgstthinkvishalsir",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/VI7SaiPCzUa4sNScilACWBuaP0TK2f5ZtjMR7VEXlsjvjSgGCgZ8ghg9kiYSNeRhhjUPadKTGDM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 35785,
+      "length": "18:14",
+      "description": "PDF of Analysis Telegram channel : https://t.me/idtvishalsir/1080 Join my Telegram Channel : https://t.me/idtvishalsir Want to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wgLIyIfwq2o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOauZ6M8NcFvQ2hvb9DWq8rqvytw",
+        "rich": "https://i.ytimg.com/an_webp/wgLIyIfwq2o/mqdefault_6s.webp?du=3000&sqp=CPDcpNYG&rs=AOn4CLCBbndo8DQUPq3rJi0zKHduVq97PQ"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=GST+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=GST%20revision&sp=EgIYA0gUggELSUNtRXpNTElsVjCCAQtKeWJJRFU0X0xOVYIBC25MTEFOVkE0bGRJggELSk9Dc2FIWGRsZ3OCAQtMeWM0aExnQ09DQYIBC1Jsb0RreDg3eFpjggELMEdzZFQtSmxhVUWCAQtiREFxZTlrZEQzd4IBC2ZYWTBnTUlLb2RJggELcm40WkpyUWhKbU2CAQtmQWJ0bndyWklYd4IBCzZEbXdpTm10b0tFggELbGE3QVJGWEpKM0GCAQtjdkdkc2ZLX0FpOIIBC0RNUmlqYXkwd0pRggELSGdPc29SY2hVWTSCAQtZdm1iU0FtLTVYVYIBC0VRLUdxTUNtcVdrggELNlU5STRBVENhTjCCAQt3Z0xJeUlmd3Eyb7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELSUNtRXpNTElsVjCCAQtKeWJJRFU0X0xOVYIBC25MTEFOVkE0bGRJggELSk9Dc2FIWGRsZ3OCAQtMeWM0aExnQ09DQYIBC1Jsb0RreDg3eFpjggELMEdzZFQtSmxhVUWCAQtiREFxZTlrZEQzd4IBC2ZYWTBnTUlLb2RJggELcm40WkpyUWhKbU2CAQtmQWJ0bndyWklYd4IBCzZEbXdpTm10b0tFggELbGE3QVJGWEpKM0GCAQtjdkdkc2ZLX0FpOIIBC0RNUmlqYXkwd0pRggELSGdPc29SY2hVWTSCAQtZdm1iU0FtLTVYVYIBC0VRLUdxTUNtcVdrggELNlU5STRBVENhTjCCAQt3Z0xJeUlmd3Eyb7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=GST+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=GST+revision&sp=EgIYA0gUggELSUNtRXpNTElsVjCCAQtKeWJJRFU0X0xOVYIBC25MTEFOVkE0bGRJggELSk9Dc2FIWGRsZ3OCAQtMeWM0aExnQ09DQYIBC1Jsb0RreDg3eFpjggELMEdzZFQtSmxhVUWCAQtiREFxZTlrZEQzd4IBC2ZYWTBnTUlLb2RJggELcm40WkpyUWhKbU2CAQtmQWJ0bndyWklYd4IBCzZEbXdpTm10b0tFggELbGE3QVJGWEpKM0GCAQtjdkdkc2ZLX0FpOIIBC0RNUmlqYXkwd0pRggELSGdPc29SY2hVWTSCAQtZdm1iU0FtLTVYVYIBC0VRLUdxTUNtcVdrggELNlU5STRBVENhTjCCAQt3Z0xJeUlmd3Eyb7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELSUNtRXpNTElsVjCCAQtKeWJJRFU0X0xOVYIBC25MTEFOVkE0bGRJggELSk9Dc2FIWGRsZ3OCAQtMeWM0aExnQ09DQYIBC1Jsb0RreDg3eFpjggELMEdzZFQtSmxhVUWCAQtiREFxZTlrZEQzd4IBC2ZYWTBnTUlLb2RJggELcm40WkpyUWhKbU2CAQtmQWJ0bndyWklYd4IBCzZEbXdpTm10b0tFggELbGE3QVJGWEpKM0GCAQtjdkdkc2ZLX0FpOIIBC0RNUmlqYXkwd0pRggELSGdPc29SY2hVWTSCAQtZdm1iU0FtLTVYVYIBC0VRLUdxTUNtcVdrggELNlU5STRBVENhTjCCAQt3Z0xJeUlmd3Eyb7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 18:35:33 UTC"
+}

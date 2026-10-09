@@ -1,0 +1,455 @@
+{
+  "search_metadata": {
+    "id": "6ac933f0556ce341015be6ca",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ggIyfMUtc-yyAK6gv0j7VJr5QeuVTHxFTFMDGmxzgYA/6ac933f0556ce341015be6ca.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ggIyfMUtc-yyAK6gv0j7VJr5QeuVTHxFTFMDGmxzgYA/6ac933f0556ce341015be6ca.md",
+    "created_at": "2026-10-09 18:35:29 UTC",
+    "processed_at": "2026-10-09 18:35:29 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Tally+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/ggIyfMUtc-yyAK6gv0j7VJr5QeuVTHxFTFMDGmxzgYA/6ac933f0556ce341015be6ca.html",
+    "total_time_taken": 4.14
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Tally revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 459138,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Tally Prime Interview : Tally Interview Question and answer | Tally Prime",
+      "link": "https://www.youtube.com/watch?v=3uzXKkZ_vcA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3uzXKkZ_vcA",
+      "video_id": "3uzXKkZ_vcA",
+      "channel": {
+        "name": "Tally with Rahul Chaudhary",
+        "link": "https://www.youtube.com/@tallywithrahulchaudhary",
+        "thumbnail": "https://yt3.ggpht.com/KXON-QR3ZCo5CcWCFEUgrG1b7FBCdE1ZNZHtrJ0k8OPL7CAvR1wuzCJqbzR5oJ2yiJprrxmH=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 51103,
+      "length": "12:09",
+      "description": "Tally Prime Interview : Tally Interview Question and answer | Tally Prime\n#tallyprime #tally_prime #tallyprimetutorial ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3uzXKkZ_vcA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRaZch-GfrNoIgSe-R3nUko6KocQ",
+        "rich": "https://i.ytimg.com/an_webp/3uzXKkZ_vcA/mqdefault_6s.webp?du=3000&sqp=CJC6pNYG&rs=AOn4CLARGAjbaqKcaKPfQNb4DmXnt4vtsg"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "tally basic | tally basics for beginners | tally basic voucher entry | tally basic entry | tally erp",
+      "link": "https://www.youtube.com/watch?v=chs0QenTbns",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=chs0QenTbns",
+      "video_id": "chs0QenTbns",
+      "channel": {
+        "name": "AICDM FOUNDATION",
+        "link": "https://www.youtube.com/@aicdmfoundation2",
+        "thumbnail": "https://yt3.ggpht.com/vFUcOv3SltZhye-6ju4ej9IhUzUXexcIYJbb3KtNooEv1w4P5oXDllV3PALvaSSQ-mK_VBeEAw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 3974133,
+      "length": "15:11",
+      "description": "Tally full course in hindi : - https://www.youtube.com/playlist?list=PLwWS570vflo6UUCJ3MGjyyPj3c5xExhyf\n\n\n\n\ntally basic, tally ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/chs0QenTbns/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYV0dF0sfYtOwqLC-gP0dVTBj-1Q",
+        "rich": "https://i.ytimg.com/an_webp/chs0QenTbns/mqdefault_6s.webp?du=3000&sqp=CPXLpNYG&rs=AOn4CLBEHIDYRX2yUvz-60KTvPCSEx2bbA"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Journal Entries Accounting  | Rules of Debit and Credit in Accounts | Golden Rules of Accounts",
+      "link": "https://www.youtube.com/watch?v=5JlLRg4evXA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5JlLRg4evXA",
+      "video_id": "5JlLRg4evXA",
+      "channel": {
+        "name": "Accounts Funda",
+        "link": "https://www.youtube.com/@AccountsFunda",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ldXDuEzeoDCikskbFx9QpVzWl_pZ9sRZuIOftM_Y8sOQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 4104904,
+      "length": "13:41",
+      "description": "After watching this video, you will become expert in Journal Entries and can solve any journal entries in the world. rules of debit ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5JlLRg4evXA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3e4zO9x93PNWy6QwbVH3-2R-x0w",
+        "rich": "https://i.ytimg.com/an_webp/5JlLRg4evXA/mqdefault_6s.webp?du=3000&sqp=CKDXpNYG&rs=AOn4CLBVQFCDZvr6zRNvOZqqsscoM_lDSA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Tally Tutorial - Tally Interview Questions and Answers | Tally Prime #tallyprime",
+      "link": "https://www.youtube.com/watch?v=I1_8Owhr4O0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=I1_8Owhr4O0",
+      "video_id": "I1_8Owhr4O0",
+      "channel": {
+        "name": "Tally with Rahul Chaudhary",
+        "link": "https://www.youtube.com/@tallywithrahulchaudhary",
+        "thumbnail": "https://yt3.ggpht.com/KXON-QR3ZCo5CcWCFEUgrG1b7FBCdE1ZNZHtrJ0k8OPL7CAvR1wuzCJqbzR5oJ2yiJprrxmH=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 5571,
+      "length": "11:16",
+      "description": "Tally Tutorial - Tally Interview Questions and Answers | Tally Prime #tallyprime #tallytutorial #tally_prime \nWelcome to our ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/I1_8Owhr4O0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVM1xD4Dx2YxS_9KzBxP0EBf-ALw",
+        "rich": "https://i.ytimg.com/an_webp/I1_8Owhr4O0/mqdefault_6s.webp?du=3000&sqp=COnSpNYG&rs=AOn4CLA4V4V8YJO5-k9DVy9nlC4HApHHJA"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "\"Tally's Blood\" Overview | Ann Marie Di Mambro | English Revision",
+      "link": "https://www.youtube.com/watch?v=cenlATrtY5s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cenlATrtY5s",
+      "video_id": "cenlATrtY5s",
+      "channel": {
+        "name": "The Learning Cauldron",
+        "link": "https://www.youtube.com/@TheLearningCauldron",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ms0hu5dg8Z5XQrSr03qv96JRX1xj4tqP8DxweMbPFKfg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 11989,
+      "length": "18:28",
+      "description": "If you are studying Ann Marie Di Mambro's \"Tally's Blood\" as your set drama text for National 5 English, here's a handy overview of ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/cenlATrtY5s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbsl0ZBgGJbMxm0EdUQtJxcBgAwA",
+        "rich": "https://i.ytimg.com/an_webp/cenlATrtY5s/mqdefault_6s.webp?du=3000&sqp=CP_ipNYG&rs=AOn4CLCgr22u0fOvopDGr-qA-NZmaej6Vw"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Tally prime | Tally Prime full tutorial |Tally Prime basic class #tallyprime",
+      "link": "https://www.youtube.com/watch?v=Yxi0VCbzRjY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Yxi0VCbzRjY",
+      "video_id": "Yxi0VCbzRjY",
+      "channel": {
+        "name": "Learning Point Online",
+        "link": "https://www.youtube.com/@LearningPointOnlineLP",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/oZT2CoLexZRx9KEKQhtsYW13XZZV-oCkM_FgGRE1R-QoRPW3V0KwjlUg7IbLhM4ifjjJJyt69Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 702066,
+      "length": "16:46",
+      "description": "tally prime complete course, tally prime full course, Tally Prime course for Beginners in Hindi, tally prime sikhe tally course tally ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Yxi0VCbzRjY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJx7aeacomIYJAlS3T0pKprarBiQ",
+        "rich": "https://i.ytimg.com/an_webp/Yxi0VCbzRjY/mqdefault_6s.webp?du=3000&sqp=CIzhpNYG&rs=AOn4CLAx-cEVDmGfgs55WIkBo873CaSWrw"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Tally Prime for Beginners | Start using Tally under 10 minutes | Accounting through Tally Prime",
+      "link": "https://www.youtube.com/watch?v=PDLlDGlKDf4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PDLlDGlKDf4",
+      "video_id": "PDLlDGlKDf4",
+      "channel": {
+        "name": "Khata Academy",
+        "link": "https://www.youtube.com/@khataacademy",
+        "thumbnail": "https://yt3.ggpht.com/faL62r9Bo8VN2S7-ptgMIeyDvHYwGHLVZZFIh8gQ2k4UcgP5e92FdGg8y_nHVkbvEKou8LlmZgk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 948,
+      "length": "7:50",
+      "description": "Tally Prime is the most used Accounting Software in Nepal. Please refer to this video to start using Tally Prime on your computer.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/PDLlDGlKDf4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk2fdIKFNKl8T0IVY8V-xhXwGU1A",
+        "rich": "https://i.ytimg.com/an_webp/PDLlDGlKDf4/mqdefault_6s.webp?du=3000&sqp=CLChpNYG&rs=AOn4CLD2FH1TYj9uysAJDLf7Rvf7EJHakw"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Tally Learn Tally 12 Revision and Extra Points",
+      "link": "https://www.youtube.com/watch?v=jFLcLLpDJM4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jFLcLLpDJM4",
+      "video_id": "jFLcLLpDJM4",
+      "channel": {
+        "name": "akgeclass",
+        "link": "https://www.youtube.com/@akgeclass",
+        "thumbnail": "https://yt3.ggpht.com/4CENN17AaEhB52HyhYiuuhBRu2ZI6ONHVWJ-zWOLxYdHUnGP-q9nVELtmMVcVjTo4jP8Gs6e=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 244,
+      "length": "14:48",
+      "description": "Disclaimer This channel (akgeclass), the owner(s) of this channel or any person associated with this channel assume no ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jFLcLLpDJM4/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooUDAP&rs=AOn4CLDgApHZspyGwxO1ejIGt_q6TeQ2Dg",
+        "rich": "https://i.ytimg.com/an_webp/jFLcLLpDJM4/mqdefault_6s.webp?du=3000&sqp=CKjlpNYG&rs=AOn4CLDBStjU5WOX939H297eWCUdCU_irg"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Tally Prime Exam Revision part -1",
+      "link": "https://www.youtube.com/watch?v=JSRGHFgKSbo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JSRGHFgKSbo",
+      "video_id": "JSRGHFgKSbo",
+      "channel": {
+        "name": "RCCUBE TECH",
+        "link": "https://www.youtube.com/@RC-CUBE-TECH",
+        "thumbnail": "https://yt3.ggpht.com/0D0O1stxGmYdgF9ez5rUYTY6R3gCbbspSyYWevwC62EjzW20GWIS_YXeNky5KZWdbtw2sBWMzUI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 164,
+      "length": "19:03",
+      "description": "Company Creat To Round off ledger.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JSRGHFgKSbo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS_rNHhtIsrpNey5h1iq_CgNkxSQ",
+        "rich": "https://i.ytimg.com/an_webp/JSRGHFgKSbo/mqdefault_6s.webp?du=3000&sqp=CITcpNYG&rs=AOn4CLANwfIbdWm9bjbktgysS5UtCN7btQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Tally accounting basics and rules in Tamil",
+      "link": "https://www.youtube.com/watch?v=V_peNSxETAI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V_peNSxETAI",
+      "video_id": "V_peNSxETAI",
+      "channel": {
+        "name": "CUTECHINFO TAMIL",
+        "link": "https://www.youtube.com/@cutechinfotamil",
+        "thumbnail": "https://yt3.ggpht.com/8x2Hz3fXJQgGRSAG36iQP104UEVoXGh1hQpBydzctdA77tWEwA5yYEEdXtfGtsWr1wFyIpDzrQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 1070961,
+      "length": "17:46",
+      "description": "My new entertainment channel : https://www.youtube.com/channel/UC1ozcYiywgRtZ99XghxSieQ please support and share.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/V_peNSxETAI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-PVUen57_qyc660jQoZDyhTu2vg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "E ACCOUNTING TALLY REVISION",
+      "link": "https://www.youtube.com/watch?v=H7pH3H1Oceg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=H7pH3H1Oceg",
+      "video_id": "H7pH3H1Oceg",
+      "channel": {
+        "name": "kyatax",
+        "link": "https://www.youtube.com/@kyataxacademy",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nsfGFsbaHSbTLifCZmZLSQh4d3zAo1XgmnUx_83QntWXFEjGEIgc2HdDAASDqDN5QGQQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 58,
+      "length": "4:53",
+      "description": "E ACCOUNTING TALLY REVSION LIVE , OFFLINE AND RECORED VIDEOS BY CA SUMIT SHARMA PROFESSIONAL ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/H7pH3H1Oceg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkqLOzSKlFY7JwDiusiqxYJF_tkw",
+        "rich": "https://i.ytimg.com/an_webp/H7pH3H1Oceg/mqdefault_6s.webp?du=3000&sqp=CODZpNYG&rs=AOn4CLCRUTgEedNLc4E1uu5pkFsm_2AtXA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Tally Prime Interview : Tally Interview Question and answer | Tally Prime",
+      "link": "https://www.youtube.com/watch?v=PhP8wN22FBE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PhP8wN22FBE",
+      "video_id": "PhP8wN22FBE",
+      "channel": {
+        "name": "Tally with Rahul Chaudhary",
+        "link": "https://www.youtube.com/@tallywithrahulchaudhary",
+        "thumbnail": "https://yt3.ggpht.com/KXON-QR3ZCo5CcWCFEUgrG1b7FBCdE1ZNZHtrJ0k8OPL7CAvR1wuzCJqbzR5oJ2yiJprrxmH=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 91547,
+      "length": "14:34",
+      "description": "Tally Prime Interview : Tally Interview Question and answer | Tally Prime\n#tallyprime #tally_prime #tallyprimetutorial ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/PhP8wN22FBE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0Te79L34cRPyWcBsceOtHMUKoGw",
+        "rich": "https://i.ytimg.com/an_webp/PhP8wN22FBE/mqdefault_6s.webp?du=3000&sqp=COLlpNYG&rs=AOn4CLAi6tYkZTEbpDhW1koU0-PQYqnTjw"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Quick Bites Revision Tally Chart, Frequency Tables and bar charts",
+      "link": "https://www.youtube.com/watch?v=dFy9KuyzFjw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dFy9KuyzFjw",
+      "video_id": "dFy9KuyzFjw",
+      "channel": {
+        "name": "Ms Miah Maths",
+        "link": "https://www.youtube.com/@MsMiahMaths",
+        "thumbnail": "https://yt3.ggpht.com/PaEuzJ09QfspU4wU5IZC7Q4DsVmBxJEmV9Q4tjGB9U8bsBXygg0lQPLvmRr0JQ7eqboxyIW9Fw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 22,
+      "length": "8:39",
+      "description": "GCSE MATHS REVISION Tables charts and Data.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/dFy9KuyzFjw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEsoPDAP&rs=AOn4CLC4bmrmsMY61_-Inb5HhMY2Ie4How",
+        "rich": "https://i.ytimg.com/an_webp/dFy9KuyzFjw/mqdefault_6s.webp?du=3000&sqp=CMzIpNYG&rs=AOn4CLArrlbaK4ccvneit9Gt_OnrE6eliA"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Top 50 Tally MCQ's Questions and Answers | Tally Prime Important Questions | Computer Tech Academy",
+      "link": "https://www.youtube.com/watch?v=gkD7IUUl4o4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gkD7IUUl4o4",
+      "video_id": "gkD7IUUl4o4",
+      "channel": {
+        "name": "Computer Tech Academy",
+        "link": "https://www.youtube.com/@ComputerTechAcademy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/yY5yXzy6UyxHQlUtOAkG7n-3p67UObRKOpgZdEkhzGwCUXI7LIN_wZtlM_YEbmu81ASqIiqchQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 110944,
+      "length": "17:11",
+      "description": "Prepare for your Tally Prime exams with our comprehensive guide to the Top 50 Tally MCQ Questions and Answers! This video ...",
+      "extensions": [
+        "Professional Training",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gkD7IUUl4o4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkeVkocamrCo9hHXwmIm1lVRoQ1Q",
+        "rich": "https://i.ytimg.com/an_webp/gkD7IUUl4o4/mqdefault_6s.webp?du=3000&sqp=COzYpNYG&rs=AOn4CLDsrMBHsN2Es6Fwx-Ygsa4PF-DGNQ"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "\"Tally's Blood\" Quote-by-Quote Guide | Ann Marie Di Mambro | English Revision",
+      "link": "https://www.youtube.com/watch?v=fB_zw_J7pX4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fB_zw_J7pX4",
+      "video_id": "fB_zw_J7pX4",
+      "channel": {
+        "name": "The Learning Cauldron",
+        "link": "https://www.youtube.com/@TheLearningCauldron",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ms0hu5dg8Z5XQrSr03qv96JRX1xj4tqP8DxweMbPFKfg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 10164,
+      "length": "12:08",
+      "description": "In this video we select 25 quotes from \"Tally's Blood\", a play by Scottish playwright Ann Marie Di Mambro, and suggest how you ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fB_zw_J7pX4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiwtL8ziW_k0r7Z0f8sprGAnb1-w",
+        "rich": "https://i.ytimg.com/an_webp/fB_zw_J7pX4/mqdefault_6s.webp?du=3000&sqp=CKrSpNYG&rs=AOn4CLDpjeAnmCIMVyv7wJ4bP2GkgYDFKg"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Tally Prime - Office Work in Tally Prime | Purchase Entry with GST #tallyprime",
+      "link": "https://www.youtube.com/watch?v=JIrh1rtEhYQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JIrh1rtEhYQ",
+      "video_id": "JIrh1rtEhYQ",
+      "channel": {
+        "name": "Tally with Rahul Chaudhary",
+        "link": "https://www.youtube.com/@tallywithrahulchaudhary",
+        "thumbnail": "https://yt3.ggpht.com/KXON-QR3ZCo5CcWCFEUgrG1b7FBCdE1ZNZHtrJ0k8OPL7CAvR1wuzCJqbzR5oJ2yiJprrxmH=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 276411,
+      "length": "13:22",
+      "description": "Tally Prime - Office Work in Tally Prime | Purchase Entry with GST\n #tallyprime #tallyprimetutorial #purchase \nWelcome to our ...",
+      "extensions": [
+        "1 product",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JIrh1rtEhYQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4nPdSDS7MpO-B1jenk4vNt0lGMg",
+        "rich": "https://i.ytimg.com/an_webp/JIrh1rtEhYQ/mqdefault_6s.webp?du=3000&sqp=CIzYpNYG&rs=AOn4CLDzwK_pfWmgaJA4tNUuCLbVk1JFAQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Tally prime Exam Revision part - 2",
+      "link": "https://www.youtube.com/watch?v=vbH5r88tUoo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vbH5r88tUoo",
+      "video_id": "vbH5r88tUoo",
+      "channel": {
+        "name": "RCCUBE TECH",
+        "link": "https://www.youtube.com/@RC-CUBE-TECH",
+        "thumbnail": "https://yt3.ggpht.com/0D0O1stxGmYdgF9ez5rUYTY6R3gCbbspSyYWevwC62EjzW20GWIS_YXeNky5KZWdbtw2sBWMzUI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 100,
+      "length": "18:56",
+      "description": "tally Prime 2.1 purchase , sale , purchase Return, Sale Return . Explain This Video.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vbH5r88tUoo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSAMSNQZVqvpCjRbye76tf9Qv_8A",
+        "rich": "https://i.ytimg.com/an_webp/vbH5r88tUoo/mqdefault_6s.webp?du=3000&sqp=CLzYpNYG&rs=AOn4CLCHfyp3Mz6cAKzAq8pR5rueORpJsw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Tally Prime 20 MCQs | Tally Prime Questions & Answers | Computer Tech Academy",
+      "link": "https://www.youtube.com/watch?v=Zfcf8cq31Es",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Zfcf8cq31Es",
+      "video_id": "Zfcf8cq31Es",
+      "channel": {
+        "name": "Computer Tech Academy",
+        "link": "https://www.youtube.com/@ComputerTechAcademy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/yY5yXzy6UyxHQlUtOAkG7n-3p67UObRKOpgZdEkhzGwCUXI7LIN_wZtlM_YEbmu81ASqIiqchQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 3747,
+      "length": "13:52",
+      "description": "Download Computer Tech Academy App: https://play.google.com/store/apps/details?id=co.diy12.wknyt\n📝 Course Enquiry: 👉 https ...",
+      "extensions": [
+        "Professional Training",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Zfcf8cq31Es/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRtEbnPdcKnTsqaFuGQBYeXMevAg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Tally Prime revision ",
+      "link": "https://www.youtube.com/watch?v=YkCK6xQ0CDY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YkCK6xQ0CDY",
+      "video_id": "YkCK6xQ0CDY",
+      "channel": {
+        "name": "paras tallyprime class",
+        "link": "https://www.youtube.com/@parastallyprimeclass",
+        "thumbnail": "https://yt3.ggpht.com/gCyKlmreqsv5b3vSeKf2ft3F-N4jM7mr2nci9JwOF6APaJGcNIONrTHS1LhH_3txSQsPu86YUyk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8mo ago",
+      "views": 122,
+      "length": "4:59",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/YkCK6xQ0CDY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5nBFRzeUs1PS5-CIM8AzyxfTnDg",
+        "rich": "https://i.ytimg.com/an_webp/YkCK6xQ0CDY/mqdefault_6s.webp?du=3000&sqp=CPy_pNYG&rs=AOn4CLCfp63icetWWU8IsQiEcUwYmDH8Pg"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "TALLY REVISION GST AND ADDITIONAL COSTS",
+      "link": "https://www.youtube.com/watch?v=JQKHuq9_yZw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JQKHuq9_yZw",
+      "video_id": "JQKHuq9_yZw",
+      "channel": {
+        "name": "KRISHNA SIR KIIT COMPUTER",
+        "link": "https://www.youtube.com/@KRISHNASIRKIITCOMPUTER",
+        "thumbnail": "https://yt3.ggpht.com/MijM83ZoolfvVeRUN32XhsLochZlNap0dMM9WnnaTOzLOkSSdBZvHD9TgCQBT-IOveC1EmzpCkE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 296,
+      "length": "17:23",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JQKHuq9_yZw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhiIGUoWzAP&rs=AOn4CLCB0oyrWZ58iDdzAiJdL6cH6fT0hQ",
+        "rich": "https://i.ytimg.com/an_webp/JQKHuq9_yZw/mqdefault_6s.webp?du=3000&sqp=CLjcpNYG&rs=AOn4CLDngszkDZJ7rjtd8wpP2WEsjZ4_GA"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Tally+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Tally%20revision&sp=EgIYA0gUggELM3V6WEtrWl92Y0GCAQtjaHMwUWVuVGJuc4IBCzVKbExSZzRldlhBggELSTFfOE93aHI0TzCCAQtjZW5sQVRydFk1c4IBC1l4aTBWQ2J6UmpZggELUERMbERHbEtEZjSCAQtqRkxjTExwREpNNIIBC0pTUkdIRmdLU2JvggELVl9wZU5TeEVUQUmCAQtIN3BIM0gxT2NlZ4IBC1BoUDh3TjIyRkJFggELZEZ5OUt1eXpGaneCAQtna0Q3SVVVbDRvNIIBC2ZCX3p3X0o3cFg0ggELSklyaDFydEVoWVGCAQt2Ykg1cjg4dFVvb4IBC1pmY2Y4Y3EzMUVzggELWWtDSzZ4UTBDRFmCAQtKUUtIdXE5X3lad7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELM3V6WEtrWl92Y0GCAQtjaHMwUWVuVGJuc4IBCzVKbExSZzRldlhBggELSTFfOE93aHI0TzCCAQtjZW5sQVRydFk1c4IBC1l4aTBWQ2J6UmpZggELUERMbERHbEtEZjSCAQtqRkxjTExwREpNNIIBC0pTUkdIRmdLU2JvggELVl9wZU5TeEVUQUmCAQtIN3BIM0gxT2NlZ4IBC1BoUDh3TjIyRkJFggELZEZ5OUt1eXpGaneCAQtna0Q3SVVVbDRvNIIBC2ZCX3p3X0o3cFg0ggELSklyaDFydEVoWVGCAQt2Ykg1cjg4dFVvb4IBC1pmY2Y4Y3EzMUVzggELWWtDSzZ4UTBDRFmCAQtKUUtIdXE5X3lad7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Tally+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Tally+revision&sp=EgIYA0gUggELM3V6WEtrWl92Y0GCAQtjaHMwUWVuVGJuc4IBCzVKbExSZzRldlhBggELSTFfOE93aHI0TzCCAQtjZW5sQVRydFk1c4IBC1l4aTBWQ2J6UmpZggELUERMbERHbEtEZjSCAQtqRkxjTExwREpNNIIBC0pTUkdIRmdLU2JvggELVl9wZU5TeEVUQUmCAQtIN3BIM0gxT2NlZ4IBC1BoUDh3TjIyRkJFggELZEZ5OUt1eXpGaneCAQtna0Q3SVVVbDRvNIIBC2ZCX3p3X0o3cFg0ggELSklyaDFydEVoWVGCAQt2Ykg1cjg4dFVvb4IBC1pmY2Y4Y3EzMUVzggELWWtDSzZ4UTBDRFmCAQtKUUtIdXE5X3lad7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELM3V6WEtrWl92Y0GCAQtjaHMwUWVuVGJuc4IBCzVKbExSZzRldlhBggELSTFfOE93aHI0TzCCAQtjZW5sQVRydFk1c4IBC1l4aTBWQ2J6UmpZggELUERMbERHbEtEZjSCAQtqRkxjTExwREpNNIIBC0pTUkdIRmdLU2JvggELVl9wZU5TeEVUQUmCAQtIN3BIM0gxT2NlZ4IBC1BoUDh3TjIyRkJFggELZEZ5OUt1eXpGaneCAQtna0Q3SVVVbDRvNIIBC2ZCX3p3X0o3cFg0ggELSklyaDFydEVoWVGCAQt2Ykg1cjg4dFVvb4IBC1pmY2Y4Y3EzMUVzggELWWtDSzZ4UTBDRFmCAQtKUUtIdXE5X3lad7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 18:35:29 UTC"
+}
