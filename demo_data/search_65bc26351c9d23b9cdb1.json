@@ -1,0 +1,442 @@
+{
+  "search_metadata": {
+    "id": "6ac8c8bd6f082b0b60c958bf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/JEBXO_D7QSwvm_TJ3buA02z2eFLG-uyUNpfh1nZJn2A/6ac8c8bd6f082b0b60c958bf.json",
+    "markdown_endpoint": "https://serpapi.com/searches/JEBXO_D7QSwvm_TJ3buA02z2eFLG-uyUNpfh1nZJn2A/6ac8c8bd6f082b0b60c958bf.md",
+    "created_at": "2026-10-09 10:58:05 UTC",
+    "processed_at": "2026-10-09 10:58:05 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=HTML+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/JEBXO_D7QSwvm_TJ3buA02z2eFLG-uyUNpfh1nZJn2A/6ac8c8bd6f082b0b60c958bf.html",
+    "total_time_taken": 2.74
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "HTML revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 5501426,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "HTML in 5 minutes",
+      "link": "https://www.youtube.com/watch?v=salY_Sm6mv4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=salY_Sm6mv4",
+      "video_id": "salY_Sm6mv4",
+      "channel": {
+        "name": "Aaron Jack",
+        "link": "https://www.youtube.com/@AaronJack",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/40SE9hF9oDMoGjoKDdQEG8e6HJML5c_fVP40Vfm2hMrfkvqqMYrVCyPoGXlMFFNE89rN10EQJQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1123991,
+      "length": "5:12",
+      "description": "Freelance Coding is the way in 2024! Learn How: https://www.freemote.com/strategy https://instagram.com/aaronjack #coding ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/salY_Sm6mv4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8KX7jjunt4gDDJoqC1cTdbDcCVQ",
+        "rich": "https://i.ytimg.com/an_webp/salY_Sm6mv4/mqdefault_6s.webp?du=3000&sqp=CJD4otYG&rs=AOn4CLC3EXDNpRPRIZH3otfnJQIKjXVpfw"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "HTML Quick Crash Course: Learn or recap HTML in 4 minutes",
+      "link": "https://www.youtube.com/watch?v=qQg5JVlplW0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qQg5JVlplW0",
+      "video_id": "qQg5JVlplW0",
+      "channel": {
+        "name": "skill_session",
+        "link": "https://www.youtube.com/@skill_session",
+        "thumbnail": "https://yt3.ggpht.com/t0S2m16lPkULjv0GFy0mxmzmhejUI0Yb9GKG4SBlhyufJYRkMSXT54T6F4Fd7bzY0uuVfLGpMw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 948,
+      "length": "4:20",
+      "description": "If you need to learn HTML as fast as possible, or recap it after a while, this video will help you out. We start with the basics and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qQg5JVlplW0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiXqA7wDRtk-_0uiqLzQCEun4y6A",
+        "rich": "https://i.ytimg.com/an_webp/qQg5JVlplW0/mqdefault_6s.webp?du=3000&sqp=CNb_otYG&rs=AOn4CLDPkXgKQ2Hs9E8RNT3gwWoHvFgvng"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "The HTML Tags They NEVER Taught You",
+      "link": "https://www.youtube.com/watch?v=VkWJQe_EsjQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VkWJQe_EsjQ",
+      "video_id": "VkWJQe_EsjQ",
+      "channel": {
+        "name": "Giorgio Toffoli",
+        "link": "https://www.youtube.com/@giorgiotoffoli",
+        "thumbnail": "https://yt3.ggpht.com/IQCOz8UNftqvTRIHcprgCHxU7QXqBtx72LBFwXXmAVfmpC1HVqLQX-v_PYuMJkGSopuzejwU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 254950,
+      "length": "7:39",
+      "description": "HTML is a powerful (markup) language, but not many people know about some of its most unique tags. So, let's find them out in ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/VkWJQe_EsjQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7qIzdhSbmkqrEnNWmHmrPccnzCw",
+        "rich": "https://i.ytimg.com/an_webp/VkWJQe_EsjQ/mqdefault_6s.webp?du=3000&sqp=CMj_otYG&rs=AOn4CLCvp0ZhbjBDj3sPP-OgrY0-kLHreA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Learn HTML in 15 Minutes",
+      "link": "https://www.youtube.com/watch?v=cv2hzyO3X48",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cv2hzyO3X48",
+      "video_id": "cv2hzyO3X48",
+      "channel": {
+        "name": "Coding2GO",
+        "link": "https://www.youtube.com/@coding2go",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 45825,
+      "length": "14:34",
+      "description": "Get the best web hosting to deploy your websites: https://www.hostinger.com/coding2go ✌️ Use our discount code CODING2GO ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/cv2hzyO3X48/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClCHtvcjrG6tMgEjNsMjgxa8pgMw",
+        "rich": "https://i.ytimg.com/an_webp/cv2hzyO3X48/mqdefault_6s.webp?du=3000&sqp=CLnrotYG&rs=AOn4CLDjrOolOcwPwhbe3IMi61Z2JC-UBQ"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "HTML Tutorial For Beginners",
+      "link": "https://www.youtube.com/watch?v=vY2xUc4TVmY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vY2xUc4TVmY",
+      "video_id": "vY2xUc4TVmY",
+      "channel": {
+        "name": "The Coding Sloth",
+        "link": "https://www.youtube.com/@TheCodingSloth",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/vyiVx6-37LFcgsj8vB9ml-LK3PoiedhdVnkSFhPmp9V6EZqLketITjJ8mm2-0WCzjoQc0TOgLw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 230382,
+      "length": "16:40",
+      "description": "In this video, I'll guide you step-by-step through the fundamental elements of HTML, and by the end, you'll be able to recreate ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vY2xUc4TVmY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDeIQ6UAMwAf9dlY7O0pMSY0fUPg",
+        "rich": "https://i.ytimg.com/an_webp/vY2xUc4TVmY/mqdefault_6s.webp?du=3000&sqp=CMj4otYG&rs=AOn4CLA74QI43LMcCnPlbgh34U-vK80I_A"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Web Development | HTML Revision | All concepts covered | Tharun Shiv | Being A Pro",
+      "link": "https://www.youtube.com/watch?v=-6l6Hl9h7Mo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-6l6Hl9h7Mo",
+      "video_id": "-6l6Hl9h7Mo",
+      "channel": {
+        "name": "Developer Tharun",
+        "link": "https://www.youtube.com/@DeveloperTharun",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_krTTD-f4c7jZHoIk7juSXkE_es_Pygs7GfiSHIJ4N60WE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 7950,
+      "length": "17:35",
+      "description": "Some Links to refer: https://github.com/tharunShiv/HTML-Youtube-Series Code used : https://github.com/tharunShiv/HTML-Yo.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-6l6Hl9h7Mo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhxP8Ky-97_JdOWBfI80Kh7fzLCg",
+        "rich": "https://i.ytimg.com/an_webp/-6l6Hl9h7Mo/mqdefault_6s.webp?du=3000&sqp=CMr8otYG&rs=AOn4CLAB-ofi87JhwY6H42mo2DFNAUwZgg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "100+ Web Development Things you Should Know",
+      "link": "https://www.youtube.com/watch?v=erEgovG9WBs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=erEgovG9WBs",
+      "video_id": "erEgovG9WBs",
+      "channel": {
+        "name": "Fireship",
+        "link": "https://www.youtube.com/@Fireship",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1975642,
+      "length": "13:18",
+      "description": "WebDev 101 is a complete introduction into the world of web development. Learn the basic concepts and skills required to build ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/erEgovG9WBs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMoQllJHcXnCzdhAwhuAWiugZYGw",
+        "rich": "https://i.ytimg.com/an_webp/erEgovG9WBs/mqdefault_6s.webp?du=3000&sqp=CM7ootYG&rs=AOn4CLBlOHHcLAU6968NN0vOQLjw4434MQ"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Learn HTML & CSS FAST | Step-by-Step Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=E9DL3G8sA5g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=E9DL3G8sA5g",
+      "video_id": "E9DL3G8sA5g",
+      "channel": {
+        "name": "DevForge",
+        "link": "https://www.youtube.com/@devforgehq",
+        "thumbnail": "https://yt3.ggpht.com/VGC4iMxJiwApDL_mYPo3xarq_aZHAvtz7uk7kqb97m9l1X3XuJ1_b-alYzBQAgzt87AXHhxQgw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 6678,
+      "length": "8:34",
+      "description": "Whether your goal is to become a hired front-end web developer or you simply want to learn to code, this comprehensive HTML ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/E9DL3G8sA5g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDuZhCHGyvnEL_RwtWKafWR666DA",
+        "rich": "https://i.ytimg.com/an_webp/E9DL3G8sA5g/mqdefault_6s.webp?du=3000&sqp=CLD5otYG&rs=AOn4CLB8Tu-ix7fWSl0GXDC_PlJyC_QF_g"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "HTML Basics Revision  | Web Development | The Quick Code",
+      "link": "https://www.youtube.com/watch?v=3spQhyDLeBI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3spQhyDLeBI",
+      "video_id": "3spQhyDLeBI",
+      "channel": {
+        "name": "The Quick Code",
+        "link": "https://www.youtube.com/@thequickcode5144",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kBD4PBTN0g-0RwJKnK2cOQtWbTI_rq_BmJuNUwxnYyLw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 68,
+      "length": "16:30",
+      "description": "In this Brief Tutorial I will revise you all about What is HTML, How HTML works, some basic tags used in HTML5, Images in HTML5 ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3spQhyDLeBI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu1EL9uk16LnrY_5Eb4lIbyBrDZQ"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Rapid HTML Revision | Important HTML tags | Web Development Revision | Beginners",
+      "link": "https://www.youtube.com/watch?v=LfTC2uAIBxM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LfTC2uAIBxM",
+      "video_id": "LfTC2uAIBxM",
+      "channel": {
+        "name": "practice code",
+        "link": "https://www.youtube.com/@practicecode1631",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lAfJR507Xrjp7Kd4_25WZrCo01JuIXIOCx8y_wBUgDMQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 228,
+      "length": "10:07",
+      "description": "The Video is completely for the beginners or for someone who just want to revise his topics of HTML. The 10minute video will help ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LfTC2uAIBxM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFPXHyzVlMBXYeW0GpGaFzlAfkcg",
+        "rich": "https://i.ytimg.com/an_webp/LfTC2uAIBxM/mqdefault_6s.webp?du=3000&sqp=CNHyotYG&rs=AOn4CLB1Ixjs0NthXMWwdLFYIr9QotPdLw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Learn HTML forms in 8 minutes 📝",
+      "link": "https://www.youtube.com/watch?v=2O8pkybH6po",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2O8pkybH6po",
+      "video_id": "2O8pkybH6po",
+      "channel": {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 687278,
+      "length": "8:39",
+      "description": "HTML forms tutorial example explained #HTML #forms #tutorial.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/2O8pkybH6po/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzGIXbAStr8y3B2066lqwMzbFzvA",
+        "rich": "https://i.ytimg.com/an_webp/2O8pkybH6po/mqdefault_6s.webp?du=3000&sqp=CIbkotYG&rs=AOn4CLACv-LBwRiHJ_9mebfB55LSHmmLUg"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "HTML - Revision",
+      "link": "https://www.youtube.com/watch?v=2RwKzb9epak",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2RwKzb9epak",
+      "video_id": "2RwKzb9epak",
+      "channel": {
+        "name": "Codingisfun",
+        "link": "https://www.youtube.com/@Codingisfun-l6t",
+        "thumbnail": "https://yt3.ggpht.com/JklyZgRi6mt-BTzy3Xf3qFuEL3zxgbxRuPqpddlmBVr5QTNb6O9NsVAP0b4f1XouLE42Zrtr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 151,
+      "length": "13:20",
+      "description": "HTML - Creating a part of an image and text of webpage using the html code.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/2RwKzb9epak/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtn_i9Eux8te0UdFoYbGhW2UUfgw",
+        "rich": "https://i.ytimg.com/an_webp/2RwKzb9epak/mqdefault_6s.webp?du=3000&sqp=CKuQo9YG&rs=AOn4CLAQf4GLl5N_7i-mskqEY0v_7sPAlw"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "HTML Year 9 Revision",
+      "link": "https://www.youtube.com/watch?v=yej2Eq9A6V8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yej2Eq9A6V8",
+      "video_id": "yej2Eq9A6V8",
+      "channel": {
+        "name": "Hannah Gettel",
+        "link": "https://www.youtube.com/@hannahgettel9684",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mXjq3AnWr6ufo1NtSzW4KCmvTwmrzkyx7ckj-d04B1sYw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 213,
+      "length": "19:03",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/yej2Eq9A6V8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChNf8NNuDgCiiNg4H_v-7Qr0g_Qg"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "IGCSE 12 ONE HTML REVISION",
+      "link": "https://www.youtube.com/watch?v=Mi7YVBv6dhk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Mi7YVBv6dhk",
+      "video_id": "Mi7YVBv6dhk",
+      "channel": {
+        "name": "Mathews Bwalya",
+        "link": "https://www.youtube.com/@mathewsbwalya4781",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mbm0iTPSFQCHp1WWj5_8KsJ6kJZWEgdWuWhsfHQ68_PFo=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 86,
+      "length": "19:02",
+      "description": "HTML.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Mi7YVBv6dhk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAc2-wPuOqVSzKorWgBEqF3bxTSMA",
+        "rich": "https://i.ytimg.com/an_webp/Mi7YVBv6dhk/mqdefault_6s.webp?du=3000&sqp=CODQotYG&rs=AOn4CLB_1K8Wzy3NrJ0fLyZqux2lYJ3MJA"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "HTML - Revision 1",
+      "link": "https://www.youtube.com/watch?v=uVGUVCthjd0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uVGUVCthjd0",
+      "video_id": "uVGUVCthjd0",
+      "channel": {
+        "name": "BOIS VLearn",
+        "link": "https://www.youtube.com/@boisvlearn4978",
+        "thumbnail": "https://yt3.ggpht.com/twjbzA-canlwtf6FAzORQ7WcdpM6oOAiXzTAc2I7T7pFLuF6262PDY0HApqm-AMqEeaxr8Bz=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 18,
+      "length": "9:10",
+      "description": "Alright People, Welcome to another interesting video. In this lesson, we are going to take a step back to visit what we have been ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/uVGUVCthjd0/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AAoAIigIMCAAQARhhIGEoYTAP&rs=AOn4CLAiJZk600ri-sg1EHSUfX_grwVvkA",
+        "rich": "https://i.ytimg.com/an_webp/uVGUVCthjd0/mqdefault_6s.webp?du=3000&sqp=CNHSotYG&rs=AOn4CLDmJffq4TwIpNpHSKcZaeBDtfxmCQ"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "HTML Speed Revision🔴🔰",
+      "link": "https://www.youtube.com/watch?v=zWKM6b1RRbs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zWKM6b1RRbs",
+      "video_id": "zWKM6b1RRbs",
+      "channel": {
+        "name": "ICT with Shashika Madhushan",
+        "link": "https://www.youtube.com/@ictwithshashikamadhushan6951",
+        "thumbnail": "https://yt3.ggpht.com/t0IQNKq3Dla961sI5bAwiTSEWimOEYiNHvMltp2jB3KJOWHkXJnrHo23xP_EaoJd_c39Gpz1=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 10mo ago",
+      "views": 945,
+      "length": "16:50",
+      "description": "වෙබ්සයිට් නම් එක අපි html වලදි පුපු දේ කියන්නේටයිටල් එකක් කියලා ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zWKM6b1RRbs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAmgvM2mSmDLmSrc3Nvxqio7bPyYQ",
+        "rich": "https://i.ytimg.com/an_webp/zWKM6b1RRbs/mqdefault_6s.webp?du=3000&sqp=CPiJo9YG&rs=AOn4CLBInI8QuoAlqCz4Wifk_22B0Xi3Ew"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "HTML for Beginners - Part 10: Revision 1, HTML tags and attributes",
+      "link": "https://www.youtube.com/watch?v=QzeDKRLG4R0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QzeDKRLG4R0",
+      "video_id": "QzeDKRLG4R0",
+      "channel": {
+        "name": "Youssef Sami",
+        "link": "https://www.youtube.com/@YoussefSami",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lxlT3ncgx5wZ98Qty8FxZDQeBuw4xzVJUiIUlRfKJkqhiw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11y ago",
+      "views": 151,
+      "length": "4:05",
+      "description": "WATCH THE PREVIOUS PARTS: http://www.youtube.com/playlist?list=PLD-OLkx87fSfB20V5Iu3Ki9hqbkikMNWZ In this part, we ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/QzeDKRLG4R0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALLru9Fg9m3LlYylb37ry5HYSN5w"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "lesson 1 year 6 html revision",
+      "link": "https://www.youtube.com/watch?v=VQGVz6u0-lw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VQGVz6u0-lw",
+      "video_id": "VQGVz6u0-lw",
+      "channel": {
+        "name": "Mr. Mudather Ibrahim",
+        "link": "https://www.youtube.com/@mr.mudatheralgundi2907",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m7rD_9V2b8-nGa7d4-u_1iUULHd9ZR9UJ-MozmFoI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 243,
+      "length": "11:10",
+      "description": "... start with web designing revision so the language that we use to create web pages is called html html what is html html stands ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/VQGVz6u0-lw/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB0gqAAoAGigIMCAAQARhlIGUoZTAP&rs=AOn4CLCorNJKLBhgn0GUXnG47CmxxI5ziA",
+        "rich": "https://i.ytimg.com/an_webp/VQGVz6u0-lw/mqdefault_6s.webp?du=3000&sqp=COiIo9YG&rs=AOn4CLCm7yiIc2j5xSGsZ4NW7aZST22oXA"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "lesson 5 year 6 HTML revision end assignemnt",
+      "link": "https://www.youtube.com/watch?v=LClpUsvl1WE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LClpUsvl1WE",
+      "video_id": "LClpUsvl1WE",
+      "channel": {
+        "name": "Mr. Mudather Ibrahim",
+        "link": "https://www.youtube.com/@mr.mudatheralgundi2907",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m7rD_9V2b8-nGa7d4-u_1iUULHd9ZR9UJ-MozmFoI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 73,
+      "length": "5:51",
+      "description": "Hello and welcome to your last uh um lesson in the html revision uh you are to create a webpage that contains the following your ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LClpUsvl1WE/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhWIF0oZTAP&rs=AOn4CLB_X68REeS3GJruK3zPPfP-eb3Tkw"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Revision HTML",
+      "link": "https://www.youtube.com/watch?v=xofDYFjHNVc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xofDYFjHNVc",
+      "video_id": "xofDYFjHNVc",
+      "channel": {
+        "name": "Computer for ICSE",
+        "link": "https://www.youtube.com/@computerforicse1974",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_njv5bj96nXZPdVSGWFsAya7ecRhM4u_78FX5cOyq1Aefxs0LYhy-CVDYRCpSNnYeaQwA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 100,
+      "length": "12:30",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xofDYFjHNVc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhkIGQoZDAP&rs=AOn4CLAdDNQYWQrspXmyXT_fld0Y3qRNzA",
+        "rich": "https://i.ytimg.com/an_webp/xofDYFjHNVc/mqdefault_6s.webp?du=3000&sqp=CIODo9YG&rs=AOn4CLDbHjb0hup0iZRHc_Hh_f4vjoRaSw"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=HTML+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=HTML%20revision&sp=EgIYA0gUggELc2FsWV9TbTZtdjSCAQtxUWc1SlZscGxXMIIBC1ZrV0pRZV9Fc2pRggELY3YyaHp5TzNYNDiCAQt2WTJ4VWM0VFZtWYIBCy02bDZIbDloN01vggELZXJFZ292RzlXQnOCAQtFOURMM0c4c0E1Z4IBCzNzcFFoeURMZUJJggELTGZUQzJ1QUlCeE2CAQsyTzhwa3liSDZwb4IBCzJSd0t6YjllcGFrggELeWVqMkVxOUE2VjiCAQtNaTdZVkJ2NmRoa4IBC3VWR1VWQ3RoamQwggELeldLTTZiMVJSYnOCAQtRemVES1JMRzRSMIIBC1ZRR1Z6NnUwLWx3ggELTENscFVzdmwxV0WCAQt4b2ZEWUZqSE5WY7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELc2FsWV9TbTZtdjSCAQtxUWc1SlZscGxXMIIBC1ZrV0pRZV9Fc2pRggELY3YyaHp5TzNYNDiCAQt2WTJ4VWM0VFZtWYIBCy02bDZIbDloN01vggELZXJFZ292RzlXQnOCAQtFOURMM0c4c0E1Z4IBCzNzcFFoeURMZUJJggELTGZUQzJ1QUlCeE2CAQsyTzhwa3liSDZwb4IBCzJSd0t6YjllcGFrggELeWVqMkVxOUE2VjiCAQtNaTdZVkJ2NmRoa4IBC3VWR1VWQ3RoamQwggELeldLTTZiMVJSYnOCAQtRemVES1JMRzRSMIIBC1ZRR1Z6NnUwLWx3ggELTENscFVzdmwxV0WCAQt4b2ZEWUZqSE5WY7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=HTML+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=HTML+revision&sp=EgIYA0gUggELc2FsWV9TbTZtdjSCAQtxUWc1SlZscGxXMIIBC1ZrV0pRZV9Fc2pRggELY3YyaHp5TzNYNDiCAQt2WTJ4VWM0VFZtWYIBCy02bDZIbDloN01vggELZXJFZ292RzlXQnOCAQtFOURMM0c4c0E1Z4IBCzNzcFFoeURMZUJJggELTGZUQzJ1QUlCeE2CAQsyTzhwa3liSDZwb4IBCzJSd0t6YjllcGFrggELeWVqMkVxOUE2VjiCAQtNaTdZVkJ2NmRoa4IBC3VWR1VWQ3RoamQwggELeldLTTZiMVJSYnOCAQtRemVES1JMRzRSMIIBC1ZRR1Z6NnUwLWx3ggELTENscFVzdmwxV0WCAQt4b2ZEWUZqSE5WY7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELc2FsWV9TbTZtdjSCAQtxUWc1SlZscGxXMIIBC1ZrV0pRZV9Fc2pRggELY3YyaHp5TzNYNDiCAQt2WTJ4VWM0VFZtWYIBCy02bDZIbDloN01vggELZXJFZ292RzlXQnOCAQtFOURMM0c4c0E1Z4IBCzNzcFFoeURMZUJJggELTGZUQzJ1QUlCeE2CAQsyTzhwa3liSDZwb4IBCzJSd0t6YjllcGFrggELeWVqMkVxOUE2VjiCAQtNaTdZVkJ2NmRoa4IBC3VWR1VWQ3RoamQwggELeldLTTZiMVJSYnOCAQtRemVES1JMRzRSMIIBC1ZRR1Z6NnUwLWx3ggELTENscFVzdmwxV0WCAQt4b2ZEWUZqSE5WY7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 10:58:05 UTC"
+}

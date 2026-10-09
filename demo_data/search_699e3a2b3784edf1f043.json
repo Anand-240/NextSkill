@@ -1,0 +1,467 @@
+{
+  "search_metadata": {
+    "id": "6ac8c8c02efef8795a0b876d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-ZDQUS6-W6BCzpqAk6igJc8mrdxQzIG8ob-duODvnn0/6ac8c8c02efef8795a0b876d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-ZDQUS6-W6BCzpqAk6igJc8mrdxQzIG8ob-duODvnn0/6ac8c8c02efef8795a0b876d.md",
+    "created_at": "2026-10-09 10:58:08 UTC",
+    "processed_at": "2026-10-09 10:58:08 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Python+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/-ZDQUS6-W6BCzpqAk6igJc8mrdxQzIG8ob-duODvnn0/6ac8c8c02efef8795a0b876d.html",
+    "total_time_taken": 2.58
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Python revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 3590261,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy)",
+      "link": "https://www.youtube.com/watch?v=fWjsdhR3z3c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fWjsdhR3z3c",
+      "video_id": "fWjsdhR3z3c",
+      "channel": {
+        "name": "Indently",
+        "link": "https://www.youtube.com/@Indently",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/68ZQuFvv8mZTJQD65biYl2BWjKKMxkDS5k_sIdAGpRY9-p1vYsqwE1jNMTDEveZoSpkfOpKG=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1798502,
+      "length": "10:30",
+      "description": "In this crash course I'll be teaching you the basics of Python in less than 10 minutes. Python is super easy to learn compared to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fWjsdhR3z3c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWamJZbnevfLEYEK0k5mhW1R6s6A",
+        "rich": "https://i.ytimg.com/an_webp/fWjsdhR3z3c/mqdefault_6s.webp?du=3000&sqp=CMHhotYG&rs=AOn4CLBbwTPT1bHTU96p0NIqSogKZLASQg"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "10 Important Python Concepts In 20 Minutes",
+      "link": "https://www.youtube.com/watch?v=Gx5qb1uHss4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Gx5qb1uHss4",
+      "video_id": "Gx5qb1uHss4",
+      "channel": {
+        "name": "Indently",
+        "link": "https://www.youtube.com/@Indently",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/68ZQuFvv8mZTJQD65biYl2BWjKKMxkDS5k_sIdAGpRY9-p1vYsqwE1jNMTDEveZoSpkfOpKG=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1648125,
+      "length": "18:49",
+      "description": "In today's video we are going to be learning about 10 important Python concepts. ▷ Become job-ready with Python: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Gx5qb1uHss4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBEBFVOzsLpm5Msfq-tf3c5RL53A",
+        "rich": "https://i.ytimg.com/an_webp/Gx5qb1uHss4/mqdefault_6s.webp?du=3000&sqp=CIiNo9YG&rs=AOn4CLDa9G4mg9s0ReDzGtmEnY9m2bkqVw"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Learn Python OOP in under 20 Minutes",
+      "link": "https://www.youtube.com/watch?v=rLyYb7BFgQI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rLyYb7BFgQI",
+      "video_id": "rLyYb7BFgQI",
+      "channel": {
+        "name": "Indently",
+        "link": "https://www.youtube.com/@Indently",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/68ZQuFvv8mZTJQD65biYl2BWjKKMxkDS5k_sIdAGpRY9-p1vYsqwE1jNMTDEveZoSpkfOpKG=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 688471,
+      "length": "18:32",
+      "description": "In this video we're going to be learning the fundamentals of OOP (Object Oriented Programming) in Python. ▷ Become job-ready ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rLyYb7BFgQI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNxXkcdYau6Gi-m1_xaf6c6dM8Pg",
+        "rich": "https://i.ytimg.com/an_webp/rLyYb7BFgQI/mqdefault_6s.webp?du=3000&sqp=CPiJo9YG&rs=AOn4CLBmSD-WPr4G_HyUyk9QnCsTRf5BAQ"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Functions in Python are easy 📞",
+      "link": "https://www.youtube.com/watch?v=89cGQjB5R4M",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=89cGQjB5R4M",
+      "video_id": "89cGQjB5R4M",
+      "channel": {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1403687,
+      "length": "10:38",
+      "description": "python #tutorial #course 00:00:00 functions 00:01:49 arguments 00:04:28 exercise #1 00:06:12 return 00:08:27 exercise #2 ...",
+      "extensions": [
+        "Fundraiser"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/89cGQjB5R4M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAw3L8jAxuwZW3oEMKG3xf5XZizgg",
+        "rich": "https://i.ytimg.com/an_webp/89cGQjB5R4M/mqdefault_6s.webp?du=3000&sqp=CLGJo9YG&rs=AOn4CLBsPYDmbUTMM9b94Yr0-FISflD6SQ"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Python Syntax - Everything you need to know!",
+      "link": "https://www.youtube.com/watch?v=A2NnIWCYnMQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=A2NnIWCYnMQ",
+      "video_id": "A2NnIWCYnMQ",
+      "channel": {
+        "name": "Stefan Rows",
+        "link": "https://www.youtube.com/@StefanRows",
+        "thumbnail": "https://yt3.ggpht.com/JN7X1w0Ji4Voi9aYiPPpJtjAa88GZnVylr9nl7vEDx9y7mxZcUZo9tQQ1yscPn8EDQrofYw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 97600,
+      "length": "16:52",
+      "description": "Understanding Python Syntax is a crucial part of learning the Python programming language!",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/A2NnIWCYnMQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAshEPfFvDl03wzKN0Jq1o-__pvTQ",
+        "rich": "https://i.ytimg.com/an_webp/A2NnIWCYnMQ/mqdefault_6s.webp?du=3000&sqp=CMDUotYG&rs=AOn4CLCY9B_E7t6dNn_BUDneATlwLAdbJw"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Python Object Oriented Programming in 10 minutes 🐍",
+      "link": "https://www.youtube.com/watch?v=q2SGW2VgwAM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=q2SGW2VgwAM",
+      "video_id": "q2SGW2VgwAM",
+      "channel": {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 699241,
+      "length": "10:04",
+      "description": "python object oriented programming OOP tutorial example explained #python #objects #OOP ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/q2SGW2VgwAM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAw--dvKU4VifrsYooFWX_Nh3JR8A",
+        "rich": "https://i.ytimg.com/an_webp/q2SGW2VgwAM/mqdefault_6s.webp?du=3000&sqp=CKmPo9YG&rs=AOn4CLA22lzq_Gq1gHiZREZBdxm-QooZnQ"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Python in 10 Minutes | Fast Revision for Beginners | Basics | Last minute | Crash course",
+      "link": "https://www.youtube.com/watch?v=_RC7vh-UIZ4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_RC7vh-UIZ4",
+      "video_id": "_RC7vh-UIZ4",
+      "channel": {
+        "name": "MindX",
+        "link": "https://www.youtube.com/@MindX-tech",
+        "thumbnail": "https://yt3.ggpht.com/ua5gAnYmRX_YPxMa2Z4YxbGa3kAV-JPSTaVeOwcAZKu5CMjaZj3PhKoXFqKl4soYwVvwVEsl9A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 4348,
+      "length": "10:10",
+      "description": "Python Basics in 10 Minutes – Quick Crash Course for Beginners! Need a fast Python revision? This video is a COMPLETE ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_RC7vh-UIZ4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGPpGzr_p6Q9GZ86_OdYZcx-sg8Q",
+        "rich": "https://i.ytimg.com/an_webp/_RC7vh-UIZ4/mqdefault_6s.webp?du=3000&sqp=CLzwotYG&rs=AOn4CLC9ST0V5NvyZY-Kz_qJFwzYlBxm1A"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Learn NUMPY in 5 minutes - BEST Python Library!",
+      "link": "https://www.youtube.com/watch?v=xECXZ3tyONo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xECXZ3tyONo",
+      "video_id": "xECXZ3tyONo",
+      "channel": {
+        "name": "Python Programmer",
+        "link": "https://www.youtube.com/@gilesmcmullen",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nIRNdG4jBmhOnEvlrRrEsVe0uoIoSfLBOSGu70FzBUFyg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 1128534,
+      "length": "13:38",
+      "description": "Learn Numpy in 5 minutes! A brief introduction to the great python library - Numpy. I cover Numpy Arrays and slicing amongst ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xECXZ3tyONo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClxaP38Sx2-0kMLpQQwwMp1jx0gQ",
+        "rich": "https://i.ytimg.com/an_webp/xECXZ3tyONo/mqdefault_6s.webp?du=3000&sqp=CKSAo9YG&rs=AOn4CLDRC_4w-wb0byrrC-lT29s5c0O5cQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Python Functions - Visually Explained",
+      "link": "https://www.youtube.com/watch?v=KW6qncswzHw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=KW6qncswzHw",
+      "video_id": "KW6qncswzHw",
+      "channel": {
+        "name": "Visually Explained",
+        "link": "https://www.youtube.com/@VisuallyExplainedEducation",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/oAeMVyBmIkxghziMC8a-XR--cPbgbDboelLy8lLyYzWntcXdD80SBzJtKrVZkw40vLfZrHXPzEE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 378672,
+      "length": "14:10",
+      "description": "Resources & Further Learning - Practice notebook ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/KW6qncswzHw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWhd_h155bfbKo6haz3sTATqyiMg",
+        "rich": "https://i.ytimg.com/an_webp/KW6qncswzHw/mqdefault_6s.webp?du=3000&sqp=CPiBo9YG&rs=AOn4CLCjmE9icjm-Eb5DIgDma2Rr7_iRsg"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Python Full Course in 6 Minutes 🐍 | Complete Python Revision for Beginners🔥",
+      "link": "https://www.youtube.com/watch?v=LUICoQxbzsI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LUICoQxbzsI",
+      "video_id": "LUICoQxbzsI",
+      "channel": {
+        "name": "Priyanshi Jain",
+        "link": "https://www.youtube.com/@priyanshijainfounder",
+        "thumbnail": "https://yt3.ggpht.com/PoFMoX2bIRZ0rSfCGdNzt0uaxo6K-2Ss5cTS4f2LhffgGo0N88dAAJP732RUUDkNOUe3oAmPgA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 296,
+      "length": "6:48",
+      "description": "Learn Python in just 6 minutes! In this video, you'll learn all the important Python concepts: ✓ Variables ✓ Data Types ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LUICoQxbzsI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9YcS-PH4ZQicCq5OL4Vd6bC-qVA",
+        "rich": "https://i.ytimg.com/an_webp/LUICoQxbzsI/mqdefault_6s.webp?du=3000&sqp=CJb1otYG&rs=AOn4CLCLy0kV_KyNXQpshqjkxKnYZDIVkA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "GCSE Python Revision (Lessons 1–6) | Full Theory + Practice Walkthrough",
+      "link": "https://www.youtube.com/watch?v=CflM0izqN4o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CflM0izqN4o",
+      "video_id": "CflM0izqN4o",
+      "channel": {
+        "name": "Clear Code Teaching",
+        "link": "https://www.youtube.com/@clearcodeteaching",
+        "thumbnail": "https://yt3.ggpht.com/eoErTuBKlpSFvYSzKdn-G75QmicRdQ6YcxWDD2pYkJHHVm3s3oJbeQH5h0wtx32kMaS93x4rdQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 37,
+      "length": "6:32",
+      "description": "Need to revise Python fast for your GCSE Computer Science exam? This full recap of Lessons 1–6 covers all the core ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/CflM0izqN4o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8gqnTscyST72UB0v8EWV3ru-FdQ"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Python Programming Revision -  Input & Output (for GCSE & iGCSE Computer Science)",
+      "link": "https://www.youtube.com/watch?v=_jkzakltxeo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_jkzakltxeo",
+      "video_id": "_jkzakltxeo",
+      "channel": {
+        "name": "TeachAllAboutIt Computer Science",
+        "link": "https://www.youtube.com/@teachallaboutit",
+        "thumbnail": "https://yt3.ggpht.com/JQARmuUd6eY8m78o2bMO6EV8ojR3aAV1vHSwmXeLB6RXLlo5ilBSoSW-hh4hNCPP2AhfBrSFNw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 577,
+      "length": "5:21",
+      "description": "Unlock the Power of Python for GCSE & iGCSE Computer Science! Revise key concepts with me in this concise Python revision ...",
+      "extensions": [
+        "Key Stage 4",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_jkzakltxeo/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhAIFYocjAP&rs=AOn4CLBqJ4ja7ydSkvhsm7mp0l5k04d4-g"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Python Strings Full Revision in Minutes | Class 12 Computer Science",
+      "link": "https://www.youtube.com/watch?v=pfUJHM3kWwE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pfUJHM3kWwE",
+      "video_id": "pfUJHM3kWwE",
+      "channel": {
+        "name": "Jwalpa Coaching Classes",
+        "link": "https://www.youtube.com/@JwalpaCoachingClasses",
+        "thumbnail": "https://yt3.ggpht.com/N_5T64XfCLHO5UuYrddOY14soIQP0ZkqdzUsmuQwHdzU36386r0t8puUPzAAVq4hLphZAxrgIQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 488,
+      "length": "6:23",
+      "description": "In this video, we cover Computer Science with Python – Class 12 Chapter 2 (Strings) from the Sumitra Arora book with the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pfUJHM3kWwE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw2IAkYcUTFQmQHBReL4bQbMZGFw"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "15 Minute Python Tutorial For Beginners In Hindi (Full & Complete Python Crash Course)",
+      "link": "https://www.youtube.com/watch?v=fr1f84rg4Nw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fr1f84rg4Nw",
+      "video_id": "fr1f84rg4Nw",
+      "channel": {
+        "name": "CodeWithHarry",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 2463859,
+      "length": "17:37",
+      "description": "Python Udemy Course: https://goharry.in/python Get this course at 90% Discount if you use this link Source Code ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fr1f84rg4Nw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXqJKNCxRdSmkeLbY2mqAUWHQGCQ",
+        "rich": "https://i.ytimg.com/an_webp/fr1f84rg4Nw/mqdefault_6s.webp?du=3000&sqp=CNT3otYG&rs=AOn4CLAW9eZ0dcgR9zNjxFA0hg3VhvWXpg"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Python Revision: Input/Output, Operators & Core Anatomy",
+      "link": "https://www.youtube.com/watch?v=LamNhfN3mX4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LamNhfN3mX4",
+      "video_id": "LamNhfN3mX4",
+      "channel": {
+        "name": "LANGUAGE MADE EASY",
+        "link": "https://www.youtube.com/@LANGUAGEMADEEG",
+        "thumbnail": "https://yt3.ggpht.com/v_-t76ceQet5sd7Cv9hohCBuTTbB9WwwSrDM68H4j_4msPBSaOxY6avP3XEUtNXSsrfnc8Y8Hfc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 6,
+      "length": "8:17",
+      "description": "Welcome back to Language Made Eg. I'm Rituraj, and in this quick revision video, we are locking in the core concepts. Learning to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LamNhfN3mX4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAx2--Ajzt5EuE35FsVi7--VTjzQ",
+        "rich": "https://i.ytimg.com/an_webp/LamNhfN3mX4/mqdefault_6s.webp?du=3000&sqp=COaFo9YG&rs=AOn4CLCabw1vWwnME9jFMUGzxW3V2POqyw"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "How I Would Learn Python FAST (If I Could Start Over)",
+      "link": "https://www.youtube.com/watch?v=OEJv74QnduA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OEJv74QnduA",
+      "video_id": "OEJv74QnduA",
+      "channel": {
+        "name": "Data with Baraa",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 272336,
+      "length": "10:48",
+      "description": "DataCamp | Python Data Fundamentals https://datacamp.pxf.io/kOrJyz ▻ DataCamp | Data Analyst in Python ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OEJv74QnduA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGo9FQLceURLLO0ipwV3XMpxRl9w",
+        "rich": "https://i.ytimg.com/an_webp/OEJv74QnduA/mqdefault_6s.webp?du=3000&sqp=CMCCo9YG&rs=AOn4CLCcr8wEzXWD5prepsOipIUEWJAUXg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Python Revision & Practice | Python Tutorial for Beginners 2026 | Day 15#viralvideos",
+      "link": "https://www.youtube.com/watch?v=hVe3Qzc98EI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hVe3Qzc98EI",
+      "video_id": "hVe3Qzc98EI",
+      "channel": {
+        "name": "Code With Akshi",
+        "link": "https://www.youtube.com/@CodeWithAkshi",
+        "thumbnail": "https://yt3.ggpht.com/oa9W3JcXzmx_QmVgFaoPRWyb2UQkM7xYR2B2WKdZhaxC1SJAsLUzMOa54B2ZhfKV0bs_zSbScA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 35,
+      "length": "4:36",
+      "description": "Welcome to Day 15 of the Python for Beginners 2026 series! In this final lesson, we'll revise everything we've learned in the series ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hVe3Qzc98EI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCd4cr5QXW31-7shYIsYOmIR7h9fQ"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Python Revision | CA Final ADVITT | MCQ & Handwritten notes",
+      "link": "https://www.youtube.com/watch?v=_nMzpKeia7k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_nMzpKeia7k",
+      "video_id": "_nMzpKeia7k",
+      "channel": {
+        "name": "Chartered’s Gazette",
+        "link": "https://www.youtube.com/@Charterers_Gazette",
+        "thumbnail": "https://yt3.ggpht.com/Ar0b2EeT_JhlHtYTfA-I9aOZnbVXndesg0mP_CI8TI9j2bX7Qd3p8d9h9ZotjkN2kTI37gHCkw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 21,
+      "length": "7:39",
+      "description": "Notes yet to be uploaded.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/_nMzpKeia7k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKphOWNjxIsF5KZyw_Q_f2oyLXLQ"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Python lists, sets, and tuples explained 🍍",
+      "link": "https://www.youtube.com/watch?v=gOMW_n2-2Mw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gOMW_n2-2Mw",
+      "video_id": "gOMW_n2-2Mw",
+      "channel": {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 828930,
+      "length": "15:06",
+      "description": "python #tutorial #course Python list set tuple tutorial example explained 00:00:00 intro 00:00:49 list 00:09:40 set 00:12:40 tuple ...",
+      "extensions": [
+        "Fundraiser"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gOMW_n2-2Mw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLHwDqByUlPA0rNQbuHPkKCgYmXQ",
+        "rich": "https://i.ytimg.com/an_webp/gOMW_n2-2Mw/mqdefault_6s.webp?du=3000&sqp=CJD4otYG&rs=AOn4CLDa8OId5WHKih-EoKfTVdO22YiIIw"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "PYSQL - PYTHON REVISION TOUR - PART ONE",
+      "link": "https://www.youtube.com/watch?v=HfkPQYGLNSE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HfkPQYGLNSE",
+      "video_id": "HfkPQYGLNSE",
+      "channel": {
+        "name": "PYSQL",
+        "link": "https://www.youtube.com/@pysql4510",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kUIDxxjxnuVdrHe-ARCi4BsND7bi_mZWQZxc0UEwCvbM8=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 232,
+      "length": "13:36",
+      "description": "12th CBSE # computer science # python # SUMITA ARORA # Python Revision Tour # part one # Introduction to python # cs ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HfkPQYGLNSE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOGoEbA2OwJPUEzOz-bm5J_i0Cgg",
+        "rich": "https://i.ytimg.com/an_webp/HfkPQYGLNSE/mqdefault_6s.webp?du=3000&sqp=CNXxotYG&rs=AOn4CLA9U36Loq8sPU0BWN7eTFHEJi3xNw"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Python+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Python%20revision&sp=EgIYA0gUggELZldqc2RoUjN6M2OCAQtHeDVxYjF1SHNzNIIBC3JMeVliN0JGZ1FJggELODljR1FqQjVSNE2CAQtBMk5uSVdDWW5NUYIBC3EyU0dXMlZnd0FNggELX1JDN3ZoLVVJWjSCAQt4RUNYWjN0eU9Ob4IBC0tXNnFuY3N3ekh3ggELTFVJQ29ReGJ6c0mCAQtDZmxNMGl6cU40b4IBC19qa3pha2x0eGVvggELcGZVSkhNM2tXd0WCAQtmcjFmODRyZzROd4IBC0xhbU5oZk4zbVg0ggELT0VKdjc0UW5kdUGCAQtoVmUzUXpjOThFSYIBC19uTXpwS2VpYTdrggELZ09NV19uMi0yTXeCAQtIZmtQUVlHTE5TRbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELZldqc2RoUjN6M2OCAQtHeDVxYjF1SHNzNIIBC3JMeVliN0JGZ1FJggELODljR1FqQjVSNE2CAQtBMk5uSVdDWW5NUYIBC3EyU0dXMlZnd0FNggELX1JDN3ZoLVVJWjSCAQt4RUNYWjN0eU9Ob4IBC0tXNnFuY3N3ekh3ggELTFVJQ29ReGJ6c0mCAQtDZmxNMGl6cU40b4IBC19qa3pha2x0eGVvggELcGZVSkhNM2tXd0WCAQtmcjFmODRyZzROd4IBC0xhbU5oZk4zbVg0ggELT0VKdjc0UW5kdUGCAQtoVmUzUXpjOThFSYIBC19uTXpwS2VpYTdrggELZ09NV19uMi0yTXeCAQtIZmtQUVlHTE5TRbIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Python+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Python+revision&sp=EgIYA0gUggELZldqc2RoUjN6M2OCAQtHeDVxYjF1SHNzNIIBC3JMeVliN0JGZ1FJggELODljR1FqQjVSNE2CAQtBMk5uSVdDWW5NUYIBC3EyU0dXMlZnd0FNggELX1JDN3ZoLVVJWjSCAQt4RUNYWjN0eU9Ob4IBC0tXNnFuY3N3ekh3ggELTFVJQ29ReGJ6c0mCAQtDZmxNMGl6cU40b4IBC19qa3pha2x0eGVvggELcGZVSkhNM2tXd0WCAQtmcjFmODRyZzROd4IBC0xhbU5oZk4zbVg0ggELT0VKdjc0UW5kdUGCAQtoVmUzUXpjOThFSYIBC19uTXpwS2VpYTdrggELZ09NV19uMi0yTXeCAQtIZmtQUVlHTE5TRbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELZldqc2RoUjN6M2OCAQtHeDVxYjF1SHNzNIIBC3JMeVliN0JGZ1FJggELODljR1FqQjVSNE2CAQtBMk5uSVdDWW5NUYIBC3EyU0dXMlZnd0FNggELX1JDN3ZoLVVJWjSCAQt4RUNYWjN0eU9Ob4IBC0tXNnFuY3N3ekh3ggELTFVJQ29ReGJ6c0mCAQtDZmxNMGl6cU40b4IBC19qa3pha2x0eGVvggELcGZVSkhNM2tXd0WCAQtmcjFmODRyZzROd4IBC0xhbU5oZk4zbVg0ggELT0VKdjc0UW5kdUGCAQtoVmUzUXpjOThFSYIBC19uTXpwS2VpYTdrggELZ09NV19uMi0yTXeCAQtIZmtQUVlHTE5TRbIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 10:58:08 UTC"
+}

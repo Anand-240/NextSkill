@@ -1,0 +1,534 @@
+{
+  "search_metadata": {
+    "id": "6ac8c8b5dc74d0b6c12c0c3c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/HlN41M9S0sr1QINFbdqQlVzJmPi_T9BUhe0LEbuyuZo/6ac8c8b5dc74d0b6c12c0c3c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/HlN41M9S0sr1QINFbdqQlVzJmPi_T9BUhe0LEbuyuZo/6ac8c8b5dc74d0b6c12c0c3c.md",
+    "created_at": "2026-10-09 10:57:57 UTC",
+    "processed_at": "2026-10-09 10:57:57 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Excel+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/HlN41M9S0sr1QINFbdqQlVzJmPi_T9BUhe0LEbuyuZo/6ac8c8b5dc74d0b6c12c0c3c.html",
+    "total_time_taken": 7.64
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Excel revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 5537811,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Dawn of the Agent 365 free Whitepaper - Written by 6 Microsoft MVPs.",
+      "link": "https://www.youtube.com/watch?v=fsIysm-zV9g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fsIysm-zV9g",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CpT0cusjIavOZNqbn_uMP3O6e8QKP_eGHigGLoYPS6RWwkB8QASAAYMme8ImYpKQTggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAeO7hoopqQLQtX9Vo9eyPqgDBMgDCqoEoQJP0KpjrQGY2RTpT6gCWFaqFdZvLUVYpDi4r2r2K7HR4UKwGsiHZYPyZC6OegB7d9cipQBv53rDxRSx1IQnCYsSVxZBf5lfg4pvaKDthYdtat0PoxO_gB1nVdyv4f7OcFnr5rxKZLGWsTUgzYnerUWO00ILCTNVnanZcIsuQuUzRgtLvF3GQ9T1yFafezokIEVuKUzOfWXPXIVNfhKmGa4UEbEeHY4HjMBkpWu1B1OcfT-OL0OpLGthPsatFsAXJZ4fcRq_ac0dSSw3AieHnDRpjwCaCWUmZBRwn7GP3BQW5IgNr5uKmsyypLQ9JRjGxUSpjsCxDKlKr_sWjzoFQ77ekZ_ieSSi4e3T8WRlu2WCrLLBRYWSouXo5CzTE7rYgf0fiAW4yIS3VpIFCAgTeNCShZEEoAahAYAH4_PW6QOQBwSoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtmc0l5c20telY5Z6gIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWIjHlsfjrJcDYAGaCTNodHRwczovL3d3dy5zeXNraXQuY29tL2Vib29rcy9hZ2VudC0zNjUtd2hpdGVwYXBlci-xCYxp69MacHYiyAkXyAmPAcgJwgGYCwG6C0EIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCGLoDCXZpY2JmemFjYdALE9IMAhABmg0BE6oNAlVTyA0B0g2YA2h0dHBzOi8vd3d3LnN5c2tpdC5jb20vZWJvb2tzL2FnZW50LTM2NS13aGl0ZXBhcGVyLz9fYnQ9ODA5Mjk5MTQzMDA5Jl9iaz0mX2JtPSZfYm49Jl9iZz0xOTQ0NTA1MzA5MzcmdXRtX3Rlcm09JnV0bV9jYW1wYWlnbj1EZW1hbmQtR2VuX1dlYmluYXJzJkVib29rc19taWNyb19wb2ludF9tYXguY2xpY2tzX0lDUCZ1dG1fc291cmNlPWFkd29yZHMmdXRtX21lZGl1bT1wcGMmaHNhX2FjYz05Njg1NTEwMjYyJmhzYV9jYW09MjMyMDA4NjczODQmaHNhX2dycD0xOTQ0NTA1MzA5MzcmaHNhX2FkPTgwOTI5OTE0MzAwOSZoc2Ffc3JjPSZoc2FfdGd0PWF1ZC0xNjU4OTczNjYxODYxJmhzYV9rdz0maHNhX210PSZoc2FfbmV0PWFkd29yZHMmaHNhX3Zlcj0zJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzIwMDg2NzM4NLgT____________AYgUB7AUA8AVgYCAQNAVAdgVAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXTQn79Fr6mcW6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMI896Wx-OslwMVprN_Bh1ctycuEAEYASAAEgJU2PD_BwE&num=1&cid=CAASqwHkaJikeRDpuflp7NxR8YJMWA0zIJNKGDU9NF4gsDwp1TKPFCl4wjItWEMYBOGhgN7pH8hUHoLYDO8TMsts5At6KwO2XzDOxOOj4-Q6XyzH5Txf642Nzb_rWQi8isuDaa2kzQkKXRwVFBiqWJkuZlTgUFqUiH2vb796HAxuU9NCa19hA1N-pAWCWI4fNmB7JyN3J7Nj7fjN55AKLUIjAolsMX4IlmbfOHW9rZU&ad_cpn=%5BCPN%5D&sig=AOD64_1ULL19XhBTMOW9_X7Hdu7qi7xrvA&ctype=110&video_id=fsIysm-zV9g&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Syskit",
+        "thumbnail": "https://yt3.ggpht.com/proxy/Ji099eCHUNW3P3-0M7asltBZbWhmGF4UVwGRIRzq-Wpbf2NSvyzcb1lJKD5MUrm8I-fmRI9E8JZwY8U9KxCi7WxfteIoF0gRXNu3kvZCs2qAqf-XJbOPifQzV8gRDrllHqqItQAPp08Sc9xIgBVyXRgO5j8S1_krGcxPRExAJpnfXtKt-nzVltKnFqVIKFAcdWeJ7xIe8GW_HRY4CXAa4aYsO_SRp_zK7FY3GN31RmmjscFoprcVinmY2PFFOPMsBGQBvbk=w68-h68-nd"
+      },
+      "description": "Bonus: Free M365 Agent Registry tool. View all agents - no data stored or scripts.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fsIysm-zV9g/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IDoofzAP&rs=AOn4CLBf1KDeDqsOEsCt9OgYqeGaAzt2OA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "$6,000 TikTok Ads Bonus",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C7dPTusjIavOZNqbn_uMP3O6e8QLvgtTviQGfrMqA0hawkB8QAiAAYMme8ImYpKQTggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAYSMmbwCqAMEyAMKqgScAk_QqmOtAZjZFOlPqAJYVqoV1m8tRVikOLivavYrsdHhQrAayIdlg_JkLo56AHt31yKlAG_nesPFFLHUhCcJixJXFkF_mV-Dim9ooO2Fh21q3Q-jE7-AHWdV3K_h_s5wWevmvEpksZaxNSDNid6tRY7TQgsJM1Wdqdlwiy5C5TNGC0u8XcZD1PXIVp97OiQgRW4pTM59Zc9chU1-EqYZrhQRsR4djgeMwGSla7UHU5x9P44vQ6ksa2E-xq0WwBclnh9xGr9pzR1JLDcCJ4ecNGmPAJoJZSZkFHCfz5DcFBbkiCqHo4mYzLLj0RxzHcbFq8RUwLEMqVCsO4RfLOjkq0XTu_PtFnXFICHDTLCppjNfCuuYHVV8zxZgw1EeiAXC7P7cWZIFCAgTeJf3pMcBoAZugAf1_vPGAZAHBKgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfn2rECqAfetbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYiMeWx-OslwNgAZoJLWh0dHBzOi8vZ2V0c3RhcnRlZC50aWt0b2suY29tL2dsb2JhbC1zaG9wLWFkc7EJC085dx8kb6DICQDICYoCmAsBugtBCAMQBRgEIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAgW6Awl2aWNiZnphY2HQCxKiDCFqGgoYY29tLnNzLmFuZHJvaWQudWdjLnRyaWxseACIAQDSDAIQAZoNARKqDQJVU8gNAdINugFodHRwczovL2dldHN0YXJ0ZWQudGlrdG9rLmNvbS9nbG9iYWwtc2hvcC1hZHM_bGFuZz1lbiZhdHRyX3NvdXJjZT1nb29nbGUmYXR0cl9tZWRpdW09ZGVtYW5kLWdlbiZhdHRyX2FkZ3JvdXBfaWQ9MTk3NTc1MzU1OTgzJmNyZWF0aXZlPTgxODk4OTE0OTMwMyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQwODU3NzE4NDK4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAboXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMI896Wx-OslwMVprN_Bh1ctycuEAEYAiAAEgI9LfD_BwE&num=2&cid=CAASqwHkaJikeRDpuflp7NxR8YJMWA0zIJNKGDU9NF4gsDwp1TKPFCl4wjItWEMYBOGhgN7pH8hUHoLYDO8TMsts5At6KwO2XzDOxOOj4-Q6XyzH5Txf642Nzb_rWQi8isuDaa2kzQkKXRwVFBiqWJkuZlTgUFqUiH2vb796HAxuU9NCa19hA1N-pAWCWI4fNmB7JyN3J7Nj7fjN55AKLUIjAolsMX4IlmbfOHW9rZU&sig=AOD64_2y8kuQ0NKzVoADfaRz1TYSfIrA6w&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "TikTok For Business",
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/j2VHrsjWdGgHftqj4t5lFak4M-B3ADPEJ5ZxcZraDYrCLmkLPuf2xGo65o5bND2I_H-1AlTe43stsFwZVzqjEQcTjvfnKW7j7vLuhYdx-DUpSN7VG9Y91VmNzA7JWTLVUn4"
+      },
+      "description": "Make this your biggest year yet. Claim your $6,000 ad coupon and launch TikTok Shop Ads.",
+      "thumbnail": {
+        "static": "https://lh5.googleusercontent.com/proxy/j2VHrsjWdGgHftqj4t5lFak4M-B3ADPEJ5ZxcZraDYrCLmkLPuf2xGo65o5bND2I_H-1AlTe43stsFwZVzqjEQcTjvfnKW7j7vLuhYdx-DUpSN7VG9Y91VmNzA7JWTLVUn4"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Photographer Haley Varacallo retouches images in Photoshop to make her bold visions shine.",
+      "link": "https://www.youtube.com/watch?v=ZX5dbost-DI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZX5dbost-DI",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cptk_usjIavOZNqbn_uMP3O6e8QKdsZbmiQHB-daEsBVkEAMgAGDJnvCJmKSkE4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGC5OvQKagDBMgDCqoEvwJP0KpjrQGY2RTpT6gCWFaqFdZvLUVYpDi4r2r2K7HR4UKwGsiHZYPyZC6OegB7d9cipQBv53rDxRSx1IQnCYsSVxZBf5lfg4pvaKDthYdtat0PoxO_gB1nVdyv4f7OcFnr5rxKZLGWsTUgzYnerUWO00ILCTNVnanZcIsuQuUzRgtLvF3GQ9T1yFafezokIEVuKUzOfWXPXIVNfhKmGa4UEbEeHY4HjMBkpWu1B1OcfT-OL0OpLGthPsatFsAXJZ4fcRq_ac0dSSw3AieHnDRpjwCaCWUmZBRwn9Ka3BQf5IgJwKyKmd6xeGSyvPIO3dR4_OEpBUvMEcUfVqTCaPhfMT3QWS7VeKKFyN6-i0cbDG1_kR2f2jlx1iwdz4mrJjc27x3w3otLPDBd_FEg18a3xJgh55kuYpw4tQEmaFFwiAX4o6SZVJIFCAgTeLfdk90EoAahAYAHgpy8sASQBwSoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtaWDVkYm9zdC1ESagIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWIjHlsfjrJcDYAGaCThodHRwczovL3d3dy5hZG9iZS5jb20vcHJvZHVjdHMvcGhvdG9zaG9wL2hvdy10by11c2UuaHRtbLEJb53jLafBh5bICRfICY8ByAnCAboLQQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAISugMJdmljYmZ6YWNh0AsT4AsBogwZahIKEGNvbS5hZG9iZS5yZWFkZXJ4AIgBANIMAhABmg0BE6oNAlVTyA0B0g3TBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OOTcyOTUyLjI3OTM4MkJJRE1BTkFHRVJfREZBU0lURS9CMjk5NzQxMDQuMzY2ODEzMDY1O2RjX3Rya19haWQ9NTU3NzkyMTkyO2RjX3Rya19jaWQ9MTkyMjM1MDQ0O2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTdDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSS1LT2ttVlNvQXJmZGs5MEVzQUxueW9UbkEwQTdFSmZudWdIYkNBbHN0SEozU3RvbGd3Wk9Fa3VyO2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQVJJamU3MHNKa0RQMVhDZkMtMkVUb1FCVWZBNVoyWHJ0VnVockt1YjhsVjMwOGhZa0dNTXdacEx6V3RkZmQzT19KTFAtNkpuMkc0Vk9HNmc7ZGNfcHViaWQ9Nj9odHRwczovL3d3dy5hZG9iZS5jb20vcHJvZHVjdHMvcGhvdG9zaG9wL2hvdy10by11c2UuaHRtbD9zZGlkPVY2TlpLRjVWJm12PXNvY2lhbCZtdjI9cGFpZHNvYyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjI2MDE2MDE1MjiwE4PzvSW4E____________wGIFAOwFAPAFYGAgEDQFQHYFQGYFgGoFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI896Wx-OslwMVprN_Bh1ctycuEAEYAyAAEgKxVfD_BwE&num=3&cid=CAASqwHkaJikeRDpuflp7NxR8YJMWA0zIJNKGDU9NF4gsDwp1TKPFCl4wjItWEMYBOGhgN7pH8hUHoLYDO8TMsts5At6KwO2XzDOxOOj4-Q6XyzH5Txf642Nzb_rWQi8isuDaa2kzQkKXRwVFBiqWJkuZlTgUFqUiH2vb796HAxuU9NCa19hA1N-pAWCWI4fNmB7JyN3J7Nj7fjN55AKLUIjAolsMX4IlmbfOHW9rZU&ad_cpn=%5BCPN%5D&sig=AOD64_181Vd2Fxicw5XyCF3UunKXieZvfg&ctype=110&video_id=ZX5dbost-DI&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe Photoshop",
+        "thumbnail": "https://yt3.ggpht.com/proxy/qPtezSZ5j6qc3b4I7Q_PG4n7Ad5kqmvqMn84Jr3y28v41GkDW47q5MzZI5y2lHDLwgbyL4N0FLn-0-Sz3ynwjEZqp6ZwYENg8Ok0g1341YV6wYk_4QOIXjp0RCP6NyDf0HSMOFKvTiNX45VF2C82rwJ_wyq6MGWg50w8brR2cz64USgh6GRuHaaiGO4WfqkGMzb9V74k5KXZiuzmp8eGnJxwSB5DFdeQQd3ApPo3D4ogoflHj95HpaSzYr-2kRZsM5ENnYo=w68-h68-nd"
+      },
+      "description": "Now go make what lights you up.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/3275960688496209653"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "Learn Excel Essentials in Just 15 Minutes",
+      "link": "https://www.youtube.com/watch?v=8Aed2nVhPuU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8Aed2nVhPuU",
+      "video_id": "8Aed2nVhPuU",
+      "channel": {
+        "name": "Kenji Explains",
+        "link": "https://www.youtube.com/@KenjiExplains",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ya0P7V6hzaGNc1UEkK8u8JR1FuqN_mwUyYpWhWlk5f1SHaEqqqrDbaSOgRJHRldsYT54yQJ5Jg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 453390,
+      "length": "15:45",
+      "description": "Learn Excel with this Excel Beginners Tutorial in just 15 minutes. Take our Excel Course: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/8Aed2nVhPuU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgtAykpDWsIbgyu3-FAN5pV0NmBw",
+        "rich": "https://i.ytimg.com/an_webp/8Aed2nVhPuU/mqdefault_6s.webp?du=3000&sqp=CO76otYG&rs=AOn4CLCeNHqgAEaY8w-rqM-SZqxAKdlx2Q"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "How to Use Excel for Beginners in 10 Minutes",
+      "link": "https://www.youtube.com/watch?v=Ai0MV7twEBE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ai0MV7twEBE",
+      "video_id": "Ai0MV7twEBE",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 447902,
+      "length": "8:13",
+      "description": "Does your resume say you know Excel… but you've never actually used it? Let's fix that. In this video, I'll walk you through Excel ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ai0MV7twEBE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfPXYeIN5jQ2zG0Z8qKrwzU1zJOQ",
+        "rich": "https://i.ytimg.com/an_webp/Ai0MV7twEBE/mqdefault_6s.webp?du=3000&sqp=CNSBo9YG&rs=AOn4CLCvJ24PWWsoEubOe7CYM2aNcuIU6g"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Excel Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=LgXzzu68j7M",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LgXzzu68j7M",
+      "video_id": "LgXzzu68j7M",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 7589536,
+      "length": "16:17",
+      "description": "Learn Excel in just 2 hours: https://excel.kevinstratvert.com Are you looking to upskill your Excel game? Look no farther than this ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LgXzzu68j7M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMY3O5fyj8BnPu7iGF-guHUYE_ZA",
+        "rich": "https://i.ytimg.com/an_webp/LgXzzu68j7M/mqdefault_6s.webp?du=3000&sqp=CLiLo9YG&rs=AOn4CLDUiE1gcQ5q82JtTSAu2fZI4vNYgA"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Top 10 Essential Excel Formulas for Analysts in 2026",
+      "link": "https://www.youtube.com/watch?v=MeBYShlqsak",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MeBYShlqsak",
+      "video_id": "MeBYShlqsak",
+      "channel": {
+        "name": "Kenji Explains",
+        "link": "https://www.youtube.com/@KenjiExplains",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ya0P7V6hzaGNc1UEkK8u8JR1FuqN_mwUyYpWhWlk5f1SHaEqqqrDbaSOgRJHRldsYT54yQJ5Jg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1347841,
+      "length": "13:39",
+      "description": "Learn the only Excel formulas you need as an Analyst in 2025 to get most things done. Get FREE Excel chart templates from ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/MeBYShlqsak/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHep4f-B3G45uEUVGsSPwJPCHA5A",
+        "rich": "https://i.ytimg.com/an_webp/MeBYShlqsak/mqdefault_6s.webp?du=3000&sqp=CKrQotYG&rs=AOn4CLDmM5I_rXDLH4GuBNHqTqc-PV1Rqg"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Excel Formulas and Functions - Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=ZwiQ0W5lTEg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZwiQ0W5lTEg",
+      "video_id": "ZwiQ0W5lTEg",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 518403,
+      "length": "11:43",
+      "description": "If Excel formulas and functions have ever confused you, you're not alone. In this step-by-step tutorial, you'll learn exactly how to ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZwiQ0W5lTEg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApBr9Y9xb76LsP1nzfyJCM2O5Law",
+        "rich": "https://i.ytimg.com/an_webp/ZwiQ0W5lTEg/mqdefault_6s.webp?du=3000&sqp=CJiKo9YG&rs=AOn4CLBOajOCVlClNdLNRizv4VulDcrP4g"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Excel Formulas and Functions Tutorial",
+      "link": "https://www.youtube.com/watch?v=Jl0Qk63z2ZY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Jl0Qk63z2ZY",
+      "video_id": "Jl0Qk63z2ZY",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 4414591,
+      "length": "12:29",
+      "description": "Go from Excel novice to data analysis ninja in just 2 hours with my Excel for Beginners course: https://kevinstratvert.thinkific.com ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Jl0Qk63z2ZY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnFlz7IccfabUOOOR6OJflqHaFsg"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "How to Pass EXCEL TEST FOR JOB INTERVIEW – Step-by-Step Guide",
+      "link": "https://www.youtube.com/watch?v=b-GxQvV9SWg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=b-GxQvV9SWg",
+      "video_id": "b-GxQvV9SWg",
+      "channel": {
+        "name": "Online Training for Everyone",
+        "link": "https://www.youtube.com/@OnlineTrainingforEveryone",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/y5SLUMdi2qVP40V0ue0cmG4pXJKSaPrg4_4EKGcDUP1Al_AOXn0izXcdAFhqjaOJCXSsZp9N=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 4424350,
+      "length": "19:48",
+      "description": "Want to pass your Excel assessment test with confidence? Whether you're preparing for a Microsoft Excel test for a job interview, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/b-GxQvV9SWg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTqwDW6pMbD4nL4b6Bd-QQr3XsHQ",
+        "rich": "https://i.ytimg.com/an_webp/b-GxQvV9SWg/mqdefault_6s.webp?du=3000&sqp=CJCQo9YG&rs=AOn4CLAa7R5d584wq6kFMIs0li-E41II5w"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "5 Excel INTERVIEW Questions You NEED to Get RIGHT",
+      "link": "https://www.youtube.com/watch?v=eIN40JN7sro",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eIN40JN7sro",
+      "video_id": "eIN40JN7sro",
+      "channel": {
+        "name": "Leila Gharani",
+        "link": "https://www.youtube.com/@LeilaGharani",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nRcy9yiYCsCEjQ0_Dwi_BjpnrMbBa2ov10Y2flDk-otH0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 505244,
+      "length": "8:43",
+      "description": "Join 400000+ professionals in our courses here https://link.xelplus.com/yt-d-all-courses Excel is indispensable in today's ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eIN40JN7sro/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgVa2TNt21KWKRjUfzPSeABudPdw",
+        "rich": "https://i.ytimg.com/an_webp/eIN40JN7sro/mqdefault_6s.webp?du=3000&sqp=CKz_otYG&rs=AOn4CLCL3vjJbT73oC5eTkxX7yLu5PVN9Q"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Don't FAIL your next Excel Exam! Watch this instead...",
+      "link": "https://www.youtube.com/watch?v=WZ8rxzZ_jYA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WZ8rxzZ_jYA",
+      "video_id": "WZ8rxzZ_jYA",
+      "channel": {
+        "name": "Mike's Office",
+        "link": "https://www.youtube.com/@MikesOffice",
+        "thumbnail": "https://yt3.ggpht.com/XKZikIjzmY7VqCLXRDPInyxSMhnLYqIC5PAbK5WetaQfw-fDT7JebE3VqB76PaSOF2_5T9JI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 173875,
+      "length": "15:06",
+      "description": "It is easy to fail the Excel MOS exams. But I'm going to help you avoid that in this video with 10 Excel MOS exam questions you will ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WZ8rxzZ_jYA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQfm8BDngbHkWnyfCxUZ-VaXUDig",
+        "rich": "https://i.ytimg.com/an_webp/WZ8rxzZ_jYA/mqdefault_6s.webp?du=3000&sqp=CKDYotYG&rs=AOn4CLDALKZhuFYYKWbW_kRklXOGwZhdHQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Excel Pivot Table EXPLAINED in 10 Minutes (Productivity tips included!)",
+      "link": "https://www.youtube.com/watch?v=UsdedFoTA68",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UsdedFoTA68",
+      "video_id": "UsdedFoTA68",
+      "channel": {
+        "name": "Leila Gharani",
+        "link": "https://www.youtube.com/@LeilaGharani",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nRcy9yiYCsCEjQ0_Dwi_BjpnrMbBa2ov10Y2flDk-otH0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 4429458,
+      "length": "13:22",
+      "description": "Unlock the power of Pivot Tables - transform your data into insights today! https://link.xelplus.com/yt-g-10minutes-pivottable ...",
+      "extensions": [
+        "5 products",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/UsdedFoTA68/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAH0pk56sDmS5Ix4ZkJSc4pa8x0KQ",
+        "rich": "https://i.ytimg.com/an_webp/UsdedFoTA68/mqdefault_6s.webp?du=3000&sqp=CLaRo9YG&rs=AOn4CLDd7Um6MPpBBXfJUXjXRcQhZ0j0Ng"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Creating a revision plan on Excel // Explained How-to // Tips and Tricks",
+      "link": "https://www.youtube.com/watch?v=c9ZrlPws6PU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c9ZrlPws6PU",
+      "video_id": "c9ZrlPws6PU",
+      "channel": {
+        "name": "wania",
+        "link": "https://www.youtube.com/@wania1395",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m2b2Bw6WGvt4L4SlijqVz4_crozzdhXySlkvon0CvBY2A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 308,
+      "length": "11:46",
+      "description": "Heyyyy! w e l c o m e   a g a i n ! In today's video, I'll explain how to very easily create a revision plan on excel, whether for your ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/c9ZrlPws6PU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl4tH0oS4xAsqX7VbewvLcNmm9ag"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Top 10 Excel Interviews Questions – How to pass any Excel Assessment Test",
+      "link": "https://www.youtube.com/watch?v=Ih1OxckSWw4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ih1OxckSWw4",
+      "video_id": "Ih1OxckSWw4",
+      "channel": {
+        "name": "M Tech Training",
+        "link": "https://www.youtube.com/@mtechtraining9864",
+        "thumbnail": "https://yt3.ggpht.com/0ddBPxvUPC7lcDWshiF2ZylVDN2he9yjBZdiU-OJ4PyOe5ScYYycDbj6eJ7Qfl6IGvq8ARHycPQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 739606,
+      "length": "10:51",
+      "description": "EXCEL INTERVIEW QUESTIONS // Interviewing for a data-focused job or a job that requires Excel skills? 1- Conditional ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ih1OxckSWw4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZUeqTj2OE0rJewI2Mdukf7DSK5A",
+        "rich": "https://i.ytimg.com/an_webp/Ih1OxckSWw4/mqdefault_6s.webp?du=3000&sqp=CIrzotYG&rs=AOn4CLCj9pd_ngyV8Vvk9OugWbS0taMiBA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Learn 80% of Data Analysis in Excel in Just 12 Minutes",
+      "link": "https://www.youtube.com/watch?v=O1QfG5SXRkM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=O1QfG5SXRkM",
+      "video_id": "O1QfG5SXRkM",
+      "channel": {
+        "name": "Kenji Explains",
+        "link": "https://www.youtube.com/@KenjiExplains",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ya0P7V6hzaGNc1UEkK8u8JR1FuqN_mwUyYpWhWlk5f1SHaEqqqrDbaSOgRJHRldsYT54yQJ5Jg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 236083,
+      "length": "12:09",
+      "description": "Learn Data Analysis Essentials in Excel in Just 12 minutes! Take our Data Analyst Program here: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/O1QfG5SXRkM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB45j7C6ZmzGutapNsExcvhsxpkA",
+        "rich": "https://i.ytimg.com/an_webp/O1QfG5SXRkM/mqdefault_6s.webp?du=3000&sqp=CKGDo9YG&rs=AOn4CLBrmUiAwdmy_yUM9qFaJnV44XwIjA"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "How to Use Claude for Excel (Step-by-Step Tutorial)",
+      "link": "https://www.youtube.com/watch?v=9OsKjq_rVXc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9OsKjq_rVXc",
+      "video_id": "9OsKjq_rVXc",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 260504,
+      "length": "9:23",
+      "description": "Learn how to use Claude for Excel to clean data, fix formulas, and analyze your spreadsheets automatically. Try Claude for ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9OsKjq_rVXc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiEXS0ilNkAe9ro6O2gRdbJw-PGA",
+        "rich": "https://i.ytimg.com/an_webp/9OsKjq_rVXc/mqdefault_6s.webp?du=3000&sqp=CJSIo9YG&rs=AOn4CLB21h1rUbTod5GwWyPlfAPh2n6Cgg"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "IF Function in Excel Tutorial",
+      "link": "https://www.youtube.com/watch?v=2mzGsJtJvLc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2mzGsJtJvLc",
+      "video_id": "2mzGsJtJvLc",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 846287,
+      "length": "6:14",
+      "description": "Learn Excel in just 2 hours: https://kevinstratvert.thinkific.com Learn how to use the IF function, one of the most popular functions in ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/2mzGsJtJvLc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAh_RvKHSB5QJuh37ex088fTs5Oxg",
+        "rich": "https://i.ytimg.com/an_webp/2mzGsJtJvLc/mqdefault_6s.webp?du=3000&sqp=CN36otYG&rs=AOn4CLA8JQPgk4TpNK4hxYZPpe55beL6Dg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "How to Compare Two Excel Sheets and Find Differences",
+      "link": "https://www.youtube.com/watch?v=nrDOQ_VDmQA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nrDOQ_VDmQA",
+      "video_id": "nrDOQ_VDmQA",
+      "channel": {
+        "name": "Chester Tugwell",
+        "link": "https://www.youtube.com/@ChesterTugwell",
+        "thumbnail": "https://yt3.ggpht.com/N0AxJkT0GNDtNVJFkcYDoLXg6RAxj4eNb6i60hD9kMnoNSKiS5guZsHyddKzoUmS2W2PhcNZ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 807977,
+      "length": "8:47",
+      "description": "In this video I demonstrate how to compare two sheets in Excel and find or highlight differences. I look at doing this where the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/nrDOQ_VDmQA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYl2absh5OVYYkUt5uiR-d8FGTgg",
+        "rich": "https://i.ytimg.com/an_webp/nrDOQ_VDmQA/mqdefault_6s.webp?du=3000&sqp=CJCRo9YG&rs=AOn4CLBMqaoakHfjxnql-NHNOshWwmd4Xg"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Excel Tutorial for Beginners | How to Use Excel",
+      "link": "https://www.youtube.com/watch?v=0tdlR1rBwkM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0tdlR1rBwkM",
+      "video_id": "0tdlR1rBwkM",
+      "channel": {
+        "name": "Leila Gharani",
+        "link": "https://www.youtube.com/@LeilaGharani",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nRcy9yiYCsCEjQ0_Dwi_BjpnrMbBa2ov10Y2flDk-otH0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 3180310,
+      "length": "15:54",
+      "description": "Join our bestselling Excel Essentials for the Real World course: ...",
+      "extensions": [
+        "5 products",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0tdlR1rBwkM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoHf1wAgNLhjzEFUt8vV0El1BPEQ",
+        "rich": "https://i.ytimg.com/an_webp/0tdlR1rBwkM/mqdefault_6s.webp?du=3000&sqp=CL7sotYG&rs=AOn4CLCg9I7WGpeT0w5F6Bgy2M-v5E7t8w"
+      }
+    },
+    {
+      "position_on_page": 21,
+      "title": "IAD20 EXCEL REVISION",
+      "link": "https://www.youtube.com/watch?v=t1kAWGP6bAo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t1kAWGP6bAo",
+      "video_id": "t1kAWGP6bAo",
+      "channel": {
+        "name": "gladys khoza",
+        "link": "https://www.youtube.com/@gladyskhoza1344",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nYeKWTYWOyL7rFoXWbXnbwDoWW2RvIbG1x1kmFVkk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 304,
+      "length": "14:23",
+      "description": "Recorded with https://screencast-o-matic.com.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/t1kAWGP6bAo/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARgkIFoofzAP&rs=AOn4CLA-YeR3eTcSBv5cA0clRHD0Kjgm7g"
+      }
+    },
+    {
+      "position_on_page": 22,
+      "title": "Grade 5  Excel  Revision  Unit 1",
+      "link": "https://www.youtube.com/watch?v=ZiCMt4xm3vE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZiCMt4xm3vE",
+      "video_id": "ZiCMt4xm3vE",
+      "channel": {
+        "name": "Nastya Dedova",
+        "link": "https://www.youtube.com/@nastyadedova577",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_keJj9OM08BZtQ_de_yO9hd2nI_FuxZJFjs2vS0hqnT-6c=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 504,
+      "length": "12:13",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZiCMt4xm3vE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCogD5vk3_rYu1oxOw7JlztH28HmQ"
+      }
+    },
+    {
+      "position_on_page": 23,
+      "title": "Concatenate Excel Tutorial",
+      "link": "https://www.youtube.com/watch?v=x31M6qlv0R4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=x31M6qlv0R4",
+      "video_id": "x31M6qlv0R4",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 723203,
+      "length": "5:29",
+      "description": "Learn Excel in just 2 hours: https://kevinstratvert.thinkific.com Learn how to combine cells in Microsoft Excel using the concatenate ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/x31M6qlv0R4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuMhkUtf8mrBfgwVQXj4E0wqoPag",
+        "rich": "https://i.ytimg.com/an_webp/x31M6qlv0R4/mqdefault_6s.webp?du=3000&sqp=CLaJo9YG&rs=AOn4CLC4L5EfdrtpnBDsCg5Unq_mUejLDA"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Excel+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Excel%20revision&sp=EgIYA0gUggELOEFlZDJuVmhQdVWCAQtBaTBNVjd0d0VCRYIBC0xnWHp6dTY4ajdNggELTWVCWVNobHFzYWuCAQtad2lRMFc1bFRFZ4IBC0psMFFrNjN6MlpZggELYi1HeFF2VjlTV2eCAQtlSU40MEpON3Nyb4IBC1daOHJ4elpfallBggELVXNkZWRGb1RBNjiCAQtjOVpybFB3czZQVYIBC0loMU94Y2tTV3c0ggELTzFRZkc1U1hSa02CAQs5T3NLanFfclZYY4IBCzJtekdzSnRKdkxjggELbnJET1FfVkRtUUGCAQswdGRsUjFyQndrTYIBC3Qxa0FXR1A2YkFvggELWmlDTXQ0eG0zdkWCAQt4MzFNNnFsdjBSNLIBBgoECBcQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELOEFlZDJuVmhQdVWCAQtBaTBNVjd0d0VCRYIBC0xnWHp6dTY4ajdNggELTWVCWVNobHFzYWuCAQtad2lRMFc1bFRFZ4IBC0psMFFrNjN6MlpZggELYi1HeFF2VjlTV2eCAQtlSU40MEpON3Nyb4IBC1daOHJ4elpfallBggELVXNkZWRGb1RBNjiCAQtjOVpybFB3czZQVYIBC0loMU94Y2tTV3c0ggELTzFRZkc1U1hSa02CAQs5T3NLanFfclZYY4IBCzJtekdzSnRKdkxjggELbnJET1FfVkRtUUGCAQswdGRsUjFyQndrTYIBC3Qxa0FXR1A2YkFvggELWmlDTXQ0eG0zdkWCAQt4MzFNNnFsdjBSNLIBBgoECBcQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Excel+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Excel+revision&sp=EgIYA0gUggELOEFlZDJuVmhQdVWCAQtBaTBNVjd0d0VCRYIBC0xnWHp6dTY4ajdNggELTWVCWVNobHFzYWuCAQtad2lRMFc1bFRFZ4IBC0psMFFrNjN6MlpZggELYi1HeFF2VjlTV2eCAQtlSU40MEpON3Nyb4IBC1daOHJ4elpfallBggELVXNkZWRGb1RBNjiCAQtjOVpybFB3czZQVYIBC0loMU94Y2tTV3c0ggELTzFRZkc1U1hSa02CAQs5T3NLanFfclZYY4IBCzJtekdzSnRKdkxjggELbnJET1FfVkRtUUGCAQswdGRsUjFyQndrTYIBC3Qxa0FXR1A2YkFvggELWmlDTXQ0eG0zdkWCAQt4MzFNNnFsdjBSNLIBBgoECBcQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELOEFlZDJuVmhQdVWCAQtBaTBNVjd0d0VCRYIBC0xnWHp6dTY4ajdNggELTWVCWVNobHFzYWuCAQtad2lRMFc1bFRFZ4IBC0psMFFrNjN6MlpZggELYi1HeFF2VjlTV2eCAQtlSU40MEpON3Nyb4IBC1daOHJ4elpfallBggELVXNkZWRGb1RBNjiCAQtjOVpybFB3czZQVYIBC0loMU94Y2tTV3c0ggELTzFRZkc1U1hSa02CAQs5T3NLanFfclZYY4IBCzJtekdzSnRKdkxjggELbnJET1FfVkRtUUGCAQswdGRsUjFyQndrTYIBC3Qxa0FXR1A2YkFvggELWmlDTXQ0eG0zdkWCAQt4MzFNNnFsdjBSNLIBBgoECBcQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 10:57:57 UTC"
+}

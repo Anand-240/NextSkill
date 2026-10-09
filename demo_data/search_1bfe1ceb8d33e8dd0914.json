@@ -1,0 +1,460 @@
+{
+  "search_metadata": {
+    "id": "6ac8c8b2d181691bf62f3807",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Ggyt4Ybz2-tdv4umvpd_1JylRDS7NcE-7CWxQda-zBY/6ac8c8b2d181691bf62f3807.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Ggyt4Ybz2-tdv4umvpd_1JylRDS7NcE-7CWxQda-zBY/6ac8c8b2d181691bf62f3807.md",
+    "created_at": "2026-10-09 10:57:54 UTC",
+    "processed_at": "2026-10-09 10:57:54 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Canva+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/Ggyt4Ybz2-tdv4umvpd_1JylRDS7NcE-7CWxQda-zBY/6ac8c8b2d181691bf62f3807.html",
+    "total_time_taken": 2.79
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Canva revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 136077,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Easy Unlimited Design Revisions in Canva",
+      "link": "https://www.youtube.com/watch?v=r2Gz3cOdsvY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r2Gz3cOdsvY",
+      "video_id": "r2Gz3cOdsvY",
+      "channel": {
+        "name": "Minty Analyst",
+        "link": "https://www.youtube.com/@MintyAnalyst",
+        "thumbnail": "https://yt3.ggpht.com/wi9g4SauSiIRMpGJLum4it2cXm9S5C7_Rbd2IOnFJcMnZ76tTRcvRGsQQo6BGXLFLhKJvwZ9-6A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 186,
+      "length": "12:14",
+      "description": "If you like this video, drop a comment, give it a thumbs up and consider subscribing here: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/r2Gz3cOdsvY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq-LcxKlzx-su9clN7vp2G-GBp9w",
+        "rich": "https://i.ytimg.com/an_webp/r2Gz3cOdsvY/mqdefault_6s.webp?du=3000&sqp=CMCBo9YG&rs=AOn4CLAOLPNWetSKJpKmVGIR0cSR1CQmcQ"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "5 Canva Hacks for Teachers",
+      "link": "https://www.youtube.com/watch?v=IyN-nodJ_Js",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IyN-nodJ_Js",
+      "video_id": "IyN-nodJ_Js",
+      "channel": {
+        "name": "Pocketful of Primary",
+        "link": "https://www.youtube.com/@PocketfulofPrimary",
+        "thumbnail": "https://yt3.ggpht.com/VXnDAUgw-cTszwGFmKeWYW6hRKwqak_JObAzyaobAUNV0YS00Z8dEuYIaXuA319fTNTvUqea_QU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 159477,
+      "length": "16:18",
+      "description": "These 5 Canva hacks for teachers will not only make your life easier but also help you create more engaging content for your ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/IyN-nodJ_Js/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZkIs972zrj5Nc8DsJFvllHFm7YA",
+        "rich": "https://i.ytimg.com/an_webp/IyN-nodJ_Js/mqdefault_6s.webp?du=3000&sqp=CJ6Co9YG&rs=AOn4CLBWg_Uk4qstDa-q9MUoX-tHyGRdzw"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "How to Use Canva Whiteboard | Tutorial for Teachers",
+      "link": "https://www.youtube.com/watch?v=eDAFD_mws9Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eDAFD_mws9Q",
+      "video_id": "eDAFD_mws9Q",
+      "channel": {
+        "name": "Pocketful of Primary",
+        "link": "https://www.youtube.com/@PocketfulofPrimary",
+        "thumbnail": "https://yt3.ggpht.com/VXnDAUgw-cTszwGFmKeWYW6hRKwqak_JObAzyaobAUNV0YS00Z8dEuYIaXuA319fTNTvUqea_QU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 103800,
+      "length": "14:08",
+      "description": "Canva has a built-in digital interactive whiteboard that you can use to demonstrate content, organize brainstorming sessions, and ...",
+      "extensions": [
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eDAFD_mws9Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJIKjRyekG6gJx8TZ2WnXQRk6zOA",
+        "rich": "https://i.ytimg.com/an_webp/eDAFD_mws9Q/mqdefault_6s.webp?du=3000&sqp=COzqotYG&rs=AOn4CLB-zLD-VS6doqfgUdBmHUka8LZfVA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Create an Ebook in 30 Minutes with Canva (Step-by-Step Tutorial)",
+      "link": "https://www.youtube.com/watch?v=xh1tiAwba5E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xh1tiAwba5E",
+      "video_id": "xh1tiAwba5E",
+      "channel": {
+        "name": "Profit Your Knowledge",
+        "link": "https://www.youtube.com/@profityourknowledge",
+        "thumbnail": "https://yt3.ggpht.com/ZXxfI6o6TwcejSWa02WGtqoQ4nhRKrjquRzhHQe8sxPvrZtuS6UpuEXWmEfaruHoX8kBc5VOq98=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 253537,
+      "length": "13:12",
+      "description": "FREE TRAINING: Turn what you know into actual income in just 5 days: https://www.profityourknowledge.com/training In this ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xh1tiAwba5E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc96Z9-qvWm0LpQO8pQdlJvQ5MSA",
+        "rich": "https://i.ytimg.com/an_webp/xh1tiAwba5E/mqdefault_6s.webp?du=3000&sqp=CKrWotYG&rs=AOn4CLBMcZX-KYGSTyWtzEyLWjkhI-Q-qQ"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Use Canva Code to empower students learning | Transform your classroom with Canva Code",
+      "link": "https://www.youtube.com/watch?v=E2gtXq0-pRw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=E2gtXq0-pRw",
+      "video_id": "E2gtXq0-pRw",
+      "channel": {
+        "name": "Canva",
+        "link": "https://www.youtube.com/@canva",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/M7S2_gnnaJT5buAfWW4tanX9NELz5PddzNCQgnRV1oP8t12s5pg4cYKMChkEoh8gtGX__KtcYKU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 44597,
+      "length": "5:25",
+      "description": "Ready to hand over the creativity to your students? With Canva Code, students can build their own flashcards, review games, and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/E2gtXq0-pRw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhmLRQzpYMMcDqxwzJkPftHU0LrQ",
+        "rich": "https://i.ytimg.com/an_webp/E2gtXq0-pRw/mqdefault_6s.webp?du=3000&sqp=CIj9otYG&rs=AOn4CLC6JOJBSKMLTXkQLhsGSMCAT0tDEQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Teachers: This Canva Trick Will Save You HOURS of Lesson Prep! S2 EP8",
+      "link": "https://www.youtube.com/watch?v=euU3DFcmAsU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=euU3DFcmAsU",
+      "video_id": "euU3DFcmAsU",
+      "channel": {
+        "name": "Miss Estruch Teach & Tell",
+        "link": "https://www.youtube.com/@MissEstruchTeachTell",
+        "thumbnail": "https://yt3.ggpht.com/nfS7tJRp-knwvBomzs2Qc21Vg9XUWZLXtpLT2yl5xQ_05tiJCPxj2ZMViwLoycIv0_43G_zMaQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 5530,
+      "length": "9:13",
+      "description": "Tired of spending hours making PowerPoints that still look outdated? In this episode, I'll show you how to use Canva to create ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/euU3DFcmAsU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzzp0cqAmhSwpvsxzeWquqIdqY_Q",
+        "rich": "https://i.ytimg.com/an_webp/euU3DFcmAsU/mqdefault_6s.webp?du=3000&sqp=CPn7otYG&rs=AOn4CLDSofiCumQu9nZ-2CdOVoZBQ1qrEQ"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "How to create a CALLIGRAPHY worksheet (using Canva)",
+      "link": "https://www.youtube.com/watch?v=Erdu-9N3EKs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Erdu-9N3EKs",
+      "video_id": "Erdu-9N3EKs",
+      "channel": {
+        "name": "mjvcalligraphy",
+        "link": "https://www.youtube.com/@mjvcalligraphy",
+        "thumbnail": "https://yt3.ggpht.com/3UFfeMcch5QfoDSfXSHILgikNaeFHYlXCoLp4qX62dGBn_D-GanacQITrdr71seYW8eHIfeDjA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 6170,
+      "length": "7:19",
+      "description": "Hi guys! I thought I would share how I personally create modern calligraphy practice worksheets using the FREE version of Canva ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Erdu-9N3EKs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsjqhpUukCxCNmf3uY8ZSAM7ouxQ",
+        "rich": "https://i.ytimg.com/an_webp/Erdu-9N3EKs/mqdefault_6s.webp?du=3000&sqp=COP0otYG&rs=AOn4CLAnen8iLNwrfAF9FxIp0PUz5YhuWQ"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Quick Wins with Canva: Fast Design Tools for Teaching & Learning",
+      "link": "https://www.youtube.com/watch?v=JkgVHwlGAaU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JkgVHwlGAaU",
+      "video_id": "JkgVHwlGAaU",
+      "channel": {
+        "name": "NCFE",
+        "link": "https://www.youtube.com/@NcfeOrgUk",
+        "thumbnail": "https://yt3.ggpht.com/pVElS3mrTlMJ1Dnylf2iuKMf6XdBWg4yneEuzaKTz5fbzi88uR3pkYhOEmlXiwpGj9lwA8bf7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 107,
+      "length": "15:58",
+      "description": "Part of the Quick Wins for Digital Engagement series. Explore how Canva for Education can be used to quickly create posters, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JkgVHwlGAaU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO6qCTxZW7sx21BO5vjAjm7gAWSQ",
+        "rich": "https://i.ytimg.com/an_webp/JkgVHwlGAaU/mqdefault_6s.webp?du=3000&sqp=CPTVotYG&rs=AOn4CLC2nwEtYsbQeprgwQ20pDq4CxhFBQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Brand New Canva Features November 2025 | AI Tools for Teachers Explained",
+      "link": "https://www.youtube.com/watch?v=0Rp3AMfqnCM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0Rp3AMfqnCM",
+      "video_id": "0Rp3AMfqnCM",
+      "channel": {
+        "name": "Miss Estruch Teach & Tell",
+        "link": "https://www.youtube.com/@MissEstruchTeachTell",
+        "thumbnail": "https://yt3.ggpht.com/nfS7tJRp-knwvBomzs2Qc21Vg9XUWZLXtpLT2yl5xQ_05tiJCPxj2ZMViwLoycIv0_43G_zMaQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 974,
+      "length": "6:49",
+      "description": "Canva just changed the game for teachers. In their 2025 Imagination Era update, Canva launched a brand-new AI presentation ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0Rp3AMfqnCM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC875Nh-2VHPax2sfn9jIPrJH2QYA",
+        "rich": "https://i.ytimg.com/an_webp/0Rp3AMfqnCM/mqdefault_6s.webp?du=3000&sqp=CNz8otYG&rs=AOn4CLB9BhwA3Zcr0apFs4tlBaJkxC47mw"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Create a Weekly Digital Planner FAST in Canva (Easy Tutorial!)",
+      "link": "https://www.youtube.com/watch?v=QHLlj09DVFA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QHLlj09DVFA",
+      "video_id": "QHLlj09DVFA",
+      "channel": {
+        "name": "Design Made Clear",
+        "link": "https://www.youtube.com/@DesignMadeClear",
+        "thumbnail": "https://yt3.ggpht.com/32uVgykOPQWgtfjPwrcWbDioCpMlODkwqtC19-KQRMvRxSelKva9r3zTDTgKRZt8Q2vtUZIoe2w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 25884,
+      "length": "6:10",
+      "description": "Want to learn more digital planner hacks like this? I walk you through all of it in my course: Create Planners with Confidence ...",
+      "extensions": [
+        "4 products",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/QHLlj09DVFA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj0y44tuxw-CRP_UYRknxbZ5YKfQ",
+        "rich": "https://i.ytimg.com/an_webp/QHLlj09DVFA/mqdefault_6s.webp?du=3000&sqp=CMDyotYG&rs=AOn4CLBA4zF0fc1t47PCljBAPox_Glpehw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "How to Make Logo in Canva",
+      "link": "https://www.youtube.com/watch?v=H3S0dEbR8rU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=H3S0dEbR8rU",
+      "video_id": "H3S0dEbR8rU",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1215938,
+      "length": "8:39",
+      "description": "In this step-by-step tutorial, learn how to create a professional looking logo in Canva in just a few steps. We start by searching for ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/H3S0dEbR8rU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB066VgTy03f0OBTxUdD41OAhE8A",
+        "rich": "https://i.ytimg.com/an_webp/H3S0dEbR8rU/mqdefault_6s.webp?du=3000&sqp=CLWCo9YG&rs=AOn4CLAbRTf_ErSmC_mIl4WgbVmKZ930fA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Canva AI for Teachers: Step-by-Step to use Canva Code and Canva AI as a teacher to transform lessons",
+      "link": "https://www.youtube.com/watch?v=Ymo7MSoTT8I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ymo7MSoTT8I",
+      "video_id": "Ymo7MSoTT8I",
+      "channel": {
+        "name": "Miss Estruch Teach & Tell",
+        "link": "https://www.youtube.com/@MissEstruchTeachTell",
+        "thumbnail": "https://yt3.ggpht.com/nfS7tJRp-knwvBomzs2Qc21Vg9XUWZLXtpLT2yl5xQ_05tiJCPxj2ZMViwLoycIv0_43G_zMaQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 3342,
+      "length": "12:04",
+      "description": "If you are still spending hours creating PowerPoints, worksheets, and revision lessons, or if you feel uninspired by your revision ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ymo7MSoTT8I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuMIPupX4-2HK7VwgI7ME7nzpQCQ",
+        "rich": "https://i.ytimg.com/an_webp/Ymo7MSoTT8I/mqdefault_6s.webp?du=3000&sqp=CIDrotYG&rs=AOn4CLB3gLm8vYKFckwI2rsV8yehicAW7A"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Canva Tips for Teachers 2025 | Save Time & Design Smarter",
+      "link": "https://www.youtube.com/watch?v=rlsk5hqpZlg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rlsk5hqpZlg",
+      "video_id": "rlsk5hqpZlg",
+      "channel": {
+        "name": "Miss Estruch Teach & Tell",
+        "link": "https://www.youtube.com/@MissEstruchTeachTell",
+        "thumbnail": "https://yt3.ggpht.com/nfS7tJRp-knwvBomzs2Qc21Vg9XUWZLXtpLT2yl5xQ_05tiJCPxj2ZMViwLoycIv0_43G_zMaQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 3121,
+      "length": "7:54",
+      "description": "Teachers, stop wasting hours on PowerPoints and resources—Canva can do the heavy lifting for you in 2025! In this episode of ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rlsk5hqpZlg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYiMk50WmesUDWwE57HhKfh9-a6w",
+        "rich": "https://i.ytimg.com/an_webp/rlsk5hqpZlg/mqdefault_6s.webp?du=3000&sqp=CNjbotYG&rs=AOn4CLAFW7Xpz5eM-nyYLCLcRl5EwkRueQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "How to Create a fillable, interactive PDF workbook || Canva Tutorials",
+      "link": "https://www.youtube.com/watch?v=l_Cr8B4rmIA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l_Cr8B4rmIA",
+      "video_id": "l_Cr8B4rmIA",
+      "channel": {
+        "name": "Made on Sundays",
+        "link": "https://www.youtube.com/@MadeonSundays",
+        "thumbnail": "https://yt3.ggpht.com/nMYBF_0NBB65TbQTAq1U3Vt7ChO_D8jFyUuCZi5vv1uLstvLAmwZ4luV_lFcOGrp7U0lTFw8L28=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 142436,
+      "length": "13:07",
+      "description": "UPDATE!: PDF Escape just had a major update, so I've filmed a new tutorial for this here: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/l_Cr8B4rmIA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN7gzSFpdqdLiFfSdmCs7OFQ7QrQ",
+        "rich": "https://i.ytimg.com/an_webp/l_Cr8B4rmIA/mqdefault_6s.webp?du=3000&sqp=CPDrotYG&rs=AOn4CLBn4M3LTAtQE7dfNs10Xvs1PJZh0w"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "CRAZY! 1,000 YouTube Shorts in 17 MINUTES Using AI (Canva + ChatGPT)",
+      "link": "https://www.youtube.com/watch?v=Ahjw6JTzYWo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ahjw6JTzYWo",
+      "video_id": "Ahjw6JTzYWo",
+      "channel": {
+        "name": "Jamil Velji",
+        "link": "https://www.youtube.com/@jamilveljiofficial",
+        "thumbnail": "https://yt3.ggpht.com/BQrtWfdjg-9QHud0HeCfcs3Rsa9zpCuGLs2_oH_bT493g0x6TW_i0fjSy3tqEYV3V7rRG4B0Nw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 4097938,
+      "length": "17:44",
+      "description": "[Sponsor] Edit YouTube videos like a Word doc using AI: https://bit.ly/3Zlh7Qj ✓ Want access to my vault of resources, trainings ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ahjw6JTzYWo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNk4wVxeQGnvrzBSKs9_jOLAFv9A",
+        "rich": "https://i.ytimg.com/an_webp/Ahjw6JTzYWo/mqdefault_6s.webp?du=3000&sqp=CLiGo9YG&rs=AOn4CLB_fLvyDsTut21CnvgegIaWycuNfA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Crear un poster científico o divulgativo en Canva",
+      "link": "https://www.youtube.com/watch?v=zU59bPQ5nkk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zU59bPQ5nkk",
+      "video_id": "zU59bPQ5nkk",
+      "channel": {
+        "name": "Bionesia",
+        "link": "https://www.youtube.com/@bionesia6353",
+        "thumbnail": "https://yt3.ggpht.com/m09Tqy7Qz7P-Cjg17UYRa1UemJyIGW1XZasYQ3nZTM9H5V8D7MZdSyotdypoIofawOk8JYiB=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 100786,
+      "length": "14:11",
+      "description": "En este vídeo explicamos cómo crear un póster digital (científico o divulgativo) con la herramienta Canva, que es gratuita, sencilla ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zU59bPQ5nkk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgTX53cai9JaIjExJG7QHnS1vphA",
+        "rich": "https://i.ytimg.com/an_webp/zU59bPQ5nkk/mqdefault_6s.webp?du=3000&sqp=COrdotYG&rs=AOn4CLD51rwSuk4bfw5ORpp5VhrkA7-A1g"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Canva Tutorial for Beginners | Class 1: Introduction & First Design (2025 Free Course) #canva",
+      "link": "https://www.youtube.com/watch?v=xBE2o-qen08",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xBE2o-qen08",
+      "video_id": "xBE2o-qen08",
+      "channel": {
+        "name": "One More Revision",
+        "link": "https://www.youtube.com/@OneMoreRevision",
+        "thumbnail": "https://yt3.ggpht.com/lMtxfCZ5VuLsgQ6FHPoceb78bbXP0JPRlv5SCbUJdtp_w64-0RzWgO5x4JxWnaslZXImj0nznw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 19,
+      "length": "14:18",
+      "description": "Welcome to Class 1 of the Free Canva Course 2025 In this video, you'll learn: ✓ What Canva is and why it's the best tool for ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xBE2o-qen08/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6k76siwn6mYCLf7tqK8HC6NaSlw",
+        "rich": "https://i.ytimg.com/an_webp/xBE2o-qen08/mqdefault_6s.webp?du=3000&sqp=CIuMo9YG&rs=AOn4CLBwb2CXO4zBItO8OI1-LVEDND9zEg"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "How to create flashcards | Back to school",
+      "link": "https://www.youtube.com/watch?v=CLJ7XjmpCbI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CLJ7XjmpCbI",
+      "video_id": "CLJ7XjmpCbI",
+      "channel": {
+        "name": "Canva",
+        "link": "https://www.youtube.com/@canva",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/M7S2_gnnaJT5buAfWW4tanX9NELz5PddzNCQgnRV1oP8t12s5pg4cYKMChkEoh8gtGX__KtcYKU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 98468,
+      "length": "6:58",
+      "description": "Join us in this tutorial to learn everything you need to know about creating flashcards for your students. Check out more Back to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/CLJ7XjmpCbI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw7TZRULttfYC0Atc2F_RJRTTC6A",
+        "rich": "https://i.ytimg.com/an_webp/CLJ7XjmpCbI/mqdefault_6s.webp?du=3000&sqp=CLiFo9YG&rs=AOn4CLAV-5y4fx1uxaVwkMPULYjUzyjhFg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "How to Make Printable Worksheets in Canva (Step-by-Step for Teachers)",
+      "link": "https://www.youtube.com/watch?v=509IXtPntBw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=509IXtPntBw",
+      "video_id": "509IXtPntBw",
+      "channel": {
+        "name": "Noor's Creative Lab",
+        "link": "https://www.youtube.com/@noorscreativelab",
+        "thumbnail": "https://yt3.ggpht.com/Fj24UElkCMrqwd8shR1Ci3AVrcZpruOgbo4EIDE0Ik8ouOrsZ0JO80sqqYgTOJxPjVXsOiToo_w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 3362,
+      "length": "9:46",
+      "description": "How to Make Printable Worksheets in Canva (Step-by-Step for Teachers) In this video, you'll learn exactly how to make printable ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/509IXtPntBw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnXx4hUp92kMvZj0i8Idj_1IcyCA",
+        "rich": "https://i.ytimg.com/an_webp/509IXtPntBw/mqdefault_6s.webp?du=3000&sqp=CIz0otYG&rs=AOn4CLBBajPgcLsltvpWGORkqCifhANBZg"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "How to Make Aesthetic School Notes (On Canva) ✨",
+      "link": "https://www.youtube.com/watch?v=5TATbrc-fXA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5TATbrc-fXA",
+      "video_id": "5TATbrc-fXA",
+      "channel": {
+        "name": "StudywithLéa",
+        "link": "https://www.youtube.com/@StudywithL%C3%A9a-fr",
+        "thumbnail": "https://yt3.ggpht.com/Si8OwLr2uv5HVRUUC73-7CgI8T3LGodeGHkfek_hQj7xltwiEYz577g7zhE-VtYEl3L9PU6B6Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1948,
+      "length": "4:30",
+      "description": "Want to make beautiful and effective study notes without spending hours designing them? ✨ In this tutorial, I'll show you how to ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5TATbrc-fXA/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhdIF0oXTAP&rs=AOn4CLAjdyMnpE2En6evXE52WjgvbIsE-g",
+        "rich": "https://i.ytimg.com/an_webp/5TATbrc-fXA/mqdefault_6s.webp?du=3000&sqp=CMCBo9YG&rs=AOn4CLA7uN5JI0hGQjCTld7O9r3_h1yyUA"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Canva+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Canva%20revision&sp=EgIYA0gUggELcjJHejNjT2RzdlmCAQtJeU4tbm9kSl9Kc4IBC2VEQUZEX213czlRggELeGgxdGlBd2JhNUWCAQtFMmd0WHEwLXBSd4IBC2V1VTNERmNtQXNVggELRXJkdS05TjNFS3OCAQtKa2dWSHdsR0FhVYIBCzBScDNBTWZxbkNNggELUUhMbGowOURWRkGCAQtIM1MwZEViUjhyVYIBC1ltbzdNU29UVDhJggELcmxzazVocXBabGeCAQtsX0NyOEI0cm1JQYIBC0Foanc2SlR6WVdvggELelU1OWJQUTVua2uCAQt4QkUyby1xZW4wOIIBC0NMSjdYam1wQ2JJggELNTA5SVh0UG50QneCAQs1VEFUYnJjLWZYQbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELcjJHejNjT2RzdlmCAQtJeU4tbm9kSl9Kc4IBC2VEQUZEX213czlRggELeGgxdGlBd2JhNUWCAQtFMmd0WHEwLXBSd4IBC2V1VTNERmNtQXNVggELRXJkdS05TjNFS3OCAQtKa2dWSHdsR0FhVYIBCzBScDNBTWZxbkNNggELUUhMbGowOURWRkGCAQtIM1MwZEViUjhyVYIBC1ltbzdNU29UVDhJggELcmxzazVocXBabGeCAQtsX0NyOEI0cm1JQYIBC0Foanc2SlR6WVdvggELelU1OWJQUTVua2uCAQt4QkUyby1xZW4wOIIBC0NMSjdYam1wQ2JJggELNTA5SVh0UG50QneCAQs1VEFUYnJjLWZYQbIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Canva+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Canva+revision&sp=EgIYA0gUggELcjJHejNjT2RzdlmCAQtJeU4tbm9kSl9Kc4IBC2VEQUZEX213czlRggELeGgxdGlBd2JhNUWCAQtFMmd0WHEwLXBSd4IBC2V1VTNERmNtQXNVggELRXJkdS05TjNFS3OCAQtKa2dWSHdsR0FhVYIBCzBScDNBTWZxbkNNggELUUhMbGowOURWRkGCAQtIM1MwZEViUjhyVYIBC1ltbzdNU29UVDhJggELcmxzazVocXBabGeCAQtsX0NyOEI0cm1JQYIBC0Foanc2SlR6WVdvggELelU1OWJQUTVua2uCAQt4QkUyby1xZW4wOIIBC0NMSjdYam1wQ2JJggELNTA5SVh0UG50QneCAQs1VEFUYnJjLWZYQbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELcjJHejNjT2RzdlmCAQtJeU4tbm9kSl9Kc4IBC2VEQUZEX213czlRggELeGgxdGlBd2JhNUWCAQtFMmd0WHEwLXBSd4IBC2V1VTNERmNtQXNVggELRXJkdS05TjNFS3OCAQtKa2dWSHdsR0FhVYIBCzBScDNBTWZxbkNNggELUUhMbGowOURWRkGCAQtIM1MwZEViUjhyVYIBC1ltbzdNU29UVDhJggELcmxzazVocXBabGeCAQtsX0NyOEI0cm1JQYIBC0Foanc2SlR6WVdvggELelU1OWJQUTVua2uCAQt4QkUyby1xZW4wOIIBC0NMSjdYam1wQ2JJggELNTA5SVh0UG50QneCAQs1VEFUYnJjLWZYQbIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 10:57:54 UTC"
+}

@@ -1,0 +1,479 @@
+{
+  "search_metadata": {
+    "id": "6ac8c8ad3ee4c2ba57c241b6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/hARGaYZ7C__9eRJpyuHkKqKSrDM1K7LInR2kdkGifPk/6ac8c8ad3ee4c2ba57c241b6.json",
+    "markdown_endpoint": "https://serpapi.com/searches/hARGaYZ7C__9eRJpyuHkKqKSrDM1K7LInR2kdkGifPk/6ac8c8ad3ee4c2ba57c241b6.md",
+    "created_at": "2026-10-09 10:57:49 UTC",
+    "processed_at": "2026-10-09 10:57:49 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Accounting+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/hARGaYZ7C__9eRJpyuHkKqKSrDM1K7LInR2kdkGifPk/6ac8c8ad3ee4c2ba57c241b6.html",
+    "total_time_taken": 3.83
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Accounting revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 7651181,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "ACCOUNTING BASICS: a Guide to (Almost) Everything",
+      "link": "https://www.youtube.com/watch?v=yYX4bvQSqbo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yYX4bvQSqbo",
+      "video_id": "yYX4bvQSqbo",
+      "channel": {
+        "name": "Accounting Stuff",
+        "link": "https://www.youtube.com/@AccountingStuff",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/cUf1lQq_tQ6vcI8y9Es6FvGg85sN0novGefe2hgOGukJ3WvNrXXaqR7GgKDLP9pEDgz0Wz5g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 4697142,
+      "length": "14:13",
+      "description": "NEW: Complete Accounting Study Bundle https://accountingstuff.com/shop Would you like to know what Accounting really ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/yYX4bvQSqbo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD67yo9hwQX48ySTj5CziWZMJSu1Q",
+        "rich": "https://i.ytimg.com/an_webp/yYX4bvQSqbo/mqdefault_6s.webp?du=3000&sqp=COaOo9YG&rs=AOn4CLCSpm3s7TUaHQnkttptWsLVW2Lh2w"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Learn 80% of Accounting in under 20 Minutes",
+      "link": "https://www.youtube.com/watch?v=-csJa169Njw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-csJa169Njw",
+      "video_id": "-csJa169Njw",
+      "channel": {
+        "name": "The Financial Controller",
+        "link": "https://www.youtube.com/@TheFinancialController",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/5BlvL7lfPqnoHEMJI760ye1CmdzRAmN6jg1xZ1VTwMtpB9_eiJHcIsz0jwWWsBfK36M-z8jQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 703471,
+      "length": "13:45",
+      "description": "Learn the skills to work as an Entry Level Accountant/Bookkeeper: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-csJa169Njw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCejsV921bzLwzUgzlMWHj9jCIgw",
+        "rich": "https://i.ytimg.com/an_webp/-csJa169Njw/mqdefault_6s.webp?du=3000&sqp=CLDaotYG&rs=AOn4CLCWGIsoUeTdgUpIzYx0sIX0dbwgdg"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "FINANCIAL STATEMENTS: all the basics in 8 MINS!",
+      "link": "https://www.youtube.com/watch?v=Fi1wkUczuyk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Fi1wkUczuyk",
+      "video_id": "Fi1wkUczuyk",
+      "channel": {
+        "name": "Accounting Stuff",
+        "link": "https://www.youtube.com/@AccountingStuff",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/cUf1lQq_tQ6vcI8y9Es6FvGg85sN0novGefe2hgOGukJ3WvNrXXaqR7GgKDLP9pEDgz0Wz5g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1484561,
+      "length": "9:06",
+      "description": "NEW: Complete Accounting Study Bundle https://accountingstuff.com/shop In this short tutorial you'll learn all the basics about ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Fi1wkUczuyk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC47zVk3eUkP_mjjItBvBKx2oSXGA",
+        "rich": "https://i.ytimg.com/an_webp/Fi1wkUczuyk/mqdefault_6s.webp?du=3000&sqp=CKLUotYG&rs=AOn4CLBEhR2vQbaqa5tMPwUeWNxUMTE5ZQ"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "ACCOUNTING BASICS: Debits and Credits Explained",
+      "link": "https://www.youtube.com/watch?v=VhwZ9t2b3Zk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VhwZ9t2b3Zk",
+      "video_id": "VhwZ9t2b3Zk",
+      "channel": {
+        "name": "Accounting Stuff",
+        "link": "https://www.youtube.com/@AccountingStuff",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/cUf1lQq_tQ6vcI8y9Es6FvGg85sN0novGefe2hgOGukJ3WvNrXXaqR7GgKDLP9pEDgz0Wz5g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 3000497,
+      "length": "5:44",
+      "description": "NEW: Complete Accounting Study Bundle https://accountingstuff.com/shop Shhh, it's a secret! Not really.. In this Accounting ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/VhwZ9t2b3Zk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHplrziOAsgTOrt20Q5Ea6ozu4Mg",
+        "rich": "https://i.ytimg.com/an_webp/VhwZ9t2b3Zk/mqdefault_6s.webp?du=3000&sqp=CMOMo9YG&rs=AOn4CLCQmLnMWMEBaBXDbEAKnWGs7inVcA"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "The ACCOUNTING BASICS for BEGINNERS",
+      "link": "https://www.youtube.com/watch?v=Gua2Bo_G-J0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Gua2Bo_G-J0",
+      "video_id": "Gua2Bo_G-J0",
+      "channel": {
+        "name": "LYFE Accounting",
+        "link": "https://www.youtube.com/@LYFEAccounting",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kbzUHcjCOlDhV-dAw90gK14BOpJxeWqiNu826m2lVX_so=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 363178,
+      "length": "11:13",
+      "description": "Accounting is the process of recording, organizing, understanding, reporting on, and analyzing financial information of a business.",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Gua2Bo_G-J0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuIeekC9s047hesMYBbo1ldbLrwg",
+        "rich": "https://i.ytimg.com/an_webp/Gua2Bo_G-J0/mqdefault_6s.webp?du=3000&sqp=CNjbotYG&rs=AOn4CLDhuxz3KZlYdvVsaz9jvrY_2E7yug"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Basic Cost Concepts...with a touch of humor | Managerial Accounting",
+      "link": "https://www.youtube.com/watch?v=nFjEz5alwtY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nFjEz5alwtY",
+      "video_id": "nFjEz5alwtY",
+      "channel": {
+        "name": "Edspira",
+        "link": "https://www.youtube.com/@Edspira",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nabQ1wYKmYC_wKKLA1LVq5CdAonEYrO-W6LZz31Z7xl_g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 182821,
+      "length": "7:10",
+      "description": "This video covers basic cost concepts...with a touch of humor for managerial accounting. Before discussing Managerial ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/nFjEz5alwtY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfYFC_tmgwlquEP1bno6EDAETA1w",
+        "rich": "https://i.ytimg.com/an_webp/nFjEz5alwtY/mqdefault_6s.webp?du=3000&sqp=CObtotYG&rs=AOn4CLBRKPgnYy-v8MF2NkZQ3_PG-hNuvw"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "DEBITS & CREDITS: Explained in (Almost) 2 Minutes!",
+      "link": "https://www.youtube.com/watch?v=mJfalbgYwzI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mJfalbgYwzI",
+      "video_id": "mJfalbgYwzI",
+      "channel": {
+        "name": "Accounting Stuff",
+        "link": "https://www.youtube.com/@AccountingStuff",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/cUf1lQq_tQ6vcI8y9Es6FvGg85sN0novGefe2hgOGukJ3WvNrXXaqR7GgKDLP9pEDgz0Wz5g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 179074,
+      "length": "4:40",
+      "description": "NEW: Complete Accounting Study Bundle https://accountingstuff.com/shop In this video, I'll attempt to explain Debits & Credits ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/mJfalbgYwzI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOrcQkkt_kRjOrTSYvaNfKtJb6kw",
+        "rich": "https://i.ytimg.com/an_webp/mJfalbgYwzI/mqdefault_6s.webp?du=3000&sqp=CJTootYG&rs=AOn4CLAvToV7qRRnIHC0liVfblkUr8Z4fA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Learn Bond Accounting Fast: A Comprehensive Guide For Beginners | Maxwell CPA Review",
+      "link": "https://www.youtube.com/watch?v=FowG6ZCd9JE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FowG6ZCd9JE",
+      "video_id": "FowG6ZCd9JE",
+      "channel": {
+        "name": "Maxwell CPA Review",
+        "link": "https://www.youtube.com/@MaxwellCPAreview",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_naLdqWt3-9x3YowMJZNTmeEiTxsHVwoc5d2-s6YIcCPA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 24563,
+      "length": "10:53",
+      "description": "Free Bond Outline: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FowG6ZCd9JE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4bo3X4h45uTtCTXuo2dCNyk7ltA",
+        "rich": "https://i.ytimg.com/an_webp/FowG6ZCd9JE/mqdefault_6s.webp?du=3000&sqp=CP2Co9YG&rs=AOn4CLCLM03x7k1Mu-wYmSb--8Qeop9mWQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "IFA4 – The Accounting Cycle Explained – Intermediate Accounting Review",
+      "link": "https://www.youtube.com/watch?v=PihFIQpiz2E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PihFIQpiz2E",
+      "video_id": "PihFIQpiz2E",
+      "channel": {
+        "name": "Tony Bell",
+        "link": "https://www.youtube.com/@Tony-Bell",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/BTCYtCZJSCBKkU34r95KjLiCjab4C1yzJWbQpzm3GI2mlwulpqREsvXa2nyBidOI9w752uBbkg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 6214,
+      "length": "5:48",
+      "description": "Download the Workbook: http://www.tonybell.com Unlock 100+ Members Accounting Tutorials: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/PihFIQpiz2E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBS_TyNnMZfcItzVauJtb5ti-U7dg"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "MA1 – Managerial Accounting Basics for Beginners",
+      "link": "https://www.youtube.com/watch?v=eLYxHd7V67o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eLYxHd7V67o",
+      "video_id": "eLYxHd7V67o",
+      "channel": {
+        "name": "Tony Bell",
+        "link": "https://www.youtube.com/@Tony-Bell",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/BTCYtCZJSCBKkU34r95KjLiCjab4C1yzJWbQpzm3GI2mlwulpqREsvXa2nyBidOI9w752uBbkg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 89503,
+      "length": "13:10",
+      "description": "Download the Workbook: http://www.tonybell.com -Unlock 100+ Members Accounting Tutorials: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eLYxHd7V67o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGMfiJLE0_SIRjzOQRSdIgiQMQFg",
+        "rich": "https://i.ytimg.com/an_webp/eLYxHd7V67o/mqdefault_6s.webp?du=3000&sqp=COL5otYG&rs=AOn4CLBKxcRxVQumLJQo302RVyoy_aafVQ"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "FA1 - Introduction to Financial Accounting",
+      "link": "https://www.youtube.com/watch?v=Rpa_UAciIeU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Rpa_UAciIeU",
+      "video_id": "Rpa_UAciIeU",
+      "channel": {
+        "name": "Tony Bell",
+        "link": "https://www.youtube.com/@Tony-Bell",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/BTCYtCZJSCBKkU34r95KjLiCjab4C1yzJWbQpzm3GI2mlwulpqREsvXa2nyBidOI9w752uBbkg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 1527923,
+      "length": "18:33",
+      "description": "Visit: http://www.accountingworkbook.com/ to download the problems found in the videos. If you'd like to become a member an ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Rpa_UAciIeU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBozoAlpCLvVrUguFYy0p5c8K56KQ"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "FA1 – Accounting Basics for Beginners",
+      "link": "https://www.youtube.com/watch?v=mEuea9NGiJM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mEuea9NGiJM",
+      "video_id": "mEuea9NGiJM",
+      "channel": {
+        "name": "Tony Bell",
+        "link": "https://www.youtube.com/@Tony-Bell",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/BTCYtCZJSCBKkU34r95KjLiCjab4C1yzJWbQpzm3GI2mlwulpqREsvXa2nyBidOI9w752uBbkg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 381643,
+      "length": "17:34",
+      "description": "Download the Workbook: http://www.tonybell.com Unlock 100+ Members Accounting Tutorials: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/mEuea9NGiJM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSVIiaejHiU0Uo78d5FYqDxvX2-A"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Accounting Sample Exam 1: Short Answers and Problem Solutions",
+      "link": "https://www.youtube.com/watch?v=g9HePwbQ9hg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=g9HePwbQ9hg",
+      "video_id": "g9HePwbQ9hg",
+      "channel": {
+        "name": "Finally Learn",
+        "link": "https://www.youtube.com/@FinallyLearn",
+        "thumbnail": "https://yt3.ggpht.com/xlBR5A9cU34kVcW44aKRdWmwzf-hnffTdCXLVdUCmN0HOh7lx1G17BUilHcUr5AcjnaeKt7EGA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 7118,
+      "length": "15:25",
+      "description": "FINALLY LEARN INVESTING Want to learn how to invest for beginners? Join my course Finally Learn Investing: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/g9HePwbQ9hg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGdBtUbQm0EhHyW2ZQ4drTDP5r0w",
+        "rich": "https://i.ytimg.com/an_webp/g9HePwbQ9hg/mqdefault_6s.webp?du=3000&sqp=CNiNo9YG&rs=AOn4CLBKMW6X-1YY8nP6d5TsU8hCv8o-EA"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "AAT FAPS (Financial Accounting: Preparing Financial Statements) - 5 Tips to Pass Your Exam!",
+      "link": "https://www.youtube.com/watch?v=G99Dc-1RtOY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=G99Dc-1RtOY",
+      "video_id": "G99Dc-1RtOY",
+      "channel": {
+        "name": "Will Boardman",
+        "link": "https://www.youtube.com/@Willboardman",
+        "thumbnail": "https://yt3.ggpht.com/4--hTic0kEYv2rw0tTZBiTs_gkhibJCWV3VjiaFISp8p9iKbMQIwltcr067lrJ7WQ03aWIi8Xw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 14342,
+      "length": "10:08",
+      "description": "Within this video I'll walk you through my tips to passing the AAT Financial Accounting: Preparing Financial Statements (FAPS) ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/G99Dc-1RtOY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA61E86aQo95Yjyun7Lru7xcY-rmg",
+        "rich": "https://i.ytimg.com/an_webp/G99Dc-1RtOY/mqdefault_6s.webp?du=3000&sqp=CNiKo9YG&rs=AOn4CLCi65zC6CN2Ehe9R3sAj5A5KDFY2Q"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "The Accounting System (Revision)",
+      "link": "https://www.youtube.com/watch?v=t9jfj_ckdgc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t9jfj_ckdgc",
+      "video_id": "t9jfj_ckdgc",
+      "channel": {
+        "name": "Everything Business",
+        "link": "https://www.youtube.com/@everythingbusiness876",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mQPGUW1SmOQ4Zg-1irlVorYTRRsdQv4Q7AsRvGtfiWJA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 62894,
+      "length": "12:08",
+      "description": "This is a revision video about the Accounting System. For a full introduction to Accounting please check out the link below: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/t9jfj_ckdgc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB-gmAAtAFigIMCAAQARh_IDgoEzAP&rs=AOn4CLCV9A3uU7hCEmt6alBm3v3mcAvlnw"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Introduction to Managerial Accounting",
+      "link": "https://www.youtube.com/watch?v=KCyg8-zM9bA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=KCyg8-zM9bA",
+      "video_id": "KCyg8-zM9bA",
+      "channel": {
+        "name": "Edspira",
+        "link": "https://www.youtube.com/@Edspira",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nabQ1wYKmYC_wKKLA1LVq5CdAonEYrO-W6LZz31Z7xl_g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "12y ago",
+      "views": 526798,
+      "length": "10:34",
+      "description": "This video defines Managerial Accounting and explains five key functions: planning, decision-making, motivating, controlling, and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/KCyg8-zM9bA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALXqNERCtgKUfOJzRZ6zLHDaWwTQ",
+        "rich": "https://i.ytimg.com/an_webp/KCyg8-zM9bA/mqdefault_6s.webp?du=3000&sqp=CIDwotYG&rs=AOn4CLA14gVgt6pTRkHSH7Fiy4j8l84dcA"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "How to Get A* in Accounting A Level | A Level study tips",
+      "link": "https://www.youtube.com/watch?v=ofHFoCgwFX0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ofHFoCgwFX0",
+      "video_id": "ofHFoCgwFX0",
+      "channel": {
+        "name": "James Oen",
+        "link": "https://www.youtube.com/@jamesoen",
+        "thumbnail": "https://yt3.ggpht.com/2Q8EEj3af02zpTQ7sca47-lREkW84vCpB6xIidX2PwYugLDDDTGQqTrL12qy4nq1jSZl5Hi0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 48717,
+      "length": "6:03",
+      "description": "Hey high achievers, follow me on Instagram (@thejamesoen) uni life, internship, and marketing content: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ofHFoCgwFX0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRq0NQyLPuvngMPb_UQ-DQd0mtsA",
+        "rich": "https://i.ytimg.com/an_webp/ofHFoCgwFX0/mqdefault_6s.webp?du=3000&sqp=CKn2otYG&rs=AOn4CLC9z_heM4QQ_P_kCIBHkEtP7Kt64w"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Entry Level Accounting Quiz (12 Q&A) - Test Your Knowledge",
+      "link": "https://www.youtube.com/watch?v=fUHwcxP7WmU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fUHwcxP7WmU",
+      "video_id": "fUHwcxP7WmU",
+      "channel": {
+        "name": "The Financial Controller",
+        "link": "https://www.youtube.com/@TheFinancialController",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/5BlvL7lfPqnoHEMJI760ye1CmdzRAmN6jg1xZ1VTwMtpB9_eiJHcIsz0jwWWsBfK36M-z8jQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 37858,
+      "length": "12:21",
+      "description": "Join 10000+ professionals who enrolled in the Controller Academy https://controller-academy.com/courses/controller-academy ...",
+      "extensions": [
+        "Professional Training"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/fUHwcxP7WmU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOBR8S0kryMD_ZeRVHMklmAb697A",
+        "rich": "https://i.ytimg.com/an_webp/fUHwcxP7WmU/mqdefault_6s.webp?du=3000&sqp=CNnZotYG&rs=AOn4CLD8P4-13yTjd8FEpSw9clHpsmr7Jg"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "HOW TO STUDY FOR ACCOUNTING EXAMS EFFECTIVELY",
+      "link": "https://www.youtube.com/watch?v=c5lbguWGPzg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c5lbguWGPzg",
+      "video_id": "c5lbguWGPzg",
+      "channel": {
+        "name": "Counttuts",
+        "link": "https://www.youtube.com/@Counttuts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lzCSuAQFRiFOr08BIpGflqMbDeXqn9shSdoHBQUV3K8Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 126119,
+      "length": "8:39",
+      "description": "Here we give exam study tips to help you study effectively for your accounting exam. Regardless of the subject or module, these ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/c5lbguWGPzg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo2COYNOmyUcA_sjgMAJcB79RM6w",
+        "rich": "https://i.ytimg.com/an_webp/c5lbguWGPzg/mqdefault_6s.webp?du=3000&sqp=CPD_otYG&rs=AOn4CLAvJU4pQWehsQbImQVP5Zd-TvJYZQ"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Master Lease Accounting for the CPA Exam | Maxwell CPA Review",
+      "link": "https://www.youtube.com/watch?v=iMSaxzIqH9s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iMSaxzIqH9s",
+      "video_id": "iMSaxzIqH9s",
+      "channel": {
+        "name": "Maxwell CPA Review",
+        "link": "https://www.youtube.com/@MaxwellCPAreview",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_naLdqWt3-9x3YowMJZNTmeEiTxsHVwoc5d2-s6YIcCPA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 99088,
+      "length": "13:51",
+      "description": "Start with my FREE CPA 101 Course (Outlines + Practice Questions): ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/iMSaxzIqH9s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEWYXu7WWhuOWnn3ReWFiKeNWHrA",
+        "rich": "https://i.ytimg.com/an_webp/iMSaxzIqH9s/mqdefault_6s.webp?du=3000&sqp=CMuAo9YG&rs=AOn4CLDMr3ebqx8rmOglreRk-mTIajSrCg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Accounting+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Accounting%20revision&sp=EgIYA0gUggELeVlYNGJ2UVNxYm-CAQstY3NKYTE2OU5qd4IBC0ZpMXdrVWN6dXlrggELVmh3Wjl0MmIzWmuCAQtHdWEyQm9fRy1KMIIBC25GakV6NWFsd3RZggELbUpmYWxiZ1l3ekmCAQtGb3dHNlpDZDlKRYIBC1BpaEZJUXBpejJFggELZUxZeEhkN1Y2N2-CAQtScGFfVUFjaUllVYIBC21FdWVhOU5HaUpNggELZzlIZVB3YlE5aGeCAQtHOTlEYy0xUnRPWYIBC3Q5amZqX2NrZGdjggELS0N5Zzgtek05YkGCAQtvZkhGb0Nnd0ZYMIIBC2ZVSHdjeFA3V21VggELYzVsYmd1V0dQemeCAQtpTVNheHpJcUg5c7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELeVlYNGJ2UVNxYm-CAQstY3NKYTE2OU5qd4IBC0ZpMXdrVWN6dXlrggELVmh3Wjl0MmIzWmuCAQtHdWEyQm9fRy1KMIIBC25GakV6NWFsd3RZggELbUpmYWxiZ1l3ekmCAQtGb3dHNlpDZDlKRYIBC1BpaEZJUXBpejJFggELZUxZeEhkN1Y2N2-CAQtScGFfVUFjaUllVYIBC21FdWVhOU5HaUpNggELZzlIZVB3YlE5aGeCAQtHOTlEYy0xUnRPWYIBC3Q5amZqX2NrZGdjggELS0N5Zzgtek05YkGCAQtvZkhGb0Nnd0ZYMIIBC2ZVSHdjeFA3V21VggELYzVsYmd1V0dQemeCAQtpTVNheHpJcUg5c7IBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Accounting+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Accounting+revision&sp=EgIYA0gUggELeVlYNGJ2UVNxYm-CAQstY3NKYTE2OU5qd4IBC0ZpMXdrVWN6dXlrggELVmh3Wjl0MmIzWmuCAQtHdWEyQm9fRy1KMIIBC25GakV6NWFsd3RZggELbUpmYWxiZ1l3ekmCAQtGb3dHNlpDZDlKRYIBC1BpaEZJUXBpejJFggELZUxZeEhkN1Y2N2-CAQtScGFfVUFjaUllVYIBC21FdWVhOU5HaUpNggELZzlIZVB3YlE5aGeCAQtHOTlEYy0xUnRPWYIBC3Q5amZqX2NrZGdjggELS0N5Zzgtek05YkGCAQtvZkhGb0Nnd0ZYMIIBC2ZVSHdjeFA3V21VggELYzVsYmd1V0dQemeCAQtpTVNheHpJcUg5c7IBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELeVlYNGJ2UVNxYm-CAQstY3NKYTE2OU5qd4IBC0ZpMXdrVWN6dXlrggELVmh3Wjl0MmIzWmuCAQtHdWEyQm9fRy1KMIIBC25GakV6NWFsd3RZggELbUpmYWxiZ1l3ekmCAQtGb3dHNlpDZDlKRYIBC1BpaEZJUXBpejJFggELZUxZeEhkN1Y2N2-CAQtScGFfVUFjaUllVYIBC21FdWVhOU5HaUpNggELZzlIZVB3YlE5aGeCAQtHOTlEYy0xUnRPWYIBC3Q5amZqX2NrZGdjggELS0N5Zzgtek05YkGCAQtvZkhGb0Nnd0ZYMIIBC2ZVSHdjeFA3V21VggELYzVsYmd1V0dQemeCAQtpTVNheHpJcUg5c7IBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 10:57:49 UTC"
+}

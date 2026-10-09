@@ -1,0 +1,471 @@
+{
+  "search_metadata": {
+    "id": "6ac8c8c3f2593aea311988b8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/XDtvADwX8iPFqZf2pG1C6c54N7kPb8Hnf-OJO3C7rYU/6ac8c8c3f2593aea311988b8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/XDtvADwX8iPFqZf2pG1C6c54N7kPb8Hnf-OJO3C7rYU/6ac8c8c3f2593aea311988b8.md",
+    "created_at": "2026-10-09 10:58:11 UTC",
+    "processed_at": "2026-10-09 10:58:11 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Social+Media+Marketing+revision&gl=in&hl=en&sp=EgIYAw==",
+    "raw_html_file": "https://serpapi.com/searches/XDtvADwX8iPFqZf2pG1C6c54N7kPb8Hnf-OJO3C7rYU/6ac8c8c3f2593aea311988b8.html",
+    "total_time_taken": 2.02
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Social Media Marketing revision",
+    "gl": "in",
+    "hl": "en",
+    "sp": "EgIYAw=="
+  },
+  "search_information": {
+    "total_results": 7003159,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "Social Media Marketing In 5 Minutes | What Is Social Media Marketing? [For Beginners] | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=I2pwcAVonKI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=I2pwcAVonKI",
+      "video_id": "I2pwcAVonKI",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 952144,
+      "length": "5:22",
+      "description": "SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/I2pwcAVonKI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQjgNf-YuIpR6l9ZDlszH-ex7AKA",
+        "rich": "https://i.ytimg.com/an_webp/I2pwcAVonKI/mqdefault_6s.webp?du=3000&sqp=CJrhotYG&rs=AOn4CLDaJlJcwB4FbqWJuQjNXo58_cZvXQ"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "How To Market Your Business On Social Media",
+      "link": "https://www.youtube.com/watch?v=RmwI_QqcPQc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RmwI_QqcPQc",
+      "video_id": "RmwI_QqcPQc",
+      "channel": {
+        "name": "Marley Jaxx",
+        "link": "https://www.youtube.com/@MarleyJaxx",
+        "thumbnail": "https://yt3.ggpht.com/ol7UoA7p6jGegiGSQTn6J3gL2TUMRz6h7oW3f4dNQAxbQ_KLZWSXmoH5n6PuzTImE2EyCkJP6Iw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 3139370,
+      "length": "12:06",
+      "description": "If you think simply posting on social media is considered marketing, then you might want to reassess your strategy! There are ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/RmwI_QqcPQc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3efWfzrHvwJc7n3W6nXzq1zua0A",
+        "rich": "https://i.ytimg.com/an_webp/RmwI_QqcPQc/mqdefault_6s.webp?du=3000&sqp=CN6Qo9YG&rs=AOn4CLAJ-92k20zJHdTxinRTN1U7YLle3g"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "[Review] 500 Social Media Marketing Tips (Andrew Macarthy) Summarized",
+      "link": "https://www.youtube.com/watch?v=hUWQF3F9DYk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hUWQF3F9DYk",
+      "video_id": "hUWQF3F9DYk",
+      "channel": {
+        "name": "9Natree",
+        "link": "https://www.youtube.com/channel/UC8rh7n-OFSalbyg2vEm9eCQ",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WmTP_B9k7h7wuGigA2h50XyZBREPOyYn2NI6arm709CeXPMkGjzvd35K6BS4nAHlMjz7L2PGm6Q=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 2193,
+      "length": "6:38",
+      "description": "500 Social Media Marketing Tips (Andrew Macarthy) - Amazon US Store: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hUWQF3F9DYk/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhXIGUoKTAP&rs=AOn4CLBzy_vjfgbFI8Dfn8BFl9HvAP9Fmw"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Skillshare Class Review: Social Media Marketing by Cat Coquillette - Worth It in 2026?",
+      "link": "https://www.youtube.com/watch?v=Z54USgZNYGU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Z54USgZNYGU",
+      "video_id": "Z54USgZNYGU",
+      "channel": {
+        "name": "Skillshare Course Reviews",
+        "link": "https://www.youtube.com/@SkillshareCourseReviews",
+        "thumbnail": "https://yt3.ggpht.com/5r5o5jneChB8xiOH6fK1G4R8ecOzK3U86l4crXgHBW3GRz0P7CYi0lr21eXY4ugXFq4KM5v5CDY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 35,
+      "length": "8:01",
+      "description": "An honest, in-depth review of \"Social Media Marketing: Top Tips for Growing Your Followers & Going Viral\" by Cat Coquillette, one ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Z54USgZNYGU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSl9nmjoMSxrAuJQ1gz25pUJ-4vg",
+        "rich": "https://i.ytimg.com/an_webp/Z54USgZNYGU/mqdefault_6s.webp?du=3000&sqp=CJXfotYG&rs=AOn4CLD-iylfSQbduLelFamMYjSt_pgGqg"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "A Brief Review Of Social Media Marketing",
+      "link": "https://www.youtube.com/watch?v=a-dgJWaOoSM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=a-dgJWaOoSM",
+      "video_id": "a-dgJWaOoSM",
+      "channel": {
+        "name": "jackrrr",
+        "link": "https://www.youtube.com/@jackrrr4508",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kiKmPhgNBHOqiFoqnBrRtRiNqpYXPa1yCewfWBniY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 41,
+      "length": "4:59",
+      "description": "MN-3064 social media marketing assignment. This is a short review of the current state of social media marketing in 2020 ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/a-dgJWaOoSM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuswHzL0gfCydCYA99m1xBu88M0w"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Best Social Media Management Tools for Small Businesses (2026) - The ULTIMATE Review!",
+      "link": "https://www.youtube.com/watch?v=OIyYAim-U8k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OIyYAim-U8k",
+      "video_id": "OIyYAim-U8k",
+      "channel": {
+        "name": "Hasan | Social Media Growth",
+        "link": "https://www.youtube.com/@PostPlanify",
+        "thumbnail": "https://yt3.ggpht.com/L3FUK8GowaAhYMGA8YigQ0tUEuUafc-8m9X9RYG-KFlkwbuT-QuuLPI4gmD516x4FtplZWofpg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 904,
+      "length": "8:01",
+      "description": "Looking for the best social media management tools for small businesses in 2026? In this video, I compare the top social media ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OIyYAim-U8k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUdbnKufikstbi1XGU5Be5O8LBqg",
+        "rich": "https://i.ytimg.com/an_webp/OIyYAim-U8k/mqdefault_6s.webp?du=3000&sqp=CJ7wotYG&rs=AOn4CLDMKzPf69AAUjPYWJS2NVG_6gkMHg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Social media marketing l semester 6 l full revision l most important questions 🔥 #dusol #du #bcomsol",
+      "link": "https://www.youtube.com/watch?v=OR_Kq5vWeEc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OR_Kq5vWeEc",
+      "video_id": "OR_Kq5vWeEc",
+      "channel": {
+        "name": "The Sol Senior",
+        "link": "https://www.youtube.com/@TheSolSenior",
+        "thumbnail": "https://yt3.ggpht.com/eTqIRC6gWjPsyAPtTCIJ3rAhyesSBFKCO5yJDMP7GTOg2E7d6esO95suQ-vG_xLB9UIPEBAe=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 359,
+      "length": "4:00",
+      "description": "Exam mein sirf 3 din bache hai aur abhi bhi Social Media Marketing ka syllabus complete nahi hua? Is video mein maine Social ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OR_Kq5vWeEc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp7UWJT5TyiXbUVvc0IKf-5Akawg",
+        "rich": "https://i.ytimg.com/an_webp/OR_Kq5vWeEc/mqdefault_6s.webp?du=3000&sqp=CLb4otYG&rs=AOn4CLDKuHaGS_e8wcqMUe6qmbV0Q18jBA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "7 Best Social Media Management Tools for Marketing Agencies | 2026 Full Review",
+      "link": "https://www.youtube.com/watch?v=pLevkNNcKQI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pLevkNNcKQI",
+      "video_id": "pLevkNNcKQI",
+      "channel": {
+        "name": "Leadsie",
+        "link": "https://www.youtube.com/@leadsie",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lOsDeZz82_kh1b4Dbud7JFCzNSDGUSf7e2BKovKDOUng=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 3271,
+      "length": "5:52",
+      "description": "Managing social media for multiple clients and feeling overwhelmed by all the tools you have to use? In this video, we reviewed ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pLevkNNcKQI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPyaI3r2UrRPt7oow3-uQNhgZzeA",
+        "rich": "https://i.ytimg.com/an_webp/pLevkNNcKQI/mqdefault_6s.webp?du=3000&sqp=CPD7otYG&rs=AOn4CLB-CsYv3dAmfeaCU7NSntcQ-zLRgA"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Digital Marketing In 5 Minutes | What Is Digital Marketing? | Learn Digital Marketing | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=bixR-KIJKYM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bixR-KIJKYM",
+      "video_id": "bixR-KIJKYM",
+      "channel": {
+        "name": "Simplilearn",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 6572458,
+      "length": "5:25",
+      "description": "SP Jain - AI-Powered Digital Marketing Certificate Program ...",
+      "extensions": [
+        "1 product"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bixR-KIJKYM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB5AMV6zrUZ5fl3FjeuyyxmArfBA",
+        "rich": "https://i.ytimg.com/an_webp/bixR-KIJKYM/mqdefault_6s.webp?du=3000&sqp=CO2Eo9YG&rs=AOn4CLB2Zt9x5PwrCqENaoAOL9BVydQwHg"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Sprout Social Review: BEST Tool For Managing Your Social Media?",
+      "link": "https://www.youtube.com/watch?v=2r4mh-TJ-IA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2r4mh-TJ-IA",
+      "video_id": "2r4mh-TJ-IA",
+      "channel": {
+        "name": "StartupWise",
+        "link": "https://www.youtube.com/@StartupWise",
+        "thumbnail": "https://yt3.ggpht.com/7-gntaOe7rsuSvpk1XjawMsRjBZz5ddKGYvBwF1hW1WvmcSbKC8KZPl8DPmVsXs7-gfxlEfjWw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 7883,
+      "length": "7:40",
+      "description": "Get started with a free 30-day trial of Sprout Social today and take control of your social media management here: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/2r4mh-TJ-IA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBY9BJmIAlJ3J3aJTo-w7o4i3ml3w",
+        "rich": "https://i.ytimg.com/an_webp/2r4mh-TJ-IA/mqdefault_6s.webp?du=3000&sqp=CKCFo9YG&rs=AOn4CLDS4fHKKhLcS0E_GuVt1E4yihegJg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Essentials of Social Media Marketing: Chapter 1 Review",
+      "link": "https://www.youtube.com/watch?v=D_GDWAs_g1I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=D_GDWAs_g1I",
+      "video_id": "D_GDWAs_g1I",
+      "channel": {
+        "name": "Nick Mattar",
+        "link": "https://www.youtube.com/@nickomattar",
+        "thumbnail": "https://yt3.ggpht.com/r1-CtXPC1Eu556wfKQs4IeN4HPFGcqhoq66qfwG51O4PxzB3f2q3qMQvplPAGzX17AzgzdANQXA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 291,
+      "length": "12:43",
+      "description": "A quick overview of the upcoming semester class and the first chapter of the social media courseware we will be using in this ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/D_GDWAs_g1I/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIGEoZTAP&rs=AOn4CLBXG48znlRdsLHcXod2iEYqnsK3Xg",
+        "rich": "https://i.ytimg.com/an_webp/D_GDWAs_g1I/mqdefault_6s.webp?du=3000&sqp=COreotYG&rs=AOn4CLCXnF4QbmfDUIBi-fQOs4SHYzI2Dw"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Social Media Marketing 2026 (Famety Review)",
+      "link": "https://www.youtube.com/watch?v=XqH2r5p9G0I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XqH2r5p9G0I",
+      "video_id": "XqH2r5p9G0I",
+      "channel": {
+        "name": "Digital Saas World",
+        "link": "https://www.youtube.com/@DigitalSaasWorld",
+        "thumbnail": "https://yt3.ggpht.com/58mqeKcOWbCJ3SGP6RoSHWmtv8vVAamkTuxGUKAD9KQIKl32pScr_D6OqgL1nAv5X8fHxlOQ2Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 4099,
+      "length": "6:25",
+      "description": "Social Media Marketing 2026 explores advanced AI-driven strategies for scaling brand authority and market visibility. Project Link: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/XqH2r5p9G0I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7TrYR324OohWD4dIzdKIueR41hQ",
+        "rich": "https://i.ytimg.com/an_webp/XqH2r5p9G0I/mqdefault_6s.webp?du=3000&sqp=CL6Po9YG&rs=AOn4CLAn9ucGavXtSDyfFazOtqNa1kbcfw"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Social Media Marketing Review",
+      "link": "https://www.youtube.com/watch?v=OgMUuOtGiLU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OgMUuOtGiLU",
+      "video_id": "OgMUuOtGiLU",
+      "channel": {
+        "name": "Tyler Cook",
+        "link": "https://www.youtube.com/@tylercook5486",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n3sHTJUN__Mh4Zvdbiei4gHGE4bXacCptXfxPHUGpAjg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 7,
+      "length": "10:05",
+      "description": "Recorded with https://screencast-o-matic.com.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OgMUuOtGiLU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvIkTazQDciO09G6KjM5jTU3AP4Q"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Skillshare Class Review: Introduction to Social Media Strategy by Brian Peters - Worth It in 2026?",
+      "link": "https://www.youtube.com/watch?v=WfDS4sRQtoM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WfDS4sRQtoM",
+      "video_id": "WfDS4sRQtoM",
+      "channel": {
+        "name": "Skillshare Course Reviews",
+        "link": "https://www.youtube.com/@SkillshareCourseReviews",
+        "thumbnail": "https://yt3.ggpht.com/5r5o5jneChB8xiOH6fK1G4R8ecOzK3U86l4crXgHBW3GRz0P7CYi0lr21eXY4ugXFq4KM5v5CDY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4w ago",
+      "views": 32,
+      "length": "8:01",
+      "description": "An honest, in-depth review of \"Introduction to Social Media Strategy | Learn with Buffer\" by Brian Peters, one of Skillshare's most ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WfDS4sRQtoM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG4Kzmr9XPNJBKqRLsSlLFsoOprw",
+        "rich": "https://i.ytimg.com/an_webp/WfDS4sRQtoM/mqdefault_6s.webp?du=3000&sqp=CJWAo9YG&rs=AOn4CLAnF3iS7Rap8bDc-I1B3mQJW_A25A"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "How to Master the Basics of Social Media Marketing (Book Review: Part 1)",
+      "link": "https://www.youtube.com/watch?v=lIuJ-1vlajA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lIuJ-1vlajA",
+      "video_id": "lIuJ-1vlajA",
+      "channel": {
+        "name": "Strategic Keke",
+        "link": "https://www.youtube.com/@strategickeke",
+        "thumbnail": "https://yt3.ggpht.com/P0YDZSoBCpcKVoZnYOmguxo4uSmaJxPax-YFvBjcZj6MbXRghXw5pH4LKHgS6jorGf5W1Bt1JA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9y ago",
+      "views": 101,
+      "length": "5:20",
+      "description": "Looking for expert tips to assist you in mastering your Social Media Marketing? A few months ago, I picked up a book titled \"Social ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/lIuJ-1vlajA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu4MYa_HttVxfA-3GSgBF-TBteww"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "What Is Social Media Marketing Review By (Plan-B)",
+      "link": "https://www.youtube.com/watch?v=UTGim9rqbA8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UTGim9rqbA8",
+      "video_id": "UTGim9rqbA8",
+      "channel": {
+        "name": "Plan-B",
+        "link": "https://www.youtube.com/@Plan-b928",
+        "thumbnail": "https://yt3.ggpht.com/9Jcavv6InDOtvTYqR2jqgVdxK9MPmAPZrrqKunz32Y_qLEBAz8izc_hpj6JrteqUhfkTSVqc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 117,
+      "length": "5:40",
+      "description": "trending #digital #marketing #vairal #digital.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/UTGim9rqbA8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUpAHUTKDfTc8XZnQev8J8HtAosA"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Marketing for Small Business: Effective Marketing Strategies for 2026",
+      "link": "https://www.youtube.com/watch?v=RX0Y2JbS9K4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RX0Y2JbS9K4",
+      "video_id": "RX0Y2JbS9K4",
+      "channel": {
+        "name": "LYFE Marketing",
+        "link": "https://www.youtube.com/@LYFEMarketingAtlanta",
+        "thumbnail": "https://yt3.ggpht.com/uzlI1VbX65M2x0TXbfuXXVrLOrXB9yI0ibVpTVBS9sPDAtSUQRjN0AqjUT7z4shJQ09lCbRY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 402166,
+      "length": "16:20",
+      "description": "Contact us: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/RX0Y2JbS9K4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA15FdCpr917X9ObfWRETpxkhWLSA",
+        "rich": "https://i.ytimg.com/an_webp/RX0Y2JbS9K4/mqdefault_6s.webp?du=3000&sqp=CKDwotYG&rs=AOn4CLBVWKGI7Y9QDUfoqcNLXcp6SDwcxQ"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "[Review] Social Media Marketing Workbook: How to Use Social Media for Business (Jason McDonald)",
+      "link": "https://www.youtube.com/watch?v=vQgG_KXQZXk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vQgG_KXQZXk",
+      "video_id": "vQgG_KXQZXk",
+      "channel": {
+        "name": "9Natree",
+        "link": "https://www.youtube.com/channel/UC8rh7n-OFSalbyg2vEm9eCQ",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WmTP_B9k7h7wuGigA2h50XyZBREPOyYn2NI6arm709CeXPMkGjzvd35K6BS4nAHlMjz7L2PGm6Q=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1321,
+      "length": "5:24",
+      "description": "Social Media Marketing Workbook: How to Use Social Media for Business (Jason McDonald) - Amazon US Store: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vQgG_KXQZXk/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhYIGUoKDAP&rs=AOn4CLBho-B4LWIkUa3fYaZyRb3Z1IMokw"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "\"Social Media Success for Every Brand\" by Claire Diaz-Ortiz (Book Review)",
+      "link": "https://www.youtube.com/watch?v=C4PxEqgm39g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=C4PxEqgm39g",
+      "video_id": "C4PxEqgm39g",
+      "channel": {
+        "name": "Business Book Breakdowns",
+        "link": "https://www.youtube.com/@BusinessBookBreakdowns",
+        "thumbnail": "https://yt3.ggpht.com/4jpBktVyjrifQZwVCfIbkzxULFHnYL-i_tsh4hLLiY9Yabn4-6G3Usl5DmVWqrN44tAiQcFPEw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 37,
+      "length": "19:43",
+      "description": "Book review of \"Social Media Success for Every Brand\" by Claire Diaz-Ortiz, a former Twitter employee, provides a guide to social ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/C4PxEqgm39g/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgcIGUoZTAP&rs=AOn4CLCMA26mqAEa8vHjwspxZG05dKxCvA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "What is Marketing? | Marketing Mix (4 Ps of marketing) | Types of Marketing",
+      "link": "https://www.youtube.com/watch?v=zslTD2MqO0E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zslTD2MqO0E",
+      "video_id": "zslTD2MqO0E",
+      "channel": {
+        "name": "Leaders Talk - ThinkEduca",
+        "link": "https://www.youtube.com/@theleaderstalk",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/c-eUlkPlrhqXn5xsU2OrLWoeTqgd4ThF0Y44fsh6yQgZiG9_iLVeB3vmLt9vc7DE7zJ1cpheiQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 313781,
+      "length": "16:12",
+      "description": "Types of Marketing Explore the various types of marketing, including digital marketing, content marketing, social media marketing, ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zslTD2MqO0E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1ubJz7iYoFdXZq8U89k4ov0gVew",
+        "rich": "https://i.ytimg.com/an_webp/zslTD2MqO0E/mqdefault_6s.webp?du=3000&sqp=CLqNo9YG&rs=AOn4CLDepOKWJ71qidYdzFKMXreLvmAWlg"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Social+Media+Marketing+revision&gl=in&hl=en&sp=EgIYAw==",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Social%20Media%20Marketing%20revision&sp=EgIYA0gUggELSTJwd2NBVm9uS0mCAQtSbXdJX1FxY1BRY4IBC2hVV1FGM0Y5RFlrggELWjU0VVNnWk5ZR1WCAQthLWRnSldhT29TTYIBC09JeVlBaW0tVThrggELT1JfS3E1dldlRWOCAQtwTGV2a05OY0tRSYIBC2JpeFItS0lKS1lNggELMnI0bWgtVEotSUGCAQtEX0dEV0FzX2cxSYIBC1hxSDJyNXA5RzBJggELT2dNVXVPdEdpTFWCAQtXZkRTNHNSUXRvTYIBC2xJdUotMXZsYWpBggELVVRHaW05cnFiQTiCAQtSWDBZMkpiUzlLNIIBC3ZRZ0dfS1hRWlhrggELQzRQeEVxZ20zOWeCAQt6c2xURDJNcU8wRbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELSTJwd2NBVm9uS0mCAQtSbXdJX1FxY1BRY4IBC2hVV1FGM0Y5RFlrggELWjU0VVNnWk5ZR1WCAQthLWRnSldhT29TTYIBC09JeVlBaW0tVThrggELT1JfS3E1dldlRWOCAQtwTGV2a05OY0tRSYIBC2JpeFItS0lKS1lNggELMnI0bWgtVEotSUGCAQtEX0dEV0FzX2cxSYIBC1hxSDJyNXA5RzBJggELT2dNVXVPdEdpTFWCAQtXZkRTNHNSUXRvTYIBC2xJdUotMXZsYWpBggELVVRHaW05cnFiQTiCAQtSWDBZMkpiUzlLNIIBC3ZRZ0dfS1hRWlhrggELQzRQeEVxZ20zOWeCAQt6c2xURDJNcU8wRbIBBgoECBQQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Social+Media+Marketing+revision&sp=EgIYAw%3D%3D",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Social+Media+Marketing+revision&sp=EgIYA0gUggELSTJwd2NBVm9uS0mCAQtSbXdJX1FxY1BRY4IBC2hVV1FGM0Y5RFlrggELWjU0VVNnWk5ZR1WCAQthLWRnSldhT29TTYIBC09JeVlBaW0tVThrggELT1JfS3E1dldlRWOCAQtwTGV2a05OY0tRSYIBC2JpeFItS0lKS1lNggELMnI0bWgtVEotSUGCAQtEX0dEV0FzX2cxSYIBC1hxSDJyNXA5RzBJggELT2dNVXVPdEdpTFWCAQtXZkRTNHNSUXRvTYIBC2xJdUotMXZsYWpBggELVVRHaW05cnFiQTiCAQtSWDBZMkpiUzlLNIIBC3ZRZ0dfS1hRWlhrggELQzRQeEVxZ20zOWeCAQt6c2xURDJNcU8wRbIBBgoECBQQAg%253D%253D",
+    "next_page_token": "EgIYA0gUggELSTJwd2NBVm9uS0mCAQtSbXdJX1FxY1BRY4IBC2hVV1FGM0Y5RFlrggELWjU0VVNnWk5ZR1WCAQthLWRnSldhT29TTYIBC09JeVlBaW0tVThrggELT1JfS3E1dldlRWOCAQtwTGV2a05OY0tRSYIBC2JpeFItS0lKS1lNggELMnI0bWgtVEotSUGCAQtEX0dEV0FzX2cxSYIBC1hxSDJyNXA5RzBJggELT2dNVXVPdEdpTFWCAQtXZkRTNHNSUXRvTYIBC2xJdUotMXZsYWpBggELVVRHaW05cnFiQTiCAQtSWDBZMkpiUzlLNIIBC3ZRZ0dfS1hRWlhrggELQzRQeEVxZ20zOWeCAQt6c2xURDJNcU8wRbIBBgoECBQQAg%3D%3D"
+  },
+  "_retrieved_at": "2026-10-09 10:58:11 UTC"
+}

@@ -160,6 +160,48 @@
       "engine": "youtube",
       "query": "SEO full course for beginners",
       "location": null
+    },
+    {
+      "phase": "C",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "Accounting revision",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "Canva revision",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "Excel revision",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "HTML revision",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "Python revision",
+      "location": null
+    },
+    {
+      "phase": "C",
+      "category": "revision",
+      "engine": "youtube",
+      "query": "Social Media Marketing revision",
+      "location": null
     }
   ],
   "accounts": [
@@ -167,6 +209,16 @@
       "label": "C before",
       "this_month_usage": 0,
       "total_searches_left": 250
+    },
+    {
+      "label": "C5 before",
+      "this_month_usage": 23,
+      "total_searches_left": 227
+    },
+    {
+      "label": "C5 after",
+      "this_month_usage": 28,
+      "total_searches_left": 222
     }
   ]
 }
