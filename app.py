@@ -37,7 +37,7 @@ st.markdown("""<style>
 .hero p {font-size:1.05rem;color:#dbe8ed;margin:0}
 .metric {font-size:2.1rem;font-weight:750;color:#123c41}
 </style>""", unsafe_allow_html=True)
-st.markdown('<div class="hero"><h1>NextSkill</h1><p>Learn the one skill that unlocks the most real jobs, in the least time.</p></div>', unsafe_allow_html=True)
+st.markdown('<div class="hero"><h1>NextSkill</h1><p>Your next skill, counted from local job listings in your city.</p></div>', unsafe_allow_html=True)
 
 try:
     cloud_key = st.secrets.get("SERPAPI_KEY")
@@ -99,7 +99,7 @@ with st.sidebar:
     resume = st.text_area("Paste resume text", default_resume, height=140,
                           key=f"resume_{role.lower().replace(' ', '_')}")
     pdf = st.file_uploader("Or upload a PDF resume", type=["pdf"])
-    manual = st.text_area("Or list skills (comma separated)", "", height=80)
+    manual = st.text_area("Add more skills (comma separated)", "", height=80)
     experience_level = st.selectbox("Experience level", ["Fresher", "1-3 years", "3+ years"],
                                    help="Uses the minimum of each band: 0, 1 or 3 years. Explicit listing requirements take precedence over titles.")
     threshold = st.slider("Match threshold", 0.2, 1.0, DEFAULT_THRESHOLD, 0.05,
@@ -170,7 +170,7 @@ if result:
                f"none stated in {result.get('must_haves_none', 0)}. Other matches still lack an explicit requirement.")
     dates = result["retrieved_dates"]
     snapshot_date = dates[0] if len(dates) == 1 else f"{dates[0]} to {dates[-1]}" if dates else "unknown"
-    st.caption(f"Snapshot date: {snapshot_date} (UTC). A match means your profile covers enough of a listing's core skills; it is not a hiring prediction.")
+    st.caption(f"Snapshot date: {snapshot_date} (UTC). Recommendation confidence: {result['robustness']['label']}. A match means your profile covers enough of a listing's core skills; it is not a hiring prediction.")
     if result["limited_data"]:
         st.warning("Limited data: fewer than 12 distinct jobs were found. Treat the ranking as exploratory.")
     if result["role_fit_warning"]:
@@ -309,12 +309,12 @@ if result:
     if opportunity["hours_unknown"]:
         st.caption("Hours unknown" + (" (live budget reached)" if result.get("budget_reached") else "") + ": " +
                    ", ".join(opportunity["hours_unknown"]) + ". These skills are left out of the hours-based plan.")
-    with st.expander("Greedy plan vs exact budgets"):
+    with st.expander("Greedy plan vs exact among measured skills"):
         st.dataframe([{"Budget": f"{row['budget']} hours", "Greedy jobs gained": row["greedy_gained"],
                        "Exact best jobs gained": row["optimal_gained"],
                        "Greedy / optimal": f"{row['ratio']:.0%}" if row["ratio"] is not None else "No feasible gain"}
                       for row in opportunity["quality"]], width="stretch", hide_index=True)
-        st.caption("The exact check tries every combination of up to eight measurable missing skills; the greedy plan picks the best next jobs-per-hour step.")
+        st.caption("The exact check among measured skills tries every combination of up to eight measurable missing skills; the greedy plan picks the best next jobs-per-hour step.")
     st.markdown("### Skill distance")
     distance = result["distance"]
     distance_labels = {"0": "0 · matches", "1": "1 skill", "2": "2 skills", "3+": "3+ skills", "Unknown": "Unknown"}
@@ -454,7 +454,7 @@ if result:
             st.caption("A prep plan shows what this listing asks for. It does not promise an interview or a job.")
     with st.expander("How this is calculated"):
         st.write("We set aside listings that ask for more experience than the minimum of your selected band: 0, 1 or 3 years. Explicit description requirements override title-based estimates. We ignore negated skill mentions in resumes and job text. Skills are alternatives only where the listing explicitly offers an 'or' or slash choice. Skills found in at least the selected share of eligible listings are core; less common skills are shown as nice to have. Eligible listings pass the experience and date filters. Scored listings also have detected core requirements; others are Unknown. A profile matches a listing when it meets the selected fraction of core requirements. We count additional matches after adding one skill or the suggested pair. Broad umbrella terms can count for matching but are never recommended.")
-        st.write("Course hours are the median length of up to three qualifying free videos. Titles and channel names indicating an unrequested language are excluded; unlabelled videos are not proof of English audio. With fewer than two course-like videos of at least an hour, we fall back to videos of at least 30 minutes and mark low confidence. The displayed range is a rough 25% band, not a measured learning-time interval. The opportunity curve adds the measured skill with the most extra matches per course hour, stopping after five skills or no gain. Exact checks try every subset of up to eight measured candidates at 5, 10 and 15 hours. Confidence uses the lower of bootstrap win share and independent per-skill hour-variation retention across thresholds. The distance chart counts extra skills needed to cross the threshold. Posting age includes elapsed days since retrieval. These estimates do not establish competence or promise a job.")
+        st.write("Course hours are the median length of up to three qualifying free videos. Titles and channel names indicating an unrequested language are excluded; unlabelled videos are not proof of English audio. With fewer than two course-like videos of at least an hour, we fall back to videos of at least 30 minutes and mark low confidence. The displayed range is a rough 25% band, not a measured learning-time interval. The opportunity curve adds the measured skill with the most extra matches per course hour, stopping after five skills or no gain. Exact checks among measured skills try every subset of up to eight measured candidates at 5, 10 and 15 hours. Confidence uses the lower of bootstrap win share and independent per-skill hour-variation retention across thresholds. The distance chart counts extra skills needed to cross the threshold. Posting age includes elapsed days since retrieval. These estimates do not establish competence or promise a job.")
     with st.expander("Search replay"):
         for event in result["replay"]:
             query = event["query"].get("q") or event["query"].get("search_query")

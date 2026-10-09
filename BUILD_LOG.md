@@ -118,3 +118,16 @@ current prose. Archived the original golden file; no results tuned to preserve i
 - Verify: UI exposes both plans and candidate-bound caveat. No live lookup added;
   existing prep uses cache-only clients. Diff reviewed.
 - Record: zero searches.
+
+## B6 - Clear and qualified wording
+
+- Research: additive skills field said Or; headline caveats were separated; exact
+  comparison label omitted its candidate limit.
+- Plan/acceptance: requested local-listings pitch, Add more skills, snapshot and
+  confidence together beside headline, exact among measured skills throughout active UI.
+- Build: updated labels and explanatory text; generated README/DEMO already use
+  local snapshots and qualified exact comparisons.
+- Test: full suite 75 tests passes; active app/README/DEMO grep has no old pitch,
+  today's jobs, Or list skills or unqualified exact-budget heading.
+- Verify: AppTest headline/caption checks pass; historical files retained as history.
+  Diff reviewed. Zero searches.
