@@ -6,6 +6,7 @@ import itertools
 import json
 import math
 import os
+import uuid
 import random
 import re
 import statistics
@@ -80,9 +81,13 @@ def _scrub(value, key: str):
 
 def _write_json(path: Path, data) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    temp = path.with_suffix(".tmp")
-    temp.write_text(json.dumps(data, ensure_ascii=False, indent=2))
-    temp.replace(path)
+    # A unique temp name per write: two reruns writing the same file must not share one temp file.
+    temp = path.with_name(f"{path.stem}.{os.getpid()}.{uuid.uuid4().hex[:8]}.tmp")
+    try:
+        temp.write_text(json.dumps(data, ensure_ascii=False, indent=2))
+        temp.replace(path)
+    finally:
+        temp.unlink(missing_ok=True)
 
 
 def retrieval_date(data: dict) -> date | None:

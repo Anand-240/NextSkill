@@ -405,6 +405,18 @@ class EngineTests(unittest.TestCase):
         self.assertIn("Limited data", stability_note(30, True, True, "Likely", "Uncertain"))
         self.assertIn("standard course confidence", stability_note(30, False, False, "Strong", "Likely"))
 
+    def test_concurrent_writes_to_one_cache_file_do_not_collide(self):
+        import json
+        from concurrent.futures import ThreadPoolExecutor
+        from pathlib import Path
+        from engine import _write_json
+        with tempfile.TemporaryDirectory() as folder:
+            target = Path(folder) / "search_x.json"
+            with ThreadPoolExecutor(8) as pool:
+                list(pool.map(lambda n: [_write_json(target, {"n": n, "pad": "x" * 5000}) for _ in range(40)], range(8)))
+            self.assertIn("n", json.loads(target.read_text()))
+            self.assertEqual([p.name for p in Path(folder).iterdir()], ["search_x.json"])
+
     def test_listing_confidence_boundaries(self):
         self.assertEqual([listing_confidence(n) for n in (0, 11, 12, 24, 25)],
                          ["Low", "Low", "Medium", "Medium", "High"])
