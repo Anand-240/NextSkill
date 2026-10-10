@@ -23,4 +23,4 @@ label cells are filled.
 One row per real participant. `unaided_choice` is what they would learn next before seeing NextSkill,
 `nextskill_choice` is what they would learn after, `changed_choice` is yes or no, `trust_1_to_5` is a whole number.
 Only add a quote with `quote_permission` set to yes. Run `python -m scripts.summarise_user_test` to write
-reports/user_test.md. Empty files produce a "pending" report.
+reports/user_test.md. An empty sheet reports only the informal check by three friends, with no scores.

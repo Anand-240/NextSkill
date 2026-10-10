@@ -185,7 +185,7 @@ python -m scripts.check_consistency        # generated numbers and documents agr
 | Originality | Local job demand combined with free-course length into matches per course hour, with honest pick stability: [How it works](#how-it-works), baseline comparison in [reports/final_report.md](reports/final_report.md) |
 | Technical complexity | Resampling and hour variation in [engine.py](engine.py) (`bootstrap_confidence`, `assess_robustness`); greedy vs exact (`greedy_opportunity`, `exact_opportunity`); must-have parser (`stated_must_haves`, `must_have_status`); caching, budget and redaction (`SerpClient.search`, `_scrub`); [scripts/check_consistency.py](scripts/check_consistency.py); {test_count} tests; [CI](.github/workflows/tests.yml) |
 | Usefulness | One clear next step with linked free courses ([Features](#features)), the Job Prep plan ([job_prep.py](job_prep.py)), and [Tested with users](#tested-with-users) |
-| Meaningful SerpApi usage | [How SerpApi is used](#how-serpapi-is-used); the demo video shows a live search from about 1:32: https://youtu.be/dMH1nPUElMM |
+| Meaningful SerpApi usage | [How SerpApi is used](#how-serpapi-is-used); Demo at 1:32 shows a live Lucknow search; the Account API credit count drops from 131 to 128 ([demo video](https://youtu.be/dMH1nPUElMM)) |
 
 ## Methodology and limitations
 
@@ -236,7 +236,7 @@ Anand ([Anand-240](https://github.com/Anand-240)) and Anjali.
 
 ## AI tools disclosure
 
-We (Anand and Anjali) designed and built NextSkill: the idea, research, data collection, testing with users, product decisions and the demo. AI coding assistants (OpenAI Codex, Claude Code) helped write parts of the code, tests and documentation under our direction, and Claude helped us review plans. The running app does not call an LLM.
+We (Anand and Anjali) designed and built NextSkill: the idea, research, data collection, product decisions and the demo. AI coding assistants (OpenAI Codex, Claude Code) helped write parts of the code, tests and documentation under our direction, and Claude helped us review plans. The running app does not call an LLM.
 
 ## Development timeline
 
@@ -273,7 +273,7 @@ Never show the key.
 | 0:55-1:20 | Job Prep for one listing{(' (' + listing['title'] + ')') if listing else ''}: shortest route ({route}) versus the full plan, revise with short videos, learn with full courses. |
 | 1:20-1:45 | Compare cities, Job-information gap chart. Google Jobs returned {low['listings']} listings for {low['role']} in {low['city']}, but only {low['in_city']} were located there. Fewer local listings means less evidence, and NextSkill flags small samples instead of guessing. |
 | 1:45-2:15 | Live search (local only, budget 3): Search Replay shows what was live and what was cached, the credit counter updates, partial results are handled. |
-| 2:15-2:40 | Honest limits, one sentence each: a match is coverage, not hiring eligibility; samples are small and nearby cities leak in; the user test and independent labels are in progress; the interface is English with Hindi videos preferred on request. |
+| 2:15-2:40 | Honest limits, one sentence each: a match is coverage, not hiring eligibility; samples are small and nearby cities leak in; the user check was informal with no scores and independent labels are in progress; the interface is English with Hindi videos preferred on request. |
 
 The video must be under three minutes, show the local app, and open without sign-in.
 This file is a script, not evidence that a public video has been submitted.

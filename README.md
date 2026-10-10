@@ -78,7 +78,7 @@ flowchart TD
 
 ## Tested with users
 
-- User test: In progress. The user test has no results yet, so no figure is claimed.
+- User test: Informal check: three friends tried the app and said it was useful. Structured feedback was not collected, so we report no scores.
 - Hand-labelled accuracy: In progress. The hand-labelled evaluation has no results yet, so no figure is claimed.
 
 The only accuracy check so far was written by the developer: Precision before: 80.0% (16/20). Precision after: 100.0% on retained sampled matches. The matching rules were changed after
@@ -131,7 +131,7 @@ python -m scripts.check_consistency        # generated numbers and documents agr
 | Originality | Local job demand combined with free-course length into matches per course hour, with honest pick stability: [How it works](#how-it-works), baseline comparison in [reports/final_report.md](reports/final_report.md) |
 | Technical complexity | Resampling and hour variation in [engine.py](engine.py) (`bootstrap_confidence`, `assess_robustness`); greedy vs exact (`greedy_opportunity`, `exact_opportunity`); must-have parser (`stated_must_haves`, `must_have_status`); caching, budget and redaction (`SerpClient.search`, `_scrub`); [scripts/check_consistency.py](scripts/check_consistency.py); 127 tests; [CI](.github/workflows/tests.yml) |
 | Usefulness | One clear next step with linked free courses ([Features](#features)), the Job Prep plan ([job_prep.py](job_prep.py)), and [Tested with users](#tested-with-users) |
-| Meaningful SerpApi usage | [How SerpApi is used](#how-serpapi-is-used); the demo video shows a live search from about 1:32: https://youtu.be/dMH1nPUElMM |
+| Meaningful SerpApi usage | [How SerpApi is used](#how-serpapi-is-used); Demo at 1:32 shows a live Lucknow search; the Account API credit count drops from 131 to 128 ([demo video](https://youtu.be/dMH1nPUElMM)) |
 
 ## Methodology and limitations
 
@@ -182,7 +182,7 @@ Anand ([Anand-240](https://github.com/Anand-240)) and Anjali.
 
 ## AI tools disclosure
 
-We (Anand and Anjali) designed and built NextSkill: the idea, research, data collection, testing with users, product decisions and the demo. AI coding assistants (OpenAI Codex, Claude Code) helped write parts of the code, tests and documentation under our direction, and Claude helped us review plans. The running app does not call an LLM.
+We (Anand and Anjali) designed and built NextSkill: the idea, research, data collection, product decisions and the demo. AI coding assistants (OpenAI Codex, Claude Code) helped write parts of the code, tests and documentation under our direction, and Claude helped us review plans. The running app does not call an LLM.
 
 ## Development timeline
 

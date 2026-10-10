@@ -139,6 +139,8 @@ class SiteTests(unittest.TestCase):
         app = self.open("views/methods.py")
         text = "\n".join(item.value for item in app.markdown)
         self.assertIn("Status: in progress", text)
+        self.assertIn("Informal check: three friends tried the app and said it was useful. "
+                      "Structured feedback was not collected, so we report no scores.", text)
         self.assertIn("developer", text)
 
     def test_live_page_is_unavailable_without_a_key(self):

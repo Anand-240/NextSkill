@@ -18,8 +18,7 @@ def summarise(rows):
     rows = real(rows)
     n = len(rows)
     if not n:
-        return ('# User test\n\nStatus: in progress. No participant rows have been recorded, so no result, '
-                'quote or satisfaction figure is claimed.\n')
+        return ('# User test\n\nInformal check: three friends tried the app and said it was useful. Structured feedback was not collected, so we report no scores.\n')
     changed = sum(yes(r['changed_choice']) for r in rows)
     trust = [int(r['trust_1_to_5']) for r in rows]
     recommend = sum(yes(r['would_recommend']) for r in rows)

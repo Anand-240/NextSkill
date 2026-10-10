@@ -55,7 +55,8 @@ class EvaluationKitTests(unittest.TestCase):
         self.assertIn('Helpful', text)
         self.assertNotIn('Private remark', text)
         self.assertNotIn('ignored', text)
-        self.assertIn('in progress', summarise_user_test.summarise([]))
+        self.assertIn('Informal check: three friends tried the app', summarise_user_test.summarise([]))
+        self.assertIn('we report no scores', summarise_user_test.summarise([]))
 
     def test_label_template_has_no_labels_and_no_contact_data(self):
         from scripts.build_data import EMAIL, PHONE
