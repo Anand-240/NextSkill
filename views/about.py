@@ -22,7 +22,9 @@ st.write("Job listings come from Google Jobs and course videos from YouTube, bot
 st.markdown("### Licence")
 st.write("The code is released under the MIT licence, which does not cover third-party listing or video content. "
          "Source: [github.com/Anand-240/NextSkill](https://github.com/Anand-240/NextSkill).")
-st.markdown("### AI tools used")
+st.markdown("### Team")
+st.write("NextSkill was built by Anand and Anjali.")
+st.markdown("### AI tools disclosure")
 readme = (ROOT / "README.md").read_text()
-match = re.search(r"^## AI tools used\n+(.*?)\Z", readme, re.S | re.M)
-st.write(match.group(1).strip() if match else "AI coding assistants helped build this project.")
+match = re.search(r"^## AI tools disclosure\n+(.*?)(?=^## |\Z)", readme, re.S | re.M)
+st.write(match.group(1).strip() if match else "AI coding assistants helped write parts of the code, tests and documentation. The running app does not call an LLM.")
