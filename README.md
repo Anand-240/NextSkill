@@ -32,7 +32,7 @@ The hosted app runs on saved SerpApi responses so it stays free and safe to shar
 | Saved markets | 15 role and city pairs across 10 cities, 163 scored listings |
 | Main finding | Only 3 of 28 listings for Accountant in Dehradun were located there, against 27 of 28 for Data Analyst in Jaipur |
 | SerpApi engines | Google Jobs, YouTube, Account API |
-| Early feedback | 4.33 out of 5 from 3 friends (informal check) |
+| Early feedback | 4.33 out of 5 from 3 friends |
 | Quality checks | 128 offline tests and a consistency check, run by CI on every push |
 | Needs a key to try | No: the hosted app and local app run on saved data |
 
