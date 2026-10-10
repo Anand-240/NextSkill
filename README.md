@@ -28,7 +28,7 @@ Watch the 2:49 demo: https://youtu.be/dMH1nPUElMM
 | Main finding | Only 3 of 28 listings for Accountant in Dehradun were located there, against 27 of 28 for Data Analyst in Jaipur |
 | SerpApi engines | Google Jobs, YouTube, Account API |
 | Early feedback | 4.33 out of 5 from 3 friends (informal, not a study) |
-| Quality checks | 127 offline tests and a consistency check, run by CI on every push |
+| Quality checks | 128 offline tests and a consistency check, run by CI on every push |
 | Needs a key to try | No: the hosted app and local app run on saved data |
 
 ## The problem
@@ -152,7 +152,7 @@ and `cache/` are ignored by git. PDF resumes need selectable text; scanned PDFs 
 Run tests (all offline, no key needed):
 
 ```sh
-python -m unittest discover -s tests -q    # 127 tests
+python -m unittest discover -s tests -q    # 128 tests
 python -m scripts.check_consistency        # generated numbers and documents agree
 ```
 
@@ -162,7 +162,7 @@ python -m scripts.check_consistency        # generated numbers and documents agr
 |---|---|
 | Idea strength | One question, which ONE skill to learn next, answered by counting, and the job-information gap: [What we found](#what-we-found) |
 | Originality | Local job demand combined with free-course length into matches per course hour, with honest pick stability: [How it works](#how-it-works), baseline comparison in [reports/final_report.md](reports/final_report.md) |
-| Technical complexity | Resampling and hour variation in [engine.py](engine.py) (`bootstrap_confidence`, `assess_robustness`); greedy vs exact (`greedy_opportunity`, `exact_opportunity`); must-have parser (`stated_must_haves`, `must_have_status`); caching, budget and redaction (`SerpClient.search`, `_scrub`); [scripts/check_consistency.py](scripts/check_consistency.py); 127 tests; [CI](.github/workflows/tests.yml) |
+| Technical complexity | Resampling and hour variation in [engine.py](engine.py) (`bootstrap_confidence`, `assess_robustness`); greedy vs exact (`greedy_opportunity`, `exact_opportunity`); must-have parser (`stated_must_haves`, `must_have_status`); caching, budget and redaction (`SerpClient.search`, `_scrub`); [scripts/check_consistency.py](scripts/check_consistency.py); 128 tests; [CI](.github/workflows/tests.yml) |
 | Usefulness | One clear next step with linked free courses ([Features](#features)), the Job Prep plan ([job_prep.py](job_prep.py)), and [Tested with users](#tested-with-users) |
 | Meaningful SerpApi usage | [How SerpApi is used](#how-serpapi-is-used); Demo at 1:32 shows a live Lucknow search; the Account API credit count drops from 131 to 128 ([demo video](https://youtu.be/dMH1nPUElMM)) |
 

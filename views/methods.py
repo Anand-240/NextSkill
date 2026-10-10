@@ -26,7 +26,6 @@ def body(path: str) -> str:
     return re.sub(r"\A# .*\n+", "", read(path)).strip()
 
 
-common.language_bar()
 st.header("Methodology and evidence")
 st.markdown("### What the numbers mean")
 st.markdown("""

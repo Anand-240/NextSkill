@@ -12,7 +12,6 @@ pairs = common.pairs()
 labels = [common.pair_label(pair) for pair in pairs]
 default_key = findings.example_key(results)
 
-common.language_bar()
 st.markdown('<p class="kicker">For freshers across India</p>'
             '<h1 class="display">Which job are you <span class="mark">one skill</span> away from?</h1>',
             unsafe_allow_html=True)

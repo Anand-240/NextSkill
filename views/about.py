@@ -3,11 +3,8 @@ import re
 
 import streamlit as st
 
-from views import common
-
 from engine import ROOT
 
-common.language_bar()
 st.header("About and privacy")
 st.markdown("### What happens to your resume")
 st.write("Pasted text and uploaded PDFs are read in memory by this app to find skill names. The PDF is parsed with pypdf in memory "

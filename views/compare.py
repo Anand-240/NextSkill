@@ -8,7 +8,6 @@ import findings
 from scripts.build_results import summary
 from views import common
 
-common.language_bar()
 st.header("Compare cities")
 by_role: dict[str, list[dict]] = {}
 for pair in common.pairs():

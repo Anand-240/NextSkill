@@ -97,6 +97,14 @@ class SiteTests(unittest.TestCase):
         for old in ("today's jobs", "Or list skills"):
             self.assertNotIn(old, page)
 
+    def test_hindi_switch_only_on_pages_where_it_changes_something(self):
+        for page in ("views/find.py", "views/prep.py"):
+            with self.subTest(page=page):
+                self.assertEqual(len(self.open(page).toggle), 1)
+        for page in (None, "views/compare.py", "views/methods.py", "views/about.py"):
+            with self.subTest(page=page):
+                self.assertEqual(len(self.open(page).toggle), 0)
+
     def test_opportunity_curve_says_which_skills_it_leaves_out(self):
         app = self.open("views/find.py")
         captions = [item.value for item in app.caption]
