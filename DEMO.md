@@ -11,7 +11,7 @@ Never show the key.
 | 0:55-1:20 | Job Prep for one listing (Frontend Developer (Fresher)): shortest route (REST API) versus the full plan, revise with short videos, learn with full courses. |
 | 1:20-1:45 | Compare cities, Job-information gap chart. Google Jobs returned 28 listings for Accountant in Dehradun, but only 3 were located there. Fewer local listings means less evidence, and NextSkill flags small samples instead of guessing. |
 | 1:45-2:15 | Live search (local only, budget 3): Search Replay shows what was live and what was cached, the credit counter updates, partial results are handled. |
-| 2:15-2:40 | Honest limits, one sentence each: a match is coverage, not hiring eligibility; samples are small and nearby cities leak in; the user check was informal with no scores and independent labels are in progress; the interface is English with Hindi videos preferred on request. |
+| 2:15-2:40 | Honest limits, one sentence each: a match is coverage, not hiring eligibility; samples are small and nearby cities leak in; the user check was informal (a few friends), not a study, and independent labels are in progress; the interface is English with Hindi videos preferred on request. |
 
 The video must be under three minutes, show the local app, and open without sign-in.
 This file is a script, not evidence that a public video has been submitted.

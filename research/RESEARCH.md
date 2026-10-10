@@ -123,4 +123,4 @@ What NextSkill adds, stated narrowly: it counts, for one role in one chosen city
 extra listings a single missing skill would turn into matches, divides by the length of free YouTube courses,
 and links the listings and videos behind each count. It also shows how stable that pick is under resampling.
 It does not replace counselling, does not search every vacancy, covers a small number of saved markets,
-and its benefit to a job seeker is unmeasured (only an informal check with three friends, no scores). We make no claim that nothing similar exists.
+and its benefit to a job seeker is unmeasured (only an informal check with three friends, not a study). We make no claim that nothing similar exists.

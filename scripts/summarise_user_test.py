@@ -2,6 +2,7 @@
 
 Only rows with a participant id and a trust score count. Quotes appear only with quote_permission = yes."""
 import csv
+import json
 import sys
 from pathlib import Path
 from engine import ROOT
@@ -14,11 +15,28 @@ def real(rows):
 def yes(value):
     return (value or '').strip().casefold() in {'yes', 'y', 'true', '1'}
 
+def informal_stats():
+    """Participant count and average rating of the informal check, from evaluation/informal_feedback.json."""
+    data = json.loads((ROOT / 'evaluation/informal_feedback.json').read_text())
+    ratings = data['ratings_out_of_5']
+    return {'participants': data['participants'], 'average': sum(ratings) / len(ratings), 'ratings': ratings, 'data': data}
+
+
+def informal_text():
+    """The informal check the team reported, read from evaluation/informal_feedback.json."""
+    stats = informal_stats()
+    data, ratings = stats['data'], stats['ratings']
+    listed = ', '.join(str(r) for r in ratings[:-1]) + f' and {ratings[-1]}'
+    return (f"Informal check: {data['participants']} friends ({data['profile']}) tried NextSkill and rated it "
+            f"{sum(ratings) / len(ratings):.2f} out of 5 on average (individual ratings {listed}). They said it was {data['said']}, "
+            f"and their main suggestion was {data['main_suggestion']}. This was not a structured study, so we report no further scores.")
+
+
 def summarise(rows):
     rows = real(rows)
     n = len(rows)
     if not n:
-        return ('# User test\n\nInformal check: three friends tried the app and said it was useful. Structured feedback was not collected, so we report no scores.\n')
+        return '# User test\n\n' + informal_text() + '\n'
     changed = sum(yes(r['changed_choice']) for r in rows)
     trust = [int(r['trust_1_to_5']) for r in rows]
     recommend = sum(yes(r['would_recommend']) for r in rows)

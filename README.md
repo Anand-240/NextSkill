@@ -6,6 +6,8 @@
 
 [Demo video](https://youtu.be/dMH1nPUElMM) · [Live app (saved data)](https://nextskill.streamlit.app) · [Methodology](#methodology-and-limitations)
 
+Built for the SerpApi India Hackathon 2026, Knowledge & Public Interest track, by Anand and Anjali.
+
 ## In 30 seconds
 
 - **Problem:** a fresher reads job listings that each ask for many skills, and cannot tell which ONE to learn next.
@@ -17,6 +19,17 @@
 ![Job match answer: Learn REST API next](docs/screenshots/02_match.png)
 
 Watch the 2:49 demo: https://youtu.be/dMH1nPUElMM
+
+## At a glance
+
+| | |
+|---|---|
+| Saved markets | 15 role and city pairs across 10 cities, 163 scored listings |
+| Main finding | Only 3 of 28 listings for Accountant in Dehradun were located there, against 27 of 28 for Data Analyst in Jaipur |
+| SerpApi engines | Google Jobs, YouTube, Account API |
+| Early feedback | 4.33 out of 5 from 3 friends (informal, not a study) |
+| Quality checks | 127 offline tests and a consistency check, run by CI on every push |
+| Needs a key to try | No: the hosted app and local app run on saved data |
 
 ## The problem
 
@@ -61,6 +74,12 @@ flowchart TD
   for skills you have and full courses for skills you lack.
 - **Compare cities:** the same profile across saved cities, plus the job-information gap.
 
+## Screenshots
+
+| Home | Job Prep |
+|---|---|
+| ![Home: headline numbers for a sample profile](docs/screenshots/01_home.png) | ![Job Prep: shortest route and full plan](docs/screenshots/03_prep.png) |
+
 ## How SerpApi is used
 
 | Engine | What we request | Feature that depends on it | Without it |
@@ -78,7 +97,10 @@ flowchart TD
 
 ## Tested with users
 
-- User test: Informal check: three friends tried the app and said it was useful. Structured feedback was not collected, so we report no scores.
+**Early feedback.** Informal check: 3 friends (students and freshers) tried NextSkill and rated it 4.33 out of 5 on average (individual ratings 4, 4 and 5). They said it was useful, and their main suggestion was a mobile app, since most freshers look for jobs on their phones. This was not a structured study, so we report no further scores.
+
+- Ratings are recorded in [evaluation/informal_feedback.json](evaluation/informal_feedback.json). Three friendly raters are
+  early feedback, not evidence of accuracy or learning outcomes.
 - Hand-labelled accuracy: In progress. The hand-labelled evaluation has no results yet, so no figure is claimed.
 
 The only accuracy check so far was written by the developer: Precision before: 80.0% (16/20). Precision after: 100.0% on retained sampled matches. The matching rules were changed after
@@ -98,6 +120,17 @@ and a user-test sheet are in [evaluation/](evaluation/README.md).
 - **Methodology and evidence:** what the numbers mean, the jobs-per-hour comparison, validation, user test, limitations, sources.
 - **About and privacy:** what happens to a resume, data sources, licence and AI tools.
 - **Prefer Hindi videos:** a switch that prefers Hindi videos where they pass the same filters; the interface is English.
+
+## What's next
+
+Based on the early feedback, the next step is a mobile app. The site already fits a phone screen (checked at 390 px wide);
+a dedicated mobile app is the step after that. Then:
+
+- Search any city without needing your own SerpApi key (a hosted live mode with a rate-limited key).
+- Simple Hindi and English answers, with human-reviewed Hindi labels (today the interface is English and only videos can be Hindi).
+- Saved progress and weekly alerts for new matching jobs.
+- Independent hand labels and a structured user test.
+- NPTEL and SWAYAM courses, once a reliable source exists.
 
 ## Quick start
 

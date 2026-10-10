@@ -7,6 +7,7 @@ from engine import hours_text
 from findings import (baseline_text, compact_table, example_key, example_text, flag_text, gap_sentence, gap_table,
                       key_findings, map_table)
 from personas import personas
+from scripts.summarise_user_test import informal_stats
 ROOT = Path(__file__).resolve().parents[1]
 TIER2 = {"Jaipur", "Indore", "Kochi", "Dehradun"}
 
@@ -52,6 +53,11 @@ def render(data):
     findings = "\n".join(f"- {line}" for line in key_findings(data)) + "\n"
     snapshots = ", ".join(sorted({day for row in gap["rows"] for day in row["snapshot_dates"]}))
     test_count = count_tests()
+    cities = {row["city"] for row in pairs.values()}
+    scored_total = sum(row["scored"] for row in pairs.values())
+    ratio = lambda row: (row["in_city"] / row["listings"], row["role"], row["city"])
+    gap_low, gap_high = min(gap["rows"], key=ratio), max(gap["rows"], key=ratio)
+    check = informal_stats()
     readme = f"""# NextSkill: your next skill, counted from real local job listings.
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](requirements.txt)
@@ -59,6 +65,8 @@ def render(data):
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 [Demo video](https://youtu.be/dMH1nPUElMM) · [Live app (saved data)](https://nextskill.streamlit.app) · [Methodology](#methodology-and-limitations)
+
+Built for the SerpApi India Hackathon 2026, Knowledge & Public Interest track, by Anand and Anjali.
 
 ## In 30 seconds
 
@@ -71,6 +79,17 @@ def render(data):
 ![Job match answer: Learn REST API next](docs/screenshots/02_match.png)
 
 Watch the 2:49 demo: https://youtu.be/dMH1nPUElMM
+
+## At a glance
+
+| | |
+|---|---|
+| Saved markets | {len(pairs)} role and city pairs across {len(cities)} cities, {scored_total} scored listings |
+| Main finding | Only {gap_low["in_city"]} of {gap_low["listings"]} listings for {gap_low["role"]} in {gap_low["city"]} were located there, against {gap_high["in_city"]} of {gap_high["listings"]} for {gap_high["role"]} in {gap_high["city"]} |
+| SerpApi engines | Google Jobs, YouTube, Account API |
+| Early feedback | {check["average"]:.2f} out of 5 from {check["participants"]} friends (informal, not a study) |
+| Quality checks | {test_count} offline tests and a consistency check, run by CI on every push |
+| Needs a key to try | No: the hosted app and local app run on saved data |
 
 ## The problem
 
@@ -115,6 +134,12 @@ flowchart TD
   for skills you have and full courses for skills you lack.
 - **Compare cities:** the same profile across saved cities, plus the job-information gap.
 
+## Screenshots
+
+| Home | Job Prep |
+|---|---|
+| ![Home: headline numbers for a sample profile](docs/screenshots/01_home.png) | ![Job Prep: shortest route and full plan](docs/screenshots/03_prep.png) |
+
 ## How SerpApi is used
 
 | Engine | What we request | Feature that depends on it | Without it |
@@ -132,7 +157,10 @@ flowchart TD
 
 ## Tested with users
 
-- User test: {evidence_text("reports/user_test.md", "The user test")}
+**Early feedback.** {evidence_text("reports/user_test.md", "The user test")}
+
+- Ratings are recorded in [evaluation/informal_feedback.json](evaluation/informal_feedback.json). Three friendly raters are
+  early feedback, not evidence of accuracy or learning outcomes.
 - Hand-labelled accuracy: {evidence_text("reports/hand_label_eval.md", "The hand-labelled evaluation")}
 
 The only accuracy check so far was written by the developer: {audit_sentence()} The matching rules were changed after
@@ -152,6 +180,17 @@ and a user-test sheet are in [evaluation/](evaluation/README.md).
 - **Methodology and evidence:** what the numbers mean, the jobs-per-hour comparison, validation, user test, limitations, sources.
 - **About and privacy:** what happens to a resume, data sources, licence and AI tools.
 - **Prefer Hindi videos:** a switch that prefers Hindi videos where they pass the same filters; the interface is English.
+
+## What's next
+
+Based on the early feedback, the next step is a mobile app. The site already fits a phone screen (checked at 390 px wide);
+a dedicated mobile app is the step after that. Then:
+
+- Search any city without needing your own SerpApi key (a hosted live mode with a rate-limited key).
+- Simple Hindi and English answers, with human-reviewed Hindi labels (today the interface is English and only videos can be Hindi).
+- Saved progress and weekly alerts for new matching jobs.
+- Independent hand labels and a structured user test.
+- NPTEL and SWAYAM courses, once a reliable source exists.
 
 ## Quick start
 
@@ -273,7 +312,7 @@ Never show the key.
 | 0:55-1:20 | Job Prep for one listing{(' (' + listing['title'] + ')') if listing else ''}: shortest route ({route}) versus the full plan, revise with short videos, learn with full courses. |
 | 1:20-1:45 | Compare cities, Job-information gap chart. Google Jobs returned {low['listings']} listings for {low['role']} in {low['city']}, but only {low['in_city']} were located there. Fewer local listings means less evidence, and NextSkill flags small samples instead of guessing. |
 | 1:45-2:15 | Live search (local only, budget 3): Search Replay shows what was live and what was cached, the credit counter updates, partial results are handled. |
-| 2:15-2:40 | Honest limits, one sentence each: a match is coverage, not hiring eligibility; samples are small and nearby cities leak in; the user check was informal with no scores and independent labels are in progress; the interface is English with Hindi videos preferred on request. |
+| 2:15-2:40 | Honest limits, one sentence each: a match is coverage, not hiring eligibility; samples are small and nearby cities leak in; the user check was informal (a few friends), not a study, and independent labels are in progress; the interface is English with Hindi videos preferred on request. |
 
 The video must be under three minutes, show the local app, and open without sign-in.
 This file is a script, not evidence that a public video has been submitted.
