@@ -20,6 +20,8 @@ Built for the SerpApi India Hackathon 2026, Knowledge & Public Interest track, b
 
 Watch the 2:49 demo: https://youtu.be/dMH1nPUElMM
 
+The hosted app runs on saved SerpApi responses so it stays free and safe to share; live search runs locally with your own SerpApi key, as shown in the demo at 1:32.
+
 ## At a glance
 
 | | |
