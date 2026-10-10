@@ -8,6 +8,9 @@
 
 Built for the SerpApi India Hackathon 2026, Knowledge & Public Interest track, by Anand and Anjali.
 
+NextSkill turns a city's real job listings into one clear next step for a fresher: the missing skill that opens the most
+matching local listings per hour of free course, with every number linked to the listing or video behind it.
+
 ## In 30 seconds
 
 - **Problem:** a fresher reads job listings that each ask for many skills, and cannot tell which ONE to learn next.
@@ -29,9 +32,18 @@ The hosted app runs on saved SerpApi responses so it stays free and safe to shar
 | Saved markets | 15 role and city pairs across 10 cities, 163 scored listings |
 | Main finding | Only 3 of 28 listings for Accountant in Dehradun were located there, against 27 of 28 for Data Analyst in Jaipur |
 | SerpApi engines | Google Jobs, YouTube, Account API |
-| Early feedback | 4.33 out of 5 from 3 friends (informal, not a study) |
+| Early feedback | 4.33 out of 5 from 3 friends (informal check) |
 | Quality checks | 128 offline tests and a consistency check, run by CI on every push |
 | Needs a key to try | No: the hosted app and local app run on saved data |
+
+## Why NextSkill stands out
+
+- **Counted, not guessed.** Each answer is a count over the saved listings for one role in one city, not a national trend.
+- **Every number is checkable.** Each count links to the listings and the free courses behind it.
+- **Honest about confidence.** A stability label from resampling and hour variation, plus a greedy-versus-exact check, says how far to trust the pick.
+- **Shows what a city's data hides.** The job-information gap: 3 of 28 listings located in Dehradun for Accountant, against 27 of 28 in Jaipur for Data Analyst.
+- **From answer to plan.** Job Prep turns one listing into a shortest route and a full plan.
+- **Free to try.** The hosted app runs on saved data and needs no key.
 
 ## The problem
 
@@ -97,18 +109,18 @@ flowchart TD
   repository history was scanned for the key.
 - Google web search was tried for NPTEL and SWAYAM pages and dropped; nothing depends on it. This build recorded 106 SerpApi search attempts (61 Google Jobs, 37 YouTube, 8 Google web search) in reports/build_usage.json; the Account API figures are in docs/BUILD_LOG.md.
 
-## Tested with users
+## Feedback from friends
 
-**Early feedback.** Informal check: 3 friends (students and freshers) tried NextSkill and rated it 4.33 out of 5 on average (individual ratings 4, 4 and 5). They said it was useful, and their main suggestion was a mobile app, since most freshers look for jobs on their phones. This was not a structured study, so we report no further scores.
+Informal check: 3 friends (students and freshers) tried NextSkill and rated it 4.33 out of 5 on average (individual ratings 4, 4 and 5). They said it was useful, and their main suggestion was a mobile app, since most freshers look for jobs on their phones. This was not a structured study, so we report no further scores.
 
-- Ratings are recorded in [evaluation/informal_feedback.json](evaluation/informal_feedback.json). Three friendly raters are
-  early feedback, not evidence of accuracy or learning outcomes.
-- Hand-labelled accuracy: In progress. The hand-labelled evaluation has no results yet, so no figure is claimed.
+Their suggestion shaped the roadmap: see [Friend suggestions and future updates](#friend-suggestions-and-future-updates). The
+ratings are recorded in [evaluation/informal_feedback.json](evaluation/informal_feedback.json).
 
-The only accuracy check so far was written by the developer: Precision before: 80.0% (16/20). Precision after: 100.0% on retained sampled matches. The matching rules were changed after
-seeing those 20 matches, so the second figure is not an independent measure and recall was not measured
-([matcher audit](reports/matcher_audit.md), [initial API validation](reports/validation_check.md)). A 20-listing labelling kit
-and a user-test sheet are in [evaluation/](evaluation/README.md).
+**Checks behind the matching.** On a 20-match sample reviewed by the developer: Precision before: 80.0% (16/20). Precision after: 100.0% on retained sampled matches. The matching rules were
+changed after seeing that sample, so this is a development check rather than an independent measure, and recall was not
+measured ([matcher audit](reports/matcher_audit.md), [initial API validation](reports/validation_check.md)). An independent
+20-listing hand-labelling kit is ready in [evaluation/](evaluation/README.md). Hand-labelled accuracy:
+In progress. The hand-labelled evaluation has no results yet, so no figure is claimed.
 
 ## Features
 
@@ -121,18 +133,18 @@ and a user-test sheet are in [evaluation/](evaluation/README.md).
   hidden without a key).
 - **Methodology and evidence:** what the numbers mean, the jobs-per-hour comparison, validation, user test, limitations, sources.
 - **About and privacy:** what happens to a resume, data sources, licence and AI tools.
-- **Prefer Hindi videos:** a switch that prefers Hindi videos where they pass the same filters; the interface is English.
+- **Prefer Hindi videos:** a switch on Job match, Job Prep and Live search that prefers Hindi videos where they pass the same filters; the interface is English.
 
-## What's next
+## Friend suggestions and future updates
 
-Based on the early feedback, the next step is a mobile app. The site already fits a phone screen (checked at 390 px wide);
-a dedicated mobile app is the step after that. Then:
-
-- Search any city without needing your own SerpApi key (a hosted live mode with a rate-limited key).
-- Simple Hindi and English answers, with human-reviewed Hindi labels (today the interface is English and only videos can be Hindi).
-- Saved progress and weekly alerts for new matching jobs.
-- Independent hand labels and a structured user test.
-- NPTEL and SWAYAM courses, once a reliable source exists.
+| Update | Where it comes from | Status |
+|---|---|---|
+| Mobile app | Friend suggestion: most freshers look for jobs on their phones | Next step; the site already fits a phone screen (checked at 390 px wide) |
+| Search any city without your own SerpApi key | Future update: a hosted live mode with a rate-limited key | Planned |
+| Simple Hindi and English answers | Future update: human-reviewed Hindi labels (today the interface is English and only videos can be Hindi) | Planned |
+| Saved progress and weekly alerts for new matching jobs | Future update | Planned |
+| Independent hand labels and a structured user test | Future update | Planned |
+| NPTEL and SWAYAM courses | Future update, once a reliable source exists | Planned |
 
 ## Quick start
 
@@ -165,7 +177,7 @@ python -m scripts.check_consistency        # generated numbers and documents agr
 | Idea strength | One question, which ONE skill to learn next, answered by counting, and the job-information gap: [What we found](#what-we-found) |
 | Originality | Local job demand combined with free-course length into matches per course hour, with honest pick stability: [How it works](#how-it-works), baseline comparison in [reports/final_report.md](reports/final_report.md) |
 | Technical complexity | Resampling and hour variation in [engine.py](engine.py) (`bootstrap_confidence`, `assess_robustness`); greedy vs exact (`greedy_opportunity`, `exact_opportunity`); must-have parser (`stated_must_haves`, `must_have_status`); caching, budget and redaction (`SerpClient.search`, `_scrub`); [scripts/check_consistency.py](scripts/check_consistency.py); 128 tests; [CI](.github/workflows/tests.yml) |
-| Usefulness | One clear next step with linked free courses ([Features](#features)), the Job Prep plan ([job_prep.py](job_prep.py)), and [Tested with users](#tested-with-users) |
+| Usefulness | One clear next step with linked free courses ([Features](#features)), the Job Prep plan ([job_prep.py](job_prep.py)), and [Feedback from friends](#feedback-from-friends) |
 | Meaningful SerpApi usage | [How SerpApi is used](#how-serpapi-is-used); Demo at 1:32 shows a live Lucknow search; the Account API credit count drops from 131 to 128 ([demo video](https://youtu.be/dMH1nPUElMM)) |
 
 ## Methodology and limitations
@@ -173,9 +185,9 @@ python -m scripts.check_consistency        # generated numbers and documents agr
 - **Match:** the profile covers at least the selected share (default 50%) of a listing's core skills.
   A core skill is one asked for by at least 25% of the scored listings. A match is not hiring eligibility.
 - **Course hours:** the median length of up to three free videos whose title names the skill. It is not time to mastery.
-- **Small samples:** each market is a few dozen saved listings in one city. Pick stability is Strong in 0, Likely in 3 and Uncertain in 12 markets; 8 markets are flagged as limited data. The example profile matched between 0% (Data Analyst, Indore) and 55% (Frontend Developer, Hyderabad) of scored listings.
+- **Sample size is stated, not hidden:** each market is a few dozen saved listings in one city, so every answer carries a stability label. Pick stability is Strong in 0, Likely in 3 and Uncertain in 12 markets; 8 markets are flagged as limited data. The example profile matched between 0% (Data Analyst, Indore) and 55% (Frontend Developer, Hyderabad) of scored listings.
 - **Nearby cities:** Google Jobs returns listings from other places for a city search; every market counts these and says so.
-- **Not a prediction:** nothing here measures learning or hiring outcomes.
+- **Not a prediction:** NextSkill counts what listings ask for; it does not measure learning or hiring outcomes.
 - Skill vocabulary covers tech, data, marketing, finance and design; required versus preferred wording is parsed imperfectly.
 
 Full definitions are on the Methodology and evidence page of the app and in [docs/BUILD_LOG.md](docs/BUILD_LOG.md).
