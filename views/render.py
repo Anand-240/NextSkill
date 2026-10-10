@@ -253,6 +253,7 @@ def render_plan(result: dict) -> None:
     text = alt.Chart(data).mark_text(dy=-14).encode(x="hours:Q", y="matches:Q", text="label:N")
     st.altair_chart(line + text, width="stretch")
     st.caption("Each point shows how many listings would match after learning the named skill; course length is only a study-time estimate.")
+    st.caption("The curve uses only skills with known course hours; skills marked Unavailable are left out.")
     if steps:
         st.dataframe([{"Step": step["step"], "Skill": names.get(step["skill"], step["skill"]),
                        "Course length": hours_text(step["hours"]), "Matches gained": step["jobs_gained"],

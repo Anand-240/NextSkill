@@ -97,6 +97,11 @@ class SiteTests(unittest.TestCase):
         for old in ("today's jobs", "Or list skills"):
             self.assertNotIn(old, page)
 
+    def test_opportunity_curve_says_which_skills_it_leaves_out(self):
+        app = self.open("views/find.py")
+        captions = [item.value for item in app.caption]
+        self.assertIn("The curve uses only skills with known course hours; skills marked Unavailable are left out.", captions)
+
     def test_job_prep_defaults_to_the_listing_in_the_results_file(self):
         app = self.open("views/prep.py")
         for pair in common.pairs():
